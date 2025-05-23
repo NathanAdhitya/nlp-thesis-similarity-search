@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 from scholarly import scholarly
 from scholarly import ProxyGenerator
 import csv
+import json  # Add json module import
 
 # Set up proxy generator
 pg = ProxyGenerator()
@@ -12,7 +13,7 @@ success = pg.FreeProxies()
 if not success:
     print("Error: Failed to set up proxy generator.")
     exit()
-# scholarly.use_proxy(pg)
+scholarly.use_proxy(pg)
 
 # Load environment variables
 load_dotenv()
@@ -53,67 +54,53 @@ def scrape_author_publications():
             try:
                 print(f"Processing author {idx}/{total_authors}: {author_id}")
                 
+                # Check if file already exists with more than 200 entries
+                output_file = os.path.join(publications_dir, f"{author_id}.jsonl")
+                if os.path.exists(output_file):
+                    # Count lines in the file to determine number of entries
+                    with open(output_file, "r", encoding="utf-8") as f:
+                        line_count = sum(1 for _ in f)
+                    
+                    if line_count > 100:
+                        print(f"Skipping author {author_id}: already has {line_count} entries")
+                        continue
+                    else:
+                        print(f"File exists with {line_count} entries, but below threshold. Processing...")
+                
                 # Get author data
                 author = scholarly.search_author_id(author_id)
                 
                 # Fill author data with publications
-                author_data = scholarly.fill(author, sections=['publications']) # type: ignore
+                author_data = scholarly.fill(author, sections=['publications'], sortby="year") # type: ignore
                 
                 if not author_data.get('publications'):
                     print(f"No publications found for author {author_id}")
                     continue
                 
                 # Prepare output file
-                output_file = os.path.join(publications_dir, f"{author_id}.csv")
-                all_fields = set()
-                all_fields.add("bib_publisher")
+                output_file = os.path.join(publications_dir, f"{author_id}.jsonl")  # Changed to .jsonl extension for JSON Lines format
                 
-                with open(output_file, "w", newline="", encoding="utf-8") as f:
-                    writer = None
+                # Open the file at the beginning for JSON Lines writing
+                with open(output_file, "w", encoding="utf-8") as f:
+                    pub_count = 0
                     
                     for pub in author_data['publications']:
                         try:
                             filled_pub = scholarly.fill(pub, [])
                             
-                            # Extract main fields and bib fields
-                            row_data = {}
-                            
-                            # Extract top-level fields
-                            for key, value in filled_pub.items():
-                                if key != 'bib':
-                                    if isinstance(value, (dict, list, tuple, set)):
-                                        row_data[key] = str(value)
-                                    else:
-                                        row_data[key] = value
-                            
-                            # Extract bib fields if available
-                            if 'bib' in filled_pub and isinstance(filled_pub['bib'], dict):
-                                for key, value in filled_pub['bib'].items():
-                                    field_name = f"bib_{key}"
-                                    if isinstance(value, (dict, list, tuple, set)):
-                                        row_data[field_name] = str(value)
-                                    else:
-                                        row_data[field_name] = value
-                            
-                            # Track all fields
-                            all_fields.update(row_data.keys())
-                            
-                            # Initialize writer with fieldnames if not already done
-                            if writer is None:
-                                fieldnames = sorted(list(all_fields))
-                                writer = csv.DictWriter(f, fieldnames=fieldnames)
-                                writer.writeheader()
-                            
-                            # Write and flush publication data
-                            writer.writerow(row_data)
+                            # Write this publication as a single JSON line and flush
+                            f.write(json.dumps(filled_pub) + '\n')
                             f.flush()
+                            pub_count += 1
+                            print(".", end='')  # Print a dot for each publication processed
+                            
                         except Exception as e:
-                            print(f"Error processing publication: {e}")
+                            print(f"\nError processing publication: {e}")
                     
-                    if writer is None:
-                        print(f"No valid publications to save for author {author_id}")
+                    if pub_count > 0:
+                        print(f"\n{pub_count} publications saved to JSON Lines format for author {author_id}")
                     else:
-                        print(f"Publications saved incrementally for author {author_id}")
+                        print(f"\nNo valid publications to save for author {author_id}")
                 
             except Exception as e:
                 print(f"Error processing author {author_id}: {e}")
