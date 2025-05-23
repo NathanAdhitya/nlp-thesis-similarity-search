@@ -15,6 +15,10 @@ os.makedirs("../data", exist_ok=True)
 output_file = "../data/authors.csv"
 
 def scrape_authors():
+    """
+        Ambil list dosen yang terdaftar di Google Scholar berdasarkan GS_ORG_ID (UK Petra).
+        Outputnya ditaruh di authors.csv
+    """
     try:
         # Convert GS_ORG_ID to integer
         org_id = int(GS_ORG_ID)
