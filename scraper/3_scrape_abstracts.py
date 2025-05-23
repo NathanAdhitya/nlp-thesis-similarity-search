@@ -5,7 +5,8 @@ from dotenv import load_dotenv
 from scholarly import scholarly
 from scholarly import ProxyGenerator
 import csv
-import json  # Add json module import
+import json
+import sys  # Import sys for direct command line argument access
 
 # Set up proxy generator
 pg = ProxyGenerator()
@@ -25,91 +26,72 @@ publications_dir = "../data/publications"
 # Ensure the publications directory exists
 os.makedirs(publications_dir, exist_ok=True)
 
-def scrape_author_publications():
-    """Scrape publications for each author in authors.csv"""
-    if not os.path.exists(authors_file):
-        print(f"Error: Authors file not found at {authors_file}")
-        return
-    
+def scrape_author_publications(profile_id: str):
+    """Scrape publications for a single author by profile_id"""
     try:
-        # Read profile IDs from authors file
-        author_ids = []
-        with open(authors_file, "r", encoding="utf-8") as f:
-            reader = csv.reader(f)
-            # Skip header
-            next(reader)
-            
-            for row in reader:
-                if row and len(row) > 1 and row[1].strip():  # Assuming scholar_id is in column 1
-                    author_ids.append(row[1].strip())
+        print(f"Processing author: {profile_id}")
         
-        if not author_ids:
-            print("No author IDs found in authors file.")
+        # Check if file already exists with more than 20 entries
+        output_file = os.path.join(publications_dir, f"{profile_id}.jsonl")
+        if os.path.exists(output_file):
+            # Count lines in the file to determine number of entries
+            with open(output_file, "r", encoding="utf-8") as f:
+                line_count = sum(1 for _ in f)
+            
+            if line_count >= 20:
+                print(f"Skipping author {profile_id}: already has {line_count} entries")
+                return
+            else:
+                print(f"File exists with {line_count} entries, but below threshold. Processing...")
+        
+        # Get author data
+        author = scholarly.search_author_id(profile_id)
+        
+        # Fill author data with publications
+        author_data = scholarly.fill(author, sections=['publications'], sortby="year",publication_limit=20) # type: ignore
+        
+        if not author_data.get('publications'):
+            print(f"No publications found for author {profile_id}")
             return
         
-        total_authors = len(author_ids)
-        print(f"Found {total_authors} authors to process")
+        # Prepare output file
+        output_file = os.path.join(publications_dir, f"{profile_id}.jsonl")  # Changed to .jsonl extension for JSON Lines format
         
-        for idx, author_id in enumerate(author_ids, 1):
-            try:
-                print(f"Processing author {idx}/{total_authors}: {author_id}")
-                
-                # Check if file already exists with more than 200 entries
-                output_file = os.path.join(publications_dir, f"{author_id}.jsonl")
-                if os.path.exists(output_file):
-                    # Count lines in the file to determine number of entries
-                    with open(output_file, "r", encoding="utf-8") as f:
-                        line_count = sum(1 for _ in f)
+        # Open the file at the beginning for JSON Lines writing
+        with open(output_file, "w", encoding="utf-8") as f:
+            pub_count = 0
+            
+            for pub in author_data['publications']:
+                try:
+                    filled_pub = scholarly.fill(pub, [])
                     
-                    if line_count > 100:
-                        print(f"Skipping author {author_id}: already has {line_count} entries")
-                        continue
-                    else:
-                        print(f"File exists with {line_count} entries, but below threshold. Processing...")
-                
-                # Get author data
-                author = scholarly.search_author_id(author_id)
-                
-                # Fill author data with publications
-                author_data = scholarly.fill(author, sections=['publications'], sortby="year") # type: ignore
-                
-                if not author_data.get('publications'):
-                    print(f"No publications found for author {author_id}")
-                    continue
-                
-                # Prepare output file
-                output_file = os.path.join(publications_dir, f"{author_id}.jsonl")  # Changed to .jsonl extension for JSON Lines format
-                
-                # Open the file at the beginning for JSON Lines writing
-                with open(output_file, "w", encoding="utf-8") as f:
-                    pub_count = 0
+                    # Write this publication as a single JSON line and flush
+                    f.write(json.dumps(filled_pub) + '\n')
+                    f.flush()
+                    pub_count += 1
+                    print(".", end='')  # Print a dot for each publication processed
                     
-                    for pub in author_data['publications']:
-                        try:
-                            filled_pub = scholarly.fill(pub, [])
-                            
-                            # Write this publication as a single JSON line and flush
-                            f.write(json.dumps(filled_pub) + '\n')
-                            f.flush()
-                            pub_count += 1
-                            print(".", end='')  # Print a dot for each publication processed
-                            
-                        except Exception as e:
-                            print(f"\nError processing publication: {e}")
-                    
-                    if pub_count > 0:
-                        print(f"\n{pub_count} publications saved to JSON Lines format for author {author_id}")
-                    else:
-                        print(f"\nNo valid publications to save for author {author_id}")
-                
-            except Exception as e:
-                print(f"Error processing author {author_id}: {e}")
+                except Exception as e:
+                    print(f"\nError processing publication: {e}")
+            
+            if pub_count > 0:
+                print(f"\n{pub_count} publications saved to JSON Lines format for author {profile_id}")
+            else:
+                print(f"\nNo valid publications to save for author {profile_id}")
     
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(f"Error processing author {profile_id}: {e}")
 
-# Execute the scrape function
 if __name__ == "__main__":
+    # Check if a profile_id was provided
+    if len(sys.argv) < 2:
+        print("Error: No profile_id provided.")
+        print("Usage: python 3_scrape_abstracts.py [profile_id]")
+        sys.exit(1)
+    
+    # Get the profile_id from command line argument
+    profile_id = sys.argv[1]
+    
     print("Starting publication scraping...")
-    scrape_author_publications()
+    scrape_author_publications(profile_id)
     print("Publication scraping complete")
