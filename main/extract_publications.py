@@ -198,6 +198,14 @@ def extract_publication_data(data_dir: str, name_to_scholar_id: Dict, output_fil
                         # This ensures we don't lose publications even if name matching fails
                         if not scholar_ids and file_scholar_id in scholar_id_to_names:
                             scholar_ids.append(file_scholar_id)
+                            
+                        # Strip newlines from title and abstract
+                        title = title.replace('\n', ' ').strip()
+                        abstract = abstract.replace('\n', ' ').strip()
+                        
+                        # Strip excessive whitespace
+                        title = re.sub(r'\s+', ' ', title)
+                        abstract = re.sub(r'\s+', ' ', abstract)
                         
                         publication_data.append({
                             'pub_id': pub_id,
