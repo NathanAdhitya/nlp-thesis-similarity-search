@@ -1,0 +1,14 @@
+{
+  "id": "8637",
+  "title": "Perancangan power monitoring system untuk energi di PT. Semen Gresik Tuban I dan II",
+  "abstract": "PT. Semen Gresik Tuban I dan II dalam proses produksinya membutuhkan energi listrik yang cukup besar yang berpengaruh pada biaya listrik. Hal tersebut yang menyebabkan mengapa perlu dilakukan efisiensi pemakaian energi listrik untuk proses produksi. Agar bisa melakukan efisiensi pemakaian energi listrik, terlebih dahulu harus diketahui berapa banyak energi listrik yang digunakan dalam setiap proses produksi yaitu dengan cara pengukuran. Saat ini di PT. Semen Gresik Tuban I dan II pengukuran energi listrik dilakukan dengan alat-alat ukur analog. Peralatan ukur tersebut memiliki banyak kelemahan, salah satunya adalah membutuhkan tenaga manusia untuk melihat dan mencatat nilai dari besaran listrik yang tercantum pada alat ukur tersebut yang menyebabkan pengukuran yang tidak akurat. Karena itu perlu untuk merancang suatu power monitoring system yang memiliki kemampuan yang jauh lebih baik. Dalam tugas akhir ini dibuat dua rancangan power monitoring system. Perancangan pertama menggunakan 2 Ethernet Gateway (EGX 400) dan 84 Power Meter 850. Perancangan kedua menggunakan 2 Ethernet Gateway (EGX 400) dan 23 Power Meter 850. Perancangan pertama lebih baik untuk monitor energi listrik dibandingkan perancangan kedua sebab dengan kemampuan monitor untuk motor dan trafo besar maka dapat diketahui mana yang bekerja secara efisien dan dapat menindak lanjutinya untuk menghemat penggunaan energi listrik.",
+  "creators": "ERICK VICTOR MALAKA",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Limboto Limantara (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010533/ELK/2005; Erick Victor Malaka (23401074)",
+  "subjects": "RECORDING ELECTRIC METERS-DIGITAL TECHNIQUES; WATT-HOUR METERS; ELECTRIC METERS"
+}

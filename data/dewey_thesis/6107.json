@@ -1,0 +1,14 @@
+{
+  "id": "6107",
+  "title": "Perancangan dan pembuatan aplikasi mengubah not angka menjadi berbagai macam suara alat musik dalam bentuk file MIDI",
+  "abstract": "Ada banyak sekali orang yang menyukai musik, tetapi tidak bisa memainkan alat musik sama sekali dan tidak berminat untuk mempelajarinya karena terlalu rumit atau tidak punya waktu. Padahal mungkin ketika seseorang membuka-buka buku lagu, orang tersebut merasa lagu itu menarik tetapi tidak bisa mendengarkannya karena tidak bisa bermain alat musik. Untuk itu dibuatlah suatu program yang akan menerima inputan berupa not angka, kemudian memainkan not-not tersebut. Program aplikasi ini akan mendapatkan inputan berupa not angka. Inputan ini akan diberi kode tertentu untuk memudahkan dalam proses manajemen file. Inputan tidak hanya berupa not angka tetapi juga atribut-atributnya seperti tanda istirahat, tanda bar dan tanda titik. Setelah proses penginputan selesai, not-not tersebut dapat dimainkan dengan berbagai jenis alat musik sesuai dengan tempo yang dipilih serta menunjukkan not-not mana yang sedang dimainkan. Suara yang dihasilkan dalam bentuk file MIDI. Dari pengujian yang dilakukan, aplikasi ini berhasil memainkan not dengan nada dasar dan tempo yang berbeda-beda dengan tingkat akurasi yang hampir sama dengan memainkan alat musik secara manual. Pernyataan ini juga didukung hasil survey yang telah dicantumkan pada bab pengujian.",
+  "creators": "BUDI CAHJA SANTOSO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Ibnu Gunawan (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000463/INF/2006; Budi Cahja Santoso (26402153)",
+  "subjects": "COMPUTER SOUND PROCESSING; MIDI (STANDARD)"
+}

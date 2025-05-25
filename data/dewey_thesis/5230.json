@@ -1,0 +1,14 @@
+{
+  "id": "5230",
+  "title": "Face recognition menggunakan metode principal component analysis (PCA) dan jaringan saraf tiruan (JST)",
+  "abstract": "Berkembangnya teknologi computer vision dan image processing di dunia dewasa ini menyediakan kemungkinan baru untuk membuat suatu sistem yang dapat membantu manusia dalam pengenalan suatu citra digital. Tugas akhir ini membahas tentang algoritma yang diperlukan agar komputer dapat mengenali dan mengidentifikasi suatu wajah testing yang diinputkan berdasarkan wajah training yang telah diinputkan sebelumnya. Pada tahap awal wajah training dan testing akan dimasukkan ke tahap pre processing. Setelah itu akan dicari feature pada wajah training dan testing dengan menggunakan metode Principal Component Analysis, sedangkan untuk pengidentifikasian digunakan algoritma JST (Jaringan Saraf Tiruan) dengan metode learning BackPropagation. Pembahasan diawali dengan teori-teori dasar tentang pengenalan wajah, Principal Component Analysis, dan Back Propagation, dilanjutkan analisa dan disain program, serta beberapa hasil uji cobanya. Dalam tugas akhir ini PCA digunakan untuk mereduksi dimensi dari wajah-wajah training dan testing yang diinputkan dan menghasilkan output berupa feature, dan feature ini akan menjadi input bagi algoritma JST. JST (Jaringan Saraf Tiruan) dengan metode Backpropagation akan melakukan proses learning pada network sehingga network mampu mengenali semua wajah training. Setelah selesai, maka dimulai proses testing dengan memasukkan wajah testing dan dihitung output-nya untuk menentukan wajah training mana yang paling mirip dengan wajah testing tersebut dengan tingkat keberhasilan 90%. Sejumlah percobaan telah dilakukan dalam program tersebut untuk menghasilkan kesimpulan-kesimpulan penting yang mendukung tugas akhir ini. Program diimplementasikan dengan menggunakan bahasa pemrograman Borland Delphi 5.0",
+  "creators": "ROBERT HOO",
+  "contributors": "Resmana Lim (Advisor 1); Kartika Gunadi (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/637/ELK/2003; Robert Hoo (23498092)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "41116",
+  "title": "Aplikasi android pengelolaan akuarium dengan menggunakan arduino",
+  "abstract": "Teknologi saat ini semakin berkembang. Banyak bidang kehidupan dapat dibantu dan dipermudah dengan adanya teknologi. Aplagi penggunaan internet yang sudah semakin pesat. Internet tidak hanya digunakan untuk keperluan-keperluan yang besar. Namun, internet juga dapat digunakan untuk membantu hal-hal kecil di kehidupan. Kemudahan akses dari teknologi juga memicu penggunaan internet yang semakin meningkat. Penggunaan smartphone juga semakin meningkat di masyarakat. Oleh karena itu, penggunaan smartphone dan internet untuk mempermudah kehidupan sehari-hari sangatlah tepat. Salah satu permasalahan yang ingin penulis selesaikan adalah seputar akuarium. Penulis melihat permasalahan yang ada adalah seputar perawatan akuarium. Para pemilik akuarium banyak yang mengeluhkan perawatan akuarium pada saat-saat tertentu. Terutama pada saat mereka meninggalkan akuarium untuk jangka waktu yang lama. Tentu akuarium harus tetap dirawat setiap hari. Perawatan yang paling rutin dilakukan meliput pemberian makan dan pengaturan suhu. Dalam menyelesaikan permasalahan akuarium, penulis menggunakan perangkat arduino. Perangkat tersebut merupakan perangkat microcontroller yang dapat membantu dalam mengendalikan perangkat yang lain. Perangkat arduino tersebut terhubung dengan internet melalui wifi sebagai perantaranya. Selanjutnya, arduino akan terhubung dengan server. Terhubungnya arduino ke server dapat menghubungkan arduino dengan database. Database yang bersangkutan dapat dimodifikasi dengan menggunakan perangkan smartphone android maka pengguna dapat melakukan pengaturan perangkat arduino dengan menggunakan smartphone. Hasil dari pembuatan sistem yang penulis buat didasarkan pada teknologi Arduino, Android dan server MySQL. Hal ini memungkinkan untuk sistem terkoneksi satu sama lain melalui jaringan internet. Sistem tersebut terdiri atas 3 bagian utama. Bagian pertama adalah sebuah server sebagai perantara antar 2 bagian lainnya. Bagian kedua adalah perangkat arduino sebagai perangkat fisik. Bagian terakhir adalah aplikasi phonegap pada android.",
+  "creators": "FENDY PUTRA WIJAYA KUSUMA",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Handry Khoswanto (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021722/INF/2017; Fendy Putra Wijaya Kusuma (26413043)",
+  "subjects": "ARDUINO; APPLICATION SOFTWARE-DEVELOPMENT; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (COMPUTER PROGRAM)"
+}

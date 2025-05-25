@@ -1,0 +1,14 @@
+{
+  "id": "14847",
+  "title": "Studi sistem sambungan telepon dengan metode time division multiplexing dengan bantuan small digital switch MT8982",
+  "abstract": "Digital switching adalah suatu proses dimana hubungan-hubungan dibangun dengan pengoperasian pada sinyal-sinyal digital tanpa mengubahnya menjadi sinyal analog. Suatu digital Time Division Switching network memberikan hubungan antara time slot-time slot yang berbeda dari inlet dan outlet Time Division Multiplexer. Pendahuluan dari digital switching dimulai pada tahap trunk switching network dimana sinyal-sinyal suara (analog) dimodulasi dengan metode Pulse Code Modulation untuk memperoleh sinyal digital. Dalam teori, suatu switching haruslah mempunyai sifat : mampu menghubungkan setiap permintaan pelanggan, mampu secepatnya melayani permintaan penyambungan tanpa melihat berapa jumlah sambungan yang telah terjadi pada waktu itu (non-blocking). Untuk memenuhi sifat non-blocking itu dapat meman-faatkan model pemetaan switching yaitu Space Time dimana suatu stream dapat dipindah ke channel lain pada stream yang lain. Sehingga diperoleh jaringan switching non-blocking.",
+  "creators": "ESA PARUHUM SITOMPUL",
+  "contributors": "Murtiyanto Santoso (Advisor 1); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/004/303; Esa Paruhum Sitompul (23488085)",
+  "subjects": "TELEPHONE SWITCHING SYSTEMS; DIGITAL SIGNAL PROCESSING"
+}

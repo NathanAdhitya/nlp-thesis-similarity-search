@@ -1,0 +1,14 @@
+{
+  "id": "12201",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada toko alat tulis X di Surabaya",
+  "abstract": "Sampai saat ini Toko Alat Tulis X masih belum memiliki sistem yang terkomputerisasi. Semua aktivitas masih dilakukan secara manual, misalnya pencatatan stok barang yang dimiliki, dan tidak ada yang menyetujui atau mengotorisasi ketika barang tersebut dikeluarkan dari gudang. Pada penjualan kredit sering terjadi tunggakan piutang yang mungkin tidak bisa dilunasi oleh customer. Tidak ada pengendalian internal, seperti segregation of duty yang jelas. Terjadi keterlambatan menagih karena nota tidak tersusun dengan rapi. Untuk menyelesaikan permasalahan tersebut, maka dibuat sistem informasi akuntansi untuk membantu Toko Alat Tulis Alta X. Aplikasi yang dibuat meliputi pengelolaan master barang, master pelanggan, master pemasok, jurnal khusus, jurnal umum, jurnal penyesuaian, pembelian, dan penjualan. Aplikasi yang dibuat menggunakan Microsoft Visual Basic 6.0 dan database SQL Server 2000. Setelah pengujian sistem dilakukan, maka diketahui bahwa aplikasi yang dibuat menghasilkan informasi mengenai transaksi pembelian dan penjualan tercatat detail seperti barang yang dipesan, barang yang sudah diterima/dikirim, barang yang diretur. Adanya laporan keuangan yang terbentuk dalam pengelolaan transaksi.",
+  "creators": "HERLINA KUSUMA DEWI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Oviliani Yenty Yuliana (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02020819/INF/2009; Herlina Kusuma Dewi (26405060)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

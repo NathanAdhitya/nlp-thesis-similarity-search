@@ -1,0 +1,14 @@
+{
+  "id": "19503",
+  "title": "Disain, implementasi dan pengujian amplifier EEG",
+  "abstract": "Sinyal EEG (electroencephalography) merupakan sinyal listrik yang dihasilkan dari aktivitas neuron-neuron di dalam otak manusia dengan amplitudo antara 1?Vpp s/d 100?Vpp dan frekuensi antara 0.5Hz s/d 100Hz. Supaya amplitudo sinyal EEG dapat dibaca oleh perangkat lain misalnya sistem BCI (brain-computer interface), maka amplitudo sinyal EEG perlu diperkuat menggunakan amplifier EEG dengan standar biomedical amplifier dan EMC (electromagnetic compatibility). Pengukuran sinyal EEG dipusatkan dibagian belakang kepala pada daerah occipital (titik OZ) dan parietal (titik PZ) yang berkaitan dengan indera penglihatan. Hasilnya jika mata melihat cahaya yang berkedip frekuensi kedipan tersebut mendekati frekuensi sinyal EEG yang terukur, untuk membuktikannya dilakukan dengan dua metode pengukuran yaitu, menggunakan oscilloscope dan software recording audio yang kemudian diproses menggunakan software matlab. Dari hasil pengukuran diperoleh, jika mata melihat cahaya kedipan LED dengan frekuensi 5Hz s/d 45Hz dan 60Hz yang ditangkap oleh kedua mata dan diproses oleh otak kemudian sinyal EEG-nya diukur pada titik OZ dan PZ, maka hasilnya sinyal EEG yang telah terukur dan diperkuat oleh amplifier EEG rata-rata spektrum frekuensinya mengalami pergeseran kurang dari ?0.5Hz.",
+  "creators": "LAMEKH ADE SAPUTRA",
+  "contributors": "Indar Sugiarto (Advisor 1); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010913/ELK/2010; Lamekh Ade Saputra (23405041)",
+  "subjects": "AMPLIFIERS"
+}

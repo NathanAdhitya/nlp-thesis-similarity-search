@@ -1,0 +1,14 @@
+{
+  "id": "5167",
+  "title": "Perencanaan dan pembuatan wireless data logger untuk kwh meter",
+  "abstract": "Selama ini pencatatan meter listrik di rumah-rumah selalu menggunakan petugas PLN yang memantau setiap rumah yang menggunakan listrik. Terkadang apabila rumah yang dikunjungi tersebut kosong atau tidak ada penghuninya maka para petugas ini terpaksa datang kembali di hari-hari selanjutnya hanya untuk mengetahui berapa besar beban yang dipakai pada rumah tersebut. Oleh karena itulah maka dalam tugas akhir ini akan dicoba untuk membuat suatu alat pengukur KWH meter yang dapat digunakan tanpa memasuki rumah, sehingga tidak perlu lagi petugas PLN yang memasuki rumah-rumah hanya untuk mencatat beban listrik yang terpakai pada setiap rumah, tetapi beban listrik dapat diketahui hanya dengan mengarahkan alat ini pada KWH meter di rumah-rumah tersebut. Tujuan yang hendak dicapai dalam pembuatan tugas akhir ini adalah mengaplikasikan wireless data logger pada KWH meter sebagai alat pengukur besar beban penggunaan listrik. Metode yang digunakan adalah dengan menghitung jumlah putaran pada piringan KWH meter, yang selanjutnya mikrokontroler melakukan pemindahan data kepada remote. Untuk menghitung jumlah putaran piringan pada KWH meter dipakai sensor photodiode sebagai penerima dan infrared sebagai pemancar. Dari hasil pengujian, di ketahui bahwa alat ini berjalan dengan baik bila sudut antara remote dan panel kurang dari 20?, dan jarak antara panel dengan remote kurang dari 4 meter.",
+  "creators": "DEKY LIMARAN",
+  "contributors": "Handry Khoswanto (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/661/ELK/2003; Deky Limaran (23497042 )",
+  "subjects": "REMOTE CONTROL-DIGITAL TECHNIQUES; DETECTORS-DIGITAL TECHNIQUES; RECORDING ELECTRIC METERS-DIGITAL TECHNIQUES"
+}

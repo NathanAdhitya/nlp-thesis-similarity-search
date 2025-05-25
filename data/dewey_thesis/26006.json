@@ -1,0 +1,14 @@
+{
+  "id": "26006",
+  "title": "Perancangan dan pembuatan sistem perhitungan harga pokok produksi produk pakaian dalam wanita pada perusahaan perorangan Cattleya dengan metode job order costing",
+  "abstract": "Saat ini sistem perhitungan harga pokok produksi yang dimiliki oleh Perusahaan perorangan Cattleya hanya dilakukan secara manual dan hanya mencakup perhitungan sesuai dengan Bill of Material. Sedangkan biaya tenaga kerja dan biaya overhead tidak dimasukkan kedalam perhitungan harga pokok produksi. Berdasarkan latar belakang permasalahan itu, penulis merancang sistem perhitungan Harga Pokok Produksi berdasarkan metode job order costing untuk dapat membantu mengatasi masalah pada perusahaan. Proses pembuatannya menggunakan Microsoft Visual Studio Net 2005 sebagai bahasa pemogramannya dan Oracle 10g sebagai database. Pada pembuatan program ini, hasil yang diperoleh adalah dapat menyimpan order pembelian dan nota pembelian yang telah dipesan oleh perusahaan, menyimpan pemakaian bahan baku, pemakaian mesin, pemakaian tenaga kerja. Program ini juga dapat membuat laporan-laporan yang berguna bagi perusahaan berdasarkan dari biaya-biaya yang telah digunakan perusahaan untuk melakukan proses produksi.",
+  "creators": "NATANAEL HARTANTO SINTORO",
+  "contributors": "Liliana (Advisor 1); Alexander Setiawan (Advisor 2); CHRISTIAN, SE, AK (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021049/INF/2011; Natanael Hartanto Sintoro (26407097)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

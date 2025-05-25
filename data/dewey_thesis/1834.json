@@ -1,0 +1,14 @@
+{
+  "id": "1834",
+  "title": "Robot mobil dengan sensor kamera untuk menelusuri jalur pada maze",
+  "abstract": "Perkembangan teknologi robotika pada saat ini sudah mencapai tahap dimana robot yang diciptakan dibuat semirip mungkin dengan manusia, baik dari segi penampilan, kemampuan bahkan cara berpikir. Salah satu kemampuan manusia yang ingin ditiru adalah penglihatan. Tujuan dari tugas akhir ini adalah untuk menggunakan kamera sebagai sensor untuk navigasi robot mobil pada maze. Metode yang digunakan adalah segmentasi berdasarkan warna untuk memisahkan alas maze dan dinding maze dengan menggunakan sampel alas maze untuk menghasilkan vision image bagi robot mobil. Fungsi-fungsi yang diperlukan diambil dari Open Source Computer Vision Library serta INTEL* Image Processing Llbrary. Robot mobil dengan sensor kamera bisa menelusuri maze dengan menggunakan beberapa ROI {Region Of lnteresf) yang di-sel pada vision image sebagai sensor untuk navigasi, yang dinamakan sebagai ROl-sensor. Kamera yang digunakan memiliki sudut pandang yang kecil, sehingga kurang akurat dalam mendeteksi belokan pada jalur maze dan dapat mengakibatkan robot mobil tetap berjalan lurus pada saat harus berbelok sehingga robot mobil menabrak dinding. Hal ini dapat diatasi dengan menambah ROl-sensor untuk mendeteksi keadaan ini sehingga apabila robot mobil akan menabrak dinding maka robot mobil dapat menghindari tabrakan dengan cara mundur sampai jarak yang aman dan mencoba untuk mendeteksi belokan sekali lagi.",
+  "creators": "BUDIMAN LEWA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Resmana Lim (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/013/559; Budiman lewa (23496095)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES; ROBOTS-CONTROL SYSTEMS"
+}

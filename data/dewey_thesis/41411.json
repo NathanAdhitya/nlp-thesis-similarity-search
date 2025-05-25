@@ -1,0 +1,14 @@
+{
+  "id": "41411",
+  "title": "Desain pengurangan lead time siklus kontainer untuk mempercepat perputaran stok kontainer di PT X",
+  "abstract": "Penelitian ini dilakukan untuk mengurangi lead time dari siklus kontainer pada rute Surabaya - Banjarmasin - Surabaya di PT Salam Pasific Indonesia Lines (SPIL). Untuk perjalanan satu rute, kontainer akan melewati setidaknya 17 kali pergantian status. Software Process Simulator digunakan untuk mensimulasikan perpindahan status kontainer dari awal hingga akhir. Hasil dari simulasi akan diklasifikasi dengan Pareto Chart sehingga didapatkan status kontainer yang paling bermasalah. Status yang perlu ditinjau berdasarkan hasil dari Pareto Chart adalah status FXD (Full exdischarge) dan FTL (Full to Load) di Surabaya. Solusi yang diberikan untuk status FXD yaitu meningkatkan biaya demurrage sebesar 30% dari harga awal. Untuk status FTL solusi yang diberikan yaitu penimbangan dan pengecekan segel kontainer dilakukan sebelum Surat Penyerahan Container (SPC) diserahkan ke admin dan menghilangkan aktivitas “konfirmasi ke admin” dari ship operation sehingga pengurangan lead time yang dihasilkan sebesar 969.83 menit.",
+  "creators": "ROBY HERYANTO",
+  "contributors": "I Nyoman Sutapa (Advisor 1); Siana Halim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022110/IND/2018; Roby Heryanto (25414095)",
+  "subjects": "LEAN MANUFACTURING; SIX SIGMA; TIME STUDY"
+}

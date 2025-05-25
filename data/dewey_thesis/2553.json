@@ -1,0 +1,14 @@
+{
+  "id": "2553",
+  "title": "Pembuatan sistem informasi pengiriman barang dan administrasi pada UP. King Stone Surabaya",
+  "abstract": "UP. King Stone adalah salah satu perusahaan yang bergerak di bidang jasa pengiriman barang. Saat ini, perusahaan masih menggunakan sistem manual dalam menangani proses pengiriman order muatan dan administrasinya, sehingga banyak sekali terjadi kesalahan dan membutuhkan waktu yang lama. Untuk mengatasinya maka dibuat sebuah program aplikasi sistem informasi pengiriman barang dan administrasi yang efektif dan efisien. Konsep perancangan sistem informasi ini mengacu pada proses pengiriman order yang meliputi: penerimaan order, pengiriman order, pencatatan piutang, dan pembuatan dokumen pengiriman. Proses perancangan sistem menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk pembuatan struktur tabel dan relasinya. Pembuatan program aplikasinya menggunakan Borland Delphi 7 dan Microsoft Access untuk pembuatan database. Hasil dari program aplikasi yang dibuat berupa proses pencatatan order muatan, pengiriman order, pencatatan piutang, administrasi, dan pembuatan laporan. Program juga menyediakan kontrol terhadap status pengiriman dan pembayaran order. Program ini dapat mengalokasikan order dalam truk tetapi tidak secara optimal. Laporan-laporan yang dihasilkan oleh program berupa laporan customer, laporan truk, laporan order, laporan piutang, laporan keuangan harian truk, dan laporan laba rugi.",
+  "creators": "HENNY WIJAYA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); Arlinah Imam Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skrispi No.02000378/INF/2005; Henny Wijaya (26401093)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT"
+}

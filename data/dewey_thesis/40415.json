@@ -1,0 +1,14 @@
+{
+  "id": "40415",
+  "title": "Perancangan waterfall sign display untuk menapilkan teks dan grafik sederhana dengan mikrokontroler arduino",
+  "abstract": "Teknologi display dapat dijumpai dalam kehidupan sehari-hari dalam berbagai bentuk. Beberapa contoh dari teknologi display yang digunakan antara lain liquid crystal display, LED display, integrated panel display, waterfall sign display dan lain sebagainya. Waterfall sign display menggunakan air sebagai media untuk menampilkan karakter atau gambar. Dalam sistem ini, air akan dipompa dari bak penampung air oleh pompa (melalui filter air) menuju modul penampil karakter. Modul ini digunakan untuk menampilkan informasi berupa teks dan beberapa grafik sederhana ketika on-off dari solenoid valve diatur dengan mikrokontroler Arduino (dengan perantara solenoid valve driver). Timing per baris karakter harus dihitung dahulu agar dapat melakukan programming. Dari hasil pengujian didapatkan bahwa tekanan pompa mempengaruhi hasil tampilan, karena memberikan kecepatan awal yang menentukan timing tampilan. Tekanan pompa juga menyebabkan aliran air mengalami turbulence yang mempengaruhi konsistensi tampilan. Respon terbaik yang didapatkan oleh solenoid valve ketika menyala adalah selama 45ms dengan tekanan sebesar 0,23 bar. Untuk nilai dibawah itu beberapa solenoid valve (yang responnya terlalu cepat) tidak dapat menampilkan apa-apa.",
+  "creators": "STEVEN JONATHAN",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010935/ELK/2014; Steven Jonathan (23409001)",
+  "subjects": "COMPUTER GRAPHICS"
+}

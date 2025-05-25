@@ -1,0 +1,14 @@
+{
+  "id": "26500",
+  "title": "Penggunaan IBM PC sebagai pengukuran daya nyata beban AC multi channel",
+  "abstract": "Listrik merupakan kebutuhan hidup yang sangat diperlukan bagi manusia di jaman yang modern ini, sehingga dalam pemanfaatan pemakaian listrik ini diperlukan alat-alat pendukung yang bagus dengan maksud untuk mendapatkan efisiensi yang setinggi mungkin. Pemakaian daya listrik perlu ada batasan dan perlu juga pendeteksian yang teliti dan efisien. Dengan didukung kemajuan yang dicapai oleh teknologi elektronika terutama bidang mikroelektronik maka alat pendeteksi pemakaian daya listrik tidak luput dari sentuhan mikroelektronika dan komputer IBM PC. Pada tugas akhir ini dibuat interface pada slot IBM PC yang menghubungkan komputer dengan peralatan rumah tangga yang dikendalikan. Adapun transducer yang dipergunakan adalah: - Rangkaian Attenuator (rangkaian pembagi tegangan ). - Rangkaian Pengubah arus AC menjadi tegangan AC. - Rangkaian Detektor beda phase Sinyal yang akan dihasilkan oleh transducer biasanya sangat kecil sehingga diperlukan suatu penguat sebelum diolah lebih lanjut selain itu masih berupa sinyal analog. Padahal komputer dalam mengolah data selalu dalam bentuk sinyal digital, oleh karena itu sinyal analog ini harus diubah menjadi digital dengan rangkaian ADC (Analog Digital Converter) sebelum diolah lebih lanjut . Sebagai program pengendali dipergunakan bahasa Pascal, sedangkan displaynya ditampilkan lewat layar monitor.",
+  "creators": "IGNATIUS HARMADI",
+  "contributors": "SOEBAGIO (Advisor 1); Limboto Limantara (Advisor 2); BUNAWI GUNAWIDJAJA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/TST/001/0106; Ignatius Harmadi (23484078)",
+  "subjects": "MICROPROCESSORS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "42492",
+  "title": "Permodelan geser dinding geser beton untuk analisis non-linier",
+  "abstract": "Tingginya kekakuan dan kekuatan yang dimiliki dinding geser beton bertulang menyebabkan penggunaannya dalam sistem struktur penahan gaya lateral semakin banyak. Oleh karena itu, diperlukan suatu permodelan analitis untuk dapat memprediksi respons dinding geser dengan baik, khususnya respons non-linier. Untuk memenuhi tujuan tersebut, berbagai elemen permodelan digagaskan dalam penelitian-penelitian, salah satunya elemen Shear-Flexure-Interaction-Multiple-Vertical-Line-Element-Model atau SFI-MVLEM. Elemen ini dikembangkan sebagai suatu elemen permodelan makroskopis coupled yang sederhana, tetapi mampu memprediksi perilaku non-linier dinding dengan baik, termasuk interaksi antara respons lentur dan geser yang terjadi. SFI-MVLEM telah dikembangkan pada program OpenSees dan divalidasi terhadap spesimen-spesimen dinding berbentuk rectangular dengan hasil yang baik untuk spesimen yang memiliki aspek rasio (perbandingan tinggi dan lebar dinding) di atas 1,0. Penelitian ini dilakukan untuk melanjutkan proses validasi pada lingkup yang lebih luas, termasuk dinding dengan elemen batas yang berbentuk barbell dan flanged. Hasil validasi spesimen-spesimen dinding menunjukkan bahwa elemen SFI-MVLEM mampu memprediksi respons dinding barbell dan flanged dengan cukup tepat, walaupun tidak sebaik dinding rectangular. Secara khusus, diperoleh hasil yang lebih tidak sesuai pada permodelan spesimen dinding geser barbell dan flanged yang juga menerima beban aksial.",
+  "creators": "TIFANI; KEVIN EFFENDY",
+  "contributors": "Jimmy Chandra (Advisor 1); Joko Purnomo S.T., M.Sc. (Advisor 2); Wong Foek Tjong, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012196/SIP/2018; Tifani (21414003), Kevin Effendy (21414009)",
+  "subjects": "CONSTRUCTION INDUSTRY-MANAGEMENT; REINFORCED CONCRETE CONSTRUCTION"
+}

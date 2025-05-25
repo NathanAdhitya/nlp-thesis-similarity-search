@@ -1,0 +1,14 @@
+{
+  "id": "5439",
+  "title": "Perancangan dan pembuatan sistem informasi penjualan tiket dan laporan rugi laba di CV. Citra Studio Jaya Film",
+  "abstract": "Sistem informasi penjualan tiket dan laporan rugi laba yang selama ini diterapkan di CV. Citra Studio Jaya Film masih menggunakan sistem manual dan komputer yang sederhana. Hal ini terlihat dari penjualan tiket yang masih menggunakan karcis dan penyimpanan data karyawan, data film serta penghitungan laporan rugi laba yang masih menggunakan aplikasi Microsoft Excel karena manajemen tidak memiliki aplikasi database sehingga menyebabkan besarnya resiko kesalahan. Untuk mengatasi permasalahan yang dihadapi oleh CV. Citra Studio Jaya Film maka dirancang suatu aplikasi perancangan dan pembuatan sistem informasi penjualan tiket dan laporan rugi laba dengan menggunakan Borland Delphi 7 dan Microsoft SQL Server 2000 sebagai databasenya. Hasil dari program aplikasi ini adalah komputerisasi jadual pemutaran film, penjualan tiket, pemesanan tiket, pengambilan pesanan tiket dan pembuatan laporan rugi laba. Laporan rugi laba diperoleh dari pendapatan dikurangi pengeluaran. Pendapatan perusahaan berasal dari penyewaan stand dan iklan serta penjualan tiket. Pengeluaran perusahaan dipengaruhi oleh pembayaran gaji karyawan, gaji petugas kebersihan, pembayaran sewa film, pajak dan pengeluaran untuk operasional lainnya. Selain itu program aplikasi ini dapat diakses oleh beberapa user dalam waktu yang bersamaan sehingga memiliki integritas data yang tinggi karena semua user bekerja dengan informasi yang sama, dan adanya fasilitas untuk mengawasi kegiatan pemakai dalam menjalankan program aplikasi ini. Diharapkan pihak manajemen perusahaan juga dapat melihat laporan yang dikehendaki secara lebih cepat sehingga mempermudah dalam pengambilan keputusan.",
+  "creators": "IVANA SANTOSO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Andreas Handojo (Advisor 2); Arlinah Imam Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000172/INF/2004; Ivana Santoso (26400054)",
+  "subjects": "DATA TRANSMISSION SYSTEMS; DATABASE DESIGN; MANAGEMENT INFORMATION SYSTEMS"
+}

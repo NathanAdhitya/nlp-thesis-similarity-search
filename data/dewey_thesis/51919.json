@@ -1,0 +1,14 @@
+{
+  "id": "51919",
+  "title": "Sistem nomor antrian bantuan sosial di BRILink berbasis web studi kasus BRILink Mingalvo Desa Hutumuri, Ambon",
+  "abstract": "BRILink Mingalvo berada pada Desa Hutumuri, Kec. Leitimur Selatan, Kota Ambon. BRILink Mingalvo merupakan agen BRI yang dapat membantu masyarakat dalam melakukan transaksi penarikan, pembayaran, dan pengambilan bantuan sosial tanpa masyarakat harus pergi ke BRI yang jaraknya jauh dari tempat mereka tinggal. Pada BRILink masyarakat yang mendapat bantuan sosial harus datang terlebih dahulu dan mengantri untuk melakukan transaksi, tentu hal ini tidak efisien dan membuang-buang waktu masyarakat yang harus melakukan aktifitas lainnya. Untuk itu, diperlukan sebuah aplikasi antrian untuk pengambilan bantuan sosial pada BRILink. Aplikasi yang dapat diakses oleh masyarakat penerima bantuan sosial di mana saja mereka berada. Aplikasi berbasis web ini dibuat dengan menggunakan bahasa pemrograman HTML, PHP, dan database MySQL. Pertama membuat source code pada sublime text 3, dan dilanjutkan dengan membuat database pada MySQL. Setelah program selesai, dilakukan testing pada user dan admin untuk aplikasinya. Hasil akhir dari pengembangan aplikasi ini adalah dapat melakukan pengambilan nomor antrian dengan mudah, dapat melihat transaksi yang berlangsung, dan pada admin dapat menambahkan jadwal pengambilan bantuan sosial untuk user.",
+  "creators": "VITALONA CRYSANTINI PAAYS",
+  "contributors": "Andreas Handojo (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Alexander Setiawan (Examination Committee 1); Silvia Rostianingsih (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022136/INF/2022; Vitalona Crysantini Paays (26416108)",
+  "subjects": "PROGRAMMING (ELCTRONIC COMPUTERS); QUEUING THEORY; WEB SITES--DESIGN"
+}

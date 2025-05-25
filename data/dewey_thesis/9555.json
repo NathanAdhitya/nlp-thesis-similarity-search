@@ -1,0 +1,14 @@
+{
+  "id": "9555",
+  "title": "Perancangan dan pembuatan perangkat lunak vocal eliminator dengan metode phase cancellation",
+  "abstract": "Lagu instrumental adalah suatu jenis lagu yang tidak disertai suara vokal manusia dan hanya didominasi suara alat-alat musik saja. Salah satu jenis lagu instrumental adalah lagu karaoke. Lagu karaoke dibuat dengan merekam instrument musik dan vokal manusia secara terpisah dari awal sehingga sewaktu-waktu dapat dihilangkan vokalnya tergantung keinginan. Karena itulah lagu jenis ini cukup populer digunakan. Masalahnya adalah tidak semua lagu disediakan dalam format karaoke apalagi untuk lagu-lagu yang baru release dan sedang hits. Tujuan dari Tugas Akhir ini adalah membuat sebuah perangkat lunak yang dapat mengurangi suara vokal manusia pada lagu semaksimal mungkin dengan menggunakan metode Phase Cancellation. Lagu yang digunakan dibatasi dalam format WAV. Metode Phase Cancellation ini didasarkan pada sifat superposisi dua gelombang, di mana dua gelombang yang identik akan saling menggandakan, sedangkan dua gelombang yang berlawanan akan saling menghilangkan. Hasil dari penelitian ini adalah perangkat lunak yang dapat menghasilkan output yang semakin menyerupai lagu instrumental.",
+  "creators": "JIO DEDDY DARMAWAN",
+  "contributors": "Rudy Adipranata (Advisor 1); Ibnu Gunawan (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010695/INF/2008; Jio Deddy Darmawan (26403153)",
+  "subjects": "SOFTWARE ENGINERING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

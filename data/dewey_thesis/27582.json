@@ -1,0 +1,14 @@
+{
+  "id": "27582",
+  "title": "Perancangan dan pembuatan sistem informasi pembelian dan penjualan pada toko bahan bangunan UD. Sejahtera",
+  "abstract": "UD. Sejahtera adalah sebuah toko bahan bangunan yang menyediakan berbagai macam kebutuhan untuk bangunan. Pada saat ini sistem pembelian, penjualan, dan pencatatan stok masih menggunakan sistem manual. Agar lebih efisien dibutuhkan sebuah aplikasi yang meliputi pembelian, penjualan, dan pencatatan stok, agar dapat menghasilkan informasi bagi pemilik secara tepat dan akurat. Aplikasi ini dikembangkan dan dibuat dengan menggunakan bahasa pemrograman PHP dan MySQL sebagai tempat penyimpanan data. Tools yang dipergunakan dalam membuat Data Flow Diagram dalam menggambarkan proses bisnis perusahaan adalah Microsoft Office Visio 2007, sedangkan pembuatan Entity Relationship Diagram dalam menggambarkan database sistem menggunakan Power Designer 15. Aplikasi yang dibuat meliputi proses pembelian, penjualan, pencatatan persediaan, dan administrasi. Dari hasil pengujian terhadap aplikasi, menunjukkan bahwa aplikasi ini dapat memproses data transaksi yang berhubungan langsung dengan proses pembelian dan penjualan secara otomatis, hal ini sesuai dengan yang dibutuhkan perusahaan saat ini. Laporan manajerial yang dihasilkan akurat, karena sesuai dengan perhitungan manual. Berdasarkan hasil evaluasi yang dilakukan oleh 3 pengguna, menyatakan fitur-fitur dalam aplikasi sudah sesuai dengan yang dibutuhkan perusahaan.",
+  "creators": "JONATHAN ADYTHIA HARTONO",
+  "contributors": "Yulia (Advisor 1); Justinus Andjarwirawan (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021106/INF/2012; Jonathan Adythia Hartono (26407101)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "16372",
+  "title": "Perencanaan dan pembuatan penala alat musik piano oktaf 5 s.d oktaf 9 menggunakan prosesor sinyal digital TMS320c5X",
+  "abstract": "Dalara dunia musik, hal terpenting adalah alat musik yang dipakai dalam keadaan baik frekuensi nadanya ( tidak fals ). Alat musik yang dapat ditala sangat banyak jenisnya, namun yang paling kompleks adalah alat musik piano karena mencakup range frekuensi nada alat musik lainnya. Penalaan yang biasa dilakukan adalah dengan jalan mendengar ( Tuning by hearing ), namun penalaan ini sangat sulit dilakukan terutama untuk alat musik acoustic ( piano, gitar ,dsb). Dengan memanfaatkan procesor DSP TMS320c5X dan teorema Fast Fourier Transform 1024 point untuk pengolahan sinyalnya, maka dibuat suatu penalaan alternatif [Taxiing by seeing) , penalaan ini sangat mudah dilakukan karena kita cukup melihat hasil penalaannya yang dirancang untuk ditampilkan di PC. Sampling frekuensi yang dipakai sebesar 20 kHz sehingga resolusi diskrit frekuensi yang didapat sebesar 19,5 Hz. Dari hasil pengujian didapatkan kesimpulan bahwa alat ini mampu melakukan penalaan dengan baik pada oktaf 5 s/d oktaf 9 dari 9 oktaf yang diinginkan dengan error kesalahan sebesar 0,033 %.",
+  "creators": "SUSANTO SAPUTRO",
+  "contributors": "Murtiyanto Santoso (Advisor 1); Resmana Lim (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/032/331; Susanto Saputro (23491019)",
+  "subjects": "INTEL TMS320C50 (MICROPROCESSORS); PIANO MUSIC"
+}

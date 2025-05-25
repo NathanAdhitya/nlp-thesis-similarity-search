@@ -1,0 +1,14 @@
+{
+  "id": "22328",
+  "title": "Penggunaan microprocessor 8085 sebagai alat pemutus arus 4 ampere",
+  "abstract": "Pemakaian circuit braker sebagai pembatas arus sudah tak asing lagi bagi masyarakat, dimana apabila pada suatu beban dipasang sebuah circuit, braker dengan kapasitas 4 Ampere maka arus yang melewati beban itu tidak akan mungkin lebih dari 4 Ampere. Tetapi circuit braker yang biasanya dipergunakan itu tingkat ketelitiannya belum memadai.Pada tugas akhir ini akan dibuat alat yang akan dipergunakan untuk membatasi arus suatu beban dengan menggunakan microprocessor 8085. Arus yang dibatasi pada beban sama seperti yang dipergunakan pada rumah tangga-rumah tangga yaitu sebesar 4 Ampere.Selain sebagai pembatas arus alat ini juga akan menghitung daya dari beban dengan cara mengalikan tegangan pada beban dengan arus yang mengalir pada beban. Tegangan yang akan dikalikan diambil pada saat tegangan puncak, sedang arus diambil pada saat tegangan puncak itu terjadi. Saat tegangan puncak terjadi dikontrol oleh rangkaian synchron yang akan memberikan tanda kemicroprocessor.Diharapkan kelak alat ini akan dapat berguna bagi masyarakat dan pihak-pihak lain yang berkepentingan dalam mengatasi persoalan membatasi pemakaian daya listrik yang berlebiban.",
+  "creators": "ROEDIANTO ERATBOEDI",
+  "contributors": "SOETIKNO (Examination Committee 1); HANDAYANI T. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 88/E/EL/009; Rizal Zefanya Subrata (482026)",
+  "subjects": "ELECTRONIC DIGITAL COMPUTERS"
+}

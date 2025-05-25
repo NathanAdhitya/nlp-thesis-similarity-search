@@ -1,0 +1,14 @@
+{
+  "id": "28004",
+  "title": "Aplikasi indoor positioning system menggunakan android dan wireless local area network dengan metode fuzzy logic indoor positioning system",
+  "abstract": "Banyaknya ruangan dan luas gedung pada perkantoran atau mal seringkali menyulitkan pengunjung untuk mengetahui lokasi pengunjung saat ini, menemukan lokasi suatu tempat dan rute untuk menuju lokasi tersebut. Oleh karena itu, pada Skripsi ini dibuat sebuah aplikasi android yang dapat memetakan posisi pengguna dengan menggunakan wireless LAN dan pencarian rute menuju suatu lokasi. Metode yang digunakan untuk penentuan lokasi adalah Fuzzy Logic Indoor Positioning System yang dikombinasikan dengan Location Fingerprinting, sedangkan untuk pencarian rute digunakan Iterative Deepening A*. Metode ini terdiri atas 2 tahap, yaitu tahap offline dan online. Pada tahap offline, dilakukan survey terhadap lokasi yang bersangkutan untuk mengumpulkan data survey, yang berupa data Received Signal Strength (RSS) dari setiap access point yang terpasang. Sedangkan pada tahap online, pengguna mengirimkan data RSS ke server untuk ditentukan posisinya. Hasil pengujian menunjukkan bahwa proses penentuan letak sangat bergantung pada data fingerprint yang dikumpulkan pada tahap offline. Sedangkan RSS yang merupakan data survey utama, sangat sensitif terhadap kondisi lingkungan. Peningkatan akurasi hasil penentuan letak dapat dicapai dengan menambah jumlah Access Point (AP) dan jumlah Reference Point (RP) yang optimal. Aplikasi ini nantinya dapat dikembangkan sehingga dapat digunakan ketika di dalam gedung maupun di luar gedung.",
+  "creators": "DENNIS YUPUTRA PERMANA",
+  "contributors": "Andreas Handojo (Advisor 1); Justinus Andjarwirawan (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021209/INF/2013; Dennis Yuputra Permana (26409093)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (COMPUTER PROGRAM)"
+}

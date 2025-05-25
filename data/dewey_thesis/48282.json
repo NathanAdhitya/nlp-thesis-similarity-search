@@ -1,0 +1,14 @@
+{
+  "id": "48282",
+  "title": "Penentuan tindakan purifikasi minyak transformer berdasarkan parameter pengukuran",
+  "abstract": "Permasalahan pada saat pengoperasian transformer yang umum terjadi adalah timbulnya kegagalan, baik kegagalan termal maupun kegagalan elektris. Menurut standar IEEE, usia pemakaian transformer mencapai 20,55 tahun, sedangkan menurut IEC tidak ditentukan secara spesifik, tetapi biasanya mencapai 30 tahun. Salah satu penyebab utama munculnya kegagalan pada transformer adalah adanya panas berlebih yang biasanya terjadi pada sistem isolasi. Panas yang berlebih akan memicu reaksi berantai yang akan mempercepat penurunan usia dan kualitas kerja sistem isolasi, baik pada minyak isolasi maupun isolasi kertas, menurunnya efektifitas kerja sistem pendingin, sehingga nantinya akan membuat transformer mengalami kerusakan. Penelitian ini dilakukan menggunakan data dari Transformer Oil Analysis. Data Transformer Oil Analysis merupakan kumpulan data hasil pengujian minyak transformer berdasarkan 3 parameter pengukuran. Data Transformer Oil Analysis akan diproses oleh pakar mengenai keputusan tindakan purifikasi. Jumlah pakar yang digunakan pada tugas akhir ini sebanyak 3 orang. Data yang telah diproses pakar akan dimodelkan menggunakan K-Nearest Neighbors atau Neural Network. Hasil permodelan berupa 3 keputusan tindakan, yaitu penggantian minyak transformer, purifikasi minyak transformer, melakukan pengujian di 3 bulan kedepannya untuk monitoring kondisi minyak transformer. Dari hasil penelitian dapat disimpulkan bahwa permodelan K-Nearest Neighbors memiliki hasil permodelan yang lebih akurat dibandingkan hasil permodelan Neural Network. Hal ini disebabkan karena permodelan Neural Network memerlukan data yang banyak untuk mendapatkan hasil data training dan data testing yang lebih akurat. Permodelan K-Nearest Neighbors terkenal kuat dalam hal set data besar dan dimensi yang rendah. Permodelan Neural Network tidak akurat dikarenakan hasil testing pada pengujian yang bervariasi. Hal ini disebabkan oleh tidak cocoknya permodelan Neural Network dengan jenis data yang di modelkan.",
+  "creators": "I PUTU RICKY PRATAMA PUTRA",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Resmana Lim (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010662/ELK/2020; I Putu Ricky Pratama Putra (23416039)",
+  "subjects": "ELECTRIC TRANSFORMERS; BREAKDOWN VOLTAGE"
+}

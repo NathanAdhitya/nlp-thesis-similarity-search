@@ -1,0 +1,14 @@
+{
+  "id": "14574",
+  "title": "Pengimplementasian dan pengujian Network Intrusion Detection System berbasis Linux dalam suatu local area network",
+  "abstract": "Pada saat ini jaringan komputer adalah sesuatu yang sangat penting. Banyak pekerjaan yang membutuhkan jaringan komputer untuk melakukan pertukaran data atau pemakaian perangkat keras secara bersama-sama. Meskipun jaringan komputer membuat pekerjaan menjadi lebih mudah, ancaman juga menyertai sistem ini. Karena itulah sistem ini diimplementasikan dan diuji untuk mengurangi ancaman tersebut. Sistem ini dibuat berbasis sistem operasi Linux dan menggunakan Snort untuk menangkap dan menganalisa paket data. Setelah analisa paket data Snort akan melakukan pencatatan ke dalam MySql untuk keperluan database. BASE akan digunakan sebagai tampilan web dari database yang berada dalam MySql. Pada akhirnya sebuah script php akan digunakan untuk melakukan email alert notification. Hasil pengujian terhadap program, menunjukkan bahwa program ini dapat menangkap paket data yang lewat, menganalisa paket data, membuat pencatatan ke MySql, menampilkan sebuah tampilan berbasis web dari MySql, dan melakukan email peringatan kepada administrator.",
+  "creators": "ISKANDAR IMAN SOERIYANTO",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Agustinus Noertjahyana (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020844/INF/2009; Iskandar Iman Soeriyanto (26402117)",
+  "subjects": "INTERNET (COMPUTER NETWORK); LOCAL AREA NETWORK (COMPUTER NETWORKS); DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

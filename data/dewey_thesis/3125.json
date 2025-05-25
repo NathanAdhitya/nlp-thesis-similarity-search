@@ -1,0 +1,14 @@
+{
+  "id": "3125",
+  "title": "Perencanaan penataan ulang fasilitas pada departemen produksi bipang dan permen di PT.XYZ",
+  "abstract": "Adanya penambahan jumlah mesin untuk penambahan jenis produk baru, dalam perusahaan menyebabkan tata letak lantai produksi kurang tertata dengan baik dan mengakibatkan materiai handling yang dibutuhkan menjadi lebih banyak, memakan waktu dan biaya, serta tenaga yang lebih besar. Tugas akhir ini bertujuan untuk merancang tata letak lantai produksi dimana diinginkan model layout yang lebih meminimalkan jarak dan frekuensi perpindahan material berdasarkan aliran material. Dalam perancangan layout baru ini menggunakan tiga metode, yaitu: CRAFT untuk data kuantitatif, serta CORELAP dan BLOCPLAN untuk data kualitatif. Dari perancangan dengan menggunakan metode-metode tersebut ternyata layout dari CRAFT adalah model layout yang lebih meminimalkan jarak perpindahan material, momen yang didapat adalah sebesar 226607,5. Untuk kemudian dibuat adjustment layout yang lebih disesuaikan dengan kondisi perusahaan dengan momen yang didapat sebesar 228455. Dengan demikian layout baru hasil dari pengolahan menghasilkan total momen yang lebih kecil dibandingkan dengan initial layout-nya, yaitu penuranan sebesar 37,6%. Dilanjutkan dengan menghitung biaya material handling yang dapat di hemat akibat pengurangan momen sebesar Rp. 300.000,00 per bulannya. Sedangkan biaya untuk melaksanakan perancangan ulang tata letak lantai produksinya sebesar Rp. 1.019.000,00, maka titik lmpas dapat dicapai setelah 3,5 bulan dari perancangan ulang.",
+  "creators": "NONIK AGUSTIN SURYANTO",
+  "contributors": "Julianingsih (Advisor 1); SETO AMBARA (Advisor 2); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi NO.563/TI-044/2002; Nonik Agustin Suryanto (25497136)",
+  "subjects": "PLANT LAYOUT"
+}

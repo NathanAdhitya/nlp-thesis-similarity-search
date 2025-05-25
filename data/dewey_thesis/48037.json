@@ -1,0 +1,14 @@
+{
+  "id": "48037",
+  "title": "Sistem kendali kunci pintu otomatis menggunakan fingerprint sensor dan smartphone",
+  "abstract": "Proyek tugas akhir ini berfokus pada pembuatan sebuah sistem penguncian pintu otomatis yang dapat dikendalikan pada jarak dekat maupun jarak jauh dengan menggunakan aplikasi berbasis android. Sistem ini berfungsi untuk mempermudah seseorang membuka pintu dari jarak yang jauh menggunakan aplikasi, sehingga jika ada tamu yang datang berkunjung, pengguna aplikasi dapat membukakan pintu tanpa harus berjalan menuju pintu yang ingin dibuka. Hardware utama untuk tugas akhir ini adalah smartphone dan raspberry-pi, di mana kedua hardware tersebut nantinya akan terkoneksi melalui web server. Selain itu, terdapat sebuah IP kamera yang berfungsi sebagai kamera pengawas, dan sebuah keypad matrix untuk keperluan pemberian notifikasi pada smartphone tertentu. Untuk koneksi IP kamera dengan aplikasi sendiri akan menggunakan sebuah IP publik. Berdasarkan pengujian yang dilakukan, koneksi untuk IP kamera di sini menggunakan IP publik, sehingga user dapat mengakses IP kameranya di mana saja. Sedangkan untuk mengendalikan penguncian pintu menggunakan smartphone tidak ada jarak maksimal, karena kedua benda ini terkoneksi melalui web server. Untuk kecepatan rata-rata respon sistem dalam membuka pintu di sini adalah satu detik, sedangkan kecepatan rata-rata penyampaian notifikasi oleh sistem di sini adalah antara satu hingga dua detik. Untuk proses registrasi data user baik melalui aplikasi maupun melalui fingerprint di sini semua atas seijin admin sehingga hanya user yang mendapat persetujuan dari admin yang dapat mengakses sistem.",
+  "creators": "JEREMY PUTRA",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Thiang (Examination Committee 1); Handy Wicaksono (Examination Committee 2); Felix Pasila (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011001/ELK/2020; Jeremy Putra (23416011)",
+  "subjects": "ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); FINGERPRINTS--IDENTIFICATION"
+}

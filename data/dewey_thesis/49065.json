@@ -1,0 +1,14 @@
+{
+  "id": "49065",
+  "title": "Implementasi algoritma naive bayes untuk klasifikasi kategori bidang bisnis profil influencer berbasis android",
+  "abstract": "Media sosial telah menjadi trend yang paling banyak dinikmati pengguna Internet untuk berbagi informasi kepada masyarakat luas. Mereka dapat berbagi mengunakan berbagai macam content seperti gambar, video, atau artikel di media sosial. Mereka pun mengekspresikan pendapat atau perasaannya melalui media sosial, seperti Instagram dan sebagainya. Minat beli konsumen pada online store di Instagram sejatinya sangat sulit untuk diraih dan didapatkan, dikarenakan konsumen kurang memiliki keinginan untuk mengetahui produk online store pada Instagram. Oleh karena itu, pada skripsi ini dilakukan rancang bangun sistem klasifikasi kategori profile Selebgram dengan menggunakan metode Naive Bayes Classifier. Sistem klasifikasi kategori profile Selebgram yang dilakukan dengan menggunakan algoritma Naïve Bayes menerima data masukkan berupa data caption dari profile Selebgram yang diproses dengan text mining yaitu proses casefolding, tokenizing, stopword dan stemming. Setelah didapat kata kunci dari proses text mining akan dilakukan perhitungan dengan Naïve Bayes yang menghasilkan keluaran berupa profile Selebgram yang sudah terkategori. Hasil penelitian menunjukkan nilai Akurasi sebesar 98.8 %, precision 98.5 %, recall 98.5 %, F- measure 98% sehingga sistem dinilai baik dalam melakukan klasifikasi kategori profile Selebgram.",
+  "creators": "TIMOTIUS ALVIN KUSUMA",
+  "contributors": "Rudy Adipranata (Advisor 1); Kartika Gunadi (Examination Committee 1); Anita Nathania Purbowo (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022011/INF/2020; Timotius Alvin Kusuma (26414052)",
+  "subjects": "APPLICATION SOFTWARE; FEEDBACK CONTROL SYSTEMS--COMPUTER PROGRAMS; ANDROID (ELECTRONIC RESOURCE)--PROGRAMMING"
+}

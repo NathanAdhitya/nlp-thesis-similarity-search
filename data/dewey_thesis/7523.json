@@ -1,0 +1,14 @@
+{
+  "id": "7523",
+  "title": "Perencanaan dan pembuatan perangkat lunak Simple Word Processor With Spell Checker and Word Suggestor (SWPSCWS) dengan metode non-deterministic finite automata",
+  "abstract": "SWPSCWS adalah sebuah perangkat lunak yang berguna untuk membantu penulisan sebuah karya tulis, khususnya untuk mendeteksi kesalahan penulisan dan memberikan saran penulisan kata. Dalam penggunaan perangkat lunak ini, user dapat membuat kamus bahasa sendiri tanpa batasan bahasa, dimana kamus bahasa tersebut menyimpan kosa kata dan susunan kalimat user tersebut. Perangkat lunak ini dibuat dengan menggunakan bahasa pemrograman Delphi, dan dengan metode Non-Deterministic Finite Automata (NFA). NFA merupakan salah satu tipe dari otomata atau Finite State Machine (FSM). Fungsi utama dari otomata adalah sebagai filter yang mengecek masukan serangkaian simbol yang didefinisikan sebagai alfabet, dan memberikan keluaran berupa accept atau reject terhadap masukan yang diberikan. Pengujian dilakukan terhadap kemampuan penambahan kata dan kalimat ke dalam NFA, waktu yang dibutuhkan untuk load user, jumlah memori yang digunakan oleh perangkat lunak, dan kemampuan untuk melakukan pengenalan user sederhana. Dari semua pengujian tersebut diambil kesimpulan bahwa perangkat lunak memiliki potensi untuk mengurangi waktu yang dibutuhkan dalam proses penulisan karya tulis karena kemampuan perangkat lunak untuk mendeteksi kesalahan penulisan kata dan menyarankan kata. Kemampuan pengenalan user sederhana dapat digunakan untuk mengenali user dengan 0% kesalahan.",
+  "creators": "DERMAWAN",
+  "contributors": "Rolly Intan (Advisor 1); Kartika Gunadi (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000432/INF/2005; Dermawan (26401023)",
+  "subjects": "SOFTWARE ENGINEERING; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

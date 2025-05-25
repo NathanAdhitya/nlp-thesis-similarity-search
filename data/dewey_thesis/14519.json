@@ -1,0 +1,14 @@
+{
+  "id": "14519",
+  "title": "Equalizer stereo 7 band dengan menggunakan IC LMC835 dikontrol dengan mikrokontroller 8031",
+  "abstract": "Alat yang dibuat dalani tugas akhir ini adalah Equalizer Stereo 7 Band yang dapat mengatur frekuensi-frekuensi dalam band 63 Hz, 160 Hz, 400 Hz, 1 kHz, 2.5 kHz, 6.3 kHz, 16 kHz dengan range + 12 dB. Elemen utama dari alat ini adalah IC LMC835, rangkaian resonator dan mikrokontroller 8031. Digunakan IC LMC835 karena memiliki kemampuan-kemampuan seperti dapat dikontrol secara digital, pembagian band sampai 14 band, dapat diatur gainnya mulai +12 dB sampai -12 dB, serta noise dan distorsinya rendah. Dari perencanaan diketahui akan adanya error pada kondisi full boost atau full cut kurang dari 1 dB sedangkan pada hasil pengujian didapat error maksimum 1 dB, hal ini disebabkan karena kuahtas komponen yang dipakai kurang baik. Untuk mengurangi error yang terjadi, disarankan untuk menggunakan komponen-kompenen dengan kuahtas yang lebih baik.",
+  "creators": "DJOENAIDI HARIONO PUTERA",
+  "contributors": "Murtiyanto Santoso (Examination Committee 1); HERLIANTO TENGGARA (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/033/378; Djoenaidi Hariono Putera (23492114)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; EQUALIZERS (ELECTRONICS); INTEL 8031 (MICROCONTROLLER)"
+}

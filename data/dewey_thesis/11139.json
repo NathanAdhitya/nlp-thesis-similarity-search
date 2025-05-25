@@ -1,0 +1,14 @@
+{
+  "id": "11139",
+  "title": "Perencanaan dan pembuatan sistem minimum mikrokontroller 8031 sebagai pemroses data untuk interpreter bahasa Inggris dan bahasa Indonesia",
+  "abstract": "Interpreter adalah suatu alat untuk mengkonversikan suatu bahasa ke bahasa lainnya. Bahasa disini berarti bahasa komunikasi antar manusia atau bahasa pemrograman komputer. Interpreter yang akan dibuat disini adalah suatu alat yang dapat menerjemahkan kata-kata atau kalimat bahasa Inggris menjadi kata-kata atau kalimat bahasa Indonesia dan sebaliknya, sesuai dengan kebutuhan. Alat ini pada dasarnya dirancang dari suatu system mikrocontroller keluarga MCS-51 (8031), dilengkapi dengan RAM, EPROM dan PPI untuk mengatur 32 tuts keyboard dan tampilan yang berupa LCD. Prinsip kerja dari alat ini adalah membandingkan data yang diinputkan dari keyboard dengan suatu 'Library' yang disimpan dalam RAM. Andaikata interpreter ini ditempatkan di suatu pusat perbelanjaan seperti PLAZA SURABAYA maka Library yang tersedia harus menampung data-data sedemikian banyaknya, sehingga system minimum ini akan menjadi sangat besar dan tidak praktis dibawa berbelanja, karena membutuhkan banyak RAM. Untuk itu data-data yang banyak tersebut akan dikelompokkan sesuai dengan jenis toko yang ada, dan disimpan dalam suatu mikrokomputer IBM PC/XT/AT sebagai perangkat penunjang. Jadi pemakai alat ini sebelumnya harus memilih jenis toko yang akan dikunjungi dan secara komunikasi serial data-data yang diinginkan akan ditransfer ke system minimum 8031 dengan standarisasi RS232C. Pembuatan perangkat ini terbentur pada sulitnya mencari tampilan LCD yang mempunyai layar lebih dari dua baris dan pembuatan hardware yang belum kompak, terutama pada rangkaian keyboard sehingga terkesan kurang portable dibandingkan dengan perangkat serupa yang sudah ada di pasaran.",
+  "creators": "AGUS YUWONO",
+  "contributors": "SOETIKNO (Advisor 1); AGUS MULYANTO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi no. 92/E/EL/024/0114; Agus Yuwono (14486041)",
+  "subjects": "MICROCONTROLLERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "1302",
+  "title": "Desain sistem scada untuk pengontrolan pompa distribusi air",
+  "abstract": "Sistem pendistribusian air di kota Surabaya masih dilakukan secara manual sehingga menyebabkan debit air yang diterima antara zona yang satu dengan zona yang lain tidak merata. Selain debit yang tidak merata, masalah kebocoran yang timbul juga kian serius sehingga hal ini memerlukan penanganan sesegera mungkin. Oleh karena banyaknya parameter yang perlu dikontrol seperti : putaran pompa, pengaturan valve dan pendeteksian kebocoran maka otomatisasi dalam sistem pendistribusian air diharapkan dapat membantu agar sistem pendistribusian dapat lebih optimal. Otomatisasi sistem pendistribusian air dilakukan dengan menerapkan teknologi SCADA (Supervisory Control And Data Acquisition). Dalam sistem SCADA ini pengontrolan difokuskan pada pengaturan putaran pompa untuk mengontrol debit dari pompa, selain itu ada fasilitas tambahan yaitu sebagai pendeteksian kebocoran pada pipa distribusi. Pengontrolan dengan SCADA dilakukan dengan memanfaatkan Software Intouch 7.1 dari Wonderware yang dapat menghubiuigkan komputer dengan PLC. Dengan mempergunakan SCADA kita dapat mengontrol pompa dan valve yang kita pergunakan dalam system pendistribusian air walaupun kita tidak berada pada lokasi pompa dan valve. Hal ini dimungkinkan dengan penggunaan PLC dan Komputer sebagai perantara antara manusia dan alat yang akan dikendalikan. Dengan memanfaatkan SCADA maka perolehan debit air pada masing-masing Subzona Simohilir yang terdiri dari 3 meter induk dapat lebih merata. Sebelurn menggunakan SCADA debit pada masing-masing Subzona adalah: 6.566,26 m3/hari ; 1.059,8 m3/hari ; dan 286,8 m3/hari. Setelah mempergunakan SCADA didapat debit rata-rata sebesar 2.637,62 m3/hari pada masing-masing Subzona. Selain itu kebocoran yang semula mencapai 40 % dapat ditekan menjadi 20 % sehingga dapat meningkatkan pelayanan PDAM terhadap pelanggan. Penambahan booster pump mungkin diperlukan agar tekanan di meter induk dapat ditingkatkan dari 2,8 meter kolom air menjadi 3,6 meter kolom air sehingga penduduk di lokasi terjauh dari meter induk memperoleh tekanan sebesar 1 meter kolom air sesuai dengan standar PDAM.",
+  "creators": "JOHN TIEK YOSONO",
+  "contributors": "Felix Pasila (Advisor 1); V.P. Nugroho Susilo (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/TST/020/434; John Tiek Yosono (23498099)",
+  "subjects": "SCADA/SUPERVISORY CONTROL AND DATA ACCQUISITION; PUMPING MACHINERY"
+}

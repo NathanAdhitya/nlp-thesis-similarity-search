@@ -1,0 +1,14 @@
+{
+  "id": "48453",
+  "title": "Pembuatan aplikasi complaint management system pada Universitas Kristen Petra dengan menggunakan metode support vector machine multiclass one vs rest",
+  "abstract": "Salah satu fasilitas di Universitas Kristen Petra untuk menampung aspirasi dari civitas akademika adalah kotak saran. Namun, penggunaan kotak saran dirasa kurang efektif dan objektif karena adanya rasa enggan untuk mengisi dan kurang memiliki bukti yang kuat melalui dokumentasi foto. Untuk menjawab masalah di atas, dibuat sebuah aplikasi complaint management system berbasis Android yang mendukung proses penyampaian aspirasi yang lebih efektif dan objektif melalui penggunaan mobile device yang banyak digunakan oleh civitas akademika. Aplikasi juga didukung oleh model klasifikasi yang dibangun dengan menggunakan metode Support Vector Machine (SVM) dengan pendekatan berupa multiclass One vs Rest untuk mengklasifikasikan biro atau unit terkait untuk mengatasi kesalahan penentuan pihak penerima aspirasi. Hasil penelitian menunjukkan bahwa penggunaan parameter preprocessing berupa normalisasi, stemming dan stopwords removal mempengaruhi tingkat akurasi model. Jenis kernel terbaik pada SVM untuk klasifikasi teks aspirasi adalah linear dengan nilai C=1 yang menghasilkan akurasi sebesar 95.441%. Selain itu, hasil survei terhadap administrator yang mengurus manajemen pengolahan aspirasi menunjukkan bahwa aplikasi yang telah dibuat sudah menjawab kebutuhan dan permasalahan yang ada, dalam hal ini mendukung objektifitas dan efektifitas penyampaian data aspirasi.",
+  "creators": "ISAK IMANUEL LEONG",
+  "contributors": "Rolly Intan (Advisor 1); Leo Willyanto Santoso (Advisor 2); Liliana (Examination Committee 1); Hans Juwiantho (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021984/INF/2020; Isak Imanuel Leong (26416103)",
+  "subjects": "DATABASE MANAGEMENT--COMPUTER PROGRAMS"
+}

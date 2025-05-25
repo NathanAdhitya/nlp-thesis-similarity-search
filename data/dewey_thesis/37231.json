@@ -1,0 +1,14 @@
+{
+  "id": "37231",
+  "title": "Eksplorasi pemanfaatan docker untuk mempermudah pengelolaan instalasi komputer di Laboratorium Komputer Teknik Informatika Universitas Kristen Petra",
+  "abstract": "Docker adalah sebuah aplikasi yang berbasiskan teknologi open source yang memungkinkan developer atau siapapun untuk membuat, menjalankan, melakukan percobaan dan meluncurkan aplikasi di dalam sebuah container. Docker membuat proses pemaketan aplikasi bersama komponennya secara cepat dalam sebuah kontainer yang terisolasi, sehingga dapat dijalankan dalam infrastruktur lokal tanpa melakukan perbuahan konfigurasi pada kontainer. Docker juga sangat ringan dan cepat jika dibandingkan dengan mesin virtual yang berbasis hypervisor. Jurusan Teknik Informatika Universitas Kristen Petra memiliki jumlah mahasiswa yang cukup banyak, yang jumlahnya ratusan, sedangkan jumlah komputer yang ada di laboratorium Jurusan Teknik Informatika jumlahnya tidak sebanyak mahasiswa tersebut. Dengan jumlah yang tidak sebanding ini, maka beberapa mahasiswa memakai komputer yang sama bergantian. Hal ini yang membuat mahasiswa tidak bisa nyaman bekerja pada 1 komputer, dikarenakan pengkonfigurasian komputer pada setiap pelajaran berbeda. Oleh karena itu, dilakukan implementasi aplikasi Docker pada laboratorium. Implementasi menggunakan Docker dan sistem penyimpanan RAID dan setelah implementasi, pengujian dilakukan dengan cara mengukur kecepatan transfer docker image. Data yang dihasilkan digunakan untuk pengembangan sistem container dan mengevaluasi kecepatan antara sistem penyimpanan RAID yang digunakan.",
+  "creators": "ADI KURNIAWAN",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Justinus Andjarwirawan (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021585/INF/2016; Adi Kurniawan (26412059)",
+  "subjects": "APPLICATION SOFTWARE-DEVELOPMENT; COMPUTER NETWORK; APPLICATION SOFTWARE-DEVELOPMENT-AUTOMATION"
+}

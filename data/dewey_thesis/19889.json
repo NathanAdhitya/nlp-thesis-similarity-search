@@ -1,0 +1,14 @@
+{
+  "id": "19889",
+  "title": "Kontrol robot keseimbangan beroda dua yang dapat mendeteksi garis",
+  "abstract": "Robot beroda dua memiliki arti diseimbangkan dengan dua roda pada bagian kiri dan kanan. Robot ini dikontrol sistemnya dengan PID. Sensor yang digunakan sebagai inputan untuk PID adalah accelerometer. Robot ini menggunakan mikrokontroler yang berguna untuk memproses data. Line sensor berguna agar robot dapat mendeteksi warna dari garis yang telah diberikan. Motor dan chassis yang digunakan berasal dari LEGO. Hasil dari pemakaian kontrol tersebut, robot dapat menyeimbangkan diri hingga diam. Penggunaan kp 4 dan kd 6 merupakan variasi terbaik dari PID agar robot dapat berdiri dengan seimbang. Robot pun dapat berdiri seimbang dengan maksimal waktu 10 menit.",
+  "creators": "STEPHANUS TJOKRO LAKSMONO",
+  "contributors": "Handry Khoswanto (Advisor 1); Hany Ferdinando (Advisor 2); Handy Wicaksono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010915/ELK/2010; Stephanus Tjokro Laksmono (23406014)",
+  "subjects": "ROBOTS; ROBOTS-CONTROL SYSTEMS"
+}

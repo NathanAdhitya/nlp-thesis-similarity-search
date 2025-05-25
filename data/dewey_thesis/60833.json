@@ -1,0 +1,14 @@
+{
+  "id": "60833",
+  "title": "Penggunaan machine learning untuk memprediksi penyimpangan impedansi dalam proses pembuatan transformator di PT X",
+  "abstract": "PT X menghadapi tantangan dalam menjaga mutu dan kualitas produk transformator distribusi tipe oil, khususnya terkait dengan nilai impedansi. Hasil pengujian menunjukkan adanya deviasi positif dan negatif dari nilai garansi yang diperhitungkan selama desain. Nilai impedansi, yang dipengaruhi oleh tahanan resistif dan reaktansi belitan transformator, secara langsung berkaitan dengan dimensi koil transformator. Tugas akhir ini membuat pemodelan machine learning yang akan digunakan untuk memprediksi nilai impedansi dan hasil prediksi nilai impedansi tersebut dioptimalkan menggunakan metode feature selection dan hyperparameter tuning. Dengan memanfaatkan machine learning, diharapkan proses training data dapat dilakukan lebih cepat dan efisien untuk memprediksi nilai impedansi berdasarkan dimensi koil. Pemodelan machine learning dilakukan menggunakan beberapa algoritma machine learning seperti XGBoost, Random Forest, Adaboost, dan Multiple Linear Regression. Hasil pelatihan model machine learning berhasil memprediksi nilai impedansi berdasarkan input berupa data dimensi koil transformator. Hasil pengujian juga menunjukkan bahwa algoritma XGBoost memberikan akurasi prediksi tertinggi, diikuti oleh Random Forest, Adaboost, dan Multiple Linear Regression. Selain itu, melalui proses hyperparameter tuning, set parameter yang optimal berhasil ditemukan untuk meningkatkan kinerja model. Tahap terakhir penelitian ini melibatkan pembuatan aplikasi web menggunakan framework Streamlit, yang memungkinkan pengguna untuk melakukan prediksi nilai impedansi transformator berdasarkan input data dimensi koil, serta menganalisis hasil prediksi tersebut.",
+  "creators": "KELVIN WILSON UTOMO",
+  "contributors": "Julius Sentosa Setiadji (Advisor 1); Indar Sugiarto (Advisor 2); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Examination Committee 2); Handry Khoswanto (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010685/ELK/2024; Kelvin Wilson Utomo (C11200039)",
+  "subjects": "ELECTRIC POWER SYSTEMS; ELECTRIC TRANSFORMERS; MACHINE LEARNING"
+}

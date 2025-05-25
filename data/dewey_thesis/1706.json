@@ -1,0 +1,14 @@
+{
+  "id": "1706",
+  "title": "Perancangan dan pembuatan sistem pakar untuk diagnosa penyakit anak",
+  "abstract": "Pembahasan utama dalam Tugas Akhir ini adalah perencanaan dan pembuatan sistem pakar yang berbasis forward chaining. Forward chaining adalah suatu proses yang memulai pencarian dari premis atau data menuju pada konklusi. Proses pembuatan sistem pakar pada Tugas Akhir ini membutuhkan tiga buah unsur yaitu : domain expert yang merupakan seorang pakar / ahli yang akan diserap ilmunya, knowledge engineer yang akan menyerap ilmu yang dimiliki pakar, dan user (pemakai). Knowledge engineer ini membutuhkan fakta-fakta yang akan digunakan oleh engine sistem pakar dalam menganalisa suatu masalah dan kemudian mencari solusi atau kesimpulan yang terbaik. Selain fakta-fakta juga diperlukan penjelasan, sehingga knowledge engineer dapat mengetahui apakah alasan yang diberikan merupakan sebuah solusi. Tujuan dari software ini adalah membuat sistem pakar yang digunakan untuk mendiagnosa penyakit anak dengan menggunakan algoritma forward chaining. Bahasa pemrograman yang digunakan dalam pembuatan sistem pakar adalah Borland Delphi 5.0 dan tools Lex Yacc. Algoritma forward chaining mempunyai kelemahan, dimana akan menanyakan pertanyaan-pertanyaan yang tidak berhubungan dengan hasil konklusinya. Tools Lex Yacc membantu dalam proses penanganan parsing untuk template teks. Berdasarkan hasil kuisioner, program sistem pakar shell ini dapat dikatakan layak untuk dipakai, juga dikatakan cukup akurat serta mempunyai desain tampilan yang menarik. Penyakit anak yang dipakai dalam sistem pakar ini masih sedikit, mengingat banyaknya penyakit anak yang ada di Indonesia.",
+  "creators": "SHERLY",
+  "contributors": "M. ISA IRAWAN (Advisor 1); Andreas Handojo (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 020041/INF/2003; Sherly (26498051)",
+  "subjects": "SOFTWARE ENGINERING; DIAGNOSIS--DATA PROCESSING; ARTIFICIAL INTELLIGENCE"
+}

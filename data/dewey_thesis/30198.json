@@ -1,0 +1,14 @@
+{
+  "id": "30198",
+  "title": "Robot mobil mandiri yang mampu keluar dari sesatan (maze)",
+  "abstract": "Micromouse adalah robot cerdas yang mampu menemukan jalan yang akan ditempuh dalam sebuah labirin. Robot tersebut berkompetisi dengan robot sejenisnya untuk menperoleh waktu tercepat dalam mencapai tujuan. Dalam sebuah kompetisi micromouse, contestan mendesain dan membuat robot mandiri untuk mempelajari dan menyelesaikan suatu labirin yang tidak diketahui dalam dengan waktu sesingkat mungkin. Dengan tujuan ini, maka micromouse harus dibuat dalam bentuk yang sekecil mungkin, mandiri dan cerdas. Robot pada tugas akhir ini terdiri dari tiga sistem yang utama yaitu drive system dalam hal ini differential drive motor sebagai penggerak utama, sederetan sensor terdiri dari sensor jarak infra merah dan sensor untuk mendeteksi benda jarak dekat dan sistem kontrol yaitu microcontroller DS2250T. Pembuatan robot ini sesuai dengan aturan yang ditetapkan IEEE ’’Micromouse Contest Rules”. Pengujiannya dilakukan di laboratorium komputer dengan cara menjalankan robot tersebut pada suatu labirin. Hasil akhir yang didapat, robot dapat mencari jalannya sendiri menuju tujuan. Algoritma penyelesaian maze dan real-time control dapat diterapkan pada robot.",
+  "creators": "LAUDHI ADRIAN SUSILO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); IRWAN SAHLI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/011/448; Laudhi Susilo (23495084)",
+  "subjects": "ROBOTS"
+}

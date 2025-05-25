@@ -1,0 +1,14 @@
+{
+  "id": "27158",
+  "title": "Optimasi jumlah mode yang harus diperhitungkan dalam analisa riwayat waktu dengan metode superposisi mode",
+  "abstract": "Dalam tulisan ini dibahas tentang analisa riwayat waktu struktur dengan menggunakan metode Superposisi Mode. Di sini penulis membandingkan ketelitian dari perhitungan dengan hanya menjumlahkan mode terhadap perhitungan dengan menjumlahkan seluruh mode. Untuk keperluan perbandingan digunakan kriteria ketelitian sebesar 90 %. Perbandingan dilakukan pada struktur elastis dengan jumlah tingkat maksimum 30 dan faktor redaman sebesar 5 %. Adapun metode numerik yang digunakan adalah metode Constant-Velocity. Sedangkan tipe pembebanan yang ditinjau adalah beban percepatan pondasi. Sebuah program telah dibuat dalam bahasa Turbo Pascal 5.5 [5] untuk menyelesaikan perhitungan-perhitungan yang diperlukan. Dari hasil penelitian, penulis berkesimpulan bahwa penyelesaian dinamis suatu struktur dengan metode Superposisi Mode, cukup dilakukan dengan hanya menjumlahkan beberapa mode awal saja sehingga waktu proses yang dibutuhkan menjadi lebih singkat. Untuk struktur 4 lantai dan 8 lantai cukup hanya 2 mode pertama saja yang perlu dijumlahkan, sedangkan untuk struktur 12 lantai dan 16 lantai harus dijumlahkan 3 mode yang pertama, untuk struktur 20 lantai harus dijumlahkan 4 mode yang pertama dan untuk struktur 30 lantai diperlukan penjumlahan hingga 5 mode yang pertama. Kemudian untuk struktur dengan jumlah tingkat diatas 30, maka mode yang harus dijumlahkan adalah sekitar 10 - 15% dari jumlah mode yang ada.",
+  "creators": "YOHANTOH; AGUS SUHENDRO",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Ir. Soehendro Ratnawidjaja, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 560 S; Yohantoh (21488017), Agus Suhendro (21488041)",
+  "subjects": "EARTHQUAKE ENGINEERING; EARTHQUAKES AND BULDING; STRUCTURAL DYNAMIC"
+}

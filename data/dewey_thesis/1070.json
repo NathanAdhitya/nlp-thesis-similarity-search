@@ -1,0 +1,14 @@
+{
+  "id": "1070",
+  "title": "Pembuatan simple object access protocol pada remote procedure call",
+  "abstract": "Saat ini, aplikasi terdistribusi sedang menghangat dibicarakan, terutama pada forum-forum internet. Agar dapat menggunakan aplikasi terdistribusi diperlukan penggunakan RPC. RPC adalah cara pemanggilan procedure yang berada pada mesin yang terpisah. Kebanyakan protokol RPC yang digunakan pada saat ini adalah DCOM. Kemudian muncul protokol baru, yakni SOAP, yang berdasarkan pada teknologi XML. Untuk mengetahui pemanfaatan SOAP pada RPC, dan dapat mengetahui kelebihan kegunaan teknologi SOAP ini dibandingkan dengan implementasi RPC dengan teknologi DCOM (Distributed Component Object Model), dilakukan pengumpulan informasi serta melakukan perbandingan aplikasi. Aplikasi pembuktian yang dibuat terdiri dari 2 macam. Aplikasi pertama adalah aplikasi terdistribusi pemesanan barang elektronik dengan menggunakan SOAP. Aplikasi kedua adalah penghitungan aritmatika yang berisi pengurangan, penjumlahan, perkalian, dan pembagian yang dibuat dengan menggunakan 2 versi yaitu RPC dengan SOAP dan RPC dengan DCOM sebagai pembandingnya. Aplikasi untuk RPC dengan menggunakan protokol SOAP memerlukan software Visual Basic 6.0 untuk penulisan kode dan kompilasi program aplikasi, Microsoft SOAP toolkits sebagai pembuatan file WSDL dan WSML. Sedangkan aplikasi untuk RPC dengan menggunakan protokol DCOM menggunakan Visual Basic 6.0 untuk penulisan kode dan kompilasi program aplikasi, DCOMcnfg dan DCOM98 sebagai penyedia aplikasi pada client yang menggunakan operating system Microsoft Windows 98, serta CliReg32 untuk melakukan registrasi library pada client. Pada aplikasi pemesanan barang elektronik yang menggunakan RPC dengan SOAP sebagai aplikasi terdistribusinya didapatkan hasil aplikasi yang berjalan dengan efisien dan praktis, karena dengan aplikasi terdistribusinya beban tugas kerja server dapat terbagi-bagi antar server lain, masing-masing server saling bekerjasama untuk memperoleh hasil yang diinginkan. Pada aplikasi penghitungan aritmatika yang berisi pengurangan, penjumlahan, perkalian, dan pembagian yang dibuat dengan menggunakan 2 versi yaitu RPC dengan SOAP dan RPC dengan DCOM. DCOM memiliki kelebihan yaitu waktu koneksi 1,99 kali lebih cepat dan performance dalam melakukan proses perhitungan 9,92 kali lebih cepat dibandingkan SOAP pada percobaan dalam melakukan perhitungan loop sebanyak seribu kali.",
+  "creators": "TEGUH WIJAYA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0028/INF/2003; Teguh Wijaya (26498030)",
+  "subjects": "REMOTE PROCEDURE CALL; SIMPLE OBJECT ACCESS PROTOCOL"
+}

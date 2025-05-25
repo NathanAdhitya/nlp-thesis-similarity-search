@@ -1,0 +1,14 @@
+{
+  "id": "24321",
+  "title": "Perencanaan kolom beton bertulang dengan program komputer",
+  "abstract": "Pada tugas akhir yang berjudul \" Perencanaan Kolom Beton Bertulang Dengan Program Komputer \" ini akan dibahas mengenai cara perhitungan luas tulangan kolom yang dibutuhkan dengan memakai program komputer. Beban kerja yang diperhitungkan disini adalah gaya normal dan momen lentur satu arah, dimana beban tersebut sudah harus dikalikan dengan sejumlah koefisien yang diperlukan sesuai persyaratan yang ada di ACI 318-83. Metode yang dipakai adalah metode batas dan syarat-syarat penulangan disesuaikan dengan peraturan ACI 318-83. Program komputer yang dibahas dalam tugas akhir ini, berlaku bagi kolom dengan penampang bujur sangkar, persegi panjang dengan tulangan tidak tersebar merata atau tersebar merata pada keempat sisi penampang.Selain itu juga tersedia program komputer untuk penampang lingkaran dengan tulangan tersebar merata di sekeliling lingkaran. Dalam tugas akhir ini juga dibahas suatu studi mengenai diagram interaksi M-N untuk kolom dengan penampang bujur sangkar, persegi panjang, lingkaran dengan tulangan tersebar merata diseluruh sisi penampang. Hasil studi tersebut akan memperlihatkan pengaruh jumlah tulangan yang dipasang terhadap luas tulangan total kolom yang dibutuhkan. Salah satu hasil dari studi tersebut menunjukkan bahwa pada penampang bujur sangkar dan persegi panjang dengan tulangan tersebar merata pada keempat sisi penampang, akan mampu memikul beban normal dan momen lentur satu arah yang lebih besar jika jumlah tulangan yang dipasang paling sedikit yang masih memenuhi syarat penulangan. Dari hasil studi ini akan memberikan gambaran mengenai jumlah tulangan yang akan dipasang pada waktu menghitung luas tulangan total yang dibutuhkan dengan program komputer. Jadi pemakaian program komputer ini dalam merencanakan kolom beton bertulang akan mempersingkat waktu penyelesaian dan hasil perhitungan yang lebih teliti sehingga akan diperoleh luas tulangan total yang lebih mendekati kebutuhan yang sesungguhnya.",
+  "creators": "RAHADIAN RAHARJO; BUDI SANTOSO",
+  "contributors": "Daniel Zefania Pribadi (Advisor 1); Hurijanto Koentjoro (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 322 S; Rahadian Rahardjo (282008), Budi Santoso (283116)",
+  "subjects": "COLUMNS, CONCRETE-COMPUTER PROGRAMS; REINFORCED CONCRETE STRUCTURES-COMPUTER PROGRAMS"
+}

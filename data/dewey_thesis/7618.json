@@ -1,0 +1,14 @@
+{
+  "id": "7618",
+  "title": "Pembuatan aplikasi association rule mining dengan metode pincer search pada apotik \"X\"",
+  "abstract": "Pada dunia yang perkembangan teknologinya berkembang pesat ini, tingkat persaingan ekonomi yang terjadi juga semakin tinggi. Seorang pengambil keputusan suatu perusahaan, dituntut untuk dapat melihat peluang-peluang yang dapat meningkatkan penjualan perusahaan tersebut. Jika jumlah data yang dimiliki perusahaan tersebut sangat besar, akan sulit dilakukan analisa secara manual. Untuk itulah diperlukan suatu software untuk membantu dalam menganalisa datadata tersebut dengan cepat dan tepat, sehingga dapat dihasilkan suatu knowledge yang berguna bagi peningkatan efisiensi dan efektivitas perusahaan, salah satunya adalah dengan data mining. Penulis mencoba menerapkan data mining tersebut pada sebuah apotek, yang memiliki kemiripan dengan supermarket dimana biasanya market basket analysis dilakukan. Software yang dibuat akan menggunakan algoritma pincer search. Dalam pembuatan software, penulis mengumpulkan data-data yang diperlukan untuk analisa data mining ini. Data-data yang terkumpul akan dipersiapkan terlebih dahulu dengan proses cleaning dan integration beberapa table sehingga terbentuk suatu tabel yang berisi cukup informasi untuk dilakukan mining. Setelah itu juga dilakukan pemilihan periode untuk dianalisa sekaligus mentransformasi datanya ke dalam bentuk yang lebih mudah diolah oleh software. Data-data yang sudah dipersiapkan tersebut akan diolah sesuai algoritma untuk menghasilkan frequent itemsets yang pada akhirnya akan menghasilkan association rules dari data-data yang dianalisa. Rules akan ditampilkan dalam bentuk grafik dan tabel. Penulis menggunakan software Borland Delphi 7 dan Microsoft SQL Server 2000 dalam pembuatan software ini. Dengan menggunakan output dari software ini, yang berupa association rules dan grafik, pengambil keputusan dapat mengetahui barang-barang apa saja yang sering dibeli bersamaan oleh konsumen di apotek x. Informasi ini akan memberikan pertimbangan tambahan bagi pengambil keputusan dalam pengambilan keputusan.",
+  "creators": "EDWARD SUSANTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000392/INF/2005; Edward Susanto (26401091)",
+  "subjects": "SOFTWARE ENGINEERING; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

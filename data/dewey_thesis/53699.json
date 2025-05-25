@@ -1,0 +1,14 @@
+{
+  "id": "53699",
+  "title": "Prediksi penjualan pada data penjualan perusahaan x dengan membandingkan metode GRU, SVR, dan SARIMAX",
+  "abstract": "Sales forecasting merupakan sebuah usaha untuk melakukan prediksi penjualan menggunakan beberapa metode, seperti metode statistic, machine learning, dan lain-lain. Sales forecast dinyatakan penting karena forecast yang buruk dapat berdampak pada inventory perusahaan sehingga dapat menyebabkan penyimpanan barang terlalu banyak maupun terlalu sedikit sehingga menyebabkan perusahaan rugi. Oleh karena itu, diperlukan sebuah model yang dapat melakukan prediksi penjualan supaya perusahaan dapat melakukan perencanaan sebelum melakukan pengisian stok barang. Namun, forecast tidak bisa dilakukan secara langsung, karena data penjualan sebuah perusahaan pasti dipengaruhi oleh berbagai macam faktor dan penjualan bulan yang lalu tidak selalu sama dengan yang akan datang, sehingga perlu adanya data external dalam melakukan prediksi penjualan. Oleh karena itu, pada skripsi ini akan dilakukan sebuah prediksi menggunakan 3 model, yaitu model GRU, SVR dan SARIMAX dengan bantuan data external berupa data IHK dan data Inflasi. Selain itu, pada skripsi ini juga dilakukan sebuah uji korelasi untuk mengetahui apakah data penjualan yang akan diprediksi memiliki signifikansi / keterkaitan dengan data external sehingga membantu dalam memprediksi data penjualan. Hasil yang didapat dari penelitian ini adalah data pot lebih cocok menggunakan data univariate dengan model GRU, dengan RMSE Train 3.22, RMSE Test 2.93. Untuk data hanger dan sealware, model yang paling bagus untuk diterapkan prediksi adalah model SARIMAX dengan jenis data univariate (RMSE 30.43) dan dengan jenis data multivariate (RMSE 8.07).",
+  "creators": "JORDAN NAGAKUSUMA",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022214/INF/2022; Jordan Nagakusuma (C14180102)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); SALES FORECASTING; INFORMATION RESOURCES MANAGEMENT"
+}

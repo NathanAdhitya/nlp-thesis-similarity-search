@@ -1,0 +1,14 @@
+{
+  "id": "15978",
+  "title": "Perbandingan antara algoritma Neh dengan simulated annealing menggunakan tabel move desirability untuk penjadualan produksi flowshop di PT Wim Cycle",
+  "abstract": "Menentukan suatu penjadualan produksi yang hanya berdasarkan pada pengalaman atau common sense, tidak berdasarkan pada suatu sistem penjadualan yang sistematis akan banyak menimbulkan masalah, apalagi fasilitas produksi yang ada adalah terbatas sehingga mengakibatkan perusahaan seringkali terlambat untuk menyelesaikan permintaan dari konsumen, ataupun adanya waktu idle antar departemen yang besar Hal tersebut dialami pleh PT Wijaya Indonesia Makmur Bicyles yang bergerak dibidang industri manufaktur sepeda yang bermerk WIM Cycle. Perusahaan tersebut terletak di Jl Raya Driyorejo km 20, Bambe-Gresik. Fasilitas dan aliran produksi yang banyak digunakan disana adalah bertipe flowshop. Masalah yang ada sekarang ini adalah sering terjadi keterlambatan frame di bagian perakitan, apalagi frame merupakan komponen utama dalam perakitan Apabila waktu penyelesaiannya tidak cepat akan menyebabkan komponen-komponen sepeda lainnya seperti stir, sokstir, standar, velg dll tidak dapat dirakit dan idle time di bagian perakitan akan semakin besar. Keadaan ini akan menyebabkan permintaan dari konsumen tidak dapat dipenuhi tepat pada waktunya. Oteh karena itu, Tugas Akhir ini ditujukan untuk mendapatkan sistem penjadualan yang baik dengan tujuan meminimumkan makespan (waktu penyelesaian produk). Metode yang digunakan adalah algoritma NEH dan Simulated Annealing with Move Desirability for Jobs, yang pada akhirnya akan dibandingkan mana yang terbaik di antara kedua algoritma tersebut.",
+  "creators": "SURYA HENDRAWAN",
+  "contributors": "Tessa Vanina Soetanto (Advisor 2); Siana Halim (Examination Committee 1); Didik Wahjudi (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 228/TI-54/1999; Surya Hendrawan (25495078)",
+  "subjects": "SCHEDULING-MATHEMATICAL MODELS; WORK MEASUREMENT-MATHEMATICAL MODELS"
+}

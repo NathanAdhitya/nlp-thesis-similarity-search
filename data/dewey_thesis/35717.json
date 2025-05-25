@@ -1,0 +1,14 @@
+{
+  "id": "35717",
+  "title": "Aplikasi segmentasi huruf Jawa",
+  "abstract": "Huruf Jawa sebagai simbol dan bukti keanekaragaman budaya yang ada di Indonesia. Namun, penggunaan bahasa Jawa dan penulisan huruf jawa di Indonesia semakin jarang digunakan. Masyarakat lebih condong untuk mempelajari bahasa Indonesia atau bahasa asing seperti bahasa Inggris dan bahasa Mandarin. Salah satu proses konservasi. Huruf Jawa adalah dengan aplikasi pengenalan huruf Jawa, maka pada skripsi ini akan membuat aplikasi segmentasi. Sehingga dari aplikasi ini menjadi tahap pre-processing pengenalan huruf Jawa. Aplikasi ini akan memproses dokumen-dokumen dalam tulisan huruf Jawa, dan mensegmentasi objek tulisan dalam dokumen tersebut. Metode yang digunakan dalam mensegmentasi dokumen huruf jawa ini ada dua yaitu pertama adalah hough transform yang digunakan untuk skew detection dalam dokumen. Kedua adalah projection profile yang akan digunakan untuk mensegmentasi dokumen tersebut. Aplikasi ini dibuat menggunakan Microsoft Visual Studio 2010 sebagai IDE dan C# sebagai bahasa pemrogramannya. Dari hasil pengujian pada Bab 5 menunjukkan intensitas cahaya, konsistensi jarak antar baris, ukuran dan jenis huruf, perbedaan ketebalan tulisan akan mempengaruhi hasil akhir dari aplikasi. Hasil dari metode projection profile dapat mensegmentasi 77% dari dokumen dengan jarak antar baris yang konsisten. Metode filling region dapat mensegmentasi sampai 63.5% segmen tulisan yang overlap.",
+  "creators": "SINGGIH MARDIANTO SOEPHOM",
+  "contributors": "Liliana (Advisor 1); Gregorius Satiabudhi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021385/INF/2014; Singgih Mardianto Soephomo (26411065)",
+  "subjects": "COMPUTER SCIENCE; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

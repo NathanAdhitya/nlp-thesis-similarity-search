@@ -1,0 +1,14 @@
+{
+  "id": "9797",
+  "title": "Pembuatan situs web untuk akses data EPSBED (evaluasi program studi berdasarkan evaluasi diri) jurusan teknik elektro Universitas Kristen Petra",
+  "abstract": "Pada era informasi seperti saat ini, kemudahan dalam mendapatkan informasi merupakan suatu hal yang sangat penting terutama dalam sektor pendidikan. Salah satu cara untuk mendapatkan kemudahan maka dibuat suatu sistem informasi berbasis web yang mempermudah para pengguna dalam mendapatkan informasi seputar pendidikan. Sistem informasi EPSBED (Evaluasi Program Studi Berdasarkan Evaluasi Diri) berbasis web dibuat untuk mempermudah user mendapatkan informasi yang diperlukan. Langkah awal yang dilakukan dalam proses pembuatan website adalah merubah database FoxPro ke bentuk database MySQL dengan menggunakan software bantuan yaitu White House DBF2SQL, kemudian menganalisis data, membuat desain sistem, serta mendesain struktur menu web dan desain interface dari web tersebut, setelah itu ditentukan pemakaian software. Pada aplikasi ini, software yang dipakai adalah Macromedia Dreamweaver 8 untuk pembuatan desain interface, MySQL (3.23.48) sebagai manajemen database, dan PHP (4.1.1) untuk bahasa pemrogramannya. Hasil yang didapatkan dari pembuatan aplikasi ini adalah sistem informasi yang berbasis web dan dilengkapi fasilitas update data sebagai aplikasi utama untuk menambah, menghapus ataupun mengubah data, searching untuk membantu menemukan informasi yang dibutuhkan, serta guestbook sebagai sarana penempatan pesan dari user, kemudian terdapat kuesioner yang berfungsi sebagai penilaian terhadap dosen pengajar matakuliah.",
+  "creators": "DANDY CHRISTIAN LOPULALAN",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010073/ELK/2008; Dandy Christian Lopulalan (23401121)",
+  "subjects": "WEB SITES-DESIGN"
+}

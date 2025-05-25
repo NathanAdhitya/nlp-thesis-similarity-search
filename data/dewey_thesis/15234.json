@@ -1,0 +1,14 @@
+{
+  "id": "15234",
+  "title": "Membandingkan algoritma tabu search ben-fawzan dengan solusi awal neh dan algoritma tabu search ben-fawzan dengan solusi awal CDS pada permasalahan Flow shop",
+  "abstract": "Masalah penjadwalan sering kali ditemui dalam lantai produksi baik dalam hal permesinan, job serta sumber daya alam ataupun manusia yang terdapat dalam lingkungan produksi. Untuk mendapatkan penjadwalan yang baik dapat digunakan algoritma penjadwalan yang bersifat full enumeration atau heuristic. Algontma heuristic secara garis besar dapat dibagi dua yaitu generating heuristic algorithm yang menghasilkan suatu solusi atau improvement heuristic algorithm yang menghasilkan solusi dengan cara menyempurnakan suatu solusi awal. Penggunaan improvement heuristic algorithm diharapkan menghasilkan solusi yang lebih baik dibandingkan hanya menggunakan generating heuristic algorithm. Pada pembuatan tugas akhir ini dipakai improvement heuristic algorithm Tabu Search Ben-Fawzan dan yang menjadi solusi awal dipakai dua generating heuristic algorithm yaitu algoritma NEH dan algoritma CDS yang pada akhimya akan dibandingkan solusi awal mana yang manghasilkan hasil akhir yang paling baik. Permasalahan yang diambil penjadwalan flow shop yang mempunyai kriteria meminimumkan makespan. Permasalahan ini dilakukan dengan cara melakukan simulasi 5 job sampai 25 job dengan 5 mesin sampai 25 mesin. Pada simulasi yang dilakukan dalam tugas akhir ini ternyata penggunaan solusi awal CDS dianjurkan dipakai untuk permasalah jumlah job kurang dari atau sama dengan 7. Dalam tugas akhir ini diperoleh juga nilai mengenai rata-rata improvement NEH, rata-rata improvement CDS, rata-rata persentase perbedaaan makespan CDS Tabu lebih baik dibandingkan NEH Tabu, rata-rata persentase perbedaan makespan NEH Tabu lebih baik dibandingkan CDS Tabu, ekspektasi persentase perbedaan makespan CDS Tabu dan makespan NEH Tabu, dan beda proporsi NEH Tabu lebih baik dibandingkan CDS Tabu dengan proporsi CDS Tabu lebih baik dibandingkan NEH Tabu. Dapat disimpulkan bahwa semua hasil yang diperoleh diatas dipengaruhi oleh jumlah job dan jumlah mesin yang terdapat pada permasalahan yang dihadapi.",
+  "creators": "MICHAEL RAYMOND",
+  "contributors": "SANDY CITRO (Advisor 2); I Nyoman Sutapa (Examination Committee 1); Tessa Vanina Soetanto (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 332/TI-59/2000; Michael Raymond (25496050)",
+  "subjects": "SCHEDULING; PRODUCTION PLANNING"
+}

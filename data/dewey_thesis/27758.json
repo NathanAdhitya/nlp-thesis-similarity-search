@@ -1,0 +1,14 @@
+{
+  "id": "27758",
+  "title": "Perancangan dan pembuatan aplikasi tracking object pada video dengan metode kernel-based",
+  "abstract": "Pemanfaatan kamera sebagai pengawasan (CCTV) masih memiliki banyak kelemahan. Kamera hanya merekam sebuah kejadian saja, sehingga masih dibutuhkan pengawasan dari penjaga secara terus menerus. Kadang sebuah kejadian terabaikan begitu saja dan baru diketahui setelah beberapa saat. Keterlambatan itu menyebabkan informasi yang diperoleh menjadi tidak berguna. Dengan keterbatasan dalam pemberian informasi maka dibutuhkan sebuah kemampuan tambahan untuk meningkatkan kerja kamera pengawas. Salah satu kemampuan tambahan yang dapat digunakan adalah object detection yang membantu memberi informasi ketika ada pergerakan objek yang tertangkap kamera. Pengenalan gerakan objek bisa digunakan untuk memisahkan objek dengan latar belakangnya (background substraction). Dari pengenalan gerakan objek tersebut, maka dapat dilakukan proses pendeteksian gerakan. Pendeteksian gerakan dapat dikembangkan menjadi proses pelacakan dari gerakan-gerakan objek yang terekam oleh video sehingga dapat diimplementasikan pada video surveillance (pengawasan) pada CCTV. Hasil akhir dari perangkat lunak ini sebuah aplikasi yang dapat memberi tanda pada objek yang bergerak dari video tersebut. Perangkat lunak ini diujikan dengan beberapa video dengan kondisi yang berbeda-beda. Apabila objek pada video terlalu besar atau terlalu kecil proses tracking akan menjadi tidak akurat .",
+  "creators": "WILSON",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021206/INF/2012; Wilson (26409009)",
+  "subjects": "DIGITAL IMAGE PROCESSING"
+}

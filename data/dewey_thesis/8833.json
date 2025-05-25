@@ -1,0 +1,14 @@
+{
+  "id": "8833",
+  "title": "Pemetaan bidang 3D ke bidang 2D dengan kamera",
+  "abstract": "Nowadays, computer developtment is rapidly increase followed by developtment of its supporting device. One of that supporting device is camera. At this moment, there are many camera with various model built with the latest fixture and more function. Therefore, usage of camera become more and more vary in life. The objective of this final project was to use camera to mapping 3D object become 2D object on monitor screen. This could be happened by involve the use of camera calibration principle, which is taking some picture from 3D object with camera position is freely placed, about to get the 2D object view. The methods and functions were taken from Open source computer vision library and some research source that had been exist. The best methods was chosed by the creator itself. With this software computer can locate position of an object in an image, which captured by camera, by using centroids method based on object?s skin color and transformation of 3D points to 2D points and just the opposite by using camera calibration method. Results from experiments that had been done shows capability of camera calibration method to transform 3D points to 2D with tolerance range 0-1pixel. For calibration results there is an error but it below 1 pixel. As for object centroid detect, there are deviation about 10-20 pixel therefore program?s precision in transforming object position also change about 20-30 pixel from the exact points.",
+  "creators": "HENDARTO WIJONO",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/638/ELK/2003; Hendarto (23498097)",
+  "subjects": "CALIBRATION; COMPUTER VISION; CAMERAS"
+}

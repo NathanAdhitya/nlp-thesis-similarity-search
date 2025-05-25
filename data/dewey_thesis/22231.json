@@ -1,0 +1,14 @@
+{
+  "id": "22231",
+  "title": "Omni wheel robot untuk menghindari halangan",
+  "abstract": "Robot sebagai bentuk inovasi pada bidang teknologi industri telah mengalami perkembangan yang pesat demi mendukung kesejahteraan hidup manusia. Tugas Akhir ini mengangkat topik Omni wheel Robot untuk Menghindari Halangan. Omni wheel Robot mampu berjalan segala arah tanpa harus mengubah orientasi Robot. Dengan menggunakan persamaan kinematika yang diimplementasikan pada mikrokontroler kelas AVR yang menggunakan sensor rotary encoder yang merepresentasikan jarak tempuh Robot, membuat Robot dapat mengerti posisi dan jarak yang telah ditempuh Robot. Dengan bantuan motor servo dan sensor ultrasonik membuat Robot dapat bergerak dan mengertahui benda atau halangan yang ada disekitarnya. Hasil pengujian menunjukan bahwa Omni wheel Robot dapat bermanuver tanpa mengubah orientasi Robot dan dapat menghidari halangan. Pengujian dilakukan beberapa aspek meliputi pengujian sensor rotary encoder, arah gerak Robot dan posisi Robot.",
+  "creators": "YONATAN",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Handy Wicaksono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010920/ELK/2011; Yonatan (23407011)",
+  "subjects": "ROBOTS, INDUSTRIAL-COMPUTER PROGRAMS; ROBOTICS"
+}

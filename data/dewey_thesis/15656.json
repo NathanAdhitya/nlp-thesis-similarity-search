@@ -1,0 +1,14 @@
+{
+  "id": "15656",
+  "title": "Pembuatan perangkat lunak pengecekan kata untuk teks dalam bahasa indonesia",
+  "abstract": "Development of technology that run efficient and make work easier. The human work replace by the help of computer including the making of aplication program which support work. Recently, Indonesian language spelling check facility is needed to support aplication program for word processing. This program to be made for cheking every word in typing Indonesian languages. Principally, this program will check word by word from input text. It works basically by spelling check algorithm and use Delphi Languages. Spelling check algorithm include word match algorithm, elimination algorithm and another algorithm that compare input word with database. Spelling check prosess will be done after the \"end of word\" (delimitter, word mark, end of file.etc.) found. This spelling check program can check text from editor program in program aplication and another file which extention TXT and RTF. The weakness of this spelling check program is the referance words are large so it is not efficience.",
+  "creators": "ROBBY SUTANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/KOM/007/046; Robby Sutanto (23492152)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

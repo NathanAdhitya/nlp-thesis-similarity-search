@@ -1,0 +1,14 @@
+{
+  "id": "5246",
+  "title": "Animasi peluru air",
+  "abstract": "Air mancur merupakan suatu bagian dari taman yang memiliki daya tarik tersendiri dari segi artistik. Akan tetapi air mancur yang ada sekarang ini pada umumnya hanya menyemburkan air secara kontinu, padahal akan lebih menarik lagi apabila semburan air dapat diatur bentuknya. Oleh karena itu diperlukan suatu alat kontrol untuk mengatur bentuk semburan air pada air mancur, dalam hal ini untuk membuat semburan air membentuk peluru air. Alat kontrol ini dinamakan Animasi Peluru Air. Secara umum animasi peluru air ini menggunakan katup untuk memotong semburan air, yang dapat membuka dan menutup dengan waktu yang telah diatur. Untuk mekanisme katup digunakan solenoid untuk menarik poros katup agar membuka dan menutup. Pada rangkaian kontrol terdapat mikrokontroler AT89C51 dan LCD display. Dari prototype yang dibuat, telah menghasilkan tiga pola animasi peluru air (dari kombinasi lima buah katup yang digunakan). Dimana kelima katup tersebut diatur akan memancarkan air secara bergantian atau memancarkan air secara bersamaan. Ketiga pola animasi ini dapat dipilih melalui modul kontrol pada mikrokontroler. Panjang minimal peluru air yang dihasilkan 23,13 cm (dengan waktu membuka katup selama 100 ms). Semakin lama katup dibuka , maka dapat dihasilkan peluru air yang lebih panjang.",
+  "creators": "NOVERI MAMBEN",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Felix Pasila (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/628/ELK/2003; Noveri Mamben (23497074)",
+  "subjects": "PROGRAMMABLE CONTROLLER; AUTOMATIC CONTROL"
+}

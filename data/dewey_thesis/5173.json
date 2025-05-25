@@ -1,0 +1,14 @@
+{
+  "id": "5173",
+  "title": "Pembuatan modul fuzzy controller untuk PLC Festo",
+  "abstract": "Tugas akhir ini bertujuan untuk membuat modul kontrol fuzzy yang khusus digunakan untuk PLC Festo. PLC sebagai suatu sistem kontrol memerlukan stabilitas yang tinggi agar dihasilkan suatu proses kontrol yang optimal. Sistem yang dikontrol oleh PLC sangat beragam, salah satu hambatannya adalah PLC tidak memiliki suatu sistem untuk menghasilkan plant dengan output yang stabil apabila terdapat gangguan dari luar sistem. Software yang dibuat ini dinamakan dengan FuzzIPC yang merupakan pengembangan dari PetraFuz yang telah dibuat oleh laboratorium kontrol Universitas Kristen Petra Surabaya. Software ini cukup praktis dan murah karena tidak memerlukan suatu biaya untuk pembuatan hardware khusus. Pengguna hanya tinggal memanggil modul fuzzy ini pada program FST4 dengan perintah CFM/CMP. Software ini dapat digunakan untuk mengontrol plant dengan input maksimum sebanyak 5, output maksimum sebanyak 3 dan jumlah rule maksimum 700 buah. Waktu yang dibutuhkan untuk menjalankan program fuzzy dalam 1 cycle adalah 106.84 ms.",
+  "creators": "ENGGAL SETIAWAN",
+  "contributors": "Thiang (Advisor 1); HENDRIK THIEHUNAN (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/672/ELK/2003; Enggal Setiawan (23499072)",
+  "subjects": "FUZZY LOGIC; AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

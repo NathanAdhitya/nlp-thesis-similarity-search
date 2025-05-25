@@ -1,0 +1,14 @@
+{
+  "id": "2494",
+  "title": "Penjadwalan produksi menggunakan algoritma genetika di PT. Sinar Angkasa Rungkut",
+  "abstract": "Pl. Sinar Angkasa Rungkut (SAR) adalah perusahaan rnanufaktur yang memproduksi incandescent lamp, fluorescent lamp sebagai produk utama, selain itu P.T. Sinar Angkasa Rungkut saat ini juga telah mernproduksi sendiri ? 90 % dari bahan baku dan bahan penunjang yang diperlukan untuk pembuatan lampu. Dalam kegiatan produksinya, pihak perusahaan tidak menggunakan penjadwalan produksi dengan metode tertentu dan bagian produksi melakukan produksi secara terus menerus dan massal untuk memenuhi kapasitas gudang, sehingga penjadwalan produksinya kurang diperhatikan. Hal ini menyebabkan terjadinya peningkatan makespan. Tujuan dari penelilian ini adalah untuk membuat penjadwalan produksi yang meminimumkan makespan dengan menggunakan metode Algoritma Genetika, sehingga dapat memberikan altematif kepada pihak perusahaan. Hasil yang didapat dari penjadwalan mula-mula perusahaan adalah Cmax = 10.235.360 detik, sedangkan Algoritma CDS dan Random berturut-turut Cmax = 8.374.405 detik dan Cmax = 8.496.810 detik, Algoritma Genetika menghasilkan Cmax = 8.180.020 detik. Dengan demikian dapat ditarik kesimpulan bahwa penjadwalan dengan Algoritma Genetika menghasilkan makespan yang lebih kecil dari penjadwalan mula-mula yang dilakukan di perusahaan.",
+  "creators": "ERVAN IRAWAN",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 592/TI-073/2002; Ervan Irawan (25496121)",
+  "subjects": "PRODUCTION MANAGEMENT"
+}

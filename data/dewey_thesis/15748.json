@@ -1,0 +1,14 @@
+{
+  "id": "15748",
+  "title": "Perencanaan dan pembuatan alat ukur induktansi 1 H-100mH dengan fasilitas auto-range menggunakan mikrokontroler 68HC11",
+  "abstract": "INDUKTANSI L didalam suatu peralatan elektronik tidaklah asing, saat ini sebagian besar rangkaian elektronik memakai komponen induktansi di dalamnya, untuk itu diperlukan alat ukur induktansi. Pada Tugas Akhir ini dibuat suatu alat ukur Induktansi yang Auto-Range. Alat ini mengukur Induktansi yang telah diumpani oleh signal generator. Kemudian tegangan yang ada di Induktansi dikonversikan oleh mikro-kontroler M68HC11 lalu ditampilkan hasilnya, dengan memakai pembatasan pengukuran dari 1 uH sampai lOOmH. Dari hasil uji peralatan yang telah kami buat, ternyata hanya mampu membaca induktansi dari 7 uH sampai 427uH. Hal tersebut dikarenakan bahwa dalam pengukuran yang mempunyai range cukup lebar diperlukan pengumpan frekuensi dan penguatan gain yang lebih beragam sehingga jarak range pengukuran yang lebar dapat dipenuhi.",
+  "creators": "VICTORIOUS AUGUS SETIADI",
+  "contributors": "Drs. Sugiono Sugiharto, M.M., Ph.D. (Advisor 1); Thiang (Advisor 2); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/018/412; Victorious Augus Setiadi (23490121)",
+  "subjects": "ELECTRONIC MEASUREMENTS-COMPUTER PROGRAMS; FREQUENCIES OF OSCILLATING SYSTEMS"
+}

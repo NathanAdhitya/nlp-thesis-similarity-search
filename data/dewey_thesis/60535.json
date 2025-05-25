@@ -1,0 +1,14 @@
+{
+  "id": "60535",
+  "title": "Konsultasi studi di industri pendidikan: studi kasus universitas x memanfaatkan teknologi GPT (Generative Pre-Trained Transformer) open aI",
+  "abstract": "Universitas X memiliki layanan informasi yang bertujuan untuk membantu masyarakat, terutama calon mahasiswa dan calon orang tua mahasiswa untuk memperoleh informasi seputar Universitas X. Universitas X masih membutuhkan petugas administrasi untuk menjawab pertanyaan yang diajukan oleh calon mahasiswa secara manual. Hal ini tentu kurang efektif, mengingat jam kerja petugas yang terbatas, dan membutuhkan banyak sumber daya manusia. Dengan adanya chatbot, pertanyaan dari calon mahasiswa bisa terjawab secara otomatis sehingga tidak memerlukan banyak sumber daya manusia untuk memberikan jawaban dengan cepat tanpa menunggu lama. Oleh karena itu, skripsi ini akan menggunakan GPT untuk mengembangkan chatbot. Akan ada 2 model yang bisa digunakan pada chatbot. Model yang pertama akan menggunakan prompt engineering dan model yang kedua akan menggunakan fine tune. Kedua model akan dibandingkan mana yang lebih baik menggunakan bert score terlebih dahulu. Model yang lebih baik akan dipilih untuk dijadikan model yang akan dicoba oleh staf universitas X dalam survey yang dilakukan. Hasil bert score rata-rata tertinggi chatbot sebesar 79,90%, dengan menggunakan model prompt engineering. Untuk model fine tune rata-rata tertinggi dari bert score sebesar 72,53%. Untuk survey kepada calon mahasiswa berhasil mendapatkan 3 responden. Hasil survey kepada calon customer menunjukkan bahwa 66,67% responden puas dan 33,33% responden cukup puas pada hasil chatbot yang telah dibuat.",
+  "creators": "STEVEN KUSUMA",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Agustinus Noertjahyana (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022472/INF/2024; Steven Kusuma (C14200079)",
+  "subjects": "ARTIFIAL INTELLIGENCE; CHATBOTS; QUESTION ANSWERING SYSTEMS"
+}

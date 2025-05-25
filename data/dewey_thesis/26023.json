@@ -1,0 +1,14 @@
+{
+  "id": "26023",
+  "title": "Perancangan dan pembuatan IT asset management system meliputi pembelian, perawatan dan audit, berbasis web pada PT. Hartono Elektronika",
+  "abstract": "PT. Hartono Elektronika adalah perusahaan yang bekerja dalam bidang penjualan dan pembelian barang-barang elektronik. Saat ini PT. Hartono Elektronika melaksanakan pembelian untuk kebutuhan perusahaan dan karyawannya sendiri secara manual (menelepon vendor dan meminta penawaran), prosedur ini banyak memakan waktu dan memperlambat kinerja perusahaan. Dengan adanya IT Asset Management ini, diharapkan dapat mengatur pembelian seefisien mungkin dan penggunaan yang maksimal, dan pengelolaan-pengelolaan di dalamnya seperti maintenance hardware/software, audit (pemeriksaan barang-barang yang ada dan peletakan tiap barang), biaya operasional, dan contract sebuah software. Penulis merancang berbagai macam desain sistem yang meliputi sistem pembelian, maintenance hardware, audit, sampai disposal, yang dimana semua sistem tersebut dirancang dengan Data Flow Diagram dan Entity Relationship Diagram. Pembuatan program ini menggunakan bahasa pemrograman PHP yang berbasis web dan untuk proses penyimpanan data, digunakan database PostgreSQL. Program yang dibuat menghasilkan laporan-laporan yang berguna untuk dapat melihat transaksi yang telah dilakukan pada periode tertentu. Berdasarkan hasil pengujian, fitur-fitur yang telah terdapat pada program yang dibuat dapat membantu dalam melakukan proses transaksi pembelian, maintenance hardware, audit, sampai disposal. Kebutuhan akan perusahaan ini juga telah terpenuhi melalui laporan yang dihasilkan oleh program.",
+  "creators": "DENNY REVANO GO",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021081/INF/2011; Denny Revano Go (26406145)",
+  "subjects": "DATABASE DESIGN; FINANCIAL MANAGEMENT SYSTEM (INFORMATION RETRIEVAL SYSTEM); PROGRAMMING (ELECTRONIC COMPUTERS); WEBSITES-DESIGN"
+}

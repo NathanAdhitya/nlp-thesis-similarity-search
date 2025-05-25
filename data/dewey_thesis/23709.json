@@ -1,0 +1,14 @@
+{
+  "id": "23709",
+  "title": "Perencanaan dan pembuatan alat pendeteksi dan penentu letak hubung singkat pada kabel dengan menggunakan mikroprosesor 8088",
+  "abstract": "Dalam menentukan letak hubung singkat maka orang dapat memakai berbagai metode untuk menentukannya, salah satu contoh dengan Metode Murray dan Metode Varley, hal ini masih memungkinkan untuk dapat menentukan letak hubung singkat. Metode ini tidak mudah karena harus memakai sumber tegangan yang tetap dan jenis kabel yang sama dengan yang hendak ditentukan letaknya dan alat ukurnya memakai GALVANOMETER. Pada tugas akhir ini dibuat suatu alat penentu letak hubung singkat yang hanya membutuhkan data luas penampang dan rho kabel saja. Alat penentu hubung singkat akan bekerja dengan sendirinya tanpa ada kabel yang identik dengan kabel yang akan dicari letak hubung singkatnya. Kabel yang mengalami hubung singkat tersebut langsung saja diinputkan ke alat penentu hubung singkat maka alat akan memberi informasi tegangannya bila ditampilkan, tetapi untuk menentukan letaknya maka data luas penampang dan rho harus diinputkan dari keyboard. Selanjutnya letak hubung singkat akan dapat ditentukan. Digunakan mikroprosesor 8088 karena mempunyai fasilitas 16 bit register untuk mode perkalian atau pembagian. Tetapi untuk keperluan yang lebih telit{ maka dapat ditingkatkan menjadi 32 bit. Oleh karena itu maka dalam proses pengolahan data secara aritmatika akan lebih mudah bila dibandingkan denagn mikrokontroller. Karena mikroprosesor mampu untuk dikerjakan pada 32 bit mode pembagian dan perkalian maka hasilnya akan lebih teliti. Pada pengujian alat penentu letak hubung singkat dilakukan dengan menguji rangkaian tanpa sumber arus tetap dengan tegangan input dari DC Current/Voltage Standard didapatkan hasilnya linear dan menguji rangkaian sumber arus tetap dengan panjang kabel yang berubah ubah dihasilkan arus yang selalu tetap. Pada pengujian seluruh sistem terhadap panjang kabel yang berubah-ubah didapatkan hasil yang linear tetapi terdapat suatu kesalahan yang selalu tetap. Alat ini dapat digunakan untuk menentukan panjang kabel, harga R kabel dan drop tegangan kabel.",
+  "creators": "ADI WINATA",
+  "contributors": "SUPENO DJANALI (Advisor 1); Limboto Limantara (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/015/0136; Adi Winata (23487070)",
+  "subjects": "INTEL 8088 (MICROPROCESSOR); ELECTRIC APPARATUS AND APPLIANCES"
+}

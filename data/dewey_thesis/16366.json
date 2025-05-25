@@ -1,0 +1,14 @@
+{
+  "id": "16366",
+  "title": "Perencanaan sensor pengukur kelembaban udara menggunakan mikrokontroller 8031",
+  "abstract": "Udara sangat mudah menyerap air dalam bentuk uap air yang tergantung dari temperatur udara. Temperatur udara makin besar makin banyak air menguap yang dapat mengisi udara dan akan berlangsung terus sampai terjadi suatu keseimbangan dimana udara menjadi jenuh dan penyerapan air tidak banyak. Psikometrik merupakan salah satu cara untuk mengukur kelembaban,yaitu dengan menggunakan dua buah alat pengukur suhu (termometer). Termometer yang pertama dibungkus dengan menggunakan kain basah dan yang lainnya dibiarkan terbuka. Hasil pembacaan suhu kedua termometer tersebut kemudian dimasukkan ke dalam tabel psikometrik untuk mengetahui harga kelembabannya. Hasil dari kedua sensor suhu (termometer) adalah signal analog, maka hams diubah menjadi signal digital dengan menggunakan ADC lalu diteruskan ke mikroprosesor dan ditampilkan ke display. Pembacaan harga kelembaban terganggu karena terjadi ketidak stabilan tegangan yang masuk ke ADC.",
+  "creators": "AGOES SOEKJATO",
+  "contributors": "IRWAN SAHLI (Advisor 1); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/042/0387; Agoes Soekjato (23490140)",
+  "subjects": "ELECTRIC CONTROLLERS-DATA PROCESSING; HUMIDITY-CONTROL-DATA PROCESSING"
+}

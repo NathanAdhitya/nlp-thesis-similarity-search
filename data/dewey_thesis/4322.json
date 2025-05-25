@@ -1,0 +1,14 @@
+{
+  "id": "4322",
+  "title": "Studi pembuatan prototipe 3D game engine",
+  "abstract": "3D Game hari-hari ini semakin luas digemari. Ini tidak lepas dari semakin terjangkaunya harga teknologi pendukungnya. Memang untuk membuatnya lebih sulit daripada membuat game 2D, tapi hasil yang didapatkan cukup sepadan. Bahkan dengan ditemukannya teknik cel-shading, model 3D bisa ditampilkan menjadi mirip gambar 2D. Akibatnya banyak game lebih memilih fitur ini daripada grafik 2D biasa. Di dalam tugas akhir ini teknik cel-shading tersebut akan diterapkan ke dalam sebuah prototipe game engine sebagai salah satu fiturnya. Dengan demikian prototipe game engine yang dibuat bisa menangani 2 macam tipe grafik, 3D biasa dan cartoon-look 3D. Pembuatan prototipe engine ini bertujuan untuk memudahkan pembuatan game 3D yang dapat dijalankan pada komputer berbasis Windows. Pembuatan engine dilakukan dengan menggunakan program Microsoft Visual C++ .NET dan SDL 1.2.7 dengan OpenGL sebagai sistem grafisnya. Dari hasil pengujian diketahui bahwa prototipe engine ini berhasil melakukan fungsi-fungsi dasar yang diperlukan sebuah 3D game engine. Fungsi-fungsi itu antara lain adalah kemampuan manajemen memori sederhana, logging, profiling, penanganan input dari analog joystick, rendering dan animasi model 3D, loading custom game map, penanganan suara, penanganan kamera dan fitur cel-shading.",
+  "creators": "SONY TANOYO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Ibnu Gunawan (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000256/INF/2004; Sony Tanoyo (26400100)",
+  "subjects": "COMPUTER GRAPHICS--COMPUTER PROGRAMS; COMPUTER GAMES; COMPUTER GRAPHICS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "57400",
+  "title": "Sistem pemilahan dua produk menggunakan robot manipulator 6-axis",
+  "abstract": "Pesatnya perkembangan revolusi industri 4.0 mempengaruhi perkembangan pendidikan. Sehingga untuk mempersiapkan mahasiswa pada era industri 4.0, maka laboratorium elektronika pada Universitas Kristen Petra membuat modul berdasarkan kebutuhan industri saat ini. Pemilahan dua produk merupakan sebuah kebutuhan bagi industri manufaktur. Saat ini pemilahan produk sudah beralih dari yang dilakukan manual menjadi otomatis untuk meningkatkan efisiensi. Sistem yang akan dibuat ini akan menggunakan universal robot 3 CB-Series untuk mengambil produk pada konveyor, web camera sebagai computer vision dengan menggunakan OpenCV untuk pendeteksian produk, dan encoder untuk melakukan conveyor tracking. Berdasarkan hasil pengujian, system berhasil melakukan pemilahan produk berdasarkan rasa produk dengan membedakan warna dari kotak produk. Sistem dapat berjalan dengan lancar pada kecepatan konveyor 0.0708 meter/dettik dan tingkat intensitas cahaya sebesar 1.36 hingga 1.72 lumens yang memiliki tingkat keberhasilan mencapai 99%. Apabila terdapat produk permen yang masuk ke dalam sistem namun warnanya tidak terdaftar pada program OpenCV maka produk tersebut tidak akan terdeteksi.",
+  "creators": "AGNES SOESANTO",
+  "contributors": "Handry Khoswanto (Advisor 1); Indar Sugiarto (Advisor 2); Handy Wicaksono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011047/ELK/2023; Agnes Soesanto (C11190001)",
+  "subjects": "INDUSTRIAL REVOLUTION; ROBOTS; WEB CAMERAS"
+}

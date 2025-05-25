@@ -1,0 +1,14 @@
+{
+  "id": "4337",
+  "title": "Perencanaan dan pembuatan aplikasi wap untuk tracking system pengiriman barang",
+  "abstract": "Saat terjadi keterlambatan atau tidak sampainya barang yang dikirimkan dengan menggunakan jasa pengiriman, para pengguna jasa ini tidak akan mengetahui kejadian ini kecuali diberitahu oleh pihak perusahaan jasa pengiriman. Dengan menggunakan aplikasi WAP (Wireless Application Protocol) ini mereka dapat memperoleh informasi mengenai barang yang mereka kirimkan secara online, dimana saja dan kapan saja. Informasi yang akan diberikan kepada pengguna jasa pengiriman barang ini adalah posisi dari barang, asal dan tujuan pengiriman, dan rute yang ditempuh. Tracking system ini terdiri atas dua bagian besar yaitu sistem untuk kantor cabang dan situs WAP. Database yang digunakan adalah MySQL, sedangkan server untuk sistem ini adalah IIS. Pengujian dilakukan dengan memasukkan data-data ke dalam sistem dan juga dengan mengujicobakan sistem pada user yang akan menggunakan sistem ini. Dari hasil pengujian dapat disimpulkan bahwa tracking system ini membantu user dalam melakukan pelacakan terhadap barang kiriman.",
+  "creators": "FEBRUANUS MARHISSA GULTOM",
+  "contributors": "Resmana Lim (Advisor 1); Agustinus Noertjahyana (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 020099/INF/2003; Februanus M. Gultom (26499176)",
+  "subjects": "WAP (WIRELESS APPLICATION PROTOCOL); INTERNET (COMPUTER NETWORKS)"
+}

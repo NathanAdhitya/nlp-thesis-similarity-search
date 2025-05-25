@@ -1,0 +1,14 @@
+{
+  "id": "47928",
+  "title": "Perancangan alat analisis kinerja mesin Thimonnier, Takaran6 dan BIB pada PT Smart, Tbk.",
+  "abstract": "PT Sinar Mas Agro Resources and Technology Tbk. (PT SMART Tbk.) merupakan perusahaan yang menghasilkan produk-produk berbasis kelapa sawit. Produk yang dihasilkan oleh PT SMART Tbk. antara lain seperti minyak goreng, margarin, shortening, dan specialty fats. Salah satu proses yang terdapat pada perusahaan adalah proses filling. Proses filling adalah proses untuk memasukkan minyak goreng ke dalam kemasan. Volume minyak dalam kemasan diatur sesuai dengan BDKT (Berat dalam Kemasan Tertutup) namun di lain pihak perusahaan memiliki oil loss budget. Oil loss merupakan banyaknya minyak dalam kemasan yang melebihi volume yang telah ditentukan. Perusahaan mengharapkan oil loss dapat diminimalkan, dengan cara menjaga proses pada mesin terkontrol dan kapabilitas mesin tinggi untuk setiap produk yang dihasilkan. Dashboard Excel dibangun untuk membantu memonitor dan menganalisis kinerja mesin dengan menggunakan SPC (Statistical Process Control) yang terdiri dari sigma level, control chart, dan capability index. Analisis lanjutan dilakukan dengan menggunakan eight control chart rules untuk mencari kemungkinan penyebab kurang optimalnya mesin. Salah satu penyebab yang telah ditemukan adalah kalibrasi alat. Jadwal kalibrasi alat telah harus ditentukan. Hasil Dashboard menyatakan bahwa sebagian besar mesin memiliki kinerja yang belum optimal. Secara umum nilai kapabilitas rendah, hal ini antara lain dikarenakan nilai USL yang terlalu optimis.",
+  "creators": "JESSI GRACEA MARIA",
+  "contributors": "Indriati Njoto Bisono (Advisor 1); Herri Christian Palit (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022334/IND/2020; Jessi Gracea Maria (25416079)",
+  "subjects": "PRODUCT MANAGEMENT; MACHINE-TOOLS-DESIGN"
+}

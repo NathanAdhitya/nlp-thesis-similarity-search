@@ -1,0 +1,14 @@
+{
+  "id": "35041",
+  "title": "Pembuatan sistem informasi akuntansi untuk UD X",
+  "abstract": "UD X adalah usaha dagang yang bergerak di bidang jual beli aki mobil di Surabaya. Sistem akuntansi pada UD X masih menggunakan cara manual dan tidak bisa menyediakan laporan keuangan kepada manajemen atau pemilik. Manualisasi seringkali menyebabkan human error, kesalahan akurasi perhitungan, penyajian data tidak relevan dan lain-lain. Untuk membantu menjawab permasalahan di atas, perusahaan memerlukan sebuah sistem informasi akuntansi yang terstruktur dan terintegrasi berbasis komputer. Pembuatan sistem informasi akuntansi ini dimulai dari analisa dan pengamatan terhadap sistem kerja dan data-data perusahaan. Kemudian dilanjutkan dengan perancangan sistem berupa pembuatan pencatatan master, pencatatan transaksi pembelian dan penjualan, serta pembuatan laporan. Dalam pembuatannya, penulis menggunakan Microsoft Visual Studio 2010 dan SQL Server untuk database-nya. Dari hasil pengujian program mampu menunjukkan adanya pencatatan master, pencatatan transaksi baik pembelian maupun penjualan, laporan stok, laporan pembelian dan penjualan, hutang dan piutang, serta laporan keuangan berupa laporan laba rugi dan neraca yang akurat.",
+  "creators": "ALBERTUS LEONARDO TJOKRO",
+  "contributors": "Yulia (Advisor 1); ANDY SETIABUDI (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021445/INF/2015; Albertus Leonardo Tjokro (26411036)",
+  "subjects": "DATABASE DESIGN; INFORMATION STORAGE AND INFORMATION SYSTEMS-ACCOUNTING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "53469",
+  "title": "Penerapan nonvolutional neural network dengan pre-trained model xception untuk meningkatkan akurasi dalam mengidentifikasi jenis ras kucing",
+  "abstract": "Memelihara hewan peliharaan merupakan hal yang sering dilakukan oleh manusia. Kucing merupakan salah satu hewan peliharaan yang seringkali digemari oleh manusia. Akan tetapi, untuk memelihara kucing peliharaan tidaklah mudah. Hal ini dikarenakan setiap ras kucing memiliki karakteristiknya sendiri yang mempengaruhi pola asuh. Oleh karena itu diperlukan suatu sistem yang dapat mengidentifikasi ras kucing untuk membantu seseorang dalam menentukan jenis ras kucing yang cocok dengannya. Sebelumnya, sudah ada penelitian tentang pendeteksian ras kucing menggunakan metode SSD Mobilenet_v1 FPN, akan tetapi akurasi yang dimiliki tidak cukup tinggi, yaitu 81.74%. Skripsi ini dilakukan dengan menggunakan metode transfer learning pada Pre-Trained Convolutional Neural Network Xception yang merupakan sebuah CNN Model yang terinspirasi oleh CNN Model Inception. Model Xception adalah sebuah model Inception yang modul Inception-nya diganti dengan depthwise separable convolutions. CNN Model Xception digunakan pada skripsi ini dengan maksud meningkatkan akurasi dalam mendeteksi jenis ras kucing. Hasil dari sistem menunjukan bahwa akurasi tertinggi yang dihasilkan dalam melakukan pendeteksian jenis ras kucing pada dataset The Oxford-IIIT Pet Dataset adalah 89.58% atau 0.8958. Dibandingkan dengan metode SSD Mobilenet_v1 FPN yang memiliki akurasi 81.74%, implementasi metode Xception memberikan peningkatan akurasi sebesar 7.84%. Selain itu, juga ditemukan bahwa kualitas sebuah dataset memiliki pengaruh terhadap akurasi model.",
+  "creators": "ABRAHAM IMANUEL",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022145/INF/2022; Abraham Imanuel (C14180066)",
+  "subjects": "ARTIFICIAL NEURAL NETWORKS; DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

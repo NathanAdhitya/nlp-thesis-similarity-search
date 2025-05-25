@@ -1,0 +1,14 @@
+{
+  "id": "43234",
+  "title": "Sistem rekomendasi item pada game dota 2 dengan multilayer perceptron neural network",
+  "abstract": "Sistem rekomendasi item pada game dota 2 dengan multilayer perceptron neural network Dota 2 adalah salah satu online game bergenre Multiplayer Online Battle Arena yang paling populer di dunia. Dota 2 dimainkan antara dua tim berisi 5 orang, di mana masing - masing tim harus saling menghancurkan markas satu sama lain untuk menang. Pada awal permainan, tiap pemain memilih satu karakter yang disebut “hero” yang masing - masing memiliki kemampuan unik. Dalam permainan ini, para pemain bertujuan untuk mengumpulkan resource berupa experience dan gold yang akan digunakan untuk membantu menghancurkan markas dari tim lawan. Gold digunakan untuk membeli item yang berfungsi untuk memperkuat hero pemain masing – masing. Pada Dota 2 versi 7.16, terdapat lebih dari 150 jenis item unik dengan efek yang beragam, sementara setiap pemain hanya bisa menggunakan 6 item secara aktif. Kombinasi item yang optimal tentunya sangat berpengaruh dalam mencapai kemenangan dalam permainan Dota 2. Menentukan kombinasi item yang paling optimal seringkali tidak mudah, baik bagi pemula maupun pemain berpengalaman. Oleh karena itu dibuatlah sistem rekomendasi untuk membantu pemain menentukan pilihan item. Ada beberapa penelitian sebelumnya terkait Dota 2 seperti sistem rekomendasi hero dan juga sistem prediksi hero pada saat picking phase. Sistem rekomendasi hero tersebut memiliki kekurangan di mana sistem tersebut kurang diuji, sementara sistem prediksi hero tersebut memiliki kekurangan yaitu akurasi yang rendah. Pada skripsi ini dibuat sebuah sistem rekomendasi pemilihan item dalam permainan Dota 2. Rekomendasi dihasilkan berdasarkan association rule yang dicari menggunakan algoritma Apriori menggunakan ribuan match data Dota 2. Untuk mengevaluasi kualitas rekomendasi yang dihasilkan, telah dilatih sebuah neural network jenis multilayer perceptron yang mampu menentukan persentase kemenangan berdasarkan pilihan item dengan akurasi sebesar 73,04%. Hasil dari pengujian terhadap sistem rekomendasi adalah rata – rata win rate sebesar 82,97%.",
+  "creators": "VINCENTIUS LEONARDO",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021816/INF/2019; Vincentius Leonardo (26415042)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

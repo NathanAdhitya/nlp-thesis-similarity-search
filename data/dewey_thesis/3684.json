@@ -1,0 +1,14 @@
+{
+  "id": "3684",
+  "title": "Perancangan dan pembuatan sistem layanan pesan singkat lokal pada aplikasi messaging menggunakan bluetooth dan LAN",
+  "abstract": "Komunikasi adalah salah satu kebutuhan manusia yang mendasar. Perkembangan teknologi komunikasi menghadirkan telepon seluler yang tidak hanya dapat digunakan untuk menelepon dan mengirimkan SMS, namun juga menjalankan aplikasi JAVA (MIDlet). Dengan makin diterimanya teknologi bluetooth sebagai suatu fitur standar pada telepon seluler, menjadikan telepon seluler makin memiliki beragam kemampuan. Tujuan tugas akhir ini adalah memberikan layanan pesan singkat lokal yang relatif lebih terjangkau dari sisi harga dengan memanfaatkan keberadaan telepon seluler dengan fitur bluetooth dan Local Area Network (LAN). Aplikasi terdiri dari 3 bagian yaitu: klien, information server dan database server. Untuk mengirim atau menerima pesan, klien mengirimkan request ke information server melalui bluetooth. Information server akan memproses request klien dan melakukan penyimpanan data ke database server atau pengambilan data dari database server bergantung pada request klien. Aplikasi pada telepon seluler dikembangkan dengan menggunakan Java 2 Micro Edition (J2ME). Untuk pemrosesan data digunakan Java 2 Standard Edition (J2SE) dibantu dengan library BlueCove dan Oracle9i sebagai database.",
+  "creators": "HARRY LESMANA",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Ibnu Gunawan (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010541/INF/2006; Harry Lesmana (26402084)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

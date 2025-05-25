@@ -1,0 +1,14 @@
+{
+  "id": "2112",
+  "title": "Pemodelan kendali sistem proses regenerasi bed active carbon di PT Molindo Inti Gas menggunakan metode fuzzy inference system",
+  "abstract": "Bed active carbon merupakan salah satu elemen penting pada proses produksi yang menentukan besarnya kandungan tingkat ketidakmurnian pada hasil akhir gas CO2. Permasalahan yang dialami adalah operator tidak memiliki standar waktu proses running dan regenerasi bed active carbon. Sehingga tingkat kejenuhan bed active carbon dalam menyerap faktor ketidakmurnian tidak diketahui dengan pasti. Tugas akhir ini membahas pemodelan kendali sistem proses regenerasi bed active carbon menggunakan Fuzzy Inference System untuk menghasilkan sebuah model simulasi yang sesuai dengan keadaan lapangan, sehingga nantinya dapat digunakan sebagai dasar untuk membantu perusahaan dalam menentukan setting input yang tepat untuk proses regenerasi. Hasil penelitian simulasi menggunakan model Fuzzy Inference System dengan membership function berdasarkan mean dan modus data. Dipilih model berdasarkan modus data yang menghasilkan output lebih bervariasi dan sesuai dengan keadaan lapangan sehingga setting range nilai input yang sesuai untuk waktu pemanasan adalah 9-10 jam, waktu pendinginan sebesar 4.66-5.32 jam dan 1500-2500 kg/hr untuk flow gas.",
+  "creators": "MIA DEWI KURNIAWATI; SHYNTIA FEBRIANA",
+  "contributors": "I Nyoman Sutapa (Advisor 1); Iwan Halim Sahputra, S.T., M.Sc., Ph.D. (Advisor 2); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010901/IND/2005; Mia Dewi Kurniawati (25401057), Shyntia Febriana (25401060)",
+  "subjects": "QUALITY CONTROL; PRODUCTION MANAGEMENT"
+}

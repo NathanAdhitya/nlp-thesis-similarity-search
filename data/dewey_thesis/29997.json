@@ -1,0 +1,14 @@
+{
+  "id": "29997",
+  "title": "Perancangan tata letak fasilitas PT Subur Industri Plastik menggunakan algoritma kriteria ganda craft dan blocplan",
+  "abstract": "PT Subur Industri Plastik (PT SIP) adalah perusahaan manufakturing yang memproduksi sol dengan tipe produksi Job Order. Keadaan PT SIP sekarang ini dirasakan kurang optimal dalam hal perpindahan jarak material sehingga diperlukan suatu pengaturan ulang dari tata letak fasilitas-fasilitas yang berhubungan dengan proses produksi dari perusahaan. Dengan melihat keadaan perusahaan tersebut, maka timbullah ide untuk memberikan suatu model layout yang lebih meminimalkan jarak perpindahan material. Hal ini disebabkan karena salah satu kriteria dari layout yang dikatakan baik apabila layout tersebut mempunyai jarak perpindahan material yang seminimal mungkin. Perancangan model layout yang dilakukan dalam tugas akhir ini adalah berdasarkan aliran material, dalam hal ini yang dinilai adalah frekuensi perpindahan material. Frekuensi perpindahan material dapat diukur secara kuantitatif (from-to chart) maupun secara kualitatif (Activity Relationship Chart). Algoritma yang digunakan dalam tugas skhir ini adalah algoritma Kriteria Ganda yang diolah dengan menggunakan CRAFT dan algoritma Dari hasil pengolahan data ternyata layout dari BLOCPLAN adalah model layout yang lebih meminimalkan jarak perpindahan material. Hal ini dikarenakan momen total dari layout BLOCPLAN paling kecil dibandingkan dengan momen total dari model layout lainnya. Dan bila dibandingkan dengan initial layout layout dari BLOCPLAN mengalami penurunan sebesar 22,86 %.",
+  "creators": "AIRIN FEBRINA KUSOEMA",
+  "contributors": "Julianingsih (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 445/TI-036/2001; Airin Febrina Kusoema (25496140)",
+  "subjects": "PLAN LAYOUT; MANUFACTURING INDUSTRIES; INVENTORY CONTROL"
+}

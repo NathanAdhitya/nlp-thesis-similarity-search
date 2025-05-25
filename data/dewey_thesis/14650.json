@@ -1,0 +1,14 @@
+{
+  "id": "14650",
+  "title": "Perencanaan dan pembuatan pengendali kecepatan motor universal(70 W, 100 V ac, o.7 A) melalui perintah suara manusia berbasis jaringan saraf tiruan",
+  "abstract": "Motor universal adalah motor yang penggunaannya sangat luas dalam kehidupan sehari-hari. Motor jenis ini dapat ditemukan pada berbagai peralatan rurnah-tangga seperti mesin jahit, mixer, blender, bor, dan Iain-lain. Metode pengaturan kecepatan motor ini bervariasi, tetapi umumnya menggunakan cara-cara manuaL Tujuan dari tugas akhir ini adalah membuat sebuah sistem pengendah kecepatan motor universal tanpa umpan balik yang mudah dioperasikan dan dapat diandalkan. Untuk mewujudkan sistem pengendah kecepatan motor dengan kriteria-kriteria tersebut diatas, maka penulis mencoba untuk merancang sebuah pengendah kecepatan motor melahii perintah suara manusia. Kata-kata perintah 'nol', 'satu', 'dua', 'tiga', dan 'empat' digunakan untuk mengendalikan kecepatan motor. Kata-kata perintah tersebut dimasukkan ke komputer melahii microphone dan direkam dengan menggunakan sound blaster. Hasil rekaman suara lalu diproses untuk mendapatkan parameter-parameternya. Selanjutnya, parameter-paremeter tersebut dimasukkan dalam jaringan saraf tiruan untuk dilatihkan. Setelah melalui fasa pengenalan, output jaringan saraf tiruan dapat digunakan untuk mengendalikan rangkaian penyalaan triac. Perubahan derajat pembukaan triac ini akan merubah tegangan jepit pada motor sehingga kecepatan motorpun berubah. Hasil uji dari alat pengendah kecepatan motor universal ini menunjukkan hasil yang memuaskan. Dengan alat ini didapatkan range pengaturan kecepatan motor yang cukup lebar, yaitu antara 350 RPM sampai dengan 16.000 RPM, sehingga memungkinkan pengaturan kecepatan motor yang cukup halus. Sedangkan pengujian pada software pengenalan suara menunjukkan bahwa error totalnya 7 persen pada kecepatan motor kurang dari 10.000 RPM. Secara umum dapat disimpulkan bahwa sistem ini telah berhasil dan disarankan pada penehtian berikutnya perlu ditambahkan umpan balik dan peningkatan dalam metoda pengambilan parameter suara.",
+  "creators": "GUNAWAN",
+  "contributors": "BUNAWI GUNAWIDJAJA (Examination Committee 1); Yohanes Trilaksono Dibyo S. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/TST/001/238; Gunawan (23489095)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; ELECTRIC MOTORS"
+}

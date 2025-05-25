@@ -1,0 +1,14 @@
+{
+  "id": "23466",
+  "title": "Robot manipulator dengan 3 derajat kebebasan",
+  "abstract": "Salah satu kendala dalam mempelajari robot manipulator adalah menganalisa serta menurunkan persamaan forward kinematics dan inverse kinematics dari robot manipulator. Pada tugas akhir ini akan dibuat sebuah robot manipulator dengan 3 derajat kebebasan yang dapat digerakkan oleh PC dengan 2 pilihan jenis kinematics (forward kinematics atau Inverse kinematics). Robot manipulator ini menggunakan microcontroller AT89S51 sebagai master driver ke PC, dan 3 buah microcontroller AT89C2051 sebagai slave driver yang digunakan untuk menggerakkan 3 buah servo merk HITEC type HS-645MG. Pada robot manipulator ini telah dilakukan pengujian terhadap servo dan lengan robot, validasi data terhadap robot, serta proses validasi data pada software. Dari pengujian terhadap servo, hasil yang didapat adalah servo (c) mempunyai maksimum error terbesar yaitu sebesar 2o. Dari pengujian terhadap lengan robot didapat bahwa ternyata pada servo terdapat backlash yang dapat mempengaruhi tingkat akurasi dari robot. Dari pengujian validasi data terhadap robot, didapat bahwa terdapat perbedaan antara nilai posisi dari software dengan nilai posisi yang terdapat pada robot. Dalam proses validasi data pada software, didapat kesimpulan bahwa ternyata tidak semua data yang ada dapat diproses untuk menggerakkan servo. Software yang telah dibuat ini memiliki kekurangan, dimana software ini tidak dapat berjalan secara normal pada beberapa jenis PC.",
+  "creators": "PANDU KURNIAWAN TANTORO",
+  "contributors": "Handry Khoswanto (Advisor 1); Hany Ferdinando (Advisor 2); Handy Wicaksono (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010922/ELK/2011; Pandu Kurniawan Tantoro (23406015)",
+  "subjects": "MANIPULATORS (MECHANISM); ROBOT-KINEMATICS"
+}

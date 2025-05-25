@@ -1,0 +1,14 @@
+{
+  "id": "34345",
+  "title": "Pengendalian stewart platform untuk flight simulator berbasis Arduino",
+  "abstract": "Permainan merupakan salah satu bentuk hiburan yang dapat memenuhi kebutuhan manusia saat mengalami kejenuhan. Teknologi yang berkembang menyebabkan semakin banyak console permainan yang memungkinkan pengguna untuk merasakan suasana yang ada di dalam permainan, salah satunya yaitu arcade game yang menggunakan aktuator mekanik bernama Stewart Platform. Desain dari Stewart Platform ini dikhususkan untuk flight simulator dengan menggunakan Arduino sebagai otak dari sistem, remote control sebagai input dan pneumatik digunakan sebagai aktuator pada platform ini. Aktuator akan bergerak mirip secara visual dengan gerakan pesawat pada permainan apabila menggunakan throttle sebesar 70-80% dengan range dari aileron dan elevation sebesar 40-60. Pada sistem ini kemiringan aktuator dibatasi mulai dari -30° hingga 30°. Pasangan data pada truth table yang digunakan sebagai acuan program berjumlah 60 pasang dengan hasil error mekanik sebesar 7,85%.",
+  "creators": "EDUARDUS BENYAMIN",
+  "contributors": "Handry Khoswanto (Advisor 1); Felix Pasila (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010953/ELK/2015; Eduardus Benyamin (23411010)",
+  "subjects": "SIMULATOR (COMPUTER PROGRAM); FLIGHT SIMULATORS"
+}

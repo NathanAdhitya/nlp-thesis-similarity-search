@@ -1,0 +1,14 @@
+{
+  "id": "61119",
+  "title": "Pengembangan dan penerapan Modified Partial Capacity Design (M-PCD) dengan analisis struktur nonlinear pada bangunan sederhana",
+  "abstract": "Metode Modified Partial Capacity Design (M-PCD) adalah pengembangan dari metode Partial Capacity Design (PCD) yang bertujuan untuk memperbaiki perencanaan struktur tahan gempa yang mengijinkan kerusakan hingga partial side sway mechanism. M-PCD dirancang untuk memastikan adanya elemen kolom yang tetap elastis, dengan menggunakan dua model desain: Model 1 menggunakan faktor modifikasi respon, R=8 untuk mendesain balok dan kolom plastis, dan Model 2 menggunakan R=1 untuk mendesain kolom elastis. Penelitian ini mengevaluasi efektivitas metode MPCD yang diusulkan, khususnya dibandingkan dengan metode M-PCD dari Santoso dan Wiranata (2024), dengan fokus pada pengembangan desain kolom elastis. Pengujian struktur dilakukan menggunakan analisis Nonlinear Dynamic Procedure (NDP) atau time history dengan level gempa maksimum (Risk-Targeted Maximum Considered Earthquake, MCER). Hasil menunjukkan bahwa mekanisme keruntuhan maksimal partial side sway terlampaui. Syarat dari FEMA 273 terkait level kerusakan sendi plastis pada kolom plastis dan balok masih terlampaui, tetapi kriteria drift FEMA 273 berhasil terpenuhi pada semua model struktur. Salah satu kemungkinan penyebab dari kerusakan yang melebihi rencana adalah terlalu besarnya nilai R=8 yang digunakan untuk struktur yang diijinkan mengalami kerusakan hingga partial sidesway mechanism.",
+  "creators": "STEVEN THEJAHANJAYA; JAXON LIMWANTO",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Ruben Adicahya, S.T., M.T. (Advisor 2); Wong Foek Tjong, S.T., M.T., Ph.D. (Examination Committee 1); Hasan Santoso (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012754/SIP/2024; Steven Thejahanjaya (B11200121), Jaxon Limwanto (B11200125)",
+  "subjects": "COLUMNS; EARTHQUAKE RESISTANT DESIGN--DWELLINGS; STRUCTURAL ENGINEERING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "53474",
+  "title": "Kontrol miniatur kursi roda dengan perintah suara berbasis voice recognition module",
+  "abstract": "Salah satu solusi untuk mengatasi kelumpuhan adalah kursi roda. Tetapi, kursi roda konvensional akan sulit digunakan bagi orang-orang yang tidak memiliki tenaga fisik yang cukup. Salah satu solusi permasalahan tersebut adalah kursi roda kendali suara. Tugas akhir ini bertujuan untuk membuat dan mengimplementasi sebuah kendali suara pada miniatur kursi roda. Arduino Uno digunakan sebagai mikrokontroler yang menerima input dari ELECHOUSE Voice Recognition Module V3 untuk kendali suara dan Arduino Joystick Module untuk kendali joystick ketika kendali suara tidak efektif. Pengguna dapat menukar antara kendali suara dan kendali joystick dengan menekan sebuah push button. Masing-masing kendali memberikan kursi roda empat gerakan, yaitu maju, putar kiri, putar kanan, dan mundur. Masing-masing gerakan ada tiga tingkat kecepatan, yaitu pelan, menengah, dan cepat. Berdasarkan hasil pengujian keseluruhan sistem, dapat disimpulkan bahwa ELECHOUSE Voice Recognition Module V3 cukup baik untuk pengenalan suara seorang pengguna dan Arduino Joystick Module cukup baik untuk kendali cadangan. Dengan demikian, dengan motor yang sesuai, sistem ini dapat diterapkan pada kursi roda yang sesungguhnya.",
+  "creators": "TOBIAS ARTHURO ANGWYN",
+  "contributors": "Thiang (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011042/ELK/2022; Tobias Arthuro Angwyn (C11180030)",
+  "subjects": "AUTOMATIC CONTROL--COMPUTER PROGRAMS; ARDUINO (PROGRAMMABLE CONTROLLER)--PROGRAMMING; ELECTRIC WHEELCHAIRS--AUTOMATIC CONTROL"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4082",
+  "title": "Uji aplikasi program Sistem Informasi Estimasi Biaya (SIEB) pada proyek rumah tinggal sederhana",
+  "abstract": "Perhitungan estimasi biaya untuk sebuah bangunan diperlukan ketelitian dan ketepatan. Oleh karena itu akan digunakan program komputer yaitu Sistem Informasi Estimasi Biaya (SIEB). Studi ini menghitung estimasi biaya sebuah rumah tinggal sederhana tipe 65 yang terdiri dari perhitungan volume pekerjaan dan harga satuan pekerjaan. Harga satuan pekerjaan dihitung dengan program SIEB, dan dilakukan uji kelengkapan program ini dalam memperoleh harga satuan pekerjaan yang dibutuhkan oleh sebuah rumah tinggal sederhana. Setelah dilakukan uji aplikasi program SIEB yang mencakup 333 jenis pekerjaan, ternyata tidak semua jenis pekerjaan pada proyek ini terlayani. Secara keseluruhan pada proyek ini membutuhkan 41 harga satuan pekerjaan, dimana 32 harga satuan pekerjaan mampu dihitung dengan menggunakan program ini, dan untuk 9 harga satuan pekerjaan yang tidak terdapat dalam program ini akan dihitung secara manual. Pada program SIEB ini juga dilakukan penyempurnaan faktor material dan satuan pekerjaan dengan melakukan koreksi guna memberikan hasil perhitungan yang lebih akurat.",
+  "creators": "TOFAN; GUSTIAWAN FERDINAND",
+  "contributors": "Budiman Proboyo (Advisor 1); Indriani Santoso (Advisor 2); Andi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.21121489/SIP/2006; Tofan (21402062), Gustiawan Ferdinand (21402168)",
+  "subjects": "BUILDING-ESTIMATES"
+}

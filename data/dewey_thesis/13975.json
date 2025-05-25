@@ -1,0 +1,14 @@
+{
+  "id": "13975",
+  "title": "Pendekatan pemrograman dinamis untuk mengoptimalkan jadwal produksi dan persediaan di PT\"X\"",
+  "abstract": "Dalam menghadapi tingkat permintaan yang berfluktuasi dibutuhkan tersedianya jadwal produksi dan tingkat persediaan yang seimbang dengan ramalan permintaan produk. Tujuan dari tugas akhir ini adalah merencanakan penjadwalan produksi yang optimal untuk periode tertentu dengan berdasarkan pada hasil peramalan. Pelaksanaan tugas akhir ini dilakukan dengan melalui empat tahapan yaitu: pengumpulan data, peramalan, penyusunan model rekursif pemrograman dinamis dan penyelesaian model. Berdasarkan pengamatan dan pengumpulan data pada pelaksanaan tugas akhir ini, dilakukan peramalan menggunakan metode peramalan yang sesuai dengan analisa karakteristik data pada plot data historis permintaan. Hasil peramalan merupakan prediksi jumlah permintaan selama 4 periode berikutnya, yang selanjutnya akan digunakan dalam penyelesaian masing-masing stage pada pemrograman dinamis secara backward. Model pada pemrograman dinamis mewakili hubungan rekursif yang tujuannya menentukan kombinasi keputusan optimal secara bertahap mengenai jumlah dan waktu produksi. Model dalam tugas akhir ini disusun berdasarkan karakteristik kondisi operasional secara normal pada perusahaan, dengan memperhitungkan data biaya set-up dan biaya penyimpanan serta memperhatikan kapasitas produksi perusahaan. Fungsi rekursif yang dibentuk berdasarkan pada tujuan perusahaan untuk memperbaiki penggunaan anggaran yang tidak optimal pada departemen produksi. Pengerjaan model dengan pendekatan pemrograman dinamis ini dilakukan untuk memperoleh keputusan optimal mengenai jumlah produksi pada setiap periode perencanaan produksi.",
+  "creators": "JOSEPHIN SAPURY",
+  "contributors": "Siana Halim (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 317/TI-44/2000; Josephine Sapury (25494123)",
+  "subjects": "SCHEDULING (MANAGEMENT); PRODUCTION-PLANNING"
+}

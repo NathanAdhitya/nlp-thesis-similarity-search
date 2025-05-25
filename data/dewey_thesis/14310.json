@@ -1,0 +1,14 @@
+{
+  "id": "14310",
+  "title": "Perencanaan dan pembuatan pengaman pintu elektronik dengan menggunakan suara berbasis jaringan saraf tiruan",
+  "abstract": "Pada tugas akhir ini dibuat sistem pengenalan suara dengan menggunakan Jaringan Saraf Tiruan Back Propagation. Dimana arsitektur dari jaringan dapat ditentukan oleh pemakai dengan batas jumlah layer 5, dengan 1 input layer , 3 hidden layer, 1 output layer. Jumlah titik tiap layer selain output layer maksimum adalah 30 titik dan jumlah titik output layer maksimum 5 titik. Proses FFT digunakan sebagai proses awal dari suara yang merupakan input dari jaringan. Proses FFT dibuat dengan bahasa pemrograman Turbo Pascal dengan bantuan sound blaster untuk pengambilan suara. Proses FFT menggunakan 1024 point dengan sample sebanyak 10240 data. Hasil akhir FFT berjumlah 1024 point kemudian dimasukkan ke dalam jaringan. Sistem pengenalan suara yang dibuat bersifat speaker dependent, yang berarti bahwa sistem hanya mengenali suara orang tertentu. Dalam tugas a,khjr jfji sistem dibuat untuk mengenali suara 2 orang yaitu suara penulis dan suara seorarig lain. Hasil akhir dari pengujian diperoleh jaringan dengan arsitektur 25 * 15*5, gain-term 0.2, momentum-term 0.8 dapat mengenali suara dengan baik. Hasil dari sistem pengenalan suara ini digunakan untuk aplikasi penga,mjan pintu elektronik.",
+  "creators": "WILLY ANTOLIS",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.99/E/EL/033/427; Willy Antolis (23494022)",
+  "subjects": "AUTOMATIC CONTROL; NEURAL NETWORKS(COMPUTER SCIENCE)"
+}

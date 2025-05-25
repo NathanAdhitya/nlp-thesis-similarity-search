@@ -1,0 +1,14 @@
+{
+  "id": "1063",
+  "title": "Optimasi pengisian gudang dengan penerapan stack menggunakan metode genetic algorithm",
+  "abstract": "Perangkat lunak optimasi gudang ini digunakan untuk mengotomatisasi pengisian barang ke dalam gudang, yang selalu dibutuhkan dalam dunia industri. Perangkat lunak ini dikhususkan untuk gudang yang menerapkan sistem rak, di mana barang tidak disimpan pada lantai gudang, melainkan pada pelat-pelat pada rak yang ada di dalam gudang. Pengotomatisasian ini menggunakan algoritma genetika. Algoritma Genetika sangat dipengaruhi unsur random. Pada perangkat lunak juga disediakan fasilitas untuk melihat kondisi gudang secara 3 dimensi, menggunakan Open GL. Perangkat lunak dapat diimplementasikan jika rata-rata solusi akhir yang dihasilkan mencapai 90 %.",
+  "creators": "ERWIN KRISTIANTO J",
+  "contributors": "Kartika Gunadi (Advisor 1); Resmana Lim (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0035/INF/2003; Oktavianus Erwin Kristianto Julistiono (26499001)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

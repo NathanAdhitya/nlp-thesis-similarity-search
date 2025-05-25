@@ -1,0 +1,14 @@
+{
+  "id": "30458",
+  "title": "Passenger-car equivalent arus lurus di persimpangan dengan menggunakan analisa Headway method",
+  "abstract": "Passenger-Car Equivalent adalah nilai yang mencerminkan pengaruh kapasitas berbagai jenis kendaraan dibandingkan dengan mobil penumpang. Ada beberapa metode yang telah dikembangkan dalam rangka untuk menentukan nilai dari Passenger-Car Equivalent. Beberapa diantaranya adalah: Metode Multiple Linear Regression yang terdiri dari 2 pendekatan yaitu Synchronous dan Asynchronous, Metode Pendekatan Kapasitas, dan Metode Headway, yang mana tiap-tiap metode memiliki pendekatan yang berbeda. Dalam penelitian ini menggunakan Metode Headway, sedangkan untuk metode yang lainnya hanya dijelaskan secara garis besarnya saja. Penelitian ini dilakukan untuk mencoba mencari harga Passenger-Car Equivalent dengan menggunakan metode Headway Data yang diambil di lapangan melalui kamera ATCS dianalisa untuk memperoleh jumlah kendaraan masing-masing tipe, headway antara tiap-tiap kendaraan, cycle time. Dari data tersebut kemudian dilakukan perhitungan dengan menggunakan metode pendekatan yang ada untuk mendapatkan nilai dari Passenger-Car Equivaientnya. Dari hasil analisa ini terdapat perbedaaan hasil antara 2 perumusan yang ada, hal ini disebabkan karena asumsi bahwa headway hanya tergantung pada kendaraan yang mengikuti jelas tidak tepat, karena ada beberapa faktor lain yang mempengaruhinya, kurang banyaknya data yang dikumpulkan dan juga kurang tepat dan banyaknya sampel jalan yang diambil juga bisa mempengaruhi hal tersebut. Dari hasil penelitian ini tampak bahwa hasil dari perumusan pertama lebih baik dibandingkan perumusan kedua. Hal ini disebabkan perumusan pertama mendekati kenyataan yang sebenamya di lapangan, sedangkan perumusan kedua tidak, karena perumusan tersebut adalah merupakan penyederhanaan. Hasil dari analisa ini hanyalah sebagai perbandingan terhadap nilai Passenger-Car Equivalent yang dihasilkan dengan menggunakan metode lain.",
+  "creators": "IRWAN SANTOSO",
+  "contributors": "Philipus Kardi Teknomo (Advisor 1); Tirta Djusman Arief (Advisor 2); Harry Patmadjaja (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 732 S; Irwan Santoso (21488152)",
+  "subjects": "SELLING-AUTOMOBILES-BUILDINGS; AUTOMOBILE INDUSTRY AND TRADE"
+}

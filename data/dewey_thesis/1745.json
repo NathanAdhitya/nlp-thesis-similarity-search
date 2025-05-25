@@ -1,0 +1,14 @@
+{
+  "id": "1745",
+  "title": "Perancangan sistem informasi akuntansi yang berbasis komputer atas siklus produksi pada PT. X di Surabaya",
+  "abstract": "Dalam penulisan skripsi ini, penulis merancangkan Sistem Informasi Akuntansi yang berbasis komputeratas siklus produksi PT.X. Kelemahan - kelemahan yang ditemukan penulis pada PT.X adalah adanya pemborosan bahan yang terjadi karena perusahaan tidak mempunyai standar baku mengenai kebutuhan bahan baku, perhitungan biaya produksi PT.X tidak akurat sehingga menyebabkan harga jualnya terkadang terlalu tinggi dan terkadang terlalu rendah, kelemahan berikutnya disebabkan karena human error seperti salah memasukkan data yaitu untuk atribut yang bernilai positif diketik ?-? dimuka angka sehingga menjadi bernilai negatif. Oleh karena itu, dalam skripsi ini dirancang sebuah sistem yang terkomputerisasi yang dapat memenuhi kebutuhan perusahaan terhadap informasi sehingga dapat meminimalisasi kesalahan. Jenis penelitian yang dilakukan adalah penelitian deskriptif berupa studi kasus dengan obyek penelitian PT.X.. Jenis data yang yang digunakan adalah data kualitatif dan sumber data yang digunakan oleh penulis adalah berupa data internal perusahaan berupa data primer yang diperoleh secara langsung dari sumber pertama. Metode pengumpulan data yang dipergunakan penulis adalah studi pendahuluan dan studi lapangan, berupa observasi, wawancara, dan dokumentasi. Hasil dari perancangan Sistem Informasi Akuntansi yang berbasis Komputer adalah Conceptual Design dan Physical Design. Conceptual Design menghasilkan DFD, REA. Physical Design menghasilkan Output, Input, Database beserta pengendalian output dan input. Output yang dihasilkan adalah Job Cost Sheet, Laporan Variance Bahan. Input yang dihasilkan adalah form Bahan, Barang Jadi, Part, Departemen, Komposisi Barang Jadi, MPS, Production Order, Permintaan Bahan, Job Cost.",
+  "creators": "IVAH MONITA LUKITO S",
+  "contributors": "Sri Maharsi (Advisor 1); Setyarini Santosa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010495/AKT/2005; Ivah Monita (32401080)",
+  "subjects": "ACCOUNTING-COMPUTER PROGRAMS; FINANCIAL STATEMENTS"
+}

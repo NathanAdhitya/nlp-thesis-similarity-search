@@ -1,0 +1,14 @@
+{
+  "id": "7291",
+  "title": "Pembuatan aplikasi datamining untuk melakukan analisis data time series menggunakan metode qualitative clustering",
+  "abstract": "Dewasa ini muncul tantangan bagi seorang pengambil keputusan untuk dapat mengambil keputusan secara tepat dan cepat yang dapat meningkatkan penjualan di perusahaannya. Pengambil keputusan perlu memakai suatu alat bantu yang dapat mengetahui Knowledge suatu produk, salah satu caranya adalah dengan melakukan Data Mining. Pembuatan tugas akhir ini mengunakan algoritma Hierarchical Clustering untuk melakukan analisis Data Time Series dengan mengunakan Qualitative analysis. Dalam pembuatan aplikasi ini penulis mengunakan data ? data penjualan dari tugas akhir mahasiswa Informatika Universitas Kristen Petra angkatan 2000 tentang Data Warehouse, dimana data tersebut berupa transaksi yang terjadi pada periode tertentu. Data dipersiapkan melalui proses data cleaning dan data preproccessing sehingga dapat diolah oleh aplikasi. Data tersebut dimasukkan ke dalam database. Kemudian diolah berdasarkan algoritma dan rumus Qualitative sehingga manghasilkan itemset yang ditampilkan pada sebuah dendrogram dalam bentuk tree. Pembuatan aplikasi ini menggunakan software Borland Delphi 7 dan Microsoft Access 2000 dalam pembuatan aplikasi ini. Dengan menggunakan output dari aplikasi, yang berupa dendrogram, pengambil keputusan dapat mengetahui barang-barang apa saja yang sering dibeli pada periode tertentu dan konsumen siapa saja yang sering membeli pada peride tertentu. Informasi ini akan memberikan pertimbangan tambahan bagi pengambil keputusan dalam pengambilan keputusan",
+  "creators": "DANIEL KHOSUMA",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Leo Willyanto Santoso (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000362/INF/2005; Daniel Khosuma (26401120)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

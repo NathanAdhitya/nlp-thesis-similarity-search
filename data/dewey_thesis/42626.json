@@ -1,0 +1,14 @@
+{
+  "id": "42626",
+  "title": "Alat pendeteksi level volume susu cair kotak kemasan karton terlaminasi untuk rak lemari pendingin",
+  "abstract": "Menggunakan fasilitas analog to digital conversion pada Arduino untuk membaca tegangan dan mengolah hasil tegangan dalam bit melalui curve fitting Matlab. Hasil persamaan yang didapat dari curve fitting Matlab digunakan untuk proses tuning dengan memanfaatkan nilai error yang dihasilkan dari pengujian. Alat ini mampu mengukur nilai level dari susu cair kotak kemasan 1 liter dengan rangkaian jembatan wheatstone sebagai rangkaian pengondisi sinyal dan memiliki rata-rata error sebesar 3,29 %volume untuk FSR I dan 2,29 %volume untuk FSR II. Hasil pembacaan level ini dikirimkan melalui fasilitas IOT dengan memanfaatkan ESP8266 WiFi Modul ke Thingspeak server.",
+  "creators": "RIZKY WAHYU LIMBONG SIMANDJUNTAK",
+  "contributors": "Felix Pasila (Advisor 1); Handry Khoswanto (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010136/ELK/2018; Rizky Wahyu Limbong Simandjuntak (23412029)",
+  "subjects": "REFRIGERATOR INDUSTRY; REFRIGERATION AND REFRIGERATING; ARDUINO"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "24118",
+  "title": "Perencanaan dan pembuatan alat pendeteksi suhu air radiator, suhu bearing dan tekanan oli pada suatu mesin diesel yang dapat dimonitor oleh komputer",
+  "abstract": "Dewasa ini, mesin diesel merupakan suatu alat yang berperan pentlng dalam bldang teknik. Salah satu kegunaan penting darl mesin diesel adalah untuk memutar rotor generator pada sistem pembangkit listrik tenaga diesel. Mengingat pentingnya peranan mesin diesel, maka diperlukan suatu pemeliharaan pada mesln diesel, dalam rangka menjamin kontinuitas kerja mesin diesel. Pemeliharaan mesin diesel dilakukan dengan cara pemantauan secara kontinyu dari kondisi-kondisi kerja mesin diesel pada saat sedang beroperasi, yaitu : - suhu bearing - suhu air radiator - tekanan minyak/oli Pemantauan kondisi-kondisi kerja tersebut apabila dilakukan secara manual, akan terjadi kesulitan-kesulitan seperti letak, kontinuitas pemantauan, dan lain sebagainya. Untuk mengatasi kesulitan-kesulitan tersebut, maka dipergunakan komputerisasi pengontrolan untuk memonitor kondisl-kondisi kerja tersebut. Pengontrolan oleh komputer mempergunakan transducer suhu dan switch oil pressure. Signal analog yang dihasilkan oleh transducer suhu dalan switch 011 pressure akan dikirim ke analog digital converter dan diubah menjadi signal digital; Signal ini kemudian dikirimkan ke central processing unit komputer melalui sebuah programable peripheral interface. Data yang diterima komputer akan diolah, dan ditampilkan di monitor komputer, dan juga dipergunakan untuk mengontrol relay.",
+  "creators": "SOEYONO",
+  "contributors": "BUNAWI GUNAWIDJAJA (Advisor 1); Andojo Ongkodjojo (Advisor 2); NONO MOELYONO W. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/TST/011/0165; Soeyono (23489113)",
+  "subjects": "DIESEL MOTOR; MACHINERY"
+}

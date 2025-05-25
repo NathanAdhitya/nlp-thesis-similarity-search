@@ -1,0 +1,14 @@
+{
+  "id": "30430",
+  "title": "Studi elemen membran segiempat dengan derajat kebebasan rotasi",
+  "abstract": "Pada penelitian ini, dilakukan studi terhadap perumusan pada paper Ibrahimbegovic, Taylor dan Wilson tentang perumusan untuk elemen membran segiempat dengan derajat kebebasan rotasi. Tujuan penggunaan elemen membran dengan adanya rotasi ini adalah sebagai upaya kinerja yang lebih baik jika dibandingkan dengan elemen tanpa adanya rotasi dan juga bila digabungkan dengan lentur dapat digunakan melakukan perhitungan lebih lanjut untuk elemen cangkang. Pada penelitian ini, dihasilkan suatu program dengan menggunakan matlab yang mampu melakukan perhitungan terhadap elemen membran segiempat dengan adanya rotasi. Pengujian dilakukan dengan beberapa permasalahan yang disesuaikan dengan literatur. Keluaran yang dihasilkan oleh program ini antara lain perpindahan, reaksi perletakan, regangan dan juga tegangan. Hasil pengujian menunjukkan bahwa hasil yang diperoleh dapat mendekati hasil eksak baik untuk perpindahan, reaksi perletakan maupun tegangannya. Namun, untuk pengujian tes 1 elemen dengan beban tarik, hasil yang diperoleh pada perpindahannya tidak sama dengan hasil eksak. Selain itu, hasil pengujian juga akan dibandingkan dengan hasil dari elemen membran segiempat tanpa adanya rotasi dan juga untuk beberapa permasalahan dibandingkan dengan hasil dari referensi yang diberikan untuk elemen membran segiempat dengan derajat kebebasan rotasi.",
+  "creators": "JUNIUS GUNAWAN",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Benjamin Lumantarna (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11011988/SIP/2014; Junius Gunawan (21410080)",
+  "subjects": "MEMBRANS (TECHNOLOGY); MATLAB; DRILLING AND BORING"
+}

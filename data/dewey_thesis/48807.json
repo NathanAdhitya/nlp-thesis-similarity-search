@@ -1,0 +1,14 @@
+{
+  "id": "48807",
+  "title": "Desain dan konfigurasi data center dengan memanfaatkan platform Kubernetes dan platform Hadoop yang berjalan diatas platform Openstack",
+  "abstract": "Tugas akhir ini memanfaatkan platform Openstack, Kubernetes, dan Hadoop. Ketiga platform tersebut merupakan layanan-layanan infrastruktur cloud computing yang digunakan dalam pengembangan sebuah data center. Tujuan dari tugas akhir ini adalah untuk melakukan desain dan konfigurasi data center dengan memanfaatkan platform Kubernetes dan platform Hadoop yang berjalan di atas platform Openstack. Platform Openstack digunakan sebagai Infrastructure as a Service (IaaS). Dimana layanan infrastruktur tersebut berfungsi untuk mengatur sumber daya (misalnya, CPU, RAM, dan jaringan) pada sebuah data center. Sedangkan, platform Kubernetes dan platform Hadoop dimanfaatkan sebagai Platform as a Service (PaaS). Kedua platform tersebut akan dipasang pada perangkat keras server dengan menggunakan layanan Openstack. Layanan dari Openstack yang dimaksud adalah Magnum (untuk Kubernetes) dan Sahara (untuk Hadoop). Pengujian sistem dilakukan untuk memastikan setiap layanan Openstack telah terpasang dengan benar dimana Openstack dapat melayani permintaan sumber daya yang dibutuhkan oleh pengguna. Selain itu, pengujian yang lain dilakukan dengan pemasangan dua aplikasi web-hosting pada klaster Kubernetes serta pengujian mekanisme MapReduce pada sebuah klaster Hadoop. Hasil pengujian menunjukan bahwa platform Openstack dapat berjalan pada data center walaupun Magnum dan Sahara tidak berhasil berjalan diatas Openstack yang diakibatkan bug pada Magnum dan Sahara. Alternatif untuk Hadoop berjalan diatas Openstack adalah dengan melakukan pemasangan secara manual menggunakan layanan Openstack Heat. Sedangkan untuk klaster Kubernetes yang dijalankan di luar Openstack, dia dapat menjalankan dua aplikasi web-hosting yang direncanakan. Kendala lain juga terlihat pada ketidaksesuaian versi antara layanan Openstack yang dapat mengakibatkan layanan Openstack tidak berjalan dengan baik.",
+  "creators": "JISCHAK MARTHINUS",
+  "contributors": "Indar Sugiarto (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1); Handy Wicaksono (Examination Committee 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010143/ELK/2020; Jischak Marthinus (23416033)",
+  "subjects": "DATA PROCESSING SERVICE CENTERS; DATABASE MANAGEMENT--COMPUTER PROGRAMS; DATABASE MANAGEMENT"
+}

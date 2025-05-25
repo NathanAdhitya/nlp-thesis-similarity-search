@@ -1,0 +1,14 @@
+{
+  "id": "47345",
+  "title": "Analisa inverse static manipulator paralel 6-degree of freedom dengan kecerdasan buatan",
+  "abstract": "Manipulator paralel adalah sebuah mekanisme yang terdiri dari moving platform dan fixed platform, terhubung dengan aktuator yang tersusun secara paralel. Dalam sistem kontrol manipulator paralel, diperlukan beberapa data seperti posisi akhir dari moving platform atau yang biasa disebut sebagai end-effector, dan total gaya yang diberikan aktuator kepada end-effector. Inverse static analysis (ISA) merupakan metode yang cocok digunakan pada paralel manipulator karena dibutuhkan kecepatan dan efisiensi yang tinggi. Kemampuan kecerdasan buatan untuk melakukan pembelajaran dapat diaplikasikan sebagai pendekatan terhadap kontrol non-linear seperti ISA. Kecerdasan buatan dapat menjadi solusi untuk menyelesaikan persamaan kontrol non-linear yang kompleks khususnya ISA pada manipulator paralel yang susah untuk membuat sistem kontrol. Metode Neuro-fuzzy yang digunakan telah memenuhi RMSE yang diijinkan yaitu ≤10%, sedangkan pada tahap validasi masih belum memenuhi RMSE ≤10%.",
+  "creators": "SURANGGI GAUTAMA",
+  "contributors": "Roche Alimin (Advisor 1); Felix Pasila (Advisor 2); Joni Dewanto (Examination Committee 1); Ninuk Jonoadji (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03011337/MES/2020; Suranggi Gautama (24416006)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

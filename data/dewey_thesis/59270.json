@@ -1,0 +1,14 @@
+{
+  "id": "59270",
+  "title": "Perbandingan metode machine learning support vector machine, K-nearest neighbor dan random forest dalam prediksi penyakit stroke",
+  "abstract": "Stroke merupakan salah satu penyakit yang dianggap sangat berbahaya karena penyakit ini sendiri adalah penyebab disabilitas nomor satu di dunia. Penyakit stroke terjadi ketika suplai darah ke bagian otak berkurang karena penyumbatan atau ketika pembuluh darah di otak pecah. Serangan stroke dapat terjadi secara tiba-tiba dan apabila tidak ditangani segera, stroke dapat menyebabkan kerusakan otak yang berkepanjangan, kecacatan jangka panjang, atau bahkan kematian. Dengan kemajuan teknologi yang pesat, dapat diciptakan suatu inovasi yang dapat membantu tenaga medis menangani dan mencegah masalah kesehatan. Penelitian ini bertujuan untuk melakukan perbandingan algoritma machine learning yang dapat digunakan untuk membuat suatu aplikasi prediksi penyakit stroke. Metode machine learning yang digunakan dalam penelitian ini meliputi Support Vector Machine, K-Nearest Negihbor dan Random Forest. Perbandingan dilakukan pada ketiga metode machine learning tersebut dan kemudian metode dengan performa terbaik akan diimplementasikan ke dalam website sederhana untuk memprediksi penyakit stroke. Tujuan utama penelitian ini adalah untuk mencegah dan mendeteksi dini seseorang dapat terkena penyakit stroke atau tidak dengan bantuan teknologi pembelajaran mesin. Hasil dari penelitian ini didapatkan metode dengan performa terbaik adalah Random Forest dengan akurasi sebesar 99.93%, presisi sebesar 99.87%, recall sebesar 100% dan f1 sebesar 99.93%. Kemudian dibandingkan dengan metode K-Nearest Neighbor dengan akurasi sebesar 85.48%, presisi sebesar 80.50%, recall sebesar 93.59% dan f1 sebesar 86.55%. Lalu dibandingkan dengan metode Support Vector Machine dengan akurasi sebesar 70.21%, presisi sebesar 74.58%, recall 61.18% dan f1 sebesar 67.22%.",
+  "creators": "BRYANT SEPTIYAN BUDIHARJO",
+  "contributors": "Alexander Setiawan (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022436/INF/2024; Bryant Septiyan Budiharjo (C14190095)",
+  "subjects": "CEREBROVASCULAR DISEASE; MACHINE LEARNING; SUPPORT VECTOR MACHINES"
+}

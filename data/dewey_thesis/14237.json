@@ -1,0 +1,14 @@
+{
+  "id": "14237",
+  "title": "Perencanaan dan pembuatan relay arus tegangan ke tanah 380/220 V, 50 Hz, 3 phasa dengan waktu tunda tertentu menggunakan mikrokontroller 8031",
+  "abstract": "Rele pengaman memberikan pengaman pada sistem jaringan yang mengalami gangguan dengan melepas atau memisahkan bagian tersebut dari sistem jaringan. Karena sebagian besar gangguan adalah gangguan ke tanah maka rele gangguan tanah harus dipasang. Rele ini mengukur arus yang telah dikecilkan oleh trafo arus. Arus AC diubah menjadi tegangan AC dengan cara memberikan tahanan. Untuk mengkonversikan AC ke DC diperlukan rangkaian pengubah AC ke DC. Sinyal DC yang berupa besaran analog diubah menjadi digital oleh ADC agar dapat diproses oleh mikrokontroller. Jika arus yang melewati trafo arus melebihi harga arus setting maka mikrokontroller akan menggerakan rele untuk memutuskan arus setelah setting waktu terlampaui. Dari percobaan di laboratorium, rele disetting pada arus 0,4 A dengan waktu tunda 3 detik sehingga bila arus melebihi harga setting maka rele bekerja.",
+  "creators": "ALBERT HUMARDANI",
+  "contributors": "BUNAWI GUNAWIDJAJA (Examination Committee 1); Limboto Limantara (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripssi No. 99/E/TST/044/323; Albert Humardani (23491149)",
+  "subjects": "RELAY CONTROL SYSTEMS-COMPUTER PROGRAMS"
+}

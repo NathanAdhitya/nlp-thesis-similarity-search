@@ -1,0 +1,14 @@
+{
+  "id": "4647",
+  "title": "Sistem pembacaan kwh meter dengan metode bluetooth",
+  "abstract": "Saat ini pencatatan pemakaian listrik yang dilakukan oleh petugas PLN dilakukan secara manual yaitu dengan cara melihat langsung di kWh meter. Cara manual tersebut memiliki resiko terjadinya kesalahan penulisan (human error). Untuk mengatasi keadaan tersebut dibuat microcontroller dengan teknologi wireless. Dalam tugas akhir ini yang dibahas adalah teknologi bluetooth. Dengan cara ini petugas lapangan PLN dapat melakukan pencatatan dengan mudah. Selain itu penggunaan bluetooth lebih efektif, tidak membutuhkan media penulisan (buku tulis) dan dapat menghemat waktu. Pada hardware terdapat kWh meter type 2CMA180894R1000 yang diproduksi oleh DeltaPlus milik ABB. Pulse dari kWh meter diterima oleh microcontroller AT89C2051, kemudian disimpan dalam memori AT24C01A. Setelah diterima dan disimpan, kemudian dikelola oleh microcontroller AT89S51. Data yang diterima dari microcontroller AT89C2051 akan ditampilkan pada LCD. Pada microcontroller AT89S51 terdapat bluetooth module yang dapat langsung dihubungkan ke microcontroller yaitu EmbeddedBlue TM 500. Melalui Bluetooth module ini digunakan sebagai penghubung antara microcontroller AT89S51 dengan komputer. Untuk menampilkan pada komputer dibuat sebuah software dengan bahasa pemograman Borland Delphi 7. Hasil yang telah dikirim oleh microcontroller akan ditampilkan pada komputer . Ada 2 macam pengujian dalam tugas akhir ini. Pengujian pertama menggunakan rangkaian clock yang difungsikan sebagai pengganti kWh meter. Sedangkan pengujian kedua memakai kWh meter digital merek ABB. Jarak komunikasi EmbeddedBlue TM 500 dan USB Bluetooth Dongle pada hardware dapat berkomunikasi sampai jarak ?20 meter. Selain itu, komunikasi bluetooth sulit dilakukan apabila ada penghalang beberapa tembok. Sebab bluetooth mempunyai Frekwensi yang sangat rendah.",
+  "creators": "HERU SUWITO",
+  "contributors": "Resmana Lim (Advisor 1); Lauw Lim Un Tung (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 03010044/ELK/2006; Heru Suwito (23400085)",
+  "subjects": "WIRELESS COMMUNICATION SYSTEMS; BLUETOOTH; MICROCONTROLLERS"
+}

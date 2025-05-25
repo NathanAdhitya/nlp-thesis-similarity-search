@@ -1,0 +1,14 @@
+{
+  "id": "39238",
+  "title": "Sistem informasi manajemen pada Apotek Christ berbasis website",
+  "abstract": "Apotek Christ yang berlokasi di Surabaya adalah sebuah bidang usaha yang bergerak di bidang farmasi, sebagai penyedia obat. Proses bisnis yang dilakukan di apotek adalah pemesanan dan pembelian obat kepada supplier dan penjualan obat berdasarkan resep maupun obat bebas, hingga melayani program BPJS. Proses bisnis yang dilakukan apotek sekarang masih bergantung pada kontrol manual yang dilakukan oleh manusia sehingga beberapa kali terjadi risiko human error yang dapat menimbulkan masalah pada proses bisnis yang berlangsung. Selain itu, proses pembuatan laporan masih dibuat dengan manual. Melihat masalah yang muncul maka diperlukan suatu penyelesaian yaitu sistem informasi manajemen berbasis website bagi apotek agar dapat terkomputerisasi dan meningkatkan kontrol proses bisnis pada apotek. Sistem informasi manajemen yang dibuat dengan menggunakan bahasa PHP, HTML, CSS, Javascript, dan jQuery serta MySQL untuk pengelolaan database. Adapun yang dihasilkan dari sistem infromasi manajemen apotek adalah pencatatan master data obat, supplier, kategori obat, satuan, konversi. Selain itu pencatatan transaksi penjualan dan pembelian yang meliputi pemesanan barang, bukti barang masuk, retur pembelian hingga penjualan obat dan pelayanan BPJS. Laporan yang dihasilkan dari program ini adalah laporan laba rugi, laporan BPJS, laporan obat narkotika dan psikotropika, laporan konsinyasi dan laporan pembayaran hutang. Secara keseluruhan program ini telah sesuai dengan kebutuhan apotek. Hasil kuesioner yang sudah disebarkan pada apotek diketahui bahwa 96% user berpendapat desain program dinilai baik, user berpendapat 68% mengenai kemudahan untuk memperoleh informasi dinilai baik, 72% user berpendapat baik mengenai kelengkapan dan kejelasan informasi dinilai baik. Penilaian program secara keseluruhan dinilai 80% oleh user.",
+  "creators": "IGNATIUS CHRISTIAN",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Justinus Andjarwirawan (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021619/INF/2017; Ignatius Christian (26413062)",
+  "subjects": "JAVASCRIPT (COMPUTER PROGRAM LANGUAGE); MYSQL (COMPUTER PROGRAM LANGUAGE); DATABASE DESIGN; MANAGEMENT INFORMATION SYSTEMS"
+}

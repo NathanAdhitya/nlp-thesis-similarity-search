@@ -1,0 +1,14 @@
+{
+  "id": "41167",
+  "title": "IoT untuk data logger dan controller tingkat keasaman limbah cair menggunakan microcontroller dan android",
+  "abstract": "IoT adalah sebuah konsep di mana benda-benda di sekitar kita dapat berinteraksi dan bertukar informasi dengan satu sama lain tanpa perantara manusia melalui Internet. Implementasi IoT semakin populer karena dapat digunakan untuk banyak hal, seperti lampu di rumah dapat dinyalakan melalui Internet, atau menyalakan pendingin ruangan melalui Internet dan bahkan memantau tingkat keasaman cairan melalui smartphone. Untuk melakukan hal-hal tersebut diperlukan alat tambahan seperti sensor, microcontroller, atau alat bantu lainnya yang kemudian dihubungkan dengan Internet. Untuk melakukan interaksi dengan sensor, microcontroller, ataupun alat bantu lainnya melalui Internet digunakan perangkat Android. Android digunakan untuk mempermudah pengguna untukmengakses Internetdi manapun pengguna berada.Pembuatan aplikasi Android menggunakan bahasa pemrograman JAVA. Data yang didapatkan aplikasi Android ditampilkan dalam bentuk grafik. Grafik yang digunakan adalah MPAndroidChart.Server yang digunakan adalah Ubidots. Microcontroller yang digunakan adalah WEMOS D1R2 yang menggunakan ESP8266 sebagai prosesor dan WiFi shield. Hasil akhir dari penelitian ini adalah keberhasilan komunikasi antara komponen-komponen dari perangkat, sensor, dan perangkat Android. User dapat mengatur tingkat keasaman cairan dengan memberikan range, apabila hasil pembacaan sensor keluar dari range yang ditetapkan maka microcontroller akan melakukan kontrol pH dengan mengaktifkan pompa yang sesuai dengan hasil pembacaan.",
+  "creators": "ANDREAS KWARIAWAN",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Resmana Lim (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021672/INF/2017; Andreas Kwariawan (26413064)",
+  "subjects": "MICROCONTROLLERS; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); INTERNET (COMPUTER NETWORKS)"
+}

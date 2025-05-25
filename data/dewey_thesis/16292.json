@@ -1,0 +1,14 @@
+{
+  "id": "16292",
+  "title": "Monitor temperatur tiga kanal tanpa kabel",
+  "abstract": "Temperature condition in three different places can be known from temperature data that will be sent, from three FM transmitters with three different frequencies. The system is made from two circuits, F to V converter circuit and V to F converter circuit. V to F is sensor circuit, zero and span, transmitter FM. F to V circuit is FM receiver circuit, comparator LM331,and minimum system. The test is done with sending input voltage and accepting output voltage, the result is input voltage and output voltage have largest range 0,18 volt. The temperature can't be displayed in LCD, because there is a problem at ADC (PPI 2) circuit with minimum system (PPI 1) circuit.",
+  "creators": "HERMAN KOESIYONO",
+  "contributors": "YOHANES T. D. S (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/050/487; Herman Koesiyono (23493037)",
+  "subjects": "TEMPERATURE CONTROL-COMPUTER PROGRAMS; AUTOMATIC CONTROL"
+}

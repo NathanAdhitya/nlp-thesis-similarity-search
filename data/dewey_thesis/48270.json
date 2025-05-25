@@ -1,0 +1,14 @@
+{
+  "id": "48270",
+  "title": "Pembuatan prototipe longboard elektrik dengan aplikasi smartphone",
+  "abstract": "Longboard elektrik merupakan modifikasi dari longboard yang sudah ditambahkan motor, battery, controller. Tugas akhir ini bertujuan untuk mendesain sistem longboard elektrik dapat berjalan tanpa menggunakan remote dan dapat terkoneksi dengan aplikasi di smartphone. Sistem yang dibuat terdiri dari perangkat keras dan program. Di dalam sistem gerak dari longboard elektrik memanfaatkan input dari pembacaan sensor loadcell yang diproses oleh Arduino Nano dengan cara memonitoring setiap tekanan yang dihasilkan oleh sensor loadcell. Setiap nilai yang dihasilkan sensor loadcell akan dikategorikan sesuai dengan output aktuator yang akan dihasilkan. Sensor yang terpasang pada Arduino akan dikirimkan menuju Wemos dan akan diteruskan menuju aplikasi. Berdasarkan hasil pengujian sistem yang telah dilakukan, data input Arduino ini akan ditampilkan pada aplikasi smartphone yang mempermudah pengendara untuk memonitoring keadaan baterai dan kecepatan pada longboard.",
+  "creators": "RAMADITTHA LUVIAN",
+  "contributors": "Handry Khoswanto (Advisor 1); Thiang (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010993/ELK/2020; Ramadittha Luvian (23415029)",
+  "subjects": "SKATEBOARDING--EQUIPMENT AND SUPPLIES; ARDUINO (PROGRAMMABLE CONTROLLER)"
+}

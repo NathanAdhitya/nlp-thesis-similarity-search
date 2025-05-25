@@ -1,0 +1,14 @@
+{
+  "id": "31011",
+  "title": "Miniatur tornado rides menggunakan MCS-51",
+  "abstract": "Salah satu kendala dalam mempelajari di dalam dunia robotika adalah menganalisa bentuk pergerakan dan merencanakan joint yang akan di gunakan. Pada tugas akhir ini akan dibuat sebuah miniatur tornado rides dengan 3 derajat kebebasan yang dapat digerakkan oleh AT89S51 dengan 2 pilihan jenis model input, yaitu dengan input tiap servo atau dengan mode demo program. Miniatur tornado rides ini menggunakan metode half duplex UART serial communication sebagai protokol komunikasi ke servo, dan 1 buah microcontroller AT89S51 sebagai Master control yang digunakan untuk menggerakkan 3 buah servo merk DYNAMIXEL AX-12. Pada miniatur tornado rides ini telah dilakukan pengujian terhadap servo dan pengujian respon servo terhadap program. Dari pengujian terhadap servo, hasil yang didapat adalah tiap servo memiliki perbedaan step posisi di tiap derajatnya. Dan dari pengujian respon servo terhadap program didapat bahwa factor yang mempengaruh pergerakan servo adalah jumlah increment decrement tiap step posisi, dan kecepatan, didapat kesimpulan bahwa semakin besar step posisi yang di lakukan dalam sekali jalan maka akan semakin halus pergerakan servo, dan semakin cepat kecepatan servo akan semakin terasa apabila digunakan untuk melakukan pergerakan step posisi yang semakin besar. Software yang telah dibuat ini memiliki kekurangan, di mana software ini terlalu lambat dalam merespon.",
+  "creators": "ROBERTUS YANUARIUS",
+  "contributors": "Handry Khoswanto (Advisor 1); Hany Ferdinando (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010937/ELK/2014; Robertus Yanuarius (23406023)",
+  "subjects": "ROBOTS; INTEL AT89S51 (MICROCONTROLLER); AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

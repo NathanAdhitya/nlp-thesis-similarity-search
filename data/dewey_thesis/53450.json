@@ -1,0 +1,14 @@
+{
+  "id": "53450",
+  "title": "Penyuaraan pesan teks media sosial pada perangkat mobile menggunakan text to speech",
+  "abstract": "Penggunaan smartphone sebagai alat berkomunikasi akan semakin meningkat bersamaan dengan meningkatnya pengguna smartphone. Berdasarkan data yang didapat, pada awal tahun 2021 terdapat sekitar 167 juta pengguna smartphone di Indonesia (Hanum, 2021). Penggunaan smartphone sebagai alat berkomunikasi untuk mengirim pesan dalam penggunaannya juga dapat mulai mengganggu masyarakat apabila mereka sedang beraktivitas yang membutuhkan konsentrasi, contohnya seperti berkendara. Pada tahun 2017, terdapat sekitar 15,341 kasus kecelakaan di Amerika yang disebabkan karena pengendara menggunakan smartphone (Cell Phone, n.d). Untuk mengatasi masalah tersebut, fitur text to speech akan digunakan untuk menyuarakan pesan-pesan yang masuk tersebut sehingga pengguna smartphone tidak perlu membuka smartphone mereka untuk mengetahui pengirim dan isi pesan tersebut. Hasil dari pengujian yang dilakukan terhadap penggunaan fitur text to speech menunjukkan bahwa sistem dapat menyuarakan pesan-pesan yang masuk dengan baik. Untuk pesan-pesan yang memiliki kata singkatan, fitur text to speech tidak dapat menyuarakannya dengan baik. Sedangkan untuk pengujian yang dilakukan terhadap fitur untuk mendeteksi pesannya, sistem dapat mendeteksi beberapa data pesan seperti nama package dari aplikasi, nama pengirim, dan juga isi pesan dengan baik. Untuk pesan yang diterima melalui obrolan grup, hasil deteksi dari aplikasi line, dan aplikasi WhatsApp memiliki kekurangan, sehingga terdapat kendala dalam proses penyuaraan pesan obrolan grup pada aplikasi line dan WhatsApp.",
+  "creators": "MICHAEL ALEXANDER RUSTAN",
+  "contributors": "Liliana (Advisor 1); ANITA NATHANIA PURBOWO, S.KOM. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022187/INF/2022; Michael Alexander Rustan (C14180175)",
+  "subjects": "MOBILE APPS--DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); SMARTPHONES--PROGRAMMING; TEXT-TO-SPEECH SOFTWARE"
+}

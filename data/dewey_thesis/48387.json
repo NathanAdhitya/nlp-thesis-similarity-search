@@ -1,0 +1,14 @@
+{
+  "id": "48387",
+  "title": "Optimasi struktur rangka batang berbasis reliabilitas dengan menggunakan metode metaheuristik, simulasi monte carlo, dan neural network",
+  "abstract": "Faktor keamanan dan ekonomi merupakan pertimbangan utama dalam proses desain struktur di dunia teknik sipil. Struktur yang ekonomis dengan tingkat keamanan yang tinggi merupakan hal yang ingin dicapai. Untuk mencapai tingkat keamanan tertentu, ada banyak hal yang perlu diperhitungkan. Penyimpangan yang mungkin terjadi pada saat pelaksanaan di lapangan, ketidakpastian mutu baja dapat mempengaruhi tingkat keamanan sebuah struktur. penyimpangan maupun ketidakpastian ini dapat diperhitungkan dengan metode Reliability-Based Design Optimization (RBDO). Penelitian ini menggunakan reliability tipe 3, yaitu reliability dengan menggunakan metode simulasi. Monte Carlo Simulation (MCS) akan digunakan untuk memperhitungkan tingkat reliabilitas dari struktur yang diteliti. Metode simulasi ini memerlukan waktu komputasi yang lama untuk tingkat reliabilitas yang tinggi. Untuk mempersingkat waktu komputasi, akan digunakan bantuan sebuah kecerdasan buatan yaitu Artificial Neural Network (ANN). ANN akan digunakan untuk menggantikan peranan MCS dalam proses optimasi struktur rangka batang. Algoritma optimasi yang digunakan adalah Particle Swarm Optimization (PSO) dan Symbiotic Organisms Search (SOS). Algoritma-algoritma tersebut akan digunakan untuk dua studi kasus yaitu 10-bar truss dan 15-bar truss. Performa kedua algoritma akan diukur dari lima kriteria massa. Kriteria yang digunakan adalah massa terbaik, terburuk, rata-rata, standar deviasi dan median dari struktur rangka batang tersebut. Hasil penelitian menunjukkan SOS memiliki performa lebih baik.",
+  "creators": "CHRISTOFFEL FELIO THAMRIN; RONALD HERDJIJONO",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Willy Husada, ST.,MT., Msc. (Advisor 2); Wong Foek Tjong, S.T., M.T., Ph.D. (Examination Committee 1); Joko Purnomo S.T., M.Sc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012404/SIP/2020; Christoffel Felio Thamrin (21416028)Ronald Herdjijono (21416122)",
+  "subjects": "BUILDING, IRON AND STEEL; STEEL, STRUCTURAL-COMPUTER PROGRAMS; STEEL, STRUCTURAL"
+}

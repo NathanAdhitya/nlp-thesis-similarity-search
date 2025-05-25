@@ -1,0 +1,14 @@
+{
+  "id": "13703",
+  "title": "32 channel logic analyzer melalui parallel port dari PC",
+  "abstract": "Logic Analyzer merupakan salah satu instrumentasi yang sangat penting kegunaannya dalam hal design maupun troubleshooting di dalam pembuatan suatu perangkat elektronika yang berbasiskan digital, yang mana berurusan dengan logic-logic yang diproses dalam kecepatan tinggi. Dengan mengacu pada tujuan tersebut maka Logic Analyzer dibuat dengan memiliki input yang cukup untuk mengetahui data yang diolah, dengan mempergunakan parallel port yang didesign sehingga memiliki 32 Channel Input, dan dibuat dengan mempergunakan Microsoft? Visual C++ 6.0 dengan tujuan mensupport jenis operating system yang paling banyak dipakai dan memiliki tingkat kecepatan yang tinggi. Pembuatan 32 Channel Logic Analyzer ini memiliki perangkat keras yang berfungsi untuk menjembatani antara kemampuan parallel port dengan kecepatan dari hardware yang akan dianalisa. Untuk menunjang kemudahan pembacaan data, 32 Channel Logic Analyzer memiliki 2 tipe tampilan yaitu text based (binary data) dan graphic based (waveform). Dengan memiliki kecepatan sampling sesuai dengan kecepatan CPU yang dipergunakan, 32 Channel Logic Analyzer dirasakan kurang fleksibel sehingga perlu ditingkatkan performa dari kecepatan sampling yang ada.",
+  "creators": "YONAS APRIONO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/013/527; Yonas Apriono (23497061)",
+  "subjects": "ELECTRONIC CIRCUITS-TESTING-EQUIPMENT AND SUPIES; LOGIC ANALYZER; MICROSOFT VISUAL C++"
+}

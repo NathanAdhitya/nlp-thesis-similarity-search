@@ -1,0 +1,14 @@
+{
+  "id": "17459",
+  "title": "Perencanaan dan pembuatan pengisi baterai cerdas dengan menggunakan mikrokontroler fuzzy NLX230",
+  "abstract": "Produk konsumen yang bisa dibawa-bawa seperti komputer notebook, camcoder dan telepon selular mengandalkan baterai isi ulang untuk tenaganya. Dewasa ini baterai isi ulang menjadi popular karena keunggulan-keunggulannya seperti dapat digunakan berulang kali untuk jangka waktu lama dengan pengisi baterai yang cepat secara aman. Pengisi baterai yang cepat dan dapat diandal'kan sangat dibutuhkan tanpa merusak baterai. Untuk itu pada Tugas Akhir ini dibuat suatu pengisi baterai cerdas yang menerapkan penggunaan kontrol logika fuzzy. Alat pengisi baterai ini menggunakan IC fuzzy logic NLX230 buatan Neuralogix. Alat ini berfungsi untuk mengisi ulang dua buah baterai NiMH tipe AAA dengan kapasitas 500 mA. Keunggulan sistem ini adalah dapat memonitor level tegangan baterai, suhu kemasan baterai untuk kemudian dapat diketahui mode pengisian yang baik dan cepat tetapi aman bagi baterai itu sendiri. Mode pengisian tersebut adalah trickle charge mode dimana laju arus pengisian yang digunakan adalah 67 mA ( 1/10 kapasitas baterai ) ; fast charge mode dengan laju pengisian 366 mA ; dan terminated mode bila proses pengisian dihentikan.",
+  "creators": "ERWANTO SANTOSO",
+  "contributors": "SOETIKNO (Advisor 1); HERLIANTO TENGGARA (Advisor 2); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skrispi No. 98/E/EL/021/366; Erwanto Santoso (23492018)",
+  "subjects": "INTEL NLX 230 (MICROCONTROLLER); ELECTRIC BATTERIES"
+}

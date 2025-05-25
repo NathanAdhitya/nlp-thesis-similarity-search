@@ -1,0 +1,14 @@
+{
+  "id": "60861",
+  "title": "Perancangan dan implementasi sistem plug-in hybrid electric vehicle pada sepeda motor bensin",
+  "abstract": "Pertumbuhan jumlah penduduk menyebabkan semakin bertambahnya jumlah populasi kendaraan bermotor di Indonesia, terutama sepeda motor. Meningkatnya jumlah kendaraan bermotor tentu juga akan meningkatkan konsumsi bahan bakar secara keseluruhan sedangkan, cadangan minyak bumi semakin menipis. Pada sisi lain, meningkatnya jumlah kendaraan bermotor juga meningkatkan polusi udara yang berakibat buruk pada kesehatan. Kendaraan berpenggerak hybrid menawarkan kehematan bahan bakar yang cukup signifikan. Perancangan dan implementasi ini dilakukan untuk menemukan konsep awal dari sistem hybrid yang bisa diterapkan pada sepeda motor bensin. Hasil dari perancangan dan implementasi menunjukkan bahwa sistem hybrid paralel dapat diterapkan pada sepeda motor bensin. Motor listrik lebih sesuai untuk digunakan saat kecepatan rendah sedangkan mesin bensin digunakan saat kecepatan tinggi. Arduino digunakan untuk menyalakan mesin bensin dengan menggunakan kecepatan motor listrik sebagai pemicu. Pengisian daya baterai dapat dilakukan dengan mesin bensin dapat dilakukan dengan memanfaatkan transformator untuk meningkatkan voltase yang dihasilkan dari alternator untuk dimasukkan ke dalam baterai. Berdasarkan pengujian yang dilakukan, mesin bensin berperan sebagai tenaga penggerak cadangan apabila baterai motor listrik habis yang berakibat pada penghematan bahan bakar yang signifikan.",
+  "creators": "DARWIN ANGGONO",
+  "contributors": "Willyanto (Advisor 1); Ian Hardianto Siahaan (Examination Committee 1); Sutrisno S.T.,M.T. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011525/MES/2024; Darwin Anggono (C12200026)",
+  "subjects": "ELECTRIC MOTORCYCLES; ELECTRIC VEHICLES; HYBRID ELECTRIC VEHICLES"
+}

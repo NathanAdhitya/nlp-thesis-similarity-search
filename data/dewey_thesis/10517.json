@@ -1,0 +1,14 @@
+{
+  "id": "10517",
+  "title": "Pembuatan man machine interface pada mesin finger joint FA-6200 berbasis wonderware intouch 9.0",
+  "abstract": "Mesin finger joint adalah mesin yang populer di industri perkayuan. Mesin ini berfungsi untuk mendaur ulang sisa potongan balok kayu menjadi suatu balok kayu yang utuh dan memiliki nilai ekonomis. PLC sepenuhnya mengendalikan operasi kerja dari mesin yang memiliki proses pembentukan dan proses penyambungan ini. Mesin ini sendiri belum memiliki sistem monitoring yang terintegrasi dengan PLC, sehingga dibutuhkan suatu sistem monitoring yang dapat diawasi lewat sebuah komputer dan terintegrasi dengan PLC. Pembuatan sistem monitoring mesin ini menggunakan Wonderware InTouch untuk menampilkan status kerja dari mesin finger joint. Pembuatan sistem monitoring ini membutuhkan modifikasi program ladder diagram sehingga sesuai dengan kebutuhan desain monitoring-nya. Pengujian dilakukan langsung pada mesin finger joint ini dan didapatkan hasil bahwa respon sistem monitoring pada layar komputer mengalami keterlambatan sekitar ? 65 milidetik dari keadaan yang sebenarnya. Hal ini disebabkan karena penggunaan kabel serial sebagai penghubung antara komputer dan PLC.",
+  "creators": "DEVID LEWI",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010812/ELK/2006; Devid Lewi (23400024)",
+  "subjects": "PROGRAMMABLE CONTROLLER; AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

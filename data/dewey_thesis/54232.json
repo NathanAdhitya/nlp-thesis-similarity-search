@@ -1,0 +1,14 @@
+{
+  "id": "54232",
+  "title": "Traffic congestion index of the top 100 largest cities in the world based on uncalibrated IFN",
+  "abstract": "Metode Ideal Flow Network (IFN) merupakan salah satu metode baru yang dapat digunakan untuk mengestimasi indeks kemacetan. Metode IFN berbeda dengan traditional traffic assign methods karena tidak memerlukan OD-Matrix dalam perhitungannya. Dalam menggunakan metode IFN, jaringan jalan haruslah bersifat strongly connected network dan jumlah arus yang keluar sama dengan yang masuk. Hal ini menyebabkan IFN bersifat irreducible dan premagic. Pada penelitian ini, metode IFN akan digunakan untuk mengestimasti angka kemacetan 100 kota besar di dunia berdasarkan GDP, jumlah populasi, dan luas area. Hasil yang dicapai akan disajikan dalam bentuk ranking sebagaimana meranking kota menggunakan metode IFN belum pernah dilakukan di dunia. Selain itu, angka kemacetan dibandingkan dengan berbagai indikator untuk mengetahui hubungan angka kemacetan dengan indikator tersebut. Hasil penelitian menunjukkan bahwa angka kemacetan hampir tidak berhubungan dengan GDP, jumlah populasi dan luas area suatu kota.",
+  "creators": "GABRIEL BRYAN LIRUNGAN; YANKY HERMAWAN",
+  "contributors": "Ir. Kardi Teknomo (Advisor 1); Rudy Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012626/SIP/2022; Gabriel Bryan Lirungan (B11180061), Yanky Hermawan (B11170130)",
+  "subjects": "INTELLIGENT TRANSPORTATION SYSTEMS--DATA PROCESSING; TRAFFIC CONGESTION"
+}

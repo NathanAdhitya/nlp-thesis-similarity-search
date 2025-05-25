@@ -1,0 +1,14 @@
+{
+  "id": "28616",
+  "title": "Analisa differential relay pada sistem pengaman busbar 150 kV di gardu induk Waru Surabaya",
+  "abstract": "Di jaman modern ini, kondisi cuaca yang tidak menentu dapat mengakibatkan kerusakan pada rel daya/busbar. Oleh sebab itu, dibutuhkan suatu pengaman yang beroperasi baik dan cepat untuk memproteksi busbar. Berdasarkan kondisi tersebut, penulisan skripsi ini bertujuan untuk menganalisa kinerja Differential Relay sebagai sistem pengaman pada busbar karena waktu pemutusan yang cepat dan hanya bekerja untuk gangguan di daerah proteksi. Analisa kinerja Differential Relay pada sistem pengaman busbar 150 kV di Gardu Induk terdiri dari analisa external fault dan internal fault dengan menggunakan 2 metode yaitu metode rumus perhitungan arus hubung singkat 3 fasa dan simulasi dengan Electrical Transient Analysis Program (ETAP) 7.0. Hasil perhitungan arus hubung singkat 3 fasa dengan menggunakan rumus sebesar 30,75 kA mendekati hasil perhitungan arus hubung singkat 3 fasa dengan simulasi ETAP 7.0 sebesar 38,3 kA. Nilai rata-rata% percent error sebesar 4,89 % dan hasil setting waktu grafik Relay adalah 1 detik (pick up range Instantaneous) sebanding dengan data setting range arus dan waktu di Gardu Induk Waru (PT. PLN Persero).",
+  "creators": "VALENSSIA NENKEULA",
+  "contributors": "Emmy Hosea (Advisor 1); Julius Sentosa Setiadji (Advisor 2); Yusak Tanoto, S.T., M.Eng., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010631/ELK/2013; Valenssia Nenkeula (23408022)",
+  "subjects": "ELECTRONIC POWER TRANSMISSION; ELECTRONIC POWER DISTRIBUTION"
+}

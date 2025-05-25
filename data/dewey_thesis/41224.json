@@ -1,0 +1,14 @@
+{
+  "id": "41224",
+  "title": "Aplikasi pengenalan wajah menggunakan hough transform based feature extraction",
+  "abstract": "Aplikasi ini dibuat untuk pengujian metode hough transform, sehingga nantinya bisa diterapkan pada aplikasi lainnya. Bidang keamanan memanfaatkan pengenalan wajah, misalnya untuk verifikasi pada login akun ataupun keamanan ruangan. Aplikasi dibuat dengan menggunakan Visual Studio dengan bahasa pemerograman C# (C-Sharp). Aplikasi juga menggunakan emgu-cv sebagai external libraries yang digunakan untuk mengolah dari data menjadi format foto yang bisa diolah oleh aplikasi. Aplikasi menggunakan berbagai pre-processing di antaranya adalah histogram equalization, unsharp masking, dan edge detection. Pre-processing digunakan untuk memperbaiki persentase pengenalan gambar dalam variasi pencahaan terang maupun gelap dan warna. Metode block-wise hough transform digunakan untuk membagi gambar menjadi blok gambar, sehingga karakteristik penting pada gambar dapat dikenali. Dari hasil pengujian pengenalan wajah dipengaruhi oleh variasi pose pada database target, jika pada database target memiliki variasi pose yang memenuhi kebutuhan gambar yang diuji maka pengenalan wajah bekerja dengan baik. Variasi pencahayaan dan warna dalam pengenalan diperbaiki dengan pre-processing yang digunkan dalam aplikasi.",
+  "creators": "SEPTIAN TRIADI",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Rudy Adipranata (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021696/INF/2017; Septian Triadi (26413056)",
+  "subjects": "PATTERN RECOGNITION SYSTEMS; COMPUTERS-IMAGE PROCESSING"
+}

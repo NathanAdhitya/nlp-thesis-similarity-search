@@ -1,0 +1,14 @@
+{
+  "id": "2790",
+  "title": "Pembuatan alat simulasi pengaturan kapasitor untuk praktikum STL",
+  "abstract": "Di dalam dunia industri pemakaian energi listrik yang berlebihan mengakibatkan faktor kerja atau biasa disebut cos p menjadi jelek karena adanya penggunaan beban induktif yang mengkonsumsi daya reaktif. Hal ini menyebabkan kerugian pada sistem seperti kenaikan arus, kenaikan suhu, penurunan tegangan dan banyak lagi. Oleh karena itu digunakan bank kapasitor yang dapat men-supply daya reaktif sehingga cos cp sistem dapat menjadi lebih baik. Alat simulasi pengaturan kapasitor yang dibuat pada tugas akhir kali ini merupakan suatu sistem kecil yang dapat menggambarkan kerja kapasitor dalam memperbaiki cos cp sistem. Alat ini terdiri dua bagian yaitu hardware dan software. Hardware meliputi beban universal, unit kapasitor dan RPS. Sedangkan software menggunakan Borland Delphi. Penelitian dan pengujian dilakukan dengan membaca cos cp sistem dan pengaturan kapasitor secara manual dan otomatis. Error pembacaan alat terhadap Fluke 41b adalah 5%.Alat ini juga mampu melakukan pengaturan kerja kapasitor secara manual maupun otomatis menjadi minimal sesuai input pada komputer. Cos (p sistem dapat diperbaiki karena daya reaktif yang disupply oleh kapasitor, sehingga daya total dan arus pun semakin kecil.Terlihat dari penggunaan kapasitor 10uF yang dapal menaikkan cos (p sebesar 0,12. Dengan tujuan dan kemampuan alat ini, diharapkan nantinya dapat digunakan sebagai alat bantu dalam proses belajar mengajar.",
+  "creators": "YULIANA PANDUNG DUMA",
+  "contributors": "Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 1); Lauw Lim Un Tung (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/TST/018/432; Yuliana P. Duma (23497087)",
+  "subjects": "CAPACITORS"
+}

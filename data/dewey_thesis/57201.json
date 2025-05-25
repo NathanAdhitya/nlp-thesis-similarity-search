@@ -1,0 +1,14 @@
+{
+  "id": "57201",
+  "title": "Global illumination rendering menggunakan pix2pix generative adversarial networks secara real time",
+  "abstract": "Global Illumination merupakan sebuah efek yang digunakan untuk menghasilkan gambar secara realistis dengan kualitas yang tinggi. Dibutuhkan waktu yang lama untuk menghasilkan global illumination sehingga sulit untuk dilakukan secara real time. Hal ini disebabkan karena dalam menghasilkan efek global illumination, pencahayaan suatu benda juga dipengaruhi oleh cahaya yang terpantulkan oleh objek lain. Banyaknya sumber cahaya dan objek, meningkatkan waktu untuk menghasilkan global illumination. Metode yang digunakan pada penelitian ini adalah Pix2pix GAN biasa digunakan untuk melakukan image-to-image translation. Dataset yang digunakan pada adalah gambar scene sebelum dan sesudah diberi efek global illumination. Model GAN digunakan untuk menerjemahkan gambar sebelum diberi global illumination menjadi gambar setelah diberi efek global illumination. Hasil pengujian menunjukkan bahwa model Pix2pix Generative Adversarial Network tidak dapat menghasilkan efek global illumination secara real-time sehingga perlu dilakukan pengurangan layer pada model. Pix2pix GAN juga hanya bisa menghasilkan global illumination dengan baik pada scene dari data train, dengan SSIM 92.32% untuk scene dari data train, dan 68.54% untuk scene di luar data train. Model dapat menghasilkan global illumination pada scene dari data train namun dengan sudut pandang yang berbeda, dengan SSIM 93.36% pada data train dan 93.32% pada data test yang memiliki sudut pandang yang berbeda.",
+  "creators": "WINSON EVANGELIS SUTANTO",
+  "contributors": "Liliana (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Hans Juwiantho S.Kom., M.Kom (Examination Committee 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022334/INF/2023; Winson Evangelis Sutanto (C14190042)",
+  "subjects": "COMPUTER GRAPHICS; DEEP LEARNING; APPLICATION SOFTWARE"
+}

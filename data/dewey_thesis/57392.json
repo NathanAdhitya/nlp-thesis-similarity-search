@@ -1,0 +1,14 @@
+{
+  "id": "57392",
+  "title": "Sistem palletizing kemasan tersier menggunakan robot manipulator 6 axis",
+  "abstract": "Lab Elektronika Teknik Elektro Universitas Kristen Petra ingin melakukan pembelajaran mengenai robot-robot yang digunakan di industri. Pembelajaran ini ingin lebih mendalami mengenai tipe gerakan yang dapat dilakukan oleh robot seperti pick and place dan palletizing. Untuk itu dibuatlah replikasi sistem otomatisasi menggunakan beberapa pergerakan robot seperti yang ada pada industri. Sistem yang dibuat dalam tugas akhir ini mendalami pada wizard pallet yang terdapat pada PolyScope Universal Robot dan digunakan untuk melakukan palletizing dengan metode column stacking dan interlocking stacking. Sistem juga memanfaatkan suction end-effector sebagai perangkat palletizing sistem. Seluruh program dijalankan dan dibuat melalui kontroler Universal Robots. Berdasarkan hasil pengujian, end-effector suction yang dibuat mampu mengangkat beban hingga 1200 gr. Kemampuan sistem melakukan palletizing column stacking dengan kecepatan 3000mm/s dan akselerasi 1500mm/s2 adalah 5 menit 3 detik dengan persentase margin panjang sebesar 2% dan persentase margin lebar sebesar 2% dan interlocking stacking adalah 5 menit 32 detik dengan persentase margin panjang sebesar 7% dan persentase margin lebar sebesar 3%.",
+  "creators": "BENEDICTUS GIOVANNO SOETANTO",
+  "contributors": "Handry Khoswanto (Advisor 1); Thiang (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011051/ELK/2023; Benedictus Giovanno Soetanto (C11190008)",
+  "subjects": "ROBOTS; PALLET SYSTEMS"
+}

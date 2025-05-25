@@ -1,0 +1,14 @@
+{
+  "id": "21245",
+  "title": "Pembuatan cuk regulator penaik tegangan DC 12 volt menjadi 24 volt 100 watt",
+  "abstract": "Pada tugas akhir ini, dibuat suatu alat yang dapat digunakan untuk menaikkan tegangan DC dari tegangan supply 12V DC menjadi 24V DC 100 Watt. Prinsip pembuatan alat ini diambil dari rangkaian Cuk Regulator. Alat ini terdiri dari rangkaian pengontrol dan rangkaian Cuk Regulator. Rangkaian pengontrol yang dipakai disini adalah Pulse Width Modulator (PWM) degan komponen IC LM555, dimana alat ini digunakan untuk mengontrol transistor yang ada pada rangkaian Cuk Regulator agar dapat melakukan switching. Pengujian dilakukan dengan memberikan suatu beban pada alat tersebut. Sehingga dapat diketahui bahwa alat tersebut dapat digunakan untuk menaikkan tegangan 12V DC menjadi 24V DC. Dari pengujian tersebut didapatkan bahwa dengan adanya penambahan beban resistor berupa lampu pijar, maka tegangan yang dihasilkan terjadi penurunan yang tidak sesuai dengan yang diinginkan. Alat ini hanya dapat menghasilkan tegangan DC sampai dengan 24V saja.",
+  "creators": "IWAN HARTONO",
+  "contributors": "Julius Sentosa Setiadji (Advisor 2); Emmy Hosea (Advisor and Examination Committee)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/TST/003/386; Iwan Hartono (23495020",
+  "subjects": "POWER ELECTRONICS; VOLTAGE REGULATORS"
+}

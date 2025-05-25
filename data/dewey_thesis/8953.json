@@ -1,0 +1,14 @@
+{
+  "id": "8953",
+  "title": "Perancangan dan pembuatan sistem informasi harga pokok produksi pada pabrik krupuk Sumber Agung",
+  "abstract": "Saat ini sistem informasi pembelian dan penjualan yang digunakan olehPabrik Krupuk Sumber Agung masih secara manual. Begitu pula dengan penghitunganHarga Pokok Produksi, menyebabkan tidak efisien waktu dan ada kemungkinan salahperhitungan. Laporan yang dihasilkan pun masih berupa kertas yang mudah hilang. Berdasarkan latar belakang permasalahan tersebut, penulis merancangsistem informasi pembelian, penjualan, dan penghitungan Harga Pokok Produksisecara terkomputerisasi, dimana proses pembuatannya meliputi studi literatur,pengumpulan data, perancangan dan pembuatan program, pengujian dan evaluasiprogram, dan pembuatan laporan. Menggunakan Borland Delphi 7 sebagai bahasapemograman dan Microsoft SQL Server sebagai databasenya.Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, aplikasi telahmampu menghitung Harga Pokok Produksi dari tiap produk yang dihasilkan, menyimpan transaksi pembelian, penjualan, stok barang. Juga dapat membuat danmenampilkan laporan pembelian, laporan penjualan, Laporan Harga Pokok Produksi,dan laporan laba rugi penjualan secara otomatis.",
+  "creators": "RUDY WIJAYA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Gregorius Satiabudhi (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010652/INF/2007; Rudy Wijaya (26403069)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

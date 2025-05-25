@@ -1,0 +1,14 @@
+{
+  "id": "7621",
+  "title": "Pengembangan metode steganography untuk penyembunyian data di dalam citra digital dengan menggunakan metode LSB (Least Significant Bit) dan cross dissolve",
+  "abstract": "Saat ini, pengiriman data telah banyak dilakukan dengan media digital (Internet, E-mail, dan sebagainya). Permasalahan yang sering timbul pada pengiriman data dengan media digital berhubungan dengan tingkat keamanan data yang hendak dikirimkan, sehingga timbul pemikiran untuk melakukan penyembunyian data pada sebuah jenis media. Citra digital adalah salah satu media yang paling umum dikenal oleh masyarakat. Steganography adalah suatu metode cryptography, yang digunakan untuk menyembunyikan data ke dalam citra digital sehingga data yang dikirimkan tidak dapat diidentifikasi oleh pihak yang tidak bertanggung jawab. Pada Tugas akhir ini akan digunakan 2 buah metode yaitu LSB (Least Significant Bit) dan cross dissolve. Enkripsi data digunakan untuk meningkatkan keamanan data yang hendak dikirimkan. Algoritma enkripsi yang dipilih adalah RC4 (Ron?s Code #4) dan DES (Data Encryption Standart). Pemecahan data pada beberapa citra digital dapat dilakukan agar penyembunyian data yang berukuran besar dapat dimungkinkan. Dengan mengembangkan metode steganography dan enkripsi data maka pengiriman data yang dilakukan tidak hanya memiliki tingkat keamanan yang baik karena menggunakan keamanan yang berlapis, namun juga memiliki efisiensi dalam penyembunyian data yang tinggi (mencapai 30 hingga 50 persen bergantung dari metode penyembunyian yang digunakan)",
+  "creators": "SAMUEL HARTONO",
+  "contributors": "Kartika Gunadi (Advisor 1); Agustinus Noertjahyana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000401/INF/2005; Samuel Hartono (26402012)",
+  "subjects": "CRYPTOGRAPHY-COMPUTER PROGRAM"
+}

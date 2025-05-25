@@ -1,0 +1,14 @@
+{
+  "id": "14985",
+  "title": "Perencanaan dan pembuatan simulasi load cell sebagai alat kalibrasi dan alat uji kelinieran suatu indikator berat dengan resolusi 1 % menggunakan mikroprosessor 8088",
+  "abstract": "Ketepatan standard mutu pada dunia industri sangat penting, hal ini menyangkut baik volume, berat, maupun klasifikasi yang lainnya. Untuk berat biasanya digunakan suatu timbangan berat atau indikator berat dengan load cell sebagai sensor beratnya. Semakin sering indikator berat digunakan kadang-kadang indikator tersebut sudah mulai berubah ketepatannya. Melalui tugas akhir ini akan dibuat alat untuk mengkalibrasikan indikator berat tersebut agar indikator berat tersebut bisa dipercaya lagi ketepatannya. Alat ini sebenarnya merupakan pengganti dari loadcell, oleh sebab itu disebut simulasi load cell. Alat ini menggantikan semua fungsi dan kedudukan load cell. Output dari alat ini dimasukkan ke indikator berat melalui input dimana load cell dimasukkan ke indikator berat tersebut. Tingkat resolusi dari alat ini adalah 1% dalam arti alat ini mampu menghasilkan tegangan paling kecil seperseratus dari tegangan maksimum yang dihasilkan load cell. Besarnya tegangan yang diinputkan ke indikator berat dapat diatur sesuai keinginan kita melalui keypad yang disediakan. Akan tetapi besarnya tegangan ini tidak boleh melebihi 80 mV untuk menjaga agar indikator berat tidak rusak. Tingkat kelinieran dari alat ini adalah 0,999998156592. Hal ini bisa dianggap cukup linier untuk mengkalibrasikan indikator berat.",
+  "creators": "EDI GUNAWAN",
+  "contributors": "VINCENT PRASETYO (Examination Committee 1); IRWAN SAHLI (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/011/356; Edi Gunawan (23490112)",
+  "subjects": "CALIBRATION-COMPUTER PROGRAMS; INTEL 8088 (MICROCONTROLLER); PHYSICAL MEASUREMENTS-COMPUTER PROGRAMS"
+}

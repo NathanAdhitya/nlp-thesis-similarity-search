@@ -1,0 +1,14 @@
+{
+  "id": "34333",
+  "title": "Penggunaan microsoft Kinect untuk kendali robot lengan",
+  "abstract": "Robotika adalah salah satu bidang teknologi yang cukup berkembang hingga saat ini. Perkembangan tersebut salah satunya dalam bidang industri. Industri sudah mulai untuk menggunakan robot lengan untuk membantu pekerjaan manusia. Robot lengan tersebut diperintahkan untuk melakukan hal yang sama dengan yang dilakukan oleh manusia. Dalam sistem ini, sensor Kinect menjadi acuan bagi robot lengan saat melakukan suatu gerakan. Kinect membaca posisi sendi lengan user, lalu memproses data tersebut hingga menjadi data sudut tiap sendi. Data sudut tersebut kemudian akan dikirimkan menuju robot lengan, dan robot lengan akan bergerak sesuai dengan data sudut yang telah diberikan. Robot lengan didesain sedemikian rupa agar menyerupai lengan manusia. Robot lengan terdiri dari lima buah servo dengan torsi masing-masing sebesar 0.8 N.m. Dari hasil pengujian dapat diketahui bahwa sensor Kinect, terkadang salah melakukan pembacaan posisi skeletal joint. Jarak user dengan Kinect, ketinggian posisi Kinect, dan kemiringan user menjadi beberapa faktor pengaruh untuk proses pengambilan data. Nilai error yang dihasilkan jika dibandingkan dengan pengukuran dari sudut yang dibentuk oleh lengan manusia, pada sudut putar adalah 10.87%, sudut bahu adalah 14.35%, sudut siku 5.67%, serta sudut kemiringan user 8.05%. Robot lengan tidak dapat menggerakkan bagian pergelangan tangan dikarenakan keterbatasan library yang digunakan.",
+  "creators": "VINCENTIUS CHRISTIAN A.",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Handry Khoswanto (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010942/ELK/2015; Vincentius Christian Andrianto (23411003)",
+  "subjects": "ROBOTICS; ROBOTS, INDUSTRIAL-COMPUTER PROGRAMS"
+}

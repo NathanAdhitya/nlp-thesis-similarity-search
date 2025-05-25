@@ -1,0 +1,14 @@
+{
+  "id": "39160",
+  "title": "Pembuatan lengan robot dengan sistem pemrograman menggunakan gesture control",
+  "abstract": "Indonesia adalah negara dinamis yang memiliki potensi investasi infrastruktur, industri manufaktur, dan jasa yang besar. Sehingga untuk bersaing di kawasan regional maupun internasional memerlukan optimalisasi teknologi. Negara Indonesia sedang membutuhkan peran otomasi dalam setiap industrinya. Beberapa permasalahan disebabkan karena peningkatan Upah Minimum Regional, dan susahnya melakukan kontrol terhadap para pekerja. Dibuatnya lengan robot ini akan mempermudah proses pemrograman robot industri agar robot industri dapat diterima di berbagai perusahaan di Indonesia. Lengan robot yang dibuat ini menggunakan mekanik sling dan memiliki kemampuan hanya untuk proses pick and place, dengan kapasitas 4 axis, dan metode pengajaran melalui kinesthetic teaching dengan gesture control. Lengan robot memanfaatkan myo armband serta sensor electromyograph untuk membaca gerakan lengan operator. Lengan robot menggunakan kontroler PLC, dan raspberry pi untuk membaca dan memproses myo armband. Lengan robot memiliki kapasitas memori untuk menyimpan 30 koordinat titik tujuan pergerakan yang dibaca oleh incremental rotary encoder, dan mampu menyimpan 3 program.",
+  "creators": "HANS PRASETYA COKRO",
+  "contributors": "Felix Pasila (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010959/ELK/2017; Hans Prasetya Cokro (23412041)",
+  "subjects": "ELECTRICAL ENGINEERING; ROBOTICS; ROBOTS"
+}

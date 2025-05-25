@@ -1,0 +1,14 @@
+{
+  "id": "27767",
+  "title": "Penggunaan mikroprosesor Z-80 untuk mengontrol generator DC 220V, 4,5 KW dalam sistem Leonard",
+  "abstract": "Pemakaian mikroprosesor dalam bidang elektronika dan industri telah berkembang dengan pesat. Dalam tugas akhir ini dirancang, dibuat dan diamati suatu rangkaian pengatur tegangan otomatik dengan menggunakan mikroprosesor Z-80. Sistem yang direalisasikan ini berbentuk sistem pengaturan ikal tertutup, dengan besaran yang diatur adalah arus medan suatu generator DC. Dengan pengaturan arus medan tersebut akan didapatkan tegangan output generator yang konstan. Sistem pengaturan generator DC seperti ini disebut dengan sistem Ward Leonard. Sebagai pengatur digunakan suatu sistem rangkaian mikroprosesor Z-80. Untuk mengatur besarnya arus medan generator DC digunakan rangkaian thyristor yang sudut penyalaannya dikendalikan oleh rangkaian ramp dan komparator. Untuk menghubungkan sistem mikroprosesor dengan peralatan yang diatur, digunakan Programmable Peripheral Interface (PPI) 8255, Digital to Analog (DAC) 0808 dan Analog to Digital (ADC) 0804. Perangkat lunak dari sistem, yang merupakan program pengendali dituliskan dalam bahasa Assembly Z-80 yang telah diubah dalam bahasa mesin, yang dimasukkan dalam memori sistem. Dengan membaca data dari ADC, maka mikroprosesor akan mengolah data-data tersebut, kemudian akan diperintahkan kepada DAC melalui PPI 8255 untuk mengeluarkan arus ke kumparan medan suatu generator DC. Dengan demikian akan didapatkan suatu tegangan output generator DC yang konstan. Dari hasil pengamatan yang telah dilakukan, maka dapat disimpulkan bahwa untuk memperoleh output generator DC yang konstan, dapat dilakukan dengan mengatur arus medan. Dengan sistem Ward Leonard, AVR generator DC dapat digunakan untuk mengatur keoepatan motor DC. Dengan digunakannya mikroprosesor, maka pengaturan yang dilakukan menghasilkan ketepatan dalam pengolahan data",
+  "creators": "Lie Fung Kie",
+  "contributors": "SOETIKNO (Examination Committee 1); YOHANES T. D. S (Advisor 2); NAWANTO WIBOWO (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 89/E/EL/010/0031; Lie Fung Kie (483055)",
+  "subjects": "MICROPROCESSORS, DINAMOS"
+}

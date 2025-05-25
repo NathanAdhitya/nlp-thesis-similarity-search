@@ -1,0 +1,14 @@
+{
+  "id": "8659",
+  "title": "Mesin presensi mahasiswa berteknologi RFID dan embedded internet",
+  "abstract": "Sistem presensi selalu dilakukan di tiap jam perkuliahan, sistem yang dilakukan selama ini cenderung masih bersifat manual, yaitu dengan mengedarkan daftar presensi atau memanggil nama / NRP satu per satu. Oleh karena itu diperlukan suatu alat yang dapat bekerja secara otomatis untuk mendata presensi dari tiap mahasiswa. Untuk itu dipakai teknologi RFID dan embedded internet sehingga dapat diperoleh informasi yang cepat dan tepat. Hardware yang dipakai sebagai mesin presensi adalah Rabbitcore RCM3200 dan RFID ID-10. Sedangkan software yang digunakan adalah Dynamic C, PHP dan MySQL untuk database-nya. Dengan penggabungan software maupun hardware maka sistem ini dapat mendata presensi secara otomatis, karena semua proses data dikirimkan melalui jaringan internet. Hasil pengujian secara software dan hardware menunjukan bahwa mesin presensi berteknologi RFID dan Embedded Internet ini (secara simulasi) dapat bekerja sesuai dengan yang diharapkan dan dapat menyelesaikan masalah (yang ditimbulkan oleh sistem presensi yang konvensional), khususnya dalam hal efisiensi waktu dan tenaga. Pengujian ini dilakukan dengan menggunakan 2 buah Rabbitcore RCM3200, sedangkan untuk pengujian server dengan menggunakan 6 buah komputer, (terlihat bahwa server ini mampu menangani beberapa client sekaligus dalam waktu yang bersamaan).",
+  "creators": "HARIANTO TANDRAYUANA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010029/ELK/2005; Harianto Tandrayuana (23401031)",
+  "subjects": "RADIO FREQUENCY-IDENTIFICATION SYSTEMS; ELECTRIC CONTROLLERS"
+}

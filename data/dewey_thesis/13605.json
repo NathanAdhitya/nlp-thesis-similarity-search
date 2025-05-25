@@ -1,0 +1,14 @@
+{
+  "id": "13605",
+  "title": "Pembuatan i/o card untuk simuling pada matlap",
+  "abstract": "Pembuatan 1/0 card ini mempunyai tujuan supaya program simulasi Simulink dapat digunakan untuk input data dari luar yang kemudian diolah di dalam Simulink dan kemudian hasilnya ditampilkan baik di dalam Simulink itu sendiri ataupun dibawa keluar sebagai output. Beberapa fasilitas yang diberikan card 1/0 ini yaitu delapan channel input analog, empat channel output analog, dan 8 bit input/output digital. Hasil pengujian dari card I/O untuk single input analog didapatkan hasil yang baik. Sedangkan untuk double input analog terdapat problem pada programnya, dan kemungkinan dikarenakan tidak ada vektor state di dalam programnya. Pengujian untuk single dan double output analog dapat berjalan dengan baik. Tetapi untuk output data analog ini, harus mengeset harga sample timenya yang terdapat dalam program. Sedangkan untuk data digital, baik input maupun output digital per bit dan per byte didapatkan hasil yang baik. Untuk output digital, harus mengeset harga sample times pada program. Untuk pengujian kecepatan sistem, si stem ini hanya mampu menerima frekuensi sampai 5 Hz. Hal ini disebabkan pada Simulink sangat sulit untuk mengeset harga sample timesnya terutama untuk frekuensi diatas 5 Hz. Setelah diuji menggunakan bahasa C, ternyata card 1/0 ini mampu menerima frekuensi sampai 150 Hz.",
+  "creators": "SIMON CHRISTIAN",
+  "contributors": "Thiang (Advisor 1); Hany Ferdinando (Advisor 2); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/075/512; Simon Christian (23496013)",
+  "subjects": "SYSTEM DESIGN; AUTOMATIC CONTROL-DATA PROCESSING; MATLAB"
+}

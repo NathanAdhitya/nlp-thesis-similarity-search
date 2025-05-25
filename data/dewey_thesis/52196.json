@@ -1,0 +1,14 @@
+{
+  "id": "52196",
+  "title": "Security system untuk rumah sarang burung walet yang dimonitor dengan sms",
+  "abstract": "Budidaya burung walet merupakan bisnis yang menguntungkan. Harga 1 kilogramnya mencapai puluhan juta rupiah. Akibatnya rumah sarang burung walet menjadi sasaran empuk bagi pencuri. Cara pencuriannya beraneka ragam antara lain masuk dari atap, merusak pintu/jendela, dll. Oleh karena itu, dalam tugas akhir ini dibuat suatu security system yang dimonitor dengan SMS yang mampu mendeteksi pencuri dengan meletakkan sensor-sensor di tempat rawan. Security system dapat diakses menggunakan SMS ataupun melalui keypad 4X3 dan tampilan LCD. Sistem ini menggunakan mikrokontroler AT89S52 sebagai pengolah data dan processor dari security system. Digunakan sensor saklarmagnetik pada pintu, photobeam detector pada sekat antar-ruangan dan passive infra red di atas plafon. Handphone yang digunakan dalam sistem ini harus support AT Command yang digunakan untuk mengambil data SMS dan mengirimkan balasan SMS (misal: Siemens M35). Dari hasil pengujian, security system ini mampu mendeteksi pencuri yang akan mengirimkan SMS serta menyalakan alarm. Security system juga dapat mengontrol sensor-sensor.",
+  "creators": "FELIPE TANZIL",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Advisor 2); Cons. Tri Handoko (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010763/ELK/2005; Felipe Tanzll (23401068)",
+  "subjects": "ELECTRIC ALARMS; SECURITY SYSTEM; DETECTORS"
+}

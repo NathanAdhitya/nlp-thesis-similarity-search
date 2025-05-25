@@ -1,0 +1,14 @@
+{
+  "id": "45541",
+  "title": "Implementasi Post-Boot Package Installation pada OpenStack untuk image berbasis Linux",
+  "abstract": "Teknologi Cloud Computing sekarang ini berkembang secara pesat, sehingga sudah banyak sekali perusahaan-perusahaan yang terjun menggunakan Teknologi Cloud Computing dengan model IaaS (Infrastructure as a Service). OpenStack merupakan salah satu framework Cloud yang sering kali digunakan untuk Implementasi Private Cloud. Namun, seringkali pengguna Cloud membuat Image Virtual Machine yang telah dikonfigurasi sesuai kebutuhan untuk berbagai server yang berbeda-beda sebagai template untuk dapat secara mudah di-deploy di ke depannya. Hal ini dapat menyebabkan pemborosan storage. Implementasi Automasi Installasi Package dapat mengurangi pemborosan storage, dengan cara hanya menyimpan 1 Virtual Machine Image kemudian melakukan installasi Package secara otomatis menggunakan fitur user-data pada cloud-init sesuai kebutuhan, maka pengguna Cloud tidak perlu lagi untuk melakukan install package secara manual kemudian menyimpan kembali hasil Image yang dilakukan installasi package tersebut. Hasil pengujian pada OpenStack dengan Single-Node deployment menunjukkan bahwa Implementasi ini dapat menghasilkan efisiensi storage dengan rata-rata sebesar 79% untuk Image Red Hat Enterprise Linux dan 81% untuk Image Ubuntu. Namun juga ada inefisiensi terhadap waktu dengan rata-rata sebesar 83% untuk Image Red Hat Enterprise Linux dan 71% untuk Image Ubuntu.",
+  "creators": "BOBBY KWARIAWAN",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021896/INF/2019; Bobby Kwariawan (26415067)",
+  "subjects": "INTERNET (COMPUTER NETWORK); CLOUD COMPUTING"
+}

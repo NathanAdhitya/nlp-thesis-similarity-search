@@ -1,0 +1,14 @@
+{
+  "id": "48438",
+  "title": "Penggunaan ultra high frequency RFID pada sistem investarisasi Creatrix Organizer",
+  "abstract": "Pada saat ini, Event Organizer Creatrix Organizer melakukan pendataan barang secara manual pada gudang. Creatrix Organizer belum menggunakan sistem yang terstruktur untuk melakukan pendataan. Creatrix Organizer sering kesulitan untuk mencari barang yang diperlukan untuk kebutuhan event pameran berskala kecil. Pada event berskala kecil tidak semua barang dibutuhkan dan memakan waktu untuk mencari barang yang diperlukan untuk kebutuh event. Hal tersebut mengakibatkan keterlambatan penyelesaian suatu pekerjaan dan banyak proses yang tidak dapat diselesaikan secara maksimal di suatu event tersebut. Dampak dari hal itu membuat pelanggan menjadi tidak puas atas hasil yang kurang maksimal. Melihat berbagai permasalahan yang dialami oleh Event Organizer Creatrix Organizer ini, maka dirancang sistem yang dapat melakukan pendataan barang secara otomatis menggunakan bantuan alat Ultra High Frequency (UHF) Radio Frequency Identification (RFID). Tidak hanya menggunakan alat, aplikasi berbentuk website menggunakan Framework CodeIgniter dan aplikasi di smartphone menggunakan Framework Ionicdibuat untuk memudahkan para pekerja untuk mencari barang-barang yang diperlukan. Database dari kedua aplikasi tersebut menggunakan MySQL. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, dapat melakukan pendataan barang secara otomatis menggunakan UHF Radio Frequency Identification (RFID). Untuk melakukan pendataan dan melihat ketersediaan barang dilakukan melalui website. Aplikasi smartphone digunakan untuk melihat ketersediaan barang.Tagdapat diletakkan di berbagai posisi pada barang. Barang yang berbahan besi dan semacamnya lebih baik menggunakan tagyang bisa digunakan pada barang yang berbahan besi.Untuk mendeteksi 10 tag pada jarak 1 meter memiliki akurasi tertinggi sebesar 90%, akurasi terendah 80%, dengan rata-rata 81.6%",
+  "creators": "WELLY TEDJA KUSUMA",
+  "contributors": "Yulia (Advisor 1); Resmana Lim (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021997/INF/2020; Welly Tedja Kusuma (26416024)",
+  "subjects": "INVENTORY CONTROL; RADIO FREQUENCY IDENTIFICATION SYSTEMS--TECHNOLOGICAL INNOVATIONS"
+}

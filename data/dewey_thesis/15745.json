@@ -1,0 +1,14 @@
+{
+  "id": "15745",
+  "title": "Studi banding antara kurva bezier dan algorithma bresenham dalam pembuatan lingkaran",
+  "abstract": "Salah satu materi dari komputer grafik adalah pembuatan suatu lingkaran. Untuk menggambar bentuk lingkaran diperlukan suatu metode tertentu seperti metode Bezier dan algorithma Bresenham. Pada metode Bezier menggunakan titik-titik kontrol poligon untuk membuat lingkaran. Sedangkan pada algorithma Bresenham menggunakan translasi titik koordinat. Pada studi ini dibandingkan kedua metode yaitu metode Bezier dan algorithma Bresenham. Kedua metode ini akan dibandingkan berdasarkan kecepatan proses dalam pembuatan lingkaran dan akurasi hasil penggambaran lingkaran oleh masing-masing metode. Tujuan studi banding ini untuk mengetahui metode pembuatan lingkaran yang paling baik. Studi banding ini mempergunakan bahasa pemrograman Borland Delphi 2.0. Untuk mengukur kecepatan proses dalam pembuatan lingkaran, yang dilakukan masing-masing metode, digunakan komponen Delphi yaitu DecodeTime. Dari hasil studi banding didapatkan bahwa algorithma Bresenham yang memiliki kecepatan proses lebih baik, sedangkan untuk akurasi dalam pembuatan lingkaran metode Bezier lebih baik.",
+  "creators": "IVAN",
+  "contributors": "Kartika Gunadi (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.99/E/KOM/011/050; Ivan (23492048)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

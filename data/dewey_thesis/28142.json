@@ -1,0 +1,14 @@
+{
+  "id": "28142",
+  "title": "Perancangan sistem perencanaan dan penjadwalan produksi di PT. Bondi Syad Mulia",
+  "abstract": "Penelitian ini merupakan studi kasus yang dilakukan di PT. Bondi Syad Mulia, yaitu suatu perusahaan jasa galvanishing. Perencanaan produksi yang ada pada PT. Bondi Syad Mulia digabung dengan bagian produksi, sehingga pekerjaan menjadi tidak fokus dan menimbulkan beberapa permasalahan dalam perencanaan produksi. Sistem perencanaan yang diusulkan adalah dengan mendirikan departemen PPIC sehingga perencanaan produksi tidak terganggu dengan urusan yang harus dilakukan oleh bagian produksi. Permasalahan lain yang timbul adalah terjadinya keterlambatan produksi karena tidak adanya sistem penjadwalan produksi yang baik dan teratur. Menentukan suatu penjadwalan yang tepat untuk suatu perusahaan merupakan hal yang sangat penting, namun tidak mudah terutama untuk perusahaan jasa yang memproduksi berbagai macam produk. PT. Bondi Syad Mulia adalah perusahaan job order dimana produksi dilakukan sesuai dengan pesanan dari pelanggan. Produk yang dihasilkan dengan jumlah mesin lebih dari satu dengan aliran proses produksi yang sama disebut aliran flow shop. Tugas akhir ini bertujuan untuk mendapatkan sistem penjadwalan dengan meminimumkan makespan, sehingga dapat meningkatkan jumlah output yang dihasilkan. Metode yang digunakan untuk mencapai kriteria tersebut adalah Algoritma Campbell, Dudek, and Smith (CDS) dan metode Shortest Processing Time (SPT). Hasil penjadwalan Algoritma CDS memberikan beberapa alternatif urutan job yang menghasilkan nilai makespan yang hampir sama, namun terdapat satu urutan job yang menghasilkan nilai makespan yang paling kecil dibandingkan alternatif urutan job lainnya.",
+  "creators": "RENNY OLIVIA SIA",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021711/IND/2013; Renny Olivia Sia (25409012)",
+  "subjects": "PRODUCTION SCHEDULING"
+}

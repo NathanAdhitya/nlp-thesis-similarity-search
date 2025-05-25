@@ -1,0 +1,14 @@
+{
+  "id": "48820",
+  "title": "Kombinasi metode partial rank correlation dan flow correlation coefficient untuk membedakan DDoS dengan flash crowds",
+  "abstract": "Bertumbuhnya jumlah pengguna internet menyebabkan serangan DDoS pun menjadi berkembang, hal ini tentu menyebabkan mendeteksi sebuah DDoS menjadi tantangan sendiri. Di sisi lain terdapat flash crowds yang merupakan trafik yang berasal dari user valid dalam jumlah yang sangat besar. Berkembangnya serangan DDoS menyebabkan membedakan flash crowds dan DDoS menjadi semakin susah. Penelitian ini akan dilakukan dengan menggabungkan dua metode partial rank correlation dan flow correlation coefficient. Metode partial rank correlation dapat digunakan untuk mendeteksi low-rate dan high-rate serangan DDoS. Metode flow correlation coefficient dapat digunakan untuk membedakan DDoS dengan flash crowds, tetapi metode ini tidak dapat mendeteksi low-rate serangan DDoS. Dengan pengujian yang dilakukan dapat diketuhui apakah dengan menggabungkan kedua metode dapat menghasilkan program yang dapat membedakan trafik DDoS, flash crowds, atau bukan. Lalu apakah dengan menggabungkan kedua metode dapat meningkatkan akurasi detection rate dan false positive alarm rate dibandingkan ketika masing-masing metode berjalan masing-masing.",
+  "creators": "CALVIN KAMTOSO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Rolly Intan (Advisor 2); Justinus Andjarwirawan (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022032/INF/2021; Calvin Kamtoso (C14170031)",
+  "subjects": "DENIAL OF SERVICE ATTACKS; INTERNET--SECURITY MEASURES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5477",
+  "title": "Perancangan dan pembuatan software search engine jurnal ilmiah dengan menggunakan text mining berbasis web dengan faster algorithm",
+  "abstract": "Suatu kumpulan Abstrak terdiri dari Abstrak-Abstrak yang memiliki struktur yang signifikan. Dalam pencarian informasi pada Abstrak terstruktur, proses indexing dan penentuan relevansi Abstrak dalam proses pencarian harus memperhatikan struktur dan isi dari Abstrak. Selain itu dengan menggunakan antar muka basis web akan memudahkan pengguna untuk mencari sebuah Abstrak sesuai dengan pendekatan relevansinya pada struktur Abstrak. Abstrak yang digunakan adalah Abstrak makalah Jurnal Pusat Penelitian Universitas Kristen Petra yang tersimpan dalam file dengan format doc (dibuat menggunakan Microsoft Word). Pada masing-masing file tersebut dilakukan proses checking dan parsing untuk mendapatkan isi dan struktur Abstrak dengan menggunakan Java Component Object Model Bridge (JACOB) yang kemudian disimpan dalam database Oracle 9i. Pada data tersebut kemudian dilakukan proses indexing, quering dan data mining, dengan menggunakan fitur-fitur yang dimiliki Oracle 9.2 Text. Data-data hasil proses tersebut selanjutnya digunakan untuk membangun software search engine dengan menggunakan bahasa pemrograman Java. Hasil yang dihasilkan dari proses-proses di atas adalah abstrak-abstrak yang berhubungan dengan pencarian yang dimasukkan oleh pengguna. Uji coba dilakukan untuk mengetahui kemampuan pengecekan, pembacaan, dan pengambilan isi (teks) dan struktur Abstrak pada file berformat doc. Serta untuk mengetahui pengaruh pencarian berdasarkan struktur Abstrak melalui antarmuka grafis terhadap pencarian informasi pada Abstrak terstruktur. Hasil uji coba menunjukkan bahwa proses pengecekan, pembacaan, dan pengambilan teks dan sruktur pada file Abstrak berjalan dengan baik, sedangkan pencarian informasi berdasarkan struktur Abstrak menunjukkan bahwa pencarian tersebut mampu mengurangi lingkup pencarian.",
+  "creators": "OSCAR HARRIES",
+  "contributors": "RULLY SOELAIMAN (Advisor 1); Resmana Lim (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000187/INF/2004; Oscar Harries (26400081)",
+  "subjects": "WEB SITES-DESIGN; INTERNET PROGRAMMING; INTERNET (COMPUTER NETWORKS)"
+}

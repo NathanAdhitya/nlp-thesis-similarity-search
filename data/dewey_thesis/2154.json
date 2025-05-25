@@ -1,0 +1,14 @@
+{
+  "id": "2154",
+  "title": "Feature televisi untuk mengatur brightness dan contrast gambar berdasarkan kondisi cahaya sekitar dengan fuzzy logic controller",
+  "abstract": "Kenyamanan pengguna pesawat televisi diantaranya dipengaruhi oleh cahaya ruangan. Cahaya televisi yang tidak seimbang dengan cahaya ruangan akan dirasa mengganggu. Untuk itu dibutuhkan perubahan brightness dan contrast pada pesawat televisi yang sesuai dengan keadaan cahaya ruangan. Suatu feature tambahan dibuat untuk mengadaptasi brightness dan contrast gainbar televisi secara automatis berdasarkan kondisi cahaya ruangan menggunakan LDR VT935G. Pengontrolan secara logika fuzzy dilakukan dengan memberikan variable tegangan pada titik input chip LA 7674 (TV trainer) yang mengatur tegangan brightness dan tegangaa contrast televisi. Hasil pengujian menunjukkan bahwa system dapat berjalan cukup baik dengan kondisi awal brightness dan contrast yang gelap sekali. System mengadaptasi perabahan cahaya ruang dengan mengatur brightness dan contrast televisi.",
+  "creators": "ADI WIDJAJA",
+  "contributors": "YOHANES T. D. S (Advisor 1); Thiang (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/580/ELK/2003; Adi Widjaja (23496067)",
+  "subjects": "FUZZY LOGIC; TELEVISION-PICTURE QUALITY-CONTROL"
+}

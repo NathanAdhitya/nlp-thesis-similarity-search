@@ -1,0 +1,14 @@
+{
+  "id": "26429",
+  "title": "Perhitungan serviceability struktur beton dengan model strut and tie",
+  "abstract": "Pada saat ini perhitungan dengan analisa Strut and Tie hanya dipakai untuk mendisain struktur beton dalam keadaan ultimate limit state. Melalui tulisan ini kami mencoba kemungkinan penggunaan program komputer linier untuk menghitung serviceability struktur beton yang didisain dengan metoda Strut and Tie. Beberapa ahli berpendapat bahwa kita perlu merubah geometri Strut and Tie models untuk perhitungan dalam kondisi beban layan. Kita ingin mencoba kemungkinan penggunaan kondisi ultimate yang dimodifikas untuk menghitung keadaan beban layan. Dan ternyata dengan memberi modifikasi pada modulus elastisitas tulangan baja utama, kondisi ultimate dapat digunakan untuk menghitung keadaan beban layan. Artinya dengan kondisi ultimate yang telah dimodifikasi ini kita dapat menghitung 'serviceability' struktur beton dalam keadaan beban layan. Untuk melakukan modifikasi kita masukkan pengaruh tension stiffening pada tulangan baja, sedemikian sehingga akibat pengaruh tension stiffening ini kita mendapat nilai modulus elastisitas modifikasi baja. Dan untuk melihat sejauh mana usulan ini dapat menghitung serviceability struktur, kami bandingkan penurunan dan lebar retak hasil eksperimen beberapa ahli dengan perhitungan yang kami usulkan.",
+  "creators": "FADJAR INDHIANTO; MAYA AMELIA TEJAWIJAYA",
+  "contributors": "Ir. GIDEON HADI KUSUMA, M.Eng. (Advisor 1); Benjamin Lumantarna (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Skripsi No. 528 S; Fadjar Indhianto (21488001), Maya Amelia Tejawijaya (2148806)3",
+  "subjects": "REINFORCED CONCRETE CONTRUCTION"
+}

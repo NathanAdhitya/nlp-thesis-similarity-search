@@ -1,0 +1,14 @@
+{
+  "id": "12887",
+  "title": "Optimasi pada produk keramik dengan jenis dan tipe berbeda di PT Adya Buana Persada",
+  "abstract": "Optimasi pada produk keramik dengan tipe dan motif yang berbeda di PT. Adya Buana Persada dilakukan untuk menentukan berapa jumlah keramik yang harus diproduksi agar didapatkan keuntungan yang maksimal dan memenuhi kendala-kendala yang ada. Tipe keramik yang dipakai untuk bahan penelitian adalah tipe 30x30 dan tipe 40x40. Kedua tipe keramik tersebut mempunyai bermacam-macam motif. Penelitian dilakukan dengan mengaplikasikan Multi-Plant-Model dengan menggunakan metode Integer Programming. Pada penelitian ini terdapat satu model besar dan dua model kecil. Model besar digunakan untuk menentukan jumlah keramik yang harus diproduksi untuk tipe 30x30 dan tipe 40x40 tanpa memperhitungkan motif dari tiap tipe. Model besar ini juga menentukan pembagian sumber daya yang dipakai bersama-sama oleh kedua plant sehingga didapatkan pembagian yang optimal. Model kecil digunakan untuk menentukan jumlah keramik yang harus diproduksi untuk tiap motif keramik. Analisa sensitifitas juga dilakukan pada tugas akhir ini untuk mengetahui pengaruh perubahan dalam parameter model terhadap pemecahan optimal. Analisa ini memberikan karakteristik dinamis pada model yang memungkinkan seorang analis untuk mempelajari perilaku pemecahan optimal",
+  "creators": "NURIL HIDAYATI",
+  "contributors": "Siana Halim (Advisor 1); Indriati Njoto Bisono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 266/TI-92/1999; Nuril Hidayati (25494046)",
+  "subjects": "OPERATIONS RESEARCH-PRODUCTION PLANNING ASPECT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "42481",
+  "title": "Penerapan adaptive neuro fuzzy inference system pada real time strategy battle arena game",
+  "abstract": "Salah satu genre game yang paling banyak diminati saat ini adalah Real Time Strategy Battle Arena. Namun, kebanyakan dari game dengan genre tersebut hanya menarik jika dimainkan dengan manusia lain sebagai lawan sehingga game menjadi kurang fleksibel karena tidak dapat dimainkan tanpa adanya orang lain atau koneksi internet. Karena itu, dalam skripsi ini akan dibuat sebuah game dengan genre Real Time Strategy Battle Arena dengan AI sebagai musuh dimana pergerakan musuh dapat disesuaikan dengan cara berpikir manusia. Musuh pada game ini juga dapat belajar dari setiap kesalahan langkah. Metode yang digunakan adalah Adaptive Neuro Fuzzy Inference System. Hasil pengujian menunjukkan bahwa musuh dapat mengambil langkah pergerakan yang terbaik, yang sesuai dengan cara berpikir manusia dengan menggunakan Fuzzy Inference System. Neural System juga dapat mengubah Membership Functions dari beberapa variable input Fuzzy Inference System setiap kali musuh dianggap melakukan kesalahan langkah untuk meminimalisir kesalahan serupa saat game dimainkan kembali.",
+  "creators": "ANDY GUNAWAN",
+  "contributors": "Rolly Intan (Advisor 1); Kristo Radion Purba S.ST. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021786/INF/2018; Andy Gunawan (26414008)",
+  "subjects": "COMPUTER GAMES--PROGRAMMING; NEURAL NETWORK (COMPUTER SCIENCE); COMPUTER GAMES--DESIGN"
+}

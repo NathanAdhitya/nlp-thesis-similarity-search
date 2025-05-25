@@ -1,0 +1,14 @@
+{
+  "id": "10709",
+  "title": "Implementasi simulated annealing pada robot mobil untuk mencari rute terdekat",
+  "abstract": "Tugas akhir ini dibuat dengan tujuan untuk mengaplikasikan kecerdasan buatan dengan menggunakan metode Simulated Annealing pada robot mobil. Metode ini digunakan untuk mencari rute yang terpendek. Dalam aplikasinya posisi tujuan, posisi awal, arah dan Annealing schedule dari robot harus diketahui terlebih dahulu. Pembuatan robot ini menggunakan sebuah mikrokontroler tipe AT89S51 yang berfungsi sebagai pengatur dan pengolah data. Setiap titik persimpangan dalam area dihitung berdasarkan nilai jarak lurus titik tersebut terhadap titik tujuan. Metode Simulated Annealing digunakan untuk mengevaluasi nilai jarak lurus tersebut. Nilai yang didapat merupakan acuan robot untuk mengambil keputusan di setiap titik persimpangan. Pada pengujian yang dilakukan, robot dapat menentukan rute berdasarkan metode Simulated Annealing. Pengujian juga dilakukan pada Annealing Schedule yang berbeda-beda. Robot dapat bergerak sama dengan rute yang dihasilkan dari metode Simulated Annealing ini hingga sampai tujuan.",
+  "creators": "DHANY INDRAWAN",
+  "contributors": "Thiang (Advisor 1); Hany Ferdinando (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010871/ELK/2008; Dhany Indrawan (23403054)",
+  "subjects": "MOBILE ROBOTS; ROBOTS"
+}

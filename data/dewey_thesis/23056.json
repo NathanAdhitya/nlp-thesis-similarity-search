@@ -1,0 +1,14 @@
+{
+  "id": "23056",
+  "title": "Perencanaan dan pembuatan simulasi alat kontrol pemindah transmisi mobil otomatis dengan mikrokontroler 8031",
+  "abstract": "Kemajuan teknologi khususnya dalam bidang elektronika menyebabkan pemakaian kontrol, baik yang menggunakan mikrprosessor maupun mikrokomputer telah banyak dipakai dalam dunia industri maupun dalam kehidupan sehari hari. Dengan adanya alat yang dapat mengubah dari suatu besaran yang satu ke besaran yang lain, maka terutama dari format analog menjadi digital sehingga dapat diproses menggunakan mikroprossesor, sangatlah memudahkan untuk membuat berbagai aplikasi. Salah satu penerapannya adalah untuk mengubah perubahan gerakan mekanisme menjadi besaran listrik untuk melakukan pengukuran kecepatan. Dalam tugas akhir ini dibuat suatu alat dengan berbasis mikrokontroller 8031 yang di aplikasikan untuk menontrol dan mengolah data pada simulasi alat kontrol pemindahan transmisi mobil otomatis, Selanjutnya dapat dipergunakan untuk membantu para sopir. Perencanaan alat simulasi dilakukan dengan membuat keadaan yang menyerupai keadaan mobil sesungguhnya, terutama pada bagian bagian yang menyangkut pemindah transmisi, yaitu bagian kopling , persneling dan sensor kecepatan. Proses pemindahan transmisi dilakukan dengan pembacaan kecepatan, dari sensor kecepatan yang terbuat dari generator DC, kemudian ditransformasi dari data analog ke data digital melalui sebuah ADC 0804 untuk dapat diproses mikrokontroller 8031. Hasil dari proses mikrokontroller 8031 ini yang akan mengaktifkan kopling dari pemindah transmisi pada keadaan kecepatan yang ada. Akhirnya dapat dirancang sebuah alat simulasi yang dapat mengontrol pemindahan transmisi mobil secara otomatis dengan menggunakan mikrokontroler 8031 yang baik dengan tingkat kepresisiannya yang tinggi, karena terjadi pemindahan yang sesuai dengan kecepatan yang sudah ditetapkan sebagai batas kecepatan pemindahan.",
+  "creators": "KHOESUMA ROLLY",
+  "contributors": "HERLIANTO TENGGARA (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); SOETIKNO (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/051/0254; Khoesuma Rolly (23490028)",
+  "subjects": "AUTOMATIC CONTROL; MICROCONTROLLERS 8031"
+}

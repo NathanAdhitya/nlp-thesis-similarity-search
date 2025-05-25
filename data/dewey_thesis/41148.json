@@ -1,0 +1,14 @@
+{
+  "id": "41148",
+  "title": "Perancangan enterprise architecture di PT BMP menggunakan metode Enterprise Architecture Planning (EAP)",
+  "abstract": "Perkembangan bisnis di dunia modern saat ini sangat membutuhkan adanya perencanaan yang jauh lebih baik. PT BMP merupakan perusahaan yang bergerak di bidang produksi barang berbahan utama plastik. Produksi PT BMP menghasilkan produk pintu plastik. Perusahaan menggunakan software Bee-accounting untuk proses pembelian, produksi, penjualan, dan keuangan serta software Solution Finger Print untuk pendataan karyawan dan penggajian. Terdapat beberapa proses yang masih manual seperti perekrutan karyawan, maintain mesin, laporan perbaikan mesin, dan pembuatan spk. Untuk perhitungan komisi sales dilakukan secara manual karena antara data penjualan dan data pegawai tidak terintegrasi. Oleh sebab itu, dilakukan analisis dan desain enterprise architecture dengan metode enterprise architecture planning (EAP) untuk PT. BMP. Proses pertama yang dilakukan adalah melakukan analisa model bisnis dan strategi bisnis perusahaan. Kemudian melakukan pengamatan teknologi informasi yang dimiliki perusahaan saat ini, permasalahannya serta kebutuhan perusahaan di masa mendatang. Selanjutnya dilakukan pembuatan arsitektur data, arsitektur aplikasi, dan arsitektur teknologi. Arsitektur data yang dihasilkan adalah sub sistem pembelian, sub sistem produksi, sub sistem penjualan, sub sistem keuangan, dan sub sistem personalia. Aplikasi yang termasuk Key Operational adalah Sistem Informasi Pembelian, Sistem Informasi Produksi, Sistem Informasi Penjualan, Sistem Informasi Keuangan, Sistem Informasi Personalia, dan single sign on. Aplikasi yang termasuk Support adalah Sistem GPS Kendaraan dan back up database server. Arsitektur teknologi menggunakan client/server architecture pattern dan service oriented architecture.",
+  "creators": "IMELDA YUNIKE SARI",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Alexander Setiawan (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021665/INF/2017; Imelda Yunike Sari (26412132)",
+  "subjects": "INFORMATION TECHNOLOGY; INFORMATION SYSTEM; BALANCED SCORECARD"
+}

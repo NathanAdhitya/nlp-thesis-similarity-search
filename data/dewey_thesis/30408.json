@@ -1,0 +1,14 @@
+{
+  "id": "30408",
+  "title": "Simulasi shunt active power filter tiga fasa dengan metode fuzzy logic controller",
+  "abstract": "Pengoperasian peralatan beban non linear akan menimbulkan harmonisa pada sistem tenaga yang akhirnya akan berpengaruh pada kualitas daya listrik. Alternatif solusi untuk menghindari efek yang tidak diinginkan akibat pengoperasian beban non linear adalah dengan menggunakan shunt active power filter. Shunt active power filter adalah current controlled voltage source inverter ( CC-VSI ) tiga fasa yang dipasang paralel pada Point of Common Coupling (PCC). Rangkaian fuzzy logic controller akan menjaga tegangan DC bus inverter agar konstan dan menghasilkan amplitudo arus referensi yang akan digunakan sebagai input rangkaian Current Control – Voltage Source Inverter. CC-VSI akan membentuk arus sumber sesuai dengan arus referensi sehingga arus sumber menjadi sinusoidal, sefasa dengan tegangan sumber yang sesuai dengan kebutuhan beban. Pada skripsi ini, akan dibandingkan hasil simulasi fuzzy logic controller dengan beberapa membership function diantaranya adalah 5 fuzzy set, 7 fuzzy set, dan 9 fuzzy set. Dalam skripsi ini, dilakukan pembuatan simulasi Shunt Active Power Filter Tiga Fasa dengan metode Fuzzy Logic Controller menggunakan PSIM 6.1. THD arus yang dihasilkan 7 fuzzy set dan 9 fuzzy set setelah kompensasi, memenuhi standar batas aman yaitu di bawah 8 %.",
+  "creators": "AMI LITARI",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010620/ELK/2011; Ami Litari (23407021)",
+  "subjects": "HARMONICS ANALYSIS; HARMONICS (ELECTRIC WAVES); ELECTRIC CURRENTS; ELECTRIC CIRCUITS; FUZZY LOGIC"
+}

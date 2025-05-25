@@ -1,0 +1,14 @@
+{
+  "id": "59259",
+  "title": "Web scraping dan information retrieval dari Google Scholar, Sinta, ScimagoJr untuk pencatatan otomatis publikasi dosen UKP",
+  "abstract": "Setiap publikasi yang dikeluarkan oleh dosen perlu dicatat sebagai kinerja perguruan tinggi, tetapi pencatatan ini masih dilakukan secara manual oleh dosen yang mengeluarkan publikasi itu sendiri. Pencatatan manual ini membuat tugas administrasi dosen bertambah. Selain itu data sitasi yang dicatatat juga sering berubah, yang membuat pencatatan secara manual tidak memungkinkan. Teknologi web scraping dan headless web browser dapat digunakan untuk mengotomasikan proses pencatatan publikasi, sehingga tugas dosen berkurang. Script web scraping akan dibuat sebagai API yang bisa dipanggil untuk melakukan pencatatan secara otomatis. Data yang didapatkan melalui proses scraping akan disimpan pada database PostgreSQL. Data publikasi yang disimpan dalam database dapat dilihat melalui sebuah aplikasi web sederhana yang dibuat dengan framework Laravel. Dari pengujian data, sistem ini bisa menemukan dan melakukan pencatatan otomatis pada publikasi dosen yang tercatat pada website sumber, ini ditandai pada kesamaan data abstrak 100%. Tetapi sistem masih mempunyai masalah untuk memberikan kategori yang akurat, ini ditandai dengan kesamaan data yang sangat rendah yaitu 7%. Sistem juga memperlukan id profile dosen pada website sumber untuk bisa memulai proses scrapingnya.",
+  "creators": "ANDERSON MONTELLA KAREL",
+  "contributors": "Hans Juwiantho S.Kom., M.Kom (Advisor 1); Ivan Widiyanto S.Kom (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022421/INF/2024; Anderson Montella Karel (C14190014)",
+  "subjects": "DATABASE MANAGEMENT--COMPUTER PROGRAMS; INFORMATION RETRIEVAL; WEB APPLICATIONS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "41404",
+  "title": "Optimasi rute pengiriman dengan Heterogeneous Fleet Vehicle Routing problem with Time Windows",
+  "abstract": "PT X merupakan distributor suku cadang dengan 128 pelanggan untuk Kota Surabaya dan Kota Sidoarjo. Jumlah kendaraan pengirim yang dimiliki oleh PT X adalah 15. Penentuan rute pengiriman yang dimiliki oleh PT X dilakukan secara manual yaitu berdasarkan pengalaman pengemudi. Tujuan dari penelitian ini yaitu membuat sebuah model penentuan rute dengan biaya minimum dan mempertimbangkan waktu tempuh dan kapasitas kendaraan. Pembentukan model dilakukan sesuai dengan kebijakan PT X yaitu 1 kendaraan hanya dapat melayani 1 kolega dan waktu tempuh pengiriman maksimal sebesar 7 jam. Model yang dibentuk merupakan Heterogeneous Fleet Vehicle Routing Problem with Time Windows (HFVRPWTW). Metode penyelesaian yang digunakan adalah Evolutionary Algorithm (EA) dengan meninjau 3 kasus. Jumlah kendaraan yang digunakan oleh model lebih sedikit dibanding perusahaan dengan selisih rata-rata 1,67 kendaraan. Biaya pengiriman yang dihasilkan oleh model lebih minimum dibanding perusahaan. Kondisi ini ditunjukkan model akan menggunakan jumlah kendaraan yang lebih sedikit dengan biaya pengiriman rendah dan utilitas tampung yang besar dalam 2 kasus.",
+  "creators": "EDWIN HENDRAWAN",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022108/IND/2018; Edwin Hendrawan (25414029)",
+  "subjects": "PHYSICAL DISTRIBUTION OF GOODS; BUSINESS LOGISTICS"
+}

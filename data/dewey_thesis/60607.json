@@ -1,0 +1,14 @@
+{
+  "id": "60607",
+  "title": "Sistem informasi inventaris dan peminjaman barang pada Unit Pelayanan dan Pemeliharaan Kampus (UPPK) Universitas Kristen Petra",
+  "abstract": "Universitas Kristen Petra (UK Petra) merupakan perguruan tinggi swasta nasional yang berlokasi di Surabaya. Unit Pelayanan dan Pemeliharaan Kampus (UPPK) adalah salah satu departemen pendukung operasional kampus. Selama ini, peminjaman dan pengembalian barang di UPPK selalu dilakukan melalui komunikasi langsung dengan pengurus UPPK, yang dinilai tidak efisien. Untuk meningkatkan efisiensi pengelolaan produk, diperlukan digitalisasi proses tersebut. Penelitian ini bertujuan untuk merancang dan mengembangkan sistem informasi berbasis web yang dapat memproses transaksi kredit, retur, dan persediaan barang di UPPK UK Petra. Metodologi yang digunakan meliputi tinjauan literatur, identifikasi kebutuhan pelanggan, desain aplikasi, dan pengujian sistem. Sistem ini dibangun menggunakan bahasa pemrograman PHP dengan framework Laravel dan database PostgreSQL. Pengujian fungsionalitas program dilakukan menggunakan metode black box testing, di mana pengguna menguji langsung fungsi-fungsi dari sistem yang telah dikembangkan. Hasil akhir dari penelitian ini adalah sebuah website yang memudahkan proses pendaftaran, inventarisasi, peminjaman, dan pengembalian barang di UPPK. Dengan adanya website ini, diharapkan mahasiswa, dosen, dan pegawai dapat lebih mudah melakukan peminjaman barang, serta memudahkan UPPK dalam mengelola informasi mengenai ketersediaan barang dan permohonan pinjaman. Pengenalan sistem informasi ini bertujuan untuk meningkatkan efisiensi dan efektivitas pengelolaan barang di UK Petra.",
+  "creators": "SAMUEL CHRISTOPHER SUHERMAN",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Ivan Widiyanto S.Kom (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Agustinus Noertjahyana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022505/INF/2024; Samuel Christopher Suherman (C14200037)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; MANAGEMENT INFORMATION SYSTEMS"
+}

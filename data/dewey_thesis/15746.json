@@ -1,0 +1,14 @@
+{
+  "id": "15746",
+  "title": "Electrocardiograph melalui personal computer",
+  "abstract": "Dalam pemeriksaan kondisi jantung seseorang salah satu alat yang digunakan adalah mesin electrocardiograph yang sangat berguna dalam memeriksa dan menentukan kelainan-kelainan yang timbul pada jantung seseorang tanpa melalui pembedahan. Dengan hasil yang diperoleh berupa rekaman electrocardiograph (ECG) seorang dokter dapat menentukan kondisi jantung seseorang apakah normal atau tidak. Dalam Tugas Akhir ini dibuat suatu alat yang dapat menampilkan sinyal ECG dengan menggunakan enam buah kombinasi sandapan atau lead yaitu I, II, III, aVL, aVF, aVR. Setelah melalui rangkaian proteksi, lalu dilewatkan penguatan instrumentasi yang cukup kuat maka sinyal ECG yang diperoleh dilewatkan melalui filter dan buffer, selanjutnya diubah menjadi data digital dengan menggunakan rangkaian ADC. Data digital selanjutnya diproses oleh komputer sehingga grafik rekaman sinyal ECG dapat ditampilkan pada layar monitor komputer. Hasil grafik yang didapat sesuai dengan sinyal denyut jantung manusia sehingga dapat dilihat melalui oscilloscope dan melalui komputer.",
+  "creators": "HERMAN SAPUTRA",
+  "contributors": "Resmana Lim (Examination Committee 1); IRWAN SAHLI (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/030/375; Herman Saputra (23492054)",
+  "subjects": "ELECTROCARDIOGRAPHS-COMPUTER PROGRAMS"
+}

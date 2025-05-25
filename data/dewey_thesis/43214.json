@@ -1,0 +1,14 @@
+{
+  "id": "43214",
+  "title": "Implementasi etl dan perbandingan performa column-oriented database dan relational database sebagai data warehouse",
+  "abstract": "Implementasi Non-Relational Database sebagai Data Warehouse dengan menggunakan Relational Data Warehouse sebagai sumber menjadi dasar dalam pengerjaan skripsi ini. Non-Relational dan Relational Database memiliki asumsi yang berbeda dari segi model datanya, sehingga transformasi dari Relational Data Warehouse tidak akan membawa hasil yang maksimal. Dalam pengerjaan implementasi ini, Non-Relational Database yang akan digunakan bertipe Column-Oriented/Wide-Column Database, yaitu Cassandra. Perbandingan dengan Relational Data Warehouse akan dilakukan dari segi latency query, memory usage, dan cpu usage. Implementasi ini akan dilakukan dengan membuat terlebih dahulu model data yang sesuai dengan tiap database yang digunakan, serta dilakukan ETL untuk memasukkan data. Kemudian, akan diujikan 7 query atau permasalahan untuk menjawab kebutuhan reporting perspustakaan Universitas Kristen Petra. Berdasarkan hasil pengujian, didapat beberapa kesimpulan. Permodelan data untuk Column-Oriented Database membutuhkan perhatian lebih, karena kebutuhan pengubahan data dapat mempengaruhi desain dari tabel. ETL juga perlu perhatian, karena dengan tidak adanya fungsi commit, maka perlu diulang dari awal jika gagal. Column-Oriented Database menunjukkan hasil yang lebih baik pada query dengan kondisi yang banyak, karena data bisa semakin cepat ditemukan.",
+  "creators": "AARON DWI CAESAR OKTAVIANO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Yulia (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021852/INF/2019; Aaron Dwi Caesar Oktaviano (26415026)",
+  "subjects": "DATABASE DESIGN"
+}

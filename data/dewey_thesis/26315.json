@@ -1,0 +1,14 @@
+{
+  "id": "26315",
+  "title": "Analisa torsi dengan metode truss analogi",
+  "abstract": "Selama ini beberapa teori/metode telah dikembangkan untuk menghitung kekuatan torsi dari balok beton dengan tulangan memanjang dan sengkang. Secara garis besar ada dua metode untuk menghitung kekuatan torsi : - Skew bending method. - Truss analogy method yang pertama kali dikemukakan oleh Rausch pada tahun 1929. Secara umum gambaran mengenai truss analogy untuk balok yang menerima torsi adalah sebagai berikut : (asumsi-asumsi) - Anggapan tampang mempunyai bentuk berlubang. - Setelah terjadi retak beton akan retak-retak seperti suatu spiral dengan sudut kemiringan tertentu terhadap sumbu balok. Beton yang retak seperti spiral ini diasumsikan berhubungan dengan tulangan memanjang dan sengkang membentuk suatu ikatan ruang (space truss). Dengan cara ini ikatan ruang terbentuk dengan sudut kemiringan tertentu untuk beton penunjang (concrete strut) yang menerima tegangan tekan dan tulangan mem anjang serta sengkang yang menerima tegangan tarik. Selama 50 tahun perkembangannya ada tiga pendekatan telah dilakukan untuk memodifikasi persamaan dari Rausch ini yang mana persamaannya overestimates terhadap kekuatan torsi yang sesungguhnya dari balok, adapun 3 pendekatan tersebut : - Penambahan faktor efisiensi untuk penulangan yang dipakai oleh ACI code. - Perubahan definisi untuk pusat aliran gaya geser yang dipakai oleh CEB-FIP code. - Pengabaian selimut beton yang diusulkan oleh Mitchell dan Collins. Thomas T.C. Hsu dan Y.L. Mo mengatakan tidak konservatifnya persamaan Rausch disebabkan Softening of Concrete yang disebabkan oleh Diagonal Cracking. Dengan menggunakan stress - strain relationship yang baru untuk softened concrete dan tanpa membutuhkan perubahan yang berupa pendekatan seperti di atas, Hsu dan Mo mengemukakan sebuah teori baru yang tidak hanya dapat memperkirakan kekuatan torsi tetapi juga Angle of twist, Steel strain yang didasarkan pada perkiraan sifat terhadap torsi 108 test beam untuk balok beton biasa dan 50 test beam untuk balok beton pratekan yang umum terdapat dalam literatur, dimana persamaan yang dikemukakan Hsu dan Mo berdasarkan 3 kondisi sebagai berikut : - Equilibrium - Compatibility - A new Stress - strain relationship untuk Softened Concrete Dalam hal ini analisa torsi dengan metode truss analogy dilakukan terhadap balok beton dengan penampang persegi yang dibebani torsi murni.",
+  "creators": "IRAWAN SOESILO; RIDWAN THENDEAN",
+  "contributors": "Daniel Zefania Pribadi (Examination Committee 1); Ir. GIDEON HADI KUSUMA, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 309 S; Irawan Soesilo (281095), Ridwan Tendean (281121)",
+  "subjects": "REINFORCED CONCRETE CONSTRUCTION; TORSIAN; STRUCTURES, THEORY OF"
+}

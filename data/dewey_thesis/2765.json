@@ -1,0 +1,14 @@
+{
+  "id": "2765",
+  "title": "Perencanaan dan pembuatan fuzzy expert system untuk analisa penyakit dalam pada manusia",
+  "abstract": "Gejala merupakan suatu unsur penting dalam menentukan suatu pasien mengidap penyakit tertentu. Dalam kehidupan nyata dokter akan menanyakan gejalagejala pada pasiennya sebelum ia menentukan penyakit pasiennya. Dibuatnya software ini mengambil cara kerja dokter dalam menganalisa pasiennya. Cara kerja software menggunakan metode forward chaining dalam menentukan prediksi awal suatu penyakit setelah pasien memasukkan gejala yang dideritanya. Kemudian dari prediksi penyakit awal, software menggunakan metode backward chaining dalam menanyakan gejala-gejala lain yang pasien belum masukkan.. Software ini dibuat dengan menggunakan metode Fuzzy Set dalam mengolah data pada knowledge-based sistem. Metode Fuzzy mengenal kebenaran secara parsial. Hal ini sangat berguna agar sistem yang dibuat memiliki kecerdasan menyerupai manusia. Metode fuzzy set merupakan generalisasi dari crisp set dimana elemen dalam suatu set mempunyai nilai dalam interval 0 sampai dengan 1. Knowledge-based sistem dipakai untuk menyimpan informasi dari pakar tentang hubungan antara gejala dengan suatu penyakit menurut intensitas dan frekuensi. Sistem operasi yang bekerja dalam software ini adalah Microsoft Windows XP Professional, dengan database Microsoft Access 2002 sebagai media penyimpanan knowledge-basenya dan pembuatan aplikasi ini menggunakan bahasa pemrograman Delphi 6.0 Pengujian software ini adalah dengan memasukkan beberapa gejala kemudian sejauh mana software mampu membuat kesimpulan penyakit yang mengandung gejala-gejala tersebut.",
+  "creators": "FEKY SUGIANTO",
+  "contributors": "Rolly Intan (Advisor 1); Leo Willyanto Santoso (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01000352/INF/2005; Feky Sugianto (26401239)",
+  "subjects": "EXPERT SYSTEMS(COMPUTER SCIENCE); ARTIFICIAL INTELLIGENCE-COMPUTER PROGRAMS"
+}

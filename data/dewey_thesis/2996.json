@@ -1,0 +1,14 @@
+{
+  "id": "2996",
+  "title": "Monitoring situasi ruangan menggunakan teknologi video streaming yang terhubung ke jaringan internet",
+  "abstract": "Di dalam kehidupan yang serba canggih dan modern, teknologi sangat membantu manusia dalam meringankan segala aktifitas dan pekerjaan hidup seharihari. Dalam aspek sekuritas misalnya, situasi ruangan penting saat ini dapat dipantau/dimonitoring kondisinya dengan memanfaatkan alat canggih webcam yang dihubungkan ke jaringan internet. Data video dari webcam diproses (encoding) melalui komputer server dan didikirimkan data-datanya secara streaming melewati jaringan internet. Komputer client menerima data streaming tersebut dan melakukan proses, dimana hasilnya dapat ditampilkan ke layar monitor mendekati kondisi real time. Komputer client selain memiliki wewenang dapat mengaktifkan dan menonaktifkan proses encoding pada komputer server juga dapat pula melakukan pengaksesan untuk merubah sudut pandang kamera secara elektrik. Pergerakan sudut pandang webcam ini menggunakan dua buah motor DC stepper yang didrive oleh IC ULN 2803. Monitoring Situasi Ruangan Menggunakan Teknologi Video Streaming Yang Terhubung Ke Jaringan Internet ini telah berhasil meng-capture objek pada suatu ruangan tertentu dan mengirimkannya secara streaming ke komputer client, yang selanjutnya ditampilkan ke layar monitor. Dalam proses penerimaan video streaming ini terjadi delay yang besarnya bervariasi antara 6,731 detik sampai dengan 14,559 detik. Hal ini dipengaruhi oleh besarnya resolusi, frame rate, bit rate yang ditetapkan serta spesifikasi komputer server-client dan kondisi jaringan tempat komputer server-client berada.",
+  "creators": "STEFANUS FENO",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010023/ELK/2005; Stefanus Feno Darmawan (23400165)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

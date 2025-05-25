@@ -1,0 +1,14 @@
+{
+  "id": "7797",
+  "title": "Timbangan digital untuk balita",
+  "abstract": "Pembuatan tugas akhir ini didasarkan dari kepedulian terhadap balita. Alat ini dirancang untuk memudahkan petugas pelayanan kesehatan dalam pengambilan data berat badan balita, serta mengurangi resiko yang terjadi saat menggunakan timbangan tradisional. Timbangan digital ini menggunakan sebuah mikrokontroler yang berfungsi mengatur beberapa komponen seperti LCD (Liquid Crystal Display), ADC (Analog to Digital Converter), keypad, ISD25120 (Voice Chip), dan MAX-232. Data berat badan balita diambil melalui sebuah sensor berat (load cell). Timbangan ini dilengkapi dengan sebuah keypad untuk memasukkan data umur balita, sebuah IC suara yang dapat memainkan sebuah lagu, serta fasilitas untuk komunikasi dengan komputer. Berdasarkan pengujian, proses pengambilan data berat badan balita menggunakan timbangan digital ini lebih cepat dan lebih praktis daripada timbangan tradisional, hal ini disebabkan karena tampilan berat badan balita dapat di-capture pada LCD, dan petugas tidak perlu membawa grafik klasifikasi berat badan. Timbangan digital ini memiliki ketelitian 100gr, rata-rata error pada input ADC sebesar 0,05%, dan dapat dihubungkan ke komputer untuk pemrosesan data lebih lanjut.",
+  "creators": "ANDREE ANGGORO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No.02010744/ELK/2005; Andree Anggoro (23400102)",
+  "subjects": "WEIGHING SYSTEMS, ELECTRONIC; MICROCONTROLLER"
+}

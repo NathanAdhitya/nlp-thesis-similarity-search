@@ -1,0 +1,14 @@
+{
+  "id": "25790",
+  "title": "Minimasi biaya perencanaan awal penampang balok beton bertulang",
+  "abstract": "Penelitian ini mencakup beberapa penampang struktur, yaitu balok persegi bertulangan tunggal, balok persegi bertulangan ganda, plat, serta balok T yang bertulangan tunggal. Dengan berpedoman bahwa perbandingan harga baja dan harga beton sangat bervariasi di berbagai tempat, minimasi biaya dilakukan dengan hanya memperhatikan biaya yang diakibatkan oleh pemakaian baja tulangan dan beton saja. Penelitian dilakukan dengan mengolah rumus lentur yang ada dan membuat program komputer untuk melakukan minimasi biaya, karena dalam kenyataannya persentasi tulangan akibat lentur jauh lebih besar daripada akibat geser. Rumus lentur didasarkan reference [2], sedangkan program dibuat dalam bahasa BASIC. Hasil penelitian disajikan dalam bentuk suatu tabel untuk membantu menentukan penampang struktur yang paling ekonomis biayanya akibat suatu beban lentur dengan mutu baja dan beton serta perbandingan harga baja dan beton yang tertentu. Untuk perhitungan lain yang lebih mendetail dan keadaan-keadaan yang lain dari yang tercantum pada \"tabel dapat digunakan program komputer. Untuk memberikan gambaran mengenai aplikasinya maka disertakan juga contoh-contoh perhitungan. Selain itu keuntungan dari penelitian ini adalah kemudahan dalam mendapatkan penampang struktur yang ekonomis dalam waktu yang cukup singkat karena telah tersedianya tabel yang praktis ataupun program komputer yang mudah digunakan. Pada umumnya hanya perlu dilakukan 1 - 2 kali iterasi yang mana tergantung pada penaksiran dimensi mula-mula.",
+  "creators": "WITJAHJONO WIRIANTO; DJOKO ARIFIN SANTOSA",
+  "contributors": "Mutyadewi Subagio (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 376 S; Witjahjono Wirianto (283144), Djoko Arifin Santosa (284114)",
+  "subjects": "BUILDING-ESTIMATES AND COSTS; REINFORCED CONRETE"
+}

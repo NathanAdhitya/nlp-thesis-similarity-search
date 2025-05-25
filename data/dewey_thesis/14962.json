@@ -1,0 +1,14 @@
+{
+  "id": "14962",
+  "title": "Perencanaan dan pembuatan SMPS transformer dengan frekuensi kerja 40 KHz dan range tegangan input 90 V-260 V",
+  "abstract": "Switchmode Power Supply (SMPS) dibuat dengan frekuensi operasi yang cukup tinggi (diatas IS KHz), dan menggunakan teknik switching regulator yang memakai konsep PWM (Pulse Width Modulator). Untuk membuat SMPS, dibutuhkan transformator SMPS yang sesuai dengan spesifikasi rangkaian kontrol SMPS. Hal-hal yang perlu diperhatikan dalam perencanaan transformator SMPS adalah besar beban daya yang hams ditangani, frekuensi kerja, range tegangan input dan range duty cycle. Dari sini, bisa ditentukan jenis material, bentuk dan ukuran inti, besar celah udara dan jumlah lilitan dari transformator SMPS. Dari hasil pengujian yang telah dilakukan terlihat bahwa transformator SMPS dapat bekerja pada frekuensi 31.25 KHz, dan efisiensi sebesar 0.8, serta dimensi transformator yang cukup kecil.",
+  "creators": "TOMMY RUBIANTO",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); NONO MOELYONO W. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/TST/027/217; Tommy Rubianto (23490155)",
+  "subjects": "ELECTRIC TRANSFORMERS"
+}

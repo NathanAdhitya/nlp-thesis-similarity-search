@@ -1,0 +1,14 @@
+{
+  "id": "14844",
+  "title": "Perencanaan dan pembuatan programmer IC single chip mikrokontroler AT89C2051 dengan penggunakan PC",
+  "abstract": "Dalam perkembangan teknologi saat ini, kemunculan chip-chip baru guna mendukung perangkat keras yang semakin canggih, semakin banyak. Juga dalam lingkungan pendidikan dan penelitian mahasiswa di U.K. Petra untuk memperluas pemahaman mikrokontroler, perlu adanya pengenalan chip-chip baru. Diantaranya telah dikeluarkan produk baru dari ATMEL, yaitu single chip mikrokontroler AT89C2051. Untuk penggunaan chip tersebut dibutuhkan program insialisasi dan eksekusi dimana untuk memprogramnya tidak dapat menggunakan EPROM PRO-GRAMMER yang ada dipasaran. Dibutuhkan suatu peralatan dengan karkateristik-karakteristik yang disesuaikan dengan kebutuhan chip tersebut. Oleh sebab itu diperlukan suatu alat untuk memprogram ROM yang ada didalam chip tersebut. Program yang akan dimasukkan dalam ROM chip tersebut dibuat dalam wordprosesor yang ada dan dicompile oleh compiler. Hasil compile tersebut diolah dalam PC dan disandikan lewat interface ke programmer single chip tersebut. Setelah data-data disiapkan oleh compiler, lewat sebuah program akan mengaktifkan interface card berbasis PPI 8255. Dari PPI 8255 akan dikeluarkan sinyal-sinyal untuk mengkondisi mode penulisan PEROM dan mengaktifkan rangkaian tegangan terkontrol untuk mengkondisi mode PEROM. Bila sudah selesai pemrosesan tersebut chip tersebut siap untuk dioperasikan sebagai single chip mikrokontroler.",
+  "creators": "KRISMANU SUGIARTA DJAJA",
+  "contributors": "Resmana Lim (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/002/301; Krismanu Sugiarta Djaja (23487072)",
+  "subjects": "INTEL AT89C2051 (MICROCONTROLLER); PPI 825 (COMPUTER PROGRAM)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "17145",
+  "title": "Pengembangan situs sharing informasi sitasi publikasi ilmiah dengan sistem pencarian artikel menggunakan okapi BM25",
+  "abstract": "Keterbatasan akes untuk memperoleh jurnal ilmiah akan mempengaruhi proses penelitian. Dengan adanya situs web maka jurnal ilmiah dapat diperoleh dengan cepat dan mudah oleh siapa saja. Situs web dapat melakukan harvesting ke external site yang menyediakan metadata dan menerima inputan dari member untuk memperlengkap koleksi artikel. Untuk itulah, maka penulis membuat situs web sharing informasi sitasi publikasi ilmiah Penulis menggunakan metode OKAPI BM25 sebagai metode untuk proses pencarian keyword dan menambahkan hasil dari OKAPI BM25 dengan perhitungan citation untuk menambah kualitas dari pencarian. Search dari artikel yang dihasilkan berdasarkan pengujian pada bab 5 cukup bagus dikarenakan artikel yang relevan terdapat semua pada hasil pencarian. Artikel yang berkaitan dengan keyword berada pada rank kurang dari 30.",
+  "creators": "HARTONO",
+  "contributors": "Resmana Lim (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01020880/INF/2010; Hartono (26405055)",
+  "subjects": "INTERNET (COMPUTER NETWORK); WEBSITE-DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

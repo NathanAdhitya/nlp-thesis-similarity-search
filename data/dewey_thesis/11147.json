@@ -1,0 +1,14 @@
+{
+  "id": "11147",
+  "title": "Pembuatan inference engine sistem pakar dengan metode forward chaining dan atau backward chaining",
+  "abstract": "VP-Expert merupakan sebuah program sistem pakar yang berbasis DOS dan menggunakan backward chaining sebagai teknik pemecahan masalah. Akan tetapi fitur yang dimiliki VP-Expert terbatas misalnya hanya terbatas pada satu metode yaitu bacward chaining dan tidak ada perhitungan certainty factor (CF) yang menyatakan tingkat keyakinan seorang pakar dari suatu pertanyaan. Karena itu diperlukan sebuah program yang memiliki fitur tambahan agar user dapat menggunakan program sesuai kebutuhan. Pada tugas akhir ini, dikembangkan sebuah program baru yang menggunakan bahasa pemograman Visual Basic 6. Program baru ini memiliki fitur forward chaining, backward chaining, forward dan backward chaining, perhitungan certainty factor (CF) dan penggunaan image. Dari hasil pengujian sistem dapat diperoleh kesimpulan bahwa program ini dapat mencari penyelesaian masalah dengan metode forward chaining dan atau backward chaining, mencari nilai certainty factor (CF), dan menampilkan image sebagai jawaban penyelesaian masalah.",
+  "creators": "ANDRE SETYABUDI",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010758/INF/2008; Fendi Gunawan (26405107)",
+  "subjects": "DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "32265",
+  "title": "Optimasi distribusi satu jenis barang dengan N kendaraan dengan duo depo",
+  "abstract": "Penelitian ini dilakukan untuk menyelesaikan masalah optimasi distribusi satu jenis barang dengan sejumlah kendaraan dan dua depo. Terdapat empat metode yaitu (1) menggunakan Clarke and Wright Algorithm-CWA secara langsung, (2) melakukan clustering berdasarkan jumlah depo yang ada, kemudian dilanjutkan CWA dengan titik awal pemberangkatan adalah depo, (3) melakukan clustering berdasarkan perkiraan jumlah kendaraan yang dibutuhkan, dari cluter yang terbentuk ditentukan depo yang akan menangani, dilanjutkan CWA dengan titik awal pemberangkatan adalah depo, (4) melakukan clustering berdasarkan perkiraan jumlah kendaraan yang dibutuhkan, dilanjutkan CWA dengan titik awal pemberangkatan armada adalah alamat dengan jumlah kirim paling besar pada cluster tersebut, selanjutnya ditentukan depo yang akan menangani distribusi barang tersebut. Untuk menentukan metode terbaik yang akan digunakan, dipakai empat kriteria yaitu total jarak tempuh, momen (jarak * jumlah kirim), jumlah rute dan computational time. Berdasarkan kriteria tersebut, metode pertama memang memberikan hasil terbaik dengan total jarak tempuh sebesar 9008,92 km, momen 53645.901, computational time sekitar 59 menit dan jumlah rute 11. Namun demikian, metode ini tidaklah efektif apabila jumlah alamat kirim yang dimiliki sangat besar. Metode yang mendekati penyelesaian terbaik adalah metode ke-empat dengan total jarak tempuh sebesar 9013, 40 km, momen 58300,553, computational time kurang dari 1 menit dan jumlah rute 11.",
+  "creators": "LYDIA YOANITA",
+  "contributors": "Siana Halim (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011782/IND/2014; Lydia Yoanita (25411056)",
+  "subjects": "DISTRIBUTION OF GOODS-MANAGEMENT"
+}

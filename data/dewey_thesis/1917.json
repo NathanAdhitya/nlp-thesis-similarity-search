@@ -1,0 +1,14 @@
+{
+  "id": "1917",
+  "title": "Perencanaan penjadwalan perawatan mesin di PT. Sari Mas Permai",
+  "abstract": "PT. Sari Mas Permai merupakan sebuah perusahaan yang memproduksi minyak goreng dengan bahan baku kopra. Saat ini, perusahaan melakukan perawatan dengan cara mengganti komponen suatu mesin saat komponen tersebut mengalami kerusakan. Hal ini menyebabkan biaya yang dikeluarkan oleh perusahaan dalam melakukan perawatan dengan cara korektif tersebut cukup besar. Pada tugas akhir ini, direncanakan suatu jadwal perawatan komponen yang lebih baik. Jadwal perawatan komponen tersebut diharapkan dapat menurunkan biaya perawatan yang harus dikeluarkan oleh perusahaan. Hal ini betujuan agar perusahaan dapat melihat adanya penurunan biaya yang cukup besar bila perusahaan menggunakan cara perawatan pencegahan ini. Data yang diperlukan dalam pengolahan adalah data interval waktu kerusakan komponen dan data waktu penggantian untuk tiap komponen. Dari data tersebut akan didapatkan waktu MTTF dan waktu penggantian komponen yang paling optimal (tp). Untuk memperoleh suatu jadwal perawatan komponen yang baik maka digunakan waktu penggantian komponen yang optimal untuk kemudian ditambahkan pada tanggal terakhir kerusakan komponen tersebut terjadi. Jadwal perawatan tersebut akan disesuaikan pula dengan jadwal proses produksinya. Dalam tugas akhir ini dilakukan pula suatu perbandingan antara perawatan yang dilakukan sebelum adanya penjadwalan dan sesudah penjadwalan dilakukan. Hasil yang didapatkan ternyata jauh lebih baik bila perawatan dilakukan sesudah dijadwalkan terlebih dulu. Hal ini dapat dibuktikan dari biaya keseluruhan yang dikeluarkan oleh perusahaan ternyata lebih rendah daripada metode yang dipakai perusahaan saat ini.",
+  "creators": "RATNA SARI DEWI",
+  "contributors": "Kriswanto Widiawan (Advisor 1); SOESATIJONO (Advisor 2); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0672/IND/2003; Ratna Sari Dewi (25498058)",
+  "subjects": "PLANT MAINTENANCE"
+}

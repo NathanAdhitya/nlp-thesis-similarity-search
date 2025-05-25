@@ -1,0 +1,14 @@
+{
+  "id": "1363",
+  "title": "Perancangan dan pembuatan automated file distribution software pada jaringan komputer",
+  "abstract": "Dalam mengatur komputer-komputer yang terhubung ke dalam suatu jaringan komputer, seorang administrator seringkali harus mendistribusikan file-file ke banyak komputer yang terhubung ke dalam jaringan. Bila hal ini dilakukan secara manual sementara jumlah komputer yang harus didistribusikan berjumlah banyak, tentu hal ini akan memakan banyak waktu administrator tersebut yang seharusnya bisa digunakan untuk mengerjakan hal lainnya. Pembuatan aplikasi diharapkan mampu menyediakan solusi yang praktikal, efisien, dan efektif bagi administrator dalam tugasnya mendistribusikan file-file ke banyak komputer dalam suatu jaringan komputer yang berbasis Windows. Aplikasi dibuat dengan Borland Delphi 7.0 for .NET dengan beberapa component-component tambahan yang didapat dari internet. Pengujian dilakukan dengan mendistribusikan sejumlah file yang berukuran total 100 MB dan didistribusikan ke 10 komputer. Hasil pengujian menunjukkan bahwa aplikasi berhasil mengefisienkan waktu yang dibutuhkan untuk melakukan proses distribusi file dibandingkan dengan cara manual dengan persentase efektifitas 21% sampai 31%, rata-rata 25.29%.",
+  "creators": "BURHAN SURIJAN",
+  "contributors": "Kartika Gunadi (Advisor 1); Andreas Handojo (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010054/INF/2003; Burhan Surijan (26499103)",
+  "subjects": "INTERNET PROGRAMMING; INTERNET (COMPUTER NETWORKS)"
+}

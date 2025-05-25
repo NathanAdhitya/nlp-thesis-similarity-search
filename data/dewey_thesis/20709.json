@@ -1,0 +1,14 @@
+{
+  "id": "20709",
+  "title": "Penerapan Human Resource Information System (HRIS) pada perusahaan PT. X berbasis web programming",
+  "abstract": "PT. X adalah perusahaan yang bergerak dalam bidang distribusi produk rumah tangga, contohnya shampoo, makanan ringan dan lain sebagainya. Sistem perusahaan saat ini mempunyai banyak kekurangan dimana pencatatan data diri karyawan, penggajian, absensi dan lain sebagainya masih dilakukan secara manual. Perusahaan membutuhkan sebuah sistem baru yang dapat membantu pekerjaan HRD. Sistem yang baru dirancang dengan menggunakan Use Case Diagram untuk menggambarkan tentang fungsionalitas yang disediakan oleh sistem dan Activity Diagram untuk menggambarkan alur prosedur antara dua atau lebih objek class selama melakukan proses suatu aktivitas. Entity Relationship Diagram akan digunakan untuk merancang struktur database beserta relasinya. Sistem ini akan menggunakan MySQL sebagai database nya dan akan menggunakan bahasa PHP dan AJAX dalam pembuatan aplikasinya. Program ini akan memiliki beberapa modul, yaitu modul perekrutan, modul personalia, modul organisasi, modul absensi, modul penggajian, dan modul penilaian. Setelah dilakukan pengujian sistem yang baru, program dapat membantu HRD dalam pengolahan data yang ada serta dapat menyimpan data tersebut. Selain itu, program juga dapat melakukan perhitungan gaji beserta dengan PPh nya sampai dengan pencetakan slip gaji dan Form SPT 1721-A1 untuk karyawan. Laporan yang dihasilkan tidak hanya slip gaji dan form SPT 1721-A1 saja, tetapi juga laporan-laporan yang berhubungan dengan data karyawan lainnya, seperti laporan absensi, laporan penilaian, laporan ijin karyawan, laporan gaji, dan laporan kontrak karyawan.",
+  "creators": "NEHEMIA STEVE PRASETYO",
+  "contributors": "Rudy Adipranata (Advisor 1); Ibnu Gunawan (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021007/INF/2011; Nehemia Steve Prasetyo (26406089)",
+  "subjects": "WEB SITES-DESIGN-COMPUTER PROGRAMS; DATABASE DESIGN"
+}

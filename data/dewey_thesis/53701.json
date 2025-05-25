@@ -1,0 +1,14 @@
+{
+  "id": "53701",
+  "title": "Aspect-based sentiment analysis pada ulasan e-commerce dengan metode support vector machine untuk mendapatkan informasi sentimen dari beberapa aspek",
+  "abstract": "Di zaman globalisasi ini, semua aktifitas masyarakat mulai menggunakan teknologi untuk mempermudah kegiatan sehari hari. Salah satu bentuk kegiatan digitalisasi yang paling berdampak adalah kegiatan jual beli online seperti penggunaan platform Tokopedia dan Shopee. Adanya fitur review pada tempat jual beli online (e-commerce) menjadi faktor pendukung meningkatnya transaksi online masyarakat. Banyaknya masyarakat yang mulai menerapkan kegiatan jual beli online pada kehidupan sehari-hari mengakibatkan meningkatnya jumlah review di e-commerce. Jumlah ulasan yang banyak menyebabkan calon pembeli kesusahan untuk mereview sebuah produk yang akan dibeli. Faktor yang menentukan pengalaman berbelanja setiap individu berbeda-beda sehingga ulasan dan rating yang diberikan setiap individu pada sebuah produk atau toko beragam. Hal ini memengaruhi rata-rata rating sebuah produk atau toko sehingga rata-rata rating pada sebuah produk belum tentu mewakili kualitas produk tersebut. Untuk mengatasi masalah ini, penulis membuat sebuah sistem di mana calon pembeli dan penjual akan dimudahkan untuk menilai sebuah aspek suatu produk. Sistem yang dibuat penulis menunjukkan beberapa aspek yang sekiranya krusial bagi pembeli dan penjual dalam membaca sebuah ulasan, seperti aspek umum, akurasi, kualitas, pelayanan, pengiriman, kemasan, dan harga menggunakan metode Support Vector Machine. Pada aspek-aspek tersebut, sistem yang dibuat akan menunjukkan sentimen-sentimen pada ulasan yang sudah ditulis pembeli seperti sentimen positif, negatif, maupun netral. Hasil dari skripsi menunjukkan bahwa aspek yang sering dibicarakan adalah aspek kualitas. Aspek umum, akurasi, kualitas, pelayanan, pengiriman, dan kemasan mempengaruhi nilai rating pada sebuah rating produk sedangkan aspek harga tidak mempengaruhi sebuah rating produk. Dibandingkan dengan platform Shopee, ulasan positif yang ditulis di Tokopedia lebih banyak daripada ulasan di Shopee.",
+  "creators": "HANSEN GUNAWAN SULISTIO",
+  "contributors": "Andreas Handojo (Advisor 1); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022180/INF/2022; Hansen Gunawan Sulistio (C14180226)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); SUPPORT VECTOR MACHINES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "17092",
+  "title": "Pembuatan aplikasi pengenalan plat nomor kendaraan dengan metode jaringan syaraf tiruan",
+  "abstract": "Suatu sistem keamanan sangat dibutuhkan dalam berbagai bidang. Dalam hal ini pengenalan plat nomor kendaraan memiliki peranan yang penting dalam suatu sistem keamanan parkir. Seiring dengan berjalannya waktu penggunaan perangkat komputer dan kamera sebagai suatu sistem keamanan semakin banyak digunakan. Maka dari itu dibutuhkan suatu aplikasi yang memudahkan pengontrolan sistem keamanan parkir dengan memanfaatkan teknologi tersebut. Dengan dibuatnya aplikasi ini, maka akan membantu memudahkan sistem pengontrolan kendaraan. Software ini menggunakan metode image processing untuk mencari lokasi plat nomor kendaraan dan juga metode clustering yaitu dengan menggunakan algoritma Self Organizing Maps (SOM) untuk melakukan pengenalan karakter. Dalam pembuatan software, dilakukan pengumpulan data-data real berupa hasil foto kamera untuk data training dan juga untuk data yang ingin dikenali. Data dipersiapkan dengan melalui image processing sehingga lokasi plat nomor ditemukan dan diolah sehingga menjadi data yang dapat dilatihkan oleh algoritma SOM. Kemudian data diolah sesuai algoritma sehingga menghasilkan cluster-cluster yang telah mengelompok. Hasil cluster-cluster ini ditampilkan dalam bentuk yang mudah dilihat dan digunakan sebagai pengenalan karakter. Penulis menggunakan software Microsoft Visual C# 2008 Express Edition dalam pembuatan software ini. Dengan menggunakan output dari software ini, yang berupa item-item yang telah ter-cluster (terkelompok), pengenalan karakter dapat dilakukan dengan melihat hasil cluster tersebut. Hasil dari Skripsi ini berupa hasil pengenalan karakter plat nomor.",
+  "creators": "HENDRA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020900/INF/2010; Hendra (26406129)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

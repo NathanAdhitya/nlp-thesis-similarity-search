@@ -1,0 +1,14 @@
+{
+  "id": "27138",
+  "title": "Analisa balok menerus dengan beban tiga dimensi memakai cara finite difference",
+  "abstract": "Perencanaan balok menerus dengan beban tiga dimensi tanpa gaya normal melibatkan lentur dalam dua arah utama dan torsi, diselesaikan secara interaksi sehingga saling berketergantungan satu dengan yang lainnya. Persamaan Keseimbangan/Governing Equation of Equilibrium yang dipergunakan adalah: Mx = - E. Ixy. u\" - E. Ix, v\" My = E. Iy. u\" + E. Ixy. v\" Mz = G. Kt. jz>‘ - E. Iw. 0 ≪\" Persaman di atas dimodifikasi dengan adanya perubahan sumbu koordinat setelah struktur mengalami deformasi dan Memperhatikan juga hubungan di antara sistim koordinat utama dengan sistim koordinat yang baru. Penyelesaian ke tiga persamaan diferensial tersebut mempergunakan cara finite difference dengan memperhatikan kondisi batas yaitu pada sendi/sendi menerus, sehingga diperoleh hasil u, v dan 0 pada setiap titik nodal. Untuk menyelesaikan persamaan di atas dipergunakan bantuan computer dengan bahasa basic. Tegangan normal dan tegangan geser diperoleh dengan menggabungkan persamaan tegangan yang sudah ada, yaitu akibat lentur dan torsi. Hal ini diperbolehkan karena struktur bersifat elastis murni.",
+  "creators": "BAMBANG SANTOSO; VIPMAN TANDJIRIA",
+  "contributors": "Daniel Zefania Pribadi (Advisor 1); Ir. Soehendro Ratnawidjaja, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 330 S; Bambang Santoso (283017), Vipman Tandjiria (283020)",
+  "subjects": "STEEL, STRUCTURAL-MATHEMATICAL MODELS"
+}

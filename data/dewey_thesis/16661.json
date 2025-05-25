@@ -1,0 +1,14 @@
+{
+  "id": "16661",
+  "title": "Perbandingan analisa struktur dengan metode pembebanan bertahap menggunakan program GT-STRUDL dan program Etabs",
+  "abstract": "Analisa struktur dengan metode pembebanan bertahap lebih tepat digunakan pada bangunan bertingkat tinggi. Dengan pembebanan bertahap maka akan didapatkan hasil analisa yang lebih sesuai dengan keadaan yang sebenarnya di lapangan. Penggunaan program analisa struktur tidak dapat dihindarkan untuk menganalisa suatu bangunan bertingkat tinggi. Dengan bantuan program analisa struktur maka pekerjaan akan dapat diselesaikan lebih cepat, lebih ekonomis, dan lebih tinggi tingkat ketelitiannya dibandingkan perhitungan manual oleh manusia. Penelitian ini membandingkan hasil analisa struktur dengan metode pembebanan bertahap antara prc gram GT-STRUDL dan program ETABS. Program GT-STRUDL dipilih karena memiliki fasilitas untuk melakukan analisa struktur dengan metode pembebanan bertahap, sedangkan program ETABS dipilih karena banyak digunakan oleh para pe encana struktur. Program ETABS tidak memiliki fasilitas untuk melakukan analisa struktur dengan metode pembebanan bertahap secara langsung. Penelitian ini meninjau dua bangunan, yaitu bangunan berlantai 10 yang mewakili portal terbuka dan bangunan berlantai 30 dengan dinding geser. Pada setiap bangunan dilakukan tiga macam analisa struktur, yaitu : analisa dengan program ETABS dimana pelat lantai dianggap sebagai diafragma yang kaku pada bidangnya, analisa dengan program GT-STRUDL dimana pelat lantai sebagai diafragma yang kaku pada bidangnya, dan analisa dengan program GT-STRUDL dimana pelat lantai tidak dianggap sebagai diafragma yang kaku pada bidangnya (sesuai dengan asumsi sebenarnya dari program GT-STRUDL). Ketiga macam analisa tersebut dilakukan karena adanya perbedaan asumsi pelat lantai antara program GT-STRUDL dan pro 3Tam ETABS. Hasil penelitian ini menunjukkan bahwa gaya-gaya dalam hasil analisa struktur dari program GT-STRUDL dan program ETABS tidak terlalu jauh berbeda. Perbedaan yang timbul secara keseluruhan masih dalam batas yang wajar. Hal ini juga menunjukkan bahwa pertedaan asumsi kekakuan pelat lantai dan dinding geser antara program GT-STRUDL Ian program ETABS untuk penelitian ini tidak terlalu berpengaruh terhadap hasil analisa struktur secara keseluruhan.",
+  "creators": "RIDWAN TJOKROUTOMO; ERNI INDRIYANI",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Ir. Prasetio Sudjarwo, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 894/SIP/1999; Ridwan Tjokroutomo (21494110), Erni Indriyani (21494162)",
+  "subjects": "STRUCTURAL ANALYSIS-COMPUTER PROGRAMS"
+}

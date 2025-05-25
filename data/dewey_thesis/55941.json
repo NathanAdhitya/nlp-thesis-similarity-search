@@ -1,0 +1,14 @@
+{
+  "id": "55941",
+  "title": "Perancangan sistem pemantauan stok gudang dengan load cell, arduino dan internet of things",
+  "abstract": "Penelitian ini dilakukan untuk dapat merancang dan mengimplementasi sistem inventori gudang sparepart sehingga dapat mengakomodasi kebutuhan dari perusahaan yang membutuhkan data stok yang aktual dan akurat tanpa melakukan tag dengan RFId atapun QRcode untuk identifikasi barang serta meminimalkan keterlibatan user dalam input keluar masuk barang. Hal awal yang dilakukan agar dapat menangkap kebutuhan adalah dengan melakukan pengamatan dan wawancara ke petugas gudang sparepart terkait kebutuhan untuk sistem pendukung yang selama ini menggunakan pencatatan manual lalu diinput ke SAP. Setelah menangkap kebutuhan petugas gudang, dilakukan perancangan dan pembuatan sistem berdasarkan literatur sebelumnya yakni menggunakan Load Cell dan Arduino sebagai hardware utamanya untuk mengakses database dan memicu trigger pada database untuk menjalankan fungsi kalkulasi stok. Untuk memaksimalkan penggunaan teknologi Internet of Things (IoT), maka dibuatkan interface dari Web sehingga dapat diakses dari komputer atau mobile device yang dapat memberikan informasi seketika apabila terjadi perubahan kuantiti dan mengirimkan email ke bagian yang membutuhkan. Dari hasil implementasi dan analisa dilapangan didapatkan kesimpulan bahwa untuk mendapatkan stok sparepart yang akurat dan aktual dapat tercapai meski tanpa menggunakan tag di setiap item untuk identifikasinya serta penyampaian informasi terkait stok dapat dilakukan dengan simple dengan menggunakan notifikasi pada Web serta pengiriman email.",
+  "creators": "Eduardo Hendrianta",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01010016/MTI/2023; Eduardo Hendrianta (C23190004)",
+  "subjects": "WAREHOUSES--MANAGEMENT; INTERNET OF THINGS; INVENTORY CONTROL--DATA PROCESSING"
+}

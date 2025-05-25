@@ -1,0 +1,14 @@
+{
+  "id": "10436",
+  "title": "Perancangan tata letak pabrik dan fasilitas di PT. \"X\"",
+  "abstract": "Dalam pengaturan tata letak pabrik dan fasilitas ini, akan dilakukan beberapa analisa meliputi: perhitungan kapasitas produksi, pemilihan jenis dan jumlah mesin, pemilihan jenis dan jumlah kebutuhan material handling, penentuan dimensi mesin dan layout akhir dari tata letak pabrik Pada pemilihan jenis mesin dan material handling, digunakan metode Analytical Hierarchy Process/(AHP) yang selanjutnya diolah dengan menggunakan software Expert Choice untuk mendapatkan nilai konsistensi. Pengaturan layout dilakukan secara kualitatif dengan menggunakan peta hubungan keterdekatan/(ARC) yang kemudian diselesaikan dengan menggunakan algoritma CORELAP. Pada algoritma CORELAP, dilakukan perhitungan Total Closeness Rating/(TCR) di mana pengalokasikan departemen dimulai dari western edge. Perhitungan jumlah kebutuhan material handling didasarkan pada frekuensi perpindahan dan kapasitas handling. Dari perhitungan didapatkan bahwa kapasitas produksi untuk proses forging dan proses rolling masing-masing sebesar 8 ton dan 19 ton. Sedangkan dari metode AHP, didapatkan jenis mesin die forging hammer lebih unggul dengan nilai konsistensi 0.04, dengan jumlah kebutuhan mesin die forging sebanyak 10 unit. Sedangkan untuk material handling, crane Demag lebih unggul dengan konsistensi 0.05, sedangkan forklift Toyota tipe 7FD-30 lebih unggul dengan tingkat konsistensi 0.09. Untuk kebutuhan material handling AGVS ini, diperlukan crane sebanyak 4 unit dan forklift sebanyak 1 unit. Layout tata letak pabrik beserta fasilitas sudah dilakukan, dan didapatkan kebutuhan lahan seluas 19.317 m 2 .",
+  "creators": "YULYA SANDRA",
+  "contributors": "Didik Wahjudi (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Rancangan Usaha",
+  "source": "Skripsi No. 353/TI-80/2000; Yulya Sandra (25496033)",
+  "subjects": "PLANTS LAYOUT"
+}

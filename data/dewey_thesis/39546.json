@@ -1,0 +1,14 @@
+{
+  "id": "39546",
+  "title": "Perancangan sistem forecasting di Perusahaan Kayu UD 3G dengan metode Arima",
+  "abstract": "UD 3G merupakan sebuah instansi swasta yang bergerak dalam bidang penjualan kayu olahan. UD 3G belum memiliki sistem forecasting sehingga untuk pengadaan stok barang masih menggunakan perkiraan secara manual dengan melihat dari penjualan sebelumnya. Sehingga hal ini membuat UD 3G mengalami banyak kerugian karena banyaknya stok kayu yang belum terjual menjadi rusak karena berbagai faktor. Oleh karena itu, diperlukanlah sistem forecasting yang mudah untuk digunakan dan membantu perkiraan stok barang yang harus dibeli. Proses perancangan sistem forecasting ini dilakukan melalui tiga tahap, tahap pertama yaitu melakukan survei dan analisa kebutuhan, tahap kedua mengambil data penjualan tahun 2013, 2014 dan 2015, tahap ketiga yaitu melakukan pembuatan flowchart dan perancangan Entity Relationship Diagram, kemudian melakukan pembuatan database. Proses pembuatan program menggunakan bahasa pemograman PHP, database yang digunakan adalah MySQL dan untuk perhitungan forecasting dilakukan dengan metode ARIMA. Berdasarkan hasil yang diperoleh dari pengujian, sistem forecasting yang dibuat dapat melakukan penyimpanan data barang, melakukan perhitungan peramalan berdasarkan dari data penjualan, menampilkan grafik dari hasil peramalan, tombol shortcut untuk print hasil laporan peramalan dan melakukan perhitungan error untuk mendapatkan error terkecil dari ketiga metode sehingga dapat digunakan untuk melakukan forecasting yang terbaik. Rata-rata selisih antara data ramalan dan data penjualan yang paling akurat bernilai kurang dari 5.",
+  "creators": "PETER SUTANTO",
+  "contributors": "Alexander Setiawan (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021659/INF/2017; Peter Sutanto (26412130)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

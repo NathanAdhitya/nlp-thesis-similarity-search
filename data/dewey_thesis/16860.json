@@ -1,0 +1,14 @@
+{
+  "id": "16860",
+  "title": "Perencanaan dan pembuatan sistem otomasi menyalakan dan mematikan supply listrik 3 fasa, 380/220, 3 X 10 A, dengan menggunakan PC dan PLC, serta saluran telepon sebagai sarana komunikasi",
+  "abstract": "Dengan semakin berkembangnya kemajuan teknologi untuk mengefisienkan waktu maka dibuat suatu sistem otomasi untuk menyalakan dan mematikan supply listrik dari jarak jauh melalui saluran telepon, yang memudahkan pengoperasian. Komunikasi antara PC dan PLC untuk menyalakan dan mematikan supply listrik melalui saluran telepon menggunakan sinyal tone DTMF dimungkinkan dengan IC tone DTMF enkoder/dekoder yang merubah data ke dalam sinyal tone DTMF dan sebaliknya. PC mengirimkan data 8 bit melalui port LPT 1 yang kemudian oleh IC 5089 diubah menjadi tone DTMF yang akan dikirim melalui saluran telepon dan kemudian dikodekan kembali oleh 8870, untuk dikerjakan oleh PLC yang akan menggerakan kontaktormenyalakan dan mematikan supply listrik. PLC yang digunakan adalah FESTO dengan bahasa pemrograman \"Statement List\", sedangkan program PC menggunakan bahasa C. Hasil pengujian sistem yang dilakukan adalah bahwa sinyal DTMF yang dikeluarkan sesuai dengan standar DTMF pesawat telepon, penurunan tegangan input dan output pada komponen IC logic adalah di bawah 3 %, dengan penurunan ini PC dan PLC masih dapat bekerja dengan baik, waktu transmit tiap tone DTMF adalah 500ms, sehingga dapat disimpulkan secara keseluruhan sistem ini bekerja dengan baik.",
+  "creators": "DUDI ANANDYA",
+  "contributors": "Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 1); BUNAWI GUNAWIDJAJA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/TST/010/247; Dudi Anandya (23491003)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

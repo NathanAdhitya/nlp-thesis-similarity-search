@@ -1,0 +1,14 @@
+{
+  "id": "19438",
+  "title": "Perancangan dan pembuatan sistem informasi pada Toko Osaka Motor",
+  "abstract": "Pada saat ini sistem informasi pembelian dan penjualan yang digunakan oleh Toko Osaka Motor masih secara manual. Semua transaksi masih dicatat pada sebuah buku, seperti transaksi penjualan, pembelian, stok barang, dan pembayaran utang maupun piutang. Karena data masih dalam bentuk tulisan menyebabkan lamanya pembuatan laporan, dan data mudah hilang. Berdasarkan latar belakang tersebut, maka dirancang sistem informasi pembelian, penjualan, dan stok secara terkomputerisasi. Desain aplikasi menggunakan dekstop based. Aplikasi yang dibuat meliputi penjualan, pembelian, sistem stok, retur dan keuangan, yang menghasilkan laporan-laporan yang berguna buat perusahaan. Aplikasi dibuat menggunakan Visual Basic 6 sebagai bahasa pemograman, dengan database MySQL. Hasil yang diperoleh dari aplikasi ini antara lain, dapat mengurangi resiko kehilangan data, pegawai tidak perlu mencatat kembali transaksi yang ada, dan telah mampu menyimpan data-data transaksi penjualan, pembelian, stok barang, retur dan juga dapat menghasilkan laporan penjualan, laporan pembelian, laporan stok, dan laporan laba rugi penjualan secara otomatis.",
+  "creators": "YOHANES BOBBY HARIANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020894/INF/2010; Yohanes Bobby Hariyanto (26405041)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

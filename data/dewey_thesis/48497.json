@@ -1,0 +1,14 @@
+{
+  "id": "48497",
+  "title": "Aplikasi penentu subyek skripsi menggunakan metode support vector machine",
+  "abstract": "Skripsi adalah tugas yang diberikan universitas kepada mahasiswa sebagai penilaian akhir atas proses belajar yang sudah ditempuh selama beberapa semester. Setelah menyelesaikan skripsi, mahasiswa menyerahkan hasil penelitiannya kepada kampus sebagai koleksi skripsi. Pada Universitas Kristen Petra setiap skripsi yang terkumpul diberikan subyek sebagai kategori skripsi tersebut. Namun pemberian subyek ini masih manual, sehingga dibutuhkan sistem yang dapat membantu menentukan subyek skripsi. Sistem yang dilengkapi fitur text mining akan membantu pihak perpustakaan dalam menentukan subyek skripsi. Langkah yang dilakukan adalah preprocessing yang terdiri punctual removal, stopword removal, dan stemming. Lalu proses ekstrak data teks menjadi angka menggunakan TF-IDF. Selanjutnya data akan dilatih menggunakan metode Support Vector Machine yang nantinya menghasilkan model dan digunakan untuk memprediksi subyek dari teks input. Data yang dilatih adalah data judul dan abstrak skripsi yang sudah ada. Hasil dari penelitian yang dilakukan menunjukan dalam pembangunan model klasifikasi SVM dibutuhkan parameter TF-IDF max_df 1, n-gram (1,2), smooth_idf dan sublinear_tf true, kernel SVM linear dengan C 100 pada judul skripsi dan max_df 0.25, n-gram (1,1), smooth_idf dan sublinear_tf false, kernel SVM rbf dengan C 100 dan gamma 0.01 pada abstrak skripsi. Baik judul maupun abstrak skripsi membutuhkan preprocessing, resample, dan normalisasi l2.",
+  "creators": "ARTONO IVAN CHANDRA",
+  "contributors": "Yulia (Advisor 1); Rudy Adipranata (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022002/INF/2020; Artono Ivan Chandra (26416052)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; COMPUTER--DATABASES--DATA MINING; DATA MINING"
+}

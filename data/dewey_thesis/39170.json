@@ -1,0 +1,14 @@
+{
+  "id": "39170",
+  "title": "Pembuatan alert sistem komputer jaringan kabel dan nirkabel di UK Petra",
+  "abstract": "Sistem monitoring merupakan komponen penting yang diperlukan suatu system datacenter. Permasalahan dapat saja terjadi apabila suatu system datacenter tidak memiliki system monitoring. Ketiadaan system monitoring dapt menjadi masalah bagi seorang network administrator dalam mengelola dan melakukan monitoring server dalam network. Skripsi ini bertujuan untuk membuat system monitoring dengan menggunakan tools monitoring bernama Zabbix. Beberapa fitur yakni Telegram API dan SMS API juga dilibatkan untuk menambah fitur Zabbix. Adapun pada skripsi ini, penggunaan monitoring menggunakan Zabbix, di mana IP address didaftarkan pada Zabbix, kemudian mengintegrasikan fungsi Telegram API dan SMS API ke dalamnya sebagai media notifikasi. Zabbix dapat mengirimkan pesan pemberitahuan atau notifikasi kepada network administrator apabila ada network yang mengalami trouble. Hasil yang didapatkan dari skripsi ini adalah dengan bantuan Zabbix dan tambahan Telegram API juga SMS API, network administrator dapat mengetahui kondisi network secara real-time melalui notifikasi yang akan dikirimkan melalui Zabbix.",
+  "creators": "INDRA THAMRIN",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Agustinus Noertjahyana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021617/INF/2017; Indra Thamrin (26411143)",
+  "subjects": "DATABASE DESIGN; ELECTRONIC COMMERCE--COMPUTER PROGRAMS; WEBSITE DESIGN; MYSQL (COMPUTER PROGRAM LANGUAGE)"
+}

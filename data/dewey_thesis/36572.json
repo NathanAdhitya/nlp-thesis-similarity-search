@@ -1,0 +1,14 @@
+{
+  "id": "36572",
+  "title": "Pembuatan aplikasi point of sales untuk Rumah Makan Dapur Rinjani",
+  "abstract": "Rumah makan Dapur Rinjani adalah rumah makan yang berada di Malang, yang menawarkan berbagai macam makanan khas Indonesia. Pada saat ini sistem yang digunakan masih manual diantaranya adalah proses pemesanan, proses pencatatan reservasi, proses pengiriman pesanan ke dapur, dan proses penghitungan nota pembayaran, sehingga kurang efisien. Pada skripsi ini akan dibuat sebuah aplikasi pemesanan berbasis web yang dapat diakses melalui mobile device yang berada pada jaringan lokal. Pembuatan aplikasi ini menggunakan framework PHP Laravel, Javascript, HTML sebagai bahasa pemrograman pada web pemesanan restoran, dan mySQL sebagai databasenya. Berdasarkan pengujian sistem yang dilakukan, sistem dapat melakukan pengecekan login, menampilkan pesanan, mengatur user dan member, melakukan reservasi, menambahkan promo, mengganti status pesanan di dapur dan menampilkan laporan penjualan dan stok. Aplikasi ini membutuhkan koneksi jaringan lokal untuk melakukan login, melakukan input pesanan, dan update data.",
+  "creators": "HENDY THOMAS HERMAN",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Alexander Setiawan (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021484/INF/2015; Hendy Thomas Herman (26411149)",
+  "subjects": "WEBSITES-DESIGN; WEB SERVICES; DATABASE DESIGN; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (COMPUTER PROGRAM)"
+}

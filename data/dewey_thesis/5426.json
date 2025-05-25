@@ -1,0 +1,14 @@
+{
+  "id": "5426",
+  "title": "Pembuatan software datamining untuk membantu pengambilan keputusan dengan menggunakan metode market basket analysis pada perusahaan X",
+  "abstract": "Dewasa ini muncul tuntutan bagi seorang pengambil keputusan, untuk dapat melihat peluang-peluang yang dapat meningkatkan penjualan di perusahaannya, berdasarkan informasi yang relevan. Pengambil keputusan perlu memakai suatu sistem yang dapat mendukungnya dalam mengambil keputusan secara cepat dan juga tepat. Knowledge atas suatu produk, dapat digunakan oleh perusahaan untuk meningkatkan penjualan. Salah satu cara untuk mendapatkan knowledge adalah dengan melakukan data mining. Software ini akan menggunakan algoritma apriori untuk melakukan analisa market basket analysis. Dalam pembuatan software, penulis mengumpulan data-data yang diperlukan dari perusahaan X, data berupa transaksi yang terjadi selama periode tertentu. Data dipersiapkan dengan melalui proses cleaning dan di transformasi ke bentuk yang dapat diolah oleh software. Data tersebut dimasukan ke dalam sebuah database. Data, diolah sesuai algoritma sehingga menghasilkan frequent itemset dan pada akhirnya menghasilkan association rules dari barang-barang yang ada di dalam transaksi. Rules ditampilkan dalam bentuk grafik dan dapat disimpan juga kedalam bentuk file teks. Penulis menggunakan software Borland Delphi 7 dan Microsoft Access 2000 dalam pembuatan software ini. Dengan menggunakan output dari software ini, yang berupa association rule dan grafik, pengambil keputusan dapat mengetahui barang-barang apa saja yang sering dibeli bersamaan oleh konsumen di supermarket X. Informasi ini akan memberikan pertimbangan tambahan bagi pengambil keputusan dalam pengambilan keputusan.",
+  "creators": "HENDRA RUSLY",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Andreas Handojo (Advisor 2); M. ISA IRAWAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0160/INF/2004; Hendra Rusly (26499111)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN"
+}

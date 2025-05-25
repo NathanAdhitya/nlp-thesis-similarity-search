@@ -1,0 +1,14 @@
+{
+  "id": "33749",
+  "title": "Analisa risiko teknologi informasi di divisi produksi PT X",
+  "abstract": "PT X merupakan suatu perusahaan yang bergerak di industri rokok. Dalam menjalankan proses bisnisnya, perusahaan ini menggunakan software, hardware, jaringan, dan mesin yang digunakan untuk proses produksi. Tetapi perusahaan kurang melakukan monitoring terhadap alat-alat IT di perusahaan sehingga bila terjadi masalah, proses perbaikan masalah tersebut menjadi terlambat, dan perusahaan tidak memiliki rencana bila terjadi bencana. Pada skripsi ini dilakukan analisa risiko terhadap IT di perusahaan dan proses bisnis yang ada di perusahaan. Langkah-langkah dalam melakukan analisa risiko tersebut yaitu dengan menggunakan COBIT 4.1, ISO 31000 dan untuk perhitungan menggunakan Risk Rating Methodology OWASP. Risiko-risiko yang ditemukan di perusahaan dari skala Critical-High yaitu tidak adanya Disaster Recovery Plan, hasil backup data disimpan di ruangan yang sama dengan server utama, tidak adanya monitoring dalam mem-backup data, backup data hanya dilakukan secara onsite, tidak adanya pencatatatan data yang di backup. Respon yang akan diberikan kepada perusahaan yaitu perusahaan sebaiknya membuat DRP sehingga bila terjadi bencana data penting perusahaan tidak hilang, tempat untuk menyimpan hasil backup sebaiknya berbeda dengan server utama, perusahaan sebaiknya melakukan monitoring sewaktu mem-backup data, backup juga harus dilakukan secara offsite, dan seharusnya terdapat pencatatan data yang di backup sehingga bila data tersebut hilang maka data tersebut dapat dengan mudah di restore.",
+  "creators": "STEVIE PRAMUDITA D.",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Ibnu Gunawan (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021405/INF/2015; Stevie Pramudita D. (26411003)",
+  "subjects": "TECHNOLOGY-RISK ASSESSMENT"
+}

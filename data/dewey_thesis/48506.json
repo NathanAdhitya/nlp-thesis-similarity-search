@@ -1,0 +1,14 @@
+{
+  "id": "48506",
+  "title": "Aplikasi E-Patient pada klinik X",
+  "abstract": "Saat ini Klinik X memiliki pasien yang begitu banyak, sehingga menyebabkan kurang efektifnya pelayanan kepada pasien, dimana terdapat antrian yang banyak tanpa adanya kejelasan perkiraan waktu antrian yang pasti. Selain itu sebagian besar aktivitas pada klinik seperti rekam medis, permintaan laboratorium, dan resep masih dilakukan secara manual sehingga meningkatkan resiko tercecer. Melihat latar belakang permasalahan itu, dirancang aplikasi yang dapat menangani antrian pasien dilengkapi dengan fitur sms gateway untuk memberikan informasi pendaftaran antrian, Aplikasi dibuat dengan Node.js dan React.js. Hasil yang diperoleh dari aplikasi ini antara lain menangani antrian pasien, dengan perkiraan waktu melalui SMS gateway, pencatatan data master meliputi rekam medis, laboratorium, dan resep.",
+  "creators": "HILARIUS ANDRIANO SENGYANG",
+  "contributors": "Yulia (Advisor 1); Silvia Rostianingsih (Advisor 2); Alexander Setiawan (Examination Committee 1); INDRO SETIAWAN (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022008/INF/2020; Hilarius Andriano Sengyang (26415137)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--MEDICAL APPLICATIONS; ARTIFICIAL INTELLIGENCE"
+}

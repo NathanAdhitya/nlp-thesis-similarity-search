@@ -1,0 +1,14 @@
+{
+  "id": "50222",
+  "title": "Optimasi trim loss pembesian beton bertulang dengan metode metaheuristik particle swarm optimization dan symbiosis organisms search",
+  "abstract": "Kebutuhan pembesian umumnya diuraikan dalam bentuk bar bending schedule. Pada sebuah proyek, aktivitas pemotongan baja tulangan beton yang tidak dilakukan dengan efisien dapat mengakibatkan waste berupa trim loss. Hal ini dapat menyebabkan berkurangnya keuntungan dan dampak pada lingkungan. Optimasi ini perlu dilakukan guna meminimalisir trim loss yang dihasilkan dari pemotongan tulangan. Sebelumnya, telah dilakukan penelitian mengenai optimasi waste dengan metode metaheuristik dan mengembangkan sebuah metode pembentukan cutting pattern. Namun, apabila variasi tulangan terlalu banyak, metode ini akan menghasilkan cutting pattern yang banyak. Oleh karena itu, penelitian ini bertujuan menyelesaikan masalah optimasi dengan menghasilkan cutting pattern yang lebih efisien namun tetap mendapatkan trim loss minimum dalam berbagai kondisi. Data proyek yang digunakan pada penelitian ini adalah sebuah proyek X kantor. Pada prosesnya metode PSO dan SOS akan dibandingkan dengan metode cutting pattern dan kondisi yang berbeda. Performa dari kedua metode dinilai dari hasil minimum, maksimum, rata-rata, standar deviasi dan grafik konvergensi dari setiap iterasi. Hasil penelitian menunjukkan bahwa metode SOS dengan kondisi undersupply berhasil menemukan trim loss terbaik",
+  "creators": "Renaldy Gozal",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); I Gede Agus Widyadana (Examination Committee 1); Januar Budiman (Examination Committee 2); Gunawan Budi Wijaya S.T., M.T., M.Eng. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000304/MTS/2021; Renaldy Gozal (B21180014)",
+  "subjects": "CONSTRUCTION INDUSTRY--WASTE MINIMIZATION; REINFORCED CONCRETE CONSTRUCTION"
+}

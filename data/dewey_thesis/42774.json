@@ -1,0 +1,14 @@
+{
+  "id": "42774",
+  "title": "Pembuatan enterprise architecture properti pada PT Giarto Audry Cemerlang",
+  "abstract": "PT Giarto Audry Cemerlang adalah perusahaan yang bergerak di bidang penjualan dan pembangunan properti. Pada saat ini belum semua proses bisnis yang ada di perusahaan didukung oleh sistem informasi yang di komputerisasi dan belum terintegrasi satu sama lain. Sistem informasi yang ada dalam perusahaan hanya mendukung proses bisnis bagian keuangan dan akuntansi saja. Berdasarkan hal tersebut, maka dilakukan analisis pemodelan enterprise architecture dengan metode enterprise architecture planning. Tahapan pertama yang dilakukan adalah pemodelan dan analisis strategi bisnis perusahaan. Setelah itu, melihat kondisi teknologi informasi dari perusahaan pada saat ini, permasalahan yang ada dalam perusahaan, dan kebutuhan teknologi informasi di masa mendatang. Kemudian dari hasil itu akan dilakukan pembuatan arsitektur data, arsitektur aplikasi, dan arsitektur teknologi. Arsitektur data menghasilkan beberapa sub sistem yang ada pada perusahaan yaitu sub sistem HRD, Pekerjaan Lapangan, Purchasing, Sales Marketing, dan Akuntansi Keuangan. Untuk arsitektur aplikasi terdiri dari aplikasi utama dan pendukung yang semuanya berbasis web. Arsitektur teknologi menggunakan client/server architecture pattern dengan layanan data Serviced Oriented Architecture.",
+  "creators": "NATHANAEL ADI CAHYONO",
+  "contributors": "Alexander Setiawan (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021800/INF/2018; Nathanael Adi Cahyono (26414104)",
+  "subjects": "INFORMATION TECHNOLOGY; MANAGEMENT INFORMATION SYSTEM"
+}

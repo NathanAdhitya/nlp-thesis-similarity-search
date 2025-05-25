@@ -1,0 +1,14 @@
+{
+  "id": "43831",
+  "title": "Desain programmable logic controller berbasis ATMEGA32 pada mesin produksi bedak",
+  "abstract": "Bentuk dari PLC sudah mulai berkembang, tidak hanya terbuat dari mikroprosesor yang terintegrasi, tetapi sudah banyak PLC yang dibuat menggunakan mikrokontroler. PLC yang dibuat menggunakan mikrokontroler belum melalui pengujian reliabilitas, maka dari itu dibuat sistem PLC menggunakan mikrokontroler lalu akan dianalisa reliabilitasnya pada lingkungan pabrik. Sistem yang dibuat terdiri dari rangkaian minimum sistem dari mikrokontroler dan rangkaian I/O untuk mendukung mikrokontroler tersebut. Lalu akan dilakukan pengujian fungsionalitas PLC dan pengujian pada lingkungan pabrik, dalam hal ini yaitu mesin produksi bedak pada pabrik kosmetik. Berdasarkan hasil pengujian, sistem PLC yang dibuat tidak mengakibatkan gangguan pada sistem yang ada. PLC juga tidak terganggu oleh lingkungan sistem yang ada.",
+  "creators": "KEVIN EFAN",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Felix Pasila (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010967/ELK/2018; Kevin Efan (23414009)",
+  "subjects": "MICROCONTROLLERS; PROGRAMMING LANGUAGES (ELECTRONIC COMPUTERS)"
+}

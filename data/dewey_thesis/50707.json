@@ -1,0 +1,14 @@
+{
+  "id": "50707",
+  "title": "Penerapan metode Slope One dan K-Nearest Neighbor (KNN) untuk menentukan rekomendasi tempat makan di Bali berbasis Android",
+  "abstract": "Restoran menjadi salah satu alternatif jika di rumah tidak terdapat makanan atau sedang berpergian. Bali sendiri merupakan salah satu kota wisata yang popular karena banyaknya wisatawan yang berdatangan. Banyaknya restoran membuat user bingung untuk memilih restoran yang sesuai dengan keinginannya. Aplikasi rekomendasi ini dibuat untuk membantu agar user tidak bingung dalam memilih restoran yang sesuai keinginannya. Langkah awal yang dilakukan adalah proses scraping, setelah proses scraping akan dicari restoran yang tidak memiliki harga yang nantinya akan dihitung prediksi harganya dengan algoritma Slope One setelah ini data akan dimasukkan ke dalam database. Untuk perhitungan rekomendasi dilakukan di backend. Pada saat di android hanya perlu melakukan pemanggilan API saja. Berdasarkan hasil pengujian yang sudah dilakukan, program berhasil mengumpulkan data, mengelola, dan menampilkan data restoran. Untuk proses prediksi harga dengan algoritma Slope One memiliki hasil yang sangat baik. Untuk Proses scraping data yang ingin diambil sudah sesuai dengan data aslinya. Untuk proses perhitungan K-Nearest Neighbor berhasil dilakukan dan memiliki akurasi yang cukup dengan K sebesar 35, memiliki akurasi sebesar 59%, dan memiliki data sebanyak 7.890 restoran.",
+  "creators": "LUCY ROSALIND",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Yulia (Examination Committee 1); INDRO SETIAWAN (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022081/INF/2021; Lucy Rosalind (26416072)",
+  "subjects": "DATABASE MANAGEMENT; APPLICATION SOFTWARE--DEVELOPMENT; APPLICATION SOFTWARE"
+}

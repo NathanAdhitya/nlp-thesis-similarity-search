@@ -1,0 +1,14 @@
+{
+  "id": "36761",
+  "title": "Pembuatan enterprise architecture di perusahaan transportasi XYZ menggunakan metode enterprise architecture planning (EAP)",
+  "abstract": "Perusahaan transportasi XYZ adalah perusahaan yang bergerak di bidang jasa transportasi berbasis bus. Sebagian besar proses bisnis perusahaan dilakukan secara manual dan belum memiliki sistem informasi yang terintegrasi. Perusahaan memiliki satu program yang dibuat oleh freelance programmer. Program itu membantu menghitung premi, laporan pendapatan, pegawai, dan gudang. Tetapi fitur program masih kurang lengkap. Sedangkan proses bisnis lainnya masih manual menggunakan kertas. Maka dari itu dilakukan analisa dan pembuatan desain enterprise architecture menggunakan metode Enterprise Architecture Planning (EAP) untuk perusahaan transportasi XYZ. Proses pertama yang dilakukan adalah menganalisa model bisnis dan strategi bisnis perusahaan. Setelah itu melihat teknologi informasi yang sudah dimiliki perusahaan, permasalahannya serta kebutuhan perusahaan di masa sekarang dan masa depan. Setelah mendapat informasi maka dilakukan pembuatan desain arsitektur data, arsitektur aplikasi, dan arsitektur teknologi. Arsitektur data yang dihasilkan adalah Sub Sistem Operasional, Sub Sistem Keuangan, Sub Sistem Perawatan, dan Sub Sistem Personalia. Untuk arsitektur aplikasi, semua aplikasi yang didesain berbasis web. Aplikasi yang termasuk key operational adalah Sistem Informasi Penjadwalan, Sistem Informasi Bus Malam, Paket, Bumel, dan Premi, Sistem Informasi Pariwisata, Sistem Informasi Agen Android, Sistem Informasi Akuntansi dan Keuangan, Sistem Informasi Gudang, Sistem Informasi Perawatan, Sistem Informasi Personalia, dan Single Sign On Service. Aplikasi yang termasuk support adalah Back Up Database Server dan Website. Sedangkan aplikasi yang termasuk support adalah Sistem Informasi Komplain. Arsitektur teknologi menggunakan client/server architecture pattern dan service oriented architecture.",
+  "creators": "MERLIN",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Andreas Handojo (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021503/INF/2016; Merlin (26413174)",
+  "subjects": "BALANCED SCORECARD; INFORMATION SYSTEM; INFORMATION TECHNOLOGY"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "19687",
+  "title": "Perancangan dan pembuatan aplikasi data mining clustering untuk data akademik Universitas Kristen Petra",
+  "abstract": "Pada saat ini Biro Administrasi Akademik dan Kemahasiswan menggunakan sistem terkomputerisasi dalam melakukan pencatatan kegiatan akademik. Namun dengan banyaknya data yang dimiliki, maka dibutuhkan suatu sistem pendukung yang dapat memberikan informasi mengenai knowledge suatu data. Salah satu cara untuk mendapatkan knowledge ialah dengan melakukan data mining. Berdasar permasalahan yang dihadapi oleh Biro Administrasi Akademik dan Kemahasiswaan, maka dilakukan pembuatan perangkat lunak berbasis data mining. Aplikasi ini dirancang untuk dapat menghasilkan cluster mahasiswa berdasarkan kriteria lama belajar mahasiswa, nilai indeks prestasi kumulatif, dan asal SMA. Aplikasi ini dibuat dengan menggunakan algoritma Density Based Spatial Clustering of Applications with Noise (DBSCAN). Algoritma ini akan menentukkan sendiri jumlah cluster yang akan terbentuk, sesuai dengan jumlah minimum anggota tiap cluster (minpts) dan jarak antar data (eps). Dengan menggunakan output dari aplikasi ini, yang berupa item-item yang telah terkelompok (cluster), pengambil keputusan dapat mengetahui informasi \"tersembunyi\" yang tersimpa n pada kelompok-kelompok tersebut. Cluster dapat menunjukkan bahwa mahasiswa yang memiliki nilai IPK tinggi pada jurusan Informatika berasal dari SMA tertentu dan mahasiswa yang memiliki nilai IPK tinggi memiliki jenjang waktu belajar yang lebih pendek. Informasi ini akan memberikan pertimbangan tambahan bagi pengambil keputusan dalam pengambilan keputusan.",
+  "creators": "THEOFILUS ANDRE SAPUTRA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Andreas Handojo (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020965/INF/2010; Theofilus Andre Saputra (26406049)",
+  "subjects": "DATA MINING; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

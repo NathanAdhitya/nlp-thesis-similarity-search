@@ -1,0 +1,14 @@
+{
+  "id": "2457",
+  "title": "Feature extraction pada pengenalan nomor plat kendaraan bermotor dengan metode principal component analysis",
+  "abstract": "Masalah yang kerap timbul pada Jaringan Saraf Tiruan dengan input unit yang terlalu besar adalah lamanya proses training untuk mendapatkan hasil terbaik. Persoalan ini juga dijumpai dalam proses training pengenalan nomor plat kendaraan bermotor yang dikerjakan oleh Mettasari Budikartono dalam proyek Tugas Akhir. Karena itu dalam Tugas Akhir ini ditawarkan solusi untuk mereduksi input training pengenalan nomer plat kendaraan bermotor dengan metode Prindpal Component Analysis (PCA). Diharapkan dengan reduksi yang dilakukan, training dapat lebih cepat tanpa banyak mengurangi performance jaringan. Principal Component Analysis merupakan metode untuk mengambil ciri penting dari sekumpulan data sel dan menjelaskaunya dengan variabel yang lebih sedikit. Dengan variabel baru ini model khas dari kumpulan data tersebut dapat digambarkan dengan lebih baik. Dari hasil pengujian sistem diperoleh hasil persentase pengenalan terbaik 92.3 %, konfigurasi jaringan 60 input unit, 60 hidden unit, dan 7 output unit dengan waktu training 07 : 31 : 910 (7 menit 31 detik ). Hasil pengenalan ini sedikit lebih rendah dibandingkan dengan performance jaringan tanpa reduksi, yaitu 95 %. Dari hasil pengujian ini dapat disimpulkan bahwa metode PCA cukup efektif untuk mereduksi input jaringan pengenalan nomor plat kendaraan bermotor.",
+  "creators": "NAHUMI NUGRAHANINGSIH",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Advisor 1); Kartika Gunadi (Advisor 2); Anies Hannawati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/019/565; Nahumi Nugrahaningsih (23497067)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; COMPUTER VISION; PATTERN RECOGNITION SYSTEMS"
+}

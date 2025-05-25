@@ -1,0 +1,14 @@
+{
+  "id": "9541",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada bengkel rajawali service",
+  "abstract": "Bengkel Rajawali Service berdiri pada tahun 1998. Selama ini bengkel masih menggunakan cara manual untuk menghasilkan laporan keuangan yang diperlukan, sehingga menyebabkan terjadinya human error dalam pembuatan laporan keuangan. Oleh karena itu, dalam tugas akhir ini akan dirancang dan dibuat sebuah sistem informasi akuntansi yang membantu Bengkel Rajawali Service untuk mendapatkan laporan keuangan yang akurat dan tepat waktu. Aplikasi ini dibuat dalam bahasa pemrograman Borland Delphi 7.0 dan pembuatan databse dengan menggunakan SQL Server dimana aplikasi ini dapat menghasilkan beberapa menu seperti menu master, transaksi, akuntansi dan laporan, sehingga dapat mempermudah user untuk menjalankan aplikasi ini. Hasil yang diperoleh dari aplikasi yang telah dibuat dan diimpementasikan adalah penerimaan dan pengeluaran kas akan langsung tercatat dalam database lalu setelah transaksi dijurnal dan di-posting ke dalam buku besar, akan dihasilkan laporan laba rugi, perubahan modal dan neraca sehingga dapat membantu Bengkel Rajawali Service untuk mengontrol keuangan.",
+  "creators": "JEFFRY LOEMANTORO",
+  "contributors": "Yulia (Advisor 1); Alexander Setiawan (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.0210687/INF/2008; Jeffry Loemantoro (26403079)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

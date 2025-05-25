@@ -1,0 +1,14 @@
+{
+  "id": "41226",
+  "title": "Pendeteksi volume air pada galon berbasis internet of things dengan menggunakan arduino dan android",
+  "abstract": "Internet of things memiliki konsep yang bertujuan untuk memperluas manfaat yang tersambung dalam koneksi internet secara terus-menerus. Metode yang digunakan oleh Internet of Things adalah pengendalian secara otomatis tanpa mengenal jarak. Implementasi saat ini pengontrolan galon air masih dilakukan dengan melihat keadaan galon kemudian pergantian galon apabila air pada galon sudah habis. Dengan adanya internet of things dapat diimplementasikan pendeteksi volume air yang dapat memantau keadaan galon dari jarak jauh melalui smartphone. Untuk melakukan pembuatan pendeteksi volume air diperlukan alat seperti water flow sensor, mikrokontroler atau alat bantu lainnya yang kemudian dihubungkan dengan internet. Untuk hubungan interaksi water flow sensor, mikrokontroler, ataupun alat bantu lainnya melalui internet digunakan aplikasi Android. Aplikasi Android ini digunakan untuk mempermudah pengguna untuk mengakses internet di manapun. Aplikasi Android ini dibuat dengan menggunakan pemrograman Android Studio dan mikrokontroler dibuat dengan pemrograman Arduino yang memakai bahasa C. Mikrokontroler yang digunakan adalah WeMos D1 R2 yang telah terdapat ESP8266 di dalamnya. Hasil akhir dari pengembangan pendeteksi volume air ini adalah mikrokontroler dapat mengirimkan data sensor ke server Ubidots sehingga aplikasi dapat mengambil data sensor di server Ubidots. Pengguna dapat melihat keadaan galon secara real time dan juga diberikan notifikasi apabila volume air galon berada di bawah alert level. Pengguna juga dapat melihat laporan pemakaian galon per-bulan.",
+  "creators": "DENNY KURIANDO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Resmana Lim (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021701/INF/2017; Denny Kuriando (26413124)",
+  "subjects": "ANDROID (COMPUTER PROGRAM); ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ARDUINO (PROGRAMMABLE CONTROLLER)"
+}

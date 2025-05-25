@@ -1,0 +1,14 @@
+{
+  "id": "16773",
+  "title": "Perencanaan dan pembuatan robot artikulasi yang mampu program, bergerak secara continuous path dengan menggunakan mikrokontroller 8031 untuk pemindah barang (maksimum 500 gr)",
+  "abstract": "Persaingan dibidang industri manufacturing begitu ketatnya, lebih-lebih dalam menghadapi era globalisasi dan pasar bebas dimana kualitas produk yang baik sangat dituntut. Untuk menjawab tantangan itu dalam suatu manufacturing proses otomatisasi merupakan salah satu jalan keluarnya. Dengan proses otomatisasi kualitas dan kuantitas dari suatu produk dapat ditingkatkan. Salah satu realisasi dari proses otomatisasi yaitu sedapat mungkin menggantikan tenaga manusia dengan sebuah robot yang mempunyai faktor kesalahan yang lebih kecil dari manusia, tetapi mempunyai kecepatan produksi yang lebih cepat. Robot artikulasi adalah salah satu pilihan dari sekian banyak bentuk robot yang ada. Dan sistem robot artikulasi inilah yang dibuat pada tugas akhir berikut. Robot artikulasi dalam tugas akhir berikut, dikendalikan dengan sebuah mikrokontroller keluarga MCS- 51, dimana sebagai penggeraknya digunakan stepper motor, dan sebagai pengontrol gerakannya dapat digunakan lengan pengontrol yang telah disediakan atau dengan melalui keypad, sedangkan untuk pengontrolan sisten seluruhnya dapat dilakukan melalui keypad. Disini sebagai tampilannya digunakan LCD. Robot artikulasi ini juga dilengkapi dengan fasilitas komunikasi serial, sehingga memungkinkan robot ini untuk berhubungan dengan sebuah PC (Personal Com-puter).",
+  "creators": "IRWAN SUARNO TJANDRA",
+  "contributors": "Murtiyanto Santoso (Advisor 1); IRWAN SAHLI (Advisor 2); MOCHAMAD HEROE (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/022/0282; Irwan Suarno Tjandra (23490002)",
+  "subjects": "MICROCONTROLLER 8031; ROBOTICS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "26230",
+  "title": "Perancangan dan pembuatan aplikasi sistem penggajian karyawan pada PT. Pulau Batu",
+  "abstract": "Saat ini sistem perhitungan gaji karyawan yang dimiliki oleh PT. Pulau Batu tidak memiliki pencatatan absensi, bonus, potongan dan sebagainya secara teratur, sehingga membutuhkan waktu yang lama dalam melakukan pengecekan setiap periode cutoff berlangsung dan banyaknya kendala dalam membuat berbagai laporan, seperti tidak adanya laporan produktivitas kehadiran karyawan yang sangat berguna dalam memantau kinerja karyawan. Berdasarkan latar belakang permasalahan itu, penulis merancang sistem perhitungan gaji karyawan yang dapat mengatasi permasalahan dalam menghitung gaji karyawan secara lengkap. Proses pembuatannya menggunakan Microsoft Visual Studio .Net 2005 sebagai bahasa pemogramannya dan Microsoft SQL Server 2005 sebagai database. User memiliki modul berbeda yang terdiri dari admin, keuangan, hrd manager, staf hrd dan owner karena memiliki kewenangan yang berbeda-beda dalam sistem. Hasil yang diperoleh dari aplikasi yang telah dibuat yaitu, dapat menyimpan seluruh data absensi beserta keterangan-keterangan yang diperlukan dalam mengecek ulang absensi secara harian. Selain itu aplikasi yang telah dibuat dapat digunakan untuk mengetahui secara detail elemen-elemen didalam perhitungan gaji lainnya, dan dapat digunakan untuk menghasilkan laporan-laporan yang berkaitan dengan perhitungan gaji karyawan secara otomatis. Hasil pengujian terhadap sistem menunjukkan bahwa sistem yang telah dibuat dapat membantu karyawan Human Resource Department, manajer Financial and Accounting, dan owner dalam memantau performa setiap karyawan secara lebih baik dan kompleks. Berdasarkan hasil angket yang ada, sebanyak 60% (enam puluh persen dari seratus persen) dari koresponden menilai bahwa fitur-fitur yang ada pada aplikasi ini sudah sesuai dengan kebutuhan PT. Pulau Batu.",
+  "creators": "JUSTINE RAHARJO",
+  "contributors": "Andreas Handojo (Advisor 1); CHRISTIAN, SE, AK (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021126/INF/2012; Justine Raharjo (26407064)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

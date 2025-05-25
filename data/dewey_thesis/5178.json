@@ -1,0 +1,14 @@
+{
+  "id": "5178",
+  "title": "Perancangan dan pembuatan aplikasi data mining multi-level dan multi-dimensional association rules untuk proses market basket analysis PT. Maha Agung",
+  "abstract": "Dalam kesehariannya PT. Maha Agung telah menggunakan sistem komputerisasi dalam pencatatan transaksi. Dengan banyaknya data yang harus dianalisis, perusahaan membutuhkan suatu sistem pendukung dalam pengambilan keputusan berdasarkan data transaksi yang telah ada. Berdasarkan permasalahan yang dihadapi perusahaan, maka dilakukan pembuatan perangkat lunak yang berbasis data mining. Data mining merupakan teknik untuk melakukan ekstraksi informasi dari data berskala besar. Informasi tersebut merupakan nilai tambah yang sebelumnya tidak dapat diketahui dengan menggunakan cara manual. Aplikasi dirancang untuk melakukan multi-level data mining yang dapat memberikan informasi item dari tingkatan yang berbeda, berdasarkan kategorinya, nama barang, harga jual, dan lain-lain. Aplikasi juga dirancang untuk melakukan multi-dimensi data mining, dimana setiap variabel pengambilan keputusan perusahaan mewakili satu dimensi tertentu. Dalam hal ini dimensi yang dilibatkan adalah dimensi barang, pelanggan, wilayah, dan waktu. Informasi yang dihasilkan dari aplikasi adalah aturan-aturan dan keterkaitan antara item yang menjadi variabel dalam pengambilan keputusan. Berdasarkan pengujian, penggabungan metode multi-level dan multi-dimensional dapat dilakukan dan telah dapat diaplikasikan dengan baik. Hasil kuisioner dari user menunjukkan bahwa tingkat keakuratan informasi hasil aplikasi 83%, desain interface 96%, kemudahan menggunakan program 90%, penggunaan bahasa dalam menyampaikan informasi 86%, dan petunjuk yang diberikan dalam membantu user menggunakan aplikasi 93%.",
+  "creators": "BUDIWATI ABADI",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Yulia (Advisor 1); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010586/INF/2007; Budiwati Abadi (26403088)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

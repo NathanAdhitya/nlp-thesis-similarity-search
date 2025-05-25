@@ -1,0 +1,14 @@
+{
+  "id": "48830",
+  "title": "Voice alert sebagai alat bantu penglihatan di lingkungan rumah dan jalanan secara umum berbasis Android",
+  "abstract": "Menurut penelitian yang dilakukan oleh Governors Highway Safety Assocation tahun 2017 menunjukkan bahwa terdapat sekitar 6 ribu pejalan kaki terbunuh di Amerika karena kebiasaan penggunaan smartphone saat berjalan kaki. Penelitian lain dari Jeff Ronsen menunjukkan bahwa otak mengalami kelebihan informasi dan tidak bisa berfungsi dengan baik ketika melakukan kedua aktivitas ini bersamaan. Berjalan sambil menggunakan smartphone membuat konsentrasi terhadap suasana jalan terpecah dan membuat pejalan kaki tidak berfokus pada jalan melainkan pada smartphone. Perilaku tersebut mengakibatkan resiko terjadi kecelakaan pada pejalan kaki meningkat. Salah satu solusi untuk mencegah terjadinya kecelakaan di atas adalah dengan memanfaatkan kamera smartphone untuk mengambil gambar yang berada di depan pengguna. Kamera smartphone dapat digunakan untuk mengambil data input berupa gambar secara real time yang kemudian dilakukan proses deteksi objek dan mengeluarkan alert berupa suara yang menyebutkan nama objek yang terdeteksi kepada pengguna smartphone. Objek yang dideteksi adalah objek yang umumnya berada di lingkungan rumah dan jalanan seperti manusia, mobil, sepeda, sepeda motor, dan rambu stop. Objek deteksi menggunakan SSD MobileNet yang diterapkan transfer learning yang dilatih lebih lanjut dengan menggunakan dataset google open image dataset v6. Hasil dari transfer learning berupa weight yang digunakan untuk mendeteksi objek dari input kamera android. Hasil pengujian menunjukkan bahwa SSD_MobileNet_V2 dengan learning rate 0.01 dan steps 10.000 memiliki nilai mAP terbaik dengan 80% dalam mendeteksi objek. Aplikasi SSD_MobileNet_V2 dapat mendeteksi objek dengan kecepatan inference time 80ms – 110ms secara realtime dalam device keadaan standby, dan voice alert dengan instant mengeluarkan alert ketika ada objek yang terdeteksi.",
+  "creators": "KEVIN CHRISTIAN SALIM",
+  "contributors": "Liliana (Advisor 1); Rolly Intan (Advisor 2); Justinus Andjarwirawan (Examination Committee 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022030/INF/2021; Kevin Christian Salim (C14170083)",
+  "subjects": "ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE)"
+}

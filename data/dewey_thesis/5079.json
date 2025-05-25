@@ -1,0 +1,14 @@
+{
+  "id": "5079",
+  "title": "Aplikasi pemantauan ruangan melalui handphone menggunakan webcam",
+  "abstract": "Aplikasi Pemantauan Ruangan melalui Handphone menggunakan Webcam adalah aplikasi untuk memantau keadaan suatu tempat melalui handphone yang mempunyai fasilitas GPRS dan mendukung teknologi Java 2 Micro Edition. Untuk dapat mengubah sudut pengambilan gambar webcam, webcam diletakan pada sebuah robot yang dapat diatur pergerakannya dari handphone Komputer server mengambil gambar webcam setiap selang waktu tertentu menggunakan bahasa pemrograman Visual C++, dan menyimpannya dalam bentuk file gambar. Handphone berhubungan dengan komputer dengan mengakses IP address komputer. Program untuk download gambar dari komputer server ke handphone menggunakan Java 2 Micro Edition (J2ME) Pengujian dilakukan menggunakan emulator J2ME dengan menggunakan local webserver maupun melalui local area network. Didapatkan waktu transfer gambar dengan local webserver sekitar 1,45 detik sedangkan melalui local area network sekitar 0,9 detik.",
+  "creators": "STEPHANIE IMELDA PELLA",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 03010003/ELK/2004; Stephanie Imelda Pella (23400063)",
+  "subjects": "JAVA MICRO (COMPUTER PROGRAM)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "53625",
+  "title": "Sistem kontrol pemutusan dan penyambungan sementara otomatis pelanggan meteran pascabayar berbasis arduino",
+  "abstract": "Pemutusan Listrik sementara oleh Pihak PLN masih sering terjadi hingga saat ini. Hal ini dikarenakan masih banyak pelanggan dengan kWh meter pasca bayar yang sering melakukan penunggakan tagihan listrik. Tujuan Tugas Akhir ini adalah untuk merancang sebuah sistem yang dapat membantu petugas PLN melakukan pemutusan atau penyambungan saluran listrik pelanggan yang menunggak secara otomatis tanpa harus mendatangi rumah pelanggan secara langsung. Sistem ini dirancang menggunakan Arduino UNO, Modul GSM SIM808, Sensor Tegangan ZMPT101b dan Relay 5V 1 Channel. Relay akan dikontrol oleh Arduino UNO melakukan pemutusan atau penyambungan pada saluran listrik pelanggan yang menunggak setelah menerima perintah yang dikirimkan ponsel petugas PLN melalui SIM808 dengan komunikasi SMS. Hasil pengujian sistem berhasil melakukan kontrol pemutusan atau penyambungan pada jarak yang berbeda yaitu 700m dan 1942 km. Pengujian dengan kedua jarak tersebut berhasil melakukan kontrol pada relay dengan waktu kurang dari 1 menit. Selain itu, berbagai fitur lain seperti cek titik lokasi, cek saldo pulsa, dan pembacaan nilai sensor tegangan dengan SMS berhasil dilakukan. Diharapkan sistem kontrol ini dapat membantu pihak PLN untuk meningkatkan kinerjanya agar lebih efektif dan efisien dalam melakukan sistem pemutusan atau penyambungan saluran listrik pelanggan yang menunggak terkhususnya pada daerah yang masih memiliki akses internet yang belum memadai.",
+  "creators": "JOSSERIO ANDERSON LILIHATA",
+  "contributors": "Unknown",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010669/ELK/2022; Josserio Anderson Lilihata (C11180035)",
+  "subjects": "ARDUINO (PROGRAMMABLE CONTROLLER); ELECTRIC CONTROLLERS; ELECTRICITY"
+}

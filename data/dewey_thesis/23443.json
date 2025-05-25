@@ -1,0 +1,14 @@
+{
+  "id": "23443",
+  "title": "Portable energy meter digital dalam sistem berbasis mikrokontroler menggunakan hall effect sensor",
+  "abstract": "Pada umumnya konsumen elektronik mengetahui besarnya daya peralatan elektronik yang digunakan berdasarkan dari label yang tertera pada peralatan tersebut, tanpa mengukur kembali menggunakan alat ukur. Adanya suatu bidang keahlian khusus dan faktor resiko membuat tidak semua konsumen dapat melakukan pengukuran atau pembacaan daya listrik. Sedangkan alat ukur yang sifatnya portable dan mudah digunakan jarang ada di pasaran dan masih tergolong mahal. Dengan adanya teknologi Hall Effect Sensor dapat membuat harga perangkat lebih murah dan mudah digunakan karena tidak harus memutus hubungan jalur listrik. Jalur listrik dihubungkan secara paralel dengan pembagi tegangan dan tanpa memutuskan kabel jalur listrik dilewatkan melalui Hall Effect Sensor pada ferrite toroidal. Kemudian arus dan tegangan dibaca melalui ADC pada mikrokontroler ATMEL AVR seri ATMEGA328P dan data ditampilkan melalui interface LCD. Penggunaan Filter pada pengolahan sinyal analog membuat S/N ratio lebih baik yaitu sebesar 0.3636 membuat sinyal akan lebih mendekati nilai sebenarnya. Dari pengujian sistem yang dilakukan dengan uji linieritas pada pembacaan alat yang dibuat terhadap alat ukur didapat nilai akurasi pada alat yang dibuat sebesar sebesar 0.14% untuk pembacaan tegangan, 7.27% untuk pembacaan arus, 7.41% untuk pembacaan daya, 11.47% untuk pembacaan energi, 0.04% untuk pembacaan frekuensi.",
+  "creators": "OKA PUTRA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010920/ELK/2011; Oka Putra (23404060)",
+  "subjects": "ELECTRIC METERS; MICROCONTROLLERS"
+}

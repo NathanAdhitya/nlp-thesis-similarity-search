@@ -1,0 +1,14 @@
+{
+  "id": "48935",
+  "title": "Penerapan procedural content generation untuk generasi level dalam game mythical maze",
+  "abstract": "Terdapat berbagai macam cara untuk mendesain sebuah level, khususnya dengan menggunakan proses procedural, tetapi masih banyak metode yang belum diuji sebagai dasar sebuah game. Oleh karena itu, sebuah program dikembangkan dengan menggunakan game engine Unity. Metode yang dipilih merupakan salah satu bentuk dari Prodecural Generation yaitu Random Room Placement dan Random Point Connect sebagai dasar untuk proses generasi sebuah level yang disesuaikan oleh tingkat kesulitan yang dipilih oleh pengguna, di mana pada setiap level pengguna dapat bermain dengan layout yang berbeda. Dari hasil pengujian dapat ditarik beberapa kesimpulan, yaitu setiap iterasi level yang dimainkan, dihasilkan layout level yang berbeda dengan jumlah ruangan yang berbeda serta dengan menggunakan batasan yang kurang restriktif dapat dihasilkan sebuah level dengan jumlah ruangan dan koridor yang banyak. Kedua hal ini menghasilkan sebuah game dengan replay ability yang tinggi dimana pemain mendapatkan pengalaman yang berbeda setiap kali bermain.",
+  "creators": "HANSEN KRISNA PUTRA",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022031/INF/2021; Hansen Krisna Putra (26414003)",
+  "subjects": "COMPUTER GAMES--PROGRAMMING"
+}

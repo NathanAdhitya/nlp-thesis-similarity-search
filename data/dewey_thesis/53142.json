@@ -1,0 +1,14 @@
+{
+  "id": "53142",
+  "title": "Sistem pemantauan meteran air PDAM berbasis optical character recognition",
+  "abstract": "Perusahaan air daerah masih menggunakan jasa para petugas untuk mencatat meteran air secara manual setiap bulannya. Terkadang meteran air milik berada di dalam rumah pelanggan, sehingga pelanggan perlu untuk mencatat meteran air mereka sendiri dan menunjukkannya ke petugas. Akan tetapi pelanggan bisa saja lupa untuk mencatat. Tugas akhir ini bertujuan untuk membuat sebuah sistem pembacaan meteran air secara otomatis. Tugas akhir ini menggunakan ESP32-CAM untuk melakukan pengambilan gambar dan pembacaan angka menggunakan metode optical character recognition. Baterai dan panel surya digunakan sebagai sumber listrik untuk ESP32-CAM saat berada di meteran air yang jauh dari sumber listrik. Kemudian angka meteran air tersebut dikirimkan ke Raspberry Pi Zero untuk ditampilkan pada rangkaian 7-segment. Selain itu, Raspberry Pi Zero juga berfungsi untuk menjadi server dari aplikasi smartphone dan database penyimpanan data angka meteran air. Dari hasil pengujian dapat disimpulkan bahwa program pembacaan meteran air memiliki akurasi 100% ketika membaca 4 angka depan. Kemudian waktu yang diperlukan untuk mengisi baterai 3000mAh menggunakan panel surya 6W adalah 5 jam. Selain itu, diperlukan baterai yang lebih sebesar dari 3000mAh agar ESP32-CAM dapat bekerja 24 Jam.",
+  "creators": "IVAN SANJAYA",
+  "contributors": "Indar Sugiarto (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011037/ELK/2022; Ivan Sanjaya (C11180013)",
+  "subjects": "OPTICAL CHARACTER RECOGNITION DEVICES; RASPBERRY PI (COMPUTER)--PROGRAMMING; WATER-METERS--AUTOMATIC CONTROL"
+}

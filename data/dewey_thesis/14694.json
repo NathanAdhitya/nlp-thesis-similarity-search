@@ -1,0 +1,14 @@
+{
+  "id": "14694",
+  "title": "Perencanaan dan pembuatan sistem proteksi untuk delapan line telepon",
+  "abstract": "Dengan semakin mudahnya mendapatkan saluran telepon lebih dari dua line, terutama bagi perusahaan, menyebabkan pengawasan terhadap efektifitas pemakaian telepon semakin sulit dilakukan. Pada perusahaan yang menggunakan PABX yang telah dilengkapi dengan fasilitas untuk membatasi jenis panggilan keluar pada line tertentu dan fasilitas untuk menghitung pulsa, pengawasan akan menjadi lebih mudah. Akan tetapi tidak semua perusahaan mampu untuk membeli PABX tersebut. Maka dari itu diperlukan suatu alat bantu diluar PABX yang berfungsi untuk menghitung perkiraan biaya untuk setiap panggilan keluar. Dengan sistem proteksi untuk delapan line telepon ini diharapkan dapat memberikan solusi terhadap permasalahan tersebut, sehingga pemakaian telepon dapat dikontrol dengan baik. Alat ini memiliki kemampuan untuk memonitoring delapan line telepon dan melakukan blocking apabila seseorang mencoba melakukan jenis panggilan diluar yang telah ditetapkan untuk line yang bersangkutan. Selain itu alat ini juga memiliki fasilitas manual blocking yang berfungsi untuk memutuskan percakapan yang sedang berlangsung. Dalam pengoperasiannya, alat ini memerlukan sebuah PC dengan sistem operasi Windows 95. Semua data mengenai line yang dimonitor akan disimpan pada database utama. Data-data tersebut meliputi line yang digunakan, nomor yang didial, tanggal, jenis panggilan, jam mulai, durasi, jumlah pulsa dan tarif. Database ini dilengkapi dengan fasilitas pencanan data yang fleksibel serta fasilitas untuk mencetak data sesuai dengan kriteria yang inginkan. Selain itu juga terdapat pula database tambahan untuk menyimpan kode SUJ dan SLI yang dilengkapi dengan fasilitas edit dan pencanan data. Perbedaan alat ini dengan alat penghitung pulsa yang digunakan di Wartel terletak pada metode untuk menghitung pulsa. Metode yang digunakan pada alat penghitung pulsa di Wartel adalah dengan menghitung banyaknya sinyal 16KC yang dikirimkan oleh PT Telkom, sehingga perhitungannya menjadi lebih akurat. Sedangkan metode yang digunakan pada alat ini adalah dengan menghitung lamanya pembicaraan berlangsung lalu dibagi dengan periode per pulsa sehingga didapatkan jumlah pulsa yang dipakai. Pada metode ini terdapat error dalam menentukan lamanya pembicaraan yaitu pada saat menentukan awal pembicaraan. Error yang terjadi rata-rata 2,82 detik.",
+  "creators": "SOEHARIEJONO",
+  "contributors": "IRWAN SAHLI (Advisor 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/034/379; Soehariejono (23493038)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; TELEPHONE-AUTOMATIC INTERCEPT SYSTEM; TELEPHONE-EQUIPMENT AND SUPPLIES"
+}

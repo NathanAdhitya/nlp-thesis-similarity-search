@@ -1,0 +1,14 @@
+{
+  "id": "5243",
+  "title": "Expression recognition dengan menggunakan web camera",
+  "abstract": "Dengan semakin meningkatnya ketertarikan dalam hal interaksi antara komputer - manusia untuk menciptakan suatu natural humanistic computer. Dalam keperluan sehari-hari dirasakan semakin penting bagi manusia untuk dapat berkomunikasi dengan komputer dengan cara yang biasa, dengan cara yang biasa seperti halnya kita berinteraksi dengan orang lain dalam kehidupan nyata Karena itu maka dibuatlah program pengenalan ekspresi dengan menggunakan web camera ini. Bahasa pemrograman yang dipakai adalah Microsoft Visual C++ 6.0, Intel Performance Library, dan Open Source Computer Vision Library. Pertama-tama sebelum dilakukan proses pengenalan, wajah orang yang akan dikenali harus ditepatkan terlebih dahulu ke titik-titik fitur pada layar. Baru kemudian pergerakkan titik-titik fitur tersebut akan dilacak pergerakkannya dengan metode Lucas-Kanade Optical Flow. Selanjutnya titik-titik hasil pelacakan untuk setiap macam ekspresi akan disimpan sebagai data base. Titik-titik fitur wajah yang akan dikenali kemudian dibandingkan dengan titik -titik fitur data base untuk dicari yang paling mirip. Untuk mengetahui tingkat keberhasilan pengenalannya pengujian dilakukan dengan menguji tingkat expression rate yang dihasilkan terhadap perbedaan pemilihan posisi dan jumlah titik fitur serta ukuran daerah pelacakan di sekitar titik fitur. Hasil dari seluruh pengujian sistem menghasilkan tingkat expression rate sebesar 86.43 %.",
+  "creators": "RISDIANTO",
+  "contributors": "Resmana Lim (Advisor 1); YOHANES T. D. S (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/620/ELK/2003; Risdianto (23498047)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

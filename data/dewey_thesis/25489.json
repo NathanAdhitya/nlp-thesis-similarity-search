@@ -1,0 +1,14 @@
+{
+  "id": "25489",
+  "title": "Perencanaan dan pembuatan peralatan untuk pengukuran serta pencetakan temperatur maksimum dan minimum dengan mikrokontroller 8031",
+  "abstract": "Umumnya dalam mengukur temperatur dilakukan secara manual, hal ini masih memungkinkan untuk mengukur suhu saat tertentu. Untuk studi mengetahui keadaan cuaca di suatu tempat, akan menyulitkan dalam memperoleh suhu maksimum dan suhu minimum secara tepat dalam 1 hari. Pada tugas akhir ini dibuat suatu alat pencatat suhu maksimum dan suhu minimum secara otomatis dalam sehari, serta dicatat pula waktu terjadinya temperatur tersebut, sehingga tidak perlu terus menerus melakukan pengukuran secara manual untuk mendapatkan suhu maksimum dan minimum tersebut. Data yang diperoleh di simpan dalam RAM, di mana pada RAM tersebut disediakan fasilitas backup. Data temperatur tersebut dapat langsung dicetak ke printer dan dapat pula disimpan ke diskette atau harddisk. Digunakan mikrokontroler 8031 karena mempunyai fasilitas I/O port dan jalur komunikasi serial, di mana jalur serial ini digunakan untuk mengirim data ke komputer dan menyimpan data tersebut pada diskkette atau harddisk. Dilakukan komunikasi secara serial karena dengan komunikasi serial jarak komunikasi dapat lebih jauh serta penggunaan port komunikasi serial RS-232 yang umumnya sudah dimiliki oleh IBM PC-XT/AT. Pada sistem minimum ini juga disediakan jalur untuk pencetakan data ke printer, sehingga untuk mendapatkan pencetakan data temperatur tersebut tidak selalu bergantung pada kompu- ter. Pada pengujian alat pengukur temperatur maksimum dan minimum dilakukan dengan menguji rangkaian pengubah derajat Kelvin ke derajat Celcius, serta rangkaian penguat di mana data yang diperoleh linear. Dengan sensor temperatur LM-335 juga diperoleh hasil yang linear dan presisi. Alat ini dapat digunakan untuk mengukur temperatur dari 0 derajat - 60 derajat C dengan ketelitian 0.25 derajat C.",
+  "creators": "EKO BUDIONO SANTOSO",
+  "contributors": "SUPENO DJANALI (Advisor 1); HERLIANTO TENGGARA (Advisor 2); AGUS MULYANTO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/027/0117; Eko Budiono Santoso (14487010)",
+  "subjects": "INTEL 8031 (MICROPROCESSORS); TEMPERATURE MEASUREMENTS; MICROCONTROLLERS"
+}

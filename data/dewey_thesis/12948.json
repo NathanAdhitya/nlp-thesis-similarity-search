@@ -1,0 +1,14 @@
+{
+  "id": "12948",
+  "title": "Perencanaan dan pembuatan modul LCR meter interface mikrokontroler 8031",
+  "abstract": "Dalam Tugas Akhir ini dibuat suatu modul untuk mengukur besarnya resistor, kapasitor, dan induktor dengan rangkaian pengganti seri maupun paralel yang menjadi satu dalam suatu kotak. Aplikasi pemakaiannya dapat dipakai di laboratorium-laboratorium Elektronika ataupun digunakan untuk perorangan. Modul yang dibuat terdiri dari pembangkit sinyal, pengubah arus ke tegangan, penyearah presisi, detektor penyilang nol. Semua rangkaian inilah yang membentuk suatu modul untuk diinterfacekan ke mikrokontroler 8031, untuk mengukur tiga jenis komponen tersebut di atas. Pengujian menunjukkan bahwa rangkaian yang dibuat dan terhubung ke jaringan itu telah bekerja dengan baik walaupun dalam segi pemakaian dirasa kurang leluasa dan masih banyak terdapat kekurangan, namun secara umum alat ini dapat dikembangkan di masa mendatang.",
+  "creators": "DARMADI SUTRISNO",
+  "contributors": "YOHANES T. D. S (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/009/403; Darmadi Sutrisno (23493039)",
+  "subjects": "INTERFACE CIRCUITS; MICROCONTROLLER 8031"
+}

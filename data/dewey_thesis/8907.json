@@ -1,0 +1,14 @@
+{
+  "id": "8907",
+  "title": "Perancangan dan pembuatan aplikasi sistem pakar dengan metode backward chaining dan association rule analysis untuk penyakit gigi dan mulut",
+  "abstract": "Perkembangan penyakit dan informasi tentang gigi bisa menyulitkan para ahli yang bergerak di bidang kedokteran gigi. Tidak mungkin seorang ahli dapat menyimpan semua permasalahan dan penyelesaian dari masalah gigi yang ada dengan mengandalkan ingatan saja. Jika ada kesalahan diagnosa yang diambil, hal tersebut bisa membahayakan pasien yang berobat. Untuk membantu mengatasi hal tersebut, salah satu caranya adalah dengan pembuatan sistem pakar, karena salah satu tujuan sistem pakar adalah untuk memudahkan kerja para ahli dalam bidangnya. Aplikasi sistem pakar ini menggunakan cara berpikir seorang pakar gigi dalam melakukan diagnosis tehadap suatu penyakit. Aplikasi ini membantu mencari kesimpulan dari penyakit yang diderita beserta pengobatan yang sesuai. Aplikasi ini menganalisa gejala awal, serta gejala-gejala spesifik dari suatu penyakit gigi. Aplikasi ini dibuat menggunakan metode inferensi backward chaining, yaitu proses inferensi yang memulai pencarian dari konklusi untuk mendapatkan premis dan metode Association Rule Analysis untuk mencari kecenderungan penyakit yang timbul berdasarkan riwayat kesehatan pasien. Pembuatan aplikasi sistem pakar ini menggunakan software Borland Delphi 7, dan untuk database-nya menggunakan Microsoft Access 2003. Dengan pengujian yang dilakukan, dapat disimpulkan bahwa aplikasi sistem pakar dengan metode backward chaining ini dapat membantu para ahli gigi dalam menangani masalah gigi yang timbul, dan dapat menjadi pertimbangan dalam melakukan diagnosa.",
+  "creators": "YONATHAN KARUNIA MULIA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010607/INF/2007; Yonathan Karunia Mulia (26402025)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--MEDICAL APPLICATIONS; ARTIFICIAL INTELLIGENCE-COMPUTER PROGRAMS"
+}

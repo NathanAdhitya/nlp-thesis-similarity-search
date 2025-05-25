@@ -1,0 +1,14 @@
+{
+  "id": "60166",
+  "title": "Perancangan dan pembuatan sistem peringatan dini untuk pengemudi kendaraan roda empat yang mengantuk",
+  "abstract": "Perkembangan teknologi telah mendorong inovasi dalam keamanan berkendara, terutama dalam upaya mencegah kecelakaan akibat pengemudi mengantuk. Dalam konteks ini, penelitian ini bertujuan untuk merancang sebuah pendeteksi detak jantung yang dapat digunakan untuk mengidentifikasi tingkat kantuk pada pengemudi. Alat ini dirancang untuk memberikan peringatan dini kepada pengemudi agar dapat mengambil tindakan pencegahan sebelum terjadi kejadian yang tidak diinginkan. Pendekatan utama dalam perancangan alat ini adalah memanfaatkan sensor detak jantung yang non-invasif, yang dapat dengan akurat memonitor variabilitas detak jantung. Sinyal detak jantung kemudian dianalisis menggunakan algoritma khusus untuk mengidentifikasi pola yang terkait dengan kelelahan atau tingkat kantuk. Jika tingkat kantuk mencapai batas tertentu, sistem otomatis mengirimkan peringatan kepada pengemudi melalui perangkat suara atau tampilan visual di dasbor kendaraan. Selain itu, alat ini dirancang untuk memiliki antarmuka yang sederhana dan dapat diintegrasikan dengan sistem keselamatan kendaraan yang sudah ada. Pengujian dilakukan melalui simulasi dan uji lapangan untuk mengevaluasi kinerja alat dalam berbagai kondisi pengemudi dan lingkungan. Hasilnya menunjukkan bahwa alat ini memiliki potensi untuk menjadi solusi efektif dalam mengurangi risiko kecelakaan akibat pengemudi mengantuk, sehingga meningkatkan keselamatan di jalan.",
+  "creators": "MICHAEL ARVIAN TANUSAPUTRA",
+  "contributors": "Joni Dewanto (Advisor 1); Roche Alimin (Advisor 2); Ian Hardianto Siahaan (Examination Committee 1); Ninuk Jonoadji (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011520/MES/2024; Michael Arvian Tanusaputra (C12190010)",
+  "subjects": "AUTOMOBILE DRIVERS--SAFETY APPLIANCES--DESIGN AND CONSTRUCTION; AUTOMOBILES--COLLISION AVOIDANCE SYSTEMS; DRIVER ASSISTANCE SYSTEMS--DESIGN AND CONSTRUCTION"
+}

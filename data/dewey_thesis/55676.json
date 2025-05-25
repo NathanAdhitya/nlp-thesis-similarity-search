@@ -1,0 +1,14 @@
+{
+  "id": "55676",
+  "title": "Prediksi harga saham di Indonesia dengan metode Auto Regressive Integrated Moving Average (ARIMA) multi variate",
+  "abstract": "Pasar modal di Indonesia sudah berkembang, sejak 2021 kenaikan investor di Indonesia mencapai kenaikan sekitar 93% dari tahun sebelumnya. Dikatakan sebanyak 85 sampai 90% investor mengalami kegagalan dalam berinvestasi, kenaikan investor sejak 2021 itu tentu membuat semakin banyak investor mengalami kerugian dalam berinvestasi, baik itu investasi jangka pendek maupun jangka panjang. Harga saham yang berubah-ubah dapat dipengaruhi oleh banyak faktor, faktor-faktor tersebut harus dapat dianalisa oleh investor agar investor dapat mengambil keputusan dengan cermat. Salah satu hal yang dapat mengungguli informasi untuk para investor adalah adanya prediksi atau ramalan. Peramalan adalah teknik memprediksi sesuatu yang akan terjadi di masa yang akan datang. Untuk mempermudah dan menjadikan prediksi lebih tepat maka metode yang dipakai dalam memprediksi adalah Auto regressive integrated Moving Average(ARIMA) Multi Variate. Metode ini baik untuk memprediksi jangka pendek namun kurang baik dalam memprediksi jangka panjang. Aplikasi berbasis web ini dibuat dengan menggunakan Bahasa pemograman python, HTML, dan database MySQL. Pada penelitian skripsi ini pengguna dapat menentukan jarak dari jumlah dataset yang ingin dipakai dan jumlah hari yang ingin diprediksi, selain itu pengguna dapat melihat nilai error perhari dalam bentuk tabel. Diharapkan hasil dari penelitian ini dapat membantu para investor dalam menganalisa harga saham dalam waktu yang panjang, sehingga investor tau kapan harus berinvestasi dan keluar dari investasi suatu perusahaan. Penelitian skripsi ini mendapatkan tingkat ketepatan sebesar 96.9234375% dari 33 perusahaan default yang sudah ada pada list aplikasi.",
+  "creators": "YOSUA RICKY ANGGRAWAN",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022241/INF/2023; Yosua Ricky Anggrawan (C14170142)",
+  "subjects": "APPLICATION SOFTWARE; STOCK PRICE INDEXES; WEB APPLICATIONS"
+}

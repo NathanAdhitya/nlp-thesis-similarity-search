@@ -1,0 +1,14 @@
+{
+  "id": "57209",
+  "title": "Sistem deteksi pose tubuh manusia menggunakan depth camera",
+  "abstract": "Pendeteksian pose tubuh manusia merupakan salah satu cara untuk mengetahui Ketika lansia jatuh. Pendeteksian ini diperlukan kepada lansia yang ingin hidup mandiri. Dengan adanya sistem ini diharapkan lansia bisa hidup mandiri dan keluarga tetap dapat memantau sehingga berani membiarkan lansia hidup mandiri. Sistem yang dibuat pada skripsi ini akan menggunakan Nvidia Jetson Nano sebagai edge computing device. Nvidia Jetson Nano terhubung dengan depth camera Intel RealSense D435 yang digunakan untuk melakukan pendeteksian pose dan posisi. Gambar RGB akan digukan untuk mendeteksi pose dengan algoritma deep learning YOLOv4-tiny. Dan gambar depth akan digunakan untuk menentukan posisi orang dalam ruangan. Selanjutnya sistem ini juga akan mendeteksi pose yang digunakan untuk menjalankan telepresence robot untuk membantu lansia jika mendeteksi pose dilantai. Berdasarkan hasil pengujian, sistem berhasil melakukan pendeteksian pose manusia yang dibagi menjadi 5 jenis pose yaitu berdiri, duduk kursi, duduk lantai, baring kursi, dan baring lantai. Sistem memiliki tingkat keakuratan pendeteksian pose sebesar 92% dan pendeteksian posisi memiliki keakuratan sebesar 93%.",
+  "creators": "ANDREW WIJAYA",
+  "contributors": "Handy Wicaksono (Advisor 1); Indar Sugiarto (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011053/ELK/2023; Andrew Wijaya (C11190010)",
+  "subjects": "ALGORITHMS; DETECTION (ELECTRONICS)"
+}

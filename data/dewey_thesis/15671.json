@@ -1,0 +1,14 @@
+{
+  "id": "15671",
+  "title": "Pembuatan program untuk mencari padanan penulisan Bahasa Jawa dari penulisan latin ke penulisan hanacaraka dalam database paradox",
+  "abstract": "Dewasa ini, pemakaian bahasa jawa mulai tergeser, hal ini disebabkan karena masyarakat jawa sendiri lebih cenderung menggunakan bahasa Indonesia yang dianggap lebih universal. Akibatnya, penggunaan bahasa Jawa dikalangan masyarakat Jawa sendiri mulai pudar, padahal bahasa merupakan satu aset berharga bagi kebudayaan. Sebagai generasi muda yang peduli kepada budaya khususnya budaya Jawa, salah satu bentuk pelestariannya adalah dengan membuat suatu software yang dapat mengkonversi tulisan jawa latin menjadi tulisan Hanacaraka. Selain yang telah disebutkan, membantu masyarakat yang ingin mempelajari sistem penulisan Jawa-Hanacaraka dan dapat dimanfaatkan berbagai kalangan khususnya pendidikan untuk lebih mudah mempelajari penulisan huruf Jawa-Hanacaraka merupakan tujuan dari penelitian ini. Program ini dibuat dengan menggunakan database paradox yang merupakan database standar dari Delphi 5.0. Untuk mencari data yang akan dicari padanannya digunakan metode find to nearest yang merupakan fassilitas dari Borland Delphi 5.0. Metode pencarian ini akan memberikan padanan terdekat apabila yang dicari tidak terdapat dalam database. Data yang disimpan di dalam database adalah kombinasi suku kata hanacaraka dan database kamus. Dalam database kamus disimpan kata jawa, pemecahannya dan arti bahasa Indonesia. Bahasa pemrograman yang digunakan adalah Borland Delphi 5.0 Software yang dibuat telah berhasil merubah penulisan huruf Jawa latin ke penulisan Jawa Hanacaraka dengan hasil tampilan akhir berupa gambar tulisan hanacaraka. Tingkat keberhasilan software ini adalah 100% dengan menggunakan data yang terdapat di dalam database. Hasil ini didapat dari pengujian data sebanyak 100 buah. Tingkat keberhasilan software untuk mencari kata yang akan dirubah bergantung kepada banyak sedikitnya data yang dimasukan di dalam database. Software ini dapat dikembangkan lebih lanjut untuk mengkonversi kalimat bahasa jawa dengan penulisan latin ke penulisan hanacaraka.",
+  "creators": "ENGGARTITO T.NUGROHO",
+  "contributors": "Kartika Gunadi (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/KOM/019/076; Enggartito Tripurbo Nugroho (23495068)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "7883",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pembelian dan penjualan untuk cabang dan pusat pada CV Kartika Kencana Multimedia",
+  "abstract": "CV Kartika Kencana Multimedia adalah sebuah toko yang bergerak dalam usaha dagang perlengkapan komputer. Sistem pembelian, penjualan dan akuntansi yang ada saat ini masih dilakukan secara manual. Agar lebih efisien dan terkontrol dibutuhkan suatu sistem baru yang terkomputerisasi dan terintegrasi antara pusat dan cabang yang dimiliki, agar dapat menghasilkan informasi secara tepat dan akurat. Untuk perancangan desain sistem yang baru menggunakan System Flowchart dan untuk menggambarkan aliran datanya menggunakan Data Flow Diagram. Sedangkan untuk membuat desain struktur tabel dan relasi antar tabel menggunakan Entity Relationship Diagram. Database dibuat dengan menggunakan SQL Server 2000. Aplikasi dibuat dan dikembangkan dengan menggunakan bahasa pemrograman Borland Delphi 7.0. Program yang dibuat meliputi sistem pembelian, sistem penjualan (pusat dan cabang), dan akuntansi. Dari hasil pengujian terhadap program, menunjukkan bahwa program ini dapat memproses data akuntansi yang berhubungan dengan transaksi pembelian dan transaksi penjualan secara otomatis. Program ini juga menghasilkan informasi berupa laporan manajerial (laporan pembelian, penjualan, retur, hutang dan piutang ) dan laporan keuangan (laba rugi usaha, laba rugi per cabang, ekuitas pemilik dan neraca) yang akurat. Pengujian yang telah dilakukan terhadap pemilik dan bagian keuangan menunjukkan, interface dan program sebesar 83,33% dan untuk hasil perhitungan akuntansi sebesar 100%.",
+  "creators": "MARTINUS HANDOKO",
+  "contributors": "Yulia (Advisor 1); Sri Maharsi (Advisor 2); Oviliani Yenty Yuliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010612/INF/2007; Martinus Handoko (26403098)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "9176",
+  "title": "Pemodelan bump mapping pada permukaan obyek quadric",
+  "abstract": "Dalam perkembangan dunia komputer grafis yang berkembang pesat saat ini, banyak ditemui aplikasi-aplikasi yang bergerak dalam pencitraan digital, terutama aplikasi yang berhubungan dengan Ray Tracing. Banyak usaha yang telah dilakukan untuk membuat agar proses pencitraan digital dapat menghasilkan gambar yang semakin menyerupai dengan keadaan aslinya tanpa memerlukan proses perhitungan yang cukup berat. Salah satu usaha tersebut melahirkan algoritma Bump Mapping. Tujuan dari tugas akhir ini adalah pembuatan sebuah aplikasi yang dapat memodelkan bump mapping dengan menggunakan algoritma Ray Tracing terhadap beberapa obyek tertentu. Pembuatan program menggunakan Borland Delphi 7, dan proses untuk menampilkan gambar contoh menggunakan bantuan OpenGL. Dalam menciptakan hasil akhir, dipilih algoritma Ray Tracing sebagai sarana rendering untuk menampilkan efek Bump Mapping pada obyek. Hasil pengujian sistem menunjukkan bahwa Bump Mapping dapat berjalan dengan baik, karena memberikan hasil yang mirip dengan hasil dari pencitraan digital dengan Bump Mapping yang telah coba dikembangkan oleh orang lain. Hasil pengujian menunjukkan bahwa Bump Mapping dapat diterapkan pada obyek plane maupun obyek Quadric, dengan beberapa catatan. Hasil pengujian juga menunjukkan bahwa Bump Mapping pun dapat digabung dengan Texture Mapping, dan hal ini tentu semakin mendekatkan dengan usaha untuk menciptakan sebuah gambar yang menyerupai keadaan aslinya.",
+  "creators": "MARTIN DHARMA KUSUMA TJ",
+  "contributors": "Kartika Gunadi (Advisor 1); Liliana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000493/INF/2006; Martin Dharma Kusuma Tjandra (26401122)",
+  "subjects": "COMPUTER GRAPHICS; COMPUTER ANIMATION; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

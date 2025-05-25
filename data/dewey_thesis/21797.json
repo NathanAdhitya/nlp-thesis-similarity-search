@@ -1,0 +1,14 @@
+{
+  "id": "21797",
+  "title": "Auto load shedding load bank 2,25 KW, 3 phasa, 220/380 V, 50 Hz, 3 step dengan menggunakan microcontroller 8031 untuk diesel generator 3 KVA",
+  "abstract": "Dalam teknik tegangan tinggi, keefisiensian dan kelangsungan dari jalannya diesel generator merupakan bagian yang amat penting; antara lain untuk mengatasi gangguan short circuit, open circuit dan juga untuk mengatasi beban yang dapat turun secara drastis / underload. Load bank merupakan alat power proving equipment yang sangat penting, dimana load bank digunakan untuk menjaga keefisiensian dan kelangsungan dari jalannya motor diesel pada saat underload, yaitu sebesar 70 % dari besarnya daya generator 3 KVA. Disini akan direncanakan pembuatan alat automatic load bank dengan daya 2250 W yang terbagi dalam 3 step dengan tegangan kerja 220/380 V yang dikontrol dengan menggunakan microcontroller 8031. Dari hasil pengujian alat diperoleh bahwa person rata - rata beban nominal adalah sebesar 86,93 % dan pembagian step dari dununy load adalah berdasarkan pada kenaikan beban / load. Untuk beban 3 0 antara 0 W sampai 150 W, maka dummy load menjalankan 3 step, beban 3 0 antara 151 W sampai 900 W, maka dummy load menjalankan 2 step, beban 3 antara 901 W sampai 1650 W, maka dummy load menjalankan 1 step, beban 3 0 antara 1651 W sampai 2400 W, maka dummy load tidak bekerja.",
+  "creators": "HADI SUROSO DARSONO",
+  "contributors": "Limboto Limantara (Advisor 1); BUNAWI GUNAWIDJAJA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/TST/036/273; Hadi Suroso Darsono (23493054)",
+  "subjects": "DIESEL MOTOR; ELECTRIC GENERATORS; MICROCONTROLLERS 8031"
+}

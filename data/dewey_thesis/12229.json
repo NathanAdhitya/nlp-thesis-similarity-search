@@ -1,0 +1,14 @@
+{
+  "id": "12229",
+  "title": "Perancangan dan pembuatan online pdf viewer",
+  "abstract": "Program Adobe Document Server yang digunakan Perpustakaan Universitas Kristen Petra sudah lama dihentikan pengembangan dan pemasarannya. Masalahnya adalah sampai saat ini tidak ada program serupa sebagai penggantinya. Yang tersedia hanyalah library untuk mengubah dari file PDF menjadi file image. Pada tugas akhir ini diusulkan untuk membuat Online PDF Viewer dengan memanfaatkan library tersebut. Viewer ini juga disertai link extractor agar link yang ada pada file PDF aslinya tetap dapat berfungsi. Selain itu untuk menyeimbangkan kinerja server dan media penyimpan, dibuatlah fitur caching dan cache management. Berdasarkan hasil pengujian, Online PDF Viewer ini dapat mengkonversi halaman PDF menjadi image, mengenali dan mengekstrak link annotations, dan menampilkannya. Maka Online PDF Viewer ini dapat digunakan untuk menggantikan fungsi Adobe Document Server.",
+  "creators": "ANDREAS KURNIADI SANTOSO",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Silvia Rostianingsih (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01020804/INF/2009; Andreas Kurniadi Santoso (26404016)",
+  "subjects": "WEB SITES-DESIGN; WEB SITES; ONLINE PDF VIEWER; WEB SITES-AUTHORING PROGRAMS"
+}

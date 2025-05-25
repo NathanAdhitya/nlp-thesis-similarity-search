@@ -1,0 +1,14 @@
+{
+  "id": "1691",
+  "title": "Parametric equalizer 3 channel center frekuensi",
+  "abstract": "Audio merupakan bagian yang tidak terpisahkan di dunia entertainment saat ini. Equalizer sebagai salah satu perangkat yang sangat menunjang untuk menghasilkan suara yang lebih berkualitas dalam suatu penge -set-an audio. Equalizer yang umum digunakan saat ini adalah equalizer grafis yang hanya bisa digunakan untuk merubah gain pada frekuensi center tertentu yang telah ditetapkan. Maka timbul ide untuk merancang sebuah equalizer yang bisa merubah gain sekaligus menggeser frekuensi centernya yaitu parametric equalizer. Rangkaian parametric equalizer ini merupakan jenis filter aktif dengan menggunakan op-amp, dimana frekuensi respon yang dihasilkan adalah berupa band-pass filte r. Alat ini dirancang dengan menggunakan state variable filter, yang dapat digunakan untuk merubah gain pada range ? 15dB, menggeser frekuensi center dan bandwidth -nya pada range antara 50 Hz sampai dengan 10 kHz yang perubahannya dapat dilakukan secara independent. Pada pengujian dengan oscilloscope didapatkan grafik dari pergeseran gain yaitu pada range ? 15 dB. Sedangkan untuk frekuensi center dan bandwidth dapat digeser antara 50 Hz sampai dengan 10 kHz. Tetapi pada uji dengar masih muncul noise, walaupun perubahan suara sudah nampak.",
+  "creators": "LUKAS DEDDY WIGUNO",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Advisor 1); Handry Khoswanto (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/655/ELK/2003; Lukas Deddy Wiguno (23499102)",
+  "subjects": "EQUALIZERS (ELECTRONICS); FREQUENCY CHANGERS-DESIGN AND CONSTRUCTION"
+}

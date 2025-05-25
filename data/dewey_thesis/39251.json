@@ -1,0 +1,14 @@
+{
+  "id": "39251",
+  "title": "Pembuatan game dengan menerapkan metode decision tree : UCB1, untuk menentukan pemilihan strategy dalam AI",
+  "abstract": "Perkembangan teknologi telah digunakan dalam berbagai macam aspek kehidupan manusia. Salah satu aspek yang mengalami perkembangan pesat dalam teknologi yaitu dalam dunia video game. Semakin Banyak metode-metode AI yang dapat diimplementasikan kedalam suatu Game. Tidak semua metode AI tersebut dapat berjalan sendiri tanpa bantuan metode – metode AI lain. Sehiungga banyak developer yang menggabungkan beberapa metode menjadi satu untuk membuat hasil yang maksimal. Bahkan tidak sedikit para developer game membuat sendiri jenis metode AI pendukung yang mereka pakai . Semakin pesatnya pertumbuhan teknologi AI di dunia membuat banyak metode AI baru yang belum pernah di aplikasikan untuk metode utama. Sehingga pengembangan metode AI tersebut tidak secepat metode-metode yang sudah lama ada. Oleh karena itu tujuan dari penelitian ini adalah untuk membuat suatu metode AI pendukung menjadi metode utama untuk digunakan dalam suatu aplikasi, salah satunya adalah metode UCB1. Pada awalnya metode UCB1 hanya dipakai untuk metode pendukung dari Decision Tree, dikarenakan rumus perhitungan yang dipakai di metode UCB1 sangat simple dan mudah dipakai, sehingga dijadikan metode pendukung. Dikarenakan seiring bertambahnya teknologi dalam dunia game, penelitian ini akan menggunakan metode AI pendukung, yaitu UCB1 untuk diaplikasikan kepada suatu game.UCB1 akan digunakan untuk perpindahan level enemy yang dapat beradaptasi terhadap player. Sehingga AI dapat mengimbangi permainan dari player. UCB1 bekerja dengan cara mengkomparasi hasil perhitungan beberapa state. Perhitungan tersebut juga berasal dari data history atau data hasil permainan sebelumnya untuk dijadikan patokan pemilihan keputusan ke depannya. Pengujian akan dilakukan dengan menerapkan metode UCB1 kedalam perpindahan level enemy dengan tambahan beberapa rule. Penambahan rule membuat perpindahan dari level tersebut lebih fleksibel dan lebih cepat. Hasil Pengujian menunjukkan bahwa UCB1 dapat bekerja dengan cukup baik bila diterapkan ke dalam perpindahan level kesusahan dari enemy. UCB1 dapat membuat level dari enemy berpindah sesuai dengan tingkat kesulitan dari player.",
+  "creators": "ERICK SANTOSO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Rolly Intan (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021309/INF/2014; Erick Santoso (26412071)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUE; FUZZY SETS; ARTIFICIAL INTELLIGENCE"
+}

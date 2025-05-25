@@ -1,0 +1,14 @@
+{
+  "id": "2649",
+  "title": "Pengoptimalan rute & jadwal rutin kendaraan di PT Gunung Arta Manunggal",
+  "abstract": "Dalam tugas akhir ini membahas permasalahan penyusunan rute dan penjadwalan pengiriman rutin galon CERIA di PT Gunung Arta Manunggal, yang merupakan suatu perusahaan yang memproduksi Air Minum Dalam Kemasan (AMDK). PT Gunung Arta Manunggal harus mendistribusikan produk-produknya hingga sampai ke konsumennya dalam jumlah yang tepat pada waktu yang dibutuhkan, dalam keadaan yang dapat dipakai, ke lokasi di mana barang tersebut dibutuhkan, dan dengan total biaya terendah. Penyusunan rute dan penjadwalan kendaraan yang baik adalah dapat meminimalkan total jarak tempuh kendaraan yang digunakan, sehingga menyebabkan jumlah total biaya transportasi akan berkurang. Penelitian ini dititikberatkan pada perancangan rute dan jadwal usulan secara rutin per harinya selama satu minggu pada PT Gunung Arta Manunggal. Dalam sistem ini, konsumen galon CERIA mempunyai rata-rata jumlah permintaan (demand) yang harus dipenuhi setiap minggunya. Demand ini kemudian diolah lebih lanjut sehingga barang-barang pesanan tersebut akan dikirimkan. Metode yang digunakan untuk menyelesaikan permasalahan penyusunan rute dan penjadwalan kendaraan (Vehicle Routing and Scheduling Problem) adalah metode penghematan Clarke-Wright (Clarke-Wright Savings Method). Hasil dari penyelesaian masalah ini adalah tersusunnya rencana rute dan jadwal yang harus dilalui kendaraan yang akan mengirimkan pesanan ke masing-masing konsumennya dalam satu hari selama satu minggu. Dengan menggunakan rute dan jadwal usulan yang merupakan hasil dari metode penghematan didapatkan bahwa total jarak tempuh kendaraan menjadi 27,42 % lebih pendek, utilitas kendaraan menjadi 5,33 % lebih banyak dan jumlah pemakaian kendaraan berkurang sebesar 9,52 % daripada dengan menggunakan rute dan jadwal awal yang digunakan PT Gunung Arta Manunggal, untuk utilitas Hasil perbandingan tersebut telah diuji signifikasi dengan menggunakan a sebesar 10% dan didapatkan bahwa hasil tersebut signifikan.",
+  "creators": "LIESTYA PADMAWIDJAJA",
+  "contributors": "Zeplin Jiwa Husada Tarigan (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01040939/IND/2005; Liestya Padmawidjaja (25401033)",
+  "subjects": "SCHEDULING; PRODUCTION MANAGEMENT"
+}

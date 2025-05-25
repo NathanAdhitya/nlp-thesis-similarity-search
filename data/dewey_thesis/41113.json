@@ -1,0 +1,14 @@
+{
+  "id": "41113",
+  "title": "SAP business object to infor BI on M&R Cube",
+  "abstract": "This Graduation Internship project is supported by TIP Trailer Services. TIP Trailer Services provides transportation and logistics customers with leasing, rental, maintenance and repair and other value-added solutions. The assignment is initiated by the Business Intelligence (BI) Department. The BI Department has a responsibility on providing the operational reports for other departments and analysts. Operational reports are reports which being produced periodically regarding its business for the analysis purposes. Currently, The BI department is using SAP Business Object and TIP Libraries to produce and distribute the operational reports. The steps of delivering report are refresh a particular report in the SAP Business Object, download the files and make a summary, upload the files in TIP Libraries, then send an email contains of the summary and link to TIP Libraries to whomever it may concern. After years doing these steps, BI Department starts to consider on how to streamline the process of producing reports. BI department found INFOR BI. INFOR BI is not only capable of making reports and dashboards but also no need to archive the reports because of INFOR BI is connected directly with the database. Thus, TIP Trailer Services wants to move all their operational reports from SAP Business Object to INFOR BI. Currently, there are 50% of the whole operational reports can be produced from INFOR BI. In order to build the operational reports in the INFOR BI, all the data regarding the operational reports need to be stored in the Cube. Cube is a term used by INFOR BI to explain the multidimensional connection between tables in the database. The assignment of this graduation internship project is to make a data model for one cube, the M&R Cube. There are three steps need to be done for building the data model. First, a research is needed to find the suitable data model for building the cube. Second, analyzing and understanding the data in the old reports and determining what are the data needed in the future reports. Afterwards, with the research’s result and data requirements, the data model for M&R Cube will be built.",
+  "creators": "EILEEN FRANSISCA ABADI",
+  "contributors": "ALEKSANDAR TERZIEV (Advisor 1); ANTOINETTE LITTLE (Advisor 2); M.G.J. FRANSSEN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Undergraduate Thesis No. 02021728/INF/2017; Eileen Fransisca Abadi (26413073)",
+  "subjects": "BUSINESS INTELLIGENCE-COMPUTER PROGRAMS"
+}

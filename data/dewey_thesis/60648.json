@@ -1,0 +1,14 @@
+{
+  "id": "60648",
+  "title": "Aplikasi administrasi dan prediksi harga emas menggunakan metode moving average untuk Toko Emas XYZ",
+  "abstract": "Penelitian ini berfokus pada pembuatan aplikasi administrasi dan prediksi harga emas menggunakan metode Moving Average untuk Toko Emas XYZ. Aplikasi ini dirancang untuk membantu pihak toko dalam memanajemen data administrasi toko, mengelola stok emas, dan memprediksi harga emas di masa depan dengan mengimplementasikan metode Simple Moving Average (SMA) berdasarkan data historis harga emas. Pengembangan aplikasi menggunakan framework Laravel untuk versi web dan Flutter untuk versi mobile. Database yang digunakan adalah database MySQL. Implementasi sistem ini diharapkan dapat meningkatkan efisiensi operasional toko dan memudahkan pihak toko dalam memenuhi kebutuhan pelanggan. Pengujian aplikasi menunjukkan bahwa sistem ini terbukti efektif dalam memenuhi kebutuhan toko dan pelanggan. Pengujian aplikasi dilakukan dengan menggunakan metode User Experience Questionnaire (UEQ) untuk aplikasi versi mobile dan pemilik toko juga sudah melakukan uji coba terhadap aplikasi yang buat, baik aplikasi versi website maupun mobile. Implementasi metode simple moving average dalam memprediksi harga emas juga diukur tingkat akurasinya dengan menghitung error pada setiap data prediksi harga dengan menggunakan pendekatan metode Mean Absolute Percentage Error (MAPE) dan hasilnya adalah nilai MAPE tidak lebih dari 10%. Hal ini menandakan bahwa metode simple moving average memiliki tingkat akurasi yang sangat tinggi (baik) dalam memprediksi harga emas.",
+  "creators": "KWAN, DAVIN KANELSON",
+  "contributors": "Alexander Setiawan (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022536/INF/2024; Kwan, Davin Kanelson (C14190166)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; COMPUTER PROGRAMMING; GOLD PRICE"
+}

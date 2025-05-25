@@ -1,0 +1,14 @@
+{
+  "id": "11704",
+  "title": "Perancangan dan pembuatan aplikasi spectrum analyzer untuk menganalisa loudspeaker",
+  "abstract": "Pada Tugas Akhir ini, penulis mengimplementasikan suatu aplikasi Spectrum Analayzer yang digunakan untuk meneliti responsi frekuensi dari Loudspeaker. Aplikasi ini dimulai dengan pembuatan fungsi Fast Fourier Transform yang menghitung nilai amplitude dari sebuah file wave. Kemudian pembuatan proses equalizer dan normalisasi untuk mengatur nilai amplitude tertinggi dari tiap-tiap spektrum agar lebih mudah diteliti. Aplikasi Spectrum Analyzer ini dibuat dengan menggunakan bahasa pemrograman Borland Delphi 7. Dari hasil pengujian dan perbandingan aplikasi Spectrum Analyzer pada C.V Sinar Badja Abadi dapat diambil kesimpulan bahwa mikrofon yang sederhana dapat dijadikan sensor pengganti yang ekonomis, meskipun ada beberapa tingkat frekuensi yang tidak dapat di terima secara optimal.",
+  "creators": "RONY SULISTIO",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Resmana Lim (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01020777/INF/2009; Rony Sulistio (26401185)",
+  "subjects": "SIGNAL PROCESSING-DIGITAL TECHNIQUES; LOUDSPEAKERS"
+}

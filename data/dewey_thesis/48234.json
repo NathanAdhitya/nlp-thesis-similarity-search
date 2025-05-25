@@ -1,0 +1,14 @@
+{
+  "id": "48234",
+  "title": "Perbandingan kinerja metode artificial intelligence dalam memprediksi kuat tekan beton",
+  "abstract": "Beton merupakan material utama dalam bidang konstruksi. Sebagai material utama, kuat tekan sebuah beton menjadi persyaratan yang harus dipenuhi agar bangunan yang dibuat tetap aman. Tetapi, dalam mengetahui kuat tekan beton itu diperlukan waktu tunggu yang cukup lama hingga 28 hari. Maka dari itu, prediksi mutu beton adalah hal yang diperlukan untuk mengetahui kuat tekan beton tersebut lebih awal dan untuk menghemat waktu dan biaya. Dewasa ini, prediksi mutu beton sudah dapat dilakukan dengan bantuan artificial intelligence (AI) untuk memecahkan permasalahan yang ada. Namun, metode prediksi manakah yang tepat digunakan untuk memprediksi kuat tekan beton masih menjadi pertanyaan. Maka, pada penelitian ini dilakukan evaluasi mengenai pemodelan metode prediksi yang paling akurat untuk memprediksi berbagai macam campuran beton. Metode AI yang digunakan pada penelitian kali ini adalah artificial neural network (ANN), support vector machine (SVM), classification and regression tree (CART). Selain itu, digunakan 1 metode tradisional, yaitu linear regression (LR). Selanjutnya, keempat metode ini dijalankan dengan beberapa parameter dan dilakukan pengujian untuk 4 macam data beton yang berbeda. Empat indikator error dan satu indikator normalisasi digunakan untuk mengevaluasi dan menentukan metode prediksi yang paling bagus. Dari hasil penelitian yang telah dilakukan, ANN memiliki performa yang paling bagus bila dibandingkan dengan 3 metode prediksi lainnya. Hal ini dapat dilihat dari nilai error ANN yang lebih kecil bila dibandingkan dengan ketiga metode prediksi lainnya.",
+  "creators": "Nico Christiono",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Djwantoro Hardjito (Examination Committee 1); Daniel Tjandra (Examination Committee 3); Wong Foek Tjong, S.T., M.T., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000282/MTS/2020; Nico Christiono (B21190003)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; CONCRETE--TESTING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4591",
+  "title": "Emulasi aplikasi mobile untuk distribusi file memanfaatkan TCP/IP",
+  "abstract": "Semakin berkembangnya jaman berarti semakin maju pula peradaban dan cara-cara konvensional semakin ditinggalkan. Dengan teknologi di genggaman kita, jarak dan waktu sudah tidak menjadi masalah. Konsep tugas akhir ini adalah client melakukan koneksi menggunakan protokol TCP/IP untuk mengambil file yang berisi data teks dari server. Client didesain menggunakan telepon genggam dengan aplikasi bahasa pemrograman J2ME. Sedangkan server menggunakan komputer dengan aplikasi bahasa pemrograman J2SE. Untuk koneksi tersebut pihak client harus menggunakan fasilitas GPRS agar dapat terhubung dengan internet. Pengujian telah dilakukan pada emulator. Client telah dapat terhubung dengan server dan menerima data, namun masih belum dapat memproses dengan sempurna data yang diterima sehingga diperlukan pengembangan lebih lanjut.",
+  "creators": "EDWIN KRISTIANTO",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 03010043/ELK/2006; Edwin Kristianto (23400077)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

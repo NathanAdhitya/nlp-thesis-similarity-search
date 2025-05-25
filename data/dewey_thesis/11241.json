@@ -1,0 +1,14 @@
+{
+  "id": "11241",
+  "title": "Perencanaan dan pembuatan sistem mikrokomputer 16 bit dengan menggunakan mikroprosessor 8086 untuk keperluan laboratorium mikroprosessor",
+  "abstract": "Dewasa ini perkembangan industri yang memakai teknologi mikroprosessor terasa begitu pesat sekali. sehingga untuk membantu mahasiswa khususnya mahaslswa teknik elektro agar dapat mengenal dan memahami lebih mendalam mengenal mikroprosessor maka diperlukan suatu alat untuk mempraktekkannya. Oleh karena itu dibuatlah suatu alat atau minimum sistem dengan menggunakan mikroprosessor INTEL 8086 yang dapat dipakai untuk praktikum di laboratorium mikroprosessor. Alat ini dapat menjalankan program dalam bahasa assembly dengan fasilitas single step dan breakpoint sehingga dapat dipakai untuk melacak kesalahan dalam pembuatan program yang sangat panjang. Memori yang digunakan ada dua macam yaitu EPROM tipe 2764 dan RAM tlpe 6264 masing-masing dengan kapasitas 8 Kbyte, EPROM ini berisi program semacam operating sistem yang berhubungan dengan pemakai, sedangkan RAM digunakan oleh operating sistem dan sebagian lagi dapat diprogram oleh pemakai sebagai data. Di samping memori, sistem Ini juga mempunyai perangkat Input/output dengan menggunakan Programmable Peripheral Interface (PPI) 8255 yang dlpakai untuk menerima input dari keyboard dan dipakai untuk display seven segment. Keyboard ini digunakan untuk memasukkan data atau program yang bertujuan untuk melihat dan mengubah isi dari memori maupun register. Selain itu alat ini dapat dihubungkan secara serial dengan IBM PC untuk menyimpan program yang telah dlbuat, dengan menggunakan Universal Synchronous Asynchronous Receiver Transmitter (USART) 8251.",
+  "creators": "SOEGIHONO WIBOWO",
+  "contributors": "HANDAYANI T. (Advisor 1); DWI SUTANTO (Advisor 2); Heru Dwi Waluyanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/022/0112; Soegihono Wibowo (14486034)",
+  "subjects": "INTEL 8086 (MICROPROCESSOR); MICROPROCESSORS"
+}

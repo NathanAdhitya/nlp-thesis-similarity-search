@@ -1,0 +1,14 @@
+{
+  "id": "57277",
+  "title": "Pengenalan aktivitas manusia menggunakan motion vector dan CNN-LSTM",
+  "abstract": "Rekognisi aktivitas manusia adalah daerah penelitian yang akhir-akhir ini memiliki daya tarik yang besar karena potensi kegunaannya di berbagai domain seperti keamanan, kesehatan, dan olahraga. Sudah ada beberapa penelitian sebelumnya pada bidang pengenalan aktivitas manusia, tetapi metode-metode yang ada bergantung dengan sensor tambahan seperti wearables dan depth sensor, sedangkan manusia dapat mengenali aktivitas manusia hanya dengan penglihatan. Pada penelitian ini metode yang digunakan memanfaatkan data motion vector yang merupakan hasil dari motion compensation oleh algoritma kompresi video H.264 yang sangat umum dipakai untuk transmisi dan penyimpanan media video. Lalu data motion vector ini akan disegmentasi oleh mask yang dihasilkan metode YOLOv7 Mask, dan sejumlah frame diinputkan ke dalam model berbasis CNN - LSTM. Dengan menggunakan motion vector dan model berbasis CNN - LSTM, metode ini dapat mengenal 20 aktifitas manusia campuran satu dan dua manusia dari dataset NTU - RGB+D 120 dengan skor F1 0.93 dan dengan akurasi 0.91 dengan kecepatan 87.4 FPS. Metode ini mengalahkan metode optical flow yang dengan menggunakan bentuk model yang sama hanya mencapai skor F1 0.88 dan akurasi 0.85 dan memiliki kecepatan lambat sebesar 6.8 FPS. Rekognisi Aktivitas Manusia dapat dilakukan dengan hanya menggunakan kamera tanpa sensor tambahan dengan cukup baik dan dengan kecepatan realtime dengan menggunakan motion vector dan model berbasis CNN - LSTM.",
+  "creators": "NICHOLAS SEBASTIAN VERON",
+  "contributors": "Liliana (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Kartika Gunadi (Examination Committee 1); Justinus Andjarwirawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022313/INF/2023; Nicholas Sebastian Veron (C14190034)",
+  "subjects": "ARTIFICIAL NEURAL NETWORKS; NEURAL NETWORKS (COMPUTER SCIENCE); ARTIFICIAL INTELLIGENCE--COMPUTER PROGRAMS"
+}

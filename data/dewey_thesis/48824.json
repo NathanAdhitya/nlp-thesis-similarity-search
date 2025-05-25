@@ -1,0 +1,14 @@
+{
+  "id": "48824",
+  "title": "Analisis strategi breakout dalam pengambilan keputusan order pada trading Forex",
+  "abstract": "Melakukan kegiatan trading pada forex dengan strategi merupakan suatu upaya yang dilakukan trader supaya trading bisa lebih menghasilkan keuntungan salah satunya menggunakan strategi breakout dan tidak terlepas dari penentuan range pada strategi ini. Namun, dalam melakukan trading menggunakan strategi breakout terkadang masih ada trader yang kurang tepat dalam menentukan range. Hal tersebut dapat menyebabkan trader mengalami kehilangan profit. Oleh karena itu, perlu dibentuk suatu program expert advisor yang mampu membantu trader mengambil keputusan dalam menentukan range. Mekanisme program expert advisor yang dibuat yaitu menentukan range acuan awal dahulu untuk menjadi besaran range yang akan digunakan trading menggunakan strategi breakout. Range acuan awal tersebut kemudian di copy hingga harga tertinggi dan terendah dalam sejarah. Program kemudian diujikan melalui backtesting. Hasil pengujian yang dilakukan pada pair EUR/USD, GBP/USD, dan USD/JPY selam 3 tahun dapat menghasilkan profit dari diperoleh 4 range acuan awal dalam berbagai kondisi pergerakan harga. Dari ketiga range tiap pair pada time frame H1 range paling profit yaitu range 107 pip pada pair EUR/USD dengan profit sebesar 2528.64, range 100 pip pada pair GBP/USD dengan profit sebesar 2628.31, range 74 pip pada pair USD/JPY dengan profit sebesar 1691.47. Pada time frame H4 range paling profit yaitu range 90 pip pada pair EUR/USD dengan profit sebesar 2093.06, range 99 pip pada pair GBP/USD dengan profit sebesar 2429.07, range 100 pip pada pair USD/JPY dengan profit sebesar 1279.94.",
+  "creators": "VINCENTIUS BINTANG FEBRIANTO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022024/INF/2021; Vincentius Bintang Febrianto (26416030)",
+  "subjects": "EXPERT SYSTEMS (COMPUTER SCIENCE)"
+}

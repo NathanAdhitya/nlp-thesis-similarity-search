@@ -1,0 +1,14 @@
+{
+  "id": "1509",
+  "title": "Pelacakan dan pengenalan wajah menggunakan metode embedded hidden markov models",
+  "abstract": "Pelacakan dan pengenalan wajah manusia merupakan salah satu bidang yang cukup berkembang dewasa ini, dimana aplikasi dapat diterapkan dalam bidang keamanan (security system) seperti ijin akses masuk ruangan, pengawasan lokasi (surveillance), maupun pencarian identitas individu pada database kepolisian. Karena diterapkan dalam kasus keamanan, dibutuhkan sistem yang handal terhadap beberapa kondisi, seperti: pengaruh latar belakang, pose wajah non-frontal terhadap pria maupun wanita dalam perbedaan usia dan ras. Tujuan tugas akhir ini adalah untuk membuat perangkat lunak yang menggabungkan sistem pelacakan wajah manusia dengan menggunakan algoritma CamShift dan sistem pengenalan wajah dengan menggunakan algoritma Embedded Hidden Markov Models. Sebagai input sistem digunakan video kamera (webcam) untuk input bersifat real-time, video AVI untuk input bersifat dinamis, dan file image untuk input statis. Pemrograman perangkat lunak menggunakan prinsip pemrograman berorientasi objek (OOP) dengan menggunakan bahasa pemrograman C++, kompiler Microsoft Visual C++ 6.0?, dan dibantu dengan library dari Intel Image Processing Library (IPL) dan Intel Open Source Computer Vision (OpenCV). Hasil pengujian sistem menunjukkan bahwa pelacakan berdasarkan warna kulit manusia dengan menggunakan algoritma CamShift cukup baik, dalam melakukan pelacakan terhadap satu maupun dua objek wajah sekaligus. Sistem pengenalan wajah manusia menggunakan metode Embedded Hidden Markov Models mencapai tingkat akurasi pengenalan sebesar 82.76%, dengan database citra wajah sebanyak 341 citra yang terdiri dari 31 individu dengan 11 pose, dan jumlah citra penguji sebanyak 29 citra wajah.",
+  "creators": "ARIE WIRAWAN MARGONO",
+  "contributors": "Resmana Lim (Advisor 1); Ibnu Gunawan (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0089/INF/2003; Arie Wirawan Margono (26499143)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES; PATTERN RECOGNITION SYSTEMS"
+}

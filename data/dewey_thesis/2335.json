@@ -1,0 +1,14 @@
+{
+  "id": "2335",
+  "title": "Studi harmonisa tegangan dan arus di Gedung A Universitas Kristen Petra",
+  "abstract": "Gedung A Universitas Kristen Petra adalah gedung perkuliahan jurusan Manajemen Perhotelan yang memiliki laboratorium dengan berbagai macam peralatan listrik yang ada di dalamnya. Kualitas tegangan dan arus sangat penting dibutuhkan agar setiap peralatan memiliki life time yang panjang. Pengukuran harmonisa tegangan dan arus di gedung A Universitas Kristen Petra menggunakan Fluke 41B dan ETAP Power Station versi 4.0.0C tidak menunjukkan adanya perbedaan yang berarti. Dengan ETAP Power Station versi 4.0. mampu melakukan berbagai jenis pengukuran dan melakukan perencanaan pengembangan jaringan listrik dengan baik. Peralatan-peralatan seperti inverter, konverter, rectifier, UPS, driver motor, lampu fluorescent dan lain-lain yang termasuk dalam beban nonlinier adalah penyebab utama hadirnya harmonisa tegangan dan arus. Harmonisa sendiri berarti sebuah komponen sinusoidal dari gelombang periodik yang memiliki frekuensi kelipatan dari frekuensi dasarnya. Karena harmonisa tegangan dan arus pada gedung A Universitas Kristen Petra Surabaya tidak melebihi batasan harmonisa maksimum yaitu jika menggunakan Fluke 41B pada PAC.l maka VTHD = 1.08% dan ITHD = 6.01%, sedangkan pada PU dengan VTHD = 1.41% dan ITHD = 5.85 % . Dan jika menggunakan ETAP Power Station versi 4.0.0C pada PAC.l maka VTHD = 0.14% dan ITHD - 0.4%, sedangkan pada PU dengan VTHD = 0.14% dan ITHD = 0.48% Dimana harga THD baik pada PAC.l dan PU masih memenuhi standar. Maka dapat disimpulkan kualitas tegangan dan arus pada gedung A Universitas Kristen Petra Surabaya sudah baik.",
+  "creators": "SANTO BUDI PERMADI",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Limboto Limantara (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 01010489/ELK/2004; Santo Budi Permadi (23499070)",
+  "subjects": "ELECTRIC POWER DISTRIBUTION; HARMONIC ANALYZERS; ELECTRIC POWER SYSTEMS"
+}

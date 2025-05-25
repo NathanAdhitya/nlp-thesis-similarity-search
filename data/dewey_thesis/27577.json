@@ -1,0 +1,14 @@
+{
+  "id": "27577",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada Toko Lukman di Pasrepan",
+  "abstract": "Toko Lukman adalah sebuah perusahaan yang bergerak di bidang penjualan dan pembelian kebutuhan sehari-hari yang kegiatan sehari-harinya adalah meliputi pembelian dan penjualan barang dagangan. Selama itu, Toko Lukman masih menggunakan cara manual untuk menghasilkan laporan keuangan dan jurnal yang diperlukan. Semua transaksi dicatat pada akhir jam kerja tiap harinya sehingga tidak dapat memberikan informasi secara tepat dan akurat. Oleh karena itu, dalam tugas akhir ini dirancang dan dibuat sebuah sistem informasi akuntansi yang membantu permasalahan untuk mendapatkan informasi yang diperlukan secara cepat, akurat dan diharapkan juga dapat menghindari atau meminimalkan terjadinya kesalahan yang timbul akibat pencatatan aktivitas perusahaan, serta menghasilkan laporan yang berguna untuk kemajuan perusahaan. Perancangan desain sistem menggunakan Data Flow Diagram dan Entity Relationship Diagram. Database dibuat dengan menggunakan Microsoft SQL Server 2005. Aplikasi dibuat dengan bahasa pemrograman Microsoft Visual Studio 2005 .NET. Program yang dibuat meliputi pembuatan database master untuk barang, supplier, transaksi untuk proses penjualan dan pembelian, serta proses akuntansi berkaitan dengan pembuatan jurnal secara otomatis dan jurnal penyesuaian secara manual serta laporan keuangan secara otomatis. Dari hasil pengujian program menunjukkan bahwa program ini mampu memproses data akuntansi yang berhubungan dengan pembelian dan penjualan secara otomatis dan menghasilkan informasi berupa laporan manajerial (laporan pembelian, penjualan dan hutang), jurnal (jurnal umum, jurnal pembelian, jurnal pengeluaran kas, jurnal penerimaan kas, dan buku besar) dan laporan keuangan (laba rugi dan neraca) yang akurat (sesuai dengan proses manualnya).",
+  "creators": "LOVANTINUS TIRTA GUNAWAN",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Kartika Gunadi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021179/INF/2012; Lovantinus Tirta Gunawan (26408118)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

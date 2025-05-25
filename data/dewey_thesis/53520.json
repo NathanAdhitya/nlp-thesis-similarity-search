@@ -1,0 +1,14 @@
+{
+  "id": "53520",
+  "title": "Penerapan linguistic inquiry and word count dan random forest dalam klasifikasi personality berdasarkan data posting twitter sehingga dapat ditentukan gaya belajar yang sesuai",
+  "abstract": "Big Five Personality merupakan model kepribadian yang kuat untuk memahami hubungan antara kepribadian dan berbagai perilaku akademik. Kepribadian siswa sangat penting untuk belajar dan berpotensi menentukan prestasi akademik maupun gaya belajar mereka. Namun, tidak semua pelajar memiliki pengetahuan, kepribadian, dan gaya belajar yang sama di mana kriteria-kriteria ini mempengaruhi dalam pembelajaran. Tetapi untuk mengetahui hal tersebut, biasanya kita menggunakan tes online sedangkan tes online membutuhkan waktu yang lama. Di dalam penelitian ini, sebuah sistem dibuat untuk menentukan personality dan learning style secara otomatis berdasarkan data posting Twitter. Metode yang digunakan dalam penelitian ini adalah LIWC atau Linguistic Inquiry and Word Count dan Random Forest. Random Forest dipilih karena metode ini dapat melakukan klasifikasi terhadap ketidakseimbangan kelas di mana dalam melakukan klasifikasi Big Five personality dari data teks, tidak semua data tersebut memiliki jumlah yang sama antara kelima personality (extraversion, agreeableness, openness, conscientiousness, and neuroticism). Data teks yang akan digunakan adalah data teks dari sosial media, yaitu Twitter dengan total data 9546 data. Hasil akurasi Random Forest untuk dataset balanced dan imbalanced tidak terlalu signifikan, seperti personality CON imbalanced memiliki akurasi sebesar 0.499 sedangkan CON balanced memiliki akurasi sebesar 0.502 atau juga seperti personality NEU imbalanced memiliki akurasi sebesar 0.502 sedangkan NEU balanced memiliki akurasi sebesar 0.519. Sedangkan hasil Learning Style dapat ditentukan dari Big 5 Personalities dengan nilai rata-rata korelasi Kendall Tau sebesar 0.21. Menurut survei kecocokan terhadap responden, responden merasa web eksternal lebih cocok dengan nilai rata-rata kecocokan responden dengan hasil dari web eksternal 4.5 untuk Big Five Personality dan 4 untuk hasil learning style. Sementara itu, untuk hasil dari program, rata-rata yang didapat untuk Big Five Personality adalah 3 sedangkan untuk learning style memiliki nilai rata-rata 3.25.",
+  "creators": "CRISTINE FERLLY WIYANTO",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022152/INF/2022; Cristine Ferlly Wiyanto (C14180011)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PERSONALITY TESTS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

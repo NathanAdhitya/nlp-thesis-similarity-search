@@ -1,0 +1,14 @@
+{
+  "id": "11391",
+  "title": "Perencanaan dan pembuatan sistem laser untuk membaca bar code menggunakan microcontroller 8031",
+  "abstract": "Sejalan dengan perkembangan teknologi, sinar laser banyak dipakai dalam berbagai bidang, seperti dalam teknologi satelit, teknologi informasi, dalam dunia industri maupun dalam dunia kedokteran. Pada Tugas Akhir ini dibuat suatu aplikasi dari penggunaan sinar laser yakni sebagai Bar Code Reader. Dimana untuk kendali proses pembacaan dapat dilakukan dengan menekan switch yang terdapat pada sensor dan menggerakannya secara manual. Prinsip dasar dari alat ini adalah mendeteksi daerah hitam dan putih yang berbentuk diagram batang, pantulan warna hitam akan memberikan level tegangan yang lebih rendah daripada warna putih. Pada tempat tertentu dengan membentuk sudut yang sesuai untuk kondisi pantulan dipasang pemancar laser dioda dan penerima yang bersesuaian, sehingga kombinasi warna hitam dan putih dapat dideteksi. Penerima sinar laser yang digunakan adalah photodioda. Adapun pengendalian sensor dilakukan secara manual, yaitu digerakkan horisontal dari kiri ke kanan pada kode bar yang akan dibaca. Hasil pendeteksian yang berupa kombinasi logik '1' dan '0' akan dikirimkan ke mikrokontroller 8031 melalui port yang tersedia. Dalam Tugas Akhir ini data yang diperoleh diaplikasikan untuk proses absensi dosen. Perangkat bar code reader ini mampu mendeteksi 9 kode batang warna hitam (bisa dikembangkan), dimana kode bar yang akan dibaca dibuat simulasinya dan dalam proses absensi ini dibatasi maksimum 30 kode.",
+  "creators": "HENDRO YUWONO HAILANA",
+  "contributors": "HANDAYANI T. (Advisor 1); IRWAN SAHLI (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/044/201; Hendro Yuwono Hailana (23489079)",
+  "subjects": "ELECTRONIC APPARATUS AND APPLIANCES-COMPUTER PROGRAMS; MICROCONTROLLER 8031"
+}

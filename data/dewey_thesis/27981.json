@@ -1,0 +1,14 @@
+{
+  "id": "27981",
+  "title": "Perencanaan dan pembuatan pengaturan waktu penerangan terprogram dengan menggunakan mikrokontroler 80C31",
+  "abstract": "Umumnya dalam kehidupan sehari-hari sering dijumpai pemakaian atau penggunaan alat-alat listrik secara manual,artinya masih diperlukannya tenaga untuk menyalakan ataupun mematikan saklar lampu. Permasalahan lain sering dijumpai suatu rumah yang masih menyalakan lampu kebun atau lampu teras rumah meskipun hari telah siang, hal ini menandakan tidak adanya penghuni dalam rumah tersebut. Dalam Tugas Akhir ini direncanakan dan dibuat suatu alat yang dapat mengatur waktu penerangan secara terprogram, sehingga tidak diperlukan lagi tenaga untuk menyalakan saklar lampu di rumah. Dan masalah yang terpenting dapat menciptakan kamuflase atau kesan penghuni tidak pergi, sehingga dapat mengurangi atau mencegah timbulnya kejahatan / pencurian. Sebagai kontrol digunakan driver relay untuk mengatur kondisi ON / OFF lampu dan pengaturan terang redup dikontrol oleh rangkaian Dimmer. Sedangkan untuk pengolah datanya digunakan sebuah minimum sistem yang berbasis pada mikrokontroler 80C31 dari keluarga MCS-51 dari Intel. Bertindak sebagai timer dipakai RTC MC146818 dengan dibantu PPI 8255 sebagai pengontrol / pengolah data relay yang didisplaykan oleh seven segment. Untuk pengujian rangkaian digital digunakan perbandingan dari waktu nyala dan waktu mati dari simulasi lampu atau display seven segment terhadap jam digital sebagai referensi dengan hasil yang tepat. Sebagai hasil dari perencanaan dan pembuatan pengaturan waktu penerangan terprogram, didapat waktu nyala yang cukup presisi dengan bantuan Real Time Clock MC 146818 yang dihubungkan dengan PPI 8255 dan minimum sistem mikro kontroler 80C31 serta piranti penunjang lainnya, sehingga menciptakan kemudahan dalam mengontrol waktu nyala dari setiap peralatan listrik, terytama lampu penerangan di kebun atau teras rumah.",
+  "creators": "HADI MULJONO",
+  "contributors": "AGUS MULYANTO (Advisor 1); HERLIANTO TENGGARA (Advisor 2); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/005/0162; Hadi Muljono (23487093)",
+  "subjects": "AUTOMATIC CONTROL; MICROCONTROLLER 80C31; ELECTRONIC CONTROLLERS-COMPUTER PROGRAM"
+}

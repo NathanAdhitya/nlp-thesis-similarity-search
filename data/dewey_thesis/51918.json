@@ -1,0 +1,14 @@
+{
+  "id": "51918",
+  "title": "Implementasi kamera thermal pada raspberry pi 3 untuk pemantauan suhu mahasiswa Kristen Petra",
+  "abstract": "Pembelajaran tatap muka saat masa pandemi COVID-19 mempunyai syarat tertentu agar kesehatan baik pengajar dan pelajar tetap sehat. Salah satu cara pencegahan pada Universitas Kristen Petra (UKP) adalah dengan memeriksa suhu saat akan memasuki area kampus. Namun, dengan melakukan pengecekan suhu dan melihat izin akses kampus secara manual, membuat beberapa mahasiswa atau dosen yang mengantri. Hal itu disebabkan karena petugas keamanan belum selesai melihat izin akses kampus atau mengecek suhu dari pengunjung yang datang terlebih dahulu. Untuk itu, apabila terdapat program yang dapat mengenali mahasiswa dan melakukan pengecekan suhu mahasiswa akan membantu untuk melancarkan proses pengecekan di UKP. Penelitian ini mencoba mengimplementasikan kamera thermal dan RFID scanner pada komputer mini raspberry pi 3 untuk dijadikan alat yang dapat mengenali mahasiswa melalui Kartu Tanda Mahasiswa (KTM) dan melakukan pengecekan suhu mahasiswa. Selain itu data dari pengecekan dapat disimpan ke dalam database untuk dilihar recordnya sesuai dengan informasi pengecekan yang didapat. Hasil dari pengujian sistem menunjukkan bahwa implementasi kamera thermal dan RFID scanner mampu membaca KTM dan melakukan pengecekan suhu mahasiswa. Namun, pada pengecekan suhu, kamera memiliki kendala saat ada beberapa objek yang tertangkap layar. Seperti adanya orang kedua atau objek lain seperti mahasiswa sedang membawa barang yang mengandung suhu panas. Hal tersebut menyebabkan sistem mencatat suhu dari objek yang mempunyai suhu paling panas di depan layar kamera, hal ini dapat menyebabkan kesalahan informasi pada proses pengecekan.",
+  "creators": "ANDRE CRISTO SINGGIH",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Resmana Lim (Advisor 2); Liliana (Examination Committee 1); Handry Khoswanto (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022112/INF/2022; Andre Cristo Singgih (26416069)",
+  "subjects": "DIAGNOSIS--DATA PROCESSING; RASPBERRY PI (COMPUTER)--PROGRAMMING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "53544",
+  "title": "Penerapan machine learning dalam mendeteksi fake account pada Instagram",
+  "abstract": "Instagram adalah media sosial ke empat yang paling banyak digunakan dalam hal jumlah pengguna aktif. Saat ini, banyak masyarakat yang berusaha ingin meningkatkan jumlah followers-nya untuk alasan lain seperti mendapatkan ketenaran atau ingin terkenal dan dapat dipercaya oleh orang karena memiliki jumlah followers yang banyak. Oleh karena itu, masyarakat membuat fake account yang digunakan untuk meningkatkan jumlah followers-nya dan juga sebagai tempat untuk melakukan tindakan kejahatan seperti penipuan dan cyberbullying. Fleksibilitas dan penyebaran penggunaan seperti itu telah menjadikan Instagram sebagai platform yang digunakan untuk perkembangbiakan fake account. Dalam penelitian ini, dirancang suatu aplikasi berbasis website yang dapat mendeteksi akun pada Instagram apakah tergolong fake atau real account. Deteksi tersebut dilakukan dengan menggunakan machine learning dengan metode Support Vector Machine, Naïve Bayes, Random Forest dan Adaptive Boosting untuk mendeteksi fake atau real account pada Instagram. Metode yang digunakan dibandingkan performanya untuk mencari metode mana yang paling sesuai dalam mendeteksi fake atau real account pada Instagram. Penggunaan k-fold cross validation digunakan untuk mencegah terjadinya overfitting pada machine learning. Berdasarkan pengujian yang telah dilakukan, bahwa AdaBoost dapat digunakan untuk klasifikasi akun pada Instagram dengan hasil akurasi yang didapatkan 92.5%, Random Forest sebesar 91.7%, Support Vector Machine sebesar 90.7% dan Naïve Bayes sebesar 83.6%.",
+  "creators": "HENDY GUNAWAN",
+  "contributors": "Yulia (Advisor 1); Gregorius Satiabudhi (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022171/INF/2022; Hendy Gunawan (C14180195)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT--COMPUTER PROGRAMS; INSTAGRAM (ELECTRONIC RESOURCE); PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

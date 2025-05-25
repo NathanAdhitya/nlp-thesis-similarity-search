@@ -1,0 +1,14 @@
+{
+  "id": "57360",
+  "title": "Evaluasi rute pelayaran kapal dengan pendekatan modified minimum spanning tree",
+  "abstract": "Penelitian ini bertujuan untuk mengoptimalkan rute pelayaran pada perusahaan pelayaran kontainer terbesar di Indonesia. Optimasi rute penting untuk meningkatkan efisiensi perusahaan dalam menghadapi persaingan bisnis dan industri yang semakin ketat. Dalam penelitian ini, digunakan pendekatan multi-objective, mempertimbangkan faktor demand dan jarak. Model evaluasi yang diajukan menggunakan minimum spanning tree (MST) yang dimodifikasi dengan perhitungan probabilistik berdasarkan data masa lalu. Modifikasi dilakukan untuk memperhitungkan faktor probabilitas berdasarkan data masa lalu, yang memungkinkan pengambilan keputusan yang lebih baik. Selain itu, untuk penyelesaian kondisi di mana rute harus kembali ke depot, digunakan algoritma Christofides, yang merupakan salah satu algoritma yang digunakan dalam memecahkan masalah Traveling Salesman Problem (TSP), di mana tujuannya adalah mencari jalur terpendek yang melintasi semua titik dan kembali ke titik awal, yang mana algoritma ini berlandaskan minimum spanning tree. Hasil dari contoh kasus yang telah dijalankan pada model ini menunjukkan peningkatan performa rute pelayaran dengan kenaikan utilitas kapal sebesar 1,13% dan penurunan total jarak sebesar 2,83%. Dengan demikian, dapat disimpulkan bahwa model evaluasi rute pelayaran dengan pendekatan multi-objective dan penggunaan MST yang dimodifikasi dengan pendekatan probabilistik serta algoritma Christofides dapat memberikan solusi yang lebih efisien, dan membuka peluang perbaikan operasional pada perusahaan.",
+  "creators": "FELIX JULIO TJOEA",
+  "contributors": "Siana Halim (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022601/IND/2023; Felix Julio Tjoea (C13190111)",
+  "subjects": "CONTAINER SHIP ROUTES--EVALUATION; CONTAINER SHIP ROUTES--MANAGEMENT; SPANNING TREES (GRAPH THEORY)"
+}

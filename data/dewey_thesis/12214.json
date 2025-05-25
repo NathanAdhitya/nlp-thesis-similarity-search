@@ -1,0 +1,14 @@
+{
+  "id": "12214",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi dan pengaturan order pengiriman pada PT. Anugerah Sumber Baru",
+  "abstract": "PT. Anugerah Sumber Baru adalah perusahaan yang bergerak dalam bidang pengangkutan, selama ini proses pencatatan order booking dan pengaturan order pengiriman dilakukan secara manual dan tidak didukung dengan database, saat hendak melakukan pengiriman, harus ada orang yang dapat memilih order booking yang hendak dimuat dan disesuaikan dengan kapasitas kapal, sehingga kinerja perusahaan menjadi tidak efisien. Pada Tugas Akhir ini, dibuat sebuah sistem yang dapat mengatasi kesulitan yang dialami pada oleh perusahaan terutama proses pencatatan booking pengiriman dan proses pemilihan order pengiriman. Perangkat lunak ini dibuat dengan menggunakan bahasa pemrograman Borland Delphi 7.0 dan database yang digunakan adalah Microsoft Access XP. Perangkat lunak ini dapat digunakan untuk mencatat data booking pengiriman ke dalam database dan mengatur pemilihan order pengiriman dengan menggunakan algortima genetika. Data yang dihasilkan berupa data pengiriman dan laporan pengiriman berupa manifest dan konosmen.",
+  "creators": "ROBBY HARTANTO LIMANTORO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Gregorius Satiabudhi (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02020801/INF/2009; Robby Hartanto (26402139)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN"
+}

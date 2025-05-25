@@ -1,0 +1,14 @@
+{
+  "id": "3824",
+  "title": "Otomasi sistem penyaringan air yang dikendalikan PLC omron",
+  "abstract": "Kebutuhan akan air layak pakai dirasakan semakin bertambah, dimana seiring dengan perkembangan jaman keberadaan akan air layak pakai akan semakin berkurang. Otomasi sistem penyaringan air dengan menggunakan PLC (Programable Logic Controller) berfungsi untuk memeriksa keadaan kondisi air dan mendaur ulang air tersebut dengan bantuan filter, agar menjadi air yang layak untuk dipakai. PLC sepenuhnya mengendalikan operasi kerja dari sistem yang memiliki proses penyaringan dan pemeriksaan. Pembuatan sistem ini menggunakan Software CX-Programmer untuk membuat ladder diagram dan menampilkan status kerja dari sistem pemilihan air bersih. Pada Hardware, digunakan ADC (Analog to Digital Converter). ADC berfungsi untuk mengubah data yang diperoleh sensor cahaya yang berupa data analog menjadi data digital sebagai data input pada PLC Omron tipe CQM1. Proses penyaringan dilakukan oleh filter air, yang dapat diperoleh di toko-toko penjual peralatan mekanik. Pengujian dilakukan langsung pada sistem penyaringan air ini, dan didapatkan hasil bahwa hasil pengujian pada hardware ADC berbeda dengan hasil perhitungan. Hal ini meyebabkan perbedaan data yang masuk pada ADC dan PLC. Sistem ini memiliki kemampuan untuk mendeteksi apakah filter yang digunakan masih dalam kondisi yang layak pakai atau tidak, bila hasil penyaringan berulang-ulang tidak menunjukan penurunan, berarti filter sudah tidak layak untuk dipakai.",
+  "creators": "ARTHUR TAWALUYAN",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010816/ELK/2006; Arthur Tawaluyan (23400034)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; ELECTRIC CONTROLLERS"
+}

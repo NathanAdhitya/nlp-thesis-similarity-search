@@ -1,0 +1,14 @@
+{
+  "id": "10928",
+  "title": "Data acquisition photovoltaic cell",
+  "abstract": "Matahari merupakan salah satu alternatif pengganti dari energi BBM, dimana kelebihan dari energi pengganti ini ialah merupakan energi yang jumlahnya tidak terbatas, serta tidak mempunyai efek negatif lainnya. Photovoltaic cell adalah suatu transducer yang berfungsi untuk mengkonversi energi cahaya matahari menjadi energi listrik, sehingga dapat digunakan untuk berbagai keperluan. Yang menjadi kendala dewasa ini adalah mahalnya modul photovoltaic cell ini, serta peralatan ini mempunyai life time yang cukup kecil dibandingkan dengan pembangkit energi lainnya, sehingga efisiensi kerja harus terus diperhatikan. Sebelumnya pemantauan kondisi photovoltaic ini dilakukan secara manual, berdasarkan pertimbangan di atas dibuatlah suatu sistem yang mampu memberikan karakteristik dari photovoltaic cell dengan bantuan komputer, agar daripadanya dapat dipantau secara terus menerus kondisinya. Sistem ini terdiri dari DC processor sebagai pengambil data, ADC, dan interface sebagai pengubah data analog ke digital dan penghubung ke komputer, serta komputer dan peralatannya sebagai media penyimpan dan penampil data serta grafik karakteristik yang telah didapat. Dari sistem di atas setelah diadakan pengujian, data-data yang didapatkan diuji secara statistik dan dilihat grafik karakteristik, sehingga dapat ditentukan secara pasti kemampuan daya yang dikeluarkan serta sifat-sifat lainnya. Dengan dibuatnya sistem ini, maka dapat dikatakan bahwa efisiensi kerja serta penghematan biaya terhadap penggunaan photovoltaic cell serta pemilihan battery charge yang tepat sebagai alat pendamping.",
+  "creators": "JANTO HARTONO",
+  "contributors": "SOETIKNO (Advisor 1); Heri Saptono Warpindyasmoro (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.91/E/EL/030/0089; Janto Hartono (486037)",
+  "subjects": "PHOTOVOLTAIC CELLS"
+}

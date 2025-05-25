@@ -1,0 +1,14 @@
+{
+  "id": "13822",
+  "title": "Debugger untuk mikroprosesor 6809 dengan bantuan mikrokomputer IBM PC/XT",
+  "abstract": "Prinsip evaluasi DEBUGGER ini adalah mengamati keadaan register-register serta status mikroprosesor yang dihasilkan dari suatu operasi mikroprosesor, yaitu eksekusi program atau instruksi. Mikroprosesor yang dipakai dan dipelajari adalah mikroprosesor 6809, serta sistem evaluasi yang dibuat berupa suatu sistem minimum mikroprosesor 6809 yang di-interface-kan ke mikrokomputer IBM PC/XT melalui saluran komunikasi seri RS-232C dengan tujuan untuk mendukung operasi sistem. Adapun piranti pendukung dalam sistem minimum tersebut adalah piranti-piranti memori (EPROM dan RAM), timer, dan interface komunikasi serial. Program yang akan dievaluasi dikirimkan dari mikrokomputer dan disimpan dalam memori sistem minimum. Program dievaluasi dengan cara menginterrupt mikro-prosesor untuk menghentikan eksekusi program pada instruksi tertentu. Interrupt yang diperlukan untuk proses evaluasi ini dibangkitkan oleh piranti timer yang terdapat pada sistem minimum. Selanjutnya infor-masi register-register dikirimkan ke mikrokomputer untuk ditampilkan pada layar monitor.",
+  "creators": "HOKKI PRANATA",
+  "contributors": "NAWANTO WIBOWO (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 90/E/EL/002/0042; Hokki Pranata (484015)",
+  "subjects": "IBM PC/XT; MICROCOMPUTERS-PROGRAMMABLE PERIPHERAL INTERFACES; MICROPROCESSORS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "27569",
+  "title": "Perancangan dan pembuatan sistem informasi perpustakaan pada Maple Leaf Center",
+  "abstract": "Perpustakaan Maple Leaf Centre masih menggunakan cara manual untuk peminjaman dan pengembalian buku. Perpustakaan Maple Leaf Centre memiliki software berbasis desktop application, tetapi tidak digunakan karena tidak sesuai dengan kebutuhan perpustakaan. Pada sistem pencarian katalog, user sangat kesulitan untuk mengetahui data koleksi yang dimiliki oleh perpustakaan secara cepat. Selain perlunya sistem pencarian katalog, diperlukan juga sarana sirkulasi yang tepat untuk memudahkan sirkulasi buku dan meningkatkan mutu dari perpustakaan. Maka pada tugas akhir ini, akan dikembangkan website dan program Sistem Informasi Perpustakaan. Desain sistem yang berupa DFD, ERD dikembangkan dengan menggunakan Power Designer 15. Tampilan website dibuat menggunakan Macromedia Dreamwaver 8. Program dan website dibuat dengan menggunakan Hypertext Preprocessor (PHP) dan MySql sebagai database server. Aplikasi Sistem Informasi Perpustakaan untuk Maple Leaf Centre telah diimplementasikan mulai pembuatan admin sampai menghasilkan laporan. Program yang telah dibuat meliputi modul pengadaan, pengolahan koleksi, sirkulasi (transaksi peminjaman, transaksi pengembalian, transaksi perpanjangan, transaksi pemesanan dan transaksi pembayaran denda), member area, dan FAQ.",
+  "creators": "HENDRY NUGROHO ANGGONO",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021197/INF/2012; Hendry Nugroho Anggono (26407094)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

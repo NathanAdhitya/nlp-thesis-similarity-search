@@ -1,0 +1,14 @@
+{
+  "id": "48676",
+  "title": "Pengembangan chrome extension untuk mengidentifikasi phishing website berdasarkan URL dengan algoritma random forest",
+  "abstract": "Teknologi yang terus berkembang membuat internet menjadi salah satu bagian terpenting dalam aktivitas manusia sehari-hari. Perkembangan ini juga diikuti dengan meningkatnya aktivitas phishing yang tidak hanya bertambah jumlahnya tetapi juga tekniknya yang semakin beragam. Kerugian yang disebabkan oleh phishing pun cukup besar. Ada banyak aplikasi untuk menangkal serangan phishing, namun sebagian besar masih kurang akurat. Beberapa penelitian menunjukkan bahwa algoritma ensemble learning memiliki kemampuan yang baik dalam mendeteksi phishing website. Dalam penelitian ini akan dikembangkan aplikasi chrome extension yang menggunakan model Random Forest dalam mendeteksi phishing website. Random Forest merupakan salah satu metode ensemble learning yang paling dikenal. Beberapa hyperparameter yang paling penting dan akan dieksperimentasi antara lain n_estimators, min_samples_leaf, min_samples_split, max_features, dan max_depth. Fitur yang digunakan merupakan gabungan antara referensi fitur dari penelitian lain yang bersangkutan dan fitur baru yang diajukan. Penelitian ini menunjukkan bahwa kualitas dataset merupakan faktor yang paling berpengaruh dalam membuat suatu model yang baik. Hyperparameter tuning juga merupakan tahap yang penting namun terbatas dalam skenario tertentu saja. Fitur baru yang diajukan dapat memberikan peningkatan terhadap performa model. Dari beberapa pengujian, akurasi terbaik yang diperoleh adalah 98.28%.",
+  "creators": "KEVIN BENEDICT",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Kartika Gunadi (Examination Committee 1); Endang Setyati (Advisor 2); Hans Juwiantho (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022013/INF/2020; Kevin Benedict (26416059)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; PHISHING"
+}

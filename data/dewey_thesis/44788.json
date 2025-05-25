@@ -1,0 +1,14 @@
+{
+  "id": "44788",
+  "title": "Sistem informasi penggajian pada PT Teno Indonesia",
+  "abstract": "PT Teno Indonesia adalah perusahaan yang bergerak dalam bidang pemasangan tiang pancang, perhitungan gaji karyawan masih menggunakan Microsoft Excel, dalam perhitungannya banyak sekali masalah yang dihadapi oleh perusahaan seperti file Excel yang membutuhkan waktu cukup lama untuk dibuka, lalu proses absensi yang datanya sering terjadi kesalahan seperti tidak sengaja terinput data presensi yang sama dua kali dan juga membutuhkan waktu yang lama dalam perhitungannya. Skripsi lain sudah ada yaitu skripsi milik Justine Raharjo yang berjudul Perancangan dan Pembuatan Aplikasi Sistem Penggajian Karyawan Pada PT Pulau Batu, tetapi belum ada perhitungan untuk karyawan lapangan. Berdasarkan permasalahan tersebut, perlu dibuat sistem informasi perhitungan gaji karyawan yang dapat membantu perusahaan dalam perhitungannya. Sistem informasi yang dibuat menggunakan HTML5 dan PHP sebagai dasar utamanya, dan SQL untuk databasenya. Pada sistem informasi ini user memiliki tiga jenis hak akses yang berbeda yaitu admin, manager, dan hrd. Hasil yang diperoleh dari aplikasi penggajian yang telah dibuat yaitu, aplikasi dapat melakukan perhitungan gaji karyawan lapangan berdasarkan data absensi, jam lembur dan komponen gaji lainnya seperti insentif, transport, TLK, dan tunjangan lokasi kerja. Aplikasi juga dapat melakukan perhitungan pekerjaan borongan dan juga perhitungan gaji karywan kantor. Berdasarkan hasil angket yang ada, sebesar 100% dari koresponden menilai bahwa fitur-fitur yang dibuat pada aplikasi ini sudah cukup sesuai dengan kebutuhan perusahaan.",
+  "creators": "KELVIN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Yulia (Advisor 2); Alexander Setiawan (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021873/INF/2019; Kelvin (26415086)",
+  "subjects": "MANAGEMENT INFORMATION SYSTEMS--COMPUTER PROGRAMS; PAYROLLS--MANAGEMENT"
+}

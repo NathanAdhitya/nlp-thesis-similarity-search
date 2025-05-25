@@ -1,0 +1,14 @@
+{
+  "id": "51130",
+  "title": "Pembuatan perangkat lunak akuntansi dengan fitur kustomisasi untuk perusahaan jasa persewaan vcd/dvd",
+  "abstract": "Sebagian besar usaha persewaan VCD/DVD masih menggunakan pembukuan manual yang rawan kesalahan. Persewaan yang telah terkomputerisasi tidak melengkapinya dengan sistem pembukuan akuntansi sehingga tidak bisa diketahui keadaan keuangan secara akurat. Sebuah perangkat lunak yang mendukung operasional usaha persewaan sekaligus melakukan pencatatan akuntansi secara otomatis akan membuat kegiatan usaha persewaan menjadi lebih efektif dan efisien sekaligus menghasilkan laporan keuangan yang akan menunjukkan keadaan keuangan yang sebenarnya. Tiap usaha persewaan memiliki pengaturan yang berbeda satu dengan yang lain sehingga dibutuhkan fitur kustomisasi untuk mempermudah melakukan pengaturan sesuai dengan kebutuhan tiap persewaan. Perancangan desain sistem menggunakan Data Flow Diagram dan Entity Relationship Diagram. Database dibuat dengan Microsoft Access 2000. Aplikasi dibuat dengan bahasa pemrograman Borland Delphi 7.0. Program yang dibuat meliputi tiga modul yaitu modul kustomisasi untuk melakukan pengaturan sesuai peraturan persewaan, antara lain lama sewa, denda, jenis film, dan pengaturan akun akuntansi, modul operasional berkaitan dengan kegiatan persewaan yaitu sewa, kembali, pemesanan, pembelian disk untuk disewakan, pembelian aktiva tetap, dan kas, serta modul akuntansi berkaitan dengan pembuatan jurnal secara otomatis dan jurnal penyesuaian secara manual serta laporan keuangan secara otomatis. Dari hasil pengujian, program yang dibuat dapat diterapkan pada dua tempat persewaan yang dijadikan uji coba serta dapat memproses data akuntansi yang berhubungan transaksi di persewaan. Laporan yang dihasilkan telah dapat memenuhi kebutuhan persewaan.",
+  "creators": "IRAWATI",
+  "contributors": "Yulia (Advisor 1); Felicia Soedjianto (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000489/INF/2006; Irawati (26402046)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

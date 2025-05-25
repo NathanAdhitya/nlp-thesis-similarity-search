@@ -1,0 +1,14 @@
+{
+  "id": "27104",
+  "title": "Efisiensi tulangan pada kolom beton bertulang yang mengalami biaxial bending",
+  "abstract": "Pada umumnya kolom beton bertulang suatu struktur dengan idealisasi portal dua arah (two way portal) dianggap hanya menerima gaya tekan aksial dan momen lentur satu arah (uniaxial bending) sehingga desain kolom beton bertulang selama ini hanya berdasar pada kombinasi kedua besaran tersebut. Kapasitas penampang yang di desain dengan asumsi ini digambarkan sebagai M-N diagram dengan koordinat beban kerja berada di dalam kurva. Kenyataan sebenarnya, beban yang bekerja adalah gaya tekan aksial dan momen lentur dua arah (biaxial bending) yang besarnya bisa berbeda, terutama pada kolom ujung dari portal dua arah. Oleh karenanya momen dalam arah tegak lurus dari sumbu yang ditinjau diperhitungkan secara penuh dan diasumsikan bekerja pada kolom secara bersama-sama. Perhitungan kolom beton bertulang dengan kombinasi ketiga besaran ini cukup sulit, karenanya harus dicari suatu interaksi antara beban, luas tulangan dan tata letak tulangan sehingga kapasitas kolom beton bertulang yang didesain mampu menerima beban kerja. Untuk mendapatkan desain yang paling efisien, dilakukan proses iterasi dengan bantuan komputer yang dimulai dengan memakai diameter tulangan yang kecil sampai didapat luas dan penempatan tulangan yang memenuhi syarat keseimbangan dan kompatibilitas akibat beban kerja (sudah termasuk faktor reduksi kekuatan $). Dari berbagai contoh perhitungan, dapat diketahui bahwa pola penempatan tulangan yang paling efisien sangat tergantung pada perbandingan Mrx dan Mry. Untuk kolom dengan dimensi, Mrx dan Mry tetap sedangkan gaya tekan aksial diperbesar, luas tulangan yang dibutuhkan semakin kecil. Untuk keperluan desain kolom beton bertulang yang lain, disediakan program bantu untuk memudahkan pemilihan luas serta penempatan tulangan yang sesuai dengan kriteria desain.",
+  "creators": "Sri Utami Budi; Hermanto Oerip",
+  "contributors": "Januar Buntoro (Examination Committee 1); Daniel Zefania Pribadi (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.418 S; Sri Utami Budi (285056), Hermanto Oerip (285088)",
+  "subjects": "REINFORCED CONCRETE-COMPUTER PROGRAMS"
+}

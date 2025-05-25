@@ -1,0 +1,14 @@
+{
+  "id": "59395",
+  "title": "Optimasi portal beton bertulang penahan gempa dengan metode metaheuristik",
+  "abstract": "Bangunan di Indonesia memiliki resiko menerima gaya yang besar dari gempa bumi sehingga rentan terjadi kerusakan, terlebih lagi apabila perencanaan struktur bangunan yang tidak sesuai dengan standard bangunan tahan gempa. Untuk mendapatkan hasil desain portal beton bertulang yang optimal, terdapat tiga kriteria penting yang harus diperhatikan yaitu Ultimate Limit State (ULS), Serviceability Limit State (SLS), dan ekonomis. Sehingga, penggunaan metode optimasi yang baik akan membantu menghasilkan kombinasi dimensi balok dan kolom yang optimal dan ekonomis namun tetap memenuhi syarat aman. Penelitian-penelitian sebelumnya mengindikasikan bahwa metode metaheuristik dapat digunakan sebagai alternatif yang mampu menyelesaikan permasalahan optimasi yang ada. Oleh karena itu, penelitian ini menggunakan metode metaheuristik Particle Swarm Optimization (PSO) dan Symbiotic Organisms Search (SOS) untuk menyelesaikan permasalahan optimasi portal beton bertulang. Pada penelitian ini, optimasi portal beton bertulang dilakukan pada dua studi kasus yaitu portal 4 lantai 5 bentang dan portal 12 lantai 4 bentang. PSO dan SOS bekerja untuk menemukan solusi dimensi balok dan kolom sekaligus tulangan yang diharapkan dpat memiliki biaya konstruksi terendah dan dibatasi oleh constraint dari SNI 2847:2019 dan SNI 1726:2019. Hasil penelitian menunjukkan bahwa metode metaheuristik mampu menemukan kombinasi dimensi balok kolom dan tulangan yang optimal untuk masing-masing studi kasus. Selain itu, dapat dilihat apabila algoritma SOS memiliki performa yang jauh lebih baik dari PSO.",
+  "creators": "STEVEN GAILLARD; VINCENTIUS STEFANO SUWARGONO",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Pamuda Pudjisuryadi (Advisor 2); Jimmy Chandra (Examination Committee 1); Wong Foek Tjong, S.T., M.T., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012729/SIP/2024; Steven Gaillard (B11200008), Vincentius Stefano Suwargono (B11200041)",
+  "subjects": "BUILDING-EARTHQUAKE EFFECTS; METAHEURISTICS; REINFORCED CONCRETE CONSTRUCTION-RESEARCH"
+}

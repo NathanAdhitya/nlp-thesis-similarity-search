@@ -1,0 +1,14 @@
+{
+  "id": "22184",
+  "title": "Perencanaan dan pembuatan interface untuk komunikasi antar mikrokomputer IBM-PC",
+  "abstract": "Kemajuan teknologi dewasa ini sudah demikian pesatnya, terutama di bidang mikroelektronik. Dengan demikian tidak dapat dihindari lagi banyak pabrik-pabrik memproduksi mikrokomputer untuk mengatasi masalah kesibukan dan kebutuhan manusia akan suatu kerja yang cepat, tepat dan efisien. Agar pekerjaan dan kesibukan manusia dengan menggunakan mikrokomputer dapat dilaksanakan lebih mudah dan cepat, maka mikrokomputer- mikrokomputertersebut harus dihubungkan satu dengan yang lainnya agar dapat saling berkomunikasi. Pada prinsipnya komputer dapat berkomunikasi, apabila terjadi pertukaran data satu dengan lainnya. Dengan IC 8251 sebagai ACE (Asynchronous Communication Equipment) dan komponen-komponen penunjangnya, maka dapat dibuat suatu interface yang dapat mengirimkan atau menerima data secara serial melalui sebuah kabel saja. Dengan demikian hanya dibutuhkan dua buan kabel line saja agar dua buah mikrokomputer dapat berkomunikasi secara full-duplex. Dalam tugas akhir ini mikrokomputer yang digunakan adalan IBM-PC. Dengan adanya IC 1486 dan IC 1489 sebagai komponen RS-232, maka interface yang telah dibuat dapat digunakan untuk komunikasi antar mikrokomputer yang relatip jauh . Pembuatan software dibatasi hanya dapat mengirim dan menerima data ASCII dari keyboard, baik itu secara halfduplex atau full-duplex dengan menggunakan bahasa assembly 8088. Kecepatan kirim dan terima data yang digunakan adalah 150 baud (150 bit per detik ). Dengan jalan mengembangkan, software diharapkan interface ini dapat digunakan semaksimal mungkin untuk para pemakai yang ingin mentransfer data dari satu lokasi ke lokasi lain.",
+  "creators": "GUNAWAN SENDJAJA",
+  "contributors": "HANDAYANI T. (Advisor 1); HERLIANTO TENGGARA (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. ...; Soetikno (483002)",
+  "subjects": "COMPUTER-INTERFACES; MICROCONTROLLERS (MICROCOMPUTERS)"
+}

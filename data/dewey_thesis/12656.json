@@ -1,0 +1,14 @@
+{
+  "id": "12656",
+  "title": "Studi tentang audio MP3 player",
+  "abstract": "Pada dasarnya proses pengubahan lagu ke format MP3 adalah untuk menghemat space. Karena signal audio membutuhkan space yang besar untuk penyimpanannya. Maka dengan berkembangnya teknologi kompressi data digital, maka didapat teknik kompresi MP3 untuk data audio. Dan dengan sistem kompressi MP3, dalam sebuah CD dapat menampung hingga 100 lagu. Pada dasarnya player MP3 ini dibuat dengan 1 chip DSP yaitu MAS3507D untuk mengekstrak file MP3 dan \\chip DAC type DSP untuk mengubah signal digital menjadi suara yang bisa didengar. Input yang diumpankan ke IC MAS3507D adalah berupa streambit mp3 yang diumpankan secara serial. Dengan tanpa internal power, maka player ini dirancang untuk menghasilkan suara yang terbaik. Pengujian dilakukan dengan memberi input berupa signal sinusoidal dan signal pulsa dengan frekuensi tertentu yang sudah diubah ke bentuk digital. Sedang output player dihubungkan dengan spektrum analiser untuk melihat spektrum audionya. Dari pengujian terbukti bahwa player ini cukup baik dengan mencapai kualitas Hi-Fi dengan SNR yang dapat mencapai lOOdB, dengan whitenoise yang mencapai level -120dB maka kualitas audio yang dihasilkannya adalah baik.",
+  "creators": "YUSTINUS ARIAWAN SAPUTRA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Hany Ferdinando (Advisor 2); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/016/453; Yustinus Saputra (23493163)",
+  "subjects": "VIDEO RECORDINGS; COMPACT DISC PLAYERS"
+}

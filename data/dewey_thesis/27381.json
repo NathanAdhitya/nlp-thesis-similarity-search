@@ -1,0 +1,14 @@
+{
+  "id": "27381",
+  "title": "Perencanaan dan pembuatan alat monitor putaran mesin dengan alarm suara untuk pergantian gigi pada mobil menggunakan mikroprosessor 8088",
+  "abstract": "Setiap mobil mempunyai kecepatan putaran pores mesin yang maksimum. Kadang-kadang seorang pengemudi sering melampaui batas kecepatan putaran maksimumnya,, sehingga dapat menyebabkan mesin mobil cepat rusak dan bagi seorang pengemudi yang baru belajar mengendarai mobil seringkali tidak tahu kapan waktu yang tepat untuk mengganti gigi mobil. Untuk mengatasi permasalahan tersebut, maka dibuat alat yang memonitor putaran poros mesin dan memberikan petunjuk untuk mengganti gigi mobil pada saat yang tepat dan tidak melampaui kecepatan putaran poros maksimumnya. Alat monitor putaran mesin dengan alarm suara untuk pergantian gigi pada mobil ini terdiri dari takometer digital yaitu rangkaian yang mengukur ketepatan putaran poros mesin, sistem minimum 8088 yang mengatur kerja dari alat ini, dan rangkaian sintesa suara yang memberikan suara peringatan untuk mengganti gigi mobil. Masukan bagi takometer digital diambil dari platina mobil dan keluarannya digunakan sebagai masukan bagi sistem minimum 8088 bersama masukan lainnya seperti gigi mobil, kopling, dan kecepatan putaran poros maksimum mesin. Keluaran minimum sistem digunakan untuk mengatur pengeluaran suara dan penunjukkan led. Sedangkan perangkat lunaknya ditulis dalam bahasa assembly 8088. Alat ini sangat membantu bagi pengemudi yang baru belajar mengendarai mobil.",
+  "creators": "Kresno Fadjar",
+  "contributors": "NAWANTO WIBOWO (Examination Committee 1); Resmana Lim (Advisor 2); HANDAYANI T. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/006/0096; Kresno Fadjar (1448602 7)",
+  "subjects": "AUTOMOBILES-MOTORS-AUTOMATIC CONTROL; MICROPROCESSORS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "60602",
+  "title": "Skrining obstructive sleep apnea dengan anamnesis dan atropometri menggunakan machine learning",
+  "abstract": "Obstructive Sleep Apnea (OSA) merupakan gangguan tidur dimana seseorang mengalami perhentian pernapasan selama beberapa saat dan terjadi beberapa kali selama tidur. Polysomnography (PSG) merupakan standar emas yang telah diakui untuk digunakan mendiagnosa OSA namun memiliki keterbatasan biaya, waktu, dan peralatan. Skrining dilakukan dengan menggunakan data anamnesis dan antropometri pasien sebagai alternatif yang efisien daripada PSG. Saat ini keberhasilan machine learning pada penelitian lain masih bergantung pada tambahan atribut dari hasil polysomnography. Metode yang digunakan dalam penelitian ini melibatkan berbagai model machine learning seperti Support Vector Machine (SVM), Random Forest, K-Nearest Neighbors (KNN), dan Logistic Regression. Data anamnesis mencakup riwayat kesehatan dan gejala yang dialami pasien, sedangkan data antropometri mencakup pengukuran fisik seperti tinggi badan, berat badan, dan lingkar leher. Hasil penelitian menunjukkan bahwa penggunaan data anamnesis dan antropometri dapat menjadi alternatif yang efektif untuk skrining OSA. Model machine learning SVM memberikan performa terbaik dengan nilai akurasi 0,97; spesifisitas 0,98; sensitivitas 0,84; nilai prediktif positif 0,93; nilai prediktif negatif 0,98 dan f1 score 0,93.",
+  "creators": "ANTHONY REYNALDI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Olivia Tantana (Advisor 2); Hans Juwiantho S.Kom., M.Kom (Examination Committee 1); Rolly Intan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022524/INF/2024; Anthony Reynaldi (C14200078)",
+  "subjects": "ANAMNESIS; ANTHROPOMETRY; MACHINE LEARNING; SLEEP APNEA SYNDROMES"
+}

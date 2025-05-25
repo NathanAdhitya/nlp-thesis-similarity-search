@@ -1,0 +1,14 @@
+{
+  "id": "54171",
+  "title": "Perancangan ulang tata letak untuk meningkatkan efisiensi gudang bahan baku dengan mempertimbangkan block stacking storage",
+  "abstract": "Penelitian ini dilakukan untuk dapat merancang tata letak gudang bahan baku premix yang pada dasarnya bahan baku premix disimpan secara random (acak) dengan menggunakan pendekatan metode ABC (Analsis ABC) dan linear programming sehingga mampu meningkatkan efisiensi dengan mempertimbangkan karakteristik picking pada gudang bahan baku pada PT. XYZ, Penelitian ini dilakukan berdasarkan historical data permintaan yang diambil selama 10 bulan pada tahun 2021, Data tersebut selanjutnya dilakukan proses perhitungan untuk mencari nilai frekuensi pemakaian dalam satu bulan, Selanjutnya dilakukan perhitungan jarak setiap titik penyimpanan ke I/O pada keadaan gudang existing, Sehingga didapatkan nilai total jarak perjalanan dalam setiap bulan sebesar 31.433 Meter/bulan pada keadaan gudang existing, Selanjutnya data frekuensi digunakan sebagai dasar dalam penentuan class pada bahan baku premix, Hasil penentuan class dengan metode ABC didapatkan 5 premix pada class A, 4 premix pada class B dan 3 premix pada class C, Selain itu premix yang masuk pada class tersebut dilakukan perhitungan dengan pendekatan linear programming dan didapatkan nilai total jarak perpindahan sebesar 25.388 Meter/Bulan 19,2% lebih efisien dari sebelumnya, Selanjutnya dilakukan evaluasi pada layout baru yang dihasilkan dengan pendekatan Brown-Gibson untuk dapat memvalidasi layout yang ada pada kenyataan ketika diemplementasikan didapatkan nilai LPMi pada gudang existing sebesar 0,427 dan gudang usulan sebesar 0.575, Sehingga dapat disimpulkan layout gudang usulan dapat digunakan pada keadaan nyata",
+  "creators": "Govin Sulung Utomo",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01010012/MTI/2022; Govin Sulung Utomo (C23200005)",
+  "subjects": "WAREHOUSES--MANAGEMENT"
+}

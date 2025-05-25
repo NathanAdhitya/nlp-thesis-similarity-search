@@ -1,0 +1,14 @@
+{
+  "id": "14874",
+  "title": "Perencanaan dan pembuatan filter aktif untuk daya satu fasa berbasis mikroprosesor TMS320C50",
+  "abstract": "Pemakaian beban non linier seperti rectifier, konverter dan peralatan lain yang menggunakan switching solid state telah berkembang dan beraneka ragam. Penggunaan peralatan elektronika daya tersebut menyebabkan beban menjadi bersifat tidak linier yang menghasilkan arus-arus harmonik dan pergeseran fasa sehingga faktor daya dari sistem menjadi buruk. Filter aktif untuk daya adalah sebuah konsep yang relatif baru yang sanggup memperbaiki penyimpangan (distorsi) jala-jala yang disebabkan oleh beban elektronika daya. Garanya adalah dengan menyuntikkan distorsi yang sama namun merupakan lawannya di titik tertentu pada jaringan. Filter Aktif kali ini diwujudkan dengan bantuan Digital Signal Proccessor TMS320C5x, dimana keseluruhan proses perhitungan termasuk PID controller dibebankan padanya. Pengolah sinyal ini dibantu dengan tiga buah pheriperal pengkonversi sinyal analog ke digital. Dari hasil pengujian terlihat bahwa Filter Aktif ini mampu menghasilkan bentuk gelombang untuk mengeliminasi arus harmonik.",
+  "creators": "YOUNG TEGUH WIRAWAN",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Vivi Anggraini (Advisor 2); ISKANDAR ZULKARNAIN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/024/284; Young Teguh Wirawan (23490027)",
+  "subjects": "ELECTRIC FILTERS; MICROPROCESSOR"
+}

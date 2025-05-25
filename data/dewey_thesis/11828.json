@@ -1,0 +1,14 @@
+{
+  "id": "11828",
+  "title": "Pengembangan elemen balok timoshenko berbasis kriging untuk analisis statik dan getaran bebas",
+  "abstract": "Interpolasi Kriging telah digunakan sebagai shape function pada metode elemen hingga (yang dikenal dengan metode elemen hingga berbasis Kriging atau MEH-K). Secara umum, penggunaan interpolasi Kriging menunjukkan hasil yang lebih akurat pada suatu analisis struktur dibandingkan MEH standar dengan diskretisasi yang sama. Penelitian ini bertujuan untuk mengembangkan suatu elemen balok Timoshenko standar berbasis Kriging yang diharapkan dapat bebas dari shear locking. Batasannya adalah pada analisis statik dan getaran bebas saja. Hasil penelitian menunjukkan adanya fenomena shear locking pada elemen balok Timoshenko berbasis Kriging dan dapat diatasi secara efektif dengan menggunakan metode selective reduced integration. Di samping itu, juga ditunjukkan bahwa elemen ini menghasilkan nilai perhitungan yang mendekati dengan solusi eksaknya, baik untuk analisis statik maupun getaran bebas.",
+  "creators": "HIDAYAT SYAMSOEYADI",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Benjamin Lumantarna (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.11011660/SIP/2009; Hidayat Syamsoeyadi (21405046)",
+  "subjects": "BEAMS"
+}

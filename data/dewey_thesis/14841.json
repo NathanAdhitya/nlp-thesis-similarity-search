@@ -1,0 +1,14 @@
+{
+  "id": "14841",
+  "title": "Perencanaan dan pembuatan peralatan untuk mencatat kelembapan udara dengan menggunakan mikroprosessor 8088 yang dapat dihubungkan dengan komputer IBM PC",
+  "abstract": "Alat pencatat kelembaban udara merupakan salah satu alat yang berguna untuk. mengukur banyaknya kadar uap air diudara. Karena perubahan beaaran kelembaban udara relatif lambat. maka cukup membosankan apabila kita ingin mendapatkan data-data kelembaban suatu ruangan da lam beberapa 4 am atau beberapa hari. Oalam tugas akhir ini dibuat suatu peralatan yang dapat mencatat secara automat is setiap selang waktu yang kita inginkan secara kontinyu. Da lam hal ini digunakan mikroproBe88or 8088 yang dapat diprogram 6elang waktu pengambilan datanya dan sekaligus menyimpan datanya. Peralatan ini menyimpan data didalam RAM minimum sistem. juga menampilkan hasil pengukuran kelembaban ruangan pada saat pengukuran yang ditampilkan dalam seven segment dua digit. Data dari hasil pengukuran ini disimpan didalam RAM sambil menunggu perintah transfer data. Apabila ada einyal transfer data, maka data ini akan dikirim ke komputer IBM PC. Selama pencatatan data. komputer dapat dimatikan dulu, dengan pendayagunaan dari komputer maka dapat dimanfaatkan untuk mengolah informasi atau data dari peralatan yang dibuat. agar informasi yang didapat lebih jelas. Yaitu dengan menampilkan hasil pengukuran pada layar monitor komputer IBM, merekam data pengukuran pada disket dan mencetak hasil pengukuran dengan printer untuk suatu laporan. Dari perencanaan dan pembuatan peralatan tugae akhir ini dapat disimpulkan bahwa alat ini dapat mengukur kelembaban udara antara <40 XRH 6ampai dengan 80 XRH, alat ini mempunyai seneitivitas sebesar 1 XRH / mV. maksimum data yang dapat disimpan sebesar 2000 data, dan dapat dioperasikan pada tegangan 110 / 220V.",
+  "creators": "ONG SHE KWANG",
+  "contributors": "AGUS MULYANTO (Advisor 1); SOETIKNO (Examination Committee 1); BENJAMIN FLEMING INTAN (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/018/0108; Ong She Kwang (485057)",
+  "subjects": "MICROPROCESSOR; TRANDUCERS"
+}

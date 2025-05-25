@@ -1,0 +1,14 @@
+{
+  "id": "9179",
+  "title": "Implementasi hard pada perancangan dan pembuatan search engine dokumen PDF dan teks dengan metode term frequency-inverse document frequency dan dice's coefficient",
+  "abstract": "Seiring bertambahnya jumlah dokumen yang beredar di masyarakat pada saat ini maka dibuat mesin pencari yang mampu mencari dokumen dengan akurat. Tugas akhir ini membahas sistem mesin pencari. Mesin pencari ini bertujuan untuk memberikan dokumen yang berhubungan dengan keyword sebagai input serta menampung dokumen. Implementasi HARD (High Accuracy Retrieval from Documents) sebagai dasar pembuatan mesin pencari bertujuan untuk mengelompokkan hasil pencarian kedalam ruang lingkup yang lebih kecil. Metode Tf-Idf (Term Frequency - Inverse Document Frequency) dan digunakan untuk menentukan hubungan relasi yang terjadi antara antara dokumen dengan keyword. Dengan metode Dice?s coefficient dihasilkan hubungan relasi antara dokumen dengan subyek, keyword dengan keyword, dan dokumen dengan dokumen. Hasil pencarian tidak hanya berupa dokumen yang mempunyai keyword pencari, tetapi juga menampilkan keyword lain yang berhubungan dengan keyword pencari dan dokumen yang berhubungan dengan dokumen hasil pencarian.",
+  "creators": "ROBBY JAYAPUTRA",
+  "contributors": "Kartika Gunadi (Advisor 1); Silvia Rostianingsih (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000495/INF/2006; Robby Jayaputra (26402006)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "12890",
+  "title": "Studi tentang peta kendali x tunggal sebagai pengganti peta kendali x dan S",
+  "abstract": "Sampai saat ini Peta Kendali I dan S (atau R) merupakan peta kendali yang umum dipakai di kalangan industri. Peta kendali ini dipakai untuk mendeteksi 2 jenis pergeseran proses yaitu pergeseran rerata dan pergeseran simpangan baku. Pada beberapa dekade, sejumlah penelitian dilakukan untuk menemukan algoritma yang dapat meningkatkan kepekaan peta kendali dalam pendeteksian. Pada saat .'\"epekaan peta kendali tersebut meningkat maka bersamaan dengan itu kesalahan dalam pendeteksian juga meningkat. Kesalahan ini adalali memberikan peringatan bahwa proses tidak stabil karena adapenyebab khusus seperti tegangan listrik yang tiba-tiba menurun, kelalaian operator dan lainnya padahal sebenarnya tidak terjadi apa-apa. Kesalahan ini disebut kesalahan jenis L Di dalam Tugas Akhir ini penulis mencoba membangun sebuah peta kendali 1 tunggal yang dapat menggantikan peta kendali *-S yang kepekaannya sama dengan kedua peta kendali tersebut tetapi tidak meningkatkan kesalahan jenis I. Penulis juga meneliti faktor-faktor yang mempengaruhi pemakaian peta kendali * tunggal. Untuk itu dilakukan simulasi yang menganalisa faktor-faktor tersebut dan pengaruhnya terhadap peta kendali 7-S dan I tunggal. Simulasi ini mengambil 7500 data acak dengan ukuran sampel 5, rerata 10 dan simpangan baku 1. Data-data tersebut kemudian digunakan untuk membangun batas kendali peta *, S dan * tunggal. Ini dilakukan sebanyak 10000 kali untuk meiihat kepekaan peta-peta tersebut dari ARLo-nya Batas kendali ini digunakan pada simulasi kedua untuk meiihat kepekaan peta kendali bila terjadi pergeseran. Simulasi kedua ini mengambil 6000 data acak dengan ukuran sampel yang sama tetapi rerata dan simpangan bakunya mengalami pergeseran tertentu. Simulasi kedua ini menghasilkan ARLi. Nilai ARLi peta kendali 7 -S dibandingkan dengan nilai ARLi peta kendali i tunggal sehingga didapatkan nilai rasionya Nilai rasio ini dipakai untuk menentukan kapan sebaiknya memakai peta kendali I tunggal.",
+  "creators": "JONI CENDERAKIAWAN",
+  "contributors": "Daniel Indarto Prajogo (Advisor 1); Tanti Octavia (Advisor 2); Jani Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 223/TI-49/1999; Joni Cenderakiawan (25495081)",
+  "subjects": "TOTAL QUALITY MANAGEMENT-STATISTICIAL METHODS"
+}

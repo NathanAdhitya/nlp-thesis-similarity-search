@@ -1,0 +1,14 @@
+{
+  "id": "29693",
+  "title": "Penyiapan program komputer untuk perhitungan dan penggambaran alinyemen vertikal dalam perencanaan geometrik jalan raya",
+  "abstract": "Dengan meluasnya penggunaan komputer dalam berbagai bidang, maka dalam skripsi ini kami mencoba untuk mengkomputerisasi perhitungan dan penggambaran alinyemen vertikal. Hal ini disebabkan pada perhitungan alinyemen vertikal terdapat perhitungan yang sama pada setiap lengkung. Pekerjaan yang berulang-ulang ini jika dilakukan dengan perhitungan secara manual akan banyak menyita waktu dan tingkat ketelitiannya rendah. Dengan digunakannya komputer untuk melakukan perhitungan dan penggambaran alinyemen vertikal, waktu yang digunakan akan lebih singkat dan hasil perhitungan serta penggambaran lebih teliti. Skripsi ini bertujuan untuk membuat progarm komputer yang dapat menghitung dan menggambar dengan bantuan bahasa TURBO BASIC dan paket program AutoCAD. Masalah yang dibahas pada skripsi ini adalah lengkung alinyemen vertikal dengan menggunakan lengkung parabola tingkat dua. Bahasa TURBO BASIC digunakan untuk melakukan perhitungan yang menghasilkan dua macam output yaitu teks file yang akan dibaca AutoCAD dan kertas kerja yang berisi hasil perhitungan. Output yang berupa kertas kerja meliputi tabulasi data yang terdiri dari daftar koordinat dan kecepatan rencana, tabulasi hasil perhitungan yang terdiri dari koordinat, gradien, perubahan landai, jenis titik, jenis lengkung, panjang lengkung dan Ev. Sedangkan paket program AutoCAD digunakan untuk menggambarkan hasil-hasil perhitungan yang dilakukan oleh TURBO BASIC baik melalui layar monitor maupun printer/plotter. Dengan penggunaan paket program AutoCAD kita dapat menggunakan fasilitas-fasilitasnya seperti perbesaran pada bagiah-bagian yang terlalu kecil.",
+  "creators": "IKA ISKANDAR ITAMURTI; AGUS SUKIATNO DANUSEPUTRA",
+  "contributors": "Harry Patmadjaja (Advisor 1); Sukanto Tedjokusuma (Advisor 2); Indriani Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 533 S; Ika Iskandar Itamurti (14286085), Agus Sukiatno Danuseputro (14286102)",
+  "subjects": "HIGHWAY ENGINEERING; ROAD CONSTRUCTION-DATA PROCESSING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "21243",
+  "title": "Prototipe player multimedia untuk presentasi",
+  "abstract": "Dewasa ini muncul beberapa software presentasi yang menyediakan berbagai macam fasilitas. Di antara yang ada belum ada yang mampu memberi kemudahan lebih bagi pemakai. Oleh karena itu, dalam penelitian ini, dirancanglah suatu prototipe software dari Microsoft Visual Basic yang mampu menangani presentasi dengan fasilitas-fasilitas: playlist/daftar main supaya dapat mengendalikan skenario presentasi, modul yang terpisah antara pengontrol dengan penampil sehingga penampil dapat menayangkan file yang dipresentasikan di monitor/ohp/televisi yang berbeda, mampu menangani dua jenis file presentasi yaitu AVI dan SWF, serta adanya database yang berfungsi untuk menyimpan playlist/daftar main ke dalam file. Database yang digunakan di sini dirancang di dalam Microsoft Access. Dari pengujian software Player Multimedia tersebut terlihat bahwa software bekerja baik pada file AVI, namun kurang pada SWF karena terbatasnya keterangan pada komponen yang dipakai, sehingga tidak dapat melakukan proses continue play dengan baik.",
+  "creators": "DJUWIHAN RAHARDJA",
+  "contributors": "Kartika Gunadi (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Undergraduate Thesis No. 01/E/KOM/001/077; Djuwihan Rahardja (23493091)",
+  "subjects": "MULTIMEDIA SYSTEMS; PRESENTATION SOFTWARE & ADD-ON (COMPUTER PROGRAM)"
+}

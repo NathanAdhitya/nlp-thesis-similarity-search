@@ -1,0 +1,14 @@
+{
+  "id": "44553",
+  "title": "Integrasi smart door lock dengan face recognition berbasis Raspberry Pi 3 dilengkapi fitur Google Assistant",
+  "abstract": "Tugas akhir ini bertujuan mengintegrasikan smart door dengan pengenalan wajah dan Google Assistant. Apabila wajah dikenali maka smart door akan melakukan unlock, apabila wajah tidak dikenali maka smart door tidak melakukan unlock dan notifikasi email akan dikirimkan ke pemilik rumah. Sedangkan Google Assistant dapat digunakan untuk memantau dan mengontrol smart door menggunakan smartphone atau perangkat lain yang menggunakan Google Assistant. Sistem smart door lock ini akan menggunakan Raspberry Pi 3 sebagai microcontroller utama dan menggunakan servo sebagai aktuator pengunci. Program akan menggunakan platform Node-RED, Blynk dan MQTT yang sangat membantu dalam pengembangan Internet of Things. Keseluruhan program akan ditulis menggunakan bahasa Python yang umum digunakan pada perangkat Raspberry Pi 3 yang menggunakan OS Raspbian. Pengenalan wajah akan menggunakan Haar Cascade dan Local Binary Pattern Histogram. Integrasi dengan Google Assistant akan menggunakan dialogflow dan firebase. Pengujian menunjukkan bahwa integrasi face recognition dengan smart door berhasil, apabila wajah dikenali dengan average confidence lebih dari 60% maka smart door akan melakukan unlock. Jika wajah tidak dikenali, notifikasi email berisi gambar wajah berhasil dikirimkan ke pemilik rumah. Google Assistant juga berhasil diintegrasikan untuk memantau dan mengontrol smart door dengan tingkat keberhasilan mencapai 92.8%.",
+  "creators": "IVAN SURYA HUTOMO",
+  "contributors": "Handy Wicaksono (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1); Indar Sugiarto (Examination Committee 2); Thiang (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010982/ELK/2019; Ivan Surya Hutomo (23415002)",
+  "subjects": "HUMAN FACE RECOGNITION (COMPUTER SCIENCE); RASPBERRY PI (COMPUTER)--PROGRAMMING; RASPBERRY PI (COMPUTER)"
+}

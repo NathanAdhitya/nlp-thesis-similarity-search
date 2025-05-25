@@ -1,0 +1,14 @@
+{
+  "id": "49020",
+  "title": "Program pengenalan nada monophonic dengan metoda spektrum matching",
+  "abstract": "Permasalahan yang terjadi sehingga proyek tugas akhir ini dibuat yaitu kurangnya pengadaan alat yang dapat merekam sebuah melodi yang dimainkan dan diubah menjadi transkrip musik. Pengenalan nada monophonic dengan metoda spektrum matching adalah program yang mengkonversi nada tunggal dari sebuah alat musik menjadi transkrip musik dalam not huruf. Metoda yang digunakan dalam program ini adalah penyesuaian frekuensi tertinggi dari nada inputan. Software pembentuknya adalah Borland Delphi 5.0. Dengan software ini analisa sinyal inputan dapat digambarkan dalam tampilan windows. Di mana perhitungan matematis sinyal akan dirumuskan dalam rumusan logika bahasa pemrograman Delphi yang didasari bahasa Pascal yang telah diterima selama perkuliahan. Sistem program secara global yaitu dengan menginputkan file wave yang berisi nada tunggal, dengan mendeskripsikan data file dalam domain waktu, selanjutnya kalkulasi FFT akan mengubah data dalam domain frekuensi dan diketahui, frekuensi dengan nilai amplitude dominan. Sebelum dikenali, sinyal difilter, dengan mengalikan nilai amplitude dengan nilai respon filter untuk mengurangi nilai amplitude yang berlebihan pada interval frekuensi yang ingin dikenali. Untuk mendapatkan bentuk sinyal semula, nilai amplitude tertinggi di standardkan besarnya dengan normalisasi. Dari sinilah, setiap nada akan memiliki sebuah frekuensi dengan amplitude tertinggi untuk dibandingkan dengan database. Hasil pengujian program ini berjalan dengan estimasi keberhasilan pengenalan sebesar 73,29 %.",
+  "creators": "ONNY",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010688/ELK/2004; Octavianus Onny Purwanto (23499132)",
+  "subjects": "COMPOSITION (MUSIC); COMPUTER MATHEMATICS"
+}

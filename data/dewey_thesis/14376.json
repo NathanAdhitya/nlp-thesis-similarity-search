@@ -1,0 +1,14 @@
+{
+  "id": "14376",
+  "title": "Perencanaan dan pembuatan perangkat lunak untuk manajemen perangkat jaringan komputer dengan protokol SNMP dan DMI",
+  "abstract": "Pada era globalisasi sekarang ini, penggunaan media komputer sebagai media pembantu dalam pekerjaan adalah hal biasa. Karena semakin banyaknya penggunaan komputer, maka semakin banyak pula pekerjaan yang diperlukan untuk mengatur/memelihara komputer yang ada. Jika komputer yang ada tersebut terhubung dalam suatu jaringan komputer, maka jaringan komputer ini dapat dimanfaatkan sebagai sarana untuk mempermudah dalam mengatur/mengawasi jaringan. Dalam dunia jaringan komputer ada 2 standar yang bisa digunakan untuk mengatur jaringan komputer yaitu Simple Network Management Protocol (SNMP) dan Desktop Management Interface (DMI). SNMP digunakan untuk mengatur server atau media perangkat jaringan komputer sedangkan DMI dikhususkan untuk mengatur komputer desktop beserta perangkatnya. SNMP dan DMI ini mempunyai kemampuan untuk melihat dan mengatur konfigurasi dari perangkat komputer dari jaringan. Pada tugas akhir ini dibuat sebuah sistem yang mempunyai kemampuan untuk melihat dan mengatur komputer-komputer yang terhubung dalam jaringan yang berdasarkan protokol SNMP dan DMI. Dengan menggunakan program ini dapat diharapkan mampu menyelesaikan masalah-masalah yang timbul pada administrasi jaringan komputer. Program tugas akhir ini meliputi pencarian host dan network, pengaturan routing table, pengaturan interface, statistik utilitas dari pemakaian data dari interface komputer. Dengan adanya fasilitas pencarian host dan network dapat diharapkan membantu dalam mencari konfigurasi network yang ada, fasilitas pengaturan routing table digunakan untuk melihat kondisi routing dari jaringan yang ada. Statistik digunakan untuk mengetahui seberapa besar efektifitas penggunaan interface pada jaringan komputer.",
+  "creators": "BUDI FIYANTO WIDJOJO",
+  "contributors": "Resmana Lim (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/KOM/018/022; Budi Fiyanto Widjojo (23493050)",
+  "subjects": "COMPUTER INTERFACE; COMPUTER NETWORKS"
+}

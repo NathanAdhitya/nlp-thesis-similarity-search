@@ -1,0 +1,14 @@
+{
+  "id": "5680",
+  "title": "Studi penggabungan nada pada harpa elektronik satu oktaf",
+  "abstract": "Untuk menghasilkan kualitas nada gabungan (polyphonic) pada harpa eletronik yang lebih baik, dilakukan beberapa studi metode penggabungan nada, baik dengan menggunakan gelombang kotak maupun gelombang segitiga. Dari hasil studi ini, dicari metode manakah yang paling baik digunakan untuk menghasilkan nada polyphonic. Studi penggabungan nada pada harpa elektronik satu oktaf, menggunakan sistem Adder dan sistem Sampling bergantian untuk menghasilkan nada polyphonic. Secara umum, rancangan sistem yang dipakai dalam studi ini sama dengan rancangan sistem pada tugas akhir dengan judul harpa elektronik dengan laser pointer. Mikrokontroler AT89S51 dengan frekuensi kristal 11, 0592 MHz digunakan sebagai `otak? yang mengatur jalannya sistem. Berdasarkan hasil pengujian, DAC 0808 pada level tegangan yang bernilai digital tinggi tidak sesuai dengan perhitungan secara teoritis, tetapi pada level tegangan rendah hasil yang didapat hampir sama dengan hasil perhitungan, sedangkan LM 386 menghasilkan bentuk gelombang tanpa cacat pada saat Vin 0,3 V dengan frekuensi berkisar antara 20 Hz - 50 KHz. Metode penggabungan nada dengan sistem Adder dengan menggunakan gelombang kotak menghasilkan nada polyphonic yang baik. Sedangkan jika menggunakan gelombang segitiga, nada polyphonic yang dihasilkan baik dengan menggunakan sistem Adder maupun sistem Sampling bergantian terdengar terputus-putus.",
+  "creators": "YURY YAPOLA",
+  "contributors": "Hany Ferdinando (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010791/ELK/2006; Yury Yapola (23401078)",
+  "subjects": "HARP-LUTE GUITAR AND PIANO MUSIC; SOUND-RECORDING AND REPRODUCING"
+}

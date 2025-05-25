@@ -1,0 +1,14 @@
+{
+  "id": "14302",
+  "title": "Pengontrol dan monitoring lampu gedung bertingkat dengan menggunakan encoder MC145026 dan encoder MC145027",
+  "abstract": "Dalam tugas akhir ini dirancang dan dibuat pengendalian lampu penerangan dengan menggunakan encoder MCI45026 dan decoder MCI45027. Sistem pengontrolan dengan feedback dan monitoring ini dapat dilihat mana lampu yang sedang menyala, mati atau mengalami kerusakan. Perencanaan yang dilakukan meliputi perangkat keras dan perangkat lunak. Perangkat keras terdiri dari komputer IBM PC sebagai pengendali, rangkaian interface komputer, encoder - decoder dan modulator - demodulator. Perangkat Lunak yang dibuat adalah dengan menggunakan bahasa pemrograman Turbo Pascal. Hasil yang diperoleh dari implementasi sistem ini berupa pengontrolan lampu dengan feedbcak dan monitoring dari 9 channel lampu.",
+  "creators": "RUDI HARTANTO",
+  "contributors": "YOHANES T. D. S (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/036/381; Rudi Hartanto (23493063)",
+  "subjects": "DECODER MC 145027; ENCODER MC 145026"
+}

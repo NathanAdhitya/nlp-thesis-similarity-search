@@ -1,0 +1,14 @@
+{
+  "id": "5169",
+  "title": "Aplikasi jaringan saraf tiruan pada kontrol kecepatan motor",
+  "abstract": "Perkembangan teknologi industri telah membawa teknologi pengendalian atau pengaturan pada suatu sistem yang mempunyai kemampuan dalam hal kecerdasan. Kemampuan dalam hal kecerdasan ini dapat diimplementasikan dengan beberapa cara antara lain dengan Jaringan Saraf Tiruan (JST), Fuzzy Logic dan Neuro Fuzzy. Dalam tugas akhir ini dibuat sistem kontrol untuk motor DC, dengan menggunakan JST, dengan struktur multilayer perceptron, dan dengan metode pelatihan backpropagation. Perencanaan yang dilakukan terdiri dari dua macam, yaitu perangkat keras dan perangkat lunak. Perangkat keras terdiri dari perangkat komputer, rangkaian interface Digital to Analog Converter (DAC), rangkaian Pulse Width Modulation(PWM), rangkaian tachometer, sensor dan motor DC. Sedangkan perangkat lunak terdiri dari perangkat lunak emulasi JST pada PC, dan perangkat lunak untuk tachometer. Pengujian pengendalian kecepatan motor ini dilakukan dengan meng- input-kan kecepatan motor yang diinginkan melalui PC. Pengendali dapat mengendalikan kecepatan motor dengan baik dan dapat bertahan pada waktu yang lama.",
+  "creators": "HENDRIK CHANDRA HERMAWAN",
+  "contributors": "Thiang (Advisor 1); Indar Sugiarto (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/665/ELK/2003; Hendrik Chandra (23498123)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

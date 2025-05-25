@@ -1,0 +1,14 @@
+{
+  "id": "11377",
+  "title": "Perencanaan dan pembuatan simulasi alat absensi dan penentu lokasi orang dalam suatu gedung dengan menggunakan mikrokontroler 8031 dan PC",
+  "abstract": "Untuk mendata kehadiran para karyawan dalam suatu perkantoran, digunakan mesin absensi dimana setiap karyawan memiliki kartu absensi tempat mencatat jam kedatangan dan jam pulang. Tetapi di gedung perkantoran dengan banyak ruangan, terkadang sulit mengetahui ruang tempat karyawan berada jika ia sering berpindah ruangan. Untuk mengatasi masalah diatas, dibuat alat absensi yang dapat mencatat jam kedatangan, dan jam pulang karyawan, hingga ruang yang ditempati. Dengan demikian aktifitas dari karyawan tersebut dapat diketahui dan disimpan dalam sebuah file pada komputer. Disini setiap orang akan memiliki pemancar sendiri dengan jenis data yang berlainan yang mencirikan orang tersebut. Data ini dipancarkan dalam bentuk cahaya infra merah. Data ini diterima oleh sensor infra merah yang ditempatkan pada tiap ruangan, lalu diteruskan ke multiplekser untuk membedakan ruang tempat data diterima, kemudian data tersebut diolah dan disimpan kedalam RAM oleh mikrbkontroler 8031. Untuk mencari lokasi dimana seseorang berada, nama orang tersebut dimasukkan melalui keyboard, kemudian diolah oleh mikrokontroler 8031. Setelah menemukan lokasi orang tersebut, maka data tersebut akan ditampilkan melalui display. Data yang ada pada RAM minimum system dapat dikirimkan kekomputer secara serial untuk ditampilkan, dicetak, atau disimpan kedalam suatu file. Komunikasi serial dengan komputer ini menggunakan standard RS-232. Kekuatan daya pancar dari transmiter dan jarak transmiter terhadap receiver sangat berpengaruh pada keberhasilan data yang dipancarkan untuk sampai pada bagian receiver. Selain itu posisi dan penempatan sensor infra merah juga menentukan.",
+  "creators": "TUWIN FING KASIM LEWA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/037/0194; Tuwin Fing Kasim Lewa (23489042)",
+  "subjects": "MICROCOMPUTERS-ACCES CONTROL"
+}

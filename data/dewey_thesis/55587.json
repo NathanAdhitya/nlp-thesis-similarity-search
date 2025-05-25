@@ -1,0 +1,14 @@
+{
+  "id": "55587",
+  "title": "Sistem Chatbot dengan metode naive bayes untuk menanggapi pertanyaan mahasiswa tentang pra skripsi",
+  "abstract": "Chatbot dapat digunakan sebagai pengganti manusia untuk dapat merespon pesan yang masuk. Kelebihan chatbot sangatlah berguna untuk membalas pesan secara otomatis karena dapat membantu manusia dan dapat menghemat waktu, biaya dan tenaga. Chatbot juga dapat membalas pesan 24/7 yang mana bisa membalas kapan saja. Pertanyaan yang berulang dapat membuat pembalas pesan menjadi kehabisan waktu karena harus membalas pesan itu terus menerus sehingga pada penelitian kali ini dibuatkan chatbot untuk dapat membantu membalaskan pesan dengan pertanyaan yang sudah memiliki jawaban yang pasti dan jelas. Dalam penelitian ini akan menggunakan naive bayes untuk dapat mengkategorikan atau klasifikasikan pesan sehingga dapat memberikan jawaban yang benar dan sesuai dengan pertanyaan yang diajukan. Hasil training menggunakan metode naive bayes menghasilkan akurasi 89,1%, precision 88,4%, recall 87,2%, dan f1-score 87,8% untuk kategori awal. Untuk sub kategori yang administratif memberikan hasil akurasi 82,5%, precision 90,3%, recall 76%, dan f1- score 76,4% dan untuk sub kategori teknis hasil akurasi 91,6%, precision 93,3%, recall 83,3%, dan f1-score 85,1%. Dan untuk hasil eksperimen tiap fitur sebesar 72% yang mana sistem berhasil menjawab 36 pertanyaan dengan benar dari 50 pertanyaan.",
+  "creators": "KEVIN GIOVANNI",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); Liliana (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022253/INF/2023; Kevin Giovanni (C14180086)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; COMPUTER SOFTWARE--DEVELOPMENT; SCRIPTING LANGUAGES (COMPUTER SCIENCE)"
+}

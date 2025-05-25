@@ -1,0 +1,14 @@
+{
+  "id": "49778",
+  "title": "Pemanfaatan IoT pada sistem sterilisasi rumah huni untuk pencegahan penularan covid-19",
+  "abstract": "Pada masa pandemi ini segala sesuatu dianjurkan dalam keadaan steril sehingga diperlukan suatu sistem untuk membantu upaya pencegahan penularan Covid-19 terutama pada rumah huni. Pada tugas akhir ini dirancang UV-C Box untuk keperluan sterilisasi barang dan wastafel otomatis untuk keperluan cuci tangan sebagai solusi dalam pencegahan penularan virus. UV-C Box (kotak sterilisasi) dan wastafel otomatis diletakkan di depan rumah sehingga orang yang berkunjung ke rumah dapat meletakkan barangnya di kotak sterilisasi untuk dilakukan proses sterilisasi dan pengunjung dapat memakai wastafel untuk mencuci tangan sebelum masuk ke dalam rumah. UV-C Box didesain untuk bekerja secara otomatis. Kotak sterilisasi ini memanfaatkan lampu UV-C dengan daya 8 Watt yang digunakan untuk sterilisasi barang selama 16 detik. Pada wastafel otomatis, terdapat dua kontainer sabun yang digunakan untuk menyuplai sabun secara otomatis apabila sabun habis. UV-C Box dan wastafel otomatis menggunakan mikrokontroler Arduino Mega 2560 dengan built in WiFi module ESP 8266 yang terkoneksi dengan smartphone melalui aplikasi Blynk. Berdasarkan hasil pengujian, sistem secara keseluruhan sudah berjalan sesuai dengan desain. Sensor proximity infra merah dapat mendeteksi objek di depannya dengan jarak maksimum 3 cm. Aktuator seperti motor DC, servo motor, dan pompa air dapat berjalan sesuai dengan desain. Durasi nyala lampu UV-C pada proses sterilisasi sudah sesuai dengan desain yaitu menyala selama 16 detik. Durasi ini ini didasarkan pada pertimbangan dosis 90% inaktivasi virus SARS Coronavirus Urbani.",
+  "creators": "ANTONIO ANDY PRAYOGA WANEI",
+  "contributors": "Thiang (Advisor 1); Resmana Lim (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011023/ELK/2021; Antonio Andy Prayoga Wanei (C11170038)",
+  "subjects": "INTERNET OF THINGS; SENSORY STIMULATION"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "15644",
+  "title": "Perencanaan dan pembuatan sistem pengaturan dengan komunikasi tanpa kabel berbasis mikrokontroler keluarga MCS-51",
+  "abstract": "The development of microprocessor/controller technology that is very fast, makes it possible to implement many control applications, and often in one control application we need more than one controller to handle some different tasks. So between controllers should have a communication to keep the application run in the right way. If there are so many controllers that involved, the cabling which is the connection media between controllers becomes more complex and complicated. Meanwhile the development of RF (Radio Frequency) technology even not as fast as the development of microprocessor, it also gives nuance to some of electronic applications. So when the two technologies above are combined together, it will create a communication that is effective and powerful. In this final task the combination of those two technologies above is represented by two controllers that is connected into peer to peer connection, where as controller, microcontroller 80C31 which is the member of MCS-51 family is being used. While air media (wireless) is used as communication media through frequency modulation (FM) at comercial frequency band (88 MHz - 108 MHz). Before being transmitted by FM transmitter, data is encoded using FSK (Frequency Shift Keying) method, with mark frequency (for digital data '1') 2400 Hz dan space frequency (for digital data '0') 1200 Hz. Matrix keypad 3X4 is used as data input module and to visualize data that already received, LCD 16X2 characters is being used. While to simulate the control action, an actuator module that is built from 8 LEDs is being used. The condition of those LEDs (ON or OFF) will be controlled by each controller. After doing some stage of test, the result is that the system can work well with 500 bps maximum transfer rate. Unfortunately the system can't communicate in long distance, but it can be overcomed by choosing or designing a good FM transmitter.",
+  "creators": "GUNAWAN",
+  "contributors": "Murtiyanto Santoso (Advisor 1); Resmana Lim (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/009/354; Gunawan (23490001)",
+  "subjects": "COMPUTER INTERFACES; ELECTRONIC DIGITAL COMPUTERS; INTEL MCS-55 (MICROCONNTROLLERS)"
+}

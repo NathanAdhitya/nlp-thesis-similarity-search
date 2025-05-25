@@ -1,0 +1,14 @@
+{
+  "id": "33745",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada Toko Gypsum Mulia Jaya",
+  "abstract": "Toko Gypsum Mulia Jaya adalah perusahaan yang bergerak di bidang penjualan dan pemasangan profil Gypsum, partisi, aluminium dan beberapa bahan bangunan lainnya. Saat ini sistem pencatatan stok di Toko Gypsum Mulia Jaya masih manual sehingga keakuratan data kurang relevan dan terkesan lambat. Selain itu pencatatan untuk setiap transaksi masih belum dilakukan. Berdasarkan permasalahan pada Toko Gypsum Mulia Jaya, maka dirancang sebuah sistem informasi administrasi yang dapat mencatat pembelian, pencatatan stok, konversi barang, penjualan, laporan dan reminder untuk mengatasi kebutuhan toko dalam mencatat setiap proses bisnis yang tejadi. Proses pembuatan aplikasi menggunakan Visual Basic 2010, sedangkan untuk database menggunakan SQL Server 2008. Hasil yang diperoleh dari pembuatan aplikasi sistem informasi administrasi ini antara lain, pembelian barang material dapat dicatat ke dalam database. Program dapat melakukan pencatatan segala transaksi jual beli. Proses pengecekan stok dilakukan secara automatis. Perhitungan laba/rugi untuk pendapatan dan pengeluaran menjadi lebih mudah. Tampilan aplikasi mudah digunakan berdasarkan hasil wawancara.",
+  "creators": "ANDRYANTO HARTONO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021397/INF/2015; Andryanto Hartono (26410056)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN; DATABASE MANAGEMENT"
+}

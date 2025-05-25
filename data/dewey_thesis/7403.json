@@ -1,0 +1,14 @@
+{
+  "id": "7403",
+  "title": "Aplikasi transfer citra menjadi suara pada mobile device untuk membantu orang buta melihat obyek sederhana",
+  "abstract": "Orang buta tidak bisa melihat, tetapi mereka bisa mendengar! Dengan bermodalkan pendengaran, orang buta dapat mengetahui suara yang ada disekitarnya dan dapat mengira-ngira sumber bunyi itu. Kelebihan ini dapat lebih dioptimalkan dengan adanya suatu aplikasi yang dapat men-transfer citra menjadi suara. Pada saat ini, perkembangan telepon selular yang mendukung teknologi Java semakin berkembang pesat. Aplikasi Java telah banyak digunakan pada telepon selular sebagai penunjang aktifitas sehari-hari. Salah satu contoh aplikasi yang bisa dikembangkan lebih lanjut ialah Image2Sound yang dapat digunakan untuk men-transfer citra menjadi suara, sehingga dapat membantu orang buta dalam mengenali obyek di sekitarnya. Pada tugas akhir ini dikembangkan aplikasi Image2Sound pada telepon selular berkamera untuk membantu orang buta mengenali suatu benda (obyek sederhana) yang berada didepannya berdasarkan pada suara yang dikeluarkan dari telepon selular tersebut. Aplikasi Image2Sound ini memanfaatkan kamera yang ada pada telepon selular untuk meng-capture citra kemudian dilakukan proses converting untuk men-transfer citra menjadi suara yang nantinya dapat dikenali dengan mendengarkan suara yang dikeluarkan dari telepon selular. Aplikasi Image2Sound ini dibuat dengan menggunakan bahasa pemrograman Java. Platform Java yang digunakan adalah Java 2 Platform Micro Edition (J2ME). Aplikasi ini telah diuji dengan menggunakan dua user. User yang pertama adalah orang buta. Pada pengujian pertama, waktu yang diperlukan lebih lama karena membutuhkan pelatihan pada orang buta tersebut. Tentu saja diperlukan orang normal untuk membimbingnya. User yang kedua adalah orang normal yang ditutup matanya. Pada pengujian kedua, waktu yang diperlukan tidak terlalu lama karena orang normal masih mempunyai memori terhadap bendabenda yang berada disekelilingnya. Berdasarkan hasil pengujian sistem dapat disimpulkan bahwa aplikasi Image2Sound dapat membantu user baik itu orang buta maupun orang normal yang matanya ditutup untuk mengenali suatu obyek sederhana yang berada di depannya.",
+  "creators": "SANDY YOAN APRILIANTO",
+  "contributors": "Resmana Lim (Advisor 1); Arie Wirawan Margono (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000335//INF/2005; Sandy Yoan Aprilianto (26401022)",
+  "subjects": "COMPUTER SOUND PROCESSING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "3451",
+  "title": "Aplikasi metode backpropagation untuk pengenalan perubahan abnormal organ pankreas melalui iris mata",
+  "abstract": "Kondisi organ tubuh dapat dianalisa dengan melihat susunan tekstur iris mata melalui metode iridologi. Metode iridologi telah diterapkan dalam dunia pengobatan sejak 3.000 tahun yang lalu di Asia Tengah, dan metode ini telah dikembangkan terus oleh para ahli kedokteran. Pada tahun 1982 oleh Dr. Bernard Jensen, PhD dari Alta Dena California membuat Chart to Iridology yang dipakai di seluruh dunia. Terdapat persoalan utama analisa susunan tekstur iris mata sangat diperlukan pengetahuan khusus. Tujuan dari tugas akhir ini adalah membantu ahli iridologi dalam proses analisa kondisi organ pankreas melalui iris mata. Citra mata pada saat awal citra di-crop hanya pada bagian iris dan pupil lalu di-Image Processing sehingga citra berubah dari warna menjadi Citra Grayscale dengan metode NTSC. Untuk selanjutnya citra di-enhancement dengan metode Histogram Equalization, nilai pixel pada citra diubah sehingga memiliki kontras yang seimbang, lalu citra diubah ke bentuk polar. Untuk tahap akhir dilakukan training dan testing pada citra mata dengan metode Backpropagation. Pengujian dilakukan dengan image mata dari pasien yang telah dibandingkan dengan hasil pengujian klinik. Software yang dipakai: Delphi 7 dan Microsoft Access. Hardware yang dipakai: handy camp Sony TRV 16 E untuk pengambilan sample. Dari percobaan yang telah dilakukan yaitu pengujian sample yang tidak dilatihkan dengan 2 layer hidden memiliki tingkat keberhasilan sebesar 92.57%, sehingga dapat disimpulkan bahwa software aplikasi ini dapat digunakan untuk analisa organ pankreas.",
+  "creators": "MARSETIO PRAMONO",
+  "contributors": "MAURIDHI HERRY PURNOMO (Advisor 1); Gregorius Satiabudhi (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010527/INF/2006; Marsetio Pramono (26402060)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

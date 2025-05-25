@@ -1,0 +1,14 @@
+{
+  "id": "36762",
+  "title": "Perencanaan enterprise architecture pada pabrik pipa besi PT X menggunakan metode Enterprise Architecture Planning",
+  "abstract": "PT X merupakan perusahaan yang bergerak di bidang produksi pipa besi, yang memiliki beberapa divisi untuk menjalankan kegiatan operasional perusahaan. Saat ini perusahaan telah memiliki sistem informasi untuk mendukung beberapa proses bisnis. Sistem informasi yang ada saat ini masih memiliki banyak kekurangan karena masih belum terintegrasi dengan baik. Sistem informasi tersebut hanya untuk mendukung proses akuntansi dan proses jual beli dalam perusahaan. Proses bisnis yang lain masih menggunakan pencatatan menggunakan aplikasi Microsoft Excel. Oleh karena itu, dalam skripsi ini akan dilakukan analisis dan pembuatan desain enterprise architecure untuk PT X. Kerangka kerja yang digunakan adalah Enterprise Architecture Planning. Proses analisa dan pembuatan desain akan diawali dengan pemahaman model dan strategi bisnis perusahaan. Setelah itu, akan dilanjutkan dengan perbandingan kondisi information technology dengan permasalahan dan kebutuhan information technology masa depan di perusahaan. Kemudian akan dilakukan pembuatan desain arsitektur data, arsitektur aplikasi, dan arsitektur teknologi yang sesuai dengan tujuan, strategi, dan proses bisnis perusahaan. Desain arsitektur data akan menghasilkan beberapa sub sistem perusahaan, seperti Sub Sistem Pembelian, Sub Sistem Keuangan dan Akuntansi, Sub Sistem Penjualan, Sub Sistem Gudang, Sub Sistem Produksi, dan Sub Sistem Personalia. Desain arsitektur aplikasi menghasilkan beberapa aplikasi yang mendukung sub sistem yang telah dihasilkan pada desain arsitektur data. Aplikasi utama yang dihasilkan, antara lain Sistem Informasi Pembelian, Sistem Informasi Keuangan dan Akuntansi, Sistem Informasi Penjualan, Sistem Informasi Gudang, Sistem Informasi Produksi, dan Sistem Informasi Personalia. Aplikasi-aplikasi tersebut akan didukung oleh aplikasi tambahan, seperti data provider yang berfungsi sebagai alat komunikasi dalam proses pertukaran data antar aplikasi menggunakan client/server architecture pattern dengan layanan data service oriented architecture.",
+  "creators": "KRISTIN TULASI",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021509/INF/2016; Kristin Tulasi (26413175)",
+  "subjects": "BALANCED SCORECARD; INFORMATION SYSTEM; INFORMATION TECHNOLOGY"
+}

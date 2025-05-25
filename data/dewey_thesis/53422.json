@@ -1,0 +1,14 @@
+{
+  "id": "53422",
+  "title": "Penerapan 3D human pose estimation indoor area untuk motion capture dengan menggunakan YOLOv4-Tiny, EfficientNet Simple Baseline, dan VideoPose3D",
+  "abstract": "Human pose estimation merupakan topik penelitian bertujuan untuk mengestimasikan koordinat setiap sendi manusia dari video atau gambar yang nantinya akan dihubungkan sehingga membentuk kerangka manusia. Pengaplikasian dari human pose estimation bisa digunakan untuk human activity recognition, training robots, augmented reality, motion capture, dan motion tracking untuk console (kinect). Namu, terdapat beberapa tantangan yang perlu diatasi, yaitu: gerakan yang beraneka ragam, perbedaan tampilan tubuh yang beragam termasuk dengan pakaian, dan lingkungan yang kompleks yang menyebabkan susah membedakan foreground dan background. Dengan berkembangnya neural network, peneliti sebelumnya mengatasi permasalahan tersebut dan menghasilkan hasil yang cukup akurat. Input yang digunakan adalah video manusia yang menampilkan seluruh tubuh dengan melakukan gerakan. Video dikelola setiap frame untuk dideteksi letak bounding box orang dengan YOLOv4-Tiny. Selanjutnya, bounding box diteruskan pada EfficientNet Simple Baseline untuk mengestimasikan koordinat 2D setiap sendi. Dan pada akhirnya akan diteruskan VideoPose3D dengan mengestimasi koordinat 3D dari koordinat 2D. Hasil pengujian modifikasi EfficientNet Simple Baseline menghasilkan kecepatan yang lebih cepat dengan waktu 4,54ms sedangkan Simple Baseline yang menghasilkan kecepatan 5,15ms. Akan tetapi akurasi modifikasi akan kurang akurat dengan rata-rata Percentage of Correct Keypoints head (PCKh@0.2) sebesar 86.82% dibandingkan Simple Baseline dengan rata-rata PCKh@0.2 sebesar 89.62%. Hal ini juga mempengaruhi hasil estimasi koordinat 3D menggunakan VideoPose3D dimana menggunakan modifikasi EfficientNet menghasilkan rata-rata Mean Per Joints Position Error (MPJPE) sebesar 25,3mm sedangkan Simple Baseline menghasilkan MPJPE sebesar 28.1 mm.",
+  "creators": "GERRY STEVEN",
+  "contributors": "Liliana (Advisor 1); ANITA NATHANIA PURBOWO, S.KOM. (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022161/INF/2022; Gerry Steven (C14180044)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--COMPUTER PROGRAMS; NEURAL NETWORKS (COMPUTER SCIENCE)--COMPUTER PROGRAMS; ARTIFICIAL NEURAL NETWORKS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5160",
+  "title": "Model sistem kontrol traffic light standalone melalui sms menggunakan Mikrokontroler",
+  "abstract": "Ada 2 macam traffic light yang berada di jalan raya kota Surabaya, yaitu networking dan standalone. Sebanyak 70% adalah standalone traffic light yang harus di-setting dengan datang ke area traffic light tersebut. Memperhatikan kondisi lalu lintas yang sangat dinamis, maka pengubahan setting akan banyak dilakukan. Oleh karena itu diciptakan sebuah sistem traffic light setting yang dapat dilakukan dari jarak jauh sehingga lebih praktis dilakukan. Pengaksesan sistem dari jarak jauh ini menggunakan SMS yang dikirimkan dari handphone. Sistem ini dibuat berdasarkan parameter yang ada pada traffic light di Surabaya yang didapatkan dari survey dan pengambilan data sistem di Pemerintah Kota Surabaya bagian Dinas Perhubungan Sub Dinas Lalu Lintas. Semua parameter dari sistem bisa diakses menggunakan SMS ataupun tombol pushbutton dan tampilan LCD yang termasuk dalam sistem. Parameter traffic light yang dapat diakses diantaranya jam, on/off traffic light, arah dan jalur traffic light, timer lampu traffic light, serta interval yang dapat di-set dalam 5 interval. Sistem ini menggunakan microcontroller AT89C55WD sebagai pengolah data dan processor dari traffic light. Handphone yang digunakan dalam sistem ini harus support AT Commands yang digunakan untuk mengambil data SMS dan mengirimkan balasan SMS (misal: Siemens S45). Dari hasil pengujian, sistem ini memiliki keuntungan lebih praktis digunakan dan waktu untuk setting traffic light lebih efisien.",
+  "creators": "LIM HENDRA KURNIAWAN H",
+  "contributors": "Resmana Lim (Advisor 1); Handry Khoswanto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010687/ELK/2004; Lim Hendra Kurniawan Halim (23499130)",
+  "subjects": "DATA TRANSMISSION SYSTEMS; MICROCONTROLLERS"
+}

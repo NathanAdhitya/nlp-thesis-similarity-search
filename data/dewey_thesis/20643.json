@@ -1,0 +1,14 @@
+{
+  "id": "20643",
+  "title": "Perancangan dan pembuatan sistem informasi penggajian karyawan pada PT. Karya Tama Rimba Cemerlang",
+  "abstract": "Pada PT. Karya Tama Rimba Cemerlang proses penghitungan gaji karyawan masih dilakukan secara manual oleh HRD. Daftar hadir karyawan diperoleh dari hasil absensi manual melalui sebuah mesin absensi, dimana setelah itu data diinputkan ke dalam program Microsoft Excel. Sistem ini tentunya memiliki beberapa kekurangan seperti membutuhkan waktu yang lama dalam mendapatkan data para karyawan dan mungkin terjadi kesalahan dalam input proses. Oleh karena itu dibutuhkan sebuah sistem penggajian yang terkomputerisasi dalam penghitungan dan pembuatan laporan. Pembuatan sistem penggajian dimulai dari pengamatan dan analisa terhadap sistem perusahaan. Kemudian dari data yang ada, dilakukan perancangan sistem penggajian yang disesuaikan dengan kebutuhan perusahaan dengan penyusunan dan pembuatan DFD, ERD, dan tabel-tabel yang dibutuhkan. Sistem penggajian yang dibangun merupakan integrasi dari modul penggajian dan modul administrasi. Penggajian meliputi gaji pokok, uang makan, uang lembur, bonus, perpajakan, jamsostek, THR dan cash bon. Administrasi meliputi pembuatan data karyawan, data absensi, data ijin/cuti, data pelanggaran dan PHK. Aplikasi penggajian ini dibuat dengan menggunakan Microsoft SQL Server 2008 untuk database-nya dan menggunakan Microsoft Visual Basic .NET 2010 sebagai compilernya. Kepuasan pengguna terhadap keseluruhan aplikasi sebesar 76%, sehingga dapat disimpulkan bahwa aplikasi sudah memenuhi dan sesuai dengan kebutuhan sistem, tapi masih ada beberapa kelemahan yang perlu untuk diperbaiki. Aplikasi ini membantu proses pencatatan dan penggajian sehingga membantu mempercepat proses pembuatan laporan gaji karyawan yang tepat dan akurat pada perusahaan.",
+  "creators": "FELIX MONTANA TANDION",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Arlinah Imam Rahardjo (Advisor 2); Iwan Njoto Sandjaja, S.T., MSCS. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021029/INF/2011; Felix Montana Tandion (26405043)",
+  "subjects": "DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

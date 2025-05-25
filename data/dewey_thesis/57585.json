@@ -1,0 +1,14 @@
+{
+  "id": "57585",
+  "title": "Perancangan air mancur otomatis sesuai tempo musik di urban farming Alam Sari Petra",
+  "abstract": "Alam Sari Petra merupakan sarana Urban Farming PPPK (Perhimpunan Pendidikan dan Pengajaran Kristen Petra) Petra yang memiliki tujuan untuk membangun kesadaran para siswa terhadap wawasan lingkungan. Urban Farming sendiri adalah praktek budidaya pemrosesan bahan pangan yang melibatkan sektor pertanian, sektor perikanan, dan sektor peternakan yang memanfaatkan lahan sempit dan terbatas untuk mencukupi ketahanan pangan lokal. Alam Sari Petra sendiri lebih berfokus ke sektor pertanian. Untuk menambah keelokan dari Urban Farming Alam Sari Petra, maka dirancangnya air mancur menari yang dapat menari sesuai tempo musik untuk menambah keindahan di Alam Sari Petra. Air mancur menari dirancang untuk dapat dikontrol ketinggian pancuran dan bergerak ke kanan kiri sesuai dengan keras suara dan frekuensinya. Hardware yang digunakan adalah Arduino Uno dengan memanfaatkan library ArduinoFFT dan AnalogRead. Alat diprogram menggunakan software Arduino IDE dengan memanfaatkan pulse timer menggunakan delay dan millis untuk mengatur tinggi pancuran dan gerakan aktuator ke kanan dan kiri. Hasil dari perancangan ini adalah air mancur dapat menari sesuai keras suara dan frekuensi suara yang didapat dari sumber audio berupa Handphone ataupun Laptop.",
+  "creators": "EZECHIEL CLIFFORD",
+  "contributors": "Resmana Lim (Advisor 1); Handry Khoswanto (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1); Thiang (Examination Committee 2); Julius Sentosa Setiadji (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010157/ELK/2023; Ezechiel Clifford (C11190026)",
+  "subjects": "URBAN AGRICULTURE; ARDUINO (PROGRAMMABLE CONTROLLER)--PROGRAMMING; AUTOMATIC CONTROL--COMPUTER PROGRAMS; FOUNTAINS"
+}

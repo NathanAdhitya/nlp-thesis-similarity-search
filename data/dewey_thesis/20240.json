@@ -1,0 +1,14 @@
+{
+  "id": "20240",
+  "title": "Pembuatan timbangan berat badan manusia dengan menggunakan linear variable Differential Tranfometer (LVDT)",
+  "abstract": "Dewasa ini timbangan badan yang ada dipasaran masih menggunakan jarum penunjuk dan juga menggunakan sistem mekanis dan pegas. Melihat keterbatasan dan kurang ketelitian yang ada menyebabkan timbulnya ide untuk membuat timbangan badan elektronik. Dimana timbangan badan elektronik ini menggunakan LVDT (Linier Variable Differential Transformer) sebagai transduser dan juga Personal Computer (PC). Secara garis besar prinsip kerja dari alat ini adalah transduser LVDT digunakan untuk mengubah perubahan gerak menjadi perubahan tegangan, sehingga nantinya perubahan tegangan ini diolah dengan menggunakan Personal Computer dan menampilkannya pada monitor dengan satuan kilogram. Timbangan badan elektronik yang dibuat dapat digunakan untuk menimbang badan dengan range 0 - 100 Kg. Pada pengujian timbangan elektronik digunakan barbell sebagai berat referensi. Barbell yang digunakan memiliki kenaikan 5 Kg dari 0 -1 00 Kg. Hasil dari penimbangan akan langsung ditampilkan pada monitor. Dari hasil pengujian didapat bahwa error rata-rata yang didapat adalah 1,12 %, sehingga dapat dikatakan bahwa timbangan badan elektronik ini bekerja cukup baik.",
+  "creators": "RONNY WIBISONO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/065/502; Ronny Wibisono (23495099)",
+  "subjects": "BALANCE WEIGHTS (MACHINERY)-COMPUTER PROGRAMS; INTEGRATED CIRCUITS-VERY LARGE SCALE INTEGRATION"
+}

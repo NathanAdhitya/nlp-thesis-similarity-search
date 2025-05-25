@@ -1,0 +1,14 @@
+{
+  "id": "10469",
+  "title": "Perancangan metodologi identifikasi koordinat titik pada permukaan obyek dengan pemanfaatan triangulasi laser",
+  "abstract": "Sebagai bagian sistem reverse engineering, laser scanner dikembangkan untuk menyelesaikan permasalahan dalam pemodelan obyek dengan geometri permukaan freeform kedalam data digital. Pengembangan sistem ini diawali dengan membangun metodologi untuk memperoleh posisi 3D titik pada permukaan obyek. Untuk memperoleh posisi titik pada permukaan obyek digunakan metode double frame sebagai referensi untuk mengkalibrasi kamera dalam memperoleh parameter transformasi koordinat pixel terhadap koordinat bidang referensi. Selanjutnya dapat diperoleh posisi pusat kamera yang digunakan untuk menentukan persamaan garis cahaya kamera dan persamaan bidang garis laser, dimana perpotongan keduanya akan menunjukkan posisi 3D titik pada permukaan obyek. Untuk menghasilkan berkas garis laser yang dapat dimaanfaatkan dalam penelitian, maka dilakukan perancangan laser line generator dengan memanfaatkan laser pointer dan cermin yang berputar untuk memantulkan berkas titik cahaya laser pointer keberbagai arah sehingga dihasilkan berkas berupa garis. Pengujian metodologi perhitungan untuk memperoleh posisi titik obyek dengan pemanfaatan rancangan laser line generator dilakukan dengan menggunakan software DAVID laser scanner dan MATLAB. Pada sistem ini intensitas garis laser mempunyai peranan penting terhadap hasil yang diperoleh, dimana semakin tinggi intensitas garis berkas laser, semakin baik hasil pemodelan yang diperoleh.",
+  "creators": "STANLEY ADIWENA OENTARYO",
+  "contributors": "Rudy Adipranata (Advisor 1); Stefanus Ongkodjojo, S.T., M.Sc. (Advisor 2); Joni Dewanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010823/MES/2007; Stanley Adiwena Oentaryo (24403010)",
+  "subjects": "LASERS-INDUSTRIAL APPLICATIONS"
+}

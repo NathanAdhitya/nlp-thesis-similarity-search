@@ -1,0 +1,14 @@
+{
+  "id": "3689",
+  "title": "Pembuatan aplikasi penerjemah Indonesian Query Language ke dalam bentuk SQL dengan metode non-deterministic finite automata",
+  "abstract": "Saat ini, penggunaan program database untuk menyimpan data sudah umum. Untuk mengoperasikannya, umumnya kita perlu mengerti mengenai Structured Query Language (SQL). Namun, tidak semua orang mengerti dan tahu mengenai SQL. Untuk itu perlu kiranya dibuat suatu aplikasi yang bisa menjembatani jarak tersebut dengan menggunakan Bahasa Indonesia yang memiliki pola seperti SQL. Pola itu disebut Indonesian Query Language (IQL). Konsep dari aplikasi ini adalah dengan menentukan pola dan grammar IQL yang diadaptasi dari SQL dengan menggunakan Non-Deterministic Finite Automata dan Context Free Grammar. Kemudian IQL tersebut diterjemahkan ke dalam bentuk SQL untuk selanjutnya dapat dioperasikan pada program database SQL Server 2000. Pengujian dari aplikasi ini menunjukkan bahwa IQL dengan bentuk yang terbatas bisa diterjemahkan menjadi SQL dan kemudian dijalankan pada program database SQL Server.",
+  "creators": "DAVID WIJAYA CHANDRA",
+  "contributors": "Rolly Intan (Advisor 1); Ibnu Gunawan (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010546/INF/2006; David Wijaya Chandra (26402128)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

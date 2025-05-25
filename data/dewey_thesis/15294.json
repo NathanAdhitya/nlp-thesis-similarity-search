@@ -1,0 +1,14 @@
+{
+  "id": "15294",
+  "title": "Statistical data mining pada database pasien di Rumah Sakit Umum Dr. Soetomo",
+  "abstract": "RSU Dr. Soetomo yang merupakan salah satu rumah sakit terbesar di Indonesia bagian Timur memiliki data pasien dalam jumlah yang besar. Data tersebut perlu diolah secara statistik sehingga dapat memberikan pengetahuan baru bagi pihak rumah sakit. Penggalian informasi tersebut dilakukan melalui proses data mining dengan beberapa teknik analisis statistik, seperti statistik deskriptif, survival analysis, serta spatial data analysis. Informasi yang dihasilkan dapat memberi masukan bagi pihak rumah sakit dalam melakukan tindakan preventif serta kuratif. Penelitian yang dilakukan menghasilkan sebuah program data mining berbasis R 2.9.0 yang dapat memudahkan pengguna untuk mengetahui gambaran umum mengenai jumlah penderita dari waktu ke waktu, karakteristik penderita penyakit, tingkat ketahanan hidup penderita penyakit, serta pemetaan penyebaran penyakit tersebut di area Surabaya. Dalam penelitian ini, data penderita penyakit Pneumonia digunakan untuk menggambarkan hasil keluaran program. Program dapat digunakan untuk semua data pasien pada setiap penyakit yang tercantum di database pasien RSU Dr. Soetomo.",
+  "creators": "STEFANIE HARTANTO",
+  "contributors": "Siana Halim (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021403/IND/2009; Stefanie Hartanto (25406014)",
+  "subjects": "HOSPITALS-ADMINISTRATION-DATA PROCESSING; MANAGEMENT-DATA PROCESSING"
+}

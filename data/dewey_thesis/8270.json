@@ -1,0 +1,14 @@
+{
+  "id": "8270",
+  "title": "Studi pengaruh metode sampling pada pengendalian kecepatan motor DC",
+  "abstract": "Studi ini mempelajari pengaruh frekuensi sampling pada pengendalian kecepatan motor DC. Untuk pengendalian kecepatan motor digunakan PID controller. Ada 2 metode yang digunakan dalam studi ini. Metode yang pertama adalah data yang diterima langsung dihitung lalu dikirimkan sedangkan metode yang kedua adalah data yang diterima (data ke-n) tidak langsung dihitung tetapi mengirimkan data hasil perhitungan yang sebelumnya (data ke n-1), kemudian menghitung data yang diterima (data ke-n). Perencanaan sistem pada studi ini menggunakan motor DC 3 volt yang dikontrol menggunakan mikrokontroler AT90S2313 dan driver TIP127 yang dihubungkan ke komputer (PC) secara serial dengan MAX232 untuk menjalankan PID controller menggunakan program Visual Basic 6.0. Pada masing-masing metode diuji dengan delay random dan tanpa delay random sebelum pengiriman data. Pemberian delay random bertujuan sebagai variasi waktu pengiriman data. Pada proses penyamplingan ditambahkan adanya gangguan (motor direm) untuk mengetahui apakah PID controller dapat mempertahankan set point kecepatan motor. Percobaan dilakukan dengan 3 time sampling. Untuk time sampling 32ms menggunakan nilai Kp = 8; Ki = 0,25; Kd = 0.15. Time sampling 16ms menggunakan nilai Kp = 10; Ki = 0,05; Kd = 0,01; sedangkan untuk time sampling 8ms menggunakan nilai Kp = 12; Ki = 0,01; Kd = 0,01. Berdasarkan hasil percobaan didapatkan bahwa metode 1 lebih cepat karena hasil perhitungan langsung dikirimkan ke mikrokontroler. Metode 2 lebih lambat karena hasil perhitungan tidak langsung dikirimkan, melainkan mengirimkan hasil perhitungan sebelumnya.",
+  "creators": "FERRYADI CIOKO",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010776/ELK/2006; Ferryadi Cioko (23401059)",
+  "subjects": "MICRO CONTROLLERS"
+}

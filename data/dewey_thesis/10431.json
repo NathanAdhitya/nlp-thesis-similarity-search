@@ -1,0 +1,14 @@
+{
+  "id": "10431",
+  "title": "Perancangan dan pembuatan data warehouse dan olap tools sistem informasi manajemen RSU Dr. Soetomo",
+  "abstract": "Pada saat ini RSU Dr. Soetomo mempunyai sistem yang sudah terkomputerisasi dengan menggunakan database Oracle 9i. Beberapa pencatatan transaksi yang terjadi masih bersifat manual. Hal ini disebabkan sistem yang digunakan masih dalam tahap pengembangan sehingga banyak terjadi perubahan. Sistem yang sudah digunakan pihak rumah sakit saat ini kurang mendukung analisa data dan pengambilan keputusan. Hal tersebut disebabkan sistem yang ada hanya dapat menunjang analisa data secara dua dimensi, sehingga untuk menganalisa data akan memerlukan waktu yang lama. Berdasarkan latar belakang yang dihadapi RSU Dr. Soetomo, maka dilakukan pembuatan perangkat lunak pada Tugas Akhir ini untuk mendukung pengambilan keputusan dengan menggunakan data warehouse dan OLAP Tools. Aplikasi ini meliputi proses transformasi dari database asal ke database star schema, analisa data menggunakan tabel dan grafik serta pembuatan pivot table. Aplikasi ini menggunakan Oracle 9i sebagai database dan Java Netbeans IDE 6.1 untuk desain interface dan pemrograman. Hasil pengujian menunjukkan bahwa informasi yang dihasilkan dari sistem adalah pengukuran data rawat inap, data operasi, data pembayaran dan data yang menunjang proses tersebut pada RSU Dr. Soetomo. Data tersebut dapat ditampilkan dalam berbagai sudut pandang untuk memudahkan pihak rumah sakit dalam menganalisa data.",
+  "creators": "DENNY IRAWAN",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Oviliani Yenty Yuliana (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010734/INF/2008; Denny Irawan (26404051)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

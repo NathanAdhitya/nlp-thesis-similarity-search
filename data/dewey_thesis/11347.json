@@ -1,0 +1,14 @@
+{
+  "id": "11347",
+  "title": "Perencanaan dan pembuatan alat untuk mentransmisikan data dari komputer ke printer melalui jala-jala PLN menggunakan mikrokontroler 8031",
+  "abstract": "Dalam pemakaian sebuah printer oleh beberapa komputer selama ini banyak digunakan selector switch mekanis. Alat tersebut dapat dipakai bila jarak antara komputer-komputer dengan printer tidak terlalu berjauhan. Bila jarak berjauhan kemungkinan untuk memperpanjang kabel standar memiliki beberapa kendala yaitu kabel tersebut adalah kabel data paralel yang tentu saja harganya relatif mahal. Memperpanjang kabel tersebut pun tidak begitu saja dapat dilakukan mengingat adanya jarak maksimum yang diperbolehkan supaya data dapat diterima tanpa penguatan. Penguatan untuk data paralel sulit untuk dilakukan disebabkan masalah timing dan kesimetrian. Pemakaian jala-jala sebagai media komunikasi merupakan salah satu alternatif untuk mengatasi keterbatasan di atas. Keuntungan pemakaian jala-jala tersebut meliputi : - Kabel listrik mudah didapat - Tidak memerlukan instalasi kabel komunikasi tambahan - Dalam pengembangan selanjutnya dapat digabungkan dengan peralatan untuk komunikasi data antar komputer dengan media yang sama yaitu jala-jala listrik, sehingga akan terbentuk suatu jaringan kerja (networking). Dalam pembuatan alat digunakan PPI 8255A, untuk mengatasi keterbatasan jumlah port yang dapat dipakai pada mikrokontroler 8031. Mikrokontroler 8031 sendiri digunakan untuk mengontrol proses dengan mengkoordinir pemakaian EPROM dan RAM, pengubah data paralel menjadi serial dan sebaliknya. Untuk keperluan modulasi dan demodulasi dipergunakan sebuah IC yang berfungsi sebagai Carrier Current Transceiver, yaitu LM1893.",
+  "creators": "HARTONO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi no. 95/E/EL/039/0242; Hartono (23489010)",
+  "subjects": "DATA TRANSMISSION SYSTEMS"
+}

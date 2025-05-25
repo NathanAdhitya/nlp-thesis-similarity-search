@@ -1,0 +1,14 @@
+{
+  "id": "17457",
+  "title": "Perencanaan dan pembuatan alat pengaman terhadap arus lebih, arus gangguan ke tanah, tegangan kurang dan tegangan lebih pada sistem tegangan 220/380 V dengan menggunakan microcontroller MCS51",
+  "abstract": "Seiring dengan majunya teknologi pada saat ini, maka kebutuhan akan listrik semakin meningkat pula. Keadaan ini menuntut adanya sistem pengoperasian dan pendistribusian listrik yang lebih baik, yang dapat dicapai bila sistem pengaman yang digunakan dalam menunjang sistem pengopera-sian dan pendistribusian listrik tersebut cukup handal. Salah satu bagian yang penting pada rele pengaman adalah bagian elemen pembanding, yaitu suatu elemen yang bertugas membandingkan nilai yang diamati atau harga yang dideteksi terhadap suatu nilai referensi. Dalam hal ini ketepatan nilai referensi sangat diutamakan. Sedangkan pada rele elektromekanik yaitu rele konvensional nilai referensinya tergantung pada gaya pegas yang dapat diubah-ubah sesuai dengan setting dari rele. Karena harga referen-sinya menggunakan pegas, maka perlu diadakan pengecekan atau disetting ulang beberapa bulan sekali untuk menjaga kehandalan rele. Aplikasi dari microcontroller memiliki peranan yang sangat penting dalam perkembangan rele pengaman sistem tenaga listrik. Keunggulannya adalah harga referensinya lebih tepat dibanding dengan yang menggunakan pegas. Karena kemampuannya untuk melakukan tugas-tugas yang rumit namun disainnya yang sederhana, microcontroller dapat mengganti-kan tugas dari bermacam-macam rele antara lain rele arus lebih, rele tegangan kurang,- rele tegangan lebih dan rele waktu. Di samping itu pengaman yang menggunakan sistem digital membutuhkan konsumsi daya listrik yang kecil.",
+  "creators": "HERIJ SANTOSO",
+  "contributors": "BUNAWI GUNAWIDJAJA (Advisor 1); Limboto Limantara (Advisor 2); ONTOSENO PENANGSANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/TST/030/0184; c (23490122)",
+  "subjects": "INTEL MCS-51 (MICROCONTROLLER); AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

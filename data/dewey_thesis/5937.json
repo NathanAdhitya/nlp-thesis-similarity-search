@@ -1,0 +1,14 @@
+{
+  "id": "5937",
+  "title": "Usulan perencanaan pseudo elastis menggunakan kolom eksterior",
+  "abstract": "Konsep yang umumnya digunakan dalam mendesain struktur rangka beton bertulang adalah konsep Capacity Design. Pada konsep tersebut, kolom direncanakan lebih kuat daripada balok (Strong Column Weak Beam) sehingga sendi plastis terjadi pada ujung-ujung balok bukan pada kolom kecuali bagian bawah kolom dasar. Agar hal tersebut dipenuhi, perencanaan kolom didasarkan oleh besarnya momen nominal aktual balok dengan penambahan over strength factor sehingga perencanaan kolom baru dapat dilakukan setelah perencanaan balok selesai. Studi ini memaparkan suatu alternatif perencanaan yang lebih praktis, yang dinamakan Pseudo Elastis, dimana perencanaan kolom tidak bergantung pada kapasitas lentur balok. Dalam penelitian ini, kolom-kolom eksterior dari suatu model bangunan 6 lantai direncanakan secara elastis pada taraf gempa tertentu sedangkan pada balok maupun kolom interior diperkenankan terjadi sendi plastis. Struktur tersebut kemudian dianalisa perilakunya dan dibandingkan antara struktur yang direncanakan dengan Pseudo Elastis dengan struktur yang sama dimana struktur tersebut direncanakan dengan konsep Desain Kapasitas. Dalam penelitian ini gempa target yang digunakan adalah gempa dengan periode ulang 100 tahun, 200 tahun, 500 tahun, dan 1000 tahun untuk wilayah gempa 2 menurut Konsep SNI 1726-2002 dengan kondisi tanah di bawah bangunan adalah tanah lunak. Analisa yang digunakan adalah Analisa Statik Non-Linear Pushover dengan program ETABS v 8.0. dan Analisa Dinamik Non-Linear Riwayat Waktu dengan program Ruaumoko 3D. Hasil analisa menunjukkan bahwa struktur yang direncanakan dengan Pseudo Elastis memberikan hasil yang kurang lebih sama dengan hasil yang diperoleh dari struktur yang direncanakan dengan Desain Kapasitas. Bahkan dalam beberapa hal hasil yang diperoleh dari struktur yang direncanakan dengan Pseudo Elastis memberikan hasil yang lebih baik daripada struktur yang direncanakan dengan Desain Kapasitas. Perilaku struktur yang ditinjau dalam penelitian ini baik untuk struktur yang direncanakan dengan konsep Pseudo Elastis maupun Desain Kapasitas adalah simpangan maksimum, posisi sendi plastis, performance point, damage index (DI), dan kurva kapasitas.",
+  "creators": "FENDY SUSANTO; SISILIA WINDY",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Takim Andriono (Advisor 2); Pamuda Pudjisuryadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 1327/SIP/2004; Fendy Susanto (2140001), Sisilia Windy (21400011)",
+  "subjects": "STRUCTURAL DESIGN; EARTHQUAKE RESISTANT DESIGN"
+}

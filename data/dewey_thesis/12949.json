@@ -1,0 +1,14 @@
+{
+  "id": "12949",
+  "title": "Pengaturan cray pada sistem simulasi cahaya rumah tinggal dengan menggunakan minimum sistem 89C51",
+  "abstract": "Rumah yang sehat dewasa ini harus mempunyai pencahayaan ruangan yang cukup baik. Oleh sebab itu di dalam ruangan terdapat jendela untuk memperoleh pencahayaan yang baik dan merata bagi penghuninya sendiri. Dalam hal ini digunakan motor stepper sebagai penggerak penutup cray pada jendela sehingga dapat diatur intensitas cahaya yang sesuai dengan selera penghuni ruangan. Inputan dari dua LDR ( 1 diluar ruangan yang 1 lagi didalam ruangan) diterima dan diteruskan ke ADC {Converter, kemudian diolah oleh mikrokontroler 89C51 sesuai ketentuan yang diinginkan. Motor stepper digunakan untuk mengerakkan penutup jendela sampai diperoleh suatu posisi masukan cahaya ke dalam ruangan. Gerakan ini berlangsung terus sampai diperoleh harga yang sesuai dengan input LDR yang berada di dalam ruangan tersebut. Hasil pengujian alat menunjukkan, bahwa suatu sistem untuk stabil sangat sulit. Hal ini disebabkan oleh faktor pencahayaan yang sering dipengaruhi oleh cuaca yang tidak menentu. Ukuran ruangan yang berbeda juga mempengaruhi intensitas cahaya pada ruangan tersebut.",
+  "creators": "BUDI",
+  "contributors": "IRWAN SAHLI (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/024/461; Budi ( 23493069)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10680",
+  "title": "Pengenalan suara dengan time delay neural network untuk mengatur kecepatan motor universal",
+  "abstract": "Pada tugas akhir ini dibuat suatu sistem pengendali kecepatan motor universal menggunakan perintah dari suara manusia. Sehingga diperlukan sistem pengenalan suara manusia, di mana sistem yang dipakai adalah jaringan saraf tiruan dengan arsitektur time delay neural network. Sinyal suara dalam bentuk file wave, yang menyampling suara dengan cara pulse coded modulation. Data sinyal tersebut diubah dari amplitudo ke bentuk frewenksi dengan menghitung banyak data dalam satu periode dibagi frekuensi sampling. Jaringan yang dibuat mempunyai satu layer input (terdiri dari 15 neuron), tiga lapis hidden (maksimal terdiri dari 100 neuron tiap lapisan), dan satu layer output terdiri dari dua neuron. Antara neuron input diberi bobot, sehingga antara neuron input tercipta delay dan data input dimasukkan satu persatu sambil melatih jaringan. Hal ini dilakukan berulang ulang sampai sistem mampu membedakan input yang satu dengan yang lainnya. Setelah dilakukan pengujian, ternyata didapat arsitektur jaringan yang mampu mengenali empat macam suara (stop, cepat, sedang, pelan) untuk tiap lapisan. Untuk satu lapisan didapat 90 neuron, dua lapisan 40 neuron, tiga lapisan 70 neuron. Walaupun dapat mengenali empat macam suara, sistem ternyata belum mampu mengenali variasi variasi keempat macam suara tersebut, sehingga latihan pengenalan variasi suara yang lebih banyak, 3 orang dengan 3 variasi suara, sistem tidak dapat mengenali variasi suara tersebut.",
+  "creators": "BUDI SUSANTO",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/055/492; Budi Susanto (23491136)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; ELECTRIC MOTORS-ELECTRONIC CONTROL"
+}

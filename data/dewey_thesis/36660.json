@@ -1,0 +1,14 @@
+{
+  "id": "36660",
+  "title": "Pengenalan huruf Jawa menggunakan jaringan syaraf tiruan feedforward backpropagation dan elman type",
+  "abstract": "Proses pelatihan merupakan bagian yang terpenting untuk dapat mengenali sesuatu , karena tanpa pelatihan, tidak mungkin data yang ada dapat mengenali sesuatu hal yang ingin dikenali. Proses pelatihan untuk mengenali huruf Jawa memiliki tingkat kesulitan sendiri untuk mengumpulkan data yang dapat digunakan untuk proses pelatihan pengenalan huruf Jawa, serta butuh waktu yang lama untuk melakukan proses pelatihan. Dalam skripsi ini dikembangkan aplikasi yang dapat melakukan proses pelatihan pengenalan huruf Jawa dengan data ekstraksi fitur yang ada. Adapun proses yang dilakukan adalah sebagai berikut: gambar huruf Jawa yang sudah disegmentasi sebelumnya, akan di ekstraksi fiturnya, kemudian data hasil ekstraksi fitur dijadikan input untuk melakukan proses pelatihan dalam Backpropagation dan Elman Type. Hasil proses pelatihan berupa data bias dan weight yang nantinya bila sudah dirasa dapat menghasilkan output yang baik, digunakan untuk dapat mengenali huruf Jawa dari data ekstraksi fitur huruf Jawa lainnya. Input berupa 7 atribut dari data ekstraksi fitur, yaitu meliputi jumlah loop, jumlah line dan jumlah curve dari gambar sebuah huruf Jawa . Output berupa bias, weight, dan hasil pengenalan huruf Jawa disimpan dalam file.txt. Aplikasi ini dibuat dengan bahasa pemrograman C# dengan Microsoft Visual Studio 2010 sebagai IDE-nya. Hasil pengujian menunjukkan bahwa akurasi pengenalan huruf Jawa dengan menggunakan metode Elman lebih baik daripada Backpropagation.",
+  "creators": "HANS CHRISTIAN INDRAYANA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Advisor 2); Kristo Radion Purba S.ST. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021526 /INF/2016; Hans Christian Indrayana (26411083)",
+  "subjects": "ARTIFICIAL INTELLIGENCE-COMPUTER PROGRAMS; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

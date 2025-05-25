@@ -1,0 +1,14 @@
+{
+  "id": "1412",
+  "title": "Implementasi algoritma genetika untuk mendapatkan rute terbaik berdasarkan jarak, waktu dan kondisi rute",
+  "abstract": "Algoritma genetika adalah suatu algoritma yang dasarnya adalah dari mekanisme seleksi dan mekanisme genetika alami. Algoritma genetika ini dapat digunakan untuk menyelesaikan masalah optimasi tanpa menggunakan suatu model matematika yang sulit dan kompleks. Tujuan dari tugas akhir ini adalah mendapatkan hasil yang paling optimal didalam masalah transportasi ini baik dari segi jarak yang ditempuh, waktu yang diperlukan maupun kondisi rute (jalan rusak, jalan satu arah dan kepadatan jalan) tersebut dengan menerapkan algoritma genetika. Dalam tugas akhir ini memakai representasi kromosom yang menggunakan bit string. Metode seleksi yang dipakai adalah roulette-wheel, elitism dan gabungan roulette-wheel dan elitism. Proses kawin silang memakai dua cara yaitu kawin silang dengan satu titik potong dan dua titik potong. Kriteria penghentian regenerasi memakai sistim 10000 * (1 + jumlah syarat) dari nilai obyektif optimal terakhir. Metode pengujian yang dipakai adalah melakukan proses algoritma genetika dengan melakukan variasi pada jumlah kromosom, crossover rate, mutation rate dan syarat rate dengan ketiga metode seleksi dan kedua titik potong. Dari hasil pengujian didapatkan metode roulette-wheel dengan satu titik potong, Pin antara 0.3-1 dan Pc 0.9 merupakan hasil yang terbaik.",
+  "creators": "ELEAZAR",
+  "contributors": "Thiang (Advisor 1); Anies Hannawati (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/018/564; Eleazar (23497029)",
+  "subjects": "COMPUTER ALGORITHMS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

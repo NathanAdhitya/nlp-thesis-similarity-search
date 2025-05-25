@@ -1,0 +1,14 @@
+{
+  "id": "8982",
+  "title": "Perancangan dan pembuatan program visualisasi pelabuhan untuk Pelsus Petrokimia Gresik",
+  "abstract": "Pada saat ini, proses administrasi sandar kapal di Pelabuhan Khusus (Pelsus) Petrokimia Gresik masih menggunakan sistem manual. Sistem ini mengalami kendala yaitu terjadinya kerumitan pada saat banyaknya aktifitas yang harus ditangani sehingga perlu dibuatkan suatu program untuk mengatasi kendala tersebut. Untuk mendesain Program Visualisasi Pelabuhan diawali dengan pembuatan Data Flow Diagram (DFD) dan Entity Relationship Diagram (ERD) untuk database yang digunakan. Desain tersebut diimplementasikan menggunakan bahasa pemrograman Borland Delphi 2.0 dan Microsoft Access 97 untuk implementasi database. Teknik pemrograman yang digunakan antara lain bubble sort, decision, beberapa looping dengan logika while, for, repeat-until serta beberapa perhitungan matematis. Program ini memiliki fasilitas tampilan grafis tentang posisi-posisi perencanaan sandar kapal pada tanggal tertentu dan informasi untuk penagihan. Hasil pengujian menunjukan bahwa program ini telah mampu mengakomodasi beberapa kasus yang diaplikasikan.",
+  "creators": "WISNU ARIE WIBOWO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 010120/INF/2003; Wisnu Arie Wibowo (26498116)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT"
+}

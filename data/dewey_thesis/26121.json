@@ -1,0 +1,14 @@
+{
+  "id": "26121",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada Toko Istora Sport di Mataram Lombok",
+  "abstract": "Toko Istora Sport merupakan toko yang menjual barang barang olah raga yang cukup berkembang, Toko Istora memiliki banyak transaksi penjualan maupun pembelian setiap harinya. Transaksi yang terjadi di Toko Istora setiap harinya masih manual. Baik perhitungan stok barang maupun akuntansi masih secara manual. Hal ini menyababkan sering kali terjadi kesalahan di dalam perhitungan stok barang maupun perhitungan akuntansi. Dengan adanya perubahan sistem dari manual ke sistem yang terkomputerisasi maka masalah-masalah tersebut dapat terselesaikan. Karena itu dibutuhkan sistem informasi secara terkomputerisasi untuk membantu Toko Istora dalam melakukan pencatatan aktivitas yang terjadi setiap harinya dan mengolah data tersebut menjadi suatu informasi yang berguna bagi Toko Istora dalam pengembangannya ke depan. Sistem informasi akuntansi ini juga diharapkan dapat mengurangi kesalahan di dalam pencatatan aktivitas yang terjadi dan menghasilkan laporan yang berguna untuk perusahaan. Aplikasi ini dibuat dengan menggunakan bahasa pemograman Microsoft Visual Studio 2005 .Net dan Microsoft SQL Server 2005 sebagai tempat penyimpanan database. Aplikasi yang dibuat meliputi database master, transaksi pembelian, penjualan dan retur, proses akuntansi yang berkaitan dengan pembuatan jurnal secara otomatis, serta laporan keuangan secara otomatis. Hasil pengujian terhadap aplikasi menunjukan bahwa aplikasi sudah dapat melakukan perhitungan secara otomatis dengan memproses data akuntansi yang terhubung dengan transaksi yang terjadi. Tingkat akurasi perhitungan yang sudah baik dapat dilihat dari 60% responden menjawab baik dan 40% responden menjawab sangat baik. Kesesuaian aplikasi akan kebutuhan perusahaan yang cukup baik dapat dilhat dari 60% responden menjawab baik.",
+  "creators": "RANI SAVITRI THEJASUKMANA",
+  "contributors": "Andreas Handojo (Advisor 1); Alexander Setiawan (Advisor 2); CHRISTIAN, SE, AK (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021071/INF/2011; Rani Savitri Thejasukmana (26408090)",
+  "subjects": "DATABASE MANAGEMANT; MICROSOFT SQL SERVER 2005; MICROSOFT VISUAL STUDIO 2005 (COMPUTER PROGRAM LANGUAGE); DATABASE DESIGN"
+}

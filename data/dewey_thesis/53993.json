@@ -1,0 +1,14 @@
+{
+  "id": "53993",
+  "title": "Studi eliminasi shear locking pada balok Timoshenko dan pelat Reissner-Mindlin dengan least square smoothed assumed strain",
+  "abstract": "Metode elemen hingga merupakan salah satu metode yang penting dan menjadi bagian yang sangat diperlukan di dalam teknik analisis dan desain. Namun, ada salah satu masalah yang sampai saat ini belum dapat diatasi, masalah tersebut adalah shear locking. Pada penelitian kali ini, digagas suatu metode untuk mengeliminasi shear locking yang disebut dengan least square smoothed assumed strain. Metode ini akan diuji pada balok Timoshenko dan pelat Reissner-Mindlin. Pada pengujian terhadap balok Timoshenko, dilakukan tes momen murni, tes shear locking dan tes konvergensi dan akurasi. Pada pengujian terhadap pelat Reissner-Mindlin, dilakukan patch test, pelat lingkaran, pelat rhombic, pelat bujursangkar, tes distorsi geometri, dan tes geometric invariant. Hasil dari penelitian ini adalah metode LSSAS sudah cukup efektif dan efisien dalam menangani permasalahan shear locking pada elemen balok Timoshenko elemen linear, kuadratik, dan kubik, namun masih gagal dalam menangani permasalahan shear locking pada elemen pelat Reissner-Mindlin untuk elemen linear-segitiga.",
+  "creators": "SUGIYONO HARTONO; HENOKH GUNAWAN TJAHYONO",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Effendy Tanojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012590/SIP/2022; Sugiyono Hartono (B11180152), Henokh Gunawan Tjahyono (B11180151)",
+  "subjects": "BEAMS; BEAM DYNAMICS"
+}

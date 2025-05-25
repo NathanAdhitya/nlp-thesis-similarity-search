@@ -1,0 +1,14 @@
+{
+  "id": "5459",
+  "title": "Pembuatan dan perancangan program untuk rendering gambar dengan ray tracing",
+  "abstract": "Dalam dunia grafik yang semakin berkembang kadang kala dibutuhkan suatu perangkat lunak yang dapat menampilkan gambar berupa objek dengan memperhatikan efek pencahayaan, selain itu objek tersebut juga perlu digambar ulang dengan menggunakan media komputer agar dapat diubah sesuai dengan keinginan dari sang pengguna. Pada tugas akhir ini akan dirancang sebuah perangkat lunak yang dapat menggambarkan objek seperti keadaan sesungguhnya. Penggambaran objek ini akan dibuat dengan cara mencari titik tabrak sinar dengan objek. Setelah titik tabrak ditemukan maka akan diberi warna sesuai dengan warna objek yang terkena cahaya. Pewarnaan dilakukan dengan menggunakan OpenGl. Bahasa pemrograman yang digunakan adalah Microsoft Visual C++ 6.0. Perangkat lunak yang dihasilkan ini dapat menggambarkan objek-objek sederhana seperti bidang datar, kubus, bola, kerucut, tabung dan poligon. Perangkat lunak ini menggunakan lampu yang berupa titik dalam penggambarannya serta memperhatikan efek-efek pencahayaan seperti bayangan, diffuse,dan specular.",
+  "creators": "TOMI SUSANTO",
+  "contributors": "Kartika Gunadi (Advisor 1); Liliana (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000259/INF/2004; Tomi Susanto (26400002)",
+  "subjects": "COMPUTER GRAPHICS--COMPUTER PROGRAMS; COMPUTER GRAPHICS"
+}

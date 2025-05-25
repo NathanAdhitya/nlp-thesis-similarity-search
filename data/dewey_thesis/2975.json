@@ -1,0 +1,14 @@
+{
+  "id": "2975",
+  "title": "Caller ID PSTN untuk penyiar radio",
+  "abstract": "Jika seorang operator radio menerima informasi seperti request lagu, keadaan jalan dan informasi lainnya dari seorang penelepon, maka operator itu biasanya menanyakan nomor telepon dan nama si penelepon, kemudian semua informasi tersebut dicatat untuk dibacakan oleh penyiar radio. Untuk memudahkan proses penyampaian informasi ini maka dibuatlah suatu hardware yang secara otomatis membaca informasi nomor telepon si penelepon (fasilitas caller ID) dan suatu software dioperasikan di komputer yang dapat menampilkan, mengolah, dan menyimpan informasi ? informasi tersebut. Sebelum membuat software, telah dilakukan penelitian ke salah satu stasiun radio guna merencanakan feature ? feature software yang akan dibuat. Dari hasil pengujian yang telah dilakukan, hardware dapat menerima data caller ID berupa data tanggal, waktu, dan nomor telepon penelepon setiap terjadi panggilan telepon. Data caller ID kemudian dibawa ke komputer. Software di komputer dapat menampilkan data tersebut, dapat di-input-kan informasi nama dan lainnya, dan dapat menyimpan semua informasi ke dalam file database. Jika nomor telepon yang sama menelepon kembali maka informasi nama dan lainnya secara otomatis akan muncul. Jadi hardware berfungsi dengan baik, dan software berfungsi sesuai feature - feature yang telah direncanakan.",
+  "creators": "HENDRA SETIADI",
+  "contributors": "Resmana Lim (Advisor 1); Handry Khoswanto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010720/ELK/2005; Hendra Setiadi (23499017)",
+  "subjects": "SOFTWARE ENGINEERING"
+}

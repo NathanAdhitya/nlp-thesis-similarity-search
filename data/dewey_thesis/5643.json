@@ -1,0 +1,14 @@
+{
+  "id": "5643",
+  "title": "Aplikasi GPS pada kapal penangkap ikan",
+  "abstract": "Pada proses penangkapan ikan dengan menggunakan bubu, kapal membawa bubu kosong yang kemudian ditebarkan pada daerah tempat berkumpulnya ikan-ikan. Kemudian dilakukan pengambilan bubu lama yang telah ditebarkan pada hari sebelumnya. Pada proses pengambilan bubu lama, nelayan seringkali bingung untuk menentukan posisi bubu yang telah ditebarkan. Dari permasalahan tersebut, timbulah ide untuk membuat Aplikasi GPS pada Kapal Penangkap Ikan. Metode yang digunakan adalah menggunakan module GPS TFAG-10 untuk memberikan data-data posisi lintang dan bujur dari posisi bubu yang telah ditebarkan, kemudian data-data yang diberikan GPS TFAG-10 akan dibaca oleh mikrokontroler dan disimpan dalam serial EEPROM serta ditampilkan pada Graphic LCD berupa koordinat. Alat ini dapat menyimpan 100 data bubu yang ditebarkan dengan asumsi 50 data untuk bubu baru dan 50 data untuk bubu lama yang sudah ditebarkan pada hari sebelumnya. Pada simulasi pengujian di darat dengan menggantikan posisi bubu yang ditebarkan dengan indikator nomer rumah tertentu didapatkan perbedaan posisi sebesar 5-15 meter saat penebaran bubu dan pengambilan bubu. Perbedaan posisi tersebut dikarenakan kepresisian GPS TFAG-10 sejauh 25 meter.",
+  "creators": "FILIX KUMALA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010808/ELK/2006; Filix Kumala (23402059)",
+  "subjects": "DIGITAL COMMUNICATION; DATA TRANSMISSION SYSTEMS; GLOBAL POSITIONING SYSTEM"
+}

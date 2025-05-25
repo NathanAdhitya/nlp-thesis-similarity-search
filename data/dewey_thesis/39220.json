@@ -1,0 +1,14 @@
+{
+  "id": "39220",
+  "title": "Analisis korelasi pada data Yahoo! properties dan instant messaging dengan menggunakan Hadoop",
+  "abstract": "Dalam beberapa tahun terakhir, Big Data menjadi trend dalam dunia teknologi informasi. Sejalan dengan berkembangnya organisasi semakin banyak data bisnis yang dimiliki, beberapa dapat mencapai skala Terabytes hingga Pentabytes. Ketika sebuah organisasi ingin melakukan analisa terhadap sebuah Big Data maka waktu analisa menjadi sangat lama dikarenakan keterbatasan CPU dan memori. Untuk mengatasi hal ini, munculah sebuah paradigma yaitu distributed computing. Ada banyak tools yang bertujuan untuk mengolah Big Data seperti Apache Hadoop, Apache Spark, dan sebagainya. Akan tetapi, yang akan dianalisa adalah Apache Hadoop. Rate adopsi Big Data di Indonesia adalah 20% untuk 2 sampai 3 tahun ke depan (Aggarwal, 2015). Melihat fakta tersebut, semakin banyak perusahaan yang berencana mengadopsi Big Data untuk analisa datanya. Melihat sedang berkembangnya penggunaan Big Data dan Apache Hadoop, maka dilakukan eksplorasi analisis terhadap korelasi data pada Apache Hadoop. Selain itu, dilakukan juga pengujian Apache Hadoop dengan menggunakan jumlah node yang bervariasi, jumlah mapper dan reducer, dan menggunakan jumlah block size yang berbeda. Eksplorasi analisis korelasi data pada Apache Hadoop dilakukan dengan membuat 4 jenis aplikasi analisa data, yaitu dua aplikasi pencarian nilai korelasi untuk data Yahoo! Messenger dan dua aplikasi pencarian pohon klasifikasi. Berdasarkan hasil pengujian didapatkan bahwa untuk pencarian nilai korelasi aplikasi R lebih cocok untuk ukuran data yang lebih kecil sedangkan Hadoop lebih cocok untuk ukuran data yang besar. Untuk data yang besar, aplikasi R menggunakan persentase CPU dan memori yang lebih tinggi daripada hadoop. Kombinasi mapper dan reducer yang akan memberikan waktu eksekusi optimal adalah untuk mapper dalam rentan.",
+  "creators": "MIKIAVONTY ENDRAWATI M.",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Andreas Handojo (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021611/INF/2017; Mikiavonty Endrawati Mirabel (26413004)",
+  "subjects": "DATABASE MANAGEMENT; ELECTRONIC DATA PROCESSING-DISTRIBUTED SYSTEMS; YAHOO MESSENGER (COMPUTER PROGRAM)"
+}

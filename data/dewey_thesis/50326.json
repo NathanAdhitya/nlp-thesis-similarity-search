@@ -1,0 +1,14 @@
+{
+  "id": "50326",
+  "title": "Perbandingan optimasi biaya pondasi bored pile dengan metode particle swarm optimization dan metode symbiotic organisms search",
+  "abstract": "Pondasi adalah bagian dari struktur bangunan yang berfungsi meneruskan beban struktur atas ke lapisan tanah dengan aman. Sementara pondasi dalam digunakan apabila lapisan tanah keras terletak jauh di bawah permukaan tanah. Untuk mendapatkan hasil desain pondasi dalam yang optimal, terdapat tiga kriteria penting yang harus diperhatikan yaitu Ultimate Limit State (ULS), Serviceability Limit State (SLS), dan ekonomis. Sehingga, penggunaan metode optimasi yang baik akan membantu menghasilkan dimensi pondasi yang optimal dan ekonomis namun tetap memenuhi syarat aman. Penelitian-penelitian sebelumnya mengindikasikan bahwa metode metaheuristik dapat digunakan sebagai alternatif yang mampu menyelesaikan permasalahan optimasi yang ada. Oleh karena itu, penelitian ini menggunakan metode metaheuristik Particle Swarm Optimization (PSO) dan Symbiotic Organisms Search (SOS) untuk menyelesaikan permasalahan optimasi pondasi dalam. Pada penelitian ini, optimasi pondasi dalam dilakukan terhadap pondasi bored pile untuk studi kasus bangunan empat lantai dan bangunan sembilan lantai. PSO dan SOS bekerja untuk menemukan solusi dimensi pondasi dalam yang diharapkan dapat memiliki biaya konstruksi terendah dan dibatasi oleh constraint dari SNI 8460:2017, SNI 2847:2013, dan bearing capacity theory. Hasil penelitian menunjukkan bahwa metode metaheuristik mampu menemukan dimensi pondasi dalam yang optimal untuk masing-masing studi kasus. Selain itu, dapat dilihat apabila algoritma SOS memiliki performa yang lebih baik dari PSO.",
+  "creators": "CHRISTIAN YOGA PRAMONO; LEONARD CHANDRA",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Benjamin Lumantarna (Examination Committee 1); Agievianthi, MS (Examination Committee 2); Yudas Tadeus Teddy Susanto, S.T., M.S. (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012492/SIP/2021; Christian Yoga Pramono (B11170169), Leonard Chandra (B11170112)",
+  "subjects": "PILING (CIVIL ENGINEERING)--TESTING; PILING (CIVIL ENGINEERING)"
+}

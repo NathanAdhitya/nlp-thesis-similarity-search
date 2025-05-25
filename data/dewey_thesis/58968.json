@@ -1,0 +1,14 @@
+{
+  "id": "58968",
+  "title": "Sistem absensi mobile menggunakan Wifi dan Bluetooth low energy beacon positioning",
+  "abstract": "Sistem absensi adalah suatu keharusan bagi perusahaan untuk dimiliki, sebagai bagian dari sistem pemantauan karyawan, banyak solusi yang tersedia untuk dipilih tetapi hanya sedikit yang menawarkan fitur untuk menemukan di mana karyawan tertentu berada pada siang hari jika diperlukan. Oleh karena itu, sebuah sistem yang dapat menunjukkan posisi karyawan saat berada di tempat kerja dan menawarkan sistem untuk absensi dapat berguna. Pada tugas akhir ini digunakan modul Bluetooth Low Energy untuk mendapatkan posisi karyawan, dengan menggunakan Received Signal Strength Indicator (RSSI) untuk menemukan posisi Dan untuk absensi kehadiran, Mac Address digunakan untuk validasi. Pengujian yang dilakukan pada tugas akhir ini menunjukkan bahwa modul bluetooth yang digunakan pada tugas akhir ini tidak memiliki sinyal yang stabil pada jarak tertentu sehingga sulit untuk mengukur posisi secara akurat dengan error 1 meter. Namun demikian, suar bluetooth masih dapat digunakan untuk pemosisian di dalam ruangan dengan andal. Untuk memvalidasi kehadiran, tesis ini menggunakan alamat mac dari router, yang memungkinkan karyawan untuk memvalidasi kehadiran mereka pada hari itu.",
+  "creators": "WILLIAM TANPUTRAWAN MULYONO",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Rudy Adipranata (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022396/INF/2023; William Tanputrawan Mulyono (C14190146)",
+  "subjects": "BLUETOOTH TECHNOLOGY; WEB APPLICATIONS"
+}

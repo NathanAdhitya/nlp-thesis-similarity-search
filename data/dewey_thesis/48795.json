@@ -1,0 +1,14 @@
+{
+  "id": "48795",
+  "title": "Implementasi Poka-Yoke pada PT X",
+  "abstract": "Dalam perusahaan pasti tidak luput dari terjadinya kesalahan. Kesalahan ini dapat menyebabkan berbagai bentuk kerugian bagi perusahaan jika dibiarkan terjadi. Dengan menggunakan metode FMEA (Failure Mode Effect Analysis) dan melakukan interview, sebanyak 63 kesalahan ditemukan. Pada penelitian ini hanya difokuskan pada kesalahan kritis yang memiliki RPN (Risk Priority Number) di atas 150 dan ditemukan sebanyak 15 kesalahan. Kemudian akar masalah dicari melalui diskusi dengan pihak P.T. X. Berdasarkan data yang ditemukan, sistem Poka-Yoke dibuat agar kesalahan kritis dalam kategori kesalahan manusia, proses, material, maupun faktor eksternal dapat dicegah. Poka-Yoke diterapkan dengan menggunakan solusi berbentuk metode atau alat yang sederhana dan murah lalu diimplementasikan sehingga terbuat sistem yang dapat mendeteksi kesalahan dengan mudah dan dapat diminimalisir. Hasil dari implementasi sistem Poka-Yoke dalam penelitian ini adalah 15 kesalahan kritis yang memiliki dampak paling besar dapat dikurangi dan dicegah. Kesalahan yang paling signifikan adalah barang cacat lolos. Sebelum penerapan, P.T. X memiliki masalah dalam sistem pengecekan kualitas dari produk jadi seperti kesulitan menentukan antara barang yang tergolong defect dan barang yang memiliki kondisi baik. Setelah diterapkan Poka-Yoke maka divisi QC (Quality Control) di P.T. X dapat menentukan dengan baik tanpa adanya kesalahan sehingga kesalahan barang cacat lolos dapat diminimalisir dengan signifikan.",
+  "creators": "NICOLAUS CHRISTOPER",
+  "contributors": "Didik Wahjudi (Advisor 1); Roche Alimin (Examination Committee 1); Oegik Soegihardjo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011376/MES/2020; Nicolaus Christoper (24416012)",
+  "subjects": "FAILURE MODE AND EFFECTS ANALYSIS; LEAN MANUFACTURING"
+}

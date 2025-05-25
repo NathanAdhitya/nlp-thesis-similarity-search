@@ -1,0 +1,14 @@
+{
+  "id": "27583",
+  "title": "Perancangan dan pembuatan game racing 3D berbasis android",
+  "abstract": "Di jaman sekarang ini penggunaan device mobile sudah mendunia dan tidak dapat dipisahkan dari kehidupan orang banyak. Karena kebutuhan mobilitas yang tinggi menyebabkan terciptanya smartphone. Android merupakan salah satu sistem operasi yang ditanamkan dalam smartphone tersebut. Karena itu sebagai pendukung digunakannya smartphone Android maka diciptakannyalah game racing Android ini. Karena game merupakan salah satu hal yang paling dicari banyak orang untuk mencari hiburan. Dan untuk menunjukkan kehebatan sistem operasi ini maka game tersebut dibuat dengan tampilan 3D sehingga menunjukkan bahwa smartphone juga dapat bersaing dengan kemampuan komputer. Game ini merupakan game 3D yang menggunakan obyek mesh sebagai bentuk dari map dan kendaraan yang akan dirender. Obyek tersebut dibentuk dengan bantuan software Blender yang hasilnya diexport dengan ekstensi *.obj. sedangkan teksture dari obyek mesh dibuat dengan fasilitas UV/Image Editor dari software Blender yang kemudian diberi pewarnaan dengan software photoshop CS3. Untuk pemprograman game ini sendiri menggunakan software Eclipse, yang melakukan import obyek *.obj yang telah dibuat untuk ditampilkan dalam game. Dan dengan software Eclipse tersebut koordinat serta sudut arah dari obyek mesh akan diatur sesuai dengan pergerakan kendaraan dalam map, accelerometer, penabrakan, serta pergerakan AI(Artificial Intelligent) dalam mengikuti path yang ada. Hasil akhir dari game ini adalah sebuah permainan yang berbasis Android di mana user bertanding balapan melawan empat musuh dan saling menghalangi dengan item bonus yang dia dapatkan untuk menjadi terdepan dan mendapatkan uang untuk membeli kendaraan yang lebih baik. Game ini telah diujicoba pada beberapa Device Android berbeda dengan kemampuan yang berbeda . Dengan perbandingan ini, memperlihatkan bahwa game ini hanya dapat dijalankan secara sangat lancar apabila spesifikasi device tersebut memenuhi kebutuhan standar dari game ini. Apabila resolusi layar dan CPU device semakin kecil maka game ini akan terasa lebih lambat dan waktu perpindahan screen akan lebih lama.",
+  "creators": "IVAN WIDIYANTO",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Gregorius Satiabudhi (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021153/INF/2012; Ivan Widiyanto (26408014)",
+  "subjects": "COMPUTER GAMES-PROGRAMMING; COMPUTER GRAPHICS-3D"
+}

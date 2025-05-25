@@ -1,0 +1,14 @@
+{
+  "id": "48441",
+  "title": "Sistem pengaturan suhu dan kelembaban kandang ayam menggunakan arduino dan website",
+  "abstract": "Berternak ayam merupakan salah satu kegiatan yang masih banyak dilakukan oleh masyarakat yang ingin berbisnis di bidang peternakan ayam, khususnya di Indonesia karena rata-rata manusia mengkonsumsi daging ayam hampir setiap hari. Peternak ayam broiler di Indonesia pada umumnya menggunakan jenis kandang terbuka dan masih menggunakan cara manual dalam proses pemeliharaan ternaknya seperti dalam mengatur suhu kandang ayam. Untuk membantu dan mendukung peternak dalam bidang pemeliharaan dibuatlah pengatur suhu dan kelembaban pada kandang ayam broiler secara otomatis. Kandang ayam dipasang sistem arduino WeMos D1 R2 dan sensor DHT 22 yang akan menunjukkan angka suhu dan kelembaban pada saat ini dan data yang didapat dari sensor akan dikirim dengan koneksitivitas WiFi yang terdapat pada mikrokontroler menuju database. Komunikasi tersebut akan memicu pertukaran data secara real-time antara website dengan kandang ayam. Berdasarkan hasil pengujian yang sudah dilakukan, sensor DHT 22 mampu membaca keadaan pada kandang ayam dengan bertahan didalam setting point user. Pengguna bisa melakukan setting point di website sesuai kebutuhan yang diperlukan. Website dan perangkat dapat tersabung dalam jaringan WiFi dan melakukan penyimpanan didalam database.",
+  "creators": "BAGUS DWI MAULANA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Resmana Lim (Advisor 2); Andreas Handojo (Examination Committee 1); INDRO SETIAWAN (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021986/INF/2020; Bagus Dwi Maulana (26414107)",
+  "subjects": "WEB SITES--DESIGN; ARDUINO (PROGRAMMABLE CONTROLLER)--PROGRAMMING"
+}

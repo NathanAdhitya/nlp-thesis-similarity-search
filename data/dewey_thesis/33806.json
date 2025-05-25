@@ -1,0 +1,14 @@
+{
+  "id": "33806",
+  "title": "Perancangan dan pembuatan website e-commerce Petra gaming store",
+  "abstract": "Petra Gaming Store adalah toko peralatan hardware komputer yang bergerak di bidang penjualan, pembelian mouse, keyboard, headset dan mouse-pad yang berbasis pada forum seperti kaskus. Petra Gaming Store ingin membuat website e-commerce yang diharapkan dapat memperluas daerah pemasaran untuk menghadapi persaingan yang ada di forum. Website memiliki fitur pemesanan secara online untuk memudahkan user dalam melakukan pembelian dan user juga dapat melacak transaksi apa saja yang telah dilakukan, user dari website terbagi menjadi dua macam, yaitu admin dan user di mana admin adalah penjual yang membuat toko online melalui website, sedangkan user adalah yang membeli barang melalui website. Web ini dikembangkan dan dibuat dengan menggunakan bahasa pemrograman PHP, Ajax, dan JavaScript untuk fungsi-fungsi dan tampilan dari website, sedangkan database menggunakan MySQL. Pembuatan coding program menggunakan sarana software notepad++. Pembuatan fitur data mining dengan menggunakan metode apriori di mana metode tersebut akan menganalisis kebiasaan pembeli dengan menemukan hubungan antara barang yang berbeda dengan shopping cart dengan waktu pembelian. Data diolah sesuai algoritma untuk menghasilkan frequent item sets yang pada akhirnya menghasilkan association rules dalam bentuk tabel apriori. Dengan menggunakan sistem pemesanan secara online, proses pemesanan produk pada website Petra Gaming Store lebih mudah dibandingkan bila user mencari data barang dari forum atau via telepon.",
+  "creators": "ALEXANDRO YAMIN SUWITO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Justinus Andjarwirawan (Advisor 2); Kristo Radion Purba S.ST. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021369/INF/2015; Alexandro Yamin S. (26411064)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); WEBSITE DESIGN"
+}

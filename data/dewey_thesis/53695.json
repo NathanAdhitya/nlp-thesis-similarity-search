@@ -1,0 +1,14 @@
+{
+  "id": "53695",
+  "title": "Aplikasi sistem informasi praktikum pada program studi Informatika Universitas Kristen Petra berbasis website",
+  "abstract": "Saat ini, program studi Informatika Universitas Kristen Petra menggunakan SAOCP untuk permasalahan praktikum. Tetapi terdapat kekurangan yang dapat diminimalkan. Lowongan, penilaian, presensi menggunakan Microsoft Excel untuk setiap pendataan yang dilakukan. Penanggungjawab jadwal praktikum sering mengalami kebingungan mengatur jadwal. Sistem saat ini juga membaca NRP dengan menggunakan NRP lama dengan huruf depan “m”. Berdasarkan permasalahan tersebut, perlu adanya aplikasi yang dapat menjawab permasalahan dalam program studi Informatika. Sistem ini dibuat dengan menggunakan PHP dengan framework Codeigniter 3 sebagai dasar utamanya, dan SQL untuk databasenya. Pada sistem informasi ini user memiliki 6 jenis hak akses yang berbeda yaitu admin, dosen, kepala laboratorium, asisten tetap, asisten dosen, dan mahasiswa. Hasil akhir dari pengembangan aplikasi ini adalah dapat terintegrasinya informasi seperti lowongan, penilaian, presensi, dan laporan. Berdasarkan hasil angket yang ada, sebesar 100% dari koresponden menilai bahwa fitur-fitur yang dibuat pada aplikasi ini sudah cukup sesuai dengan kebutuhan perusahaan.",
+  "creators": "CYNTHIA BUDIONO",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Alexander Setiawan (Advisor 2); Yulia (Examination Committee 1); ANDRE GUNAWAN, S.Kom. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022181/INF/2022; Cynthia Budiono (C14180210)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); WEB SITES--DESIGN"
+}

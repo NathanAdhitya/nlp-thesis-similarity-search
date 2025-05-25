@@ -1,0 +1,14 @@
+{
+  "id": "22273",
+  "title": "Penjadwalan untuk flowshop dengan dua kriteria di PT. \"X\"",
+  "abstract": "PT `X' merupakan industri manufaktur yang memproduksi etiket rokok, dos, label sabun dan lain-lain. Jenis perusahaan ini adalah perusahaan job order dimana perusahaan memproduksi barang berdasarkan pesanan. Dalam memproduksi etiket rokok tersebut harus melalui beberapa tahapan proses yaitu dimulai dengan proses pemotongan kertas, kemudian proses cetak, setelah itu proses timbul kemudian proses plong lalu ke proses potong dan yang terakhir proses pengepakan. Penjadwalan produksi yang dilakukan dalam Tugas Akhir ini, dimaksudkan untuk memberikan suatu perancangan penjadwalan yaitu dengan metode Simulated Annealing dengan mempertimbangkan dua kriteria yaitu makespan dan maximum tardiness. Penjadwalan dilakukan pada job dengan jenis produk etiket rokok sebanyak 10 job diambil dari bulan April, Mei dan Juni pada tahun 2000. Hasil dari penjadwalan yang dilakukan diperoleh jadwal pengerjaan sebagai berikut : 4-7-3- 6-5-10-9 untuk bulan April, 3-5-7-6-2-1-9-10 untuk bulan Mei dan 3-1-4-7-2-6-9-8 untuk bulan Juni. Analisa yang dilakukan adalah membandingkan hasil yang didapat dari algoritma Simulated Annealing dengan realitas yang dikeijakan oleh perusahaan (FIFS : First In First Serve). Prosentase selisih tardiness menunjukkan bahwa terdapat selisih prosentase yang tinggi yaitu 81,3% pada bulan April, 60,8% pada bulan Mei, 10,8% pada bulan Juni. Nilai prosentase selisih makespan yaitu 6,1% pada bulan April, 14,9% pada bulan Mei, 1,3% pada bulan Juni.",
+  "creators": "HENDRA",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 526/TI-007/2002; Hendra (25496161)",
+  "subjects": "SCHEDULING (MANAGEMENT)"
+}

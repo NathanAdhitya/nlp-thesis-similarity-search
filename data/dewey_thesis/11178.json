@@ -1,0 +1,14 @@
+{
+  "id": "11178",
+  "title": "Perancangan dan pembuatan aplikasi simulasi sistem penunjuk jalan kota Surabaya dalam visualisasi 3D",
+  "abstract": "Pembuatan aplikasi system penunjuk jalan dengan memanfaatkan fasilitas GPS telah pernah dibuat sebelumnya. Tetapi sejauh ini, pada umumnya fasilitas yang tersedia dalam visualisasi 2D. Dalam Tugas Akhir ini, dikembangkan lebih lanjut sistem penunjuk jalan dengan memanfaatkan fasilitas GPS dalam visualisasi 3D. Hal ini dapat membantu user agar lebih mudah mngeikuti petunjuk jalan yang dilalui. Tugas Akhir ini merupakan kelanjutan dari Tugas Akhir sebelumnya yaitu tGPS (Budianto, 2006). Dalam pembuatan aplikasi ini, proses penggambaran visualisasi 3D menggunakan OpenGL. Proses dimulai dengan mengambil data berupa titik rute awal dan titik rute tujuan. Kemudian pencarian rute dilakukan dengan menggunakan Algoritma A*. Setelah rute yang akan dilalui ditemukan, dilakukan proses penggambaran pada peta yang kemudian diteruskan dengan penggambaran jalan dalam bentuk 3D. Peta digital yang digunakan adalah peta Surabaya yang berupa gabungan dari 2 buah shapefile. Berdasarkan hasil pengujian aplikasi, dapat disimpulkan bahwa aplikasi ini dapat menunjukkan jalan dari posisi awal user menuju ke posisi tujuan yang diinginkan user. Perbandingan jarak pada visualisasi dan pada peta adalah sama dengan sudut belokan yang sama pula.",
+  "creators": "IVAN RICHARDO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); David Sundoro (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010764/INF/2008; Ivan Richardo (26404031)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

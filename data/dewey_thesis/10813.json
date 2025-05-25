@@ -1,0 +1,14 @@
+{
+  "id": "10813",
+  "title": "Pembuatan 5 watt class a tube amplifier",
+  "abstract": "Tugas akhir yang dibuat ini bertujuan untuk mempelajari cara kerja dari vacuum tube dan karakteristiknya sehingga dengan ini dapat mendesain rangkaian amplifier kelas A dengan menggunakan vacuum tube yang memiliki respon frekuensi 20 Hz ? 20 kHz. Rangkaian amplifier ini menggunakan trioda 12AU7 sebagai buffer dengan menggunakan metode common cathode dan menggunakan pentoda 6V6GT sebagai penguat akhir yang dirancang menggunakan metode cathode follower. Sampai saat ini vacuum tube masih banyak digunakan karena memiliki kelebihan yaitu mempunyai kemampuan reproduksi sinyal yang bagus, mempunyai karakter suara yang khas, dan mempunyai kelebihan lainnya yaitu tidak terpengaruh oleh gelombang elektromagnet. Dari hasil pengujian, didapatkan hasil bahwa rangkaian amplifier menggunakan vacuum tube ini memiliki respon frekuensi 60 Hz ? 60 kHz, dan mempunyai penguatan yang merata pada frekuensi 2 kHz ? 15 kHz sebesar 19,28 dB pada channel kanan, dan mempunyai penguatan yang merata pada frekuensi 1 kHz- 20 kHz sebesar 19,28 dB pada channel kiri. Frekuensi cut off dari rangkaian ini terletak pada frekuensi 60 kHz, karena penguatan pada frekuensi ini turun sebesar 3 dB. Pada pengujian sensitivitas input, amplifier ini memiliki sensitivitas input sebesar 1,5 Volt. Dari hasil analisa pengujian didapatkan bahwa hasil keluaran dari output trafo memiliki penguatan yang relatif stabil. Dari hasil pengujian amplifier ini memiliki penguatan akhir sebesar 3,0258 Watt. Hal ini disebabkan karena impedansi transformator output yang tidak cocok dengan impedansi dari rangkaian amplifier.",
+  "creators": "ALEX BUDIONO",
+  "contributors": "Limboto Limantara (Advisor 1); Handry Khoswanto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010851/ELK/2008; Alex Budiono (23402033)",
+  "subjects": "AMPLIFIERS (ELECTRONICS)"
+}

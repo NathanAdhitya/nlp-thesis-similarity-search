@@ -1,0 +1,14 @@
+{
+  "id": "1374",
+  "title": "Desain dan implementasi software ringtone composer dan ringtone converter pada handpone",
+  "abstract": "Ringtone monophonic pada dasarnya mempunyai suatu pola atau bentuk penulisan yang berbeda antara jenis handphone yang satu dengan jenis handphone yang lainnya, contoh: untuk siemens : c1(1/16) d1(1/8) sedangkan nokia : 16c1 8d1 sehingga untuk memasukkan ringtone jenis handphone siemens ke jenis handphone nokia diperlukan suatu konversi. Deterministic Finite Otomata (DFA) dari teori bahasa dan otomata beserta metode logika dapat digunakan untuk melakukan konversi ringtone dimana DFA akan digunakan untuk melakukan pemeriksaan terhadap ringtone yang diinputkan (dengan membuat ringtone sendiri (compose) atau membuka ringtone dari text file) dan metode logika digunakan untuk melakukan pengubahan pola atau penulisan ringtone dari jenis handphone yang satu ke jenis handphone lainnya dengan mengubah dan menyesuaikan pola penulisan ketukan, oktav dan nada ringtone sumber menjadi pola penulisan ketukan, oktav dan nada ringtone tujuan melalui proses iterasi sebanyak jumlah nada yang diinputkan. Pada akhirnya program dalam tugas akhir ini dapat digunakan untuk mengonversi dan mencompose ringtone pada empat jenis handphone yaitu ericsson, nokia, samsung dan siemens.",
+  "creators": "TJANDRA HERRY PRASETYA",
+  "contributors": "Kartika Gunadi (Advisor 1); Yulia (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 010065/INF/2003; Tjandra Herry Prasetya (26498124)",
+  "subjects": "SOFTWARE ENGINEERING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

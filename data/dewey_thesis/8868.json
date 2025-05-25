@@ -1,0 +1,14 @@
+{
+  "id": "8868",
+  "title": "Penerapan algoritma genetika untuk optimasi gerakan mesin bor otomatis",
+  "abstract": "Mesin bor otomatis dibuat dengan tujuan agar dapat dilakukan pengeboran PCB secara otomatis. Pengeboran PCB otomatis ini menggunakan kamera sebagai sensor pendeteksi koordinat pad atau via. Kamera berfungsi menangkap gambar print out sebuah PCB kemudian dengan metode image processing dapat diketahui dan diambil koordinat pengeborannya. Namun mesin bor otomatis ini memiliki kelemahan dimana gerakan mesin bor otomatis tidak efektif sehingga waktu pengeboran berlangsung lama. Tugas akhir ini dibuat untuk mengatasi kelemahan mesin bor otomatis. Untuk mengatasi kelemahan tersebut perlu adanya optimasi terhadap gerakan mesin bor otomatis. Metode optimasi yang digunakan adalah algoritma genetika. Algoritma genetika adalah metode pencarian solusi yang berdasarkan pada seleksi alam dan genetika alami. Untuk mengoptimasi gerakan mesin bor, algoritma genetika akan mencari rute pengeboran yang paling optimum. Rute ini berisikan urutan hole pada PCB yang akan dibor terlebih dahulu. Jenis kromosom yang digunakan dalam sistem ini adalah integer. Metode seleksi yang digunakan adalah Roullete Wheel dan Tournament Selection. Pengujian telah dilakukan pada 3 buah PCB dengan jumlah dan posisi hole yang berbeda-beda untuk melihat gerakan mesin bor otomatis. Dari hasil pengujian didapat bahwa selisih waktu antara pengeboran dengan algoritma genetika dan tanpa algoritma genetika adalah 8.85 menit untuk PCB 16 hole, 4.833 menit untuk PCB 21 hole, dan 7.583 menit untuk PCB 34 hole. Jadi dapat disimpulkan bahwa gerakan mesin bor otomatis dengan menerapkan algortima genetika lebih cepat dibandingkan gerakan mesin bor otomatis tanpa menggunakan algoritma genetika.",
+  "creators": "TENDRA RUSTAN",
+  "contributors": "Thiang (Advisor 1); Anies Hannawati (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/610/ELK/2003; Tendra Rustan (23498103)",
+  "subjects": "GENETIC ALGORITHMS; BORING MACHINES-AUTOMATIC CONTROL; COMPUTER ALGORITHMS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

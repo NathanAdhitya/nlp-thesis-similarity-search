@@ -1,0 +1,14 @@
+{
+  "id": "11517",
+  "title": "Aplikasi elman neural network dengan lma training pada prediksi data time series beban listrik Jawa-Bali",
+  "abstract": "Struktur recurrent neural network merupakan salah satu bagian dari neural network yang dapat digunakan untuk meramalkan data time series. Salah satu contoh data time series yang dapat digunakan adalah data beban listrik. Struktur recurrent neural network yang digunakan untuk meramalkan beban listrik Jatim-Bali ini, adalah Elman neural network. Berdasarkan hasil penelitian yang telah dilakukan, struktur Elman neural network yang paling optimal terdiri dari 7 input, 13 hidden, 13 context, dan 1 output. Levenberg-Marquardt algorithm (LMA) training adalah algoritma training yang diterapkan pada Elman neural network. LMA training tersebut berfungsi untuk memperbaiki parameter-parameter yang dimiliki sehingga sistem dapat menghasilkan Output dengan error yang minimum. Data beban listrik yang digunakan untuk training adalah data beban listrik Jatim-Bali dari 1 September 2005 ? 31 Desember 2006. Hasil yang diperoleh dari pengujian sistem adalah untuk short term forecasting data beban listrik Jatim-Bali bulan Januari 2007 ? Maret 2007, didapatkan Mean Square Error (MSE) sebesar 0,0014 dan untuk hasil long term forecasting bulan Januari 2007 ? Maret 2007 didapatkan MSE sebesar 0,0054 dengan parameter mo = 0.05, alfa = 0.01, gamma = 0.05, dan WF=1.01.",
+  "creators": "TEDDY LESMANA",
+  "contributors": "Felix Pasila (Advisor 1); Hany Ferdinando (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010887/ELK/2009; Teddy Lesmana (23405006)",
+  "subjects": "NEURAL NETWORK (COMPUTER SCIENCE)"
+}

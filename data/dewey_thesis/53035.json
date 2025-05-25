@@ -1,0 +1,14 @@
+{
+  "id": "53035",
+  "title": "Aplikasi pembelajaran rangkaian listrik sederhana berbasis android",
+  "abstract": "Fisika merupakan salah satu mata pelajaran Ilmu Pengetahuan Alam yang mempelajari mengenai fenomena alam di kehidupan sekitar. Salah satu materi yang dipelajari di fisika adalah Rangkaian Listrik. Banyak masyarakat sekarang yang kurang mengerti tentang teori, rumus perhitungan dan mengenai praktikum dari rangkaian listrik. Padahal rangkaian listrik sangat perlu dan merupakan salah satu materi fisika yang digunakan di kehidupan sehari. Seringkali masyarakat umum kurang tertarik untuk mempelajari teori dan rumus dari buku, juga dalam mempraktikan rangkaian listrik harus dibutuhkan komponen dan bahan penunjang. Hal ini menjadi masalah baru, karena terkadang ada bahan yang susah dicari dan didapatkan. Pada skripsi ini dilakukan pembuatan aplikasi rangkaian listrik sederhana berbasis Android. Android dipilih karena salah satu sistem operasi smartphone yang saat ini sedang gencar berkembang. Aplikasi menggunakan metode drag and drop, yaitu melakukan drag objek yang diinginkan dan drop pada posisi tertentu. Pembuatan aplikasi dengan menggunakan bahasa pemrograman Java, program Eclipse, dan MySQL sebagai database. Berdasarkan pengujian sistem yang dilakukan, sistem yang dibuat dapat melakukan login awal untuk masuk ke sistem, pendaftaran pengguna, menampilkan materi rangkaian listrik sederhana, menampilkan simulasi yang berguna untuk pengguna dalam mendesain rangkaian listrik sederhana beserta besarannya dan perhitungan, menampilkan soal untuk menguji pengetahuan, menampilkan nilai pengguna, dan melakukan update materi dan soal. Aplikasi ini membutuhkan internet untuk melakukan pendaftaran, login, menampilkan gambar, dan update data. Kesimpulan dari pengujian device, fitur yang ada dari aplikasi dapat berjalan dengan baik pada tiga jenis device yang diuji coba.",
+  "creators": "ABDUL RO'UF FARIZKI",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Alexander Setiawan (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021479/INF/2015; Abdul Ro’uf Farizki (26411158)",
+  "subjects": "ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); DATABASE DESIGN--COMPUTER PROGRAMS; ELECTRIC CIRCUITS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

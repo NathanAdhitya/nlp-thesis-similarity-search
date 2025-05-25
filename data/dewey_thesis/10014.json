@@ -1,0 +1,14 @@
+{
+  "id": "10014",
+  "title": "Studi perbandingan kesetimbangan beban pada grouping instalasi listrik tiga fasa antara grouping instalasi terpasang dengan metode algoritma genetika",
+  "abstract": "Dalam bidang kelistrikan, salah satu cara untuk menjaga kualitas daya adalah dengan membagi beban listrik agar beban yang ditanggung oleh ketiga fasa sama besarnya dari waktu ke waktu. Salah satu metode yang bisa digunakan adalah algoritma genetika. Algoritma ini digunakan untuk mencari pola pembagian beban listrik yang paling optimal dengan menggunakan operatornya yaitu reproduksi, seleksi, crossover dan inversion. Dengan memasukan data besar daya beban atau kelompok beban, waktu periode on off-nya dari beban yang telah diurutkan beserta nilai dari parameter algoritma genetika, maka akan terjadi proses algoritma genetika sehingga akhirnya didapatkan pola susunan fasa untuk beban yang paling optimal berdasarkan besarnya fitness. Fitness berupa nilai minimum dari jumlah selisih antar fasa pada seluruh periode. Pengujian dilakukan dengan mengambil data sesungguhnya di gedung P lantai 6 UK.Petra yang mana terdiri dari dua panel yaitu panel P.6A dan P.6B. Pada salah satu pengujian pada beban penerangan di panel P.6A dan P.6B yang terpasang sekarang, masing-masing didapati nilai fitness-nya adalah 1,5582 x 10-5 dan 1,4834 x 10-5 yang berarti jumlah selisih antar fasa selama satu minggu adalah 64.175 Watt dan 67.410 Watt. Sedangkan untuk pembagian dengan algoritma genetika didapati nilai fitness-nya adalah 5,013 x 10-5 dan 4,4755 x 10-5 yang berarti jumlah selisih antar fasa selama satu minggu adalah 19.950 Watt dan 22.345 Watt. Jadi dapat disimpulkan bahwa pembagian beban diantara fasa-fasa dengan menerapkan algoritma genetika dapat memberikan hasil yang lebih optimal.",
+  "creators": "MARKUS TEGUH SAINGO",
+  "contributors": "Thiang (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010568/ELK/2008; Markus Teguh Saingo (23402172)",
+  "subjects": "ELECTRIC POWER DISTRIBUTION; ELECTRIC POWER SYSTEM"
+}

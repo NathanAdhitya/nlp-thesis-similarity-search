@@ -1,0 +1,14 @@
+{
+  "id": "12658",
+  "title": "Perancangan dan pembuatan filter digital menggunakan prosesor TMS320C50",
+  "abstract": "Dengan adanya prosesor pemrosesan sinyal digital maka dimungkinkan implementasi dari filter digital secara lebih mudah. Prosesor pemrosesan sinyal digital yang digunakan dalam pembuatan tugas akhir ini adalah Digital Signal Processor Starter Kit TMS320C5x yang menyatukan prosesor sinyal digital TMS320C50 dengan Analog Interface Circuit (AIC) TLC32040 dalam satu board sehingga proses konversi analog ke digital dan sebaliknya dapat dilakukan dengan mudah melalui kontrol program. Sinyal input yang digunakan berupa random generator yang dibuat secara software pada TMS320C50. Sinyal ini akan diolah oleh program filter digital pada TMS320C50 sehingga dihasilkan respon filternya Macam-macam filter digital yang dibuat adalah filter Infinite Impulse Response (HR) dan filter Finite Impulse Response (FIR). Dimana untuk filter IIR masih terbagi lagi atas filter Butterworth, Chebyshev dan Elliptic. Masing-masing filter, baik filter IIR dan filter FIR dapat digunakan sebagai filter lowpass, bandpass, bandstop dan highpass. Perhitungan untuk mendapatkan koefisien dari masing-masing jenis filter dilakukan di Personal Computer (PC). Kemudian harga koefisien - koefisien yang telah didapatkan ini dikirim ke program filter di TMS320C50. Melalui perancangan dan pembuatan filter digital dengan menggunakan prosesor TMS320C50 ini maka kita dapat belajar tentang filter digital maupun pengolahan sinyal digital serta mengimplementasikan teori-teori tentang filter digital.",
+  "creators": "SONNY MULJADI",
+  "contributors": "MOCHAMAD HEROE (Examination Committee 1); Vivi Anggraini (Advisor 1); Resmana Lim (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/041/340; Sonny Muljadi (23492055)",
+  "subjects": "ELECTRIC FILTERS, DIGITAL"
+}

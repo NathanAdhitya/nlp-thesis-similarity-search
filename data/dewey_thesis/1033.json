@@ -1,0 +1,14 @@
+{
+  "id": "1033",
+  "title": "Sistem pakar penanganan program nutrisi pasien",
+  "abstract": "Banyaknya kasus penyakit mempersulit dokter untuk memberikan program nutrisi kepada pasien dengan cepat, tepat dan bervariasi. Berdasarkan permasalahan tersebut, maka dibuat suatu aplikasi komputer yang dapat menyusun program nutrisi bagi pasien dengan cepat, tepat, dan bervariasi. Pembuatan aplikasi memakai pengetahuan komputer di bidang kecerdasan buatan khususnya cabang sistem pakar. Perencanaan sistem dalam membuat knowledge base memakai dependency diagram, decision table, dan metode rule sebagai representasi pengetahuan. Pembuatan inference engine memakai metode forward chaining yang telah dimodifikasi hingga sesuai dengan permasalahan. Masalah optimasi dalam menghasilkan program nutrisi memakai pemrograman linier dengan metode simplex. Aplikasi dibuat dengan Microsoft Visual Basic versi 6.0, sedangkan penyimpanan data memakai Microsoft Access XP. Aplikasi akan menghasilkan daftar menu makan berdasarkan jenis diet pasien dengan kebutuhan komposisi bahan makanan tertentu. Pengujian aplikasi terdiri atas dua jenis pengujian, yaitu: pengujian akurasi dan variasi serta pengujian user friendly dan fleksibilitas. Akurasi dan variasi diuji dengan melakukan analisis terhadap hasil dari aplikasi. Pengujian user friendly dan fleksibilitas menggunakan metode wawancara terhadap tiga dokter ahli. Hasil pengujian akurasi dan variasi dapat disimpulkan bahwa aplikasi memiliki akurasi yang memenuhi standar ketentuan dokter ahli. Variasi bahan makanan yang dihasilkan cukup baik karena sudah memenuhi menu makan empat sehat lima sempurna. Hasil pengujian aplikasi terhadap variabel user friendly cukup baik. Dari hasil wawancara tiga dokter menyatakan setuju bahwa aplikasi memiliki tampilan yang baik. Dua dokter setuju dan satu dokter sangat setuju bahwa aplikasi memiliki langkah pemakaian yang jelas. Fleksibilitas aplikasi sangat baik dengan hasil pengujian satu dokter setuju dan dua dokter sangat setuju bahwa aplikasi memiliki fasilitas penggantian, penambahan, dan penghapusan data yang baik.",
+  "creators": "ARNOLD HERMAN",
+  "contributors": "Kartika Gunadi (Advisor 1); Kriswanto Widiawan (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010015/INF/2002; Arnold Herman (26498136)",
+  "subjects": "MICROSOFT ACCESS XP (COMPUTER SYSTEM); MICRO VISUAL BASIC VERSI 6.0 (COMPUTER PROGRAM); ARTIFICIAL INTELLIGENCE"
+}

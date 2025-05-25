@@ -1,0 +1,14 @@
+{
+  "id": "6095",
+  "title": "Perancangan aplikasi untuk reverse engineering relational database ke skema konseptual NIAM",
+  "abstract": "Secara alami, orang-orang berkomunikasi dengan menggunakan kata-kata, gambar-gambar, dan contoh-contoh. Untuk itu cara terbaik untuk mendapatkan deskripsi yang jelas tentang Universe of Discourse (UoD) adalah dengan memperluas penggunaan natural language, intuitive diagrams, dan contoh-contoh. Object-Role Modeling (ORM) adalah pendekatan semantic modeling yang melihat dunia sebagai objek-objek yang memiliki perannya masing-masing. Salah satu variasinya adalah Natural Language Information Analysis Modeling (NIAM), schema database yang dihasilkan sudah memenuhi bentuk normal kelima. Database yang akan ditransfomasikan ke skema konseptual NIAM disimpan terlebih dahulu Data Definiton Language (DDL)-nya. Dan dari DDL tersebut diolah lebih lanjut untuk mendapatkan object type, role, spans, dan constraints. Selanjutnya digambarkan skema konseptual NIAM dan pembuatan natural language. Dengan penggunaan program ini, akan didapat skema konseptual NIAM dan natural language dari database yang ada. Dan natural language dari skema konseptual NIAM.",
+  "creators": "ADELINA HALIM",
+  "contributors": "Oviliani Yenty Yuliana (Advisor 1); Ibnu Gunawan (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000474/INF/2006; Adelina Halim (26402039)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

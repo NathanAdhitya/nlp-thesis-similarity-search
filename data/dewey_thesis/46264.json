@@ -1,0 +1,14 @@
+{
+  "id": "46264",
+  "title": "Penggabungan algoritma Markov Chain Monte Carlo dan metode statistik pada named entity recognition lintas bahasa suku di Indonesia untuk pembelajaran Alkitab",
+  "abstract": "Alkitab merupakan teks bilingual atau monolingual yang penting, sehingga menjadikannya sumber pelatihan untuk beberapa tugas seperti penerjemahan, analisis named entity, dan transliterasi. Named entity adalah suatu objek yang ada di dunia nyata, seperti orang, lokasi, organisasi, produk, dll., yang dapat dilambangkan dengan nama yang tepat. Tujuan dari semuanya ini adalah memudahkan orang yang ingin belajar Alkitab dapat mengerti setiap nama-nama penting di Alkitab baik dalam Bahasa Indonesia maupun bahasa suku yang ada di Indonesia. Selain itu digunakan untuk memudahkan misionaris yang ingin melakukan penginjilan di daerah-daerah agar dapat mengetahui secara cepat named entity untuk bahasa Suku yang ada di Indonesia. Dalam proses ini, ada kemungkinan terjadi kesenjangan atau perbedaan antara named entity Bahasa Indonesia dengan Bahasa Suku di Indonesia. Untuk menjawab persoalan tersebut, dirancang suatu aplikasi yang menerapkan penggabungan dari algoritma Markov Chain Monte Carlo yang dikemas dalam efmaral tool, metode statistik yang dikemas dalam giza++ tool, dan reparameterisasi IBM Model 2 yang dikemas dalam fast align tool. Dari hasil ketiga tools yang merupakan korelasi setiap kata dari Bahasa Indonesia dan Bahasa Suku, akan diambil hasilnya dengan mencari konsensus yang tepat sehingga dapat menemukan hasil named entity dalam Bahasa Suku yang tepat. Penentuan named entity dilakukan dari penomoran strong yang berasal dari Bahasa Asli. Berdasarkan hasil penelitian, dapat diketahui bahwa hasil akurasi named entity dengan menggunakan penggabungan efmaral, giza++, dan fast align tools lebih baik dibandingkan hasil akurasi named entity menggunakan efmaral tool. Akurasi yang dihasilkan efmaral tool sebesar berkisar antara 0,07 sampai 0,66. Akurasi yang dihasilkan dari giza++ tool sebesar berkisar antara 0,47 sampai 0,90. Akurasi yang dihasilkan dari gabungan tools (efmaral, giza++, fast align) berkisar antara 0,36 sampai 0,87.",
+  "creators": "VANIA PUTRI MINARSO",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Justinus Andjarwirawan (Advisor 2); Rolly Intan (Examination Committee 1); Hans Juwiantho (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021959/INF/2020; Vania Putri Minarso (26416145)",
+  "subjects": "MONTE CARLO METHOD; MONTE CARLO METHOD--COMPUTER PROGRAMS; APPLICATION SOFTWARE--DEVELOPMENT"
+}

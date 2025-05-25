@@ -1,0 +1,14 @@
+{
+  "id": "60927",
+  "title": "Diagnosis penyakit THT pada data pasien menerapkan feature ranking pada random forest",
+  "abstract": "Gejala dan penyakit THT yang terjadi bergantung dari lokasi dan penyebabnya. Gangguan yang terjadi pada satu organ THT dapat mempengaruhi organ THT lain, hal ini menyebabkan diagnosis THT rumit. Diagnosis yang salah dapat menyebabkan kerugian bagi penderita penyakit akibat tindak lanjut prosedur penyembuhan dapat terhambat, lebih parah, hingga menyebabkan kematian. Penelitian yang sudah dilakukan sebelumnya masih memiliki kendala mendiagnosis THT secara keseluruhan. Sistem dibuat melakukan diagnosis pada satu organ THT tertentu, hal ini menutup kemungkinan diagnosis lain khususnya di organ THT selain daripada organ pilihan awal. Skripsi ini bertujuan untuk menggunakan teknik machine learning, seperti random forest baseline dan random forest dengan penerapan feature ranking dalam pengembangan model diagnosis THT. Model dengan performa terbaik akan diimplementasikan ke dalam web. Model dirancang untuk memberi hasil diagnosis banding dengan akurasi tinggi. Melalui penelitian ini, diharapkan memberikan kontribusi dalam kewaspadaan dan informasi bagi kalangan dokter khususnya dokter umum menangani kasus-kasus THT. Hasil dari skripsi ini menunjukkan model berbasis random forest baseline memiliki performa yang lebih baik dibandingkan dengan model berbasis random forest dengan penerapan feature selection menggunakan feature ranking. Penggunaan model baseline untuk random forest mendapat hasil akurasi sebesar 91-94%, sementara menerapkan feature ranking mendapat hasil lebih rendah dari model baseline.",
+  "creators": "JUAN CHRISTOPHER RYAN TJAMALLA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); dr. Olivia Tantana, Sp.THT-KL. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022526/INF/2024; Juan Christopher Ryan Tjamalla (C14200009)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--MEDICAL APPLICATIONS; MEDICAL INFORMATICS--TECHNOLOGICAL INNOVATIONS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "59214",
+  "title": "Multi objective optimization for ship routing problem using a genetic algorithm",
+  "abstract": "The rapid economic growth in the current era has led to an increase in the distribution of goods, which often encounters the challenge of determining the shortest ship route. The Vehicle Routing Problem (VRP) is a transportation model aimed at minimizing total travel distance and other objectives. This research specifically targets the Vehicle Routing Problem of Simultaneous Delivery and Pickups with Split Loads (VRPSDPSL) as a multi-objective problem to eliminate vehicle capacity constraints and enable multiple visits for container deliveries or pickups. The case study employed in this research focuses on finding the optimal ship route with the shortest distance and highest average ship utility for transporting containers from Tanjung Perak port as the depot to ports in eastern Indonesia. A genetic algorithm using the pareto technique was developed to solve this problem with one-point crossover and flipped mutation operators. The verification and validation of the genetic algorithm in this research determined that the most effective crossover and mutation probabilities are 0.9 and 0.1, respectively. The output of this research presents two ship route solutions: solution 1 involves a total travel distance of 14,237 Nautical miles (Nm) with an average utilization of 0.39, while solution 2 covers a total travel distance of 13,706 Nm.",
+  "creators": "PRISKILA APRILIA",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Siana Halim (Examination Committee 1); Felecia, S.T., M.Sc. (Examination Committee 2); Prof. Yun-Chia Liang (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022639/IND/2023; Priskila Aprilia (C13200010)",
+  "subjects": "SHIPPING--MANAGEMENT; VEHICLE ROUTING PROBLEM"
+}

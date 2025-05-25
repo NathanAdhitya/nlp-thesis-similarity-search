@@ -1,0 +1,14 @@
+{
+  "id": "4422",
+  "title": "Perancangan dan pembuatan aplikasi instant messaging pada mobile device dengan menggunakan J2ME dan J2SE",
+  "abstract": "Saat ini perkembangan teknologi telah membuat aplikasi tidak hanya terbatas pada komputasi desktop namun telah mencapai komputasi mobile device. Java programming telah berkembang dengan pesat sehingga dapat mendukung aplikasi wireless network secara luas. Perancangan dan pembuatan tugas akhir ini, bertujuan untuk membangun aplikasi instant messaging yang dapat berkomunikasi antara mobile device dengan mobile device, antara komputer dan komputer dan antara mobile device dan komputer. Dalam perancangan dan pembuatan aplikasi, terdiri atas: aplikasi server yang berfungsi sebagai server pusat dengan menggunakan protocol XML pada platform J2SE; aplikasi servlet sebagai web server penghubung antara client dan server pusat dengan menggunakan HTTP pada platform J2EE; aplikasi client mobile sebagai aplikasi client pada mobile device pada platform J2ME. Aplikasi client desktop sebagai aplikasi client pada komputer desktop pada platform J2SE. Aplikasi ini telah diuji dengan menggunakan 2 skenario. Skenario pertama adalah menggunakan protocol XML untuk melakukan koneksi ke server. Pada skenario pertama, aplikasi dapat melakukan transfer data untuk chatting hingga streaming pada komputer desktop dan transfer data khusus untuk chatting pada mobile device. Skenario kedua adalah menggunakan protocol IRC untuk melakukan koneksi ke server IRC yang digunakan untuk melakukan transfer data. Beberapa keterbatasan yang telah diatasi, antara lain: keterbatasan resource, dan infrastruktur yang kurang mendukung. Dalam hal ini resource berhubungan dengan keterbatasan memory dan display. Keterbatasan dukungan selain HTTP pada infrastuktur membuat timbulnya masalah dalam implementasi. Hasil akhir dari tugas akhir ini adalah suatu sistem aplikasi yang dapat memberikan solusi untuk masalah keterbatasan resource dan infrastruktur baik pada mobile device maupun pada komputer desktop.",
+  "creators": "SURYA",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Resmana Lim (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000180/INF/2004; Surya (26400024)",
+  "subjects": "ELECTRONIC MAIL SYSTEMS; INTERNET (COMPUTER NETWORKS)"
+}

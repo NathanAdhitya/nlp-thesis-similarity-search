@@ -1,0 +1,14 @@
+{
+  "id": "15319",
+  "title": "Perencanaan dan pembuatan pengatur arus 4-20 mA DC dengan mikrokontroler 8031 untuk beban maksimum 300 OHM",
+  "abstract": "Sejalan dengan berkembangnya bidang perindustrian, banyak peralatan industri yang membutuhkan arus 4-20 mA yang digunakan untuk kontrol elektronik. Arus 4-20 mA merupakan arus standar yang banyak digunakan dalam instrumentasi elektronika, misalnya untuk sensor, input PLC, dosing pump dan masih banyak yang lainnya. Untuk itu dibuat suatu alat yang dapat mengeluarkan arus 4-20 mA. Arus 4-20 mA ini di kontrol oleh mikrokontroler 8031 untuk mengatur agar arus yang keluar agar sesuai dengan yang diinputkan dan selalu konstan. Arus dengan besar 4 -20 mA diinputkan melalui keypad dan ditampilkan menggunakan LCD (Liquid Crystal Display). Hasil yang diperoleh dari percobaan bahwa alat yang sudah dibuat dapat mengeluarkan arus 4 -20 mA dengan kelinieran yang cukup baik.",
+  "creators": "HENGKY ARDIANTO",
+  "contributors": "IRWAN SAHLI (Advisor 1); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/028/373; Hengky Ardianto (23491070)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; INTEL 8031 (MICROCONTROLLER); VOLTAGE REGULATORS-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "24136",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi yang terintegrasi pada multi store yang tergabung dalam Melinda Putri Group",
+  "abstract": "Melinda Putri Group merupakan suatu grup toko yang memiliki banyak cabang toko. Pada saat ini sistem pembelian, penjualan dan pencatatan stok barang masih menggunakan sistem manual, sehingga sering terjadi kesulitan dalam pencatatan dan pencarian data transaksi pembelian dan penjualan, belum terdapatnya perhitungan laba rugi dan perbedaan stok yang tertera pada kartu stok dengan jumlah barang yang ada secara fisik. Untuk menyelesaikan permasalahan tersebut, maka dibuat sistem administrasi untuk membantu Melinda Putri Group dalam mengatur setiap transaksi yang ada. Desain data flow diagram dibuat menggunakan program Microsoft Office Visio 2007 dan desain data relationship diagram menggunakan program Power Designer 15. Aplikasi ini dikembangkan dan dibuat dengan menggunakan bahasa pemrograman Microsoft Visual Basic .NET dan Microsoft SQL Server 2005 sebagai tempat penyimpanan data. Dari hasil pengujian terhadap aplikasi, menunjukkan bahwa aplikasi ini dapat memproses data pemesanan, pembelian dan penjualan barang serta perhitungan stok barang yang dibutuhkan oleh perusahaan. Aplikasi ini juga dapat menghasilkan semua laporan seperti laporan pembelian, laporan penjualan, laporan stok serta laporan laba rugi.",
+  "creators": "ANITA ARIANI GONI",
+  "contributors": "Andreas Handojo (Advisor 1); Alexander Setiawan (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021028/INF/2011; Anita Ariani Goni (26407008)",
+  "subjects": "INFORMATION STORAGE AND RETRIEVEL SYSTEMS-BUSINESS; INFORMATION STORAGE AND RETRIEVEL SYSTEMS-MARKETING; DATABASE DESIGN; DATABASE MANAGEMENT"
+}

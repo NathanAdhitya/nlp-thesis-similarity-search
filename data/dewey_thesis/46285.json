@@ -1,0 +1,14 @@
+{
+  "id": "46285",
+  "title": "Aplikasi website pemetaan penyebaran penyakit demam berdarah menggunakan metode Geographically Weighted Regression untuk memprediksi tingkat penyebarannya di Surabaya",
+  "abstract": "Demam Berdarah adalah salah satu penyakit endemis yang cukup populer di Indonesia. Pada awal tahun 2019, Jawa Timur tercatat sebagai provinsi dengan kasus Demam Berdarah terbanyak di Indonesia, maka dari itu sangat diperlukan sebuah tindakan pencegahan agar dapat menurunkan kasus Demam Berdarah di Jawa Timur. Namun, dikarenakan keterbatasan untuk mendapatkan data Jawa Timur secara lengkap, maka pengujian ini menggunakan data Surabaya sebagai model, karena memiliki data yang lebih lengkap. Penelitian ini bertujuan untuk memetakan penyebaran Demam Berdarah dengan menggunakan metode Geograpihcally Weighted Regression (GWR) yang dapat memberikan bobot secara local terhadap masing-masing variabel independen seperti curah hujan, jumlah hari hujan dalam setahun, temperatur, dan kelemababan, sehingga dapat memberikan hasil yang akurat untuk mengantisipasi penyebaran demam berdarah di waktu yang akan datang. Hasil akhir dari penelitian ini berupa pemetaan yang memiliki warna sesuai tingkat penyebarannya per wilayah puskesmas yang ada di Surabaya, beserta pemetaan bobot dari masing-masing variabel independen untuk menentukan variabel independen mana yang berpengaruh dalam penentuan penderita demam berdarah per wilayah puskesmas yang ada di Surabaya. Sehingga wilayah tersebut dapat melakukan tindakan pencegahan berdasarkan hasil pemetaan dari penelitian ini.",
+  "creators": "HOLIYED HADI",
+  "contributors": "Andreas Handojo (Advisor 1); Siana Halim (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021938/INF/2020; Holiyed Hadi (26416084)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); WEBSITE DESIGN"
+}

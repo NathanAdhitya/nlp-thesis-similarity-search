@@ -1,0 +1,14 @@
+{
+  "id": "5544",
+  "title": "Pembuatan sistem informasi administrasi pasien di poliklinik RS. Katolik St. Vincentius A Paulo Surabaya",
+  "abstract": "Untuk memperbaiki pelayanan terhadap pasien, pihak RS. Katolik St. Vincentius a Paulo Surabaya berencana untuk memperbaiki sistem administrasi yang ada di poliklinik selama ini. Hal ini dikarenakan sistem administrasi yang lama dinilai sudah tidak sesuai dengan kemajuan teknologi dan sistem manual yang terdapat di sistem administrasi lama mempunyai kelemahan mendasar yang merugikan pihak poliklinik dan pasien. Dalam rangka penyusunan tugas akhir, maka dibuat sistem komputerisasi mengenai administrasi pasien yang lebih baik dan mampu mengurangi kelemahan yang ada pada sistem administrasi yang lama. Proses pembuatan program dimulai dari awal, yaitu analisis kegiatan administrasi pada Poliklinik RS. Katolik St. Vincentius a Paulo Surabaya, kemudian penyusunan DFD, ERD, dan pembuatan tabel sampai pada pemrograman. Sistem komputerisasinya meliputi administrasi pasien, dokter, suster. Untuk pengamanan data, setiap pemakai diberi username, password, dan menu yang bisa diakses. Pembuatan database menggunakan Microsoft SQL Server 2000. Bahasa pemrograman yang digunakan adalah Borland Delphi 6.0. Sistem administrasi pasien yang baru dibuat ini dapat menampilkan catatan medis pasien selama berobat dan data terapi yang pernah diterima pasien selama melakukan pemeriksaan di poliklinik. Demo program sudah dilakukan kepada pihak EDP RS. Katolik St. Vincentius a Paulo Surabaya dan hasil pengujian menunjukkan bahwa interface program dan kemudahan penggunaan program bisa diterima dengan baik. Sedangkan ketahanan program dan konsistensi memerukan pengujian yang lebih lanjut.",
+  "creators": "CHRISTIAN JUNAIDI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Andreas Handojo (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000200/INF/2004; Christian Junaidi (26400065)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTER); DATABASE DESIGN; DATABASE MANAGEMENT"
+}

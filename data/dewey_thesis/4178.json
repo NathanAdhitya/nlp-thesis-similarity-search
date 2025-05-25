@@ -1,0 +1,14 @@
+{
+  "id": "4178",
+  "title": "Pembuatan software perhitungan harga pokok penjualan pada PT Indah Raya Sejati",
+  "abstract": "PT. Indah Raya Sejati merupakan perusahaan yang bergerak di bidang mebel logam dan masih menggunakan sistem manual untuk menghitung harga pokok penjualan. Penggunaan komputer hanya untuk mengetik dan menghasilkan laporan yang dihitung secara manual. Pada sistem manual terdapat banyak kesalahan dalam menghitung dan menyimpan data. Untuk mengatasi kesalahan tersebut dibuat program database untuk membantu pembuatan laporan harga pokok penjualan. Sofware Perhitungan Harga Pokok Penjualan ini merupakan program aplikasi database berbasis komputer. Software ini menggunakan Power Builder versi 8.0 untuk bahasa pemrograman dan SQL Server 2000 untuk database. Proses desain digunakan DFD dan ERD. Proses implementasinya memanfaatkan ODBC sebagai basis koneksi ke database. Software harga pokok penjualan ini dapat membuat laporan yang sama dengan manualnya, dapat mengurangi `Human Error? dalam hal menghitung dan menyimpan data, dapat menelusuri adanya kesalahan, sehingga akan membantu bagian akuntasi untuk membuat laporan perhitungan harga pokok penjualan.",
+  "creators": "FERAWATI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Andreas Handojo (Advisor 2); Theresia Lestiowati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0057/INF/2003; Ferawati (26499008)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN"
+}

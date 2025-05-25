@@ -1,0 +1,14 @@
+{
+  "id": "2195",
+  "title": "Perancangan sensor fluk magnetik untuk menghitung gigi gear ferromagnetik persatuan waktu",
+  "abstract": "Dalam mengukur kecepatan putaran suatu poros seringkali digunakan tachometer bila pegukurannya bersifat temporary (sesekali saja), namun jika pengukurannya sering, bersifat periodik atau bahkan kontinyu maka seringkali digunakan encoder yang dihubungkan secara permanen pada poros yang bersangkutan. Kesulitan mulai muncul ketika memerlukan pengukuran kecepatan putaran poros dimana tidak terdapat ruang lagi pada poros untuk ditempelkan encoder, sedangkan pada mesin tersebut terdapat banyak gigi gear ferromagnetik. Sensor fluks magnetik adalah juga sensor untuk mengukur kecepatan putaran, dengan hanya meletakkan sensor dekat gigi gear ferromagnetik yang seringkali ada pada mesin-mesin, outputnya adalah gigi perdetik karena yang dihitung jumlah gigi yang lewat diujung sensor persatuan waktu, sensor ini bersifat semipermanen karena tidak semudah menggunakan tachometer namun tidak perlu dihubungkan secara permanen keporos seperti encoder, cukup dengan menyediakan dudukan yang dekat dengan gigi gear ferromagnetik yang seringkali sudah ada pada mesin-mesin industri. Dengan pengukur kecepatan yang menggunakan sensor fluks elektromagnetik sebagai pengindranya, dapat diketahui kecepatan putaran secara digital dengan mudah. Dengan sensor fluks elektromagnetik dapat dideteksi pergerakanhanya dengan mendudukkan sensor didekat gigi gear ferromagnetik, jarak antara ujung sensor dengan ujung gigi gear harus kurang dari 3 mm, dan dapat bekerja dengan berbagai macam bentuk gigi gear, sensor hanya mendeteksi kecepatan berdasarkan gigi perdetik tanpa menghiraukan arah putaran, output scnsor berupa tegangan bolak-balik dengan perioda sesuai dengan jumlah pergerakan gigi gear, tegangan output lebih dari 100 mili volt peak to peak. Dengan pengukur kecepatan putaran yang dibuat untuk sensor fluks magnetik ini, pengukur kecepatan putaran berkemampuan untuk mendeteksi pergerakan gigi antara 1 hingga 9999 gigi perdetik, output dalam bentuk digital 7-segment, pengukur kecepatan tersebut membutuhkan tegangan 220 VAC dari jala-jala.",
+  "creators": "YONGKY TANDJUNG",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Advisor 1); Heri Saptono Warpindyasmoro (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/001/547; Yongky Tanjung (23494031)",
+  "subjects": "DETECTORS"
+}

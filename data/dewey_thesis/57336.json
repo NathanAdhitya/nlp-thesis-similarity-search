@@ -1,0 +1,14 @@
+{
+  "id": "57336",
+  "title": "Sistem pengenalan ekspresi wajah tidak ideal pada public speaker dengan model convolutional neural network - long short term memory",
+  "abstract": "Ekspresi wajah merupakan salah satu komponen utama pada Public Speaker untuk memikat pendengar agar dapat menerima materi dengan baik. Tanpa adanya ekspresi wajah yang menarik, pendengar dapat kehilangan atensi dan berpotensi untuk gagal menerima informasi dari materi yang dibawakan oleh public speaker. Untuk dapat menjadi public speaker yang menarik, diperlukan latihan secara berkala. Salah satu cara yang dapat dilakukan adalah dengan menyewa seorang pelatih untuk dapat mendampingi ketika berlatih public speaking. Hanya saja, menyewa seorang pelatih tentu saja akan membutuhkan biaya yang tidak sedikit sehingga sangat memungkinkan apabila berlatih dengan pendampingan dari seorang pelatih hasilnya bisa menjadi tidak sepadan karena banyaknya biaya yang harus dikeluarkan. Oleh sebab itu, dibutuhkan sebuah sistem yang mampu membantu public speaker dalam berlatih secara mandiri dengan memberikan evaluasi ekspresi wajah yang baik dan tidak baik. Penelitian ini mengajukan penggunaan model Convolutional Neural Network - Long Short Term Memory (CNN-LSTM) untuk melakukan pengenalan ekspresi wajah ideal dan tidak ideal pada dataset berupa video rekaman public speaking. Akurasi tertinggi yang didapatkan dari model CNN-LSTM setelah melakukan beberapa kali pengujian adalah 88%.",
+  "creators": "MICHAEL ALVERIAN MARESCA",
+  "contributors": "Liliana (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Gregorius Satiabudhi (Examination Committee 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022380/INF/2023; Michael Alverian Maresca (C14190149)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--COMPUTER PROGRAMS; IMAGE PROCESSING--DIGITAL TECHNIQUES; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

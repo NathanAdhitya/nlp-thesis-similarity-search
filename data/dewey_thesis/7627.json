@@ -1,0 +1,14 @@
+{
+  "id": "7627",
+  "title": "Perancangan dan pembuatan aplikasi sistem pengendalian persediaan barang pada unit perbekalan Universitas Kristen Petra",
+  "abstract": "Unit Perbekalan Universitas Kristen Petra (UKP) merupakan sebuah unit yang berfungsi untuk menyediakan segala macam kebutuhan yang berhubungan dengan operasional dari UKP. Pemesanan barang yang diterima dari pihak intern UKP, terkadang tidak langsung dipenuhi oleh pihak Unit Perbekalan pada saat itu juga akan tetapi membutuhkan waktu beberapa hari karena barang-barang tersebut jumlahnya tidak mencukupi atau habis sehingga harus dipesan lagi ke pihak supplier. Pada aplikasi ini dilakukan peramalan permintaan untuk mendapatkan jumlah pemesanan dan waktu pemesanan barang yang optimal. Metode peramalan yang digunakan adalah Moving Average, Weighted Moving Average, Exponential Smoothing, Trend Line Analysis, Exponetial Smoothing with Trend Adjustment, Exponetial Smoothing with Seasonal Adjustment, dan Exponetial Smoothing with Trend and Seasonal Adjustment. Untuk mencari biaya pemenuhan permintaan yang minimal digunakan metode lot sizing yaitu Economic Order Quantity dan Wagner Within. Pembuatan aplikasi ini menggunakan software Borland Delphi 7.0 dan Microsoft SQL Server 2000 sebagai database. Dari hasil pengujian, model-model peramalan yang dipergunakan diharapkan dapat mewakili semua pola permintaan yang terdapat pada Unit Perbekalan UKP. Hasil dari lot sizing adalah total biaya pembelian barang yang minimal, dengan penghematan hingga 72%. Hasil peramalan dan lot sizing dipergunakan untuk menghasilkan laporan penjadwalan pembelian barang sehingga dapat mengetahui kapan waktu untuk menyediakan barang dan jumlah barang yang harus disediakan.",
+  "creators": "CHARLES TANAYA",
+  "contributors": "Tanti Octavia (Advisor 1); Gregorius Satiabudhi (Advisor 2); M. ISA IRAWAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000409/INF/2005; Charles Tanaya (26401201)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

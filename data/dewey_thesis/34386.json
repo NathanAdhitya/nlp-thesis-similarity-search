@@ -1,0 +1,14 @@
+{
+  "id": "34386",
+  "title": "Pengembangan mekanisme pembayaran pujasera ( food court ) menggunakan teknologi RFID yang dilengkapi dengan PIN",
+  "abstract": "Pengembangan mekanisme pembayaran pujasera menggunakan teknologi RFID yang dilengkapi dengan PIN ini bertujuan untuk membuat sistem pembayaran pada pujasera menjadi lebih efisien dan memiliki pembagian hasil yang jelas antara tenant dan pengelola. Sistem ini menggabungkan teknologi RFID, komunikasi aktif antara client dengan server, dan dilengkapi dengan PIN sebagai proses konfirmasi dan keamanan. Pada bagian server terdiri dari mikrokontroler dan PC. Mikrokontroler pada server digunakan sebagai buffer dan communication handler, sedangkan PC berfungsi sebagai database dan sistem monitoring. Kemudian pada bagian client terdiri dari mikrokontroler yang digunakan sebagai otak, input PIN dan pemesanan makanan menggunakan keypad, serta thermal printer dan LCD untuk menampilkan baik proses dan hasil akhir pada konsumen. Yang membedakan sistem ini dengan sistem RFID ataupun sistem pembayaran pujasera yang lain, adalah adanya komunikasi aktif antara cilent dan server. Dengan kata lain, keseluruhan informasi konsumen terdapat pada server, bukan pada tag RFID yang mereka miliki. Fitur-fitur yang dimiliki pada sistem ini adalah fungsi keamanan dengan PIN pada akun setiap konsumen, pencatatan pembelian makanan dan saldo pada database. Namun aplikasi pada database belum mencapai pencatatan pembagian hasil setiap tenant, pencatatan makanan yang dipesan per harinya, dan pengontrol menu serta harga pada tenant melalui server.",
+  "creators": "ORTHO PRIYO ATMOJO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010949/ELK/2015; Ortho Priyo Atmojo (23411029)",
+  "subjects": "RADIO FREQUENCY IDENTIFICATION SYSTEMS; MICROCONTROLLERS"
+}

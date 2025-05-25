@@ -1,0 +1,14 @@
+{
+  "id": "48972",
+  "title": "Pemodelan dan analisis balok beton cetak tiga dimensi",
+  "abstract": "Percetakan tiga dimensi (3D) diprediksi akan berdampak secara signifikan dalam industri konstruksi. Berbagai penelitian telah dilakukan untuk memodelkan dan menganalisis elemen struktur, seperti balok, yang terbuat dari beton cetak 3D; namun, hasil yang didapat bervariasi karena perilaku dan constitutive relationship dari material beton cetak 3D masih belum dipahami dengan baik. Dalam penelitian ini, hasil pemodelan dan analisis dua dimensi (2D) menggunakan software komputer OpenSees disajikan dalam bentuk hubungan force-displacement untuk masing-masing spesimen. Constitutive relationship beton cetak 3D, terutama untuk bagian non-linear, paling sulit untuk diperkirakan. Semua hasil analisis divalidasi menggunakan hasil eksperimen dari beberapa pengujian pada balok beton cetak 3D yang terdapat di literatur. Hasil penelitian menunjukkan bahwa model analisis dapat memprediksi kuat lentur maksimum dengan cukup baik, meskipun model analisis memiliki kekakuan awal yang lebih tinggi. Beberapa kegagalan lokal selama pengujian eksperimental, seperti slip berulang, tidak dapat disimulasikan dengan baik. Karena spesimen uji yang digunakan tidak sempurna dari segi eksperimen yang dilaksanakan, maka diambil 10 spesimen dari penelitian yang berbeda untuk mengantisipasi pemodelan yang kurang baik.",
+  "creators": "FRANSISCA OKTAVIANI PURNOMO; DARWIN WIJAYA",
+  "contributors": "Jimmy Chandra (Advisor 1); Benjamin Lumantarna (Examination Committee 1); Pamuda Pudjisuryadi (Examination Committee 2); Hartanto Wibowo, S.T., M.A.Sc., Ph.D (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012455/SIP/2021; Fransisca Oktaviani Purnomo (B11170168)Darwin Wijaya (B11170092)",
+  "subjects": "CONCRETE BEAMS--TESTING; CONCRETE BEAMS-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4756",
+  "title": "Sistem akses papan informasi dot matrix melalui web dan mobile internet",
+  "abstract": "Sistem penyampaian informasi melalui papan informasi saat ini masih terbatas. Dimana informasi dimasukkan langsung pada interface papan informasi oleh operator. Pengiriman informasi untuk ditampilkan pada papan informasi dari jarak jauh masih jarang dilakukan. Teknologi internet dan mobile internet yang sedang berkembang saat ini sebenarnya dapat dimanfaatkan untuk membuat suatu sistem akses papan informasi jarak jauh.. Tujuan dari tugas akhir ini adalah membuat suatu sistem akses papan informasi yang dapat dilakukan dari jarak jauh. Metode dalam melakukan akses dapat melalui web dan mobile internet menggunakan Wireless Application Protocol (WAP). Untuk melakukan akses melalui web, digunakan web browser (Internet Explorer), sedangkan untuk akses melalui mobile internet, digunakan handphone yang memiliki fasilitas WAP, atau sebuah WAP Emulator. Aplikasi ini dibuat dengan menggunakan bahasa HTML, WML, PHP, dan bahasa C. Sebagai server digunakan sebuah komputer yang menggunakan APACHE web server. Hardware terhubung dengan komputer server secara serial. Hardware terdiri dari mikrokontroler dan papan informasi. Untuk papan informasi disimulasikan dengan menggunakan LCD dot matrix. Hasil yang diperoleh dari tugas akhir ini adalah suatu sistem akses papan informasi yang melalui web dan mobile internet dengan menggunakan Wireless Application Protocol (WAP), dimana informasi yang dikirimkan dapat ditampilkan dengan baik pada papan informasi yang disimulasikan menggunakan LCD dot matrix.",
+  "creators": "WIRA SANJAYA",
+  "contributors": "Resmana Lim (Advisor 1); Lauw Lim Un Tung (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010011/ELK/2004; Wira Sanjaya (23400050)",
+  "subjects": "INTERNET (COMPUTER NETWORK)"
+}

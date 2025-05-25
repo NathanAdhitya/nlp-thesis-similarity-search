@@ -1,0 +1,14 @@
+{
+  "id": "16717",
+  "title": "Interface ide CDROM dengan mikrokontroler keluarga mcs51 untuk mp3 player",
+  "abstract": "In trying to get other alternatives to access the IDE CDROM, the writer tried to replace the function of PC with a 80C31 microcontroller. Basically this system consists of IC 80C31, RAM, EEPROM, and PPI 8255 which this PPI is used as control lines and data lines to the IDE CDROM. To investigate the succeed which has been reached in accessing the IDE CDROM, a MP3 decoder was used and the data which was being read at the IDE CDROM was limited only for data that formatted by MP3. The MP3 decoder was able to extract MP3 files and changed it into hearable voice. In general, this system functioned as a MP3 player. The testing was divided into two steps which the first step was done to test the data transfer between the minimum system and the IDE CDROM, while the second step was a voice quality test. The first step showed the result that the data structure in the MP3 CD is right, while the second step showed that the voice quality was quite good enough.",
+  "creators": "RICKY HERLAMBANG",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/077/514; Ricky Herlambang (23496090)",
+  "subjects": "COMPUTER STORAGE DEVICES; IDE CD-ROM"
+}

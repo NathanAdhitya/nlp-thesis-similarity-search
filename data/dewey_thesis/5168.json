@@ -1,0 +1,14 @@
+{
+  "id": "5168",
+  "title": "Verifikasi personal berdasarkan bentuk geometri tangan dengan metode filter gabor",
+  "abstract": "Penggunaan sistem biometrik sebagai salah satu sistem identifikasi telah berkembang dengan pesat, salah satu yang digunakan adalah bentuk geometri tangan. Untuk dapat menganalisa informasi yang terdapat pada citra gambar yang dihasilkan, diperlukan suatu metode feature extraction yang tepat. Tugas akhir ini membuat suatu perangkat lunak pengenalan bentuk geometri tangan dengan menggunakan metode Filter Gabor. Bahasa Pemrograman yang dipakai adalah Microsoft Visual++ 6.0 ? , Intel ? Image Performance Library dan Open Source Computer Vision Library. Pengujian similiarity dilakukan dengan membandingkan vektor Gabor yang diambil dari hasil konvolusi antara 40 kernel Gabor dengan 12 titik sampling yang diambil pada posisi tertentu pada image tangan, menghasilkan 480 vektor Gabor. Pengujian sistem dilakukan dengan mengambil citra gambar tangan dari 14 orang, masing- masing sebanyak 10 kali. Tingkat keberhasilan pembuktian dengan menggunakan 42 image dalam database dan 98 image testing, 70 image dalam database dan 70 image testing, 98 image dalam database dan 42 image testing, serta dengan memberikan noise pada citra memberikan hasil lebih dari 90%.",
+  "creators": "SANTOSO",
+  "contributors": "Resmana Lim (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/664/ELK/2003; Santoso (23498005)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

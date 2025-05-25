@@ -1,0 +1,14 @@
+{
+  "id": "23199",
+  "title": "Perancangan dan pembuatan sistem mikroprosesor untuk simulator matahari yang dapat diprogram pada kubah langit buatan",
+  "abstract": "Pemakalan mlkroprosessor dalam slstem kontrol telah banyak dlpakal balk dalam dunla lndustrl maupun dalam kehldupan seharl-harl, Dalam tugas akhlr In1 dlrancang slstem mlnimum dengan UP 2-80, yang dlapllkaslkan sebagal pengendall gerakan dua buah motor AC 3 fasa dan satu buah motor DC untuk pengaturan poslsi 'mataharl buatan'. Sebagal lnterf ace antara slstem kontro 1 terhadap rangkalan penggerak motor dlpergunakan dua buah PPI8255 buatan Intel. Slstem juga dllengkapl dengan keyboard untuk pemasukan data dan 6 dlglt dlsplay untuk menampllkan masukan keyboard dan has1 1 operas1 slstem. Rangkalan keyboard dan dlsplay In1 dllnterfacekan pada slstem dengan perantaraan IC Programmable Keyboard and Dlsplay Interface 8279. Program sistem operasi ditul is dalam bahasa assembly yang tersimpan dalam EPROM. Sedang data-data yang dlinputkan me1 alui keyboard disimpan dalam RAM. Untuk pengendalian gerakan motor dilakukan sistem pooling secara software.",
+  "creators": "DWI SUTANTO",
+  "contributors": "AGUS MULYANTO (Examination Committee 1); HERLIANTO TENGGARA (Advisor 2); HANDAYANI T. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No 89/E/EL/018/0039; Dwi Sutanto (484063)",
+  "subjects": "ELECTRO"
+}

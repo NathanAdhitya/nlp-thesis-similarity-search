@@ -1,0 +1,14 @@
+{
+  "id": "9216",
+  "title": "Perancangan dan pembuatan sistem administrasi pada Restoran Sari Rasa, Makassar",
+  "abstract": "Restoran Sari Rasa adalah perusahaan yang bergerak di bidang jasa makanan. Selama ini sistem administrasi yang dilakukan masih secara manual, sehingga kerapkali didapatkan proses kerja yang lama. Masalah lain yang didapati adalah perusahaan ini belum memiliki sistem untuk mencatat jumlah stok inventori yang terdapat di dapur, sehingga bagian inventori tidak dapat mengetahui jika terdapat kekurangan stok di dapur. Dengan semua masalah tersebut, penulis ingin membangun sistem administrasi dengan benar, terstruktur, aman dan siap saji. Aplikasi sistem administrasi ini diharapkan dapat membantu kegiatan penjualan dan pembelian yang terjadi di perusahaan. Dengan adanya permasalahan tersebut maka dilakukan pengaplikasian sistem administasi perusahaan secara komputerisasi yang dimulai dari pencatatan pesanan hingga proses pengaturan inventori serta proses pembuatan laporan laba rugi. Pembuatan sistem administrasi ini menggunakan software Borland Delphi 7.0 dan MySQL sebagai penyimpanan database. Untuk mendesain sistem dimulai dengan merancang Data Flow Diagram (DFD) dan Entity Relationship Diagram (ERD) digunakan untuk menggambarkan alur sistem administrasi, dibuat dengan menggunakan Power Designer 6.1. Dari hasil uji coba, perangkat lunak ini dapat membuat pemesanan dan penjualan; melihat, menambah, mengolah dan meng-update data inventori; melihat, menambah dan mengolah data resep; dan membuat laporan laba rugi.",
+  "creators": "SUMITRO YAUWLY",
+  "contributors": "Resmana Lim (Advisor 1); Liliana (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010545/INF/2006; Sumitro Yauwly (26401217)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

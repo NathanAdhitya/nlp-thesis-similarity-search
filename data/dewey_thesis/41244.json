@@ -1,0 +1,14 @@
+{
+  "id": "41244",
+  "title": "Sistem informasi akuntansi pada PT PT Jape Dilijaya",
+  "abstract": "Sistem dalam perusahaan produksi air minum PT Jape Dilijaya masih manual dengan menggunakan kertas dan buku. Proses dan data yang dicatat pada kertas rentan terjadi kesalahan dan kurang integrasi antar data. Manajemen pun susah mengamati pergerakan data karena semua sistem masih menggunakan metode yang tidak terintegrasi satu dengan yang lain untuk mencatat data. Berdasarkan latar belakang masalah tersebut, maka dibuatlah sistem informasi akuntansi yang berbasis website agar mudah dipantau oleh bagian manajemen kapanpun dan dimanapun. Data yang dimasukkan dan di inputpun dapat lebih berintegrasi dan mengurangi data yang rusak karena tidak adanya integrasi data. Tahap pembuatan dimulai dengan mengamati dan menganalisa proses manual pada perusahaan serta pembagian tugas untuk setiap personilnya. Lalu dilanjutkan dengan design Data flow diagram serta Entitiy relational diagram. Tahap selanjutnya yang dilakukan adalah mendesain interface website dengan bahasa pemprograman PHP dan membuat database menggunakan database mysql. Program yang diimplementasikan dapat menghasilkan banyak hal mencakup pengolahan data PO, LPB, nota retur pembelian, SO, nota, retur penjualan, BOM, SPK, BPPB, Laporan harian produksi, bukti keluar barang pecah, bukti pengeluaran lain-lain, BBK, BKK, BBM, BKM, jurnal umum, coa, database master. Program juga menghasilkan laporan antara lain kartu-kartu, register, laporan perincian hutang dan piutang, laporan mutasi persediaan, buku besar, neraca percobaan, neraca, laporan laba rugi.",
+  "creators": "DAVID SUGIARTO",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021714/INF/2017; David Sugiarto (26413032)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; INFORMATION STORAGE AND INFORMATION SYSTEMS-ACCOUNTING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

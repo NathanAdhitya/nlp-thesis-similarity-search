@@ -1,0 +1,14 @@
+{
+  "id": "33743",
+  "title": "Aplikasi indonesian news aggregator berbasis android yang didukung oleh sistem perekomendasi",
+  "abstract": "Perkembangan teknologi internet berkembang dengan sangat pesat. Hal ini mempengaruhi kebiasaan manusia dalam mencari dan mendapatkan informasi. Berita menjadi tidak dapat dipisahkan dari kehidupan sehari-hari manusia. Ada begitu banyak berita berlimpah dengan berbagai macam topik dan kategori untuk dibaca, sedangkan waktu yang dimiliki oleh manusia untuk membaca sangat terbatas. Oleh karena itu, diperlukan adanya fitur rekomendasi pada aplikasi berita masa kini agar dapat menyuguhkan berita sesuai dengan apa yang disukai dan tidak disukai oleh pengguna, di mana pengguna dapat memberikan rating pada setiap berita yang dibaca. Pengerjaan skripsi ini berfokus pada fitur rekomendasi dari aplikasi berita berbasis Android. Untuk memberikan fitur rekomendasi, diperlukan adanya server yang dapat mengambil data berita dari berbagai macam situs. Kemudian, dilakukan parsing dan pengolahan pada setiap data berita yang sudah didapatkan untuk dipakai dalam perhitungan profil pengguna. Berdasarkan pengujian yang sudah dilakukan, pemberian rating dapat mengubah rekomendasi berita yang diberikan dari waktu ke waktu dan masih ada beberapa kekurangan pada struktur HTML dan standar RSS dari situs sumber berita berbahasa Indonesia.",
+  "creators": "NYDIA VALENTINA WAHONO",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Rolly Intan (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021387/INF/2015; Nydia Valentina Wahono (26410034)",
+  "subjects": "ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (ELECTRONIC RESOURCE)-PROGRAMMING; ANDROID (ELECTRONIC RESOURCE)"
+}

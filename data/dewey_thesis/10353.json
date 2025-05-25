@@ -1,0 +1,14 @@
+{
+  "id": "10353",
+  "title": "Perancangan dan pembuatan aplikasi pemetaan pengguna wireless lan menggunakan location fingerprinting dan weighted distance inverse",
+  "abstract": "Belakangan ini, mobile positioning semakin diminati. Bagi para penyedia jasa, dengan mengetahui posisi pengguna saat ini, dapat disediakan layanan berbasis lokasi kepada pengguna bersangkutan, seperti informasi lalu lintas dan cuaca. Untuk solusi outdoor, pada umumnya digunakan Global Positioning System (GPS) sebagai media untuk melacak posisi pengguna. Sedangkan pada lingkungan indoor, salah satu solusinya adalah menggunakan wireless LAN. Oleh karena itu, pada Tugas Akhir ini dibuat sebuah aplikasi yang dapat memetakan posisi pengguna dengan wireless LAN. Metode yang digunakan adalah Location Fingerprinting, yang terdiri atas 2 tahap, yaitu tahap pelatihan dan penentuan letak. Pada tahap pelatihan, dilakukan survey terhadap lokasi yang bersangkutan untuk mengumpulkan data fingerprint, yang berupa data Received Signal Strength (RSS) dari setiap access point yang terpasang. Untuk membantu pengumpulan data fingerprint ini, digunakan metode interpolasi data Weighted Distance Inverse. Sedangkan pada tahap penentuan letak, pengguna mengirimkan data RSS ke server untuk ditentukan posisinya. Hasil pengujian menunjukkan bahwa proses penentuan letak sangat bergantung pada data fingerprint yang dikumpulkan pada tahap pelatihan. Sedangkan RSS yang merupakan data fingerprint utama, sangat sensitif terhadap kondisi lingkungan. Peningkatan akurasi hasil penentuan letak dapat dicapai dengan menambah jumlah Access Point (AP) dan jumlah Reference Point (RP) yang optimal. Aplikasi ini nantinya dapat dikembangkan sehingga dapat menjangkau daerah yang lebih luas.",
+  "creators": "CHARLIE ANTHONY",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Silvia Rostianingsih (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010701/INF/2008; Charlie Anthony (26404019)",
+  "subjects": "WIRELESS LOCAL AREA NETWORKS"
+}

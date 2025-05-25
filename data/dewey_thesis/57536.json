@@ -1,0 +1,14 @@
+{
+  "id": "57536",
+  "title": "Sistem kontrol akses ruangan rapat pada PT XYZ menggunakan Radio Frequency Identification (RFID)",
+  "abstract": "Akses ruangan rapat pada PT XYZ masih dilakukan secara manual. Ketika menjadwalkan rapat melalui aplikasi internal e-Meeting, host rapat diharuskan mencetak detail rapat menggunakan printer thermal dan menempelkannya pada pintu ruangan sebagai penanda. Sistem manual seperti ini tidak dapat memberikan keamanan yang memadai karena tidak bisa mengidentifikasi siapa yang masuk atau keluar dari ruangan rapat. Hal ini menyebabkan akses ke ruangan rapat menjadi tidak aman, memungkinkan orang yang tidak terdaftar sebagai peserta rapat bisa mengakses ruangan rapat. Solusi yang diusulkan adalah sistem kontrol akses ruangan yang terintegrasi dengan aplikasi e-Meeting menggunakan teknologi radio frequency identification sebagai perangkat kunci pintu. Kelebihan RFID adalah tidak memerlukan kontak langsung saat membaca data pada tag kartu sehingga lebih unggul dibanding metode identifikasi lainnya. Hasil pengujian user acceptance testing (UAT) menunjukkan hasil positif, tanpa ada feedback negatif dari user. Prototype perangkat kunci pintu RFID berhasil mengidentifikasi kartu akses dan membatasi akses ruangan hanya untuk user terjadwal. Fitur log activity sukses mencatat aktivitas user mengakses ruangan. Fitur kontrol perangkat IoT sukses mengatur lampu dan air conditioner ruangan secara otomatis. Namun koneksi internet stabil diperlukan untuk mengontrol perangkat IoT secara optimal. Fitur pilihan akhir rapat sukses mencegah overtime rapat berurutan pada satu ruangan yang sama.",
+  "creators": "IVERSON AULDRYCH GIVEN KRYSTHIO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); ANITA NATHANIA PURBOWO, S.KOM. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022295/INF/2023; Iverson Auldrych Given Krysthio (C14190189)",
+  "subjects": "APPLICATION SOFTWARE; RADIO FREQUENCY IDENTIFICATION SYSTEMS--TECHNOLOGICAL INNOVATIONS; INTERNET OF THINGS"
+}

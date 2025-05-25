@@ -1,0 +1,14 @@
+{
+  "id": "21806",
+  "title": "Pembuatan aplikasi image resizing menggunakan metode bicubic interpolation",
+  "abstract": "Image Resizing adalah salah satu bidang penelitian dari Image Processing yang terus-menerus berkembang. Perkembangan ini didorong adanya tuntutan dari berbagai jenis institusi maupun perorangan yang membutuhkan adanya aplikasi image resizing yang powerfull. Oleh karena itu, pada skripsi ini, dilakukan pembuatan aplikasi untuk melakukan resizing dengan menggunakan algorima bicubic interpolation. Proses resizing dimulai dengan melakukan pixel mapping terhadap image yang user input, proses input new image size, proses rekonstruksi pixel image, dan proses interpolasi bicubic. Kemudian, dilakukan proses redraw image dengan pixel yang sudah diintepolasi. Aplikasi ini dibuat menggunakan Microsoft Visual Studio 2010. Hasil pengujian menunjukan bahwa penempatan 16 pixel tetangga dan jarak pixel tersebut ke titik yang akan diinterpolasi sangat mempengaruhi hasil resizing. Pada gambar yang diinterpolasi akan terlihat adanya pembauran atau pencampuran warna yang seimbang dan tidak pecah.",
+  "creators": "SHEUDA F G AYATANOI",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021009/INF/2011; Sheuda Ayatanoi (26406170)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

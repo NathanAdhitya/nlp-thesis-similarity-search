@@ -1,0 +1,14 @@
+{
+  "id": "5216",
+  "title": "Studi pengaruh capacitor bank switching terhadap kualitas daya di gardu induk Waru PLN P3B",
+  "abstract": "Capacitor bank merupakan suatu peralatan yang digunakan untuk memperbaiki power factor, mengeliminasi gangguan tegangan dan mengontrol daya reaktif. Tetapi penggunaan capacitor bank dalam dunia kelistrikan, yang cara pengoperasiannya dikenal dengan nama capacitor bank switching dapat menimbulkan masalah baru dalam usaha meningkatkan kualitas daya, yaitu timbulnya gejala tegangan transient yang tinggi (transient overvoltages). Pada Tugas Akhir ini, dilakukan pengujian dan analisa simulasi transient overvoltages dengan menggunakan software SIMULINK MATLAB berdasarkan data-data transmisi, seperti tegangan dan impedansi saluran yang didapat dari Gardu Induk Waru. Hasil pengujian simulasi dengan SIMULINK MATLAB menunjukan bahwa transient overvoltages yang dihasilkan oleh pengoperasian capacitor bank switching pada sistem transmisi di Gardu Induk Waru dapat mencapai nilai tertinggi 1,74 pu pada sistem transmisi 150 kV dan 2,2 pu pada sistem transmisi 70 kV. Dari hasil analisa diperoleh bahwa transient overvoltages yang dihasilkan akan semakin meningkat apabila posisi level tegangannya semakin dekat dengan beban. Hal ini tentu berbahaya karena dapat merusakkan peralatan listrik.",
+  "creators": "ALGAVIEN TINUS",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Emmy Hosea (Advisor 2); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010559/ELK/2007; Algavien Tinus (23403053)",
+  "subjects": "CAPACITORS; REACTIVE POWER (ELECTRICAL ENGINEERING)"
+}

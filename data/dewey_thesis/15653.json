@@ -1,0 +1,14 @@
+{
+  "id": "15653",
+  "title": "Sistem informasi manajemen di Jurusan Teknik Elektro Universitas Kristen Petra dengan menggunakan intranet",
+  "abstract": "Tugas akhir ini diawali dengan suatu masalah pembahasan, yaitu pengenalan Intranet dalam suatu organisasi atau perusahaan sehingga dapat meningkatkan efektivitas dan efisiensi kerja. Dalam penulisan hasil tugas akhir ini dibahas masalah pembuatan suatu program sistem informasi di jurusan Teknik Elektro Universitas Kristen Petra dengan menggunakan Intranet. Perangkat lunak tersebut dibuat dengan Borland Delphi Client / Server versi 2.1 pada Windows 95 dan untuk pengolahan database - nya digunakan SQL dari Borland Delphi, kemudian untuk dapat menampilkan hasil dari pengolahan database tersebut ke bentuk tampilan Web menggunakan komponen dari Borland Delphi,yaitu CGI Expert versi 2. Untuk pengujiannya pada komputer server di install WEB Server dari O'Reilly dan program - program CGI yang berfungsi untuk menampilkan data.Sedangkan pada komputer client menggunakan Web Browser untuk dapat menampilkan data - data dari Jurusan Teknik Elektro Universitas Kristen Petra. Adapun data - data tersebut adalah data kerja praktek, tugas akhir, mahasiswa, jadwal kuliah, data dosen, serta adanya fasilitas searching untuk data kerja praktek dan tugas akhir. Dan searching tesebut dilakukan dengan menggunakan keyword. Dengan adanya perangkat lunak yang dibuat diharapkan dapat dikembangkan kembali menjadi lebih sempurna berjalan pada platform Windows 95 serta dapat mengenalkan mengembangkan penggunaan intranet guna meningkatkan efisiensi kerja dan penyampaian informasi.",
+  "creators": "MARCEL DARMOWINOTO",
+  "contributors": "Resmana Lim (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/KOM/009/031; Marcel Darmowinoto (23492193)",
+  "subjects": "INTERNET (COMMPUTER NETWORK); MANAGEMENT INFORMATION SYSTEM-COMPUTER PROGRAMS"
+}

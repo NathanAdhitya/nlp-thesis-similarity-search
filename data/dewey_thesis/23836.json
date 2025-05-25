@@ -1,0 +1,14 @@
+{
+  "id": "23836",
+  "title": "Perencanaan pada pembuatan multi printer output pada IBM PC dengan menggunakan microcontroller 8031",
+  "abstract": "Multi Printer output pada IBM PC adalah suatu peralatan yang berfungsi untuk membagi data yang dikirimkan oleh komputer untuk dicetak ke beberapa printer sekaligus. Pada peralatan ini digunakan microcontroller 8031 yang berfungsi mengatur pembagian data yang dikirimkan oleh komputer ke beberapa printer. Dalam hal ini komputer akan mengirimkan semua data yang akan dicetak ke peralatan ini. Data yang akan dikirim ini untuk sementara waktu sebelum dibagikan ke printer akan disimpan dahulu di RAM sampai penuh atau sampai data yang dikirimkan habis (meskipun RAM belum penuh), baru kemudian data yang akan dicetak tersebut dibagi rata ke semua printer. Dalam perencanaan dan pembuatan peralatan ini teknik input output yang digunakan adalah teknik Polling, dimana microcontroller 8031 akan mengecek kesiapan dari semua printer secara berurutan dan berulang-ulang. Apabila ada satu printer yang siap, data satu halaman langsung dikirim untuk dicetak. Kemudian pengecekan akan dilanjutkan ke printer berikutnya. Demikian seterusnya sehingga pada saat proses pencetakan berlangsung tidak ada satu printerpun yang tidak melakukan proses pencetakan, kecuali printer tersebut belum siap. Sistem perangkat lunak yang digunakan pada IBM PC adalah bahasa tingkat tinggi yaitu Turbo Pascal untuk memberikan pengesetan awal bagi sistem minimum 8031. Sedangkan pada sistem minimumnya digunakan bahasa tingkat rendah yaitu bahasa assembly 8031.",
+  "creators": "SUHARSOYO LAKSMANA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Caroline Chan (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/019/0140; Suharsono Laksmana (23488092)",
+  "subjects": "COMPUTER INPUT-OUTPUT EQUIPMENT; MICROCONTROLLER 8031; MICROCONTROLLERS"
+}

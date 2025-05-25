@@ -1,0 +1,14 @@
+{
+  "id": "52652",
+  "title": "Penerapan long- short term memory dengan word2vec model untuk mendeteksi hoax dan clickbait news pada berita online di Indonesia",
+  "abstract": "Berita telah menjadi informasi yang rutin dikonsumsi sehari-hari dan dapat diakses dengan mudah seiring berkembangnya teknologi. Namun, mudahnya akses pembaca terhadap berita juga membuka ruang bagi beberapa oknum untuk menyebarkan berita clickbait atau hoax untuk menarik perhatian pembaca demi kepentingan pribadi. Untuk mengatasi hal tersebut, salah satu upaya yang dapat diwujudkan adalah dengan model deteksi untuk berita clickbait dan hoax dengan metode machine learning. Salah satu metode yang powerful dan cukup umum digunakan untuk kasus Natural Language Processing adalah Long-Short Term Memory (LSTM). Pada penelitian terkait, model deteksi machine learning, terutama LSTM, mengalami masalah overfitting dimana akurasi testing sangat rendah dibandingkan akurasi training. Metode yang digunakan adalah LSTM. Namun, dengan beberapa penerapan tambahan seperti penambahan dropout layer, penerapan callback function serta penggunaan k-fold cross validation untuk mengatasi masalah overfitting pada model. Model yang dibangun akan diuji dalam aplikasi webpage di mana pengguna dapat mendeteksi label berita. Pada pengujian, model mengalami overfitting, namun seiring penurunan kompleksitas model, hasil pengujian menunjukkan peningkatan pada akurasi testing sehingga masalah overfitting tersebut dapat teratasi. Hasil pengujian model terbaik belum mencapai target yang ditentukan mendapatkan akurasi sebesar 72.93% dengan target 90% untuk model deteksi clickbait dan 79.17% dengan target 80% untuk model deteksi hoax. Namun, 2 dari 6 target pada metrics precision dan recall yang ditentukan tercapai, yaitu precision untuk kasus hoax dengan akurasi 86.21% dan recall untuk kasus non-hoax dengan akurasi 94.59% dengan target akurasi 80%, namun parameter pengujian yang lain belum mencapai target yang ditentukan.",
+  "creators": "SONI MARKO NATHANNIEL TANNADY",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); ALVIN NATHANIEL TJONDROWIGUNO, S.Kom. (Advisor 2); Liliana (Examination Committee 1); Hans Juwiantho S.Kom., M.Kom (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022143/INF/2022; Soni Marko Nathanniel Tannady (C14180185)",
+  "subjects": "COMPUTATIONAL INTELLIGENCE; NATURAL LANGUAGE PROCESSING (COMPUTER SCIENCE)"
+}

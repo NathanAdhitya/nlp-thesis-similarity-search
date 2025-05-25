@@ -1,0 +1,14 @@
+{
+  "id": "27788",
+  "title": "Perencanaan dan pembuatan alat penjualan minuman otomatis dengan mikrokontroler 8031",
+  "abstract": "Alat ini dibuat bertujuan untuk membantu orang yang bekerja pada malam hari untuk mendapatkan minuman kapan saja di mana penjual minuman sudah tutup. Dengan semakin majunya masyarakat mengakibatkan kegiatan manusia bertambah sehingga dibutuhkan, diantaranya minuman sejak pagi hingga malam hari. Dari keadaan ini maka diperlukan suatu alat yang tidak terlalu banyak bergantung pada manusia sebagai penjualnya. Alat ini dibuat dengan dikontrol mikrokontroler 8031. Mikrokontroler ini digunakan untuk mengatur proses dari pemilihan jenis minuman, pemasukkan mata uang logam sampai mendapatkan minuman. Penjual minuman hanya bertugas untuk mengambil uang yang telah terkumpul, mengisi kotak minuman, dan untuk menukar uang apabila pembeli tidak mempunyai uang logam yang diinginkan mesin tersebut. Prinsip kerja alat ini adalah: pembeli memilih jenis minuman kemudian mikrokontroler mengecek keberadaan jenis minuman yang dipilih tersebut. Pembeli memasukkan uang secukupnya sesuai dengan harga minuman yang dipilih. Setelah itu, mikrokontroler membandingkan jumlah uang yang dimasukkan dengan harga jenis minuman yang dipilih. Apabila telah memenuhi, minuman yang diinginkan keluar dan apabila terdapat sisa jumlah uang pembeli maka akan keluar uang kembalinya. Apabila uang yang dimasukkan pembeli kurang, maka alat akan menunggu sampai uang yang dimasukkan oukup. Alat ini menampilkan harga jenis minuman, uang yang dimasukkan pembeli dan sisa",
+  "creators": "Hutomo",
+  "contributors": "MOCHAMAD HEROE (Examination Committee 1); IRWAN SAHLI (Advisor 2); SUPENO DJANALI (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.93/E/EL/011/0132; Hutomo (23487018)",
+  "subjects": "AUTOMATIC MACHINERY-COMPUTER PROGRAMS; MICROCONTROLLERS"
+}

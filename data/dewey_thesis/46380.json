@@ -1,0 +1,14 @@
+{
+  "id": "46380",
+  "title": "Pembuatan aplikasi pengiriman berkas",
+  "abstract": "Proses pengiriman berkas saat ini masih dilakukan secara manual sehingga pengirim dan penerima tidak mengetahui lokasi berkas dan tidak dapat melakukan tracking, selain itu total biaya pengiriman ke luar masih dicatat secara manual sehingga BAUK tidak mengetahui biaya yang dikeluarkan per unit. Melihat latar belakang permasalahan itu, maka dirancang aplikasi pengiriman berkas berbasis website dan android dengan menggunakan PHP, MySql, dan Java. Dimulai dengan membuat database untuk penyimpanan data pengiriman dan dilanjutkan dengan membuat website sehingga user dapat melihat dan memasukkan data pengiriman, kemudian dilanjutkan dengan membuat aplikasi android dengan menggunakan SOA dan Rest agar database website dapat digunakan pada android dan memiliki data yang sama. Dengan adanya aplikasi ini dapat membantu proses pengiriman berkas dengan mencatatnya secara otomatis, dapat melakukan pelcakan berkas, dan melihat total biaya pengiriman per unit.",
+  "creators": "REYNER WIJOYO",
+  "contributors": "Alexander Setiawan (Advisor 1); Agustinus Noertjahyana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); INDRO SETIAWAN (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021929/INF/2020; Reyner Wijoyo (26415155)",
+  "subjects": "ANDROID (ELECTRONIC RESOURCE)--PROGRAMMING; DATABASE MANAGEMENT; APPLICATION SOFTWARE-DEVELOPMENT; WEB SERVICES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "42810",
+  "title": "Pembuatan sistem informasi manajemen produksi berbasis website PT Semen Indogreen Sentosa",
+  "abstract": "PT Semen Indogreen Sentosa merupakan perusahaan supplier beton ready-mix yang hingga saat ini masih menggunakan pencatatan dalam bentuk Microsoft Excel dan dokumen fisik untuk proses bisnis yang dijalankan. Dokumen yang paling berpengaruh merupakan sales order karena ketika mendapat pesanan harus telepon dulu ke bagian plant untuk mengetahui ketersediaan jam. Hal ini menyebabkan adanya keluhan dari client karena konfirmasi yang lama sedangkan client membutuhkan cepat. Selain itu karena tidak adanya sistem informasi, pengelolaan data juga kurang efektif. Maka itu dibutuhkan sebuah sistem informasi untuk manajemen produksinya. Website ini dibuat dengan menggunakan bahasa pemograman HTML, PHP, Javascript dan database MySQL. Koneksi dengan Google Map juga digunakan untuk menghitung lama pengiriman. Tampilan aplikasi menggunakan template Gentellela dengan Bootstrap. Hasil akhir dari pengembangan website ini adalah dapat terintegrasinya informasi perusahaan seperti catatan sales order, purchase order, stok bahan baku, penghitungan harga pokok produksi dan laporan. Penghitungan lama pengiriman lebih cepat dan akurat. Penjadwalan produksi lebih mudah. Pengguna dari plant dapat melihat detail produksi tiap hari secara langsung.",
+  "creators": "MICHELLE MAGDALENA",
+  "contributors": "Yulia (Advisor 1); Kartika Gunadi (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021707/INF/2017; Michelle Magdalena (26413070)",
+  "subjects": "WEBSITES-DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

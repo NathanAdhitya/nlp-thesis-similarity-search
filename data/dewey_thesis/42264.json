@@ -1,0 +1,14 @@
+{
+  "id": "42264",
+  "title": "Implementasi private cloud storage dengan menggunakan openstack swift",
+  "abstract": "Penggunaan sistem komputer yang terdistribusi dan paralel berkembang cukup pesat sehingga memerlukan sebuah sistem yang sesuai untuk mendukung proses kerjanya, salah satunya adalah cloud computing. Sistem ini dapat memunculkan kebutuhan untuk memaksimalkan pemakaian sumber daya komputasi yang ada, salah satunya dalam bentuk storage berbasis cloud. Laboratorium komputer jurusan Informatika Universitas Kristen Petra memiliki sumber daya yang sangat besar, namun kurang terpakai maksimal dalam pemanfaatan storage device yang ada. Kondisi ini memberikan ide untuk memanfaatkan komputer-komputer di laboratorium dengan metode cloud agar storage dapat digunakan dengan baik Implementasi yang digunakan menggunakan framework cloud OpenStack, yang dapat memberikan layanan Infrastructure as a Service (IaaS) dalam penggunaannya. Dari beberapa layanan OpenStack yang ada, pengelolaan storage menggunakan OpenStack Swift dalam pemrosesannya. OpenStack Swift membentuk sebuah layanan storage berbasis cloud dengan memanfaatkan berbagai sumber daya komputasi yang ada. Setelah proses implementasi, pengujian dilakukan dengan cara pengelolaan data agar storage dapat menyimpan, mengambil, serta menghapus data. Selain itu, pengujian juga dilakukan dengan mematikan beberapa physical machine untuk memastikan layanan cloud dapat tetap terakses dengan baik, serta mengukur kecepatan data transfer dalam cloud storage. Data yang dihasilkan digunakan untuk mengevaluasi sistem cloud storage yang telah dibuat.",
+  "creators": "JUAN RENO SANTOSO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Justinus Andjarwirawan (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Actor)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skrispi No. 03021753/INF/2018; Juan Reno Santoso (26414037)",
+  "subjects": "VIRTUAL STORAGE (COMPUTER SCIENCE); CLOUD COMPUTING"
+}

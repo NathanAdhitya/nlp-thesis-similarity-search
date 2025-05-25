@@ -1,0 +1,14 @@
+{
+  "id": "16820",
+  "title": "Perencanaan dan pembuatan alat ukur kapasitansi digital 1 pF-1000uF berbasis mikrokontroler PIC 16C84",
+  "abstract": "Untuk mengetahui nilai kapasitansi dari kapasitor dapat dilihat pada label yang tertera pada kapasitor. Nilai kapasitansi pada kapasitor tidak selalu tepat seperti yang terlihat pada label, hal ini disebabkan toleransi dari kapasitor yang diijinkan atau kerusakan dari kapasitor. Nilai kapasitansi kapasitor dapat diketahui dengan tepat dengan menggunakan alat ukur kapasitansi. Metoda pengukuran pada alat ukur kapasitansi yang di buat adalah dengan cara menghitung waktu pengisian kapasitor sampai setengah tegangan penuh (2,5 V). Lebar pulsa yang dibangkitkan oleh rangkaian monostabil selama pengisian kapasitor ini, akan menentukan nilai kapasitansi kapasitor yang akan diukur. Pencacah akan menghitung banyaknya pulsa clock yang dibangkitkan oleh osilator kristal selama pengisian kapasitor sampai setengah tegangan penuh. Hasil pencacahan ini akan ditampilkan pada display. Dengan melakukan pengujian, analisa dan pengukuran alat, diperoleh data-data berupa grafik karakteristik dan besar kesalahan dari alat ukur ini. Hal-hal yang perlu diperhatikan dalam pembuatan alat ukur kapasitansi ini adalah pengujian ketepatan hasil pengukuran, kecepatan dan kemudahan proses pengukuran. Dalam pembuatan alat ini digunakan mikrokontroler PIC 16C84 untuk pengaturan display dan perpindahan range.",
+  "creators": "DANNY NATARA",
+  "contributors": "HERLIANTO TENGGARA (Examination Committee 1); YOHANES T. D. S (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/022/321; Danny Natara (23487071)",
+  "subjects": "CAPACITORS; INTEL PIC 16C84 (MICROCONTROLLER)"
+}

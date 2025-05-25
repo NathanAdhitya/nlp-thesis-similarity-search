@@ -1,0 +1,14 @@
+{
+  "id": "10407",
+  "title": "Perancangan dan pembuatan aplikasi data mining dalam menganalisis track record penyakit pasien di RSU Dr. Soetomo Surabaya dengan menggunakan decision tree induction",
+  "abstract": "Saat ini, RSU Dr. Soetomo telah memiliki sistem yang terkomputerisasi untuk mencatat setiap transaksi rumah sakit yang berhubungan dengan track record penyakit pasien. Hal ini menyebabkan terdapat sejumlah data yang besar di database yang mana ingin dianalisa lebih lanjut oleh pihak rumah sakit. Namun, saat ini hal ini masih tidak dapat dilakukan karena tidak ada aplikasi yang mendukung. Dengan menggunakan salah satu teknik yang ada pada data mining, track record penyakit pasien dapat diolah lebih lanjut untuk menghasilkan knowledge yang berguna bagi rumah sakit dalam pengambilan keputusan. Oleh sebab itu, penulis merancang suatu aplikasi data mining dengan menggunakan teknik Decision Tree Induction dengan algoritma Greedy Algorithm. Kelebihan dari teknik ini adalah user dapat menganalisa keterkaitan suatu atribut dengan atribut-atribut lainnya. Aplikasi yang dirancang dapat menghasilkan decision tree dan rule yang di-generate dari decision tree. Dimana melalui decision tree dan rule dapat ditampilkan informasi mengenai keterkaitan atribut yang ingin dianalisa dengan atribut-atribut lainnya. Selain itu juga dihasilkan nilai support dan confidence untuk setiap rule.",
+  "creators": "LOVIZIA IRWANTO",
+  "contributors": "Rolly Intan (Advisor 1); Oviliani Yenty Yuliana (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010725/INF/2008; Lovizia Irwanto (26404036)",
+  "subjects": "SOFTWARE ENGINEERING; COMPUTER PROGRAMMING"
+}

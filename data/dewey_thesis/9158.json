@@ -1,0 +1,14 @@
+{
+  "id": "9158",
+  "title": "Image enhancement dengan menggunakan metode retinex",
+  "abstract": "Tidak semua image memiliki tampilan visual yang memuaskan mata manusia. Ketidakpuasan itu dapat timbul karena image yang memiliki banyak noise, image yang kurang tajam, image yang terlalu gelap, atau image yang terlalu terang. Banyak metode yang digunakan untuk meningkatkan tampilan visual dari sebuah image. Image yang memiliki tampilan visual yang kurang memuaskan karena pencahayaan yang kurang atau pencahayaan yang kurang merata, dapat diperbaiki dengan menggunakan metode Retinex ini.Tujuan dari Tugas Akhir dengan judul Image Enhancement dengan menggunakan Metode Retinex ini adalah untuk memperbaiki tampilan visual dari sebuah image yang memiliki tampilan visual yang tidak kurang baik dari segi pencahayaan. Metode Retinex adalah metode yang membagi image S ke dalam dua bagian, yaitu reflectance image R dan illumination image L, dengan persamaan S(x,y) = R(x,y)*L(x,y). Proses dekomposisi image itu adalah pembuangan efek cahaya dari pencahayaan depan/belakang, dan memperbaiki warna-warna dalam image dengan membuang illuminasi yang membuat warna berubah. Hasil yang didapatkan dari pengujian aplikasi image enhancement dengan menggunakan metode Retinex ini adalah nilai alpha yang lebih besar dari beta (alpha > beta) dalam range 1-100, merupakan nilai yang ideal untuk parameter dalam metode Retinex ini. Berdasarkan hasil pengamatan penulis, dengan menggunakan nilai alpha > beta, maka akan menghasilkan image yang lebih terang, lebih tajam dan lebih halus.",
+  "creators": "LEONO EPATHA",
+  "contributors": "Rudy Adipranata (Advisor 1); Cherry Galatia Ballangan, S.Si., M.AIT. (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000456/INF/2006; Leono Epatha (26402163)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

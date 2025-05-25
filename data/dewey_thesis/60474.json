@@ -1,0 +1,14 @@
+{
+  "id": "60474",
+  "title": "Perancangan sistem perencanaan produksi dan pengendalian persediaan di PT Surya Dermato Medica",
+  "abstract": "Penelitian ini akan merancang sistem yang terintegrasi antara jadwal produksi dan jadwal pembelian ahan baku di PT Surya Dermato Medica dengan menggunakan Master Production Planning (MPS) dan Material Requirement Planning (MRP). MPS dirancangan berdasarkan safety stock dan simulasi stock yang dapat mengantisipasi lonjakan permintaan. MRP dengan metode lot-for-lot (L4L) memastikan pembelian bahan kemas sesuai kebutuhan produksi tanpa penumpukan persediaan dan mengurangi biaya persediaan dengan rata -rata 71%. Penelitian ini juga mengusulkan perbaikan perhitungan lead time pembelian bahan kemas dengan mempertimbangkan lead time internal dan eksternal, termasuk proses pengajuan PO, proses pemenuhan supplier, dan Quality Control bahan kemas. Untuk mendukung sistem MPS dan MRP, disediakan dashboard perancangan tahunan, jadwal produksi harian bulanan, dan jadwal pembelian bahan kemas. Dengan integrasi sistem MPS dan MRP serta pembaruan lead time ini, diharapkan perusahaan dapat mencapai perencanaan produksi dan pengendalian persediaan yang optimal, meminimalisir stock out dan overstock.",
+  "creators": "STEFANNY JASMINE",
+  "contributors": "Herri Christian Palit (Advisor 1); Togar Wiliater Soaloon Panjaitan, S.T., MBA. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022656/IND/2024; Stefanny Jasmine (C13200015)",
+  "subjects": "PRODUCTION PLANNING; INVENTORY CONTROL; MATERIAL REQUIREMENTS PLANNING; PRODUCTION SCHEDULING"
+}

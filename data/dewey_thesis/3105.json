@@ -1,0 +1,14 @@
+{
+  "id": "3105",
+  "title": "Caller ID pada telephone rumah menggunakan MCS - 51",
+  "abstract": "Untuk menghindari adanya hal-hal yang bersifat negatif (teror, pelecehan dan lain-lain ) pada komunikasi menggunakan telepon, dapat dilakukan dengan penambahan fasilitas Caller ID yang berfungsi untuk menampilkan nomor telepon pemanggil sehingga bisa mengidentifikasi penelepon sebelum menerima panggilan telepon. Caller ID yang berbasis mikroprocessor MCS 51 dengan IC MC145447 yang berfungsi untuk menerima data FSK yang dikirimkan oleh sentral telepon dan mengkonversi dalam bentuk data digital serial dengan kecepatan transfer 1200 bit per detik. Dengan menggunakan mikrokontroler data serial tersebut dibaca dan ditampilkan pada LCD. Dari hasil pengujian yang dilakukan, pemakaian IC MC145447 sebagai Caller ID bisa berfungsi dengan baik tanpa ada gangguan / cacat pada data ( keberhasilan 100 % ) sehingga mikrokontroler dapat menerima single message format yang dikirim oleh sentral telepon ( di Indonesia menggunakan system FSK untuk Caller ID ). Data tersebut berupa waktu, tanggal dan bulan terjadinya panggilan, nomor telepon pemanggil serta nomor telepon yang dipanggil. Proses mendeteksi Caller Id akan berhasil apabila telepon tidak diputus sebelum 1 detik dari ring pertama.",
+  "creators": "SELAMAT RIYADI",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/006/552; Selamat Riyadi (23495027)",
+  "subjects": "INTEL MCM-51 (MICROPROCESSOR); DETECTORS-COMPUTER PROGRAMS; CALLER ID TELEPHONE SERVICES"
+}

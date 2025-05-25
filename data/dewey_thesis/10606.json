@@ -1,0 +1,14 @@
+{
+  "id": "10606",
+  "title": "Kontrol posisi robot lengan dengan menggunakan metode on/off dan fuzzy",
+  "abstract": "Robot lengan pengebor PCB merupakan salah satu aplikasi yang dapat dijumpai dalam dunia robotika. Robot ini memiliki 3 derajat kebebasan. Pada ujung lengan dipasang bor PCB agar robot lengan mampu melakukan mekanisme pengeboran PCB. Titik tujuan yang ingin dicapai oleh robot lengan adalah titik koordinat kartesian sehingga dibutuhkannya suatu proses perhitungan inverse kinematics untuk mencari sudut gerak robot lengan agar dapat mencapai suatu titik tujuan. Perhitungan inverse kinematics dilakukan oleh sebuah PC. Hasil perhitungan akan dikirimkan ke mikrokontroler. Mikrokontroler inilah yang akan menggerakkan robot lengan agar mampu mencapai sudut yang diinginkan. Metode kontrol yang digunakan untuk menggerakkan robot lengan adalah kontrol ON/OFF dan kontrol fuzzy. Pengujian dilakukan pada beberapa aspek meliputi pengujian sensor yang digunakan dan tingkat keakuratan sudut gerak robot lengan. Error terbesar yang dicapai oleh lengan1 adalah 5 derajat. Error terbesar yang dicapai oleh lengan2 adalah 4 derajat. Pengujian untuk lengan3 tidak dilakukan karena lengan3 hanya berfungsi untuk melakukan proses pengeboran.",
+  "creators": "SANDY GUNAWAN",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010881/ELK/2008; Sandy Gunawan (23404023)",
+  "subjects": "ROBOTS; ROBOTS-CONTROL SYSTEMS"
+}

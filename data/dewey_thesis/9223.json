@@ -1,0 +1,14 @@
+{
+  "id": "9223",
+  "title": "Perancangan dan pembuatan aplikasi penunjang pengambilan keputusan pemberian kredit pada koperasi simpan pinjam X di Surabaya",
+  "abstract": "Sistem pemberian kredit di Koperasi \"X\" masih menggunakan cara manual yaitu dengan menggunakan kartu pinjaman dan analisa kredit masih berdasarkan asumsi seseorang saja. Jadi koperasi tidak memiliki standart khusus untuk pengambilan keputusan pemberian kredit. Hal ini menyebabkan ketidakakuratan pemberian kredit yang memungkinkan kredit yang diberikan macet. Oleh karena itu dibutuhkan sistem analisa kredit yang dapat menganalisa permohonan kredit dengan cepat dan akurat. Pembuatan sistem analisa kredit dimulai dari analisa dan pengamatan terhadap sistem koperasi yang berlalcu saat ini. Kemudian dari data yang ada, dilakukan perancangan sistem analisa kredit yang disesuaikan dengan kebutuhan koperasi. Sistem analisa kredit yang dibangun memiliki modul yang meliputi aplikasi kredit bar-u, pembayaran kredit beserta denda bila terjadi keterlambatan, analisa kredit, persetujuan kredit, pencatatan orang yang di-blacklist, dan fasilitas penghitungan perkiraan angsuran terhadap suatu pinjaman. Sistem tambahan lainnya yaitu pembuatan parameter yang digunakan oleh koperasi. Software ini dibuat dengan menggunakan SQL seryer 2000 untuk d&base-nya dan menggunakan Borland Delphi 7.0 sebagai compilemya. Kepuasan pengguna terhadap kesehnuhan aplikasi sebesar 85 %, sehingga dapat disimpulkan bahwa aplikasi sudah memenuhi dan sesuai dengan kebutuhan sistem. Hasil dari pembuatan aplikasi ini memberikan perhitungan analisa lcredit sesuai dengan standart koperasi dan kemudahan pengelolahan data permohonan, peminjaman, dan pembayaran kredit dengan melakukan otomatisasi perhitungan angsuran dan denda.",
+  "creators": "LYDIA VERDIANTI HALIM",
+  "contributors": "Kartika Gunadi (Advisor 1); Andreas Handojo (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000476/INF/2006 ; Lydia Verdianti Halim (26402048)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

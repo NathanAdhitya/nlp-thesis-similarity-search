@@ -1,0 +1,14 @@
+{
+  "id": "23121",
+  "title": "Perencanaan dan pembuatan papan advertising secara grafis dan gradasi 256 warna dot matrix serta dapat diprogram dengan menggunakan mikrokontroler 80C31",
+  "abstract": "Pada saat ini perkembangan dibidang Periklanan/ advertising sudah semakin pesat. Banyak perusahaan- perusahaan besar maupun kecil yang memanfaatkan iklan sebagai sarana untuk memasarkan produk-produk mereka.Saat ini sebagian besar pemasangan iklan yang ada dikomplek pertokoan maupun di jalan-jalan menggunakan gambar dan neon sign, dimana keduanya hanya dapat me-nampilkan satu jenis produk saja dan selain itu neon sign memerlukan daya listrik yang besar, dimana hal ini merupakan pemborosan terhadap biaya, sehingga diperlu-kan suatu sarana media/papan advertising yang dapat me-nampilkan pesan baik berupa tulisan maupun berupa gambar yang dapat bergerak serta dapat dipakai untuk mempromosikan bermacam-macam produk.Papan advertising ini tersusun dari bicolor LED dimana LED tersebut dapat menampilkan warna merah dan warna hijau sedangkan warna kuning merupakan warna campuran dari kedua warna tadi, selain warna diatas papan advertising ini dibuat untuk dapat menampilkan warna gradasi. LED-LED tersebut disusun sehingga membentuk suatu display untuk menampilkan gambar/ tulisan. Gambar/tulisan yang akan ditampilkan terlebih dahulu di-design pada komputer, setelah itu komputer akan mengirimkan data tersebut ke minimum sistem 80C31 untuk ditampilkan ke display. Sedangkan untuk gambar animasi/gerak, maka tiap gerakkan dari gambar harus di-design pada komputer, selanjutnya komputer mengi-rimkan satu per satu data dari gambar tersebut ke display sehingga menimbulkan suatu gambar yang bergerak.",
+  "creators": "TEDDY GOEINAWAN",
+  "contributors": "IRWAN SAHLI (Advisor 2); Murtiyanto Santoso (Advisor 1); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/033/0236; Teddy Goeinawan (23488031)",
+  "subjects": "ADVERTISING-COMPUTER PROGRAMS; SIGNS AND SIGNBOARDS; COMPUTERS"
+}

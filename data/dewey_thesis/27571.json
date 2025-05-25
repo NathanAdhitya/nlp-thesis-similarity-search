@@ -1,0 +1,14 @@
+{
+  "id": "27571",
+  "title": "Perancangan dan pembuatan e-commerce spare parts motor pada UD. New 234 Motor",
+  "abstract": "UD. New 234 Motor ini usaha dagang bergerak di bidang penjualan spare parts dan variasi sepeda motor di desa Tinga-Tinga kota Seririt. Proses penjualannya masih menggunakan sistem manual di mana customer hanya bisa datang langsung untuk mengetahui barang-barang terbaru. Untuk sistem pembayaran yang digunakan masih menggunakan secara manual yaitu customer melakukan pembayaran dengan langsung datang ke UD. New 234 Motor. Dengan adanya website e-commerce ini diharapkan memberikan perubahan dari sistem penjualan offline menjadi sistem penjualan online yang lebih terkomputerisasi maka masalah-masalah seperti promosi barang terbaru dan proses pembayaran akan lebih mudah. Perancangan desain sistem menggunakan Data Flow Diagram dan Entity Relationship Diagram. Database dibuat dengan menggunakan phpmyadmin. Program yang dibuat meliputi pembuatan database master untuk member, barang, penjualan, retur barang. Dari hasil pengujian, program yang dibuat dapat memproses data penjualan yang berhubungan dengan transaksi pada UD New 234 Motor.",
+  "creators": "MADE RENDY ARIBAWA",
+  "contributors": "Ibnu Gunawan (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021203/INF/2012; Made Rendy Aribawa (26408018)",
+  "subjects": "ELECTRONIC COMMERCE--COMPUTER PROGRAMS; DATABASE MANAGEMENT; DATABASE DESIGN"
+}

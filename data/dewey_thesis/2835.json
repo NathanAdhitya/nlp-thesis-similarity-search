@@ -1,0 +1,14 @@
+{
+  "id": "2835",
+  "title": "Perancangan sistem perawatan mesin produksi dengan mempertimbangkan produksi dengan faktor biaya di PT \"X\"",
+  "abstract": "PT. X adalah sebuah perusahaan yang bergerak di bidang pembuatan lemak coklat (cocoa butter) sebagai produk utamanya dan produk sampingan berupa bubuk coklat (cocoa powder) dan cake hasil pengepresan (kible cake). Selama ini perusahaan menggunakan corrective maintenance (setelah mesin mengalami kerusakan) dalam perawatan mesin-mesin produksinya, sehingga perusahaan memerlukan penjadwalan penggantian komponen yang baik agar tidak menimbulkan biaya kehilangan produksi yang harus ditanggung oleh perusahaan. Penulis melakukan penjadwalan penggantian komponen terhadap komponen Feld Cord, Screen dan Slang Flexible yang terdapat pada mesin Cocoa Press 1 dan Cocoa Press II. Metode penelitian yang dilakukan adalah pengambilan data selang waktu antar kerusakan mesin untuk mendapatkan nilai mean dan standar deviasi, kemudian uji distribusi untuk mengetahui jenis distribusi tiap komponen serta nilai MTTF-nya. Dan juga perlu diadakan perhitungan biaya kehilangan produksi agar dapat menghitung nilai Cp dan Cf. Setelah itu akan didapatkan waktu optimal (tp) dan total biaya minimum (Tc) untuk penggantian komponen. Penulisan ini menjelaskan analisa kerusakan untuk membandingkan corrective maintenance dan preventive maintenance.",
+  "creators": "FRANCISCA DEBORA SISWADI",
+  "contributors": "Soejono Tjitro (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 01/0702/IND/2003; Francisca Debora Siswadi (25497129)",
+  "subjects": "PLANT MAINTENANCE"
+}

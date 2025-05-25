@@ -1,0 +1,14 @@
+{
+  "id": "53503",
+  "title": "Deteksi hand gesture dengan menggunakan Mediapipe hand dalam melakukan kontrol terhadap aplikasi powerpoint dan media player untuk kebutuhan Hybrid conference",
+  "abstract": "Keberlanjutan Pandemi Covid-19 yang berkepanjangan membuat dampak yang cukup signifikan dalam kehidupan masyarakat. Seperti contohnya adalah proses tatap muka yang diminimalkan untuk mencegah penularan virus Covid-19. Dampak dari kejadian ini adalah perubahan kebutuhan masyarakat. Proses tatap muka seperti sistem pembelajaran saat ini digantikan dengan pembelajaran daring/online di mana pelajar mengikuti seluruh rangkaian pembelajaran dalam rumah dan bermodalkan perangkat seperti smartphone, laptop maupun komputer. Kemunculan sistem pembelajaran Hybrid memungkinkan sebagian pelajar mampu datang dan melakukan tatap muka dengan pengajar. Masalah yang ditimbulkan adalah menurunnya kualitas pengajar dan kesulitan dalam penyebaran informasi dikarenakan beberapa hal seperti ruang gerak yang terbatas dan konsentrasi yang terbagi menjadi 2 arah. Penelitian ini bertujuan untuk memperluas area gerak pelajar dengan memanfaatkan sistem pengenalan gerakan tangan guna mengurangi penggunaan perangkat input seperti mouse ataupun keyboard sehingga pengajar dapat mengontrol laptop/ komputer nya pada jarak tertentu. Metode yang digunakan untuk penelitian ini adalah dengan penggabungan sistem pengenalan gerakan tangan secara dinamis dan statis, di mana statis memanfaatkan platform mediapipe yang mampu mendeteksi 27 titik pada telapak tangan manusia yang tiap titiknya mempunyai nilai berupa jarak titik terhadap layar sehingga nanti dapat dijadikan sebagai aksi pada mouse, lalu untuk dinamis nya memanfaatkan pre-trained model dengan modul REAL-TIME 3D 16 FRAMES (RT3D_16F) dengan dataset bernama jester.",
+  "creators": "WILLIAM SEAN WIYOGO",
+  "contributors": "Liliana (Advisor 1); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022177/INF/2022; William Sean Wiyogo (C14180031)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--COMPUTER PROGRAMS; BLENDED LEARNING; INTERNET IN EDUCATION"
+}

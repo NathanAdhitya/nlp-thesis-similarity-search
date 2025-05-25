@@ -1,0 +1,14 @@
+{
+  "id": "14947",
+  "title": "Perencanaan dan pembuatan pengatur volume digital menggunkan kendali jarak jauh",
+  "abstract": "Dalam era informasi yang semakin canggih ini banyak peralatan elektronika yang menggunakan sistem digital. Dari peralatan audio, AC, peralatan rumah tangga, dan juga peralatan industri semuanya berbasiskan sistem digital. Demikian pesat perkembangan pada digital sehingga semua sistem akan memasuki era teknologi yang canggih. Pada tugas akhir ini dibuat peralatan pengatur volume digital dengan kendali jarak jauh menggunakan mikrokontroler MC68HC11. Mikrokontroler MC68HC11 merupakan mikrokontroler 8 bit yang tercanggih di kelasnya yang didesain dan dibuat oleh pabrik Motorola, mikrokontroler ini mempunyai sistem yang spesifik untuk sistem memorinya. Dengan sistem digital potensiometer hasil yang dicapai lebih baik, karena menghilangkan noise ( dalam hal ini suara berisik ) yang ditimbulkan akibat gesekan pada potensiometer sistem yang lama. Alat ini menggunakan sistem resistor yang dideret pada rangkaian dengan dikemudikan oleh rangkaian multiplekser yang digunakan sebagai pengganti potensiometer yang lama, pengontrolan dari multiplekser ini dilakukan oleh mikrokontroler MC68HC11 melalui software dari mikrokontroler tersebut. Pengendali jarak jauh dipakai infra red dimana sebagai pemancar dipakai IC yang mempunyai kegunaan ganda yang dapat mengubah tombol key up dan down ke bentuk sinyal data dan dimodulasikan ke sinyal dengan frekuensi tinggi melalui media infra red. Kemudian sinyal tersebut ditangkap dan diubah bentuk sinyal modulasi dengan demodulator ke sinyal data dan didekoderkan ke data output logika high maupun low. Output ini akan dibaca oleh mikrokontroler yaitu tombol up atau down setelah itu mikrokontroler akan mengatur volume suara dengan menaikkan atau menurunkan suara melalui rangkaian multiplekser dan deret resistor tersebut. Pada pengujian alat dilakukan temyata jarak jauh kendali dari infra red mampu mencapai jarak sekitar 7 meter, kemudian dalam mengatur potensiometer digital posisi mikrokontroler sangat membantu sehingga alat dapat berjalan sesuai dengan fungsinya. Pada sistem alat ini dapat disimpulkan bahwa alat potensiometer digital mudah pengendaliannya dibandingkan menggunakan potensiometer konvensional, serta dapat dilakukan pengaturan volume digital ini dengan kendali jarak jauh.",
+  "creators": "ARIF PANDHINATA",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/025/370; Arif Pandhinata (23488016)",
+  "subjects": "DIGITAL CONTROL SYSTEMS; MICROCONTROLLER 68HC11"
+}

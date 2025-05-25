@@ -1,0 +1,14 @@
+{
+  "id": "46444",
+  "title": "Energi meter digital dengan sistem prabayar dan pascabayar",
+  "abstract": "Tugas akhir ini mengulas dua buah topik tentang perbaikan energi meter analog (elektrik mekanik). Perbaikan pertama adalah penggunaan energi meter digital yang dapat mengatasi kekurangan energi meter analog. Misalnya, saat pertama kali menyalakan beban berdaya besar menyebabkan piringan mekaniknya berputar lebih cepat dari kondisi normal, pengaruh usia dan cuaca menyebabkan angka meteran terlihat kotor dan buram, sehingga dapat menyebabkan error dalam pencatatan nilai meteran. Perbaikan kedua adalah penggunaan sistem prabayar dan sistem pascabayar pada energi meter digital. Sistem kerja pada energi meter digital ini menggunakan IC ADE7757ARN untuk mengukur energi listrik yang digunakan oleh beban listrik. IC ini akan mengeluarkan output satu pulsa digital untuk pemakaian energi listrik sebesar 2250 Joule. Pulsa-pulsa tersebut akan dihitung dan disimpan oleh microcontroller dan ditampilkan pada layar LCD {Liquid Crystal Display) untuk mempermudah pembacaan. Penjualan energi listrik dalam bentuk ‘pulsa’ yang disimpan pada smartcard pada sistem prabayar akan dapat mempermudah proses pembayaran listrik. Energi meter digital ini sudah diuji dengan berbagai tipe beban listrik hingga 1900 Watt dengan resolusi informasi daya nyata sesaat sebesar 2250 Joule. Secara teoritis, energi meter digital ini mampu mengukur beban listrik hingga 8,8 kVA, tetapi alat tersebut tidak diuji karena keterbatasan anis maksimum dari komponen-komponen yang lain (relay, MCB, kabel, dll.).",
+  "creators": "IMMANUEL ADIBIMANTA G",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Murtiyanto Santoso (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010747/ELK/2005; Immanuel Adibimianta Gunawan (23401115)",
+  "subjects": "ELECTRIC METERS; RECORDING ELECTRIC METERS-DIGITAL TECHNIQUES"
+}

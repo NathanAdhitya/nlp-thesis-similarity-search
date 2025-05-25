@@ -1,0 +1,14 @@
+{
+  "id": "21446",
+  "title": "Electronic overspeed relay dengan microprocessor 89C2051",
+  "abstract": "Mesin pabrik merupakan aset yang sangat penting, karena itu diperlukan sebuah alat untuk menjaga supaya motor tidak melampaui kecepatan yang ditentukan. Pembuatan alat ini, yang dinamakan Electronic Overspeed Relay dengan Microprocessor 89C2051, memberikan beberapa pilihan mode yaitu : mode instan, mode rata-rata, dan mode counter. Penambahan display sebagai alat untuk melihat kecepatan maupun mode yang ada saat itu. Mode instan bekerja saat kecepatan melampaui batas, alat ini akan mengaktifkan relay untuk mematikan motor. Mode rata - rata seperti namanya, menghitung rata-rata dari beberapa input selama 5 detik. Saat rata- ratanya melampaui batas kecepatan, alat akan bekerja seperti pada mode instan. Mode counter menghitung beberapa kali mendapat input overspeed. Saat counter bernilai lima, relai akan diaktifkan maka motor akan mati. Untuk mengetahui bagaimana alat ini bekerja, digunakan motor DC servo yang di set pada 1800 rpm, sebagai nilai awal, dan sebuah proximity switch sebagai sensor. Dan hasil perancangan, implementasi,dan pengujian alat menunjukkan alat ini bekerja dengan baik.",
+  "creators": "WINOTO",
+  "contributors": "YOHANES T. D. S (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/001/515; Winoto (23493057)",
+  "subjects": "ELECTRIC MACHINES; INTEL 89C2051 (MICROPROCESSOR)"
+}

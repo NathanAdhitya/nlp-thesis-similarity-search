@@ -1,0 +1,14 @@
+{
+  "id": "1717",
+  "title": "Feature televisi untuk mengatur kecerahan gambar berdasarkan kondisi cahaya sekitar dengan fuzzy logic controller",
+  "abstract": "Untuk meningkatkan kenyamanan pengguna pesawat televisi dalam melihat layar televisi dipengaruhi oleh keadaan ruangan dimana pesawat televisi itu berada. Cahaya ruangan tersebut harus seimbang dengan besarnya kecerahan gambar dari televisi. Apabila terjadi suatu perubahan cahaya ruangan tentunya kecerahan gambar dari televisi harus diubah juga supaya pengguna televisi tetap nyaman. Tujuan dari pembuatan tugas akhir ini adalah untuk membuat suatu feature tambahan yang dapat mengadaptasi kecerahan gambar televisi secara automatis berdasarkan kondisi cahaya ruangan dimana televisi itu berada. Ruangan tersebut berukuran 3 X 4 raeter. Pengontrolan di kontrol secara logika fuzzy. Pengontrolan kontras televisi dilakukan dengan memberikan variabel tegangan pada titik input chip LA 7674 yang mengatur tegangan kontras televisi. Sensor yang digunakan untuk menangkap perubahan cahaya ruangan adalah LDR VT935G. Metode yang digunakan untuk menentukan perubahan besar cahaya yang mempengaruhi kenyamanan pengguna adalah dengan mengambil beberapa sample dari beberapa penerangan ruangan dimana tingkat intensitas cahayanya dan kontras TV yang ada pada televisi dinilai nyaman untuk dilihat. Dari basil pengujian dari feature tambahan yang telah dibuat dalam tugas akhir ini dapat menunjukkan pengontrolan terhadap kontras televisi yang didasarkan pada keadaan cahaya ruangan dimana televisi itu berada. Sistem dapat berjalan cukup baik dengan kondisi awal kontras 20 point (Gelap Sekali). Pengujian dilakukan dengan menggunakan dua buah rule dan didapatkan rule yang kedua mempunyai respon yang paling baik dari yang pertama.",
+  "creators": "HEN DIAN YUDANI",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Advisor 1); Hany Ferdinando (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/024/570; Hen Dian Yudani (23497113)",
+  "subjects": "TELEVISION"
+}

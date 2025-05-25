@@ -1,0 +1,14 @@
+{
+  "id": "22386",
+  "title": "Perencanaan dan pembuatan catu daya switchmode 120 VA dengan faktor ripple 1% dan faktor regulasi lebih kurang 01% untuk transceiver HDX",
+  "abstract": "Berbicara mengenai catu daya adalah. suatu hal yang biasa, akan tetapi ada satu jenis catu daya yang menggunakan teknologi modern dan mempunyai banyak keunggul an-keunggul an serta dirasakan masih cukup banyak orang yang belum mengenai dasar-dasar perencanaan dan cara Kerjanya, walaupun sudah banyak dipakai dalam peralatan komputer dan lain-lain, yaitu catu daya switchmode (catu daya switching). Tujuan utama dari pembuatan alat ini adalah untuk mendapatkan suatu catu daya yang kecil dan ringan, dapat bekerja secara dingin, berdaya guna tinggi dan mempunyai keluaran yang bersih dan baik, dal am hal ini diharapkan mempunyai faktor ripple dan faktor regulasi yang kecil. Disini catu daya switchmode digunakan untuk transceiver HDX, sehingga untuk mencegah terjadinya dengungan (hum) dibutuhkan tegangan keluaran DC yang bersih dari catu daya switchmode. Jenis catu daya switchmode yang dipakai disini adalah tipe stepdown regulator. Tegangan DC tak teregulasi sebesar 32 volt diturunkan menjadi tegangan DC teregulasi sebesar 14 volt, dengan arus beban 8 ampere.",
+  "creators": "WAHYUDI SUWANA",
+  "contributors": "NAWANTO WIBOWO (Advisor 1); VINCENT PRASETYO (Advisor 2); HANDAYANI T. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 88/E/EL/019; Wahyudi Suwana (482100)",
+  "subjects": "ELECTRONICS; ELECTRONICS CIRCUIT DESIGN"
+}

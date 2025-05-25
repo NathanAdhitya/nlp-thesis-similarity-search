@@ -1,0 +1,14 @@
+{
+  "id": "59197",
+  "title": "Mendeteksi aktivitas terjatuh pada manusia untuk pengawasan orang lanjut usia dengan menerapkan metode YOLO",
+  "abstract": "HAR (Human Action Recognition) merupakan sebuah hal di mana dilakukan untuk memahami tingkah laku manusia menggunakan teknologi AI. HAR sendiri dibutuhkan terutama dalam sistem penjagaan terhadap aktivitas manusia sehari hari salah satunya untuk penjagaan aktivitas manusia terjatuh. Di mana dengan adanya sistem yang dapat memudahkan pemantauan terhadap orang lanjut usia selama 24 akan membuat lebih aman karena dipantau terus menerus oleh sistem dan dari pada dilakukan oleh manusia. Namun, terdapat kendala untuk HAR pada dataset manusia terjatuh yang susah untuk didapatkan dan dalam pengambilan dataset HAR terkadang memerlukan bantuan sensor seperti gyroscope, accelerometer, depth, kinect, dan lain-lain untuk mengambil data dari gerakan aktivitas tersebut dan tentunya fitur yang kaya tersebut membuat komputasi membutuhkan waktu yang lama. Tentunya membutuhkan biaya lebih untuk sensor tersebut dan juga sensor yang dipakai belum tentu akan mau dipakai kepada orang lanjut usia. Oleh sebab itu diperlukan sebuah model yang dapat mendeteksi aktivitas melalui video. Penelitian ini mengajukan penggunaan metode YOLOv4 model untuk dapat melakukan deteksi aktivitas manusia terjatuh pada dataset berupa video. Hasil dari metode yang diajukan memiliki akurasi sebesar 99% dan dapat digunakan untuk real-time detection.",
+  "creators": "JUAN SEBASTIAN DENNY TJAMALLA",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Gregorius Satiabudhi (Examination Committee 1); Hans Juwiantho S.Kom., M.Kom (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022419/INF/2024; Juan Sebastian Denny Tjamalla (C14190002)",
+  "subjects": "DEMODULATION (ELECTRONICS); NEURAL NETWORKS (COMPUTER SCIENCE)--COMPUTER PROGRAMS; SIGNAL DETECTION"
+}

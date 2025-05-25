@@ -1,0 +1,14 @@
+{
+  "id": "17650",
+  "title": "Penerapan building automation system pada laboratorium sistem kontrol di Universitas Kristen Petra",
+  "abstract": "Laboratorium sistem kontrol seringkali menghadapi kesulitan dalam mendeteksi jumlah mahasiswa Teknik Elektro dan siapa saja yang masuk ke dalam laboratorium setiap harinya. Selain itu mahasiswa elektro seringkali lupa mematikan lampu, AC, maupun alat-alat laboratorium ketika selesai menggunakannya. Penerapan Building Automation System pada laboratorium sistem kontrol di Universitas Kristen Petra, digunakan sebagai sistem keamanan laboratorium dan dapat menghitung jumlah mahasiswa Teknik Elektro yang masuk ke laboratorium setiap harinya. Dengan penerapan sistem ini mahasiswa Teknik Elektro harus membawa KTM (Kartu Tanda Mahasiswa) ketika akan masuk ke laboratorium system kontrol. KTM tersebut akan dibaca oleh barcode reader dan hasil pembacaannya akan dicatat dalam database. Selain itu sistem ini berfungsi juga untuk meningkatkan efisiensi penggunaan daya listrik. Sistem ini akan mematikan maupun menyalakan lampu dan AC secara otomatis sesuai dengan keinginan pengguna . Semua penerapan ini dilakukan dengan menggunakan PLC Omron C28H. Semua sistem dapat dikontrol secara otomatis melalui PC dengan menggunakan Wonderware In Touch 10 sebagai SCADA (Supervisory Control and Data Aqcuisition) software. Pengujian dilakukan dengan menjalankan sistem lampu dan AC dengan melihat mati maupun nyala sesuai dengan waktu yang diatur. Selain itu juga diuji jalannya sistem pintu yang terbuka otomatis melalui pembacaan barcode reader. Daya yang diperlukan pada motor DC yang digunakan untuk membuka pintu adalah 6,192 watt.",
+  "creators": "RUBEN SANJAYA",
+  "contributors": "Handy Wicaksono (Advisor 1); Thiang (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010909/ELK/2010; Ruben Sanjaya (23406017)",
+  "subjects": "AUTOMATIC CONTROL; ELECTRIC CONTROLLERS-DATA PROCESSING; PROGRAMMABLE CONTROLLERS"
+}

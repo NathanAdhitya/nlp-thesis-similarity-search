@@ -1,0 +1,14 @@
+{
+  "id": "4394",
+  "title": "Penerapan metode enkripsi IDEA dan fungsi hash SNEFRU untuk keamanan dokumen",
+  "abstract": "Dokumen-dokumen penting yang hanya boleh diketahui dan digunakan oleh pihak-pihak tertentu saja memerlukan adanya sistem keamanan yang mampu mencegah serangan-serangan dari pihak lain. Dengan menggabungkan metode enkripsi IDEA untuk mengenkripsi isi dokumen dan fungsi hash SNEFRU untuk mengetahui adanya perubahan terhadap isi dokumen diharapkan tingkat keamanan dokumen menjadi lebih baik. Hasil penerapan ini berupa sebuah perangkat lunak yang mampu melakukan enkripsi dan dekripsi terhadap semua bentuk dokumen serta memberikan laporan yang akurat mengenai ada atau tidaknya perubahan terhadap isi dokumen. Pengujian terhadap perangkat lunak dibagi menjadi dua tahap, yaitu pengujian sistem dalam menjalankan proses enkripsi dan dekripsi serta pengujian kecepatan sistem. Dari hasil pengujian diketahui bahwa perangkat lunak mampu menjalankan proses enkripsi dan dekripsi dengan baik untuk satu atau lebih dokumen, serta dapat mengetahui adanya perubahan terhadap isi dokumen.",
+  "creators": "RADIUS INDRAWAN",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Justinus Andjarwirawan (Advisor 2); RULLY SOELAIMAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000155/INF/2004; Radius Indrawan (26499015)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN; INTERNET (COMPUTER NETWORK)"
+}

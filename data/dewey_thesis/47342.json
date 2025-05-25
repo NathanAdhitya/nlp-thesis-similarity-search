@@ -1,0 +1,14 @@
+{
+  "id": "47342",
+  "title": "Pemodelan sistem torque vectoring untuk peningkatan stabilitas dan pengendalian mobil listrik",
+  "abstract": "Perkembangan mobil listrik dalam beberapa tahun terakhir ini begitu pesat. Banyak produsen otomotif berlomba mengembangkan teknologi mobil listrik mereka sendiri. Dari sisi performa, mobil listrik menyediakan fleksibilitas dan kontrol yang lebih banyak daripada mobil konvensional. Salah satu sistem kontrol yang tersedia dan dikembangkan pada mobil listrik saat ini adalah Torque Vectoring (TV). Yang dilakukan dalam penelitian ini adalah memodelkan dan mensimulasikan sistem TV pada MATLAB-Simulink. Dalam model ini dilakukan pengembangan algoritma sistem TV beserta sistem kontrol yang digunakan. Metode kontrol yang digunakan adalah kontroler PID. Variabel yang diukur untuk menilai efektivitas sistem TV adalah yaw rate, sudut kemudi, sudut sideslip, traksi pada setiap ban, percepatan longitudinal dan lateral, kecepatan longitudinal, slip longitudinal di setiap ban, dan torsi output di setiap roda. Dari penelitian ini disimpulkan bahwa sistem TV mampu meningkatkan stabilitas dengan pengendalian mobil listrik. Sistem TV mampu beroperasi pada berbagai kondisi jalan dan manuver mobil, sehingga mobil dengan sistem TV (TV ON) lebih dapat dikendalikan dan stabil bila dibandingkan dengan mobil tanpa sistem TV (TV OFF). Selain itu, sistem TV dapat dikembangan dengan menggunakan metode kontrol yang sederhana, seperti kontroler PID.",
+  "creators": "ANDRE SAPUTRA",
+  "contributors": "IAN HARDIANTO (Advisor 1); Roche Alimin (Advisor 2); Willyanto (Examination Committee 1); Ninuk Jonoadji (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011351/MES/2020; Andre Saputra (24416081)",
+  "subjects": "ELECTRIC AUTOMOBILES; AUTOMOBILES-SAFETY MEASURES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "13609",
+  "title": "Evaluasi simulatif untuk membandingkan metode integrasi sistem inventory transportasi dengan metode periodic review order up to r dalam supply chain",
+  "abstract": "Inventory adalah bahan baku, barang setengah jadi, maupun barang jadi yang berada pada suatu sistem produksi pada suatu waktu. Transportasi adalah proses pendistribusian produk ke suatu tempat yang membutuhkan produk tersebut. Meningkatnya persaingan dunia usaha menyebabkan banyak dilakukan upaya-upaya untuk mengoptimalkan dan menyelesaikan masalah-masalah inventory dan transportasi. Namun demikian upaya-upaya tersebut dilakukan secara terpisah. Upaya-upaya untuk menyelesaikan masalah-masalah tersebut dalam satu kesatuan permasalahan yang terintegrasi sebagai suatu supply chain masih kurang. Tugas akhir ini secara khusus akan membahas mengenai metode integrasi sistem inventory dan sistem transportasi antar item dan perbandingannya dengan metode konvensional dengan sistem inventory dan sistem transportasi antar item tidak terintegrasi. Metode integrasi sistem inventory dan sistem transportasi antar item ini memiliki kelebihan dibanding dengan metode inventory biasa karena dalam penyelesaiannya mempertimbangkan biaya transportasi. Selain itu juga mengintegrasikan keputusan-keputusan riap item sehingga pemesanan dilakukan bersama-sama untuk mengurangi biaya transportasi yang timbul. Langkah awal dari pengerjaan Tugas Akhir ini adalah membuat data-data yang akan diolah menggunakan kedua metode dengan menggunakan bilangan acak. Setelah itu, data-data tersebut diolah menggunakan kedua metode. Hasil dari kedua metode ini dalam bentuk nilai selang waktu pemesanan kembali untuk tiap item 7} dan nilai pemesanan sampai batas /?,. Hasil ini kemudian digunakan dalam simulasi untuk mengetahui biaya total dalam satu tahun dari masing-masing metode. Hasil dari simulasi menunjukkan bahwa terdapat perbedaan biaya yang cukup besar di antara kedua metode sehingga dapat disimpulkan bahwa metode integrasi sistem inventory dan sistem transportasi antar item lebih baik dibandingkan metode konvensional dengan sistem inventory dan sistem transportasi antar item tidak terintegrasi untuk permasalahan multi item karena mengintegrasikan masalah inventory dan masalah transportasi dan juga mengintegrasikan hasil antar item. Kelemahan dari metode ini dibandingkan metode konvensional dengan sistem inventory dan sistem transportasi antar item tidak terintegrasi adalah waktu pengolahannya yang lama.",
+  "creators": "SETO AMBARA",
+  "contributors": "Siana Halim (Advisor 1); I Gede Agus Widyadana (Advisor 2); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 453/TI-044/2001; Seto Ambara (25497012)",
+  "subjects": "MATERIAL MANAGEMENT; INVENTORY CONTROL"
+}

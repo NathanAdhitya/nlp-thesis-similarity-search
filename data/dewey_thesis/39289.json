@@ -1,0 +1,14 @@
+{
+  "id": "39289",
+  "title": "Aplikasi deteksi nilai uang pada uang kertas Indonesia dengan metode featre matching",
+  "abstract": "Uang kertas tidak dapat dikenali dan dibedakan oleh tunanetra. Oleh karena itu pada tulisan ini, dibuat aplikasi untuk mengenali nilai uang kertas yang dapat berjalan pada smartphone Android dengan kamera, untuk membantu orang tersebut. Rupiah Indonesia (IDR) digunakan sebagai data sampel. Aplikasi ini tidak membutuhkan komunikasi apapun dengan server dan semua komputasi yang diperlukan dilakukan pada handphone itu sendiri. Pada aplikasi ini, pengguna dapat mengambil gambar uang dengan melakukan double tap, kemudian hasilnya akan disuarakan. Sistem ini menggunakan algoritma visi komputer, seperti deteksi feature, deskripsi feature, dan matching. Pengaplikasian dari metode ORB, SURF, dan SIFT diterapkan untuk mencocokkan gambar yang diambil dan gambar training. Untuk memperbaiki hasil dari pengenalan uang kertas, homography digunakan untuk menyaring hasil dari feature matching. Sistem ini mengevaluasi performa dari 700 gambar dan mendapatkan hasil akurasi sebanyak 93.14% menggunakan SURF, 92.57% menggunakan SIFT, dan 89.17% menggunakan ORB.",
+  "creators": "GIOVINNA KHOHARJA",
+  "contributors": "Liliana (Advisor 1); ANITA NATHANIA (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021648/INF/2017; Giovinna Khoharja (26413096)",
+  "subjects": "APPLICATION SOFTWARE-DEVELOPMENT; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE)"
+}

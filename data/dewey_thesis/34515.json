@@ -1,0 +1,14 @@
+{
+  "id": "34515",
+  "title": "Pengendalian kursi bioskop 4D menggunakan pengendali diskrit",
+  "abstract": "Pembuatan pengendalian kursi bioskop 4D menggunakan pengendali diskrit bertujuan untuk mengendalikan gerakan kursi bioskop 4D menggunakan pengendali diskrit. Umumnya, pengendalian menggunakan sistem analog. Pengendalian kursi bioskop 4D menggunakan pengendali diskrit menggunakan MATLAB sebagai pengendali utama, perangkat lunak cinema 4D untuk mendesain film dan mendapatkan data input, Arduino sebagai pengumpan data, control valve sebagai katup elektrik untuk membuka dan menutup jalur angin, stewart platform sebagai kursi, pneumatik sebagai kaki dari kursi. Dari pengujian didapatkan bahwa driver mampu menghasilkan arus 173,85 mA untuk mencukupi kebutuhan arus dari control valve, program pemetaan dan komunikasi dari MATLAB menuju Arduino dapat dilakukan dengan baik, nilai kesalahan yang didapatkan untuk komponen pitch sebesar 6,2%, komponen roll 4,01%, dan komponen yaw 12,05%.",
+  "creators": "YEFTA DEVIAN PERMANA",
+  "contributors": "Handry Khoswanto (Advisor 1); Felix Pasila (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010951/ELK/2015; Yefta Devian Permana (23411006)",
+  "subjects": "DIGITAL CONTROL SYSTEM-COMPUTER PROGRAM; DIGITAL CONTROL SYSTEMS"
+}

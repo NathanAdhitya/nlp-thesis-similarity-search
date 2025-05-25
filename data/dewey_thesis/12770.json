@@ -1,0 +1,14 @@
+{
+  "id": "12770",
+  "title": "Perencanaan dan pembuatan alat penguji hfe transistor dengan memakai mikrokontroller 8031",
+  "abstract": "Perkembangan teknologi pada saat ini sangat pesat sekali dan mempengaruhi segala aspek kehidupan manusia. Manusia sekarang sangat tergantung pada peralatan-peralatan elektronika. Oleh karena itu diperlukan peralatan elektronika yang mempunyai kwalitas yang sangat baik, dan kualitas ini sangat tergantung dari komponen elektronika yang dipakainya, diantaranya adalah transistor. Untuk menguji kwalitas hFE transistor yang presisi seringkali mengalami kesukaran karena harus mengukur beberapa karakteristik transistor pada kondisi tertentu seperti VCE dan IC untuk beberapa IB lalu dibandingkan dengan data book. Pada tugas akhir ini dibuat alat penguji hFE (|3dc) transistor yang dihubungkan ke IBM-PC. Alat ini mengukur karakteristik-karakteristik transistor untuk dibandingkan dengan data book dengan bantuan mikrokontroller 8031 untuk digolongkann dalam kategori I, II atau III dan sekaligus menggambarkan kurva karakteristik output transistor tersebut dengan IBM-PC. Metode-metode yang dipakai dalam pembuatan alat ini adalah studi iiteratur, pengumpulan data untuk dianalisa, perencanaan rangkaian, pembuatan alat dan pengujian alat. Dalam pembuatan alat ini selain dibuat perangkat kerasnya juga dibuat perangkat lunak atau software untuk menjalankan perangkat keras tersebut. Dari hasil studi ini dapat disimpulkan bahwa alat penguji hFE transistor ini selain dapat menguji hFE transistor juga dapat menggambarkan kurva karakteristik output transistor. Sehingga cocok untuk percobaan di laboratorium elektronika maupun untuk mendesain rangkaian elektronika.",
+  "creators": "GO KA SIONG",
+  "contributors": "NAWANTO WIBOWO (Advisor 1); IRWAN SAHLI (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/004/264; Go Ka Siong (23488070)",
+  "subjects": "ELECTRONIC MEASUREMENTS-COMPUTER PROGRAMS; MICROCONTROLLERS 8031"
+}

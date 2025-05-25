@@ -1,0 +1,14 @@
+{
+  "id": "38253",
+  "title": "Regulator capacitor bank satu fasa dengan daya hingga 3500VA berbasis Arduino",
+  "abstract": "Perkembangan dunia industri bukan hanya pada skala besar tetapi juga skala kecil atau home industry. Tidak diberlakukannya biaya kelebihan pemakaian daya reaktif bukan berarti home industry tidak memperhatikan pentingnya faktor daya yang dapat mengoptimalkan daya yang terpasang. Desain regulator capacitor bank ini dikhususkan untuk daya hingga 3500VA dengan menggunakan Arduino sebagai otak dari sistem. Regulator ini mengukur faktor daya dengan metode zero crossing detector menggunakan trafo arus dan trafo tegangan dan menggunakan kombinasi relay dan Thyristor-Switched Capacitor yang dimodifikasi dengan MOSFET sebagai saklar untuk kapasitor. Pengukuran faktor daya dengan metode zero crossing detector bekerja dengan baik pada beban linear induktif. Kompensasi pada beban linear memiliki kesalahan rata-rata sebesar 2.4% dan untuk beban tidak linear memiliki kesalahan rata-rata sebesar 33.96%.",
+  "creators": "DAVID IMANI NUGROHO",
+  "contributors": "Handry Khoswanto (Advisor 1); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 2); Yusak Tanoto, S.T., M.Eng., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010644/ELK/2016; David Imani Nugroho (23412008)",
+  "subjects": "ARDUINO; VOLTAGE REGULATORS; CAPACITORS"
+}

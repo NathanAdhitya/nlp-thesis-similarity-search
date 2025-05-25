@@ -1,0 +1,14 @@
+{
+  "id": "22068",
+  "title": "Aplikasi SMS untuk manajemen pemeliharaan kendaraan bermotor",
+  "abstract": "Kendaraan bermotor memerlukan perawatan secara berkala yang berfungsi untuk memeriksa dan memastikan kendaraan yang digunakan tetap layak dikendarai, Melihat hal ini diperlukan adanya informasi kepada pengguna kendaraan bermotor tentang jadwal perawatan berkala. Informasi ini dapat disampaikan melalui media telekomunikasi SMS (Short Message Service), yang dapat dikirim dan diterima dengan mudah dan cepat. Sistem SMS Gateway dibangun dengan arsitektur client-server yang terdiri dari tiga bagian, yaitu server yang berfungsi mengakomodasi kebutuhan aplikasi SMS yang akan dibangun, mobile network SMS center berfungsi sebagai perantara dari komunikasi server dan client, dan client merupakan mobile phone yang berhubungan dengan server. Komunikasi antara server dan client diwakili oleh modem dan mobile phone melalui komunikasi SMS,Gammu bertindak sebagai komponen yang menjembatani transfer data SMS dari modem ke komputer, begitu pula sebaliknya. Hasil dari pengujian mulai dari penerimaan SMS ke modem, proses di dalam database, dan instruksi untuk mengirimkan autoreply dan reminder SMS cukup baik. response autoreply dan reminder SMS berhubungan dengan banyaknya data yang diproses. Informasi-informasi yang dikirimkan dari server ke client melalui web application dan diproses oleh Gammu SMS Gateway. Hasil dari pengujian performa sistem dalam menjalankan SMS group dilakukan dalam beberapa tahap dengan jumlah user berbeda-beda (10,20.30, dan seterusnya) dengan kecepatan kirim rata-rata 5,4 detik. Sistem ini dilengkapi dengan fitur autoreply SMS, reminder SMS, inbox, outbox, SMS Single, dan SMS Group.",
+  "creators": "ASEN",
+  "contributors": "Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010104/ELK/2011; Asen (23407026)",
+  "subjects": "DIGITAL COMMUNICATION; DATABASE DESIGN; DATA TRANSMISSION SYSTEMS"
+}

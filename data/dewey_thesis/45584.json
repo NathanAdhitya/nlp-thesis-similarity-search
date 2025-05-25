@@ -1,0 +1,14 @@
+{
+  "id": "45584",
+  "title": "Sistem monitoring konsumsi air multi-tenant menggunakan Arduino dan mobile app",
+  "abstract": "Prosedur pemeriksaan meteran air secara manual yang masih diterapkan hingga saat ini memiliki beberapa kelemahan, salah satunya adalah kesalahan atau kecurangan, baik dari pihak petugas (PDAM) yang memeriksa, dan pengguna meteran air yang bisa saja memanipulasi meteran air. Hal inilah yang memicu adanya pembuatan aplikasi mobile berbasis android yang dilengkapi oleh arduino beserta komponennya untuk dapat memantau meteran air, yang mencerminkan jumlah penggunaan air. Perangkat arduino dan sensor TCRT5000 dipasang di atas meteran air Itron Cyble. Sensor TCRT5000 akan bekerja untuk menghitung jumlah putaran jarum ukur pada meteran airItron Cyble, dan hasil kalkulasi dari sensor akan diteruskan ke aplikasi mobile melalui jaringan internet. Dari penggunaan aplikasi, hasilnya dapat ditampilkantotal konsumsi air dari tiap meteran air (multi-tenant) denganbentuk sajian data grafik, dan real-time pada aplikasi mobile. Sehingga, pemantauan konsumsi air dapat dilakukan melalui aplikasi mobile.",
+  "creators": "PASKAH ABRAHAM A.Y",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Resmana Lim (Advisor 2); Justinus Andjarwirawan (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021870/INF/2019; Paskah Abraham A.y (26414091)",
+  "subjects": "ARDUINO; APPLICATION SOFTWARE; WATER CONSUMPTION"
+}

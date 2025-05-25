@@ -1,0 +1,14 @@
+{
+  "id": "1280",
+  "title": "Pengontrolan stopkontak secara remote dengan timer dan dimmer digital",
+  "abstract": "Di jaman modern seperti saat ini, kepraktisan sangat diperlukan untuk mendukung mobilitas manusia yang semakin sibuk. Sehingga untuk mengontrol sebuah peralatan listrik diharapkan dapat secara jarak jauh dan otomatis. Dengan tugas akhir di sini, diharapkan dapat mengatasi masalah pengontrolan jarak jauh dan otomatisasi dengan cara mengontrol waktu on/off serta peredupan intensitas cahaya suatu bola Iampu. Untuk merealisasikan ide tersebut, dibuat prototipe pengaturan stopkontak yang dikontrol dengan remote infra merah. Pengontrolan stopkontak direncanakan menggunakan relay sebagai kontrol on/off dan optotriac yang digunakan untuk men-driver power triac sebagai kontrol dimmer. Dalam proses dimmer sudut, penyalaan diatur dengan memberikan trigger pada triac melalui optotriac. Dari hasil pengujian yang telah dilakukan, sistem dapat dikontrol melalui modul pemancar dengan jarak ? 7 meter, tiga channel berupa kontrol on/off dan tiga yang lain berupa kontrol dimmer. Pada kontrol dimmer tegangan beban dapat dikontrol melalui 10 level kontrol.",
+  "creators": "RUDY GUNAWAN HADISUSILA",
+  "contributors": "Unknown",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/012/558; Rudy Gunawan Hadisusila (23496058)",
+  "subjects": "AUTOMATIC TIMERS; REMOTE CONTROL; AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

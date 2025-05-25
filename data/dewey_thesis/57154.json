@@ -1,0 +1,14 @@
+{
+  "id": "57154",
+  "title": "Pengujian performa metode sistem rekomendasi terbaik untuk merekomendasikan produk menggunakan MRR dan MAP@K",
+  "abstract": "Sistem Rekomendasi adalah sebuah teknik yang mampu memberikan saran berupa item kepada user. Teknik ini kini banyak digunakan pada perusahaan e-commerce untuk merekomendasikan produk yang dijual kepada customer. Dalam penerapannya, sistem rekomendasi menemukan berbagai kendala dimana performa rekomendasi yang diberikan tidaklah baik. Berdasarkan permasalahan ini, maka akan dilakukan pengujian untuk mencari metode sistem rekomendasi mana yang paling baik dalam menghasilkan produk. Pengujian dilakukan dengan menggunakan dataset history click behavior, yang mana berisi data interaksi user dalam sebuah e-commerce. Harapannya dengan data ini bisa menggambarkan secara riil performa sistem rekomendasi bila diterapkan pada e-commerce. Bahasa pemograman yang digunakan python, dan tools yang digunakan adalah pyspark. Pyspark digunakan karena jumlah data interaksi user yang sangat besar sehingga dengan digunakan pyspark bisa mengurangi beban kerja computer. Metode yang diuji adalah metode content-based filtering, collaborative filtering, dan hybrid recommendation. Berdasarkan hasil pengujian, metode hybrid memiliki performa paling tinggi, selisih tidak jauh dengan metode content-based filtering, dimana metode hybrid memiliki performa MRR 0,74 dan MAP@K 0,596, sedangkan content-based filtering memiliki performa MRR 0,78 dan MAP@K 0,65. Metode collaborative filtering memiliki performa paling rendah dengan MRR 0,2485 dan MAP@K 0,545. Metode Content-based filtering memiliki performa yang baik dibandingkan 2 metode lain yang diuji, dimana metode ini memanfaatkan aktivitas user paling baru sehingga pendekatan yang digunakan ini bisa mengatasi cold-start problem yang selama ini menjadi kelemahan dari content-based filtering. Performa hybrid recommendation bergantung pada 2 metode yang digabungkan, dimana pada penelitian ini collaborative filtering memiliki performa yang sangat buruk, sehingga berdampak pada performa hybrid recommendation yang menurun.",
+  "creators": "ALBERTUS FARREL JUANDA",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Alexander Setiawan (Advisor 2); Agustinus Noertjahyana (Examination Committee 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022374/INF/2023; Albertus Farrel Juanda (C14190134)",
+  "subjects": "INTERNET MARKETING; ELECTRONIC COMMERCE--MARKETING; ELECTRONIC COMMERCE; RECOMMENDER SYSTEMS (INFORMATION FILTERING)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4644",
+  "title": "Pembuatan program perencanaan kebutuhan material pada Perusahaan Mebel \"X\"",
+  "abstract": "Dalam membuat suatu produk, Perusahaan X membutuhkan banyak sekali komponen material penyusunnya. Dalam menghitung kapan dan berapa jumlah bahan-bahan yang harus dipesan, perusahaan menggunakan proses penghitungan kebutuhan material secara manual (non-computing). Agar perusahaan tidak mengalami kelebihan maupun kekurangan stok di gudang, maka perusahaan membutuhkan sebuah program yang mampu melakukan perencanaan kebutuhan material, program ini biasa disebut juga Material Resource Planning (MRP). Untuk membuat program ini, dibutuhkan data bill of material dari produk, aliran proses produksi, proses pemenuhan order customer, dan proses pemesanan material ke suplier dari perusahaan. Kemudian mendesain Entity Relationship Diagram (ERD) dan Data Flow Diagram (DFD) dari aliran proses perencanaan produksinya. Setelah itu dibangunlah database dengan tabel-tabelnya, langkah selanjutnya mendesain menu-menu yang yang akan digunakan oleh user, seperti : pemasukkan data produk dan material, data supplier, data customer, data detail supplier, data customer order, penjadwalan produksi, dan penjadwalan pemesanan material. Untuk menampilkan informasi yang sudah diolah ke user diberikan fasilitas report. Software yang digunakan untuk membuat program ini adalah Borland Delphi 7 dan untuk databasenya digunakan SQL Server 7. Program ini dapat memberikan informasi bill of material produk, memberikan informasi penjadwalan material dan bahan penolong yang harus dipesan beserta dengan jumlah dan waktunya, memberikan informasi penjadwalan produksi, memberi informasi tentang suatu kegiatan produksi tertentu, dan memberikan daftar material, dan produk yang mengalami kekurangan stok atau yang stoknya kurang dari batas safety stok yang sudah ditentukan. Berdasarkan evaluasi kuisioner, software ini memiliki tingkat user friendliness yang baik (50% responden) menghasilkan data yang akurat (41,67% responden), dan lebih cepat dibandingkan sistem yang lama (58,33% responden).",
+  "creators": "SIEM YOUNG SENG",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Andreas Handojo (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000237/INF/2004; Siem Young Seng (26400058)",
+  "subjects": "DATABASE MANAGEMENT; SOFTWARE ENGINEERING; MRP (COMPUTER SYSTEM)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "16353",
+  "title": "Erasable and programmable logic device programmer",
+  "abstract": "Digital circuits become more complex and basic logic ICs could not afford the need to implement them in an efficient way. The use of many ICs in a circuit is neither economical nor efficient, and also reduces its reliability and integrity since it has many external connections made among ICs. This makes it uneasy to modify. EPLD, which stands for Erasable Programmable Logic Design, have been manufactured to overcome those problems above, to substitute the functions of basic digital electronics with user configurable ones. This final project is made to provide a simple EPLD programmer to program EPLDs. Microcontroller AT89C51 is used as the core of the EPLD programmer, supported by DAC ( Digital to Analog Circuit) and emitter follower current boost circuit. From the experiments done during the making of this project, it seems that the emitter follower configuration has a disadvantage that it is not suitable for this purpose since it caused damage to the target ICs even before programming, this is because such configuration forms a constant current source circuit instead of a voltage source circuit. This kind of configuration should be replaced by using a voltage regulator circuit to act as a constant voltage source which is needed for the device programming purpose.",
+  "creators": "TAN SING LUKMANTO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.99/E/EL/034/428; Tan Sing Lukmanto (23495035)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE LOGIC"
+}

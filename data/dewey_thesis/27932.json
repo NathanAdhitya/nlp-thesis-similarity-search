@@ -1,0 +1,14 @@
+{
+  "id": "27932",
+  "title": "Pencacah frekuensi presisi pada jangkauan maksimum 1,2 Hqs, ketelitian 6 digit dengan bantuan microprocessor z-80",
+  "abstract": "Dalam tugas akhir ini dipelajari karakteristik mikroprosessor 8 bit Z-80 sebagai komponen utama suatu sistem mikroprosessor, interfacenya dengan unit-unit fungsional suatu sistem mikroprosessor (yaitu memori dan peralatan masukan-keluaran), serta program yang diperlukan untuk mengatur sistem dan melakukan beberapa fungsi aplikasi. Memori yang dimaksud di sini adalah RAM dan ROM, sedangkan peralatan masukan-keluaran adalah keyboard serta rangkaian penampil seven segment dan beberapa LED, sebagai penghubung dengan mikroprosessor diperlukan PPI (Programmable Peripheral Interface). Sedangkan fungsi aplikasi dimaksudkan agar sistem mikroprosessor tersebut dapat berfungsi sebagai pengontrol rangkaian pencacah frekwensi. Interface dengan peralatan masukan-keluaran yang berupa keyboard 5 key, sistem penampil seven segment sebanyak 7 karakter dan rangkaian pencacah frekwensi yang direncanakan dalam tugas akhir ini dicoba untuk direalisasikan dengan membuat rangkaian perangkat kerasnya untuk menguji kebenaran teori perencanaannya.",
+  "creators": "Mulyono Santoso",
+  "contributors": "NAWANTO WIBOWO (Advisor 1); HERLIANTO TENGGARA (Advisor 2); SUPENO DJANALI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 88/E/EL/012; Mulyono Santoso (482036)",
+  "subjects": "MICROPROCESSSORS; OMPUTER INTERFACES"
+}

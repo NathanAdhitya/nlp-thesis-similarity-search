@@ -1,0 +1,14 @@
+{
+  "id": "48006",
+  "title": "Robot penerima tamu dengan sistem pengenalan wajah dan suara",
+  "abstract": "Tugas akhir ini bertujuan untuk mengintegrasikan antara pengenalan wajah dan pengenalan suara untuk membuat robot penerima tamu. Robot penerima tamu ini memiliki beberapa kegunaan di antaranya pemberian salam, menampilkan informasi, dan menunjukkan arah dari suatu lokasi tertentu. Pengenalan wajah digunakan sebagai fitur dari pemberian salam, sedangkan pengenalan suara berfungsi untuk menggantikan input pada sebuah perangkat embedded seperti mouse dan keyboard. Sistem robot penerima tamu ini menggunakan Nvidia Jetson Nano sebagai perangkat embedded utama. Sensor yang digunakan ada 2, yaitu kamera sebagai masukan gambar dan mikropon sebagai masukan suara. Sedangkan untuk aktuator terdapat 2, yaitu lcd monitor sebagai keluaran gambar dan speaker sebagai keluaran suara. Keseluruhan program pada sistem ini dibuat dengan bahasa Python yang ada pada operating system Ubuntu. Pengenalan wajah dan pengenalan suara menggunakan library yang sudah ada yaitu face_recognition dan pocketsphinx, dimana keduanya menyimpan data secara lokal tanpa bantuan internet. Berdasarkan hasil pengujian, sistem telah berhasil melakukan pengenalan wajah dan pengenalan suara. Untuk pengenalan wajah akurasi tertinggi didapatkan angka 96% dengan menggunakan variabel toleransi sebesar 0,45. Waktu eksekusi dari program pengenalan wajah sangat cepat dengan rata-rata waktu 0,0544 detik. Jumlah data wajah yang dikenali tidak memengaruhi waktu dari eksekusi program pengenalan wajah. Dengan memodifikasi data dictionary dan language model pada pengenalan suara, didapatkan akurasi 84,65%. Akurasi ini jauh lebih tinggi daripada menggunakan data default yang hanya mendapatkan akurasi 26,32%.",
+  "creators": "AARON MARSELINO LUKMAN",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Resmana Lim (Examination Committee 1); Felix Pasila (Examination Committee 2); Handy Wicaksono (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011004/ELK/2020; Aaron Marselino Lukman (23416010)",
+  "subjects": "MOBILE ROBOTS; PATTERN RECOGNITION SYSTEMS"
+}

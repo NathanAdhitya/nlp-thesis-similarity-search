@@ -1,0 +1,14 @@
+{
+  "id": "14174",
+  "title": "Perencanaan dan pembuatan programmable automatic music scan pada kaset tape dengan menggunakan Microcontroller MCS-51",
+  "abstract": "Tape playback (main ulang) sebagai piranti audio yang sering ditemui di masyarakat mempunyai unjuk kerja yang terbatas hanya memainkan ulang lagu dari kaset sesuai urutan yang ada. Putaran kaset harus dimajukan atau dimundurkan untuk memperoleh lagu tertentu yang ingin dldengar, itupun belum tentu menghasilkan lagu yang diinginkan dengan tepat. Programmable Automatic Music Scan (AMS) yang dibuat dalam tugas akhir ini adalah alat pengendali dan peng-ontrol main ulang dari tape agar mampu memainkan ulang lagu dari kaset sesuai kelnginan pemakai secara otomatis. Pemakai hanya perlu memilih nomor lagu pilihan (maksimal 15 lagu) dari kaset, fasilitas repeater (pengulangan lagu pilihan), atau fasilitas shuffle (memainkan ulang lagu secara acak) melalui keypad. Sistem pengendali dan pengontrol alat tersebut memakai mikrokontroler 80C31 dari keluarga MCS-51 yang dibuat oleh Intel Corporation. Rangkaian detektor selang lagu diperlukan agar peralatan dapat mengendalikan main ulang lagu secara otomatis. Dari perencanaan dan pembuatan peralatan pada tugas akhir ini dapat disimpulkan bahwa alat ini dapat bekerja dengan baik.",
+  "creators": "GUNAWAN SETIAWAN HOETOMO",
+  "contributors": "SUPENO DJANALI (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/026/0229; Gunawan Setiawan Hoetomo ( 23490147)",
+  "subjects": "AUTOMATIC MUSIC SCAN; PROGRAMMABLE CONTROLLERS"
+}

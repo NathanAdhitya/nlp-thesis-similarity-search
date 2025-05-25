@@ -1,0 +1,14 @@
+{
+  "id": "50370",
+  "title": "Sistem prabayar pada jalan tol menggunakan RFID dan kartu chip",
+  "abstract": "Jalan tol merupakan jalur alternatif bagi pengendara kendaraan roda empat atau lebih, jalan tersebut dibuat agar bebas hambatan. Namun sejalan dengan perkembangan jaman dan pertumbuhan ekonomi, maka jumlah pengguna jalan tol pun semakin meningkat. Terbukti dengan seringnya kemacetan pada gerbang (keluar) tol karena antrian pengendara dalam membayar jasa tol. Antrian dapat dihindari dengan suatu sistem prabayar pada jalan tol tol menggunakan RFID dan kartu chip Sistem ini dirancang dalam 3 modul utama yang terpisah, yaitu: modul yang diinstalasi pada mobil (RFID reader, kartu chip, serial RTC, microcontroler, dan LCD), modul kedua diletakkan pada pintu gerbang (modul ini akan diidentifikasi modul pertama), dan modul terakhir digunakan oleh petugas jalan tol untuk mengakses data pada kartu chip (menghapus, mm%-edit, dan mengisi). Pada hasil pengujian diperoleh waktu rata-rata interaksi sistem dengan gerbang sekitar 0.42 detik, sehingga sistem prabayar ini dapat digunakan sebagai alternatif pembayaran pada jalan tol (terbuka maupun tertutup) untuk solusi kemacetan di gerbang tol.",
+  "creators": "WINATA PANJAYA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Aditya Umbu Tana Amah (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/663/ELK/2003; Winata Panjaya (23499004)",
+  "subjects": "RADIO FREQUENCY IDENTIFICATION SYSTEMS--TECHNOLOGICAL INNOVATIONS"
+}

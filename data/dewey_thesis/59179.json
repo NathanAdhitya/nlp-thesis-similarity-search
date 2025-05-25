@@ -1,0 +1,14 @@
+{
+  "id": "59179",
+  "title": "An improved IHDE-BPSO3 algorithm for order acceptance and scheduling problems",
+  "abstract": "It is crucial for make-to-order manufacturers to decide which orders to accept and how to schedule them, especially when faced with limited production capacity and a high volume of orders. If the orders are poorly arranged, tardiness penalties may occur for failing to deliver specific orders by the due date. This issue is commonly referred to Order Acceptance and Scheduling (OAS) problem. Therefore, this study focuses on tackling the order acceptance and identical parallel machine scheduling problem by considering elements such as delivery deadline, order processing time, order revenue, sequence-dependent setup times, and penalty costs for late delivery. An Improved Hybrid Differential Evolution-Binary Particle Swarm Optimization 3 (IHDE-BPSO3) algorithm that was developed by Wu (2023) was chosen to solve these problems. Two variations of IHDE-BPSO3 incorporated with Variable Neighborhood Search (VNS) were developed and compared with the PSO-VNS algorithm. Results show that for mid to large-sized problems, IHDE-BPSO3 Type 1 slightly outperforms Type 2, with a total mean error of 1.449%. Additionally, IHDE-BPSO3 type 1 demonstrated competitiveness with the well-developed classical algorithm, PSO-VNS.",
+  "creators": "FRANSISCA WIJAYA",
+  "contributors": "Tanti Octavia (Advisor 1); Iwan Halim Sahputra, S.T., M.Sc., Ph.D. (Examination Committee 1); Togar Wiliater Soaloon Panjaitan, S.T., MBA. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022638/IND/2023; Fransisca Wijaya (C13200001)",
+  "subjects": "PRODUCTION PLANNING; PRODUCTION SCHEDULING"
+}

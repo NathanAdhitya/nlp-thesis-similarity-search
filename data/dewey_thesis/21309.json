@@ -1,0 +1,14 @@
+{
+  "id": "21309",
+  "title": "Penerapan algoritma bootstrap untuk menentukan estimasi parameter pada model egarch (1,1) dan arima (p,d,q)",
+  "abstract": "Proses peramalan merupakan bagian integral dari perencanaan dan pengambilan keputusan. Agar didapatkan hasil peramalan yang baik, faktor utama yang mempengaruhinya adalah penentuan parameter dalam model peramalan tersebut. Khususnya untuk data finansial dimana sedikit perbedaan yang terjadi dapat menimbulkan akibat yang besar. Hal ini menyebabkan keakuratan dalam estimasi parameter peramalan untuk suatu financial time series sangat penting. Oleh sebab itu perlu untuk mengekspresikan nilai estimasi parameter tersebut dalam suatu interval agar dapat diperoleh nilai batas atas dan batas bawah yang efektif dari estimasi parameter tersebut. Tujuan dari tugas akhir ini secara khusus adalah menerapkan Algoritma Bootstrap yang merupakan suatu metode statistik ke dalam proses peramalan untuk mendapatkan estimasi parameter dalam bentuk confidence interval yang akurat. Model peramalan yang dipilih adalah EGARCH(1,1) dan ARIMA(p,d,q). Pada data index saham IBM, parameter-parameter baik dari model EGARCH (1,1) dan ARIMA (2,1,0) dapat terwakili dengan baik oleh bootstrap confidence interval yang didapat. Range confidence interval untuk tiap parameter juga kecil, sehingga confidence interval yang diperoleh dapat disimpulkan efektif dan informatif untuk proses pengambilan keputusan.",
+  "creators": "SHINTA INDRAYANI",
+  "contributors": "Siana Halim (Advisor 1); Maja Indahwati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 373/TI-100/2000; Shinta Indrayani (28496133)",
+  "subjects": "FORECASTING-MATHEMATICAL MODELS; DECISION-MAKING-MATHEMATICAL MODELS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "53552",
+  "title": "Website human resource information system dengan fitur pengukuran efektivitas kinerja karyawan pada PT Deus Digital Transformasi Universal",
+  "abstract": "PT Deus Digital Transformasi Universal merupakan perusahaan jasa yang memiliki fokus kerja di bidang pembuatan situs web, media sosial manajemen, pemasaran produk klien. Selama ini, pengelolaan sumber daya manusia yang dilakukan sebagian besar masih dilakukan dengan cara manual, sehingga sangat memungkinkan kesalahan pencatatan atau kesalahan lain yang membuat data tidak akurat. PT Deus Digital Transformasi Universal juga berencana untuk membuka beberapa cabang di luar area Surabaya yang menyebabkan kebutuhan perusahaan terhadap Sistem Informasi Sumber Daya Manusia menjadi sangat kuat, dan tidak dapat dihindari lagi. HRIS dilengkapi dengan fitur pendukung keputusan yang dapat menampilkan saran dan tindakan terhadap penilaian hasil kinerja karyawan. Pada skripsi ini dirancang sebuah HRIS yang memiliki beberapa modul, yaitu modul Master, modul perekrutan, modul proyek, modul pelanggaran, modul pekerjaan harian, modul kinerja, dan modul penggajian. Untuk mendukung keputusan sistem menggunakan Analytical Hieararchy Process digunakan dalam proses penghitungan, dan perangkingan kinerja karyawan. Sistem yang dibuat berbasis website dengan menggunakan framework php laravel, javascript, HTML, dan database MySQL. Hasil dari penelitian ini adalah sebuah sistem yang dapat membantu HRD dalam segala urusan manajemen sumber daya manusia, dan membantu direktur perusahaan untuk dapat menyatukan pekerjaan pegawai, dan kinerja mereka secara real-time, dan objektif.",
+  "creators": "ALVIN PUTRA WONG",
+  "contributors": "Alexander Setiawan (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022158/INF/2022; Alvin Putra Wong (C14180143)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; MANAGEMENT INFORMATION SYSTEMS--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); WEB SITES--DESIGN"
+}

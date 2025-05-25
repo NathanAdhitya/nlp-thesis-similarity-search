@@ -1,0 +1,14 @@
+{
+  "id": "23113",
+  "title": "Perencanaan dan pembuatan automated guided vihicle sebagai transporter pada flexible manufacturing system",
+  "abstract": "Automated Guided Vehicle atau AGV merupakan salah satu komponen Flexible Manufacturing System yang bertugas sebagai transporter. AGV adalah suatu kendaraan untuk pengiriman material yang dapat diprogram secara otomatis.Sistem pengendalian arah gerak AGV dengan mengikuti kawat sebagai jalur lintasan yang terpasang pada lantai pabrik. Di setiap simpangan jalur lintasan dipasang logam, sehingga simpangan tersebut dapat dideteksi. AGV dapat bekerja secara otomatis dan terprogram karena di dalam AGV terdapat komponen pengolahan data, yaitu sistem minimum kontroler mikro 80C52 BASIC. Pemrograman AGV dilakukan lewat terminal papan tuts dan tampilan segmen-7 atau LCD. AGV dilengkapi pula dengan sistem pengaman terhadap benturan, yaitu penginderaan dengan ultrasonic dan safety bumper. Sedangkan untuk mendeteksi sel manufaktur digunakan sistem pendeteksian cahaya merah infra. Catu daya AGV diberikan oleh baterai accu 12 Volt 35 AmpereHour. Roda depan dan belakang AGV digerakkan oleh motor DC.AGV direncanakan untuk dapat bekerja pada FMS yang sederhana dengan jumlah pekerja yang sedikit serta jumlah sel manufaktur yang berjumlah sampai puluhan unit saja. Sistem AGV dimasa mendatang dapat dikembangkan untuk bekerja pada FMS yang memiliki kecerdasan buatan dan lebih kompleks, yaitu sampai dengan ratusan sel manufaktur, dimana pengendalian lalu lintas AGV dilakukan oleh pusat pengolahan data, dan sinyal data tersebut dikirimkan sekaligus lewat kawat jalur lintasan pada lantai pabrik.",
+  "creators": "DAVID HERMANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Murtiyanto Santoso (Advisor 2); HANDAYANI T. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/029/0150; David Hermanto (23487054)",
+  "subjects": "AUTOMATIC CONTROL; AUTOMATION"
+}

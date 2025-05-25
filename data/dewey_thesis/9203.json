@@ -1,0 +1,14 @@
+{
+  "id": "9203",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada perusahaan konveksi CV. Dwi Putra Sakti",
+  "abstract": "CV. Dwi Putra Sakti adalah perusahaan yang bergerak di bidang konveksi. Perusahaan ini telah memiliki database secara sederhana. Tiap akhir bulan, database tersebut dicetak langsung (tanpa diolah) sebagai bahan untuk membuat laporan keuangan secara manual. Perusahaan ini masih menggunakan jasa konsultan dalam rangka pembuatan laporan keuangannya. Laporan keuangan masih dibuat secara manual yang mana masih membutuhkan waktu yang relatif lama. Kecepatan dalam memproses transaksi pembelian, transaksi penjualan, transaksi produksi, dan transaksi akuntansi dapat berpengaruh terhadap waktu yang diperlukan konsumen untuk mendapatkan harga dari order yang diminta, laporan keuangan perusahaan, dan laporan perubahan modal pemilik. Perancangan desain sistem yang baru menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk membuat desain struktur tabel dan relasi antar tabel. Database dibuat dengan menggunakan SQL Server 2000. Aplikasi dibuat dan dikembangkan dengan bahasa pemrograman Borland Delphi 7.0. Program yang dibuat meliputi modul: pembelian, penjualan, harga pokok produksi secara job order, harga pokok penjualan dan akuntansi. Program ini mampu memproses data akuntansi yang berhubungan dengan pembelian dan penjualan secara otomatis dan menghasilkan informasi berupa laporan manajerial (laporan pembelian, penjualan, retur, hutang, piutang) dan laporan keuangan (arus kas, laba rugi, ekuitas pemilik dan neraca) yang akurat (sesuai dengan proses manualnya) .",
+  "creators": "BUDIANTO PANDALAGI",
+  "contributors": "Sri Maharsi (Advisor 1); Gregorius Satiabudhi (Advisor 2); Oviliani Yenty Yuliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010639/INF/2007; Budianto Pandalagi (26402054)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

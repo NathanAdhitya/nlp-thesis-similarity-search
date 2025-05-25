@@ -1,0 +1,14 @@
+{
+  "id": "42106",
+  "title": "Aplikasi door access dan motion sense pada smart home menggunakan microcontroller berbasis android",
+  "abstract": "Smart Home adalah sistem aplikasi yang merupakan gabungan antara teknologi dan pelayanan yang dikhususkan pada lingkungan rumah dengan fungsi tertentu yang bertujuan meningkatkan efisien, kenyamanan dan keamanan penghuninya. Sistem rumah cerdas ini menggunakan microcontroller untuk memproses fungsi-fungsi yang akan disediakan oleh Smart Home aplikasi, fungsi-fungsi tersebut berupa rfid untuk akses pintu dan pir sensor untuk mendeteksi gerakan. Untuk melakukan interaksi dengan sensor, microcontroller, ataupun alat bantu lainnya melalui Internet digunakan perangkat Android. Dengan menggunakan Android pengguna dapat melakukan kendali terhadap sensor yang sudah tertera pada aplikasi Android dengan meggunakan internet. Android memakai Bahasa JAVA untuk pemograman. Kemudian di sini sensor juga perlu terhubung dengan microcontroller. Microcontroller yang digunakan adalah Arduino IDE dengan board WEMOS D1R2. Melakukan setting sensor hanya bisa dilakukan dengan microcontroller, kemudian itu semua dihubungkan melalui internet agar bisa diaplikasikan di Android. Hasil akhir dari penelitian ini adalah keberhasilan komunikasi antara komponen-komponen dari perangkat, sensor, dan perangkat Android.User dapat membuka atau menutup solenoid, user juga bisa mematikan atau menyalakan piranti elektronik menggunakan Android.",
+  "creators": "KEVIN TRISNAJAYA",
+  "contributors": "Resmana Lim (Advisor 1); Leo Willyanto Santoso (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021750/INF/2018; Kevin Trisnajaya (26413077)",
+  "subjects": "MICROCONTROLLERS-PROGRAMMING; APPLICATION SOFTWARE-DEVELOPMENT; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (COMPUTER PROGRAM)"
+}

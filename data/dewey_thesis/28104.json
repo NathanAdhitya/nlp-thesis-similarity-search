@@ -1,0 +1,14 @@
+{
+  "id": "28104",
+  "title": "Perancangan dan pembuatan aplikasi steganografi teknik least siginificant bit dengan gabungan enkripsi rivest chiper 4 pada file video",
+  "abstract": "Perkembangan teknologi komunikasi dan informasi berkembang dengan pesat. Hal ini mempengaruhi kehidupan manusia dalam proses pertukaran informasi yang semakin mudah. Namun seiring dengan perkembangan tersebut, kejahatan dalam bidang ini pun turut berkembang, sehingga pertukaran informasi menjadi kurang aman. Aplikasi yang dibuat menggunakan bahasa pemrograman C# dengan bantuan library untuk melakukan proses terhadap file video yang digunakan. Untuk menyembunyikan file kedalam video menggunakan teknik Least Significant Bit dengan terlebih dahulu menambah keamanan pada file dengan cara melakukan enkripsi Rivest Chiper 4. Hasil akhir dari aplikasi ini adalah sebuah video yang berisikan data rahasia. Untuk mengekstrak data tersebut dibutuhkan password yang digunakan saat menyembunyikan data.",
+  "creators": "ERWIN",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Rolly Intan (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021232/INF/2013; Erwin (26409037)",
+  "subjects": "CRYPTOGRAPHY-COMPUTER PROGRAM; DATA ENCRYPTION (COMPUTER SCIENCE)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "53627",
+  "title": "Perancangan smart car window menggunakan voice command",
+  "abstract": "Perkembangan teknologi di dunia otomotif telah berkembang pesat, salah satunya yaitu pada fitur-fitur dalam mobil. Fitur-fitur yang terdapat pada mobil telah berkembang dan canggih salah satunya yaitu fitur perintah suara. Tujuan dari penulisan ini adalah untuk memanfaatkan fitur perintah suara dalam membuka atau menutup kaca jendela mobil. Jadi, pengemudi hanya perlu memberikan perintah suara saat ingin membuka atau menutup kaca jendela mobil, sehingga tangan pengemeudi tetap memegang kemudi dan pandangan fokus ke jalan. Untuk itu, dalam memberi perintah suara dibutuhkan modul voice recognition sebagai alat perekam suara dan pengenal perintah suara dan juga memerlukan mikrokontroler (arduino) untuk memproses input yang diberikan. Modul voice recognition akan menerima input berupa perintah suara yang kemudian melepas output ke arduino. Arduino akan memproses input dari modul voice recognition kemudian memberi perintah ke relay untuk meneruskan arus listrik menuju master switch power window untuk membuka atau menutup kaca jendela mobil.",
+  "creators": "MARCELLUS ARVIE MOEDJIONO",
+  "contributors": "Roche Alimin (Advisor 1); Fandi Dwiputra Suprianto, S.T., M.Sc. (Examination Committee 1); Sutrisno S.T.,M.T. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011449/MES/2022; Marcellus Arvie Moedjiono (C12180006)",
+  "subjects": "ARDUINO; AUTOMATIC SPEECH RECOGNITION; AUTOMOBILES--AUTOMATIC CONTROL"
+}

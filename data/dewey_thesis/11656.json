@@ -1,0 +1,14 @@
+{
+  "id": "11656",
+  "title": "Perbandingan beberapa initial state yang digunakan pada simulated annealing",
+  "abstract": "Penjadwalan dengan kriteria makespan banyak diteliti. Salah satu pendekatan yang dilakukan dengan metaheuristik adalah Simulated Annealing. Penelitian ini menggunakan kriteria makespan dengan membandingkan beberapa initial state, yaitu Algoritma Palmer, Algoritma Campbell, Dudek, dan Smith (CDS), Algoritma Rapid Access (RA), kombinasi Algoritma Nawaz, Enscore, dan Ham (NEH) dengan Job Index Based Local Search, dan Longest Processing Time(LPT).Hasil yang diperoleh dari penelitian ini adalah kombinasi Algoritma NEH dengan Job Index Based Local Search merupakan algoritma penghasil initial state terbaik. Pada 10 kasus kombinasi algoritma ini menghasilkan minimum makespan sebagai intial state.Setelah digabungkan dengan simulated annealing kombinasi algoritma ini menghasilkan minimum makespan pada 5 kasus, sedangkan untuk kecepatan waktu komputasi hanya terdapat 1 kasus.",
+  "creators": "MILA PRANOTO",
+  "contributors": "Iwan Halim Sahputra, S.T., M.Sc., Ph.D. (Advisor 1); Herri Christian Palit (Advisor 2); Siana Halim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01011318/IND/2008; Mila Pranoto (25404040)",
+  "subjects": "SCHEDULING (MANAGEMENT); PRODUCTION PLANNING"
+}

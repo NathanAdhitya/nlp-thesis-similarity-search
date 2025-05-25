@@ -1,0 +1,14 @@
+{
+  "id": "21608",
+  "title": "Pegasus - robot berkaki 4 pemadam api",
+  "abstract": "Robot sebagai bentuk inovasi pada bidang teknologi industri telah mengalami perkembangan yang pesat demi mendukung kesejahteraan hidup manusia. Adanya Kontes Robot Cerdas Indonesia mendorong pembuatan robot yang mampu mencari api di dalam arena dan memadamkannya. Dengan menggunakan Pegasus, robot berkaki 4 yang memiliki 3 derajat kebebasan pada tiap kakinya dan teori inverse kinematics tercipta sebuah robot yang memiliki mobilitas tinggi. Pegasus dilengkapi dengan 4 sensor jarak ultrasonik, sensor api, dan pompa air sebagai pemadam api sehingga dapat bernavigasi dan memadamkan api pada Kontes Robot Cerdas Indonesia. Hasil pengujian menunjukkan bahwa robot ini memiliki performa yang bagus. Robot dapat bergerak dengan kecepatan rata-rata 5.38 cm/s. Robot dapat berputar 360? dalam waktu 49.93 detik. Robot juga dapat menaiki dan menuruni tangga dalam waktu 50 detik. Robot dapat bernavigasi dari home (start), melewati tangga, memasuki ruangan, menghindari furniture hingga memadamkan api dengan waktu tercepat 2 menit 44.14 detik. Robot dapat kembali ke home dengan waktu tercepat 1 menit 43.11 detik.",
+  "creators": "JIMMY SULISTYA WIJAYA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010879/ELK/2008; Jimmy Sulistya Wijaya (23404018)",
+  "subjects": "MICROCONTROLLERS; ROBOTICS"
+}

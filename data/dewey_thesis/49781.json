@@ -1,0 +1,14 @@
+{
+  "id": "49781",
+  "title": "Alat pembersih gagang pintu otomatis menggunakan sinar UVC",
+  "abstract": "Gagang pintu berpotensi terdapat bakteri E. coli, S. aureus, dan Salmonella sp, bakteri ini tentunya dapat mengganggu kesehatan pengguna. Tugas akhir ini memiliki tujuan untuk membuat alat yang diharapkan dapat mengurangi bakteri tersebut menggunakan sinar ultraviolet secara otomatis. Sistem otomatis ini menggunakan Arduino uno sebagai kontroler utama, powerbank sebagai power supply. Untuk mendeteksi keberadaan orang, digunakan sensor jarak HC-SR04. 2 limit switch digunakan sebagai sensor posisi penutup gagang pintu yang digerakan dengan menggunakan motor DC. Mini h-bridge MX1508m digunakan untuk mengatur arah putaran motor DC. Proses sterilisasi menggunakan LED UVC selama 25 detik dengan dosis 8mj/cm2. Berdasarkan hasil pengujian, sistem alat keseluruhan berjalan dengan baik, mekanisme alat berjalan dengan baik, sensor HC-SR dapat membaca jarak dengan akurat, alat terbukti tidak membahayakan kesehatan pengguna, lama waktu membuka penutup gagang pintu 1.607 detik dan waktu lama menutup penutup gagang pintu 0.662 detik dan alat dapat mengurangi bakteri E. coli, S. aureus, dan Salmonella sp",
+  "creators": "RICHARD KUNTANI",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011022/ELK/2021; Richard Kuntani (C11170032)",
+  "subjects": "AUTOMATIC CONTROL; AUTOMATION; ULTRAVIOLET RADIATION"
+}

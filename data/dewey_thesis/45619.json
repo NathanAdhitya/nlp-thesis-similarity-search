@@ -1,0 +1,14 @@
+{
+  "id": "45619",
+  "title": "Perancangan dashboard SPC Excel sebagai alat analisis kinerja mesin filling pada PT SMART, Tbk.",
+  "abstract": "PT SMART, Tbk. merupakan perusahaan bidang agribisnis yang memproduksi hasil olahan minyak kelapa sawit, produk yang paling dikenal adalah minyak goreng. Produk minyak goreng memiliki spesifikasi kualitas dengan tujuan agar memenuhi kepuasan pelanggan, salah satunya adalah kesesuaian volume aktual dengan volume tertera pada label. Spesifikasi kualitas ini dipengaruhi oleh kinerja dari mesin filling, untuk itu alat yang dapat membantu membuat evaluasi kinerja dari mesin diperlukan. Tujuan dari penelitian ini adalah merancang dashboard yang dapat mengurangi waktu pengolahan data menjadi parameter statistik, serta menguji kelayakan jumlah sampel saat ini. Perancangan dashboard akan menggunakan program Microsoft excel dengan Visual Basic for Application (VBA), parameter statistik akan menggunakan Cp, Cpk, dan Sigma, pengujian jumlah akan menggunakan two-sample T-test. Hasil dari penelitian ini menghasilkan dashboard yang dapat mengurangi waktu pengolahan 230% hingga 763%, sedangkan mayoritas memiliki kinerja yang agak buruk. Hasil pengujian jumlah sampel didapatkan bahwa jumlah sampel 98 setiap jam memiliki hasil yang berbeda dengan jumlah sampel 5 setiap jamnya, sehingga jumlah sampel harus ditambah agar mewakili kondisi aktual.",
+  "creators": "ANCELLOTI ALESSANDRO",
+  "contributors": "Nova Sepadyati, S.T., M.Sc. (Advisor 1); Kriswanto Widiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022233/IND/2019; Ancelloti Alessandro (25415037)",
+  "subjects": "PRODUCTION MANAGEMENT--QUALITY CONTROL; PRODUCTION MANAGEMENT; DASHBOARDS (MANAGEMENT INFORMATION SYSTEMS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "15102",
+  "title": "Sistem monitoring keamanan dengan menggunakan fasilitas web melalui internet",
+  "abstract": "Memasuki era informasi dewasa ini, perkembangan jaringan Internet mengalami kemajuan yang sangat pesat, fasilitas yang ditawarkan juga makin lengkap, salah satu fasilitas yang ditawarkan antara lain fasilitas chat yang berkembang menjadi voice chat, Internetphone maupun fasilitas WWW yang dilengkapi dengan hypermedia canggih dan perkembangan terbaru sudah mengarah kepada penggunaan fasilitas WWW sebagai supervisory control secara remote. Dalam Tugas Akhir ini, penulis membuat prototipe dari Sistem Monitoring Keamanan dengan menggunakan WEB melalui Internet. Prototipe yang penulis buat meliputi pemantauan dan pengontrolan kondisi lampu, AC dan kondisi pintu di ruang server Pusat Komputer UK Petra, selain itu juga dilengkapi dengan fasilitas untuk melakukan reset terhadap modem-modem PetraNet jika mengalami masalah. Prototipe yang penulis buat meliput 3 buah lampu, 2 buah AC, dan sebuah pintu serta 16 buah line modem PetraNet. Dalam implementasinya, diperlukan program Webserver yang berguna untuk menyimpan dokumen-dokumen HTML dan VRML, serta program-program pengendali peralatan I/O. Sebagai Webserver, digunakan produk dari O'Reilly software, sedangkan program-program pengendali I/O dibuat dengan bahasa pemrograman Borland Delphi 2.0 yang dilengkapi dengan komponen CGI Expert sebagai penterjemah dari protokol HTTP ke bahasa pemrograman Delphi. Sedangkan sebagai WebBrowser dapat digunakan Netscape atau Microsoft Internet Explorer ditambah dengan plug-in WorldView 2.0 untuk menampilkan gambar-gambar 3 dimensi. Pengujian akses sistem ini dari jaringan lokal maupun Internet menunjukkan hasil yang memuaskan.",
+  "creators": "BUDIJONO",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/040/339; Budijono (23492030)",
+  "subjects": "INTERNET (COMPUTER NETWORK)-SAFETY MONITORING SYSTEMS"
+}

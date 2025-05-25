@@ -1,0 +1,14 @@
+{
+  "id": "39822",
+  "title": "Optimasi bump fairing terhadap coefficient of drag pada pesawat DLR-F6 dengan metode simulasi dan desain eksperimen",
+  "abstract": "Fairing merupakan komponan pada pesawat terbang yang berfungsi menurunkan nilai coefficient of drag. Fairing bekerja dengan mengurangi coefficient of drag yang diakibatkan oleh tekanan dan menghilangkan pusaran (vortex). Dengan menurunkan coefficient of drag, nilai gaya drag akan turun dan pesawat dapat mengurangi pengunaan bahan bakar saat beroperasi. Sebuah bump fairing FX2 telah dirancang oleh Vassberg untuk pesawat DLR-F6, namun fairing tersebut tidak dioptimasi terhadap nilai coefficient of drag. Penelitian ini bertujuan untuk mengoptimasi bump fairing FX2 rancangan Vassberg terhadap nilai coefficient of drag pesawat DLR-F6. Optimasi dilakukan dengan mengubah besar dimensi chord, span dan thickness dari bump fairing FX2. Metode optimasi yang digunakan adalah metode desain eksperimen dan pengambilan data dilakukan dengan menggunakan simulasi Computational Fluid Dynamic. Hasil penelitian menunjukkan bahwa bump fairing FX2 dapat dioptimasi namun tidak dengan desain eksperimen 2k faktorial. Hal ini disebabkan karena desain eksperimen 2k faktorial bersifat linear. Dari penelitian, ditemukan bahwa fungsi dimensi chord, span dan thickness terhadap coefficient of drag adalah non-linear. Meskipun demikian, hasil dari desain eksperimen 2k faktorial dapat menunjukkan korelasi antar variabel dan variabel yang penting. Penurunan nilai coefficient of drag terbesar yang didapat dari penelitian ini adalah sebesar 8.75 drag count.",
+  "creators": "GABRIEL JEREMY GOTAMA",
+  "contributors": "Fandi Dwiputra Suprianto, S.T., M.Sc. (Advisor 1); Sutrisno S.T.,M.T. (Advisor 2); Ekadewi Anggraini Handoyo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011196/MES/2017; Gabriel Jeremy Gotama (24413007)",
+  "subjects": "SPOILERS (AEROPLANES)-AERODYNAMICS; AERODYNAMICS"
+}

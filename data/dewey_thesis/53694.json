@@ -1,0 +1,14 @@
+{
+  "id": "53694",
+  "title": "Aplikasi self management untuk mencatat jadwal kegiatan dengan speech to text menggunakan Google api berbasis android",
+  "abstract": "Self Management adalah kemampuan seseorang untuk mengendalikan diri terhadap suatu tindakan. Namun masih banyak orang yang meremehkan hal ini khususnya dalam hal mengatur jadwal kegiatan. Orang cenderung hanya mengandalkan ingatan dan asal mengatur jadwal kegiatan. Hal ini membuat orang banyak pikiran dan cenderung melupakan sesuatu. Dengan demikian, aplikasi untuk membuat jadwal dapat menjadi solusi sempurna untuk orang yang sibuk. Penelitian ini bertujuan untuk membuat aplikasi untuk penjadwalan menggunakan speech to text. Aplikasi memiliki fitur kalender, daftar kegiatan, catatan, dan speech to text. Speech to text menggunakan Google Speech API. Fitur kalender terhubung langsung dengan Google Calendar menggunakan Google Calendar API. Fitur lainnya disimpan pada database local berupa SQLite. Aplikasi diuji dengan mengukur kecepatan pembuatan jadwal menggunakan stopwatch. Hasil yang didapatkan, jadwal dapat terbuat selama 10.706 detik menggunakan speech to text. Dengan menggunakan Google Speech API dalam pembuatan jadwal, akurasi yang didapat mencapai 96.64%.",
+  "creators": "KEVIN ANGKA WIJAYA",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022217/INF/2022; Kevin Angka Wijaya (C14180032)",
+  "subjects": "ANDROID (ELECTRONIC RESOURCE)--PROGRAMMING; DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

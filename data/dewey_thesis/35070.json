@@ -1,0 +1,14 @@
+{
+  "id": "35070",
+  "title": "Aplikasi China tourism berbasis android",
+  "abstract": "China merupakan salah satu destinasi wisata luar negeri bagi masyarakat dunia, termasuk bagi masyarakat Indonesia. Sebelum melakukan perjalanan wisata, diperlukan aplikasi yang dapat membantu wisatawan mempersiapkan perjalanannya ke China. Persiapan tersebut misalnya dalam hal mempelajari budaya, objek wisata, dan percakapan sehari-hari. Selain itu, karena karakter dalam Bahasa Mandarin yang unik, mempelajari Bahasa Mandarin perlu untuk dipelajari terlebih dahulu. Dalam skripsi ini dikembangkan aplikasi Android yang menyediakan informasi berkaitan dengan pariwisata China. Aplikasi Android dalam skripsi ini memiliki fitur menampilkan informasi mengenai budaya di China, memberikan daftar percakapan sehari-hari, ulasan objek wisata di China, dan penerjemah Mandarin-Indonesia dengan input berupa gambar. Lokasi objek wisata akan ditunjukkan pada peta, dan tersedia fitur untuk mendapatkan rute dari lokasi user menuju objek wisata tersebut. Fitur penerjemah dapat mengenali karakter Mandarin dari gambar, dan menerjemahkannya ke dalam Bahasa Indonesia. Aplikasi ini dibuat dengan Eclipse IDE dalam bahasa pemrograman Java, dengan memanfaatkan Tesseract OCR sebagai library pengenalan karakter. Hasil pengujian menunjukkan bahwa aplikasi dapat beroperasi di beberapa device Android. Aplikasi dapat menjalankan fitur budaya, percakapan, objek wisata, dan penerjemah. Kinerja Tesseract OCR Engine pada fitur penerjemah menunjukkan bahwa toleransi sudut kemiringan input gambar kurang lebih sebesar 130. Aplikasi ini memperoleh nilai kepuasan dari responden sebesar 71,67%.",
+  "creators": "FENNY VALENTINE BUDIONO",
+  "contributors": "Andreas Handojo (Advisor 1); ANITA NATHANIA (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021430/INF/2015; Fenny Valentine Budiono (26411114)",
+  "subjects": "ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); APPLICATION SOFTWARE-DEVELOPMENT; ANDROID (COMPUTER PROGRAM)"
+}

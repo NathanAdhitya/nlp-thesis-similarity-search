@@ -1,0 +1,14 @@
+{
+  "id": "7870",
+  "title": "Pembuatan perangkat lunak untuk mengubah tabel berupa image menjadi tabel berupa teks",
+  "abstract": "Teknologi Optical Character Recognition (OCR) telah cukup berkembang saat ini. Hal ini sangat memudahkan proses modifikasi pada dokumen yang tidak terdapat softcopy-nya sehingga perlu dibuat ulang dengan menggunakan komputer. Pengembangan character recognition saat ini belum diimbangi dengan pengembangan table recognition dilihat dari belum adanya metode yang baku digunakan untuk mendeteksi suatu tabel pada dokumen. Padahal seringkali dokumen yang ingin dimodifikasi juga memiliki bagian tabel yang tidak cukup dikenali hanya dengan menggunakan OCR. Tujuan dari Tugas Akhir ini ialah membuat perangkat lunak yang dapat mengubah tabel berupa image menjadi tabel berupa teks. Perangkat lunak dibuat dengan aplikasi dasar pengenalan karakter dengan menggunakan metode template matching dan feature extraction. Aplikasi tersebut dikembangkan lebih jauh dengan proses pengenalan tabel yang didasari dengan pengenalan garis-garis yang membentuk sebuah tabel serta mendeteksi struktur dari tabel. Pengujian terhadap program dilakukan dengan melakukan proses pengenalan terhadap dokumen-dokumen yang mengandung tabel dengan berbagai macam bentuk, mulai bentuk tabel yang standar hingga tabel yang memiliki bentuk merge yang tidak beraturan. Dari hasil pengujian didapati tingkat pengenalan terhadap tabel standar cukup akurat sedangkan untuk bentuk-bentuk merge yang sulit, masih terdapat kekurangan. Metode pengenalan karakter juga mempengaruhi hasil pengenalan teks yang berada di dalam tabel.",
+  "creators": "HERU LIMANTORO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Liliana (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010565/INF/2006; Heru Limantoro (26402093)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATA BASE DESIGN"
+}

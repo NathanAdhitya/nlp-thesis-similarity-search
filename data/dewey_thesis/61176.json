@@ -1,0 +1,14 @@
+{
+  "id": "61176",
+  "title": "Simulasi kinerja ekskavator dan dump truck dengan perhitungan idle time dan emisi CO2",
+  "abstract": "Permasalahan umum dalam pekerjaan pemindahan tanah adalah perencanaan alat berat yang kurang tepat, mengakibatkan idle time tinggi dan efisiensi kerja yang rendah. Ekskavator dan dump truck yang digunakan dalam operasi ini menghasilkan emisi CO2, sehingga idle time yang tinggi memperbesar total emisi yang dikeluarkan. Salah satu solusi untuk mengatasi masalah ini adalah dengan melakukan simulasi menggunakan software EZStrobe dan Excel untuk memperhitungkan emisi CO2 dan idle time yang dihasilkan oleh ekskavator dan dump truck. Sebelum pembuatan program simulasi, dilakukan penyusunan model operasi pemindahan tanah berdasarkan studi literatur dan pengumpulan data di lapangan. Pada program, dibuat sebuah database berisi spesifikasi alat berat, informasi tanah, dan waktu siklus untuk menunjang perhitungan. Sebelum memasukkan data-data yang dibutuhkan dalam program simulasi, diperlukan penyusunan delapan skenario kombinasi ekskavator dan dump truck untuk menentukan kombinasi yang paling efisien. Program simulasi dicoba menggunakan data pada proyek pembangunan gerbang utara ITS pada pekerjaan box culvert. Hasil akhir simulasi menunjukkan perbedaan hasil optimal berdasarkan waktu idle dan emisi CO2. Skenario 6 menunjukkan persentase waktu idle yang rendah, yaitu 38,05% untuk ekskavator dan 38,30% untuk dump truck, dengan waktu total operasi 7,36 jam. Skenario 8 menghasilkan emisi CO2 terendah, yaitu 1006,18 kg, meskipun memiliki waktu idle tinggi sebesar 99,03%, dengan 20,02% untuk ekskavator dan 79,01% untuk dump truck. Skenario 6 dinilai paling efisien karena memiliki idle time yang rendah, emisi CO2 yang relatif rendah, serta lebih ekonomis dibandingkan skenario 8 yang memerlukan lebih banyak dump truck.",
+  "creators": "SUGIARTO WILLY DARMAWAN; KENNY JONATHAN SUTOMO",
+  "contributors": "Ratna S. Alifen (Advisor 1); Joko Purnomo S.T., M.Sc. (Examination Committee 1); SUPARTO LIAUWNOTO, ST.,M.T. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012762/SIP/2024; Sugiarto Willy Darmawan (B11200001), Kenny Jonathan Sutomo (B11200003)",
+  "subjects": "DUMP TRUCKS; ESCALATORS; POLLUTION CONTROL INDUSTRY"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "11479",
+  "title": "Kontrol posisi pneumatik dengan menggunakan mikrokontroler atmel 89s51",
+  "abstract": "Gerakan pada aktuator pneumatik pada umumnya hanya dapat berhenti pada kedua ujung terminalnya. Dengan tujuan melebarkan aplikasi dari sistem pneumatik maka pada penelitian ini dikembangkan sistem kontrol yang memampukan sebuah aktuator pneumatik untuk dapat berhenti pada setiap posisi sepanjang langkahnya Rotary encoder digunakan sebagai sensor untuk dapat membaca posisi dari pneumatik. Katup solenoid on-off center close 5/3 digunakan sebagai aktuator silinder pneumatik. Sedangkan algoritma kontrol yang digunakan adalah Kontrol ON / OFF. Hasil dari pengujian menunjukkan bahwa dengan tekanan yang semakin besar maka kontrol posisi untuk nilai histerisis yang kecil sulit dilakukan, akan tetapi bila nilai dari histerisis besar maka kontrol posisi dapat dilakukan. Nilai histerisis yang terbaik untuk pengujian tanpa beban adalah nilai 2 dan 4. Nilai histerisis yang terbaik untuk pengujian dengan beban 1 Kg adalah nilai 4 dan 6. Nilai histerisis yang terbaik untuk pengujian dengan beban 2 Kg adalah nilai 2 dan 4. Nilai histerisis yang terbaik untuk pengujian dengan beban 3 Kg adalah nilai 2.",
+  "creators": "ANDAR ARDI SEMBIRING",
+  "contributors": "Thiang (Advisor 1); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010893/ELK/2009; Andar Ardi Sembiring (23402078)",
+  "subjects": "AUTOMATIC CONTROL; AUTOMATIC CONTROL-COMPUTER PROGRAMS; PNEUMATIC CONTROL; ATMEL89S51 (MICROCONTROLLER)"
+}

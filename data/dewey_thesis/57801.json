@@ -1,0 +1,14 @@
+{
+  "id": "57801",
+  "title": "Rancangan penjadwalan truk dan penentuan jumlah truk vendor dengan mempertimbangkan earliest due date",
+  "abstract": "PT. X adalah perusahaan yang bergerak di industri logistik yang menyediakan segala kebutuhan logistik bagi para kliennya, termasuk transportasi darat. Perusahaan ini telah menerima banyak keluhan terkait keterlambatan pengiriman dengan persentase sebesar 22%. Hal ini disebabkan oleh metode penjadwalan yang buruk dan ketidakmampuan perusahaan dalam mengelola hubungan dengan vendor truk mereka dengan baik. Oleh karena itu, diperlukan penerapan model penjadwalan yang baru. Sebuah program akan dibuat untuk mengotomatisasi proses penjadwalan dengan menggunakan metode EDD. Dibandingkan dengan model penjadwalan yang ada, program penjadwalan ini dapat meningkatkan ritase truk sebesar 15% dengan meningkatkan penggunaan truk LT sebesar 14% dan menurunkan penggunaan truk vendor sebesar 29%. Jumlah truk vendor optimal yang didapat pada penelitian ini adalah 19 unit. Program ini juga akan digunakan untuk menghitung jumlah unit yang paling optimal dari Departemen LT untuk setiap Departemen IFF dan DFF . Penelitian ini juga akan merancang sistem untuk menilai vendor menggunakan metode MCDM dengan metode AHP, sehingga perusahaan dapat memperoleh kepercayaan dari vendor lain dengan membuat kontrak jangka panjang dengan beberapa vendor yang sesuai dengan preferensi perusahaan yang mendapatkan ranking tinggi . Kriteria yang digunakan untuk evaluasi vendor adalah produk, customer base, ketersediaan, safety standard, finansial, dan driver.",
+  "creators": "KENNY CHANNIAGO",
+  "contributors": "Tanti Octavia (Advisor 1); Kriswanto Widiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022608/IDN/2023; Kenny Channiago (C13190019)",
+  "subjects": "SCHEDULING; TIME MANAGEMENT; VEHICLE ROUTING PROBLEM"
+}

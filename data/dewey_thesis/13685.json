@@ -1,0 +1,14 @@
+{
+  "id": "13685",
+  "title": "Studi perancangan arsitektur metode optimasi genetic algorithms berbasis kompiler HDL foundation versi 2.1",
+  "abstract": "Genetic Algorithm (GA) adalah metode optimasi yang saat ini sedang banyak dibicarakan kemungkinannya untuk dipakai memecahkan problem optimasi di berbagai bidang. Problem kombinasional yang akan diaplikasikan dalam Tugas Akhir ini adalah Traveling Salesman Problem (TSP). Karena algoritma optimasinya yang tidak mengikutsertakan bilangan real, maka TSP dipilih sebagai problem yang akan dioptimasikan dengan GA dalam bahasa pemrograman VHDL. Program GA yang dibuat dapat memberikan output rute perjalanan terpendek melewati sejumlah titik. Untuk penjajakan, jumlah titiknya ditentukan sebanyak empat titik. Sebagai kompilernya digunakan HDL Foundation versi 2.1, karena kemampuannya untuk men-simulasikan respon program yang dibuat. Prosedur-prosedur langkah kerja GA yang dipilih disesuaikan dengan keterbatasan bahasa pemrograman VHDL, sehingga ditentukan permutation representation sebagai teknik representasi, order crossover sebagai prosedur crossover, dan reciprocal exchange mutation sebagai prosedur mutasinya. Kemudian dilakukan serangkaian studi untuk merealisasikan programnya, dan dikompile dengan HDL Foundation 2.1. Setelah tahap kompilasi dilakukan, dilanjutkan ke tahap sintesa agar respon programnya dapat dilihat dalam simulasi. Pada simulasi, dapat dilihat timing diagram dari signal-signal input dan output untuk tiap-tiap bit. Akhirnya diperoleh hasil simulasi yang sesuai dengan yang diharapkan, sehingga arsitektur GA yang dibuat siap untuk diimplementasikan ke dalam chip yang telah ditentukan.",
+  "creators": "ROMI SURJADI",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/074/511; Romi Surjadi (23495017)",
+  "subjects": "GENETIC ALGORITHMS; PROGRAMMING (COMPUTER ELECTRONICS)"
+}

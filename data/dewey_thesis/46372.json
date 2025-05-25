@@ -1,0 +1,14 @@
+{
+  "id": "46372",
+  "title": "Algoritma branch and bound untuk driver assignment pada aplikasi simulasi taksi online",
+  "abstract": "Taksi online adalah salah satu perkembangan dalam teknologi yang saat ini tengah marak digunakan oleh masyarakat luas. Taksi online juga memberikan dampak yang positif seperti, driver dan passenger dapat saling mengetahui lokasi masing-masing dengan akurat, passenger dapat melihat driver dan informasi kendaraan secara akurat, dan passenger dapat dengan mudah mencari transportasi untuk bepergian ke tempat lain. Namun, dalam kenyataannya permintaan dari passenger muncul secara random pada lokasi yang berbeda-beda, sehingga diperlukan aplikasi yang dapat mengoptimalkan assignment antara driver dan passenger. Aplikasi dibuat dengan bahasa pemrograman python, html, dan javascript , dengan django sebagai framework, bootstrap 3 untuk front end menu, google maps API untuk mendapatkan waktu dan jarak tempuh, serta sebagai front end pada bagian peta online, dan mySQL sebagai database yang digunakan. Hasil akhir dari aplikasi ini adalah sebuah assignment untuk driver dan passenger menggunakan algoritma branch and bound berbasis web yang dapat meminimalkan biaya penjemputan dan waktu tunggu dengan memperhitungkan total kombinasi jarak tempuh, waktu tempuh, dan jumlah trip driver pada taksi online.",
+  "creators": "ARLYNSTON LIADI",
+  "contributors": "Andreas Handojo (Advisor 1); Tanti Octavia (Advisor 2); Alexander Setiawan (Examination Committee 1); I Gede Agus Widyadana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021919/INF/2020; Arlynston Liadi (26416100)",
+  "subjects": "PROGRAMMING LANGUAGES (ELECTRONIC COMPUTERS); APPLICATION SOFTWARE--DEVELOPMENT; ONLINE DATA PROCESSING"
+}

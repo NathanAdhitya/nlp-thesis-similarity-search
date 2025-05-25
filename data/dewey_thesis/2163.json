@@ -1,0 +1,14 @@
+{
+  "id": "2163",
+  "title": "Optimasi pemilihan lahan pertanian pada kabupaten Bondowoso yang bertujuan untuk meningkatkan laba menggunakan linear programming",
+  "abstract": "Seiring dengan pertumbuhan penduduk yang pesat, kebutuhan makanan juga meningkat. Sehingga untuk mencukupi kebutuhan tersebut, produksi / hasil panennya. Salah satu usaha untuk meningkatkan produksi bahan makanan tersebut yaitu dengan cara mengoptimalkan hasil panen. Maka peningkatan hasil panen tersebut akan secara otomatis juga dapat meningkatkan laba. Dalam tugas akhir ini, penulis membuat sebuat software sistem optimasi yang berfungsi sebagai pengolah data yang berasal dari sumber daya alam yang berjumlah terbatas. Hasil dari proses ini adalah laba optimal serta alokasi lahan pertanian dan tanaman. Software ini dibuat dan disesuaikan dengan wilayah kabupaten Bondowoso. Software ini menggunakan pemrograman linier dengan metode simplex. Software dibangun pada personal computer dengan menggunakan Borland Delphi 7.0. sebagai interface, yang dihubungkan dengan Microsoft Access 2000 sebagai database. Selain itu software juga menggunakan Macromedia Dreamweaver MX sebagai applikasi pendukung dalam pembuatan peta. Pengujian software dilakukan dengan menginputkan data riil. Penulis mendapatkan data riil tersebut dari Dinas Pertanahan, Pemerintah Kabupaten Bondowoso, serta dari berbagai sumber akurat lain. Hasil pengujian software menunjukkan bahwa sistem ini dapat memberikan petunjuk-petunjuk yang sangat berguna bagi pengguna. Petunjuk-petunjuk tersebut diantaranya adalah alokasi lahan pertanian dan laba optimal, kecocokan lahan dan kondisi lahan, teknik penanaman, pemberian pupuk, dan pemberian pestisida. Tujuan petunjuk tersebut adalah mengarahkan pengguna untuk selalu melakukan penanaman secara benar.",
+  "creators": "SONGKY HARTANTO",
+  "contributors": "Kartika Gunadi (Advisor 1); Leo Willyanto Santoso (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000312//INF/2005; Songky Hartanto (26401175)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "52605",
+  "title": "Pengembangan elemen balok lengkung timoshenko konvensional dan berbasis kriging bebas locking dengan metode discrete strain gap",
+  "abstract": "Fenomena numerik yang terjadi pada elemen balok yang berbentuk kurva adalah shear locking dan membrane locking. Salah satu metode untuk mengatasi fenomena tersebut adalah discrete strain gap (DSG), yaitu metode dengan cara memodifikasi perumusan regangan membran dan geser pada metode elemen hingga (MEH) menjadi regangan yang diperoleh dari penurunan fungsi interpolasi DSG. Salah satu dari pengembangan MEH adalah metode elemen hingga berbasis Kriging (MEH-K). Dengan menggunakan MEH-K, shape function yang dihasilkan dapat lebih akurat dan lebih halus karena juga menggunakan titik-titik nodal di sekitar elemen. MEH-K mempunyai prosedur perhitungan yang sangat mirip dengan MEH konvensional sehingga program MEH bisa dengan mudah dimodifikasi untuk mengaplikasikan MEH-K. Dalam makalah ini, dipaparkan perumusan dan pengujian MEH konvensional serta MEH-K untuk balok lengkung Timoshenko dengan menggunakan metode DSG untuk mengeliminasti locking. Dua macam perumusan regangan yang umum digunakan pada balok lengkung juga dibandingkan, yaitu regangan konvensional dan regangan berdasarkan Days & Pott. Berbagai benchmark problem digunakan untuk menguji keakuratan perumusan tersebut. Hasil pengujian menunjukkan penggunaan metode DSG berhasil mengeliminasi locking baik pada MEH konvensional maupun MEH-K. Pengujian pada balok dengan ketebalan serta jari-jari bervariasi juga memperoleh hasil yang cukup akurat. Regangan Days & Pott memperoleh hasil yang lebih akurat dibandingkan regangan konvensional.",
+  "creators": "JUNIUS GUNAWAN",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Januar Budiman (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000262/MTS/2018; Junius Gunawan (B21170006)",
+  "subjects": "GIRDERS"
+}

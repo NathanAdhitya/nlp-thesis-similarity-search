@@ -1,0 +1,14 @@
+{
+  "id": "15358",
+  "title": "Pengembangan kontrol mesin cetak warna emas berbasis 68HC11",
+  "abstract": "Di dalam industri percetakan, khususnya untuk mencetak dengan warna emas, maka kualitas hasil cetak yang baik sulit dicapai dan dipertahankan secara tetap terus menerus bila dilakukan secara manual. Untuk itu dibutuhkan suatu mesin pencetak warna emas yang dapat mencetak secara otomatis dan kontinyu sehingga dihasilkan cetakan berkualitas tinggi. Pengembangan kontrol pada mesin cetak warna emas (mesin hot-print) dengan menggunakan mikrokontroller 68HC11 ini bertujuan untuk meningkatkan kecepatan, ketepatan dan kualitas hasil cetak. Pada mesin hot-print ini dibutuhkan suatu pemanas yang berfungsi untuk memindahkan bahan cetak yaitu gold-foil ke benda kerja. Suhu pada pemanas hams konstan, maka digunakan sensor suhu yaitu IC LM35 sebagai monitor panas. Hasil pembacaan sensor akan dibaca oleh rangkaian Analog to Digital Converter 0804. Kemudia data yang dibaca oleh ADC 0804 akan ditampilkan pada display berupa 7-segment. Jumlah pencetakan dibatasi maksimal sebanyak 100 kali pencetakan. Parameter-parameter yang berhubungan dengan pencetakan dimasukkan dari komputer IBM PC. Interfacing antara IBM PC dengan minimum sistem transfer data paralel dengan menggunakan PPI 8255 card. Setelah parameter-parameter tersebut dipilih maka akan dijadikan sebagai suatu setting point untuk menjalankan mesin cetak. Hasil yang dicapai dari pengembangan alat ini adalah pencetakan dapat dilakukan secara kontinyu dan kualitas hasil cetakan kurang sempurna.",
+  "creators": "KIRONO NYORIANTO",
+  "contributors": "SOETIKNO (Advisor 1); HERLIANTO TENGGARA (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/029/374; Kirono Nyorianto (23491089)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

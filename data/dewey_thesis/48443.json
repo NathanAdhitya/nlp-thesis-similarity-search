@@ -1,0 +1,14 @@
+{
+  "id": "48443",
+  "title": "Evaluasi kinerja penggabungan Knowledge graph embedded-based question answering dan transP pada data freebase",
+  "abstract": "Dalam beberapa tahun ini, penggunaan graph sebagai bentuk penyimpanan dan analisa data semakin meningkat. Salah satu penerapan data dalam bentuk graph adalah knowledge graph yang merupakan Knowledge base dengan bentuk graph. Telah banyak penelitian yang dilakukan untuk perolehan informasi pada knowledge graph, salah satunya adalah natural language question answering. Namun, penelitian-penelitian tersebut menggunakan query langsung untuk mencari jawabannya. Knowledge Graph Embedding-based Question Answering (KEQA) merupakan penelitian terbaru yang memanfaatkan deep learning (Long Short-Term Memory / LSTM) dan menggunakan hasil dari proses knowledge graph embedding untuk mencari jawaban pertanyaan. KEQA terbukti mampu mengungguli metode-metode sebelumnya, namun KEQA hanya menggunakan metode embedding yang simpel. Knowledge graph embedding merupakan salah satu metode dalam merepresentasikan sebuah knowledge graph, di mana tiap entity dan relation dalam knowledge graph direpresentasikan dalam bentuk vektor (embedding) dengan menggunakan deep learning. Efektivitas dan kualitas dari embedding bergantung dari bagaimana model yang digunakan dapat merepresentasikan keseluruhan dari knowledge graph. Banyak penelitian yang telah dilakukan sebelumnya, namun penelitian-penelitian tersebut tidak cukup menggali kedalaman dari knowledge graph. TransP merupakan penelitian yang memanfaatkan hubungan tidak langsung untuk merepresentasikan knowledge graph. TransP terbukti mengungguli model-model embedding lainnya. Dari ini, KEQA akan dibangun menggunakan TransP dengan harapan akurasi KEQA akan meningkat. Berdasarkan hasil penelitian, TransP mendapat nilai Mean Rank sebesar 5.390,25 dan nilai HIT10 sebesar 28,5%. Kemudian, nilai akurasi maksimum yang dapat diperoleh oleh KEQA adalah 88,89% dengan embedding dan 88,15% tanpa embedding. Dari hasil penelitian juga ditemukan bahwa nilai parameter untuk scoring lebih berpengaruh pada KEQA dengan embedding. Dengan ini, disimpulkan bahwa TransP dapat meningkatkan akurasi KEQA.",
+  "creators": "FRANSISCO REMON LIEMENA",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Leo Willyanto Santoso (Examination Committee 1); Rolly Intan (Examination Committee 2); Alvin Nathaniel Tjondrowiguno (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022007/INF/2020; Fransisco Remon Liemena (26416130)",
+  "subjects": "GRAPH (COMPUTER PROGRAM); GRAPH DATABASES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "13182",
+  "title": "Perancangan dan pembuatan aplikasi automatic keyphrase extraction dokumen berbahasa Indonesia",
+  "abstract": "Proses pemberian daftar keyphrase pada dokumen secara manual membutuhkan suatu usaha yang cukup melelahkan, padahal terdapat banyak dokumen yang tidak memiliki keyphrase yang disertakan dalam dokumen tersebut. Oleh karena itu dibutuhkan suatu proses yang mampu mengekstraksi keyphrase secara langsung dari sebuah input dokumen. Salah satu perkembangan dalam teknologi informasi yang ada yaitu teknik Automatic Keyphrase Extraction. Automatic Keyphrase Extraction adalah sebuah teknologi yang berfungsi dalam proses menghasilkan daftar keyphrase dengan menggunakan komputer. Hasil daftar keyphrase diharapkan dapat mewakili poin-poin penting dari isi dokumen. Algoritma utama dalam pengembangan Keyphrase Extraction menggunakan algoritma GenEx yang disesuaikan untuk ekstraksi keyphrase dari dokumen berbahasa Indonesia. Aplikasi Automatic Keyphrase Extraction dibuat menggunakan Microsoft Visual Basic 6.0. Hasil pengujian menunjukkan bahwa semakin banyak jumlah dokumen yang diproses maka nilai fitness yang dihasilkan menjadi semakin bervariasi. Selain itu dalam proses ekstraksi, beberapa pengecekan tambahan menyebabkan hasil output keyphrase relatif lebih baik, tidak ada pengecekan kata atau frase bahasa Inggris dalam input teks maka output keyphrase dapat menjadi sedikit ambigu, dan parameter hasil learning process memiliki nilai precision yang lebih baik, tetapi nilai precision tidak dapat lebih dari 0,5 dikarenakan perbandingan salah satu nilai parameter dengan nilai rata-rata jumlah author keyphrase.",
+  "creators": "RISKY YUNIARTO SUSILO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Agustinus Noertjahyana (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020795/INF/2009; Risky Yuniarto Susilo (26405122)",
+  "subjects": "GENETIC ALGORITHMS; DATA MINING; NATURAL LANGUAGE PROCESSING (COMPUTER SCIENCE)"
+}

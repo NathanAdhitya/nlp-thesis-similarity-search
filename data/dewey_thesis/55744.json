@@ -1,0 +1,14 @@
+{
+  "id": "55744",
+  "title": "Penerapan interaksi tanah dan struktur dengan menggunakan nonlinear soil spring pada bangunan dengan basement",
+  "abstract": "Suatu struktur bangunan pasti terdampak oleh tanah dimana bangunan tersebut berdiri. Dampak ini akan lebih signifikan apabila bangunan tersebut memiliki basement. Hubungan ini dikenal sebagai interaksi struktur dan tanah (soil structure interaction). Dalam melakukan desain struktur, efek perilaku tanah terhadap struktur terkadang bisa memberi pengaruh yang cukup signifikan, terutama untuk beban gempa. Pada penelitian ini, dilakukan analisis soil structure interaction pada bangunan beton bertulang dengan sepuluh lantai dan tiga basement. Perilaku tanah diaplikasikan menggunakan nonlinear normal dan frictional soil springs yang diperoleh dengan bantuan finite element computer program Plaxis dengan nonlinear hysteresis soil model. Struktur di analisis dilakukan dengan metode dynamic time response analysis menggunakan lima rekam gempa. Struktur yang dianalisis dengan meninjau soil structure interaction dibandingkan dengan struktur tidak meninjau soil structure interaction. Hasil yang ditemukan yaitu: tiga gempa yang dipilih menghasilkan base shear dan inter-story drift yang lebih kecil bila soil structure interaction ditinjau; sedangkan untuk dua gempa lainnya hasil base shear dan inter-story drift lebih besar ketika meninjau soil-structure interaction. Hasil menunjukkan bahwa efek dari soil structure interaction pada performa relatif bangunan tidak terlalu signifikan. Hal ini mungkin disebabkan karena ground motion pada gempa desain yang digunakan relatif kecil (nilai faktor modifikasi respon, R = 8) serta basement cukup kaku dan terletak di tanah yang cukup baik. Dengan demikian rotasi dan racking dari basement menjadi kecil, sehingga soil structure interaction pada basement dan tanah di sekitarnya kurang signifikan.",
+  "creators": "ANASTASIA JESICA",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Dr. Ir. Dario Rosidi, M.Sc. (Advisor 2); Benjamin Lumantarna (Examination Committee 1); Gogot Setyo Budi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000332/MTS/2023; Anastasia Jesica (B21220002)",
+  "subjects": "BASEMENTS; SOIL STRUCTURE; SOIL-STRUCTURE INTERACTION"
+}

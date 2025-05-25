@@ -1,0 +1,14 @@
+{
+  "id": "46265",
+  "title": "Sistem penghitung jumlah pengguna pada ruang kerja menggunakan Background Subtraction",
+  "abstract": "Pusat komputer di Universitas Kristen Petra belum bisa mengukur utilisasi dari ruang laptop, sehingga tidak dapat mengetahui jumlah penguna yang sedang memakai fasilitas ruang laptop. Meskipun sudah adanya sistem registrasi dalam menggunakan fasilitas tersebut, jumlah daftar registrasi mahasiswa dengan jumlah penguna yang memakai ruang laptop tersebut tidak sesuai karena ada mahasiswa yang tidak melakukan registrasi terlebih dahulu. Penelitian lain sudah pernah melakukan perhitungan orang menggunakan face detection dan tracking dengan menggabungkan metode kalman filter dan algoritma pelacakkan berbasis kernel. Untuk itulah dirancang sistem penghitung jumlah pengguna menggunakan background subtraction dengan metode MOG2 dan GMG supaya dapat membantu mengetahui jumlah orang yang menggunakan fasilitas ruang laptop. Pada penelitian ini akan membuat program penghitung jumlah pengguna dengan melakukan pendeteksian orang, serta membuat program website untuk menampilkan data jumlah pengguna. Sistem ini dibuat dengan menggunakan bahasa C++, serta dibuat website menggunakan bahasa PHP dan database MySQL Hasil dari penelitian ini menunjukkan bahwa faktor pencahayaan dan resolusi frame sangat berpengaruh terhadap keakurasian pendeteksi pengguna. Pengaruhnya pencahayaan pendeteksian dilihat dari hasil confusion matrix yang menunjukkan bahwa yang terdeteksi kebanyakan melebihi dari jumlah pengguna yang berada ruangan. Sedangkan pengaruhnya resolusi terhadap pendeteksian dilihat dari hasil F1 score pada salah satu video pencahayaan yang menunjukkan dengan menggunakan resolusi 1280x720 hasil metode MOG2 mencapai 68% dan metode GMG mencapai 40%. Setelah melakukan pengecilan frame ke 640x360, nilai rata-rata dari MOG2 mencapai 86% dan metode GMG mencapai 67%.",
+  "creators": "NICO KURNIAWAN",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021954/INF/2020; Nico Kurniawan (26415136)",
+  "subjects": "IMAGE PROCESSING--DIGITAL TECHNIQUES--COMPUTER PROGRAMS"
+}

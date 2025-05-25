@@ -1,0 +1,14 @@
+{
+  "id": "5535",
+  "title": "Studi literatur mengenai arima (p,d.q) (P,D,Q)s dan unit root test",
+  "abstract": "Pada kenyataannya, data time series lebih sering ditemui dalam bentuk non-stasioner atau seasonal non-stasioner dibandingkan stasioner. Maka, uji hipotesis diperlukan untuk menguji properti time series. Ada beragam uji yang tersedia pada literatur; namun untuk tugas akhir ini digunakan uji unit root Dickey Fuller, Augmented Dickey Fuller dan Seasonal Dickey Fuller. Berikutnya, program peramalan tersebut dirancang dengan menggunakan R 2.3.0. Program ini mampu mengelola data dan memberikan informasi mengenai model time series yang terbaik dengan melihat nilai AIC (Akaike Information Criterion) yang minimum. Analisa data terdiri dari transformasi Box-Cox, uji unit root, menghilangkan komponen unit root dan seasonal, menemukan model time series yang terbaik untuk data, estimasi parameter, pengujian diagnostik model dan meramalkan nilai time series di masa yang akan datang.",
+  "creators": "MELISSA; CYN THIA",
+  "contributors": "Siana Halim (Advisor 1); Indriati Njoto Bisono (Advisor 2); Jani Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011165/IND/2007; Melissa (25403020), Cyn Thia (25403098)",
+  "subjects": "FORECASTING-MATHEMATICAL MODELS; TIME-SERIES ANALYSIS"
+}

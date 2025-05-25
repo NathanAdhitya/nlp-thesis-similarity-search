@@ -1,0 +1,14 @@
+{
+  "id": "24407",
+  "title": "Perencanaan dan pembuatan model otomasi sistem parkir dengan pembaca barcode berbasis mikrokontroler 80C31",
+  "abstract": "Umumnya dalam sistem perparkiran semua dilakukan oleh manusia, hal ini masih memungkinkan untuk suatu tempat parkir yang kecil. Tetapi akan menyulitkan untuk suatu tempat parkir yang besar . Pada tugas akhir ini dibuat model suatu alat pencatat parkir yang mencatat jam masuk dan keluar dan hanya orang-orang tertentu yang bisa parkir dengan menggunakan sebuah pembaca barcode dengan system coding 3 of 9. pada alat ini juga dilengkapi dengan motor untuk menggerakan pintu masuk dan keluar sehingga dalam hal ini menghemat tenaga kerja. Digunakan mikrokontroler 80C31 karena mempunyai fasilitas I/O port yang bisa diakses secara bit,internal memory dan jalur komunikasi serial, dimana jalur serial ini digunakan untuk menerima dan mengirim data para langganan yang boleh parkir dan lamanya seseorang itu parkir dalam suatu hari kemudian menyimpan data tersebut pada diskette atau harddisk. Pada pengujian alat pembaca barcode dilakukan dengan memakai Osciloscope untuk mengetahui bentuk gelombang yang diterima port 80C31, pada saat pembaca mengenai garis hitam akan terjadi level high sesuai dengan ketebalan dari garis tersebut sedang pada saat membaca garis putih akan terjadi level rendah dengan waktu yang sama dengan ketebalan garis putih yang ada. Komunikasi dengan komputer dilakukan secara serial karena dengan komunikasi serial jarak komunikasi dapat lebih jauh serta penggunaan port komunikasi serial RS- 232 yang umumnya sudah dimiliki oleh IBM PC-XT/AT.",
+  "creators": "ANDOJO",
+  "contributors": "Resmana Lim (Advisor 1); ISKANDAR ZULKARNAIN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/031/0234; Andojo (23487075)",
+  "subjects": "AUTOMATIC CONTROL"
+}

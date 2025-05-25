@@ -1,0 +1,14 @@
+{
+  "id": "17080",
+  "title": "Pembuatan aplikasi untuk menunjang analisa track record penyakit di RSU Dr. Soetomo dengan menggunakan metode hybrid dimension association rules",
+  "abstract": "RSU Dr. Soetomo telah memiliki Sistem Informasi Rumah Sakit yang terkomputerisasi dalam setiap penyimpanan data rekapitulasi penyakit pasien. Dengan meningkatnya jumlah data rekapitulasi penyakit pasien, RSU Dr. Soetomo memerlukan suatu aplikasi yang dapat memberikan informasi bagi pengambil keputusan. Salah satu aplikasi yang dapat membantu dalam pengambilan keputusan adalah data mining. Data mining dengan metode hybrid-dimension association rules dimana metode tersebut menganalisa hubungan antara penyakit dengan identitas pasien. Hybrid dimention association rules merupakan multidimentional asssociation rules yang memungkinkan terjadinya pengulangan predikat pada setiap rules. Metode ini sangat sesuai untuk menggambarkan rule antara hubungan penyakit pasien dengan identitas pasien. Software yang dibuat menggunakan algoritma apriori. Data yang sudah dipersiapkan diolah sesuai dengan algoritma untuk menghasilkan frequent itemsets sehingga menghasilkan hybrid-dimension association rules dan ditampilkan dalm bentuk tabel rules dan grafik. Aplikasi menggunakan software Java Net Beans 6.5 dan Oracle 10g dalam pembuatan aplikasi. Dengan menggunakan output dari aplikasi ini yaitu berupa association rules dan grafik, pengambil keputusan dapat mengetahui hubungan penyakit pasien dengan identitas pasien seperti jenis kelamin, status, tempat tinggal, pendidikan dan pekerjaan dengan penyakit lain pada pasien.",
+  "creators": "NI WAYAN YESSY D",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Silvia Rostianingsih (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020917/INF/2010; Ni Wayan Yessy Dwijayanti (26406190)",
+  "subjects": "DATA MINING; DATABASE SEARCHING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "48331",
+  "title": "Perbandingan performa tools Web scraping pada Website dengan data statis dan dinamis",
+  "abstract": "Dalam melakukan scraping suatu website, hal yang menjadi perhatian utama adalah tipe dari website tersebut apakah termasuk website statis atau dinamis, dan juga struktur data dari website tersebut. Dengan karakteristik website yang berbeda-beda dan tools web scraping yang beragam, akan membuat pengguna cukup kesulitan dalam memilih tools yang sesuai dengan kebutuhan. Penelitian ini bertujuan untuk membandingkan tools web scraping dalam scraping data dari karakteristik website yang berbeda, dan untuk memberikan rekomendasi tools web scraping untuk penelitian ke depannya dengan mengetahui tools yang tepat dalam menangani tiap karakteristik website. Berdasarkan hasil pengujian yang sudah dilakukan, dapat disimpulkan, penggunaan metode scraping melalui JSON API sangat efisien dalam segi waktu. Contoh pada situs Tokopedia dengan mengambil 120 data, scraping menggunakan tool cURL melalui API membutuhkan waktu rata-rata 34 detik, sedangkan scraping melalui DOM membutuhkan waktu rata-rata 38 menit 20 detik.",
+  "creators": "MICHAEL LEVI",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Silvia Rostianingsih (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022005/INF/2020; Michael Levi (26416139)",
+  "subjects": "WEB SITE DEVELOPMENT; DATA MINING"
+}

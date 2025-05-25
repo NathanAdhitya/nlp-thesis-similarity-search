@@ -1,0 +1,14 @@
+{
+  "id": "60694",
+  "title": "Optimalisasi parameter ecu juken pada kendaraan motor honda vario 125cc dengan metode genetic algorithm dan particle swarm optimization",
+  "abstract": "Penelitian ini bertujuan untuk mengevaluasi penggunaan jaringan saraf tiruan (neural network) dalam memodelkan respons mesin terhadap perubahan parameter ECU Juken pada motor Honda Vario 125cc serta menganalisis dan membandingkan hasil dari pendekatan kombinasi neural network dengan Genetic Algorithm (GA) dan Particle Swarm Optimization (PSO) untuk optimasi parameter ECU. Metode eksperimental digunakan untuk menguji performa motor setelah optimasi parameter ECU menggunakan ANN, GA, dan PSO. Hasil menunjukkan bahwa PSO memberikan performa yang lebih baik dibandingkan GA, dengan nilai Mean Squared Error (MSE) sebesar 0.00028796 pada daya dan 0.0595 pada torsi, menunjukkan keakuratan yang tinggi. PSO menghasilkan peningkatan daya sebesar 9.47% dan torsi sebesar 6.41% dari default juken. Pengaturan optimal yang disarankan adalah -1 derajat pada Ignition Timing, +0.1 ms pada Ignition Dwell, dan +1 derajat pada Injector Timing dari kondisi default Juken untuk Honda Vario 125cc. Penelitian ini membuktikan bahwa parameter-parameter ECU Juken dapat dioptimalkan menggunakan Neural Network dengan metode GA dan PSO untuk meningkatkan performa mesin.",
+  "creators": "JUAN ALBERT WIDJAJA",
+  "contributors": "Sutrisno S.T.,M.T. (Advisor 1); Ivan Christian Hernando, S.T., M.T. (Advisor 2); Ian Hardianto Siahaan (Examination Committee 1); Ekadewi Anggraini Handoyo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011526/MES/2024; Juan Albert Widjaja (C12200009)",
+  "subjects": "AUTOMOBILES--MOTORS--COMPUTER CONTROL SYSTEMS; AUTOMOBILES--MOTORS--FUEL INJECTION SYSTEMS; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

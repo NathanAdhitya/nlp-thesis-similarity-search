@@ -1,0 +1,14 @@
+{
+  "id": "8033",
+  "title": "Perencanaan dan pembuatan aplikasi membuat bayangan pada obyek 3D dengan algoritma shadow mapping",
+  "abstract": "Pada saat ini, perkembangan dari dunia grafik sangatlah pesat. Semakin banyak hasil aplikasi grafik yang dapat dilihat oleh masyarakat luas. Perangkat lunak yang dibuat dalam tugas akhir ini merupakan salah satu bagian dari aplikasi komputer grafika yang memodelkan bagaimana sebuah obyek tiga dimensi yang terkena sinar cahaya dan menghasilkan bayangan. Perangkat lunak ini menggunakan algoritma shadow mapping. Shadow mapping ini merupakan salah satu metode untuk membuat bayangan dari obyek tiga dimensi secara real time dengan memperhatikan posisi dari kamera user dan sumber cahaya. Perangkat lunak ini dibuat dengan menggunakan prinsip pemrograman berorientasi obyek (OOP) dengan menggunakan bahasa pemrograman C++, kompiler Microsoft Visual C++ 2005. Perangkat lunak ini diujikan dengan beberapa model input obyek tiga dimensi dengan posisi sumber cahaya dan kamera yang berbeda dan perbandingan dengan program yang lain. Dengan perbandingan ini, memperlihatkan bahwa perangkat lunak ini sudah mampu menghasilkan bayangan. Hasil akhir dari metode shadow mapping ini adalah berupa obyek tiga dimensi beserta dengan bayangannya yang ditampilkan dari posisi sudut pandang kamera user.",
+  "creators": "TIMOTIUS ILHAM WAHYUDI",
+  "contributors": "Kartika Gunadi (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010670/INF/2007; Timotius Ilham Wahyudi (26403037)",
+  "subjects": "COMPUTER GRAPHICS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

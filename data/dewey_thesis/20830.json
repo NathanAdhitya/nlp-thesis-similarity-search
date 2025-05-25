@@ -1,0 +1,14 @@
+{
+  "id": "20830",
+  "title": "Perancangan sistem informasi dan perencanaan produksi di PT. Salim Brothers Perkasa",
+  "abstract": "PT. Salim Brothers Perkasa merupakan perusahaan yang bergerak dalam bidang produksi sepatu. Perencanaan sistem persediaan bahan baku sangat penting dalam produksi ini, karena produk sepatu terdiri dari berbagai jenis bahan baku. Sistem persediaan bahan baku yang diterapkan oleh perusahaan masih berdasarkan intuisi, sehingga biaya persediaan yang dikeluarkan tidak minimal. Oleh karena itu, perlu dilakukan perancangan sistem persediaan bahan baku agar dapat miminimumkan biaya yang dikeluarkan untuk pemesanan dan penyimpanan bahan baku. Selain itu, sistem informasi dalam perusahaan juga berpengaruh terhadap kelancaran perencanaan produksi. Dan sistem informasi yang diterapkan dalam perusahaan ini seringkali menimbulkan ketidakakuratan arus informasi. Sehingga perlu dilakukan perancangan sistem informasi yang dapat mereduksi permasalahan dalam pertukaran informasi. Perancangan sistem persediaan ini meliputi peramalan yang dilakukan dengan metode Dekomposisi Aditif, perhitungan waktu baku sebagai lead time produksi, pembuatan Bill of Material, perhitungan biaya persediaan dengan metode Lot for Lot (metode yang digunakan perusahaan), metode Wagner-Whitin dan metode Silver Meal. Kemudian dilakukan penyusunan tabel MRP berdasarkan total biaya persediaan terkecil. Perancangan sistem informasi dilakukan dengan sistem database, pada prosedur-prosedur yang berkaitan dengan sistem perencanaan bahan baku, dimulai dari perancangan sistem persediaan, penerimaan order, pemesanan bahan baku, penerimaan dan pengeluaran bahan baku. Setelah melalui pengolahan data, diperoleh hasil bahwa sistem persediaan bahan baku yang menghasilkan biaya persediaan terkecil adalah Lot for Lot untuk beberapa komponen dan metode Wagner-Whitin untuk komponen lainnya. Dengan demikian sistem persediaan bahan baku usulan dapat mengurangi biaya persediaan sebesar Rp. 1.329.601. Sistem informasi yang dirancang dengan database dapat mengurangi kesalahan akibat faktor manusia, sehingga dapat membantu kelancaran perencanaan produksi.",
+  "creators": "SYLVI SUKOCO",
+  "contributors": "Maja Indahwati (Advisor 1); Danny Prabowo Soetanto (Advisor 2); Kriswanto Widiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 365/TI-92/2000; Sylvi Sukoco (25496108)",
+  "subjects": "MANAGEMENT INFORMATION SYSTEMS; WORK MEASUREMENTS; PRODUCTION PLANNING"
+}

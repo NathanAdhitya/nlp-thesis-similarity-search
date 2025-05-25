@@ -1,0 +1,14 @@
+{
+  "id": "60490",
+  "title": "Sistem monitoring tempat sampah pintar menggunakan IoT",
+  "abstract": "Sampah merupakan salah satu dampak negatif dari hasil kegiatan manusia baik di lingkungan masyarakat perkotaan maupun perkampungan. Dengan banyaknya populasi manusia tentu populasi sampah juga bertambah. Hal ini menyebabkan permasalahan yang terjadi di masyarakat di mana tempat sampah sering penuh, sehingga sampah sering dibuang pada area sekitar tempat sampah karena sudah tidak mampu menampung sampah yang ada. Penerapan teknologi IoT dapat membantu memberikan solusi melalui tempat sampah pintar yang dapat memonitor isi dan memberi pemberitahuan kepada petugas kebersihan melalui aplikasi mobile. Tempat sampah pintar menggunakan mikrokontroler ESP32, sensor infrared, sensor ultrasonik, dan motor servo yang dapat melakukan monitoring ketinggian sampah dan juga membuka dan menutup tutup tempat sampah secara otomatis. Data hasil pengukuran yang diperoleh dari sensor ultrasonik dikirimkan menuju database menggunakan protokol HTTP melalui jaringan Wi-Fi. Hasil pengujian yang diperoleh dari sistem monitoring tempat sampah pintar adalah tempat sampah dapat mendeteksi dan menampilkan hasil pembacaan ketinggian sampah melalui aplikasi mobile, serta akan terdapat pemberitahuan ketika tempat sampah telah penuh dan daya baterai lemah. Pengukuran ketinggian sampah menggunakan sensor ultrasonik memiliki tingkat akurasi sebesar 98,57% pada benda permukaan datar dan 84,54% pada benda permukaan tidak datar. Namun terdapat beberapa benda yang kurang dapat dibaca dengan baik oleh sensor di antaranya adalah kain dan tisu.",
+  "creators": "VINCENTIUS SETYAWAN FUJIANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Justinus Andjarwirawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022493/INF/2024; Vincentius Setyawan Fujianto (C14190150)",
+  "subjects": "APPLICATION PROGRAM INTERFACES (COMPUTER SOFTWARE); INTERNET OF THINGS; MOBILE APPS--DESIGN; SANITARY LANDFILLS--MANAGEMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "20098",
+  "title": "Pengoptimalan tata letak PT. Sinar Mulia Harapan menggunakan algoritma tabu search dan algoritma craft dengan algoritma 2-opt sebagai solusi awal",
+  "abstract": "Tata letak fasilitas yang tepat dalam lantai produksi akan sangat membantu penyelesaian masalah produksi dalam suatu perusahaan. Pengaturan yang baik tiap-tiap fasilitas yang ada akan memudahkan operator dalam menjalankan pekerjaannya. Meringankan tenaga perpindahan material antar mesin, waktu yang terbuang percuma untuk memindahkan material serta biaya material handling yang dikeluarkan perusahaan untuk pengangkutan material antar mesinnya. Perusahaan aneka logam PT. Sinar Mulia Harapan merasa perlu menanggapi masalah tata letak fasilitas ini, terutama untuk produksi gear sepeda motor. Dengan usulan layout yang lebih baik bagi perusahaan menggunakan algoritma 2-OPT sebagai initial layout dan membandingkan algoritma CllAFT dan Tabu Search sebagai initial solution untuk mendapatkan total momen perpindahan yang paling minimum. Dari perhitungan data didapatkan total momen untuk Total Momen dari Initial Layout adalah sebesar 3871105 meter. Total Momen dari layout algoritma 2-OPT dengan bantuan program Turbo Pascal adalah sebesar 1637019 meter. Total Momen dari layout algoritma CRAFT dengan bantuan software QS adalah sebesar 1689118.5 meter. Total Momen dari layout algoritma Tabu Search dengan bantuan program Delphi adalah sebesar 1637019 meter. Dari keempat hasil total momen tersebut yang terkecil adalah total momen yang diselesaikan dengan algoritma 2-OPT sebagai initial layout dan algoritma Tabu Search sebagai initial solution. Perubahan hasil total momen mulai dari yang terbesar yaitu initial layout sampai yang terkecil yaitu layout yang diselesaikan menggunakan Algoritma Tabu Search berturut-turut adalah: a Dari Layout Awal ke Layout 2-OPT mengalami penurunan sebesar 2234086meter Dari Layout 2-OPT ke Layout Algoritma CRAFT mengalami kenaikan sebesar 52099.5 meter. Dari Layout 2-OPT ke Layout Algoritma Tabu Search tidak mengalami perubahan.",
+  "creators": "LISA CHANDRA",
+  "contributors": "I Gede Agus Widyadana (Examination Committee 1); Tidak diketahui (Advisor 2); Tanti Octavia (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 489/TI-080/2001; Lisa Chandra (25496142)",
+  "subjects": "ALGORITHMS; PLANT LAYOUT"
+}

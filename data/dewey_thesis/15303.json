@@ -1,0 +1,14 @@
+{
+  "id": "15303",
+  "title": "Algoritma branch and bound dan algoritma genetika untuk penjadwalan flowshop dengan fungsi tujuan ganda",
+  "abstract": "Penjadwalan floswshop untuk n job dengan mesin telah banyak dipelajari dalam berbagai literatur, seperti algoritma Johnson, algoritma CDS (Campbell, Dudek, Smith), algoritma NEH (Nawas, Enscore, Ham), dan masih banyak lagi algoritma lain. Dari algoritma-algoritma yang telah ada pada umumnya memiliki asumsi satu fungsi tujuan saja, seperti tiga contoh algoritma diatas memiliki satu fungsi tujuan yaitu meminimumkan makespan. Namun dalam kenyataan, pengambil keputusan menginginkan multi fungsi tujuan. Seperti pendapat French (1982) bahwa jika ingin mencapai lebih dari satu kriteria sekaligus seperti meminimumkan makesapan, total flowtime, dan idle time secara bersama-sama, akan lebih efektif dalam mengurangi biaya penjadwalan. Dalam tugas akhir ini, akan dipresentasikan masalah penjadwalan dengan dua kriteria fungsi tujuan yaitu meminimumkan total flowtime dan makespan. Metode yang digunakan adalah algoritma branch-and-bound dan algoritma Genetika yang memiliki tujuan yang sama. Dan pada akhimya membandingkan mana yang terbaik antara algoritma branch-and-bound dengan algoritma Genetika. Karena banyaknya job yang harus dijadwalkan maka untuk menyelesaikan penjadwalan dengan algoritma Branch-and-bound dan algoritma Genetika tidak dapat dilakukan secara manual, namun diselesaikan dengan bantuan program komputer yang menggunakan software Turbo Pascal 7. Dari hasil penjadwalan algoritma Branch-and-Bound dan algoritma Genetika,dapat ditarik kesimpulan bahwa Algoritma Branch-and-Bound lebih baik dibandingkan algoritma Genetika dalam mencapai fungsi tujuan.",
+  "creators": "GUNADI SANTOSO",
+  "contributors": "Siana Halim (Examination Committee 1); Tessa Vanina Soetanto (Advisor 1); SANDY CITRO (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 336/TI-63/2000; Gunadi Santoso (25496077)",
+  "subjects": "PRODUCTION PLANNING; OPERATIONS RESEARCH; SCHEDULING"
+}

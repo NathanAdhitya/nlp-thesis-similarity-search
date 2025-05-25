@@ -1,0 +1,14 @@
+{
+  "id": "15958",
+  "title": "Penerapan fuzzy aritmetika dalam penjadualan produksi flowshop",
+  "abstract": "Penjadualan dengan penerapan konsep fuzzy di dalamnya bertujuan supaya setiap kondisi waktu proses yang terjadi di lantai produksi dapat diakomodasi sehingga hasil dari proses penjadualan yang dilakukan nantinya sernakin realistis. Waktu proses setiap job mengandung unsur ketidakpastian, dan hal ini tidak hanya akan mempengaruhi urutan produksi tetapi juga akan mempengaruhi performa urutan jadual yang telah dibuat. Tugas Akhir ini mencoba mengaplikasikan konsep fuzzy dalam proses penjadualan produksi flow shop yaitu dengan memperhitungkan waktu minimum proses, waktu normal proses dan waktu maksimum proses. Metode penjadualan yang digunakan adalah Algoritma Campbell, Dudek and Smith (CDS) yang telah dimodifikasi sedemikian rupa untuk menerima bentuk fuzzy. Dalam Tugas Akhir ini, penulis membuat penjadualan produksi yang memakai pendekatan konsep fuzzy di PT Wijaya Indonesia Makmur Bicyles sebuah perusahaan yang memproduksi sepeda bermerk WIM Cycle yang berlokasi di .Jalan Raya Bambe Km 20 Driyorejo, Gresik. Dan sebagai perbandingan akan dibuat pula penjadualan dengan menggunakan Algoritma Campbell, Dudek and Smith (CDS) biasa. Tugas Akhir ini juga dilakukan untuk mengetahui sejauh man a perbedaan hasil penjaduatan menggunakan Algoritma Campbell, Dudek and Smith (CDS) dengan konsep fuzzy dan penjadualan yang menggunakan metode Campbell, Dudek and Smith (CDS) biasa. Dari hasil penjadualan Algoritma CDS biasa dan CDS fuzzy, dapat ditatik kesimpulan bahwa Algoritma CDS fuzzy memberikan urutan jadual, nilai makespan dan mean flow lime yang tidak jauh berbeda dibanding Algoritma CDS biasa. Selain itu dengan mengaplikasikan Algoritma CDS fuzzy hasil penjadualan dapat diinterpretasikan lebih jauh dengan menggunakan possibility theory.",
+  "creators": "VIVI ASTUTIK",
+  "contributors": "Resmana Lim (Advisor 2); Didik Wahjudi (Advisor 1); Tessa Vanina Soetanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 227/TI-53/1999; Vivi Astutik (25495056)",
+  "subjects": "PRODUCTION PLANNING-MATHEMATICAL MODELS; SCHEDULING-MATHEMATICAL MODELS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "14533",
+  "title": "Perencanaan dan pembuatan dual trace oscilloscope yang memakai media tampilan pesawat TV dengan bantuan mikrokontroller MCS-51",
+  "abstract": "Seiring dengan perkembangan teknologi, khususnya elektronik yang semakin pesat, diperlukan pula makin banyak para praktisi elektronik yang dapat menangani kerusakan dari alat-alat yang ada. Bagi para praktisi kendala yang paling besar adalah tersedianya alat ukur yang cukup handal meraenuhi spesifikasi yang diperlukan dan dengan biaya yang tidak begitu besar. Masalah diatas menimbulkan ide untuk membuat suatu sistem/alat yang dapat mempermudah para praktisi untuk menienuhi keinginannya dalam penyediaan alat ukur yaitu Oscilloscope. Dengan menggunakan media tampilan pesawat TV yang telah memasyarakat dimasyarakat kita maka alat ini diharapkan dapat menekan biaya pengadaan serendah mungkin. Prinsip dasar dari alat ini adalah mengubah sinyal analog maupun digital yang hendak diukur menjadi sinyal digital yang disimpan dalam memori layar dan ditampilkan pada layar TV. Untuk mengolah sinyal yang diukur tersebut agar sesuai dengan karakteristik koraponen yang ada diper-lukan suatu rangkaian attenuator. Rangkaian ini berfungsi untuk menguatkan atau melemahkan sinyal. Sinyal yang telah diatur tesebut diubah menjadi sinyal digital dengan menggunakan suatu komparator. Hasil sinyal digital dengan memakai komponen pengubah serial ke paralel data yang didapat disimpan dalam memori layar. Data-data yang ada pada memori berikutnya dicampur dengan sinyal sinkronisa-si vertikal dan sinkronisasi horisontal yang selanjutnya diteruskan ke pesawat TV.",
+  "creators": "CHANDRA WIBOWO",
+  "contributors": "IRWAN SAHLI (Advisor 1); MOCHAMAD HEROE (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.96/E/EL/030/0290;Chandra Wibowo (23490141)",
+  "subjects": "CATHODE RAY OSCILLOSCOPE-COMPUTER PROGRAMS; INTEL MCS-51 (MICROCONTROLLER)"
+}

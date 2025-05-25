@@ -1,0 +1,14 @@
+{
+  "id": "3780",
+  "title": "Pengendalian level air menggunakan PLC berbasis jaringan internet dengan memanfaatkan windows socket",
+  "abstract": "Sistem pengendalian dan monitoring yang terdapat pada sistem kendali konvensional biasanya berada di sekitar plant. Pada sistem kendali modern, proses pengendalian dan monitoring dapat dilakukan dari jarak jauh melalui internet. Tugas akhir ini adalah salah satu contoh aplikasi sistem kendali modern. Tugas akhir ini dibuat dengan tujuan untuk membuat software yang dapat melakukan proses monitoring, setting pada memory PLC. Software ini juga dapat digunakan untuk megendalikan level ketinggian air melalui komputer server maupun melalui komputer client yang terhubung dengan komputer server di dalam suatu Local Area Network (LAN) ataupun melalui internet. Proses dikendalikan menggunakan PLC Omron CPM-1 yang terhubung dengan komputer server melalui kabel serial port RS-232. Hasil pengujian menunjukkan bahwa sistem ini sudah dapat berjalan dengan baik beserta dengan fitur-fiturnya yaitu monitoring, setting dan aplikasi pengendalian level ketinggian air.",
+  "creators": "ANDREAS ELISAFAN GOZAL",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Handy Wicaksono (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010819/ELK/2006; Andreas Elisafan Gozal (23402001)",
+  "subjects": "AUTOMATIC CONTROL"
+}

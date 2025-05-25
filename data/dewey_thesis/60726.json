@@ -1,0 +1,14 @@
+{
+  "id": "60726",
+  "title": "Perancangan alat penggulung otomatis untuk mesin pembuat filamen 3D printing dengan bahan sampah botol plastik",
+  "abstract": "Botol plastik sangat banyak digunakan dalam kehidupan sehari-hari karena sifatnya yang kuat, praktis dan ringan. Untuk mengurangi limbah, botol plastik diolah menjadi filamen untuk bahan 3d printing. Setelah selesai proses pembuatan filamen dibutuhkan proses penggulungan. Untuk mempermudah proses penggulungan dibuat alat untuk menggulung filamen secara otomatis. Dalam proses penggulungan otomatis, filamen dapat tergulung secara rapi sehingga proses penggulungan jadi lebih praktis dan efisien. Selain proses penggulungan, terdapat pengukuran berat hasil penggulungan dengan sensor load cell. Perancangan mekanisme ini menggunakan mikrokontroler Arduino Mega 2560 dan Arduino Nano yang telah diprogram dan telah terkonfigurasi dengan sensor dan motor yang digunakan. Sensor yang digunakan dalam mekanisme ini adalah sensor load cell. Kegunaan sensor load cell untuk mengukur berat hasil filamen sesuai yang dibutuhkan. Stepper motor yang digunakan untuk menggulung filamen dapat berhenti setelah mencapai berat yang dibutuhkan dari hasil pembacaan sensor load cell. Dengan adanya sensor load cell dapat mempermudah proses pengukuran berat filamen.",
+  "creators": "EDI WIDIANTO SUSILO",
+  "contributors": "Roche Alimin (Advisor 1); Ivan Christian Hernando, S.T., M.T. (Advisor 2); Ninuk Jonoadji (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03011549/MES/2024; Edi Widianto Susilo (C12190019)",
+  "subjects": "ARDUINO (PROGRAMMABLE CONTROLLER); MACHINE DESIGN; RECYCLING (WASTE, ETC.); THREE-DIMENSIONAL PRINTING"
+}

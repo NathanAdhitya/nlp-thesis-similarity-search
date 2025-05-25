@@ -1,0 +1,14 @@
+{
+  "id": "53624",
+  "title": "Pemasangan dan pembuatan sistem monitoring pada solar panel berkapasitas 450Wp di SMP Kristen Petra 2 Surabaya",
+  "abstract": "SMP Kristen Petra 2 adalah salah satu SMP swasta yang berada di Surabaya. SMP ini memiliki program entrepreneur yang mengajarkan bagaimana cara mendapatkan dan menghasilkan keuntungan dan juga cara menghemat energi. Maka dari itu salah satu cara untuk menghemat energi dengan menggunakan solar panel karena solar panel dapat mengubah sinar matahari menjadi listrik. Seiring dengan berjalannya waktu tidak dipungkiri bahwa pada rangkaian solar panel akan mengalami gangguan jika tidak dilakukan pemeriksaan secara rutin. Maka dari itu dibuatlah sebuah alat yang dapat memantau arus dan tegangan yang tepat sehingga dapat dipantau dari jarak yang jauh yaitu sebuah sistem monitoring. Sistem monitoring ini menggunakan 3 buah sensor dimana terdapat 2 buah sensor arus dan 1 buah sensor tegangan. Sensor ini dikendalikan oleh sebuah mikrokontroler yaitu ESP32 dimana ESP32 yang menerima, mengelola dan mengirim data dari pembacaan sensor. Hasil dari pembacaan akan ditampilkan dalam web dan juga dapat dilihat dalam LCD yang telah terpasang. Hasil dari pembacaan dapat didownload dalam bentuk excel maupun pdf. Pengujian dalam pembacaan sensor dilakukan dengan melakukan beberapa percobaan yaitu dengan memberikan beberapa macam beban (untuk sensor arus) dan beberapa macam sumber tegangan (untuk sensor tegangan). Hasil yang diperoleh adalah sensor arus memiliki perbedaan pembacaan 0.5A-0.6A dan sensor arus tidak dapat membaca arus di bawah 1A. Hasil pengujian untuk sensor tegangan memiliki perbedaan pembacaan 0.73V dan sensor tegangan tidak dapat membaca tegangan dibawah 0.73V. Pada pemasangan di SMP kristen Petra 2 telah dilakukan pengamatan jika arus dari solar panel dibawah 1A maka sensor yang di gunakan tidak dapat optimal dalam melakukan pembacaan baik pada sensor arus inverter dan sensor arus di solar panel.",
+  "creators": "CINDY CLARISA GUNAWAN",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Thiang (Advisor 2); Emmy Hosea (Examination Committee 1); Julius Sentosa Setiadji (Examination Committee 2); Yusak Tanoto, S.T., M.Eng., Ph.D. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010667/ELK/2022; Cindy Clarisa Gunawan (C11180003)",
+  "subjects": "MICROCONTROLLER; SENSOR NETWORKS; SOLAR ENERGY"
+}

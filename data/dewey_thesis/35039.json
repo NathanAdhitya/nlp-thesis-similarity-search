@@ -1,0 +1,14 @@
+{
+  "id": "35039",
+  "title": "Enterprise architecture di Televisi Republik Indonesia (TVRI) Jawa Timur",
+  "abstract": "TVRI Jawa Timur adalah perusahaan yang bergerak dalam bidang jasa penyiaran. Program acara yang disajikan adalah program acara yang berisi informasi, pendidikan dan hiburan atau budaya. Saat ini TVRI Jawa Timur dalam proses bisnisnya sudah didukung oleh teknologi informasi, namun belum ada sistem informasi yang terintegrasi untuk mengelola data dan informasi untuk seluruh bagian unit organisasi. Aplikasi yang digunakan saat ini hanya Microsoft Word, Microsoft Excel, aplikasi untuk editing video dan aplikasi-aplikasi dari kementerian keuangan. Oleh karena itu, diperlukan analisis dan pembuatan desain enterprise architecture untuk mendukung proses bisnis perusahaan. Kerangka kerja yang digunakan untuk mendesain enterprise architecture adalah Enterprise Architecture Planning. Proses pertama yang dilakukan untuk mendesain enterprise architecture adalah memahami model bisnis dan strategi perusahaan. Selanjutnya menganalisa proses-proses bisnis dan kondisi teknologi informasi di TVRI Jawa Timur. Setelah mengetahui hal-hal tersebut maka dilakukan pembuatan desain arsitektur data, arsitektur aplikasi dan arsitektur teknologi yang sesuai dengan kebutuhan TVRI Jawa Timur. Arsitektur data yang dihasilkan untuk perusahaan terdiri dari tujuh sub sistem yaitu sub sistem personalia, sub sistem produksi berita, sub sistem produksi program, sub sistem kerjasama, sub sistem accounting and finance, sub sistem maintenance dan sub sistem pembelian. Arsitektur aplikasi terdiri dari aplikasi utama dan aplikasi pendukung. Aplikasi utama yaitu sistem informasi personalia, sistem informasi produksi berita, sistem informasi produksi program, sistem informasi kerjasama, sistem informasi accounting and finance, sistem informasi maintenance, sistem informasi pembelian, aplikasi RKAKL, SAIBA, SAS, GPP, GL, SIMAK BMN dan Persediaan. Arsitektur teknologi menggunakan Service Oriented Architecture.",
+  "creators": "BETRICE FELITA FLORENSIA",
+  "contributors": "Alexander Setiawan (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021434/INF/2015; Betrice Felita Florensia (26411032)",
+  "subjects": "INFORMATION TECHNOLOGY; INFORMATION SYSTEM-TELEVISION"
+}

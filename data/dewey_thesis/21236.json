@@ -1,0 +1,14 @@
+{
+  "id": "21236",
+  "title": "Perbandingan kinerja peta kendali x dengan peta kendali t2 hotelling",
+  "abstract": "Di dalam industri manufaktur, produk yang dihasilkan umumnya memiliki beberapa karakteristik yang saling berkorelasi. Penggunaan peta kendali x kurang tepat, karena mengabaikan sifat korelasi antar karateristik. Analisa multivariate lebih tepat untuk menganalisa hal ini. Analisa multivariate yang umumnya digunakan adalah peta kendali T 2 Hotelling. Di dalam tugas akhir ini, karakteristik yang dianalisa berjumlah dua. Simulasi dilakukan untuk menghitung nilai ARL peta kendali T 2 Hotelling dan peta kendali x dengan dua variable. Perhitungan nilai ARL untuk kedua peta kendali dilakukan untuk membuktikan babwa peta kendali T 2 Hotelling lebih baik dan efektif untuk menganalisa karaktenstik berkorelasi. Program yang digunakan daiam simulasi ini adalah program S-Plus dengan program pendukung Mathlab 6.0, Maple 6.0, Statgraph. Simulasi dilakukan dengan membangkitkan bilangan random nomial multivariate, untuk simulasi Peta kendali T 2 Hotelling, dan bilangan random normal, untuk peta kendali x . Pergeseran yang digunakan sebagai pembanding antara kedua peta adalah 0.1, 0.2, 0.3, 0.5, 1, 1.5, dan 2 sigma. Bilangan random multivariate normal dimasukan ke dalam perhitungan T 2 Hotelling. Perhitungan T 2 Hotelling dan bilangan random normal dibandingkan dengan masing - masing batas kontrol. Jika keluar dari batas kontrol, maka program akan melakukan looping sebanyak 10000 kali, dan dicari nilai ARL untuk masing - masing pergeseran. Berdasarkan nilai ARL antara kedua peta kendali, terbukti bahwa peta kendali T 2 Hotelling lebih baik dan efektif dalam menganalisa karakteristik berkorelasi. Peta kendali x tidak stabil untuk analisa katakteristik berkorelasi.",
+  "creators": "SUANDI",
+  "contributors": "Siana Halim (Advisor 1); Pauline Astari Singgih (Advisor 2); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 492/TI-083/2001; Suandi (25497008)",
+  "subjects": "QUALITY CONTROL-STATISTICAL METHODS; MANUFACTURING INDUSTRIES"
+}

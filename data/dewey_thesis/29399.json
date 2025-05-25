@@ -1,0 +1,14 @@
+{
+  "id": "29399",
+  "title": "Pengembangan website untuk pembelajaran analisis struktur rangka dengan metode kekakuan langsung",
+  "abstract": "Seiring dengan perkembangan zaman, internet telah menjadi sarana yang tidak dapat dipisahkan dalam kehidupan sehari-hari, termasuk dalam bidang edukasi. Dewasa ini, telah terdapat beberapa website perhitungan analisa struktur yang tersedia. Namun website tersebut masih belum dapat mengakomodasi kebutuhan pembelajaran secara utuh. Oleh karena itu, dibutuhkan website edukatif dan interaktif yang dapat membantu pemahaman dalam mata kuliah Analisa Struktur III dan Metode Elemen Hingga. Pemilihan metode kekakuan langsung dilakukan karena metode ini merupakan implementasi dasar dan praktis untuk metode elemen hingga berbasis perpindahan. Di samping itu, metode ini secara de facto telah menjadi metode standar pada software komersial untuk analisis struktur. Sementara itu, algoritma perhitungan akan diimplementasikan ke dalam bahasa pemrograman HTML, PHP, JavaScript, dan jQuery. Dari hasil program, diketahui bahwa secara umum program sudah dapat membantu perhitungan analisis struktur rangka, termasuk pada struktur yang tidak stabil. Selain itu, telah dilakukan verifikasi dengan memperhitungkan deformasi aksial, geser, dan lentur.",
+  "creators": "STEFANI VIRGIN WIJAYA; FERDIANA SOEKRESNO",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Liliana (Advisor 2); Effendy Tanojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11011925/SIP/2013; Stefani Virgin (21410034), Ferdiana Soekresno (21410040)",
+  "subjects": "STRUCTURAL ANALYSIS (ENGINEERING)-COMPUTER PROGRAMS; WEBSITES"
+}

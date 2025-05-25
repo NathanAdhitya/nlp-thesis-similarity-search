@@ -1,0 +1,14 @@
+{
+  "id": "36670",
+  "title": "Aplikasi survei berbasis android",
+  "abstract": "Dalam menjalankan proses survei di lapangan perlu adanya proses pencatatan data secara manual pada kertas. Proses pencatatan data tersebut nantinya akan di-input kembali pada komputer dalam bentuk data. Proses tersebut dapat menyebabkan terjadi kesalahan ketik atau input data dari tulisan tangan. Selain itu, data hasil survei juga butuh diolah untuk digunakan sebagai pengambil keputusan oleh penyelenggara survei. Dalam skripsi ini dipilih Android sebagai platform perangkat yang digunakan, karena merupakan platform yang paling banyak digunakan pada perangkat smartphone. Juga, dapat menjawab kebutuhan surveyor di lapangan yang memudahkan membawa pertanyaan dan jawaban hasil survei, serta memudahkan mencari lokasi survei melalui dukungan Google Maps pada aplikasi. Aplikasi server menggunakan framework Node.js untuk meminimalkan proses data antar platform. Pengolahan hasil survei menjadi data grafik dibantu dengan framework Google Chart. Hasil aplikasi yang diperoleh terdapat dua modul, yaitu aplikasi administrator berbasis web dan aplikasi mobile untuk surveyor berbasis Android. Aplikasi web digunakan untuk membuat, menampilkan, mengubah, menghapus, dan mengolah data pertanyaan dan hasil survei. Aplikasi Android yang dihasilkan, digunakan oleh para surveyor untuk menjawab berbagai jenis pertanyaan survei yang telah dirancang pada aplikasi administrator.",
+  "creators": "ERIC PRABOWO CUNDOMANIK",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Justinus Andjarwirawan (Advisor 2); Kristo Radion Purba S.ST. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021513/INF/2016; Eric Prabowo Cundomanik (26412034)",
+  "subjects": "ANDROID (COMPUTER PROGRAM); ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); GOOGLE MAPS; WEB SITES"
+}

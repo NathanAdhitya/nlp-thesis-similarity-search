@@ -1,0 +1,14 @@
+{
+  "id": "9207",
+  "title": "Perancangan dan pembuatan sistem informasi jasa pengiriman barang pada perusahaan forwarding PT. X berbasis web",
+  "abstract": "PT. `X? adalah salah satu perusahaan yang bergerak dibidang forwarding. Saat ini, perusahaan masih menggunakan sistem manual dalam pencatatan data company, pencatatan order, pencarian data, mengetahui status dari pengiriman sehingga banyak terjadi kesalahan. Untuk mengatasinya maka dibuat sebuah aplikasi pengiriman barang dengan berbasis web.. Perancangan sistem menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk pembuatan tabel dan relasinya. Pembuatan program aplikasinya menggunakan bahasa pemrograman PHP dan MySQL untuk pembuatan database. Proses yang terdapat dalam program adalah pencatatan biodata shipper, biodata consignee, biodata shipping line, biodata notify party, data barang, data container, data kapal, pencatatan data order, data pengiriman, upload file, jadwal kapal dan tracking Hasil dari program yang dibuat laporan berupa grafik, laporan status tracking, jadwal kapal. Selain itu, program ini dapat membantu komunikasi antara kantor pusat dan kantor cabang, sehingga data yang diperlukan juga dapat diperoleh dengan lebih mudah dan lebih cepat.",
+  "creators": "RONALD WIDJAJA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); David Sundoro (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010637/INF/2007; Ronald Widjaja (26403055)",
+  "subjects": "WEBSITES-DESIGN; INTERNET (COMPUTER NETWORK); PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

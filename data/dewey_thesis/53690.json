@@ -1,0 +1,14 @@
+{
+  "id": "53690",
+  "title": "Prediksi peringkat mingguan lagu pada spotify amerika serikat menggunakan multiple charts dataset dengan berbagai metode",
+  "abstract": "Mayoritas pendapatan industri musik pada tahun 2021 berasal dari streaming music dengan presentase 62.1%. Hal ini membuat banyak pihak industri musik yang berlomba-lomba untuk bisa mendapatkan lagu hit, terutama di tangga lagu/chart Spotify Amerika Serikat. Akan tetapi, hal ini sulit dilakukan karena zaman sekarang performa suatu lagu tidak bisa hanya ditentukan dari kualitas sebuah lagu, melainkan ditentukan oleh performa lagu diberbagai music chart. Oleh karena itu, akan dilakukan penelitian pada bidang hit song science untuk memprediksi peringkat mingguan lagu pada Spotify Amerika Serikat dengan menggunakan dataset chart dari Spotify, Shazam, Airplay, dan TikTok. Penelitian ini akan menggunakan metode multipler linear regression, polynomial regression, gradient boosting tree, dan random forest dalam pembuatan model dan akan dibandingkan performanya menggunakan adjusted r-squared dan mean absolute error (MAE) sebagai evaluation metric. Model terbaik dihasilkan oleh metode random forest dengan nilai adjusted r-squared dan MAE sebesar 93.133% dan 11.687. Penggunaan dataset atribut lagu memberikan dampak buruk pada kinerja model. Disisi lain, Pengunaan dataset Shazam chart memberikan dampak yang baik pada kinerja model. Sedangkan, penggunaan dataset Airplay dan TikTok chart tidak memberikan dampak yang jelas. Akan tetapi, kedua chart ini terbukti memiliki relasi yang lemah terhadap model. Secara keseluruhan, penggunaan dataset Spotify, Shazam, Airplay, dan TikTok chart merupakan kombinasi dataset yang menghasilkan model terbaik pada penelitian ini.",
+  "creators": "CHRISTIANTO IMANUEL ARYANTO",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); ANDRE GUNAWAN, S.Kom. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022156/INF/2022; Christianto Imanuel Aryanto (C14180101)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; INTERNET (COMPUTER NETWORKS); PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

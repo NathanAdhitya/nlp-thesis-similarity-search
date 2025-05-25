@@ -1,0 +1,14 @@
+{
+  "id": "36307",
+  "title": "Prototipe kendali suara berbahasa Indonesia untuk automasi rumah tinggal",
+  "abstract": "Pembuatan prototipe kendali suara berbahasa Indonesia ini bertujuan untuk mengaplikasikan bahasa Indonesia ke dalam sistem pengendali perangkat rumah tangga menggunakan perintah suara. Hal ini dibuat guna memberikan kemudahan bagi masyarakat Indonesia yang memiliki kemampuan terbatas dalam berbahasa asing. Sistem ini dibuat dengan menggunakan Raspberry Pi sebagai “otak” dari keseluruhan sistem dan Arduino sebagai kontroler perangkat. Pembuatan prototipe kendali suara menggunakan Speech-To-Text (STT) engine Julius untuk mengenali perintah suara, dan Text-To-Speech (TTS) engine eSpeak untuk memberikan respon suara. Pembuatan model bahasa dan model akustik menggunakan metode Hidden Markov Model (HMM), dengan bantuan perangkat lunak Hidden Markov Model Toolkit (HTK). Perekaman suara yang digunakan untuk training model akustik dilakukan dengan perangkat lunak Audacity. Penangkapan suara sistem menggunakan webcam USB dengan mikrofon built-in. Metode perancangan dan pembuatan dimulai dari studi literatur, perancangan dan pembuatan sistem, pengujian sistem, dan penarikan kesimpulan. Hasil akhir, didapatkan 4 model training dimana model terbaik memiliki jumlah sample training sebanyak 26 sample, dan dapat mengenali 11 perintah. Dengan menggunakan model tersebut, sistem dapat mengenali perintah yang diberikan pengguna baru dengan kesuksesan sebesar 49,09% sebelum melakukan training, dan 63,63% sesudah melakukan training (sebanyak 4 sample). Perintah dari pengguna lama dapat dikenali dengan kesuksesan sebesar 89,09% sesudah ditambahkannya training dari pengguna baru. Respon dalam bahasa Indonesia dapat diberikan dengan baik. Batas maksimal intensitas kebisingan yang ditangkap mikrofon agar sistem dapat mengenali perintah adalah 69 dB. Semakin jauh jarak pengguna saat memberikan perintah, dan semakin tinggi intensitas kebisingan yang ditangkap, menyebabkan turunnya kemampuan sistem dalam mengenali perintah.",
+  "creators": "RAFAEL BOGDAN",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Resmana Lim (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010950/ELK/2016; Rafael Bogdan (23412020)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); SOFTWARE ENGINEERING; ARDUINO (PROGRAMMABLE CONTROLLER)"
+}

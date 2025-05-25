@@ -1,0 +1,14 @@
+{
+  "id": "50413",
+  "title": "Penerapan microservices dan amazon elastic container service untuk mendukung scalability",
+  "abstract": "Pada era teknologi yang semakin berkembang memberikan dampak terhadap peningkatan jumlah pengguna terhadap suatu sistem, sehingga beban kerja yang diterima server juga meningkat. Kondisi ini dialami pada PT X di mana server tidak dapat menangani beban kerja yang terus meningkat dari waktu ke waktu, hal ini membuat server menjadi overload dan lambat dalam memberikan respon hingga berakhir pada kondisi server down dan tidak dapat diakses oleh user. Penelitian ini mencoba memberikan solusi terhadap masalah yang dihadapi PT X dengan menerapkan sistem microservices dan Amazon Elastic Container Service. Dengan menerapkan microservices maka setiap services akan dipecah menjadi independen dan dapat meringankan beban kerja server. Selain itu dengan kombinasi Amazon ECS maka proses scaling akan menjadi lebih efektif hanya pada service yang mengalami kondisi overload sehingga proses scaling dapat menyesuaikan kondisi beban kerja pada server saat itu juga. Proses scaling akan membuat sistem dapat menambah atau mengurangi jumlah task maupun server yang berjalan tanpa kekurangan atau kelebihan penggunaan resources. Berdasarkan hasil analisis pengimplementasian microservices dan Amazon ECS pada sistem PT X, dapat disimpulkan bahwa sistem scalable microservices menghasilkan average response time yang lebih rendah dengan selisih 805.56% dari unscalable microservices dan 38% dari monolitik, lalu deviation yang dihasilkan lebih rendah 902.22% dari unscalable microservices dan 216.87% dari monolitik, kemudian throughput yang dihasilkan lebih tinggi 22018.61 request/minutes dari unscalable microservices dan 24524.16 request/minutes dari monolitik. Untuk perbandingan maximum concurrent user antara sistem scalable microservices, unscalable microservices, dan monolitik sebesar 2000:1454:28. Selain itu penggunaan CPU pada sistem scalable microservices lebih rendah 20%-21% khususnya pada saat login, generate access token, dan get schedule jika dibandingkan dengan sistem unscalable microservices karena adanya sistem pembagian beban kerja dengan task replica. Selain itu penggunaan resources dapat menyesuaikan dengan kondisi beban kerja secara dinamis dan efisien.",
+  "creators": "ANTONIUS TANUWIJAYA",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Andreas Handojo (Examination Committee 1); Justinus Andjarwirawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022097/INF/2021; Antonius Tanuwijaya (C14170038)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; COMPUTER PROGRAMMING (ELECTRONIC COMPUTER)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "59260",
+  "title": "Penerapan modified partial capacity design (M-PCD) dengan analisis struktur nonlinear pada bangunan sederhana di wilayah gempa Surabaya",
+  "abstract": "Modified Partial Capacity Design (M-PCD) adalah salah satu metode alternatif yang dapat digunakan untuk mendesain struktur bangunan, di mana mekanisme keruntuhan diperbolehkan hingga kondisi partial side sway mechanism. Dalam pelaksanaannya, metode M-PCD melibatkan dua jenis model yakni model 1 untuk desain balok dan kolom plastis, serta model 2 yang digunakan untuk desain kolom elastis. Dalam penelitian ini, diajukan suatu modifikasi dalam perencanaan kolom elastis pada model 2, di mana metode modifikasi inersia yang bertujuan untuk memodelkan kerusakan pada penelitian sebelumnya digantikan oleh metode analisis nonlinear lumped plasticity approach. Penelitian ini berfokus pada pembuatan desain struktur pada bangunan sederhana dengan variasi 6 dan 12 lantai, yang akan didesain menggunakan dua metode yakni metode modifikasi inersia seperti penelitian-penelitian sebelumnya dan metode lumped plasticity approach yang diajukan dalam penelitian ini. Desain struktur dalam penelitian ini dilakukan dengan dua metode yang bertujuan untuk membandingkan performa dari kedua metode tersebut. Model struktur yang dibuat dalam penelitian ini akan diuji dengan menggunakan analisis nonlinear dynamic procedure (NDP) atau time history dengan level gempa design basis earthquake (DBE) dan Risk Targeted Maximum Considered Earthquake (MCER). Hasil dari penelitian ini adalah mekanisme keruntuhan pada kedua metode telah memenuhi persyaratan di level gempa DBE, namun tidak pada level gempa MCER. Lalu untuk performa drift, kedua metode menunjukkan hasil yang memuaskan karena telah memenuhi persyaratan baik pada level gempa DBE maupun MCER. Namun dapat disimpulkan bahwa metode lumped plasticity approach memberikan hasil yang lebih memuaskan pada level kerusakan sendi plastis dibandingkan dengan metode modifikasi inersia.",
+  "creators": "DICKSEN WIRANATA; NICOLAS SANTOSO",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Ruben Adicahya, S.T., M.T. (Advisor 1); Hasan Santoso (Examination Committee 1); Benjamin Lumantarna (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012724/SIP/2024; Dicksen Wiranata (B11200142), Nicolas Santoso (B11200076)",
+  "subjects": "CIVIL ENGINEERING; EARTHQUAKE RESISTANT DESIGN--DWELLINGS; STRUCTURAL ENGINEERING"
+}

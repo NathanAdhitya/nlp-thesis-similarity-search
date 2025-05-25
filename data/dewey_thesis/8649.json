@@ -1,0 +1,14 @@
+{
+  "id": "8649",
+  "title": "Pengaksesan kamus online dengan menggunakan teknologi WAP pada mobile device",
+  "abstract": "Dengan adanya teknologi WAP (Wireless Markup Language), maka dalam mencari suatu kosakata dalam kamus cukup dengan mengakses melalui telepon seluler yang dilengkapi dengan fasilitas GPRS dan WAP Browser. Desain dilakukan dengan menggunakan bahasa pemrograman WML untuk tampilan awal dan PHP untuk melakukan koneksi ke database yang menggunakan database MySQL, Perbendaharaan kata dalam database diinput secara manual dengan menggunakan bantuan program MySQL Front. Pengujian situs WAP menggunakan WinWAP Smartphone Browser Emulator, situs web yang memiliki WAP Browser Emulator dan telepon seluler yang mendukung WAP Browser dan GPRS. User dapat menggunakan situs ini untuk mencari arti dari suatu kosakata berbahasa Inggris atau Indonesia dan juga untuk diterjemahkan ke dalam bahasa yang diinginkan ( Inggris atau Indonesia ) beserta thesaurus dari kosakata tertentu dalam bahasa Inggris. Kecepatan pengaksesan situs WAP ini tergantung dari layanan GPRS dari operator seluler.",
+  "creators": "RACHMAT ABADI LOUHATTA",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010026/ELK/2005; Rachmat Abadi Louhatta (23400041)",
+  "subjects": "WIRELESS COMMUNICATION SYSTEMS; WAP (WIRELESS APPLICATION PROTOCOL); INTERNET (COMPUTER NETWORK)"
+}

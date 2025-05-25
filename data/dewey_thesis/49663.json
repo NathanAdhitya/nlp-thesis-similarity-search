@@ -1,0 +1,14 @@
+{
+  "id": "49663",
+  "title": "High performance human machine interface untuk simulasi alarm management system di kapal laut",
+  "abstract": "Tugas akhir ini bertujuan untuk menerapkan tampilan high performance Human Machine Interface (HMI) untuk melakukan simulasi alarm management system di kapal laut. Penerapan high performance HMI sendiri adalah untuk meminimalisir terjadinya kecelakaan ataupun kesalahan yang dilakukan oleh operator yang dikarenakan jika menggunakan common HMI maka operator akan mudah lelah dan dapat dengan mudah terdistraksi. Alarm management system adalah sistem untuk menampilkan dan memantau status dari keseluruhan alarm yang ada. Di dalam high performance HMI yang dibuat ini memiliki beberapa fitur yakni di antaranya adalah fitur security, alarm summary, alarm history, dan system information. Selain itu, untuk menyimulasikan alarm yang ada maka akan digunakan PLC dan juga Arduino UNO yang terhubung dengan HMI yang ada dengan menggunakan protokol komunikasi modbus. Dalam pengerjaan tugas akhir ini juga terdapat survei yang digunakan sebagai penilaian terhadap high performance HMI. Berdasarkan hasil survei yang ada dapat disimpulkan bahwa tampilan dari high performance HMI dapat membuat operator tidak mudah lelah dan tidak mudah terdistraksi. Dan tampilan dari high performance HMI masih lebih baik jika dibandingkan dengan tampilan common HMI.",
+  "creators": "KEVIN EKA WIJAYA",
+  "contributors": "Handy Wicaksono (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 2); Felix Pasila (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011008/ELK/2021; Kevin Eka Wijaya (C11170005)",
+  "subjects": "AUTOMATIC CONTROL--COMPUTER PROGRAMS; HUMAN-MACHINE SYSTEMS"
+}

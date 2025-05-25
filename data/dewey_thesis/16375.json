@@ -1,0 +1,14 @@
+{
+  "id": "16375",
+  "title": "Perencanaan daan pembuatan pengaturan kecepatan putaran motor induksi 3 phasa, 1 1/2 HP, 220/380 Volt melalui sysdrive inverter 3G31V dengan bantuan IBM-PC",
+  "abstract": "Perkembangan teknologi inverter lebih memacu konsumen untuk menggunakan motor induksi di berbagai sektor industri maupun instansi. Berkat adanya inverter yang handal, putaran motor ini dapat diatur dalam range yang lebar. Banyak aplikasi di industri yang bukan saja membutuhkan range putaran yang lebar tetapi juga kestabilan putarannya terhadap nilai acuan yang diinginkan. Untuk menjawab kebutuhan yang kedua ini, maka harus dipasang suatu sistem pengontrolan. Sampai saat ini, jenis pengontrolan yang lebih umum dikenal or-ang adalah jenis VTD-Controller. Dalam dunia pendidikan, aksi pengontrolan PID sering dibicarakan dalam kuliah sistem pengaturan dan pengukuran. Pada kenyataannya, mahasiswa lebih sering diberikan teori-teorinya daripada wujud nyatanya. Kita sebagai mahasiswa tidak mengerti keadaan yang sesungguhnya yang terjadi pada sistem yang bersangkutan, misalnya saja kecepatan putaran. Untuk menjawab tantangan ini, maka akan dibuat suatu model/simulasi yang dapat digunakan untuk mengatur kecepatan putaran motor induksi dengan menggunakan sysdrive inverter dan bentuk responnya dapat dilihat pada layar komputer. Aksi pengontrolan yang digunakan yaitu PID secara software. Sistem ini dapat mengatur kecepatan putaran motor induksi sesuai dengan besarnya putaran yang diinginkan. Nilai acuan ini dimasukkan lewat keyboard komputer yang digunakan sebagai referensi oleh komputer dalam memerintahkan sysdrive in-verter untuk menggerakkan motor induksi. Aktifitas pengontrolan PID ini dilakukan oleh komputer berdasarkan algoritma perumusanPID. Perumusan PID tersebut melibatkan konstanta-konstanta yang harus di-input-kan ke komputer. Dengan mengganti-ganti konstanta tersebut, respon sistem akan ikut terpengaruh dan dapat dimati pada layar monitor. Konstanta-konstanta tersebut dicari dengan cara trial and error hingga diperoleh respon sistem yang dapat dikatakan baik.",
+  "creators": "SAMUDRA",
+  "contributors": "Emmy Hosea (Advisor 1); Andojo Ongkodjojo (Advisor 2); NONO MOELYONO W. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/TST/006/196; Samudra (23491024)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; ELECTRIC MACHINERY-AUTOMATIC CONTROL"
+}

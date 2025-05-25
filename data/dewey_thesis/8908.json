@@ -1,0 +1,14 @@
+{
+  "id": "8908",
+  "title": "Perancangan dan pembuatan sistem administrasi dan jual-beli pada harapan utama motor",
+  "abstract": "Harapan Utama Motor adalah sebuah toko dengan aktifitas sehari-harinya meliputi penjualan dan pembelian spare part motor. Penjualan dapat dilakukan secara eceran maupun grosir. Selama ini pencatatan transaksi dan pembuatan laporan selalu dilakukan secara manual, sehingga tidak dapat memberikan informasi yang diperlukan secara cepat dan akurat. Pembuatan sistem administrasi dimulai dengan membuat analisis dari sistem yang berjalan dalam perusahaan. Setelah permodelan terbentuk lalu dikonfirmasikan dengan user untuk mendapatkan kesatuan pandangan. Kemudian dilakukan perancangan DFD, ERD, dan database yang digunakan sebagai penyimpan data yang terorganisir. Program sistem informasi ini dibuat dengan menggunakan Borland Delphi 7.0 dengan Microsoft Access sebagai basis data. Implementasi dari sistem ini berupa pengolahan data dari dokumen yang dihasilkan secara manual. Proses yang telah berhasil dibuat adalah transaksi pembelian, penjualan, retur pembelian, retur penjualan, dan menghasilkan informasi berupa laporan transaksi (laporan pembelian, penjualan, laba-rugi). Sistem telah berhasil diuji coba dan berhasil dibuat untuk kepentingan user.",
+  "creators": "LOUISE APRILIA S",
+  "contributors": "Sukanto Tedjokusuma (Advisor 2); Ibnu Gunawan (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010605/INF/2007; Louise Aprilia S (26402089)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

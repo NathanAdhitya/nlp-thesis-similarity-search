@@ -1,0 +1,14 @@
+{
+  "id": "26104",
+  "title": "Perancangan dan pembuatan sistem informasi penjualan dan pembelian berbasis WEB pada pabrik roti Panjunan",
+  "abstract": "Pabrik Roti Panjunan merupakan sebuah pabrik roti yang berkembang di kota Kudus yang menjual berbagai macam roti dan berbagai jenis kue. Pencatatan semua transaksi pembelian dan penjualan pada pabrik ini masih menggunakan sistem manual sehingga membuat pemilik kesulitan dalam melakukan pencatatan stok barang. Dan yang terutama pada proses pembelian dan penjualannya dapat tercatat dengan baik. Dengan adanya sistem informasi ini diharapkan agar dapat membantu Pabrik Roti Panjunan meningkatkan tingkat penjualannya dan meminimalkan adanya kesalahan yang timbul akibat pencatatan aktivitas pembelian dan penjualan secara manual pada Pabrik Roti Panjunan. Penulis merancang berbagai macam desain sistem yang meliputi sistem pembelian, penjualan, pencatatan stok, dan produksi pembuatan roti yang di mana semua sistem tersebut dirancang dengan Data Flow Diagram dan Entity Relationship Diagram. Pembuatan program ini menggunakan bahasa pemrograman PHP yang berbasis web dan untuk proses penyimpanan data, digunakan database PostgreSQL. Program yang dibuat menghasilkan laporan-laporan yang berguna untuk dapat melihat transaksi penjualan, pembelian, stok barang dan produksi yang telah dilakukan pada periode tertentu. Berdasarkan hasil pengujian, fitur-fitur yang telah terdapat pada program yang dibuat dapat membantu dalam melakukan proses transaksi produksi, penjualan, dan pembelian. Kebutuhan akan pabrik ini juga telah terpenuhi melalui laporan yang dihasilkan oleh program.",
+  "creators": "DANIS SALIM",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021055/INF/2011; Danis Salim (26406070)",
+  "subjects": "DATABASE DESIGN; INTERNET (COMPUTER PROGRAMS); WEBSITES-DESIGN"
+}

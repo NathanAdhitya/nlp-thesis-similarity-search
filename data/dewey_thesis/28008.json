@@ -1,0 +1,14 @@
+{
+  "id": "28008",
+  "title": "Aplikasi penggabungan objek transparan kedalam sebuah image",
+  "abstract": "Dewasa ini manipulasi gambar yang berkaitan dengan pengambilan suatu objek (matting) dan penggabungan pada background baru (compositing) banyak dipergunakan (misal dalam dunia perfilman). Objek yang akan diolah dapat beraneka ragam, tetapi permasalahan akan timbul ketika objek yang diolah adalah objek transparan. Belum banyak riset mengenai permasalahan ini karena sulitnya mendapatkan nilai transparansi serta pembiasan objek, sehingga dalam skripsi ini dikembangkan aplikasi untuk melakukan proses matting dan compositing objek tranparan. Proses matting akan dilakukan dengan menggunakan metode Grabcut, lalu nilai alpha/transparansi dari objek akan dihitung dengan alpha matting. Nilai transparansi akan digunakan dalam compositing objek dengan background baru, sedangkan teknik pembiasan dilakukan dengan menggunakan rumus pembiasan Snell’s Law. Aplikasi akan dibuat menggunakan bahasa pemrograman C# dengan Visual C# 2010 sebagai IDE nya. Hasil pengujian menunjukkan bahwa nilai alpha/transparansi yang didapat dipengaruhi oleh pencahayaan, pembiasan oleh background lama, serta motif dari objek. Pembiasan pada objek sudah natural jika dibandingkan dengan kondisi asli. Selain itu posisi mata dapat diatur oleh pengguna untuk mendapatkan hasil sesuai keinginan. Kekurangan dari aplikasi ini adalah hasil gambar tidak dapat menyerupai objek pada gambar awal objek diambil. Selain itu, dikarenakan objek transparan yang diekstrak adalah white object, hasil compositing pada objek transparan berwarna akan terlihat tidak alami.",
+  "creators": "LUWUK MELIANA",
+  "contributors": "Liliana (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021214/INF/2013: Luwuk Meliana (26409027)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

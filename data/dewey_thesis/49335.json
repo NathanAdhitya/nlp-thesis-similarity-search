@@ -1,0 +1,14 @@
+{
+  "id": "49335",
+  "title": "Aplikasi pendukung diagnosis covid-19 yang menganalisis hasil x-ray paru-paru dengan model efficientnet",
+  "abstract": "Pada bulan Desember tahun 2019, telah terdeteksi penyakit berjenis corona virus yang barus yang memiliki gejala pneumonia di pasar seafood di kota Wuhan, provinsi Hubei, China. Virus ini lalu menyebar ke seluruh dunia, yang pada bulan Maret 2020, WHO mengumumkan status dari epidemik menjadi pandemik. WHO akhirnya memberi nama virus pneumonia ini sebagai COVID-19. COVID-19 sudah menginfeksi lebih dari 105 juta orang diseluruh dunia dengan kematian yang sudah mencapai lebih dari 2,3 juta diseluruh dunia. Di Indonesia sendiri sudah terjadi lebih dari 1 juta kasus COVID-19 dan lebih dari 30 ribu kematian pada Februari 2021. Dari jumlah kasus yang memprihatinkan ini, penanganan pasien harus tanggap dilakukan. Salah satu pendukung diagnosis COVID-19 adalah Chest X-ray. Chest X-ray menjadi tahap wajib yang dilakukan pasien sebagai penegasan dan penentuan treatment yang sesuai untuk mengobati dengan tepat. Dalam penelitian ini menggunakan arsitektur Deep Learning EfficientNet untuk melakukan klasifikasi antara orang yang terkena COVID-19, pneumonia, dan normal dari Chest X-ray. Hasil pengujian diukur dengan Akurasi, F1-Score, Recall, Precision, dan Specificity. Dengan adanya penelitian diharapkan dapat melakukan deteksi secepat mungkin sehingga mengurangi penyebaran COVID-19 serta lebih hemat biaya karena Chest X-ray lebih murah, lebih cepat, dan dengan radiasi yang lebih sedikit dari CT-Scan. Hasil dari eksperimen EfficientNet dengan tipe B-1 bisa mencapai akurasi 96 persen.",
+  "creators": "ANANTA KUSUMA PANGKASIDHI",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022045/INF/2021; Ananta Kusuma Pangkasidhi (C14170044)",
+  "subjects": "COVID-19 (DISEASE); APPLICATION SOFTWARE--DEVELOPMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "14672",
+  "title": "Kendali kecepatan putaran motor servo DC dengan fuzzy logic unit (FZ001) pada PLC omron C28H",
+  "abstract": "Kontrol dengan logika fuzzy merupakan kontrol yang mudah dan praktis dalam penerapannya. Kontrol ini tidak memerlukan model matematis yang tepat untuk menghubungkan input dan output. Himpunan input dan himpunan output mempunyai fungsi keanggotaan (membership function) yang dihubungkan dengan rules. Fungsi keanggotaan tersebut dibutuhkan dalam 3 tahapan proses utama dalam kontrol logika fuzzy yakni fuzzifikasi, rules inference dan defuzzifikasi. Melalui tahapan proses-proses tersebut maka suatu keadaan input tertentu dihubungkan dengan suatu keadaan output tertentu pula. Sistem yang dibuat berupa sebuah motor servo DC yang dikopelkan ke sebuah generator DC yang dibebani secara variabel menggunakan beberapa lampu DC yang bisa diatur tegangannya. Terdapat dua macam kendali untuk sistem tersebut yaitu kendali kecepatan putaran motor dan kendali tegangan generator. Driver motor untuk mengatur kecepatan putaran motor menggunakan prinsip Pulse Width Modulation. Kecepatan putaran motor diumpanbalikkan dengan menggunakan konverter frekuensi tachometer ke tegangan. Tegangan generator juga diumpanbalikkan dengan pembagi tegangan. Lampu DC sebagai beban generator dapat diatur tegangannya sehingga pembebanan menjadi lebih variabel. Perhitungan fuzzy dilakukan dengan menggunakan Fuzzy Logic Unit (FZ001) pada PLC Omron C28H. Di samping kontrol dengan logika fuzzy, dibuat pula kontrol PID yang menggunakan PID Control Unit (PID03). Kontrol PID dibuat sebagai pembanding kontrol logika fuzzy. Pemonitoran dan pengaturan kerja sistem dilakukan secara terpusat dari sebuah PC dengan bantuan program SCADA {Supervisory Control And Data Acquisition) Intellution Fix. Pemrograman secara grafis dari Intellution Fix menjadikannya mudah dan menarik. Komunikasi data dengan PLC Omron C28H dilakukan secara serial RS-232C. Kendali sistem ini dengan menggunakan logika fuzzy mempunyai settling time (waktu yang diperlukan sistem untuk mencapai keadaan steady state-nya) yang cepat. Sedangkan kendali dengan menggunakan PID mempunyai keunggulan dalam hal steady state error-nya yang relatif lebih kecil.",
+  "creators": "FENGKY SETIONO",
+  "contributors": "Resmana Lim (Advisor 1); Thiang (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/049/394; Fengky Setiono (23494090)",
+  "subjects": "FUZZY LOGIC"
+}

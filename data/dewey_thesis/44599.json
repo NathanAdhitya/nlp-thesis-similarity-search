@@ -1,0 +1,14 @@
+{
+  "id": "44599",
+  "title": "Perancangan mekanisme dynamic spoiler",
+  "abstract": "Seiring majunya teknologi, komponen aerodinamika aktif mulai diterapkan pada mobil. Salah satunya adalah dynamic spoiler. Dalam hal ini, dynamic spoiler merupakan spoiler yang dapat berfungsi ketika pengereman maupun menikung. Penelitian ini bertujuan untuk merancang mekanisme dynamic spoiler yang dapat diterapkan pada mobil dan dapat meningkatkan sudut maksimal sebesar 15° ketika pengereman maupun menikung. Dynamic spoiler menggunakan sistem elektrik dengan motor servo yang mempunyai torsi 18 kg.cm sebagai aktuator. Input sudut setir berupa potensiometer sedangkan pedal rem menggunakan push button dan dikendalikan oleh mikrokontroler Arduino. Dari hasil pengujian, ketika setir diputar sebesar 90° maka sudut spoiler bergerak sebesar 14,7° pada salah satu sisi. Ketika dilakukan pengereman maka sudut dari kedua bagian spoiler menjadi maksimal.",
+  "creators": "TIMOTHY OSMOND",
+  "contributors": "Ian Hardianto Siahaan (Advisor 1); Roche Alimin (Advisor 2); Ninuk Jonoadji (Examination Committee 1); Yopi Yusuf Tanoto, S.T., M.T. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011293/MES/2019; Timothy Osmond (24415002)",
+  "subjects": "SPOILERS (AIRPLANES)"
+}

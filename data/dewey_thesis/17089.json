@@ -1,0 +1,14 @@
+{
+  "id": "17089",
+  "title": "Perancangan dan pembuatan aplikasi untuk menghasilkan anaglyph movie",
+  "abstract": "Dewasa ini film ? film dalam format 3D telah meluas di pasaran. Tiket untuk menonton film 3D yang diputar di bioskop lebih banyak terjual bila dibandingkan dengan film yang sama, tetapi diputar dalam format 2D. Untuk menampilkan gambar 3D dari gambar 2D bisa digunakan metode seperti Anaglyph. Skripsi ini membahas pembuatan aplikasi yang dapat mengubah suatu movie biasa menjadi movie anaglyph, dimana ilusi 3D dari movie tersebut bisa dilihat dengan menggunakan anaglyphic glasses. Aplikasi ini dibuat dengan menggunakan software Microsoft Visual C# 2005, dan hanya memerlukan satu movie yang akan digunakan sebagai sumber untuk memulai proses konversi. Gambar anaglyph dapat dibuat dengan menumpuk dua gambar yang memiliki cakupan gambar serta warna yang berbeda. Kedua gambar tersebut didapatkan dengan memotong sebagian gambar asli untuk membentuk gambar yang baru. Berdasarkan hasil pengujian bisa disimpulkan bahwa metode color anaglyph menghasilkan movie dengan ilusi 3D yang terang dan tajam. Sedangkan metode gray anaglyph dan half-color anaglyph menghasilkan movie dengan ilusi 3D yang tidak berbayang. Sedangkan metode optimized anaglyph menghasilkan movie dengan ilusi 3D yang dapat mempertahankan warna asli dari movie. Dan untuk metode true anaglyph menghasilkan movie dengan ilusi 3D yang gelap serta berbayang.",
+  "creators": "RENOV YAPOLA",
+  "contributors": "Rudy Adipranata (Advisor 1); Liliana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020908/INF/2010; Renov Yapola (26406168)",
+  "subjects": "COMPUTER GRAPHIC-COMPUTER PROGRAMS; COMPUTER ANIMATION"
+}

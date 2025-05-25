@@ -1,0 +1,14 @@
+{
+  "id": "34927",
+  "title": "Efisiensi penanganan klaim pada sistem tunjangan kesehatan karyawan PT X",
+  "abstract": "PT X merupakan perusahaan manufaktur yang memberikan fasilitas kesehatan kepada karyawan bulanan tetap berupa tunjangan kesehatan. Klaim tunjangan kesehatan yang diajukan karyawan akan diproses melalui sistem tunjangan kesehatan PT X. Proses klaim tunjangan kesehatan terdapat tiga jenis yaitu approval, revise dan deny. Proses approval dan deny pada kondisi awal dilakukan melalui online sistem, sedangkan proses revise masih dilakukan secara manual. Perusahaan menetapkan target 98% klaim yang datang harus diproses pada hari kedatangan klaim tersebut, target tersebut dapat terpenuhi tetapi dengan menggunakan waktu lembur. Rata-rata waktu lembur yang digunakan setiap bulannya adalah 14 jam per admin. Efisiensi sistem diperlukan agar HR admin bagian tunjangan tidak memerlukan waktu lembur dan dapat menghemat biaya lembur. Efisiensi dilakukan dengan cara melakukan perbaikan untuk proses approval dan revise dari sistem tunjangan kesehatan yang ada. Perbaikan dilakukan dengan cara membuat unique key dan barcode pada setiap klaim tunjangan kesehatan, sehingga form klaim tunjangan kesehatan yang baru akan terdapat unique key dan barcode. HR admin bagian tunjangan kesehatan kedepannya dapat melakukan proses scan barcode sehingga dapat mempercepat sistem tunjangan kesehatan PT X. Hasil implementasi ini menurunkan waktu proses sebesar 31% dari kondisi awal, dan biaya investasi awal yang dikeluarkan perusahaan akan kembali dalam jangka waktu kurang lebih tiga bulan.",
+  "creators": "VICKY HARTONO",
+  "contributors": "Herri Christian Palit (Advisor 1); Liem Yenny Bendatu (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021816/IND/2015; Vicky Hartono (25411074)",
+  "subjects": "CLAIMS; HUMAN RESOURCES MANAGEMENT"
+}

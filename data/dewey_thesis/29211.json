@@ -1,0 +1,14 @@
+{
+  "id": "29211",
+  "title": "Perancangan aplikasi perhitungan harga pokok produksi pada UD Sumber Abadi",
+  "abstract": "UD Sumber Abadi adalah usaha yang bergerak di bidang industri keramik. UD Sumber Abadi menjual keramik bermotif. UD Sumber Abadi juga melayani pesanan dari pelanggan jika ingin merubah ukuran atau warna motif yang ada. Proses perhitungan harga pokok produksi masih dihitung secara manual dengan memperhitungkan biaya bahan baku, biaya overhead serta biaya tenaga kerja yang digunakan. Oleh karena itu UD Sumber Abadi membutuhkan sistem informasi yang terkomputerisasi. Dengan adanya aplikasi ini diharapkan dapat lebih membantu UD. Sumber Abadi dalam melakukan perhitungan. Aplikasi ini dibuat dengan bermacam-macam laporan yang diperlukan oleh perusahaan. Menu laporan dapat menampilkan laporan dengan tanggal yang spesifik. Untuk mendesain ERD dan DFD digunakan aplikasi Power Designer 6.0. Aplikasi ini dibuat dengan menggunakan Visual Studio 2005 dan SQLExpress sebagai penyimpan database. Hasil yang diperoleh dari program perhitungan harga pokok produksi terbukti sama dengan perhitungan manual yang ada pada perusahaan. Hal ini dapat memberikan informasi harga pokok untuk tiap produk yang ada. Hasil dari survei kuisioner, 66,67% user menilai baik dari segi tingkat kebutuhan, 66.67% user menilai baik dari segi keakuratan, dan 66,67% user menilai cukup dari segi desain interface yang ada.",
+  "creators": "HARDI PRATOMO",
+  "contributors": "Alexander Setiawan (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021248/INF/2013; Hardi Pratomo (26409057)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

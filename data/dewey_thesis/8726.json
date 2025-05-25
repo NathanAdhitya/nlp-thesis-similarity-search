@@ -1,0 +1,14 @@
+{
+  "id": "8726",
+  "title": "Perancangan dan pembuatan penjadwalan pengiriman ready-mix pada PT. Indosipa Beton menggunakan compact genetic algorithm (CGA)",
+  "abstract": "Persaingan antara perusahaan yang menyediakan jasa pengiriman ready mix semakin ketat. Oleh karena itu, perusahaan pengiriman selalu dituntut untuk memberikan pelayanan yang terbaik kepada pelanggan sekaligus memberikan keuntungan kepada perusahaan. Pelayanan tersebut yaitu penjadwalan pengiriman yang tepat sehingga dapat memberikan kepuasan kepada pelanggan. Aplikasi ini dirancang untuk mengolah data pemesanan proyek pada PT. Indosipa Beton berdasarkan jumlah proyek, jumlah truk yang tersedia, dan waktu tempuh pengiriman tiap proyek sehingga menghasilkan jadwal pengiriman dan jumlah truk yang digunakan pada masing-masing proyek berupa tabel dan diagram. Algoritma yang digunakan dalam proses untuk mendapatkan jadwal pengiriman tersebut adalah Compact Genetic Algorithm (cGA). Aplikasi ini dibuat dengan menggunakan Borland Delphi 7.0 dan MySQL Server 5.0 sebagai database. Aplikasi ini dapat membuat jadwal pengiriman ready-mix berdasarkan jumlah proyek dan jumlah truk yang ada pada hari tertentu. Aplikasi ini diharapkan dapat membantu PT. Indosipa Beton dalam melakukan proses pengiriman ready-mix dengan lebih cepat dan memberikan kepuasan kepada pelanggan.",
+  "creators": "VINCE PONGAWA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); David Sundoro (Advisor 2); BUDI BAMBANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010598/INF/2007; Vince Pongawa (26403154)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

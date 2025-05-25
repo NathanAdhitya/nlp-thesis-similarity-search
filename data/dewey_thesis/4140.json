@@ -1,0 +1,14 @@
+{
+  "id": "4140",
+  "title": "Pembuatan program administrasi dan akuntansi pada PT Lasunli Mandiri",
+  "abstract": "PT Lasunli Mandiri bergerak dibidang multi level marketing. Sebelumnya segala kegiatan dalam perusahaan dikerjakan secara manual. Baik transaksi penjualan maupun penghitungan akuntansi. Kesulitan yang sering dihadapi ialah pada saat ingin mencari data member, atau ingin menghitung bonus member dan menghitung omzet penjualan perusahaan proses pencarian memakan waktu yang amat lama, sedangkan jumlah member di P.T. Lasunli Mandiri ini semakin membengkak, oleh karena itu dipakailah sistem komputerisasi dengan menggunakan database MS SQL Server 7.0 dengan aplikasi Borland Delphi 5.0 untuk membantu membuat laporan transaksi dan penghitungan bonus. Pembuatan program ini mendapatkan tantangan, karena sistem fleksibel yang dipakai perusahaan tidak dapat dipakai dengan sistem komputer, karena sistem komputer bersifat fix, akan tetapi setelah terjadi beberapa kali pembicaraan akhirnya didapatkan jalan tengah, yaitu segala kebijakan yang bersifat fleksibel akan dimasukkan kedalam buku besar dan dianggap sebagai pengeluaran perusahaan. Dengan adanya sistem komputerisasi, maka kegiatan perusahaan tersebut bisa dikerjakan dengan lebih cepat, teliti, dan efisien. Program yang dibuat dengan borland delphi 5.0 ini mempunyai banyak fasilitas yang dapat menggantikan pekerjaan manual yang biasa dilakukan. Mulai dari penanganan data anggota, karyawan, transaksi penjualan dan retur barang, proses akuntansi, sampai laporan-laporan yang dibutuhkan oleh perusahaan. Dalam studi kasus terbukti bahwa dengan jumlah member yang semakin banyak, pencarian data dan proses penghitungan bonus member tetap berlangsung dengan sangat cepat, karena semua variabel yang penting telah disimpan dalam database.",
+  "creators": "AGUS ESTI SUGIARTO",
+  "contributors": "Kartika Gunadi (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0045/INF/2003; Agus Esti Sugiarto (26498059)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

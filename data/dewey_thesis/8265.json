@@ -1,0 +1,14 @@
+{
+  "id": "8265",
+  "title": "Programmer IC melalui USB",
+  "abstract": "Seiring dengan perkembangan teknologi saat ini, penggunaan serial port dan parallel port pada komputer ataupun laptop mulai ditinggalkan karena konsumsi energinya boros pada saat tidak digunakan. Kecepatan transfer datanya juga rendah bila dibandingkan dengan USB. Selain itu, pada umumnya programmer IC yang menggunakan serial port ataupun parallel port masih memerlukan power supply tersendiri, sehingga kurang praktis. Oleh karena itu perlu dikembangkan suatu alat yang lebih praktis dan kompatibel dengan perkembangan teknologi saat ini. Programmer IC melalui USB ini dibuat untuk mengatasi masalah tersebut. Sistem ini menggunakan sebuah IC USB to serial converter tipe FT232BM untuk melakukan transfer data, dan sebuah Mikrokontroler tipe AT89S52 yang diprogram untuk melakukan pemrograman ke IC target. Hasilnya, alat ini telah mampu melakukan pemrograman pada IC AT89S51 dan IC AT89S52.",
+  "creators": "SUSANTO ADJIE WARDHANA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010789/ELK/2006; Susanto Adjie Wardhana (23400081)",
+  "subjects": "MICROCONTROLLER; COMPUTERS"
+}

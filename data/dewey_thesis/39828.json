@@ -1,0 +1,14 @@
+{
+  "id": "39828",
+  "title": "Perancangan sistem pengaman sepeda motor dengan sinyal Bluetooth",
+  "abstract": "Sistem pengaman sepeda motor terus berkembang dari waktu ke waktu khususnya untuk mencegah tindak pencurian. Namun demikian, sistem tersebut tidak dirancang untuk menanggulangi kasus pencurian berupa begal yang beberapa waktu terakhir banyak sekali terjadi dan menyerang pengguna roda dua. Begal merupakan aksi perampokan atau perampasan dengan paksa serta melakukan tindakan kekerasan bahkan bisa sampai membunuh yang dibegal tersebut dan hal ini umumnya banyak terjadi pada kasus pengendara motor yang sendirian. Oleh karena itu diperlukan sistem pengaman tambahan pada sepeda motor yang dapat membantu meminimalisir ataupun menanggulangi kasus begal. Sistem yang dirancang yakni menggunakan bluetooth, dengan menghubungkan bluetooth pada sistem yang dipasang pada sepeda motor dengan bluetooth pada handphone pengendara sepeda motor. Apabila kedua bluetooth tersebut tidak terkoneksi, maka sepeda motor tidak akan dapat menyala. Demikian apabila koneksi terputus, mesin juga akan otomatis mati beberapa saat setelah koneksi terputus. Sistem ini mudah dioperasikan pemilik sepeda motor, namun cukup sulit dibongkar oleh pencuri, apabila sekalipun dibongkar mesin tidak dapat dinyalakan kembali. Rancangan sistem ini telah diterapkan pada sepeda motor Honda Blade Repsol tahun 2012. Kemudahan operasi dan kehandalan sistem ini juga telah diuji secara berulang berdasarkan parameter tertentu, yang membuktikan bahwa sistem pengaman yang dirancang dapat bekerja dengan baik, handal, dan mudah dioperasikan.",
+  "creators": "FELIX TANUWIJAYA",
+  "contributors": "Joni Dewanto (Advisor 1); Ian Hardianto Siahaan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011189/MES/2017; Felix Tanuwijaya (24413034)",
+  "subjects": "MOTORCYCLES-MODIFICATION; ELECTRONIC SECURITY SYSTEMS; BLUETOOTH; ARDUINO (PROGRAMMABLE CONTROLLER)"
+}

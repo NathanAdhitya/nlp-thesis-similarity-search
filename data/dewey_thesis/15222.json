@@ -1,0 +1,14 @@
+{
+  "id": "15222",
+  "title": "Studi mengenai peta kendali untuk data terautokorelasi",
+  "abstract": "Dalam pengendalian kualitas statistik, seringkali digunakan asumsi dasar bahwa data bersifat independen. Beberapa penelitian terdahulu menunjukkan bahvva tidak dipenuhinya asumsi independensi akan meningkatkan waktu deteksi pergeseran dan frekuensi tanda bahaya yang salah. Karenanya, diharapkan praktisi lebih berhati-hati dalam mengaplikasikan peta kendali. Asumsi ini seringkali tidak dapat terpenuhi pada industri proses kimia yang menghasilkan continuous product. Lu dan Reynolds (1999) meneliti peta kendali yang efektif untuk memonitor rerata dan variansi data karateristik proses yang terautokorelasi. Salah satu metode yang diusulkan adalah mengoperasikan peta Shewhart-EWMA residual. Metode ini menambah beban kerja personel kualitas. Karenanya, akan diteliti penggunaan peta EWMV residual. Hasii simulasi menunjukkan, peta EWMV residual akan lebih efektif apabila hanya terjadi pergeseran variansi. Jika pergeseran variansi ini diikuti dengan pergeseran rerata, maka peta EWMV residual akan lebih efektif jika pergeseran variansi besar. Studi kasus dilakukan pada sebuah pabrik ready-mixed concrete, yang tergolong industri proses kimia yang menghasilkan continuous product, di mana interval sampel tak bisa diatur untuk menghasilkan data yang independen. Penerapan peta EWMA-EWMD (yang dibandingkan dengan peta Shewhari-EWMA residual) dapat membuktikan bahwa jika digunakan peta kendali yang tidak memperhitungkan faktor autokorelasi, dua efek yang telah disebutkan tadi akan terjadi.",
+  "creators": "YULIA RIMAYANTI",
+  "contributors": "Indriati Njoto Bisono (Examination Committee 1); Siana Halim (Advisor 2); Tanti Octavia (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi : No. 358/TI-85/2000; Yulia Rimayanti (25496007)",
+  "subjects": "QUALITY CONTROL-STATISTICAL METHODS; TOTAL QUALITY MANAGEMENT-STATISTICAL METHODS"
+}

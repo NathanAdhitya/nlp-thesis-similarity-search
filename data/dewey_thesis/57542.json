@@ -1,0 +1,14 @@
+{
+  "id": "57542",
+  "title": "Pengenalan logat menggunakan k-NN pada rekaman suara",
+  "abstract": "Mendeteksi asal daerah dari pembicara menjadi salah satu hal yang penting untuk dilakukan untuk mengenali seseorang. Hal ini dapat diaplikasikan dalam mendeteksi pembicara dari daerah yang tidak diketahui, memverifikasi daerah yang tidak diketahui dari sebuah tindak kejahatan dan mengenali pembicara. Dalam skripsi ini, metode yang akan digunakan adalah k-Nearest Neighbor, dikarenakan metode ini tidak memerlukan data sebanyak algoritma deep learning. Dan k-nn tidak rentan terhadap gangguan noise dan outlier jika dibandingkan dengan model lain. Dan untuk mengekstrak feature dari audio, digunakan MFCCs (Mel Frequency cepstral coefficients). MFCCs dipilih karena sudah digunakan secara luas untuk speech recognition. Pada pengujian yang dilakukan model mendapat akurasi 0.99 untuk logat Madura dan logat Lombok pada data train. Tetapi saat data tes digunakan, F1 Score dari model menurun menjadi 0.44 untuk logat Lombok dan 0.63 untuk logat Madura atau dengan akurasi sebesar 58%. Hal ini terjadi karena kurangnya dataset untuk kedua logat tersebut. Sehingga dilakukan augmentasi data dengan time stretch, hasil yang didapat adalah F1 score untuk logat Lombok meningkat menjadi 0.55 dan untuk logat Madura menurun menjadi 0.64 atau akurasi sebesar 60%. Metode augmentasi ini berhasil meningkatkan akurasi dari prediksi sebesar sebesar 2% dibandingkan dengan tidak menggunakan time stretch. Tetapi, angka ini masih belum bisa menjawab rumusan masalah pada skripsi ini.",
+  "creators": "ABED KURNIAWAN ALFIANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Rolly Intan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022337/INF/2023; Abed Kurniawan Alfianto (C14190171)",
+  "subjects": "COMPUTATIONAL INTELLIGENCE; SOUND RECORDINGS; SPEECH PERCEPTION--DATA PROCESSING; MULTIVARIATE ANALYSIS--COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "28009",
+  "title": "Aplikasi untuk memperhalus permukaaan mesh pada metode ray tracing dengan menggunakan lagrange surface",
+  "abstract": "Seiring berkembangnya teknologi, hampir semua game dan animasi berpindah dari berbasis 2D menjadi 3D. Ray tracing merupakan metode rendering untuk menghasilkan simulasi tampilan 2D dari objek 3D. Ray tracing memperhitungkan efek pencahayaan dan pencerminan pada setiap face objek mesh. Hal ini menyebabkan pewarnaan face berlangsung lama dan mesh yang digunakan terkadang menghasilkan gradasi warna permukaan yang kasar. Untuk menyelesaikan permasalahan tersebut, digunakan lagrange curve yang memanfaatkan vektor normal dari interpolasi ketiga vektor pembentuk segitiga. Untuk mendapatkan vektor normal yang bervariasi di dalam face, digunakan lagrange curve dari face tetangga di ketiga sisi segitiga. Setelah itu dilakukan proses rendering, dimana vektor normal yang dihasilkan lagrange curve akan menghasilkan gradasi warna permukaan yang lebih halus. Pengujian dilakukan dengan membandingkan hasil metode lagrange curve dengan metode simple subdivision, catmull-clark subdivision, dan ray tracing biasa. Waktu yang dibutuhkan untuk proses ray tracing dengan lagrange curve meningkat sebesar 21,30% dibandingkan ray tracing biasa, namun lebih cepat dari metode simple subdivision (353,27%) dan catmull-clark subdivision (415,06%). Dalam pemakaian memory, lagrange curve mengalami peningkatan paling besar, yaitu 83,27% dibandingkan ray tracing biasa, sedangkan simple subdivision (14%) dan catmull-clark subdivision (13,62%). Lagrange curve menghasilkan gradasi warna permukaan yang lebih halus dibandingkan dengan ray tracing biasa, dan metode subdivision.",
+  "creators": "FERDI ATMAJA WONG SUSILO",
+  "contributors": "Liliana (Advisor 1); Gregorius Satiabudhi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021215/INF/2013; Ferdi Atmaja Wong Susilo (26409082)",
+  "subjects": "COMPUTER GRAPHICS; RAY TRACING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "14677",
+  "title": "Perancangan sistem keandalan dengan Rantai Markov Kontinu",
+  "abstract": "Terjadinya kerusakan mesin di tengah-tengah proses (breakdown) yang menyebabkan proses produksi harus berhenti merupakan salah satu permasalahan di PT. Wangta Agung II, sebuah perusahaan yang memproduksi sepatu di Surabaya. Perusahaan ini menggunakan beberapa jumlah mesin dalam proses produksinya, dan setiap mesin memiliki jenis kerusakan yang berbeda. Ada beberapa kerusakan yang dapat menyebabkan kerusakan lainnya. Korelasi antar kerusakan ini dapat dimodelkan dengan rantai Markov konrinu. Tujuan tugas akhir ini adalah memprediksikan perilaku kerusakan mesin dan merencanakan kapasitas produksi dengan memperhitungkan perawatan mesin berdasarkan sistem keandalan tiap mesin. Untuk mencapai tujuan tersebut, diperlukan data-data kerusakan dan service time masa lalu untuk memprediksikan pola distribusi kerusakan dan service time dari setiap mesin. Setelah pola distribusi dari setiap mesin diketahui dapat dibangun model rantai Markov kontinu untuk membuat persamaan keandalan setiap saat yang kemudian digunakan untuk memprediksikan probabilitas dari availability dan unavailability tiap mesin. Sehingga pada akhirnya dapat direncanakan kapasitas produksi dari mesin-mesin yang digunakan.",
+  "creators": "ANDREAS AUGUST",
+  "contributors": "Siana Halim (Advisor 1); Tidak diketahui (Advisor 2); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 366/TI-93/2000; Andreas August (25496005)",
+  "subjects": "PRODUCTION PLANNING"
+}

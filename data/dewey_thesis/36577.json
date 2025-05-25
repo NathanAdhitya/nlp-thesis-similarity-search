@@ -1,0 +1,14 @@
+{
+  "id": "36577",
+  "title": "Migrasi autentikasi dari PAM ke LDAP di Universitas Kristen Petra",
+  "abstract": "Autentikasi di Universitas Kristen Petra menggunakan akun yang disimpan di local user sistem operasi yang ada di server John dan Peter. Pihak Puskom juga perlu menyimpan lebih banyak data akun yang disimpan. Oleh karena itu, LDAP digunakan untuk menggantikan penyimpanan akun di local user sistem operasi. Aplikasi melakukan autentikasi menggunakan PAM melalui dovecot/POP3. Pengerjaan skripsi berfokus pada implementasi LDAP di Universitas Kristen Petra dan migrasi akun dan aplikasi. Implementasi dan migrasi menggunakan data akun yang disimpan di server John dan Peter. Aplikasi yang dibuat memiliki fitur pencarian dan pengaturan akun yang sudah ada maupun membuat akun baru. Aplikasi dibuat untuk mendukung kebutuhan puskom. Berdasarkan Pengujian yang dilakukan, migrasi akun berhasil dilakukan. Percobaan migrasi dilakukan menggunakan beberapa akun milik mahasiswa dan dosen. Kebutuhan waktu response time yang dibutuhkan apabila melakukan autentikasi langsung ke LDAP lebih singkat dibandingkan autentikasi ke POP3. Autentikasi yang memiliki response time terendah adalah autentikasi langsung ke LDAP tanpa TLS.",
+  "creators": "JULIO CHRISTIAN SALIM",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021492/INF/2016; Julio Christian Salim (26412006)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

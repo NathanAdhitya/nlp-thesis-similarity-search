@@ -1,0 +1,14 @@
+{
+  "id": "49665",
+  "title": "Kebun pintar dalam ruang berbasis Internet of Things",
+  "abstract": "Perkembangan teknologi dalam bidang pertanian saat ini sudah berkembang dengan pesat yang ditandai dengan konsep bernama smart farming. Berkebun dalam rumah yang saat ini menjadi trend tidak jarang masih dilakukan secara manual. Tugas akhir ini bertujuan untuk membuat prototipe kebun pintar dalam ruang yang terkoneksi melalui aplikasi berbasis Blynk untuk kontrol dan menampilkan pembacaan sensor. Dengan menggunakan nodeMCU-32S sebagai mikrokontrollernya, kebun pintar dalam ruang ini diprogram dengan beberapa fitur di antaranya melakukan penyiraman otomatis, pemberian cahaya oleh lampu secara terjadwal, dan dapat melakukan pengamatan dan kontrol melalui sebuah smartphone dengan aplikasi berbasis Blynk. Dalam tugas akhir ini tanaman yang digunakan sebagai uji coba adalah tanaman peppermint dengan waktu pengujian selama 4 minggu dengan 2 perlakuan yang berbeda. Berdasarkan hasil pengujian keseluruhan sistem yang telah dilakukan, sistem pengamatan dan kontrol dapat bekerja dengan baik. Tanaman mint mengalami kenaikan tinggi tanaman, warna daun yang menghijau dan jumlah daun yang semakin banyak saat diberikan set point sebesar 60% dan pemberian cahaya selama 23 jam.",
+  "creators": "VICKY ARDIANSYAH",
+  "contributors": "Thiang (Advisor 1); Resmana Lim (Examination Committee 1); Emmy Hosea (Examination Committee 2); Indar Sugiarto (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011024/ELK/2021; Vicky Ardiansyah (C11170042)",
+  "subjects": "INDOOR GARDENING; INTEGRATED CIRCUITS; AGRICULTURAL INNOVATIONS"
+}

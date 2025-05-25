@@ -1,0 +1,14 @@
+{
+  "id": "4632",
+  "title": "Perancangan dan pembuatan program sistem informasi akuntansi pada transaksi pembelian dan penjualan pada PT Florarom Nusantara",
+  "abstract": "PT Florarom Nusantara adalah suatu perusahaan dagang yang merupakan agen tunggal salah satu merk bibit minyak wangi untuk wilayah Indonesia. Saat ini PT Florarom Nusantara masih menggunakan cara manual, yaitu semua kegiatan akuntansinya dilakukan dengan media kertas dan kalkulator, sehingga sering terjadi kesalahan pencatatan dan kesalahan penghitungan. Proses manual tidak berjalan dengan baik. Hal ini membuat pemilik merasa kesulitan untuk mengetahui informasi mengenai laporan keuangan yang dibutuhkan. Dalam rangka penyusunan Tugas Akhir, maka dibuat program Sistem Informasi Akuntansi yang terkomputerisasi untuk PT Florarom Nusantara, sehingga sistem informasi dapat lebih akurat. Proses pembuatan program dimulai dari awal, yaitu analisis kegiatan pada PT Florarom Nusantara yang masih manual, kemudian penyusunan DFD, ERD, dan pembuatan tabel sampai pada pemrograman. Untuk pengamanan data, setiap pemakai diberi user, password, dan ditentukan menu yang bisa diakses sesuai departemen tempat kerjanya. Pembuatan database menggunakan Microsoft Access 2000. Aplikasi untuk pemrograman yang digunakan adalah Microsoft Visual Basic 6.0 SP 5. Sistem Informasi Akuntansi yang dibuat ini bisa melakukan pengambilan data transaksi pembelian dan penjualan, serta pembuatan jurnal dan buku besar. Selain itu juga dapat menghasilkan laporan keuangan yang terdiri dari laporan laba/rugi, laporan perubahan modal, dan neraca.",
+  "creators": "ENRICO KRISANDI LIPESIK",
+  "contributors": "Sri Maharsi (Advisor 1); Silvia Rostianingsih (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000244/INF/2004; Enrico Krisandi Lipesik (26499144)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "57571",
+  "title": "Machine learning regression model untuk memprediksi temporal based solar pv output di Jawa-Bali",
+  "abstract": "Pulau Jawa - Bali merupakan salah satu wilayah terpenting dalam menyediakan kebutuhan pasokan listrik sekaligus wilayah dengan pemanfaatan energi surya atap terbesar di Indonesia. Prioritas pemerintah dalam mendukung sustainability dengan memanfaatkan energi surya sebagai renewable energy sudah didukung banyak perusahaan di Jawa-Bali dengan memasang Solar Photovoltaic (Solar PV) di bangunan-bangunan kantor atau pabrik mereka. Namun dalam penggunaan sistem Solar PV terdapat permasalahan yang harus dihadapi diantaranya ketidakpastian kondisi iklim di Indonesia yang mengakibatkan variasi intensitas radiasi matahari disamping faktor suhu udara sekitar. Kondisi ini mengakibatkan daya listrik yang dihasilkan Solar PV menjadi fluktuatif dan tidak menentu. Untuk menghadapi tantangan tersebut, sistem prediksi output Solar PV akan dibuat dalam skripsi ini agar dapat dimanfaatkan pihak berkepentingan dalam mengelola perencanaan jangka pendek maupun jangka panjang. Dalam skripsi ini Multiple Linear Regression (MLR), Random Forest (RF), Histogram Gradient Boosting (HGB), dan Multi-layer Perceptron (MLP) akan digunakan sebagai metode prediksi. Untuk pelatihan menggunakan data berupa gridded hourly Solar PV di Pulau Jawa - Bali tahun 2005-2014, bersumber dari MERRA-2. Hasilnya membuktikan bahwa MLP dapat bekerja sangat baik dalam memprediksi output Solar PV dengan RMSE 0.282 diikut oleh RF 0.363 HGB 0.997, dan MLR 4.953.",
+  "creators": "DICK JOVIAN",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022389/INF/2023; Dick Jovian (C14190076)",
+  "subjects": "MULTIVARIATE ANALYSIS; RENEWABLE ENERGY SOURCES--DATA PROCESSING; SOLAR ENERGY--DATA PROCESSING; MACHINE LEARNING"
+}

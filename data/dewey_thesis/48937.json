@@ -1,0 +1,14 @@
+{
+  "id": "48937",
+  "title": "Pengaruh dinding bata pengisi terhadap kinerja seismik bangunan ruko",
+  "abstract": "Seiring dengan kemajuan zaman, kota berkembang menjadi semakin padat, yang menyebabkan kebutuhan lahan meningkat. Bangunan ruko menjadi semakin populer dikarenakan menggabungkan antara fungsi hunian dengan komersial. Bangunan tersebut biasanya merupakan struktur beton bertulang dengan dinding bata pengisi, yang biasanya dimodelkan sebagai elemen non-struktural. Namun, pada realitanya dinding dapat memberikan pengaruh terhadap kinerja seismik bangunan. Bangunan ruko juga tidak jarang memiliki kolom tipis, yang menyebabkan penjangkaran tulangan balok tidak mencukupi, sehingga ada kemungkinan terjadi kegagalan akibat bond-slip. Pada penelitian ini, analisis pengaruh dinding bata pengisi dilakukan terhadap kinerja seismik pada bangunan ruko tahan gempa dan tidak tahan gempa. Analisis dilakukan secara 3D dengan nonlinear time history direct integration dengan bantuan software SAP2000 v22.0.0 dan fitur element removal. Beban gempa yang diberikan berupa Gempa El Centro 1940 yang dimodifikasi dengan spektrum respons kota Surabaya untuk level gempa desain (2⁄3 MCER). Sendi plastis dimodelkan pada balok, kolom, dan dinding bata pengisi. Kegagalan akibat bond-slip dimodelkan sebagai sendi plastis pada balok yang panjang penjangkarannya kurang memadai. Selama proses analisis, elemen yang mengalami kerusakan dihapus agar analisis dapat berlanjut. Hasil dari penelitian menunjukkan bahwa pemodelan dinding bata pengisi belum tentu meningkatkan maupun menurunkan kinerja seismik bangunan ruko baik dari segi damage index maupun drift, bergantung pada konfigurasi dinding bata pengisi.",
+  "creators": "AGUSTINUS CHRISTIAN GODEBERTA; FREDERICK",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Benjamin Lumantarna (Advisor 2); Jimmy Chandra (Examination Committee 1); Agievianthi, MS (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012453/SIP/2021; Agustinus Christian Godeberta (B11170011)Frederick (B11170087)",
+  "subjects": "BUILDINGS-EARTHQUAKE EFFECTS; EARTHQUAKE ENGINEERING"
+}

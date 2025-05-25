@@ -1,0 +1,14 @@
+{
+  "id": "28220",
+  "title": "Analisa jembatan box ginder simply supported dengan metode finitestrip",
+  "abstract": "Metode Finite Strip adalah suatu metode yang menggunakan Teori Total Energi Potensial Minimum sebagai pedoman untuk menganalisa persoalan struktur plat, terutama struktur jembatan plat/Box Girder di atas perletakan Simply Supported. Metode ini dapat dianggap sebagai bentuk penyederhanaan dari Metode Finite Element, yang juga menggunakan Komputer sebagai alat pembantu perhitungan. Pada pembahasan pertama akan dibahas tentang kelebihan dan kekurangan dari metode tersebut dibandingkan dengan Metode Finite Element, penggunaan Teori Total Energi Potensial Minimum di dalam menganalisa persoalan struktur, analisa Finite Strip pada plat terlentur dan analisa pada arah bidang serta penerapannya pada analisa Box Girder. Sedangkan pada bab berikutnya akan dibahas tentang penggunaan order yang lebih tinggi dari fungsi polynomial yang dipilih, untuk pembahasan yang sama. Pada pembahasan terakhir adalah pembuatan program komputer untuk menganalisa Jembatan Box Girder Simply Supported, baik untuk Lower Order maupun Higher Order, persiapan data, cara penggunaan program komputer tersebut, serta contoh perhitungan dan perbandingan hasil dengan metode penyelesaian Folded Plate.",
+  "creators": "GUANA TANDJUNG; FERRY SUSANTO",
+  "contributors": "Ir. Soehendro Ratnawidjaja, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 174 S; Guana Tanjung (279058), Ferry Susanto (279135)",
+  "subjects": "BRIDGES CONSTRUCTION; BRIDGES, BOX GIRDER"
+}

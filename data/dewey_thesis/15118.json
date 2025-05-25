@@ -1,0 +1,14 @@
+{
+  "id": "15118",
+  "title": "Perencanaan dan pembuatan alat ukur karakteristik impedansi pengeras suara",
+  "abstract": "Di pasaran saat ini terdapat banyak jenis pengeras suara yang mempunyai impedansi yang berbeda-beda.Untuk merancang suatu sistem pengeras suara yang berkualitas baik, maka perlu diketahui karakteristik dari suatu pengeras suara. Adapun untuk mengetahui karakteristik dari suatu pengeras suara maka dibutuhkan suatu alat bantu. Impedansi pengeras suara merupakan suatu beban yang kompleks sehingga harga impedansinya dipengaruhi oleh frekuensi. Dengan menggunakan Alat Ukur Karakteristik Impedansi Pengeras Suara maka impedansi pengeras suara diukur pada seluruh jangkah frekuensi audible sehingga menghasilkan suatu kurva karakteristik. XR-2206 merupakan suatu generator frekuensi yang digunakan karena mempunyai frekuensi kerja antara 0,01 Hz hingga diatasl Mhz.Selain mempunyai frekuensi kerja yang lebar, XR-2206 juga mempunyai stabilitas dan kemantapan yang baik. Untuk konverter analog ke digital digunakan ADC 0804.PPI 8255 mengambil data digital dan dikirim ke PC yang berperan sebagai pemroses data. Semua program yang digunakan ditulis dalam bahasa Pascal yang menggunakan Kompiler Turbo Pascal 7.0.Dengan diketahuinya karakteristik impedansi pengeras suara maka akan mempermudah dalam mendesain rangkaian kompensator. Dari hasil pengujian didapatkan hasil pengukuran yang cukup baik dengan error rata-rata hanya 1,0036%, dibandingkan referensi dari pabrik. Penyimpangan frekuensi generator membawa dampak bagi ketidaktelitian hasil pengukuran.",
+  "creators": "HARYANTO",
+  "contributors": "YOHANES T. D. S (Examination Committee 1); HERLIANTO TENGGARA (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/ E/EL/016/361; Haryanto (23492092)",
+  "subjects": "OPERATIONAL AMPLIFIER"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "46237",
+  "title": "Penerapan recurrent neural network untuk pembuatan ringkasan ekstraktif otomatis pada berita berbahasa Indonesia",
+  "abstract": "Saat ini perkembangan informasi sangatlah pesat, dan berita online menjadi salah satu dari sumber informasi tersebut. Oleh karena perkembangan yang pesat ini, jumlah berita yang tersedia semakin banyak untuk bisa dibaca oleh manusia sehingga dikembangkanlah sebuah program untuk melakukan pembuatan ringkasan berita agar mengurangi waktu baca dengan memanfaatkan neural network sebagai basis program. Metode yang digunakan adalah Recurrent Neural Network untuk melakukan training pada model. Jenis Recurrent Neural Network yang digunakan adalah Gated Recurrent Unit yang dijalankan 2 kali yaitu pada word level dan pada sentence level. Dalam pembuatan model GRU-RNN ini, dilakukan beberapa percobaan seperti mengganti weight awal word embedding, pergantian pooling, penghilangan dropout layer, dan dilakukan beberapa preprocessing pada dataset. Hasil penelitian menunjukkan bahwa dengan model awal, hasil F1 – Score dari ROUGE – 1, ROUGE – 2 dan ROUGE – L bisa mencapai sekitar 80% apabila dibandingkan dengan referensi ekstraktif dan sekitar 50% apabila dibandingkan dengan referensi abstraktif. Hasil pengujian menunjukkan bahwa peforma model paling bagus dengan menggunakan weight awal word embedding dari dataset training dengan menggunakan average pooling tanpa diberi dropout layer. Hasil terbaik pengujian memberikan F1 – Score 84.10 untuk ROUGE – 1, 83.10 untuk ROUGE – 2 dan 83.31 untuk ROUGE – L pada referensi ekstraktif dan F1 – Score 57.01 untuk ROUGE – 1, 51.17 untuk ROUGE – 2 dan 55.10 untuk ROUGE – L pada referensi abstraktif.",
+  "creators": "KRISTIAN HALIM",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Alvin Nathaniel Tjondrowiguno (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Hans Juwiantho (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021948/INF/2020; Kristian Halim (26416018)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); DATA SETS"
+}

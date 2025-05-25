@@ -1,0 +1,14 @@
+{
+  "id": "11518",
+  "title": "Sistem kompetisi panjat tebing Surabaya berbasis visual basic 6.0 dan mikrokontroler atmel 89s52",
+  "abstract": "Sistem penyimpanan database sebuah kompetisi pada umumnya masih dilakukan secara manual. Hal tersebut juga berlaku pada sebagian besar kompetisi resmi bertaraf nasional maupun regional. Model sistem ini adalah: hardware berupa stopwatch dari mikrokontroler MCS-51 yang terkoneksi dengan CPU dan dibaca oleh software pengolah database berbasis Visual Basic 6.0 untuk mempermudah proses input data, hingga ditransfer ke dalam bentuk microsoft Excel. Hardware pada sistem dibuat dengan mikrokontroler single chip AT89S52. Stopwatch ini juga disertai dengan 2 buah tombol sebagai penyimpan waktu yang dicapai selama berjalannya stopwatch. Stopwatch pada mikrokontroler akan ditampilkan pada SevenSegmen sebagai sarana tampilan data. Mikrokontroler dengan CPU dihubungkan menggunakan port serial communication RS232. Data setelah tombol stop ditekan akan tersimpan otomatis pada mikro dengan alamat yang ditentukan kemudian akan dibaca oleh CPU. Data itu lalu diproses dan di-input pada software sistem kompetisi untuk diproses lebih lanjut. Pengujian waktu untuk merespon tombol stop menggunakan kabel tunggal sepanjang 50 meter berkisar kurang dari 1 detik. Pengujian keakuratan Stopwatch juga dapat dipertanggung jawabkan karena telah dibandingkan dengan stopwatch digital lainnya yaitu jam sistem komputer dengan menggunakan bahasa pemrograman Delphi 7. Hasil pembacaan data stopwatch juga sudah benar dan terkirim dengan baik dalam waktu kurang dari 1 detik.",
+  "creators": "MUJTAHID AKTANTO",
+  "contributors": "Thiang (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010886/ELK/2009; Mujtahid Aktanto (23402113)",
+  "subjects": "MICROCONTROLLER AT 89S52; MICROCONTROLLERS-STOPWATCH"
+}

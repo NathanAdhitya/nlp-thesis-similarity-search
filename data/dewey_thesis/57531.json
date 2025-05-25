@@ -1,0 +1,14 @@
+{
+  "id": "57531",
+  "title": "Perancangan pembangkit listrik tenaga surya dengan metode off grid - hybrid",
+  "abstract": "Pengembangan sistem PLTS off grid-hybrid menggabungkan sumber PLTS dan PLN untuk menjaga kontinuitas suplai listrik. Sistem PLTS off grid – hybrid dirancang untuk dapat melakukan perpindahan sumber listrik secara otomatis dengan menggunakan Automatic Transfer Switch. Pada sistem ini juga dirancang untuk memilih sumber prioritas PLN atau PLTS. Tetapi untuk mencegah beroperasinya sumber listrik dari PLN dan dari PLTS secara bersamaan, maka dibuatkan sistem interlock. Sistem PLTS ini terdiri dari panel surya untuk mengubah cahaya matahari menjadi listrik DC, solar charger controller untuk mengendalikan pengisian baterai, baterai untuk tempat penyimpanan listrik DC, modul LVD untuk mencegah pemakaian baterai secara berlebihan, inverter untuk mengubah listrik DC menjadi listrik AC. Berdasarkan hasil pengujian modul LVD, sistem mampu bekerja dengan baik untuk memutus inverter, ketika tegangan baterai <11,6V. Berdasarkan hasil pengujian sistem ATS, sistem dapat melakukan perpindahan secara otomatis, ketika salah satu sumber listrik padam. Berdasarkan hasil pengujian sistem interlock sistem dapat menghalangi salah satu sumber listrik, sehingga sumber listrik dari PLN dan PLTS tidak masuk secara bersamaan.",
+  "creators": "FELIX FEBRIANTO",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010680/ELK/2023; Felix Febrianto (C11190002)",
+  "subjects": "SOLAR THERMAL ENERGY; ELCTRIC POWER"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "50397",
+  "title": "Pemodelan sensor capacitive dengan menggunakan bondgraph",
+  "abstract": "Dalam mendesain sebuah sistem baik mekanik maupun elektrik dibutuhkan waktu yang cukup lama dan biaya yang cnkup banyak. Pemodelan dapat menurunkan segi biaya dalam perencanaan suatu sistem. Bondgraph adalah salah satu metode pemodelan yang dapat digunakan. Bahan yang akan dimodelkan adalah sensor capacitive sebagai pressure sensor. Sensor capacitive terdiri dari dua keping sejajar yang bermuatan dan terpisah pada jarak tertentu. Diantara kedua keping tersebut terdapat bahan dielektric. Dalam sensor terdapat dua domain yaitu gaya sebagai domain mekanik dan nilai kapasitor sebagai domain elektrik. Pemodelan diawali dengan mengubah kapasitor pada bondgraph menjadi 2-port dengan software 20 sim 3.3. Setelah itu sumber tegangan dan sumber gaya dapat dihubungkan, lalu parameter yang dibutuhkan dapat diisi. Simulasi dapat dilakukan setelah semua komponen terhubungkan oleh bond. Hasil simulasi yang didapat menunjukkan bahwa adanya perubahan gaya dapat mengakibatkan nilai kapasitor berubah karena adanya perubahan jarak antara kedua keping.",
+  "creators": "GONDO INDRA KURNIAWAN",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010728/ELK/2005; Gondo Indra Kurniawan (23400043)",
+  "subjects": "AUTOMATIC CONTROL--COMPUTER PROGRAMS"
+}

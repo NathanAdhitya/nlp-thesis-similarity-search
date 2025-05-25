@@ -1,0 +1,14 @@
+{
+  "id": "48875",
+  "title": "Electrocardiogram biometrics recognition menggunakan artificial neural network",
+  "abstract": "Electrocardiogram sebagai identifikator telah banyak diteliti pada 2 dekade terakhir. Electrocardiogram signal merupakan salah satu data yang dapat digunakan dalam biometrics recognition. Karakteristik electrocardiogram yang unik pada setiap individu, mudah didapatkan, dan sulit untuk ditiru menjadikan electrocardiogram cocok sebagai biometrics recognition. Pada penelitian ini akan dibuat identifikator yang memanfaatkan electrocardiogram signal tiap individu. Selama ini, penelitian lain mengkonjungsikan pendekatan fiducial dan non-sequential klasifikator atau mengkonjungsikan pendekatan non-fiducial dan sequential klasifikator. Penelitian ini menggunakan pendekatan non-fiducial pada dataset MIT-BIH Arrhythmia Database dari physionet dengan menggunakan Artificial Neural Network sebagai non-sequential klasifikator yang menawarkan computational complexity lebih rendah dan tanpa memerlukan feature extraction. Pendekatan non-fiducial memerlukan pemotongan sinyal menjadi setiap heartbeat. Metode Artificial Neural Network menggunakan neuron pada setiap layer untuk mengklasifikasikan hasil digitalisasi electrocardiogram signal. Hasil penelitian menunjukkan akurasi 98.886% dari model yang telah diuji menggunakan MIT-BIH Arrhythmia Database. Penelitian ini menunjukkan kemampuan Artificial Neural Network sebagai metode non-sequential untuk melakukan identifikasi electrocardiogram dengan pendekatan non-fiducial.",
+  "creators": "WILLIAM SIM JAYAPRANATA",
+  "contributors": "Rolly Intan (Advisor 1); Liliana (Advisor 2); Kartika Gunadi (Examination Committee 1); Gregorius Satiabudhi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022034/INF/2021; William Sim Jayapranata (C14170060)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

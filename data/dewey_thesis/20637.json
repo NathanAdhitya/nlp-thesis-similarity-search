@@ -1,0 +1,14 @@
+{
+  "id": "20637",
+  "title": "Perancangan dan pembuatan sistem informasi perhotelan pada hotel X di Probolinggo",
+  "abstract": "Hotel X adalah hotel yang terletak di kabupaten Probolinggo, Jawa Timur. Sistem yang terbentuk saat ini menggunakan sistem manual yang banyak ditemui kekurangannya. Contoh kekurangannya adalah dalam hal pencatatan data yang masih manual, baik data reservasi, data check-in, data check-out dan data lainnya. Untuk pengembangan usahanya dibutuhkan sistem baru yang dapat memperbaiki sistem lama yang dipakai saat ini. Pada skripsi ini, proses pembuatan aplikasi diawali dengan analisis desain hingga implementasi. Untuk mendapatkan desain baru dibutuhkan survei lapangan. Desain yang dibuat meliputi pembuatan DFD dan ERD yang baru. Aplikasi sistem reservasi online dan sistem check-in dan check-out yang baru, akan diimplementasikan pada Hotel X untuk membuat system menjadi lebih terkomputerisasi dan data tersimpan pada database dengan baik. Skripsi ini dibuat dengan menggunakan PHP Hypertext Preprocessor (PHP) sebagai bahasa script dengan media framework Codeigniter dan PHPMyAdmin sebagai penyimpan database. Aplikasi ini telah selesai dibuat dengan fitur-fitur yang telah memenuhi kebutuhan sistem sebelumnya meliputi reservasi online, check-in dan check-out secara terkomputerisasi.",
+  "creators": "IGN ARDIAN KUSUMA",
+  "contributors": "Alexander Setiawan (Advisor 1); Agustinus Noertjahyana (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021027/INF/2011; I G N Ardian K (26407032)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

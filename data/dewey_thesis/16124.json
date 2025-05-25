@@ -1,0 +1,14 @@
+{
+  "id": "16124",
+  "title": "Pengukur kecepatan kendaraan bermotor",
+  "abstract": "Tidak dapat dipungkiri bahwa salah satu penyebab utama kecelakaan lalu lintas merupakan kecerobohan dari pengemudi sendiri, diantaranya adalah melaju kencang tanpa memperhatikan rambu-rambu yang menunjukkan batas aman kecepatan. Untuk membantu tugas aparat kepolisian dalam menertibkan pelanggaran kecepatan dibutuhkan suatu alat yang dapat mengukur kecepatan dari kendaraan yang sedang melintas. Pada tugas akhir ini, dibuat sebuah alat pengukur kecepatan kendaraan bermotor dengan menggunakan sensor inframerah yang dikontrol microcontroller AT89C51. Proses pengukuran dari sisi samping kendaraan berdasarkan rumus kecepatan. Dengan menentukan jarak antara sensor pertama dan kedua sejauh 10 cm maka kecepatan kendaraaan akan dapat dihitung. Hasil perhitungan dalam satuan m/s dan km/jam akan ditampilkan pada LCD. Dari pengujian yang telali dilakukan, karena pengaruh inframerah dari cahaya matahari mengakibatkan alat pengukur kecepatan tidak dapat digunakan pada lingkungan yang mendapat cahaya matahari secara langsung. Pada hasil kalibrasi pengujian kecepatan menunjukkan alat yang dibuat mempunyai rata-rata error sebesar 7,22%.",
+  "creators": "SUNNY KUSUMA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/008/445; Sunny Kusuma (23495011)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "48786",
+  "title": "Perancangan robot delta dengan penglihatan kamera untuk pick and place kue kering",
+  "abstract": "Implementasi robot pada dunia industri di Indonesia sudah mulai berkembang. Meskipun demikian, penggunaan robot untuk skala kecil dan menengah jarang ditemukan apalagi untuk Robot Paralel. Selain itu karena perkembangan teknologi, sensor kamera dan library untuk pengolahan dan analisa citra sudah banyak tersedia. Sehingga, studi ini membahas pembuatan prototipe Robot Delta dengan penglihatan kamera dan aplikasinya untuk pengemasan kue. Prototipe Robot Delta ini hanya menggunakan Raspberry Pi saja sebagai controller dan kontrol yang dilakukan adalah sistem open-loop. Studi dimulai dari desain hingga percobaan prototipe. Dari hasil yang didapat, prototipe Robot Delta dapat memindahkan model kue ke tempat kue tetapi dengan error maksimal 16,25%.",
+  "creators": "JOSEPH WICAKSONO TANDIO",
+  "contributors": "Roche Alimin (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Ninuk Jonoadji (Examination Committee 1); Joni Dewanto (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03011374/MES/2020; Joseph Wicaksono Tandio (C12170033)",
+  "subjects": "RASPBERRY PI (COMPUTER)--PROGRAMMING; ROBOT VISION; ROBOTICS--DESIGN AND CONSTRUCTION"
+}

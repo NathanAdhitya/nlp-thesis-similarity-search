@@ -1,0 +1,14 @@
+{
+  "id": "1678",
+  "title": "Akses mouse komputer berbasis Windows 9x melalui web kamera",
+  "abstract": "Pemakaian komputer dewasa ini telah begitu luasnya. Komputer telah dipakai di berbagai bidang dan kegiatan. Mulai dari hal-hal yang amat sederhana sampai ke hal-hal yang rumit, juga untuk hiburan. Hal ini membuat pentingnya suatu cara atau perangkat yang dapat dipakai untuk berinteraksi antara komputer dan manusia. Tujuan dari tugas akhir ini adalah memanfaatkan kamera untuk dapat mengakses mouse komputer dari jarak yang agak jauh dan dengan kemudahan seperti touch screen. Hal ini dilakukan dengan hanya menambahkan suatu software saja sehingga dapat menolong kita berinteraksi lebih nyata dengan komputer dan lebih ekonomis. Metode untuk mengakses mouse dengan kamera ini adalah dengan tracking warna, dan segmentasi. Fungsi-fungsi yang diperlukan diambil dari Open source computer vision library serta INTEL? Image Processing Library. Dengan software ini maka mouse akan dapat digerakan dengan tiga metode, yaitu metode seperti pada joystick, metode seperti pada mouse notepad, metode touch screen. Sedangkan untuk event pada mouse dipakai metode segmentasi. Pemilihan metode mana yang terbaik dipakai ditentukan oleh pemakai itu sendiri. Hasil dari berbagai percobaan menunjukkan ternyata setiap metode diatas dapat dipakai untuk membuat suatu software yang dapat memanfaatkan kamera untuk menggerakkan kursor mouse. Kecepatan geraknya 0,00-10 detik, penyimpangan dari gerak lurus dan kondisi diam 0-10 pixel, resolusinya mampu menggambar 2 titik dengan selisih 0-3 pixel dan skala pergeserannya 1:10-1:15.",
+  "creators": "MICHAEL",
+  "contributors": "Resmana Lim (Advisor 1); Anies Hannawati (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/594/ELK/2003; Michael (23498018)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES; COMPUTER VISION"
+}

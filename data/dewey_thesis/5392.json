@@ -1,0 +1,14 @@
+{
+  "id": "5392",
+  "title": "Perancangan dan pembuatan aplikasi e-grocer studi kasus toko obat Bie Surabaya",
+  "abstract": "Toko obat BIE merupakan toko obat grosir yang ingin memperluas jangkauan usahanya, oleh karena itu Toko obat BIE menginginkan sebuah website untuk melayani penjualan, dan pemesanan ke supplier secara online. Untuk itu pada tugas akhir ini dikembangkan sistem penjualan dan pemesanan ke supplier berbasiskan internet yang mampu melayani penjualan produk dan pemesanan ke supplier secara online, dan memberikan informasi kepada customer tentang produk ? produk yang dijual. Sistem ini terdiri dari 2 modul utama yaitu modul untuk user dan admin. User memiliki keleluasaan dalam melakukan pencarian informasi dan pembelian barang, dan untuk menghubungi pihak penjual dalam hal ini toko obat BIE. Sedangkan Admin memiliki keleluasaan untuk menjaga sistem selalu dalam keadaan terupdate sehingga mampu memberikan informasi yang tepat kepada customer. Sistem ini dikembangkan dengan menggunakan database server MySQL untuk pembuatan database, PHP sebagai bahasa pemrograman, dan Apache sebagai webserver. Sistem yang telah berhasil dibuat mampu melayani penjualan produk dan pemesanan ke supplier secara online, memberikan berbagai macam informasi kepada customer, melakukan penambahan data produk, pencatatan pembelian, dan menghasilkan laporan yang dibutuhkan admin.",
+  "creators": "BUDI KARTONO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Ibnu Gunawan (Advisor 2); BUDI BAMBANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010595/INF/2007; Budi Kartono (26402049)",
+  "subjects": "WORLD WIDE WEB (INFORMATION RETRIEVAL SYSTEM); PHP (COMPUTER PROGRAM LANGUAGE); DATA BASE DESIGN"
+}

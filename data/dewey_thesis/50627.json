@@ -1,0 +1,14 @@
+{
+  "id": "50627",
+  "title": "Sistem pakar diagnosa penyakit saraf menggunakan metode certainty factor dan forward chaining",
+  "abstract": "Penyakit saraf merupakan salah satu masalah kesehatan masyarakat yang memerlukan kebijakan khusus dalam upaya penanganannya sehingga diperlukan data yang lengkap mengenai penyebab, perkembangan dan outcome. Penyakit saraf terdiri dari macam macam bagian jenis saraf. Kebanyakan masyarakat saat ini cenderung mengabaikan atau kurang dalam menanggapi gangguan yang terjadi pada sistem saraf. Bagaimanapun juga sistem sistem saraf sangat berperan penting dalam segala aktivitas manusia, karena jika sedikit saja timbul gejala atau gangguan yang diabaikan maka bisa berakibat serius. Sebagaimana teknologi makin canggih maka dari itu untuk kedepannya penelitian ini diharapkan bisa membantu menggantikan peran seorang dokter untuk mendiagnosa dini gejala pada sistem saraf yang akan di implementasikan pada sebuah sistem yang dinamakan sistem pakar. Sistem pakar diagnosa penyakit saraf ini dilengkapi dengan metode Forward chaning dan Certainty factor. Kegunaan dari forward chaining pada program ini yaitu berfungsi untuk mengumpulkan fakta-fakta yang terjadi pada user sehingga nanti menghasilkan kesimpulan, sehingga pengguna tidak perlu menjawab segala pertanyaan yang ada. Dengan memilih gejala-gejela yang ada nantinya akan mendapatkan suatu kesimpulan yaitu penyakit saraf yang dimiliki oleh user. Kegunaan dari Certainty factor pada program ini untuk menampilkan tingkat keyakinan sistem terhadap hasil diagnosa dalam bentuk persentase. Sehingga nantinya berfungsi untuk meyakinkan pengguna pada saat menggunakan program ini. Berdasarkan hasil pengujian, program ini dapat memberikan solusi yang sesuai dengan penyakit yang berhubungan dengan gejala yang dirasakan oleh user. Hasil perhitungan dari Certainty factor memperoleh hasil yang cukup singnifikan jika dibandingkan dengan hasil dari wawancara dengan ahli.",
+  "creators": "LUCKY ALEXANDRE LEMBANGAN",
+  "contributors": "Kartika Gunadi (Advisor 1); Alexander Setiawan (Advisor 2); Agustinus Noertjahyana (Examination Committee 1); Leo Willyanto Santoso (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022074/INF/2021; Lucky Alexandre Lembangan (26416125)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--COMPUTER PROGRAMS; NEUROLOGY; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

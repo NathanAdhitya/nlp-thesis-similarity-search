@@ -1,0 +1,14 @@
+{
+  "id": "24392",
+  "title": "Minimasi biaya perencanaan awal penampang kolom beton bertulang",
+  "abstract": "Proses perhitungan untuk mendapatkan dimensi kolom yang ekonomis jika dikerjakan secara manual berdasarkan cara coba mencoba (trial and error) tentunya membutuhkan waktu yang relatif lama. Untuk itu dimanfaatkan fasilitas dan jasa komputer yang sedang berkembang saat ini dalam melakukan proses perhitungan dan iterasi untuk mendapatkan penampang yang minimal. Penampang kolom yang dibahas meliputi bentuk persegi panjang, bujur sangkar dan lingkaran (untuk tulangan berjumlah genap). Dengan berpedoman bahwa perbandingan harga baja per ton dengan harga beton per m3 sangat bervariasi di berbagai tempat, minimasi biaya hanya ditinjau dari harga baja (tulangan pokok saja) per ton dan beton per m3 . Hasil pembahasan tugas akhir ini berupa: 1. Tabel minimasi biaya penampang kolom beton bertulang (lihat lampiran) dengan spesifikasi sebagai berikut: - mutu beton K-225 - mutu baja U-39 - perbandingan harga antara baja per ton dengan beton per m3 : 10 - penampang bujur sangkar dan persegi panjang dengan banyak lapis tulangan: 3 - penampang lingkaran dengan jumlah tulangan: 6 (jumlah tulangan atas = 1 dan 2) 2. Untuk spesifikasi yang tidak terdapat dalam tabel, disediakan program komputer dalam peghitungan minimasi biaya penampang kolom beton bertulang. 3. Aplikasi program minimasi untuk perencanaan awal kolom beton bertulang pada bangunan (lihat bab III), di mana dengan program tersebut kita dapat mengetahui dimensi awal kolom yang minimal dalam biaya dan mampu memikul beban. Apabila dimensi awal tersebut kita gunakan untuk final design dan kita cek kembali, akan kita dapatkan dimensi kolom yang tidak menyimpang dari ukuran penampang kolom yang telah ditetapkan semula. Perlu diperhatikan bahwa beban kolom yang ditinjau hanya kombinasi beban normal dan momen satu arah (beban dalam keadaan ultimate, sudah termasuk faktor reduksi kekuatan 0), tanpa memperhatikan beban geser. Karena dalam kenyataannya persentasi tulangan akibat lentur jauh lebih besar dari pada akibat geser.",
+  "creators": "SOENARMO; HARTONO",
+  "contributors": "Daniel Zefania Pribadi (Advisor 1); Januar Buntoro (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 368 S; Soenarmo (283156), Hartono (284010)",
+  "subjects": "COLUMNS, CONCRETE; REINFORCED CONCRETE"
+}

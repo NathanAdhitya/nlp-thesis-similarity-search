@@ -1,0 +1,14 @@
+{
+  "id": "23749",
+  "title": "Perencanaan dan pembuatan sistem pendeteksi halangan dengan menggunakan mikrokontroller 68HC11 sebagai alat bantu bagi tunanetra",
+  "abstract": "Pada masa ini kemajuan teknologi dalam berbagai bidang sangat pesat dan dapat digunakan untuk berbagai keperluan, diantaranya sebagai alat bantu bagi penderita cacat fisik . Pada umumnya alat bantu yang digunakan oleh penderita tunanetra adalah tongkat yang digerak-gerakkan ke kanan dan ke kiri dengan kemampuannya untuk mendeteksi halangan yang relatif dekat, untuk itu dibuat alat yang dapat mendeteksi halangan pada jarak relatif jauh bagi penderita tunanetra sehingga dapat lebih leluasa menentukan arah geraknya. Alat yang dibuat mempunyai fungsi untuk mendeteksi halangan disekitar pemakai pada jarak tertentu, untuk keperluan ini maka dipergunakan tiga buah sensor ultrasonik yang diletakkan sedemikian rupa sehingga dapat mendeteksi halangan yang terdapat di depan, di samping kanan dan d i samping kiri pemakai. Masing-masing sensor terdiri dari dua bagian yaitu bagian pemancar dan penerima. Jika gelombang ultrasonik ini mengenai suatu benda, maka gelombang tersebut akan dipantulkan dan akan diterima atau dideteksi oleh bagian penerima, kemudian diperkirakan jarak halangan tersebut dari pemakainya dengan memberikan bunyi peringatan dengan waktu durasi yang berbeda-beda. Untuk membedakan halangan tersebut terdapat, di depan, di samping kanan atau di samping kiri pemakai diberikan bunyi peringatan dengan nada berbeda. Mikrocontroller MC68HC811E2 berfungsi sebagai pengatur prioritas sensor dan mengatur waktu durasi dan nada bunyi peringatan yang diberikan. Dalarn hal ini supply yang digunakan adalah battery sehingga mudah untuk dibawa. Jarak yang dapat terdeteksi pada radius 5 meter dan dengan menggunakan tiga pasang transducer maka daerah yang terdeteksi dapat lebih menyebar.",
+  "creators": "AJU KURNIAWATI KUSUMO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); HANDAYANI T. (Advisor 1); HERLIANTO TENGGARA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/013/0216; Aju Kurniawati Kusumo (23489056)",
+  "subjects": "BLIND, APPARATUS FOR THE"
+}

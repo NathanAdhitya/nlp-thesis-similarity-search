@@ -1,0 +1,14 @@
+{
+  "id": "2620",
+  "title": "Penggunaan teknik ray tracing untuk penggambaran objek 3D dengan anti-aliasing",
+  "abstract": "Pada era teknologi sekarang, peranan multimedia sangat berpengaruh dalam penyampaian informasi. Informasi tersebut ada yang berupa visualisasi dari objek-objek 3 dimensi. Untuk menghadapi hal tersebut, maka dibutuhkan suatu teknik penggambaran visualisasi objek 3 dimensi yang dinamakan sebagai raytracing. Teknik ini akan memperhitungkan nilai warna sinar dan nilai koefisien pantul dari benda dalam penentuan warna penggambaran pada layar. Pada tugas akhir ini akan dirancang sebuah perangkat lunak yang dapat menggambarkan objek seperti keadaan sesungguhnya yang dibuat dengan mencari titik tabrak sinar dengan objek. Setelah titik tabrak ditemukan maka akan diberi warna sesuai dengan warna objek dengan memperhitungkan unsur-unsur pencahayaan, yaitu warna lampu, posisi lampu dan koefisien pemantulan benda. Pada saat objek sudah terbentuk maka dapat dilakukan anti aliasing untuk menghaluskan warna penggambaran objek yang dibuat dengan menggunakan metode supersampling. Pewarnaan dilakukan dengan menggunakan OpenGl dan bahasa pemrograman yang digunakan adalah Microsoft Visual C++ 6.0. Perangkat lunak yang dihasilkan ini dapat menggambarkan objek-objek yang sederhana yaitu bidang datar, kubus, bola, kerucut, dan tabung. Perangkat lunak ini menggunakan lampu omni yaitu lampu yang berupa titik pencahayaan dalam penggambarannya dan memperhatikan efek-efek pencahayaan seperti bayangan, pemantulan diffuse,dan pemantulan specular.",
+  "creators": "WIRANTONO WIJAYA",
+  "contributors": "Kartika Gunadi (Advisor 1); ARIE WIRAWAN MARGONO (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01000385/INF/2005; Wirantono (26401247)",
+  "subjects": "COMPUTER GRAPHICS"
+}

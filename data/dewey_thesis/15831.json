@@ -1,0 +1,14 @@
+{
+  "id": "15831",
+  "title": "Pengalokasian dan penentuan jumlah tenaga kerja dengan metode antrian di PT Wijaya Indonesia Makmur Bicycle Industries",
+  "abstract": "Penetapan jumlah tenaga kerja yang optimal merupakan salah satu faktor yang penting. Permasalahan utama dari unit perakitan 3 (dikenal dengan sebutan Assembly 3) di PT. Wijaya Indonesia Makmur Bicycle Industries (disingkat menjadi PT. WIM Cycle) adalah masih kurang optimalnya jumlah tenaga kerja pada masing-masing proses di Assembly 3 itu sendiri sehingga menyebabkan terjadinya tumpukan produk setengah jadi yang akan memasuki Assembly 3. Pengurangan tumpukan produk setengah jadi dapat dilakukan dengan menambah / mengurangi jumlah tenaga kerja. Jumlah output yang dihasilkan di Assembly 3 ? 412 unit, sepeda sedangkan standart dari perusahaan berkisar ? 500 unit sepeda. Metode pemecahan masalah yang akan digunakan oleh penulis adalah dengan menggunakan Metode Antrian. Metode Antrian yang digunakan oleh penulis adalah Simulasi Antrian dengan bantuan Software Promodel Ver 3.0. Sebagai masukan dalam pembuatan simulasi adalah jenis distribusi waktu antar kedatangan dari Unit Pengecatan, jenis distribusi waktu proses di Assembly 3, nilai mean dan standar deviasi masing-masing proses di Assembly 3. Dalam perancangan ini, penulis memberikan 2 usulan perubahan jumlah Tenaga Kerja di Assembly 3. Setelah penulis menganalisa hasil simulasi dari ke-2 usulan perubahan tersebut, penulis mengambil kesimpulan bahwa usulan perubahan 1 yang lebih baik untuk digunakan di Assembly 3 karena nilai rata-rata persentase idle, waiting dan block lebih kecil bila dibandingkan dengan usulan perubahan 2.",
+  "creators": "SOEMARNY",
+  "contributors": "Didik Wahjudi (Examination Committee 1); I Gede Agus Widyadana (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 148/TI-78/1998; Soemarny (25493139)",
+  "subjects": "WORK MEASUREMENT; PRODUCTION MANAGEMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "48944",
+  "title": "Pemodelan mix design beton dengan least squares support vector machine – particle swarm optimization",
+  "abstract": "Pemodelan mix design beton yang biasa dilakukan secara manual melalui trial and error bersifat kompleks serta kurang efektif dan efisien. Dari penelitian-penelitian terdahulu, model prediksi menggunakan Artificial Intelligence (AI) terbukti mampu memprediksi mix design yang akurat. Penggabungan AI dengan model optimasi metaheuristik diyakini mampu menghasilkan mix design dengan biaya pembuatan paling ekonomis namun tetap memenuhi spesifikasi rencana. Penelitian ini bertujuan untuk menciptakan pemodelan komputasi baru untuk memprediksi mix design menggunakan Least Squares-Support Vector Machine (LS-SVM) dan Particle Swarm Optimization (PSO). Penelitian dibagi menjadi dua tahapan: pertama, dibuat model prediksi kuat tekan maupun slump dengan LS-SVM menggunakan 1133 dataset sampel beton dari laboratorium beton di Taiwan, kedua, model optimasi dijalankan untuk menemukan mix design terbaik sesuai spesifikasi rencana. Hasil percobaan menunjukkan model prediksi memiliki Root Mean Squared Error (RMSE) yang rendah serta mampu menghasilkan campuran dengan biaya pembuatan paling ekonomis. Setelah model prediksi dan optimasi dijalankan dan divalidasi, kedua model digunakan untuk menghasilkan beberapa mix design untuk diuji di laboratorium. Hasil pengujian laboratorium menunjukkan adanya perbedaan antara hasil kuat tekan beton yang diuji dengan rencana. Ketidakmampuan model komputasi dalam memprediksi campuran beton disebabkan adanya perbedaan dari segi dataset yang digunakan, harga satuan material, karakteristik material, hingga peralatan dan metode yang digunakan.",
+  "creators": "REGINA YACIKA; GATA MILLA",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Pamuda Pudjisuryadi (Advisor 2); Handoko Sugiharto (Examination Committee 1); Joko Purnomo S.T., M.Sc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012454/SIP/2021; Regina Yacika (B11170069)Gata Milla (B11170050)",
+  "subjects": "CONCRETE--MIXING; ENGINEERING--DATA PROCESSING; ARTIFICIAL INTELLIGENCE--ENGINEERING APPLICATIONS"
+}

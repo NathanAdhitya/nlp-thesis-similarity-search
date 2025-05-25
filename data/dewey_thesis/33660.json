@@ -1,0 +1,14 @@
+{
+  "id": "33660",
+  "title": "Analisa risiko proyek pengembangan software pada CV XYZ",
+  "abstract": "CV XYZ adalah suatu perusahaan berukuran kecil yang bergerak di bidang rekayasa perangkat lunak. Jumlah anggota perusahaan ini tidaklah banyak, berkisar antara 5-8 orang saja. Permasalahan yang tejadi pada perusahaan kecil adalah tidak adanya identifikasi terhadap risiko-risiko yang mungkin terjadi yang bisa menghambat atau bahkan menghancurkan perusahaan yang bersangkutan. Masalah-masalah yang pernah terjadi contohnya adalah klien yang tiba-tiba menambah fitur pada software pesanan, tidak ada milestone pada proyek, tidak adanya data tentang system milik klien dan tidak ada monitoring pada proyek yang sedang berjalan. Hal-hal ini dapat menghambat kinerja perusahaan untuk bekerja. Untuk itu dibutuhkan suatu analisis risiko, yang bertujuan menganalisis faktor-faktor risiko apa saja yang mengganggu pengembangan software dan respon terhadap risiko-risiko itu. Pada skripsi ini, dilakukan penjelasan cara kerja perusahaan, mencari risiko-risiko yang ada, penilaian terhadap setiap risiko yang ada dan respon terhadap risiko-risiko itu. Proses risk assessment dilakukan berdasarkan NIST 800-30 yang menjelaskan tentang sepuluh langkah risk assesment, penentuan risiko berdasarkan ISO 29110 tentang cara membuat software pada perusahaan yang bergerak dalam rekayasa perangkat lunak yang beranggotakan kurang dari 25 orang, dan OWASP Risk Rating Methodology tentang penentuan bobot setiap risiko berdasarkan kriteria tertentu. OWASP dipakai sebagai acuan untuk menentukan bobot setiap risiko yang sudah ditemukan sebelumnya dengan memakai ISO 29110. Berdasarkan analisa, metode-metode yang dipakai berguna untuk mencari dan merespon risiko-risiko yang ada. Hasil analisa menunjukkan bahwa terdapat 1 risiko high, 2 risiko medium, dan 19 risiko low. High risk yang dihadapi perusahaan adalah tidak adanya identifikasi risiko perusahaan yang menyebabkan perusahaan tidak tahu risiko yang mungkin terjadi. Respon risiko tersebut adalah avoid dengan cara melakukan identifikasi risiko.",
+  "creators": "NICOLAS ADRIAAN APRIATONO",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Ibnu Gunawan (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021407/INF/2015; Nicolas Adriaan Apriatono (26409126)",
+  "subjects": "SOFTWARE ENGINEERING; ANALYSIS, RISK"
+}

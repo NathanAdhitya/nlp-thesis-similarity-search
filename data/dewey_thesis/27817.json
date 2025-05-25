@@ -1,0 +1,14 @@
+{
+  "id": "27817",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi di Toko Rejeki Banyuwangi",
+  "abstract": "Toko Rejeki Banyuwangi, terletak di Genteng – Banyuwangi, merupakan sebuah usaha dagang wiraswasta yang menjual berbagai macam keperluan sehari-hari. Beberapa contoh barang yang dijual meliputi keperluan mandi, konveksi, elektronik, dan lain-lain. Dalam pencatatan transaksi masih dilakukan secara manual, sehingga sering terjadi kesalahan dalam penulisan. Hal ini mengakibatkan rawan akan tindakan curang dan sulit mengetahui berapa besar keuntungan yang didapatkan. Karena tidak adanya pencatatan persediaan barang mengakibatkan sering terjadi kehabisan stok. Pembuatan sistem informasi administrasi ini, diharapkan dapat membantu Toko “Rejeki” Banyuwangi dalam mencatat transaksi pembelian dan penjualan, sehingga dapat meminimalisir kesalahan yang terjadi karena pencatatan pembelian dan penjualan yang dilakukan secara manual. Dengan adanya sistem ini, diharapkan bisa meminimalisir kecurangan yang dianggap bisa terjadi. Sistem ini dirancang dengan Data Flow Diagram dan Entity Relationship Diagram. Rancangan desain sistem ini secara garis besar meliputi sistem pembelian, penjualan dan pencatatan stok. Pembuatan program ini menggunakan bahasa pemrograman Visual Basic 2005.NET dan database MySQL 2005 untuk proses penyimpanan data. Perancangan program ini menghasilkan laporan-laporan yang berguna untuk melihat transaksi yang telah dilakukan. Fitur-fitur yang dibuat dalam program meliputi pembelian, penjualan, retur pembelian, retur penjualan sehingga fitur-fitur tersebut dapat membantu dalam melakukan proses transaksi pembelian dan penjualan. Laporan pembelian, laporan penjualan, dan laporan stok barang yang dihasilkan oleh program juga cukup membantu dalam perusahaan.",
+  "creators": "DANIEL CHRISTIANTO",
+  "contributors": "Alexander Setiawan (Advisor 1); Silvia Rostianingsih (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021122/INF/2012; Daniel Christianto (26408116)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8811",
+  "title": "Termometer badan dengan output suara",
+  "abstract": "Saat ini termometer telah banyak digunakan oleh masyarakat yang umumnya memiliki kondisi fisik normal terutama dalam kemampuan melihat. Akan berbeda jika hal ini digunakan oleh orang-orang yang memiliki keterbatasan dalam melihat. Berkaitan dengan tugas akhir ini telah dibuat termometer untuk mereka yang mengalami keterbatasan dalam melihat. Secara umum termometer badan dengan output suara ini menggunakan sensor yaitu LM35D,ADC0804, mikrokontroller AT89C51 dan ISD 2590. pada alat ini dibuat program hanya menampilkan output suara dalam suhu 30 0 C - 42 0 C. Hasil yang diperoleh adalah kecepatan untuk mendapatkan suhu tubuh lebih cepat dibandingkan dengan termometer air raksa yaitu 5 menit, error output suhu adalah 0.2 0 C dan output suara yang dihasilkan sangat jelas. ini berarti alat ini cukup baik untuk digunakan sebagai termometer badan.",
+  "creators": "BENNY MATRIKSA",
+  "contributors": "Thiang (Advisor 1); FENDY SANTOSO (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/581/ELK/2003; Benny Matriksa (23496088)",
+  "subjects": "THERMOMETERS-COMPUTER PROGRAMS"
+}

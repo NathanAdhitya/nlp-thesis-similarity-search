@@ -1,0 +1,14 @@
+{
+  "id": "11528",
+  "title": "Simulasi shunt active power filter tiga phasa dengan metode synchronous reference frame",
+  "abstract": "Beban non linear yang ada di kehidupan sehari-hari membuat arus yang tidak sinusoidal pada jaringan listrik dan mengakibatkan penurunan power quality pada utility atau pada sistem tenaga listrik. Peredaman harmonisa dapat dilakukan dengan cara pemasangan Active Power Filter. Pada Tugas Akhir ini peredaman harmonisa menggunakan Shunt Active Power Filter tiga fasa. Tugas akhir ini dibuat dengan tujuan untuk mengetahui efektivitas dari Shunt Active Power Filter tiga fasa dengan metode Synchronous Reference Frame yang dimodelkan ke dalam model simulasi. Shunt Active Power Filter ini berisikan current-controlled voltage source inverter (CC-VSI) tiga fasa yang terpasang paralel pada point of common coupling (PCC). Rangkaian kontrol yang digunakan pada simulasi ini yaitu Synchronous Reference Frame. Simulasi pada tugas akhir ini dikerjakan dengan program komputer PSIM 6.1 yang kemudian hasil simulasi dikalkulasi untuk mendapatkan hasil %THDarus. Dari hasil simulasi terbukti bahwa Active Power Filter dengan metode ini dapat melakukan peredaman harmonisa dengan baik. Pada simulasi ini digunakan empat kombinasi beban yang berbeda. Peredaman harmonisa yang terbaik yaitu pada kombinasi beban pertama dimana terdapat beban induktor 0.17mH, kapasitor 91F, resistor 252, 262, 246 (yang dipasang secara paralel). %THDarus yang sebelum dipasang filter sebesar 112,464% menjadi 9,8916% dan dapat memenuhi standar IEEE 519-1992 tentang limit arus harmonisa yang diperbolehkan.",
+  "creators": "WELLY LIUS",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Limboto Limantara (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010605/ELK/2009; Welly Lius (23404057)",
+  "subjects": "HARMONIC ANALYZERS; ELECTRIC CURRENTS; ELECTRIC CIRCUITS; ELECTRIC NETWORKS; HARMONICS (ELECTRIC WAVES)"
+}

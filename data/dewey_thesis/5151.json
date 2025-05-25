@@ -1,0 +1,14 @@
+{
+  "id": "5151",
+  "title": "Perencanaan dan pembuatan mesin presensi stand alone dengan menggunakan barcode reader",
+  "abstract": "Mesin presensi stand alone adalah suatu alat untuk mencatat waktu masuk dan pulang karyawan, yang dalam pengoperasiannya tidak memerlukan komputer server sebagai tempat penyimpanan data record karyawan yang melakukan presensi. Media pengambilan data digunakan barcode reader untuk membaca kartu barcode karyawan. Peralatan kontrol yang dibuat menggunakan mikrokontroler MCS-51 dengan memory EPROM W27C02 sebagai tempat penyimpanan data (record atau database karyawan). Penunjuk waktu digunakan RTC 12C887, sebagai outputnya digunakan liquid crystal display. Mesin presensi ini juga dilengkapi dengan fasilitas komunikasi serial dengan komputer server. Komputer server ini bertugas untuk mengolah data yang dikirimkan oleh mesin presensi dan memberikan database karyawan untuk disimpan pada memory mesin presensi serta sinkronisasi waktu dan tanggal antara mesin presensi dengan komputer server. Berdasarkan pengujian yang telah dilakukan, jumlah karyawan maksimal yang dapat disimpan dalam database memory mesin presensi sebanyak 500 karyawan. Sedangkan record maksimal untuk penyimpanan data presensi karyawan sebanyak 15.750 record. Pengambilan record karyawan mengikuti satu selang waktu download record tertentu bergantung dari jumlah karyawan suatu perusahaan. Jadi dapat disimpulkan mesin presensi stand alone ini dapat berjalan dengan baik.",
+  "creators": "YAMIN NATHANIEL ORVALO",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No 02/667/ELK/2003; Yamin Nathaniel Orvalo (23499007)",
+  "subjects": "BARCODING"
+}

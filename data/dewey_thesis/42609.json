@@ -1,0 +1,14 @@
+{
+  "id": "42609",
+  "title": "Pengembangan elemen discrete kirchhoff-mindlin quadrilateral (DKMQ) untuk analisis pelat lipat komposit",
+  "abstract": "Elemen DKMQ adalah elemen yang dikembangkan berdasarkan teori Reissner Mindlin. Dalam penelitian sebelumnya, elemen ini menunjukkan hasil yang baik dalam berbagai pengembangannya untuk masalah tekuk pelat, pelat dengan material komposit, dan shell. Dalam penelitian ini elemen DKMQ dikembangkan lebih lanjut untuk analisis pelat lipat dengan material komposit berlapis (composite laminated folded plate). Perumusan elemen DKMQ untuk pelat lipat ini dilakukan dengan menggabungkan elemen DKMQ dengan elemen tegangan bidang segi empat bilinier sehingga membentuk lima derajat kebebasan. Matriks kekakuan elemen dalam sumbu global diperoleh dengan mentransformasi matriks kekakuan dari koordinat lokal ke global. Untuk mencegah singularity pada matriks, maka ditambahkan koefisien kekakuan kecil artificial drilling degree of freedom sehingga didapat enam derajat kebebasan pada tiap titiknya. Hasil penelitian ini memperlihatkan bahwa elemen DKMQ memberikan hasil perpindahan yang baik dalam hal keakuratan dan konvergensinya.",
+  "creators": "Kristofer Widjaja S.T.",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Benjamin Lumantarna (Advisor and Examination Committee)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000253/MTS/2018; Kristofer Widjaja (01515001)",
+  "subjects": "PLATES (ENGINEERING); CONSTRUCTION INDUSTRY-MANAGEMENT; COMPOSITE MATERIALS"
+}

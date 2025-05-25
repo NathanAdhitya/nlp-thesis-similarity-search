@@ -1,0 +1,14 @@
+{
+  "id": "47599",
+  "title": "Prediksi nilai tukar mata uang dengan menggunakan time series analysis dan long short-term memory",
+  "abstract": "Valuta asing merupakan pasar keuangan terbesar di dunia dan merupakan salah satu bentuk investasi. Peramalan merupakan salah satu teknik untuk meminimalisasi kerugian saat berinvestasi. Tujuan dari penelitian ini untuk membuat prediksi valuta asing dengan menggunakan metode time series analysis (ARIMA) dan long short-term memory. Penelitian ini menggunakan nilai tukar mata uang EUR/USD harian masa lalu tahun 2014 hingga Maret 2020. Data ini digunakan sebagai dasar pembuatan model yang akan digunakan untuk memprediksi nilai tukar mata uang asing pada bulan April 2020. Model yang didapat akan digunakan untuk prediksi bulan April 2020, dimana didapatkan nilai RMSE dari time series analysis (ARIMA) dengan besar jendela 100 hari dan LSTM secara berurutan sebagai berikut 0,00527 dan 0,00509. LSTM menghasilkan nilai RMSE lebih rendah dibanding ARIMA. LSTM memiliki hasil prediksi yang lebih baik hal ini dikarenakan pada LSTM memiliki kemampuan belajar sehingga dapat memanfaatkan jumlah data yang banyak sedangkan ARIMA tidak dapat memanfaatkannya. ARIMA tidak memiliki kemampuan belajar walaupun diberikan jumlah data yang banyak justru memberikan hasil peramalan yang nilainya sama dengan hari sebelumnya.",
+  "creators": "KRISTINA SANJAYA PUTRI",
+  "contributors": "Siana Halim (Advisor 1); Tanti Octavia (Examination Committee 1); Felecia, S.T., M.Sc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01012296/IND/2020; Kristina Sanjaya Putri (25416016)",
+  "subjects": "FOREIGN EXCHANGE FUTURES; FOREIGN EXCHANGE; TIME-SERIES ANALYSIS"
+}

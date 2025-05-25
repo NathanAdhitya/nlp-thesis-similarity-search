@@ -1,0 +1,14 @@
+{
+  "id": "10733",
+  "title": "Perancangan sistem keamanan perumahan menggunakan distributed applications human machine interface berbasis wonderware intouch",
+  "abstract": "Seiring dengan peningkatan tingkat kejahatan perampokan dan kriminalitas di Indonesia, khususnya di area kompleks perumahan membuat para pemilik rumah tidak tenang. Pemilik rumah dituntut untuk lebih waspada dan ekstra hati-hati dikarenakan sistem keamanannya yang masih konvensional. Tugas akhir ini dibuat dengan tujuan membuat Distributed Applications Human Machine Interface (HMI) menggunakan Wonderware InTouch 9.0 pada suatu jaringan komputer untuk dapat mengontrol atau memonitor PLC pada sistem keamanan kompleks perumahan. Distributed applications Human Machine Interface (HMI) dalam tugas akhir ini menggunakan Wonderware InTouch 9.0 yang di-development oleh server kemudian didistribusikan ke client termasuk didalamnya; database, security, trends dan alarm. HMI tersebut diaplikasikan pada Miniatur Sistem Keamanan Kompleks Perumahan. Miniatur kompleks perumahan terdiri dari perangkat-perangkat switch sebagai tombol emergency, stepper motor sebagai gate, proximity inductance switch sensor, LED sebagai lampu jalan. Miniatur ini dikontrol oleh HMI pada jaringan komputer dengan memberikan perintah melalui jaringan Programmable Logic Controller (PLC). Jaringan komputer server-client yang digunakan berskala Local Area Network (LAN). Pengujian waktu menggunakan kabel RS485 sepanjang 20 meter berkisar 2,585 detik untuk menyalakan lampu dan 13,441 detik untuk membuka gate. Pengujian waktu respon emergency alarm berkisar 10,931 detik.",
+  "creators": "PURWADI MURIANTO SUTARTO",
+  "contributors": "Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 1); Handy Wicaksono (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010860/ELK/2008; Purwadi M. Sutarto (23402149)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

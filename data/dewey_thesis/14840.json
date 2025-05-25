@@ -1,0 +1,14 @@
+{
+  "id": "14840",
+  "title": "Perencanaan dan pembuatan pengatur lampu dengan menggunakan remote RF yang berbasis mikrokontroler 8031",
+  "abstract": "In this thesys, a device has been made which is intended to control the light in a house from a far distance by using a RFsystem remote control. In the remote there is asinusoidal signal generator. The frequency of the signal is determine by an external resistor and some capasitors. The output frequency can be change by changing the value of the capasitors. It can be done by using some keypads, so we can determine the frequency we need. The signal are transmitted by a transmitter. There is a receiver catches these signals, and four unique work frequencies. If a frequqncy gets into a tone decoder, matches with its work frequency, the tone decoder will produce a low signal, otherwise it will be high. These tone decoder outputs are conectted to the port I microcontroller 8031, so the program in the CPU 8031 can detect if there is a keypad in the remote control pushed. Line signal is stepped down and rectified full wavely and conectted into a zero crossing detector. If the line signal passes the zero volt, this zero crossing detector will produce a short time high pulse. This pulse then conectted to a pre-interrupt circuit, to created pulse which is match to 8031 interrupt condition. To light on the lamp, the 8031 will produce a high pulse to the triac driver. Laboratorium testing has shown, the power output of the lamp can be conttrolled in ten power levels at range less than ten metres.",
+  "creators": "RAEDIATMAJA INWAHJUDI",
+  "contributors": "IRWAN SAHLI (Advisor 1); HERLIANTO TENGGARA (Advisor 2); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/004/349; Raediatmaja Inwahjudi (23485046)",
+  "subjects": "REMOTE CONTROL"
+}

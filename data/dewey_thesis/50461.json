@@ -1,0 +1,14 @@
+{
+  "id": "50461",
+  "title": "Indoor room recognition menggunakan multiple instance learning convolutional neural networks",
+  "abstract": "Pengenalan enviroment menjadi masalah modern yang muncul di era modern ini. Salah satunya adalah bagaimana sebuah ruangan dapat diidentifikasi jenisnya. Ruangan adalah environment yang sangat menantang untuk diidentifikasi karena identitas sebuah ruangan diwakili oleh berbagai macam jenis objek dalam ruangan tersebut yang ukuran dan bentuknya sendiri pun beragam. Dengan berkembangnya teknologi, khususnya machine learning, maka jenis ruangan dapat dikenali secara otomatis oleh sistem dengan bantuan Image Processing dan Artificial Neural Network. Penelitian ini menggunakan algoritma Mean-Shift untuk melakukan segmentasi gambar dan metode Convolutional Neural Network (CNN) dibantu oleh penerapan Multiple Instance Learning (MIL) sehingga membentuk metode Multiple Instance Learning Convolutional Neural Network (MILCNN) untuk mengidentifikasi jenis ruangan. Selama pelatihan dan pengujian akan dilakukan penyesuaian terhadap metode agar dapat diaplikasikan dalam pengenalan jenis ruangan hanya melalui label gambar saja tanpa mencari label objek individu pada gambar. Penelitian ini melakukan klasifikasi terhadap ruangan yang terdapat suatu gambar dengan mengenali fitur objek di dalamnya. Hasil akhir pengujian dari dataset menghasilkan persentase akurasi klasifikasi yang mencapai 43.05%.",
+  "creators": "YEHEZKIEL WUISANG",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Alvin Nathaniel Tjondrowiguno (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022054/INF/2021; Yehezkiel Wuisang (C14170165)",
+  "subjects": "MACHINE LEARNING; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

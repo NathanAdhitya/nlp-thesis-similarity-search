@@ -1,0 +1,14 @@
+{
+  "id": "60473",
+  "title": "Analisis penjualan di café X menggunakan penerapan metode Fp Growth dan struktur Fp Tree",
+  "abstract": "Cafe X yang berlokasi di Surabaya telah menghadapi persaingan ketat selama berada di industri makanan dan minuman. Upaya membantu owner dalam mengambil keputusan yang efektif terkait dengan membuat bundling menu yang menarik bagi customer, maka dilakukan penelitian ini dengan mengimplementasikan algoritma FP-Growth dan struktur FP Tree. Penelitian ini bertujuan untuk mengindentifikasi bundling menu yang sering dipesan oleh pelanggan dan memberikan rekomendasi bundling menu yang efektif untuk cafe dan pelanggan. Penelitian ini melibatkan beberapa tahapan yaitu termasuk preprocessing data, membangun struktur FP Tree dan menerapkan algoritma FP Growth untuk menemukan frequent itemsets. Fitur - fitur utama yang dikembangkan dalam aplikasi ini adalah halaman login, halaman lupa kata sandi, halaman data menu makanan, halaman data transaksi, dan halaman hasil. Implementasi program dilakukan dengan menggunakan bahasa pemograman Python, framework Flask, dan juga library Matplotlib untuk grafik dan Pyfpgrowth. Sistem ini dirancang untuk mempermudah owner dan membantu dalam menganalisis data penjualan dan menentukan strategi penjualan yang lebih menarik dan tepat. Hasil pengujian menunjukkan bahwa sistem yang dikembangkan ini mampu menghasilkan hasil yang konsisten antara perhitungan manual dan perhitungan menggunakan library Pyfpgrowth. Semua fitur yang telah melalui pengujian berfungsi dengan baik dan sesuai dengan spesifikasi yang diharapkan. Sistem rekomendasi kombinasi menu berhasil memenuhi kebutuhan owner cafe dalam menentukan rekomendasi menu dan menampilkan data yang lengkap terkait rekomendasi bundling item. Setelah dilakukan survei langsung kepada owner cafe, hasil survei menunjukkan bahwa sistem ini berguna dan dapat memenuhi kebutuhan pengguna. Kemudian dilakukan penyebaran kuisoner langsung juga kepada pelanggan dan hasilnya menunjukkan bahwa secara umum pelanggan tertarik untuk memilih bundling menu yang dikeluarkan.",
+  "creators": "CORY LIVIRA",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022466/INF/2024; Cory Livira (C14200145)",
+  "subjects": "DATA MINING--COMPUTER PROGRAMS; DATABASE MANAGEMANT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

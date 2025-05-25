@@ -1,0 +1,14 @@
+{
+  "id": "56526",
+  "title": "Hybrid recommender system untuk produk interior dan jasa pembuatannya menggunakan data implicit feedback",
+  "abstract": "Produk interior rumah dibutuhkan ketika seseorang sedang merenovasi tempat tinggal seperti rumah atau apartemen. Banyaknya variasi produk interior rumah tersebut membuat masyarakat awam bahkan desainer produk profesional menjadi kesulitan dalam mencari barang yang diinginkan ataupun merekomendasikan barang kepada klien. Kondisi ruangan juga tidak selalu kondusif dan cocok untuk furniture yang ada di pasaran, sehingga dibutuhkan produk furniture custom. Maka dari itu dibutuhkan sistem rekomendasi dengan window yang memaksimalkan preferensi user agar dapat memberikan rekomendasi berbagai jenis pilihan produk serta memberikan informasi mengenai jasa pertukangan. Penelitian ini menggunakan Sistem Rekomendasi Hybrid yang terdiri dari metode Weighted Matrix, Alternating Least Squares, dan Apriori untuk merekomendasikan produk atau jasa dan menunjukkan nilai MRR@K dan NDCG@K. Data produk atau jasa diambil dari beberapa website dengan cara website scraping yang kemudian diletakkan pada website yang dapat diakses oleh user. Kemudian dari data yang diambil dari aktivitas user dilakukan rekomendasi dan diukur dengan metode MRR@K dan NDCG@K. Penelitian ini menunjukkan bahwa produk atau jasa yang direkomendasikan dengan metode Sistem Rekomendasi Hybrid menghasilkan nilai MRR@K sebesar 0.144322 yang berarti rata-rata user yang menggunakan website melakukan engagement pada produk yang berada pada peringkat 7 dan nilai NDCG@K sebesar 0.701607 yang berarti nilai keefektifan rekomendasi berada pada 70.16% yang menandakan Sistem Rekomendasi Hybrid sudah bisa merekomendasikan dengan baik, namun masih dapat ditingkatkan untuk penelitian lebih lanjut. Selain itu metode Alternating Least Squares juga memegang peranan penting untuk meningkatkan nilai MRR@K, NDCG@K, dan peringkat produk atau jasa yang disukai oleh user.",
+  "creators": "MICHAEL HALIM SENATRA",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Yulia (Examination Committee 1); Hans Juwiantho S.Kom., M.Kom (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022277/INF/2023; Michael Halim Senatra (C14190119)",
+  "subjects": "CHARACTER SETS (DATA PROCESSING); RECOMMENDER SYSTEMS (INFORMATION FILTERING)"
+}

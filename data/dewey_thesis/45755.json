@@ -1,0 +1,14 @@
+{
+  "id": "45755",
+  "title": "Sistem kontrol dan monitoring PH air serta kepekatan nutrisi pada budidaya hidroponik jenis sayur dengan teknik Deep Flow Technique",
+  "abstract": "Perkembangan Teknologi Informasi semakin maju dan cepat. Banyak teknologi masuk kedalam bidang yang lain contohnya bidang pertanian. Teknologi yang sering digunakan yaitu IoT. Segala bentuk teknologi IoT akan berhubungan dengan internet. Teknologi ini dapat memudahkan orang dalam bidang pertanian seperti membuat nutrisi hidroponik secara otomatis dengan aplikasi website. Tentunya teknologi ini membutuhkan alat mikrokontroler, sensor dan alat robotik lainnya. Untuk berhubungan dengan alat sensor dan aplikasi website, diperlukan mikrokontroler sebagai pusat pengendalian. Pembuatan aplikasi website menggunakan bahasa pemrograman PHP. Sedangkan untuk mikrokontroler menggunakan bahasa pemrograman C++. Pada website akan ditampilkan data dalam bentuk grafik. Proses pengiriman data sensor ke website melaui server lokal. Mikrokontroler yang digunakan adalah Wemos D1R1 yang memiliki modul wifi. Hasil dari penelitian ini adalah mikrokontroler berhasil berjalan dengan baik dengan aplikasi website. Sistem kontrol dan monitoring pH, kepekatan dan volume air berjalan sesuai dengan setpoint yang ditentukan oleh user. User interface yang sederhana dan mudah dimengerti.",
+  "creators": "MOSES GREGORYAN NDOLU EOH",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Resmana Lim (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021871/INF/2019; Moses Gregoryan Ndolu Eoh (26415052)",
+  "subjects": "WATER--PURIFICATION"
+}

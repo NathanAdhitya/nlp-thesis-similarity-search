@@ -1,0 +1,14 @@
+{
+  "id": "41152",
+  "title": "Pembuatan AI untuk turn-based strategy games menggunakan metode adaptive spatial reasoning",
+  "abstract": "Perkembangan game saat ini sangat pesat. Banyak sekali genre game yang beredar saat ini. Karena genre game yang bermacam-macam, jenis AI yang digunakan pun harus disesuaikan dengan kebutuhan game yang dituju. Turn-based strategy games merupakan salah satu genre game yang populer saat ini. Masalah yang muncul berkaitan dengan hal ini adalah banyak metode yang dapat digunakan untuk membuat AI game, tetapi belum dapat dipastikan apakah setiap metode dapat sesuai dengan semua jenis game. Tujuan dari skrpsi ini adalah untuk menguji kesesuaian metode Adaptive Spatial Reasoning dengan jenis game turn-based strategy. Salah satu metode pembuatan AI untuk turn-based strategy games adalah Adaptive Spatial Reasoning. Metode ini menggunakan ADAPTA sebagai arsitekturnya, di mana arsitektur ini terdiri dari 2 layer, yaitu strategic layer dan tactical layer. Di mana strategic layer bertugas sebagai penghubung antara AI dan game. Sedangkan tactical layer bertugas untuk menentukan langkah yang akan diambil AI. Untuk metode pengambilan keputusan, banyak metode yang bisa diterapkan, salah satunya adalah metode rule based. Input berupa data map dan diproses mengeluarkan hasil perintah gerak. Dengan menggunakan metode ini, AI dapat menentukan langkah yang diambil dengan cepat, dengan rata-rata 1.7 milisekon. Dari hasil skripsi dapat disimpulkan bahwa penggunaan Adaptive Spatial Reasoning pada turn-based strategy games sudah sesuai karena AI dapat berjalan dengan baik tanpa error.",
+  "creators": "ANDREAS SETIAWAN",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021214/INF/2013; Andreas Setiawan (26409028)",
+  "subjects": "ARTIFICIAL INTELLIGENCE-COMPUTER PROGRAMS; COMPUTER GAMES"
+}

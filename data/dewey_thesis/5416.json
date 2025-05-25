@@ -1,0 +1,14 @@
+{
+  "id": "5416",
+  "title": "Penjadwalan produksi dengan algoritma ant colony di FSCM Manufacturing Indonesia Plant 4",
+  "abstract": "PT FSCM Manufacturing Indonesia Plant 4 adalah perusahaan yang memproduksi filter dengan lingkungan manufaktur bersifat flow shop. Metode penjadwalan produksi selama ini berdasarkan kesamaan proses produksi, tanpa mempertimbangkan waktu siklus penyelesaian seluruh job. Hal ini menyebabkan waktu penyelesaian seluruh produksi (makespan) menjadi lebih panjang. Berdasarkan hal tersebut maka di dalam Tugas Akhir ini diberikan alternatif metode penjadwalan produksi melalui penerapan algoritma Ant Colony untuk meminimumkan makespan. Algoritma Ant Colony diimplementasikan dalam bahasa pemrograman Visual Basic dengan kombinasi parameter berdasarkan dua kriteria, yaitu makespan dan waktu running. Kombinasi parameter berdasarkan makespan adalah 50 siklus, 8 semut, a =10, ? =10, dan ? =0,1, sedangkan kombinasi parameter berdasarkan waktu running adalah 20 siklus, 4 semut, a =10, ? =1, dan ? =0,1. Penjadwalan produksi dengan penerapan algoritma Ant Colony dapat meminimumkan makespan sebesar 7,2632 %.",
+  "creators": "ONG LINA PRANATA",
+  "contributors": "Tanti Octavia (Advisor 1); DENIS DOMINANTA (Advisor 2); Siana Halim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011029/IND/2006; Ong Lina Pranata (25402078)",
+  "subjects": "PRODUCTION SCHEDULING; PRODUCTION MANAGEMENT"
+}

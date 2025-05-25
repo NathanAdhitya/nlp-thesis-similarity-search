@@ -1,0 +1,14 @@
+{
+  "id": "57530",
+  "title": "Perancangan sistem manajemen energi listrik di rumah tinggal",
+  "abstract": "Manajemen energi listrik merupakan suatu upaya untuk meningkatkan efektifitas dan efisiensi dalam penggunaan energi listrik. Selain itu, manajemen energi listrik juga dapat digunakan untuk mengetahui pola pemakaian energi listrik melalui data yang dapat dilihat oleh pengguna. Dalam realisasinya, sistem manajemen energi listrik ini menggunakan sensor PZEM-004t sebagai power meter dan ESP8266 sebagai IoT device. Alat ini juga dilengkapi dengan relay sebagai pemutus aliran listrik dari sumber listrik ke beban yang terpasang. Hasil pembacaan dari sensor PZEM-004t akan dikirimkan ke router lewat jaringan wifi oleh ESP8266 untuk selanjutnya ditampilkan pada Home Assistant. Terdapat pengujian dengan menggunakan power meter untuk mengetahui ketelitian dari pembacaan sensor PZEM-004t. Dari hasil pengujian, didapatkan data rata-rata selisih dari hasil pembacaan sensor PZEM-004t dengan power meter. Rata-rata selisih tersebut, yaitu 0.337V untuk tegangan (akurasi 99.85%), 0.1A untuk arus (akurasi 94.294%), 0.044 untuk faktor daya (akurasi 94.68%), dan 17.433W untuk daya (akurasi 95.046%). Sehingga dapat disimpulkan bahwa sensor PZEM-004t memiliki tingkat ketelitian yang cukup baik.",
+  "creators": "GLENDY IEVANNO WIJAYA",
+  "contributors": "Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 1); Resmana Lim (Advisor 2); Thiang (Examination Committee 1); Handry Khoswanto (Examination Committee 2); Julius Sentosa Setiadji (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011050/ELK/2023; Glendy Ievanno Wijaya (C11190007)",
+  "subjects": "ENERGY CONSUMPTION"
+}

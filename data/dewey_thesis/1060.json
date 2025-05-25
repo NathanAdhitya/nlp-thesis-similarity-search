@@ -1,0 +1,14 @@
+{
+  "id": "1060",
+  "title": "Pembuatan aplikasi jelajah perpustakaan tiga dimensi",
+  "abstract": "Pengunjung perpustakaan, khususnya yang masih awam dengan penataan rak buku di perpustakaan, seringkali mengalami masalah dalam mencari rak tempat sebuah buku diletakkan. Perangkat lunak jelajah perpustakaan tiga dimensi ini dirancang untuk memberi bantuan visual kepada pengunjung, berupa simulasi perjalanan hingga mencapai letak koleksi perpustakaan yang dicari. Tampilan perpustakaan dibuat dengan menggunakan DirectX Graphics, bagian dari DirectX 8.1, sedangkan pencarian rute penjelajahan menggunakan algoritma Dijkstra. Perangkat lunak yang dihasilkan memungkinkan pengguna untuk mencari koleksi berdasarkan frasa tertentu pada data buku, kemudian ditampilkan penjelajahan untuk mencari letak dari buku yang dipilih baik secara tiga dimensi maupun dua dimensi. Animasi penjelajahan relatif terhadap jumlah lemari dalam perpustakaan. Perpustakaan dengan jumlah lemari yang lebih banyak akan memberikan animasi yang kurang halus dibandingkan dengan perpustakaan yang jumlah lemarinya lebih sedikit. Perangkat lunak Jelajah Perpustakaan Tiga Dimensi ini dapat diaplikasikan untuk melengkapi fungsi pencarian di perpustakaan dengan menggunakan resource komputer yang cukup besar.",
+  "creators": "MELYSA HANDAYANI",
+  "contributors": "Kartika Gunadi (Advisor 1); Resmana Lim (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0038/INF/2003; Melysa Handayani (26499014)",
+  "subjects": "COMPUTER GRAPHICS; LIBRARIES-AUTOMATION"
+}

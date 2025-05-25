@@ -1,0 +1,14 @@
+{
+  "id": "7617",
+  "title": "Perancangan dan pembuatan e-tailing untuk Handojo Hardjo Nursery",
+  "abstract": "Handojo Hardjo Nursery merupakan suatu bidang usaha yang melayani pembelian anggrek dan peralatannya. Pembelian barang dilakukan dengan datang langsung ke toko dan semua transaksi dicatat pada media kertas. Dalam rangka penyusunan tugas akhir, maka dibuat website penjualan online untuk menampilkan informasi anggrek dan peralatannya yang ditawarkan oleh Handojo Hardjo Nursery, pelanggan dapat menjadi member dan melakukan pembelian barang secara online, terdapat juga fasilitas pencarian data anggrek dan peralatannya dan ada pula fasilitas untuk administrator yang dapat melakukan administrasi website yang juga online. Proses pembuatan website ini dimulai dari menganalisis sistem yang lama, pembuatan DFD, ERD, dan tabel - tabel yang diperlukan. Website ini dibuat dengan menggunakan database server MySQL 4.1.2. untuk pembuatan database, MySQL 3.2 sebagai GUI dari database server, PHP 4.3.10. sebagai bahasa pemrograman, dan Apache 2.05 sebagai webserver. Sistem dari sisi member, mendapat informasi data barang secara cepat dan lengkap melalui Catalog untuk kemudian melakukan pembelian online yang merupakan penerapan dari pull strategy E-Tailing. Dari sisi admin dapat menampilkan laporan penjualan, pembelian, rugi laba dan juga dapat melakukan administrasi tabel - tabel seperti anggrek, barang, member dan supplier. Admin juga dapat melakukan promosi dengan mengirimkan informasi barang baru ke E-Mail member.",
+  "creators": "CHRISTIAN MARIO DINATA",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Ibnu Gunawan (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000398/INF/2005; Christian Mario Dinata (26401041)",
+  "subjects": "WEB SITES-DESIGN; INTERNET(COMPUTER NETWORK)"
+}

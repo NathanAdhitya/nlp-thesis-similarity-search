@@ -1,0 +1,14 @@
+{
+  "id": "16799",
+  "title": "Perancangan dan pembuatan pengolah suara surround dengan bucket brigade delay",
+  "abstract": "Produksi rekaman sekarang banyak yang mempunyai kualitas surround sound. Sebuah efek suara yang hanya dapat dinikmati secara maksimal bila kita menggunakan tata suara surround sound pula. Tujuan dari pembuatan pengolah tata suara surround ini adalah untuk mengembalikan suara surround yang terdapat pada rekaman stereo. Teknologi surround ini menggunakan rangkaian pendeteksi pergeseran fasa, dan rangkaian tunda Bucket Brigade Delay, yang diperlukan untuk menunda sinyal kanal surround. Sinyal yang akan diumpankan pada dua speaker belakang inilah yang akan membenruk efek ruang surround. Kemampuan peralatan tata suara surround ini adalah untuk waktu tunda 15mS sampai dengan 30mS untuk mencapai efek ruang surround yang memadai, yaitu suara akan terasa melebar, bahkan menglilingi pendengar serta keterbatasan volume ruang dengar tidak akan mengganggu sistem tata suara surround ini.",
+  "creators": "HENDY ARIEF YUWONO",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); VINCENT PRASETYO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/046/391; Hendy Arief Yuwono (23493016)",
+  "subjects": "AMPLIFIERS (ELECTRONICS); OPERATIONAL AMPLIFIERS"
+}

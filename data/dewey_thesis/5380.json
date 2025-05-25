@@ -1,0 +1,14 @@
+{
+  "id": "5380",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi atas siklus pendapatan, pengeluaran, dan penggajian pada perusahaan elektronika X",
+  "abstract": "Perusahaan Elektronika X merupakan perusahaan manufaktur yang bergerak di bidang perakitan dan penjualan barang-barang elektronika, yang berupa komponen-komponen elektronika dan modul elektronika. Perusahaan menjalankan kegiatannya secara manual, kemudian data pendapatan dan pengeluaran dipindahkan ke komputer untuk mencetak laporan. Untuk itu, dibutuhkan sistem baru yang terkomputerisasi agar dapat meminimalkan kesalahan dan menghasilkan informasi yang dibutuhkan secara cepat dan akurat. Pembuatan sistem informasi akuntansi dimulai dari melakukan analisis dan pengamatan terhadap sistem perusahaan. Kemudian dari data tersebut, dilakukan perancangan sistem informasi akuntansi yang sesuai dengan kebutuhan perusahaan. Sistem informasi akuntansi yang akan dibangun merupakan integrasi dari siklus pendapatan, siklus pengeluaran, siklus penggajian, dan pencatatan akuntansi. Sistem ini dibuat dengan menggunakan Borland Delphi 7.0 sebagai compiler dan Microsoft SQL Server 2000 sebagai database. Dari hasil pengujian, aplikasi telah mampu melakukan proses akuntansi yang berhubungan dengan proses penjualan, pembelian dan penggajian dapat berjalan seperti yang diinginkan perusahaan dan menghasilkan informasi (berupa laporan penjualan, pembelian, penggajian, piutang jatuh tempo, hutang jatuh tempo, dan laporan keuangan) yang dibutuhkan oleh perusahaan.",
+  "creators": "SARIWATI LAKSMONO",
+  "contributors": "Sri Maharsi (Advisor 1); Andreas Handojo (Advisor 2); Oviliani Yenty Yuliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010614/INF/2007; Sariwati Laksmono (26403007)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "14118",
+  "title": "Perencanaan dan pembuatan alat pengontrol printer sebagai pengganti X-Y recorder",
+  "abstract": "Pada beberapa peralatan elektronika banyak dijumpai X-Y recorder yang digunakan untuk menampilkan hasil response suatu proses tertentu sehingga suatu response dapat diamati dengan baik dan cermat. Pada tugas akhir ini dibuat suatu alat pengontrol printer yang dapat berfungsi untuk menggantikan peran X-Y recorder, sehingga dapat dilakukan pencetakan mode grafis pada printer. Dengan demikian peralatan elektronika yang semula memiliki X-Y rexcorder ini dapat mengirimkan data ke sistem yang dibuat ini untuk dicetak sehingga dapat dilihat hasil response suatu proses. Pada tugas akhir ini pengertian dari X-Y recorder adalah sumbu Y mewakili besaran tegangan analog tertentu, sedangkan sumbu X mewakili waktu atau saat tegangan analog pada sumbu Y ada. Sistem yang dibuat terdiri dari buffer SRAM sebesar 64 KByte yang direalisasi dengan 2 buah IC 43256, dan unit pensample data yang direalisasi dengan ADC 0804. Unit pensample data ini adalah sebagai simulasi untuk memperoleh data analog yang diasumsikan berasal dari transfer data peralatan elektronika yang semula memiliki X-Y recorder. Melalui perangkat lunak yang dibuat maka segala data analog hasil sample oleh ADC dapat dicetak printer dalam mode grafis dengan resolusi yang cukup tinggi. Hasil yang diperoleh menunjukkan bahwa sistem yang dibuat dapat bekerja dengan cukup optimal.",
+  "creators": "TJANDRA HARMADI",
+  "contributors": "VINCENT PRASETYO (Examination Committee 1); SUPENO DJANALI (Advisor 1); HERLIANTO TENGGARA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/030/0151; Tjandra Harmadi (23487068)",
+  "subjects": "MICROCOMPUTERS-PROGRAMMABLE PERIPHERAL INTERFACES; PROGRAMMABLE CONTROLLERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "27113",
+  "title": "Analisa plane truss dengan metode finite element",
+  "abstract": "Konstruksi rangka batang merupakan konstruksi yang sederhana tapi efektif, karena elemen-elemennya hanya menerima gaya axial saja, sehingga perhitungannyapun tidak sulit. Karena sifat-sifatnya seperti tersebut di atas, maka sampai sekarang konstruksi rangka batang masih sering digunakan misalnya untuk atap gudang, jembatan dan lain-lain. Selaras dengan kemajuan yang pesat dalam bidang computer pada tahun-tahun terakhir ini, metode finite element juga ikut berkembang dan makin banyak digunakan untuk menganalisa suatu struktur, karena kemampuan dari finite element ini untuk dipergunakan menganalisa berbagai bentuk struktur. Dengan memperhatikan keadaan tersebut di atas maka akan sangatlah berguna bila dapat dibuat suatu program computer yang dapat digunakan untuk menganalisa segala macam bentuk konstruksi rangka batang bidang (plane truss). Dalam skripsi/tugas akhir ini sebuah program computer telah dibuat dengan mempergunakan teori finite element. Dalam hal ini type elemen dengan 2 nodal point/elemen (2 node/elemen) telah dipilah dan ternyata telah memberikan hasil yang sangat bagus dibandingkan dengan hasil-hasil yang diperoleh dengan cara-cara lain yang lebih eksak.",
+  "creators": "SUKANTO TEDJOKUSUMA; PAULUS HERMAN THALI",
+  "contributors": "Ir. Soehendro Ratnawidjaja, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 118 S; Sukanto Tedjokusuma (277063), Paulus Herman Thali (277096)",
+  "subjects": "FINITE ELEMENT METHODS; FRAMING (BUILDING); STRUCTURAL FRAME"
+}

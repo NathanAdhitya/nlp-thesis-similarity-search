@@ -1,0 +1,14 @@
+{
+  "id": "34859",
+  "title": "Perbaikan tata letak fasilitas departemen sheet metal 1 pada PT Mustikarama Citraperdana",
+  "abstract": "Perbaikan tata letak pada departemen sheet metal 1 PT Mustikarama Citraperdana diadakan karena adanya 45,89% backtracking yang terjadi ketika operator melakukan proses produksi. Perbaikan tata letak ini dibuat supaya dapat ditemukan tata letak yang lebih baik bagi PT Mustikarama Citraperdana. Metode yang digunakan adalah metode perhitungan momen tanpa melakukan perhitungan biaya. Total momen layout awal adalah 1.785.988,5. Perbaikan tata letak fasilitas pada departemen sheet metal ini menggunakan dua metode improvement yaitu metode 2-Opt dan CRAFT. Perhitungan untuk metode 2-Opt tidak menghasilkan total momen yang lebih baik dibandingkan momen pada layout awal, namun persentase backtracking turun menjadi 38,95%. Layout yang dihasilkan dengan metode 2-Opt tetap tidak dapat diterapkan pada keadaan yang sesungguhnya karena momen yang digunakan sebagai acuan. Metode CRAFT sebaliknya menghasilkan total momen yang lebih baik dibandingkan momen layout awal yaitu sebesar 1.656.291,8 dan persentase backtracking juga mengalami penurunan menjadi 23,69%. Layout yang dihasilkan dengan metode CRAFT ini dapat diterapkan pada keadaan yang sesungguhnya di departemen sheet metal 1 PT Mustikarama Citraperdana.",
+  "creators": "MEYLINDA PRAMONO",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Herri Christian Palit (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021799/IND/2015; Meylinda Pramono (25411041)",
+  "subjects": "PLAN LAYOUT"
+}

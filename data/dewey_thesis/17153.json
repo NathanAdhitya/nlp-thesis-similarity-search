@@ -1,0 +1,14 @@
+{
+  "id": "17153",
+  "title": "Analisis keseimbangan lintasan produksi dan perencanaan produksi di PT. Poncogati Raya",
+  "abstract": "Keseimbangan lintasan merupakan hal yang sangat penting di dalam perencanaan hasil produksi. Karena apabila lintasan produksi tidak seimbang maka target produksi yang sudah direncanakan sulit dicapai. Perancangan keseimbangan lintasan produksi yang dilakukan dalam penelitian tugas akhir ini dimaksudkan untuk meminimalkan waktu menganggur (idle time) pada lintasan produksi. Ada dua jenis kursi yang diproduksi di PT. Poncogati Raya yaitu Kursi Tangan dan Kursi Rilex, sehingga perlu dilakukan perancangan keseimbangan lintasan yang fleksibel yang dapat digunakan oleh kedua produk yang secara umum berbeda urutan serta waktu prosesnya tetapi ada beberapa jenis prosesnya yang identik. Kesulitan yang dihadapi dalam penelitian tugas akhir ini adalah tidak tersedianya literatur yang membahas tentang keseimbangan lintasan produksi yang menggabungkan lebih dari satu jenis produk sampai saat ini. Tetapi ada sebuah literatur yang menuliskan konsep dasar tentang Mixed-Product Line Balancinng dengan waktu proses yang sama untuk masing-masing produk apabila dikerjakan dalam satu mesin yang sama sehingga dicoba dikembangkan sebuah metode pendekatan dengan memperhatikan konsep-konsep dasar yangn ada. Metode pendekatan tersebut dirumuskan dalam lanngkah-langkah seperti menggabungkan precedence diagram dari kedua jenis produk, di sini diambil waktu proses yang maksimum dari masing-masing produk di mana waktu proses maksimum dapat mengcover waktu proses untuk masing-masing produk, kemudian diambil waktu siklus yang minimum dari masing-masing produk di mana waktu siklus minimum dapat memenuhi target produksi dari kedua produk. Kemudian dilakukan pengelompokan operasi-operasi kerja dalam stasiun kerja dengan menggunakan metode COMSOAL. Didapatkan dari hasil tersebut peningkatan efisiensi lintasan dari keadaan sebelum dilakukan keseimbangan lintasan sebesar 55.045 % untuk Kursi Tangan dan 9.044 % untuk Kursi Rilex serta penurunan jumlah kebutuhan operator sebanyak 66 orang.",
+  "creators": "LILY KUNTJORO",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Maja Indahwati (Advisor 2); Sujono Poetrodjojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 162/TI-92/1998; Lily Kuntjoro (25492005)",
+  "subjects": "PRODUCTION MANAGEMENT; PRODUCTION PLANNING"
+}

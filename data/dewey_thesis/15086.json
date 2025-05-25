@@ -1,0 +1,14 @@
+{
+  "id": "15086",
+  "title": "Perencanaan dan pembuatan perangkat lunak sistem billing untuk tempat persewaan komputer",
+  "abstract": "Sebagai cara untuk dapat mempermudah mengontrol penggunaan komputer yang disewakan dalam sebuah tempat persewaan komputer salah satunya adalah dengan membuat sistem perangkat lunak yang dapat menangani masalah billing dan pengontrolannya. Dalam perancangan sistem ini ada dua macam program dari bahasa pemrograman Borland Delphi yang dibuat, yaitu satu program utama yang diletakkan pada komputer kasir/komputer server dan satu program utama yang lain diletakkan pada komputer pelanggan/komputer client. Antara komputer kasir dan komputer pelanggan dibuat suatu hubungan dalam jaringan komputer LAN. Pengontrolan yang dilakukan oleh komputer client ini antara lain meliputi : dapat digunakan untuk aplikasi program yang diinginkan oleh pelanggan, melakukan penghitungan waktu yang berjalan mundur, dan memberikan daftar untuk penambahan waktu akses. Pengontrolan yang dilakukan oleh komputer kasir ini antara lain meliputi : registrasi dari pelanggan yang ingin menggunakan waktu akses, memilihkan tempat komputer yang belum terpakai, dan mencetak slip tagihan/billing untuk waktu penggunaan komputer. Dalam komputer client dan server ini untuk dapat melakukan hubungan dipakai komponen ClientSocket dan ServerSocket, serta untuk melakukan hitungan waktu dipakai komponen timer yang kesemuanya itu sudah terdapat dalam bahasa pemrograman Borland Delphi. Hasil dari percobaan yang dilakukan pada laboratorium komputer dapat menunjukkan bahwa program yang dibuat dapat melakukan hubungan antara komputer client dan komputer server dan pada akhir penggunaan komputer client dapat dicetak slip/lembaran billing. Dengan program yang dibuat ini maka pengontrolan untuk penggunaan komputer yang disewakan menjadi lebih mudah karena dapat dilakukan pengontrolan pada satu layar monitor saja yang teletak pada komputer kasir.",
+  "creators": "ANDRI LESMANA",
+  "contributors": "Unknown",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/Kom/009/048; Andri Lesmana (23491132)",
+  "subjects": "COMPUTER NETWORKS; SOFTWARE ENGINEERING"
+}

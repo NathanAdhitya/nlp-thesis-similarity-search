@@ -1,0 +1,14 @@
+{
+  "id": "55634",
+  "title": "Mengidentifikasi gambar aksara Jawa menjadi teks Latin Bahasa Jawa menggunakan YOLOv4",
+  "abstract": "Pada zaman sekarang ini, kemudahan teknologi banyak digunakan oleh masyarakat. Akibatnya banyak masyarakat yang mulai meninggalkan dan melupakan budaya yang telah diwariskan oleh nenek moyang. Tidak terkecuali di Indonesia, negara yang terkenal akan suku bangsa dan warisan budaya yang menjadi ciri khas dari daerah masing-masing. Di pulau Jawa sendiri banyak warisan budaya berupa dokumen, naskah, dan juga aksara jawa yang mana banyak digunakan pada dokumen-dokumen yang berisi kebudayaan dan kultur dari bangsa Indonesia dan suku Jawa pada jaman dahulu menggunakan tulisan Aksara Jawa. Aksara Jawa memiliki bentuk tulisan yang unik, dan memiliki kesamaan dalam beberapa karakternya, sehingga diperlukan model agar tulisan dapat dikenali oleh komputer. Dalam Skripsi ini akan menggunakan metode berbasis YOLOv4 untuk mendeteksi karakter Aksara Jawa yang tertulis, maupun berupa ketikan. Karakter Aksara Jawa yang dideteksi adalah Aksara Jawa dasar, Aksara Swara, dan Aksara Rekan. Dataset yang digunakan adalah dataset yang diambil dan diolah secara mandiri. Metode YOLOv4 dengan input 320 x 320 berhasil mencapai mAP@0.50 99.2%. Program pengenalan karakter Aksara Jawa menggunakan YOLOv4 ini mampu mencapai rata-rata recall 90%",
+  "creators": "BRANDON RICONGA WIRANATA",
+  "contributors": "Liliana (Advisor 1); Rudy Adipranata (Advisor 2); Hans Juwiantho S.Kom., M.Kom (Examination Committee 1); Gregorius Satiabudhi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022254/INF/2023; Brandon Riconga Wiranata (C14180098)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--COMPUTER PROGRAMS; NEURAL NETWORKS (COMPUTER SCIENCE)--COMPUTER PROGRAMS; PROGRAMMING LANGUAGES (ELECTRONIC COMPUTERS)"
+}

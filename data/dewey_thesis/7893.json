@@ -1,0 +1,14 @@
+{
+  "id": "7893",
+  "title": "Pembuatan aplikasi image warping dengan metode thin-plate splines",
+  "abstract": "Image warping adalah suatu transformasi untuk memetakan seluruh posisi koordinat pada image input, menjadi hasil pada posisi koordinat yang ada pada image output. Salah satu penggunaan warping adalah untuk menghilangkan geometric distortion yang ada pada image yang diambil dari kamera atau sebuah pandangan perspektif seseorang. Salah satu metode yang digunakan dalam proses warping adalah Thinplate Splines. Thin-plate Splines adalah salah satu metode yang cukup efektif untuk melakukan transformasi koordinat dimana telah digunakan di berbagai aplikasi. Perhitungan fungsi-fungsi yang ada pada Thin-plate Splines menggunakan matriks dan sistem linear. Untuk melakukan transformasi digunakan control point yang setiap perubahannya akan mempengaruhi hasil dari warping. Setelah dilakukan pengujian, Thin-plate Splines dapat digunakan untuk menghilangkan distorsi geometri yang ada pada image dengan cukup baik dan hasil warping dari image yang diproses cukup halus.",
+  "creators": "MICHAEL WIRA NJOTO S",
+  "contributors": "Kartika Gunadi (Advisor 1); Cherry Galatia Ballangan, S.Si., M.AIT. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000368/INF/2006; Michael Wira Njoto Soebekti (26402106)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

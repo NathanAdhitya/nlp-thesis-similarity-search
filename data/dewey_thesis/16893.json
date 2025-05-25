@@ -1,0 +1,14 @@
+{
+  "id": "16893",
+  "title": "Perencanaan dan pembuatan alat pengatur kondisi tanaman hidroponik melalui port LPT1 pada PC",
+  "abstract": "Hidroponik adalah salah satu sistem bercocok tanam yang sedang digalakkan dewasa ini. Dengan penanaman secara hidroponik serangan hama terhadap tanaman sangat kecil kemungkinannya, sehingga hasil produksi dari tanaman ini sangat memuaskan. Apalagi jika dikembangkan dalam rumah kaca, dimana kondisi iklimnya disesuaikan dengan kebutuhan tanaman itu sendiri. Implementasi sistem hidroponik ini dilakukan pada simulasi rumah kaca, dimana suhu dan kelembaban udara di dalam plant dijaga konstan sesuai dengan setting-point, dengan pengontrolan secara otomatis. Pengontrolan dilakukan dengan komputer IBM PC melalui port LPT1. Sensor suhu dan kelembaban akan memberikan data pada komputer sehingga komputer dapat memberikan output, dengan menjalankan fan, pendingin, atau pemanas sebagai timbal balik dari input sensor. Sensor limit air akan bekerja jika air telah mencapai level ketinggian yang diinginkan, sehingga sirkulasi airnya dapat berjalan secara teratur dengan bantuan pompa. Plant sistem berupa simulasi rumah kaca dapat mencapai temperatur antara 25 sampai 32 ?C dengan kelembaban antara 50 sampai 85 %.",
+  "creators": "ONGKI EDMUNDUS INGUNAU",
+  "contributors": "SOETIKNO (Advisor 1); Andojo Ongkodjojo (Advisor 2); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/015/314; Ongki Idmundus Ingunau (23488036)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

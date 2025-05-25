@@ -1,0 +1,14 @@
+{
+  "id": "53499",
+  "title": "Pengenalan rambu lalu lintas di Indonesia secara real-time menggunakan YOLOv4-tiny",
+  "abstract": "Konsentrasi sangat dibutuhkan saat mengemudi. Pengemudi yang kehilangan konsentrasi memiliki kecepatan reaksi yang lebih lambat dan berpotensi lebih tinggi untuk melanggar rambu lalu lintas. Pelanggaran rambu merupakan tindak pidana dengan sanksi yang memberatkan. Selain itu pelanggaran rambu mengganggu kenyamanan dan membahayakan pengendara lain. Oleh karena itu, diperlukan sebuah sistem yang mampu mendeteksi rambu dengan akurat dan cepat sehingga mampu menghimbau pengemudi. Penelitian Tabernik, et al., menggunakan metode Mask R-CNN yang berbasis convolutional neural network dan berhasil mencapai mAP@50 melebihi 95%. Tetapi peneliti menggunakan rambu lalu lintas Swedia dan Slovenia yang berbeda dengan rambu lalu lintas Indonesia. Selain itu, peneliti tidak melakukan evaluasi kecepatan deteksi. Dalam skripsi ini akan menggunakan metode berbasis YOLOv4-tiny untuk mendeteksi rambu lalu lintas Indonesia. Rambu yang akan dideteksi adalah 9 rambu larangan dan 2 rambu perintah. Dataset yang digunakan merupakan dataset yang dikumpulkan secara mandiri. Metode YOLOv4-tiny dengan input berukuran 416 x 416 berhasil mencapai mAP@50 88.55% dengan kecepatan deteksi 19.41 FPS. Dengan modifkasi pada ukuran input dan dataset, YOLOv4-tiny dapat mencapai skor mAP@50 hingga 89.57% dan kecepatan deteksi hingga 30.02 FPS. Metode YOLOv4-tiny mampu mendeteksi rambu dari jarak 5 sampai 15 meter dengan akurasi 80.42%. Program pengenalan rambu lalu lintas menggunakan YOLOv4-tiny mampu mencapai rata-rata recall 72.9%",
+  "creators": "GREGORIUS NICHOLAS GOENAWAN",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Examination Committee 1); Gregorius Satiabudhi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022168/INF/2022; Gregorius Nicholas Goenawan (C14180046)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--COMPUTER PROGRAMS; NEURAL NETWORKS (COMPUTER SCIENCE); PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

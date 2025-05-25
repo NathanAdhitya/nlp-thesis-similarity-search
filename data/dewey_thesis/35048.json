@@ -1,0 +1,14 @@
+{
+  "id": "35048",
+  "title": "Implementasi Hadoop : studi kasus pengolahan data peminjaman Perpustakaan Universitas Kristen Petra",
+  "abstract": "Masih minimnya penggunaan dan pengetahuan mengenai metode pengolahan data selain SQL merupakan ide dasar dari implementasi hadoop ini. Dengan adanya perkembangan teknologi yang semakin pesat membuat pertumbuhan dan pengolahan data semakin besar, untuk itu diperlukanlah suatu metode dalam pengolahan data yang berukuran besar atau biasa disebut big data. Dalam implementasi hadoop ini juga dilakukan perbandingan performa dengan SQL untuk membuktikan spesialisasi dari kemampuan hadoop yang diperuntukkan untuk pengolahan big data. Selain itu juga dilakukan pengujian hadoop dengan menggunakan jumlah node yang bervariasi, menggunakan combiner, dan menggunakan ukuran block yang berbeda. Implementasi ini dilakukan dengan menggunakan lima query atau permasalahan yang digunakan dalam mengolah data perpustakaan. Kelima permasalahan tersebut adalah mencari jenis audio video, jenis koleksi, judul, lokasi, dan jurusan terbanyak terkait peminjaman buku perpustakaan. Berdasarkan hasil pengujian implementasi hadoop mapreduce didapat beberapa kesimpulan. Performa hadoop dari segi waktu jauh lebih baik daripada SQL saat mengolah data yang berukuran besar, tetapi tidak dengan data yang berukuran kecil. Semakin banyak komputer yang digunakan dalam implementasi hadoop maka semakin cepat pula waktu eksekusi aplikasi mapreduce. Penggunaan combiner dapat mempercepat waktu eksekusi aplikasi. Dalam hadoop terdapat istilah block yang merupakan suatu struktur data dalam filesystem hadoop dimana untuk setiap file yang diunggah kedalam hadoop menempati minimal satu block dengan ukuran block tertentu. Penggunaan block secara penuh memberikan waktu eksekusi program yang jauh lebih baik daripada block yang tidak penuh. Pemrosesan data dengan block berukuran 128 MB memberikan waktu eksekusi yang lebih rendah dibanding block berukuran 28 MB dan 512 MB yang dicoba dalam implementasi ini.",
+  "creators": "KENNY BASUKI",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Silvia Rostianingsih (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021423/INF/2015; Kenny Basuki (26411061)",
+  "subjects": "LIBRARY SCIENCE-DATA PROCESSING; ELECTRONIC DATA PROCESSING-DISTRIBUTED SYSTEMS; COMPUTER SOFTWARE-DEVELOPMENT"
+}

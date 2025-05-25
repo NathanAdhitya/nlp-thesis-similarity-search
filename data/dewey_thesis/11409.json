@@ -1,0 +1,14 @@
+{
+  "id": "11409",
+  "title": "Perencanaan dan pembuatan alat bantu pendaftaran rencana studi melalui jaringan telepon",
+  "abstract": "Banyak diantara para mahasiswa pada saat pendaftaran rencana studi tidak dapat datang untuk melakukan pendaftaran studi yang disebabkan berbagai macam halangan yang tidak dapat dihindari. Hal lni sangat merugikan para mahasiswa tersebut . Pada Tugas Akhir ini dibuat suatu alternatif sistem pendaftaran rencana studi melalui pesawat telepon yang di kontrol oleh minimum sistem. Para mahasiswa yang tidak dapat hadir langsung untuk melakukan pendaftaran rencana studi, cukup hanya menelpon ke kampus saja. Dan masalah mereka sudah teratasi. Prinsip kerja dari alat ini adalah menuntun para mahasiswa dengan suara yang disimpan didalam EPROM untuk melakukan apa yang harus dllakukan dalam pendaftaran rencana studi melalui Jaringan telepon. Data yang diambil melalui Jaringan telepon adalah data berupa angka yang ditekan dan mengeluarkan sinyal DTMF, dimana sinyal DTMF ini akan diubah menjadi data biner sesuai dengan angka yang ditekan. Pendafataran mata kuliah dllakukan dengan cara menekan angka-angka pada pesawat telepon, dimana Universitas telah mengatur angka-angka tadi sesuai dengan matakuliah yang ada. Data-data yang telah dikirimkan para mahasiswa ini disimpan didalam RAM terlebih dahulu kemudian setelah selesai, data-data tadi segera ditransferkan kedalam komputer untuk diproses lebih lanjut. Dengan ditutupnya telepon yang diatur oleh minimum sistem maka selesai sudah proses pendaftaran studi. Jadi dengan adanya alat ini maka proses pendaftaran studi dapat dllakukan melalui Jaringan telepon, sehingga dapat membantu mahasiswa yang berhalangan hadir pada saat pendaftaran rencana studi.",
+  "creators": "ARIFIN SALIM",
+  "contributors": "SOETIKNO (Examination Committee 1); Murtiyanto Santoso (Advisor 1); IRWAN SAHLI (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/025/0228; Arifin Salim (23490123)",
+  "subjects": "INTERFACE CIRCUITS; COMPUTER INTERFACES; MICROCONTROLLER 8031"
+}

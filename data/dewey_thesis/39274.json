@@ -1,0 +1,14 @@
+{
+  "id": "39274",
+  "title": "Segmentasi area KTP dari image untuk otomatisasi pembacaan data",
+  "abstract": "Seiring dengan berkembangnya teknologi, kebutuhan manusia pun ikut berubah. Pekerjaan yang dilakukan secara manual akan secara perlahan dirubah untuk menerapkan proses otomatisasi dengan komputer. Beberapa contoh pendataan yang menggunakan informasi dari KTP adalah pemilihan gubernur melalui jalur independen dan pengisian formulir registrasi yang dilakukan secara manual. Pada proses pendataan tersebut, data formulir yang ada akan dirubah menjadi data teks digital sehingga dapat diproses menggunakan query dan dapat dikirim melalui network. Untuk dapat melakukan otomatisasi pembacaan data komputer harus mampu melakukan segmentasi area KTP yang terdapat pada citra dan kemudian melakukan OCR. Langkah-langkah yang digunakan untuk melakukan segmentasi area KTP pada citra adalah melakukan KTP area segmentation, perspective and rotation transformation, dan KTP parts segmentation. Metode utama yang digunakan pada proses KTP area segmentation adalah region growing yang memanfaatkan fitur warna pada color channel HSV dan RGB. Proses perspective & rotation transformation berfungsi untuk menghilangkan skew dan rotasi pada area KTP kemudian KTP parts segmentation akan menghasilkan bagian header, NIK, dan data diri. Pembacaan data pada bagian header dan data diri dilakukan dengan tesseract, sedangkan NIK menggunakan SVM. Hasil pengujian menunjukkan bahwa metode segmentasi dengan menggunakan region growing dapat digunakan untuk melakukan segmentasi area KTP dari citra. Akurasi hasil segmentasi area KTP pada citra sangat dipengaruhi oleh warna background dari area KTP, ketajaman citra inputan dan efek rotasi dan skew yang ada pada area KTP. Hasil pengujian juga menunjukkan bahwa akurasi OCR SVM lebih tinggi dibandingkan dengan tesseract. Adapun akurasi dari pembacaan teks dapat ditingkatkan dengan menggunakan post-processing yang memanfaatkan text-processing.",
+  "creators": "JONATHAN HANS SOESENO",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021636/INF/2017; Jonathan Hans Soeseno (26413009)",
+  "subjects": "DIGITAL IMAGE PROCESSING; PROGRAMMING (ELECTRONIC COMPUTERS); AUTOMATION"
+}

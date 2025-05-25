@@ -1,0 +1,14 @@
+{
+  "id": "13497",
+  "title": "Perencanaan kebutuhan bahan baku dan penjadwalan produksi",
+  "abstract": "PT. \"X\" adalah sebuah perusahaan yang bergerak di bidang manufaktur kran dan meteran air. Sifat produksi perusahaan ini adalah job order di mana backorder tidak diijinkan. Saat ini perusahaan belum menjalankan manajemen persediaan bahan baku guna mendapatkan minimum total biaya inventori dan melakukan penjadwalan produksi untuk mengoptimalkan penggunaan sumber daya baik manusia, tugas dan mesin pada lantai produksi dalam melakukan berbagai macam pekerjaan. Tujuan Tugas Akhir ini ialah mencoba mengetahui dan melakukan manajemen produksi menyangkut sistem sediaan bahan baku dan penjadwalan produksi. Penelitian didahului dengan melakukan prediksi/peramalan terhadap kebutuhan permintaan di masa datang. Hasil prediksi ini dipergunakan dalam menentukan jadwal induk produksi melalui perencanaan agregat. Jadwal induk produksi yang telah dibuat merupakan input bagi perencanaan kebutuhan bahan baku (MRP) menggunakan teknik lot sizing yang sesuai. Penjadwalan produksi dilakukan untuk mengetahui urutan pengerjaan jobs dan jadwal pengerjaan produksi menurut item penyusun MRP. Metode peramalan Multiplikatif Winters merupakan metode terbaik dalam menentukan besamya nilai permintaan di masa datang. Perencanaan agregat program dinamis Wagner-Within memberikan solusi optimal terhadap perencanaan produksi produk GV dengan total biaya inventori Rp. 520.015.418,-. Teknik lot sizing EOQ, Lot For Lot, PPB dan Wagner Within untuk item bahan baku yang dibeli menyelesaikan permasalahan sediaan ini karena meminimumkan total biaya inventori bahan baku. Penjadwalan produksi berdasarkan item yang dibentuk oleh MRP dalam lmgkungan single machine diselesaikan dengan menggunakan aturan minimum mean flow time SPT.",
+  "creators": "JOICE TANAMAL",
+  "contributors": "Tanti Octavia (Advisor 1); Kristiana Asih Damayanti (Advisor 2); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 510/TI-101/2001; Joice Tanamal (25497027)",
+  "subjects": "WORK MEASUREMENT; SCHEDULING; PRODUCTION PLANNING"
+}

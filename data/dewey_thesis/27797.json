@@ -1,0 +1,14 @@
+{
+  "id": "27797",
+  "title": "Perencanaan dan pembuatan security controller yang dihubungkan dengan line telephone",
+  "abstract": "Sejalan dengan perkembangan perangkat keras dan lunak dewasa ini, memungkinkan untuk dikembangkannya security controller yang semakin handal dan terpercaya. Hal ini untuk mengantisipasi tindak kejahatan yang relatif semakin meningkat dalam hal kualitas maupun kuantitas. Pada Tugas Akhir ini dibuat suatu alternatif sistem keamanan yang dikontrol oleh mikrokontroller. Dimana sistem keamanan ini atau security controller ini terintegrasi dengan line-telephone. Dengan terintegrasinya security controller ini dengan line telephone maka seseorang akan dapat dihubungi dengan segera melalui telepon apabila terjadi 'serangan' pada suatu bangunan. Prinsip kerja alat ini dengan melakukan pendeteksian terhadap sensor-sensor yang terintegrasi dengan sistem kontrol. Apabila terjadi 'serangan' terhadap salah satu dari sensor, maka sistem kontrol ini akan melakukan pengiriman nomer telepon melalui jalur telepon yang tersedia. Setelah itu sistem kontrol juga. mengirimkan suara seseorang sehingga keadaan yang sebenarnya terjadi dapat diketahui oleh si penerima telepon. Suara yang dikirimkan tersebut adalah merupakan hasil rekaman yang disimpan pada RAM dengan menggunakan metode sampling",
+  "creators": "D. Danny Iskandar",
+  "contributors": "MOCHAMAD HEROE (Examination Committee 1); IRWAN SAHLI (Advisor 2); Murtiyanto Santoso (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/033/0190; D. Danny Iskandar (23489006)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

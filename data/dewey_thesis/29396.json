@@ -1,0 +1,14 @@
+{
+  "id": "29396",
+  "title": "Penghalusan jaring elemen segitiga regangan konstan secara adaptif",
+  "abstract": "Penelitian ini menghasilkan program matlab yang mampu melakukan penghalusan secara adaptif pada diskretisasi awal yang kasar sampai mendapatkan diskretisasi optimal dimana nilai error pada hasil analisanya memenuhi syarat/target yang ditentukan. Elemen yang digunakan adalah elemen segitiga regangan konstan untuk menganalisa masalah tegangan dan regangan bidang. Pengujian program dilakukan dengan menggunakan berbagai benchmark problems yang disediakan oleh literature. Hasil pengujian menunjukkan bahwa parameter strain energy error dapat digunakan untuk perhitungan adaptifitas dan pada diskretisasi optimalnya menghasilkan nilai yang sangat mendekat solusi referensinya. Sebagian besar proses sudah dapat dilakukan secara otomatis namun untuk masalah tertentu diperlukan penyesuaian pada kondisi batas dan pembebanannya agar mengikuti diskretisai baru. Masalah otomasi juga muncul pada struktur dengan sisi lengkung. Diskretisasi optimal pada akhir dari proses adaptifitas memang memberikan hasil yang mendekati eksak, namun karena menggunakan metode element subdivision dan alat bantu delaunay triangulation, maka terdapat ketidakefektifan yaitu banyak elemen yang ukurannya lebih kecil dari ukuran yang diperlukan. Selain itu penggunaan parameter error energi regangan juga masih kurang memuaskan karena ketika kontur tegangan sudah cukp baik, penghalusan masih terus dilakukan beberapa kali sampai memenuhi kriteria error yang ditentukan.",
+  "creators": "KEVIN FERDINAND TJOANDA",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Pamuda Pudjisuryadi (Advisor 2); Benjamin Lumantarna (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11011948/SIP/2013; Kevin Ferdinand Tjoanda (21409185)",
+  "subjects": "CONSTRUCTION INDUSTRY-MANAGEMENT-COMPUTER PROGRAMS; STRAIN GAGES"
+}

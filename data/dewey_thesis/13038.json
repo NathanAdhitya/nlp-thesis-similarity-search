@@ -1,0 +1,14 @@
+{
+  "id": "13038",
+  "title": "Perancangan dan pembuatan aplikasi web untuk promosi dan reservasi hotel secara online berbasis web dan via sms pada Hotel Diamond",
+  "abstract": "Web dan SMS merupakan suatu terobosan baru yang sangat bermanfaat bagi manusia sebagai media pertukaran informasi dan data. Pada dunia bisnis, khususnya bidang pemasaran, dengan menggunakan kedua fasilitas tersebut maka pemasaran dapat dilakukan secara global dan menyeluruh sehingga informasi dapat dengan cepat dan mudah diperoleh maupun disebarluaskan serta lebih menarik bagi user dibandingkan media promosi lainnya. Dari permasalahan di atas timbul gagasan untuk mempromosikan Hotel Diamond melalui website dan menambahkan fasilitas reservasi online via web dan SMS. Untuk dapat menggunakan fasilitas reservasi ini, para tamu harus mendaftarkan diri terlebih dahulu di website Hotel Diamond agar lebih dapat terorganisir. Untuk sistem reservasi via SMS dibuat pada sebuah komputer yang terhubung dengan telepon selular melalui kabel data serial. Sistem akan melakukan proses pemeriksaan akan adanya SMS request yang baru secara berkala dan terus-menerus. Kode request terdiri dari request untuk mengetahui tipe kamar, harga kamar, informasi format SMS dan reservasi kamar. Sistem dibuat dengan menggunakan Visual Basic 6 dan untuk berkomunikasi dengan telepon selular digunakan AT Command. Sedangkan format data yang mengalir antara sistem dengan telepon selular adalah dalam bentuk Protocol Data Unit. Secara umum sistem telah diuji dengan mengirimkan SMS request dengan menggunakan telepon selular kepada sistem dan sistem mengirimkan SMS response sesuai dengan permintaan.",
+  "creators": "ANDRIE KURNIA GUNAWAN",
+  "contributors": "Yulia (Advisor 1); Alexander Setiawan (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020783/INF/2009; Andrie Kurnia G (26405026)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; INTERNET(COMPUTER PROGRAM)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "55642",
+  "title": "Perancangan performance dashboard: studi kasus pengiriman bahan baku pada PT X",
+  "abstract": "Penelitian ini dilakukan untuk merancang performance dashboard di PT X yang bergerak di industri pakan ternak. Performa yang diteliti adalah pengiriman bahan baku dari pelabuhan yang disebut RMT (Raw Material Transport) Flow yang terdiri dari perjalanan pelabuhan ke pabrik, antri timbang, antri bongkar, bongkar. Hasil pemantauan pengiriman dirancang menggunakan dashboard yang berisi 5 halaman. Overview merupakan halaman pertama yang menampilkan perjalanan armada, durasi perjalanan truk dari pelabuhan menuju pabrik, selisih negatif terbanyak, hingga durasi aktivitas seluruh RMT flow. Dashboard KPI bertujuan untuk memantau perkembangan durasi pengiriman antara periode waktu yang dipilih dengan periode sebelumnya. Halaman tiga dan empat berisi dashboard volume truk harian dan bulanan yang memantau jam maupun periode bulan terhadap durasi maupun volume. Dashboard Store Location menampilkan korelasi antar durasi antri timbang, antri bongkar, dan bongkar dengan jumlah gudang lokasi yang dibuka di bulan yang sama. Dashboard dirancang berdasarkan laporan pengiriman bahan baku setiap kapal sandar yang didapat dari SAP perusahaan. Dashboard dirancang untuk memantau durasi setiap aktivitas pengiriman, selisih bobot yang diterima, dan menentukan performa KPI dari aktivitas pengiriman.",
+  "creators": "ARMANDO ROVANELLI",
+  "contributors": "Siana Halim (Advisor 1); I Gede Agus Widyadana (Advisor 2); Felecia, S.T., M.Sc. (Examination Committee 1); I Nyoman Sutapa (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022563/IDN/2023; Armando Rovanelli (C13190003)",
+  "subjects": "DASHBOARDS (MANAGEMENT INFORMATION SYSTEMS); INVENTORY CONTROL--COMPUTER PROGRAMS; BUSINESS LOGISTICS--MANAGEMENT"
+}

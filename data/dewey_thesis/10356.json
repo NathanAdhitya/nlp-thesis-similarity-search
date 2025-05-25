@@ -1,0 +1,14 @@
+{
+  "id": "10356",
+  "title": "Perancangan dan pembuatan perangkat lunak yang menghasilkan adaptive background dengan metode gaussian mixture models untuk real-time tracking",
+  "abstract": "Dewasa ini aplikasi motion tracking semakin banyak dipakai untuk berbagai tujuan, diantaranya adalah untuk mendeteksi kemacetan lalu lintas dan untuk menghitung jumlah pelanggan yang masuk ke suatu supermarket atau mall. Pada motion tracking diperlukan suatu metode untuk memisahkan antara background dengan obyek yang di-tracking. Jika tracking dilakukan dengan background yang static maka tidak terdapat masalah pada aplikasi, namun jika obyek yang di-tracking berada pada suatu tempat dimana background-nya tidak static maka terdapat masalah dalam melakukan tracking karena background yang berubah bisa masuk sebagai daerah yang terkena tracking. Untuk mengatasi hal tersebut dapat dibuat suatu aplikasi yang dapat memisahkan background dimana pemisahan tersebut dapat beradaptasi dengan perubahan yang ada. Pada Tugas Akhir ini dibuat aplikasi yang dapat menghasilkan adaptive background dengan menggunakan metode Gaussian Mixture Models (GMM). Metode GMM melakukan clustering pada data input berupa pixel berdasarkan nilai warna dari pixel tersebut. Setelah cluster terbentuk dipilih distribusi-distribusi yang dominan sebagai distribusi background. Aplikasi dibuat menggunakan Microsoft Visual C++ 6.0. Hasil pengujian menunjukkan bahwa algoritma Gaussian Mixture Models (GMM) dapat membuat adaptive background dengan baik hal ini terbukti dengan hasil pengujian yang dapat dikatakan berhasil karena semua hasil pengujian sesuai harapan. Aplikasi ini nantinya dapat dikembangkan sehingga proses tracking dapat langsung diintegrasikan dalam proses pembuatan adaptive background.",
+  "creators": "FREDY SETIAWAN WIBISONO",
+  "contributors": "Rudy Adipranata (Advisor 1); Silvia Rostianingsih (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010718/INF/2008; Fredy Setiawan Wibisono (26404015)",
+  "subjects": "PATTERN RECOGNITION SYSTEMS; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

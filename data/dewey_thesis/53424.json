@@ -1,0 +1,14 @@
+{
+  "id": "53424",
+  "title": "Sistem presensi mahasiswa menggunakan face recognition dengan metode Facenet pada Android",
+  "abstract": "Sistem presensi kelas online di UK Petra saat ini menggunakan QR code untuk melakukan presensi. Sistem QR code ini memiliki beberapa kekurangan yaitu mudah dikelabui oleh mahasiswa. Untuk melakukan pengelabuan pada sistem QR code ini mahasiswa hanya perlu menitipkan akunnya kepada temannya agar bisa melalukan absensi. Sistem ini terkadang memiliki kendala untuk dieksploitasi oleh mahasiswa dengan menitipkan akun mereka kepada temannya untuk melakukan absen. Untuk menghindari mahasiswa yang menitipkan akunnya, presensi menggunakan face recognition merupakan salah satu cara untuk menghindarinya. Sistem presensi mahasiswa menggunakan berbasis Android dengan menggunakan Facenet sebagai model untuk sistem pengenalan wajah. Untuk mengukur hasil dari pengenalan wajah menggunakan dan membandingkan nilai hasil dari rumus L2Norm dan Cosine Similarity dengan threshold berbeda. Hasil dari pengenalan wajah menujukkan bahwa rumus Cosine Similarity paling optimal ketika menggunakan threshold 0.5f dengan score terbaik 0.5104218 dengan score akurasi 0.77162087. Sedangkan rumus L2Norm paling optimal ketika menggunakan threshold 8.0f dengan score terbaik 5.8973804 dan score akurasi 5.8973804.",
+  "creators": "EVELYN",
+  "contributors": "Rudy Adipranata (Advisor 1); Kartika Gunadi (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022150/INF/2022; Evelyn (C14170042)",
+  "subjects": "ANDROID (ELECTRONIC RESOURCE)--PROGRAMMING; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); HUMAN FACE RECOGNITION (COMPUTER SCIENCE)"
+}

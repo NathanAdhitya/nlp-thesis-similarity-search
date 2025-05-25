@@ -1,0 +1,14 @@
+{
+  "id": "48189",
+  "title": "Performa seismik dari rumah tinggal sederhana dan bangunan bertingkat 3 lantai berdinding bata dengan friction base support",
+  "abstract": "Dalam perencanaan struktur, dinding bata umumnya dianggap sebagai elemen non-struktural, di mana dinding bata dimodelkan sebagai beban dan kekakuannya diabaikan. Pada realitanya, kekakuan dari dinding bata memberikan pengaruh cukup signifikan terhadap performa seismik dan perilaku dinamis dari bangunan. Interaksi antara dinding bata dengan portal dapat bekerja sebagai elemen penahan gaya lateral dan dapat merubah mekanisme keruntuhan bangunan. Pada penelitian ini dilakukan penyelidikan pengaruh dari dinding bata terhadap performa dinamis bangunan rumah tinggal sederhana dan bangunan beton bertulang 3 lantai. Selain itu, penerapan dari friction base support juga diamati. Analisa dilakukan secara 3D non-linear time history untuk mengamati perilaku struktrur saat menerima beban gempa pada kedua arah. Beban gempa yang digunakan adalah gempa El Centro 18 Mei 1940 komponen N-S dan E-W yang disesuaikan dengan SNI Gempa Indonesia (SNI 1729:2019) untuk wilayah kota Surabaya pada level gempa MCER dan level gempa desain (⅔ dari MCER). Kerusakan sendi plasti dimodelkan pada balok dan kolom beton bertulang, dan kerusakan brittle dengan interaksi in-plane (IP) and out-of-plane (OOP) dimodelkan pada dinding bata. Dalam analisa, elemen yang mengalami keruntuhan dihapus dari permodelan untuk mencegah kegagalan numerik. Dengan demikian kapasitas elemen struktur lain yang tidak mengalami keruntuhan tetap dapat dianalisa. Hasil dari penelitian menunjukkan bahwa dinding bata mempengaruhi perilaku dinamis dari beton bertulang secara signifikan. Pengaruh yang diberikan ditentukan oleh penempatan dari dinding bata. Penempatan dinding bata yang tepat dapat meningkatkan performa seismik bangunan, sedangkan penempatan yang tidak tepat justru dapat menyebabkan bangunan mengalami ketidakberaturan kekakuan tingkat lunak. Selain itu, dapat diamati bahwa penggunaan friction base support dapat meningkatkan performa seismik bangunan.",
+  "creators": "VERONICA SHERLY PRAYOGO; STEVEN INDARTO OETOMO",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Benjamin Lumantarna (Advisor 2); Antoni (Examination Committee 1); Jimmy Chandra (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012407/SIP/2020; Veronica Sherly Prayogo (21416036)Steven Indarto Oetomo (21416171)",
+  "subjects": "BRICK WALLS; BUILDINGS-EARTHQUAKE EFFECTS"
+}

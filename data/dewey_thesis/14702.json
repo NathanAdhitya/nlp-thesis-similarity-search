@@ -1,0 +1,14 @@
+{
+  "id": "14702",
+  "title": "Pemilihan sistem penjadwalan produksi jenis flowshop di PT Halim Jaya Sakti",
+  "abstract": "P.T Halim Jaya Sakti adalah perusahaan yang memproduksi berbagai macam bentuk sandal, yang di dalam memproduksi produk-produknya menggunakan fasilitas-fasilitas dan aliran produksi yang sama, yang disebut flowshop, sehingga penjadualan di dalam proses produksinya memegang peranan yang sangat penting, sebab bila perusahaan melakukan penjadualan yang kurang tepat, perusahaan tidak akan dapat menyelesaikan pesanan tepat pada waktunya. Oleh karena itu tugas akhir ini ditujukan untuk mendapatkan sistem penjadualan dengan kriteria meminimumkan makespan, total flowtime dan machine idletime secara bersama-sama. Metode yang digunakan adalah Algoritma Genetika dan Algoritma Heuristik Rajendran, yang pada akhirnya akan dibandingkan mana yang terbaik diantara kedua algoritma tersebut. Karena banyaknya job yang harus dijadualkan maka untuk menyelesaikan penjadualan dengan menggunakan Algoritma Genetika yang tidak mungkin dilakukan secara manual, diselesaikan dengan bantuan program komputer yang menggunakan software Pascal. Dari hasil penjadualan Algoritma Heuristik Rajendran dan Algoritma Genetika, dapat ditarik kesimpulan bahwa Algoritma Genetika memberikan hasil jadual yang lebih baik daripada Algoritma Heuristik Rajendran.",
+  "creators": "ERVIN MEDIANTI",
+  "contributors": "I Gede Agus Widyadana (Examination Committee 1); Didik Wahjudi (Advisor 1); Tessa Vanina Soetanto (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 175/TI-01/1999; Ervin Medianti (25494076)",
+  "subjects": "PRODUCTION MANAGEMENT"
+}

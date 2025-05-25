@@ -1,0 +1,14 @@
+{
+  "id": "10513",
+  "title": "Perencanaan dan pembuatan combinational logic analyzer dengan bantuan mikrokomputer IBM PC",
+  "abstract": "Perencanaan dan pembuatan suatu alat dalam dunia elektronika, dibidang digital khususnya, bukanlah suatu hal yang mudah. Misalnya untuk menganalisa fungsi dari suatu rangkaian digital. Penganalisaan secara manual yang sering dilakukan biasanya memerlukan waktu dan energi yang cukup banyak. Salah satu alat yang dapat membantu tugas itu adalah logic analyzer. Dalam tugas akhir ini dibuat sebuah logic analyzer dengan 8 pin input dan 8 pin output yang dapat menganalisa sinyal-sinyal digital dengan level TTL. Logic analyzer ini akan memberikan sinyal pada pin-pin input dari rangkaian yang sedang dianalisa dan kemudian merekam sinyal output yang dikeluarkan oleh rangkaian tersebut untuk dianalisa lebih lanjut. Hasil penganalisaan tersebut akan ditampilkan pada monitor komputer, yaitu berupa fungsi dari rangkaian tersebut dan juga ditampilkan pada pin output logic analyzer yang dapat mensimulasikan LED, yaitu dengan menyalakan/ mematikan LED-LED yang dihubungkan pada pin output tersebut. Peralatan ini dapat dimanfaatkan sebagai alat bantu pada praktikum-praktikum yang menggunakan rangkaian digital.",
+  "creators": "PURWATI SANTOSO",
+  "contributors": "NAWANTO WIBOWO (Advisor 1); IRWAN SAHLI (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/005/0208; Purwati Santoso (23488009)",
+  "subjects": "ELECTRONIC CIRCUITS-TESTING-EQUIPMENT AND SUPLIES"
+}

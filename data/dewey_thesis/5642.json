@@ -1,0 +1,14 @@
+{
+  "id": "5642",
+  "title": "Pembuatan program scada berbasis web internet untuk PLC omron CPMI",
+  "abstract": "Perkembangan teknologi yang cukup pesat, menyebabkan banyak industri yang menggunakan teknologi automasi. Tugas akhir ini dibuat dengan tujuan membuat Man Machine Interface yang berbasis Web Internet, sehingga dapat diakses dari jarak jauh. PLC dihubungkan dengan PC menggunakan kabel serial RS-232. Plant berupa sebuah miniatur rumah sederhana, yang terdiri dari 3 buah lampu LED, sebuah fan, dan sebuah lampu dimmer. Plant dikontrol PLC OMRON CPM1 yang diprogram menggunakan ladder diagram yang dibuat melalui software Syswin 3.0. Program yang digunakan adalah Microsoft Visual Basic 6.0, PHP, dan MySQL. Microsoft Visual Basic 6.0 berfungsi untuk menghubungkan PLC dengan PC. PHP berfungsi untuk menampilkan dalam bentuk web. MySQL berfungsi untuk menyimpan kondisi plant ke dalam suatu database. Sistem ini juga dilengkapi dengan sekuriti, sehingga pengguna harus melakukan \"login\" terlebih dahulu untuk dapat mengendalikan plant. Berdasarkan hasil pengujian, sistem ini dapat mengetahui apabila plant dinyalakan secara manual dengan switch. Sistem ini juga dapat digunakan oleh beberapa client dalam waktu bersamaan. Konsumsi daya total adalah 2,738 Watt.",
+  "creators": "MEIRUDY LESMANA",
+  "contributors": "Resmana Lim (Advisor 1); Handy Wicaksono (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010807/ELK/2006; Meirudy Lesmana (23402056)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

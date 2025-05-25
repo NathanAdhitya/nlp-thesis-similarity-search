@@ -1,0 +1,14 @@
+{
+  "id": "43896",
+  "title": "Perbaikan peramalan pemakaian bahan baku di PT X dengan mempertimbangkan faktor special event",
+  "abstract": "PT X merupakan perusahaan yang bergerak di bidang pakan ternak. PT X. ini memiliki berbagai macam bahan baku yang digunakan untuk produksi pakan ternak. Banyaknya bahan baku menyebabkan PT X harus tepat meramalkan pemakaian bahan baku agar tidak terjadi stock out pada inventory. Metode peramalan yang dipakai perusahaan saat ini yaitu naïve forecast, namun perusahaan masih mengalami stock out dan bahan baku pada inventory berlebih. Perbaikan dilakukan dengan mengamati pola data, lalu memilih metode yang cocok untuk dilakukan forecast berdasarkan pola dan karakteristik bahan baku tersebut. Metode yang digunakan adalah Exponential Smoothing Event Based (ESEB), Moving Average Event Based (MAEB), Winter’s Exponential Smoothing, dan Exponential Smoothing with Trend. Hasil dari peramalan menunjukkan sebagian besar dari bahan baku menghasilkan error yang lebih baik melalui metode ESEB. Pemberian usulan dilakukan dengan melakukan forecast sesuai karakteristik tiap bahan. Usulan peramalan menurunkan tingkat kesalahan peramalan hingga Rp 12,842,214,325.67 per bulan Pemberian usulan dilakukan dengan membuat work instruction untuk operator PPIC dengan metode ESEB. Kesimpulan yang diambil adalah pemberian metode peramalan yang sesuai dengan karakteristik bahan baku dapat mengurangi kesalahan dalam peramalan. Metode yang sesuai untuk peramalan pada PT X adalah ESEB, karena sebagian besar bahan baku memiliki karakteristik dan memberikan nilai error yang lebih kecil melalui ESEB.",
+  "creators": "GRACE EFFENDI PRIJADI",
+  "contributors": "Felecia, S.T., M.Sc. (Advisor 1); Benedictus Rahardjo S.T. M.B.A. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022122/IND/2018; Grace Effendi Prijadi (25414006)",
+  "subjects": "FACTORY MANAGEMENT; INDUSTRIAL MANAGEMENT; INVENTORY CONTROL; PRODUCTION CONTROL"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "14466",
+  "title": "Perencanaan dan pembuatan alat pengukur kekuatan benang plastik dengan bantuan mikroprosesor 8088",
+  "abstract": "Dalam produksi karung plastik alat pengukur kekuatan tarik benang plastik adalah merupakan suatu alat pengukur yang mempunyai peranan yang cukup besar guna mencapai hasil yang baik dan biaya produksi yang rendah. Alat pengukur kekuatan benang plastik yang ada sekarang ini menggunakan sistem konvensional. Oleh karena itu pada tugas akhir ini direncanakan suatu alat pengukur kekuatan tarik benang plastik yang menggunakan sistem elektronik. Yang diharapkan dapat menggantikan alat pengukur kekuatan tarik benang plastik sistem konvensional di kemudian hari. Alat ini dirancang sehingga mudah dalam penggunaannya. Alat ini akan menggunakan bantuan mikroprosesor 8088 dan akan menampilkan hasil pengukuran pada display LED. Cara kerja alat ini dirancang semudah mungkin sehingga semua orang khususnya bagian pembuat benang plastik dapat menggunakannya dan dapat mengetahui hasil pengukuran semudah mungkin melalui display. Sebagai beban akan digunakan sebuah motor dan akan digunakan juga tranduser LVDT untuk mengubah besaran berat ke besaran listriJk, kemudian signal yang dikirim oleh tranduser diproses oleh mikroprosesor 8088. Dan 8088 ini juga yang akan mengatur penampilan hasil pengukuran pada display dan juga akan mengatur pemberhentian motor. Dengan alat ini juga dapat diketahui elastisitas benang plastik tersebut, yaitu dengan bantuan tahanan variabel, yang nantinya akan diproses oleh mikroprosesor 8088 dan akan ditampilkan pada display dimana persentasi elastisitas benang plastik tersebut akan ditampilkan. Dari hasil pengamatan yang dilakukan alat ini mampu bekerja baik.",
+  "creators": "HARYONO POERNOMO",
+  "contributors": "SOETIKNO (Advisor 1); AGUS MULYANTO (Examination Committee 1); Resmana Lim (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/028/0118; Haryono Poernomo (14487022)",
+  "subjects": "AUTOMATIC CONTROL"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "36526",
+  "title": "Perencanaan enterprise architecture pada Perusahaan Manufaktur PT X",
+  "abstract": "Enterprise Architecture pada PT X PT X merupakan perusahaan yang bergerak di bidang industri pelapisan baja dengan bahan aluminium, zinc, dan silicon yang dikenal sebagai BJLAS dengan merek barang zinium. PT X memiliki sistem informasi dalam mendukung proses bisnisnya. Namun, sistem informasi yang ada belum terintegrasi secara menyeluruh dan belum sempurna karena masih terdapat pencatatan data atau informasi yang dilakukan secara manual. Oleh karena itu, melalui skripsi ini dilakukan analisis dan pembuatan desain sistem informasi enterprise architecture untuk perusahaan dengan menggunakan metode Enterprise Architecture Planning. Diawali dengan proses analisis model bisnis dan strategi bisnis yang ada pada perusahaan dengan melihat kondisi information technology yang ada serta permasalahan yang dihadapi dan kebutuhan information technology di masa yang akan datang. Setelah itu dilakukan pembuatan desain arsitektur data, arsitektur aplikasi dan arsitektur teknologi yang sesuai dengan strategi bisnis dan proses perusahaan. Sistem yg sudah ada dan dipakai oleh perusahaan adalah untuk bagian penjualan, pembelian, dan produksi. Arsitektur Data yang dihasilkan untuk perusahaan terdiri dari beberapa sub sistem yaitu Sub Sistem Marketing dan Sales, Sub Sistem Purchasing, Sub Sistem Production, Sub Sistem Personalia, Sub Sistem Finance dan Accounting. Arsitektur Aplikasi yang dihasilkan terbagi atas aplikasi utama dan aplikasi pendukung. Aplikasi utama terdiri dari Sistem informasi Marketing dan Sales, Sistem Informasi Purchasing, Sistem Informasi Production, Sistem Informasi Personalia, Sistem Informasi Finance dan Accounting. Setiap aplikasi tersebut merupakan aplikasi yang dibuat dengan basis Visual Basic, dan untuk aplikasi Sistem Informasi Marketing dan Sales menggunakan program Visual Basic dengan Embedded Database. Aplikasi pendukung adalah aplikasi Data Provider yang membantu aplikasi utama melakukan permintaan data yang dibutuhkan antar aplikasi. Arsitektur Tekonologi menggunakan Client/Server Architecture Pattern dan Service Oriented Architecture.",
+  "creators": "MAXIMILLIAN JODJANA",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Leo Willyanto Santoso (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021485/INF/2015; Maximillian Jodjana (26411051)",
+  "subjects": "INFORMATION TECHNOLOGY; INFORMATION SYSTEM; BALANCED SCORECARD"
+}

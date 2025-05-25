@@ -1,0 +1,14 @@
+{
+  "id": "15078",
+  "title": "Perencanaan dan pembuatan program generator dan editor untuk pemrograman clipper 5.2 melalui suatu sistem terpadu",
+  "abstract": "Pemrograman database menggunakan Clipper 5.2 dengan cara konvensional dilakukan dengan mengetikkan dan menyusun kode sumber secara manual melalui suatu editor. Cara ini membutuhkan ketelitian dan kemampuan yang cukup tinggi dari pemrogram. Beberapa proses dari pemrograman seringkali juga membutuhkan waktu yang lama dan ketelitian untuk menyusun kode sumbernya, seperti proses pembuatan layar. Untuk mempercepat proses penyusunan kode sumber ini, dapat digunakan sebuali cara baru yang mulai banyak dikembangkan yaitu pemrograman visual menggunakan suatu program generator. Dengan menggunakan cara ini, kode sumber dapat disusun secara otomatis tanpa harus mengetikkan perintah. Pemrogram menyusun aplikasi dengan dituntun oleh menu-menu pilihan di dalam program generator tersebut untuk menyusun model tampilan dan proses yang diinginkan. Kemudian program generator akan mengubah deskripsi yang dibuat melalui pilihan pemrogram menjadi kode sumber yang diinginkan. Metode pemrograman dengan program generator masih memiliki kekurangan, karena keterbatasan dari sistem tersebut untuk mencakup semua kemampuan dari suatu bahasa pemrograman yang dapat dicapai dengan metode konvensional menggunakan editor. Untuk memberikan suatu sistem yang saling menutup kelemahan dari kedua cara tersebut, maka dikembangkan penggabungan dari kedua metode yang ada, program generator dan editor. Proses untuk menghasilkan aplikasi akan lebih lengkap dengan adanya proses kompilasi menggunakan compiler Clipper, yang dapat digabungkan pula dalam satu sistem, sehingga akan mempercepat langkah-langkah pembentukan aplikasi. Sebagai implementasinya, akan diterapkan penggunaan alokasi data dinamis dengan linked list untuk menyimpan informasi yang diberikan oleh pemrogram kepada program generator, sehingga sistem akan dapat berkembang dengan dinamis. Akan dilakukan pula penyimpanan hasil perancangan ke file, sehingga hasil perancangan tersebut dapat diubah tanpa harus membuat rancangan yang baru.",
+  "creators": "AGUSTINUS WIBISONO",
+  "contributors": "ESTHER HANAYA (Examination Committee 1); Rolly Intan (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/Kom/003/007; Agustinus Wibisono (23491058)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

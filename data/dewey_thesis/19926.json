@@ -1,0 +1,14 @@
+{
+  "id": "19926",
+  "title": "Rancang bangun perangkat lunak mikrokomputer M37210M3-XXXSP untuk kontrol dan pengaturan parameter TV berwarna disertai tampilan \"onscreen display\" dengan kendali \"remote control\"",
+  "abstract": "M37210M3-XXXSP merupakan single chip Mikrokompu-ter dari MITSUBISHI dengan \\2K bytes ROM, dan 256 bytes RAM. Memiliki struktur 8-bit, dan dikemas dalam bentuk 52-pin shrink plastic moulded DIP. Single chip mikrokomputer ini sangat bermanfaat untuk sistem televisi, kususnya televisi berwarna. Bekerja dengan sistem VS (Voltage Synthesizer), dengan menggunakan 14-bit PWM, dilengkapi pula dengan fungsi D-A kon-verter, Output PWM 6-bit unutk pengaturan parameter TV. Memilik rangkaian penerima remote control, dan fungsi lain adalah tampilan pada layar CRT (On Screen Display). Mikrokomputer ini dibangun dengan mengguna-kan inti pusat proses (CPU core) MELPS 740 series. Makro assembler yang digunakan merupakan makro assembler untuk 740 series yaitu SRA74, dan untuk mendapatkan format program dalam bahasa mesin diguna-kan linker LINK74. Pada tugas akhir ini dilakukan studi mengenai fungsi-fungsi yang dimiliki oleh mikrokomputer ini beserta bahasa pemrogramannya, kemudian mencoba membangun perangkat lunak dengan membuat fungsi-fungsi yang ada untuk pengontrolan dan pengaturan pesawat TV berwarna. Rancang bangun perangkat lunak mikrokomputer M37210M3-XXXSP ini bertujuan untuk mencapai target full manufacturing dari industri elektronika di Indonesia pada umumnya (dan kususnya pada PT. Pang-gung Electronic Industries Waru), mengingat selama ini mikrokomputer yang digunakan merupakan mikrokom-puter dengan standard perangkat lunak yang dibuat oleh industri IC yang bersangkutan. Dengan selesainya rancang bangun perangkat lunak untuk sistem pesawat TV ini dapat disimpulkan: bahwa tidak terbatas kemungkinan untuk membangun perangkat lunak yang dapat lebih meningkatkan kemampuan pesawat yang ingin dikontrol dan diatur tersebut sehingga sesuai dengan yang dikehendaki. Mikrokomputer dengan perangkat lunak dibangun untuk papan televisi terten-tu sehingga tidak bisa langsung digunakan untuk sebarang TV, kecuali papan tersebut memiliki pin ke pin yang sama.",
+  "creators": "GO WEE FUNG",
+  "contributors": "Murtiyanto Santoso (Advisor 1); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/014/0217; Go Wee Fung (23489085)",
+  "subjects": "MICROCOMPUTERS; TELEVISION-EQUIPMENT AND SUPPLIES"
+}

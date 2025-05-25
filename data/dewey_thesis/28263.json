@@ -1,0 +1,14 @@
+{
+  "id": "28263",
+  "title": "Pengendalian keyboard musik MIDI dengan komputer IBM PC yang dihubungkan secara serial",
+  "abstract": "Di dalam tugas akhir ini dibuat sebuah interface yang menghubungkan keyboard musik MIDI dengan komputer IBM PC. Interface yang dibuat disesuaikan dengan standar perangkat keras MIDI, sistem komunikasi Serial Asynchronous dengan laju baud 31250 Baud dan 5 pin MIDI jack untuk pemasangan MIDI IN, MIDI OUT dan MIDI SYNC. Data serial asynchronous yang keluar dari MIDI akan diterima oleh interface dan dirubah menjadi data paralel. Untuk penanganan data serial asynchronous digunakan IC komunikasi serial, sedang waktu pemunculan datanya ditangani oleh sebuah IC timer atau counter 16 bit. Untuk menunjang keseluruhan kerjanya dibutuhkan perangkat lunak 16 track Sequencer, tugasnya selain sebagai pengatur sistem juga dapat merekam lagu, memainkan ulang lagu, menyimpan data lagu kedalam disket dan mengambil data lagu dari disket. Sequencer akan menyimpan not-not tersebut dan juga mengingat-ingat lamanya masing-masing not, sehingga saat main ulang dapat membunyikan not yang tepat pada saat yang tepat. Setiap track mampu menangani data MIDI yang masuk sebesar 24 KByte, jadi untuk 16 track Sequencer dibutuhkan memory komputer sebesar 384 KByte. Perangkat lunak ini dapat menerima semua data dari MIDI tanpa terkecuali, baik System Mesages ataupun Channel Messages. Pengembangan keseluruhan ditujukan pada pengembangan perangkat lunak seperti fasilitas edit dan pengontrolan synthesizer dari komputer dan lain sebagainya.",
+  "creators": "JONG TJIAN FANG",
+  "contributors": "HANDAYANI T. (Advisor 1); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/009/0068; Jong Tjian Fang (485045)",
+  "subjects": "MIDI (STANDARD)"
+}

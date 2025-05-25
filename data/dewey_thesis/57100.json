@@ -1,0 +1,14 @@
+{
+  "id": "57100",
+  "title": "Meshing adaptif otomatis untuk metode elemen hingga berbasis kriging pada model plane stress/strain",
+  "abstract": "Analisis metode elemen hingga (MEH) pada struktur dengan bentuk yang kompleks membutuhkan adaptive mesh refinement untuk mendapatkan hasil yang akurat dan efisien. Selain itu, peningkatan akurasi dan efisiensi hasil analisis juga dapat dicapai menggunakan MEH nonstandar dengan interpolasi Kriging yaitu MEH berbasis Kriging (MEH-K). Penelitian ini membahas mengenai prosedur meshing adaptif otomatis yang diimplementasikan pada kasus-kasus linier elastis dua dimensi dengan MEH-K. MATLAB Partial Differential Equation Toolbox digunakan untuk meshing adaptif otomatis dengan Delaunay triangulation dan h-refinement. Sementara itu, tiga indikator error yaitu strain energy error, gradient of effective stresses, dan element-free Galerkin strain energy error digunakan untuk mengestimasi error di elemen. Kemudian, berdasarkan hasil konfigurasi akhir mesh, jumlah elemen, relative strain energy error, dan konsistensi tiap indikator error untuk bekerja di sembarang tipe kasus, ditentukan indikator error yang paling efektif untuk MEH-K. Penelitian ini menunjukkan bahwa indikator gradient of effective stresses merupakan indikator error yang paling efektif untuk MEH-K karena dapat mengestimasi error di elemen dengan akurat. Lebih jauh lagi, hasil menunjukkan bahwa konfigurasi akhir mesh dan jumlah elemen dipengaruhi oleh refinement criteria dan termination criteria.",
+  "creators": "JOHANNA HANDOKO",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Jimmy Chandra (Examination Committee 1); Pamuda Pudjisuryadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000344/MTS/2023; Johanna Handoko (B21220021)",
+  "subjects": "KRIGING; STRUCTURAL ANALYSIS (ENGINEERING)"
+}

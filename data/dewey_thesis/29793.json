@@ -1,0 +1,14 @@
+{
+  "id": "29793",
+  "title": "Analisis risiko terhadap business continuity di PT X",
+  "abstract": "PT X merupakan suatu perusahaan yang bergerak dalam bidang retail (Penjualan besi beton). Dalam menjalankan proses bisnisnya perusahaan ini menggunakan software, hardware, jaringan, dan lain-lain. Melihat dari kondisi di PT X tidak menutup kemungkinan terjadinya risiko akibat masalah-masalah dalam hal data security, data integrity, kerusakan hard disk, kesenimbangunan proses bisnis IT dan lain-lain. Pada skripsi ini dilakukan analisis risiko terhadap seluruh area IT dan proses bisnis yang ada di PT X. Area-area yang akan dianalisa tersebut didapatkan dengan cara melakukan penganalisaan pada business continuity berdasarkan Standard ISO 27002 : 2005 yang terdapat 15 chapter di dalamnya kemudian melakukan penganalisaan IT Domain dan berikutnya melakukan risk assessment maupun risk mitigation. Adapun risiko-risiko yang ditemukan adalah adanya ketergantungan terhadap outsource programmer yang berperan sebagai konsultan IT, tidak pernah dilakukan risk assessment dalam bidang IT di perusahaan, tidak ada evaluasi terhadap hak akses, tidak ada orang khusus yang ditunjuk untuk mengelola IT, tidak adanya training atau zona aman terkait keamanan dan insiden dalam perusahaan, dan tidak adanya standar maupun framework. Hasil analisis risiko ini membantu perusahaan menyadari risiko-risiko apa yang mungkin terjadi dan dapat membahayakan kelangsungan bisnis perusahaan sehingga perusahaan dapat mengambil tindakan untuk mencegah atau menangani risiko tersebut.",
+  "creators": "ANDREW HARTANTO SUSILO",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Alexander Setiawan (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021312/INF/2014: Andrew Hartanto Susilo (26410008)",
+  "subjects": "DATABASE MANAGEMENT; RISK MANAGEMENT"
+}

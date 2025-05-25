@@ -1,0 +1,14 @@
+{
+  "id": "9202",
+  "title": "Pembuatan aplikasi pendeteksian fingerprint dengan menggunakan metode gradient histogram",
+  "abstract": "Pada saat ini aplikasi biometric sangat dibutuhkan dalam berbagai bidang, terutama dalam bidang keamanan. Dalam bidang perbankan misalnya, aplikasi biometric tentu saja lebih menghemat waktu apabila dibandingkan dengan pemakaian PIN. Karena penggunaan PIN sangat bergantung pada tingkat kelalaian seseorang, apabila dibandingkan dengan menggunakan aplikasi biometric. Salah satu aplikasi biometric yang sering digunakan adalah sidik jari. Untuk aplikasi biometric berbasis sidik jari, sangat membutuhkan metode yang handal dalam proses pengenalannya. Oleh karena itu, aplikasi ini dibuat untuk mengetahui tingkat keberhasilan dari metode Gradient Histogram. Pemrograman dilakukan dengan menggunakan bahasa pemrograman Microsoft Visual Basic versi 6 untuk interface aplikasi, dan menggunakan Microsoft Acces sebagai database. Untuk proses pengisian data digunakan alat DigitalPersona. Gradient histogram adalah suatu metode perhitungan jumlah sudut yang diperoleh dari gambar berdasarkan matriks. Agar didapatkan suatu sudut dari matriks, diperlukan suatu metode agar peletakan garis dapat mewakili sebagian besar sudut. Untuk peletakan garis digunakan metode garis lurus. Hasil pengujian dari perangkat lunak ini menghasilkan kemampuan pengenalan yang benar mencapai 33, 106%, dengan tingkat kemiripan mencapai 93,098% untuk yang dapat dikenali. Dari hasil implementasi sistem dan uji coba, dapat disimpulkan bahwa metode ini tidak dapat digunakan untuk pengenalan sidik jari secara maksimum. Hal ini disebabkan oleh sifat statik dari metode ini, sehingga sangat berpengaruh pada posisi dari sidik jari.",
+  "creators": "FELIX WUYSANG",
+  "contributors": "Rudy Adipranata (Advisor 1); Felicia Soedjianto (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000505/INF/2006; Felix Wuysang (26401190)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

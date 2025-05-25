@@ -1,0 +1,14 @@
+{
+  "id": "2998",
+  "title": "Aplikasi java untuk chatting pada telepon selular dengan menggunakan protokol L2CAP pada bluetooth",
+  "abstract": "Adanya teknologi Bluetooth pada telepon selular membuka kesempatan bagi pengembangan aplikasi telepon selular menuju arah yang baru. Salah satu aplikasi Bluetooth pada telepon selular tersebut adalah aplikasi chatting pada telepon selular. Aplikasi tersebut dibuat dengan menggunakan bahasa pemrograman Java 2 Micro Edition ( J2ME ), serta ditunjang dengan Java API untuk Bluetooth (JSR-82), Java API untuk MIDP (JSR-37) dan Java API untuk CLDC (JSR-30). Koneksi pada aplikasi chatting ini dibuat hanya antar 2 telepon selular, satu telepon selular berfungsi sebagai server yang menyediakan service untuk chatting dan telepon selular yang lain berfungsi sebagai client yang mengadakan koneksi ke server. Protokol komunikasi yang dipakai untuk pertukaran data pada aplikasi ini adalah protokol komunikasi Bluetooth, yaitu protokol L2CAP. Pengujian aplikasi chatting pada telepon selular dengan menggunakan Bluetooth dilakukan pada 2 buah telepon selular Nokia 6600. Pengujian tersebut berjalan dengan baik, dengan hasil baik yaitu pengadaan service dan penerimaan koneksi oleh sever dapat dilakukan, mengadakan koneksi pada server serta service oleh client dapat dilakukan dan data antar kedua telepon selular dapat dipertukarkan. Kesimpulan yang dicapai adalah bahwa aplikasi Java untuk chatting pada telepon selular dengan menggunakan Bluetooth dapat diwujudkan.",
+  "creators": "RAHADIAN CHANDRANATA",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010022/ELK/2005; Tjan Rahadian Chandranata (23400025)",
+  "subjects": "WIRELESS COMMUNICATION SYSTEMS; CELLULAR RADIO-EQUIPMENT AND SUPPLIES; CELLULAR RADIO"
+}

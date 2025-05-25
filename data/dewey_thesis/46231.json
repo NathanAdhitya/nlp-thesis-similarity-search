@@ -1,0 +1,14 @@
+{
+  "id": "46231",
+  "title": "Hotel recommender system menggunakan metode pendekatan graph pada dataset Trivago",
+  "abstract": "Trivago adalah media pencarian hotel beranah global, di mana pengguna akan disodorkan daftar hotel berdasarkan atas tempat yang ingin dituju, beserta kondisi lain yang disertakan (opsional), misalkan pada jarak harga tertentu. Sebagai sebuah media pencarian, salah satu kendala terbesar yang dialami Trivago dalam memberikan daftar hotel adalah : mengetahui “keinginan” pengguna. Trivago menggunakan sebuah recommender system untuk menentukan urutan hotel yang ditampilkan pada sebuah sesi pencarian berdasarkan pada “keinginan” pengguna di sesi tersebut. Dalam upaya untuk meningkatkan kualitas recommender system tersebut, Trivago bekerjasama dengan peneliti dari TU Wien, Politecnico di Milano, dan Karlsruhe Institute of Technology, untuk mengadakan RecSys Challenge 2019 sebagai perlombaan data science tahunan di bawah ACM Recommender Systems Conference. Penelitian kali ini akan berfokus pada penggunaan pendekatan berbasis graph dalam menghasilkan recommender system dengan menggunakan dataset Trivago pada RecSys Challenge 2019. Pendekatan berbasis graph terbukti sesuai untuk digunakan dalam dataset yang berbasis time-series, misalkan penggunaan fitur graph dalam memprediksi apabila pengunjung akan melakukan pembelian pada sebuah sesi online shopping (Baumann, Haupt, Gebert, & Lessmann, 2018). Penelitian tersebut membandingkan tingkat akurasi prediksi saat menggunakan fitur graph dan fitur tradisional, dan terlihat peningkatan sebesar 5 – 10%. Pendekatan graph yang diadopsi untuk penelitian ini adalah Markov Chain, sebuah probabilistic graphical model. Penelitian menguji beberapa model Markov Chain dengan length, depth, dan order yang berbeda, dan setiap model diuji dengan menggunakan metrik Mean Reciprocal Rank (MRR) sesuai dengan ketentuan challenge. Pada akhir penelitian, ditemukan bahwa model Markov Chain dengan nilai MRR tertinggi didapatkan pada saat nilai length = 1, depth = 0, dan order = 1.",
+  "creators": "RICKY SUNARTIO",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Kartika Gunadi (Examination Committee 1); Andre Gunawan (Advisor 2); Alvin Nathaniel (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021932/INF/2020; Ricky Sunartio (26416149)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (COMPUTERS)"
+}

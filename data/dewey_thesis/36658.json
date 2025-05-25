@@ -1,0 +1,14 @@
+{
+  "id": "36658",
+  "title": "Pembuatan aplikasi audience response system berbasis web dan Android",
+  "abstract": "Audience Response System banyak digunakan pada berbagai event acara baik sebagai media untuk mengumpulkan informasi, mengumpulkan data, dan mengetahui pendapat masyarakat umum terhadap suatu isu, topik, berita. Audience Response System juga dapat digunakan untuk mengetahui kepuasan client atau customer terhadap kualitas produk atau jasa. Sayangnya kebanyakan audience response system yang ada saat ini berupa perangkat fisik yaitu berupa sebuah remote yang di mana sangat terbatas penggunaannya. Seiring berkembangnya teknologi, masyarakat memiliki smartphone yang dapat melakukan berbagai hal. Perangkat fisik tersebut dapat digantikan dengan aplikasi atau program yang dapat di-install di smartphone, sedangkan polling dibuat melalui website. Audience response system dalam penelitian ini dibangun di atas platform Node.js, PhoneGap, dengan menggunakan Socket.IO sebagai Javascript library WebSocket agar mendukung komunikasi data dua arah. Berdasarkan hasil pengujian, aplikasi ini dapat menjalankan fungsi login, membuat polling, mengikuti polling, melakukan voting, dan tingkat reliabilitas sistem adalah 93%.",
+  "creators": "ALBERT LEONARDO PISA",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Justinus Andjarwirawan (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021505/INF/2016; Albert Leonardo Pisa (26411010)",
+  "subjects": "WEBSITES; SMARTPHONES--PROGRAMMING; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (ELECTRONIC RESOURCE)-PROGRAMMING"
+}

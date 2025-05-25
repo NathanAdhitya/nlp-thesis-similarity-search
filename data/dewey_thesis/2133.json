@@ -1,0 +1,14 @@
+{
+  "id": "2133",
+  "title": "Perancangan dan pembuatan perangkat lunak untuk me-render mesh object dengan menggunakan metode ray tracin",
+  "abstract": "Seiring dengan perkembangan teknologi khususnya yang berhubungan dengan komputer grafik, maka terdapat salah satu proses yang penting yaitu rendering obyek. Obyek yang di-render dapat berupa obyek sederhana (primitive object) seperti kotak, bola dan bidang datar dan juga obyek yang kompleks (mesh object). Obyek apa pun dapat dibuat menjadi mesh object. Mesh object adalah suatu obyek kompleks yang dibentuk dari segitiga-segitiga yang digabungkan. Untuk dapat menghasilkan obyek 3D yang realistik dan sekualitas dengan foto, dapat digunakan metode Ray Tracing. Metode ray tracing me-render obyek dengan melakukan penelusuran sinar dari mata ke arah obyek dengan memperhitungkan semua efek pencahayaan yang mengenai obyek tersebut dan juga bayangan dari obyek, sehingga mampu menghasilkan obyek 3D yang sesuai dengan aslinya. Semua prosedur dan fungsi yang dibutuhkan dalam ray tracing dikembangkan dengan menggunakan bahasa pemrograman Borland Delphi 6.0 dan untuk menampilkan hasil render-nya digunakan library OpenGL. Format file mesh object yang digunakan adalah format file.obj. Format file mesh object yang lain dapat digunakan tetapi harus diubah terlebih dahulu ke format .obj dengan menggunakan program wcvt2pov. Berdasarkan pengujian yang dilakukan terhadap posisi mata, mesh object dan efek pencahayaannya, program dapat melakukan proses rendering mesh object dengan menggunakan metode ray tracing. Program juga menyediakan editor sederhana yang memungkinkan user untuk membentuk mesh object sendiri.",
+  "creators": "SULIAN MOZES L SEDUBUN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Liliana (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01000307/INF/2005; Sulian Mozes L. Sedubun (26400154)",
+  "subjects": "SOFTWARE ENGINEERING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "39990",
+  "title": "Pembuatan smart power outlet yang dapat dikendalikan menggunakan aplikasi pada smartphone android",
+  "abstract": "Pada tugas akhir ini akan dibuat sebuah perangkat yang disebut dengan istilah smart power outlet. Smart power outlet yang sudah ada di pasaran saat ini memiliki rentang harga sekitar 300.000 sampai 1.000.000 rupiah, dengan fitur yang bermacam-macam. Pada tugas akhir ini akan dibuat smart power outlet dengan harga yang murah dan memiliki fitur yang lengkap. Sistem ini terdiri dari sebuah smart power outlet dan smartphone android. Smartphone android digunakan untuk mengirim perintah ke smart power outlet. Perintah tersebut akan diterima untuk diproses oleh smart power outlet. Untuk dapat menerima dan memproses perintah dari smartphone android, smart power outlet menggunakan 3 komponen utama yaitu board NodeMcu, modul relay 5V, serta sensor arus ACS712. Berdasarkan hasil pengujian, smart power outlet mampu menerima dan memproses perintah dari aplikasi pada smartphone android dengan tingkat keberhasilan sebesar 100%. Sedangkan untuk pengukuran arus AC dengan menggunakan sensor arus ACS712 memiliki error sebesar 3,6%. Penggunaan board nodemcu pada sistem ini kurang efektif karena board nodemcu tidak mendukung teknologi multithreading. Untuk sebuah smart power outlet pada tugas akhir ini memiliki harga modal sebesar 263.000 rupiah.",
+  "creators": "FILIPUS FELIX THAMRIN",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Emmy Hosea (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010133/ELK/2017; Filipus Felix Thamrin (23412001)",
+  "subjects": "ANDROID (COMPUTER PROGRAM); ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); SMARTPHONES"
+}

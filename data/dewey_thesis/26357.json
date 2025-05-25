@@ -1,0 +1,14 @@
+{
+  "id": "26357",
+  "title": "Automatic mains failure untuk beban 100 KVA,3 0,380/440 V",
+  "abstract": "Automatic Mains Failure (AMF) adalah suatu rangkaian kontrol, yang berfungsi untuk menstart Disel Generator apabila sumber tegangan listrik PLN mengalami gangguan dan mengalihkan beban dari sumber listrik PLN ke Disel Generator jika tegangan pada generator sudah stabil. Bila tegangan PLN normal kembali, maka AMF akan mengevaluasi tegangan PLN selama 2 menit, jika tegangan PLN sudah stabil maka beban akan dipindahkan ke sumber listrik PLN kembali dan Disel Generator dimatikan. Dari hasil pengujian ternyata waktu perencanaan timer-timer meleset jauh lebih lama dari kenyataan. Dalam pembuatan AMF ini, semua fungsi pokok dapat dipenuhi hanya ada kekurangan pada tidak adanya sensor frekwensi dan waktu delai gangguan PLN.",
+  "creators": "DAUD HARIANTO",
+  "contributors": "SOEBAGIO (Advisor 1); ONTOSENO PENANGSANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/TST/001/0051; Daud Harianto (482062)",
+  "subjects": "DIESEL ELECTRIC MOTOR-PLANTS; ELECTRIC GENERATORS"
+}

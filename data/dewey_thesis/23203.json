@@ -1,0 +1,14 @@
+{
+  "id": "23203",
+  "title": "Perencanaan dan pembuatan alat untuk menggambar ke komputer yang menggunakan potensio sebagai sensor posisi dengan mikrokontroller 80C31",
+  "abstract": "Penggunaan komputer saat ini sudah sedemikian luasnya, tidak terbatas hanya mengetik, membuat laporan keuangan, membuat database dan sebagainya. Komputer juga digunakan untuk pembuatan grafik/gambar baik yang sederhana maupun yang kompleks. Pada Tugas Akhir ini dibuat suatu rangkaian yang dapat memudahkan penggambaran yang dilakukan pada kertas gambar dimana hasil penggambaran tersebut dapat langsung dimasukkan ke dalam komputer dan ditampilkan pada monitor. Prinsip dasar dari alat ini yaitu menggunakan potensio sebagai sensor posisi dimana potensio ini diletakkan sedemikian rupa pada alat mekanik yang menyerupai lengan sehingga perubahan nilai tahanan pada potensio sebanding dengan posisi dari pena gambar. Dengan menggunakan Analog to Digital Converter (ADC) data berupa tegangan d a r i potensio diubah menjadi data digital sehingga dapat diolah oleh mikrokontroller 80C31. Data i n i kemudian dikirim secara serial ke komputer PC melalui port serial yang tersedia pada komputer PC. Hasil pengolahan data tersebut kemudian dapat ditampilkan pada monitor berupa gambar yang sama dengan hasil penggambaran pada kertas gambar. Penggambaran ini dilengkapi dengan penggambaran berwarna sampai dengan 16 warna. Hasil gambar ini dapat disimpan kedalam file untuk pengolahan lebih lanjut .",
+  "creators": "WILLY INDRA ATMAJA",
+  "contributors": "IRWAN SAHLI (Advisor 2); HANDAYANI T. (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/012/0215; Willy Indra Atmaja (23489046)",
+  "subjects": "ANALOG-TO-DIGITAL CONVERTERS"
+}

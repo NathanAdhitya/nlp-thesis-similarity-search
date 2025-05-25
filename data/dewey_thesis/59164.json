@@ -1,0 +1,14 @@
+{
+  "id": "59164",
+  "title": "Platform Antares untuk sistem urban farming berbasis IoT dengan menggunakan protokol narrow band",
+  "abstract": "Salah satu teknik urban farming yang paling digemari adalah hidroponik, karena mudah, murah, dan dapat dikerjakan pada lahan yang terbatas. Namun, sebagian orang terutama yang tinggal di kota, memiliki waktu luang yang terbatas untuk merawat tanam hidroponik, karena 40.83% penduduk Indonesia bekerja sebagai karyawan atau pegawai. Kendala tersebut mengakibatkan kematian tanaman, karena kurang terawat. Untuk mengatasi kendala tersebut, dibuatlah sebuah sistem hidroponik otomatis yang berbasis IoT(Internet Of Things), sehingga para pelaku hidroponik dapat memantau dan mengendalikan kebun hidroponik mereka dari mana saja dan kapan saja melalui gawai yang dimiliki. Karena sudah terotomatisasi, maka resiko kematian tanaman berkurang. Sistem hidroponik otomatis berbasis IoT yang dibuat dalam tugas akhir ini, memanfaatkan gawai untuk memantau dan mengendalikan kebun hidroponik. Sistem ini memanfaatkan protokol komunikasi MQTT dan Narrow Band untuk mengirim dan menerima data. Tugas akhir ini merupakan kerjasama antara Universitas Kristen Petra dengan Antares yang merupakan perusahaan di bawah naungan PT Telkom Indonesia Tbk, oleh sebab itu tugas akhir ini menggunakan platform Antares, sebagai platform utama. Berdasarkan hasil pengujian, sistem mampu mengatur nutrisi, kelembapan udara, dan suhu yang dibutuhkan tanaman untuk tumbuh dengan optimal, serta menampilkan semua data pembacaan sensor pada gawai, selain itu pengguna dapat mengendalikan secara langsung kebun hidroponik melalui gawai tersebut.",
+  "creators": "EDWARD TANUJAYA",
+  "contributors": "Indar Sugiarto (Advisor 1); Handy Wicaksono (Advisor 2); Resmana Lim (Examination Committee 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 2); Thiang (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011056/ELK/2023; Edward Tanujaya (C11190006)",
+  "subjects": "INTERNET OF THINGS; URBAN AGRICULTURE--TECHNOLOGICAL INNOVATIONS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "13758",
+  "title": "Perancangan dan pembuatan simulasi hunting system telepon tone multi line dengan menggunakan mikrokontroler MCS-51",
+  "abstract": "Pada era komunikasi sekarang ini, telephone sangat dibutuhkan. Sehingga tidak mengherankan apabila dalam satu perusahaan mempunyai lebih dari satu sambungan telephone. Akan tetapi akan timbul suatu masalah apabila telephone yang dihubungkan rusak atau pemakai tidak berada pada tempat dan operator yang lain berada jauh dari tempat telephone tersebut. Untuk mengatasi permasalahan diatas, maka pada Tugas akhir ini akan direncanakan dan dibuat alat yang dapat meningkatkan keberhasilan panggilan telephone, dalam arti apabila telephone rusak atau pemakai tidak berada pada tempatnya, maka telephone yang lain masih dapat digunakan sehingga pemakai yang lain masih dapat dihubungi. Dalam istilah TELKOM sistem tersebut dinamakan sistem HUNTING. Perbedaan dari sistem TELKOM dan alat yang dibuat adalah sistem HUNTING TELKOM menggunakan nomer yang sama, sedangkan alat yang dibuat pada Tugas Akhir ini mempunyai nomer telephone yang berbeda, se-hingga untuk perusahaan yang mempunyai jalur TELKOM lama dengan nomer yang berbeda peralatan tugas akhir ini masih dapat digunakan. Metode-metode yang dipakai dalam pembuatan alat ini adalah studi literatur, pengumpulan data untuk dianalisa, perencanaan rangkaian, pembuatan alat dan pengujian alat. Dalam pembuatan alat ini selain dibuat perangkat kerasnya juga dibuat perangkat lunak atau software untuk menjalankan perangkat keras tersebut. Dari hasil pembuatan alat dapat disimpulkan bahwa alat hunting sistem ini selain mempunyai kemampuan untuk mencari telephone output mana yang sedang tidak dipakai, juga dapat mencari jalur input mana yang sedang tidak terpakai . Sehingga cocok untuk perkantoran yang memiliki beberapa nomor telephone, tetapi masih belum memiliki PABX.",
+  "creators": "HARYANTO WIBISONO GUNAWAN",
+  "contributors": "NAWANTO WIBOWO (Examination Committee 1); SUPENO DJANALI (Advisor 1); IRWAN SAHLI (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/041/0198; Haryanto Wibisono Gunawan (23489055)",
+  "subjects": "MCS-51 (MICROCONTROLLER); MONITOR COMMAND SYSTEM (COMPUTER PROGRAM); TELEPHONE ANSWERING AND RECORDING APPARATUS"
+}

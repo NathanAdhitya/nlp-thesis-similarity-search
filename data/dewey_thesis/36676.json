@@ -1,0 +1,14 @@
+{
+  "id": "36676",
+  "title": "Pembuatan sistem informasi akuntansi dan perhitungan PPN untuk CV X",
+  "abstract": "Pada saat ini CV X tidak memiliki sistem pencatatan akuntansi yang terstruktur. Pencatatan transaksi dilakukan secara manual sehingga menyebabkan pertukaran informasi yang lambat dan kerugian akan kesalahan dalam perhitungan PPN. Berdasarkan latar belakang permasalahan tersebut, dirancang sistem informasi akuntansi yang terstruktur beserta perhitungan PPN. Sistem informasi akuntansi tersebut dibuat dengan menggunakan Yii PHP Framework dengan bahasa pemrograman PHP dan MySQL untuk database. Hasil yang diperoleh dari aplikasi ini antara lain adanya pencatatan transaksi pembelian dan penjualan, perhitungan hutang PPN yang harus dibayar tiap bulan, laporan pembelian dan penjualan, laporan PPN masuk dan keluar, dan laporan keuangan berupa laporan laba rugi, laporan perubahan ekuitas, laporan posisi keuangan dan neraca.",
+  "creators": "FELICIA LIMANTARA",
+  "contributors": "Kristo Radion Purba S.ST. (Advisor 1); ANDY SETIABUDI (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021532/INF/2016; Felicia Limantara (26412060)",
+  "subjects": "ACCOUNTING-DATA PROCESSING; DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS); VALUE-ADDED TAX"
+}

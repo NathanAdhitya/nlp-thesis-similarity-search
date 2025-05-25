@@ -1,0 +1,14 @@
+{
+  "id": "13969",
+  "title": "Penjadwalan produksi sepatu boot dengan menggunakan program linier di PT. Toyobo",
+  "abstract": "PT Toyobo adalah salah satu industri di Jawa Timur yang memproduksi sepatu boot. Sepatu boot yang diproduksi mempunyai dua macam model yaitu model 8805 dan 8808, lima macam ukuran yaitu 38, 39, 40, 41, 42 dan sembilan macam warna yaitu hitam, biru, ungu, merah, coklat, putih, kuning, hijau muda dan hijau tua. Selama ini pihak perusahaan belum memiliki suatu jadwal produksi yang mengatur kapan suatu pesanan akan diproduksi. Untuk mengatasi masalah penjadwalan tersebut telah dilakukan penelitian yang dilakukan oleh Velianni. Penelitian tersebut menggunakan Algoritma Heristik NEH untuk menjadwalkan penggantian warna dan Algoritma Heuristik Rajendran dan Algoritma Ho dan Chang untuk penjadwalan ukuran sepatu yang akan diproduksi. Namun hasil yang diperoleh belum mencapai nilai yang optimal sehingga dalam penulisan tugas akhir ini digunakan Program Linear untuk membendingkan hasil yang diperoleh pada penelitian yang terdahulu. Berdasarkan hasil pengolahan dengan menggunakan Program Linear, diperoleh satu jadwal produksi baru. Jadwal produksi yang baru tersebut memberikan nilai yang optimal dengan waktu penyelesaian untuk memproduksi pesananl dan 2 masing-masing 3 hari. Penjadwalan produksi ini dilakukan untuk masing-masing order sehingga waktu penyelesaian untuk kedua order adalah 6 hari, dan tidak menyebabkan keterlambatan untuk memenuhi demand yang ada.",
+  "creators": "INDRIATI LUSI TULAK",
+  "contributors": "Siana Halim (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 444/TI-035/2001; Indriati Lusi Tulak (25496150)",
+  "subjects": "SCHEDULING (MANAGEMENT)"
+}

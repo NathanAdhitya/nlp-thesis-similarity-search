@@ -1,0 +1,14 @@
+{
+  "id": "7989",
+  "title": "Pembuatan perangkat lunak untuk memperbaiki citra pada video digital",
+  "abstract": "Kemajuan teknologi video digital yang sangat pesat juga diiringi dengan munculnya berbagai format video digital dan tipe kompresi yang berbeda antara satu dengan yang lainnya, oleh karena hal tersebut maka timbulah suatu masalah yang dikarenakan pengembangan perangkat multimedia yang berasal dari pencipta perangkat lunak yang berbeda beda. Masalah tersebut berhubungan dengan penurunan kualitas gambar (noise) pada frame, dimana hal tersebut akan sangat mempengaruhi publikasi file video yang bersangkutan. Berdasarkan masalah tersebut maka dibuatlah aplikasi perbaikan citra file video sederhana yang mencakup file kompresi bertipe AVI (Audio Video Interleaved). Pembuatan aplikasi perbaikan citra video digital ini menggunakan Microsoft Visual C++, dengan menggunakan Application Program Interface (API) AVIFile, DIB dan juga teknik filtering spatial dan fourier. Program ini dilengkapi dengan fasilitas untuk pemrosesan gambar pada tiap frame menggunakan filter, pengaturan tingkat kecerahan, tingkat kontras dan juga fasilitas penyimpanan file berupa format AVI. Dengan menerapkan penggunaan filter atau metode lain diatas secara tepat pada frame yang telah dianggap menurun kualitasnya, maka dapat dilakukan pengurangan masalah-masalah yang dianggap sebagai gangguan gambar dalam frame.",
+  "creators": "VICKY ANDREYONO SANJAYA",
+  "contributors": "Rudy Adipranata (Advisor 1); Liliana (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000517/INF/2006; Vicky Andreyono Sanjaya (26402150)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

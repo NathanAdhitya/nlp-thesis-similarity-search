@@ -1,0 +1,14 @@
+{
+  "id": "28671",
+  "title": "Rancang bangun radio live streaming server penunjang penyiaran Petra Campus Radio Online",
+  "abstract": "Saat ini penyiaran radio yang diadakan Petra Campus Radio hanya mengudara di gedung C dan sekitarnya. Kenyataannya saat ini kebanyakan orang mulai meninggalkan radio dan lebih tertarik dengan media online. Oleh karena itu, dirancang-bangunkan streaming server yang diharapkan mampu mengirimkan siaran radio kampus melalui jaringan lokal intranet di lingkungan lokal kampus. Sistem ini dibuat dengan memanfaatkan Shoutcast DNAS 1.9.8. sebagai server streaming, SAM Broadcaster sebagai perangkat lunak untuk penyiaran dan encoding, serta situs web dengan PHP sebagai interface bagi user dengan fitur live streaming dan on-demand streaming. Interface pada situs web menggunakan Windows Media Player Plugin. Sistem ini menggunakan Wireless Local Area Network (WLAN) maupun Local Area Network (LAN) sebagai jalur transmisinya. Pengujian menunjukkan bahwa format MP3Pro dengan bitrate 64 kbps adalah format audio terbaik yang dapat melalui jalur tersebut.",
+  "creators": "PETRICIA ROSALIN",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Heri Saptono Warpindyasmoro (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010109/ELK/2012; Petricia Rosalin (23407020)",
+  "subjects": "DATABASE DESIGN"
+}

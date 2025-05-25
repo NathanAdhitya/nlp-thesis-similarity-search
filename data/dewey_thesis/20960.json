@@ -1,0 +1,14 @@
+{
+  "id": "20960",
+  "title": "Simulasi dan analisa series active power filter tiga fasa dengan metode kompensasi artificial neural network",
+  "abstract": "Tegangan harmonisa pada sistem tenaga listrik dapat mengganggu kerja peralatan dan menurunkan kualitas daya listrik. Hal ini diatasi dengan menggunakan Series Active Power Filter yang merupakan Voltage Source Inverter (VSI) tiga fasa. Artificial neural network (jaringan syaraf tiruan) digunakan sebagai pengontrol Series Active Power Filter untuk menghasilkan tegangan referensi dari tegangan sumber yang terdistorsi harmonisa dan tidak seimbang. Artificial neural network menentukan amplitudo dari komponen sinus dan kosinus tegangan referensi, dan bekerja secara optimal ketika learning rate 0.012. Hasil simulasi komputer menunjukkan bahwa Series Active Power Filter tiga fasa dengan metode kompensasi Artificial Neural Network secara efektif mampu menghilangkan harmonisa dan menghasilkan tegangan tiga fasa yang sinusoidal dan seimbang yang akan diterima oleh beban. Berdasarkan hasil simulasi, diperoleh VTHD beban sebelum dan sesudah kompensasi untuk harmonisa ke-3, ke-5, dan ke-7 berkisar antara 37.52 % - 47.0125 % (sebelum) dan 1.7 % - 1.8 % (sesudah).",
+  "creators": "MARSELIN JAMLAAY",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Thiang (Advisor 2); Limboto Limantara (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010622/ELK/2011; Marselin Jamlaay (23407022)",
+  "subjects": "HARMONIC ANALYSIS; ARTIFICIAL NEURAL NETWORKS"
+}

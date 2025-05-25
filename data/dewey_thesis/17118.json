@@ -1,0 +1,14 @@
+{
+  "id": "17118",
+  "title": "Modem interface untuk PLC omron sysmac C200HG dengan menggunakan microcontroller keluarga MCS-51",
+  "abstract": "Modem interface untuk PLC ini merapakan suatu alat yang menjembatani komunikasi PLC dengan modem. Alat ini menyediakan akses kontrol PLC jarak jauh dengan kemudahan akses dari berbagai tempat, efisien dan memiliki biaya murah. Tujuan tugas akhir ini adalah untuk mencari sarana alternatif dari kontrol jarak jauh melalui line telepon dan modem. Modem interface diimplementasikan dengan microcontroller keluarga MCS-51 untuk mengontrol modem, meneruskan perintah dari sistem remote ke PLC dan meneruskan respon PLC ke sistem remote. Perintah yang diberikan dapat berupa perintah untuk membaca maupun menulis data ke PLC dan perintah sistem. Sedangkan respon dari PLC sendiri dapat berupa data yang dibaca. Dengan demikian modem interface ini dapat digunakan untuk mengontrol PLC dari jarak jauh. Dalam tugas akhir ini, perancangan sistem yang meliputi perencanaan perangkat keras dan lunak dibahas secara detail. Selain itu, juga dibahas mengenai sistem komunikasi antara microcontroller dengan modem dan microcontroller dengan PLC. Hasil pengujian sistem menunjukkan adanya kinerja yang baik dan cukup andal dari modem interface ini, dengan tidak ada kesalahan transmisi data. Dengan ini dapat disimpulkan bahwa modem interface untuk PLC dapat diaplikasikan sebagai alternatif kontrol jarak jauh.",
+  "creators": "SERENA MELANIE MAGDALENA",
+  "contributors": "Thiang (Advisor 1); Felix Pasila (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/039/476; Serena Melanie Magdalena (23496007)",
+  "subjects": "MODEMS"
+}

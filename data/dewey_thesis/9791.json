@@ -1,0 +1,14 @@
+{
+  "id": "9791",
+  "title": "Pengembangan fitur member area pada mesin harvester public knowledge project (PKP)",
+  "abstract": "Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH) merupakan suatu mekanisme standar untuk melakukan pertukaran data antar repository. OAI-PMH telah berhasil melakukan hal tersebut dengan menyediakan suatu struktur dari sistem yang sederhana namun cukup baik untuk melakukan harvest metadata. Saat ini PKP ( Public Knowledge Project ) telah mempublikasikan sebuah mesin harvester dengan nama PKP harvester2. PKP harvester2 merupakan sebuah project open-source untuk melakukan harvest metadata. Tugas akhir ini mengembangkan PKP harvester2 dengan melakukan penambahan fitur member area. Adapun penambahan fitur member area tersebut yaitu dengan menambahkan fitur seperti login, registrasi, dan database member serta beberapa administrative function seperti create news, add search category dan sending email. Dari hasil pengujian, fitur member area yang telah dikembangkan dapat bekerja dengan baik.",
+  "creators": "ANDY LEANDER",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010071/ELK/2008; Andy Leander (23403078)",
+  "subjects": "OPEN ARCHIVES INITIATIVE PROTOCOL FOR METADATA HARVESTING (OAI-PMH); COMPUTER NETWORK PROTOCOLS"
+}

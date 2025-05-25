@@ -1,0 +1,14 @@
+{
+  "id": "39157",
+  "title": "Sistem data logging sederhana berbasis internet of things untuk pemantauan suhu tubuh dan detak jantung",
+  "abstract": "Dalam beberapa tahun terakhir, teknologi Internet of Things sudah banyak didemonstrasikan. Pengembangan ini menghasilkan banyak pendekatan yang mengusulkan suatu pemanfaatan Internet of Things dalam aplikasi data logging secara wireless. Berdasarkan perluasan IOT dan khususnya wearable device, remote data logging walaupun tanpa server data IOT, penggunaannya telah menjadi suatu tren yang besar dalam dunia kesehatan. Walaupun demikian perangkat sekarang hanya mencakup bagian terkecil dari potensi pengembangan yang lebih luas, seperti penggunaan server data IOT pada wearable device. Jadi perangkat dapat dioperasikan pada jaringan yang telah terdaftar dan dapat dimonitor dari mana saja. Tugas akhir ini menghadirkan pendekatan dalam membangun sistem data logging nirkabel menggunakan teknologi IOT pada server Thingspeak, dan berfokus pada data dari suhu tubuh dan detak jantung. Mikrokontroler yang digunakan pada Tugas Akhir ini adalah ATmega328P dan Modul ESP8266 Wifi yang mana akan digunakan untuk berkomunikasi dengan server IOT. Dapat disimpulkan wireless data logging ini dapat digunakan untuk pengiriman dari sebuah node ke server, tetapi keakuratan waktu penerimaan pada server sangat bergantung pada kondisi kestabilan jaringan. Ukuran dari alat ini juga dapat disederhanakan dengan penyederhanaan modul mikrokontroler dan pemilihan LCD yang lebih kecil.",
+  "creators": "BRIAN JOSE JOHAN SAHULEKA",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010131/ELK/2017; Brian Jose Johan Sahuleka (23411022)",
+  "subjects": "WIRELESS FIDELITY (WIFI); MICROCONTROLLERS; INTERNET OF THINGS; DATA LOGGERS"
+}

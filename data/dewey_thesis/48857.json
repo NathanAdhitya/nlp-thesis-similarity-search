@@ -1,0 +1,14 @@
+{
+  "id": "48857",
+  "title": "Aplikasi sentiment analysis terhadap pelaksanaan pembelajaraan jarak jauh Universitas Kristen Petra dengan metode Naïve Bayes Classifier",
+  "abstract": "Universitas Kristen Petra selalu berusaha memberikan yang terbaik bagi mahasiswanya dalam visi menjadikan mahasiswa pemimpin-pemimpin Kristen meskipun melaksanakan pembelajaran secara jarak jauh. Dalam menjaga kepuasan mahasiswa selama masa pembelajaran jarak jauh, Universitas Kristen Petra melakukan survei untuk mengetahui tanggapan mahasiswa. Hasil dari survei tersebut akan dilakukan pengecekan secara manual sehingga membutuhkan waktu dan tenaga yang besar. Oleh karena itu, dibutuhkan sebuah aplikasi yang dapat membantu untuk pengumpulan informasi dari survei tersebut tanpa membutuhkan tenaga dan waktu yang lama. Aplikasi Sentiment Analysis dapat melakukan klasifikasi berdasarkan sentimen dan topik terkait pembelajaran jarak jauh. Metode yang digunakan untuk klasifikasi topik dan sentimen adalah Naive Bayes Classifier. Sebelum data diolah, data akan dipersiapkan melalui preprocessing yaitu menghilangkan kalimat yang sama, mengubah kata-kata singkatan, pengambilan kata dasar, dan penghapusan kata yang dianggap kurang bermakna seperti kata hubung dan kata keterangan. Proses preprocessing dilakukan untuk mendapatkan hasil yang akurat karena data telah seragam. Metode Naive Bayes Classifier akan melakukan perhitungan probabilitas kata dalam kalimat untuk melihat probabilitas kalimat tersebut termasuk pada kelas tertentu. Model klasifikasi yang dihasilkan dan digunakan pada aplikasi ini dapat mengelompokkan data survei mahasiswa terkait pelaksanaan pembelajaran jarak jauh berdasarkan sentimennya yaitu positif dan negatif, juga berdasarkan topiknya yaitu materi, dosen, media pembelajaran, dan fasilitas pendukung. Akurasi dari model klasifikasi yang dihasilkan adalah 89% untuk klasifikasi sentimen dan 80% untuk klasifikasi topik.",
+  "creators": "KEZIA SEKARAYU SETYAWATI",
+  "contributors": "Andreas Handojo (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Silvia Rostianingsih (Examination Committee 1); Liauw Toong Tjiek, S.T., M.S., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022042/INF/2021; Kezia Sekarayu Setyawati (C14170086)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; APPLICATION SOFTWARE"
+}

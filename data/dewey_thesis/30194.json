@@ -1,0 +1,14 @@
+{
+  "id": "30194",
+  "title": "Pemanfaatan gelombang ultrasonik sebagai detektor mobil untuk memberi informasi keadaan pusat parkir",
+  "abstract": "Sistem pemberi informasi keadaan pusat parkir adalah sistem yang memberikan informasi lantai parkir mana yang masih kosong dan yang sudah penuh kepada pengunjung. Sistem ini terdiri dari modul master dan modul slave. Modul master diletakkan di ruangan tertentu (ruang operator, misalnya) dan modul slave diletakkan di tiap-tiap lantai. Setiap lantai parkir memiliki dua modul slave, modul slave pintu masuk dan modul slave pintu keluar. Modul master dan semua modul slave dihubungkan dengan saluran kabel koaksial untuk kanal komunikasi serial multiprossesor. Modul master berfungsi untuk menghubungi semua modul slave secara berurutan untuk mengambil data jumlah mobil yang melewati pintu gerbang parkir di tiap-tiap lantai setiap lima detik sekali. Data ini diolah oleh perangkat lunak modul master untuk menentukan keadaan pusat parkir. Hasil pengolahan ini dikirim ke semua modul slave untuk ditampilkan di papan peraga yang berupa lampu pijar. Modul slave berfungsi untuk menghitung jumlah mobil yang lewat pintu gerbang parkir, mengirimkan data ke modul master berdasarkan permintaan modul master, dan menampilkan informasi keadaan pusat parkir. Setiap modul slave memiliki satu alamat yang unik dan alamat global. Alamat yang unik digunakan untuk membedakan masing-masing modul slave sehingga modul master bisa mendapatkan data yang spesifik. Alamat global digunakan untuk menerima data informasi keadaan pusat parkir yang dikirim oleh modul master. Modul master dan modul slave berbasis mikrokontroller 8031.",
+  "creators": "JOJOK SADIKIN",
+  "contributors": "NAWANTO WIBOWO (Advisor 1); HERLIANTO TENGGARA (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/028/0231; Jojok Sadikin (23490174)",
+  "subjects": "DETECTORS-COMPUTER PROGRAMS; ULTRASONIC WAVES DETECTORS-COMPUTER PROGRAMS"
+}

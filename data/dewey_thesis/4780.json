@@ -1,0 +1,14 @@
+{
+  "id": "4780",
+  "title": "Aplikasi TCP/IP untuk penggerak kamera",
+  "abstract": "Dengan kemajuan teknologi masa kini, dapat tercipta sebuah sistem keamanan dengan pemantauan terhadap suatu tempat. Pemantauan tidak hanya dapat dilakukan di tempat tersebut secara langsung, melainkan dapat dilakukan dari tempat yang berbeda. Sistem keamanan tersebut memanfaatkan teknologi kamera (dalam hal ini berupa sebuah webcam), dua buah motor sebagai penggerak kamera beserta rangkaian driver-nya, sebuah komputer server, beberapa komputer client dan teknologi jaringan. Webcam dihubungkan dengan komputer server dan komputer server dapat menerima semua data video yang tertangkap oleh kamera. Kemudian komputer server mengirimkan data video tersebut ke komputer client melalui jaringan. Bukan hanya itu, pemantau dapat juga memerintahkan komputer server untuk menggerakkan kamera, sehingga hampir semua sudut ruangan dapat dipantau. Semua aplikasi pada sistem ini, diimplementasikan dengan bahasa pemrograman C++, dan pemrogramannya dikerjakan dengan Microsoft Visual C++ 6.0. Rangkaian driver motor terdiri dari relay, transistor, resistor dan beberapa komponen lainnya. Motor yang digunakan adalah motor DC. Sistem telah diuji untuk berbagai macam keadaan dan komputer. Sistem juga telah diuji pada jaringan dengan dua komputer (satu server, satu client) maupun pada jaringan dengan satu server dan banyak client. Kualitas gambar yang dihasilkan sangat bergantung pada pencahayaan di ruangan tersebut.",
+  "creators": "ANDY SUSANTO",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Indar Sugiarto (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010695/ELK/2004; Andy Susanto (23498066)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "55035",
+  "title": "Penerapan metode hybrid untuk permasalahan cold start dalam sistem rekomendasi automatic playlist continuation",
+  "abstract": "Cold Start adalah permasalahan yang cukup umum dalam sistem rekomendasi. Cold Start berarti kondisi di mana kurangnya informasi/sparsity terkait object yang sedang ingin direkomendasikan. Pada tahun 2018, Spotify Bersama dengan ACM Recommender Systems membuat sebuah lomba berjudul Automatic Playlist Music Continuation Recsys 2018. Dengan dataset Million Playlist Dataset. Perlombaan ini dimenangkan oleh tim Bernama vl6 dengan nilai R_prec 0.2241, NDCG 0.3946, Clicks, 1.7839. Tim ini menggunakan metode two stage untuk memisahkan model Warm Start dan Cold Start. Model coldstart yang digunakan tim ini adalah Truncated SVD. Metode yang digunakan dalam penelitian ini dibasiskan penelitian sebelumnya yang berjudul Similarity Measures for Title Matching. Metode ini diadopsi untuk mencari playlist yang memiliki judul yang serupa dengan menggunakan Soft TFIDF dan akan diambil lagu yang akan direkomendasikan berdasarkan playlist yang serupa tersebut. Hasil penelitian menunjukkan bahwa metode yang diusulkan belum mampu untuk memberikan hasil yang lebih baik dibandingkan metode sebelumnya.",
+  "creators": "CHRISTOFFEL CLEON TANOYO",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022229/INF/2022; Christoffel Cleon Tanoyo (C14180064)",
+  "subjects": "DATA SETS"
+}

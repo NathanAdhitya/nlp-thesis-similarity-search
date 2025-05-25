@@ -1,0 +1,14 @@
+{
+  "id": "14712",
+  "title": "Penerapan model ARCH(1) dan GARCH(1,1) dalam meramalkan data finansial",
+  "abstract": "Proses peramalan sangatlah penting karena hasil peramalan umumnya digunakan sebagai acuan dalam menyusun perencanaan lebih lanjut. Banyak ilmuwan telah berupaya menghasilkan suatu metode peramalan yang memperbaiki metode-metode sebelumnya. Kebanyakan metode-metode lama menggunakan asumsi stasioneritas yang diwujudkan dengan rerata dan varians yang tetap terhadap waktu. Namun asumsi tersebut tidak dapat mengoptimalkan peramalan data yang tidak stasioner terutama ketidakstasioneran yang non homogen. Secara teori, data non homogen akan lebih optimal bila diramalkan dengan metode yang menggunakan rerata dan varians bersyarat, antara lain ARCH dan GARCH. Tujuan tugas akhir ini secara khusus adalah mencoba melakukan proses peramalan ARCH(1) dan GARCH(1,1) serta membandingkan hasil peramalan data kurs rupiah terhadap USD dan data index saham Jerman dengan menggunakan dua metode tersebut dan metode Box-Jenkins. Hasil akhir menunjukkan bahwa metode peramalan ARCH(1) dan GARCH(1,1) akan memberikan nilai MAD dan MSE yang lebih baik pada saat data tidak stasioner non homogen. Sebaliknya, metode-metode ini menghasilkan nilai MAD dan MSE yang kalah baik bila dibandingkan dengan Box-Jenkins pada saat data tidak stasioner namun homogen.",
+  "creators": "SHIRLEY ADELIA",
+  "contributors": "Siana Halim (Advisor 1); Indriati Njoto Bisono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 260/TI-86/1999; Shirley Adelia (25495079)",
+  "subjects": "BUSINESS FORECASTING-MATHEMATICAL MODELS"
+}

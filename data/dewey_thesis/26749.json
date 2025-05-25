@@ -1,0 +1,14 @@
+{
+  "id": "26749",
+  "title": "Perencanaan dan pembuatan perangkat digitasi sinyal video dengan mikrokontroler MCS-51",
+  "abstract": "Proses pengolahan objek gambar pada komputer dewasa ini semakin banyak digemari. Hal ini nampak dengan semakin banyaknya paket-paket program yang mempunyai kemampuan mengolah gambar yang semakin canggih. Pada umumnya pengambilan gambar yang akan diolah berasal dari gambar diam (foto), sedangkan untuk gambar yang bergerak masih jarang didapatkan. Pada tugas akhir ini dibuat sebuah alat yang dapat mengambil dan merekam gambar bergerak yang berasal dari sinyal gambar video, dengan resolusi gambar 256 x 256 titik. Pengambilan sinyal gambar video ini hanya terbatas dalam skala keabuan (grey scale). Prinsip dasar dari alat ini adalah mengkonversikan sinyal video analog ke dalam bentuk data digital, dalam satu medan gambar, dengan menggunakan rangkaian ADC. Selama melakukan proses konversi, data digital hasil konversi tersebut untuk sementara disimpan pada buffer memori yang telah disediakan, dan kemudian untuk selanjutnya dikirim ke IBM PC melalui komunikasi serial. Pada IBM PC, data digital dikonversikan ke dalam standar format file tertetu, sehingga dapat ditampilkan pada layar monitor, diedit, dicetak dengan menggunakan paket program pengolah text dan gambar yang sudah banyak beredar di pasaran.",
+  "creators": "RUDY SUGIONO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); SUPENO DJANALI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/033/0154; Rudy Sugiono (23488026)",
+  "subjects": "MICROCONTROLLER MCS-51; MICROCONTROLLERS; SIGNALS AND SIGNALING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "9546",
+  "title": "Perancangan dan pembuatan sistem informasi perpustakaan berbasis web pada yayasan pendidikan Visi dan Misi",
+  "abstract": "Sistem yang mendukung kegiatan perpustakaan pada perpustakaan YPVM masih dilakukan secara manual dan sederhana. Perpustakaan YPVM juga belum memiliki catalog untuk keperluan pengguna. Para anggota perpustakaan YPVM berasal dari instansi yang berbeda-beda. Hal ini menyebabkan perpustakaan YPVM membutuhkan suatu sistem perpustakaan yang mampu diakses darimana dan kapan saja. Sistem informasi perpustakaan ini dikembangkan dengan menggunakan PHP dan MySQL. Program yang dibuat meliputi modul pengolahan, sirkulasi dan online catalog. Selain itu, dibuat juga Individual Space untuk anggota yang memungkinkan anggota untuk dapat memberi pengusulan koleksi, memesan koleksi untuk dipinjam serta memberi comment dan rating pada koleksi tertentu. Selama proses pembuatan, sistem pengadaan tidak dibuat dan dijadikan satu dengan sistem pengolahan. Hal tersebut dilakukan karena proses pencatatan data di pengolahan merupakan kelanjutan dari proses inventarisasi dari pengadaan. Fitur pengusulan koleksi yang sebenarnya merupakan fitur dari pengadaan dibuat tetapi menjadi bagian dari layanan untuk pengguna dan dimasukkan dalam modul Individual Space. Hasil pengujian program menunjukkan bahwa program mampu untuk memproses kegiatan pengolahan dan sirkulasi perpustakaan.",
+  "creators": "ATHIKA CORNELIA GUNAWAN",
+  "contributors": "Arlinah Imam Rahardjo (Advisor 1); Silvia Rostianingsih (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010689/INF/2008; Athika Cornelia Gunawan (26404002)",
+  "subjects": "INTERNET (COMPUTER NETWORK); WEB SITES"
+}

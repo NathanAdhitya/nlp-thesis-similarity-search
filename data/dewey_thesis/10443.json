@@ -1,0 +1,14 @@
+{
+  "id": "10443",
+  "title": "Strategi optimal untuk model persediaan yang terintegrasi antara vendor-buyer di PT. San Shine",
+  "abstract": "PT. San Shine dalam memproduksi suatu produk, hanya berdasarkan pada pesanan dari konsumen, kurang memperhatikan persediaan yang masih ada pada distributor. Padahal sisa persediaan yang masih ada merupakan pengeluaran biaya bagi perusahaan. Karena untuk biaya penyimpanan persediaan dan biaya pemesanan pada distributor, dibiayai oleh P.T. SAN SHINE. Tujuan dari skripsi ini adalah untuk menganalisa dua buah model persediaan yang terintegrasi antara vendor-buyer, yang meminimumkan total biaya gabungan. Dua macam strategi yang diterapkan, yaitu yang pertama, jumlah pengiriman kepada buyer adalah identik pada setiap replenishment, yang disebut sebagai IDQ (Identical Delivery Quantity). Yang kedua, jumlah pengiriman kepada buyer adalah tidak identik pada setiap replenishment, semua persediaan yang tersedia pada vendor di-supply ke buyer, yang disebut sebagai DWP (Delivery What is Produced). Model yang diterapkan ini, hanya mempertimbangkan situasi dimana satu vendor dan satu buyer yang saling berkoordinasi. Hasil dari pengolahan data yang telah dilakukan, menunjukkan bahwa permintaan akan rak plastik sekitar 13.158 sampai 18.015 unit, dengan nilai perbandingan permintaan dengan rata-rata produksi sekitar 0,5263 - 0,7206, serta nilai perbandingan biaya pesan dengan biaya setup sebesar 0,7071, dan nilai perbandingan biaya penyimpanan pada buyer dengan biaya penyimpanan pada vendor sebesar 1,4813, maka metode yang lebih baik digunakan adalah metode DWP, yaitu semua persediaan yang tersedia langsung dikirimkan.",
+  "creators": "FRANSISKA",
+  "contributors": "I Nyoman Sutapa (Advisor 1); Maja Indahwati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 247/TI-73/1999; Fransiska (25495037)",
+  "subjects": "MATERIALS MANAGEMENT; INVENTORY CONTROL"
+}

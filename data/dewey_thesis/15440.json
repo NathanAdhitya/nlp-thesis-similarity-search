@@ -1,0 +1,14 @@
+{
+  "id": "15440",
+  "title": "Pengaruh penerapan group technology pada tata letak pabrik",
+  "abstract": "PT. WIM Cycle merupakan perusahaan yang bersifat customized production. Dalam melakukan proses produksi banyak sekali mengunakan mesin sebagai alat produksinya. Variasi produk yang dihasilkan sangat banyak. Semakin banyak jenis sepeda yang di produksi semakin banyak pula set up yang dilakukan. Oleh karena itu pengelompokan mesin dan part sangatlah penting. Dengan adanya pengelompokan tersebut akan dapat mengurangi waktu set up mesin, operasi proses yang tidak produktif, frekwensi perpindahan material handling dan lain-lainnya. Pada tugas akhir ini penulis melakukan pengelompokan berdasarkan keserupaan operasi proses produksi. Dalam melakukan pengelompokan tersebut, mula-mula dilakukan survei untuk mengetahui mesin yang digunakan dan part yang dihasilkan. Kemudian menyusunnya ke dalam matrik insiden mesin-part untuk dilakukan pengolahan lebih lanjut dengan mengunakan metode group technology, yakni metode SLCA, Cluster Identification, Branching. Lalu hasil pengolahan metode-metode group technology tersebut dibandingkan antara yang satu dengan yang lainnya. Ternyata metode yang memberikan solusi yang terbaik adalah metode Branching. Dari hasil pengelompokan tersehut didapatkan 2 mesin sel dan 2 part family. Selanjutnya hasil pengelompokan tersebut digunakan sebagai bahan untuk menata layout pabrik. Adapun metode yang digunakan untuk menata layout pabrik adalah algoritma Craft dan From To Chart. Ternyata hasil pengolahan algoritma Craft dan From To Chart memiliki total momen perpindahan yang sama besarnya. Dan didapatkan layout baru yang memiliki total momen perpindahan yang lebih kecil daripada layout yang lama. Sehingga pada akhirnya didapatkan hasil pengelompokan mesin dan part yang memiliki total momen perpindahan yang minimum.",
+  "creators": "YUSUF SADIKIN",
+  "contributors": "Didik Wahjudi (Advisor 1); Maja Indahwati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 193/TI-19/1999; Yusuf Sadikin (25494014)",
+  "subjects": "PLANT LAYOUT"
+}

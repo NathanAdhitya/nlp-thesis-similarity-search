@@ -1,0 +1,14 @@
+{
+  "id": "928",
+  "title": "Program komputer untuk perencanaan detail sambungan baja di daerah gempa",
+  "abstract": "Penyusunan Program Komputer untuk Perencanaan Detail Sambungan Baja di Daerah Gempa ini meliputi perhitungam dan gambar detail sambungan dari balok dan kolom. Adapun jenis sambungan yang kita bahas disini adalah Frame Connection, Unstiffened Seat Connection, Stiffened Seat Connection, dan End Plate Moment Connection. Data masukan program yang berupa gaya-gaya dalam, kita dapatkan dari hasil perhitungan analisa struktur. Demikian juga dengan dimensi profil balok dan profil kolom yang sudah didapatkan dari hasil perencanaan struktur. Program ini dibuat dengan roenggunakan bahasa C yang menggunakan sistem pull down menu, yang diharapkan dapat membantu mempermudah pemakai dalam memasukkan data.",
+  "creators": "PUTU WIDYA SANDJAJA; ENDRIANTO",
+  "contributors": "Ir. GIDEON HADI KUSUMA, M.Eng. (Advisor 1); Sukanto Tedjokusuma (Advisor 2); Herry Pintardi Chandra (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 599 S; Putu Widya Sandjaja (21488007); Endrianto (21488060)",
+  "subjects": "STRUCTURAL DESIGN-DATA PROCESSING"
+}

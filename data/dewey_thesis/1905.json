@@ -1,0 +1,14 @@
+{
+  "id": "1905",
+  "title": "Perancangan dan pembuatan perangkat lunak pencarian rute optimum pada peta : studi banding metode a* dan best first search",
+  "abstract": "Sampai saat ini, peta konvensional masih digunakan oleh kebanyakan orang untuk mencari rute paling optimum dari satu tempat ke tempat lainnya. Tetapi pencarian rute secara manual menggunakan peta konvensional memerlukan ketelitian yang tinggi dan cukup memakan waktu. Oleh karena itu, dalam tugas akhir ini dibuat perangkat lunak yang dapat memberikan rute jalan paling optimum pada sebuah peta. Metode yang digunakan untuk pencarian rute adalah A* dan Best First Search (BFS) yang menggunakan fungsi heuristic untuk `mengarahkan? pencarian pada peta yang direpresentasikan dalam konsep graph. Nilai node-node graph pada peta dapat diatur dengan fasilitas pengenalan warna pada peta. Perangkat lunak ini dibuat menggunakan Borland Delphi 7. Dari hasil pengujian perangkat lunak ini, selain didapatkan rute paling optimum pada sebuah peta, dari hasil perbandingan antara metode A* dan BFS dapat disimpulkan bahwa metode A* memberikan hasil pencarian rute yang lebih optimum daripada BFS. Tingkat optimasi rute tergantung pada tersedianya data yang lengkap dan akurat tentang kondisi jalan serta proses pemberian bobot pada node peta yang mewakili kondisi jalan tersebut.",
+  "creators": "HAPPY SETIAWAN",
+  "contributors": "Rudy Adipranata (Advisor 1); Andreas Handojo (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01000354/INF/2005; Happy Setiawan (26401216)",
+  "subjects": "ARTIFICIAL INTELLIGENCE"
+}

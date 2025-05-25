@@ -1,0 +1,14 @@
+{
+  "id": "24413",
+  "title": "Penggunaan digital signal processor keluarga TMS320 sebagai audio frequency analyzer 20-200 Hz untuk pengujian subwoofer",
+  "abstract": "Karakteristik respon frekuensi merupakan salah satu indikator penting bagi peralatan audio. Dengan hadimya prosesor sinyal digital, maka terbukalah kesempatan untuk melakukan pengukuran respon frekuensi berdasarkan metode-metode pengolahan sinyal digital. Agar hasil pengukuran dapat ditampilkan dengan interaktif, maka digunakan komputer PC yang memiliki fasilitas grafik. Produk digital yang digunakan dalam pembuatan tugas akhir ini adalah Digital Signal Processor Starter Kit TMS320C5x yang menyatukan prosesor sinyal digital TMS320C50 dengan Analog Interface Circuit (AIC) TLC32040 dalam satu board. Adanya AIC ini memungkinkan dilakukannya proses konversi analog ke digital dan sebaliknya dengan mudah melalui kontrol program. Sebagai sumber sinyal digunakan sweep generator yang dioperasikan pada mode VCG input, sehingga sinyal sinus yang dihasilkan dapat dikendalikan dari luar, yaitu dari DSK. Sinyal tersebut kemudian diumpankan ke subwoofer dan output dari subwoofer ditangkap oleh microphone lalu diperkuat oleh preamplifier. Sinyal analog tersebut kemudian dikonversikan menjadi sinyal digital oleh AIC dan diteruskan ke prosesor TMS320C50 untuk diolah dengan metode Fast Fourier Transform. Hasil pengolahan tersebut kemudian dikirimkan secara serial ke komputer PC untuk ditampilkan. Hasil pengukuran secara keseluruhan disimpan dalam bentuk file sehingga dapat ditampilkan atau dicetak dengan mudah. Sistem tersebut juga dapat dikembangkan untuk mengukur respon frekuensi dari peralatan audio lainnya.",
+  "creators": "ADRIAN SUCIADI",
+  "contributors": "Resmana Lim (Advisor 1); SUPENO DJANALI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/016/276; Adrian Suciadi (23491122)",
+  "subjects": "DIGITAL COMMUNICATIONS; SIGNAL PROCESSING-DIGITAL TECHNIQUES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "52661",
+  "title": "Pemodelan lip reading bahasa Indonesia berbasis visem menggunakan VGG16 serta Jaro-Winkler similarity dan bigram",
+  "abstract": "Lip reading merupakan teknik mengenali kata-kata hanya melalui representasi visual seperti gerakan bibir. Lip reading memiliki banyak kegunaan, seperti speech recognition, alat bantu bagi pasien laryngectomy, dan alat bantu untuk penderita disabilitas pendengaran. Riset sendiri menunjukkan bahwa 2.6% penduduk Indonesia mengalami disabilitas pendengaran. Dengan demikian, lip reading dapat menjadi solusi yang relevan di Indonesia. Penelitian ini bertujuan untuk melakukan pemodelan sistem lip reading bahasa Indonesia berbasis visem. Metode yang digunakan dalam penelitian ini adalah VGG16 yang digunakan sebagai classifier serta Jaro-Winkler similarity dan bigram (JW-bigram) yang digunakan sebagai decoder. Dataset yang digunakan terdiri atas 25 kalimat bahasa Indonesia yang tersusun atas 50 kata berbeda dan diucapkan oleh 12 orang pembicara. Hasil penelitian menunjukkan bahwa sistem lip reading yang dibuat dengan menggunakan VGG16 dan JW-bigram lebih efektif secara akurasi mau pun kecepatan dibandingkan dengan kombinasi metode lainnya.",
+  "creators": "HENRY WICAKSONO",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022141/INF/2022; Henry Wicaksono (C14180014)",
+  "subjects": "LIPREADING"
+}

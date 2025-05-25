@@ -1,0 +1,14 @@
+{
+  "id": "27143",
+  "title": "Perencanaan struktur space frame atap \"Joglo\" dengan profil pipa",
+  "abstract": "Bangunan \"joglo\" merupakan salah satu bentuk. bangunan tradisional khas Jawa. Bangunan ini memiliki bentuk luar yang khas. Kekhasan itu terletak pada bentuk struktur atapnya yang memiliki bagian yang menonjol dan struktur atap ini ditahan oleh \"soko guru\" serta \"soko pengarak\" dengan \"perletakan sederhana\" (simple support). Pada bangunan-bangunan baru yang beratap “joglo”, ciri-ciri tersebut tampak pada bentuk luarnya saja. Untuk strukturnya biasanya digunakan sistim rangka batang bidang dari profil baja. Sedangkan karena dikehendaki ruangan bebas yang agak luas, maka soko guru ditiadakan dan soko pengarak berfungsi sebagai kolom utama. Alternatif lain dalam merencanakan struktur atap \"joglo\" ini adalah berupa struktur rangka batang ruang (space frame) dengan soko pengarak (kolom tepi) yang berfungsi sebagai kolom utama. Pada skripsi ini dilakukan perencanaan struktur space frame atap dengan menggunakan bahan dari profil pipa baja, karena profil dengan bentuk demikian lebih menguntungkan dibandingkan dengan profil-profil lain dalam hal pelaksanaan di lapangan untuk jenis struktur space frame. Hal itu disebabkan karena propil pipa memiliki section properties yang sama untuk semua arah. Perhitungan untuk mendapatkan gaya-gaya dalam pada tiap-tiap elemen dilakukan dengan program Structural Analysis Program (SAP) 80, Perhitungan dilakukan untuk luasan denah bangunan sebesar 4x4, 8x8, 16x16, 20x2. 24x24, 28x28 m² Hasil yang didapat adalah berupa grafik yang menghubungkan faktor-faktor luas profil dengan luasan denah bangunan, inersia profil dengan luasan denah bangunan dan jari-jari girasi profil dengan luasan denah bangunan. Semua faktor-faktor profil pipa tersebut dipilih yang minimum dalam hal kemampuan menerima tegangan (cara elastis) 5 lendutan dan berat sendirinya. Dari hasil perhitungan yang telah dilakukan didapatkan bahwa untuk luasan yang kecil (4x4 m2) faktor lendutan adalah faktor yang paling dominan, sedangkan untuk luasan—luasan yang lebih besar, faktor tegangan menjadi faktor yang dominan.",
+  "creators": "ANTON TJAHJONO LOEKITO; EKA PUTRA HENDRA",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Daniel Zefania Pribadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 411 S; Anton Tjahjono Loekito (284089), Eka Putra Hendra (284120)",
+  "subjects": "PIPE, STEEL; SPACE FRAME STRUCTURES"
+}

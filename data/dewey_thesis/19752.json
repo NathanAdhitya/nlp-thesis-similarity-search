@@ -1,0 +1,14 @@
+{
+  "id": "19752",
+  "title": "Perancangan dan pembuatan aplikasi pengenalan citra huruf jawa menggunakan metode evolutionary neural network",
+  "abstract": "Handwritten Character Recognition (HCR) telah menjadi salah satu perhatian di dunia pendidikan. HCR merupakan salah satu bagian penting dari image processing dan pattern recognition. Bahasa Jawa adalah bahasa yang sering digunakan oleh masyarakat di Pulau Jawa. Bahasa Jawa pun memiliki huruf tersendiri yang unik. Pengenalan huruf Jawa memiliki tingkat kesulitan sendiri karena adanya huruf-huruf dasar, vokal, pelengkap, dan sebagainya. Dalam skripsi ini dikembangkan aplikasi yang dapat mengenali tulisan tangan huruf Jawa dan menulis ulang huruf-huruf tersebut dengan font \"Hanacaraka\". Adapun proses yang dilakukan adalah sebagai berikut: gambar-gambar untuk masing-masing huruf Jawa dilatihkan ke system dengan menggunakan metode evolutionary neural network. Hasil pelatihan dari system nantinya akan digunakan untuk mengenali input gambar huruf-huruf Jawa. Input gambar akan disegmentasi dan diambil fiturnya untuk dikenali. Gambar-gambar yang dikenali akan ditulis ulang dengan menggunakan font \"Hanacaraka\" dan hasilnya dapat disimpan dalam format RTF. Aplikasi ini dibuat dengan bahasa pemrograman C# dengan Microsoft Visual Studio 2005 sebagai IDE-nya. Hasil pengujian menunjukkan bahwa proses pengenalan data yang dilatihkan dapat mencapai 100% untuk yang telah disegmentasi secara manual dan mencapai rata-rata 93,12% untuk gambar yang disegmentasi oleh aplikasi. Untuk data yang tidak dilatihkan, pengenalan gambar 34,84%, 87,10%, 29,61%.",
+  "creators": "EDWIN NANDRA PRASETIO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Rudy Adipranata (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020951/INF/2010; Edwin Nandra Prasetio (26406027)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); IMAGE PROCESSING"
+}

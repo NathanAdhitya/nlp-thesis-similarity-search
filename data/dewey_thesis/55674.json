@@ -1,0 +1,14 @@
+{
+  "id": "55674",
+  "title": "Aplikasi berbasis web untuk mengenali tipe dan warna sarang burung walet menggunakan YOLOv4",
+  "abstract": "Saat ini, semakin banyak bermunculan pebisnis sarang burung walet mulai dari petani hingga eksportir dan sebagian besar masih melakukan proses pemilahan dengan cara manual dan konvensional. Pada era yang sudah sangat modern ini, adanya inovasi teknologi baru akan sangat membantu para pelaku bisnis untuk menjalankan kegiatan bisnisnya dan dapat lebih menghemat waktu, tenaga, juga biaya. Object Detection adalah sebuah teknologi komputer yang terkait pemrosesan gambar yang berhubungan dengan pengenalan berbagai macam objek semantik dari kelas tertentu (seperti manusia, bangunan, atau mobil) dalam gambar dan video digital. Object detection dapat menjadi sebuah terobosan baru dalam melakukan proses pemilahan dalam usaha sarang burung walet yang bertujuan untuk mendeteksi objek sarang burung walet untuk memudahkan memilah-milah guna menghemat waktu, biaya, tenaga, dan sumber daya lain. Pada tugas akhir ini, dirancang sebuah sistem dalam bentuk aplikasi berbasis web untuk mengenali tipe dan warna sarang burung walet. Proses training menggunakan YOLOv4 dengan proses konfigurasi menggunakan ResNet50. Hasil training digunakan sebagai bobot untuk menjalankan aplikasi. Pengujian ini telah berhasil dan menghasilkan hasil yang memuaskan dengan score yang cukup tinggi dengan melewati proses training dan testing sekitar 9 – 10 jam proses training dan hasil rata-rata precision score object detection sebesar 97,7%. Dengan hasil yang sudah diperoleh diharapkan dapat membantu para pengguna untuk mengenali tipe dan warna sarang dengan mudah dan menghemat waktu, biaya, tenaga, dan sumber daya lain. Kata Kunci: Object detection, sarang burung walet, YOLOv4, ResNet50, aplikasi berbasis web",
+  "creators": "ERIC PRANOTO",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022257/INF/2023; Eric Pranoto (C14180139)",
+  "subjects": "SWIFTS; WEB APPLICATIONS--COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "46235",
+  "title": "Aplikasi smartroom berbasis Blynk untuk mengurangi pemakaian tenaga listrik",
+  "abstract": "Penelitian ini bertujuan untuk membuat aplikasi berbasis Blynk sebagain controller untuk SmartRoom untuk mengurangi pemakaian tenaga listrik yang tidak diperlukan. Adapun yang menjadi latar belakang penulisan ini karena saat ini hampir semua aktivitas yang manusia lakukan sehari-hari berhubungan dengan penggunaan listrik. Tetapi banyak juga menusia yang menggunakan tenaga listrik dengan boros. Pemakaian tenaga listrik yang berlebihan ini dapat menyebabkan pemborosan energi serta peningkatan biaya listrik. Dengan meningkatnya pemakaian tenaga listrik dapat dilakukan penghematan dengan mematikan lampu atau alat-alat listrik yang tidak digunakan melalui bantuan Internet of Things melalui aplikasi yang berbasis Blynk. Pembuatan aplikasi ini dibuat menggunakan interaksi antara mikrokontoler WeMos D1 R2 yang terhubung dengan sensor dan module-module untuk mendeteksi data yang akan diolah untuk SmartRoom. Untuk aplikasi menggunakan Blynk yang terhubung dengan sistem dan digunakan untuk memudahkan pengguna dapat mengontrol perangkat yang terhubung secara remote. Hasil Penelitian menunjukkan bahwa dalam percobaan rentang waktu 1 minggu antara keadaan normal dengan sistem SmartRoom menghasilkan penghematan daya sebesar 28% serta dapat direalisasikan dengan tingkat reliabilitas 100%.",
+  "creators": "RICHARD PRAYOGO GOZAL",
+  "contributors": "Alexander Setiawan (Advisor 1); Handry Khoswanto (Advisor 2); Yulia (Examination Committee 1); Indar Sugiarto (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021925/INF/2020; Richard Prayogo Gozal (26415170)",
+  "subjects": "APPLICATION SOFTWARE; INTERNET OF THINGS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "39417",
+  "title": "Optimasi construction site layout menggunakan metode metaheuristic algorithm pada proyek Great Hotel Diponegoro",
+  "abstract": "Construction Site Layout merupakan komponen penting dalam proyek yang memiliki fasilitas-fasilitas yang bersifat sementara untuk menunjang pembangunan proyek. Tata letak tiap fasilitas yang efektif berpengaruh pada kelancaran pembangunan proyek, terutama dalam hal waktu dan biaya. Penelitian ini dilakukan untuk melakukan optimasi pada construction site layout menggunakan metode metaheuristic algorithm, dengan kondisi equal site layout. Metode yang digunakan ada tiga, yaitu Particle Swarm Optimization (PSO), Artificial Bee Colony (ABC), dan Symbiotic Organisms Search (SOS). Dengan tiga metode ini, dilakukan perbandingan untuk mencari metode terbaik yang menghasilkan nilai objective function yang paling optimal. Objective function yang dicari adalah Travelling Distance (TD) yang paling kecil. Penelitian ini menunjukkan bahwa metode yang terbaik adalah metode SOS.",
+  "creators": "VINCENT JONATHAN HENDRIK WIBOWO; ADRIAN KRISTIAN SUGIARTO",
+  "contributors": "Effendy Tanojo (Advisor 1); Doddy Prayogo S.T. (Advisor 2); Sentosa Limanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 21012187/SIP/2017; Vincent Jonathan (21413006), Adrian Kristian Sugiarto (21413009)",
+  "subjects": "CONSTRUCTION INDUSTRY-MANAGEMENT; COMPUTER ALGORITHMS"
+}

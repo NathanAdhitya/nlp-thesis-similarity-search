@@ -1,0 +1,14 @@
+{
+  "id": "33731",
+  "title": "Perancangan dan pembuatan sistem informasi perhotelan pada Hotel Istana",
+  "abstract": "Hotel Istana adalah hotel yang terletak di Jember, Jawa Timur. Sistem yang ada saat ini masih kurang terstandardisasi. Ada beberapa proses bisnis yang sudah terkomputerisasi tetapi ada juga yang masih belum terkomputerisasi sehingga masih banyak kekurangan dalam beberapa pencatatan. Contoh kekurangan adalah dalam membuat pembukuan tentang pendapatan hotel bisa terjadi kesalahan karena adanya nota yang hilang sehingga laporan pendapatan yang dibuat tidak akurat. Untuk itu dibuat sistem perhotelan ini untuk pengembangan sistem yang lama. Pada skripsi ini, proses pembuatan diawali dengan analisis desain seperti DFD, ERD, DocumentFlow. Untuk mengetahui desain tersebut dibutuhkan survei lapangan terlebih dahulu. Aplikasi sistem reservasi, check in, check out, report yang baru akan diimplementasikan di Hotel Istana agar sistem di hotel tersebut menjadi lebih terkomputerisasi dan data-data yang ada bisa tersimpan di database. Hal tersebut mengurangi resiko kehilangan data dan juga kesalahan dalam penghitungan. Skripsi ini dibuat menggunakan Vb.net 2010 dan Sql Server 2005 sebagai database. Aplikasi ini telah selesai dibuat dengan fitur yang sesuai dengan sistem di Hotel Istana seperti check in, check out, reservasi. Laporan yang ada telah dapat membantu owner dalam memantau perkembangan proses bisnis yang terjadi. Berdasarkan kuesioner didapatkan tingkat kepuasan 73.1% terhadap aplikasi ini.",
+  "creators": "KURNIAWAN SANTOSO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Alexander Setiawan (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021374/INF/2015; Kurniawan Santoso (26410031)",
+  "subjects": "DATABASE MANAGEMENT; INFORMATION SYSTEM-HOTEL; DATABASE DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "1294",
+  "title": "Identifikasi parameter menggunakan metode advanced bode diagram",
+  "abstract": "Dalam melakukan suatu Identifikasi Parameter dapat dilakukan dengan berbagai macam cara, salah satunya yang sudah kita kenal adalah dengan Teknik Adaptive. Teknik adaptive ditinjau dari segi matematis memang sangat rumit. Cara lain yang dapat dilakukan adalah dengan menggunakan Bode Diagram, karena hanya membutuhkan data frekuensi dan penguatan/fasa untuk mendapatkan parameter sistem. Pada alat yang dibuat terdiri dari minimum sistem MCS-51, ADC, DAC, plant yang terdiri dari amplifier serta low pass filter orde satu dan orde dua, sumber frekuensi (VCO), peak detector, dan program Matlab 6.1. Dari Matlab 6.1 akan dikirim data ke minimum sistem. Minimum sistem berfungsi untuk mengirim data ke DAC dan membaca data dari ADC. Output dari DAC digunakan pada VCO untuk membangkitkan frekuensi. Frekuensi yang dihasilkan digunakan sebagai input pada plant. Kemudian output dari plant akan menjadi input bagi peak detector. Selanjutnya output yang dihasilkan peak detector akan diubah oleh ADC menjadi data biner dan mengirimkannya ke minimum sistem. Minimum sistem akan mengirimkan data ini ke PC. Kemudian data ini diproses dengan menggunakan Matlab 6.1. Sehingga didapat data berupa besarnya penguatan, frekuensi cut off, dan kemiringan sistem. Data ini dibutuhkan untuk mendapatkan transfer function. Dari pengujian pada low pass filter -20 dB/decade dan -40 dB/decade diperoleh hasil bahwa metode yang digunakan dapat berjalan, dengan error rata-rata sebesar 3,017 %.",
+  "creators": "LOUIS",
+  "contributors": "Felix Pasila (Advisor 1); Indar Sugiarto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/660/ELK/2003; Louis (23496012)",
+  "subjects": "ELECTRIC FILTERS"
+}

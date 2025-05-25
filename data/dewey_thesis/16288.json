@@ -1,0 +1,14 @@
+{
+  "id": "16288",
+  "title": "Implementasi mikrokontroler MC6805 R3 sebagai pencacah dan pencatat waktu",
+  "abstract": "In this final project, Microcontroller MC 68705 R3 has been used as CPU in counting and time recorder. To follow that function required a base time that will be use for counting. IC 8253 Programmable Interval Timer has been choose to provide a base time that required by circuit. By using its mode, IC 8253 can be use as counter. The designed circuit will transfer the data every 8 hours. For that reason DS 12887 Real Time Clock ( RTC ) has been choose to follow the condition. How circuit work is, firstable to take base time that achieved by sensor reading to the target 1 and then target 2 respectively. The process is started by comparing base time to the time that achieved from sensor that reading the following target. In the laboratorium test proved that Microcontroller MC 68705 R3 can be implemented as CPU in counting and time recording. And finally accumulation of the time recorder and counter be printed and will be use for other interest.",
+  "creators": "DJOKO UTOMO",
+  "contributors": "IRWAN SAHLI (Advisor 1); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/042/436; Djoko Utomo (23484106)",
+  "subjects": "INTEL MC6805 R3 (MICROCONTROLLER); COMPUTERS"
+}

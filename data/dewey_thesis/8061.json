@@ -1,0 +1,14 @@
+{
+  "id": "8061",
+  "title": "Visualisasi 3D dan image registration dari gambar biomedis 2D",
+  "abstract": "Dalam tiga dekade terakhir, teknologi peralatan medis telah berkembang dengan pesat. Teknologi medis telah menggunakan imaging sensor yang menghasilkan gambar beresolusi tinggi seperti x-ray Computed Tomography (CT), Positron Emission Tomography (PET), maupun Magnetic Resonance Imaging (MRI) yang sangat berguna untuk membantu mendiagnosa suatu penyakit. Banyaknya jenis sensor yang ada dalam bidang medis, atau yang disebut juga dengan modalitas, memberikan kontribusi yang besar dalam menyajikan beragam jenis informasi yang diperlukan oleh tim medis. Dalam Tugas Akhir ini, dikembangkan aplikasi yang mampu mentransformasikan suatu kumpulan data gambar 2D ke dalam suatu visualisasi 3D yang mendekati bentuk aslinya. Proses visualisasi gambar 3D ini dilakukan dengan menggunakan teknik volume rendering. Pada teknik ini, tampilan 3D dibuat dengan menentukan nilai Red, Green, Blue, dan Alpha (RGBA) dari tiap voxel yang ada pada volume. Selain itu, aplikasi ini mampu menggabungkan dua buah gambar medis yang diambil dengan menggunakan sensor yang berbeda sehingga memungkinkan penggabungan informasi yang terdapat pada dua buah gambar tersebut. Sebelum digabungkan, dua buah gambar input diregistrasi terlebih dahulu. Registrasi diawali dengan menentukan beberapa titik korespondensi antara dua buah gambar secara otomatis. Dari titik korespondensi yang ada, disusun matriks transformasi yang sesuai menggunakan metode least-squares estimation for transformation parameters. Aplikasi ini dikembangkan dengan menggunakan bahasa pemrograman C++ dengan kompiler Microsoft Visual C++ 6.0 dan bantuan Visualization Toolkit library. Berdasarkan hasil pengujian yang dilakukan, hasil volume yang terbentuk sangat dipengaruhi oleh transfer function yang digunakan untuk memetakan tiap voxel pada volume ke dalam suatu nilai RGBA tertentu. Sedangkan untuk proses image registration, parameter transformasi yang dihasilkan dipengaruhi oleh perbedaan arah dan ukuran dari obyek pada gambar yang akan diregistrasi.",
+  "creators": "ARIF WIRATAMA P",
+  "contributors": "Yulia (Advisor 1); Silvia Rostianingsih (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010651/INF/2007; Arif Wiratama Purwobintoro (26404030)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

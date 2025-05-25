@@ -1,0 +1,14 @@
+{
+  "id": "23772",
+  "title": "Perencanaan dan pembuatan simulasi otomatisasi pembuatan powder pada industri ubin keramik dengan IB PC",
+  "abstract": "Otomatisasi untuk berbagai macam proses produksi pada semua bidang industri penting artinya bagi peningkatan efisiensi industri, termasuk industri ubin keramik. Prosesproduksiubinkeramikterdiridaribeberapatahap, mulai dari proses persiapan bahan baku, kemudian pembuatan powder, pembentukan biscuit keramik, pembakaran ubin keramik dan terakhir proses glazing dan boxing. Pada proses pembuatan powder dipakai beberapa mesin yaitu ball mill, spray dryer, mixer slurry sert'a sejumlah pompa. Mesin-mesin tersebut diaktifkan dan dimatikan sesuai dengan urutan proses produksi, sehingga mesin-mesin tersebut dapat diotomatisasikan sesuai dengan urutan proses produksi. Komputer IBM PC dipakai sebagai alat pengontrol utama yang melakukan otomatisasi yang direncanakan. Komputer disimulasikan ter letak pada jarak tertentu dari semua mesin-mesin yang diotomatisasikan. Komputer diprogram dengan bahasa Turbo Pascal 7.0 sehingga dapat dilakukan pula animasi grafis terhadap otomatisasi. Sinyal tegangan dirubah men jadi arus sebelum ditransmisikan. sehingga terjadi komunikasi dalam bentuk sinyal arus. Sinyal arus juga dirubah menjadi sinyal tegangan. Sinyal arus tersebut menghidupkan atau mematikan mesin-mesin dengan cnra memakai rangkaian comparator dan optotriac. Otomatisasi juga membutuhkan pengontrolan terhadap ketinggian bahan baku air pada bak air serta pengontrolan suhu pada alat pemanas/heater sebagai simulasi atas spray dryer. Untuk itu diperlukan ADC0804 sehingga sinyal analog dapat dibaca oleh komputer. Pengujian terhadap hasil pembuatan simulasi menunjukkan simulasi otomatisasi berjalan dengan hidup atau tidaknya tiap mesin sesuai dengan perencanaan yang telah dibuat dan juga program Turbo Pascal 7.0 dapat menjalankan program animasinya.",
+  "creators": "DARWIN TJOWANDI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); SUPENO DJANALI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/105/0218; Darwin Tjowandi (23489049)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROCESS CONTROL COMPUTER PROGRAMS"
+}

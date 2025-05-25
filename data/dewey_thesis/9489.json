@@ -1,0 +1,14 @@
+{
+  "id": "9489",
+  "title": "Evaluasi kinerja struktur 6 dan 8 lantai yang didesain sesuai pseudo elastis dan SNI-03-2847-2002 di wilayah 6 peta gempa Indonesia",
+  "abstract": "Perencanaan Pseudo Elastis menawarkan suatu cara untuk mempersingkat waktu desain dibandingkan dengan perencanaan kapasitas sesuai SNI 03-2847-2002, dimana perencanaan kolom dapat dilakukan tanpa harus menunggu perencanaan balok selesai. Perencanaan ini memperkenankan struktur mengalami pola keruntuhan Partial Side-Sway Mechanism pada saat gempa besar. Pola keruntuhan tersebut dinilai aman karena adanya kolom eksterior yang tetap elastis pada saat struktur menerima beban gempa, sedangkan semua balok dan kolom interior diijinkan mengalami sendi plastis. Untuk memodelkan konsep itu, maka kolom eksterior direncanakan terhadap beban gempa nominal yang diperbesar dengan suatu Faktor Pengali (FP). Penelitian ini bertujuan untuk menentukan rumusan FP berdasarkan periode plastis bangunan yang diprediksi berdasarkan hubungan antara periode plastis dan elastis dari hasil penelitian sebelumnya. Bangunan yang ditinjau adalah bangunan 6- dan 8-lantai di wilayah 6 peta gempa Indonesia, berdaktilitas 5.3, dan direncanakan terhadap gempa rencana 500 tahun. Analisis yang digunakan untuk memeriksa kinerja struktur adalah Static Non-Linear Pushover dan Dinamic Non-Linear Time History. Hasil evaluasi menunjukkan kinerja struktur yang didesain secara Pseudo Elastis masih belum memenuhi Partial Side Sway Mechanism karena terjadi soft story mechanism pada portal eksterior. Sedangkan pada struktur yang didesain sesuai SNI03-2847-2002 menunjukkan kinerja yang lebih buruk karena terjadi soft story mechanism baik pada portal interior maupun portal eksterior. Kesimpulannya, rumusan FP untuk perencanaan Pseudo Elastis perlu diteliti lebih lanjut demikian juga dengan overstrength factor untuk kolom pada perencanaan kapasitas sesuai SNI 03-2847-2002 tidak cukup konservatif untuk memenuhi persyaratan \"strong column weak beam\".",
+  "creators": "STEFANI RENI; IRWAN TIRTALAKSA",
+  "contributors": "Ima Muljati Ginsar (Advisor 1); Benjamin Lumantarna (Advisor 2); Januar Buntoro (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.11011571/SIP/2008; Stefani Reni (21404050), Irwan Tirtalaksa (21404056)",
+  "subjects": "BUILDINGS-EARTHQUAKE EFFECTS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "14096",
+  "title": "Penjadwalan dengan shifting bottleneck heuristic & algoritma omega di PT. \"X\"",
+  "abstract": "Perusahaan PT. \"X\" ini merupakan perusahaan yang memproduksi suku cadang dari sepeda. Produk yang menjadi pengamatan penulis adalah produk bayangan yaitu tipe Keroncong, PKTA, GT Pro, yang dalam proses produksinya belum pernah diterapkan metode penjadwalan, untuk mengatur jalannya proses produksi yang dapat mengoptimalkan proses produksi dari produk tersebut. Penjadwalan produksi yang dilakukan didalam tugas akhir ini, dimaksudkan untuk memberikan usulan metode penjadwalan pada perusahaan, supaya dapat mengoptimalkan penggunaan mesin-mesin di lantai produksi. Adapun metode yang akan dibandingkan yaitu Metode Shifting Bottleneck Heuristic dan Metode Algorithm Omega. Dari kedua metode ini dibandingkan, dengan tujuan didapatkan metode penjadwalan yang tepat untuk proses produksi untuk tiap produk pada perusahaan ini. Dari hasil analisa data yang membandingkan nilai makespan yang minimum, agar didapatkan metode penjadwalan yang tepat bagi perusahaan ini dalam memproduksi produk tersebut. Dari analisa data yang telah dilakukan, rnaka diperoleh hasil balrwa untuk produk 1 lebih baik dengan penjadwalan Omega Algorithm dengan Cmax = 33.1923 jam. Dan produk 2 dengan menggunakan penjadwalan Shifting Bottleneck Heuristic dengan Cmax = 20.2368 jam. Produk 3 mempunyai nilai Cmax yang sama pada kedua metode tersebut, jadi terserah dipilih dengan jadwal yang mana yang mau digunakan dengan Cmax = 47.3276 jam. Dengan adanya penjadwalan untuk tiap produk ini dapat membantu pihak perusahaan dalam mengoptimalkan proses produksi produk tersebut.",
+  "creators": "ROBBY YONATAN",
+  "contributors": "Didik Wahjudi (Advisor 1); Indriati Njoto Bisono (Advisor 2); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 435/TI-026/2001; Robby Yonatan (25496137)",
+  "subjects": "SCHEDULING (MANAGEMENT)"
+}

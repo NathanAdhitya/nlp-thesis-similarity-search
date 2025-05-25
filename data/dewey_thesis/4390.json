@@ -1,0 +1,14 @@
+{
+  "id": "4390",
+  "title": "Penggunaan arsitektur CORBA (Common Object Request Broker Architecture) pada aplikasi administrasi akademik",
+  "abstract": "Dewasa ini semakin banyak digunakan aplikasi database yang berbasis client/server pada berbagai bidang, Di antaranya adalah pada bidang administrasi akademik. Aplikasi client/server memiliki kelemahan, yaitu jika diperlukan perubahan business proses maka aplikasi tersebut harus didistribusikan ulang. Untuk mengatasinya maka dikembangkan suatu aplikasi multitier, dimana terdapat middletier yang merupakan tempat diletakkannya business proses. Sehingga jika diperlukan perubahan business proses cukup dilakukan pada middletier tersebut. Aplikasi multitier yang dikembangkan adalah aplikasi administrasi di bidang akademik dengan menggunakan arsitektur CORBA (Common Object Request Broker Architecture). Aplikasi ini dikembangkan pada sistem operasi Microsoft Windows 2000 Server dan Linux Lycoris Desktop LX, serta menggunakan bahasa pemgrograman Borland Delphi 7 dan Borland Kylix 3. Pada aplikasi ini terdapat middletier yaitu 2 buah CORBA server. Sebuah CORBA server dikembangkan dengan Borland Delphi 7 dan diletakkan pada sistem operasi Microsoft Windows 2000 Server, yang lain dikembangkan dengan Borland Kylix 3 dan diletakkan pada sistem Operasi Linux Lycoris Desktop LX. Pada sistem ini dapat dipisahkan dengan jelas antara data layer (database server), business layer (CORBA server operasional dan CORBA server jurusan), dan presentation layer (CORBA client). Sehingga jika perlu dilakukan perubahan terhadap business layer, tidak akan mempengaruhi layer-layer yang lain.",
+  "creators": "SINGGIH GOTAMA",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0147/INF/2004; Singgih Gotama (26498070)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN"
+}

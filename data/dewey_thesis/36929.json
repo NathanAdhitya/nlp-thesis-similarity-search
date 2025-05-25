@@ -1,0 +1,14 @@
+{
+  "id": "36929",
+  "title": "Aplikasi sistem forecasting CV Karisma Motor dengan metode ARIMA",
+  "abstract": "CV Karisma Motor adalah instansi swasta yang bergerak dalam bidang jual beli kendaraan bermotor roda dua salah satu brand ternama yang ada di Indonesia. Pada saat ini proses pengambilan keputusan dalam proses pembelian stok dari CV Karisma Motor masih dilakukan dengan membuat perkiraan berdasarkan dari pola data penjualan sebelumnya. Sehingga hal ini membuat proses pembelian barang tidak efektif sepenuhnya karena pengambilan keputusan tidak memiliki dasar yang kuat. Oleh karena itu, untuk mengatasi masalah tersebut maka dirancanglah sistem forecasting yang dapat digunakan CV Karisma Motor untuk membantu melakukan pengambilan keputusan. Proses perancangan sistem forecasting ini dilakukan melalui beberapa tahap, tahap pertama yaitu melakukan survei dan analisa kebutuhan, tahap kedua mengambil data penjualan selama satu tahun terakhir, tahap ketiga melakukan pembuatan flowchart dan perancangan Entity Relationship Diagram, kemudian melakukan pembuatan database. Proses pembuatan program menggunakan Microsoft Visual Basic .NET 2010 untuk bahasa pemrograman dan MySQL untuk database, perhitungan forecasting dilakukan dengan metode ARIMA. Berdasarkan hasil yang diperoleh dari pengujian, sistem forecasting dapat melakukan penyimpanan data barang, melakukan perhitungan peramalan berdasarkan dari data penjualan terdahulu, menyimpan hasil peramalan yang telah dilakukan, menampilkan hasil peramalan yang telah dilakukan sebelumnya dan melakukan perhitungan error untuk mendapatkan error terkecil dari ketiga metode dengan nilai rata-rata dari hasil pengujian sebesar 1,42.",
+  "creators": "REINALDO ANDHIKA HALIM",
+  "contributors": "Alexander Setiawan (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021559/INF/2016; Reinaldo Andhika Halim (26411119)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

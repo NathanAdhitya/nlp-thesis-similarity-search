@@ -1,0 +1,14 @@
+{
+  "id": "10755",
+  "title": "Studi mengenai pengaturan putaran turbin generator pada pembangkit mikrohydro dengan menggunakan Electronic Load Controller",
+  "abstract": "Pada pembangkit listrik hidro ada dua macam sistem pengaturan putaran turbin-generator yaitu governor (sistem pengaturan air) dan electronic load controller (ELC). Governor harganya mahal sekali kadang-kadang sama atau melebihi harga turbin generator. Oleh karena itu dibuatlah sistem pengatur beban secara electronis (ELC). Pembangkit mikrohidro merupakan pilihan yang tepat bagi pemenuhan kebutuhan energi untuk daerah-daerah pedesaan yang jauh dari jaringan listrik makro. Pada pengoperasian pembangkit mikrohidro ini masalah yang sering timbul adalah pada pengaturan putaran turbin generator, yaitu menjaga agar putaran turbin generator selalu konstan jika terjadi perubahan beban. Bila putaran turbin konstan akan menghasilkan frekuensi listrik yang konstan pula. Dalam kenyataan beban konsumen (pelanggan) tidak selalu konstan, selalu berubah-ubah sesuai permintaan. Hal ini menyebabkan putaran turbin generator berubah-ubah. Oleh karena itu untuk mengatasi masalah dalam pengaturan beban, maka pada sisi penyaluran daya ditambahkan beban tiruan yang dinamakan beban komplemen. Dengan demikian perubahan beban yang terjadi pada konsumen akan diimbangi secara otomatik oleh ELC (Electronic Load Controller). Dalam tugas akhir yang berupa studi literatur ini ditunjukkan suatu simulasi tentang rangkaian electronic load controller yang rujuannya adalah untuk menggambarkan cara kerja sistem pegaturan beban pada generator. Rangkaian kontrol elektronis ini disimulasikan dengan menggunakan ELWB 5.0 (Electronics Workbench). Simulasi hanya menunjukkan hasil perbagian dengan baik, tetapi tidak keseluruhan sistem.",
+  "creators": "HENDY WIRAWAN",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/054/491; Hendy Wirawan (23496109)",
+  "subjects": "HYDROELECTRIC GENERATORS-AUTOMATIC CONTROL; HYDRAULIC TURBINS-AUTOMATIC CONTROL"
+}

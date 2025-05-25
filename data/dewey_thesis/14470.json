@@ -1,0 +1,14 @@
+{
+  "id": "14470",
+  "title": "Perencanaan dan pembuatan eprom emulator dan eprom programmer yang dikontrol lewat paralel port komputer",
+  "abstract": "Perkembangan teknologi elektronika yang sangat pesat banyak mempengaruhi kehidupan manusia di bumi ini. Memang tidak dapat disangkal lagi hampir setiap aspek kehidupan di abad ini diisi dengan peralatan-peralatan elektronika. Pada saat ini perkembangan mikroprosesor dan mikrokontroler dalam bidang industri elektronika sudah mulai banyak dikembangkan. Dan pemakaian mikroprosesor atau mikrokontroler tersebut tidak lepas dari penggunaan elemen memori untuk menyimpan programnya. Untuk industri elektronika skala besar dan menengah elemen memori yang digunakan adalah jenis ROM dam PROM, sedangkan untuk industri elektronika kecil dan untuk keperluan eksperimen banyak digunakan EPROM. Sebuah EPROM mempunyai batas pemrograman dan peng-hapusan sampai beberapa kali sebelum rusak. Untuk mengu-rangi kerusakan pada EPROM karena sering dihapus atau diprogram maka diperlukan suatu sistem yang sanggup menggantikan EPROM tersebut yang sifatnya sementara. Untuk ini dapat dilakukan dengan bantuan EPROM EMULATOR. Pada umumnya setelah program melalui proses perancangan dan percobaan, maka hasil yang diyakini kebenarannya tersebut akan segera diprogram lewat EPROM PROGRAMMER pada IC EPROM yang dituju. Keberadaan EPROM EMULATOR dan EPROM PROGRAMMER dewasa ini umumnya dibuat pada sistem yang terpisah, serta harganya yang masih relatif mahal dipasaran. Pada Tugas Akhir ini direncanakan pembuatan alat yang meliputi fungsi EPROM EMULATOR dan EPROM PROGRAMMER dalam satu sistem yang tidak terpisah. Pada pembuatan Tugas Akhir ini memanfaatkan paralel port yang ada pada komputer sebagai pengontrolnya, RAM (62265) untuk menyimpan program yang sifatnya sementara, ROM untuk memrogram IC EPROM, rangkaian switching untuk pembangkit tegangan tinggi dan beberapa komponen pendukung lainnya.",
+  "creators": "WINARYO HARJONO",
+  "contributors": "Murtiyanto Santoso (Advisor 1); ISKANDAR ZULKARNAIN (Examination Committee 1); Oviliani Yenty Yuliana (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/035/0238; Winaryo Harjono (23488078)",
+  "subjects": "COMPUTERS; EPROM EMULATOR; EPROM PROGRAMMER"
+}

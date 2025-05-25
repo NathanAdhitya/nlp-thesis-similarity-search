@@ -1,0 +1,14 @@
+{
+  "id": "12198",
+  "title": "Perancangan dan pembuatan aplikasi mining sequential pattern terhadap data sekuential sirkulasi pembelian cat pada PT. x cabang Tangerang",
+  "abstract": "Dewasa ini, informasi merupakan salah satu hal yang memegang peranan penting di dalam kehidupan manusia. Baik dalam bisnis, kehidupan sehari-hari, maupun pendidikan, manusia membutuhkan informasi. Pembahasan informasi pada tulisan ini lebih difokuskan pada data sekuensial dari transaksi pembelian customer untuk menggali pattern asosiasi antar item-item yang dibeli sesuai dengan nama sales ataupun berdasarkan periode tertentu. Dalam pembuatan aplikasi dilakukan analisa terhadap data dari perusahaan, dimana data berupa transaksi pembelian customer yang terjadi selama periode tertentu. Data tersebut ditransformasi ke dalam bentuk yang dapat diolah oleh software. Kemudian dimasukkan ke dalam sebuah database dan diolah sesuai algoritma mining sequential pattern sehingga menghasilkan association rules serta sequential association rules dari cat-cat yang dibeli. Aplikasi ini menggunakan software Borland Delphi 7.0 dan Microsoft Office Access 2003 untuk database-nya. Dengan adanya data mining terhadap data sekuensial transaksi pembelian cat, maka software dapat memberikan informasi bagi perusahaan mengenai relasi antar item cat yang dibeli secara bersamaan maupun sekuensial. Software juga menampilkan rules dalam bentuk grafik dan rules serta diagram tree dalam bentuk teks, sehingga mempermudah user (branch manager) untuk melakukan analisa lebih lanjut. Dari penilaian hasil kuisioner secara keseluruhan terhadap kelayakan program maka dapat disimpulkan bahwa 91.32% program dapat digunakan untuk tambahan informasi penjualan perusahaan.",
+  "creators": "HENNY KUSUMAWATI WIBOWO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Agustinus Noertjahyana (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02020821/INF/2009; Henny Kusumawati Wibowo (26405143)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

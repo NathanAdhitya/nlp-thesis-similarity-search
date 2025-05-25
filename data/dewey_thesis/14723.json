@@ -1,0 +1,14 @@
+{
+  "id": "14723",
+  "title": "Perencanaan dan pembuatan prototype sistem prosessor cadangan untuk mendeteksi kegagalan sistem pada aplikasi lengan robot yang berbasis pada mikrokontroller keluarga MCS-51",
+  "abstract": "Dalam dunia industri yang semakin berkembang dengan pesat maka dibutuhkan pulaperalatan kontrol yang semakin otomatis dan andal dalam melaksanakan proses produksi, aksi pengontorlan yang semakin baik dan semakin sedikit melakukan kesalahan sangat diinginkan dalam suatu proses produksi yang cepat Seiiring dengan permintaan yang semakin komplek dalam sistem pengontrolan dalam industri maka berkembang pula berbagai metode atau sistem pengontrolan. Sebagai wujud perkembangan tersebut maka dibuat suatu sistem kontrol cadangan yang berfimgsi sebagai kontrol pengganti bila diketahui ada kerusakan pada sistem kontrol utama. Fenerapan dari sistem ini sangat menunjukan kinerja yang baik dan andal dalam menangani proses yang sedang berjalan, dimana salah satu dari penerapan aplikasi dari sistem kontrol cadangan yang telah dibuat adalah pada sistem PLC (Programable Logic Controller) dan terbukti bahwa sistem ini berjalan dengan baik dan cukup andal dalam menangani suatu proses kontrol yang komplek. Kontroller yang akan dibuat disini akan mengjmplementasikan suatu sistem kontrol cadangan menggunakan mikrokontroller keluarga MCS-51. Sistem pengontroUan akan dikendalikan oleh modul kontrol utama yang akan melakukan kerja dengan disupport oleh sebuah modul cadangan yang akan siap meneruskan ken a dari modul utama bila dideteksi adanya kesalahan dalam proses yang sedang dilakukan oleh modul utama tersebut Aplikasi dari sistem kontroller cadangan ini diarahkan pada suatu pengontrolan gerakan dari stepper motor. Bila terjadi kesalahan dalam proses kontrol utama maka kerja dari sistem tetap akan diselesaikan oleh modul cadangan yang telah disiapkan.",
+  "creators": "MARTIN SETIAWAN",
+  "contributors": "SOETIKNO",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/038/337; Martin Setiawan (23492004)",
+  "subjects": "ROBOTICS; ROBOTS"
+}

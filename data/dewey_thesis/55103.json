@@ -1,0 +1,14 @@
+{
+  "id": "55103",
+  "title": "Perancangan dan pembuatan aplikasi mobile device untuk pencarian interest point dengan google maps",
+  "abstract": "Layanan berbasis lokasi merupakan suatu mekanisme layanan yang menghasilkan informasi lokasi geografis. Layanan ini tentunya bisa dimanfaatkan mengingat banyak orang ingin menemukan fasilitas umum dengan cepat dan mudah. Dengan demikian menjadi suatu kebutuhan bagi masyarakat untuk dapat mengetahui keberadaan fasilitas umum dengan cepat dan mudah. Berdasarkan permasalahan tersebut, maka perlu dibuat suatu aplikasi yang dapat mengambil lokasi geografis handphone. Informasi dari aplikasi ini diharapkan membantu dalam mencari fasilitas umum tersebut. Informasi pencarian interest point ini dibaca dengan menggunakan Location API pada Xcode iOS 4.2 dan informasi yang dihasilkan ditampilkan pada aplikasi dari iPhone tersebut. Dari hasil pengujian, informasi posisi dipengaruhi oleh ketersediaan layanan operator, kekuatan sinyal operator, dan ketersediaan kemampuan handphone.",
+  "creators": "ALVIN WILISTIO",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021180/INF/2012; Alvin Wilistio (26407125)",
+  "subjects": "LOCATION-BASED SERVICES; MOBILE APPS--DESIGN"
+}

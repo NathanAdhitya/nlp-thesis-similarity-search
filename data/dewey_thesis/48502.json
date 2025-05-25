@@ -1,0 +1,14 @@
+{
+  "id": "48502",
+  "title": "Perbandingan handwritten character recognition dan handwritten text recognition menggunakan extended mnist dataset dan iam database dan tesseract tool pada tulisan tangan ijazah",
+  "abstract": "Permasalahan pada tulisan tangan adalah bagaimana sebuah teknik dapat mengenali berbagai jenis tulisan dengan bentuk beragam. Berbeda dengan huruf komputer yang konsisten, tulisan tangan setiap manusia memiliki keunikan dalam bentuk dan konsistensi penulisan. Permasalahan tersebut dapat ditemukan pada dokumen ijazah. Pengisian data ijazah masih menggunakan tulisan tangan. Segmentasi lokasi data menggunakan run length smoothing algorithm dengan titik sebagai fitur segmentasi. Teknik handwritten text recognition (HTR) membutuhkan data disegmentasi menjadi gambar kata. Teknik handwritten character recognition (HCR) membutuhkan data disegmentasi menjadi gambar karakter. HCR menggunakan model LeNet5 dengan EMNIST dataset. HTR menggunakan tesseract dan convolutional recurrent neural network dengan IAM database. Pengujian pada 10 sample gambar scan ijazah, segmentasi memperoleh akurasi rata-rata 95.1%. Teknik HCR mengalami kegagalan di proses segmentasi huruf pada cursive handwriting. Teknik terbaik adalah HTR dengan tesseract tool. tesseract berhasil mendapatkan word accuracy diatas 69% di uji pada 5 sample gambar scan ijazah, 15 data field keseluruhan.",
+  "creators": "MADE YOGA MAHARDIKA",
+  "contributors": "Kartika Gunadi (Advisor 1); Alexander Setiawan (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Indar Sugiarto (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021987/INF/2020; Made Yoga Mahardika (26416083)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; COMPUTER GRAPHICS; OPTICAL PATTERN RECOGNITION"
+}

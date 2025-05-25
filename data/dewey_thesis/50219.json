@@ -1,0 +1,14 @@
+{
+  "id": "50219",
+  "title": "Optimasi pengiriman ready mix concrete pada perusahaan PT X di Surabaya menggunakan particle swarm optimization dan symbiotic srganisms search",
+  "abstract": "Dalam industri konstruksi, perkembangan infrastruktur diikuti dengan peningkatan permintaan penggunaan beton ready-mix concrete (RMC) karena RMC memiliki banyak keunggulan dibandingkan beton mixed on-site. Namun keunggulan tersebut tidak selalu terealisasi disebabkan oleh kegagalan pengiriman RMC ke lokasi proyek secara tepat waktu sehingga mengakibatkan adanya waktu penundaan pada kinerja konstruksi bahkan beton yang dikirim menjadi tidak berguna jika melawati batas waktu pengerasan beton. Oleh karena itu, penelitian ini melakukan optimasi supply chain ready mix concrete berdasarkan data dari studi kasus sebuah batching plant di Surabaya menggunakan Particle Swarm Optimization (PSO) and Symbiotic Organisms Search (SOS), dan penelitian ini juga membandingkan performa kedua algoritma tersebut, karena kedua algoritma tersebut telah terbukti efektif dalam menyelesaikan berbagai permasalahan optimasi. Obejctive function dari proses optimasi penelitian ini adalah mendapatkan total waktu tunggu paling minimum dari truk mixer. Kinerja kedua algoritma tersebut diukur dari lima kriteria waktu tunggu, yaitu waktu tunggu terbaik, terburuk, median, rata-rata, dan standar deviasi. Hasilnya menunjukkan bahwa algoritma SOS memiliki performa yang lebih baik daripada algoritma PSO, dimana SOS mendapatkan waktu tunggu lebih rendah yaitu 100,8 jam.",
+  "creators": "Daniel Mulyono Kresnadi",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Ir. JANUAR BUDIMAN, M.S.,Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000303/MTS/2021; Daniel Mulyono Kresnadi (B21190011)",
+  "subjects": "DELIVERY OF GOODS; PRODUCTION PLANNING; BUSINESS LOGISTICS--MANAGEMENT"
+}

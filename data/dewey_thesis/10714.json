@@ -1,0 +1,14 @@
+{
+  "id": "10714",
+  "title": "Implementasi pengenalan kata pada atmega162 untuk mengontrol gerak robot mobil",
+  "abstract": "Tugas akhir ini dibuat dengan tujuan untuk membuat sistem pengenalan kata yang diimplementasikan pada microcontroller. Metode yang digunakan adalah Linear Predictive Coding (LPC) dan Hidden Markov Model (HMM). LPC digunakan untuk mengekstrak pola suara, sedangkan HMM digunakan untuk pengenalan pola suara. Sistem ini diaplikasikan pada robot mobil sehingga robot mobil dapat diperintah untuk bergerak maju, mundur, kanan, kiri dan stop. Sistem ini dirancang dengan menggunakan sebuah microcontroller tipe ATmega162 yang berfungsi sebagai pengatur dan pengolah data. Sistem ini akan mengambil pola suara yang di-input-kan selama 0,5 detik. Pola suara akan proses menggunakan metode LPC. Nilai dari LPC akan dicari nilai ? untuk setiap macam kata. Pada proses pengenalan, besarnya probabilitas ? yang akan menentukan gerak dari robot mobil. Berdasarkan hasil pengujian yang telah dilakukan, tingkat keberhasilan tertinggi pengenalan kata adalah 87 % dalam waktu 17 detik. Robot mobil juga dapat bergerak sesuai dengan perintah kata yang di-input-kan.",
+  "creators": "DHANNY WIJAYA",
+  "contributors": "Thiang (Advisor 1); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010867/ELK/2008; Dhanny Wijaya (23403055)",
+  "subjects": "ROBOTS-CONTROL SYSTEMS; MOBILE ROBOTS"
+}

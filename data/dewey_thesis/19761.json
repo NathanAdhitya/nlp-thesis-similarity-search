@@ -1,0 +1,14 @@
+{
+  "id": "19761",
+  "title": "Perancangan dan pembuatan aplikasi dengan metode delay tolerant networking untuk pengambilan data sensor cuaca",
+  "abstract": "Gadget pada dewasa ini menjadi salah satu komponen penting dalam pengembangan sebuah sistem operasi. Sementara sensor cuaca AAG Wire Weather memiliki standar bekerja pada sistem operasi Linux dan belum memiliki Database, serta belum memiliki deasin Interfa ce. Oleh karena itu dirancang aplikasi yang dapat mengakses data Output dari sensor cuaca, dan menyimpan data tersebut ke dalam sebuah Database sehinggga kapan saja dapat diakses oleh User untuk melihat data-data tersebut. Aplikasi ini dikembangkan dengan menggunakan SSH, Interplanetary Overlay Network di sisi computer server cuaca, dan PHP, MySQL, HTML, JavaScript, Interplanetary Overlay Network di WebServer. Aplikasi yang dibuat meliputi menampilkan Output dari sensor cuaca AAG Wire. Output yang ditampilkan adalah suhu, kecepatan angin, dan arah angin. Dari hasil implementasi sistem dan uji coba, dapat disimpulkan bahwa aplikasi berjalan dengan baik, dengan beberapa tampilan, sehingga mempermudah user dalam melihat dan memantau suhu, kecepatan angin dan arah angin.",
+  "creators": "BUDI DARMAWAN",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Andreas Handojo (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020927/INF/2010; Budi Darmawan (26406182)",
+  "subjects": "DATABASES; COMPUTER NETWORK; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

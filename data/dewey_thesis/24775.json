@@ -1,0 +1,14 @@
+{
+  "id": "24775",
+  "title": "Mengurangi harmonisa arus pada sistem kelistrikan dengan menggunakan transformer penggeser fasa",
+  "abstract": "Beban non-linier merupakan penyebab terjadinya arus harmonisa pada sistem yang kemudian mempengaruhi kualitas daya listrik. Dalam Skripsi ini harmonisa dapat direduksi dengan menggunakan transformer penggeser fasa. Transformer penggeser fasa adalah sebuah trafo tiga fasa Multi winding yang mana gelombang arus dari kumparan output yang satu dengan yang lain berbeda fasa. Dalam skripsi ini, dicoba pembuatan rangkaian transformer penggeser fasa Multi winding menggunakan software PSIM 6.1 Network Full Version. Transformer terdiri dari sisi primer yang dirangkai D dan sisi sekunder yang dirangkai Y dan Zig-zag agar bergeser sejauh ?20 untuk transformer tiga output di sisi sekunder dan ?15 untuk transformer empat output di sisi sekunder. Kerja transformer penggeser fasa tiga output juga di test di laboratorium. Dari hasil percobaan alat di laboratorium ITHD% pada fasa R dapat diturunkan dari 46,4% turun menjadi 5,5%. ITHD% pada fasa S dapat diturunkan dari 39,3% menjadi 5,8%. ITHD% pada fasa T dapat dapat diturunkan dari 37,8 menjadi 6,3%. Hasil dari ITHD% dengan menggunakan transformer penggeser fasa memenuhi standart IEEE dimana %ITHD berada dibawah 20%.",
+  "creators": "RIBKA STEPHANI",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Daniel Rohi (Advisor 2); Julius Sentosa Setiadji (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010626/ELK/2012; Ribka Stephani (23408018)",
+  "subjects": "ELECTRIC POWER SYSTEMS; ELECTRIC TRANSFORMERS"
+}

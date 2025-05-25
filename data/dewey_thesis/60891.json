@@ -1,0 +1,14 @@
+{
+  "id": "60891",
+  "title": "Analisa keamanan website dengan automasi penetration testing menggunakan metode Penetration Testing Execution Standard (PTES) secara terstruktur",
+  "abstract": "Keamanan website adalah prioritas penting bagi perusahaan dan pengguna internet. Ancaman seperti hacker dan kerentanan sistem dapat menyebabkan kerugian besar. Penelitian ini menganalisis keamanan website menggunakan metode Penetration Testing Execution Standard (PTES) dengan automation script dibandingkan dengan metode Open Web Application Security Project (OWASP) dengan manual tools. Objek penelitian ini adalah Damn Vulnerable Web Application (DVWA). Hasil penelitian menunjukkan bahwa automation script dalam metode PTES mengurangi waktu eksekusi secara manual dari 1,5-2 jam menjadi 30 menit-1 jam secara otomatis. Meskipun lebih efisien, beberapa kerentanan memerlukan analisis manual. Automation script mendeteksi 30-40% kerentanan di DVWA dan berhasil mengeksploitasi 42,85% kerentanan utama. Tiga automation script yang dibuat mencakup tahapan information gathering, vulnerability analysis, dan exploitation. Penelitian ini diharapkan memberikan pemahaman mendalam tentang keamanan website dan metode otomatisasi penetration testing menggunakan PTES, sehingga membantu perusahaan dan pengembang website meningkatkan keamanan sistem informasi.",
+  "creators": "AZARYA KAIROSSUTAN SACRI PUSAKA DAMI",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1); Liliana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022478/INF/2024; Azarya Kairossutan Sacri Pusaka Dami (C14200090)",
+  "subjects": "COMPUTER NETWORKS--SECURITY MEASURES; COMPUTER SECURITY; PENETRATION TESTING (COMPUTER SECURITY)"
+}

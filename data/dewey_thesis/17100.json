@@ -1,0 +1,14 @@
+{
+  "id": "17100",
+  "title": "Implementasi metode hybrid weighted average dan edge sensing untuk demosaicking",
+  "abstract": "Kamera digital yang digunakan untuk mengambil gambar dari suatu obyek membutuhkan tiga sensor untuk menyimpan komponen warna merah, biru dan hijau dari obyek tersebut. Pemakaian tiga sensor menyebabkan biaya yang tinggi dan kapasitas penyimpanan gambar yang besar. Untuk menurunkan biaya dan menghemat tempat penyimpanan gambar, kamera dapat menggunakan sebuah sensor yang dilengkapi sebuah filter mosaik sehingga didapat gambar yang hanya menyimpan satu komponen warna pada setiap pixel-nya. Kemudian proses demosaicking dapat dilakukan untuk mengestimasi dua komponen warna lain yang hilang. Dari banyak metode demosaicking yang ada, metode weighted average dan edge sensing mempunyai algoritma yang dapat saling melengkapi satu sama lain. Metode weighted average dapat mengestimasi garis diagonal lebih baik daripada edge sensing. Metode edge sensing dapat mengestimasi garis vertikal dan horizontal lebih baik daripada metode weighted average. Untuk mendapatkan metode demosaicking yang lebih baik, pada penelitian ini kedua metode tersebut digabungkan. Penggabungan kedua metode tersebut dilakukan dengan cara menggunakan algoritma weighted average untuk mengestimasi nilai komponen warna hijau yang hilang, dilanjutkan dengan estimasi nilai komponen warna biru dan merah menggunakan edge sensing. Berdasarkan hasil pengujian implementasi metode hybrid weighted average dan edge sensing, didapatkan bahwa metode tersebut dapat menghasilkan gambar yang lebih mendekati obyek sebenarnya, jika obyek tersebut memiliki warna-warna yang tidak kontras satu sama lain, memiliki detail yang rendah, dan didominasi warna merah, warna biru atau bentuk kurva.",
+  "creators": "MEIDIKA WARDANA KRISTI",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020891/INF/2010; Meidika Wardana Kristi (26406147)",
+  "subjects": "DATABASE DESIGN; HYBRID COMPUTERS-PROGRAMMING"
+}

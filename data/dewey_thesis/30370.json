@@ -1,0 +1,14 @@
+{
+  "id": "30370",
+  "title": "Pengujian rumus empiris dimensi elemen sistem rangka pemikul momen beraturan yang didesain secara direct displacement based",
+  "abstract": "Penerapan metode Direct Displacement Based Design (DDBD) dalam desain bangunan tahan gempa semakin banyak digunakan dan memberikan kinerja yang baik. Dari penelitian terakhir didapatkan sebuah rumus empiris untuk memprediksi dimensi elemen struktur pada bentang dan dimensi balok dan kolom yang seragam. Rumus empiris tersebut belum diuji kinerjanya bila diterapkan pada bangunan dengan konfigurasi yang lain. Penelitian ini akan menguji rumus empiris tersebut pada Sistem Rangka Penahan Momen (SRPM) dengan bentang yang tidak seragam dan dimensi kolom yang bervariasi setiap 2-lantai agar efisien. Pengujian kinerja struktur (drift dan damage index) dilakukan dengan analisis time history. Hasil penelitian menunjukkan bahwa rumus empiris untuk memprediksi dimensi balok dan kolom tidak bisa digunakan pada bentang yang berbeda. Kinerja bangunan yang didapatkan mengindikasikan adanya soft storey pada lantai 1 namun kondisi strong column weak beam masih tercapai. Penelitian ini juga mencoba mengatasi problem soft storey dengan memperbesar kapasitas rotasi yield pada lantai 1 dengan menambah tulangan dan mengecilkan dimensi kolom. Hasil yang didapatkan adalah bahwa memperbesar tulangan kurang efektif sedangkan memperkecil kolom menunjukkan adanya perbaikan yang lebih signifikan terhadap permasalahan soft storey. Oleh sebab itu peneliti menyarankan untuk mencoba kembali rumus empiris prediksi dimensi kolom berdasarkan tegangan penampang sebesar 0.2 fc’ pada SRPM dengan bentang yang seragam maupun tidak seragam.",
+  "creators": "OKKY DWISETIA; FERRY LIMANTAUW",
+  "contributors": "Ima Muljati Ginsar (Advisor 1); Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 2); Daniel Tjandra (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11011953/SIP/2014; Okky Dwisetia (21410096), Ferry Limantauw (21410097)",
+  "subjects": "EARTHQUAKE ENGINEERING; BUILDINGS-EARTHQUAKE EFFECTS"
+}

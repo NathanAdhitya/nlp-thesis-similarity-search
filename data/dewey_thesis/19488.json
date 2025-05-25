@@ -1,0 +1,14 @@
+{
+  "id": "19488",
+  "title": "Perancangan dan pembuatan aplikasi digital whiteboard dengan menggunakan wiimote",
+  "abstract": "Pada zaman modern ini, penggunaan papan tulis menjadi suatu barang yang langka dan tidak digunakan lagi. Penggunaan papan tulis digantikan dengan komputer sebagai alat pengganti presentasi atau sebagai sarana belajar. Namun komputer mouse tidak mampu memberikan kebebasan dalam menulis dan menggambar sebuah objek seperti menggambar menggunakan tangan pada papan tulis. Oleh karena itu, pada skripsi ini, dilakukan pembuatan aplikasi untuk membuat seolah-olah user dapat menggambar pada layar monitor atau layar proyektor dengan menggunakan pen. Aplikasi ini juga mempunyai beberapa keuntungan antara lain dapat menggambar grafik-grafik yang sederhana, melakukan multitouch, dan menggambar gambar vektor. Adapun proses yang dilakukan adalah sebagai berikut : Menyiapkan perangkat Wiimote dengan dikoneksikan dengan komputer, menentukan titik kalibrasi dengan menggunakan metode projective mapping, dan melakukan simulasi mouse di atas layar monitor atau layar proyektor. Aplikasi ini dibuat dengan menggunakan C# dengan Microsoft Visual Studio 2008 sebagai IDE-nya. Hasil pengujian menunjukkan bahwa aplikasi mampu membuat sebuah simulasi kursor mouse dengan menggunakan Wiimote dan infrared pen walaupun hasil kalibrasi tidak mampu menghasilkan posisi kursor yang benar-benar akurat dan sama dengan posisi pen. Pada aplikasi paint yang dibuat dapat membuat sebuah grafik vektor yang sederhana.",
+  "creators": "NG,THOMAS",
+  "contributors": "Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 1); Rudy Adipranata (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020859/INF/2010; Ng Thomas (26406034)",
+  "subjects": "COMPUTER DRAWING; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

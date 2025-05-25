@@ -1,0 +1,14 @@
+{
+  "id": "50462",
+  "title": "Automatic playlist continuation menggunakan hybrid recommender system",
+  "abstract": "Salah satu cara terpopuler untuk mendengarkan musik adalah dengan membuat playlist. Fitur playlist bisa dikembangkan dengan memberikan rekomendasi lagu untuk ditambahkan ke dalam playlist. Untuk mengembangkan proses rekomendasi ini, ACM dan Spotify mengadakan RecSys Challenge 2018 untuk automatic playlist continuation. Penelitian ini adalah pengembangan dari Rubtsov et al. (2018) yang menempati juara ketiga dalam RecSys Challenge 2018. Metode yang digunakan terdiri dari dua tahap, yaitu seleksi kandidat menggunakan sebuah hybrid recommender system bernama LightFM dan ranking menggunakan XGBoost. Pengembangan yang dilakukan berfokus kepada salah satu perhitungan yang digunakan dalam ranking, yaitu perhitungan fitur co-occurrence. Hasil penelitian ini menunjukkan bahwa co-occurrence antara 3 track tidak meningkatkan performa model. Dari percobaan yang dilakukan, model oleh Rubtsov et al. (2018) mendapatkan nilai 0,5251, 0,5582, dan 1,295 untuk R-precision, NDCG, dan recommended song clicks. Hasil model di penelitian ini mendapatkan nilai 0,5241, 0,5579, dan 1,312 untuk R-precision, NDCG, dan recommended song clicks.",
+  "creators": "MARTIN ANDERSEN LINGGAJAYA",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Yulia (Examination Committee 1); Alvin Nathaniel Tjondrowiguno, S. Kom (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022061/INF/2021; Martin Andersen Linggajaya (C14170126)",
+  "subjects": "DIGITAL AUDIO; AUDIO EQUIPMENT"
+}

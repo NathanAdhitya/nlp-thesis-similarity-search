@@ -1,0 +1,14 @@
+{
+  "id": "2785",
+  "title": "Perancangan dan pembuatan under and over voltage relay protection",
+  "abstract": "Kestabilan supply listrik dalam suatu sistem rangkaian listrik sangat diperlukan. Adanya gangguan dalam supply listrik dapat mempengaruhi bahkan merusak suatu sistem rangkaian listrik. Gangguan yang dapat terjadi antara lain adalah adanya under voltage atau over voltage. Salah satu cara untuk mengatasi hal tersebut adalah dengan menggunakan alat pengaman yaitu relay. Relay ini digunakan untuk mendeteksi adanya under voltage atau over voltage. Output dari relay dapat dihubungkan pada rangkaian pemutus {circuit breaker/CB) untuk memutuskan aliran listrik jika terjadi gangguan. Relay yang dirancang bertujuan untuk mendeteksi adanya under voltage atau over voltage pada tegangan 3 phasa 220/380 V 50 Hz. Setting tegangan referensi ? 20 % dan setting waktu ls - 20s. Perancangan alat ini meliputi 2 bagian yaitu relay dan power supply. Dari hasil pengujian yang dilakukan, relay yang dirancang dapat bekerja dengan baik. Relay dapat mendeteksi adanya gangguan under/over voltage sesuai dengan setting tegangan dan setting waktu yang ditentukan. Pada pengujian rangkaian power supply tidak berhasil. Hal ini karena power supply dirancang secara linier mode sehingga menghasilkan daya yang besar. Daya yang besar menyebabkan panas yang berlebih sehingga rangkaian terbakar.",
+  "creators": "BONDAN KANDHITO",
+  "contributors": "YOHANES T. D. S (Advisor 1); Anies Hannawati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No.02/583/ELK/2003; Bondan Kandhito (23496121)",
+  "subjects": "ELECTRIC TRANSFORMERS"
+}

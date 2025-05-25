@@ -1,0 +1,14 @@
+{
+  "id": "7741",
+  "title": "Pembuatan aplikasi pengenalan huruf tulisan tangan pada form hasil scanning menggunakan feature extraction dan inference rule",
+  "abstract": "Saat ini teknologi komputer semakin banyak digunakan untuk mempermudah aktivitas manusia. OCR (Object Character Recognition) merupakan salah satu teknologi yang digunakan untuk mengenali bentuk huruf dan tulisan. Pada Tugas Akhir ini diimplementasikan sebuah perangkat lunak yang digunakan untuk mengenali huruf dari tulisan tangan. Perangkat lunak ini menggunakan Feature Extraction dan Inference Rule dalam pengerjaannya. Feature Extraction merupakan proses untuk mengambil feature yang dimiliki oleh tiap huruf. Untuk proses pengenalan huruf dilakukan dengan membandingkan feature pada huruf yang dilacak dengan feature pada database menggunakan Inference Rule. Huruf yang dilacak akan dikenali sesuai dengan hasil dari proses Inference Rule. Perangkat lunak ini dibuat dengan menggunakan Microsoft Visual C++ 6.0 ? , dengan bantuan library dari Intel Image Processing Library (IPL) dan Intel Open Source Computer Vision (OpenCV). Perangkat lunak ini diujikan terhadap beberapa variasi tulisan tangan",
+  "creators": "DELMAR",
+  "contributors": "Rolly Intan (Advisor 1); Rudy Adipranata (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010569/INF/2006; Delmar (26402091)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

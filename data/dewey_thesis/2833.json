@@ -1,0 +1,14 @@
+{
+  "id": "2833",
+  "title": "Perencanaan produksi dan kebutuhan bahan baku di CV \"X\"",
+  "abstract": "Perencanaan produksi dan kebutuhan bahan baku merupakan hal yang sangat penting bagi CV 'X' yang bergerak dalam pembuatan minuman ringan. Perencanaan produksi dan kebutuhan bahan baku dapat digunakan untuk dapat mengendalikan dan mengontrol seluruh kegiatan produksi dan kebutuhan bahan bakunya sehingga total biaya yang dihasilkan dapat diminimalkan. Fluktuasi permintaan produk minuman ringan yang tidak menentu membuat perlunya dilakukan peramalan untuk mengetahui jumlah permintaan di masa mendatang. Peramalan yang digunakan adalah peramalan time series. Adanya keterbatasan kapasitas produksi di dalam perusahaan juga membuat perlunya dilakukan peramalan agregat untuk dapat mengantisipasi adanya back order. Peramalan agregat ini menggunakan metode liner programing, selanjutnya dilakukan perencanaan kebutuhan bahan baku (Material Requirement Planning) untuk tiap jenis minuman ringan dengan menggunakan metode terbaik yang dapat menghasilkan total biaya terkecil. Pengendalian persediaan bahan baku meliputi berapa besar pemesanan yang harus dilakukan dan kapan pemesanan tersebut dilakukan agar kelebihan atau kekurangan bahan baku dapat diantisipasi. Perencanaan produksi yang telah dibuat, kemudian diimplementasikan untuk membuktikan apakah perencanaan yang dilakukan memberikan dampak positif bagi perusahaan. Hasil implementasi tersebut ternyata memberikan dampak yang positif bagi perusahaan.",
+  "creators": "EDDY PRAWIRO",
+  "contributors": "Tanti Octavia (Advisor 1); Jani Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 537/TI-018/2002; Eddy Prawiro (25497126)",
+  "subjects": "TIME MEASUREMENT; WORK MEASUREMENT; MANUFACTURING PROCESSES; PRODUCTION PLANNING"
+}

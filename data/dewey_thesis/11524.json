@@ -1,0 +1,14 @@
+{
+  "id": "11524",
+  "title": "Simulasi dan analisis shunt active power filter tiga fasa dengan metode kompensasi artificial neural network",
+  "abstract": "Semakin banyaknya pengoperasian peralatan beban non linear akanmenimbulkan harmonisa pada sistem tenaga dan mempengaruhi kualitas dayalistrik. Harmonisa pada sistem tenaga ini dapat diatasi dengan menggunakanShunt Active Power Filter.Shunt Active Power Filter adalahCurrent Controlled Voltage SourceInverter (CC-VSI) tiga fasa yang dihubungkan secara paralel padaPoint ofCommon Coupling (PCC). Metode kompensasiArtificial Neural Networkdigunakan sebagai rangkaian kontrol untuk menghasilkan arus referesi dariShuntActive Power Filter. Simulasi pada tugas akhir ini dikerjakan dengan programPSIM 6.1 untuk rangkaianShunt Active Power Filterdan Matlab Simulink 6.5.1untuk rangkaian kompensasiArtificial Neural Network. Penentuan kombinasiamplitudo danlearning rate dari rangkaian kompensasiArtificial Neural Networkdilakukan dengan metodetrial and error.Berdasarkan hasil simulasi diperoleh kombinasi amplitudo danlearningrate dengan rata-rata waktu belajar terkecil sebesar 0.06 detik, sehingga diperolehIthd setelah kompensasi untuk harmonisa ke 5, 7, 11, dan 13 yang berkisar antara0.44 % hingga 1.47 % dengan penurunan ITHD maksimum mencapai 93.16 %.Hasil yang diperoleh masih dalam batas arus harmonisa yang diperbolehkansesuai dengan standar IEEE 519.",
+  "creators": "SORATI",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Thiang (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010607/ELK/2009; Sorati (23405045)",
+  "subjects": "HARMONICS (ELECTRIC WAVES); ELECTRIC CIRCUITS; ELECTRIC CURRENTS"
+}

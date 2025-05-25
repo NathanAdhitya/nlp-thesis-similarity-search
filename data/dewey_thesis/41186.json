@@ -1,0 +1,14 @@
+{
+  "id": "41186",
+  "title": "Implementasi the onion router (Tor) berbasis virtual private network (VPN) pada raspberry PI",
+  "abstract": "Kejahatan di Internet ini populer dengan nama cybercrime. Adanya cybercrime akan menjadi dampak buruk bagi kemajuan dan perkembangan negara pada umumnya. Saat ini, Internet telah menjadi bagian dari kehidupan kita sehari-hari sebagai salah satu wahana komunikasi dalam bisnis maupun untuk perorangan. Tetapi di balik itu masih banyak lubang kelemahan sistem di internet yang bisa dimanfaatkan oleh para hacker untuk tujuan tidak baik, seperti mail bomb, pengacak-acakan homepage, pencurian data, password ataupun nomor kartu kredit. Keamanan yang sering digunakan orang pada umumnya hanya sistem keamanan yang mendasar saja. Aplikasi ini dibuat dengan menggunakan bahasa pemrograman Python dan html. Tampilan aplikasi menggunakan Bottle Python Web Framework yang dapat diakses melalui ip gateway. Aplikasi ini dibuat dalam Raspberry Pi yang dilengkapi dengan LCD 16x2. Hasil akhir dari pengembangan aplikasi ini adalah dapat menggunakan VPN dan Tor secara bersamaan sehingga surfing/browsing pada internet menjadi lebih aman dan dapat mengakses beberapa website yang telah terblokir seperti forum reddit. Dengan aplikasi ini cyber hacker akan mengalami kesusahan dalam melakukan tracking.",
+  "creators": "KENNY",
+  "contributors": "Kartika Gunadi (Advisor 1); Leo Willyanto Santoso (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021682/INF/2017; Kenny (26413080)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); INTERNAL (COMPUTER NETWORKS); COMPUTER NETWORKS"
+}

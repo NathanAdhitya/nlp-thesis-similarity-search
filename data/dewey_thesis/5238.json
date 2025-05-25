@@ -1,0 +1,14 @@
+{
+  "id": "5238",
+  "title": "Sistem monitoring PLC Festo FC34 melalui ethernet",
+  "abstract": "Tugas Akhir ini akan membahas dan membuat sebuah sistem monitoring untuk PLC Festo FC34 melalui koneksi Ethernet. Sistem monitoring sangat penting dalam kegiatan pengawasan operand dan parameter PLC. Pengawasan operand dan parameter PLC dilakukan dengan menghubungkan PC dan PLC melalui koneksi Ethernet. Bersama dengan protokol-protokol internet: TCP/UDP, WinSock, EasyNet dan Command Interpreter, komunikasi data dibentuk antara PC dan PLC. Sistem monitoring ini dibuat untuk dapat menampilkan kondisi dan nilai parameter-parameter PLC pada sebuah layar PC. Dengan koneksi Ethernet maka kegiatan pengawasan dapat dilakukan dititik manapun dalam jaringan Ethernet. Hasil eksperimen menunjukkan keberhasilan sistem monitoring dalam pengawasan 10 operand dengan 256 parameter dalam satu siklus pengambilan data. Waktu respon berkisar 1 hingga 2ms dan waktu siklus berkisar 7 hingga 12ms untuk EasyNet",
+  "creators": "BUDI WARDANA",
+  "contributors": "Felix Pasila (Advisor 1); HENDRIK THIEHUNAN (Advisor 2); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/617/ELK/2003; Budi Wardana (23496033)",
+  "subjects": "COMPUTER PROGRAMS; ETHERNET (LOCAL AREA NETWORK SYSTEM)"
+}

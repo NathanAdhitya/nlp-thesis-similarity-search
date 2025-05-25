@@ -1,0 +1,14 @@
+{
+  "id": "16989",
+  "title": "Pengaturan kecepatan motor DC seri 24 V, 0.5 A, 400 RPM dengan menggunakan sejumlah resistor disambung seri dengan jangkar yang diatur oleh mikrokontroller 80C31",
+  "abstract": "Pada kereta api listrik umumnya digunakan motor DC sebagai penggeraknya. Hal ini disebabkan karena motor DC mudah diatur kecepatannya dan juga torsinya Motor DC jika disuplai langsung dari sumber tegangan DC akan menghasilkan arus start yang besarnya bisa mencapai 4 - 5 kali arus nominal. Hal ini akan menyebabkan kereta listrik akan melonjak secara tiba-tiba, selain itu juga akan mengurangi umur dari motor. Untuk itu diperlukan adanya alat kontrol kecepatan yang bisa bekerja secara otomatis. Pada dasamya alat mi bekeria berdasaikan tingkatan-tingkatan kecepatan yang telah diatur tertentu. Tingkatan-ringkatan itu digunakan untuk membatasi lonjakan arus start yang dapat mengakibatkan lonjakan kecepatan. Untuk itu maka motor harus diseri dengan sejumlah resistor yang nanrinya secara bertahap akan dihubungsingkatkan sampai kecepatan yang diinginkan tercapai. Resistor hanya boleh dihubungsingkatkan bila arus sudah mencapai keadaan steady state. Untuk mengetahui keadaan steadystate maka arus harus diubah terlebih dahuhi menjadi data digital dengan bantuan sensor arus dan ADC supaya dapat diolah oleh rnikrokontroller. Tugas mikrokontroller adalah menentukan saat dimana arus sudah steadystate sehingga resistor dapat dihubungsingkatkan Kami menyadari bahwa apa yang kami buat ini masih jauh dari dari kesempurnaan Semoga dapat berguna bagi para pembaca.",
+  "creators": "BAMBANG SUSANTO",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1); Lauw Lim Un Tung (Advisor 2); BUNAWI GUNAWIDJAJA (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/TST/002/192; Bambang Susanto (23489106)",
+  "subjects": "ELECTRIC MACHINERY-DIRECT CURRENT"
+}

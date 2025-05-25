@@ -1,0 +1,14 @@
+{
+  "id": "57361",
+  "title": "Aplikasi sistem manajemen inventori dan distribusi pada toko grosir Artha Makmur",
+  "abstract": "Manajemen inventori merupakan proses untuk memantau data barang masuk dan keluar setiap harinya. Saat ini, sudah banyak toko kecil maupun besar mengalihkan sistem manajemennya menjadi digital. Toko grosir Artha Makmur sebagai penjual sembako yang sudah lama berada di bidang distribusi barang grosir, berencana untuk mendigitalisasi sistem manajemen inventori yang ada. Hingga saat ini, Artha Makmur masih menggunakan cara manual untuk mengatur manajemen inventori dimana dirasa kurang efisien dan data yang sering hilang. Dalam penelitian ini, akan dibuat sebuah sistem berbasis website yang dapat membantu manajemen inventori toko grosir Artha Makmur. Penggunaan sistem ini tidak hanya akan mendigitalisasi saja tetapi dapat membantu mengurangi masalah stok barang pada toko grosir. Menggunakan metode Weight Moving Average (WMA) dan Reorder Point (ROP) yang akan digunakan untuk menentukan tingkat penjualan barang dan tingkat minimal stok barang, sebagai penelitian untuk masalah stok pada toko grosir. Dalam penggunaan metode WMA telah dibuktikan jika memiliki akurasi yang cukup baik dalam menghitung tingkat penjualan yaitu 79,1837%. Pada penggunaan metode ROP hasil penghitungan pada minimal stok barang sudah dapat menutupi rata-rata dan penjualan tertinggi pada bulan berikutnya. Dengan pembuatan penjadwalan menggunakan google calendar telah berhasil membantu dalam penjadwalan yang lebih efisiensi.",
+  "creators": "KRIYAN RANGKE SWAHA",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Kartika Gunadi (Examination Committee 1); Silvia Rostianingsih (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022366/INF/2023; Kriyan Rangke Swaha (C14180243)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; INVENTORY CONTROL--DATA PROCESSING; PROGRAMMING (ELECTRONIC COMPUTERS); WEB SITES--DESIGN"
+}

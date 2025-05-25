@@ -1,0 +1,14 @@
+{
+  "id": "33773",
+  "title": "Perancangan dan pembuatan tools sistem absensi dan penggajian karyawan di CV Mandiri Cemerlang",
+  "abstract": "CV Mandiri Cemerlang merupakan sebuah nama usaha dagang dari Hotel Kenongo merupakan tempat usaha yang bergerak di bidang jasa. Pada sistem ini terdapat banyak kelemahan, yaitu pemilik usaha sering melakukan kesalahan dalam memberikan laporan absensi karyawannya dan sering terjadi kesulitan dalam memberikan laporan absensi kerja mereka sebab perusahaan ini masih menggunakan sistem penggajian yang kurang baik. Penambahan kinerja yang terus menerus meningkat berpeluang memberikan dampak negatif terhadap sistem absensi di perusahaan tersebut dan tidak menutup peluang akan terjadi kekacauan sistem. Berdasarkan latar belakang permasalahan tersebut, penulis merancang sistem informasi absensi dan gaji karyawan, dimana sistem yang dirancang penulis adalah sistem yang dapat membantu perusahaan menyelesaikan kerumitan, dengan memberikan sistem absensi bagi karyawannya kemudian menghitung gaji karyawan berdasarkan sistem perusahaan tersebut, sehingga bisa memberikan laporan yang baik bagi perusahaan. Proses pembuatannya menggunakan Borland Delphi 7 sebagai bahasa pemograman dan MySQL sebagai databasenya. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, input yang diberikan seperti jam masuk, jam keluar, dan lain-lain sesuai kebutuhan sistem akan dikombinasi dan diproses oleh program sehingga bisa mengolah informasi sesuai aturan dan sistem perusahaan yang menghasilkan laporan karyawan seperti laporan gaji. Juga dapat menampilkan laporan-laporan seperti laporan karyawan, laporan penggajian karyawan, laporan sisa cuti karyawan, laporan kehadiran karyawan, laporan karyawan pada devisi tertentu.",
+  "creators": "FELIX THE",
+  "contributors": "Liliana (Advisor 1); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02021181/INF/2012; Felix The (26408002)",
+  "subjects": "MYSQL (COMPUTER PROGRAM); PROGRAMMING (ELECTRONIC COMPUTERS); MANAGEMENT INFORMATION SYSTEM"
+}

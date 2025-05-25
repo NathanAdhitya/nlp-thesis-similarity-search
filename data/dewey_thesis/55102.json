@@ -1,0 +1,14 @@
+{
+  "id": "55102",
+  "title": "Sistem informasi alumni Program Studi Teknik Informatika Universitas Kristen Petra",
+  "abstract": "Alumni Informatika selalu bertambah setiap tahunnya, maka diperlukan sebuah tempat sebagai sarana komunikasi untuk para alumni. Website untuk alumni yang ada saat ini hanya berisi info - info saja yaitu www.kanitra.org dan sportfolic.petra.ac.id/aIumni. Alumni tidak memiliki tempat untuk berkomunikasi dengan sesama alumni. Karena itu dibutuhkan website yang memiliki fitur yang lengkap sehingga dapat digunakan untuk sarana komunikasi para alumni. Pada Skripsi ini proses pembuatan aplikasi website diawali dari desain yang menggunakan flowchart dan menggunakan entity relationship diagram dilanjutkan dengan pembuatan aplikasi menggunakan Hypertext Preprocessor (PHP) sebagai bahasa pemograman dan MySQL untuk database-nya. Fitur - fitur yang akan dibuat yaitu profile member, job vacancy, iklan, file sharing, search, chat. Hasil implementasi dan pengujian website ini menghasilkan fitur-fitur profile member, news, event, job vacancy, chat, iklan, promo, file sharing, facebook comment box. Tetapi beberapa fitur tersebut memiliki beberapa kekurangan seperti facebook comment box hanya bisa share comment di profile facebook user, tidak dapat comment di group alumni. Tetapi website dapat mengirim post ke facebook group berupa data website yaitu news, event, iklan J o b vacancy.",
+  "creators": "BUDHI WIJAYA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021205/INF/20I2; Budhi Wijaya (26406022)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; DATABASE DESIGN; DATABASE MANAGEMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "61148",
+  "title": "Memonitor dan mengontrol tata udara dalam sebuah ruang pertemuan dengan menggunakan U-control Weidmuller",
+  "abstract": "Perencanaan sistem tata udara dalam sebuah ruangan merupakan salah satu aspek yang penting dalam pembangunan gedung. Hal ini dapat mempengaruhi kenyamanan dan produktivitas penghuni ruangan. Sistem ini biasanya dikontrol oleh AHU (Air-Handling Unit) gedung. Tergantung pada kebutuhan ruangan, terdapat empat faktor yang dapat dikendalikan dalam pengaturan tata udara ruangan, yaitu kadar CO2, suhu, kelembapan, dan tekanan udara ruangan. Pengerjaan dalam perancangan ini berupa pembuatan sistem kontrol HVAC (Heating, Ventilation, Air-Conditioning) dengan menggunakan kontroler Weidmuller dan bahasa pemrograman Node-Red. Hal ini dikarenakan kapabilitas kontroler dalam teknologi IoT (Internet of Things) serta kemudahan penggunaannya dalam pembuatan sistem kontrol ruangan. Perancangan ini akan dilakukan di ruangan HVAC di gedung Q, Universitas Kristen Petra, dan akan digunakan untuk mengontrol serta memonitor kadar CO2 dan suhu ruangan, sementara kelembapan dan tekanan udara dalam ruangan hanya akan dilakukan pemonitoran. Program kontrol suhu ruangan telah dibuat dengan mengimplementasikan sistem kontrol deadband untuk menjaga kestabilan suhu ruangan. Pengontrolan kadar CO2 ruangan dilakukan dengan mengatur jumlah udara segar yang memasuki ruangan menggunakan damper. Nilai pengontrolan ruangan akan mengikuti standar ASHRAE sebagai ruangan pertemuan. Hasil dari perancangan ini adalah sebuah ruangan yang dapat mengontrol dan memonitor suhu dan kadar CO2 ruangan serta memantau tekanan dan kelembapan udara.",
+  "creators": "ADRIAN PUTRA SOEHALIM",
+  "contributors": "Roche Alimin (Advisor 1); Ekadewi Anggraini Handoyo (Advisor 2); Amelia (Examination Committee 1); Hariyo Priambudi Setyo Pratomo, S.T., M.Phil. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011552/MES/2024; Adrian Putra Soehalim (C12200017)",
+  "subjects": "AIR CONDITIONING; INTERNET OF THINGS; BUILDINGS--VENTILATION"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "11015",
+  "title": "Simulasi dan analisis pengaruh dristributed generation terhadap peningkatan arus hubung singkat pada sistem distribusi radial 20 kv. Studi kasus: penyulang Darmo Permai",
+  "abstract": "Analisa terhadap kondisi sebelum gangguan, pada saat terjadi gangguan dan kondisi setelah gangguan selesai merupakan kebutuhan untuk menentukan peralatan proteksi, relay proteksi dan koordinasi proteksi dari suatu sistem. Sistem harus mampu menahan arus gangguan yang mungkin terjadi sehingga kontinuitas suplai listrik kepada konsumen dapat tetap terjaga. Seiring dengan perkembangan teknologi telah dikembangkan suatu alat pembangkit listrik yang dapat dikoneksikan langsung ke sistem distribusi, yang dikenal dengan teknologi Distributed Generation (DG). Tugas akhir ini dirancang untuk mengetahui besar dari peningkatan arus hubung singkat yang terjadi pada sistem mula-mula sebelum penambahan DG dan mengetahui pengaruh penambahan DG terhadap arus hubung singkat yang terjadi. Simulasi pada tugas akhir ini dikerjakan dengan program komputer ETAP PowerStation 4.0.0, yang kemudian dikalkulasi dengan menggunakan metode Short-Circuit Analysis untuk mendapatkan arus hubung singkat. Penambahan DG pada system dilakukan dengan dua cara, yaitu secara terpusat dan secara tersebar pada daerah dengan densiti beban yang tinggi serta pada daerah yang jauh dari suplai utama (GI Tandes II). Dari hasil analisa, arus hubung singkat terbesar yang terjadi pada penyulang Darmo Permai sebelum penambahan DG adalah 14.434 kA. Setelah penambahan DG 1-2 MW, terjadi peningkatan arus hubung singkat. Persentase peningkatan arus hubung singkat terbesar setelah penambahan DG 1 MW secara terpusat adalah 4.98% pada bus 90. Persentase peningkatan arus hubung singkat terbesar setelah penambahan DG 1 MW secara tersebar pada daerah dengan densitas beban yang tinggi adalah 4,56 % pada bus 150. Persentase peningkatan arus hubung singkat terbesar setelah penambahan DG 1 MW secara tersebar pada daerah yang jauh dari suplai utama adalah 4.58 % pada bus 82 dan bus 83. Semakin besar kapasitas DG, semakin besar pula peningkatan arus hubung singkat yang mungkin terjadi.",
+  "creators": "NURA DENDANG SOMBOLINGGI",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Emmy Hosea (Advisor 2); Limboto Limantara (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010599/ELK/2008; Nura Dendang Sombolinggi (23404054)",
+  "subjects": "ELECTRIC POWER DISTRIBUTION; ELECTRIC TRANSFORMERS"
+}

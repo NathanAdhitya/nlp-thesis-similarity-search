@@ -1,0 +1,14 @@
+{
+  "id": "14887",
+  "title": "Analisis perbandingan kombinasi Genetic Algorithm dan Simulated Annealing dengan Particle Swarm Optimization (studi kasus di CV X)",
+  "abstract": "Tugas Akhir ini bertujuan untuk membandingkan performa kombinasi Genetic Algorithm dan Simulated Annealing ( GA - SA ) dengan Particle Swarm Optimization ( PSO ) dalam menyelesaikan masalah tata letak fasilitas di CV X. Masalah yang ada di CV X adalah terjadinya backtracking di lantai produksi sehingga mengurangi output produksi. Algoritma GA - SA dan PSO akan digunakan untuk menyelesaikan masalah layout di CV X dan memberikan usulan layout yang lebih baik. Algoritma GA - SA yang digunakan dalam penelitian ini terdiri dari dua metode, yaitu GA - SA I dan GA - SA II yang memiliki aturan mutasi berbeda. Sedangkan algoritma PSO menggunakan konsep fuzzy particle swarm untuk merepresentasikan solusi. Analisis performa algoritma dilakukan dengan membandingkan dua hal, yaitu momen perpindahan dan computational time. Hasil dari perbandingan menunjukkan bahwa algoritma GA - SA II memiliki performa terbaik dalam meminimasi momen dengan waktu perhitungan yang pendek. Penelitian ini juga memberikan usulan layout bagi CV X, yang diperoleh dari algoritma GA - SA II, dengan momen sebesar 46.653,0818. Setelah dilakukan adjustment pada layout, diperoleh momen perpindahan sebesar 56.364,9, yang menghasilkan penurunan sebesar 23,37% dari momen initial layout perusahaan.",
+  "creators": "ISABELLA LEO SETIAWAN",
+  "contributors": "Herri Christian Palit (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 0101142/IND/2010; Isabella Leo Setiawan (25406025)",
+  "subjects": "PLANT LAYOUT"
+}

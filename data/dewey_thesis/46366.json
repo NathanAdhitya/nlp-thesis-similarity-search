@@ -1,0 +1,14 @@
+{
+  "id": "46366",
+  "title": "Pembuatan jaringan syaraf tiruan untuk mengestimasi beban jangka pendek di Gedung T Universitas Kristen Petra Surabaya",
+  "abstract": "Suatu sistem tenaga listrik mempunyai kurva beban harian yang terpola untuk jangka waktu tertentu dalam keadaan operasional yang normal (tanpa gangguan). Pola ini dapat diperkirakan dalam periode waktu yang sama menggunakan Jaringan Syaraf Tiruan. Estimasi beban dilakukan di Gedung T lantai 3 karena lantai 3 selalu menggunakan daya listrik untuk kegiatan perkuliahan dan administrasi. Pengukuran daya dilakukan setiap 15 menit mulai pukul 08.00 sampai 15.30 di tiap fasa yang ada di SDP lantai 3 menggunakan Fluke 41b dan dari hasil pengukuran yang diperoleh akan disimulasikan ke Jaringan Saraf Tiruan menggunakan program komputer Matlab. Dari hasil simulasi Jaringan Syaraf Tiruan menggunakan metode Backpropagation pada program komputer Matlab, didapatkan model jaringan yang terbaik adalah jaringan dengan 200 unit neufon pada lapisan tersembunyi pertama dengan flingsi aktivasi logsig, 200 unit neilron pada lapisan tersembunyi ke dua dengan fungsi aktivasi logsig, dan 1 unit neuron pada lapisan keluaran dengan fungsi aktivasi purelin dan pelatihan menggunakan fungsi trainrp dari Matlab. Melalui simulasi didapatkan pula estimasi daya tertinggi adalah 76.432 kWatt, sehingga masih ada cadangan daya sebesar 122.976 kWatt untuk menyuplai daya listrik ke gedung T lantai 3 Universitas Kristen Petra Surabaya.",
+  "creators": "ADHI DHARMA SURYANTO",
+  "contributors": "Hany Ferdinando (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010527/ELK/2005; Adhi Dharma Suryanto (23401061)",
+  "subjects": "ARTIFICAL INTELLIGENCE; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

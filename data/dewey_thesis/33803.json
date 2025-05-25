@@ -1,0 +1,14 @@
+{
+  "id": "33803",
+  "title": "Sistem informasi akuntansi yang didukung peramalan penjualan pada UD Y",
+  "abstract": "UD Y merupakan suatu usaha kecil menengah yang bergerak di bidang perdagangan. UD Y adalah supplier pompa air, sparepart (kapasitor, seal, kipas) dan penunjang pompa air (klep, tussen klep, tabung). Fokus utama dari produk yang dijual oleh UD Y adalah penunjang pompa air, di mana UD Y harus merakit dahulu produknya dari bahan baku yang dibeli dari pemasok sampai menjadi produk yang siap dijual ke pelanggan. Sampai saat ini, UD Y belum memiliki sistem yang dapat membantu UD Y dalam mencatat transaksi dengan cepat sehingga UD Y sering melakukan kesalahan pencatatan dalam mencatat transaksi. Selain itu UD Y juga kesulitan dalam pencatatan stok sehingga UD Y tidak bisa mengetahui jumlah stok yang tepat. UD Y juga sering kali sulit dalam memprediksi jumlah produk yang harus di beli agar stok yang dimiliki UD Y tidak kosong saat dibutuhkan. Oleh karena itu pada skripsi ini akan dirancang dan dibuat sistem informasi akuntansi dan peramalan dengan metode Weighted Moving Average, Double Exponential Smoothing dan Triple Exponential Smoothing, yang dapat membantu UD Y dalam mencatat transaksi dan mengolahnya menjadi laporan yang berguna bagi UD Y. Proses pembuatan sistem ini dimulai dari menganalisis kebutuhan perusahaan, pembuatan rancangan sistem menggunakan Data Flow Diagram dan Entity Relational Diagram. Sistem ini dibuat dengan menggunakan database MySQL bahasa pemrograman Hypertext Prepocessor (PHP). Ruang Lingkup pembuatan program meliputi pencatatan pelanggan, pemasok, produk, bahan baku dan transaksi pembelian, penjualan, peramalan penjualan, serta pembuatan jurnal dan laporan secara otomatis. Dari hasil pengujian terhadap sistem yang telah dibuat, sistem dapat mencatat transaksi, memberikan peramalan penjualan dan dapat membuat laporan keuangan sehingga dapat membantu proses akuntansi di perusahaan dan berdasarkan hasil kuesioner, sistem ini dapat memenuhi kebutuhan perusahaan dengan tingkat kepuasan mencapai 66.66% yang mengatakan baik dan 33.33% menyatakan cukup.",
+  "creators": "CINDY BAKTIAR",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Rudy Adipranata (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021399/INF/2015; Cindy Baktiar (26411047)",
+  "subjects": "SALES-COMPUTER PROGRAMS; ACCOUNTING-COMPUTER PROGRAMS"
+}

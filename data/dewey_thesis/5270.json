@@ -1,0 +1,14 @@
+{
+  "id": "5270",
+  "title": "Studi tentang efek harmonisa pada motor induksi 1 phasa 220 volt, 1/4 hp, 1400 rpm",
+  "abstract": "Pada sistem energi listrik terdapat gangguan yang menyebabkan perubahan bentuk gelombang dari suplai listrik yang mulanya berbentuk sinusoidal menjadi tidak la gi sinusoidal. Cacat gelombang yang disebabkan interaksi antara bentuk gelombang yang sinusoidal dengan komponen gelombang lain, dan mempunyai frekuensi kelipatan integer dari komponen gelombang fundamentalnya (50Hz) dapat merusak peralatan yang menggunaka n suplai listrik ini. Gangguan jenis ini kita sebut dengan harmonisa. Pengujian efek harmonisa pada motor induksi satu phasa ini mencoba untuk memberikan gambaran tentang harmonisa yang merusak tersebut. Pengujian efek harmonisa ini akan diujikan pada sebuah motor induksi dimana motor yang digunakan telah didesign untuk bekerja pada frekuensi 50 Hz. Kemudian motor tersebut akan diterapkan pada sebuah sumber yang berharmonisa dan besaran dari THD (Total Harmonic Distortion) dibuat melebihi dari standard yang telah ditentukan, yaitu 5%. Cara untuk mengkondisikan efek harmonisa ini adalah dengan mencampurkan frekuensi fundamental 50Hz dengan frekuensi lain yang lebih tinggi (150, 250,?,650 Hz) dan amplitudo harmonisanya lebih kecil dari amplitudo fundamentalnya. Kesimpulan yang didapat, motor yang diberi suplai berharmonisa akan mengalami penurunan efisiensi yang cukup besar. Dimana besar efisiensinya turun menjadi 10% saja. Sedangkan apabila dikondisikan pada kondisi suplai listrik yang tidak berharmonisa, efisiensi dari motor mampu mencapai 45%. Hal ini sangat kurang baik bagi motor yang diterapkan pada sumber berharmonisa, selain efisiensi dari motor berkurang, lifetime penggunaan motor menjadi lebih pendek. Selain dari pada itu harmonisa membuat motor induks i ini berputar pada putaran yang kurang stabil antara 1400-1480 Rpm, yang pada akhirnya putaran yang tidak stabil ini membuat torsi motor menjadi terganggu. Pada pengujian motor dengan sumber berharmonisa (harmonisa 3, 5,?13) dengan THD-tegangan sebesar 5%, 10%, dan 20%, mengindikasikan banyak kemunculan harmonisa yang ke-3 saat motor dijalankan. Sedangkan pada harmonisa 3 dan 5 dengan THD sebesar 50%, harmonisa yang dicampurkan akan tetap dominan.",
+  "creators": "JOHAN BUDIONO",
+  "contributors": "Emmy Hosea (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 01/467/ELK/2003; Johan Budiono (23498143 )",
+  "subjects": "ELECTRIC MOTORS, INDUCTION"
+}

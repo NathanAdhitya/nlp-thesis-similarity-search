@@ -1,0 +1,14 @@
+{
+  "id": "29942",
+  "title": "Kontrol posisi kamera dengan mengikuti pergerakan obyek",
+  "abstract": "Pergerakan suatu obyek dapat dideteksi dengan berbagai macam sensor antara lain infra merah, deteksi panas, uitrasonik, dan lain-lain. Dengan menggunakan sensor-sensor terebu,kamera dapat dikontrol mengikuti pergerakan suatu obyek. Pada tugas akhir ini dikembangkan sistem kontrol kamera dengan mengikuti pergerakan obyek, dengan menggunakan kamera sebagai sensor. Pada sistem ini digunakan teknologi digital image processing untuk mendeteksi posisi obyek. Metode-metode tersebut adalah Gray Level Classification, Sobel, dan Laplacian. Beberapa percobaan telah dilakukan untuk setiap metode di atas. Dari hasil percobaan tersebut setiap metode memberikan respon yang berbeda-beda dan kamera dapat mengikuti pergerakan obyek tersebut. Untuk metode Gray Level Classification memberikan respon tercepat. Sobel memberikan hasil yang lebih baik jika ada noise dan lebih akurat dalam mendeteksi posisi dari obyek. Untuk metode Laplacian memberikan respon yang lebih baik dibandingkan Sobel tetapi masih lebih lambat daripada Gray Level Classification.",
+  "creators": "DJOHAN WAHYUDI",
+  "contributors": "Felix Pasila (Advisor 1); Thiang (Advisor 2); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/012/526; Djohan Wahyudi (23497005)",
+  "subjects": "INFRARED DETECTORS; AUTOMATIC CONTROL"
+}

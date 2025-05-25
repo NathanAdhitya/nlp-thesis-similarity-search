@@ -1,0 +1,14 @@
+{
+  "id": "14576",
+  "title": "Perancangan dan pembuatan sistem informasi penjualan dan pembelian pada CV. Subur Abadi",
+  "abstract": "CV. Subur Abadi adalah perusahaan yang bergerak di bidang produksi mie keriting. Proses administrasi perusahaan tersebut masih dilakukan secara manual, sehingga terjadi kesulitan dalam proses administrasi dan perhitungan harga pokok produksi dalam perusahaan tersebut. Oleh karena itu, dibutuhkan suatu sistem yang terkomputerisasi untuk memudahkan melakukan proses administrasi pada perusahaan tersebut. Dalam perancangan aliran data menggunakan Data Flow Diagram. Sedangkan untuk membuat desain struktur tabel dan relasi antar tabel menggunakan Entity Relationship Diagram. Database dibuat dengan menggunakan MySQL. Aplikasi dibuat dan dikembangkan dengan menggunakan bahasa pemrograman php. Program yang dibuat meliputi sistem pembelian, sistem penjualan, produksi, dan laporan. Dari hasil pengujian terhadap program, menunjukkan bahwa program ini dapat memproses penjualan, pembelian, menampilkan laporan-laporan yang dibutuhkan, seperti laporan penjualan, laporan pembelian, laporan produksi, dan laporan stok.",
+  "creators": "HENDRA DARMAWAN",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Yulia (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020850/INF/2009; Hendra Darmawan (26402124)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

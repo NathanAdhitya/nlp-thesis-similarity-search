@@ -1,0 +1,14 @@
+{
+  "id": "47998",
+  "title": "Purwarupa sistem rumah cerdas untuk home care",
+  "abstract": "Tugas akhir ini bertujuan untuk membuat suatu purwarupa sistem rumah cerdas untuk kebutuhan home care. Pengguna sistem rumah cerdas dapat melakukan pengendalian perangkat seperti lampu menggunakan perintah suara, mengawasi kondisi detak jantung pengguna, mengawasi kondisi rumah, dan menyimpan acara pengguna ke dalam pengingat jadwal. Sistem rumah cerdas akan menggunakan Raspberry Pi 3 sebagai microcontroller utama, Wemos D1 sebagai microcontroller pada maket rumah cerdas, Broadlink RM Mini 3 sebagai aktuator pendingin ruangan dan televisi, dan Xiaomi Mi Band 2 sebagai wearable device. Program akan menggunakan platform Node-RED, NORA, dan Firebase yang sangat membantu dalam pengembangan Internet of Things. Pengujian sistem dilakukan dengan menguji fitur sistem rumah cerdas, wearable device, schedule reminder, dan melakukan survey tingkat kepuasan pengguna. Hasil pengujian menunjukkan bahwa sistem rumah cerdas dapat berfungsi dengan baik. Microphone dapat mendeteksi perintah suara hingga jarak 2 m. Broadlink mampu mengendalikan perangkat hingga jarak 3 m, Wearable device berhasil mengukur detak jantung pengguna hingga jarak 9 m, schedule reminder berhasil menyimpan acara pengguna dan survey menunjukan responden memiliki tingkat kepuasan yang tinggi yaitu dari total 100% responden, 28% responden memilih sangat puas, 41% responden memilih puas, dan 27% responden memilih cukup puas dengan fitur yang ada.",
+  "creators": "FLORENZO DWIPANJUNG DAVID",
+  "contributors": "Handy Wicaksono (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1); Handry Khoswanto (Examination Committee 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010991/ELK/2020; Florenzo Dwipanjung David (23416031)",
+  "subjects": "PROGRAMMING LANGUAGES (ELECTRONIC COMPUTERS); AUTOMATIC CONTROL--COMPUTER PROGRAMS; HOME AUTOMATION--COMPUTER PROGRAMS"
+}

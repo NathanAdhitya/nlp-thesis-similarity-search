@@ -1,0 +1,14 @@
+{
+  "id": "48451",
+  "title": "Implementasi sistem inventori pada prodi Informatika Universitas Kristen Petra",
+  "abstract": "Program Studi Informatika Universitas Kristen Petra merupakan salah satu lembaga pendidikan yang salah satu kegiatannya melakukan inventarisasi barang yang meliputi pengajuan, pembelian, pencatatan, dan pendistribusian/pengiriman barang baik untuk keperluan penunjang kegiatan belajar mengajar maupun untuk keperluan pegawai dalam melaksanakan pekerjaannya dalam melayani mahasiswa dan dosen, serta pelaporannya. Selama ini belum ada sistem inventori terutama pada laboratorium-laboratorium yang digunakan oleh Prodi Informatika. Proses pendataan dan pelaporan persediaan barang masih dilakukan secara manual yang memerlukan waktu cukup lama dalam menyelesaikan setiap pekerjaannya. Kesalahan kadang terjadi pada penghitungan dan pencatatan barang. Barang- barang seringkali dipindah sehingga lupa letak barang tersebut. Melihat permasalahan yang terjadi, maka dibuatlah sebuah sistem inventori yang terkomputerisasi guna mempermudah serta mempercepat proses pendataan barang, dan proses pelaporan persediaan barang Perangkat lunak yang dikembangkan merupakan sebuah sistem inventori berbasis web. Sistem ini juga disesuaikan dengan hasil analisis terhadap sistem yang ada saat ini dengan beberapa fitur tambahan menyesuaikan kebutuhan laboratorium. Sistem web dikembangkankan menggunakan bahasa pemrograman serverside PHP serta beberapa library pendukung seperti clientside css, javascript berupa bootstrap, datatables, dan jQuery. Hasil akhir dari pengembangan perangkat lunak mencakup pergerakan barang yang terjadi dalam laboratorium, seperti input data barang, peminjaman, pengembalian serta pemindahan barang.",
+  "creators": "RICHARD PUTRA SUGIJANTO",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Leo Willyanto Santoso (Advisor 2); Silvia Rostianingsih (Examination Committee 1); Yulia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021985/INF/2020; Richard Putra Sugijanto (26413069)",
+  "subjects": "DATABASE MANAGEMENT--COMPUTER PROGRAMS; INVENTORY CONTROL--DATA PROCESSING--COMPUTER PROGRAMS"
+}

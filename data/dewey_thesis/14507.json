@@ -1,0 +1,14 @@
+{
+  "id": "14507",
+  "title": "Perencanaan dan pembuatan alat bantu penunjuk dan pengatur terminal R-S-T dari jala-jala PLN untuk proteksi arah putaran motor berbasis mikrokontroler 8032",
+  "abstract": "Dalam tugas akhir ini dibuat suatu alat dengan berbasis mikrokontroler 8032 yang digunakan untuk penunjuk dan pengatur terminal R-S-T dari jala-jala PLN untuk proteksi arah putaran motor yang selanjutnya dapat dikembangkan untuk menunjang aplikasi-aplikasi lainnya. Alat bantu ini dibuat untuk menunjang keamanan proses kerja mesin dari manufaktur yang sebagian besar sebagai penggeraknya adalah motor listrik tiga fasa yang mempunyai arah putaran tertentu. Arah putaran motor listrik tersebut dipengaruhi oleh urutan fasa dari listrik tiga fasa. Perubahan urutan fasa dan putusnya hubungan dari kabel tegangan jala-jala tanpa diketahui akan berakibat rusaknya motor listrik tiga fasa serta rusaknya sistem secara keseluruhan, Alat ini bekerja dengan beban terhubung-Y tidak seimbang tiga fasa, tiga kawat untuk membuat suatu kondisi khusus tertentu yang kemudian disimpan (image) sebagai referensi dan diolah oleh mikrokontroler 8032 sehingga sistem proteksi berlaku. Diharapkan dengan adanya alat ini sangat membantu dalam dunia industri.",
+  "creators": "SOEGIHARTO",
+  "contributors": "Resmana Lim (Examination Committee 1); IRWAN SAHLI (Advisor 1); Emmy Hosea (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/009/308; Soegiharto (23490132)",
+  "subjects": "ELECTRIC MOTORS"
+}

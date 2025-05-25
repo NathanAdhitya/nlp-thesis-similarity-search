@@ -1,0 +1,14 @@
+{
+  "id": "52007",
+  "title": "Platform big data analytic berbasis Apache Spark bagi pemula dalam menyusun data analysis workflow",
+  "abstract": "Data merupakan dasar yang konkrit untuk pengambilan keputusan. Seiring dengan berkembangnya teknologi, jumlah dan kompleksitas data menjadi masalah. Setiap harinya, jumlah data yang dihasilkan sangat banyak dan cepat, di mana sebagian besar data yang dihasilkan merupakan data tidak terstruktur (unstructured data). Oleh sebab itulah big data analytics diperlukan. Hal ini menjadi hambatan bagi data analis pemula yang sedang belajar maupun yang butuh melakukan analisis data. Diperlukannya keahlian dan pengalaman yang tinggi di bidang pemrograman menjadi masalah bagi pemula. Untuk menghadapi hal ini, sebuah platform untuk melakukan big data analysis yang ramah bagi pengguna pemula diusulkan dalam penelitian ini. Platform ini dibuat dengan tujuan pengguna yang tidak memiliki pengalaman pemrograman dapat melakukan analisis data dengan mudah. Manipulasi data dibuat dalam bentuk diagram/workflow yang dapat dirancang secara drag-and-drop, sehingga ramah untuk pengguna pemula. Selebihnya, platform ini menggunakan teknologi terkemuka di industri saat ini untuk menghadapi permasalahan big data analytic bernama Apache Spark tanpa diketahui oleh pengguna sama sekali. Dilakukan survei/demo terhadap 12 orang dari 3 macam latar belakang, yaitu awam, pemula, dan ahli. Hasil yang diperoleh mengindikasikan pengalaman yang positif dalam melakukan analisis data tanpa menggunakan pemrograman. Rata-rata peserta survei menilai platform ini memudahkan pekerjaan analisis data sebanyak 4.4 dari 5. Platform big data analytic berpotensi besar baik bagi pengguna pemula maupun profesional.",
+  "creators": "DANIEL JEREMIA",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Liliana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022137/INF/2022; Daniel Jeremia (C14180223)",
+  "subjects": "BIG DATA; DATA MINING--COMPUTER PROGRAMS; SPARK (ELECTRONIC RESOURCE : APACHE SOFTWARE FOUNDATION)"
+}

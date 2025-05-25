@@ -1,0 +1,14 @@
+{
+  "id": "50558",
+  "title": "Aplikasi transaksi bisnis usaha mikro kecil dan menengah dengan fitur penyimpanan data online dan offline",
+  "abstract": "Usaha Mikro Kecil dan Menengah (UMKM) saat ini masih banyak yang melakukan pencatatan secara manual menggunakan kertas sehingga seringkali menyebabkan kesalahan perhitungan. Selain itu UMKM juga tidak dapat menyediakan informasi dengan cepat karena informasi tidak terdistribusi. Pelaku UMKM juga membutuhkan waktu dalam menganalisa penjualan. Oleh karena itu dibutuhkan sistem yang dapat membantu UMKM untuk mencatat dan menghitung stok serta laporan laba/rugi. Melihat adanya masalah tersebut, maka pada skripsi ini akan dibuat website dengan fitur pencatatan barang, transaksi jual-beli, dan adanya perhitungan laba/rugi. Selain itu website dilengkapi dengan fitur penyimpanan data online dan offline agar pengguna tidak harus tersambung dengan internet. Sistem dibuat berbasis website sehingga UMKM dapat mengakses website melalui smartphone ataupun laptop. Sistem akan dibuat menggunakan bahasa pemrograman PHP 7, download cache menggunakan Service Worker serta menggunakan database online CouchDB dan database offline PouchDB. Berdasarkan hasil dari penelitian skripsi ini dapat disimpulkan bahwa penggunaan website dapat membantu UMKM dalam melakukan pencatatan proses usaha. Website juga dapat berjalan tanpa koneksi internet, akan tetapi halaman harus di-load terlebih dahulu satu per satu. Penggunaan memori juga cukup kecil sehingga tidak mengganggu kinerja perangkat. Website ini dapat dikembangkan lebih lanjut dengan menambahkan fitur dan lebih mudah untuk melakukan download cache.",
+  "creators": "MICHELLE FLORENSIA",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Andreas Handojo (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1); Yulia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022071/INF/2021; Michelle Florensia (C14170087)",
+  "subjects": "DATABASE MANAGEMENT--COMPUTER PROGRAMS; APPLICATION SOFTWARE"
+}

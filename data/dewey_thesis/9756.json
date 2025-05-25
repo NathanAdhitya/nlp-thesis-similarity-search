@@ -1,0 +1,14 @@
+{
+  "id": "9756",
+  "title": "Perancangan dan pembuatan sistem validasi xhtml 1.0",
+  "abstract": "Akhir-akhir ini, perkembangan trafik internet meningkat dengan pesat Jumlah halaman web yang dipublikasikan ikut meningkat. Halaman?halaman web memiliki tag dan syntax dalamnya. Tag dan syntax yang ada akan di-render menjadi interface oleh web browser. Alangkah lebih baik jika sebelum dipublikasikan, file halaman web tersebut benar secara struktural dan gramatikal. Sebuah halaman web dapat dinyatakan benar/ valid, setelah halaman web tersebut diperiksa oleh sebuah sistem validasi. Sistem validasi akan melakukan 3 proses utama, yaitu proses lexical analysis, parsing, dan proses pemeriksaan token. Token yang diperiksa meliputi nama elemen, nama atribut, dan isi atribut sesuai standar Document Type Definition (DTD). Proses pemeriksaan juga dilakukan terhadap struktur dari halaman web. Sistem validasi ini dapat membantu web developer dalam pembuatan halaman web yang benar. Sistem validasi ini dapat menemukan kesalahan dalam sebuah file XHTML, meliputi kesalahan gramatikal dan kesalahan sruktural.",
+  "creators": "NICKO CANDRA WIJANA",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Yulia (Advisor 2); Oviliani Yenty Yuliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010715/INF/2008; Nicko Candra Wijana (26404017)",
+  "subjects": "DATA BASE DESIGN; EXTENSIBLE HYPER TEXT MARKUP LANGUAGE (XHTML) (COMPUTER PROGRAM LANGUAGE); PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "17059",
+  "title": "Perancangan ulang tata letak U.D. Kharisma dengan menggunakan group technology",
+  "abstract": "Adanya jumlah permintaan yang semakin meningkat dan tata letak lantai produksi yang kurang tertata dengan baik mengakibatkan material handling yang dibutuhkan menjadi banyak dan memakan waktu, biaya serta tenaga yang lebih besar. Untuk mengatasi masalah yang terjadi, maka digunakan Group Technology pada U.D. Kharisma, yang bergerak di bidang pembuatan mebel di Menganti, yaitu dengan cara mengelompokkan mesin-mesin yang dilalui dengan proses yang sama, kemudian dikelompokkan menjadi suatu machine cell dan part yang sejenis dikelompokkan ke dalam satu part family. Dalam perancangan dengan menggunakan Group Technology, digunakan 4 metode, yaitu .Single Linkage Cluster Analysis, Rank Order Clustering, Cluster Identification Analysis, dan Bond Energy Algorithm. Dari perancangan dengan menggunakan Group Technology ternyata metode Single Linkage Cluster Analysis memberikan total biaya perpindahan yang minimum dibandingkan dengan 3 metode yang lainnya dan mengelompokkan mesin menjadi 17 sel. Hasil dari perancangan tadi diolah dengan menggunakan metode From To Chart untuk merancang tata letak lantai produksi yang baru dengan cara trial and error berdasarkan frekuensi material handling yang terjadi. Dari 4 alternatif tata letak yang dibuat, dipilih momen perpindahan terkecil yang dihasilkan, yaitu sebesar 8246,55. Dilanjutkan dengan menghitung biaya material handling yang dapat dihemat akibat pengurangan momen sebesar Rp 520.000,00 per bulannya. Dengan biaya untuk melaksanakan perancangan ulang tata letak lantai produksinya sebesar Rp 795.000,00, maka titik impas dapat dicapai setelah 1,74 bulan dari pelaksanaan perancangan ulang.",
+  "creators": "YULIA",
+  "contributors": "Tessa Vanina Soetanto (Advisor 1); PAULINE ASTARI SINGGIH (Advisor 2); Siana Halim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 328/TI-55/2000; Yulia (25496017)",
+  "subjects": "PLANT LAYOUT"
+}

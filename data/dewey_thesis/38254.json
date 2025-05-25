@@ -1,0 +1,14 @@
+{
+  "id": "38254",
+  "title": "Algoritma koordinasi untuk prototipe automated guided vehicle",
+  "abstract": "Teknologi robot telah banyak membantu manusia dalam bekerja contohnya robot Automated Guided Vehicle. Automated Guided Vehicle adalah robot beroda yang dapat berjalan berdasarkan jalur yang telah ditentukan. Robot ini diperintahkan untuk melakukan pembawaan barang ke tempat tujuan tertentu. Sistem ini terdiri dari, dua buah robot AGV, smartphone dan server. Smartphone digunakan untuk memilih tujuan pengambilan barang. Tujuan tersebut akan dikirimkan smartphone ke server. Server akan memproses data tersebut dan hasil dari data tersebut akan dikirimkan kepada robot melalui WiFi. Robot akan bergerak sesuai dengan perintah dari server dan robot dapat berkoordinasi sehingga robot tidak saling bertabrakan dan robot dapat berhenti ketika di jalur terdapat halangan. Berdasarkan hasil pengujian dapat diketahui bahwa penggunaan algoritma Wavefront pada server dapat membantu dalam menemukan jalan menuju tujuan pengambilan barang. Proses penerimaan data oleh robot terjadi delay 1 hingga 2 detik. Robot 1 dan 2 menggunakan kecepatan 20 cm/detik dengan keberhasilan pada robot 1 sebesar 100% dan robot 2 91.7%. Masing-masing robot menggunakan 3 buah sensor ultrasonic dengan error terbesar 4,79% dan masih terdapat blind spot.",
+  "creators": "IVAN HENDRAYANTA SUSILO",
+  "contributors": "Handry Khoswanto (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010956/ELK/2016; Ivan Hendrayanta Susilo (23412009)",
+  "subjects": "ROBOTS; ARDUINO (PROGRAMMABLE CONTROLLER); ALGORITHMS"
+}

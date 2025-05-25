@@ -1,0 +1,14 @@
+{
+  "id": "37563",
+  "title": "Credit scoring model refinement for bank x using logistic regression and auc optimization",
+  "abstract": "Bank X is a leading financial service company and already active in over 120 countries, including Indonesia. One of main services of Bank X is SME Lending. Because of the tight competition in the same services, Bank X is challenged to provide faster loan application process but has lower risk. A better credit scoring model is needed because it can provide faster application process and lower risk of default payment. A poor credit scoring model has a poor power to detect the defected lenders. Bank X has higher risk because of the poor credit scoring model. Through this thesis, the current credit scoring model of Bank X will be validated. With KSScore of 0.154, the current credit scoring model is not good anymore because it cannot separate the non-default and the default applicants. Both classical logistic regression and AUC (Area Under Curve) optimization using Nelder-Mead Algorithm perform well in improving the model, but logistic regression still better in some aspects. AUC optimization model has higher AUC than logistic regression model but lower errors. Although AUC Optimization better than logistic regression, the model still has a large error. The model rejects about 81.94% of all applicants with score below the threshold. By doing a deep analysis of applicants’ population, it is possible to reduce the potential error of the model. By knowing the true default applicants’ population, the population can be separated into two groups. The type I error of group one is 69.95% and 92.97% for group two. Bank X will get a lower potential of lost if they approve the loan from group two applicants rather than from group one.",
+  "creators": "HENDRI SUTRISNO",
+  "contributors": "Siana Halim (Advisor 1); Indriati Njoto Bisono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021990/IND/2016; Hendri Sutrisno (25412077)",
+  "subjects": "TOTAL QUALITY MANAGEMENT; QUALITY CONTROL"
+}

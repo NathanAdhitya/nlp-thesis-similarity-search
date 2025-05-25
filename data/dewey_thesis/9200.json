@@ -1,0 +1,14 @@
+{
+  "id": "9200",
+  "title": "Perancangan dan pembuatan sistem layanan informasi Jurusan Teknik Informatika Universitas Kristen Petra berbasis web dan SMS",
+  "abstract": "Setiap hari Jurusan Teknik Informatika melakukan aktivitas administrasi secara manual dengan menggunakan form-form yang tersedia. Hal itu kadang menyebabkan informasi yang ada menjadi terlewatkan oleh mahasiswa. Untuk mengatasi hal itu, dibuatlah suatu sistem layanan informasi jurusan dengan menggunakan fasilitas SMS. Dengan asumsi handphone rata-rata dimiliki dan SMS digunakan hampir di seluruh daerah, SMS menjadi sarana yang efektif untuk menyampaikan informasi secara cepat dan efektif Pemrograman dilakukan dengan menggunakan bahasa pemrograman PHP 4.3.11, database server MySQL 4.0.24, serta web server Apache. Untuk SMS hardware digunakan handphone GSM Siemens S35 dan untuk SMS gateway digunakan Now SMS Gateway v5.51. Kesimpulan pengujian dengan menggunakan survey kepada pegawai Tata Usaha dan mahasiswa didapat nilai 4,5 dan 3,8. Dari hasil implementasi sistem dan uji coba, disimpulkan bahwa sistem layanan informasi jurusan baik layanan SMS, administrator dan user website berhasil bekerja sesuai yang diharapkan. Penggunaan SMS untuk layanan informasi memungkinkan mahasiswa mendapatkan informasi secara mudah dan cepat, kapanpun dan dimanapun dibutuhkan.",
+  "creators": "ANDRIAS HANDOYO WIJAYA E",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Andreas Handojo (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000504/INF/2006; Andrias Handoyo Wijaya Edy (26401154)",
+  "subjects": "WEB SITES; INTERNET (COMPUTER NETWORK)"
+}

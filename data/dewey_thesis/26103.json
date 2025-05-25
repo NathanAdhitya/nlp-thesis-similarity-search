@@ -1,0 +1,14 @@
+{
+  "id": "26103",
+  "title": "Pembuatan aplikasi pencairan dokumen berbahasa Indonesia yang dikelompokkan menggunakan suffix tree clustering",
+  "abstract": "Sebuah pencarian terhadap kumpulan dokumen umumnya memberikan hasil berupa cuplikan dokumen-dokumen yang disusun berdasarkan peringkat kecocokan dalam daftar yang panjang. Keadaan ini menyebabkan seorang pengguna mengalami kesulitan dalam hal menentukan dokumen yang relevan dengan topik yang dicari. Pada skripsi ini, dibuat suatu aplikasi pengelompokan dokumen dengan metode suffix tree clustering. Konsep dasar metode ini adalah dengan mengelompokkan dokumen kedalam bentuk clusters berdasarkan kata atau frasa yang terdapat dalam dokumen tersebut. Hasil pengujian program pada survei yang dilakukan menunjukan bahwa aplikasi pengelompokkan dokumen menggunakan suffix tree clustering sudah valid, hal ini dapat dilihat dari 60% user mengatakan sudah valid, 20% user mengatakan cukup valid, dan 20% mengatakan kurang valid.",
+  "creators": "DAVID KURNIAWAN ENDRAJAYA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021057/INF/2011; David Kurniawan Endrajaya (26406055)",
+  "subjects": "DATA MINING; DATABASE DESIGN; PROGRAMMING (ELECTRONICS COMPUTERS)"
+}

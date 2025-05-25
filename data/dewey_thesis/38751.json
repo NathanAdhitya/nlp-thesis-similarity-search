@@ -1,0 +1,14 @@
+{
+  "id": "38751",
+  "title": "Modifikasi teknik discrete shear gap pada elemen balok timoshenko berbasis kriging dan pembentukan elemen makro segitiga pelat reissner-mindlin",
+  "abstract": "Metode elemen hingga berbasis Kriging (MEH-K) yang dikembangkan oleh Plengkhom & Kanok-Nukulchai adalah salah satu pengembangan dari metode elemen hingga (MEH). Seperti yang diperkirakan tenyata dalam analisis MEH-K untuk balok dan pelat lentur, fenomena shear locking masih terjadi. Adapun kesimpulan dari pengujian elemen balok Timoshenko yang menggunakan MEH-K dengan teknik discrete shear gap (DSG) berhasil mengeliminasi fenomena shear locking, tetapi hanya berlaku untuk shape function cubic dan dari pengujian elemen segitiga pelat Reissner-Mindlin yang menggunakan MEH standar dengan teknik DSG belum berhasil mengeliminasi fenomena shear locking dan elemennya tidak stabil. Oleh karena itu, pada analisis balok Timoshenko digunakan MEH-K dengan teknik DSG yang shape function-nya telah dimodifikasi dengan shape function linear dan shape function Kriging untuk mengeliminasi fenomena shear locking. Sedangkan untuk analisis pelat Reissner-Mindlin digunakan MEH standar dengan teknik DSG dan dilakukan pembentukan elemen makro segitiga untuk menghasilkan suatu elemen segitiga yang stabil dan performanya lebih baik. Hasil analisis menunjukkan bahwa elemen balok Timoshenko dengan orde berapapun bebas dari fenomena shear locking yaitu menghasilkan nilai deformasi yang akurat dan nilai gaya geser yang berbentuk piecewise constant, seperti yang telah diharapkan. Kemudian hasil analisis untuk elemen pelat Reissner-Mindlin menunjukkan bahwa elemen makro segitiga stabil namun masih terjadi fenomena shear locking.",
+  "creators": "STEVANUS WONGSO SANTOSO; MELLYSSA SUTRISNO",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Benjamin Lumantarna (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012135/SIP/2016; Stevanus Wongso Santoso (21413209), Mellyssa Sutrisno (21413213)",
+  "subjects": "KRIGING; PLATES (ENGINEERING); CONSTRUCTION INDUSTRY-MANAGEMENT"
+}

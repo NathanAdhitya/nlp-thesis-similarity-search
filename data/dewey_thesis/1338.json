@@ -1,0 +1,14 @@
+{
+  "id": "1338",
+  "title": "Pengenalan kata dengan menggunakan fuzzy logic untuk menggerakkan robot mobil",
+  "abstract": "\" Speech Recognition \" adalah sistem yang digunakan untuk mengenali perintah kata dari suara manusia dan kemudian diterjemahkan menjadi suatu data yang dimengerti oleh komputer. Pada saat ini, sistem ini digunakan untuk menggantikan peranan input dari keyboard dan mouse. Keuntungan dari sistem ini adalah pada kecepatan dan kemudahan dalam penggunaannya. Latar belakang utama dari tugas akhir ini adalah membuat suatu sistem \" Speech Recognition \" yang dapat menggerakkan alat kontrol di industri. Pada tugas akhir ini, sistem dibuat menggunakan Delphi dan digunakan untuk menggerakkan robot mobil melalui serial port dari komputer. Perintah kata yang digunakan ada 5 buah kata yaitu kata \"maju\", \"kiri\", \"kanan\", \"mundur\", dan \"stop\". Sistem yang dipakai untuk pengenalan kata adalah sistem logika fuzzy dengan cara template based matching. Proses pengenalan suara dilakukan dengan mentransformasikan data suara pada file WAV, yang merupakan domain waktu, menjadi domain frekuensi dengan menggunakan FFT butterfly. Data tersebut disegmentasi menjadi 16 data yang merupakan input dari logika fuzzy untuk proses pengenalan kata. Hasil dari proses ini adalah gerakan robot mobil yang dikirimkan secara serial. Pengujian yang dilakukan melingkupi pengujian kata-kata yang terdapat pada database, pengujian kata-kata yang tidak terdapat pada database, mengubah membership function, dan pengujian dengan suara orang lain. Untuk proses pengenalan suara, hasil yang dicapai adalah 70% dan prosesnya cukup cepat. Hal yang masih kurang baik dalam tugas akhir ini adalah software masih kurang baik dalam tidak mengenali kata-kata yang tidak terdapat pada database.",
+  "creators": "LUKMAN HERLIM",
+  "contributors": "Thiang (Advisor 1); Hany Ferdinando (Advisor 2); Anies Hannawati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/027/573; Lukman Herlim (23498078)",
+  "subjects": "ROBOTS PROGRAMMING; ROBOTS"
+}

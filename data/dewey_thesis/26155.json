@@ -1,0 +1,14 @@
+{
+  "id": "26155",
+  "title": "Sistem informasi administrasi pada PT. Asia Cakra Ceria berbasis web",
+  "abstract": "Sistem informasi administrasi dan sitem informasi produksi yang diterapkan pada PT. Asia Cakra Ceria kebanyakan masih dilakukan secara manual, walaupun memang beberapa data sudah dicatat menggunakan Microsoft Excel untuk penyimpanan data. Hal ini dirasa tidak lagi efisien untuk jaman era modernisasi saat ini, di mana memperbesar resiko kesalahan manusia serta membutuhkan ketelitian yang tinggi dalam hal penyusunan laporan data-data yang ada. Hal lain yang perlu dipertimbangkan adalah bagaimana relasi perusahaan kepada pelanggan yang saat ini dirasa perlu adanya sesuatu hal yang dapat lebih mempererat hubungan antara perusahaan dan pelanggan. Untuk mengatasi permasalahan yang ada, maka dilakukan perancangan dan pembuatan sistem informasi administrasi, sistem informasi produksi yang terkomputerisasi, dimana sistem informasi terkomputerisasi yang dirancang dan diimplementasikan tersebut meliputi pembelian bahan, perhitungan kebutuhan bahan dan penjadwalan produksi yang diperlukan untuk mendukung rencana produksi. Sedangkan untuk sistem informasi administrasi, meliputi pembelian bahan, penyimpanan stok barang menggunakan metode fifo, penjualan barang kepada pelanggan dan pembuatan laporan stok, pembelian, penjualan, dan produksi. Selain sistem informasi, untuk memenuhi kebutuhan pada PT. Asia Cakra Ceria terhadap pelanggan, maka akan dibuat aplikasi berupa website dan aplikasi SMS Gateway untuk pelanggan PT. Asia Cakra Ceria, di mana dengan website tersebut pelanggan dapat memesan barang secara online, untuk mempermudah dan mengurangi kesalahan yang dibuat oleh pelanggan maupun perusahaan dalam pemesanan barang dan aplikasi SMS Gateway sebagai konfirmasi sms kepada pelanggan. Penulis menggunakan software PHP dan Gammu, sedangkan MySQL sebagai database-nya. Dari hasil implementasi dan pengujian sistem, program yang dibuat dapat menghasilkan fitur penjualan, pembelian, dll sehingga fitur-fitur yang terdapat pada program dapat membantu dalam melakukan proses transaksi pembelian dan penjualan. Selain itu juga dapat menghasilkan fitur produksi. Kebutuhan akan perusahaan ini juga telah terpenuhi melalui laporan-laporan yang dihasilkan oleh program.",
+  "creators": "RIZKY DOAN SAPUTRA",
+  "contributors": "Alexander Setiawan (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021087/INF/2011; Rizky Doan Saputra (26407127)",
+  "subjects": "DATABASE DESIGN; HTML (COMPUTER PROGRAMS); WEBSITES-DESIGN"
+}

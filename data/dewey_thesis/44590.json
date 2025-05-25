@@ -1,0 +1,14 @@
+{
+  "id": "44590",
+  "title": "Analisa resource leveling pada proyek konstruksi ditinjau dari berbagai fungsi objektif dengan menggunakan algoritma Symbiotic Organisms Search (SOS)",
+  "abstract": "Penjadwalan dan manajemen sumber daya merupakan hal yang krusial dalam proyek konstruksi. Penjadwalan yang buruk dapat menyebabkan keterlambatan atau pembengkakan biaya. Untuk mengatasi masalah ini, diperlukan optimasi dalam hal resource leveling. Ada sembilan objective function yang digunakan untuk resource leveling. Masing-masing objective function memiliki tujuan yang sama, yaitu mengurangi fluktuasi dari kebutuhan sumber daya dalam proyek. Penelitian ini membandingkan peforma Symbiotic Organisms Search (SOS) dengan Particle Swarm Optimization (PSO) dan Differential Evolution (DE) dalam menyelesaikan resource leveling dengan menggunakan sembilan objective function untuk megetahui mana yang memberikan hasil terbaik. Sembilan objective function tersebut menghasilkan distribusi kebutuhan sumber daya yang berbeda mengingat masing-masing objective function menggunakan parameter yang berbeda. Hasil dari penelitian ini menunjukkan peforma SOS dalam menyelesaikan resource leveling, lebih baik dari PSO, sedangkan peforma DE sedikit lebih baik dari SOS. Diketahui satu objective function mampu memberikan hasil yang lebih baik dibandingkan objective function lainnya.",
+  "creators": "Christianto Tirta Kusuma",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); IR LIE ARIJANTO, M.MGT (Advisor 2); Januar Budiman (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Skripsi No. 01000270/MTS/2019; Christianto Tirta Kusuma (B21170010)",
+  "subjects": "CONSTRUCTION INDUSTRY-MANAGEMENT"
+}

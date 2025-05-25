@@ -1,0 +1,14 @@
+{
+  "id": "46429",
+  "title": "Aplikasi analisa sentimen pada komentar berbahasa Indonesia dalam objek video di website YouTube menggunakan metode Naïve Bayes Classifier",
+  "abstract": "Dari minat masyarakat di Indonesia yang semakin tinggi akan penggunaan YouTube, hal ini memicu munculnya content creator yang memilih YouTube sebagai media untuk berkarya. Sehingga para content creator berlomba-lomba untuk menghasilkan karya video yang dapat dinikmati pengguna YouTube. Berbagai metode dilakukan oleh para content creator untuk meningkatkan kualitas video yang dihasilkan. Proses dilakukan pada skripsi ini merupakan proses mengolah data mentah yang telah dikumpulkan dari YouTube, sebelum dilakukan proses training dan klasifikasi. Proses data preprocessing perlu dilakukan untuk mengatasi data mentah yang bervariasi dan tidak konsisten sehingga dapat mempengaruhi proses training dan proses klasifikasi. Data preprocessing yang dilakukan pada skripsi ini meliputi Tokenization, Stopwords Removal, Stemming. Proses klasifikasi adalah proses di mana algoritma klasifikasi dijalankan kepada komentar yang digunakan sebagai input data komentar. Aplikasi yang digunakan pada karya tulis ilmiah ini berhasil menghasilkan nilai smoothing, dimana nilai tersebut menunjukkan bahwa komentar termasuk ke dalam pengelompokan class sentimen positif, sentimen negatif atau data bukan bahasa Indonesia.",
+  "creators": "MAXIMILLIAN CHRISTIANTO",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021956/INF/2020; Maximillian Christianto (26416027)",
+  "subjects": "YOUTUBE (ELECTRONIC RESOURCE); APPLICATION SOFTWARE"
+}

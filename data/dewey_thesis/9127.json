@@ -1,0 +1,14 @@
+{
+  "id": "9127",
+  "title": "Perancangan dan pembuatan perhitungan harga pokok produksi dan harga pokok penjualan di PT.\"X\"",
+  "abstract": "PT. \"X\" ini merupakan suatu perusahaan yang bergerak pada bidang industri plastik. Selama ini, PT. \"X\" masih menggunakan sistem pencatatan manual di dalam kegiatan produksi, maupun dalam perhitungan harga pokok produksi dan harga pokok penjualan, selain itu dengan pencatatan secara manual membutuhkan waktu yang lebih lama dan rentan terhadap kesalahan yang disebabkan oleh human error. Oleh karena itu, perlu dibuat suatu sistem baru yang berbasis komputer agar pencatatan dan penyimpanan data dapat berjalan dengan lebih baik. Pembuatan sistem perhitungan harga pokok produksi dan harga pokok penjualan ini dimulai dari melakukan analisis dan pengamatan terhadap sistem perusahaan kemudian dari data tersebut dilakukan perancangan untuk perhitungan harga pokok produksi dan harga pokok penjualan yang sesuai dengan kebutuhan perusahaan. Perancangan desain sistem yang baru menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk membuat desain struktur tabel dan relasi antar tabel. Database dibuat dengan menggunakan Microsoft SQL Server 2000. Aplikasi dibuat dan dikembangkan dengan menggunakan bahasa pemrograman Borland Delphi 7.0. Berdasarkan hasil pengujian program, menunjukkan bahwa program ini dapat melakukan kegiatan produksi dan perhitungan harga pokok produksi dan harga pokok penjualan, serta dapat mengatasi masalah yang dihadapi oleh perusahaan. Program juga dapat menghasilkan beberapa laporan yang berkaitan dengan kegiatan perusahaan, contohnya laporan harga pokok produksi, laporan harga pokok penjualan, dan laporan variance biaya overhead.",
+  "creators": "FENDY HOJIANTO",
+  "contributors": "Sri Maharsi (Advisor 1); Felicia Soedjianto (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010677/INF/2007; Fendy Hojianto (26402174)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

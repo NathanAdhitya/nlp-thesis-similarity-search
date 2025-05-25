@@ -1,0 +1,14 @@
+{
+  "id": "42488",
+  "title": "Optimasi desain struktur rangka batang berskala besar dengan metode metaheuristik",
+  "abstract": "Studi ini menulusuri performa algoritma metaheuristik dalam mengoptimasi struktur rangka batang baja yang berskala besar. Algoritma yang digunakan dalam penelitian ini termasuk particle swarm optimization (PSO), differential evolution (DE), teaching–learning-based optimization (TLBO) dan symbiotic organisms search (SOS). Tiga struktur yang akan dianalisa berupa kubah dengan 120 batang, piramida dengan 160 batang dan menara dengan 942 batang. Hasil optimasi dibandingkan dengan studi yang telah dilakukan sebelumnya untuk memastikan validitas program yang telah dibuat. Lalu ketiga struktur diberi batasan sesuai dengan peraturan Indonesia, SNI1729:2015, dan dibandingkan dengan hasil optimasi dari program SAP2000 v18. Hasil eksperimen yang didapat menunjukkan bahwa SOS adalah algoritma yang paling efisien dan yang paling bisa diandalkan dalam mengoptimasi struktur berskala besar. SOS meraih berat struktur minimum dengan standard deviasi terendah dan konvergensi tercepat untuk dua struktur yang ditinjau. Algoritma metaheuristik dapat menghasilkan hasil optimasi yang jauh lebih baik daripada hasil optimasi dari SAP2000, kecuali PSO.",
+  "creators": "REINARD EKA PUTRA; JAN JOSEPH",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Doddy Prayogo S.T. (Advisor 2); Jimmy Chandra (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012203/SIP/2018; Reinard Eka Putra ( 21414048), Jan Joseph (21414227)",
+  "subjects": "BUILDING, IRON AND STEEL; STEEL, STRUCTURAL"
+}

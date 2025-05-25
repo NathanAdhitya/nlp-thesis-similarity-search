@@ -1,0 +1,14 @@
+{
+  "id": "27647",
+  "title": "Analisa non linier geometri struktur shell dengan menggunakan program sap 2000 ver.11.0.0",
+  "abstract": "Penelitian ini bertujuan menguji keakuratan dan konvergensi elemen shell dalam analisa nonlinier geometri dengan SAP 2000 ver.11.0.0 terhadap berbagai benchmark problems yang biasa dipakai oleh para pengembang elemen shell yang memakai analisa nonlinier geometri. Benchmark problems tersebut dimodelkan dengan menggunakan elemen shell quadrilateral (Q4) yang berdasarkan teori cangkang tipis (thin shell theory) dan teori cangkang tebal (thick shell theory). Yang diukur dalam pengujian ini adalah displacement yang terjadi. Hasil penelitian secara umum menunjukkan bahwa secara umum kinerja elemen shell dalam analisa nonlinier geometri pada program SAP 2000 ver.11.0. menunjukkan hasil yang cukup akurat. Namun, pada kasus-kasus tertentu dengan struktur lengkung, kinerja elemen shell pada SAP 2000 ver.11.0.0 menunjukkan akurasi yang sangat buruk dan pada kasus clamped plate under uniform pressure terjadi konvergensi ke nilai yang berbeda dari reference solution (4x4). Oleh karena itu disarankan melakukan pengetesan menggunakan program lain dalam penelitian ini, untuk mendapatkan hasil yang lebih akurat mengenai kinerja elemen.",
+  "creators": "RICKY WIJOYO",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Effendy Tanojo (Advisor 2); Pamuda Pudjisuryadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11011810/SIP/2012; Ricky Wijoyo (21406011)",
+  "subjects": "SHELLS"
+}

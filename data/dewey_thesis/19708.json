@@ -1,0 +1,14 @@
+{
+  "id": "19708",
+  "title": "Perencanaan dan pembuatan daya nyata (KWH meter), untuk tegangan 220/380 volt, arus 6 ampere, 3 phasa untuk industri dengan menggunakan MCS-51",
+  "abstract": "Kebutuhan akan energi listrik untuk menjalankan peralatan sehari-hari makin menjadi kebutuhan yang mutlak diperlukan. Hal ini disebabkan oleh kemajuan teknologi yang menyediakan segala peralatan yang dapat digunakan untuk membuat hidup makin mudah dan nyaman dengan sumber daya listrik. Terutama dalam bidang industri yang memakai peralatan listrik untuk menjalankan proses produksinya, maka pengadaan listrik merupakan hal yang mutlak harus tersedia. Dalam hal ini untuk mengontrol jumlah pemakaian listrik untuk efisiensi diusahakan seefisien mungkin. Untuk pabrik yang mendapatkan daya listrik dari PLN biasanya membayar biaya pemakaian per KWH yang lebih besar pada saat malam hari, karena beban puncak (pemakaian energi listrik terbanyak) pada jaringan PLN terjadi pada malam hari. Dalam tugas akhir ini dibuat alat pencatat pemakaian daya listrik dalam satuan kwh, dengan menggunakan mikroprosessor MCS 8031 yang masih termasuk keluarga MCS 51 dan menampilkannya melalui perangkat LCD berikut dengan tampilan biaya yang harus dibayar sesuai dengan harga patokan dari PLN. Adapun rangkaian yang digunakan adalah : \"Rangkaian pendeteksi tegangan puncak. \"Rangkaian pendeteksi arus puncak. \"Rangkaian control cos phi. Dan penggunaan ADC 0808 sebagai pengubah input sinyal analog kedalam bentuk digital. Kemudian sinyal digital tersebut diolah dan ditampilkan melalui LCD.",
+  "creators": "BUDI SANTOSO",
+  "contributors": "SOEBAGIO (Advisor 1); Limboto Limantara (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/TST/001/155; Budi Santoso (23484030)",
+  "subjects": "ELECTRIC MEASUREMENTS-COMPUTER PROGRAMS; VOLTAMETER-COMPUTER PROGRAMS"
+}

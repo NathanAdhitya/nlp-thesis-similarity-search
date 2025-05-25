@@ -1,0 +1,14 @@
+{
+  "id": "26249",
+  "title": "Aplikasi multidimensional sequential pattern mining untuk pemberian rekomendasi peminjaman buku pada Perpustakaan Universitas Kristen Petra dengan algoritma clospan",
+  "abstract": "Dalam kesehariannya Perpustakaan Universitas Kristen Petra telah menggunakan sistem terkomputerisasi dan teknologi website application pada sistem pencarian dan penyebaran informasi koleksi. Akan tetapi tidak terdapat sistem pemberian rekomendasi mengenai buku yang berhubungan dengan buku yang dicari. Penyebaran informasi mengenai koleksi baru hanya kepada orang yang mengusulkan buku tersebut. Berdasarkan permasalahan yang dihadapi oleh Perpustakaan UK Petra, maka dilakukan pembuatan perangkat lunak yang berbasis data mining yang dapat memprediksi pola urutan peminjaman yang dilakukan oleh anggota Perpustakaan UK Petra dalam periode tertentu berdasarkan beberapa dimensi yang dipilih dengan menggunakan algoritma CloSpan. Data yang dilihat berdasarkan data sirkulasi pada Perpustakaan UK Petra. Output yang dihasilkan dari aplikasi ini berupa rule, tree, dan graph, yang dapat digunakan sebagai referensi dan pemberian rekomendasi saat memilih buku yang dicari, serta pengiriman email kepada anggota perpustakaan tentang adanya koleksi baru. Hasil kuisioner yang telah dibagikan menunjukkan bahwa keakuratan informasi yang dihasilkan 100% mengatakan baik, kemudahan dalam penggunaan aplikasi 70% mengatakan baik, dan 100% mengatakan baik bahwa aplikasi dapat memenuhi kebutuhan perpustakaan.",
+  "creators": "HERY PRASETYO GUNAWAN",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Yulia (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021137/INF/2012; Hery Prasetyo Gunawan (26408050)",
+  "subjects": "DATA MINING; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); SEARCHING, BIBLIOGRAPHICAL; DATABASE MANAGEMENT; DATABASE SEARCHING"
+}

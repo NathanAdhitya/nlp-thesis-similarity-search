@@ -1,0 +1,14 @@
+{
+  "id": "46268",
+  "title": "Pengenalan jenis bunga anggrek menggunakan metode Color Local Binary Pattern dan Support Vector Machine",
+  "abstract": "Bunga Anggrek merupakan suku tumbuhan berbunga dengan jenis terbanyak. Salah satunya adalah bunga anggrek bulan yang merupakan salah satu dari 3 (tiga) bunga nasional yang ada di Indonesia. Bunga anggrek dapat ditemui di taman kota dan banyak tempat wisata karena keindahan dari bunganya. Namun, masyarakat pastinya mengalami kesusahan dalam mengenali jenis dari bunga anggrek tersebut. Oleh karena itu, dibuatlah program yang dapat membantu dalam mengenali jenis bunga anggrek yang terdapat di sekitar. Pengenalan bunga anggrek sudah pernah dilakukan untuk mengenali tekstur yang dimiliki oleh bunga anggrek. Sedangkan, penelitian ini menggunakan 25 jenis bunga anggrek yang berasal dari Indonesia untuk dikenali. Metode You Only Look Once (YOLO) untuk mendeteksi objek bunga dalam gambar. Sebelum dilakukan klasifikasi terhadap bunga, background dari gambar dapat dihilangkan menggunakan Image Segmentation. Metode Color Local Binary Pattern digunakan untuk mendapatkan tekstur dari gambar melalui beberapa color space, yaitu grayscale, RGB, HSI, YIQ, dan oRGB. Support Vector Machine kemudian digunakan untuk mengenali jenis dari bunga anggrek. Hasil dari penelitian ini dapat mengenali jenis bunga anggrek pada gambar. Hasil pengujian dari dataset peneliti menunjukkan akurasi sebesar 30.7% untuk color space grayscale, 37% untuk color space RGB, 34.6% untuk color space HSI, 41% untuk color space YIQ, dan 40.2% untuk color space oRGB dalam mengenali jenis bunga anggrek.",
+  "creators": "DEBBY MELIANI PRAYOGO",
+  "contributors": "Kartika Gunadi (Advisor 1); Dr. Ir. Endang Setyati, M.T. (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021967/INF/2020; Debby Meliani Prayogo (26416016)",
+  "subjects": "COMPUTER PROGRAMMING; DIGITAL IMAGE PROCESSING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4374",
+  "title": "Sistem akses fasilitas pendaftaran rencana studi dan jadwal ujian via sms",
+  "abstract": "Sistem aplikasi yang menggunakan teknologi SMS telah banyak dikembangkan, misalnya aplikasi remote monitoring, mobile banking, information retrieval, dan sebagainya. Dalam proyek ini dibuat aplikasi SMS untuk pengaksesan fasilitas Pendaftaran Rencana Studi dan Jadwal Ujian via SMS. Sistem ini dibuat pada sebuah personal computer (PC) yang terhubung dengan telepon selular melalui kabel data serial. Setiap SMS yang masuk ke telepon selular akan dibaca oleh sistem, kemudian diproses. Agar dapat diproses dengan benar, SMS yang masuk mempunyai format yang distandarkan. Permintaan yang dapat diolah oleh sistem adalah pendaftaran mata kuliah, pengambilan informasi jadwal ujian mahasiswa. Sebagai tambahan, sistem juga dapat mengolah informasi nilai dan jadwal kuliah. Hasil pengolahan akan dikirimkan kepada pengguna dalam bentuk SMS. Pengguna yang dapat memanfaatkan sistem ini harus terdaftar sebagai anggota dan mempunyai PIN yang disediakan oleh sistem, dan setiap anggota akan dikenakan biaya untuk setiap SMS yang diterima dari sistem. Sistem ini dibuat menggunakan Borland Delphi 5.0. Untuk berkomunikasi dengan telepon selular digunakan AT Command. Format data yang mengalir antara sistem dan telepon selular dalam bentuk PDU (Protocol Data Unit). Sumber data diperoleh dari tabel-tabel akademik dari database Universitas Kristen Petra yang diakses menggunakan perintah-perintah SQL (Structured Query Language). Sistem telah diuji dengan cara mengirimkan permintaan menggunakan telepon selular dan melalui fasilitas simulator. Hasilnya dikirimkan dalam bentuk SMS kepada pengirim.",
+  "creators": "ARTHUR FRANKLIN",
+  "contributors": "Resmana Lim (Advisor 1); Agustinus Noertjahyana (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0125/INF/2003; Arthur Franklin Tetelepta (26499040)",
+  "subjects": "INTERNET (COMPUTER NETWORK)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5399",
+  "title": "Perancangan dan pembuatan sistem pembelian, penjualan dan stok barang pada CV. Bintang Timur Sejahtera",
+  "abstract": "CV Bintang Timur Sejahtera adalah perusahaan yang bergerak di bidang perdagangan, yaitu penjualan campuran bahan bakar yang dibutuhkan kendaraan bermotor, dimana dalam menjalankan usahanya perusahaan ini melakukan banyak transaksi penjualan. Selama ini perusahaan memakai cara manual dalam melakukan pencatatan transaksi dengan menggunakan nota penjualan dan surat jalan dimana seringkali transaksi yang dilakukan bersifat konsinyasi. Pada Tugas Akhir ini, dirangkai beberapa proses atau transaksi yang terkait dengan sistem pembelian, penjualan dan stok barang. Perangkat lunak ini dibuat dengan menggunakan sistem operasi Windows 98. Database yang digunakan adalah Paradox 7.0 dan bahasa pemrograman yang digunakan adalah Borland Delphi 6.0. Proses desain mulai dari sistem flow, Data Flow Diagram sampai dengan Entity Relationship Diagram. Proses implementasi program dalam bahasa pemrograman Delphi yang memanfaatkan basis koneksi ke BDE Administrator. Perangkat lunak yang dihasilkan ini dapat mengetahui hasil pembelian, penjualan dan stok barang. Proses penagihan customer dan proses pembayaran supplier dapat terkontrol dengan adanya laporan hutang dan laporan piutang. Keamanan data dapat ditangani dengan mudah, dikarenakan ada kata kunci yang harus dimasukkan untuk dapat mengakses data.",
+  "creators": "GUNTUR TEGUH WIJAYA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Theresia Lestiowati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000144/INF/2004; Guntur Teguh Wijaya (26499175)",
+  "subjects": "ELECTRONIC COMMERCE--COMPUTER PROGRAMS; DATABASE DESIGN; DATABASE MANAGEMENT"
+}

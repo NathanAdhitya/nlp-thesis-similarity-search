@@ -1,0 +1,14 @@
+{
+  "id": "11141",
+  "title": "Perancangan dan pembuatan aplikasi otentikasi dan digital signature dengan metode schnorr",
+  "abstract": "Dokumen dan berkas-berkas yang penting yang tidak bersifat rahasia memerlukan sistem pengamanan yang mampu mencegah serangan atau penipuan dari pihak-pihak yang tidak berkepentingan. Dengan menggunakan metode Schnorr, dapat mengetahui adanya perubahan terhadap data atau berkas-berkas penting yang diterima dari pihak lain. Hasil penerapan metode ini berupa sebuah perangkat lunak yang mampu melakukan pembangkitan tanda tangan digital dengan membangkitkan kunci publik dan menggunakan fungsi hash melalui operasi bit-bit dari pesan. Pengujian terhadap sistem dibagi menjadi dua tahap, yaitu pengujian sistem pembangkitan tanda tangan dan pengujian sistem verifikasi tanda tangan. Dari hasil pengujian diketahui bahwa perangkat lunak mampu menghasilkan tanda tangan digital dan mampu mengetahui apabila terjadi perubahan di dalam dokumen atau berkas yang diinginkan.",
+  "creators": "ANDREW",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Gregorius Satiabudhi (Advisor 2); BUDI BAMBANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010754/INF/2008; Andrew (26404058)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

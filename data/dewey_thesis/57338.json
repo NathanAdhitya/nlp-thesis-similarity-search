@@ -1,0 +1,14 @@
+{
+  "id": "57338",
+  "title": "Penerapan machine learning untuk mendeteksi konten hoax pada berita online di Indonesia",
+  "abstract": "Perkembangan teknologi sekarang semakin pesat dan mempermudah para penggunanya untuk mengakses berbagai pemberitaan baik berita yang benar keberadaannya maupun hoaks belaka. Pemberitaan juga dapat dengan cepat tersebar sehingga tidak dapat tersaring dengan baik hingga sampai ke tangan pembaca. Berita hoaks sendiri berisi informasi palsu yang belum bisa divaliditas kebenarannya dan bertujuan untuk mempengaruhi pembaca agar melakukan tindakan atau mengikuti dari isi yang ada dalam berita hoaks tersebut. Penelitian ini berfokus untuk mendapatkan model prediksi dengan performa terbaik dan diimplemetasikan dalam sebuah website pendeteksian berita. Penelitian dimulai dengan tahapan text preprocessing mulai dari case-folding, tokenizing, stopwords removal, term-frequency, dan stemming, terhadap dataset yang terdiri dari 600 artikel berita yang telah diberi tagging dan dibagi menjadi 12 kata kunci berita. Dataset dibagi menjadi dua menjadi data latih dan data uji. Pada penelitian ini dilakukan perbandingan performa algoritma menggunakan n-gram dengan default parameter, penggunaan GridSearchCV, serta kombinasi menggunakan Voting Classifier. Dari hasil akurasi dengan menggunakan GridSearchCV dapat meningkatkan performa dari kelima algoritma. Kombinasi Metode Naïve Bayes Multinomial, Linear SVC, dan Logistic Regression menghasilkan tingkat akurasi sebesar 83.34%.",
+  "creators": "FANUEL BERTANUS KRISNADHI",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); Liliana (Examination Committee 1); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022375/INF/2023; Fanuel Bertanus Krisnadhi (C14180249)",
+  "subjects": "WEB SITES--SECURITY MEASURES; DATABASE DESIGN--COMPUTER PROGRAMS; MACHINE LEARNING--DESIGN"
+}

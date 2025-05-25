@@ -1,0 +1,14 @@
+{
+  "id": "12187",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada Foyu Photo",
+  "abstract": "FOYU Photo merupakan perusahaan yang bergerak di bidang fotografi. Saat ini, sistem administrasinya masih menggunakan sistem manual dalam proses pembelian, penjualan, maupun pembuatan laporan. Hal ini memungkinkan terjadinya kesalahan dan membutuhkan waktu yang lama. Untuk mengatasai masalah tersebut, maka dibuat sebuah aplikasi sistem informasi administrasi yang diharapkan dapat membantu mengembangkan perusahaan. Proses pembuatan aplikasi diawali dengan menganalisa proses pembelian dan penjualan yang dilakukan FOYU. Kemudian sistem didesain dengan menggunakan Data Flow Diagram (DFD) dan Entity Relationship Diagram (ERD) dan diimplementasikan dengan menggunakan Microsoft SQL Server 2000 dan Microsoft Visual Basic 6.0. Sistem dapat melakukan proses pembelian, penjualan, pembuatan laporan, serta melakukan perhitungan dengan tepat sesuai dengan perhitungan manual. Berdasarkan hasil kuesioner, diperoleh rata-rata 88%, membuktikan bahwa sistem dapat membantu menyelesaikan permasalahan yang ada.",
+  "creators": "WENDRA RANGGA WINATA",
+  "contributors": "Rudy Adipranata (Advisor 1); INDRO SETIAWAN (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02020824/INF/2009; Wendra Rangga Winata (26405035)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

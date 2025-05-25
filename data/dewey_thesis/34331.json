@@ -1,0 +1,14 @@
+{
+  "id": "34331",
+  "title": "Pengendalian gerakan lengan robot menggunakan sensor accelerometer",
+  "abstract": "Lengan robot merupakan teknologi yang sedang berkembang saat ini. Lengan robot digunakan untuk membantu pekerjaan manusia dalam bidang produksi industri. Pengontrolan lengan robot dapat dilakukan secara manual dengan mengikuti gerakan lengan manusia. Dalam sistem ini, terdapat 3 sensor Accelerometer yang menjadi acuan bagi lengan robot saat melakukan suatu gerakan. Sensor membaca gerakan lengan manusia dan akan memproses data tersebut untuk dikirimkan menuju lengan robot. Sensor dipasang pada pergelangan tangan, lengan bawah dan lengan atas. Data dari sensor Accelerometer diubah menjadi data sudut yang menjadi acuan motor servo. Untuk menyesuaikan range output sensor dengan analog input Arduino, dilakukan konversi menggunakan instruksi mapping dari 265-405 menuju 0-1023. FIR Filter digunakan untuk mengatasi noise yang terdapat dalam sinyal karena sistem pada lengan robot tidak memiliki feedback. Perhitungan torsi motor agar dapat menyesuaikan desain rangka, bahan dan beban pada motor. Desain lengan robot menggunakan 4 motor servo tipe HS-645MG dengan torsi sebesar 9.6kg.cm sebanyak 3 buah dan motor servo tipe HS-805BB dengan torsi sebesar 24.7kg.cm sebanyak 1 buah. Dari hasil pengujian dapat diketahui bahwa efek osilasi dapat dipengaruhi oleh kekurangan torsi motor servo. Pengujian sinkronisasi gerakan menghasilkan pergeseran nilai sudut namun tetap linear. Nilai error yang dihasilkan pada pergelangan tangan sebesar 11.27% dan 10.2%. Pada lengan bawah, nilai error yang dihasilkan sebesar 8.46% dan 7.13%. Pada lengan atas, nilai error yang dihasilkan sebesar 16.27% dan 16.41%. Perbedaan sudut yang dihasilkan pada lengan robot terhadap lengan pengguna dapat disebabkan oleh peletakan sensor pada tangan pengguna yang terdapat lekukan di titik sensor diletakkan.",
+  "creators": "HENRY SANJAYA",
+  "contributors": "Handry Khoswanto (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010939/ELK/2014; Henry Sanjaya (23410021)",
+  "subjects": "ROBOTS-MOVEMENT; ROBOTICS; ROBOT HANDS; ROBOT-DESIGN AND CONSTRUCTION"
+}

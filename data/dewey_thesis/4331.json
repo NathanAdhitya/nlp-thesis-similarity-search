@@ -1,0 +1,14 @@
+{
+  "id": "4331",
+  "title": "Pembuatan sistem perencanaan kebutuhan material (MRP) pada perusahaan penjualan aksesoris mobil PT. Sinar Mulia, Lawang",
+  "abstract": "Dalam membuat suatu produk, PT. Sinar Mulia membutuhkan banyak material dan bahan penolong. Untuk membantu PT. Sinar Mulia dalam perhitungan kapan dan berapa jumlah material atau bahan penolong yang harus dipesan, agar perusahaan tidak mengalami kelebihan atau kekurangan stock di gudang, maka perusahan memerlukan suatu sistem yang mampu perencanaan pemesanan material, sistem ini biasa disebut juga Material Resource Planning (MRP). Untuk membuat software ini, pertama-tama dilakukan pengumpulan data-data yang diperlukan dari PT. Sinar Mulia, kemudian mulai mendesain database-nya dengan cara membuat tabel-tabel untuk data yang diperlukan. Setelah database terbentuk maka proses dilanjutkan dengan pembuatan menu-menu yang akan digunakan, yang antara lain: pemasukan data material dan bahan penolong, data produk dan elemen-elemen yang dibutuhkan, data customer dan supplier, data customer order, dan penjadwalan pemesanan barang. Fasilitas report dapat digunakan untuk menampilkan informasi-informasi yang sudah diolah. Software yang digunakan untuk pembuatan program MRP ini adalah Borland Delphi 7 dan Microsoft Access 2000. Software ini menunjukan daftar material dan bahan penolong yang harus dipesan (jumlah dan waktu), dan memberi informasi mengenai stock material dan bahan penolong yang ada di persediaan.",
+  "creators": "OLIVIA",
+  "contributors": "M. ISA IRAWAN (Advisor 1); Andreas Handojo (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 020083/INF/2003; Olivia (26499087)",
+  "subjects": "SOFTWARE ENGINEERING; DATABASE MANAGEMENT"
+}

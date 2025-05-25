@@ -1,0 +1,14 @@
+{
+  "id": "11109",
+  "title": "Perancangan dan pembuatan aplikasi pengenalan jenis mobil dengan menggunakan gabor filter dan jaringan syaraf tiruan",
+  "abstract": "Sebagian besar orang menggunakan sensor inframerah untuk dapat menghitung jumlah mobil yang memasuki area parkir. Karena jenis mobil merupakan faktor paling umum sebagai pembeda antar mobil, maka sensor tersebut harus dapat mendeteksi adanya mobil dan mengenali mobil tersebut berdasarkan jenisnya. Tetapi sensor yang umumnya dipakai tidak dapat melakukan hal tersebut dengan baik. Berdasarkan permasalahan tersebut, maka dikembangkanlah suatu aplikasi yang dapat menghitung jumlah mobil dan mengenali jenisnya. Aplikasi ini dibuat dengan menggunakan gabor filter untuk proses feature extraction dan backpropagation neural network untuk metode pembelajaran dan pengenalan. Pengujian dilakukan dengan menggunakan berbagai macam parameter backpropagation neural network dan gabor filter untuk melakukan pengenalan terhadap berbagai macam jenis mobil yang berbeda. Hasil pengujian menunjukkan bahwa tingkat kesalahan terkecil adalah 16% dengan kondisi pencahayaan yang tidak terlalu gelap maupun terang.",
+  "creators": "FRANSISCO JIMMY HARTONO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Rudy Adipranata (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010750/INF/2008; Fransisco Jimmy Hartono (26405024)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

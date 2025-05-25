@@ -1,0 +1,14 @@
+{
+  "id": "21444",
+  "title": "Studi tentang RFID sebagai alat pencacah buku perpustakaan",
+  "abstract": "RFID (Radio Frequency Identification) adalah sistem komunikasi data yang menggunakan frekuensi radio sebagai sarana transmisi data. Dalam satu sistem RFID terdapat dua komponen utama: tag/transponder dan reader/programmer. Ada dua jenis tag, yaitu tag pasif dimana tag tidak memiliki sumber daya sendiri, jikalau ada hanya untuk menjaga data dalam memory tidak hilang, dan satu lagi tag aktif yaitu tag yang mempunyai sumber daya sendiri. Tag pasif memiliki kelebihan lebih tahan lama dan bentuk yang lebih kecil, sementara tag aktif memiliki bentuk yang besar dan jangkauan pembacaan yang lebih jauh. Reader adalah alat untuk membaca dan mengambil data yang tersimpan di tag. Reader ini akan memancarkan medan magnet di sekelilingnya, medan magnet ini berfungsi untuk mengaktifkan tag pasif. Reader dapat mendecode data dalam tag dengan cara mendeteksi ada tidaknya absorpsi energi medan magnet oleh tag. Dalam Tugas Akhir ini dibahas tentang studi penggunaan teknologi RFID sebagai alat pencacah buku di Perpustakaan UK. Petra. Mendata ulang buku di perpustakaan yang luas dan memiliki banyak koleksi seperti perpustakaan UK Petra akan sangat suht jika dilakukan secara manual. Dalam skripsi ini akan dibahas mengenai cara kerja RFID, desain dan perencanaan sistem RFID, termasuk di dalamnya pemilihan komponen yang akan dipakai khususnya dalam aplikasi untuk pencacah/pendataan buku di perpustakaan UK Petra. Selain itu juga akan ditinjau beberapa aplikasi RFID yang telah berhasil diterapkan dalam dunia nyata. Dari skripsi ini dapat diperoleh suatu kesimpulan bahwa RFID dapat dipertimbangkan untuk dipakai sebagai alat pencacah buku di perpustakaan UK Petra dengan memberikan kelebihan berupa kecepatan pemrosesan serta kemungkinan pengembangannya untuk tujuan yang lain, seperti membantu sirkulasi/peminjaman buku.",
+  "creators": "BUDI HERTANTO",
+  "contributors": "Thiang (Examination Committee 1); Murtiyanto Santoso (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/003/517; Budi Hertanto (23493144)",
+  "subjects": "DETECTORS-COMMUNICATION SYSTEMS; RADIO FREQUENCY IDENTIFICATION SYSTEMS"
+}

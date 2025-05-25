@@ -1,0 +1,14 @@
+{
+  "id": "7498",
+  "title": "Pembuatan aplikasi text mining untuk pencarian buku koleksi tugas akhir dengan menggunakan metode association rules analysis",
+  "abstract": "The necessity of information in educational area nowadays is assessed to increase. One of them is the necessity of final semester student for searching the thesis collection books that exist in Petra Christian University. Large amount of thesis collection books that were still stored in physically form and the conventional search engine method used in searching the thesis sometimes can only give a piece of information for students. Implementing this text mining aplication will proses raw data in the form of text databases that is thesis abstracts during specified period. Preprocessing will do parsing, stopwords removal dan stemming to the words in these thesis abstracts every major so that keywords can be obtained for each abstract. In Market Basket Analysis, abstract and keywords will be considered as transaction and items. From that transaction data, frequent itemsets can be generated using Apriori Algorithm. Association rules which is consist of associated keywords can be generated from frequent itemsets which have been yielded. By using association rules as the output of this application, associated keywords can be obtained so that the keywords searched by user in the search engine present not only a piece of information about that keywords but also other information based on recommended keywords obtained from association rules. At the result of experiment, association rules method can be used to search the thesis where its abstract precisely contain user?s keyword as well as not closing the possibility of finding other thesis which abstract contained recommended keywords.",
+  "creators": "FERRY YUWONO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Ibnu Gunawan (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000441/INF/2005; Ferry Yuwono (26401166)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

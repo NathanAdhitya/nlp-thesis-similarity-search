@@ -1,0 +1,14 @@
+{
+  "id": "3690",
+  "title": "Kursi dengan penggerak elektrik",
+  "abstract": "Perkembangan teknologi elektronika yang begitu cepat semakin membantu kehidupan sehari-hari, dimana dalam kemajuan jaman sekarang ini menuntut semuanya berjalan serba cepat dan otomatis. Adanya model kursi elektrik ini dapat digunakan untuk keperluan kerja di perkantoran karena pengguna dapat menyesuaikan posisi duduk saat bekerja dengan hanya menekan tombol-tombol yang tersedia untuk menyesuaikan posisi duduknya. Metode yang digunakan adalah cara kerja dongkrak sebagai alat bantu menaik-turunkan bantalan kursi, rangkaian transmisi roda gigi untuk menaik? turunkan punggung kursi, rangkaian driver untuk menerima sinyal dari mikrokontroler dan menggerakkan motor, sensor ketinggian memakai potentiometer geser dan sensor derajat menggunakan potentiometer putar. IC mikro yang dipakai adalah ATMEGA 8 dan driver yang digunakan adalah rangkaian h-bridge Dengan metode yang telah dilakukan menghasilkan batas maksimum kenaikan bantalan kursi 4 cm, beban maksimum pada bantalan kursi sebesar 200 kg dan untuk punggung kursi sebesar + 47 kg. Waktu yang dibutuhkan untuk menaikkan bantalan kursi adalah 34 detik dan untuk menurunkan kursi adalah 32 detik.",
+  "creators": "YUDHI SOETIKNO",
+  "contributors": "Hany Ferdinando (Advisor 1); Handry Khoswanto (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010813/ELK/2006; Yudhi Soetikno (23401010)",
+  "subjects": "CHAIRS; MICROPROCESSORS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "26114",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada Toko Damai Florist berbasis web",
+  "abstract": "Toko Damai Florist adalah sebuah toko yang bergerak dibidang perdagangan bunga plastik. Sistem pencatatan yang digunakan masih dilakukan dengan menulis pada nota, sehingga semua proses penjualan dan juga proses administrasi lainnya kadang tidak tercatat secara lengkap. Selain itu sistem harga pokok penjualan hanya berdasarkan pada perhitungan pemilik toko, dan pemilik toko ingin aplikasi online sehingga bisa memantau transaksi yang terjadi. Berdasarkan analisis permasalahan yang dihadapi oleh toko Damai Florist, maka dilakukan pembuatan aplikasi untuk mendukung kinerja toko. Aplikasi diimplementasikan dapat memproses transaksi pembelian, retur pembelian, sales order, penjualan, retur penjualan, rangkaian bunga, stock opname, pembayaran hutang dan piutang. Untuk mendesain sistem baru DFD digunakan aplikasi Power Designer 6, dan ERD digunakan aplikasi Power Designer 15.3. Aplikasi dibuat dengan menggunakan Yii Framework dan SQLite sebagai penyimpan database. Aplikasi dapat melakukan penyimpanan data master dan transaksi, serta memberikan informasi berupa laporan yang diperlukan termasuk perhitungan laba rugi dengan menggunakan metode Last in First Out (LIFO) yang mampu menghasilkan hasil yang akurat.",
+  "creators": "STEVEN DESTANTO TANAIR",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021075/INF/2011; Steven Destanto Tanair (26407148)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); WEBSITES-DESIGN"
+}

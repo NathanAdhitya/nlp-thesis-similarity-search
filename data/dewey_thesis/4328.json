@@ -1,0 +1,14 @@
+{
+  "id": "4328",
+  "title": "Perencanaan dan pembuatan sofware sistem produksi keramik pada perusahaan PT. Sumber Taman Keramika Industri",
+  "abstract": "PT. Sumber Taman Keramika Industri mengalami peningkatan pemasaran yang berarti. Untuk mengatasi hal ini, perusahaan harus memperbaiki sistem produksinya agar lebih baik dan lebih sederhana. Sistem manual menyebabkan para pegawai perusahaan mengalami kesulitan dalam mencari data-data dan informasi-informasi dari berkas-berkas yang ada. Perangkat lunak yang dibuat ini terdiri dari beberapa modul, antara lain: aplikasi input form, perubahan data, serta laporan produksi. Aplikasi input form sangat berguna untuk dipakai sebagai laporan kerja harian tiap departemen. Pada aplikasi perubahan data, dapat dilakukan pencarian, penghapusan, dan pengubahan data, sedangkan aplikasi laporan produksi yang dibuat merupakan laporan kerja harian dari setiap departemen produksi. Aplikasi ini dapat melakukan penghitungan toleransi kerusakan pesanan pada setiap departemen produksi secara otomatis, selain itu perangkat lunak ini dapat melakukan penghitungan pemakaian mase secara otomatis. Perangkat lunak ini diimplementasikan dengan menggunakan database SQL Server 7 dan menggunakan bahasa pemrograman Borland Delphi 5. Komponen Delphi yang digunakan adalah ADO, yang membuat koneksi antara SQL Server 7 dengan Borland Delphi 5.",
+  "creators": "RONNY EFFENDY",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); Theresia Lestiowati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 020076/INF/2003; Ronny Effendy (26499020)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT"
+}

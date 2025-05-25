@@ -1,0 +1,14 @@
+{
+  "id": "4922",
+  "title": "Perancangan dan pembuatan sistem administrasi SMA Katolik Untung Suropati Sidoarjo",
+  "abstract": "SMU Katolik Untung Suropati Sidoarjo memiliki sistem administrasi yang dilakukan dan didokumentasikan secara manual. Selain begitu rumit dan tidak praktis, dokumentasi data dengan menyimpannya dalam bentuk kertas memiliki banyak resiko yang mengakibatkan hilangnya data. Karena itu dibutuhkan sistem baru yang terkomputerisasi dan terintegrasi agar dapat menghasilkan informasi yang dibutuhkan secara cepat, tepat dan akurat. Rancangan desain sistem yang baru menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk membuat desain struktur tabel dan relasi antar tabel. Database dibuat dengan menggunakan MySQL. Aplikasi dibuat dan dikembangkan dengan menggunakan bahasa pemrograman Borland Delphi 7.0. Program yang dibuat meliputi: pendaftaran siswa baru/mutasi, pencatatan transakaksi pembayaran biaya sekolah, data guru, absensi siswa, catatan pribadi siswa, penilaian. Dari hasil pengujian program menunjukkan bahwa program ini mampu memproses data administrasi yang meliputi data siswa, data pembayaran, data absensi, data nilai dengan baik dan menghasilkan informasi secara lengkap dan akurat sesuai dengan kebutuhan sekolah.",
+  "creators": "ALFRED GIOVANNI SUGIANTO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Liliana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010599/INF/2007; Alfred Giovanni Sugianto (26403119)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATA BASE MANAGEMENT"
+}

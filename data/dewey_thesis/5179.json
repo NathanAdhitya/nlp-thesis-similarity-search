@@ -1,0 +1,14 @@
+{
+  "id": "5179",
+  "title": "Perancangan dan pembuatan aplikasi tes online memanfaatkan handphone berbasis teknologi Java",
+  "abstract": "Pada saat ini perkembangan handphone yang mendukung koneksi GPRS (General Packet Radio Service) dan teknologi Java semakin berkembang pesat. Aplikasi Java telah banyak digunakan pada handphone sebagai penunjang aktifitas sehari-hari. Salah satu contoh aplikasi yang bisa dikembangkan lebih lanjut ialah tes online yang dapat digunakan sebagai media alternatif dalam pengerjaan tes. Pada tugas akhir ini dikembangkan aplikasi tes online yang memungkinkan pengguna handphone untuk mengerjakan tes yang terdiri dari soal multiple choice dengan single maupun multi answer, dan soal essay baik yang memiliki teks bacaan maupun tidak, serta melihat hasil tes yang pernah diikutinya. Aplikasi tes online menggunakan koneksi GPRS untuk berkomunikasi dengan server. Aplikasi tes online dibuat dengan menggunakan bahasa pemrograman Java. Platform Java yang digunakan adalah Java 2 Micro Edition (J2ME) pada sisi handphone dan Java Server Page (JSP) pada sisi server. Berdasarkan hasil pengujian, sistem aplikasi tes online dapat berjalan dengan baik pada Nokia 6600, Nokia 7610, Nokia N73, Ben-Q Siemens EF51, dan Motorola L6 dengan menggunakan operator ProXL, IM3, Mentari, dan Simpati. Mengenai kecepatan transfer data tergantung dari kecepatan GPRS yang disediakan oleh masing-masing operator.",
+  "creators": "YULIANA CHANDINEGARA",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Andreas Handojo (Advisor 2); Oviliani Yenty Yuliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010590/INF/2007; Yuliana Chandinegara (26403089)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

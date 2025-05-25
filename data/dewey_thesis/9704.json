@@ -1,0 +1,14 @@
+{
+  "id": "9704",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada toko emas intan",
+  "abstract": "Toko Emas Intan adalah sebuah toko yang bergerak dalam bidang usaha dagang perhiasan. Sistem yang ada masih menggunakan sistem manual yang menyebabkan control inventory rendah. Laporan yang dihasilkan juga hanya laporan penjualan yang kemudian dijadikan menjadi laporan laba rugi. Tentunya informasi laba / rugi yang didapat dari laporan penjualan sehari-hari ini tidak benar. Menanggapi masalah itu, diperlukan sistem baru yang bisa meningkatkan control inventory dan menghasilkan laporan keuangan yang benar. Aplikasi yang dibuat meliputi modul pembelian, penjualan, inventory, dan akuntansi. Desain sistem menggunakan Unified Modelling Language (UML) pembuatan aplikasi memakai Borland Delphi 7.0 dan Database memakai Microsoft Access. Dari hasil pengujian program, didapat bahwa program mampu mencatat dan mudah untuk melihat kembali data inventory beserta gambarnya. Transaksi pembelian dan penjualan juga langsung menghasilkan jurnal. Dari hasil jurnal ini, maka didapat laporan keuangan (laba rugi, perubahan modal, neraca) yang akurat sesuai dengan proses input pada transaksi.",
+  "creators": "AGUS LEONARDI SUGIANTO",
+  "contributors": "Rudy Adipranata (Advisor 1); Saarce Elsye Hatane (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010705/INF/2008; Agus Leonardi Sugianto (26403054)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN; DATABASE MANAGEMENT"
+}

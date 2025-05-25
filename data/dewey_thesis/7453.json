@@ -1,0 +1,14 @@
+{
+  "id": "7453",
+  "title": "Perancangan dan pembuatan character recognition untuk form pendaftaran kerja praktek menggunakan metode fuzzy inference rules",
+  "abstract": "Data pendaftaran kerja praktek pada jurusan Teknik Informatika Universitas Kristen Petra Surabaya telah disimpan dalam basis data terkomputerisasi dengan cara mengetikkan satu per satu secara manual. Tetapi cara ini dianggap tidak efektif dan efisien. Program ini dibuat untuk mempermudah penyimpanan data. Form pendaftaran kerja praktek di-scan, dan kemudian dikenali menggunakan metode fuzzy inference rules. Tujuan dari Tugas Akhir ini adalah membuat program pengenalan karakter menggunakan metode fuzzy inference rules. Proses pengenalan karakter ini didukung dengan proses noise removal, skew angle detection, dan rotasi sehingga proses pengenalan karakter dapat lebih akurat. Hasil pengujian menunjukan bahwa tingkat pengenalan tulisan tangan menggunakan perangkat lunak adalah sebesar 78.45433%.",
+  "creators": "SONY TRIJAYA SANTOSO",
+  "contributors": "Rolly Intan (Advisor 1); Liliana (Advisor 2); M. ISA IRAWAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000445/INF/2005; Sony Trijaya Santoso (26401111)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

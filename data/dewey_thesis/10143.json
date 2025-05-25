@@ -1,0 +1,14 @@
+{
+  "id": "10143",
+  "title": "Studi analisa sistem distribusi dan instalasi listrik dengan menggunakan ETAP power station 4.0.0 pada Hotel Gajahmada Graha",
+  "abstract": "Hotel Gajahmada Graha merupakan sebuah hotel bintang tiga yang terletak di kota Malang. Hotel ini didirikan sejak tahun 2004 dengan ketinggian empat lantai. Hotel ini digunakan sebagai tempat pengambilan data tugas akhir. Tujuan tugas akhir ini adalah untuk mempelajari dan menganalisa sistem distribusi dan instalasi listrik yang terpasang di hotel ini. Sistem distribusi di hotel Gajahmada Graha menggunakan sistem distribusi radial. Hotel ini menggunakan dua sumber listrik yaitu dari PLN yang besar dayanya 240 kVA dan 33 kVA dan sebagai cadangan menggunakan Generator yang dayanya 377 kVA. Dengan adanya generator sebagai sumber listrik cadangan maka listrik dapat di suplai secara kontinyu. Sedangkan untuk pengumpulan data dilakukan dengan mencari data di hotel Gajahmada Graha dan juga melakukan pengamatan. Analisa data meliputi analisa pengaman, analisa busbar, analisa grounding dan analisa-analisa lainnya. Untuk menganalisa data dilakukan dengan perhitungan secara manual dan menggunakan software ETAP Power Station 4.0.0. Dari hasil analisa diperoleh bahwa sistem distribusi dan instalasi listrik di hotel Gajahmada Graha dapat dikatakan cukup baik dan aman. Hanya saja ada beberapa hal yang perlu diperhatikan dalam pemilihan pengaman. Pengaman yang terpasang pada setiap panel umumnya terlalu besar. Pada panel Pompa Air, MCCB yang terpasang adalah 100 A sedangkan menurut hasil perhitungan, MCCB yang seharusnya dipasang adalah 80 A. Karena pemilihan MCCB yang terlalu besar akibatnya ukuran kabel yang harus dipasang juga semakin besar. Untuk sistem grounding dan busbar yang terpasang sudah baik.",
+  "creators": "HENDRA WINATA",
+  "contributors": "Limboto Limantara (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010545/ELK/2007; Hendra Winata (23400087)",
+  "subjects": "ELECTRIC POWER DISTRIBUTION; ELECTRIC INSTALLATION"
+}

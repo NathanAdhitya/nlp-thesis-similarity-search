@@ -1,0 +1,14 @@
+{
+  "id": "2799",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi di Continuing Education Centre Universitas Kristen Petra",
+  "abstract": "Continuing Education Centre (CE) atau Pusat Pendidikan Berkelanjutan yang berada di Universitas Kristen Petra adalah lembaga yang menyediakan jasa pendidikan berupa training, in house training, workshop, dan seminar. Target pesertanya adalah mahasiswa, alumni serta para praktisi. Saat ini sistem administrasi yang terdapat di CE masih manual dan belum terintegrasi sehingga sebagian besar penanganan proses administrasi tidak dapat dilakukan dengan cepat. Tujuan dari tugas akhir ini adalah untuk merancang dan membuat sistem informasi administrasi pada CE yang terintegrasi dan bersifat multi user. Selain itu juga untuk meningkatkan efisiensi dalam menangani seluruh kegiatan administrasi CE. Proses pembuatan program diawali dengan analisis kegiatan administrasi yang meliputi program yang diadakan oleh CE, keuangan, publikasi, surat, inventaris, perhitungan Break-Even Point. Kemudian dibuatlah desain sistem yang meliputi Flowchart, DFD, dan ERD, serta desain tabel sampai pada pemrograman. Sistem operasi yang digunakan adalah Windows 2000 Server. Pembuatan database menggunakan SQL Server 2000. Pembuatan program aplikasi menggunakan Borland Delphi 7. Dengan adanya program aplikasi yang menangani sistem administrasi di CE ini maka terdapat pencatatan mulai dari program-program CE, keuangan, surat, inventaris, dan publikasi. Pembuatan laporan dapat dilakukan secara otomatis. Keamanan lebih terjamin karena tiap pengguna dibatasi untuk mengakses data menurut tanggung jawab dan wewenangnya.",
+  "creators": "FEBIANA RADJASA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Felicia Soedjianto (Advisor 2); BUDI BAMBANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000322/INF/2005; Febiana Radjasa (26401068)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

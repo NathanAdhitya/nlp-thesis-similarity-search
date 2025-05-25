@@ -1,0 +1,14 @@
+{
+  "id": "15834",
+  "title": "Sistem proteksi sepeda motor dengan remote-control",
+  "abstract": "This thesis discusses about a motor cycle protection system using remote control. The main components used in the system include a microcontroller AT 89C2051, a unit of modem FSK TCM3105, a transmitter IC BA1404 and a receiver IC LAI260. The working principle of the system concerns data transmission through VHF radio wave, using half duplex FSK modulation, set by a microcontroller. The experiment is conducted to observe the transmitting range from the transmission system installed on the motor-cycle to the receiver system in the remote control, and vice versa. From the experiment, a well established two-way data transmission (half-duplex) between remote control and the protection system on the motor-cycle is achieved. The drawback lies in the fact that the data transmission range from the remote- control to the protection system on the motor-cycle is not really far. This is due to the low transmitting capacity of the remote control. However, this would not be a major problem since only the far reaching communication range from the protection system on the motor cycle to the remote control is expected",
+  "creators": "SETIA BUDI FRANSISCUS C.",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/003/440; F.X. Setiabudi Santosa (23493083)",
+  "subjects": "REMOTE CONTROL"
+}

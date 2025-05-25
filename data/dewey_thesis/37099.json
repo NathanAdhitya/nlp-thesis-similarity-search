@@ -1,0 +1,14 @@
+{
+  "id": "37099",
+  "title": "Pengimplementasian quantified judgement model dan backpropagation neural network pada real-time strategy game",
+  "abstract": "Game Real-Time Strategy (RTS) merupakan sebuah genre video game yang cukup populer. Keunikan dari RTS adalah sebuah game strategi dimana waktu terus berjalan untuk semua pemain, Ini membuat situasi dimana player harus menentukan strategi dalam hitungan detik. Untuk mendapatkan sebuah permainan yang baik, maka diperlukan lawan untuk player. Cara yang bisa digunakan untuk membuat lawan kepada player adalah dengan membentuk suatu Artificial Intelligence (AI) yang bisa mempertimbangkan mechanic dari game yang ada. Skripsi ini dibuat untuk mengembangkan pemikiran dalam AI game RTS. Game akan dibuat dengan Unity Game Engine 5.1.2f1. AI yang akan diimplementasikan adalah Quantified Judgement Model dan Neural Network Backpropagation. Quantified Judgement Model akan bertindak sebagai Abstract Controller, memberikan perintah kepada pasukannnya seperti sebuah general perang. Neural Network Backpropagation akan digunakan untuk Virtual Controller, dimana AI akan bertindak untuk setiap pasukan mempertimbangkan apa yang harus mereka lakukan. Apakah mereka harus mundur, atau terus maju mengikuti perintah atasan. Game akan diuji dengan melakukan perhitungan sesuai dengan teori yang telah ditentukan dan melihat pergerakan dari Unit dan strategi apakah yang akan dilakukan oleh lawan. Dari hasil pengujian dapat disimpulkan bahwa bentuk implementasi Quantified Judgement Model dan Neural Network Backpropagation sesuai dengan teorinya.",
+  "creators": "OWEN ENER",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021555/INF/2016; Owen Ener (26412081)",
+  "subjects": "ARTIFICIAL NEURAL NETWORK; ARTIFICIAL INTELLIGENCE; VIDEO GAMES-PROGRAMMING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "50554",
+  "title": "Fault tolerance pada microservices architecture dengan circuit breaker dan bulkhead pattern",
+  "abstract": "Microservice arsitektur sebagai solusi dari sistem arsitektur monolitik semakin berkembang dan banyak digunakan saat ini. Sebagai solusi yang cukup berhasil tidak lepas dari masalah baru yang muncul dalam sistem microservice. Microservice dikembangkan secara mandiri dan berkomunikasi antar jaringan sering kali mengalami fault. Fault yang terjadi dapat disebabkan karena latency yang besar atau karena masalah internal yang menyebabkan proses melambat. Hal ini dapat menyebabkan microservice tidak dapat diakses lagi oleh user atau microservice lain yang membutuhkan. Penelitian ini memberikan solusi dalam pengimplementasian sistem microservice yang dapat tahan terhadap fault dengan menerapkan stability pattern dengan circuit breaker dan bulkhead pattern. Pengujian dilakukan pada implementasi sistem microservice menggunakan studi kasus sistem PRS (Pendaftaran Rencana Studi) yang digunakan oleh Universitas Kristen Petra. Fault tolerance yang diimplementasikan untuk menguji perbandingan performa metode circuit breaker DFTM dengan circuit breaker, bulkhead dengan tanpa bulkhead, serta mengukur tingkat fault tolerance microservice dengan MRMM. Berdasarkan hasil pengujian yang dilakukan didapatkan hasil performa circuit breaker DFTM lebih cepat 46% dalam mengembalikan kondisi normal. Bulkhead dapat mencegah penggunaan resource melebihi kapasitas dari server microservice yang dimiliki jika latency meninggi. Dari hasil pengujian diketahui bahwa tingkat fault tolerance terhadap MRMM menyalahi resiliensi sistem microservice diukur terhadap benchmark. Hal ini dapat dibuktikan dari penurunan tingkat kesuksesan, meningkatnya rata-rata waktu respons, dan penurunan transaksi per detik.",
+  "creators": "EDWARD HOSEA",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Justinus Andjarwirawan (Examination Committee 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022095/INF/2021; Edward Hosea (C14170059)",
+  "subjects": "CIRCUIT BREAKERS; INTEGRATED CIRCUITS--FAULT TOLERANCE"
+}

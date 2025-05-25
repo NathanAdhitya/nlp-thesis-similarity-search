@@ -1,0 +1,14 @@
+{
+  "id": "43676",
+  "title": "Robot lengan 3 DOF dikontrol dengan accelerometer",
+  "abstract": "Tujuan dalam pembuatan robot lengan 3 DOF yang masih sebuah prototype ini adalah untuk membantu pembelajaran mengenai robot manipulator dengan persamaan kinematika. Lengan robot ini dirancang dengan aspek kinematik menggunakan forward kinematics dan inverse kinematics dengan menunjukkan gerakan dari setiap DOF. Hardware dan software yang digunakan robot lengan adalah motor servo MG996R, accelerometer Adxl345, microcontroller Arduino Mega 2560 dan Processing (PC). Dari hasil pengujian saat servo belum terpasang pada robot lengan terdapat maksimum error pada masing-masing servo sebesar 2º dan nilai presentase error sebesar 1.27% untuk servo bagian base, 1.42% untuk bagian shoulder, dan 1.30% untuk bagian elbow. Sedangkan hasil saat servo telah terpasang pada robot lengan mendapatkan nilai presentase error sebesar 5.57% untuk servo bagian base, 1.52% untuk bagian shoulder, dan 1.72% untuk bagian elbow. Hasil dari pengujian data validasi persamaan inverse kinematics pada robot lengan mendapatkan nilai maksimum error sebesar 3º dan rata-rata presentase error diperoleh θ₁ sebesar 2.91%, θ₂ sebesar 1.15%, θ₃ sebesar 1.48%. Sedangkan pada persamaan forward kinematics diperoleh rata-rata presentase error pada koordinat posisi x sebesar 0.59%, y sebesar 4.37%, dan z sebesar 2.05%. Dari pengujian data yang telah dilakukan dapat disimpulkan bahwa robot lengan 3 DOF yang dibuat tidak akurat karena adanya perbedaan nilai posisi antara software dengan nilai posisi yang tedapat pada robot. Selain itu, karena adanya factor backlash pada servo yang mempengaruhi tingkat akurasi dari robot.",
+  "creators": "ABY CHRISTOVEN",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Handy Wicaksono (Examination Committee 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 2); Handry Khoswanto (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010978/ELK/2019; Aby Christoven (23412021)",
+  "subjects": "ROBOTS-MOTION; ROBOTS-DESIGN AND CONSTRUCTION; ACCELEROMETER"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "21247",
+  "title": "Rancangan keseimbangan lintasan untuk kelancaran produksi di PT. Andi Champion Muffler Industry",
+  "abstract": "PT. Andi Champion Muffler Industry adalah sebuah perusahaan yang memproduksi knalpot mobil dari berbagai macam merk. Adapun knalpot yang sedang diproduksi pada periode penelitian dilakukan adalah knalpot Mitsubishi Cold Diesel, Suzuki Carry Extra, Toyota Kijang Super, dan Daihatsu Zebra 13. Keseimbangan lintasan merupakan hal yang sangat penting dalam perencanaan hasil produksi. Apabila lintasan produksi tidak seimbang, maka target produksi yang hendak dicapai oleh perusahaan akan sulit tercapai. Perancangan keseimbangan lintasan produksi yang dilakukan dalam penelitian tugas akhir ini dimaksudkan untuk meminimalkan waktu menganggur (idle time) dari operator dan mengurangi terjadinya bottleneck. Untuk mengatasi masalah ini maka dibuatlah perancangan keseimbangan lintasan gabungan dengan menggabungkan precedence diagram dari keempat macam produk tersebut. Disini diambil waktu proses pengerjaan yang maksimum dari masing-masing produk, yang mana waktu proses pengerjaan yang maksimum ini dapat mewakili waktu dari masing-masing produk. Kemudian waktu siklus diambil yang paling minimum dari masing-masing produk, karena waktu siklus ini digunakan untuk memenuhi target produksi dari keempat macam produk. Perancangan keseimbangan lintasan produksi ini dilakukan dengan cara mengelompokkan operasi-operasi kerja ke dalam stasiun kerja dengan membandingkan output antara metode Helgeson-Birnie dengan metode COMSOAL. Disini dipilih output dengan efisiensi lintasan yang maksimum dan balance delay yang minimum. Hasil dari perancangan keseimbangan lintasan produksi dipilih dengan menggunakan metode Helgeson-Birnie maka diperoleh efisiensi lintasan sebesar 80,32% dan balance delay 19,68% dengan 11 stasiun kerja dan 12 orang operator.",
+  "creators": "DEVI ANGGRAINI",
+  "contributors": "Kristiana Asih Damayanti (Advisor 1); I Gede Agus Widyadana (Examination Committee 1); Indriati Njoto Bisono (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 474/TI-065/2001; Devi Anggraini (25496087)",
+  "subjects": "PRODUCTION PLANNING; MANUFACTURING PROCESS"
+}

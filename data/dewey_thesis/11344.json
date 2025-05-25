@@ -1,0 +1,14 @@
+{
+  "id": "11344",
+  "title": "Perencanaan dan pembuatan miniatur pengontrol berat beban untuk pengaturan jenis pengangkat beban yang menggunakan mikrokontroler 8031 dengan beban maksimum 5 Kg",
+  "abstract": "Perkembangan teknologi mikroelektronika yang sangat pesat banyak mempengaruhi kehidupan manusia di bumi ini. Memang tidak dapat disangkal lagi hampir setiap aspek kehidupan di abad ini diisi dengan peralatan-peralatan elektronika. Pada saat ini pemakaian alat angkat memiliki keterbatasan dalam mengangkat beban berat dan hal ini bila beban yang diangkat melebihi batas yang diijinkan dan berlangsung dalam jangka waktu yang lama akan mengakibatkan kerusakan pada alat angkat tersebut. Untuk mengatasi hal ini maka dibuat alat yang secara automatis dapat memilih motor untuk mengangkat beban berat tersebut. Perencanaan dan pembuatan alat pengontrol berat beban untuk pengaturan jenis pengangkat beban ini diharapkan dapat mengatasi permasalahan tersebut. Bila beban yang akan diangkat melampaui batas yang diijinkan maka secara automatis akan memilih motor pengangkat beban yang sesuai. Pembuatan alat dalam tugas akhir ini berbentuk simulasi yang diharapkan dapat direalisasikan dalam waktu mendatang. Pembuatan tugas akhir ini menggunakan mikrokontroler 8031 sebagai pengolah data utama, EPROM 2764 untuk menyimpan program pengontrol, Rangkaian penguat instrumentasi, rangkaian ADC untuk mengubah sinyal analog menjadi sinyal digital, rangkaian motor stepper, rangkaian sensor berat dan beberapa komponen pendukung lainnya. Penggunaan 2 buah transducer berguna untuk menambah sesitivitas serta penggunaan katrol bergerak memberikan keuntungan mekanis dan motor stepper yang mempunyai torsi besar akan mendukung pengontrolan berat beban sehingga memberikan kelinieran dan kestabilan yang cukup baik.",
+  "creators": "BAMBANG SESWANTO",
+  "contributors": "SOETIKNO (Examination Committee 1); NAWANTO WIBOWO (Advisor 1); HERLIANTO TENGGARA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/007/0210; Bambang Seswanto (23488030)",
+  "subjects": "CRANES DEVICLES, ETC-ELECTRIC EQUIPMENT; AUTOMATIC CONTROL; MICROCONTROLLER 8031"
+}

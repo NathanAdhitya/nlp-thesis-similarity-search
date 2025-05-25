@@ -1,0 +1,14 @@
+{
+  "id": "27786",
+  "title": "Perencanaan dan pembuatan multi channel data acquisition yang ditransmisikan secara serial (RS-232) ke IBM-PC",
+  "abstract": "Pengendalian peralatan jarak jauh dan terpadu sangat diperlukan bagi proses industri yang kompleks. Pada proses ini terdapat bagian pengambil data, pengolah data, dan pengendali peralatan yang dikendalikan suatu komputersentral. Alat yang dibuat akan mengimplementasikan bagianpengambil data dan pengolah data. Bagian pengambil data menerima input analog dari transduser,menguatkannya dan mengubahnya ke bentuk digital. Bagian pengolah data akan mengolah data yang diterima secara digital. Syarat utama untuk pengontrolan proses yang kontinyu adalah semua bagian harus mampu beroperasi secara realtime. Untuk itu perlu digunakan teknik-teknik khusus dalam perancangan hardware maupun software yang akan meminimalkan waktu yang diperlukan untuk proses di suatu bagian.",
+  "creators": "Hendro Koesoemo",
+  "contributors": "AGUS MULYANTO (Examination Committee 1); Rolly Intan (Advisor 2); HANDAYANI T. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/004/0161; Hendro Koesoemo (23486072)",
+  "subjects": "COMPUTER NETWORKS; ELECTRIC CONTROLLERS-COMPUTER PROGRAMS; MICROCONTROLLERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "19740",
+  "title": "Perancangan dan pembuatan perangkat lunak pengenalan huruf tulisan tangan dengan metode backpropagation",
+  "abstract": "Sekarang ini komputer merupakan bagian dari kehidupan manusia. Komputer dapat membantu manusia dalam memproses data menjadi suatu informasi. Akan tetapi manusia tidak dapat mengimbangi kecepatan pengolahan data pada komputer dengan memasukan data secara manual ke dalam komputer. Maka dari itu dibutuhkan suatu sistem yang dapat mengenali tulisan tangan. Pada skripsi ini, dibuat suatu aplikasi yang dapat mengenali tulisan tangan dengan menggunakan neural network metode backpropagation. Software yang digunakan pada untuk membuat aplikasi ini adalah Microsoft Visual C# 2008 Express Edition. Hasil pengujian menunjukan bahwa aplikasi pengenalan tulisan tangan dengan metode backpropagation dapat mengenali 97% untuk data yang dilatihkan, 36% untuk data yang tidak dilatihkan penulis berbeda, dan 40% untuk data yang tidak dilatihkan penulis sama.",
+  "creators": "SETIAWAN SANTOSO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Kartika Gunadi (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020971/INF/2010; Setiawan Santoso (26406058)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; NEURAL NETWORKS (COMPUTER SCIENCE); PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4239",
+  "title": "Perancangan dan pembuatan sistem informasi perencanaan pembelian bahan baku pada PT \"X\"",
+  "abstract": "Perusahaan X adalah sebuah perusahaan yang bergerak di bidang produksi bahan baku sabun dan shampoo. Perusahaan berproduksi secara berkala dan juga sesuai order dari customer. Sebelum melakukan produksi, perusahaan perlu menghitung bahan baku apa saja yang dibutuhkan sesuai yang diperlukan oleh produk yang akan di produksi dan melakukan pemesanan bahan baku apabila stok bahan baku yang dibutuhkan untuk produksi tidak mencukupi. Selama ini semua proses tersebut dilakukan secara manual dengan menggunakan bantuan aplikasi Microsoft Excel. Masalah yang sering terjadi adalah kesalahan perhitungan kebutuhan bahan baku, keterlambatan melakukan pemesanan bahan baku, kelebihan dalam pemesanan bahan baku, kekurangan dalam pemesanan bahan baku, terlambatnya pengiriman bahan baku. Untuk mengatasi masalah tersebut maka perusahaan membutuhkan sebuah aplikasi program yang mampu melakukan perencanaan pembelian kebutuhan bahan baku. Untuk membuat aplikasi program ini, dibutuhkan data produk, data bill of material dari produk, data hasil peramalan untuk produk make to stock, data customer, data supplier, aliran proses produksi serta lama proses produksi, proses pemenuhan order customer, proses penjadwalan produksi, dan proses penjadwalan pembelian bahan baku ke supplier dari perusahaan. Kemudian mendesain Entity Relationship Diagram (ERD) dan Data Flow Diagram (DFD) dari aliran proses perencanaan produksinya, setelah itu dibangunlah database dengan tabel-tabelnya. Software yang digunakan untuk membuat aplikasi program ini adalah Borland Delphi 7 dan untuk database-nya digunakan Microsoft Access XP. Aplikasi program ini dapat berjalan dengan baik, hasil yang peroleh sudah sesuai dengan yang dirancang dan laporan yang dihasilkan sudah sesuai dengan yang diinginkan. Fasilitas yang disediakan adalah : proses pengisian data pesanan/order, proses pengisian data hasil peramalan, proses perhitungan produksi, proses penjadwalan produksi, proses perhitungan kapasitas mesin, proses perhitungan kebutuhan bahan material, dan proses penjadwalan pembelian bahan material.",
+  "creators": "SIDHAYTA KURNIAWAN",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000281/INF/2004; Sidhayta Kurniawan (26400104)",
+  "subjects": "DATABASE DESIGN; INFORMATION RESOURCES MANAGEMENT; MANAGEMENT INFORMATION SYSTEMS; DATABASE MANAGEMENT-COMPUTER PROGRAMS"
+}

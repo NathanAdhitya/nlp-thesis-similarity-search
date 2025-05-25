@@ -1,0 +1,14 @@
+{
+  "id": "19439",
+  "title": "Perbandingan algoritma demosaicing dengan metode constant hue-based interpolation, bilinear interpolation, dan edge-sensing interpolation",
+  "abstract": "Kamera digital yang menggunakan single-chip dianggap lebih efisien dibandingkan menggunakan multi-chip. Karena kamera digital dengan single-chip menggunakan sebuah filter mosaik, maka gambar yang didapat hanya memiliki satu komponen warna pada setiap pixel. Untuk mengestimasi dua komponen warna lain yang hilang, hadirlah algoritma Demosaicing. Metode algoritma Demosaicing yang telah ditemukan sudah banyak. Pada skripsi ini, dibandingkan metode Bilinear Interpolation, Constant Hue-Based Interpolation, dan Edge-Sensing Interpolation. Dasar pemikiran Bilinear Interpolation adalah nilai antara suatu pixel dengan pixel tetangganya mirip. Dasar pemikiran Constant Hue-Based Interpolation adalah nilai hue antara suatu pixel dengan pixel lain tidak berbeda, karena itu hue perlu digunakan pada saat interpolasi. Dasar pemikiran Edge-Sensing Interpolation adalah pendeteksian tepi pada setiap pixel, dan interpolasi dilakukan bersama dengan edges. Proses-proses pada aplikasi ini adalah dimulai dengan membuat sebuah gambar bayer dari sebuah gambar asli, yang kemudian akan diinterpolasi dengan salah satu metode. Hasil dari setiap interpolasi dapat dibandingkan kualitasnya dengan menggunakan perhitungan peak signal-to-noise ratio. Ketiga metode ini masih memiliki kelemahan berupa artifact. Bilinear Interpolation sering menghasilkan artifact false color, excessive blurring, dan grid effect. Edge-Sensing Interpolation sering menghasilkan artifact false color dan excessive blurring. Constant Hue-Based Interpolation sering menghasilkan artifact false color dan grid effect.",
+  "creators": "STEPHEN YONGNARDI",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020893/INF/2010; Stephen Yongnardi (26406003)",
+  "subjects": "SOFTWARE ENGINEERING; PROGRAMMING (ELECTRONIC COMPUTERS); DIGITAL CAMERAS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "57804",
+  "title": "Sistem personalisasi gaya belajar berdasarkan segmentasi aktivitas mahasiswa di learning management system menggunakan felder silverman model dengan Decision Tree Dan Naïve Bayes",
+  "abstract": "Adanya cara belajar yang personal memudahkan peserta didik untuk belajar dengan gaya belajarnya masing-masing. Melalui penelitian ini diharapkan dapat menghasilkan sebuah sistem rekomendasi gaya belajar yang didapat dari proses aktivitas peserta didik yang dikerjakan dalam Learning Management System (LMS). Data yang digunakan merupakan log data yang didapat dari beberapa kelas di Perguruan Tinggi X. Kelas-kelas tersebut dipilih berdasarkan cukupnya variasi dari konten pembelajaran yang dilakukan dalam LMS. Data tersebut diproses dalam Felder-Silverman model yang menghasilkan gaya belajar yang personal yang kemudian juga diproses dengan menggunakan metode naive bayes dan decision tree. Data gaya belajar yang didapat kemudian dibandingkan dengan hasil index learning style. Dari data yang diuji dengan menggunakan dua metode yang berbeda, yaitu metode decision tree dan naive bayes, ditemukan bahwa metode decision tree menunjukkan hasil yang lebih stabil dibandingkan naive bayes dengan hasil persentase rata rata >90%.",
+  "creators": "BRYAN FERNANDO LIAUWAN",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Yulia (Advisor 2); Andreas Handojo (Examination Committee 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022297/INF/2023; Bryan Fernando Liauwan (C14190020)",
+  "subjects": "DATABASE MANAGEMENT; LEARNING--DATA PROCESSING; LEARNING--RESEARCH"
+}

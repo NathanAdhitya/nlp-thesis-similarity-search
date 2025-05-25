@@ -1,0 +1,14 @@
+{
+  "id": "10411",
+  "title": "Metoda sequencing untuk mereduksi make span dan mean flow time pada proses pemotongan bodi sepeda",
+  "abstract": "Pabrik sepeda yang dibahas dalam tugas akhir ini adalah perusahaan keluarga, dimana teknik-teknik riset operasional dalam sistim produksi belum diterapkan. Karena begitu besarnya permintaan pasar pada tahun-tahun terakhir ini maka perusahaan ini mengalami persoalan yang belum pernah didapat sebelumnya, yaitu : - target produksi tidak dapat dipenuhi dan - adanya kesulitan dalam melakukan pengawasan terhadap kemajuan pelaksanaan suatu order. Dalam tugas akhir ini, cara lama dalam perencanaan produksi (pemberian tugas pada tiap mesin) akan digantikan dengan tehnik modern, yaitu Sequencing dengan algoritma untuk mereduksi Makespan dan Mean Flow Time. Langkah-langkah yang dilakukan adalah : - pengambilan data waktu standart. - melakukan Sequencing dengan algoritma untuk mereduksi Makespan dan Mean Flow Time. - pembuatan software Sequencing dengan input berupa jumlah sepeda dan jenis sepeda yang akan diproduksi. Dengan diterapkannya Sequencing dengan algoritma ini dalam perencanaan produksi maka didapat hasil-hasil sebagai berikut : - perencanaan produksi menjadi lebih singkat dan mudah. - waktu total pengerjaan suatu order dapat direduksi yang berarti produktifitas meningkat. - mean flow time dapat direduksi yang berarti mengurangi in-process inventory. - perkiraan waktu penyelesaian suatu order lebih akurat yang berarti target produksi dapat dicapai. - pengawasan terhadap kemajuan pelaksanaan suatu order dapat lebih mudah dilakukan.",
+  "creators": "ERIFFIN GUNAWAN",
+  "contributors": "BOBBY O. P. SOEPANGKAT (Advisor and Examination Committee); PHILIP (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93.54.116; Eriffin Gunawan (24489010)",
+  "subjects": "PRODUCTION ENGINEERING; MACHINE-TOOLS; MANUFACTURING PROCESSES"
+}

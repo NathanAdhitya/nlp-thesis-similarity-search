@@ -1,0 +1,14 @@
+{
+  "id": "7386",
+  "title": "Perancangan dan pembuatan program digital image watermarking dengan discrete cosine transform menggunakan algoritma cox",
+  "abstract": "Dengan semakin populernya penggunaan internet maka semakin sulit mengawasi penyebaran karya-karya gambar digital. Hal ini disebabkan gambar digital dapat dengan mudah digandakan tanpa mengalami penurunan kualitas. Hal ini menimbulkan permasalahan di mana muncul kebutuhan untuk bagaimana membuktikan kepemilikan dari sebuah karya gambar digital. Pada pengerjaan tugas akhir ini akan dikembangkan program digital image watermarking dengan Discrete Cosine Transform (DCT) menggunakan algoritma Cox. Algoritma Cox dikenal juga dengan nama algoritma Spread Spectrum. Tujuan dari tugas akhir ini adalah menyisipkan informasi rahasia ke dalam gambar digital sehingga kepemilikan dari sebuah karya gambar digital dapat dibuktikan. Program digital image watermarking ini dibuat dengan menggunakan Borland Delphi 7.0. Berdasarkan hasil pengujian program, dapat disimpulkan bahwa algoritma Cox berhasil diimplementasikan dalam membuktikan kepemilikan sebuah karya gambar digital namun masih belum dapat dijadikan standar dan perlu pengembangan lebih lanjut. Walau demikian, algoritma ini telah memberikan gambaran tentang sebuah algoritma watermark yang invisible, robust, universal, dan dapat dengan jelas mengidentifikasikan pemilik dari sebuah karya gambar digital.",
+  "creators": "SUGIHONO TJANDRA",
+  "contributors": "Kartika Gunadi (Advisor 1); Resmana Lim (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000336/INF/2005; Sugihono Tjandra (26400003)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

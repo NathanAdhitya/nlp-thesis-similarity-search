@@ -1,0 +1,14 @@
+{
+  "id": "7524",
+  "title": "Perancangan dan pembuatan sistem informasi manajemen pengemudi pada perusahaan Taksi Silver",
+  "abstract": "PT. Para Bathara Surya merupakan perusahaan jasa angkutan taksi yang lebih dikenal dengan nama taksi Silver. Jumlah armada taksi yang dimilikinya sebanyak 600 unit taksi, dengan pengemudi sebanyak 1000 orang. Taksi Silver belum memiliki sistem database yang terintegrasi dengan baik, karena menggunakan format file yang berbeda-beda. Apabila eksekutif perusahaan meminta informasi pendapatan, maka dibutuhkan waktu lama untuk menyediakannya. Proses pembuatan program dimulai dari awal, yaitu analisis kegiatan pada perusahaan taksi Silver, kemudian penyusunan DFD, ERD, dan pembuatan tabel sampai pada pemrograman. Sistem komputerisasinya meliputi memasukkan data setoran harian, potongan, pembuatan laporan dan analisa pendapatan. Untuk pengamanan data, setiap pemakai diberi user, password, dan menu yang bisa diakses. Pembuatan database menggunakan Microsoft SQL Server 2000. Bahasa pemrograman yang digunakan adalah Borland Delphi 7.0. Pada sistem informasi manajemen pengemudi yang dibuat ini, bisa dilakukan proses penghitungan komisi pengemudi beserta potongannya, proses penjadwalan pengemudi, pencatatan komplain, dan analisa harian. Selain itu juga dapat menghasilkan laporan-laporan stock opname pengemudi, premi bulanan pengemudi dan laporan pendapatan harian.",
+  "creators": "ADHI PUJIANTO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Alexander Setiawan (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000427/INF/2005; Adhi Pujianto (26401034)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

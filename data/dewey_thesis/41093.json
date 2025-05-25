@@ -1,0 +1,14 @@
+{
+  "id": "41093",
+  "title": "Perancangan aplikasi sistem informasi administrasi pada Toko Gloria Comp",
+  "abstract": "Toko Gloria Comp merupakan sebuat toko yang menjual berbagai macam aksesoris laptop atau komputer. Toko Gloria Comp belum memiliki sistem administrasi sehingga untuk pencatatan data yang dicatat di toko Gloria Comp sering mendapat ketidaksamaan seperti data barang jumlahnya tidak cocok dengan kenyataan dengan yang dicatat, dan laba rugi juga tidak balance. Oleh karena itu diperlukanlah sistem administrasi yang mudah digunakan dan membatu segala pencatatan dengan benar. Proses perancangan sistem administrasi dilakukan dengan 2 tahap melakukan survei dan analisa kebutuhan, tahap kedua melakukan pembuatan Data Flow Diagram dan perancangan Entity Relationship Diagram, kemudian melakukan pembuatan database. Proses pembuatan program menggunakan bahasa pemograman PHP, database yang digunakan adalah MySQL dan untuk perhitungan administrasi dilakukan dengan metode FIFO. Berdasarkan hasil yang diperoleh dari pengujian, sistem administrasi yang dibuat dapat melakukan penyimpanan data barang, data pembelian, data penjualan, data absensi dan data penggajian dan untuk perhitungan laba rugi dan kartu stok berdasarkan dari data penjualan dan pembelian menampilkan hasil dengan metode FIFO.",
+  "creators": "RENDY HARDIAWAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021724/INF/2017; Rendy Hardiawan (26412148)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

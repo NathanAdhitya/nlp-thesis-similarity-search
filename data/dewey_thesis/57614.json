@@ -1,0 +1,14 @@
+{
+  "id": "57614",
+  "title": "Perancangan dan simulasi sistem automasi serta monitoring kumbung jamur di Alam Sari Petra Surabaya",
+  "abstract": "Urban farming adalah kegiatan bercocok tanam atau beternak secara mandiri di wilayah perkotaan dengan memanfaatkan lahan yang terbatas atau kosong. Urban Farming Alam Sari Petra di pusat kota Surabaya bertujuan untuk mendidik pendidik dan peserta didik tentang pertanian perkotaan dan tanaman organik. Salah satu kegiatan yang dilakukan adalah budidaya jamur tiram. Namun, pengoperasian manual sistem penyiram di kumbung jamur menyebabkan kelembaban yang tidak terkontrol dan pertumbuhan jamur yang tidak optimal. Untuk mengatasi hal ini, diusulkan sebuah sistem pengatur kelembaban menggunakan kontroler PID. Permasalahan penelitian ini difokuskan pada bagaimana mempertahankan kelembaban pada tingkat tertentu selama masa inkubasi dan masa panen di kumbung jamur. Sistem pengendalian sprinkler berbasis kontroler PID akan menjaga tingkat kelembaban yang diinginkan dengan mengubah keluaran menjadi sinyal On & Off proporsional untuk mengaktifkan pompa penyiram. Tahap pengujian meliputi respons sensor, pengujian kontroler PID, integrasi MQTT, pengujian aplikasi dashboard sistem, dan pengujian API. Pengujian ini bertujuan untuk mengevaluasi kinerja sistem, pencatatan data, komunikasi, dan keamanan protokol MQTT. Hasil pengujian menunjukkan bahwa kontroler PID (dengan parameter pid kp = 10, ki = 0.1, kd = 1) mampu mengontrol dan mempertahankan kelembaban sesuai dengan set point, meskipun terdapat gangguan eksternal.",
+  "creators": "SIH KAWURYAN YULIANES KUFA",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Handy Wicaksono (Examination Committee 1); Handry Khoswanto (Examination Committee 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010151/ELK/2023; Sih Kawuryan Yulianes Kufa (C11180002)",
+  "subjects": "HUMIDITY--CONTROL; OYSTER MUSHROOM; URBAN FARMING; INTERNET OF THINGS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10872",
+  "title": "Peramalan data penjualan PT. X menggunakan metode dynamic forecasting",
+  "abstract": "Peramalan adalah proses untuk membuat suatu prediksi pada masa yang akan datang. Ada berbagai macam metode peramalan yang telah dikembangkan. Tugas Akhir ini secara khusus akan membahas metode peramalan Dynamic Linear Model. Data yang digunakan adalah data penjualan rokok PT. X. Dalam metode Dynamic Linear Model ini diperlukan sekurang-kurangnya dua data, yakni data independen dan data dependen. Dynamic Linear Model ini memiliki perbedaan dengan metode linear biasa, di mana setiap parameter pada dynamic linear model berubah-ubah setiap waktu, sedangkan pada metode linear biasa, parameternya tidak berubah / tetap sepanjang waktu. Selain itu, pada Dynamic Linear Model, hasil peramalan akan selalu dilakukan updating, dan pemulusan. Sehingga hasil peramalan dengan metode Dynamic Linear Model memberikan error yang lebih kecil dibandingkan metode linear biasa. Saat ini PT. X menggunakan metode peramalan ARIMA. Selisih yang dihasilkan dari permalan tersebut mengakibatkan kerugian yang cukup besar, sehingga PT. X merasa diperlukan metode lain yang lebih sesuai dan menghasilkan selisih atau error yang lebih kecil sehingga memperkecil kerugian yang diakibatkan oleh kesalahan peramalan. Tujuan dari penulisan Tugas Akhir ini adalah untuk membantu pihak manajemen PT. X dalam meramalkan data permintaan rokok pada masa yang akan datang menggunakan metode ARCH(l), GARCH(1,1) dan Dynamic Linear Model. Analisa dari Tugas Akhir ini adalah perbandingan antara hasil peramalan menggunakan metode ARCH(l), GARCH(1,1) dengan hasil peramalan menggunakan metode ARIMA; dan perbandingan antara hasil peramalan menggunakan metode Dynamic Linear Model dengan hasil peramalan menggunakan metode Linear biasa.",
+  "creators": "LINGKE",
+  "contributors": "Siana Halim (Advisor 1); Indriati Njoto Bisono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 400/TI-127/2000; Lingke (25497055)",
+  "subjects": "SALES FORECASTING-MATHEMATICAL MODELS"
+}

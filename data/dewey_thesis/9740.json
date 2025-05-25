@@ -1,0 +1,14 @@
+{
+  "id": "9740",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada UD. Sumber Hoki berbasis web",
+  "abstract": "UD. Sumber Hoki adalah perusahaan yang bergerak di bidang minuman rasa buah. Proses administrasi perusahaan tersebut masih dilakukan secara manual, sehingga terjadi kesulitan dalam proses administrasi dalam perusahaan tersebut. Oleh karena itu, dibutuhkan suatu sistem yang terkomputerisasi untuk memudahkan melakukan proses administrasi pada perusahaan tersebut. Dalam perancangan aliran data menggunakan Data Flow Diagram. Sedangkan untuk membuat desain struktur tabel dan relasi antar tabel menggunakan Entity Relationship Diagram. Database dibuat dengan menggunakan MySQL. Aplikasi dibuat dan dikembangkan dengan menggunakan bahasa pemrograman php. Program yang dibuat meliputi sistem pembelian, sistem penjualan,sistem produksi, dan sistem penggajian. Dari hasil pengujian terhadap program, menunjukkan bahwa program ini dapat memproses penjualan, pembelian, produksi dan menampilkan laporan-laporan yang dibutuhkan, seperti laporan penjualan, laporan penjualan sales, laporan pembelian, laporan produksi, laporan hutang, laporan piutang, laporan penggajian, laporan laba-rugi kotor.",
+  "creators": "BENNY NURDI",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010712/INF/2008; Benny Nurdi (26403121)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

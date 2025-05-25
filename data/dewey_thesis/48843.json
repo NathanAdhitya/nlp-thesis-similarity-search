@@ -1,0 +1,14 @@
+{
+  "id": "48843",
+  "title": "Sistem presensi mahasiswa berbasis RFID dan QR Code menggunakan Raspberry Pi",
+  "abstract": "Pengerjaan tugas akhir ini bertujuan untuk membuat alat yang mempermudah proses presensi mahasiswa yang masih dilakukan dengan metode konvensional, dimana pengajar masih harus memanggil nama mahasiswa satu per satu dan juga harus memasukkan data presensi secara manual. Oleh karena itu, dibuatlah alat presensi yang menggunakan RFID dan juga QR Code untuk mempermudah proses presensi yang konvensional. Alat presensi ini nantinya dapat bekerja dalam 2 kondisi, yaitu ketika terhubung dengan server pusat, dan dalam keadaan tidak terhubung dengan server sama sekali. Selain itu, disediakan juga fasilitas agar mahasiswa dapat melihat hasil presensi yang telah dilakukan. Pengerjaan tugas akhir ini menghasilkan alat presensi yang mengambil data menggunakan QR Code dan juga RFID secara bersamaan, dan dapat digunakan baik dalam keadaan terhubung ataupun tidak terhubung dengan server pusat.",
+  "creators": "ADITYA LYMANYADA",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Indar Sugiarto (Examination Committee 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 2); Felix Pasila (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011006/ELK/2020; Aditya Lymanyada (23416008)",
+  "subjects": "QR CODE--TECHNOLOGICAL INNOVATIONS; RADIO FREQUENCY IDENTIFICATION SYSTEMS--TECHNOLOGICAL INNOVATIONS; RASPBERRY PI (COMPUTER)--PROGRAMMING"
+}

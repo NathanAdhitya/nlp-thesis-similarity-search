@@ -1,0 +1,14 @@
+{
+  "id": "57301",
+  "title": "Pendeteksi kecacatan produk tisu kemasan menggunakan beberapa kamera RGB dengan algoritma deep learning",
+  "abstract": "Kecacatan pada suatu produk dalam sistem manufaktur dapatlah terjadi meskipun produk tersebut dikerjakan oleh mesin. Artificial Intelligence telah diaplikasikan diberbagai segi kehidupan diantaranya pada sistem manufaktur. Dengan Deep Learning mesin dapat berpikir selayaknya memiliki sebuah jaringan otak yang disebut sebagai Neural Network untuk dapat mempelajari dan mendeteksi sebuah fitur. Proyek ini menggunakan 2 Seeed Studio reComputer J1010 dengan modul Nvidia Jetson Nano 4GB sebagai microprocessor, 2 kamera RGB NYK Nemesis A90 Everest, dan YOLOv4-Tiny sebagai algoritma Deep Learning. Terdapat 2 sisi produk tisu kemasan yang dideteksi dengan satu pendeteksi pada setiap sisi. Hasil deteksi kedua pendeteksi akan dikirimkan ke broker menggunakan protokol MQTT. Berdasarkan hasil pengujian, pendeteksi telah berhasil melakukan kelas deteksi Tear (Sobek), Shifted (label kurang rapi), Wrinkled (berkerut), dan Flawless (tanpa cacat). Nilai confidence threshold yang dipakai ialah 0.5 untuk pendeteksi bagian atas dengan nilai precision 0.91, nilai recall 0.76, dan F1 – score 0.82 dan 0.65 untuk pendeteksi bagian samping dengan nilai precision 0.93, nilai recall 0.77, dan F1 – score 0.84. Jarak optimal antar produk ialah minimal 25 cm. Kecepatan efektif ialah 800 rpm. Kedua pendeteksi berhasil melakukan komunikasi melalui protokol MQTT dengan broker.",
+  "creators": "YOSHUA KALEB PURWANTO",
+  "contributors": "Handy Wicaksono (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Thiang (Examination Committee 1); Resmana Lim (Examination Committee 2); Felix Pasila (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011055/ELK/2023; Yoshua Kaleb Purwanto (C11190019)",
+  "subjects": "ALGORITHMS; DEEP LEARNING (MACHINE LEARNING); ARTIFICIAL INTELLIGENCE"
+}

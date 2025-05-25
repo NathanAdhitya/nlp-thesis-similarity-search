@@ -1,0 +1,14 @@
+{
+  "id": "46333",
+  "title": "Implementasi convolutional neural network untuk mengetahui buah tomat yang matang pada pohon tomat menggunakan perangkat Android",
+  "abstract": "Perkembangan jaman yang serba instan sekarang ini membuat manusia ingin sesuatu yang cepat dan efisien. Seperti yang kita ketahui memetik buah tomat yang matang pada pohonnya memerlukan waktu yang lama apabila dilakukan oleh manusia. Untuk menyelesaikan permasalahan tersebut, digunakan robot otomatis yang dapat mengganti peran manusia. Untuk mendapatkan robot otomatis yang sukses diperlukan pembuatan fungsi algoritma (program) yang efisien. Program yang akan dibuat dapat dijalankan pada perangkat android. Metode yang digunakan adalah Blob Detection pada Computer Vision, hasilnya akan diolah oleh metode Convolutional Neural Network untuk mengetahui apakah objek tersebut buah yang matang atau benda lainnya. Blob Detection digunakan untuk mendeteksi objek tomat berdasarkan mask yang diperoleh sebelumnya. Sebelum melakukan training, diperlukan pembuatan model yang berisikan layer convolutional, layer max polling, layer flatten, layer dropout, dan layer dense. Pengujian dilakukan dengan studi skenario dan beberapa kasus misalnya buah tomat bergerombol, buah tomat yang terpencar-pencar, buah tomat yang mask nya tidak berbentuk lonjong, dan sebagainya. Hasil pengujian menunjukkan bahwa hasil dari CNN sangat bergantung pada hasil dari Blob Detection dikarenakan input dari CNN merupakan hasil dari Blob Detection. Apabila Blob Detection gagal mendapatkan objek tomat, maka CNN tidak akan berjalan. Hasil pengujian menunjukkan bahwa Blob Detection akan gagal mendeteksi objek tomat apabila tomat terhalang oleh benda lain yang mengakibatkan bentuk mask dari objek tersebut menjadi kacau. Hasil pengujian dari CNN juga menunjukkan nilai akurasi dari training sebesar 96% dan akurasi testing sebesar 93%.",
+  "creators": "TIMOTHY CHRISTIAN YUNANTO",
+  "contributors": "Kartika Gunadi (Advisor 1); Andreas Handojo (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2); ANITA NATHANIA PURBOWO (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021958/INF/2020; Timothy Christian Yunanto (26416014)",
+  "subjects": "NEURAL NETWORK (COMPUTER SCIENCE); ANDROID (ELECTRONIC RESOURCE)--PROGRAMMING; COMPUTER PROGRAMMING"
+}

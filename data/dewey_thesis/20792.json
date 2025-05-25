@@ -1,0 +1,14 @@
+{
+  "id": "20792",
+  "title": "Aplikasi MCS-51 untuk pencatatan waktu dan biaya pada usaha penyewaan playstation",
+  "abstract": "Suatu persewaan permainan Playstation yang pada umumnya hanya menggunakan perhitungan dan perkiraan secara manual dapat menyebabkan kesalahan yang tidak perlu sehingga dapat menyebabkan ketidakpuasan pengguna ataupun dapat menyebabkan kerugian pada pemilik persewaan karena dengan adanya selisih perhitungan secara manual. Maka diperlukan solusi yang efektif dan efisien. Dalam tugas akhir ini, permasalahan tersebut diperlukan suatu perangkat yang dapat menghitung dan mencatat data pemakaian secara elektronis. Sistem yang tepat untuk hal tersebut adalah dengan menggunakan bantuan mikrokontroller keluarga MCS-51. Fungsi tersebut diaplikasikan pada perangkat keras maupun perangkat lunaknya. Perangkat keras meliputi modul utama sebagai penerima data dan menampilkan jumlah waktu yang terpakai beserta biayanya pada display LCD. Sedangkan slave modul berfungsi sebagai penghitung waktu, menampilkan waktu yang terpakai pada pengguna serta mengirimkan data pemakaian waktu ke modul utama. Sedangkan interface yang menghubungkan modul utama dengan slave modul menggunakan bantuan RS485. Sedangkan perangkat lunak berfungsi mengolah data waktu yang terpakai agar dapat ditampilkan secara informatif dan akurat. Dari sistem yang dirancang, dapat diperoleh hasil bahwa diperlukan perbaikan respon fungsi keypad sebagai masukan pada modul utama pada perangkat lunak agar sesuai dengan yang diinginkan. Begitu pula kekurangan pada pemakai untuk mematikan sendiri slave modul juga diperlukan perbaikan pada software slave modul.",
+  "creators": "RIYONO SULAKSONO",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/002/516; Riyono Sulaksono (23493118)",
+  "subjects": "COMPUTERS; MCS-51 (MICROCONTROLLER)"
+}

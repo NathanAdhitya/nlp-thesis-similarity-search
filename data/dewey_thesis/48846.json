@@ -1,0 +1,14 @@
+{
+  "id": "48846",
+  "title": "Analisa kinerja generator residensial 50hz, 220v, 750w",
+  "abstract": "Listrik sudah menjadi satu kebutuhan yang tidak dapat dipisahkan dari kehidupan manusia jaman sekarang, termasuk di Indonesia. Namun, akan ada saatnya dimana terjadi suatu masalah dalam sistem distribusi, sehingga menyebabkan pasokan listrik ke suatu daerah atau lebih terhenti sementara. Salah satu alternatif untuk penanggulangan ketiadaan pasokan daya listrik ini adalah menggunakan sebuah perangkat Engine-Generator Set, atau yang lebih dikenal sebagai genset. Salah satu lokasi pemakaian genset ini adalah di area perumahan atau residential. Dengan asumsi bahwa genset diperlukan untuk menjalankan semua beban listrik di suatu rumah, maka pengaruh yang dihasilkan oleh beban listrik rumah akan beragam tergantung dari jenis beban yang terdapat pada rumah tersebut. Pengambilan data dilakukan dengan menggunakan Power Harmonics Analyzer Fluke 41B dan Rangkaian sensor Data Logger yang dipasang di Alat Simulasi Plan Rumah Tinggal, Laboratoium Sistem Tenaga Listrik, Universitas Kristen Petra. Alat simulasi ini diberi beban total 750W agar sama dengan kapasitas Genset 1 fasa yang diujikan (simulasi beban penuh). Dari hasil penelitian diketahui bahwa dalam kondisi dibebani penuh, Genset dapat digunakan untuk menyalakan beban-beban rumah tangga dan memiliki karakteristik sebagai berikut : • Faktor Daya (Pf) : 0.96 • VTHD : 2,94% • ITHD : 2.78% Genset juga memiliki tingkat gangguan minimal, tetapi kinerjanya akan menurun bila digunakan dalam waktu lama dengan drop tegangan maksimum 2,51% dalam kondisi over current.",
+  "creators": "FERDINAND GUNAWAN",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Emmy Hosea (Advisor 2); Julius Sentosa Setiadji (Examination Committee 1); Thiang (Examination Committee 2); Heri Saptono Warpindyasmoro (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010666/ELK/2020; Ferdinand Gunawan (23415032)",
+  "subjects": "ELECTRIC GENERATORS; ELECTRIC POWER CONSUMPTION; ELECTRIC UTILITIES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "46598",
+  "title": "Sistem pengaturan charging baterai menggunakan pulse-width modulation",
+  "abstract": "Baterai adalah penyimpan daya yang perlu untuk diisi ulang. Terdapat berbagai macam metode pengisian baterai yang dikembangkan seperti slow charge dan fast charge. Slow charge membuat pengisian baterai terlalu lama, sedangkan fast charge dengan mensuplai arus ataupun tegangan konstan dapat merusak baterai. Pada tugas akhir ini akan dibuat sistem PWM untuk mengatasi kelemahan tersebut. Sistem ini terdiri dari pembangkit gelombang PWM, sumber arus, dan driver. Pada sistem ini, baterai diisi menggunakan arus yang tetap. Output dari sumber arus ini dikendalikan oleh driver yang menerima sinyal dari pembangkit gelombang PWM yang dapat diatur frekuensinya. Berdasarkan pengujian sistem dapat melakukan pengisian daya pada baterai lithium-ion dengan kapasitas 4000mAh dari 0% hingga 70% dalam waktu 1 jam. Selain itu, pengisian dengan metode ini tidak membuat baterai panas melebihi batas, sehingga pengisian ini tidak merusak baterai.",
+  "creators": "JOSHUA INDRAWAN SUSANTO",
+  "contributors": "Felix Pasila (Advisor 1); Thiang (Examination Committee 1); Indar Sugiarto (Examination Committee 2); Handry Khoswanto (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010980/ELK/2020; Joshua Indrawan Susanto (23415006)",
+  "subjects": "PULSE-DURATION MODULATION; BATTERY CHARGERS"
+}

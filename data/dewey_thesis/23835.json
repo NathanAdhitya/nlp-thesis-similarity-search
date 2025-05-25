@@ -1,0 +1,14 @@
+{
+  "id": "23835",
+  "title": "Perencanaan dan pembuatan automatic rice cooker controller dengan menggunakan 8052 basic microcontroller",
+  "abstract": "Dengan melihat perkembangan yang pesat dalam teknologi dimana semakin dibutuhkannya segala fasilitas untuk mempermudah aktifitas sehari-hari maka rice cooker yang merupakan salah satu sarana kemudahan tersebut akan diperlengkapi dengan option menu atau kemampuan untuk mengatur keras lunaknya nasi dengan pengisi air secara otomatis, serta kemampuan untuk memasak bubur. Untuk mengendalikan sistem ini digunakan suatu Untuk mengendalikan sistem ini digunakan suatu BASIC komputer dengan mikrokontroler 8052-AH BASIC dari keluarga MCS-51. Dimana BASIC komputer ini tidak memiliki keyboard dan layar monitor sendiri, karena itu maka fungsi komunikasinya dapat dilakukan melalui suatu terminal atau suatu personal computer secara eksternal yang dihubungkan ke BASIC komputer secara bidirectional, melalui serial I/O port. Jika program kontrol sudah dapat berjalan dan berfungsi dengan baik maka ekternal terminal tersebut sudah tidak diperlukan lagi dimana BASIC Computer dapat berdiri sendiri sebagai kontroler. Interface board sistem rice cooker berguna untuk melakukan fungsi signal conditioning dari sensor, pengkonversian signal tersebut, pengaturan serta pengolahan output lain yang mendukung terwujudnya sistem untuk rice cooker ini. Secara keseluruhan sistem ini merupakan sistem yang cukup baik dalam pemanfaatannya, dimana fungsi-fungsinya dapat diganti ataupun ditambah dengan cara mengganti atau menambah program kontrolnya melalui BASIC computer. Sistem ini telah diuji keandalannya untuk berbagai fungsi-fungsi yang telah direncanakan dan telah terbukti dapat beroperasi dengan baik.",
+  "creators": "SYAMSIR",
+  "contributors": "NAWANTO WIBOWO (Advisor 1); IRWAN SAHLI (Advisor 2); HANDAYANI T. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/017/0138; Syamsir (23488006)",
+  "subjects": "AUTOMATIC CONTROL; MICROCONTROLLER 8052; AUTOMATION"
+}

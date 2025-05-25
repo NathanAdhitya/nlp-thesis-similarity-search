@@ -1,0 +1,14 @@
+{
+  "id": "33750",
+  "title": "Perencanaan enterprise architecture pada perusahaan personal care PT X",
+  "abstract": "PT X merupakan perusahaan yang bergerak di bidang manufaktur produk personal care. Untuk mendukung proses bisnisnya, PT X sudah menggunakan sistem informasi berupa aplikasi produksi. Sebagian kecil proses bisnis di PT X ini masih menggunakan sistem informasi yang pencatatannya dilakukan secara manual. Pada skripsi ini dilakukan analisa dan pembuatan desain sistem informasi enterprise architecture bagi perusahan untuk mendukung proses bisnisnya dengan menggunakan framework Enterprise Architecture Planning. Langkah pertama yang dilakukan adalah menganalisa model bisnis dan strategi bisnis perusahaan. Langkah kedua adalah mengamati bagaimana keadaan information technology di perusahaan saat ini dan permasalahan apa saja yang dihadapi serta kebutuhan information technology di masa depan. Langkah yang ketiga adalah dilakukan pembuatan desain arsitektur data, arsitektur aplikasi dan arsitektur teknologi yang sesuai dengan tujuan, strategi bisnis dan proses bisnis perusahaan. Arsitektur Data yang dihasilkan untuk perusahaan terdiri dari beberapa sub sistem yaitu Sub Sistem Gudang Bahan Baku dan Produksi, Sub Sistem Gudang Barang, Sub Sistem Penjualan, Sub Sistem Pembelian, Sub Sistem Penjualan, Sub Sistem Accounting, Sub Sistem Personalia. Arsitektur Aplikasi terdiri dari beberapa aplikasi utama dan aplikasi pendukung. Aplikasi utama terdiri dari Sistem Informasi Gudang Bahan dan Produksi, Sistem Informasi Gudang Barang, Sistem Informasi Pembelian, Sistem Informasi Penjualan, Sistem Informasi Accounting, Sistem Informasi Personalia dan OLAP Warehouse. Platform aplikasi yang digunakan adalah aplikasi berbasis web. Aplikasi pendukung yang digunakan adalah aplikasi Data Provider yang di mana aplikasi tersebut membantu aplikasi utama didalam berkomunikasi dengan aplikasi lain untuk proses permintaan data. Arsitektur Tekonologi yang digunakan adalah Client/Server, Message Bus dan Service Oriented Architecture.",
+  "creators": "STANLEY UTOMO LESMONO",
+  "contributors": "Alexander Setiawan (Advisor 1); Ibnu Gunawan (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021380/INF/2015; Stanley Utomo Lesmono (26411006)",
+  "subjects": "INFORMATION TECHNOLOGY; BALANCED SCORECARD"
+}

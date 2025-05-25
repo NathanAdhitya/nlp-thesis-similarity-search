@@ -1,0 +1,14 @@
+{
+  "id": "5188",
+  "title": "Alat pendeteksi gas buang kendaraan bermotor",
+  "abstract": "Polusi udara adalah salah satu masalah yang sangat meresahkan masyarakat. Penyumbang terbesar dari polusi udara adalah asap kendaraan bermotor. Untuk mengetahui seberapa tingkat emisi gas buang kendaraan bermotor diperlukan suatu alat uji emisi. Alat uji emisi yang ada sekarang ini biasanya bentuknya besar dan harganya mahal. Maka timbul ide untuk membuat alat pendeteksi gas buang kendaraan bermotor yang kompak dan murah. Tugas akhir ini menggunakan sensor gas TGS 2201 sebagai sensor utama dalam mengenali gas buang kendaraan bermotor baik mesin bensin maupun mesin diesel. Perubahan resistansi yang terjadi pada sensor akan dirubah oleh rangkaian monostable menjadi lebar pulsa. Besarnya lebar pulsa ini akan dihitung oleh mikrokontroler AT89C51 dan diolah menjadi bentuk kode ASCII. Selajutnya data ini akan ditampilkan pada LCD (Liquid Crystal Display). Data yang ditampilkan berupa kategori emisi gas buang dari tingkat sangat baik sampai sangat buruk. Sebagai referensi kategori baik untuk emisi mesin bensin digunakan mobil BMW 318i terbaru. Sedangkan referensi kategori sedang untuk emisi mesin diesel digunakan mobil Mitsubishi Kuda Diesel yang telah beroperasi selama 3 tahun. Alat ini telah diuji coba untuk mengukur emisi berbagai jenis kendaraan 4-Tak dan dapat dipakai untuk panduan kelayakan kendaraan bermotor terhadap emisi gas buang.",
+  "creators": "TOMIN HIDAYAT",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/645/ELK/2003; Tomin Hidayat (23499001)",
+  "subjects": "AUTOMOBILES-POLLUTION CONTROL DEVICES; MOTOR VEHICLES--POLLUTION CONTROL DEVICES"
+}

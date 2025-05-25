@@ -1,0 +1,14 @@
+{
+  "id": "11102",
+  "title": "Perancangan dan pembuatan sistem informasi manajemen fakultas teknologi industri berbasis web dengan content management system",
+  "abstract": "Aplikasi perancangan dan pembuatan Sistem Manajemen Notulen berbasis web Fakultas Teknologi Industri Universitas Kristen Petra telah dibuat dalam proyek tugas akhir oleh saudara Liman Sidarta NRP 26403129. Tugas Akhir tersebut memungkinkan untuk melakukan manajemen terhadap hasil notulen rapat yang diadakan Fakultas Teknologi Industri Universitas Kristen Petra.. Namun aplikasi tersebut belum menggunakan Content Management System (CMS) untuk mempermudah pengubahan isi halaman website dan juga belum menyediakan fasilitas untuk manajemen administrasi kegiatan yang ada di fakultas. Karena itu penulis berusaha untuk mengatasi permasalahan yang terjadi dengan merancang Sistem Informasi Manajemen Fakultas Teknologi Industri berbasis web dengan Content Management System. Sistem yang telah dibuat menggunakan database SQL Server 2005, Apache 2.2 web server, dan PHP 5.26. Dengan adanya aplikasi ini diharapkan dapat mengatasi kekurangan yang ada pada aplikasi terdahulu khususnya di dalam kemudahan pengubahan isi halaman website secara dinamis. Pembuatan aplikasi ini dimulai dengan wawancara dengan pimpinan fakultas, mempelajari sistem yang lama, perencanaan dan pembuatan aplikasi kemudian pengujian aplikasi. Hasil dari pembuatan Tugas Akhir ini berupa aplikasi website yang bersifat dinamis di dalam pengubahan isi halaman website. Aplikasi juga dilengkapi dengan beberapa fasilitas untuk menunjang kegiatan administrasi di fakultas selain fungsi utama sebagai manajemen notulen rapat. Berdasarkan hasil penelitian yang dilakukan diperoleh kesimpulan bahwa 71,6% aplikasi berjalan dengan baik.",
+  "creators": "RUDDY WIJAYA",
+  "contributors": "Rolly Intan (Advisor 1); Leo Willyanto Santoso (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010743/INF/2008; Ruddy Wijaya (26404092)",
+  "subjects": "WEB SITES-DESIGN; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

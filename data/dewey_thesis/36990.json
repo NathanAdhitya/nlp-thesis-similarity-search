@@ -1,0 +1,14 @@
+{
+  "id": "36990",
+  "title": "Real-Time Action Role-Playing Game dengan menggunakan fuzzy state automata untuk mengontrol pergerakan enemy",
+  "abstract": "Video Game merupakan cara yang baik bagi seseorang untuk menghilangkan stres dan menikmati waktu luang. Sebagian besar dari video game yang beredar saat ini dapat dimainkan dengan seorang diri. Tetapi, seringkali ketika bermain video game seorang diri, orang cepat merasa bosan karena musuh dalam permainan bergerak dengan sangat konstan. Untuk mengatasi hal tersebut, dalam skripsi ini dibuat game dimana musuh dalam permainan tersebut bergerak secara yang tidak mudah untuk diprediksi. Genre dari permainan yang dibuat adalah Action Role-Playing Game (ARPG). Artificial Intelligence (AI) yang dibuat akan menggunakan metode Fuzzy State Automata. Dengan adanya Fuzzy State Automata tersebut, musuh dalam permainan dapat memilih gerakan apa yang akan dilakukan yang sesuai dengan fuzzy set input yang ada. Durasi dari gerakan pada fuzzy state automata tersebut juga bersifat tidak konstan, sehingga menambah kesulitan untuk melakukan prediksi terhadap gerakan musuh. Melalui hasil pengujian yang dilakukan, Fuzzy State Automata tersebut berhasil melakukan gerakan yang sesuai dengan situasinya. Fuzzy State Automata tersebut juga sukses menggunakan kelebihannya dalam durasi state yang tidak konstan untuk membuat gerakan enemy lebih susah diprediksi.",
+  "creators": "GARY NATHANAEL MARDIANTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Rolly Intan (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021566/INF/2016; Gary Nathanael Mardianto (26412070)",
+  "subjects": "VIDEO GAMES-PROGRAMMING; ARTIFICIAL INTELLIGENCE; VIDEO GAMES-DESIGN; VIDEO GAMES"
+}

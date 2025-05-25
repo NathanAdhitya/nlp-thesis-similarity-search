@@ -1,0 +1,14 @@
+{
+  "id": "57138",
+  "title": "Optimalisasi interactive connectivity establishment untuk multiplayer online peer-to-peer pada aplikasi metaverse",
+  "abstract": "Dalam bermain multiplayer online games (MOGs), latency yang rendah menjadi kunci penting untuk menjaga kualitas dan kepuasan pemain. Selain itu, pemakaian Virtual Reality (VR) dan metaverse dalam MOGs telah menjadi tren utama dalam pengembangan game, namun membutuhkan komponen yang lebih kompleks dan pengiriman data yang lebih banyak. Oleh karena itu, penelitian ini bertujuan untuk mengeksplorasi potensi penerapan ICE pada MOGs dengan fokus pada game VR berbasis metaverse. Skripsi ini bertujuan untuk mengimplementasikan metode Interactive Connectivity Establishment yang biasa digunakan untuk platform web (WebRTC) ke dalam aplikasi metaverse pada Unreal Engine. Implementasi ini akan diuji dalam hal pengukuran latency, dan berbagai optimalisasi seperti pengurangan data dan pengurangan frekuensi pengiriman data akan dieksplorasi untuk mencapai latency yang terbaik. Hasil pengujian menunjukkan bahwa metode Interactive Connectivity Establishment ini memberikan hasil latency yang cukup rendah dan baik. Hasil latency yang dihasilkan rata-rata tidak melebihi 500ms. Selain itu optimalisasi juga ternyata cukup berpengaruh pada rata-rata latency yang dihasilkan oleh metode Interactive Connectivity Establishment khususnya pada game Unreal Engine.",
+  "creators": "JOHANSEN JUNIAS SUTANTO",
+  "contributors": "Liliana (Advisor 1); Justinus Andjarwirawan (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022306/INF/2023; Johansen Junias Sutanto (C14190114)",
+  "subjects": "VIRTUAL REALITY; GAMES; METAVERSE"
+}

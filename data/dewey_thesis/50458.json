@@ -1,0 +1,14 @@
+{
+  "id": "50458",
+  "title": "Perancangan dan pembuatan mekanisme sistem pembukaan bagasi dengan bantuan foot sensor pada Toyota Avanza",
+  "abstract": "Perkembangan teknologi di bidang otomotif khususnya mobil berkembang sangat pesat. Salah satunya fitur bagasi otomatis dengan menggunakan foot sensor. Sensor ini memudahkan pengguna untuk membuka bagasi mobil secara otomatis ketika sedang membawa barang berat. Tujuan dari penulisan ini adalah untuk merancang dan membuat suatu fitur pada mobil untuk membuka dan menutup bagasi secara otomatis dengan menggunakan foot sensor. Proses membuka dan menutup bagasi otomatis memerlukan aktuator untuk penggeraknya. Sedangkan untuk foot sensor menggunakan motion sensor berbasis infra red. Dimana perancangan berikut menggunakan mikro controller (arduino) untuk memproses semua input yang diterima. Gerakan yang terdeteksi sensor akan dikirimkan pada arduino lalu arduino akan mengirimkan sinyal elektronik ke modul bagasi. Kemudian modul bagasi akan memerintahkan aktuator untuk membuka atau menutup pintu bagasi. Selama percobaan pintu bagasi terbuka dalam waktu kurang dari 15 detik dan menutup juga kurang dari 15 detik. Kata Kunci : bagasi; motion sensor; aktuator;",
+  "creators": "ANDREAS SASTRO WIBOWO",
+  "contributors": "Ian Hardianto Siahaan (Advisor 1); Willyanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011417/MES/2021; Andreas Sastro Wibowo (C12170072)",
+  "subjects": "AUTOMATIC MACHINERY--DESIGN AND CONSTRUCTION; AUTOMOTIVE SENSORS--DESIGN AND CONSTRUCTION"
+}

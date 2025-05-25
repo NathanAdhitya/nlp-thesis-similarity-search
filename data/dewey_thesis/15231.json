@@ -1,0 +1,14 @@
+{
+  "id": "15231",
+  "title": "Penjadwalan produksi dengan menggunakan algoritma heuristik di PT. Kappametal Surya",
+  "abstract": "Suatu penjadwalan tanpa disadari sangat diperlukan dalam perencanaan produksi di industri-industri/perusahaan yang sedang berkembang saat ini. Penjadwalan yang kurang tepat dapat mengakibatkan waktu yang dibutuhkan untuk memproduksi suatu permintaan (demand) relatif lama sehingga menimbulkan penumpukan barang belum jadi (work in process) serta adanya waktu idle mesin yang besar. P.T. Kappametal adalah salah satu perusahaaan yang bergerak di bidang pembuatan valve. Ada beberapa macam valve yang diproduksi oleh P.T. Kappametal, namun saat ini produksi sedang terpusat pada diapharm valve dengan enam ukuran yaitu DN 25, DN 40, DN 50, DN 65, DN 80, DN 100 dan beberapa standard. Pada bulan-bulan ini permintaan lebih banyak untuk ukuran yang lebih kecil dibandingkan dengan ukuran yang lebih besar. Oleh karena itu pada tugas akhir ini dirancang suatu sistem penjadwalan sebagai altematif sistem penjadwalan yang lebih baik dari yang sudah ada dengan tujuan meminimumkan makespan agar pihak perusahaan dapat memenuhi permintaan para konsumen sesuai jadwaL Karena komponen-komponen dari diapharm valve ini mempunyai urutan proses yang sama maka penjadwalan dilakukan dengan menggunakan penjadwalan flowshop dengan beberapa algoritma heuristik yaitu CDS, NEH, Rajendran dan HC. Hasil akhir didapatkan algorhma heuristik CDS, Rajendran, dan HC merupakan metode terbaik dengan makespan sebesar 457017,492 detik, yang dapat dipakai oleh perusahaan.",
+  "creators": "DHAVINA LIUWAN",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 467/TI-058/2001; Dhavina Liuwan (25496043)",
+  "subjects": "SCHEDULING (MANAGEMENT); PRODUCTION PLANNING"
+}

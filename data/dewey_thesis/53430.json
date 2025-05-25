@@ -1,0 +1,14 @@
+{
+  "id": "53430",
+  "title": "Pengaruh feature selection terhadap kinerja c5.0, xgboost, dan random forest dalam mengklasifikasikan website phishing",
+  "abstract": "Dengan meningkatnya pengguna internet khususnya website, memberikan celah bagi para pelaku phishing untuk mendapatkan atau mencuri informasi pribadi dari para pengguna. Pada setiap website akan terdapat banyak informasi yang akan dijadikan feature, feature tersebut akan dimanfaatkan untuk mengklasifikasikan website phishing. Feature akan dibagi menjadi 3 yaitu url feature, content feature, dan external feature. Dalam penelitian ini akan menggunakan tiga metode yaitu C5.0, XGBoost, dan Random Forest. Ketiga metode akan diuji kinerjanya untuk mencari metode terbaik dalam mengklasifikasikan website phishing. Selain itu penelitian ini juga akan memanfaatkan feature selection dengan tujuan untuk membuang feature yang tidak berpengaruh sehingga training time dapat dipersingkat. Berdasarkan hasil pengujian yang diperoleh menunjukan, bahwa C5.0 mampu memberikan nilai accuracy, precision, recall, & f1-score dengan rata-rata sebesar 93,5%, XGBoost dengan rata-rata sebesar 96,6%, dan Random Forest dengan rata-rata sebesar 95,7%. Penggunaan feature selection pada ketiga algoritma juga menunjukan, bahwa training time dapat dipersingkat dengan rata-rata sekitar 3,53 kali lebih cepat dengan hanya menggunakan 15 feature importance saja. Namun dengan penggunaan feature selection, performa pada nilai accuracy, precision, recall, & f1-score terjadi sedikit penurunan walaupun penurunan yang diberikan tidak signifikan atau tidak berdampak besar pada proses klasifikasi.",
+  "creators": "MICHAEL JONATHAN",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022144/INF/2022; Michael Jonathan (C14180224)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PHISHING; PROGRAMMING (ELECTRONIC COMPUTERS); WEB SITES--SECURITY MEASURES"
+}

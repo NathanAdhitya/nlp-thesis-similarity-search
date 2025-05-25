@@ -1,0 +1,14 @@
+{
+  "id": "28107",
+  "title": "Pembuatan aplikasi pembelajaran ipv6 dengan network simulator berbasis web",
+  "abstract": "Perkembangan Internet yang sangat pesat saat ini menyebabkan alokasi pengalamatan IPv4 berkurang, terutama IP yang legal. Untuk mengatasi masalah tersebut, maka Internet Engineering Task Force (IETF) memunculkan versi terbaru IP yaitu IP versi 6 (IPv6). IPv6 sebenarnya telah diperkenalkan sejak beberapa tahun yang lalu. Meskipun bukan menjadi IP yang utama pada saat ini, cepat atau lambat akan sampai pada titik dimana IPv6 menjadi IP yang utama. Namun, masalah terbesarnya adalah pemahaman akan IPv6 masih sangat kurang. Aplikasi yang dikembangkan dengan menggunakan HTML5 dengan bantuan jquery untuk tampilan pada web browser desktop maupun pada web browser table. Sedangkan network simulator dibuat dengan bantuan library kineticJS dan untuk perhitungan dalam mencari jalur antara satu elemen dengan elemen lain digunakan algoritma Depth First Search (DFS). Aplikasi pembelajaran IPv6 berbasis web ini digunakan untuk menjelaskan mengenai hal-hal penting mengenai IPv6 dan bagaimana cara menghitung prefix length pada IPv6, melakukan perhitungan zero compression, selain itu juga terdapat network simulator yang dapat digunakan untuk mencoba memberikan alamat IP dengan versi 6 ke device seperti komputer, switch dan router.",
+  "creators": "DELLA NOVA ONGKODJOJO",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Agustinus Noertjahyana (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021236/INF/2013; Della Nova Ongkodjojo (26409036)",
+  "subjects": "INTERNET (COMPUTER NETWORKS); WEBSITES-DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

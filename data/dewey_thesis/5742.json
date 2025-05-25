@@ -1,0 +1,14 @@
+{
+  "id": "5742",
+  "title": "Alat ukur pertambahan panjang benang plastik berbasis MCS-51",
+  "abstract": "P.T. X adalah perusahaan yang bergerak dibidang tenun plastik. Agar dapat ikut bersaing dalam industri tenun karung plastik, maka Perusahaan harus dapat memiliki kualitas yang dapat dipercaya dalam setiap produknya. Tingkat ketahanan benang plastik terhadap beban merupakan salah satu faktor penting yang diperlukan dalam menjaga kualitas karung plastik yang dibuat. Pada Tugas Akhir ini dibuat sebuah alat ukur pertambahan panjang sebagai sarana bagi mahasiswa dalam mempelajari, melakukan troubleshooting, dan mensimulasikan alat ukur pertambahan panjang dengan AT89C55WD sebagai kontrolernya. Dalam perencanaan sistem ini selain menggunakan I/O digital, juga menggunakan IC L298 sebagai penggerak motor DC dan rotary encoder sebagai sensor pertambahan panjang. Plant yang digunakan dalam Tugas Akhir ini adalah motor DC yang berfungsi sebagai penggerak tempat penggulung benang dan sensor limit switch sebagai sensor yang membaca kondisi benang plastik apakah sudah putus atau belum. Berdasarkan hasil pengujian secara keseluruhan, pembuatan plant/sistem untuk alat ukur pertambahan panjang telah tercapai. Hasil pengukuran yang telah dilakukan dengan menggunakan alat ukur ini menunjukkan hasil yang sesuai dengan standart sebesar 23%-30% yang ditetapkan perusahaan.",
+  "creators": "RIZAH PURBO ANTORO",
+  "contributors": "Hany Ferdinando (Advisor 1); Handry Khoswanto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010780/ELK/2006; Rizah Purbo Antoro (23401109)",
+  "subjects": "ELECTRIC MEASUREMENTS; MICROCONTROLLERS"
+}

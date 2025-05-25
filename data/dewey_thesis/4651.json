@@ -1,0 +1,14 @@
+{
+  "id": "4651",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi di Perusahaan Aneka Mesin yang bergerak di bidang jual beli dan reparasi mesin cetak",
+  "abstract": "Sistem administrasi pada Perusahaan Aneka Mesin saat ini masih menggunakan sistem manual. Sistem informasi administrasi di Perusahaan Aneka Mesin ini meliputi sistem yang mengelola pembelian, penjualan, service dan keuangan. Untuk pengembangan usahanya, dibutuhkan sebuah sistem baru yang dapat membantu meningkatkan sistem yang dipakai saat ini. Pembuatan sistem informasi administrasi dimulai dengan merancang desain dari sistem yang berjalan pada perusahaan dengan menggunakan PowerDesigner? 6.1 . Setelah desain terbentuk lalu dikonfirmasikan dengan user, untuk mendapatkan kesatuan pandangan. Kemudian perancangan database digunakan sebagai penyimpan data yang terorganisir. Perancangan sistem administrasi yang baru menggunakan program Borland Delphi 6 dan Microsoft SQL Server 2000 Personal Edition untuk databasenya. Hasil dari perancangan program ini dapat menghasilkan laporan pembelian, penjualan, laporan operasional service dan laporan laba rugi. Proses penagihan customer dan proses pembayaran supplier dapat terkontrol dengan adanya laporan hutang dan laporan piutang. Proses pelaksanaan operasional service dapat terkontrol dengan adanya laporan operasional service. Disediakannya juga fasilitas keamanan data dengan adanya pembagian user yang berwenang dengan tugasnya masing-masing .",
+  "creators": "IMAM PUJIANTO SANTOSO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000238/INF/2004; Imam Pujianto Santoso (26400177)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

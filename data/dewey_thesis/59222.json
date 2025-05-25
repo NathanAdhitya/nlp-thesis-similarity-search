@@ -1,0 +1,14 @@
+{
+  "id": "59222",
+  "title": "Implementasi monitoring keamanan siber dengan Grafana di UK Petra",
+  "abstract": "Tim keamanan siber UK Petra memiliki sebuah firewall yang memiliki Security Operation Center. Pada SOC, tim dapat melihat aktivitas firewall yang sedang terjadi. Namun dashboard yang dimiliki oleh SOC Sangfor kurang efisien dikarenakan jika ingin melihat tipe log yang berbeda harus berpindah ke halaman lain terlebih dahulu. Selain itu, tampilan dashboard SOC Sangfor kurang menarik untuk dilihat. Tim keamanan siber UK Petra sudah mencoba tools visualisasi yang bernama Grafana, namun tim hanya baru melakukan pemindahan log, pengelolaan log, dan pembuatan alerting saja, tanpa adanya satupun grafik. Untuk mengatasi permasalahan di atas, pada skripsi ini akan diimplementasikan tools Grafana. Grafana ini nantinya akan digunakan untuk menampilkan visualisasi dari log yang telah di export dari firewall NGAF Sangfor. Pada skripsi ini juga akan dilakukan log rotate pada syslog, dan juga penggunaan Loki Promtail yang berguna untuk mengelola data log dari server ke Grafana. Hasil penelitian menunjukkan bahwa Grafana memang dapat memberikan tampilan visualisasi dashboard yang menarik dari sumber data log firewall NGAF Sangfor. Tampilan dashboard pada Grafana lebih bervariasi daripada dashboard yang dimiliki oleh SOC NGAF Sangfor. Namun Grafana masih memiliki kekurangan yaitu tidak memiliki fungsi deduplikasi dan juga Loki kurang mampu untuk menampilkan data dalam jumlah yang besar. Hal itu membuat proses monitoring menjadi kurang bagus, karena tidak bisa melihat hasil data dalam jangka waktu harian, mingguan, bahkan bulanan. Penelitian ini masih jauh dari sempurna dan perlu untuk dilakukan peningkatan lebih lanjut.",
+  "creators": "VICENZO ARTAN",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Resmana Lim (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Justinus Andjarwirawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022424/INF/2024; Vicenzo Artan (C14190023)",
+  "subjects": "INTERNET (COMPUTER NETWORK)-SAFETY MONITORING SYSTEMS"
+}

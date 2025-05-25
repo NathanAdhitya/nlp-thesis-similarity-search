@@ -1,0 +1,14 @@
+{
+  "id": "26256",
+  "title": "Perancangan dan pembuatan sistem informasi admisitrasi pada Toko Jam Hollywood Watches",
+  "abstract": "Toko Hollywood Watches adalah sebuah toko yang bergerak di bidang perdagangan jam tangan. Sistem pencatatan yang digunakan masih dilakukan dengan menulis pada nota, sehingga semua proses penjualan dan juga proses administrasi lainnya kadang tidak tercatat secara lengkap. Selain itu sistem pencatatan setiap transaksi dilakukan secara manual, dan pemilik toko ingin aplikasi berbasis web sehingga mudah dalam melakukan pencatatan transaksi yang terjadi. Berdasarkan analisis permasalahan yang dihadapi oleh toko Hollywood Watches, maka dilakukan pembuatan aplikasi untuk mendukung kinerja toko. Aplikasi diimplementasikan dapat memproses transaksi pembelian, retur pembelian, sales order, penjualan, retur penjualan, service, garansi, stock opname, dan pembayaran hutang. Untuk mendesain sistem baru DFD digunakan aplikasi Power Designer 6, dan ERD digunakan aplikasi Power Designer 15.3. Aplikasi dibuat dengan menggunakan PHP dan MySQL sebagai penyimpan database. Aplikasi dapat melakukan penyimpanan data master dan transaksi, serta memberikan informasi berupa laporan yang diperlukan seperti laporan pembelian, penjualan, laba rugi, stok barang, service, garansi dan hutang.",
+  "creators": "ADE SAGITA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021070/INF/2011; Ade Sagita (26407121)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

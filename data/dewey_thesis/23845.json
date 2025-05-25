@@ -1,0 +1,14 @@
+{
+  "id": "23845",
+  "title": "Perencanaan dan pembuatan alat simulasi dua pembaca kode baris pada lokasi yang berbeda dan dikirim dari jarak jauh yang menggunakan multikontroler MCS51",
+  "abstract": "Perkembangan di bidang komunikasi data sudah sedemikian pesat sehingga komunikasi sangatlah dibutuhkan oleh komputer untuk mengontrol perangkat lain yang sangat banyak dan terletak pada lokasi yang berbeda. Pada Tugas Akhir ini dibuat suatu aplikasi berupa dua pembaca kode baris yang terletak pada lokasi yang berbeda dan satu dengan yang lain berjarak cukup jauh (+ 100 m). Adapun masalah-masalah yang akan dibahas hanya pada pembacaan kode baris yang dilakukan dengan menggunakan sensor infra merah, pengenalan data dan pengontrol simulasi pengiriman data dari dua pembaca dengan menggunakan microcontroller 80C31, pengiriman data untuk jarak? 100 m dan dapat dihubungkan dengan beberapa perangkat digital yang terhubung pada satu serial port dengan menggunakan saluran serial RS485 serta pengiriman data serial dengan baut rate 4800 bit/detik ke PC dengan menggunakan sistem UART (Universal Asynchronous Receiver-Transmitter). Dari pengujian alat didapat bahwa keakuratan dari alat yang dibuat tergantung pada gerakan tangan waktu pembacaan, kecepatan pergerakan yang konstan dan kondisi pantulan dari cahaya infra merah yang terfokus. Sedangkan sensitivitas dari sensor infra merah yang digunakan mempunyai kelemahan yaitu membutuhkan media untuk memantulkan cahaya infra merah. Dan sistem simulasi yang dibuat memungkinkan untuk dihubungkan dengan beberapa pembaca kode baris lainnya.",
+  "creators": "SINDU MOELYONO GUNAWAN",
+  "contributors": "SOETIKNO (Advisor 1); Rolly Intan (Advisor 2); HANDAYANI T. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/042/0245; Sindu Moelyono Gunawan (23489068)",
+  "subjects": "MICROCONTROLLER; SIMULATION"
+}

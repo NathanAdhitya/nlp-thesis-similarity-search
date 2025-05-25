@@ -1,0 +1,14 @@
+{
+  "id": "7609",
+  "title": "Perancangan dan pembuatan perangkat lunak speech to text yang dilengkapi dengan speaker recognition",
+  "abstract": "Perangkat lunak yang dibuat dalam tugas akhir ini merupakan salah satu teknologi yang menggunakan kecerdasan buatan yang mereplikasikan organ pendengaran manusia untuk mengenali suara seseorang serta kata-kata yang diucapkan dan menyajikannya dalam bentuk tulisan. Perangkat lunak ini merupakan pengembangan dari perangkat lunak yang dibuat Heri Sugianto Manunggal yang berjudul \"Perancangan dan Pembuatan Perangkat Lunak Pengenalan Suara Pembicara dengan Menggunakan Fuzzy Inference Rules\" sebagai karya tugas akhirnya. Perangkat lunak ini dibuat dengan menggunakan metode MFCC (Mel Frequency Cepstrum Coefficients) feature extraction dan didukung dengan K-Means clustering. MFCC feature extraction mengekstrak signal suara kedalam beberapa vektor data. Hasil dari MFCC feature extraction mempunyai ukuran yang sangat besar, sehingga digunakanlah K-Means clustering untuk membuat beberapa vektor pusat sebagai wakil dari keseluruhan vektor data yang ada untuk digunakan dalam proses pengenalan sehingga mempersingkat waktu. Perangkat lunak ini menggunakan prinsip pemrograman berorientasi objek (OOP) dengan menggunakan bahasa pemrograman C++, kompiler Microsoft Visual C++ 6.0?. Perangkat lunak ini diujikan terhadap 10 orang, dengan komposisi 5 pria dan 5 wanita, dimana setiap orang mengucapkan 15 suku kata yang sudah ditentukan sebelumnya sebanyak 2 kali. Hasil pengujian menunjukkan rata-rata tingkat akurasi perangkat lunak ini 69.5 %. Tingkat akurasi ini dipengaruhi oleh banyaknya sampel untuk setiap suku kata, jumlah pembicara, dan jumlah suku kata.",
+  "creators": "DWI PAMUDJI SOETEDJO",
+  "contributors": "Rolly Intan (Advisor 1); Kartika Gunadi (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000406/INF/2005; Dwi Pamudji Soetedjo (26402188)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

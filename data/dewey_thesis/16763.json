@@ -1,0 +1,14 @@
+{
+  "id": "16763",
+  "title": "Perencanaan dan pembuatan radio data system (RDS) encoder-decoder",
+  "abstract": "Dalam dunia telekomunikasi, informasi merupakan suatu hal yang sangat penting. Informasi yang dikirimkan harus sampai pada pihak yang berhak menerimanya. Informasi sedapat mungkin dikirimkan melalui berbagai media, yang dianggap dapat menyalurkan informasi. Dan sejalan dengan kendala dalam dunia telekomunikasi yaitu, terbatasnya pemakaian bidang frekuensi sebagai sumber daya alam yang terbatas. Pada Tugas Akhir ini dibuat suatu sistem berupa alat yang dapat menyalurkan informasi berupa data melalui jalur pancaran radio siaran FM Stereo. Sistem ini diberi nama Radio Data System (RDS) dan sistem diintegrasikan dalam sistem pemancar radio siaran FM Stereo, dengan penggunaan sisa bidang frekuensi yang tidak dipakai. Bidang frekuensi ini merupakan suatu jalur khusus yang biasa disebut kanal SCA (Subsidiary Communication Authorization). Pemakaian jalur ini untuk transmisi data, sesuai dengan penghematan pemakaian bidang frekuensi yang terbatas. Data yang dikirimkan dari pemancar FM Stereo menggunakan sub-carrier 76 KHz. Berita yang berupa data ini, berasal dari pusat data pada komputer yang dikirim secara serial, dikodekan dan dimodulasi secara digital menggunakan metode FSK (Frequency Shift Keying). Frekuensi FSK yang dipakai adalah Mark 1300 Hz dan Space 2300 Hz. Sinyal data termodulasi ini dimultipleks dengan sinyal FM Stereo. Pada pesawat penerima FM Stereo sinyal didemultipleks, didemodulasi, didekodekan dan data diterima oleh kontroler. Data yang berisi berita tersebut ditampilkan pada layar tampilan agar dapat dibaca. Sistem yang dibuat ini, memiliki probabilitas kesalahan sebesar 10\"3 pada rasio (S/N) diatas 6 dB dengan kecepatan transmisi 600 Baud. Sistem ini mampu menghemat pemakaian bidang frekuensi dan memberikan informasi tambahan selain siaran utama.",
+  "creators": "ANDREAS DIANKESUMA PERDANAPUTRA",
+  "contributors": "IRWAN SAHLI (Advisor 1); HERLIANTO TENGGARA (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 1890/ARS/48/2001; Andreas Diankesuma Perdanaputra (23487111)",
+  "subjects": "RADIO BROADCASTING; RADIO FREQUENCY; RADIO FREQUENCY MODULATION"
+}

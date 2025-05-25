@@ -1,0 +1,14 @@
+{
+  "id": "23253",
+  "title": "Perencanaan dan pembuatan filter digital untuk memperbaiki kualitas reproduksi audio dengan menggunakan TMS320C50",
+  "abstract": "Sejalan dengan perkembangan teknologi maka kualitas reproduksi audio semakin hari semakin ditmgkatkan Tujuan utamanya adalah menghasilkan suara dengan kualitas yang sama dengan keadaan pada wakhr perdilakukan Akan tetapi keterbatasan peralatan dan keadaan akustik ruangan tidak mendukung hasil reproduksi audio. Terjadinya pelemahan dan penguatan yang pada fiekuensi-fiehi tertentu Melalui perencanaau clan pembuatan peralatan ini diharapkan kerugian akibaf berbagai sebab ini dapat djkurangi. Dipergmakan TMS320C50 sebuah sirkit integrasi khusus untuk pemprosesan sinyal digital. Melalui dua buah masukkan yaitu dari mikrophon dan pembanght bising (noise), TMS320C50 membandingkau keadaan asli dari smyal sebelum dikeluarkau oleh sistem audio dengan basil sinyal setelah dikeluarkan dari sistem audio dan tdah menerima pen@ akustiik ruangan Dengan menguatkan jangkauan frekuensi yang dilemahkan dan melemahkan jan- fiekeunsi yang terlalu kuat, -kan keadaan asli sinyal dapat diperoleh Filter digital dipergmakm untuk menentukan jangkmm fielcuensi -but. Dari hasil .pengujian terlihat bahwa respon fiekuensi setelah melalui proses filter dan kompensasi dapat menghasilkan respon frekuensi yang relatif rata (flat) mtuk jangkauan fr-i yang ditentukm",
+  "creators": "DANNY PRABOWO SOETANTO",
+  "contributors": "ISKANDAR ZULKARNAIN (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Vivi Anggraini (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/012/0272; Danny Prabowo Soetanto (23490091)",
+  "subjects": "INTEL TMS320C50 (MICROPROCESSORS); ELECTRIC FILTERS, DIGITAL"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "1068",
+  "title": "Optimasi pola penyusunan barang dalam ruang tiga dimensi menggunakan metode genetic algorithms",
+  "abstract": "Pola penyusunan barang dalam ruang tiga dimensi, contohnya kontainer, harus bisa seoptimal mungkin untuk menekan biaya pengiriman dalam berbisnis. Algoritma Genetik sebagai metode pencarian solusi yang berpatokan pada seleksi alam untuk mendapatkan sebuah individu dengan susunan gen-gen terbaik, mampu memberikan solusi bagaimana pola susunan barang dioptimalkan melalui proses iterasi sampai beberapa generasi dengan operatornya yaitu reproduksi, pindah silang, dan mutasi. Dengan memasukkan inputan berupa spesifikasi ruang dan barang beserta probabilitas ketiga operator Algoritma Genetik, proses optimasi akan menemukan pola susunan barang berdasarkan fitness atau nilai terbaik, yaitu semakin sedikit ruang kosong yang tersisa.",
+  "creators": "BENY HARIYANTO",
+  "contributors": "Kartika Gunadi (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0029/INF/2003; Beny Hariyanto (26498037)",
+  "subjects": "GENETIC ALGORITHMS; GENETIC PROGRAMMING (COMPUTER SCIENCE)"
+}

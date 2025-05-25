@@ -1,0 +1,14 @@
+{
+  "id": "1948",
+  "title": "Piranti uji kelayakan alat pabrik terhadap temperatur",
+  "abstract": "Pada tugas akhir ini dibuat piranti uji kelayakan alat pabrik terhadap temperatur. Piranti tersebut dapat mensimulasikan kondisi suhu ruang pada pabrik sehingga uji coba peralatan elektronik pabrik dapat dilakukan di luar area pabrik. Hal ini akan meningkatkan efisiensi dalam perawatan dan pembelian suku cadang elektronik mesin pabrik. Piranti uji tersebut menggunakan PLC festo FEC-30 dengan metode fuzzy yang dikenal sebagai FuzzIPC. Dimensi piranti uji kontrol suhu 30cm x 30cm x 45cm dengan bahan tripleks dan pintu kaca. Sumber panas yang digunakan adalah 4 buah lampu 100 Watt, 2 buah kipas sebagai pendingin serta sensor suhu PT100 dengan RI Transmiter yang berkomunikasi dengan ADC. Piranti uji mampu mensimulasikan suhu dari 25 derajat C-60 derajat C. Interval suhu ini cukup mewakili suhu pabrik pada kondisi mesin dingin maupun panas. Kemampuan piranti uji untuk menstabilkan suhu terhadap gangguan luar cukup baik yaitu berkisar ?1 derajat C. Untuk perubahan ekstrim misal dari suhu 25 derajat C ke suhu 60 derajat C, alat ini membutuhkan waktu 23 menit pada pemanasan maksimum.",
+  "creators": "HARI BASUKI",
+  "contributors": "Hany Ferdinando (Advisor 1); HENDRIK THIEHUNAN (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010711/ELK/2005; Hari Basuki (23499090)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

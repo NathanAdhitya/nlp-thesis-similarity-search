@@ -1,0 +1,14 @@
+{
+  "id": "3118",
+  "title": "Pengenalan sidik jari dengan metode filter gabor",
+  "abstract": "Dalam dekade terakhir ini, ketertarikan terhadap pengenalan sidik jari yang berdasar pada sistem biometric berkembang secara signifikan. Aktivitas terhadap topik ini meningkat keduanya dari akademik dan industri sebagai beberapa grup peneliti dan perusahaan yang menghasilkan algoritma dan teknik baru untuk pengenalan sidik jari dan makin banyak sensor elektronik sidik jari dijual ke dalam pasar. Tujuan tugas akhir ini adalah untuk membuat suatu perangkat lunak pengenalan sidik jari dengan menggunakan metode filter Gabor untuk mereduksi dimensi gambar sidik jari sekaligus untuk mengetahui kemampuan dari teknik tersebut. Bahasa pemrograman yang dipakai adalah Microsoft Visual C++ 6.0, Intel Performance Library dan Open Source Computer Vision Library Hasil pengujian sistem menunjukkan bahwa penggunaan filter Gabor untuk pengenalan sidik jari dapat memberikan tingkat akurasi yang cukup tinggi. Persentase hasil untuk pengujian seluruh sistem adalah 79,75% dan untuk pengujian dengan titik core yang terdeteksi dengan baik adalah 97,96%.",
+  "creators": "ADI",
+  "contributors": "Resmana Lim (Advisor 1); Anies Hannawati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/008/554; Adi (23495074)",
+  "subjects": "COMPUTER VISION; PATTERN RECOGNITION SYSTEMS; FINGERPRINTS-DATA PROCESSING"
+}

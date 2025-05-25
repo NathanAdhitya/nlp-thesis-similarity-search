@@ -1,0 +1,14 @@
+{
+  "id": "49906",
+  "title": "Jemuran pakaian dengan pelindung hujan otomatis",
+  "abstract": "Tugas akhir ini bertujuan untuk membuat jemuran pakaian yang bisa memanjang dan memendek di balkon berukuran kecil dan memiliki pelindung hujan yang dapat terbuka saat terjadi hujan sehingga diharapkan dapat membantu menghemat ruang pada balkon apartemen. Sistem jemuran pakaian dengan pelindung hujan otomatis menggunakan arduino uno sebagai kontroler. Sensor ultrasonic HC-SR04 digunakan untuk membaca jarak obyek dari jemuran. Sensor hujan digunakan untuk mengetahui apakah terjadi hujan. Limit switch digunakan untuk mengetahui posisi jemuran dan pelindung hujan. Sistem jemuran pakaian dengan pelindung hujan otomatis menggunakan motor DC JGB37-31ZY 12V 110RPM untuk membuka dan menutup jemuran pakaian dan pelindung hujan. Modul h-bridge L298N digunakan untuk mengatur arah putar motor Berdasarkan pengujian yang telah dilakukan, jemuran pakaian dapat membuka dan menutup secara otomatis berdasarkan nilai jarak antara sensor ultrasonic dengan obyek. Pelindung hujan juga dapat membuka dan menutup secara otomatis berdasarkan nilai dari sensor hujan. Dari hasil pengujian, jemuran dapat membuka dan menutup dengan baik sampai dengan beban maksimal 5kg.",
+  "creators": "BRYAN ARITAMA",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011009/ELK/2021; Bryan Aritama (C11170008)",
+  "subjects": "ELECTRICAL ENGINEERING; HOUSEHOLD APPLIANCES-- AUTOMATIC CONTROL"
+}

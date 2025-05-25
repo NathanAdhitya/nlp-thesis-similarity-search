@@ -1,0 +1,14 @@
+{
+  "id": "48474",
+  "title": "Identifikasi varietas koi berdasarkan gambar menggunakan zero parameter simple linear iterative clustering dan support vector machine",
+  "abstract": "Terdapat 120 jenis ikan koi yang dikembangbiakkan saat ini di seluruh dunia. Jenis-jenis ikan koi tersebut bergantung dengan corak warna dan bentuk yang mereka miliki. Tidak sedikit dari corak-corak itu memiliki kemiripan antara satu jenis dengan jenis yang lain. Contohnya, ikan koi jenis sanke dan showa bagi orang awam akan terlihat sama, karena keduanya memiliki corak warna yang sama, yaitu merah, hitam, dan putih. Padahal, koi jenis sanke lebih dominan ke warna merah dan putih dengan sedikit aksen hitam, sedangkan showa dominan merah dan hitam, dengan aksen putih. Dalam penelitian ini, dilakukan pengujian pada dua metode superpixel segmentation, yaitu metode Simple Linear Iterative Clustering (SLIC) dan Zero Parameter Simple Linear Iterative Clustering (SLICO) untuk proses segmentasi objek untuk menghilangkan background pada gambar. Metode Color Local Binary Pattern digunakan untuk mendapatkan tekstur pada gambar melalui colorspace RGB, HSV, dan Grayscale. Support Vector Machine (SVM) digunakan untuk mengidentifikasi jenis ikan koi. Untuk menguji SVM, digunakan dua jenis kernel, yaitu kernel linear dan kernel Radial Basis Function (RBF). Hasil dari penelitian ini adalah program dapat mengenali jenis ikan koi pada gambar. Hasil pengujian menunjukkan akurasi sebesar 36% pada colorspace grayscale, 50% pada colorspace RGB, dan 48% pada colorspace HSV.",
+  "creators": "AMADEA SAPPHIRA",
+  "contributors": "Alexander Setiawan (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Endang Setyati (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021980/INF/2020; Amadea Sapphira (26416046)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT--COMPUTER PROGRAMS; ARTIFICIAL INTELLIGENCE; DATA MINING"
+}

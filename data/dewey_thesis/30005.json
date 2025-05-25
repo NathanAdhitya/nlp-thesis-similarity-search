@@ -1,0 +1,14 @@
+{
+  "id": "30005",
+  "title": "Pembuatan simulasi all terrain vehicle pada dunia virtual",
+  "abstract": "Latar belakang pembuatan simulator game ini adalah untuk memudahkan seseorang belajar tahap awal bagaimana mengendalikan kendaraan khusus tersebut tanpa perlu menghadapi resiko kecelakaan yang besar, maka dibuatlah simulator All Terrain Vehicle dalam dunia virtual ini. Simulasi kendaraan darat / mobil offroad (All Terrain Vehicle) yang dibuat memiliki beberapa fitur sederhana seperti berjalan pada medan berbatu dan bergunung-gunung (naik-turun). Kontrol pada software simulasi kendaraan darat ini berupa sebuah game steering wheel dan/atau keyboard. Game Simulator ini dibuat dengan menggunakan PhysX untuk memudahkan memasukkan fisika yang ada pada mobil di dunia nyata ke dalam dunia virtual. Untuk membuat inputan dari Logitech steering wheel G27, dibutuhkan Logitech SDK yang bisa didapatkan dari Logitech Gaming Software. Hasil dari skripsi ini adalah data berupa posisi mobil dengan koordinat x,y,z, dan kecepatan mobil yang nantinya akan digunakan untuk menggerakkan platform MA3I. Output ini dipengaruhi oleh beberapa input dari user yang berupa gas, rem, dan steering wheel.",
+  "creators": "ANDREAS SUTANTRA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021348/INF/2014; Andreas Sutantra (26410078)",
+  "subjects": "AUTOMOBILES-STEERING-SIMULATOR; COMPUTER GAMES-PROGRAMMING"
+}

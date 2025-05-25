@@ -1,0 +1,14 @@
+{
+  "id": "1891",
+  "title": "Perancangan dan pembuatan sistem informasi pembelian dan penjualan di PT Asia Paramita Indah",
+  "abstract": "PT ASIA PARAMITA INDAH adalah distributor produk kosmetik untuk wilayah Indonesia bagian Timur. Kegiatan administrasi yang ada pada PT ASIA PARAMITA INDAH diantaranya pembelian, retur pembelian, penjualan dan retur penjualan. Tetapi kendala utama yang dihadapi oleh perusahaan tersebut adalah mengenai efisiensi waktu dalam pengecekan stok barang dan perhitungan rugi / laba pada bulan berjalan. Dengan adanya program aplikasi ini diharapkan dapat membantu kinerja perusahaan ini dalam efisiensi waktu dalam pengecekan stok, pencarian produk berdasarkan keistimewaan dan perhitungan rugi / laba pada bulan berjalan. Tahapan yang dilakukan dalam pembuatan project ini yaitu analisis, desain data flow diagram, desain entity relationship diagram, desain database dan implementasi pemprogramannya. Pembuatan project ini menggunakan bahasa pemprograman Borland Delphi 6.0, Database yang digunakan Microsoft Access dan koneksi database ODBC. Hasil akhir dari pembuatan project ini adalah input pembelian, input retur pembelian, input penjualan, input retur penjualan, pencarian produk berdasarkan keistimewaan, daftar stok barang rusak, daftar stok barang minim / habis, semua laporan yaitu laporan stok, laporan kostumer, laporan pegawai, laporan pembelian, laporan retur pembelian, laporan penjualan, laporan retur penjualan dan perhitungan rugi / laba.",
+  "creators": "DENNY KUSUMA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Liliana (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000343/INF/2005; Denny Kusuma Jamin (26499030)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN"
+}

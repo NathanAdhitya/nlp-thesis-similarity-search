@@ -1,0 +1,14 @@
+{
+  "id": "39211",
+  "title": "Pengembangan video broadcasting server untuk live streaming menggunakan NGINX dan RTMP dengan studi kasus teleconference",
+  "abstract": "Era globalisasi telah mendorong komunikasi lintas negara yang lebih intensif. Komunikasi yang disediakan oleh teknologi tersebut bahkan bisa dilakukan secara realtime. Globalisasi juga mendorong terjalinnya kerja sama antar universitas atau institusi pendidikan lintas negara. Untuk menjalin kerja sama tentunya dibutuhkan komunikasi, dan media komunikasi yang terbaik untuk hal ini adalah teleconference. Pengembangan broadcast server ini dibuat menggunakan Nginx dan modul RTMP, server ini bisa digunakan untuk melakukan live streaming secara private, atau umum, melalui broadcast server yang dimiliki sendiri dan pada jaringan sendiri, sehingga tidak memerlukan platform-platform yang sudah ada. Pengguna dapat menggunakan server untuk melakukan live streaming, teleconference, dll. Server juga dapat melakukan archiving dari sesi live streaming yang sudah dilakukan dan hasil dari archive dapat diputar secara video on demand, server juga bisa menjadi relay untuk menampilkan live streaming ke platform-platform yang sudah ada atau ke server Nginx lain. Dan setelah dilakukan pengujian server sudah dapat menjalankan semua fungsi-fungsi yang sudah dikerjakan dan sudah bisa menjadi broadcast server yang dimiliki sendiri untuk kebutuhan live streaming, terutama untuk teleconference.",
+  "creators": "TOMMY ANDREAS SUSANTO",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021618/INF/2017; Tommy Andreas Susanto (26412157)",
+  "subjects": "STREAMING TECHNOLOGY; TELECONFERENCING; VIDEO PRODUCTION"
+}

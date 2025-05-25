@@ -1,0 +1,14 @@
+{
+  "id": "30192",
+  "title": "Perencanaan dan pembuatan chip tester TTL dan CMOS dengan menggunakan mikrokontroler 8031",
+  "abstract": "IC digital jenis TTL dan CMOS yang berada di pasaran banyak yang tidak terjamin mutunya, sehingga sering dijumpai masalah dalam merangkai rangkaian digital. Juga kadang kala diperlukan untuk mencari nomor seri dari suatu IC yang terhapus atau sengaja dihapus dengan suatu maksud tertentu. Pada Tugas Akhir ini dibuat suatu alat yang dapat menguji keadaan dari IC digital baik TTL maupun CMOS. Selain itu alat yang dibuat ini dapat menentukan nomor seri dari IC yang terhapus. Dengan pertimbangan segi kepraktisan alat ini dibuat berbasis mikrokontroler 8031 sehingga bersifat portabel. Untuk lebih menambah daya guna, alat ini dirancang agar dapat digabungkan dengan PC melalui hubungan serial RS-232. Dengan adanya PC, data untuk pengujian yang pada minimum sistem disimpan di EPROM dapat disimpan pada file sehingga dapat dilakukan editing dengan mudah. Prinsip dasar dari alat ini adalah dengan mengujikan kombinasi bit-bit ’0 ’ dan ’1 ’ yang disebut sebagai vektor. Pada pembuatan Tugas Akhir ini dipakai tiga buah vektor yaitu vektor input, vektor output dan vektor hasil. Vektor input adalah vektor yang diterapkan pada kaki device yang ditest, sedang vektor output adalah vektor yang seharusnya didapat pada pengujian IC yang berada dalam kondisi baik. Vektor hasil adalah vektor yang didapatkan sebagai respon dari device terhadap vektor input. Vektor input dan vektor output disusun pada perangkat lunak, sedang vektor hasil didapatkan dari device yang diuji. Untuk menentukan kondisi IC, vektor hasil yang didapat dibandingkan dengan vektor output yang telah dibuat pada perangkat lunak. Bila hasilnya sama berarti device yang diuji dalam keadaan baik dan sebaliknya bila terdapat perbedaan bit pada proses pembandingan berarti device dalam keadaan rusak. Prinsip yang sama digunakan untuk mencari nomor seri dari suatu IC, yaitu dengan mengujikan satu persatu tabel vektor untuk semua jenis IC yang telah dibuat terhadap device yang diuji. Bila terdapat vektor yang sesuai maka nomor seri IC dapat diperoleh dari tabel yang telah dibuat. Hasil pengujian yang dilakukan menunjukkan bahwa alat dapat digunakan untuk karakteristik DC dari IC jenis TTL maupun CMOS dengan baik dan benar.",
+  "creators": "LIEM KIAN GWAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); ISKANDAR ZULKARNAIN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/040/0197; Liem Kian Gwan (23489054)",
+  "subjects": "ELECTRONIC CIRCUITS-TESTING-EQUIPMENT AND SUPPLIES"
+}

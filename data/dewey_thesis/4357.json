@@ -1,0 +1,14 @@
+{
+  "id": "4357",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada PT. Citrasulawesi Sejahtera",
+  "abstract": "PT.Citrasulawesi Sejahtera adalah sebuah perusahaan dagang yang kegiatan sehari-harinya meliputi pembelian dan penjualan barang-barang kebutuhan sehari-hari. Penjualan yang dilakukan dapat bersifat eceran maupun grosir. Selama ini, perusahaan menggunakan cara manual untuk menghasilkan laporan keuangan yang diperlukan. Semua transaksi dicatat pada akhir jam kerja setiap harinya sehingga tidak dapat memberikan informasi secara cepat dan akurat. Oleh karena itu, dalam tugas akhir ini dirancang dan dibuat sebuah sistem informasi akuntansi yang membantu perusahaan untuk mendapatkan informasi yang diperlukan secara cepat dan akurat. . Pada pembuatan program aplikasi ini, sistem didesain dengan menggunakan Data Flow Diagram (DFD) dan Entity Relationship Diagram (ERD). Untuk implementasinya, digunakan software Borland Delphi 5.0 dan Microsoft Access XP. Dengan menggunakan program ini, maka transaksi pembelian dan penjualan akan otomatis tercatat dalam database dan setelah dilakukan penjurnalan, maka langsung dapat dihasilkan laporan keuangan sesuai dengan jurnal yang dimasukkan dan transaksi-transaksi yang telah terjadi dalam perusahaan. Setelah melakukan pengujian program berdasarkan data-data yang diperoleh dari perusahaan, terbukti bahwa laporan keuangan yang dihasilkan oleh program aplikasi ini adalah sama dengan laporan keuangan yang dibuat secara manual. Laporan keuangan yang dihasilkan berupa laporan rugi laba, laporan perubahan modal, laporan neraca, laporan arus kas. Dengan demikian, sistem ini sudah layak untuk digunakan pada perusahaan.",
+  "creators": "DIANA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0112/INF/2003; Diana (26499154)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTER)"
+}

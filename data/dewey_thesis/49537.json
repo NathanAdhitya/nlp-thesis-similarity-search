@@ -1,0 +1,14 @@
+{
+  "id": "49537",
+  "title": "Optimasi pemotongan besi tulangan pada proyek kompleks pergudangan menggunakan integer linear programming",
+  "abstract": "Dalam pembangunan proyek konstruksi, penggunaan material yang tidak optimal dapat menimbulkan waste material konstruksi yang berdampak terhadap tingginya biaya proyek dan menjadi limbah bagi lingkungan. Salah satu material konstruksi yang sangat banyak digunakan dan menimbulkan waste ialah besi beton bertulang, terutama apabila variasi potongan tulangan cukup banyak. Waste tersebut diakibatkan oleh pemotongan tulangan yang tidak optimal berupa sisa potongan tulangan yang terlalu pendek, tidak dapat digunakan, dan akan menjadi limbah. Integer linear programming merupakan metode yang terbukti efektif dalam menyelesaikan banyak permasalahan optimasi yang bersifat linear. Namun, masih sedikit yang mengaplikasikan integer linear programming pada problem optimasi pemotongan besi tulangan dengan variasi potongan tulangan yang banyak. Oleh karena itu, penelitian ini akan mengevaluasi sejauh mana tingkat keberhasilan optimasi dengan metode integer linear programming dalam upaya untuk memperoleh waste besi beton paling minimum dengan bantuan program MATLAB. Data yang digunakan pada penelitian ini ialah besi beton berdiameter 16 mm dan 19 mm pada pembangunan proyek kompleks pergudangan. Setelah dilakukan proses optimasi, penggunaan besi beton berdiameter 16 mm dapat dihemat sebanyak 125 lonjor (setara dengan penghematan 9,84%), sedangkan penggunaan besi beton berdiameter 19 mm dapat dihemat sebanyak 177 lonjor (setara dengan penghematan 6,78%).",
+  "creators": "Samuel Eric Djunaidi",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Wong Foek Tjong, S.T., M.T., Ph.D. (Examination Committee 1); Willy Husada, ST.,MT., Msc. (Examination Committee 3); Paulus Nugraha (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000297/MTS/2021; Samuel Eric Djunaidi (B21190021)",
+  "subjects": "CONSTRUCTION INDUSTRY--MANAGEMENT; CONSTRUCTION INDUSTRY--WASTE MINIMIZATION"
+}

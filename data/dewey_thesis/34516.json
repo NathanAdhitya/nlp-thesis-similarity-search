@@ -1,0 +1,14 @@
+{
+  "id": "34516",
+  "title": "Perancangan dan implementasi sistem home automation pada ruang rapat laboratorium Elektronika Universitas Kristen Petra",
+  "abstract": "Perancangan sistem home automation ini dilakukan untuk membuat sebuah sistem yang terintegrasi dan dapat dikontrol baik secara manual maupun secara otomatis. Sistem yang dibuat ini memadukan antara pencahayaan alami dan pencahayaan buatan dengan menggunakan kontrol lampu LED dan blind. Selain itu, pengontrolan AC juga dimungkinkan dalam sistem ini. Pembuatan smart sensor yang terdiri dari sensor PIR sebagai sensor gerak, sensor DHT-11 untuk pembacaan suhu dan kelembapan, serta sensor cahaya menggunakan LDR. Smart sensor digunakan sebagai umpan balik pada mode otomatis. Pembuatan smart sensor ini menggunakan microcontroller Arduino Pro-Mini, sedangkan pembuatan sistem itu sendiri menggunakan Arduino Mega 2560 sebagai master. Proses pertukaran data dan kontrol dengan memanfaatkan protokol komunikasi bluetooth. Kontrol manual menggunakan aplikasi mobile pada smartphone yang berbasis Android. Teknik pengontrolan lampu menggunakan PWM, sedangkan pengontrolan blind menggunakan half step motor stepper. Metode perancangan dan pembuatan yang digunakan mulai dari pengumpulan studi literatur, perancanaan dan implementasi sistem, pengujian dan analisa data, lalu penarikan kesimpulan. Hasilnya, proses otomatis berjalan stabil mendekati set point. Proses manual pada aplikasi mobile berhasil mengirimkan perintah ke Arduino dengan tingkat kesalahan 0%, sedangkan pembacaan input memiliki tingkat kesalahan 30%. Kontrol AC dilakukan dengan perantara remote AC universal.",
+  "creators": "YOUNGKY ARIESTA KURNIAWAN",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Handry Khoswanto (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010947/ELK/2015; Youngky Ariesta Kurniawan (23411023)",
+  "subjects": "HOME AUTOMATION-DATA PROCESSING; HOME AUTOMATION; ARDUINO (PROGRAMMABLE CONTROLLER)"
+}

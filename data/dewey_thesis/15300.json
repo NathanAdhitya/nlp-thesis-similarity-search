@@ -1,0 +1,14 @@
+{
+  "id": "15300",
+  "title": "Perencanaan dan pembuatan penerjemah bahasa Inggris ke bahasa Indonesia dengan menggunakan pengolahan bahasa alami (natural language processing)",
+  "abstract": "Kemajuan teknologi yang makin pesat menuntut efisiensi dan kemudahan dalam melakukan pekerjaan. Sebagai ganti tenaga yang dilakukan manusia maka sebagian besar pekerjaan dikomputerisasikan, termasuk membuat komputer agar dapat bekerja seperti cara berpikir manusia. Teknologi yang menerapkan hal semacam ini adalah Artificial Intelligence (AI) atau kecerdasan buatan. Aplikasi AI ada berbagai jenis, salah satunya adalah Pemrosesan Bahasa Alami atau Natural Language Processing (NLP). Bahasa alami adalah bahasa sehari-hari yang digunakan baik secara lisan maupun tulisan sebagai alat komunikasi antar manusia, misalnya bahasa Indonesia, bahasa Inggris, bahasa Jepang, dll. Program pengolahan bahasa alami ini dapat digunakan untuk komunikasi manusia dengan komputer sehingga manusia tidak perlu bersusah payah mempelajari bahasa komputer yang khusus (Fortran, Basic, C, dll); selain itu bahasa alami dapat digunakan dalam proses terjemahan atau translator seperti yang dibuat dalam tugas akhir ini. Dengan menggunakan bahasa pemrograman Prolog, translator ini dibuat untuk menerjemahkan kalimat bahasa Inggris ke dalam bahasa Indonesia. Pada prinsipnya input translator berupa kalimat dalam bahasa Inggris akan dianalisa oleh scanner dan menghasilkan token-token. Token ini diperlukan dalam proses parsing untuk menghasilkan pohon parser. Pohon parser akan digunakan pada tahap generator dimana proses penerjemahan terjadi, dan menghasilkan output berupa kalimat dalam bahasa Indonesia.",
+  "creators": "KATHARINA KOSASIH",
+  "contributors": "Rolly Intan (Advisor 1); ESTHER HANAYA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/KOM/006/010; Katharina Kosasih (23491023)",
+  "subjects": "ARTIFICIAL INTELLIGENCE-DATA PROCESSING; NATURAL LANGUAGE PROCESSING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

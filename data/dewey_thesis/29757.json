@@ -1,0 +1,14 @@
+{
+  "id": "29757",
+  "title": "Pembuatan sistem informasi perhitungan harga pokok produksi dengan metode job costing pada PT X.",
+  "abstract": "PT X merupakan perusahaan yang bergerak di bidang perakitan box aluminium di mana perusahaan ini merakit dan memproduksi box aluminium untuk mobil sesuai pesanan pelanggan, sehingga produksi baru dilakukan bila ada pesanan pelanggan (job order). Semua pencatatan terkait penerimaan order, pemesanan bahan baku, penggunaan bahan baku, stok, dan penghitungan harga pokok produksi dilakukan secara manual. Dalam menentukan harga pokok produksi, owner melakukan perhitungan estimasi harga pokok produksi hanya berdasarkan biaya bahan baku saja, owner seringkali tidak terlalu memperhatikan biaya tenaga kerja maupun biaya overhead. Perhitungan harga pokok produksi secara akurat merupakan hal yang penting karena hal ini membantu perusahaan untuk memastikan harga jual yang telah ditetapkan dengan menutup semua biaya yang digunakan. Pencatatan secara manual tentunya dapat memperlambat kinerja dan meningkatkan kemungkinan perhitungan harga pokok produksi yang tidak akurat. Berdasarkan latar belakang permasalahan tersebut, maka dirancang sebuah aplikasi untuk melakukan perhitungan Harga Pokok Produksi. Proses perancangan sistem dari aplikasi ini melalui beberapa tahap, dimulai dengan melakukan survei sistem produksi perusahaan, analisa data, merancang Data Flow Diagram dan Entity Relationship Diagram dari aplikasi yang akan dibuat. Proses pembuatannya menggunakan Microsoft Visual Studio .Net 2005 sebagai bahasa pemrogramannya dan Microsoft SQL Server 2005 sebagai database. Perhitungan harga pokok produksi dilakukan dengan menggunakan metode Job Costing. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, dapat menyimpan pemakaian bahan baku baik yang sesuai Bill of Material ataupun tambahan pada aktualnya, pemakaian tenaga kerja, dan sebagainya yang berkaitan dengan proses produksi tersebut. Selain itu aplikasi yang telah dibuat dapat digunakan untuk mengalokasikan biaya-biaya yang terjadi pada saat proses produksi, dan dapat digunakan untuk mengolah data yang akan dapat menghasilkan laporan-laporan yang berkaitan dengan perhitungan Harga Pokok Produksi suatu produk secara otomatis.",
+  "creators": "SEBASTIAN SUHANDI",
+  "contributors": "Alexander Setiawan (Advisor 1); Rudy Adipranata (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021344/INF/2014; Sebastian Suhandi (26409096)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "13199",
+  "title": "Perencanaan dan pembuatan sistem sanitasi otomatis menggunakan infra red dengan bantuan mikrokontroller PIC 16C84",
+  "abstract": "Salah satu realisasi dari proses otomatisasi adalah membuat alat yang dapat mengontrol seluruh sistem sanitasi. Dalam tugas akhir ini telah dimplementasikan sistem sanitasi pembuangan air urine, dimana seseorang tidak lagi melakukan penyiraman secara manual. Karena alat ini dapat membantu penyiraman dengan sendirinya. Dengan dilengkapi beberapa sensor yang mendukung sistem sanitasi sehingga sistem pembuangan air urine dapat bekerja. Sensor-sensor ini meliputi sensor infra red, sensor air, dan sensor temperatur. Cara kerja dari alat ini adalah untuk pertama kali mengontrol apakah ada seseorang atau tidak yang ditangkap oleh sensor infra red, kemudian apabila seseorang melakukan pembuangan air urine maka sensor temperature akan bekerja yaitu dengan mendeteksi air urine tersebut, setelah terdeteksi maka sensor air akan mengecek apakah terdapat air penyiraman atau tidak. Jika air penyiraman tersebut ada maka sensor air akan bekerja dan proses penyiraman terjadi setelah seseorang melakukan kegiatan dan akan meninggalkan tempatDan apabila sensor air tersebut tidak aktif yaitu dengan diberikan tanda led menyala,maka memberitahukan bahwa urinoir tersebut tidak dapat dipakai. Kemudian setelah diadakan pengujian pada dua urinoir, ternyata dua urinoir tersebut dapat berjalan dengan baik, baik untuk urinoir pertama, urinoir kedua yang dipakai secara bergantian maupun yang dipakai secara bersamaan.",
+  "creators": "YOSSY RIESIANE",
+  "contributors": "YOHANES T. D. S (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/044/389; Yossy Riesiane (23492096)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

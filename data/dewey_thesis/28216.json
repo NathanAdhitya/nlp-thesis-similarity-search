@@ -1,0 +1,14 @@
+{
+  "id": "28216",
+  "title": "Klasifikasi analisa struktur statis tak tentu berdasarkan dan metode stiffness",
+  "abstract": "Untuk menganalisa struktur statis tak tentu terdapat bermacam- macam cara. Dari cara yang ada, menurut prinsip dasarnya dapat digolongkan menjadi Forced Method/Metode Flexibility, Displacement Method/Metode Stiffness dan Approximate Method. Dari tiga kelompok besar tsb di atas, yang kami bahas hanya Forced Method dan Displacement Method. Kedua kelompok tsb di atas masih dapat dibagi lagi berdasarkan cara perhitungannya, yaitu cara klasik dan cara matrix. Pembagian kelompok berdasarkan kedua cara tsb adalah sbb: 1. Yang tergolong Forced Method/Metode Flexibility; * Untuk cara klasik: - cara consistent deformation. - cara elastic center. - cara column analogy. - cara three moment equation/Clapeyron. * Untuk cara matrix: - Matrix Forced Method/Matrix Flexibility Method 2. Yang termasuk Displacement Method/Metode Stiffness; * Untuk cara klasik; - cara slope deflection. - cara moment distribution dari Cross, - cara Takabeya. * Untuk cara matrix : - Matrix Displacement Method/Matrix Stiffness Method. Cara-cara tsb di atas satu persatu kami bahas prinsip dasarnya, cara kerjanya, serta untuk memperjelas diberikan beberapa contoh. Sebagai penunjang dalam pembahasan tsb di atas, maka kami bahas sedikit tentang energy theorem antara lain strain energy, virtuil work, Castigliano theorem, hukum timbal balik Maxwell dan Betti, serta unit load theorem. Sedangkan untuk menghitung deformasi dari struktur sering digunakan cara conjugate beam/frame, maka cara tsb Juga dibahas. Sebagai kesimpulan dikemukakan perbedaan masing-masing cara dalam satu kelompok, kegunaan masing-masing cara, juga perbedaan antara Flexibility Method dan Stiffness Method. Karena luasnya ruang lingkup dari analisa struktur tsb, maka dalam tugas akhir ini kami batasi dengan beberapa batasan, yaitu: - material alastis linear dan homogin. - demensi struktur maksimum adalah dua ( plane frame atau plane truss ), - deformasi dari struktur yang ditinjau hanya akibat M atau N. - asas Bernoulli dan Navier berlaku, - teori yang digunakan adalah small deflection theory. - tinggi balok dianggap kecil dibandingkan dengan panjang balok (thin beam).",
+  "creators": "SUGIHARTO H.; TJIO HOK KIAT",
+  "contributors": "Unknown",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 169 S; Sugiarto H. (275060), Tjio Hok Kiat (275116)",
+  "subjects": "STATICALLY INDETERMINATE STRUCTURES; STRUCTURAL ANALYSIS (ENGINEERING)"
+}

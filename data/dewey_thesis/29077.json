@@ -1,0 +1,14 @@
+{
+  "id": "29077",
+  "title": "Perancangan dan pembuatan aplikasi skeletonization",
+  "abstract": "Perkembangan teknologi pengolahan citra sangatlah berkembang saat ini, di antaranya adalah pengenalan obyek pada citra. Algoritma untuk mendapatkan hasil yang akurat dalam pengenalan obyek terus dikembangkan. Salah satu contohnya adalah aplikasi pengenalan tulisan tangan. Aplikasi ini biasanya digunakan untuk mengarsipkan catatan atau dokumen dari bentuk fisik seperti buku catatan maupun surat kedalam bentuk file digital. Salah satu proses awal dalam pengolahan citra adalah segmentasi citra, dan salah satu metode yang digunakan adalah skeletonizaton Skeletonization ini menggunakan metode Discrete Local Symmetry. Proses dimulai dengan menetapkan active contour dari citra. Dari active contour tersebut dilakukan proses triangulation. Dan dari proses tersebut dicari titik simetri. Kemudian dilakukan proses skeletonization menggunakan titik simetri yang didapatkan. Hasil pengujian menunjukkan bahwa ukuran sebuah citra sangat mempengaruhi hasil proses skeletonization menggunakan metode Discrete Local Symmetry. Metode Discrete Local Symmetry cocok digunakan untuk benda yang berbentuk ribbon-like.",
+  "creators": "GIDEON SIMON S",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021276/INF/2013; GideonSimon S. (26409015)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES; COMPUTER AIDED VISION"
+}

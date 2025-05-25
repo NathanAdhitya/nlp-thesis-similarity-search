@@ -1,0 +1,14 @@
+{
+  "id": "44864",
+  "title": "Optimasi topologi dan ukuran penampang struktur rangka batang dengan metode metaheuristik",
+  "abstract": "Struktur rangka batang baja merupakan salah satu tipe struktur yang populer karena nilai fungsi dan kepraktisannya. Oleh karena itu optimasi struktur menjadi semakin penting untuk mendapatkan struktur rangka batang baja yang paling efisien. Optimasi topologi dari struktur rangka batang baja memberikan hasil yang lebih optimal dibandingkan optimasi luas penampang karena batang dan nodes yang tidak berguna pada struktur dapat dihilangkan. Fungsi objektif dari algoritma metaheuristik adalah untuk meminimalkan massa total struktur rangka batang baja terhadap constraints statis dan dinamis berdasarkan studi kasus dan spesifikasi bangunan baja struktural Indonesia, SNI 1729:2015. Empat algoritma yang digunakan pada studi ini adalah: Particle Swarm Optimization, Differential Evolution, Teaching-Learning-Based Optimization, dan Symbiotic Organisms Search. Algoritma-algoritma tersebut diuji pada tiga studi kasus: 24-bar, 20-bar, dan 72-bar truss. Performa dari algoritma tersebut diukur dari lima kriteria massa dan satu kriteria run time. Lima kriteria massa yang digunakan adalah massa terbaik, terburuk, rata-rata, standar deviasi, dan median dari struktur rangka batang baja. Hasil penelitian menunjukkan SOS memiliki performa terbaik pada studi kasus 24-bar truss dan 72-bar truss. Di sisi lain, DE mampu memberikan performa yang baik pada studi kasus 20-bar truss. Selanjutnya, TLBO mampu menunjukkan performa yang baik pada kasus 72-bar truss.",
+  "creators": "RICKY AGUSTA HARTONO; HIERONIMUS ENRICO SURYO",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 2); Pamuda Pudjisuryadi (Examination Committee 1); Willy Husada, S.T., M.T., M.Sc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012320/SIP/2019; Ricky Agusta Hartono (21415013), Hieronimus Enrico Suryo (21415011)",
+  "subjects": "COSNTRUCTION INDUSTRY-MANAGEMENT; STEEL, STRUCTURAL"
+}

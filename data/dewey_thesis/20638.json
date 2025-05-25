@@ -1,0 +1,14 @@
+{
+  "id": "20638",
+  "title": "Perancangan dan pembuatan aplikasi music composer",
+  "abstract": "Dalam mengkomposisi sebuah lagu, seseorang perlu memiliki kemampuan membayangkan tiap suara alat musik dan nadanya. Akan tetapi, banyak orang yang ingin membuat lagu dan tidak memiliki kemampuan untuk membayangkan serta tidak memiliki alat musik tersebut. Maka dari itu, diperlukan alat bantu yang dapat merepresentasikan berbagai macam alat musik untuk mengkomposisi sebuah lagu sehingga banyak orang dapat membuat musik tanpa perlu memiliki alat musik yang sesungguhnya. Melihat dari perkembangan komputer yang cukup pesat dan banyak orang yang menggunakan komputer, maka perangkat lunak ini dibuat dengan tujuan untuk menjadi alat bantu tersebut. Aplikasi ini dibuat dengan menggunakan JFugue Java API yang merepresentasikan musik kedalam bahasa pemrograman. Pemrograman aplikasi ini menggunakan prisip pemrograman berorientasi objek (OOP) dengan menggunakan bahasa pemrograman java, kompiler NetBeans IDE 6.8. Aplikasi ini menyediakan 16 track, 127 macam suara alat musik, pengaturan not dalam bentuk not balok, dan pengaturan tempo serta kemampuan untuk transpose. Aplikasi ini juga mampu membaca file MIDI, meng-edit, dan menyimpan dalam file format MIDI atau WAVE.",
+  "creators": "RICHARD VICTOR SETIAJI",
+  "contributors": "Liliana (Advisor 1); Rudy Adipranata (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020906/INF/2010; Richard Victor Setiaji (26406031)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

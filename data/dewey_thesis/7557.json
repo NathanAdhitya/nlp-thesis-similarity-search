@@ -1,0 +1,14 @@
+{
+  "id": "7557",
+  "title": "Implementasi teknologi SMS untuk mempermudah transfer data",
+  "abstract": "Saat ini, dalam melakukan suatu usaha / bisnis diperlukan ketepatan dan kecepatan dalam memperoleh informasi yang berkaitan dengan usaha yang dilakukan. Permasalahan yang sering timbul dalam mendapatkan informasi yang dibutuhkan adalah besarnya biaya dan tenaga yang harus dikeluarkan. Penggunaan SMS dalam memperoleh informasi dapat membantu pengeluaran suatu badan usaha menjadi lebih kecil dan mengefisiensikan tenaga kerja yang dimiliki. Dalam mengimplementasikan penggunaan SMS digabungkan dengan suatu sistem database agar dapat secara otomatis mengolah informasi yang didapat menjadi data dan memasukkannya kedalam database tersebut. Penggabungan antar database dan sistem dilakukan dengan menghubungkan handphone ke komputer dan untuk mengakses handphone tersebut digunakan AT Command. Dalam pengujian, SMS berhasil digunakan untuk mengirim data dari suatu sistem ke sistem lain dan merubah database yang dimiliki sesuai dengan SMS yang dikirimkan, dan membalas SMS secara otomatis dengan format tertentu, serta menghemat waktu.",
+  "creators": "SISCA",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Ibnu Gunawan (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000423/INF/2005; Sisca (26402015)",
+  "subjects": "DATA BASE DESIGN; DIGITAL COMMUNICATION; DATA TRANSMISSION SYSTEMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "14989",
+  "title": "Robot pemangsa dengan senjata sinar laser",
+  "abstract": "Akhir-akhir ini teknologi robot tidak hanya berkembang dengan pesat pada dunia kontrol industri tetapi juga berkembang pada dunia permainan yang cukup menarik. Berdasarkan hal tersebut maka dibuatlah sebuah robot yang dapat mencari sasaran dengan sendirinya dan menembakkan lasernya dengan tepat mengenai sasaran. Konstruksi dari robot pemangsa dengan senjata sinar laser ini menggunakan microcontroller AT89C2051 sebagai otak robot, sensor infra merah sebagai pendeteksi benda dan sasaran serta menggunakan motor DC untuk menjalankan robot. Dalam mencari sasaran, robot harus mendeteksi adanya sinyal infra merah yang dipancarkan oleh transmitter pada sasarannya. Selama belum ada sasaran, robot akan terus mencari sasaran. Apabila ada halangan robot akan menghindarinya sehingga tidak menabrak. Setelah menemukan sasarannya maka robot akan menembakkan laser sampai tepat mengenai sasaran. Hasil pengujian terbaik dari robot pemangsa dengan senjata sinar laser dalam mengenai sasaran adalah dengan menempatkan robot di depannya dan jangkauan terbaik dari transmitter infra merah dengan VR 100 Q pada sasaran adalah 4,4 meter.",
+  "creators": "CH WIBOWO YASIN",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/009/523; CH. Wibowo Yasin (23496043)",
+  "subjects": "ROBOTICS-MILITARY APPLICATIONS; ROBOTS"
+}

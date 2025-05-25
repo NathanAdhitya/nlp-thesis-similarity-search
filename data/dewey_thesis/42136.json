@@ -1,0 +1,14 @@
+{
+  "id": "42136",
+  "title": "Pembuatan game werewolf pada mobile device dengan near me menggunakan GPS",
+  "abstract": "Salah satu game yang lagi terkenal akhir-akhir ini adalah game Werewolf. Game ini membutuhkan pemain 15-20 sekali permainan. Kenyataannya, sangatlah susah untuk mengumpulkan 15-20 pemain di suatu tempat dan waktu yang sama. Fitur Near Me sendiri adalah sebuah fitur yang menampilkan daftar room permainan yang pemainnya berada didekat user. Sehingga para pemain tidak perlu menghabiskan waktu untuk mencari nama/nomor room permainan untuk bermain bersama. Untuk mendapatkan jarak dari Near Me ini digunakan GPS dari tiap pemain dan nantinya akan diukur seberapa jauh jarak pemain yang ada di dalam room permainan dengan user menggunakan rumus untuk mengukur jarak dengan latitude dan longitude. Selain itu, dari applikasi game werewolf yang sudah ada, untuk bermain dengan teman disekeliling sangatlah susah karena tidak terdapat fitur Near Me. Oleh karena itu, dibuatlah game Werewolf ini dengan fitur Near Me menggunakan GPS. Langkah-langkah pembuatan skripsi ini pertama adalah mempersiapkan database game menggunakan MySQL. Kemudian membuat interface permainan dengan menggunakan Android Studio, membuat server permainan menggunakan Firebase. Setelah itu, menghubungkan database dan server permainan ke Android Studio. Membuat fitur-fitur pendukung dari game, dan melakukan pemeriksaan secara keseluruhan terhadap game. Adapun hasil akhir dari aplikasi ini adalah sebuah game Werewolf dengan fitur Near Me. Setelah melalui beberapa tahap pengujian, aplikasi ini dapat dimainkan hingga maksimal 18 pemain dalam 1 room permainan dan dapat memiliki 10 room permainan. Berdasakan hasil kuisioner pengguna yang telah memainkan aplikasi ini, fitur Near Me menggunakan GPS memudahkan para pemain untuk masuk ke dalam room permainan. Terbukti 75% pengguna menyatakan memuaskan.",
+  "creators": "ALBERT",
+  "contributors": "Kartika Gunadi (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021759/INF/2018; Albert (26413138)",
+  "subjects": "MOBILE GAMES; COMPUTER GAMES--PROGRAMMING"
+}

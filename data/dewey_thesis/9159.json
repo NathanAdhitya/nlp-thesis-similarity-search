@@ -1,0 +1,14 @@
+{
+  "id": "9159",
+  "title": "Perancangan dan pembuatan program image enhancement menggunakan homomorphic filtering",
+  "abstract": "Penggunaan gambar digital semakin hari semakin meningkat karena kelebihan yang dimiliki oleh gambar digital itu sendiri. Antara lain kemudahan dalam mendapatkan gambar, memperbanyak gambar, dan pengolahan terhadap gambar digital. Karena semakin tingginya kebutuhan akan gambar digital, semakin meningkat pula kebutuhan akan gambar digital dengan kualitas yang bagus. Dengan kualitas gambar yang bagus, diharapkan dapat diperoleh informasi yang diperlukan dari gambar tersebut. Perangkat lunak yang dibuat dalam Tugas Akhir ini merupakan salah satu upaya untuk memperbaiki kualitas gambar yang kurang. Perangkat lunak ini dibuat dengan menggunakan algoritma homomorphic filtering. Algoritma ini bekerja dengan cara mengeliminasi atau melemahkan data pada frekuensi rendah dan memperkuat data pada frekuensi tinggi dari image. Data pada frekuensi tinggi ini merupakan detail dari image, sehingga dengan memperkuat frekuensi ini akan menghasilkan image enhancement dan sharpening dari image. Pemrograman perangkat lunak ini menggunakan bahasa pemrograman C++, kompiler Microsoft Visual C++ 6.0 ? . Hasil pengujian menunjukkan bahwa pemilihan parameter yang tepat dari butterworth highpass filter, baik itu cutoff frequency, order filter, alpha dan beta akan menentukan hasil akhir proses.",
+  "creators": "WILLIAM SUSANTO",
+  "contributors": "Rudy Adipranata (Advisor 1); Cherry Galatia Ballangan, S.Si., M.AIT. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000458/INF/2006; William Susanto (26402045)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

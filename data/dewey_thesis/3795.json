@@ -1,0 +1,14 @@
+{
+  "id": "3795",
+  "title": "Programmer MCS-51 dengan media MMC",
+  "abstract": "Pengunaan microcontroller dalam bidang elektronika telah berkembang sangat pesat. Hal ini dapat dilihat dengan munculnya berbagai tipe microcontroller baru. Salah satu microcontroller yang paling banyak dipakai di Indonesia adalah microcontroller kelas MCS-51. Dengan semakin banyaknya kebutuhan pemakaian microcontroller, maka kebutuhan alat pemrogram microcontroller juga akan meningkat. Terutama kebutuhan alat yang portable. Karena saat ini, hampir semua microcontroller programmer harus dipasang pada sebuah komputer. Sehingga perlu adanya sebuah programmer yang dapat memprogram microcontroller, tanpa harus dihubungkan pada sebuah komputer. Karena alat ini tidak dihubungkan dengan sebuah komputer, maka alat ini harus dapat membaca media penyimpanan portable (yang dapat dibaca oleh komputer). Karena alasan tersebut, maka dirancanglah sebuah programmer MCS-51 yang dapat membaca media penyimpanan MMC. Dan tidak perlu dihubungkan ke komputer. Alat ini memiliki input-an keypad (tiga tombol), dan memiliki tampilan menggunakan LCD. Programmer MCS-51 pada Tugas Akhir ini mampu membaca media penyimpanan MMC yang mengunakan format FAT16. Isi dari MMC dapat ditelusuri dengan menekan tombol keypad dan melihat tampilan pada layar LCD. Bila file yang ingin diprogram sudah dapat ditemukan, maka pengguna dapat segera memprogramkan isi dari file yang sedang dilihat pada layar LCD ke microcontroller AT89S51 target dengan menekan satu tombol saja. Dari pengujian, alat ini mampu bekerja dengan baik, untuk dapat mencari file yang ingin diprogramkan pada target dari MMC, dan juga dapat memprogram microcontroller target AT89S51.",
+  "creators": "HENDRA WIDJAJA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010821/ELK/2006; Hendra Widjaja (23402023)",
+  "subjects": "COMPUTER-PROGRAMMING; MICROCONTROLLER MSC-51; MSC-51(MICROCOUNTROLLER)"
+}

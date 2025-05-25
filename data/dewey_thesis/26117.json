@@ -1,0 +1,14 @@
+{
+  "id": "26117",
+  "title": "Pendeteksian tingkat blur pada image menggunakan wavelet transform",
+  "abstract": "Pendeteksian gambar kabur merupakan bidang yang penting saat ini. Pendeteksian ini didorong oleh kebutuhan manusia untuk mengenali suatu gambar yang kabur, sehingga tidak melewatkan momen penting yang terjadi. Oleh karena itu, pada skripsi ini, dilakukan pembuatan aplikasi untuk melakukan pendeteksian gambar kabur. Proses pendeteksian ini dimulai dengan melakukan Haar Wavelet, construct Emap dan local maxima. Kemudian dilakukan perhitungan akan kekaburan gambar. Aplikasi ini dibuat menggunakan Microsoft Visual C#. Hasil pengujian menunjukkan bahwa gambar kabur dapat dideteksi dan dihitung tingkat kekaburan gambar. Kamera goyang saat mengambil gambar dan intensitas cahaya mempengaruhi kekaburan suatu gambar. Pendeteksian tidak cocok dilakukan terhadap gambar solid.",
+  "creators": "DENNY PUJO HUTAMA",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021068/INF/2011; Denny Pujo (26408049)",
+  "subjects": "COMPUTER GRAPHICS; IMAGE PROCESSING - DIGITAL TECHNIQUES"
+}

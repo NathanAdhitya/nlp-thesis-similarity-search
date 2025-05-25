@@ -1,0 +1,14 @@
+{
+  "id": "16150",
+  "title": "Pembuatan perangkat lunak pengenalan wajah menggunakan principal components analysis",
+  "abstract": "Pengenalan wajah manusia merupakan salah satu bidang penelitian yang penting, dan dewasa ini banyak aplikasi yang dapat menerapkannya, baik di bidang komersial maupun di bidang penegakan hukum. Teknik pengenalan wajah pada saat ini telah mengalami kemajuan yang sangat berarti. Melalui pengembangan suatu teknik seperti Principal Components Analysis (PCA), komputer sekarang dapat melebihi kemampuan otak manusia dalam berbagai tugas pengenalan wajah, terutama tugas-tugas yang membutuhkan pencarian pada database wajah yang besar. Tujuan tugas akhir ini adalah untuk membuat suatu perangkat lunak pengenalan wajah dengan menggunakan teknik PCA untuk mereduksi dimensi gambar wajah sekaligus untuk mengetahui kemampuan dari teknik tersebut. Dalam tugas akhir ini, perangkat lunak yang dibuat menggunakan gambar diam sebagai inputnya dan suatu jaringan saraf tiruan dengan metode Backpropagation sebagai pengklasifikasinya. Bahasa pemrograman yang dipakai adalah Borland Delphi 5.0 yang merupakan bahasa pemrograman secara Object-Oriented. Hasil pengujian sistem menunjukkan bahwa penggunaan PCA untuk pengenalan wajah dapat memberikan tingkat akurasi yang cukup tinggi. Untuk gambar wajah yang diikutsertakankan dalam latihan, dapat diperoleh 100% identifikasi yang benar. Dari beberapa kombinasi jaringan yang diujikan diperoleh suatu kombinasi yang paling optimal, yaitu kombinasi 25 unit input - 40 hidden unit dan toleransi output sebesar 0,20 untuk jaringan backpropagationnya, dimana untuk gambar-gambar wajah yang tidak ikut dilatih, dapat diperoleh rata-rata terbaik 91,11% identifikasi yang benar. Hasil rata-rata terburuk adalah 46,67% identifikasi yang benar pada kombinasi 10 unit input - 30 hidden unit atau 30 unit input - 20 hidden unit dengan toleransi output sebesar 0,05.",
+  "creators": "SONNY REINARD PONGSITANAN",
+  "contributors": "Kartika Gunadi (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/KOM/012/069; Sonny Reinard Pongsitanan (23495081)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

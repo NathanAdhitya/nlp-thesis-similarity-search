@@ -1,0 +1,14 @@
+{
+  "id": "4765",
+  "title": "Aplikasi SMS gateway untuk simulasi akses informasi deposito pada sebuah bank",
+  "abstract": "SMS gateway dapat digunakan untuk akses informasi bagi orang yang membutuhkan. Bank sebagai salah satu layanan publik dapat menggunakan sistem SMS ini sebagai cara untuk memberikan layanan informasi kepada nasabah. Layanan ini sering disebut SMS Banking. Pada tugas akhir ini sistem SMS Banking digunakan untuk memberikan akses informasi kepada nasabah terutama untuk layanan simpanan deposito. Aplikasi ini akan mengirimkan SMS secara otomatis kepada nasabah sebagai peringatan bahwa deposito mereka segera jatuh tempo. Layanan lain adalah informasi jumlah saldo deposito, tingkat suku bunga bank serta nilai tukar beberapa mata uang asing. Semua informasi tersebut akan dikirimkan oleh pihak bank kepada nasabah yang melakukan request SMS. Sistem aplikasi ini dibuat dengan menggunakan Delphi 6.0 dan database Microsoft Access. Sistem akan melakukan pengiriman SMS informasi kepada nasabah dua hari sebelum waktu jatuh tempo deposito mereka, dengan waktu pengiriman yang dapat ditentukan pihak bank. Selain itu sistem ini mengolah SMS yang masuk dan akan mengirimkan balik kepada nasabah yang meminta informasi. Hasil dari pengujian didapatkan bahwa secara umum pengiriman SMS informasi dapat dilaksanakan dengan baik. Kegagalan pengiriman SMS secara otomatis akan tersimpan dalam tabel report, sehingga bank dapat melakukan pengiriman ulang terhadap SMS yang gagal terkirim. Untuk informasi yang dikirimkan kepada nasabah pihak bank akan membebankan biaya SMS kepada nasabah. Beban nasabah tersebut kemudian akan diberitahukan pada saat nasabah mengambil deposito.",
+  "creators": "OKTAVIANUS DWI ARTANTYO",
+  "contributors": "Resmana Lim (Advisor 1); Aditya Umbu Tana Amah (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010017/ELK/2004; Oktavianus Dwi Artantyo (23400129)",
+  "subjects": "DIGITAL COMMUNICATION; DATA TRANSMISSION SYSTEMS"
+}

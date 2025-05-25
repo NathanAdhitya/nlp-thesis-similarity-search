@@ -1,0 +1,14 @@
+{
+  "id": "1507",
+  "title": "Pembuatan sofware editor bookmark MP3",
+  "abstract": "File MP3 sangat membantu orang-orang yang senang mengoleksi segala sesuatu yang berhubungan dengan audio, seperti audiobook, dan rekaman kaset. Dalam penggunaan audiobook ataupun rekaman kaset masih terdapat kesulitan jika kita hendak menuju bab-bab atau bagian-bagian tertentu, karena tidak adanya bookmark yang membatasi setiap bagiannya. Oleh karena itu dibuatlah software editor bookmark MP3 dengan menggunakan metode ID3v2 tag dan file indeks. Pada software ini terdapat fasilitas update bookmark (add, edit dan delete bookmark), search (search by string dan search by word), serta fungsi go to previous dan next bookmark. Software ini juga dilengkapi dengan encoder WAV ke MP3 untuk membantu bookmarking jika source file-nya masih berupa file WAV. Software ini dibuat pada operating system Windows 98 dengan bahasa pemrograman Borland Delphi 5.0. Pengujian dilakukan pada PC Pentium III 450 MHz dan memory 320 MByte. Hasil pengujian menunjukkan bahwa encoding dengan berbagai parameter dan semua fasilitas bookmarking dapat berjalan dengan baik. Waktu bookmarking yang dibutuhkan untuk save bookmark ketika menggunakan metode ID3v2 tag lebih lama dibandingkan metode file indeks, yaitu terdapat selisih waktu sekitar 800 milidetik untuk file berukuran 9.358.183 byte. Dari hasil pengujian dapat ditarik kesimpulan bahwa metode ID3v2 tag dan metode file indeks masing-masing memiliki kelebihan dan kekurangan. Metode ID3v2 tag bersifat standard namun lebih lambat. Sedangkan metode file indeks tidak bersifat standard namun lebih cepat.",
+  "creators": "LICKE",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Resmana Lim (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0086/INF/2003; Licke (26499156)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "19727",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada intermedia computer",
+  "abstract": "Intermedia Computer merupakan sebuah toko komputer yang berkembang di kota Sidoarjo yang menjual berbagai macam perangkat keras dan aksesori komputer. Pencatatan semua transaksi pembelian dan penjualan pada toko ini masih menggunakan sistem manual sehingga membuat pemilik kesulitan dalam melakukan pencatatan stok barang dan mengetahui keuntungan dan kerugian pada toko. Sistem informasi administrasi ini, diharapkan dapat membantu Intermedia Computer dalam mencatat transaksi pembelian dan penjualan, sehingga dapat meminimalkan adanya kesalahan yang timbul akibat pencatatan aktivitas pembelian dan penjualan secara manual pada toko Intermedia Computer. Rancangan desain sistem meliputi sistem pembelian, penjualan, pencatatan stok, dan jasa perbaikan hardware. Semua sistem tersebut dirancang dengan Data Flow Diagram dan Entity Relationship Diagram. Pembuatan program ini menggunakan bahasa pemrograman PHP yang berbasis web. Proses penyimpanan data, digunakan database MySQL. Program yang dibuat menghasilkan laporan-laporan yang berguna untuk dapat melihat transaksi yang telah dilakukan pada periode tertentu. Berdasarkan hasil pengujian, fitur-fitur yang telah terdapat pada program yang dibuat dapat membantu dalam melakukan proses transaksi pembelian, penjualan, dan jasa perbaikan hardware. Kebutuhan akan toko ini juga telah terpenuhi melalui laporan yang dihasilkan oleh program.",
+  "creators": "WILLY NIRWANA",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Leo Willyanto Santoso (Advisor 2); Arlinah Imam Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020932/INF/2010; Willy Nirwana (26406111)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "47996",
+  "title": "Sistem kontrol keseimbangan robot beroda satu",
+  "abstract": "Pada zaman ini, perkembangan penelitian robotik khususnya mobile robot sangat berkembang pesat. Salah satu contoh mobile robot itu adalah self balancing robot. Awalnya self balancing robot ini menggunakan 2 buah rodas sebagai aktuator yang biasa kita sebut sebagai segway. Namun dengan seiring perkembangan zaman, untuk memotong biaya produksi, maka mulai diciptakan segway beroda satu. One wheeled self balancing robot adalah robot beroda satu yang dapat menyeimbangkan dirinya sendiri. Robot ini dapat menyeimbangkan dirinya karena adanya sistem kontrol. Dalam prototipe ini, akan dibagai menjadi dua hal yaitu hardware dan software. Dari sisi hardware, robot ini dibuat dengan menggunakan baterai Lipo 3S 1500Mah, regulator lm 2596, sensor IMU MPU 6050, Arduino Uno, driver L298N. Dari sisi software, akan digunakan aplikasi Arduino IDE untuk melakukan pemrograman dan metode kontrol yang akan digunakan adalah PID. Accelerometer dan gyroscope yang terdapat dalam IMU akan membaca nilai – nilai yang nantinya akan dikirimkan ke arduino melalui komunikasi serial I2C. Nilai – nilai ini nantinya akan dikonversikan menjadi sudut yang akan mengatur arah gerak dari robot beroda satu. Pengujian dilakukan dengan mencari nilai kombinasi PID yang terbaik, initial position maksimal yang dapat ditempuh oleh robot, serta sudut kemiringan maksimal yang dapat ditempuh oleh robot. Nilai kombinasi PID yang baik adalah Kp sebesar 30, Ki sebesar 200 dan Kd sebesar 1. Sedangkan untuk initial position maksimal yang dapat ditempuh oleh robot berada di range 175° hingga 185°. Dan untuk sudut kemiringan maksimal yang dapat ditempuh robot adalah sebesar 5°.",
+  "creators": "HANS JUNIAN",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Examination Committee 1); Handy Wicaksono (Examination Committee 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010996/ELK/2020; Hans Junian (23416009)",
+  "subjects": "MOBIL ROBOTS; ROBOTS--CONTROL SYSTEMS"
+}

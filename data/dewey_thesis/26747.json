@@ -1,0 +1,14 @@
+{
+  "id": "26747",
+  "title": "Programmable sound level meter menggunakan interface card IBM PC",
+  "abstract": "Semakin pesat kemajuan industri, maka semakin banyak pula digunakan berbagai mesin-mesin berat. Dampak dari mesin-mesin berat tersebut adalah suara bising yang ditimbulkannya yang terkadang melebihi kemampuan telinga manusia. Hal tersebut mempengaruhi pula kenyamanan kerja manusia. Untuk itu diperlukan sebuah alat pemantau ketinggian tingkat kebisingan tersebut. Dalam tugas akhir ini direncanakan dan dibuat suatu alat pemantau seberapa besar tingkat kebisingan yang ditimbulkan oleh mesin-mesin berat. Dengan memanfaatkan IBM PC yang telah banyak digunakan, dibuatlah alat tersebut. Salah satu cara yaitu dengan jalan interfacing melalui slot ekspansi IBM PC. Sinyal diterima oleh transducer, kemudian diolah melalui rangkaian sinyal conditioning, yang terdiri dari beberapa penguat dan beberapa filter. Setelah melalui sinyal conditioning, sinyal analog diubah ke bentuk sinyal digital melalui analog converter ADC 0808, selanjutnya data di olah oleh IBM PC. Melalui IBM PC data dapat dibaca kembali dan ditampilkan dalam bentuk grafik. Kemampuan optimal setelah melalui serangkaian pengujian alat ini dapat mengukur tingkat kebisingan antara 60 dB sampai 120 dB, di mana tingkat suara yang menimbulkan kebisingan yaitu sekitar 60 dB ke atas.",
+  "creators": "RUDI ISWANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/031/0152; Rudi Iswanto (23487091)",
+  "subjects": "INTEL (MICROPROCESSORS); COMPUTER INTERFACE"
+}

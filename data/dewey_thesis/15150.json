@@ -1,0 +1,14 @@
+{
+  "id": "15150",
+  "title": "Fuzzy kernel untuk PLC omron C200HG",
+  "abstract": "Control System based on PLC is widely used in industrial world. Mostly, PLC based control system has not use fuzzy logic technology. Fuzzy logic control is very easy and simple to implement. This kind of control system does not require exact mathematical model to represent output as a function of input. Input and Output have membership functions that are related with rules. Those membership functions are required to perform three major processes in fuzzy logic control which are Fuzzification, Rule Evaluation and Defuzzification. The system, which is designed, is a Fuzzy Control Unit minimum system that is designed to work with Omron PLC. This system provides fuzzy logic control facility for PLC. Using this Fuzzy Control Unit, a PLC can perform fuzzy logic contiol easily. This Fuzzy logic control is connected to a PLC thru Host Link Unit for data transmission, and is connected to computer to develop fuzzy's membership functions and rules. This Fuzzy Control Unit will start fuzzy calculation due to specific flag activation at certain memory location in PLC. Right after the flag is active the unit will take normalized fuzzy input, and then perform fuzzy calculation according to membership functions and rules, which are already stored in the system and previously downloaded from computer. After the fuzzy calculation is completed, the result will be sent to specific memory location in the PLC and the result flag will be activated. From the experiment which use a PC Motor Speed Control System, shows that Fuzzy Logic Control using the Fuzzy Control Unit works well with PLC and the time required for one fuzzy calculation process is relatively fast.",
+  "creators": "JUNAEDI",
+  "contributors": "Thiang (Advisor 1); Felix Pasila (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/037/474; Junaedi (23496002)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

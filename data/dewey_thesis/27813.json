@@ -1,0 +1,14 @@
+{
+  "id": "27813",
+  "title": "Perencanaan dan pembuatan logic analyzer delapan input dengan menggunakan mikrokontroler MCS-51",
+  "abstract": "Dengan makin berkembangnya dunia elektronika, pemakaian piranti elektronika untuk pengaturan suatu sistem mengalami kemajuan yang semakin pesat. Untuk mendukung pesatnya perkembangan tersebut diperlukan peralatan-peralatan pendukung yang memadai. Peralatan pendukung ini berfungsi untuk memudahkan dalam membuat dan menganalisa rangkaian-rangkaian mikroelektronika. Pada saat ini terdapat berbagai alat elektronik untuk menganalisa atau mendeteksi kondisi logic dari suatu sistem, diantaranya Osiloskop, Logic Probe, Logic Analyzer, dan masih banyak lagi peralatan ukur lainnya. Semua peralatan tersebut mempunyai kegunaan yang khusus, oleh karena itu perlu diketahui penggunaan dari masing-masing peralatan tersebut dengan tepat. Misalnya, untuk mengetahui level digital dari satu jalur, yang paling tepat adalah menggunakan Logic Probe. Tetapi bila ingin mengetahui perubahan-perubahan level digital dari sejumlah jalur yang perubahannya serempak dengan clock dari suatu sistem maka yang paling tepat adalah menggunakan Logic Analyzer. Dalam Tugas Akhir ini dibuat sebuah Logic Analyzer yang mempunyai 8 buah input yang dapat merekam sinyal-sinyal digital dengan level TTL. Logic Analyzer ini akan merekam sinyal-sinyal inputan dari luar, dan kemudian ditampilkan pada layar osiloskop dual trace. Masing-masing trace pada osiloskop dual trace tersebut akan dimultipex agar tiap trace dapat menampilkan 4 buah sinyal input sehingga osiloskop dapat menampilkan 8 buah sinyal input secara bersamaan dalam satu layar. Pedoman perekaman dari Logic Analyzer ini dapat berupa external clock (mode clock) ataupun sinyal yang dibangkitkan dengan menekan tombol pulser (mode pulser). Sinyal-sinyal digital yang direkam akan disimpan pada RAM internal dari MCS-51, setelah proses penyimpanan selesai data tersebut akan dikirim oleh MCS-51 melalui Port 0 ke rangkaian multiplexer untuk ditampilkan pada layar osiloskop. Banyaknya data yang disimpan dan akan ditampilkan pada layar osiloskop adalah 32 X 8 bit data input.Secara keseluruhan Logic Analyzer ini dapat dimanfaatkan dalam mempelajari teknik digital khususnya pada mata kuliah Rangkaian Logika.",
+  "creators": "Matxam Effendy",
+  "contributors": "NAWANTO WIBOWO (Examination Committee 1); HERLIANTO TENGGARA (Advisor 2); Murtiyanto Santoso (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/002/262; Matxam Effendy (23488019)",
+  "subjects": "ELECTRONIC CONTOLLERS-COMPUTER PROGRAMS; INTEL MCS-51 (MICROCONTROLLER); LOGIC ANALYZER"
+}

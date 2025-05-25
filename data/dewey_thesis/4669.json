@@ -1,0 +1,14 @@
+{
+  "id": "4669",
+  "title": "Fuzzy clustering dengan metode C-Means untuk forecasting data electrical load time-series",
+  "abstract": "Dalam membentuk membership function sebuah sistem fuzzy, biasanya diperlukan pengetahuan tentang data yang digunakan. Tetapi, apabila tidak ada pengetahuan tentang data tersebut, akan sangat sulit untuk membuat membership function dari sistem fuzzy tersebut. Algoritma Fuzzy Clustering metode C-Means merupakan sebuah algoritma yang dapat mempelajari data untuk membentuk membership function secara otomatis. Sistem Fuzzy Clustering dengan metode C-Means digunakan untuk melakukan clusterisasi pada data Time-Series yaitu data electrical load Jawa Timur-Bali 2005-2006. Degree of membership dari anggota kelas tersebut akan membentuk Gaussian Membership Function dalam sistem fuzzy. Sistem fuzzy yang digunakan adalah fuzzy tipe Takagi-Sugeno dengan output berupa crisp. Sistem fuzzy yang terbentuk, digunakan untuk melakukan forecasting data electrical load Jawa Timur-Bali 2007. Dari percobaan yang dilakukan, didapatkan bahwa, menggunakan 3 cluster adalah yang terbaik dalam melakukan forecasting electrical load Jawa Timur-Bali. Semakin panjang data set yang digunakan, maka hasil forecasting akan semakin tidak akurat . Tetapi, data set yang panjang, akan sangat baik dalam Long Term Forecasting. Hasil dari forecasting untuk bulan Januari 2007 ? Maret 2007 menggunakan Short Term Forecasting menghasilkan Mean Squared Error sebesar 0.0025 dan hasil forecasting untuk bulan April 2007 ? Juni 2007 menggunakan Long Term Forecasting, menghasilkan Mean Squared Error sebesar 0.0023 untuk bulan April 2007.",
+  "creators": "LIE HANDRA WIJAYA",
+  "contributors": "Felix Pasila (Advisor 1); Thiang (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010842/ELK/2007; Lie Handra Wijaya (23403051)",
+  "subjects": "FORECASTING-STATISCAL METHODS"
+}

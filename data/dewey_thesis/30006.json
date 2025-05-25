@@ -1,0 +1,14 @@
+{
+  "id": "30006",
+  "title": "Strategi electronic customer relationship management di PT XYZ",
+  "abstract": "PT XYZ merupakan sebuah perusahaan yang memprioritaskan customer lama. Namun dalam pelaksanaannya, PT XYZ belum memiliki sistem yang menunjang loyalitas customer, terutama yang menggunakan media eletronik. Hal ini terlihat pada beberapa proses seperti perencanaan kegiatan, penanganan complaint, dan penawaran produk. Padahal, saat ini teknologi sudah sangat berkembang dan memungkinkan hal-hal ini untuk menjadi tersistem sehingga dapat meningkatkan loyalitas customer. Berdasarkan latar belakang permasalahan itu, penulis merancang sistem strategi dan perangkat lunak electronic-Customer Relationship Management (e-CRM) yang berbasis web untuk membantu perusahaan mengatasi permasalahan tersebut. Proses pembuatan perangkat lunak ini sendiri menggunakan PHP dan SQL Server. Hasil yang diperoleh dari perangkat lunak yang telah dibuat antara lain: dapat memberikan rekomendasi peserta kegiatan secara otomatis, sistem penanganan complaint customer dimulai dari penyimpanan data complaint, proses evaluasi complaint yang dilengkapi dengan delegasi dan elevasi, dan complaint history untuk memudahkan penanganan complaint yang serupa. Selain itu, data mining dapat menghasilkan rekomendasi penawaran produk untuk tujuan cross-selling melalui pengelompokkan customer berdasarkan data transaksi penjualan. Hal ini dapat membuat promosi yang dilakukan akan lebih efektif daripada hanya mengandalkan pengetahuan dan pengalaman sales force.",
+  "creators": "DION CHRISTIAN HALIM",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); ANITA NATHANIA (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021300/INF/2014; Dion Christian Halim (26410079)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); SOFTWARE ENGINEERING; DATA MINING"
+}

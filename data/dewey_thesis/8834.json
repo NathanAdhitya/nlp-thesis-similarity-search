@@ -1,0 +1,14 @@
+{
+  "id": "8834",
+  "title": "Perancangan dan pembuatan sistem informasi pembelian, penjualan dan stok pada Garuda Sakti Motor",
+  "abstract": "Sistem informasi pada Garuda Sakti Motor masih menggunakan sistem manual dimana setiap harinya dilakukan pencatatan untuk menyimpan data transaksi-transaksi, baik transaksi pembelian, transaksi penjualan, pembayaran hutang dan data stok barang sehingga pengolahan data yang dilakukan memakan waktu yang relatif lama. Untuk itu dibutuhkan suatu perancangan dan pembuatan sistem informasi yang dapat mengelola data sehingga dapat menghasilkan informasi yang akurat. Pembuatan sistem informasi dimulai dengan membuat desain dari sistem yang ada dalam Garuda Sakti Motor dengan cara melakukan wawancara dan juga pengamatan pada Garuda Sakti Motor Setelah desain sistem terbentuk, dilakukan perancangan basis data yang akan digunakan sebagai penyimpan data yang terorganisir. Program sistem informasi yang dibuat meliputi modul data master, modul transaksi dan laporan-laporan. Program sistem informasi ini dibuat dengan menggunakan Delphi 7.0 dengan Microsoft Access 2003 sebagai basis data. Program sistem informasi ini dapat meningkatkan kinerja pembuatan laporan dalam UD. X. Aplikasi yang dihasilkan meliputi aplikasi pembelian, aplikasi penjualan dan juga laporan-laporan yang dilengkapi dengan pencarian data pembelian serta penjualan dan juga pengecekan stok spare part.",
+  "creators": "WIRA SETIAWAN HALIM",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Andreas Handojo (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010621/INF/2007; Wira Setiawan Halim (26400152)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

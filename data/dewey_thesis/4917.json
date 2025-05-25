@@ -1,0 +1,14 @@
+{
+  "id": "4917",
+  "title": "Perancangan dan pembuatan aplikasi financial planner dengan menggunakan metode ahp multi criteria untuk memilih investasi",
+  "abstract": "Dalam masyarakat yang tumbuh dan semakin kompleks setiap harinya, tekanan-tekanan dari pekerjaan, keluarga, maupun lingkungan makin meningkat. Sementara itu situasi pasar modal dan pasar uang pun berubah setiap saat tergantung dengan regulasi, situasi ekonomi, perubahan pasar, maka munculah perencana keuangan atau sering disebut sebagai financial planner yaitu sebuah profesi yang membantu mengelola keuangan dalam hal menabung, membelanjakan, menginvestasikan, sehingga kebutuhan dapat tercapai. Proses pembuatan software dimulai dengan wawancara dengan pakar investasi mengenai permasalahan dalam berinvestasi dan perilaku dari bentuk investasi yang akan digunakan serta penentuan criteria yang akan digunakan dalam proses AHP dan juga mencari data bentuk investasi antara lain tabungan, deposito, emas atau logam berharga, barang-barang koleksi, reksa dana, obligasi, saham. Tetapi dalam sistem Financial Planner yang dapat dijadikan sebagai input-an dalam program terbatas pada tabungan dan deposito serta reksa dana. Kemudian dilakukan proses analisis dan merancang kebutuhan yang dimulai dengan pembuatan flowchart system dan flowchart procedure Time value of Money dengan menggunakan\"Power Designer 6\".Dalam pembuatan program ini digunakan software Borland Delphi 7 dan Microsoft SQL Server. Dengan menggunakan program ini, maka proses perencanaan keuangan dapat dilakukan dengan fitur perhitungan dana pendidikan untuk anak, dana pensiun, dan perhitungan untuk other goals atau tujuan investasi lainnya. Setelah melalui berbagai tahap desain, implementasi, dan pengujian aplikasi, maka dapat disimpulkan sebagai berikut : dana kelebihan dari penghasilan dapat dimanfaatkan sampai dengan 95% untuk investasi. Pada bagian AHP, penerapan metode pada bagian pengambilan data untuk menentukan kriteria ini kurang tepat sehingga hasil yang didapat tidak sesuai. Jadi dalam tugas akhir ini, perhitungan AHP tidak berguna dan perbaikan pengambilan data dengan penyebaran kuisioner tidak dapat dilakukan karena keterbatasan waktu.",
+  "creators": "SETIAWAN HANDOYO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010569/INF/2007; Setiawan Handoyo (26402182)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "27591",
+  "title": "Aplikasi pendeteksi gerak untuk augmented reality",
+  "abstract": "Pada saat ini dunia animasi sangat berkembang baik dalam pembuatan game, film, edukasi, maupun periklanan. Pada awal mulanya animasi–animasi yang ada masih berupa gambar dua dimensi, tetapi dengan semakin berkembangnya teknologi, pembuatan animasi sudah beralih ke ranah 3 dimensi untuk virtual reality. Tahap berikutnya adalah manusia mengkombinasikan representasi virtual dengan persepsi dari dunia nyata. Sehingga interaksi antara manusia dengan komputer dapat lebih erat yang disebut dengan Augmented Reality(AR). Dari latar belakang masalah tersebut, sebagai tahap pertama dalam pembuatan Augmented Reality, dibuatlah aplikasi untuk mendeteksi papan acuan yang berupa tanda (marker) khusus dalam suatu gambar tertentu dengan bantuan webcam. Dari hasil pendeteksian terebut, akan dilakukan estimasi rotasi yang terjadi pada marker, Kemudian akan ditambahkan (overlay) suatu objek 3D ke tepat diatas gambar marker tadi. Berdasarkan hasil pengujian yang dilakukan, pendeteksian marker dan estimasi rotasi relative kurang akurat dengan perbedaan presisi +- 10 derajat dengan sudut aslinya.",
+  "creators": "ANDREAS YOHAN",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021171/INF/2012; Andreas Yohan (26408140)",
+  "subjects": "AUGMENTED REALITY; THREE-DIMENSIONAL MICROCOMPUTER GRAPHICS (COMPUTER PROGRAM); SOFTWARE ENGINEERING; IMAGE PROCESING-DIGITAL TECHNIQUES; COMPUTER GRAPHICS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "42534",
+  "title": "Sistem informasi administrasi CV Jaya Abadi",
+  "abstract": "Pada saat ini, CV Jaya Abadi masih melakukan pencatatan transaksi penjualan, pembelian secara manual. CV Jaya Abadi masih belum menggunakan sistem informasi yang terstruktur. Owner seringkali mengalami kesulitan dalam melakukan pemantauan jumlah stok masing-masing barang yang berada di tiga lokasi. Pencatatan yang dilakukan secara manual ini seringkali menyebabkan beberapa kesalahan yang dapat mengganggu proses bisnis dalam salon mobil ini serta membuang banyak waktu. Melihat berbagai macam permasalahan yang terjadi pada CV Jaya Abadi ini, maka dirancang sistem yang dapat mengolah data transaksi operasional, pembuatan kartu stok dan Stok barang serta pembuatan laporan keuangan yang lengkap. Aplikasi dibuat dengan program berbasis website yang menggunakan Framework Laravel, PHP sebagai bahasa pemrogramannya dan MySQL sebagai database. Pencatatan administrasi menggunakan metode perpetual dan kartu stok yang menggunakan metode Average. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, dapat melakukan pencatatan transaksi penjualan dan pembelian, Sstok barang yang dapat memberikan reminder apabila stok barang tersebut berada pada titik tertentu, serta laporan-laporan keuangan yang diperlukan.",
+  "creators": "HENDRA KURNIAWAN",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); CHRISTIAN, SE, AK (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021809/INF/2018; Hendra Kurniawan (26413099)",
+  "subjects": "COMPUTER PROGRAMMING; DATABASE MANAGEMENT; MANAGEMENT INFORMATION SYSTEMS"
+}

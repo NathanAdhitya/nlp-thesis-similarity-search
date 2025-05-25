@@ -1,0 +1,14 @@
+{
+  "id": "27386",
+  "title": "Perancangan dan pembuatan perangkat lunak manajemen proyek perusahaan konstruksi PT. Siddhakarya Hutama Satwika",
+  "abstract": "Saat ini sistem perhitungan rencana anggaran biaya dan penjadwalan PT. Siddhakarya Htama Satwika masih menggunakan cara lama atau tradisional berupa document excel. Adanya sistem penjadwalan berupa bar chart yang belum mengikuti kemajuan jaman. Serta belum tersistemnya pekerjaan yang menghasilkan laba / rugi, selalu berasumsikan bahwa setiap proyek yang dilakukan selalu laba karena mereka menggunakan pengambilan jasa atau keuntungan bersih berapa persen dari total pekerjaan. Berdasarkan latar belakang permasalahan itu, penulis merancang sistem perhitungan rencana anggaran biaya dan perangkat lunak manajemen proyek yang dapat mengatasi permasalahan tersebut. Proses pembuatannya menggunakan Microsoft Visual Studio VB .Net 2005 sebagai bahasa pemogramannya dan MySQL sebagai database. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, dapat menyusun rencana anggaran biaya secara otomatis. Pembuatan gantt chart untuk penjadwalan yang dapat memperhitungkan jumlah waktu kerja dari para pekerja. Perhitungan laba/ rugi dari masing-masing proyek. Serta daftar barang dan upah yang harus dipenuhi untuk pengerjaan proyek sesuai dengan rencana anggaran biaya yang disusun.",
+  "creators": "HAPPY DARMAYANTI TAN",
+  "contributors": "Rudy Adipranata (Advisor 1); CHRISTIAN, SE, AK (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021084/INF/2011; Happy Darmayanti Tan (26408065)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROJECT MANAGEMENT-COMPUTER PROGRAMS CONSTRUCTION; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

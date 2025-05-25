@@ -1,0 +1,14 @@
+{
+  "id": "5479",
+  "title": "Perencanaan dan pembuatan sistem informasi administrasi untuk PT. Mediantara Infopersada",
+  "abstract": "PT. Mediantara Infopersada adalah salah satu perusahaan yang bergerak di bidang penerbitan majalah. Pada saat ini, perusahaan masih memakai cara manual dalam menangani administrasi sehingga sering terjadi kesalahan dan kekeliruan pencatatan yang akhirnya membuat data tidak akurat. Oleh sebab itu, perusahaan ingin menata ulang sistem kerjanya menjadi lebih baik dengan sistem administrasi baru yang meliputi pencatatan transaksi pembelian dan transaksi penjualan serta mampu menghasilkan laporan yang sangat diperlukan seperti laporan pembayaran pembelian dan laporan piutang. Proses pembuatan program dimulai dengan analisa kegiatan administrasi yang diterapkan di perusahaan meliputi transaksi pembelian, penjualan, pembayaran pembelian dan pembayaran penjualan. Dari sistem ini kemudian disusunlah DFD, ERD dan diterapkan menjadi tabel yang dibuat pada database server SQL Server 2000. Program dibuat dengan bahasa pemrograman Borland Delphi 7.0 dan dengan sistem operasi Windows XP. Dengan adanya program yang menangani sistem administrasi pada PT. Mediantara Infopersada, seluruh transaksi administrasi menjadi rapi karena terdapat pencatatan yang lengkap dari saat pemesanan, transaksi, hingga pembayaran. Seluruh transaksinya juga dapat dimonitor dengan mudah melalui laporan-laporan yang bisa dihasilkan secara langsung. Keamanan juga lebih terjamin karena pengguna telah diberi wewenang khusus sehingga tidak dapat mengakses data yang bukan menjadi wewenangnya.",
+  "creators": "DAVY PRANOTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); Arlinah Imam Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000188/INF/2004; Davy Pranoto (26400084)",
+  "subjects": "DATA BASE DESIGN; DATA BASE MANAGEMENT"
+}

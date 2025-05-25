@@ -1,0 +1,14 @@
+{
+  "id": "45516",
+  "title": "Sistem pembacaan kWh Meter digital berbasis Raspberry PI",
+  "abstract": "Listrik pada jaman sekarang telah menjadi kebutuhan yang mendasar untuk berbagai aktivitas manusia untuk beragam fungsi. Di Indonesia yang berwenang sebagai penyedia energi listrik adalah Perusahaan Listrik Negera (PLN), untuk mengetahui besar energi listrik yang digunakan, dibutuhkan alat yang disebut kWh meter.Terdapat dua macam kWh meter: analog dan digital. Pencatatan yang dilakukan oleh PLN sekarang ini bervariasi mulai dari datangnya petugas untuk mendata secara manual atau dengan melakukan sistem prabayar. Pencatatan semacam ini sangat membuang waktu dan kurang efektif untuk dilakukan di jaman modern seperti ini yang semuanya serba instan. Hal seperti ini tentu akan mulai ditinggalkan bila tidak segera diperbaharui. Oleh karena itu dibutuhkan teknologi pembacaan kWh Meter digital secara sentral yang dapat diakses di manapun dan kapanpun. Melihat permasalahan di atas maka dibutuhkan suatu aplikasi untuk melihat penggunaan kWh, voltage, current, power, dan power factor. Untuk memantau penggunaan dari tenant tenant secara sentral dan dimana saja dapat di akses. Sistem ini menggunakan Raspberry Pi dan Website. Sistem ini dapat mendeteksi penggunaan kWh meter sekarang dengan kWh meter digital yang terhubung dengan Raspberry Pi dan pengguna atau admin dapat melihat jumalh pemakaian dalam website secara lansung. Pengguna dapat melihat grafik berapa penggunaan penggunaan kWh, voltage, current, power, dan power factor. Selain itu pengguna juga dapat mendapatkan notifikasi jika melebihi batas yang ditentukan. Sistem ini dapat membantu pencatatan kWh pada setiap tenant sebagai cara yang efektif",
+  "creators": "THOMAS KALSANTA SUBIJAKTO",
+  "contributors": "Resmana Lim (Advisor 1); Andreas Handojo (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021891/INF/2019; Thomas Kalsanta Subijakto (26415111)",
+  "subjects": "MICROCONTROLLER; RASPBERRY PI (COMPUTER)--PROGRAMMING"
+}

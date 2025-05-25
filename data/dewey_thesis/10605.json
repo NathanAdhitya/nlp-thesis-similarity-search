@@ -1,0 +1,14 @@
+{
+  "id": "10605",
+  "title": "Pengendalian miniatur pintu air Jagir Surabaya berbasis PLC omron C200HG",
+  "abstract": "Makalah ini menjelaskan tentang pengontrolan Miniatur Pintu Air Jagir. Sistem yang dibuat ini untuk mengatasi kekurangan yang ada pada pengontrolan pintu air secara manual terutama respon yang tanggap dalam proses buka-tutup pintu air dimana faktor ketahanan fisik dan psikologis dari penjaga pintu air dalam mengawasi dan mengontrol pintu air secara kontinyu. Miniatur ini dibuat dengan perbandingan ukuran 1 : 50, atau 1 cm setara dengan 50 cm dari ukuran Pintu Air Jagir yang sesunguhnya. Sistem yang dibuat ini akan mengendalikan plant Pintu Air secara otomatis menggunakan PLC Omron C200HG. Pemrograman dalam PLC menggunakan software SYSMAC-CPT dimana sofware ini menggunakan sistem ladder diagram. Dari pengujian yang dilakukan, miniatur dapat berjalan sesuai dengan yang diinginkan yaitu Pintu Air akan membuka atau menutup sesuai dengan level ketinggian elevasi muka air yang dibaca melalui sensor ketinggian air. Untuk kecepatan bukaan Pintu 2 adalah 0,00536 m/menit setara dengan 0,268 m/menit, sedangkan Pintu 1 dan Pintu 3 adalah 0,00337 m/menit setara dengan 0,1685 m/menit. Kecepatan ini sedikit lebih lambat dibandingkan dengan yang sesungguhnya yaitu 0,3 m/menit.",
+  "creators": "ERICK LORENS SAMOA",
+  "contributors": "Felix Pasila (Advisor 1); Handy Wicaksono (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010883/ELK/2008; Erick Lorens S. (23401145)",
+  "subjects": "PROGRAMMABLE CONTROLLERS; AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

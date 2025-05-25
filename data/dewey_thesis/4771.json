@@ -1,0 +1,14 @@
+{
+  "id": "4771",
+  "title": "Perancangan dan implementasi wireless lan pada gedung I dan gedung P lantai tiga di Universitas Kristen Petra",
+  "abstract": "Jaringan komputer wired LAN di Universitas Kristen Petra pada saat ini sudah tertata baik. Namun wired LAN memiliki kekurangan yakni mobilitas. Perancangan wireless LAN di Gedung I dan Gedung P lantai tiga Universitas Kristen Petra diharapkan dapat menunjang mobilitas civitas Universitas Kristen Petra dalam mengakses jaringan Petranet. Implementasi ini terdiri dari tiga buah access point, dua buah antena outdoor dan tiga server yakni DHCP server, Routing server dan Firewall server. Sedangkan DHCP server berfungsi untuk menyewakan IP address kepada client, Routing server digunakan untuk mengoneksikan jaringan satu ke jaringan yang lain sedangkan Firewall server berfungsi sebagai filter terhadap paket-paket yang masuk maupun keluar. Sistem yang dibangun merupakan salah satu solusi yang tepat untuk memenuhi kebutuhan koneksi ke jaringan secara mobile pada sekitar daerah Gedung I dan Gedung P Universitas Kristen Petra. Sistem ini memberikan fasilitas koneksi ke internet dengan user account tertentu sehingga tidak semua orang dapat mengakses internet. Selain itu protokol yang digunakan dalam akses internet hanya dibatasi dengan dengan menggunakan protokol Hyper Text Transfer Protocol (HTTP) saja.",
+  "creators": "HADY SUSANTO",
+  "contributors": "Resmana Lim (Advisor 1); Aditya Umbu Tana Amah (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 0301009/ELK/2004; Hady Susanto (23400016)",
+  "subjects": "LOCAL AREA NETWORK (COMPUTER NETWORKS); WIRELESS LOCAL AREA NETWORKS"
+}

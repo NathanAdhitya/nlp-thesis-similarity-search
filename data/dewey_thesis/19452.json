@@ -1,0 +1,14 @@
+{
+  "id": "19452",
+  "title": "Perancangan dan pembuatan voice conversion application (vocal)",
+  "abstract": "Beberapa waktu terakhir ini, banyak penelitian telah dikerjakan dalam bidang speech technology. Text-to-Speech dan Automatic Speech Recognition menjadi prioritas dalam penelitian untuk meningkatkan interaksi manusia-mesin. Kebutuhan untuk meningkatkan kealamian pada interaksi manusia-mesin menjadi permasalahan yang penting sekarang ini. Oleh karena itu, voice conversion dapat digunakan sebagai alat yang memungkinkan personifikasi dari sistem berbasis suara. Pada skripsi ini, terdapat 2 (dua) parameter utama yang dipertimbangkan, yaitu struktur vocal tract dan pitch. Untuk proses konversi, ucapan dibagi menjadi dua komponen utama, yaitu excitation component dan filtered component menggunakan metode Linear Predictive Coding (LPC). Sedangkan pitch didapatkan dari proses autocorrelation. Setelah mendapatkan komponen-komponen tersebut dari source speaker dan target speaker, maka akan dipetakan satu-per-satu untuk diganti fitur akustik dari source speaker ke target speaker. Terakhir, sinyal yang telah dimodifikasi akan di synthesis ulang sehingga hasil modifikasi seolah-olah diucapkan oleh target speaker.",
+  "creators": "ELIZABETH KWAN",
+  "contributors": "Liliana (Advisor 1); Resmana Lim (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020873/INF/2010; Elizabeth Kwan (26406025)",
+  "subjects": "SPEECH PROCESSING SYSTEMS; DATABASE DESIGN; VISUAL C # (COMPUTER PROGRAM LANGUAGE)"
+}

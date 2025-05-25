@@ -1,0 +1,14 @@
+{
+  "id": "9680",
+  "title": "Perancangan dan pembuatan aplikasi pencarian rute optimal pada peta dengan algoritma ant system transitive closure",
+  "abstract": "Dalam dunia matematika dan pemrograman, terdapat berbagai algoritma untuk pencarian rute optimal. Salah satu algoritma yang kini sedang berkembang pesat adalah Ant System, yang dikembangkan dari analogi koloni semut, yang mencari makanan dengan bantuan cairan kimia bernama pheromone. Untuk mengetahui kelebihan dan kekurangan dari algortima ini, algoritma ini dibandingkan dengan algoritma Transitive Closure. Tugas Akhir ini bertujuan untuk membuat suatu aplikasi perbandingan antara algoritma Ant System dengan algoritma Transitive Closure. Data jalan untuk pencarian rute didapat dengan pengolahan citra 2-dimensi menjadi data vektor dalam bentuk graph. Hal ini dapat dilakukan dengan fungsi dilatasi dan skeletonization. Aplikasi ini dibuat menggunakan Borland Delphi 7. Hasil pengujian aplikasi menunjukkan bahwa algoritma Ant System dan algoritma Transitive Closure dapat menemukan sebuah rute dari titik awal ke titik tujuan. Dari hasil pengujian antara kedua algoritma ini, dapat disimpulkan bahwa baik dari segi akurasi maupun dari segi durasi proses, algoritma Transitive Closure lebih baik daripada algoritma Ant System. Ini disebabkan karena algoritma Ant System merupakan sebuah general-purpose heuristic, sedangkan algoritma Transitive Closure merupakan sebuah dynamic programming. Kedua buah algoritma ini sangat berbeda dari segi paradigma dan tujuan, sehingga kurang sesuai untuk dibandingkan.",
+  "creators": "FAUZI JOSEPHINE DESIREE",
+  "contributors": "Rudy Adipranata (Advisor 1); Andreas Handojo (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010703/INF/2008; Fauzi Josephine Desiree (26404056)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); SOFTWARE ENGINEERING"
+}

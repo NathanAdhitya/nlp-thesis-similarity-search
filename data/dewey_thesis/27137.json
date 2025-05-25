@@ -1,0 +1,14 @@
+{
+  "id": "27137",
+  "title": "Su sebagai fungsi dari (j dry, wc, Gs, Sr, LL, PI)",
+  "abstract": "Su Sebagai fungsi dari /dry, Wc, Gs, Sr, LL dan PI Nilai Su (Undrained Shear Strength) sangat perlu diketahui sebelum mendirikan bangunan diatas tanah tersebut, Nilai Su yang dicari dapat diperoleh dari penyelidikan di Laboratorium Mekanika Tanah. Berbagai kendala seperti terpencilnya lokasi proyek atau kelangkaan laboratorium di sekitar juga untuk keputusan yang bersifat segera sering dihadapi para insinyur sipil di lapangan. Oleh karena itulah skripsi ini mengulas cara-cara mendapatkan nilai Su tanpa harus melakukan percobaan di laboratorium. Nilai-nilai karakteristik tanah yang mudah didapat seperti dry, Wc, Gs, Sr, LL, PI dijadikan data-data untuk mengekspektasi nilai Su. Sebagai langkah pertama adalah mengumpulkan data-data nilai karakteristik tanah. Mentabulasikannya kemudian membuat diagram pencar dari masing-masing karakteristik tanah. Dari hasil diagram pencar dapat dilihat ke linieran bentuk garis regresi dan nilai dari koefisien regresi. Percobaan diulang-ulang dsampai mendapatkan nilai koefisien regresi yang terbesar. Kemudian keenam nilai karakteristik tanah tersebut diolah ke dalam program Stepwisw Multiple Regression. Hasil dari program tersebut adalah 4 buah formula yakni : Su = - 0,18 + 0,45 (/diy) dengan nilai n = 0,69 Su = - 0,41 + 0,47 (tfdry) + 0,01 PI dengan nilai R = 0,74 Su = 0,4 + 0,36 (tfdry) + 0,01 PI - 0,18 In Wc dengan nilai R = 0,745 Su = 0,69 + 0,25 (Airy) + 0.01PI - 0,32 In Wc + 0,004 2 Sr dengan nilai R = 0,75 Pemakaian model di atas berdasarkan pertimbangan : 1. Ketersediaan data yang ada. 2. Tingkat ketelitian yang diinginkan. 3. Batas-batas berlakunya model. Semoga hasil analisa yang ada pada skripsi kami ini dapat berguna dan bermanfaat bagi rekan-rekan kami dan dunia tehnik sipil pada umumnya.",
+  "creators": "HENDRIK MULYADI; G. DJAJA SENTOSA MULIAWAN",
+  "contributors": "Sugeng Setyawan (Advisor 1); Harry Patmadjaja (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 488 S; Hendrik Mulyadi (283012), G. Djaja Sentosa Muliawan (284035)",
+  "subjects": "SOIL MECHANICS-COMPUTER PROGRAMS"
+}

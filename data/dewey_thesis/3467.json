@@ -1,0 +1,14 @@
+{
+  "id": "3467",
+  "title": "Analisa sistem penjadwalan produksi dengan kombinasi metode Apparent Tardiness Cost with Setups (ATCS) dan First Come First Serve (FCFS) pada PT. Surabaya Perdana Rotopack",
+  "abstract": "P.T. Surabaya Perdana Rotopack adalah perusahaan manufaktur yang bergerak di bidang kemasan plastik dan kertas. Sistem produksinya adalah sistem job order dengan aliran produksi^ow shop, dimana material akan diproses sesuai urutan mesin mulai dari printing, laminating ( extruder dan dry ) dan slitting. Semakin meningkatnya jumlah pelanggan maka kapasitas produksinya meningkat pula. Sampai saat ini perusahaan dalam melakukan penjadwalan order berdasarkan sistem First Come First Serve (FCFS). Pada awalnya dengan sistem ini tidak terjadi masalah, namun ketika perusahaan menerima order dalam jumlah besar dan pada waktu yang bersamaan, hal tersebut mengakibatkan banyak Joo yang terlambat. Untuk membantu menyelesaikan permasalahan tersebut maka dalam penelitian ini diusulkan alternatif penjadwalan yang dapat mengurangi Mean Tardiness (Ts) dan Number ofTardy Job (Ne). Alternatif penjadwalan yang diusulkan menggunakan metode kombinasi yaitu metode ATCS dan FCFS. Penerapan metode ATCS dilakukan pada proses printing, untuk proses selanjutnya yaitu laminating dan slitting mengunakan metode FCFS. Berdasarkan penjadwalan dengan metode usulan maka didapatkan hasil bahwa number oftardy job berkurang secara signifikan sebesar 40,5% dan mean tardiness tidak berkurang secara signifikan sebesar 16,03%.",
+  "creators": "MARIA KURNIAWATI",
+  "contributors": "Tanti Octavia (Advisor 1); Herri Christian Palit (Advisor 2); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010843/IND/2004; Maria Kurniawati (25400060)",
+  "subjects": "SCHEDULING; PRODUCTION PLANNING"
+}

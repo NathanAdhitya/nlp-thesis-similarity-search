@@ -1,0 +1,14 @@
+{
+  "id": "59648",
+  "title": "Efek element removal terhadap kinerja seismik rumah sederhana dengan dinding bata pengisi",
+  "abstract": "Pada struktur beton bertulang, kekuatan dan kekakuan dinding bata pengisi dapat meningkatkan tahanan terhadap beban lateral. Ketika terkena beban lateral, dinding pengisi akan berinteraksi dengan portal sebagai komponen tekan. Banyak peneliti melakukan studi untuk mempelajari kinerja seismik struktur rangka pemikul momen dengan dinding bata pengisi. Tetapi, banyak penelitian tersebut masih belum memperhitungkan kerusakan brittle dinding bata dalam analisa struktur. Kerusakan strat tekan yang memodelkan dinding bata harus dihilangkan dari analisa agar tidak menyebabkan ketidakstabilan numerik. Penelitian ini bertujuan untuk mengetahui kinerja seismik rumah sederhana yang dianalisa dengan element removal dinding bata pengisi yang mengalami kerusakan dengan alat bantu program SAP2000 v20.0.0. Hasil analisa tersebut kemudian dibandingkan dengan rumah yang sama yang dianalisa tanpa element removal. Kinerja seismik ditinjau berdasarkan pola kerusakan struktur. Hasil penelitian menunjukkan bahwa pada pemodelan tanpa element removal, kinerja seismik struktur rumah sederhana tidak dapat diamati hingga analisa selesai karena ketidakstabilan numerik akibat elemen bata yang sudah rusak. Perlu diperhatikan bahwa kerusakan yang terlihat sedikit ini tidak benar karena analisa tidak dapat diamati hingga selesai. Tetapi, pada pemodelan dengan element removal, kinerja seismik struktur rumah sederhana dapat diamati hingga analisa selesai. Strat diagonal mengalami kerusakan akibat gaya out-of-plane (OOP) terlebih dahulu, lalu diikuti dengan kerusakan akibat gaya in-plane (IP).",
+  "creators": "SANDRA AGUSTIN PANGESTU; LUCIA JACKLIN POLLES",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Benjamin Lumantarna (Advisor 2); Antoni (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012315/SIP/2019; Sandra Agustin Pangestu (21415004), Lucia Jacklin Polles (21415039)",
+  "subjects": "BRICK WALLS; DWELLINGS; DWELLINGS--EARTHQUAKE EFFECTS"
+}

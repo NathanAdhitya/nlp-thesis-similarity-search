@@ -1,0 +1,14 @@
+{
+  "id": "36900",
+  "title": "Eliminasi shear locking pada elemen pelat reissner-mindlin berbasis kriging dengan metode Discrete Shear Gap (DSG)",
+  "abstract": "Suatu varian metode elemen hingga (MEH) diusulkan oleh Plengkhom dan Kanok-Nukulchai (2005), yang dinamakan metode elemen hingga berbasis Kriging (MEH-K). Dengan MEH-K memungkinkan diperolehnya solusi akurat meskipun memakai elemen sederhana. Dalam metode ini, shape function Kriging digunakan sebagai pengganti shape function MEH konvensional, yang dibentuk dari nilai-nilai node elemen dan dari node sekeliling elemen. Formulasi MEH-K sangat mirip dengan MEH konvensional sehingga program MEH bisa dengan mudah dimodifikasi untuk mengaplikasikan MEH-K. Dalam makalah ini akan dipaparkan perumusan dan pengujian MEH-K untuk analisis pelat Reissner-Mindlin. Kesulitan utama perumusan seperti ini adalah adanya fenomena shear locking. Sebagai usaha mengeliminasi shear locking ini digunakan teknik discrete shear gap (DSG). Dengan teknik ini regangan geser dalam perumusan matriks kekakuan elemen digantikan dengan regangan geser yang diperoleh dari turunan fungsi interpolasi DSG. Implementasi MEH-K dilakukan dalam bahasa pemrograman Matlab. Berbagai benchmark problems digunakan untuk menguji keakuratan MEH-K dengan DSG pada pelat Reissner-Mindlin. Hasil pengujian memperlihatkan bahwa fenomena shear locking belum benar-benar bisa dieliminasi. Metode aplikasi DSG sementara dapat digunakan untuk mengurangi pengaruh shear locking, namun belum sampai tahap mengeliminasi secara keseluruhan.",
+  "creators": "Danny Wijaya, S.T.",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Januar Budiman (Advisor 2); Pamuda Pudjisuryadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000218/MTS/2016; Danny Wijaya (01514014)",
+  "subjects": "CONSTRUCTION INDUSTRY-MANAGEMENT; KRIGING"
+}

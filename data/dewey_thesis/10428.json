@@ -1,0 +1,14 @@
+{
+  "id": "10428",
+  "title": "Perancangan dan pembuatan sistem aplikasi join tabel (denormalisasi data) untuk kebutuhan analisa track record penyakit pasien di RSU Dr. Soetomo",
+  "abstract": "Saat ini RSU Dr. Soetomo telah memiliki sistem yang terkomputerisasi untuk mencatat medical record rumah sakit. Sistem yang ada sesuai dengan Sistem Informasi Rumah Sakit (SIRS) yang diputuskan oleh Menteri Kesehatan Republik Indonesia Nomor: 1410/MENKES/SK/X/2003. Dengan menggunakan proses Denormalisasi Data dapat menghasilkan single table untuk input dalam sistem aplikasi data mining. Oleh sebab itu, penulis merancang suatu sistem aplikasi Join Tabel (Denormalisasi Data). Kelebihan dari sistem aplikasi ini untuk kebutuhan analisa track record penyakit pasien di RSU Dr Soetomo. Hasil yang diperoleh dari sistem aplikasi yang telah dibuat dapat menerima input berupa database dan menghasilkan output yang dapat dilihat langsung serta dapat disimpan berupa single table dan perintah SQL. Di mana melalui sistem aplikasi ini dapat dipakai sebagai input dalam sistem aplikasi data mining.",
+  "creators": "ANDY KURNIAWAN",
+  "contributors": "Rolly Intan (Advisor 1); Oviliani Yenty Yuliana (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010728/INF/2008; Andy Kurniawan (26403104)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING"
+}

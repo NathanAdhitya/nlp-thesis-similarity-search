@@ -1,0 +1,14 @@
+{
+  "id": "39260",
+  "title": "Pembuatan aplikasi segmentasi dan klasifikasi jerawat dengan metode region growing dan self organizing MAP",
+  "abstract": "Jerawat merupakan masalah kulit yang umum ditemukan pada manusia di semua usia dan jenis kelamin. Jerawat sendiri memiliki jenis-jenis yang berbeda sesuai dengan tingkat keparahan jerawat tersebut. Dalam Tugas Akhir ini, dikembangkan aplikasi yang mampu untuk melakukan proses pendeteksian dan segmentasi obyek jerawat pada wajah manusia. Proses pendeteksian obyek jerawat dimulai dengan memasukkan beberapa seed point ke dalam gambar. Setiap seed point tersebut akan dikembangkan melalui metode Region Growing untuk mendapatkan region yang mencakup keseluruhan jerawat. Kemudian jerawat-jerawat ini akan diklasifikasikan melalui metode Self Organizing Map untuk mengelompokkan setiap jerawat ke kategori yang benar. Berdasarkan hasil pengujian yang dilakukan, proses segmentasi jerawat menggunakan metode Region Growing memberikan hasil yang cukup baik. Namun untuk setiap jerawat membutuhkan threshold yang berbeda-beda untuk dapat menghasilkan segmentasi yang baik. Pada pengelompokan jerawat menggunakan Self Organizing Map, hasil yang didapat kurang memuaskan. Gambar input yang memiliki warna kulit dan pencahayaan yang berbeda-beda menyebabkan hasil yang didapat tidak akurat.",
+  "creators": "ARI GUNAWAN",
+  "contributors": "Rudy Adipranata (Advisor 1); Gregorius Satiabudhi (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021643/INF/2017; Ari Gunawan (26412133)",
+  "subjects": "APPLICATION PROGRAM INTERFACES; COMPUTER GRAPHICS; DIGITAL IMAGE PROCESSING"
+}

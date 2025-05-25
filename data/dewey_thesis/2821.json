@@ -1,0 +1,14 @@
+{
+  "id": "2821",
+  "title": "Perencanaan pengendalian persediaan bahan baku di PT \"X\"",
+  "abstract": "Perencanaan pengendalian persediaan bahan baku di PT.\"X\" ini memiliki peranan penting dalam perusahaan. Di PT.\"X\" ini persediaan bahan baku merupakan masalah utama karena seringkali terjadi kekurangan bahan baku pada saat menerima pesanan dari pelanggan. Akibatnya proses produksi mengalami keterlambatan, sehingga akan membutuhkan waktu lama untuk menyelesaikan produk tersebut. Dalam penghitungan pengendalian persediaan ini diawali dengan penghitungan peramalan untuk mengetahui permintaan waktu yang akan datang. Metode peramalan yang digunakan time series Box Jenkins. Sedangkan dalam penghitungan pengendalian persediaan dipakai metode Material Requirement Planning (MRP) dengan lot sizing yang digunakan : Lot for Lot, Least Unit Cost, Silver Meal Part Period Balance, EOO. Selanjutnya dilakukan penghitungan pengendalian sediaan bahan baku dengan metode Economic Order Quantity (EOQ). Setelah dilakukan penghitungan pengendalian persediaan maka didapatkan jumlah pemesanan, periode pemesanan setiap bahan baku. Sedangkan total biaya persediaan bahan baku dengan metode EOQ didapatkan hasil Rp. 3.743.088.845,-Dengan mengetahui jumlah pemesanan, periode pemesanan setidaknya dapat mengurangi hambatan produksi akibat bahan baku yang tidak mencukupi.",
+  "creators": "ANDRE KUSUMADJAJA",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 010611/IND/2002; Andre Kusumadjaja (25497112)",
+  "subjects": "PRODUCTION PLANNING; MATERIALS MANAGEMENT; INVENTORY CONTROL"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "57363",
+  "title": "Implementasi sistem robot penyaji minuman menggunakan robot manipulator 6 axis",
+  "abstract": "Melalui Laboratorim Elektronika Program Studi Teknik Elektro yang membutuhkan modul pembelajaran terkait move dan komunikasi modbus TCP/IP pada robot, maka dibuatlah modul-modul tersebut yang disajikan dalam bentuk sistem robot penyaji minuman. Sistem robot penyaji minuman memanfaatkan HMI untuk berkomunikasi dengan user dan robot manipulator 6 axis yang akan membuatkan minumannya. Agar robot bisa membuatkan minuman yang dipesan oleh user, robot dibantu dengan beberapa alat seperti dispenser air, holder gelas plastik, load cell, sendok, dan wadah gelas plastik. Berdasarkan hasil pengujian sistem robot penyaji minuman memiliki tingkat keberhasilan menyajikan minuman sebesar 84,4%. Rata-rata waktu membuat minuman adalah 94 detik dengan margin error pengisian gelas plastik sebesar ±5%.",
+  "creators": "WAYNE FREDERICK MINGARDI",
+  "contributors": "Handry Khoswanto (Advisor 1); Thiang (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011048/ELK/2023; Wayne Frederick Mingardi (C11190003)",
+  "subjects": "ROBOTICS; ROBOTS--CONTROL SYSTEMS; TCP/IP (COMPUTER NETWORK PROTOCOL)"
+}

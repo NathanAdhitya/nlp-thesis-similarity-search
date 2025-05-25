@@ -1,0 +1,14 @@
+{
+  "id": "48323",
+  "title": "Menghasilkan background game music dengan menggunakan deep convolutional generative adversarial network",
+  "abstract": "Salah satu faktor penting dalam menghasilkan game yang baik adalah dengan adanya Background Game Music (BGM) yang baik. Namun sulitnya mendapatkan asset musik game membuat game developer harus mengeluarkan biaya, waktu, dan tenanga ekstra untuk mendapatkan musik game dengan kualitas yang baik. Hal ini dapat menghambat dalam proses pembuatan game. Untuk itu apabila terdapat program yang mampu menghasilkan BGM dengan baik maka akan sangat membantu pekerjaan dari game developer. Metode yang digunakan pada penelitian ini adalah Deep Convolutional Generative Adversarial Network (DCGAN). Data yang digunakan adalah file Musical Instrument Digital Interface (MIDI) yang kemudian akan diubah ke dalam bentuk pianoroll. Pianoroll tersebut kemudian akan diubah menjadi matriks dan masuk pada model DCGAN. Sebelum melakukan training, diperlukan pembuatan proses preprocessing, postprocessing serta model dari DCGAN itu sendiri. Pengujian dilakukan dengan mencari parameter dan arsitektur terbaik pada DCGAN untuk menghasilkan Background Game Music dengan kualitas yang baik. Hasil pengujian menunjukkan bahwa DCGAN merupakan model yang sangat sensitif terhadap arsitektur dan hyperparameter, oleh karena itu perlu perhatian ekstra dalam melakukan tuning arsitektur dan hyperparameter pada DCGAN. Selain itu musik yang diubah kedalam bentuk pianoroll kurang dapat menonjolkan fiturnya sehingga sulit untuk dipelajari oleh DCGAN. Dari hasil yang ada, DCGAN mampu menghasilkan Background Game Music namun dengan kualitas yang buruk.",
+  "creators": "DANIEL",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Kartika Gunadi (Examination Committee 1); Liliana (Examination Committee 2); Alvin Nathaniel Tjondrowiguno (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022000/INF/2020; Daniel (26416043)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

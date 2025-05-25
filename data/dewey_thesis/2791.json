@@ -1,0 +1,14 @@
+{
+  "id": "2791",
+  "title": "Pembuatan dan perancangan sistem katalog berbasis web dan sirkulasi perpustakaan berbasis windows di Pelangi Kristus International Seminary",
+  "abstract": "Pelangi Kristus International Seminary merupakan sebuah sekolah Kristen untuk anak-anak usia 3-15 tahun, dan sekarang sedang membutuhkan sistem katalog dan sistem sirkulasi perpustakaan. Sistem katalog memudahkan anggota perpustakaan Pelangi Kristus untuk mencari informasi tentang bahan pustaka yang dikoleksi perpustakaan. Sistem sirkulasi perpustakaan dapat memudahkan petugas untuk menangani layanan sirkulasi di dalam perpustakaan. Dalam pengembangan sistem, dilakukan pembuatan software online catalog dan sistem sirkulasi perpustakaan di Pelangi Kristus. Online catalog dan sistem sirkulasi terintegrasi melalui ditampilkannya status bahan pustaka pada online catalog. Pemrograman dilakukan dengan menggunakan bahasa pemrograman PHP 4.3.10 dan Borland Delphi 7.0 dengan database server MySQL 3.23.54-nt, serta web server IIS 5.1. Dari hasil implementasi sistem dan uji coba, disimpulkan bahwa sistem katalog yang telah dibuat dapat melakukan pencarian bahan pustaka dan memberi informasi dari setiap bahan pustaka yang dicari. Sistem sirkulasi yang telah dibuat dapat mengakses bahan pustaka yang dipinjam dan dipesan secara cepat dan mempermudah pencatatan layanan sirkulasi.",
+  "creators": "ANASTASSIA TINEKE SUWANDI",
+  "contributors": "Arlinah Imam Rahardjo (Advisor 1); Alexander Setiawan (Advisor 2); Theresia Lestiowati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000319/INF/2005; Anastassia Tineke Soewandi (26401135)",
+  "subjects": "WEBSITES; INTERNET (COMPUTER NETWORK)"
+}

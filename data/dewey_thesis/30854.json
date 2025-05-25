@@ -1,0 +1,14 @@
+{
+  "id": "30854",
+  "title": "Perencanaan mekanisme otomatis untuk memasukkan compact disc pada kotaknya dengan kapasitas 1000 kotak cd per jam",
+  "abstract": "Tugas akhir ini membahas tentang perancangan mengenai mekanisme otomatis untuk memasukkan compact disc atau CD pada kotaknya dengan kapasitas sekitar 1000 kotak CD per jam dengan menggunakan tenaga penggerak motor stepper. Mekanisme ini dibuat untuk membantu manusia dalam melakukan pekerjaan memasukkan CD pada kotaknya terutama dalam jumlah besar. Cara kerja mekanisme ini dibagi dalam empat modul yang mempunyai tugas masing-masing dan saling berhubungan antar modul yang satu dengan modul yang lain, yaitu: Modul 1: untuk penjepit CD dari modul 3 dan memindahkan ke modul 2 lalu memasangkan pada kotaknya. Modul 2: untuk membuka dan menutup tutup kotak CD serta mengeluarkannya. Modul 3: untuk mengumpan CD pada modul 1. Modul 4; untuk mengumpan kotak CD masuk pada modul 2. Pengontrolan gerak dilakukan oleh rangkaian elektronik yaitu microcontroller 8031 di mana alat ini sering digunakan dalam pengaturan gerak motor stepper. Beberapa komponen sengaja dibuat dari bahan nylon yang bertujuan untuk meminimalkan berat komponen tersebut, dan juga menghasilkan gaya gesek yang rendah terutama carriage pada modul 1, pada pendorong pada modul 4 dan rel kotak CD pada modul 2.",
+  "creators": "HERI HANDOYO",
+  "contributors": "J. LUBI (Advisor and Examination Committee)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01.54.459; Heri Handoyo (24493057)",
+  "subjects": "COMPACT DISC PLAYERS; AUTOMATIC MACHINERY"
+}

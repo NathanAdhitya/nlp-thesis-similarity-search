@@ -1,0 +1,14 @@
+{
+  "id": "10712",
+  "title": "Pembuatan distributed HMI multiserver pada PLC omron CPMI untuk model sistem keamanan perumahan sederhana menggunakan visual basic",
+  "abstract": "Perkembangan teknologi di bidang teknik elektro saat ini memberikan dampak yang luar biasa terhadap kehidupan manusia. Melalui Programmable Logic Controller (PLC) dan juga SCADA, proses pengotomatisan dan pemantauan terhadap kinerja suatu sistem dapat berjalan dengan efektif dan efisien. Seiring dengan semakin banyaknya tingkat kriminalitas di Indonesia, saat ini PLC dan juga SCADA banyak dipergunakan di kompleks-kompleks perumahan untuk menggantikan peran sistem keamanan konvensional. Tugas akhir ini dibuat dengan tujuan untuk membuat sebuah software SCADA dengan memanfaatkan bahasa pemrograman Visual basic 2005 dengan sistem jaringan multiserver dan juga client-server untuk mengontrol sistem keamanan perumahan secara sederhana. Dengan diterapkannya sistem multiserver pada suatu jaringan PC - PLC, kemungkinan terjadinya down system dapat diminimalkan sehingga data-data dari sistem dapat tetap tercatat. Miniatur kompleks perumahan yang digunakan dalam simulasi terdiri dari perangkat-perangkat input dan output berupa switch untuk mengontrol gate dan lampu, tombol emergency, stepper motor sebagai gate, proximity inductance switch sensor sebagai sensor gate, dan LED sebagai lampu jalan. Miniatur ini dikontrol oleh HMI pada jaringan komputer dengan memberikan perintah menuju Programmable Logic Controller (PLC) melalui RS 232 - RS 485 converter. Jaringan komputer server-client yang digunakan adalah Local Area Network (LAN). Pengujian respon waktu komunikasi PC - PLC menggunakan kabel RS 491 sepanjang 20 meter memberikan hasil waktu rata-rata sebesar 1,3854 detik pada komputer server dan 1,59 detik pada komputer client. Pengujian waktu untuk merespon keadaan emergency rata-rata 1,594 detik.",
+  "creators": "SAMMY HALIM",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Handy Wicaksono (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010882/ELK/2008; Sammy Halim (23404030)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

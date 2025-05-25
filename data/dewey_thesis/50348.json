@@ -1,0 +1,14 @@
+{
+  "id": "50348",
+  "title": "Alat penghitung kepadatan arus mobil berbasis mikrokontroler",
+  "abstract": "Alat Penghitung Kepadatan Arus Mobil adalah suatu alat untuk menghitung jumlah mobil yang masuk ke tempat parkir deogan menggunakan sensor metal detect, data jumlah mobil akan diproses mikrokontroler dan data akan disimpan ke dalam memory. Jika data perlu disimpan dalam waktu yang lama maka data tersebut dikirim ke komputer server melalui komunikasi serial, yang kemudian data tersebut disimpan dalam suatu file. Pada mikrokontroler dilengkapi dengan interface LCD yang berfungsi sebagai tampilan. Keypad yang berfungsi untuk masuk ke dalam suatu menu pilihan Loop sensor telah diuji pada keadaan sebenarnya di mana mobil melintasi loop sensor, tingkat keberhasilan loop sensor mendeteksi mobil pada pengujianTA ini adalah 89,74%, Kesimpulan yang diperoleh dari peagujian yaitu untuk meningkatkan sensitifitas sensor, maka tegangan yang dihasilkan PLL diperbesar, untuk menjaga agar alat tetap stabil dari goyangan akibat loop sensor terlindas dan mobil maka goyangan itu harus diredam, pada percobaan ini goyangan itu diredam dengn spon atau gabus dan hasilnya alat menjadi stabil.",
+  "creators": "DEMMY YULIANTO",
+  "contributors": "Resmana Lim (Advisor 1); Handry Khoswanto (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010686/ELK/2004; Demmy Yulianto (23499126)",
+  "subjects": "TRAFFIC DENSITY; TRAFFIC FLOW"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "16008",
+  "title": "Automatic multivariate time series modeling",
+  "abstract": "Penelitian ini bertujuan untuk memodelkan data multivariate time series dengan menggunakan instrumen ekonometrik. Keempat instrumen yang digunakan adalah vector auto regressive (VAR), structural vector auto regressive (SVAR), vector error correction model (VECM), dan structural vector error correction (SVEC). VAR dan VECM digunakan untuk mengestimasi dan membangun model beserta memprediksi nilai sebuah objek, sedangkan SVAR dan SVEC dimaksudkan untuk menganalisis struktur inovasi dari model. VAR dan SVAR hanya mampu memberikan hasil terbaik untuk data stasioner, tetapi VECM dan SVEC dapat digunakan ketika data bersifat non-stasioner. Identifikasi dan estimasi model dalam penelitian ini dibangun dengan program yang dirancang khusus menggunakan software R. Baik VAR/SVAR maupun VECM/SVEC telah mampu mengidentifikasi dengan baik hubungan dinamis antar variabel endogen dalam model.",
+  "creators": "ARIF CHANDRA",
+  "contributors": "Unknown",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021404/IND/2009; Arif Chandra (25406068)",
+  "subjects": "DECISION MAKING-MATHEMATICAL MODELS; TIME-SERIES ANALYSIS-COMPUTER PROGRAMS; MULTIVARIATE ANALYSIS--COMPUTER PROGRAMS"
+}

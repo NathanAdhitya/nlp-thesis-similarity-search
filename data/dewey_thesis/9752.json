@@ -1,0 +1,14 @@
+{
+  "id": "9752",
+  "title": "Perancangan dan pembuatan aplikasi OCR untuk huruf Korea (hangul)",
+  "abstract": "Akhir-akhir ini keberhasilan bangsa Korea di bidang teknologi dan ekonomi memiliki pengaruh yang cukup besar di dunia. Banyak dokumen-dokumen (hardcopy) yang berisi hangul yang semakin banyak ditemukan. Akan tetapi, dalam bentuk dokumen orang akan kesulitan jika ingin mengganti beberapa huruf yang ada dalam dokumen tersebut (dokumen itu harus diketik ulang dan diganti secara manual). Akan lebih mudah jika ada suatu aplikasi untuk mengubah dokumen tersebut menjadi hangul dalam bentuk softcopy. Gambar yang akan diproses kemungkinan tidak lurus. Dengan menggunakan metode Run Length Smoothing Algorithm dan rumus sudut antara dua titik dapat ditemukan sudut kemiringan gambar. Untuk memulai proses recognition, gambar perlu disegmentasi terlebih dahulu menggunakan proyeksi secara horisontal dan proyeksi secara vetikal. Hasil segmentasi ini akan diproses menggunakan metode Hierarchical Stochastic Relationship dan akan mengeluarkan output berupa file text (softcopy). Ukuran font yang digunakan dalam aplikasi mempengaruhi keberhasilan recognition aplikasi ini. Jika menggunakan font dengan ukuran 18, maka keberhasilan recognition-nya akan lebih tinggi daripada jika menggunakan font dengan ukuran 12. Banyaknya jamo yang mempunyai perbedaan tipis dengan jamo lain dalam satu dokumen juga mempengaruhi keberhasilan aplikasi ini.",
+  "creators": "LIEM CHRISTIE DWINATA",
+  "contributors": "Rudy Adipranata (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010714/INF/2008; Liem, Christie Dwinata (26404024)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "3918",
+  "title": "Analisa penentuan tingkat pemesanan berdasarkan (s,S) inventory control system periodic review dengan mempertimbangkan demand dan lead time menggunakan evolutionary algorithm",
+  "abstract": "Asumsi utama model (s,S) inventory system periodic review pada umumnya adalah nilai demand dan leadtime yang konstan. Pada penelitian yang akan dilakukan maka dibuat suatu model (s,S) inventory sytem periodic review berdasarkan minimasi biaya total inventory dengan mempertimbangkan variasi dari demand dan lead time order dengan menggunakan evolutionary algorithm yang terdapat dalam software spreadsheet. Pada (s,S) inventory sytem periodic review dikembangkan dua variasi model, yaitu model pertama dengan periodic review length sebagai chromosome dan model kedua dengan periodic review length dan reorder level sebagai chromosome. Pada lead time yang konstan, model pertama dan model kedua dapat mengurangi biaya total inventory berturut-turut sebesar 96,4011% dan 98,974% dari model analitis. Pada lead time yang tidak konstan, model pertama dan model kedua dapat mengurangi biaya total inventory berturut-turut sebesar 44,6699% dan 69,9317% dari model analitis. Pada model kedua menunjukkan hasil yang semakin baik pada varians demand yang semakin besar.",
+  "creators": "YULIANA WIJAYA",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); I Nyoman Sutapa (Advisor 2); Tessa Vanina Soetanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0773/IND/2004; Yuliana Wijaya (25400139)",
+  "subjects": "INVENTORY CONTROL"
+}

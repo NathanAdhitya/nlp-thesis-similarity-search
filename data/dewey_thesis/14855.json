@@ -1,0 +1,14 @@
+{
+  "id": "14855",
+  "title": "Perencanaan dan pembuatan alat pengukur jarak dan penentu arah dari benda-benda dalam ruang dengan sensor ultrasonik",
+  "abstract": "Pengukuran jarak dapat dilakukan dengan menghitung waktu yang dibutuhkan untuk menempuh jarak tersebut dan kemudian mengalikan dengan kecepatannya. begitu juga untuk mengukur jarak dari benda-benda dalam ruang terhadap suatu titik referensi tertentu. Pengukuran jarak dilakukan dengan memancarkan sejumlah data serial ( yang berupa pulsa-pulsa gelombang Ultrasonik dengan frekwensi tertentu ) ke arah benda. Proses pemancaran data serial oleh Transmitter ini dilakukan dengan cara mengubah terlebih dahulu data paralel menjadi data serial. Jika data serial yang dipancarkan menabrak sebuah benda maka akan terjadi pemantulan yang mana hasil pantuIan akan dideteksi oleh sebuah Receiver. Data serial yang diterima oleh Receiver diubah kembali menjadi data paralel untuk dibandingakn dengan data yang dikirim semula. Jika pada proses pembandingan terdapat kesamaan maka data tersebut dapat dianggap sebagai data yang sah ( artinya bukan berasal dari Transmitter lain yang mempunyai frekwensi sama ). Waktu yang dilewatkan sejak data dikirim sampai dengan data diterima kembali dihitung oleh sebuah timer. Dengan mengalikan waktu yang dilewatkan tersebut dengan kecepatan rambat gelombang Ultrasonik ( sama dengan kecepatan suara diudara ), maka akan didapatkan jarak benda tersebut. Untuk media pengiriman dan penerimaan data ( Transmitter dan Receiver ) digunakan transducer Ultrasonik yang dimodulasi dengan modulasi amplitudo ( modulasi pulsa ). Transmitter dan Receiver tersebut diatas dipasangkan pada poros dari sebuah motor stepper, dimana pergerakan dari motor stepper tersebut dikendalikan dengan menggunakan perangkat lunak. Dengan cara mendeteksi sudut yang sudah dijalani oleh motor stepper, maka akan didapat arah benda tersebut. Selanjutnya dengan menggunakan sistem koordinat polar kita dapat menampilkan hasil \" Scanning \" pada layar monitor.",
+  "creators": "ANDIKA PRAMANA",
+  "contributors": "Heri Saptono Warpindyasmoro (Advisor 2); HANDAYANI T. (Advisor 1); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/008/0098; Andika Pramana (486076)",
+  "subjects": "AUTOMATIC CONTROL; DISTANCE MEASURING INSTRUMENTS, ELECTRONIC"
+}

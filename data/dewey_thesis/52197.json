@@ -1,0 +1,14 @@
+{
+  "id": "52197",
+  "title": "Program penerjemah ucapan Bahasa Indonesia ke bentuk teks dengan metode spektrum matching",
+  "abstract": "Tugas akhir ini adalah membuat sebuah program penerjemah ucapan dalam Bahasa Indonesia yang didasarkan pada pengenalan bentuk dan urutan spektrum pada fonem. Pemakaian pengenalan fonem ditujukan untuk menyederhanakan dan meringkas pemakaian database library. Tugas akhir ini diciptakan dengan 6 buah proses dasar yaitu proses spektograf yaitu proses untuk menganalisa sinyal dalam frekuensi domain, proses normalisasi yaitu proses untuk menjadikan ukuran spektrum menjadi sama besar sehingga pengenalan menjadi lebih mudah untuk semua intensitas suara, proses filter yaitu proses untuk mengurangi amplitudo frekuensi yang terlalu tinggi sehingga dapat ditemukan spektrum yang seimbang, proses pencari spektrum dominan yaitu proses pencarian spektrum pengganti untuk beberapa spektrum yang hampir sama bentuknya, proses penciptaan database yaitu proses yang bertujuan untuk menyimpan data suara sebagai acuan dalam proses pengenalan, dan proses probability sequence recognition sebagai proses terakhir yang bertujuan untuk mengetahui tingkat kemiripan dua buah spektrum yang nantinya akan digunakan untuk mengenali suatu fonem. Program ini telah diuji dan mempunyai keunggulan untuk mengenali fonemfonem vokal yaitu a,i,u,e,0 dengan persen keberhasilan rata-rata sekitar 76,8 % ; mengenali fonem-fonem konsonan yang tergabung dengan vokal di belakangnya dengan persen keberhasilan rata-rata 54,2% dan mengenali fonem-fonem konsonan yang tergabung dengan vokal di depannya dengan persen keberhasilan rata-rata sekitar 62,2 %.",
+  "creators": "SETIAWAN SUGIARTO",
+  "contributors": "YOHANES T. D. S (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/642/ELK/2003; Setiawan Sugiarto (23498118)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; SPECTRUM ANALYSIS--COMPUTER PROGRAMS"
+}

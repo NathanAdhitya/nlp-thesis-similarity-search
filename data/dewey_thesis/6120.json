@@ -1,0 +1,14 @@
+{
+  "id": "6120",
+  "title": "Perancangan dan pembuatan fuzzy expert system untuk analisis penyakit kulit pada anjing",
+  "abstract": "Penyakit kulit pada anjing memiliki gejala yang dapat terlihat langsung pada tubuh. Namun demikian, terdapat tingkat kesulitan yang cukup untuk mencari informasi penyakit kulit pada anjing. Bahkan beberapa dari penyakit tersebut dapat menyebar pada manusia dan hewan lain, terutama kucing dan kelinci. Pembuatan fuzzy expert system dimulai dengan analisa dan pengumpulan data tentang penyakit-penyakit kulit pada anjing. Hasil analisa ini kemudian melalui proses filter menjadi informasi yang siap digunakan dalam sistem pakar. Sistem pakar ini dibuat dengan menggunakan metode forward chaining dan analisa history, termasuk membangun suatu relasi antar penyakit menggunakan metode perhitungan fuzzy. Aplikasi sistem pakar ini menggunakan Microsoft Access 2003 untuk penggunaan basis data, dan Borland Delphi 7.0 untuk pembuatan program. Dari hasil implementasi dan pengujian aplikasi sistem pakar ini, menunjukkan dapat memproses gejala-gejala yang berhubungan dengan penyakit, dan penyakit yang berhubungan dengan penyakit lainnya secara otomatis. Sehingga dapat menghasilkan informasi kemungkinan anjing tersebut terserang suatu penyakit, dengan nilai perbandingan yang tertinggi.",
+  "creators": "DEBORA INDRIATI",
+  "contributors": "Rolly Intan (Advisor 1); Alexander Setiawan (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000455/INF/2006; Debora Indriati (26402040)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

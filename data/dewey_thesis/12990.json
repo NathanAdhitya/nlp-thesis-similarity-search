@@ -1,0 +1,14 @@
+{
+  "id": "12990",
+  "title": "Perancangan dan pembuatan aplikasi tracking pos berbasis J2ME pada PT Pos Indonesia Kantor Pos Pemeriksa Surabaya Selatan",
+  "abstract": "Aplikasi Tracking Pos merupakan program yang sedang dikembangkan PT Pos Indonesia Kantor Pos Pemeriksa Surabaya Selatan untuk memudahkan user dalam mengetahui status kirimannya. Perlunya sarana tracking pos yang mobile dan bisa digunakan dimana saja sangat diperlukan untuk meningkatkan layanannya terutama untuk kota Surabaya. Pada tugas akhir ini, dikembangkan aplikasi tracking pos. Aplikasi Tracking Pos berbasis Java ME pada PT Pos Indonesia Kantor Pos Pemeriksa Surabaya Selatan dibuat dengan menggunakan Java 2 Micro Edition (Java ME) pada sisi handphone dan PHP Hypertext Preprocessor (PHP) pada sisi server. Untuk dapat menjalankan aplikasi, diperlukan instalasi aplikasi Java tersebut pada handphone. Setelah aplikasi dijalankan maka setiap request yang dilakukan client dikirim ke server yang telah dihosting dengan menggunakan koneksi GPRS. Kemudian server akan membalas dengan respon sesuai request dari client. Berdasarkan pengujian, aplikasi dapat digunakan untuk mengetahui status kiriman, daftar kantor pos, daftar produk dan informasi- informasi penting lainnya. Pengujian telah dilakukan pada Nokia 7610 dan E71 dengan menggunakan operator XL dan Three. Dari hasil pengujian, user memberikan nilai 87.5 (skala 0-100) dalam hal tampilan, keseluruhan, fungsional, dan kemudahan. Sedangkan staff memberikan nilai 89 (skala 0-100) dalam hal tampilan, keseluruhan, fungsional dan kemudahan.",
+  "creators": "THOMAS HARMONO SIDARTO",
+  "contributors": "Alexander Setiawan (Advisor 1); Leo Willyanto Santoso (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020806/INF/2009; Thomas Harmono (26405013)",
+  "subjects": "WEB SITES-DESIGN; WEB SITE DEVELOPMENT; WEB SITES-AUTHORING PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10355",
+  "title": "Perancangan dan pembuatan bahasa pemrograman bernotasi prefix berbasis interpreter",
+  "abstract": "Bahasa pemrograman merupakan salah satu alat yang dipergunakan programmer untuk mengimplementasikan algoritma. Salah satu elemen penting dari bahasa pemrograman adalah syntax. Desain syntax yang tidak konsisten dan kurangnya pengetahuan programmer dapat menimbulkan keambiguan dalam penulisan kode. Salah satu cara mengurangi keambiguan adalah dengan konsistensi penggunaan notasi prefix untuk setiap statement. Oleh karena alasan-alasan tersebut, pada tugas akhir ini dirancang dan dibuat bahasa pemrograman baru bernotasi prefix yang diimplementasikan sebagai interpreter. Tujuan bahasa pemrograman ini adalah untuk membantu programmer mengimplementasikan algoritma dalam bentuk program sederhana. Interpreter melakukan analisa leksikal dan syntax secara keseluruhan terlebih dahulu, sebelum melakukan proses eksekusi, sehingga dapat mengurangi runtime error. Interpreter dibuat menggunakan C++. Dari hasil pengujian, dapat disimpulkan bahwa interpreter memiliki readability menengah, writability rendah, reliability rendah, dan cost tinggi. Dalam kedepannya diharapkan bahasa pemrograman ini dapat dikembangkan lebih lanjut dengan desain yang lebih baik serta menggabungkannya ke dalam sebuah integrated development environment.",
+  "creators": "KISWONO PRAYOGO",
+  "contributors": "Rudy Adipranata (Advisor 1); Yulia (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010717/INF/2008; Kiswono Prayogo (26404007)",
+  "subjects": "C++ ( COMPUTER PROGRAM LANGUAGE )"
+}

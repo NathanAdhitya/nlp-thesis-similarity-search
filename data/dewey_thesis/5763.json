@@ -1,0 +1,14 @@
+{
+  "id": "5763",
+  "title": "Pembuatan adjustable laboratory power supply 0-35 vdc dengan arus 5 ampere",
+  "abstract": "Dari berbagai peralatan elektronik yang ada saat ini, hampir semuanya memerlukan power supply sebagai sumber tegangan DC untuk dapat bekerja dengan baik. Power supply yang baik harus memiliki output yang stabil, tahan terhadap noise, dan juga memiliki sistem pengaman untuk mengantisipasi short circuit. Power Supply ini menggunakan LM317 sebagai regulator. Proteksi terhadap short circuit didesain dengan metode foldback current limiter sehingga bila terjadi short circuit, disipasi daya pada pass transistor ( transistor penguat arus ) dapat ditekan hingga 50 %. Arus yang dihasilkan adalah sebesar 5 Ampere. Power supply ini juga memiliki perangkat yang mampu menjaga kestabilan output, dikenal sebagai error amplifier. Power supply ini mampu menghasilkan tegangan output yang stabil pada suhu ruang 27 o C-32 o C. Saat terjadi short circuit, sistem proteksi mampu bertahan selama 15 menit. Sistem juga mampu menahan noise dengan frekuensi 1Hz-5KHz.",
+  "creators": "ANTONIUS HENDRA TRIANTA",
+  "contributors": "Hany Ferdinando (Advisor 1); Indar Sugiarto (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010765/ELK/2005; Antonius Hendra Trianta (23401114)",
+  "subjects": "ELECTRONIC APPARATUS AND APPLIANCES-POWER SUPPLY"
+}

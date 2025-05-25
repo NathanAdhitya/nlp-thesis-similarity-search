@@ -1,0 +1,14 @@
+{
+  "id": "1334",
+  "title": "Studi sistem otomasi dengan Building Automation System (BAS) di Plaza Tunjungan III Surabaya",
+  "abstract": "Dengan kemajuan teknologi saat ini, kehidupan manusia tidak terlepas dari kebutuhan listrik. Selain itu, lislrik juga diperlukan dibidang industri, pertokoan dan sebagainya. Salah satu contohnya adalah Tunjungan Plaza III yang merupakan pusat perbelanjaan terbesar di Surabaya dimana didalam melaksanakan kegiatan operasionalnya membutuhkan energi listrik. Tunjungan Plaza III memiliki 2 sumber energi listrik, yaitu : yang pertama berasal dari PLN sebesar 10.000 KVA dan yang kedua berasal dari 5 buah genset, yang terdiri dari 3 buah genset dengan daya sebesar 2600 KW dan 2 buah genset dengan daya sebesar 1460 KW. Kedua sumber energi listrik tersebut berguna untuk menjalankan utilitas-utilitas yang ada di Tunjungan Plaza III. Utilitas tersebut antara lain adalah AMU. Didalam pengontrolan dan permonitoran utilitas dan sumber energi lislrik tersebut, Tunjungan Plaza III menggunakan Building Automation System (BAS). BAS yang ada terdiri dari MBC, UC, TEC dan DPU yang didalam proses monitoring dan controllingnya dibantu oleh sensor, transducer, valve, relay dan sebagainya. Peralatan pembantu tersebut sebagai input/output unit-unit controller BAS. Pada akhirnya hasil dari pembacaan parameter-parameter di lapangan dikirim oleh unit-unit controller BAS ke PC operator BAS yang telah dilengkapi dengan sofiware Insight. Dari hasil penelitian didapat bahwa BAS untuk AHU digunakan untuk monitoring temperatur return dan temperatur supply. Sedangkan yang dikontrol adalah temperatur return dengan menambah nilai set point pada trend graph PC operator. BAS untuk genset hanya berguna untuk monitoring power factor, tegangan, arus dan status dari genset tersebut. Penggunaan BAS untuk utilitas-utilitas di Tunjungan Plaza III sangat membantu operator dan hasil yang diperoleh juga memuaskan.",
+  "creators": "ROBERT EKO SETIAWAN",
+  "contributors": "Emmy Hosea (Advisor 1); Felix Pasila (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 01/442/ELK/2003; Robert Eko Setiawan (23497068)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

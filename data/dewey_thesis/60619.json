@@ -1,0 +1,14 @@
+{
+  "id": "60619",
+  "title": "Desain dan implementasi infrastruktur teknologi informasi multicabang dengan fitur keamanan untuk PT Kris Cargo Bahtera",
+  "abstract": "Keamanan infrastruktur perusahaan menjadi krusial di era digital saat ini, di mana penggunaan teknologi informasi semakin meluas. Khususnya bagi perusahaan dengan beberapa cabang, infrastruktur TI yang handal sangat penting untuk menjaga kelancaran operasional dan melindungi aset data perusahaan. PT Kris Cargo Bahtera, sebagai contoh, sering menghadapi tantangan dalam jaringan dan keamanan informasi, yang mempengaruhi produktivitas karyawan dan keandalan sistem. Penelitian ini mengusulkan pendekatan yang melibatkan berbagai teknologi untuk meningkatkan keamanan dan kinerja infrastruktur TI. Penggunaan teknologi seperti virtualisasi menggunakan Proxmox VE, load balancing dan failover menggunakan MikroTik, VLAN, sistem monitoring jaringan menggunakan Zabbix, RADIUS menggunakan FreeRADIUS dan DaloRADIUS, dan VPN site-to-site menggunakan WireGuard akan membantu meningkatkan ketersediaan layanan internet dan efisiensi pengelolaan sumber daya. Sementara itu, penggunaan NAS akan membantu dalam pengelolaan penyimpanan yang terpusat. Komponen keamanan seperti firewall, IDS, dan IPS menggunakan pfSense dan Suricata akan melindungi jaringan dari ancaman. Hasil dari penelitian ini adalah kombinasi solusi-solusi tersebut mampu membuat infrastruktur jaringan perusahaan tersebut lebih stabil, cepat, aman, serta membuat penggunaan storage yang lebih efisien karena adanya NAS.",
+  "creators": "ERIC TEDJA",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022500/INF/2024; Eric Tedja (C14200187)",
+  "subjects": "COMPUTER NETWORKS--SECURITY MEASURES; FIREWALLS (COMPUTER SECURITY); MANAGEMENT INFORMATION SYSTEMS"
+}

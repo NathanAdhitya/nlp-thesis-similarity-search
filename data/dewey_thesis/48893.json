@@ -1,0 +1,14 @@
+{
+  "id": "48893",
+  "title": "Kontrol dan monitoring penyiraman urban farming",
+  "abstract": "Menanam dengan metode Urban Farming masih dilakukan dengan cara manual. Tugas akhir ini bertujuan untuk mendesain sistem otomatis pada Urban Farming untuk memudahkan dalam penyiraman pada tanaman yang dapat dikendalikan menggunakan smartphone. Sistem yang dibuat terdiri dari perangkat keras dan program. Di dalam sistem terdapat tiga sensor yaitu sensor kelembaban tanah, , LDR dan sensor aliran air yang masing-masing memiliki peranan tersendiri. Seluruh sensor dan aktuator dikontrol menggunakan Arduino Mega. Berdasarkan hasil pengujian sistem yang telah dilakukan, sistem dapat mengontrol pengairan dengan baik, sensor cahaya difungsikan untuk mengetahui intensitas cahaya yang mengenai tanaman, sensor aliran difungsikan untuk mengetahui apakah penyiraman dapat mencapai titik terjauh atau tidak. Hasil pembacaan sensor dapat dimonitor dengan mudah dengan menggunakan aplikasi pada smartphone.",
+  "creators": "VINCENTIUS WIRATMAN",
+  "contributors": "Resmana Lim (Advisor 1); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011005/ELK/2020; Vincentius Wiratman (23415018)",
+  "subjects": "ELECTRONIC DATA PROCESSING; PROGRAMMABLE CONTROLLERS; URBAN FARMING; ARDUINO (PROGRAMMABLE CONTROLLER)--PROGRAMMING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "57192",
+  "title": "Analisis biaya kontingensi dengan metode Monte Carlo pada studi kasus proyek gudang",
+  "abstract": "Banyak risiko ketidakpastian yang dapat menyebabkan pembengkakan biaya dalam suatu proyek. Salah satu risiko ketidakpastian adalah harga material yang sulit diprediksi kenaikannya dan berdampak signifikan pada sektor konstruksi. Sehingga diperlukan manajemen resiko yang baik, dengan cara mengidentifikasi item material apa yang memiliki biaya yang paling besar, karena dari item material tersebut dapat mempengaruhi keseluruhan biaya proyek sehingga diperlukan biaya kontingensi. Pada studi kasus gudang ini, item baja yang memiliki biaya yang paling besar. Untuk mengakomodasi risiko-risiko ketidakpastian tersebut, penggunaan simulasi Monte Carlo dalam perencanaan biaya kontingensi yang harus disiapkan oleh kontraktor. Pendekatan yang diambil untuk mengestimasi kenaikan harga satuan baja adalah dengan pendekatan kuantitatif, di mana data historis baja dunia yang di produksi di China dengan melihat dari website Trading Economics dan kurs mata uang China (CNY) ke mata uang Indonesia (Rupiah) dengan melihat website Investing.com. Dalam penelitian ini, perencanaan biaya kontingensi dilakukan menggunakan simulasi Monte Carlo dengan distribusi logistik yang paling sesuai. Dengan adanya Monte Carlo Simulation ini memudahkan kontraktor untuk memiliki lebih banyak pilihan untuk menambahkan biaya kontingensi berdasarkan profil resiko dari kontraktor tersebut. Berdasarkan hasil simulasi, kontraktor perlu biaya kontingensi sebesar 6,86% dan 8,40% dengan degree of confidence sebesar 85% dan 90%.",
+  "creators": "Rivaldi Giantara",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Ir. JANUAR BUDIMAN, M.S.,Ph.D. (Advisor 2); I Gede Agus Widyadana (Examination Committee 1); Willy Husada, ST.,MT., Msc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000349/MTS/2023; Rivaldi Giantara (B21200002)",
+  "subjects": "CONSTRUCTION INDUSTRY--COSTS; CONSTRUCTION INDUSTRY--MANAGEMENT; MONTE CARLO SIMULATION; RISK MANAGEMENT; WAREHOUSES--MANAGEMENT"
+}

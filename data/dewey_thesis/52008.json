@@ -1,0 +1,14 @@
+{
+  "id": "52008",
+  "title": "Meningkatkan kesulitan serangan enemy dengan menambahkan influence map pada metode a* pada procedural generated tower defense game",
+  "abstract": "Pada tower defense game, jika map dan penyerangan enemy tidak berubah maka strategi yang digunakan player akan tetap sama, hal ini membuat game tersebut memiliki replay value yang rendah dan membuat player berhenti memainkan game tersebut. Tower defense game yang sudah ada telah menggunakan procedural generation untuk membuat level yang berbeda pada setiap dimainkan, tetapi masih terdapat kekurangan dimana map terlihat polos dan memiliki pola yang sama setiap dimainkan, selain itu penyerangan enemy menggunakan A* memiliki pola yang simple dan tidak dapat mencari jalur yang menguntungkan untuk enemy sehingga enemy mudah dikalahkan dan game menjadi kurang menarik. Untuk mengatasi masalah tersebut digunakan perlin noise pada procedural generation agar map yang dibuat tidak terlihat polos dan tidak memiliki pola yang sama pada setiap dimainkan, selain itu digunakannya A* dengan ditambahkan dengan influence map pada penyerangan enemy agar penyerangan enemy dapat menjadi lebih menantang dan menarik untuk pemain. Pada penelitian ini map dibuat menggunakan perlin noise untuk menentukan terrain pada tile yang ada pada map dan akan dilakukan pengecekan letak start dan finish menggunakan floyd warshall algorithm untuk menentukan apakah map perlu untuk dibuat ulang. Untuk penyerangan enemy digunakannya A* dengan ditambahkannya influence map untuk membuat enemy dapat memilih jalan yang lebih menguntungkan untuknya dengan berusaha menghindari jalan yang terhalang oleh tower dan jalan yang dapat diserang oleh tower. Hasil pengujian menunjukan setelah dilakukannya generate secara berulang sebanyak 20 kali tidak ditemukannya map yang memiliki letak dan jarak antara start dan finish yang sama. Selain itu ditemukannya juga dengan pengimplementasian procedural generation dan influence map membuat game 25.7% lebih menantang jika dibandingkan dengan game yang tidak menggunakannya.",
+  "creators": "MICHAEL BUDIONO",
+  "contributors": "Liliana (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); ANDRE GUNAWAN, S.Kom. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022135/INF/2022; Michael Budiono (C14170076)",
+  "subjects": "ALGORITHMS; COMPUTER GAMES--PROGRAMMING"
+}

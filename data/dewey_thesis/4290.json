@@ -1,0 +1,14 @@
+{
+  "id": "4290",
+  "title": "Perancangan dan pembuatan sistem informasi akademis dan pemantauan studi pembelajaran siswa pada SLTPK St. Stanislaus I",
+  "abstract": "Kesibukan orang tua terjadi pada siang hari saat mereka bekerja sehingga menyulitkan mereka untuk memantau perkembangan studi anak mereka. Sekolah hanya menyediakan informasi pada saat siang hari saja. Untuk memecahkan masalah tersebut, dibuatlah rancangan dan implementasi Sistem Informasi berbasiskan teknologi internet. Orang tua siswa dapat mengakses informasi yang disediakan pihak sekolah dari setiap saat. Informasi tersebut meliputi informasi nilai ujian akhir, informasi kegiatan ekstrakurikuler, informasi keuangan. Perancangan sistem dilakukan dengan menggunakan metodologi UML. Setiap proses yang terjadi didalam sistem digambarkan dalam diagram use cases, class diagram, dan sequence diagram. Setelah masing-masing proses digambarkan dengan diagram, maka dilakukan implementasi kedalam bahasa pemrograman Microsoft Visual Basic .Net (VB.Net), Active Server Pages .Net (ASP.Net) dan Microsoft SQL Server 7 sebagai database. Uji coba yang dilakukan terhadap sistem meliputi uji coba masukkan data oleh pihak internal sekolah dan uji coba penggunaan sistem oleh pihak luar (orang tua siswa). Hasil uji coba telah memenuhi kebutuhan yang diperlukan oleh pemakai.",
+  "creators": "TEGUH GUNAWAN",
+  "contributors": "JOKO LIANTO B.,DR.,Ir.,M.Sc. (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Theresia Lestiowati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000271/INF/2004; Teguh Gunawan (26400040)",
+  "subjects": "INTERNET (COMPUTER NETWORK); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

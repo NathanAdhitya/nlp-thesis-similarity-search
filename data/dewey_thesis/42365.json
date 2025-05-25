@@ -1,0 +1,14 @@
+{
+  "id": "42365",
+  "title": "Perbandingan deteksi duplikat gambar menggunakan metode polar coordinates system dengan histogram of oriented gradients dalam hal keakuratan, penggunaan memory, dan kecepatan pro",
+  "abstract": "Di era teknologi digital saat ini dengan bantuan software-software yang ada, manipulasi foto digital menjadi semakin mudah dan cepat. Salah satu contohnya adalah perkembangan software image processing yang handal menyebabkan mudahnya suatu gambar digital untuk dimanipulasi dan diedit. Hal ini menjadi sangat penting dilakukan untuk melindungi dan menjaga kepercayaan publik. Dari permasalahan yang dipaparkan maka untuk menentukan performa dari kedua algoritma yaitu algoritma Polar Coordinates System (PCS) dan Histogragm of Oriented Gradients (HOG) dalam copy-move akan dilakukan perbandingan meliputi penggunaan memory, kecepatan dalam melakukan satu kali proses, dan juga tingkat keakuratan setiap algoritma dalam menentukan copy-move apa yang telah terjadi pada sebuah gambar. Perbandingan tingkat keakurasian, kecepatan, dan penggunaan memory digunakan karena algoritma yang baik harus memiliki tingkat akurasi yang tinggi. Selain itu kecepatan juga merupakan sebuah hal yang penting, karena suatu algoritma harus bisa kerjakan dengan cepat dan benar sehingga dapat membantu dan yang terakhir penggunaan memory karena, jika proses yang dilakukan sudah cepat dan tepat akan tetapi jika membutuhkan memory yang sangat besar dapat membuat komputer freeze. Hasil akhir metode PCS lebih baik dibanding metode HOG. Tingkat keakurasian sangat tinggi dan bisa diterapkan, untuk kecepatan proses lebih cepat metode HOG akan tetapi dengan tingkat keakurasian banyak false detection. Untuk penggunaan memory hampir sama dari kedua algoritma ini.",
+  "creators": "IVAN SURYAJAYA",
+  "contributors": "Kartika Gunadi (Advisor 1); Rudy Adipranata (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021792/INF/2018; Ivan Suryajaya (26414034)",
+  "subjects": "IMAGE PROCESSING--DIGITAL TECHNIQUES--COMPUTER PROGRAMS; IMAGE PROCESSING--DIGITAL TECHNIQUES"
+}

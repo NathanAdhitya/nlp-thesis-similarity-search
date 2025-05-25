@@ -1,0 +1,14 @@
+{
+  "id": "8090",
+  "title": "Aplikasi SMS broadcast untuk peserta kursus",
+  "abstract": "Dengan memadukan teknologi telepon selular dan Short Message Service (SMS) dengan sistem broadcast, maka dalam tugas akhir ini dibuat aplikasi untuk mengakses informasi-informasi keanggotaan sebuah kursus musik melalui SMS. Informasi-informasi yang dapat diakses antara lain informasi mengenai jadwal kursus, tunggakan tagihan bulanan dan juga informasi tentang kegiatan-kegiatan sebuah kursus musik. Sistem ini dibuat pada sebuah personal computer (PC) yang dihubungkan dengan sebuah telepon selular melalui sistem Bluetooth. Setiap SMS yang masuk ke telepon selular diproses oleh sistem, dimana SMS yang diproses harus sesuai dengan format yang sudah ditentukan. Kemudian sistem akan mengirimkan SMS balasan kepada pengguna. Pengguna yang dapat menggunakan sistem ini harus terdaftar sebagai anggota. Sistem ini dibuat dengan menggunakan Borland Delphi 7.0. Format data yang mengalir antara sistem dan telepon selular dalam bentuk PDU (Protocol Data Unit). Program berjalan di bawah sistem operasi Windows XP Professional, dan sebuah telepon selular tipe Sony Ericsson W700i sebagai sarana penerima dan pengirim SMS. Dalam pengujian, sistem ini berhasil digunakan untuk mengirimkan permintaan pengguna dalam bentuk SMS secara otomatis.",
+  "creators": "ANDRI KURNIAWAN",
+  "contributors": "Resmana Lim (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010065/ELK/2007; Andri Kurniawan (23400036)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT-COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "55637",
+  "title": "Penerapan gated recurrent unit dan infersent untuk sistem penilaian esai otomatis bahasa Inggris dengan menggunakan referensi esai sebagai fitur kriteria penilaian",
+  "abstract": "Esai merupakan sebuah prosa atau karya tulis yang membahas suatu masalah dan bersifat subjektif berdasarkan sudut pandang dari penulis. Pada bidang akademis, pembuatan esai seringkali dijadikan tugas maupun ujian sebagai salah satu bentuk penilaian kepada pelajar. Permasalahan yang seringkali dihadapi saat melakukan penilaian esai secara manual yaitu memerlukan waktu yang lama serta kekonsistenan dari pemeriksa. Selain itu penilaian esai yang dilakukan secara manual merupakan pekerjaan yang repetitif dan membutuhkan konsentrasi agar dapat memberikan penilaian yang baik. Maka dari itu, peneliti membuat sistem penilaian esai secara otomatis untuk mengatasi permasalahan tersebut. Metode yang digunakan yaitu Gated Recurrent Unit yang dibantu dengan Infersent sebagai sentence embedder untuk menghasilkan embedding dengan konteks kalimat pada esai. Fitur yang digunakan yaitu referensi esai sebagai kriteria penilaian dimana merupakan rata-rata dari embedding esai setiap nilai untuk dijadikan pembanding dengan esai yang ingin dinilai. Pengujian dari skripsi ini menghasilkan GRU dalam segi Quadratic Weighted Kappa (QWK) masih kurang bagus jika dibandingkan dengan penelitian sebelumnya yang menggunakan Bidirectional LSTM. Rata-rata QWK yang didapatkan oleh GRU dari 8 set esai hanya mencapai 0.59 dan tertinggi 0.75 dibandingkan dengan rata-rata QWK yang didapatkan oleh Bidirectional LSTM mencapai 0.801 dan tertinggi 0.861. Pengaruh dari penggunaan sentence embedder sudah cukup bagus untuk mendapatkan informasi semantik pada esai. Hal ini dapat dibuktikan dari selalu adanya peningkatan QWK model seiring bertambahnya ukuran embedding yang digunakan. Referensi esai sebagai fitur kriteria penilaian sudah cukup bagus dilihat dari hasil QWK pengujian validitas yang hampir menyamai QWK pengujian hasil training walaupun esai dan penilai untuk pengujian validitas berbeda dari dataset untuk training.",
+  "creators": "VINCENT IE PUTRA",
+  "contributors": "Kartika Gunadi (Advisor 1); Ir. ENDANG SETYATI, M.T., DR. (Advisor 2); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Examination Committee 1); Liliana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022245/INF/2023; Vincent Ie Putra (C14180020)",
+  "subjects": "IMAGE PROCESSING--DIGITAL TECHNIQUES--COMPUTER PROGRAMS; PROGRAMMING LANGUAGES (ELECTRONIC COMPUTERS)"
+}

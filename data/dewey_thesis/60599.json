@@ -1,0 +1,14 @@
+{
+  "id": "60599",
+  "title": "Sistem prediksi untuk perencanaan kapasitas perangkat web application firewall perusahaan XYZ menggunakan metode SARIMA",
+  "abstract": "Peningkatan jumlah nasabah dari tahun ke tahun perlu didukung dengan kapasitas perangkat siber yang memadai. Jika perangkat mengalami kelebihan kapasitas ketika dibutuhkan, aplikasi perusahaan XYZ dapat mengalami downtime. Di sisi lain, perusahaan masih menggunakan data historis untuk perencanaan kapasitas perangkat, pendistribusian beban perangkat berdasarkan preferensi individu, dan alur proses penambahan perangkat yang membutuhkan estimasi waktu sekitar 5 bulan. Hal ini membuat perusahaan memerlukan adanya sistem perencanaan kapasitas perangkat yang dapat menghasilkan 3 output, yaitu jumlah perangkat yang perlu disediakan perusahaan, rekomendasi alokasi kapasitas setiap aplikasi yang dikelola perangkat, dan timeline proses penambahan perangkat. Metode yang diusulkan untuk mendukung sistem perencanaan kapasitas perangkat perusahaan adalah metode Seasonal Autoregressive Integrated Moving Average (SARIMA). Metode ini dipilih karena ditemukan adanya tren musiman setiap 7 hari pada data traffic, Central Processing Unit (CPU), dan Random Access Memory (RAM) setiap perangkat Web Application Firewall (WAF). Model yang digunakan pada program adalah model dengan nilai rata-rata Root Mean Square Error (RMSE) terendah. Hasil prediksi dapat dikatakan akurat jika memiliki nilai RMSE mendekati 0. Setelah dilakukan pengujian program, rata-rata RMSE terendah untuk data traffic yang ditemukan adalah 1.694,7178, data CPU adalah 5,9442, dan data RAM adalah 3,3651. Tingkat akurasi untuk data CPU dan RAM menunjukkan nilai akurasi yang baik karena menghasilkan nilai RMSE mendekati 0, sedangkan untuk data traffic kurang akurat karena menghasilkan nilai RMSE yang jauh dari 0. Hal ini membuat model SARIMA yang digunakan untuk data traffic perlu diteliti kembali untuk mendapatkan model yang lebih akurat, misalnya dengan menggunakan data dengan jumlah yang lebih besar. Di sisi lain, hasil prediksi ini berhasil menjawab permasalahan perusahaan dengan membantu program untuk menghasilkan 3 output utama seperti yang dijelaskan pada paragraf pertama.",
+  "creators": "ARIELLA THANIA RIJAYA",
+  "contributors": "Rolly Intan (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Andreas Handojo (Examination Committee 1); Justinus Andjarwirawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022559/INF/2024; Ariella Thania Rijaya (C14200158)",
+  "subjects": "WEB APPLICATIONS--INTERNET MARKETING; WEB SITES--DESIGN; DATABASE DESIGN--COMPUTER PROGRAMS"
+}

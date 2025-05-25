@@ -1,0 +1,14 @@
+{
+  "id": "9163",
+  "title": "Aplikasi optimasi penjadwalan pemotongan kertas dengan menggunakan metode algoritma genetika",
+  "abstract": "Dunia industri yang semakin maju membutuhkan komputer sebagai alat bantu utama. Sistem komputerisasi di dalam dunia industri akan membuat beberapa hal menjadi lebih mudah, antara lain dalam mengoptimalkan penjadwalan pemotongan kertas. Perangkat lunak yang dibuat ini dikhususkan untuk mengoptimalkan kertas yang diproduksi akan dipotong sesuai dengan gramature dan berat kertas yang diminta oleh konsumen. Penjadwalan pemotongan kertas ini menggunakan algoritma genetika, yang akan melalui proses pembuatan populasi awal, pencarian fitness cost dengan memperhitungkan sisa potong, waktu potong dan prioritas potongan kertas, regenerasi, persilangan, dan mutasi. Melalui perangkat lunak ini, user juga dapat melihat kondisi stock bahan baku dan laporan . Sistem dari perangkat lunak yang dibuat ini sudah diuji coba dan memberikan solusi pemotongan kertas yang cukup baik, ini berarti perangkat lunak ini telah sukses dalam menjalankan fungsinya. Dari hasil pengujian penulis mendapatkan bahwa waktu yang digunakan untuk menjalankan proses dengan permintaan yang banyak membutuhkan waktu yang lebih banyak",
+  "creators": "ELLY EKAWATI SOETJAHOJO",
+  "contributors": "Cherry Galatia Ballangan, S.Si., M.AIT. (Advisor 1); Liliana (Advisor 2); M. ISA IRAWAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000466/INF/2006; Elly Ekawati Soetjahojo (26402031)",
+  "subjects": "GENETIC ALGORITHMS; GENETIC PROGRAMMING (COMPUTER SCIENCE)"
+}

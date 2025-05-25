@@ -1,0 +1,14 @@
+{
+  "id": "14375",
+  "title": "Perencanaan dan pembuatan transformer differential relay digital menggunakan mikrokontroller 8031 untuk transformer 3 fasa, 3 KVA, 50 Hz, Yd11, 220 V/127 V",
+  "abstract": "Peralatan pengaman transformer yang menggunakan relay differential digital yang ada relatif mahai Dengan alasan ini direncanakan dibuat suatu sistem pengaman differential digital yang handal dan murah dengan memanraatkan mikrokontroller 8031 sebagai pemroses data digital dan unit kontrol kerja relay secara digital yang dilengkapi oleh peralatan penunjang seperti rangkaian analog to digital converter yang mengubah tegangan analog menjadi data digital, rangkaian pengubah tegangan AC ke DC, rangkaian pengabah arus ke tegangan dan layar LCD yang menampilkan parameter pada differential relay digital tersebut. Dari hasil pengujian alat pengaman yang dibuat terhadap trafo 3 fasa ternyata alat pengaman tersebut mampu mengatasi gangguan internal yang terjadi pada transformer.",
+  "creators": "PENNYNATA",
+  "contributors": "Limboto Limantara (Editor); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/TST/033/270; Pennynata (23492158)",
+  "subjects": "INTEL 8031 (MICROCONTROLLER); ELECTRIC TRANSFORMERS-COMPUTER PROGRAMS"
+}

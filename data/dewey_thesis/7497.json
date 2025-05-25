@@ -1,0 +1,14 @@
+{
+  "id": "7497",
+  "title": "Perancangan dan pembuatan sistem pakar untuk mengatasi masalah kesehatan sehari-hari dengan menggunakan metode acupressure",
+  "abstract": "Metode pengobatan acupressure merupakan salah satu pengobatan alternatif yang cukup diminati. Metode pengobatan ini berasal dari negeri China dan memiliki konsep yang sama dengan pengobatan akupunktur. Metode acupressure menggunakan tekanan jari / pijatan sebagai sarananya. Metode ini menggunakan titi-titik tubuh manusia. Titik-titik tubuh manusia ada banyak dan bermacam-macam dengan fungsi dan kegunaan yang berbeda-beda. Untuk mengatasi masalah tersebut maka dibuat aplikasi program sistem pakar ini. Aplikasi sistem pakar ini meniru cara berpikir seorang dokter dalam melakukan diagnosis suatu masalah kesehatan sehari-hari dan kemudian memberikan solusi berupa titik-titik tubuh yang harus ditekan. Aplikasi ini membantu dalam mendapatkan kemungkinan penyakit yang diderita serta memberikan pengobatan yang sesuai. Pembuatan sistem pakar ini menggunakan metode forward chaining, yaitu proses inferensi yang memulai pencarian dari premis menuju pada konklusi, dan backward chaining, yaitu proses inferensi yang memulai pencarian dari konklusi untuk mendapatkan premis. Aplikasi sistem pakar ini menggunakan pemrograman Borland Delphi 7.0, untuk database digunakan Microsoft Access 2000, dan untuk koneksi menggunakan ADO Connection. Berdasarkan hasil kuisioner yang telah dilakukan terhadap responden yang terdiri dari orang-orang yang berkompeten di bidang kedokteran dan akupunktur maupun yang tidak berkompeten, didapatkan suatu kesimpulan bahwa program aplikasi ini cukup bermanfaat dalam memberikan informasi yang dibutuhkan.",
+  "creators": "IKA PRATIWI",
+  "contributors": "Rolly Intan (Advisor 1); Andreas Handojo (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000443/INF/2005; Ika Pratiwi (26401070)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--MEDICAL APPLICATIONS; EXPERT SYSTEM (COMPUTER SCIENCE)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "15229",
+  "title": "Penjadualan produksi menggunakan rescheduling procedure di U.D. Pari Jaya Makmur",
+  "abstract": "U.D. Pari Jaya Makmur adalah suatu perusahaan manufaktur yang memproduksi spare part sepeda dan peralatan bangunan (building hardware). Bahan baku utama dari produk-produk tersebut terdiri dari plat besi dan besi batangan. Dalam melakukan kegiatan produksinya, pihak perusahaan tidak mengacu pada sistem penjadualan produksi yang tepat. Hal ini menyebabkan terjadinya penumpukan produk di gudang dan ada produk-produk tertentu yang mengalami kekurangan stok. Tujuan dari penelitian ini adalah untuk membuat suatu sistem penjadualan produksi yang tepat dengan total waktu penyelesaian (makespan) yang minimum untuk kategori penjadualan job shop di mana urutan proses pemesinan untuk tiap job dapat berbeda. Permasalahan penjadualan job shop ini dipecahkan melalui dua metode, yaitu Algoritma Shifting Bottleneck Heuristic dan Rescheduling Procedure. Pada Algoritma Shifting Bottleneck Heuristic didapatkan makespan sebesar 263750.17 detik, sedangkan pada Rescheduling Procedure didapatkan makespan sebesar 250915.41 detik. Perbedaan makespan dari kedua metode di atas dapat disimpulkan bahwa pada kasus ini Rescheduling Procedure memberikan hasil yang lebih baik dengan makespan yang lebih kecil.",
+  "creators": "SILVIA NATAWIDJAJA",
+  "contributors": "SANDY CITRO (Advisor 1); Jani Rahardjo (Advisor 2); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 438/TI-029/2001; Silvia Natawidjaja (25496032)",
+  "subjects": "PRODUCTION SCHEDULING; SCHEDULING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "36664",
+  "title": "Aplikasi virtual character untuk simulasi virtual map pada gedung P lantai 2 UK Petra",
+  "abstract": "Perkembangan dan persaingan Universitas di Indonesia sangatlah ketat. Universitas Kristen Petra juga merupakan Universitas yang sudah lama berdiri dan dikenal banyak orang di Indonesia. Calon mahasiswa tentu ingin melihat lebih jelas bentuk, sarana dan suasana yang dimiliki pada Universitas. Sehingga itu dibuatlah sebuah virtual map untuk gedung Universitas Kristen Petra dengan menggunakan alat Head-Mounted Display Oculus Rift untuk menampilkan simulasi peta gedung Universitas Kristen Petra. Namun virtual map yang dibuat sebelumnya hanyalah sebuah peta simulasi kosong yang hanya berisi perabotan-perabotan dan tidak berisi virtual character sehingga simulasi tidak memiliki suasana perkuliahan. Akhirnya diimplementasikan virtual character dalam map agar simulasi terlihat nyata menggunakan Rule-based system. Dalam pembuatan program, dilakukan terlebih dahulu penelitian bentuk setiap objek seperti karakter orang, meja, kursi, dan komputer dalam gedung, sehingga diharapkan hasil yang didapatkan bisa menyerupai keadaan aslinya. Kemudian pemberian material pada objek karakter yang dilakukan pada Unity diharapkan sesuai dengan keadaan asli. Diberikan fitur collision menggunakan NavMesh Agent yang bertujuan supaya objek karakter maupun pengguna tidak dapat menembus dinding. Diberikan juga jadwal-jadwal tertentu pada objek karakter. Hasil pada program ini, pembuatan dan peletakan objek karakter pada virtual map belum terlalu menyerupai keadaan aslinya. Hasil yang didapatkan masih belum memiliki kemiripan dengan keadaan dalam gedung P lantai 2 dan tidak semua furnitur-furnitur dalam ruangan ditampilkan. Hambatan waktu dalam pembuatan menjadi faktor utama, sehingga tidak bisa membuat karakter lebih secara detail. Seluruh ruangan dan karakter pada gedung P lantai 2 sudah dibuat, hanya ada beberapa bagian masih belum terlengkapi misalkan pada bagian tangga besar gedung P. Interaksi antara masing-masing karakter masih kurang. Kekurangan dari program ini, membutuhkan spesifikasi komputer yang cukup tinggi dalam menjalankan program. Ini dikarenakan resolusi yang dihasilkan pada program ini bisa dibilang cukup besar.",
+  "creators": "STEVEN PIERRETIO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Kartika Gunadi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021516/INF/2016; Steven Pierretio (26411069)",
+  "subjects": "VIRTUAL COMPUTER SYSTEMS; PROGRAMMING (ELECTRONIC COMPUTERS); IMAGE PROCESING-DIGITAL TECHNIQUES"
+}

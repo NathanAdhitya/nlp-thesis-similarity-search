@@ -1,0 +1,14 @@
+{
+  "id": "59429",
+  "title": "Optimasi perhitungan kinerja kapasitas jalan luar kota menggunakan solver",
+  "abstract": "Pada perhitungan kinerja jalan luar kota (JLK), memungkinkan diperlukan pengulangan perhitungan jika tidak memenuhi nilai derajat kejenuhan yang ditentukan. Sehingga pembuatan prosedur komputasi (PK) menggunakan add-ins solver pada Microsoft Excel dapat mempermudah proses pengulangan perhitungan kinerja JLK dengan mengubah lebah lajur dan lebar bahu jalan agar dapat memenuhi nilai derajat kejenuhan tertentu sesuai yang dikehendaki oleh pengguna. Pembuatan PK mengacu pada Pedoman Kapasitas Jalan Indonesia (PKJI) 2023. PK terdiri atas empat bagian sheet excel, yaitu: (1) sheet tampilan awal sebagai panduan bagi pengguna, (2) sheet input sebagai isian data umum, data geometri, data lalu lintas, dan data hambatan samping, (3) sheet solver sebagai tampilan hasil optimasi, dan (4) sheet output (Formulir JLK-I, JLK-II, dan JLK-III) sebagai tampilan hasil perhitungan kinerja JLK.",
+  "creators": "CHRISTOPHER GARRY SANTOSO; GABRIELE CHARITY HARTONO",
+  "contributors": "Rudy Setiawan (Advisor 1); Paravita Sri Wulandari (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012736/SIP/2024; Christopher Garry Santoso (B11190024), Gabriele Charity Hartono (B11190128)",
+  "subjects": "CIVIL ENGINEERING; HIGHWAY ENGINEERING-MANAGEMENT; ROAD WORK ZONES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "24072",
+  "title": "Perencanaan dan pembuatan alat pengukur arus listrik digital yang dapat dimemori memakai sensor efek hall dan mikroprosesor 8088 untuk arus AC dan DC maksimum 5 Ampere",
+  "abstract": "Dalam era teknologi saat ini, bidang elektronika semakin maju pesat. Bidang elektronika erat kaitannya dengan pengetahuan fisika, salah satunya adalah tentang elektromagnetik. Banyak peralatan dalam bidang elektronika, baik untuk pengukuran, komunikasi, maupun industri yang menerapkan dasar elektromagnetik. Pada Tugas Akhir ini dibuat suatu alat ukur yang menerapkan prinsip elektromagnetik daIam melakukan pengukuran. Alat ukur ini digunakan untuk mengukur arus listrik tanpa terjadi kontak langsung dengan penghantar yang dilalui arus yang akan diukur. Prinsip dasar dari alat ukur arus listrik ini adalah mendeteksi medan elektromagnetik yang timbul disekitar kawat penghantar yang dilalui arus listrik dengan sensor Effect Hall, kemudian dikonversikan ke bentuk digital untuk diolah lebih lanjut oleh mikroprosesor. Selain diolah oleh mikroprosesor, data digital tadi diubah kembali menjadi bentuk analog dan selanjutnya diubah oleh suatu rangkaian pengubah tegangan ke arus listrik menjadi arus listrik. Arus listrik ini dilewatkan pada suatu kumparan pada toroida untuk menimbulkan medan elektromagnetik' sebagai penanding medan elektromagnetik yang timbul sehingga total medan magnet di dalam toroida tadi menjadi nol . Dengan sistim lup tertutup maka hasil pengukuran akan lebih baik dibandingkan dengan menggunakan sistem lup terbuka. Selain dari pada itu pengukuran arus tanpa terjadi kontak langsung dengan kawat penghantar yang akan diukur arusnya akan lebih aman bagi peralatan pengukuran maupun bagi pelaku pengukurann itu sendiri. Pada tugas akhir ini dibatasi pengukuran arus listrik hanya sebesar 5 Ampere. Resolusi dari alat ukur ini sebesar 39 mA dengan memakai ADC 8 bit. Data hasil pengukuran dapat disimpan dalam memori dan ditampilkan kembali pada LCD. Range pengukuran dapat diperbesar dan resolusi dapat ditingkatkan dengan melakukan modifikasi lebih lanjut.",
+  "creators": "DWITANTO",
+  "contributors": "HANDAYANI T. (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); ISKANDAR ZULKARNAIN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/019/0222; Dwitanto (23489128)",
+  "subjects": "ELECTRIC APPARATUS AND APPLIANCES; ELECTRIC INDUSTRIES"
+}

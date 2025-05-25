@@ -1,0 +1,14 @@
+{
+  "id": "2062",
+  "title": "Penjadwalan tenaga paramedis perawatan di Rumah Sakit Katolik St. Vincentius A. Paulo dengan bayesian optimization algorithm",
+  "abstract": "Tujuan skripsi ini adalah membuat jadwal perawat mingguan yang dapat memenuhi kebutuhan perawat setiap jenjang dengan memperhatikan preferensi perawat menggunakan Bayesian Optimization Algorithm. Dalam algoritma ini semua pola shift yang mungkin dibangkitkan. Populasi awal dipilih secara acak dengan probabilitas tertentu. Penentuan pola shift untuk setiap perawat dilakukan dengan empat peraturan pembentukan. Proses akan terus berulang hingga diperoleh fitness function yang diinginkan. Dari hasil simulasi, didapatkan jadwal usulan yang mampu memenuhi kebutuhan perawat setiap jenjang sebesar 68,53 %. Hal ini lebih baik jika dibandingkan dengan jadwal real yaitu sebesar 42,89 %. Jadwal usulan mampu memenuhi preferensi perawat lebih baik daripada jadwal real.",
+  "creators": "VERONICA MAYA KUSWANTO",
+  "contributors": "I Nyoman Sutapa (Advisor 1); Iwan Halim Sahputra, S.T., M.Sc., Ph.D. (Advisor 2); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010900/IND/2005; Veronica Maya Kuswanto (25401081)",
+  "subjects": "PRODUCTION SCHEDULING"
+}

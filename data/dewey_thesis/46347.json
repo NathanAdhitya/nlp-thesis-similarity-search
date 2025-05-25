@@ -1,0 +1,14 @@
+{
+  "id": "46347",
+  "title": "Perbandingan metode Tabu Search dan metode Hungarian Algorithm untuk penentuan Driver Assignment pada simulasi taksi online",
+  "abstract": "Taksi merupakan salah satu transportasi umum yang banyak digunakan oleh masyarakat di seluruh belahan dunia. Seiring berjalannya waktu, taksi terus berkembang hingga sekarang ini muncul taksi online. Taksi juga berkembang dalam fungsi dispatch dalam pemasangan driver dengan request dari pelanggan. Dengan berkembangnya fungsi pemasangan driver ke request ini, maka parameterparameter yang digunakan untuk mendapatkan hasil matching juga semakin bertambah, dan kompleksitasnya semakin meningkat. Namun, dengan kondisikondisi yang semakin berkembang, proses matching antar driver dan pelanggan tetap dituntut untuk menggunakan waktu dan sumber daya seminimal mungkin dan tetap menghasilkan hasil yang optimal. Maka dari ini, pada proses matching ini dilakukan banyak perkembangan agar mendapat hasil pemasangan driver ke pelanggan yang dapat meminimalkan waktu dan jarak. Aplikasi dibuat dengan bahasa pemograman python, bootstrap 3 untuk front end menu, dan django sebagai framework. Google Maps API digunakan untuk mendapatan nilai waktu dan jarak penjemputan dan sebagai front end pada bagian peta online. MySQL digunakan sebagai database untuk menyimpan data-data simulasi. Hasil akhir dari program ini yaitu sutau aplikasi simulasi assignment antara driver dan passenger dengan menggunakan dua algoritma dan 3 faktor, yaitu waktu, jarak, dan last trip oleh driver. Simulasi dapat menampilkan perbandingan dari hasil assignment untuk memudahkan proses perbandingan algortima.",
+  "creators": "ERYN",
+  "contributors": "Andreas Handojo (Advisor 1); Tanti Octavia (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); I Gede Agus Widyadana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021921/INF/2020; Eryn (26416122)",
+  "subjects": "COMPUTER PROGRAMMING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5427",
+  "title": "Pembuatan sistem informasi penjualan dan pembelian pada PT. Bukit Centra Mineral",
+  "abstract": "Perkembangan teknologi informasi pada saat ini begitu cepat, sehingga perusahaan mencoba untuk memanfaatkannya. PT. Bukit Centra Mineral adalah perusahaan pertambangan mineral yang memproses barang tambang Calcium Bentonite dan Zeolite menjadi produk Bleaching Earth, \"HERLIT\" Natural Zeolite, dan Batu Templek Hijau Zeolite. Kegiatan administrasi yang ada pada PT. Bukit Centra Mineral diantaranya pembelian, pembayaran pembelian, penjualan, pembayaran penjualan, pembayaran gaji pegawai dan pembayaran untuk expedisi muatan kapal laut. Tetapi kendala utama yang dihadapi oleh perusahaan tersebut adalah mengenai penyimpanan data perusahaan dan pembuatan laporan administrasi dalam ruang lingkup penjualan dan pembelian. Tahapan yang dilakukan dalam pembuatan project ini, yaitu desain data flow diagram, desain entity relationship diagram, desain database dan implementasi pemrogramannya. Pembuatan project ini menggunakan bahasa pemrograman Delphi 5, database yang digunakan Paradox dan koneksi database menggunakan BDE Administrator. Hasil akhir dari pembuatan project ini diantaranya order penjualan, nota penjualan, order pembelian, nota pembelian, dan stock opname produk. Pembuatan laporan untuk pembelian, stock bahan baku, bahan baku under stock, penjualan, piutang, stock produk, produk under stock dan order penjualan yang belum terkirim.",
+  "creators": "FERRY WIDIHARDJO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Andreas Handojo (Advisor 2); M. ISA IRAWAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0161/INF/2004; Ferry Widihardjo (26498068)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "51990",
+  "title": "Analisis forecasting durasi proyek konstruksi dengan metode earned schedule",
+  "abstract": "Metode earned schedule merupakan salah satu metode pengontrolan jadwal. Metode earned schedule ini sering kali digunakan untuk melakukan forecast durasi akhir proyek. Perhitungan forecast metode earned schedule erat kaitannya dengan performa proyek. Terdapat tiga jenis performa proyek yaitu performa proyek rencana, performa proyek rata-rata dan performa proyek periode saat ini. Meskipun terdapat tiga jenis performa proyek, penelitian-penelitian metode earned schedule sebelumnya hanya melakukan forecast dengan performa proyek rata-rata saja. Oleh karena itu, penelitian ini bertujuan membandingkan hasil forecast ketiga jenis performa proyek tersebut. Penelitian ini dilakukan menggunakan data sekunder dari penelitian earned schedule sebelumnya. Data sekunder tersebut berupa 5 buah proyek konstruksi. Pada tiap-tiap proyek akan dilakukan 3 forecast, dimana setiap forecast menggunakan performa proyek yang berbeda. Untuk membandingan hasil dari 3 jenis forecast tersebut, digunakan nilai Mean Absolute Percentage Error (MAPE). Forecast dengan nilai MAPE terkecil merupakan forecast dengan hasil paling akurat. Perolehan nilai MAPE dari setiap jenis forecast menunjukkan pola yang konsisten dalam 5 proyek. Nilai MAPE forecast dengan performa proyek rencana selalu menghasilkan nilai MAPE terendah, dimana nilai MAPE-nya tidak pernah melebihi nilai 9.704%. Sedangkan, nilai MAPE forecast dengan performa proyek periode saat ini selalu menjadi yang tertinggi, dengan nilai MAPE terkecilnya saja sudah sebesar 38.55%. Setelah melakukan penelitian, ditemukan bahwa performa proyek rencana menghasilkan hasil forecast paling akurat. Sedangkan performa proyek rata-rata memiliki hasil forecast terakurat kedua. Hasil forecast yang paling tidak akurat adalah hasil forecast yang menggunakan performa proyek periode saat ini.",
+  "creators": "BAGUS ADINATA ATMAJA SATENG WIJAYA; ERICK TANOYO",
+  "contributors": "Andi (Advisor 1); Sandra Loekita (Examination Committee 1); Ratna S. Alifen (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012546/SIP/2022; Bagus Adinata Atmaja Sateng Wijaya (B11170044), Erick Tanoyo (B11170028)",
+  "subjects": "CONSTRUCTION PROJECTS--MANAGEMENT; CONSTRUCTION PROJECTS; SCHEDULING"
+}

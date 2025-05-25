@@ -1,0 +1,14 @@
+{
+  "id": "23705",
+  "title": "Perencanaan dan pembuatan simulasi pengontrolan lampu panggung jenis lampu PAR daya 1000 watt dg menggunakan minimum sistem mikroprosessor z-80",
+  "abstract": "Pada saat ini, pengontrolan lampu panggung untuk pementasan drama umumnya dilakukan secara manual oleh seorang penata lampu. Cara yang demikian banyak mengalami masalah. oleh karena itu diperlukan suatu peralatan untuk dapat mengatasi permasalahan tersebut. Peralatan yang dimaksud adalah rangkaian simulasi pengatur lampu panggung yang dapat diprogram. Peralatan ini terdiri dari beberapa bagian rangkaian yaitu bagian pengontrol utama yang berupa minimum sistem dengan menggunakan Hikroprocessor Z-89. bagian pengontrol motor stepper. bagian pengatur ketajaman cahaya lampu (dimmer) dan bagian masukan berupa keyboard. Pada permulaan pengoperasian peralatan ini. minimum sistem menunggu perintah dari keyboard. Kemudian setelah ada penekanan tombol tertentu maka minimum sistem melaksanakan pemilihan beberapa warna lampu. dan memutar motor stepper yang terhubung ke potensiometer dari rangkaian dimmer untuk pengaturan ketajaman cahaya masing-masing lampu terpilih. Perpaduan warna lampu dan ketajamannya tersebut merupakan visualisasi dari keadaan (suasana) tertentu yang telah terprogram. Bila diinginkan keadaan (suasana) yang lain dapat dilakukan dengan menekan tombol yang lain pada keyboard. Program untuk pengaturan peralatan ini. dan data data yang berkaitan dengan komposisi warna lampu serta ketajaman cahayanya ditulis dengan menggunakan bahasa tingkat rendah (low level) yaitu assembly Z-89. Oleh karena keyboard hanya terdiri dari 16 tombol. maka program untuk mensimulasikan keadaan (suasana) yang bisa diprogram pada peralatan ini adalah 16 keadaan (suasana) . Peralatan ini khususnya bagian pengatur ketajaman cahaya lampu dapat dikembangkan dengan menggunakan rangkaian digital agar diperoleh pengontrolan yang lebih baik. dan dengan demikian pemakaian motor stepper tidak diperlukan lagi.",
+  "creators": "AGUSTINUS TANDIARAK",
+  "contributors": "NAWANTO WIBOWO (Advisor 1); SUPENO DJANALI (Examination Committee 1); HANNY HOSIANA TUMBELAKA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/015/0074; Agustinus Tandiarak (14485073)",
+  "subjects": "LAMP CONTROLLER"
+}

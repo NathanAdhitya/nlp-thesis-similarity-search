@@ -1,0 +1,14 @@
+{
+  "id": "10744",
+  "title": "Aplikasi e-commerce : pemesanan pustaka dengan menggunakan world wide web",
+  "abstract": "Media yang berkembang pesat saat ini adalah mediainternet. Salah satu komponen dalam jalur internet yang nantinya akan mengubah sistem perdagangan dunia adalah sistem electronic commerce ( e-commerce ). Adapun prototype program aplikasi yang dibuat ini dapat diimplementasikan untuk pengembangan sistem e-commerce pada suatu jasa layanan perpustakaan khususnya pemesanan artikel dan buku. Untuk membangun aplikasi berbasis web diperlukan teknologi dan software yang mendukung pembuatan situs web dinamis sehingga ada interaksi antara pembeli dan penjual. Salah satunya adalah Active Server Pages (ASP) yang digabungkan sistem database untuk meyimpan data. Komponen penunjang lainnya adalah interface antara aplikasi dengan database yaitu ActiveX Data Objects (ADO). ASP memiliki keunggulan dalam metode scriptingnya dan mudah dalam berhubungan dengan database. Aplikasi yang dibuat ini terdiri dari dua bagian utama yaitu bagian untuk administrator dan bagian untuk user. Aplikasi yang dibuat ini ini mampu menghasilkan fasilitas pengeditan data, pencarian data, dan melihat informasi pesanan secara online. Untuk pencarian dan pemesanan artikel maka user dapat langsung melakukan proses download. Karena sistem E-commerce di Indonesia baru saja berkembang maka perlu diperhatikan juga mengenai metode pembayaran dimana tidak setiap orang mempunyai kartu kredit. Maka dalam program aplikasi ini terdapat juga suatu form untuk user yang tidak mempunyai kartu kredit. Begitu user telah melakukan pembayaran maka user bersangkutan bisa melakukan transaksi secara online. Disini dipakai juga keunggulan ASP yaitu \"session\" dimana data - data dalam proses yang terjadi tidak akan hilang selama user masih berada dalam session tersebut. Ini digunakan dalam proses user area dan admin area dimana user dan admin dapat melakukan berbagai macam proses. Disamping itu digunakan juga sebagai faktor keamanan, dimana setelah user melakukan logout dari user area atau admin melakukan logout dari admin area maka data tersebut akan hilang. Fasilitas lainnya administrator dapat melihat langsung user yang telah expired melalui suatu daftar dan bila tidak ada perubahan apapun maka administrator dapat menghapus user tersebut.",
+  "creators": "ISHAK SETIAWAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Rudy Adipranata (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/KOM/015/072; Ishak Setiawan (23494052)",
+  "subjects": "INTERNET (COMPUTER NETWORK)"
+}

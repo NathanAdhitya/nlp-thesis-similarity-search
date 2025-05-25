@@ -1,0 +1,14 @@
+{
+  "id": "50355",
+  "title": "Pengaruh sampling method dan feature extraction untuk meningkatkan detection rate pada minority class pada intrusion detection system yang disusun dari support vector machine, decision tree, dan naïve bayes",
+  "abstract": "Intrusion Detection System (IDS) sudah mulai mengandalkan machine learning untuk melakukan misuse detection atau anomaly detection. Sebagai misuse detection, machine learning harus dapat mendeteksi berbagai jenis intrusi termasuk yang jarang terjadi. Tetapi machine learning, memiliki kelemahan khususnya jika dihadapkan dengan dataset yang imbalanced. Berbagai cara dilakukan untuk membuat machine learning dapat melakukan klasifikasi dengan tepat meskipun data yang diberikan bersifat imbalanced. Salah satunya pada penelitian ini mencoba mengimplementasikan Principal Component Analysis sebagai feature extraction, Tomek Links sebagai under-sampling dan ADASYN sebagai over-sampling pada beberapa datasets. Dataset yang digunakan pada penelitian ini ada dua jenis, yaitu KDD-99 dan UNSW-NB15. Hasil yang diperoleh dari penelitian pada dataset KDD’99, model Support Vector Machine dapat mengidentifikasi intrusi lebih banyak dan model Decision Tree memperoleh peningkatan pada True Positive Rate untuk minority class sebesar antara 0.03% hingga 4.762%. Hasil yang diperoleh dari penelitian pada dataset UNSW-NB15, pada model Support Vector Machine dan Naïve Bayes terjadi peningkatan pada akurasi antara 0.045% hingga 1.513%.",
+  "creators": "JANTHAKE DECUELLAR",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Justinus Andjarwirawan (Advisor 2); Rolly Intan (Examination Committee 1); Hans Juwiantho (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022077/INF/2021; Janthake Decuellar (C14170004)",
+  "subjects": "INTRUSION DETECTION SYSTEMS (COMPUTER SECURITY); MACHINE LEARNING"
+}

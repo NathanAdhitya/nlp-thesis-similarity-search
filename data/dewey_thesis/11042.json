@@ -1,0 +1,14 @@
+{
+  "id": "11042",
+  "title": "Pembuatan program aplikasi input method editor (IME) Jepang berbasis web",
+  "abstract": "Bahasa Jepang menggunakan ribuan karakter untuk sistem penulisannya. Sebuah sistem yang disebut Input Method digunakan untuk memberikan kemungkinkan penulisan ribuan karakter tersebut dengan papan ketik standard. Sistem Input Method adalah sistem yang memodifikasi masukan yang datang dari papan ketik sebelum dikirim ke aplikasi yang bersangkutan. Di negara Jepang, hampir semua komputer umum (misalnya, komputer pada warung internet) memiliki sistem Input Method yang mengijinkan pengguna untuk memasukan karakter bahasa Jepang pada komputer tersebut. Sayangnya hal tersebut tidak berlaku di negara luar Jepang. Ini menimbulkan kesulitan bagi orang yang berada di luar Jepang yang perlu menulis Jepang di komputer umum. Ambil contoh, orang Jepang yang sedang berkunjung di luar negeri atau pelajar bahasa Jepang yang ingin berkomunikasi di Internet menggunakan bahasa Jepang. Untuk mengatasi permasalahan tersebut, dikembangkan suatu sistem Input Method bahasa Jepang berbasis web. Pengguna dapat menuliskan bahasa Jepang di situs mana pun yang dikunjungi dengan menggunakan aplikasi web tersebut. Aplikasi sistem Input Method ini menggunakan teknologi-teknologi umum web, antara lain pada sisi klien digunakan HTML, CSS, JavaScript, dan AJAX. Di sisi server digunakan PHP, MySQL. Kamus kata bahasa Jepang yang digunakan adalah kamus kata MeCab. Algoritma inti aplikasi sistem Input Method ini menggunakan Longest Match Method untuk pencarian kata.",
+  "creators": "RIKKO FILIANO",
+  "contributors": "Rolly Intan (Advisor 1); Alexander Setiawan (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010737/INF/2008; Rikko Filiano (26403126)",
+  "subjects": "WEB SITES-DESIGN; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

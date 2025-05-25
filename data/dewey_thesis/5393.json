@@ -1,0 +1,14 @@
+{
+  "id": "5393",
+  "title": "Perancangan dan pembuatan sistem pembelian, penjualan dan laporan rugi laba pada CV. Sinar Mulia",
+  "abstract": "CV Sinar Mulia adalah sebuah perusahaan yang bekerja di bidang pembuatan bumper mobil dan juga melayani penjualan aksesoris mobil, dimana dalam menjalankan usahanya perusahaan ini melakukan banyak transaksi baik transaksi penjualan maupun transaksi pembelian. Selama ini perusahaan memakai cara manual dalam melakukan pencatatan transaksi dengan menggunakan nota penjualan dan pembelian sedangkan untuk perhitungan rugi laba memakai program Deck Easy Accounting sehingga membutuhkan waktu yang lama dan kemungkinan dapat terjadi kesalahan penulisan atau human error juga tidak menutup kemungkinan terjadi kehilangan data yang berbentuk arsip tersebut. Pada Tugas Akhir ini, dirangkai beberapa proses atau transaksi yang terkait dengan sistem pembelian, penjualan dan laporan rugi laba. Perangkat lunak ini dibuat dengan menggunakan sistem operasi Windows XP Professional Edition. Database yang digunakan adalah Microsoft Access XP dan bahasa pemrograman yang digunakan adalah Borland Delphi 7.0. Proses desain mulai dari sistem flow, Data Flow Diagram sampai dengan Entity Relationship Diagram. Proses implementasi program dalam bahasa pemrograman Delphi yang memanfaatkan basis koneksi ke ODBC Database Source Administrator. Perangkat lunak yang dihasilkan ini dapat mengetahui hasil pembelian, penjualan dan laporan rugi laba. Proses penagihan customer dan proses pembayaran supplier dapat terkontrol dengan adanya laporan hutang dan laporan piutang. Keamanan data dapat ditangani dengan mudah, dikarenakan ada pembagian user yang berwenang terhadap tugasnya, sehingga tidak dapat mengakses data lain yang bukan miliknya.",
+  "creators": "PHILIP SOEDARMADI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Andreas Handojo (Advisor 2); Theresia Lestiowati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000139/ELK/2004; Philip Soedarmadi (26499092)",
+  "subjects": "ELECTRONIC COMMERCE--COMPUTER PROGRAMS; DATABASE DESIGN; DATABASE MANAGEMENT"
+}

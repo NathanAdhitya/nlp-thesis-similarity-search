@@ -1,0 +1,14 @@
+{
+  "id": "27938",
+  "title": "Perencanaan dan pembuatan sistem kontrol penggunaan bersama satu printer oleh beberapa komputer menggunakan mikroprosesor Z-80",
+  "abstract": "Penggunaan mikrokomputer adalah sangat dibutuhkan apabila ingin menghemat waktu dan tenaga, sebab dengan mikrokomputer semua tugas akan dengan cepat dapat diselesaikan. Misalnya di dalam perhitungan-perhitungan, laporan-laporan dan lain sebagainya. Kehadiran mikrokomputer akan lebih mantap apabila disertai dengan adanya printer (di samping video display dan keyboard). Printer khususnya merupakan alat bantu bagi pemakaian mikrokomputer tersebut, sebab dengan adanya printer ini maka segala bentuk laporan atau hasil dari sebuah pekerjaan akan dapat dicetak. Dengan demikian hasil dari pekerjaan tersebut akan lebih komunikatif lagi. Tetapi di sini akan timbul masalah apabila mempunyai beberapa buah mikrokomputer dan hanya sebuah printer. Untuk mencetaknya tidak bisa dilakukan secara 'bersamaan ' melainkan harus bergantian ('bersama-an' dalam arti ada selisih waktu di dalam menggunakan komputer tetapi selisih nya kecil sekali). Berdasarkan pertimbangan di atas maka dibuatlah suatu alat/sistem yang dapat mengatur pemakaian bersama sebuah printer oleh beberapa mikrokomputer (dua buah). Alat/sistem ini dibuat dengan menggunakan mikroprosesor Z80 sebagai pusat kendalinya, Juga didukung oleh EPROM 2754 sebagai tempat penyimpanan program kendalinya serta STATIC RAM 43256 sebagai tempat penyimpanan datanya (sebagai buffer). Sedangkan bagian input/outputnya (interface) seluruhnya menggunakan IC TTL LS yang memiliki level tegangan yang sama dengan mikrokomputer IBM PC/XT dan printer EPSON LX-800. Proses penerimaan data dari mikrokomputer maupun pengiriman data ke printer dilaksanakan secara paralel yaitu 6 bit langsung dengan memanfaatkan general-paralel DB-25 yang melekat pada mikrokomputernya. Dari beberapa pengujian yang dilakukan diperoleh hasil-hasil yang diharapkan, di mana pengujian-pengujian tersebut antara lain Komputer I aktif (memerlukan pencetakan) dan Komputer II non-aktif, Komputer I non-aktif dan Komputer II aktif dan yang terakhir kedua komputer aktif. Dengan dibuatnya alat/sistem ini maka dapat disimpulkan bahwa efisiensi kerja dan penghematan beaya dapat lebih ditingkatkan.",
+  "creators": "BUDI HARIONO",
+  "contributors": "SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 90/E/EL/015/0055; Budi Hariono (485039)",
+  "subjects": "MICROPROCESSORS-PRINTERS (DATA PROCESSING SYSTEM); PRINTERS (DATA PROCESSING SYSTEM)"
+}

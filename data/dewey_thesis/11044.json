@@ -1,0 +1,14 @@
+{
+  "id": "11044",
+  "title": "Perancangan dan pembuatan e-commerce untuk penjualan buku pada Gereja Bukit Zaitun Surabaya",
+  "abstract": "Sistem penyebaran dan penjualan buku yang ada di Gereja Bukit Zaitun masih dilakukan secara manual. Penawaran buku-buku hanya dilakukan di toko buku gereja dan toko-toko buku Kristen. Penyampaian informasi tentang buku baru sangat lambat. Daftar buku hanya pada brosur yang dicetak secara periodik dimana penyebarannya mengalami kesulitan. Penjualan yang dilakukan juga sangat sedikit karena banyak orang yang tidak mendapatkan informasi tentang buku-buku yang diterbitkan oleh Gereja. Sistem informasi penjualan ini dibuat dengan menggunakan PHP dan MySQL. Program yang dibuat meliputi katalog online untuk menampilkan semua buku-buku yang dijual lengkap dengan keterangan tiap buku, proses pemesanan yang memungkinkan user melakukan pemesanan online, menampilkan buku baru sehingga user dapat mengetahui buku baru apa yang diterbitkan, serta recommender system untuk merekomendasikan buku kepada user tertentu. Selama proses pembuatan, penyimpanan pesanan yang dilakukan user tidak melalui email gereja tetapi langsung disimpan dalam sistem untuk memudahkan admin melakukan pengecekan pemesanan. Proses rekomendasi buku didasarkan pada tingkat keseringan user melihat dan memesan buku tertentu lalu sistem melakukan perhitungan dan merekomendasikan buku terlaris dalam kategori yang sering dikunjungi atau dipesan user. Dari hasil implementasi yang didapat serta uji coba dalam bentuk kuisioner disimpulkan bahwa penggunaan website di Gereja Bukit Zaitun sangat bermanfaat dan membantu proses penyebaran buku-buku karangan Pdt. Jusuf B S.",
+  "creators": "ISAAC IRVAN FERBRIANTO S",
+  "contributors": "Arlinah Imam Rahardjo (Advisor 1); Agustinus Noertjahyana (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010738/INF/2008; Isaac Irvan Ferbrianto Susanto (26404088)",
+  "subjects": "WEB SITES-DESIGN; INTERNET (COMPUTER NETWORKS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "49600",
+  "title": "Rekomendasi solusi dan pembangunan model prediksi keterlambatan di PT X dengan menggunakan decision tree regression",
+  "abstract": "Bagi perusahaan yang bergerak di jasa pengiriman, ketepatan waktu merupakan faktor utama yang dapat mempengaruhi kepuasan pelanggan secara langsung dan merupakan salah satu tolak ukur utama kinerja perusahaan. Oleh karena itu, analisa akar masalah penyebab keterlambatan perlu dilakukan untuk memberikan usulan perbaikan yang dapat mencegah, mengurangi dan atau mengatasi akar masalah. Salah satu akar permasalahan yang dipilih oleh peneliti untuk di telaah lebih jauh lagi adalah masalah keterlambatan yang disebabkan oleh kemacetan di jalan. Diperlukan sistem pendukung keputusan (Decision Support System) yang dapat membantu perusahaan dalam mengatur jadwal keberangkatan untuk meminimalisir keterlambatan. Metode yang akan digunakan untuk memprediksi keterlambatan adalah Decision Tree Regression. Ketepatan hasil prediksi akan diukur berdasarkan nilai Root Square Mean Error (RMSE). Hasil penelitian menunjukkan bahwa Decision Tree Regression masih belum tepat untuk memprediksi keterlambatan, sehingga jadwal keberangkatan truk akan dipatok berdasarkan waktu tempuh atau lama perjalanan truk dari depo sampai tiba di gudang pelanggan. Perusahaan juga dapat menerapkan usulan perbaikan lainnya untuk memperbaiki sistem di perusahaan sehingga dapat mencegah dan mengurangi dampak dari keterlambatan.",
+  "creators": "KESHIA KARINA MULIA",
+  "contributors": "Iwan Halim Sahputra, S.T., M.Sc., Ph.D. (Advisor 1); Siana Halim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022395/IND/2021; Keshia Karina Mulia (C13170093)",
+  "subjects": "DELIVERY OF GOODS; PRODUCTION MANAGEMENT; PRODUCTION PLANNING"
+}

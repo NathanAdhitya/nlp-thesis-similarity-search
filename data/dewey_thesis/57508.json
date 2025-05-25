@@ -1,0 +1,14 @@
+{
+  "id": "57508",
+  "title": "Generator musik menggunakan generative adversarial network untuk generasi musik klasik",
+  "abstract": "Generasi musik adalah tugas yang sulit karena membutuhkan pemahaman struktur musik yang kompleks. Skripsi ini mengusulkan penggunaan GAN untuk menghasilkan musik klasik dan mengevaluasi hasil training-nya. GAN adalah algoritma deep learning yang dapat menghasilkan data baru yang mirip dengan dataset. GAN ini dikembangkan menggunakan bahasa pemrograman C++ dan library OpenCL. Training dilakukan menggunakan dataset file MIDI dari komposisi musik Wolfgang Amadeus Mozart dan dievaluasi berdasarkan melodi, harmoni, ritme, dan dinamika dari hasil generasi.",
+  "creators": "VINCENT NATANAEL",
+  "contributors": "Kartika Gunadi (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Examination Committee 1); Justinus Andjarwirawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022381/INF/2023; Vincent Natanael (C14180141)",
+  "subjects": "DEEP LEARNING (MACHINE LEARNING); MUSIC-COMPUTER PROGRAMS"
+}

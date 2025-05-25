@@ -1,0 +1,14 @@
+{
+  "id": "55666",
+  "title": "Transkripsi musik otomatis pada musik polyphonic menggunakan metode residual shuffle exchange network dengan fitur short time fourier transform dan constant Q transform",
+  "abstract": "Musik adalah suara yang terdiri dari gabungan suara dari berbagai macam instrumen dan vokal manusia yang disusun dan membentuk suatu irama dan harmoni yang dinikmati banyak orang. Karena musik dinikmati banyak orang tentu saja juga ada banyak orang yang ingin belajar memainkan musik. Untuk mempelajari permainan musik dibutuhkan sebuah petunjuk seperti note apa yang sedang dimainkan dalam musik sehingga orang bisa dengan mudah belajar bermain musik secara mandiri. Oleh karena itu memotivasi perkembangan sistem transkripsi musik otomatis (AMT/ Automatic Music Transcription). Masalah ini bisa diselesaikan dengan transkripsi musik. Transkripsi musik adalah kegiatan membedah musik dan menuliskan note yang sedang dimainkan dan menulisnya. Proses transkripsi musik secara manual membutuhkan keahlian dalam musik yang tinggi dan membutuhkan waktu yang cukup lama. AMT memiliki kendala yaitu transkripsi musik yang bersifat polyphonic. Musik polyphonic artinya music yang merupakan gabungan dari berbagai sumber (instrumen) dan beberapa note bisa dimainkan secara bersamaan. Metode yang digunakan Residual Shuffle Exchange Network yang memiliki akurasi dan kecepatan training dan proses yang tinggi pada data yang bersifat sederhana seperti raw audio waveform. Fitur yang digunakan di skripsi ini yaitu 2 macam fitur audio kompleks yaitu fitur Short Time Fourier Transform (STFT) dan fitur Constant-Q Transform (CQT) yang diekstrak dan ditransform dari raw audio waveform. Implementasi fitur Short Time Fourier Transform dan Constant-Q Transform dengan arsitektur Residual Shuffle Exchange Nework secara performa masih kurang bagus jika dibandingkan dengan fitur Raw Audio Waveform. Dimana pada skripsi ini, Raw Audio Waveform mendapatkan APS tertinggi sebesar 69% sedangkan Short Time Fourier Transform sebesar 66% APS dan Constant-Q Transform 64% APS.",
+  "creators": "CLIFFTON SEBASTIAN",
+  "contributors": "Kartika Gunadi (Advisor 1); Indar Sugiarto (Advisor 2); Justinus Andjarwirawan (Examination Committee 1); ALVIN NATHANIEL TJONDROWIGUNO, S.Kom. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022247/INF/2023; Cliffton Sebastian (C14180041)",
+  "subjects": "COMPUTER SOUND PROCESSING; MECHANICAL MUSICAL INSTRUMENTS"
+}

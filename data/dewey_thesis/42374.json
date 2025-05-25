@@ -1,0 +1,14 @@
+{
+  "id": "42374",
+  "title": "Perbandingan performa turn-based game menggunakan algoritma genetika dan logika fuzzy",
+  "abstract": "Sudah banyak game dengan genre tersebut yang beredar di kalangan umum dan sebagian besar game tersebut memiliki mode di mana pemain bisa melawan Artificial Intelligence atau disingkat AI. Namun, AI yang diterapkan dalam game dengan genre itu sangat beragam jenisnya. Oleh karena itu penelitian ini diharapkan bisa membantu para developer game yang ingin membuat game Turn-Based Strategy namun tidak bisa memutuskan untuk memakai AI yang mana. Program berupa game yang dibuat memiliki dua AI yang bisa berfungsi saat permainan dimulai, yaitu algoritma genetika dan logika fuzzy. Terdapat pula 3 mode game yang bisa dipilih oleh user, yaitu player vs. AI GA, player vs. AI Fuzzy, dan yang terakhir yaitu AI GA vs. AI Fuzzy. Kedua metode tersebut akan dipakai untuk menentukan pasukan jenis apa yang perlu dibuat, pasukan harus menyerang dan bergabung dengan siapa maupun untuk kabur dari musuh. Dari hasil uji coba pertandingan antara logika fuzzy dan algoritma genetika, algoritma genetika lebih bisa membuat pasukan yang beragam namun tetap bisa menyesuaikan dengan situasi yang diperlukan. Logika fuzzy juga memakan waktu yang lebih lama dari algoritma genetika dikarenakan jumlah rules yang cukup banyak dan algoritma genetika yang memiliki batas untuk pengakhiran proses algoritma genetika sehingga tidak terlalu memakan waktu dalam iterasinya. Namun, apabila fuzzy rules dan membership functionnya dioptimasi lebih lanjut akan menghasilkan output yang lebih baik.",
+  "creators": "VINCENT ANDRIAN CHANDRA",
+  "contributors": "Rolly Intan (Advisor 1); Kristo Radion Purba S.ST. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021785/INF/2018; Vincent Andrian Chandra (26414021)",
+  "subjects": "FUZZY LOGIC; GENETIC ALGORITHMS"
+}

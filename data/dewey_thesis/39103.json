@@ -1,0 +1,14 @@
+{
+  "id": "39103",
+  "title": "Optimasi masalah pemuatan peti kemas pada PT Trias Sentosa",
+  "abstract": "PT. Trias Sentosa merupakan sebuah perusahaan manufaktur flexible packaging film terbesar di Indonesia. PT. Trias Sentosa memiliki variasi produk yang tinggi sedangkan perencanaan penataan palet dalam peti kemas dilakukan secara manual yaitu dengan cara digambar. Metode ini dianggap kurang efisien karena memakan waktu yang cukup lama (10-15 menit) dan juga hasil penggambaran belum tentu merupakan hasil yang optimal. Tujuan dari penelitian ini yaitu membuat sebuah program pengoptimalan pemuatan peti kemas yang dapat mencakup berbagai macam kemungkinan permintaan konsumen PT. Trias Sentosa agar dapat memaksimalkan sisa luas yang tidak terpakai dalam sebuah peti kemas dan waktu perhitungan kurang dari 10 menit. Pengerjaan program dibagi menjadi tiga tahap. Tahap pertama dilakukan untuk mengalokasikan roll pesanan ke dalam palet serta menghitung dimensi palet. Tahap kedua dilakukan untuk mencari pasangan tumpukan tiap palet yang tidak melebihi dimensi tinggi peti kemas dengan menggunakan prinsip Greedy Algorithm. Tahap ketiga dilakukan untuk mengalokasikan kelompok palet ke dalam peti kemas dengan prinsip Simulated Annealing. Program dijalankan untuk tujuh case dari perusahaan. Parameter terbaik yang ditemukan yaitu suhu awal sebesar 0,11, suhu akhir sebesar 0,00085, faktor pereduksi suhu (k) sebesar 0,9, dan replikasi dalam tiap suhu (L) sebanyak 30 kali. Pada case 1 dan 4 iterasi Simulated Annealing dapat memberikan hasil yang sama dengan Greedy Algorithm dalam 5 kali replikasinya, sedangkan untuk case 2, 3, 5, 6, dan 7 Greedy Algorithm tidak dapat memberikan solusi yang feasible, sedangkan iterasi Simulated Annealing dapat memberikan solusi yang feasible. Dengan menggunakan program, case 2, 3, 5, dan 6 tidak bisa ditambahkan kelompok palet lagi, sedangkan untuk case 1, 4, dan 7 masih bisa ditambahkan 1 hingga 2 kelompok palet lagi (2 hingga 4 palet). Pengerjaan tahap 1 menggunakan program membutuhkan waktu 111 detik, tahap 2 adalah 7 detik, dan tahap 3 adalah 15 detik sehingga total waktu pengerjaan menggunakan program adalah 2 menit 13 detik. Program unggul dari segi kualitas solusi maupun waktu, namun untuk kasus tertentu penyesuaian secara manual tetap dapat dilakukan jika diperlukan.",
+  "creators": "AUDREY TEDJA WIDJAJA",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Siana Halim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022032/IND/2017; Audrey Tedja Widjaja (25413009)",
+  "subjects": "CONTAINERS; LINEAR PROGRAMMING; ALGORITHMS; SIMULATED ANNEALING (MATHEMATICS)"
+}

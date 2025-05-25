@@ -1,0 +1,14 @@
+{
+  "id": "10305",
+  "title": "Simulasi dan analisis kegagalan circuit breaker 20 kv akibat transient recovery voltage (TRV)",
+  "abstract": "Circuit breaker 20 kV sebagai salah satu komponen penting di dalam sistem instalasi 20 kV dapat mengalami malfungsi atau kegagalan kerja. Salah satu penyebab kegagalan itu adalah karena adanya Transient Recovery Voltage (TRV) yang melampaui rating circuit breaker dan besar tegangan TRV lebih dari 2.0 p.u Dalam Tugas Akhir ini dilakukan analisa dan simulasi terhadap sistem kelistrikan 20 kV yang ada di gardu induk Tuban. Gardu Induk Tuban memiliki dua trafo yaitu trafo I Telk 30 MVA dan trafo II Pouwels 60 MVA. Dengan total beban pada trafo I 12 x 106 Watt ; 394400 Var dan pada trafo II 8 x 106 Watt ; 240400 Var. Dari hasil simulasi yang dilakukan, dengan adanya gangguan satu fasa ke tanah terjadi TRV berkisar antara 1,65 x 104 Volt sampai 1,7584 x 104 Volt atau antara 1,0104 p.u sampai 1,0768 p.u . Sedangkan simulasi dengan gangguan tiga fasa terjadi TRV dengan kisaran 1,685 x 104 Volt sampai 1,76 x 104 Volt dan 1,032 sampai1,102 p.u sehingga circuit breaker 20 kV di gardu induk Tuban masih dalam toleransi kelayakan dan keamanan karena besarnya tegangan TRV masih di bawah rating circuit breaker yang terpasang dan tegangannnya juga masih di bawah 2.0 p.u",
+  "creators": "RICKY ELIE",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010592/ELK/2008; Ricky Elie (23402171)",
+  "subjects": "ELECTRIC CIRCUIT-BREAKERS"
+}

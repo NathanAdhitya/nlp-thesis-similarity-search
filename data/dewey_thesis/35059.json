@@ -1,0 +1,14 @@
+{
+  "id": "35059",
+  "title": "Aplikasi informasi posko bencana alam berbasis android",
+  "abstract": "Dalam kurun 10 tahun terakhir telah terjadi berbagai bencana alam seperti tsunami, meletusnya gunung merapi di Yogyakarta dan Gunung Kelud. Karena hal tersebut, banyak didirikan posko untuk menampung orang-orang yang terkena bencana. Banyaknya posko yang ada menimbulkan masalah dalam mengolah informasi mengenai bantuan yang ada. Untuk membantu menangani informasi posko bencana yang ada maka dibuat aplikasi Informasi Posko Bencana Alam. Aplikasi ini merupakan aplikasi yang berguna bagi donatur dan orang posko. Aplikasi ini memiliki fitur untuk memberikan informasi data yang ada dari setiap posko sehingga donatur dapat mengetahui bantuan apa yang sedang dibutuhkan posko tertentu. Aplikasi ini memanfaatkan device Android untuk memberikan informasi mengenai posko kepada user. Informasi yang ada dapat berupa logistik posko maupun data pengungsi pada posko. Selain itu bagi penanggung jawab posko, aplikasi ini membantu mengatur logistik posko seperti transfer logsitik. Aplikasi ini mampu mengirim broadcast kepada pengguna yang telah melakukan login. Aplikasi ini juga menyediakan informasi dalam bentuk website. Aplikasi ini dibuat dengan Eclipse IDE dalam bahasa pemrograman Java untuk Android dan menggunakan bahasa pemograman PHP untuk website dengan framework CodeIgniter. Hasil pengujian menunjukkan bahwa aplikasi ini berjalan baik pada beberapa device seperti Android 4.2 (Jelly Bean), Android 4.4(Kitkat) dan Android 5.1(Lollipop). Aplikasi dapat menjalankan fitur informasi posko, broadcast, maintain data logistik dan mencari lokasi posko dengan baik.",
+  "creators": "IRMA YUNITA SETIAWATI",
+  "contributors": "Andreas Handojo (Advisor 1); ANITA NATHANIA (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021428/INF/2015; Irma Yunita Setiawati (26411091)",
+  "subjects": "ANDROID (COMPUTER PROGRAM); ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); APPLICATION SOFTWARE-DEVELOPMENT"
+}

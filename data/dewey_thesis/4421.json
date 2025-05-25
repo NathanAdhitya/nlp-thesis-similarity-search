@@ -1,0 +1,14 @@
+{
+  "id": "4421",
+  "title": "Perancangan dan pembuatan perangkat lunak goosie router simulator sebagai alat bantu pembelajaran routing pada router cisco",
+  "abstract": "Router adalah peralatan utama yang banyak digunakan pada Jaringan Area Luas atau Wide Area Network (WAN). Dengan router, informasi dapat diteruskan ke alamat-alamat yang berjauhan dan berada di jaringan komputer yang berlainan, dengan menggunakan protokol routing. Salah satu perusahaan pembuatnya adalah Cisco System Incorporated. Agar pembelajar router Cisco memahami bagaimana konfigurasi protokol routing pada router Cisco, dianggap perlu sebuah perangkat lunak yang mampu mensimulasikan beberapa perangkat router Cisco yang saling berhubungan dan dapat dikonfigurasi dengan protokol routing. Dengan pemrograman Borland Delphi 7, perangkat lunak ini mensimulasikan maksimal tiga buah router, tiga buah switch dan enam buah PC host yang dihubungkan secara serial maupun ethernet. Pengujian terhadap perangkat lunak dilakukan dengan melakukan tiga jenis routing antara lain static routing, RIP dan IGRP. Perangkat lunak ini juga dilengkapi dengan database perintah dan penyimpan memori sementara, yang menggunakan database Microsoft Access dengan koneksi menggunakan fasilitas ODBC.",
+  "creators": "BAGUS TRI WIDIANTORO",
+  "contributors": "Resmana Lim (Advisor 1); Justinus Andjarwirawan (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No 01000173/INF/2004; Bagus Tri Widiantoro (26400133)",
+  "subjects": "WIDE AREA NETWORKS (COMPUTER NETWORKS); INTERNET (COMPUTER NETWORK); PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

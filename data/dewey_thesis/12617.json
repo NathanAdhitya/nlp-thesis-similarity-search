@@ -1,0 +1,14 @@
+{
+  "id": "12617",
+  "title": "Penggunaan PC dalam mengamati perilaku ikan dengan fuzzy logic",
+  "abstract": "Dengan adanya kemajuan teknologi pada bidang komputer dapat membantu pemelihara atau peternak ikan dalam mengadakan pengamatan terhadap gerakan ikan, yang mana gerakan ikan ini sangat mencerminkan keadaan atau kondisi dari ikan itu sendiri. Untuk keperluan pengamatan gerakan ikan secara otomatis telah berhasil dirancang alat untuk mengadakan pengamatan atau penelitian. Alat ini terdiri dari perangkat keras dan perangkat lunak. Perangkat keras tersebut terdiri dari 3 buah akuarium yang terdapat sensor-sensor pada sisinya yang dihubungkan dengan PC (Personal Computer) melalui interface. Data yang diperoleh dari sensor akibat adanya gerakan ikan diolah pada PC dengan perangkat lunak. Program bahasa yang dipakai sebagai softwarenya menggunakan bahasa Pascal dengan kompiler Turbo Pascal 7.0. Sedangkan sebagai acuan perhitungan dari gerakan ikan yang diamati menggunakan metode min-max dari teorema Fuzzy Logic. Pengamatan gerakan ikan-ikan tersebut berdasar pada pemberian porsi makanan yang dalam tugas ini dibedakan menjadi 3 macam yaitu lebih dari cukup, standard dan kurang dari cukup. Pada akhirnya, sesuai dengan tujuan dari pembuatan alat tugas akhir ini dapat tercapai. Yaitu diperoleh keterangan dari kondisi dari ikan-ikan yang diamati tanpa harus diamati sendiri secara manual. Dengan alat ini dapat diketahui gerakan ikan tersebut pasif, sedang atau aktif.",
+  "creators": "HARTONO SADARMO",
+  "contributors": "SOETIKNO (Examination Committee 1); YOHANES T. D. S (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/020/365; Hartono Sadarmo (23492005)",
+  "subjects": "ELECTRIC TRANSFORMERS"
+}

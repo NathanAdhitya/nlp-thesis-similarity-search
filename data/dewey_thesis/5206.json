@@ -1,0 +1,14 @@
+{
+  "id": "5206",
+  "title": "Perancangan dan pembuatan sistem validasi semantic XML berbasis web dengan menggunakan teknologi PHP",
+  "abstract": "Dalam pembuatan suatu perangkat lunak yang membutuhkan basis data sebagai media penyimpanan data, pada umumnya akan digunakan suatu program pembantu untuk mengatur basis data tersebut. Tetapi penggunaan program pembantu tersebut menyebabkan basis data yang sama tidak dapat diakses melalui sistem operasi yang berbeda, karena program pembantu tersebut hanya dapat berjalan pada suatu sistem operasi tertentu. Untuk mengatasi masalah tersebut dapat digunakan Flat XML sebagai alternatif basis data. XML bersifat plain text dan untuk mengolahnya tidak diperlukan program pembantu. Jadi basis data yang menggunakan XML dapat diakses oleh program apapun pada sistem operasi apapun. XML Data merupakan representasi suatu basis data yang berisi tabel ? tabel. Sedangkan properti dari basis data tersebut terdapat pada XML Schema. Penulisan file XML harus sesuai dengan standar yang telah ditentukan oleh World Wide Web Consortium (W3C). Aplikasi yang dibuat pada Tugas Akhir ini akan melakukan pengecekan pada suatu XML Data berdasarkan suatu XML Schema. Pengecekan dilakukan terhadap syntax (well-format) dan relasinya (valid). Hasil yang diberikan oleh perangkat lunak ini adalah letak dan penyebab kesalahan yang ada pada dokumen XML (bila ada). Dengan menggunakan perangkat lunak ini, pemakai dapat memastikan bahwa data yang ada pada XML Data sesuai dengan yang telah dideskripsikan pada XML Schema.",
+  "creators": "HANDY PRIBADI",
+  "contributors": "Oviliani Yenty Yuliana (Advisor 1); Yulia (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010635/INF/2007; Handy Pribadi (26403074)",
+  "subjects": "WORLD WIDE WEB (INFORMATION RETRIEVAL SYSTEM); DATA BASE DESIGN"
+}

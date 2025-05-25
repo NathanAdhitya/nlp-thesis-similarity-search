@@ -1,0 +1,14 @@
+{
+  "id": "19473",
+  "title": "Aplikasi java mobile untuk mencari rute terminal bus dan stasiun kereta api antar kota",
+  "abstract": "Kebutuhan akan informasi rute merupakan salah satu bagian penting bagi masyarakat yang yang sering berpergian ke luar kota. Kemajuan teknologi pada jaman sekarang membuat perangkat mobile dapat digunakan sebagai pemberi informasi rute yang efisien. Aplikasi untuk mencari rute adalah aplikasi berbasis J2ME yang memberikan informasi rute yang diinginkan oleh pengguna. Informasi yang diberikan meliputi waktu tempuh, nama stasiun dan nama terminal, dan juga tarif yang dikenakan. Informasi rute pada database server dapat diubah oleh admin melalui web interface sehingga informasi yang didapat oleh pengguna merupakan rute terbaru. Informasi rute yang diberikan kepada pengguna melalui koneksi J2ME HTTP Networking yang terhubung ke database server. Pencarian rute dilakukan dengan melakukan pencarian nama kota yang terhubung dari kota keberangkatan hingga kota tujuan.",
+  "creators": "ROMI DWI PUTRA SITANGGANG",
+  "contributors": "Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010100/ELK/2010; Romi Dwi utra Sitanggang (23406054 )",
+  "subjects": "INTERNET (COMPUTER NETWORK); DATABASE DESIGN"
+}

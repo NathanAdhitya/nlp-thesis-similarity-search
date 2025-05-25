@@ -1,0 +1,14 @@
+{
+  "id": "43771",
+  "title": "Pengukuran pergerakan miniatur pelampung pada titik X,Y,Z terhadap pergerakan gelombang",
+  "abstract": "Pemanfaatan gelombang air sebagai penggerak pembangkit listrik saat ini sedang banyak diteliti, untuk mendapatkan data pola pergerakan maka dibuat sistem pembaca pola gerak dengan memanfaatkan sensor ultrasonic dan sensor accellerometer. Sistem ini terdiri dari sebuah pelampung, yang terdapat sistem pengambilan data oleh Wemos-D1 dan dilengkapi dengan sensor ultrasonic dan sensor accellerometer sebagai alat untuk mendapatkan data pergerakan pelampung. Di dalam sistem terdapat SD card sebagai penyimpan data dan juga ESP8266 sebagai pengirim data secara realtime. Berdasarkan hasil pengujian data yang diterima pada SD card dan ESP8266 adalah sama. sehingga data dapat di olah secara langsung pada saat terjadi pengiriman data melalui ESP8266.",
+  "creators": "TAYA ROMAND KEINEJO",
+  "contributors": "Heri Saptono Warpindyasmoro (Advisor 1); Handry Khoswanto (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010966/ELK/2018; Taya Romand Keinejo (23413028)",
+  "subjects": "ULTRASONIC WAVES; WATER POWER ELECTRIC PLANTS; DIRECT ENERGY CONVERSION"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "30265",
+  "title": "Perencanaan dan pembuatan alat peraga multiplexing pada sistem modulasi pulsa utk lab. sistem komunikasi UK Petra",
+  "abstract": "Sistem Modulasi Kode Pulsa sudah bukan dianggap teknologi yang luar biasa di masa sekarang ini. Suatu dasar pemahaman, dalam hal ini berupa pengantar sangat diperlukan, Untuk membantu mahasiswa dalam memahaminya maka dalam tugas akhir ini dibuat suatu alat peraga multiplexing untuk sinyal termodulasi tinggi pulsa yang dapat dikatakan sebagai pengantar kearah teknologi Sistem Modulasi Kode Pulsa. Suatu perbedaan yang sangat jelas antar sistem Frekwensi Division Multiplex dan Time Division Multiplex yang masing-masing memiliki keunggulan tersendiri. Tetapi yang jelas Time Division Multiplex lebih banyak digunakan pada pengiriman data digital, seperti pengiriman data antar komputer dan sebagainya. Dipakai IC 4066 yang dikombinasikan dengan rangkaian sample and hold untuk mendapatkan modulator PAM yang kerjanya seperti switch mekanis. Anti aliasing filter disusun dengan memakai IC 741 untuk mendapatkan low pass filter Butterworth order 3. Untuk memperoleh rangkaian counter digunakan IC 555 yang dioperasikan sebagai astable multivibrator dan dikombinasikan dengan IC 4017 untuk mendapatkan pulsa control modulator PAM. Satu hal yang sudah pasti bahwa dipakainya sistem ini akan sangat membantu dalam hal kekebalannya terhadap interchannel crosstalk dengan konsekwensi dibutuhkan suatu timming clock dengan tingkat ketelitian yang sangat tinggi.",
+  "creators": "P. ROY KAWARE",
+  "contributors": "AGUS MULYANTO (Advisor 1); HERLIANTO TENGGARA (Advisor 2); HANG SUHARTO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 90/E/EL/018/0058; P. Roy Kaware (485081)",
+  "subjects": "MULTIPLEXING; PULSE MODULATION (ELECTRONICS)"
+}

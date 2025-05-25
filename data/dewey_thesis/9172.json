@@ -1,0 +1,14 @@
+{
+  "id": "9172",
+  "title": "Pembuatan program aplikasi project management dalam mengelola proyek di PT. Rasiojaya Sumberdatindo",
+  "abstract": "Sistem manajemen proyek pada PT. Rasiojaya Sumberdatindo saat ini masih menggunakan sistem manual, sehingga mengalami kesulitan dalam melakukan planning, monitoring, controlling dan scheduling terhadap suatu proyek. Untuk pengembangan usaha dan pengaturan manajemen proyek, PT. Rasiojaya Sumberdatindo membutuhkan suatu sistem baru yang dapat memperbaiki sistem yang ada saat ini. Pada penelitian ini dirancang serta dibuat sistem informasi manajemen proyek pada PT. Rasiojaya Sumberdatindo dengan menggunakan empat komponen utama , yaitu planning (menggunakan metode Work Breakdown System), controlling, monitoring dan scheduling. Sistem manajemen proyek dilengkapi dengan laporan gantt chart yang menampilkan informasi dari suatu proyek. Pembuatan sistem informasi dilakukan dengan membuat suatu program aplikasi menggunakan Borland Delphi 7 dan Microsoft SQL Server untuk database-nya. Hasil aplikasi ini adalah mengatur proses perencanaan dan penjadwalan proyek yang didukung oleh empat komponen utama, yaitu planning, monitoring, controlling, scheduling. Planning dilakukan dengan membagi proyek menjadi beberapa tahap dan sub tahap. Monitoring dan controlling dilakukan dengan penyampaian beberapa laporan tertulis dan laporan dalam bentuk gantt chart. Scheduling dilakukan dengan memberikan batasan tanggal pada tiap tahap dan sub tahap dalam setiap proyek. Program ini akan memudahkan pengaturan manajemen proyek dalam PT. Rasiojaya Sumberdatindo, sehingga proyek dapat lebih teratur dan dapat diselesaikan tepat waktu.",
+  "creators": "BASUKI SETIAWAN",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Arlinah Imam Rahardjo (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000488/INF/2006; Basuki Setiawan (26402121)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

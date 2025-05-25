@@ -1,0 +1,14 @@
+{
+  "id": "4300",
+  "title": "Perancangan dan pembuatan integrated transactional restaurant information system untuk Mango Terrace Resto",
+  "abstract": "Pada Mango Terrace Resto, sistem pemesanan makanan customer hingga pesanan tersebut sampai pada bagian dapur, pembelian bahan-bahan, pencatatan stok masih dilakukan secara manual. Kalaupun ada penggunaan komputer misalnya pada bagian kasir, tetapi penggunaan komputer ini masih belum maksimal, masih banyak menimbulkan kesalahan atau permasalahan. Pada Tugas Akhir ini, penulis akan mengimplementasikan sebuah aplikasi software sistem informasi pada Mango Terrace Resto. Dalam membuat aplikasi ini, penulis menggunakan bahasa pemrograman Delphi 6 dan Microsoft SQL Server 7 sebagai pendukung databasenya. Dalam aplikasi program ini, terdapat berbagai macam program menu customer dan program menu untuk administrator (waiter, dapur, kasir, dan gudang, admin). Hasil dari pembuatan software ini memungkinkan customer untuk melihat semua menu, lengkap dengan gambar dan penjelasan mengenai komposisinya. Waiter menginputkan data pesanan customer dan data pesanan tersebut akan langsung diterima oleh bagian dapur untuk dapat melakukan pemenuhan pesanan. Bagian kasir menangani pembayaran pesanan. Jadi melalui software ini dicapai suatu sistem komputerisasi yang mengintegrasikan semua bagian yang terlibat dalam proses transaksi Mango Terrace Resto. Dari hasil pengujian, dapat disimpulkan bahwa keseluruhan aplikasi yang dikembangkan mendapat penilaian sangat baik",
+  "creators": "DEWI NIRMALA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Leo Willyanto Santoso (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000269/INF/2004; Dewi Nirmala (26400124)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN; INFORMATION RESOURCES MANAGEMENT-COMPUTER PROGRAMS"
+}

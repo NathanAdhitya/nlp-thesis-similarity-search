@@ -1,0 +1,14 @@
+{
+  "id": "21783",
+  "title": "Perancangan dan pembuatan website serta reservation online pada Hotel Berry",
+  "abstract": "Hotel Berry merupakan sebuah hotel yang berkembang di Kuta,Bali. Pencatatan semua reservasi dan pendataan calon tamu pada hotel ini menggunakan sistem manual dengan pendataan computer dari pemesanan via telepon atau calon tamu datang langsung di tempat, sehingga membuat tamu dan pihak front office kesulitan dalam melakukan pencatatan. Dengan adanya sistem pemesanan via website ini, diharapkan agar dapat membantu Hotel Berry dalam mencatat pemesanan dan pendataan tamu, sehingga dapat meminimalkan adanya kesalahan yang timbul akibat pencatatan aktivitas yang ada pada Hotel Berry. Penulis merancang berbagai macam desain sistem yang meliputi sistem pemesanan kamar, dan rancangan website, yang dimana semua sistem tersebut dirancang dengan Data Flow Diagram dan Entity Relationship Diagram. Pembuatan program ini menggunakan bahasa pemrograman PHP yang berbasis web dan untuk proses penyimpanan data, digunakan database PostgreSQL. Program yang dibuat menghasilkan website yang berguna untuk dapat melihat kamar yang dapat dipesan dan kelengkapan informasi yang ada pada Hotel Berry. Berdasarkan hasil pengujian, fitur-fitur yang telah terdapat pada program yang dibuat dapat membantu dalam melakukan proses transaksi reservasi, serta memberikan penyajian informasi yang cukup lengkap menegnai Hotel Berry.",
+  "creators": "ERICK FEBRIYANTO",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021035/INF/2011; Erick Febriyanto (Erick Febriyanto)",
+  "subjects": "POSTGRESQL (COMPUTER SYSTEM); WEBSITES-DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

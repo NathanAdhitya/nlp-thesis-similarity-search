@@ -1,0 +1,14 @@
+{
+  "id": "28221",
+  "title": "Minimum weight design dengan analisa plastis",
+  "abstract": "Pada tugas akhir ini kamI membahas persoalan \"Minimum Weight Design\" dengan menggunakan analisa plastis. Penyelesaian optimasi mula-mula dikerjakan dengan linear programming di mana fungsi berat dianggap sebagai spektrum yang linear dan kontinyu. Sebagai contoh yang pertama kami gunakan cara grafis di mana cara ini dapat dipakai bila hanya terdapat dua variable saja. Sedangkan untuk dua variable atau lebih kami gunakan cara simplex. Selain dengan linear programming di sini kami perkenalkan pula suatu teknik optimasi yang dikenal dengan nama \"Discrete Variable Direct Search Algorithm\", di mana fungsi berat bukan lagi merupakan spektrum yang kontinyu sehingga variable yang dihasilkan merupakan harga-harga tertentu yang tergantung dari suatu daftar penampang yang dapat diperoleh di pasaran. Dalam tugas akhir ini telah kami susun program komputer untuk kedua cara di atas. Harga minimum dari total berat struktur yang dihasilkan tergantung dari beberapa batasan (constraint). Di sini sebagai batasan hanya diambil dari persamaan usaha virtuil dari mechanism-mechanism yang mungkin terjadi.",
+  "creators": "EMANUEL HERMANTO W.; VALENTINA SOETEDJA",
+  "contributors": "Ir. Soehendro Ratnawidjaja, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 175 S; Emanuel Hermanto W. (279079), Valentina Soetedja (279119)",
+  "subjects": "PLASTIC ANALYSIS-COMPUTER PROGRAMS; STRUCTURES ENGINEERING"
+}

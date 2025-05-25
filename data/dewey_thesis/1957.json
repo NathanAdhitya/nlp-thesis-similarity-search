@@ -1,0 +1,14 @@
+{
+  "id": "1957",
+  "title": "Robot penyelam",
+  "abstract": "Robot penyelam adalah robot yang mampu bergerak di dalam air. Gerakan yang dapat dilakukan adalah naik dan turun / menyelam. Gerakan ke atas timbul akibat adanya gaya dorong dari putaran propeller, sedangkan untuk gerak menyelam disebabkan oleh berat beban dari robot (pada saat kondisi motor off). Robot ini dikontrol dengan menggunakan remote control 4 kanal yang menggunakan RF. Robot dijalankan untuk 5 keadaan yaitu start, naik, turun, kembali ke posisi semula, dan menghentikan robot. Perencanaan sistem meliputi perencanaan driver, perencanaan mekanik, dan perencanaan software. Sebagai penggerak propeller-nya, robot ini menggunakan motor DC 9 volt. Robot ini menggunakan mikrokontroler AT89C2051. Perencanaan mekanik dari robot ini meliputi perangkaian gear box, shielding poros propeller, dan perancangan beban. Shielding poros propeller menggunakan karet oring. Beban yang digunakan dipasang di sekeliling robot agar lebih seimbang. Robot ini diuji di dalam akuarium dengan kedalaman sekitar 70 cm. Saat pengujian diperoleh kecepatan gerak naik rata - rata 16,29 cm/detik dengan massa total robot sebesar 1510 gram, dan volume robot 1225 cm 3 . Karena dasar badan robot berbentuk datar, maka jarak minimal propeller 1,8 cm.",
+  "creators": "IRWAN SANTOSO",
+  "contributors": "Hany Ferdinando (Advisor 1); Handry Khoswanto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010739/ELK/2005; F.X. Irwan Santoso (23401030)",
+  "subjects": "ROBOTS"
+}

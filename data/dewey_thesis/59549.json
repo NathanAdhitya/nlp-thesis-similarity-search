@@ -1,0 +1,14 @@
+{
+  "id": "59549",
+  "title": "Sistem informasi perpustakaan dan keanggotaan Gereja Reformed Injili Indonesia (GRII) Surakarta",
+  "abstract": "Dalam era digitalisasi saat ini, Sistem Perpustakaan dan Keanggotaan dari Gereja Reformed Injili Indonesia (GRII) Surakarta masih dilakukan secara manual, sehingga hal ini menyulitkan baik dalam menambahkan maupun melihat data secara keseluruhan. Sistem Perpustakaan memiliki pertambahan buku tiap bulannya, dan hal ini tentu menyulitkan bagi para pembaca untuk menentukan buku mana yang sekiranya menarik dan sesuai dengan kriteria mereka. Sistem Keanggotaan akan memiliki pertambahan data dikarenakan banyak jemaat yang dapat bergabung dalam keanggotaan gereja, dan hal ini akan menyulitkan bagi pengurus untuk melihat jemaat yang harus diberikan perhatian lebih saat mengalami masa jatuh (dalam bentuk tidak rutin datang ke gereja jika ada masalah). Mengingat kedua permasalahan, Sistem Informasi dapat dibentuk dengan tujuan untuk membantu pembaca dalam menentukan judul selanjutnya dan juga penyimpanan data jemaat. Metode rekomendasi buku akan menggunakan metode item based collaborative filtering. Sistem akan memberikan 3 rekomendasi buku kepada user tertentu berdasarkan perhitungan rating yang diberikan oleh user lain. Item based collaborative filtering memiliki 3 tahapan yaitu, perhitungan Adjusted Cosine Similarity, Adjusted Weighted Sum, dan Mean Absolute Error (MAE). Hasil dari skripsi ini akan berupa penampilan sistem peminjaman buku, pembelian buku, absensi dan penjadwalan penatalayan Gereja Reformed Injili Indonesia (GRII) guna membantu pengurus serta jemaat Gereja Reformed Injili Indonesia (GRII).",
+  "creators": "ANGELIA MELISSA PUTRI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Kartika Gunadi (Advisor 2); Silvia Rostianingsih (Examination Committee 1); Liliana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022411/INF/2024; Angelia Melissa Putri (C14180176)",
+  "subjects": "CHURCH; INTEGRATED LIBRARY SYSTEMS (COMPUTER SYSTEMS); LIBRARIES--AUTOMATION"
+}

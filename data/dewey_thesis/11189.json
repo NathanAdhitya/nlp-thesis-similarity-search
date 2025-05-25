@@ -1,0 +1,14 @@
+{
+  "id": "11189",
+  "title": "Perancangan dan pembuatan aplikasi peta online Universitas Kristen Petra berbasis web dengan fitur pencarian rute terpendek menggunakan A*",
+  "abstract": "Peta adalah salah satu alat pemberi informasi dalam mencari letak atau posisi suatu tempat. Dengan banyaknya gedung yang dimiliki oleh Universitas Kristen Petra saat ini, sering menyusahkan mahasiswa dan pihak luar yang datang ke Universitas Kristen Petra untuk mencari informasi serta letak suatu ruangan Pada Tugas Akhir ini, dikembangkan aplikasi peta online yang mempunyai fitur pencarian informasi dan letak ruangan, serta pencarian rute terpendek. Aplikasi ini dapat membantu mencari rute dari posisi awal ke posisi tujuan. Dalam pencarian rute terpendek, pada aplikasi ini digunakan metode A*. Aplikasi ini dibuat dengan menggunakan Hypertext Preprocessor (PHP) pada sisi server. Berdasarkan pengujian, aplikasi ini dapat digunakan untuk mencari informasi ruang kelas, informasi ruangan dosen, letak suatu ruangan dan mencari rute terpendek dari posisi awal ke posisi tujuan. Pengujian telah dilakukan pada gedung EH, I dan P Universitas Kristen Petra.",
+  "creators": "LIMAN GUNAWAN",
+  "contributors": "Andreas Handojo (Advisor 1); Gregorius Satiabudhi (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010770/INF/2008; Liman Gunawan (26404094)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

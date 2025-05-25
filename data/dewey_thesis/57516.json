@@ -1,0 +1,14 @@
+{
+  "id": "57516",
+  "title": "Sistem pendukung keputusan pemberian beasiswa menggunakan metode WASPAS di Universitas X",
+  "abstract": "Universitas X memiliki sebuah Badan Akademik yang berfungsi sebagai penyalur beasiswa pada universitas ini. Mahasiswa yang mendaftar beasiswa ini akan mendaftar melalui sebuah organisasi kemahasiswaan yang telah diberikan tugas oleh Badan Akademik untuk membuka pendaftaran beasiswa dan kemudian list pendaftarnya akan dicek dan diberikan kepada Badan Akademik untuk kemudian dipilih mahasiswa yang pantas untuk menerima beasiswa, sistem yang sekarang dipakai di Badan Akademik ini adalah cara manual dimana pegawai Badan Akademis akan melihat dan merangking mahasiswa pendaftar menggunakan excel dan memakan waktu 1-2 hari sehingga tidak efisien. Pemilihan rekomendasi beasiswa dilakukan dengan melakukan penilaian terhadap beberapa kriteria yang penting dalam pemberian beasiswa. Penilaian dilakukan dengan menggunakan metode WASPAS, salah satu metode dalam sistem pendukung keputusan. Tujuan dari penelitian ini adalah untuk membantu Badan Akademik dalam menyeleksi pendaftar beasiswa yang pantas untuk menerima beasiswa. Metode yang dilakukan adalah pengumpulan data. Data yang digunakan adalah data pendaftar dan hasil pemberian beasiswa pada periode sebelumnya. Dimana data akan diolah menggunakan metode WASPAS dan menghasilkan ranking pendaftar beasiswa dari yang terbaik hingga terburuk. Pengujian sistem akan menggunakan uji kelancaran aplikasi, dan pengujian akurasi akan dilakukan dengan membandingkan hasil pemberian beasiswa pada periode sebelumnya dengan hasil ranking rekomendasi berdasarkan sistem dengan menggunakan data yang sama. Hasil pengujian menggunakan precision@k membuktikan metode WASPAS memberikan akurasi sebesar 69.2%.",
+  "creators": "MICHAEL CHRISTIAN LIE",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Agustinus Noertjahyana (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022314/INF/2023; Michael Christian Lie (C14190205)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; DECISION SUPPORT SYSTEMS--COMPUTER PROGRAMS"
+}

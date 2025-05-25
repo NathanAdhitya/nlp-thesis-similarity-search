@@ -1,0 +1,14 @@
+{
+  "id": "45152",
+  "title": "Aplikasi perhitungan alinyemen horisontal dan vertikal dengan Microsoft Excel",
+  "abstract": "Tujuan dari penelitian ini adalah untuk membuat aplikasi perhitungan alinyemen horisontal dan vertikal untuk mempermudah desain geometrik jalan berdasarkan spesifikasi desain yang ditentukan oleh pengguna aplikasi. Aplikasi ini terdiri dari dua folder, masing-masing untuk alinyemen horisontal dan vertikal. Setiap folder terdiri dari empat file, yaitu Input, Perhitungan, Output, dan Tabel. File pertama yaitu file Input, yang akan diisi oleh pengguna aplikasi. File kedua berupa file perhitungan di mana setiap sheet pada file ini akan dikunci (Protect) untuk mencegah pengguna mengganti rumus-rumus perhitungan yang digunakan dalam proses perhitungan. File ketiga berupa hasil perhitungan (Output) yang telah diproses pada file kedua dan sifat dari file ketiga ini terkunci (Protect). File keempat akan berisikan standar-standar yang menjadi acuan dalam perhitungan alinyemen horisontal dan vertikal, sifat dari file ini juga terkunci (Protect). Pengguna akan memasukkan data-data awal pada file Input yang kemudian akan diproses pada file Perhitungan dengan file Tabel sebagai acuannya, setelah itu pengguna akan disajikan hasil pada file Output. Aplikasi ini memiliki kelebihan dibandingkan dengan perhitungan manual, karena tidak memerlukan waktu yang lama dalam merencanakan alinyemen horisontal dan vertikal jalan, serta adanya visualisasi dari alinyemen yang telah direncanakan sehingga pengguna dapat memiliki gambaran mengenai perencanaannya.",
+  "creators": "CHRISTIAN FERDINAN SANJAYA; ANDREAS PRAMONO SETIAWAN",
+  "contributors": "Rudy Setiawan (Advisor 1); TIRSA ENDELI TUMBELAKA (Advisor 2); Indriani Santoso (Examination Committee 1); Harry Patmadjaja (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 15012329/SIP/2019; Christian Ferdinan Sanjaya (21415083), Andreas Pramono Setiawan (21415101)",
+  "subjects": "ROADS--DESIGN AND CONSTRUCTION"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "31013",
+  "title": "Analisis kemampuan algoritma-algoritma yang digunakan dalam spam filtering",
+  "abstract": "Spam merupakan istilah untuk sebuah e-mail yang dikirimkan oleh suatu pihak dengan maksud memasarkan suatu barang tanpa persetujuan pihak penerima. Fenomena spam sudah sangat besar karena dapat digunakan sebagai alat promosi yang mudah dilakukan dan nyaris tidak mengeluarkan biaya. Demi melawan hal ini, diterapkan algoritma matematis untuk melakukan penyaringan antar spam dengan e-mail sah atau juga disebut dengan ham. Ada beberapa algoritma yang dapat digunakan untuk tujuan ini, oleh karena itu dibuatlah analisis untuk membandingkan kemampuan setiap algoritma serta meningkatkan kemampuan algoritma tersebut. Algoritma yang digunakan ada tiga, yaitu Naïve Bayes Classifier, k-NN Algorithm, dan Support Vector Machine. Ketiga algoritma ini diuji untuk menentukan algoritma mana yang memiliki kemampuan terbaik dalam menyaring spam. Pada pengujian dengan sampel pelatihan terbanyak, Support Vector Machine memiliki performa terbaik dengan nilai 96.3%, mengungguli Naïve Bayes dengan 95.5% dan k-NN dengan 95.4%. Performa setiap algoritma ini dapat diatur sesuai dengan preferensi penggunanya melalui pengaturna sensitivitas yang dapat meningkatkan akurasi spam maupun menurunkan false positive. Waktu pelatihan Support Vector Machine menjadi yang paling lama yaitu 433 detik sedangkan Naïve Bayes hanya memerlukan 34.8 detik dengan 2000 sampel pelatihan.",
+  "creators": "LOVIN LOUDRIYAN",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010124/ELK/2014; Lovin Loudriyan (23409011)",
+  "subjects": "INTERNET (COMPUTER NETWORKS); ELECTRONIC MAIL SYSTEMS; ALGORITHMS"
+}

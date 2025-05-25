@@ -1,0 +1,14 @@
+{
+  "id": "15221",
+  "title": "Perencanaan dan penjadualan produksi di PT.Duta Citra Audio Raya",
+  "abstract": "PT. Duta Citra Audio Raya merupakan perusahaan yang bergerak di bidang pembuatan speaker. Selama ini, sistem perencanaan produksinya masih berdasarkan pengalaman dan intuisi. Dalam merencanakan kebutuhan barang jadi, perusahaan tersebut memproduksi produk yang memiliki persediaan paling sedikit. Sedangkan untuk persediaan material, perusahaan tersebut melakukan pembelian apabila jumlah persediaan hampir habis. Pembelian dalam jumlah besar ini membutuhkan banyak tempat dan perawatan sehingga modal dari perusahaan tidak dapat digunakan di bidang lainnya. Oleh karena itu akan dilakukan penelitian dilakukan dengan tujuan untuk membantu merencanakan dan mengendalikan produksi sesuai dengan penjadualan job yang berdasarkan pada kebutuhan. Cara yang akan dilakukan adalah melakukan peramalan permintaan berdasarkan data permintaan masa lalu, melakukan penjadualan berdasarkan algoritma CDS, Rajendran dan NEH. Selain itu, akan dilakukan pula pencarian periode pemesanan yang paling optimal dengan menggunakan metode Least Unit Cost, Wagner Within dan Silver Meal dengan tujuan meminimalkan biaya yang dikeluarkan. Metode yang digunakan untuk peramalan secara umum adalah metode dekomposisi meskipun masih ada produk yang menggunakan single exponential smoothing dan trend exponential. Untuk penjadualan produksi, hasil yang optimal diperoleh apabila menggunakan algoritma NEH, sedangkan untuk perencanaan kebutuhan bahan baku, metode Wagner Within lebih optimal bila dibandingkan dengan metode lainnya.",
+  "creators": "LUCIA YELLY RAHARDJO",
+  "contributors": "Maja Indahwati (Advisor 1); Tessa Vanina Soetanto (Advisor 2); Kristiana Asih Damayanti (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 386/TI-113/2000; Lucia Yelly Rahardjo (25496082)",
+  "subjects": "SCHEDULING (MANAGEMENT); WORK MEASUREMENT; PRODUCTION PLANNING"
+}

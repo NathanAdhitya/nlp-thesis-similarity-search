@@ -1,0 +1,14 @@
+{
+  "id": "9118",
+  "title": "Perancangan dan pembuatan sistem pengaturan waktu proses produksi di PT. Surindo Teguh Gemilang",
+  "abstract": "PT. Surindo Teguh Gemilang adalah perusahaan yang bergerak di bidang karton boks. Pengaturan waktu proses produksi karton boks masih dilakukan secara manual, sehingga terjadi kesulitan dalam proses pengambilan kesepakatan berbagai pendapat. Oleh karena itu, dibutuhkan suatu sistem yang terkomputerisasi untuk membantu proses penyelesaian masalah pengaturan waktu pada perusahaan. Dalam perancangan aliran data menggunakan Data Flow Diagram. Sedangkan untuk membuat desain struktur tabel dan relasi antar tabel menggunakan Entity Relationship Diagram. Database dibuat dengan menggunakan Microsoft SQL Server. Aplikasi dibuat dan dikembangkan dengan menggunakan bahasa pemrograman Borland Delphi. Program yang dibuat meliputi sistem penerimaan order, sistem pengurutan order dan sistem pengaturan waktu. Dari hasil pengujian terhadap program, menunjukkan bahwa program ini dapat memproses (penerimaan dan pengurutan) order dan menampilkan simulasi pengaturan waktu. Program ini juga dapat menghasilkan informasi berupa laporan order, laporan proses produksi, laporan pengaturan waktu, dan laporan detail pengaturan waktu.",
+  "creators": "TEGUH HARDONO ONGKO P",
+  "contributors": "Yulia (Advisor 1); Felicia Soedjianto (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010664/INF/2007; Teguh Hardono (26403050)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

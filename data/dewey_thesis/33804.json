@@ -1,0 +1,14 @@
+{
+  "id": "33804",
+  "title": "Pembuatan pengambilan keputusan untuk manajemen kerajaan lawan pada Game Majapahits Conquest",
+  "abstract": "Salah satu cara yang dapat digunakan untuk memberikan edukasi dengan cara yang tidak membuat bosan adalah dengan menggunakan game. Salah satu genre game yang dapat digunakan untuk memberikan aspek hiburan dan edukasi pada pemainnya adalah game turn-based strategy. Sebagai game turn-based strategy, Majapahit’s Conquest memerlukan AI lawan yang dapat melakukan pengambilan keputusan untuk managemen kerajaan dengan baik agar dapat menjadi lawan yang sepadan terhadap player. Untuk membuat AI yang dapat berpikir dengan baik, dibuatlah suatu sistem AI yang dapat berpikir dengan baik dan sesuai dengan kebutuhan di dalam game. Sistem yang dibuat terdiri dari sistem ID3 untuk membentuk decision tree dan sistem Influence Map yang berguna untuk memberikan kesadaran akan daerah sekitar pada AI. Dari segi aplikasi, terdapat 2 aplikasi yang dibuat untuk skripsi ini, yang pertama adalah ID3 Editor yang berguna untuk pelatihan ID3 menggunakan data training, yang kedua adalah game Majapahit’s Conquest itu sendiri. Sistem Influence Map dimasukkan ke dalam game secara langsung agar dapat sesuai dengan kebutuhan di dalam game. Hasil pengujian menunjukkan bahwa sistem ID3 dapat dikembangkan agar dapat berpikir menggunakan data diskret dan kontinu, decision tree yang dihasilkan oleh ID3 sangat dipengaruhi oleh data training yang digunakan, dan ID3 dapat menentukan sendiri atribut apa yang paling berpengaruh dan digunakan pada decision tree. Hasil juga menunjukkan bahwa propagation method yang digunakan untuk sistem Influence Map dapat diatur agar sesuai dengan keinginan di dalam game. Hasil pengimplementasian kedua sistem ini di dalam game menunjukkan bahwa decision tree yang dihasilkan oleh ID3 dapat digunakan sesuai dengan kebutuhan di dalam game dan sistem Influence map dapat digunakan sebagai input yang membantu AI dalam berpikir.",
+  "creators": "VINCENT UTOMO",
+  "contributors": "Liliana (Advisor 1); Gregorius Satiabudhi (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021379/INF/2015; Vincent Utomo (26411053)",
+  "subjects": "COMPUTER GAMES-DESIGN; COMPUTER GAMES; ARTIFICIAL INTELLIGENCE-COMPUTER PROGRAMS; VIDEO GAMES-PROGRAMMING"
+}

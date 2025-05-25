@@ -1,0 +1,14 @@
+{
+  "id": "13508",
+  "title": "Penjadwalan pada single machine untuk meminimumkan early dan trady cost di PT. Z",
+  "abstract": "Penjadwalan adalah suatu metode untuk menjadwalkan produksi agar diperoleh jadwal yang optimal sehingga tujuan yang diinginkan tercapai. Tugas akhir ini bertujuan untuk membantu PT. Z dalam masalah penjadwalan jobs pada single machine dengan pendekatan heunstik. Saat ini PT. Z menggunakan metode earliest due date untuk menjadwalkan produksi namun PT. Z merasa diperlukan metode lain yang lebih sesuai untuk mengoptimalkan jadwal produksi sehingga biaya yang timbul dapat diminimumkan. Dengan tujuan meminimumkan early cost dan tardy cost, pada tugas akhir ini digunakan sebuah algoritma heuristik yang menentukan urutan job. Algoritma heuristik ini terdiri dari empat prosedur. Pertama, Prosedur Ordering yaitu mengurutkan jobs kemudian Prosedur Feasibility, yang berfungsi untuk menganalisa apakah antara job terjadi overlapping, lalu Prosedur Updating untuk meng-update idle times. Setelah semua jobs dijadwalkan, prosedur terakhir yang dilakukan adalah Prosedur Local Search yaitu untuk mengecek jika ada kesalahan peletakkan jobs. Prosedur Updating dilakukan kembali untuk mendapatkan jadwal yang optimal dengan heuristik. Akhirnya, setelah jadwal didapatkan maka dilakukan perhitungan total early dan tardy cost antara jadwal perusahaan earliest due dale dengan jadwal hasil algoritma heuristik yang diusulkan dan kemudian dilakukan perbandingan antara kedua penjadwalan tersebut. Dari hasil penelitian yang dilakukan, diperoleh bahwa total early dan tardy cost metode heuristik lebih minimum dibandingkan dengan total early dan tardy cost jadwal perusahaan. Sehingga dapat diambil kesimpulan bahwa penjadwalan metode heuristik lebih baik dibandingkan dengan penjadwalan perusahaan.",
+  "creators": "FEMI JULIANI",
+  "contributors": "Pauline Astari Singgih (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 469/TI-060/2001; Femi Juliani (25497078)",
+  "subjects": "SCHEDULING (MANAGEMENT); PRODUCTION PLANNING"
+}

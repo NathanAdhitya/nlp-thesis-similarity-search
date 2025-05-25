@@ -1,0 +1,14 @@
+{
+  "id": "15948",
+  "title": "Alat pembuat kue kering otomatis",
+  "abstract": "Tugas akhir ini dibuat karena pada alat sebelumnya belum berfungsi dengan baik. Mixer digeser secara manual, lubang keluar adonan dibuka ditutup secara cepat, dan hanya sampai proses mencetak saja, sehingga alat ini bertujuan untuk memperbaiki kekurangan-kekurangan tersebut. Alat ini dirancang menggunakan PLC Schneider TSX Micro 3721 sebagai pengendali utama, menambah motor DC 12 V untuk menggeser mixer secara otomatis, mengubah penutup lubang keluar adonan, merancang lift untuk membawa loyang ke oven yang bekerja secara otomatis, dan menambah oven sebagai pemanas. Beberapa aktuator yang digunakan, yaitu motor AC, motor DC, dan limit switch sebagai beberapa sensor pengamannya. Bedasarkan hasil pengujian, adonan kurang merata karena posisi mixer telalu tinggi, tetapi penggeseran mixer bekerja dengan baik. Penutup lubang keluar adonan berfungsi dengan baik, tetapi gearpump tidak dapat mengalirkan adonan. Lift pembawa juga sudah berjalan dengan baik, begitu pula dengan oven.",
+  "creators": "LUKAS DAVID SURYAJAYA",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010905/ELK/2009; Lukas David Suryajaya (23405028)",
+  "subjects": "ROBOTS, INDUSTRIAL"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "23838",
+  "title": "Perencanaan dan pembuatan programmable constant voltage constant frequency (CVCF) 100-250 Vac/50-400 Hz/600 VA",
+  "abstract": "Untuk mengoperasikan peralatan-peralatan listrik atau elektronika digunakan daya listrik bolak-balik (AC). Daya listrik tersebut disamping diperoleh dari jala-jala listrik PLN dapat diperoleh pula dari daya listrik searah (DC) yaitu dengan menggunakan suatu rangkaian Inverter. Untuk tugas akhir ini dibuat suatu inverter satu phasa yang programmable dengan tegangan output dalam range 100 Vac - 250 Vac, serta frekuensi dalam range 50 Hz - 400 Hz, dengan daya maksimum 600 VA dengan menghasilkan gelombang persegi (Square Wave). Suatu gelombang persegi dibangkitkan dengan menggunakan suatu kristal osilator dengan melalui suatu rangkaian pengontrol dan rangkaian penguat serta sebuah transformator step-up, dengan menggunakan suatu input keyboard dan dikendalikan oleh sebuah mikrokontroler akan menghasilkan tegangan yang tertentu serta frekuensi tertentu pula sehingga dapat menggerakkan suatu sistem dengan sumber yang berubah-ubah. Rangkaian inverter ini dilengkapi dengan rangkaian pengatur tegangan, rangkaian pembatas arus dan rangkaian proteksi suhu, serta mempunyai daya maksimum 600 VA.",
+  "creators": "RANDY KRISTIAN ULAAN",
+  "contributors": "MOCHAMAD HEROE (Advisor 1); VINCENT PRASETYO (Advisor 2); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/008/0268; Randy Kristian Ulaan (23489059)",
+  "subjects": "ELECTRIC INVERTERS; INTEL 80C31 (MICROCONTROLLER)"
+}

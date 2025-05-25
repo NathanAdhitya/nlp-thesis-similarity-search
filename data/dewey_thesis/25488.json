@@ -1,0 +1,14 @@
+{
+  "id": "25488",
+  "title": "Perencanaan dan pembuatan pembaca kartu magnetic dengan menggunakan mikrokontroller MCS-51",
+  "abstract": "Kartu magnetik adalah kartu plastik ukuran saku yang dilengkapi dengan media magnetik untuk menyimpan data. Kartu ini banyak dipakai pada masa sekarang sebagai kartu kredit, kartu absen, kartu tanda mahasiswa. Untuk membaca kartu magnetik diperlukan pembaca kartu magnetik. Kartu mahasiswa Universitas Kristen Petra juga berupa kartu magnetik, yang sampai saat ini belum dimanfaatkan sebagaimana mestinya, karenanya alat pembaca kartu magnetik diperlukan agar kartu mahasiswa tersebut dapat dimanfaatkan. Pembaca kartu magnetik pada tugas akhir ini merupakan satu kesatuan antara head baca kartu magnetik dan minimum sistem yang menggunakan mikrokontroler MCS- 51, 8031. Dengan sistem yang ada padanya 8031 merupakan suatu chip yang sangat handal. Head baca kartu magnetik yang digunakan pada tugas akhir ini adalah head baca kartu magnetik yang dibeli di pasaran. Head baca kartu magnetik yang dipakai adalah merk OMRON dengan type 3S4YR-HBR4-DT Card Reader yang dibuat oleh OMRON TATEISI ELECTRONICS CO. JAPAN. Studi kepustakaan serta pengumpulan data mengenai kartu magnetik dilakukan pada sebagian besar waktu yang diperlukan untuk pembuatan pembaca kartu magnetik. Data yang diperoleh dari head baca kartu magnetik terdiri dari clock, card present dan data. Data yang diperoleh berupa data biner yang harus dikodekan lagi agar dapat memberikan informasi yang diperlukan. Data biner inilah yang kemudian diolah pada komputer induk, hingga siap untuk dipergunakan lebih lanjut. Dari hasil pengujian didapatkan bahwa kesalahan pembacaan hampir tidak pernah terjadi, sehingga tidak diperlukan motor khusus untuk menggerakkan kartu, karena kecepatan gerakan kartu pada saat melalui head baca kartu magnetik tidak mempengaruhi pembacaan. Biasanya kesalahan terjadi disebabkan karena gerakan kartu magnetik pada saat pembacaan tidak secara konstan pada posisi horisontal. Baud rate yang dipergunakan dalam program alat pembaca kartu magnetik ini ialah 2400 bps.",
+  "creators": "M. LUCIANNA D. ADHIWIRAWAN",
+  "contributors": "AGUS MULYANTO (Advisor 1); HANDAYANI T. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/011/0101; M. Lucianna D. Adhiwirawan (14487001)",
+  "subjects": "MAGNACARD DATA PROC; MICROCONTROLLERS"
+}

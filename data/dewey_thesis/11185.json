@@ -1,0 +1,14 @@
+{
+  "id": "11185",
+  "title": "Perancangan dan pembuatan sistem pencarian koleksi online berbasis indomarc dengan menggunakan hibridisasi metode cosine similarity dan TF-IDF yang dimodifikasi di perpustakaan UK Petra",
+  "abstract": "Perpustakaan UK Petra (http://dewey.petra.ac.id) saat ini menggunakan sistem keyword matching. Pada sistem ini hasil pencarian dari sebuah query tertentu adalah record yang pada kolom judul, pengarang, atau kolom lainnya mengandung kata-kata pada query tersebut. Sistem ini memiliki dua kelemahan. Kelemahan pertama adalah terbatasnya hasil pencarian karena seharusnya judul yang mengandung kata-kata yang berhubungan dengan query juga dimunculkan sehingga proses pencarian data dapat menghasilkan dokumen atau koleksi yang lebih informatif. Kelemahan kedua adalah hasil pencarian tidak diurutkan berdasarkan kesesuaian setiap dokumen dengan query yang dimasukkan. Pada tugas akhir ini diusulkan penggunaan hibridisasi metode Cosine Similarity, dengan perhitungan menggunakan sejarah peminjaman buku. Cosine Similarity adalah proses menemukan kemiripan antara query dengan dokumen menggunakan vektor. Hasil perhitungan tersebut dijumlahkan dengan nilai popularitas setiap buku berdasarkan sejarah transaksi peminjamannya. Sebelum proses perhitungan dilakukan maka setiap term dari dokumen dan query dimasukkan dalam proses penghapusan stop word, dan stemming. Term yang berasal dari query tersebut juga diperluas melalui proses query expansion. Berdasarkan pengujian sistem pencarian yang diusulkan di atas dapat memberikan precision yang lebih tinggi dibandingkan sistem yang digunakan saat ini. Diharapkan sistem yang diusulkan dapat dikembangkan lagi terutama pada proses query expansion agar lebih cepat.",
+  "creators": "IRAWAN ARIFIN",
+  "contributors": "Rolly Intan (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010768/INF/2008; Irawan Arifin (26404135)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

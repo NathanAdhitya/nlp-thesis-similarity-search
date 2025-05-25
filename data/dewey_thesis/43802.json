@@ -1,0 +1,14 @@
+{
+  "id": "43802",
+  "title": "Penggunaan raspberry PI untuk sistem notifikasi hasil program prediksi saham/forex menggunakan format SMS",
+  "abstract": "Di era globalisasi saat ini, perkembangan usaha dagang berbasis modern seperti saham dan forex sudah semakin marak. Banyak jenis pasar saham yang saat ini ditawarkan oleh berbagai macam perusahaan, oleh karena itu perlu dibuat sebuah sistem yang dapat mendukung pelaksanaan dari perdagangan pasar saham. Penelitian ini dimaksudkan untuk membuat sebuah sistem yang dapat menganalisa data sebuah pasar saham, membuat prediksi, dan mengirimkan notifikasi mengenai hasil analisa dan prediksi kepada para pengguna jasa. Langkah-langkah yang dilakukan untuk dapat membuat sistem yang dimaksud adalah dengan membuat algoritma untuk proses analisa dan prediksi serta proses notifikasi, merancang dan membuat tampilan halaman web untuk user interface, dan menguji coba kelayakan dari program-program yang sudah dibuat. Dari hasil percobaan diketahui bahwa sistem yang telah dibuat sudah memenuhi kriteria rancangan dari peneliti, dimana sistem dapat membuat analisa prediksi harga pasar saham serta menggunakan hasil dari prediksi tersebut untuk mengendalikan kapan program notifikasi dijalankan, dan mengirimkan notifikasi berupa SMS kepada para user dengan menjalankan program notifikasi.",
+  "creators": "KENNARDI DEWANTO TIONO",
+  "contributors": "Resmana Lim (Advisor 1); Murtiyanto Santoso (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010972/ELK/2018; Kennardi Dewanto Tiono (23414001)",
+  "subjects": "RASPBERRY PI (COMPUTER)--PROGRAMMING; STOCKS--PRICES"
+}

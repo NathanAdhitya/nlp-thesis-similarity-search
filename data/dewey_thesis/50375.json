@@ -1,0 +1,14 @@
+{
+  "id": "50375",
+  "title": "Aplikasi pengolahan image untuk menterjemahkan huruf teks menjadi huruf braille",
+  "abstract": "Dengan semakin berkembangnya teknologi image processing dan intelligent control untuk aplikasi pengenalan pola dan adanya permintaan dari YPAB (Yayasan Pendidikan Anak Buta) untuk menyalin tulisan-tulisan dari buku teks untuk diterjemahkan ke dalam huruf braille, maka dilakukan sebuah penelitian untuk membuat software yang bertujuan untuk menterjemahkan huruf teks yang berasal dari buku teks menjadi huruf braille. Sistem ini menggunakan 22 feature extraction untuk mereduksi data input karakter dan menggunakan jaringan saraf tiruan backpropagation sebagai metode pengenalannya. Software akan mengolah gambar yang berupa teks hasil dari scanner dengan menggunakan image processing untuk mendapatkan data input karakter. Setelah proses pengenalan, karakter ini akan diubah ke dalam huruf braille. Pengujian sistem yang dilakukan adalah pengujian pengaruh parameter jaringan terhadap proses training, serta performance dan juga pengujian feature extraction untuk tiap karakter. Hasil yang didapat dari pengujian ini adalah bahwa proses 22 feature extraction sudah dapat membedakan input data untuk tiap karakter. Sedangkan hasil setelah dilakukan pengujian performance, software mampu mendapatkan keberhasilan terbaik sebesar 73 % dimana tidak semua karakter dapat dikenali dengan baik.",
+  "creators": "ROBBY",
+  "contributors": "Thiang (Advisor 1); Resmana Lim (Advisor 2); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/605/ELK/2003; Robby (23498065)",
+  "subjects": "APPLICATION SOFTWARE; BRAILLE; IMAGE PROCESSING"
+}

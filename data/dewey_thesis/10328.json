@@ -1,0 +1,14 @@
+{
+  "id": "10328",
+  "title": "Studi pengaman gangguan fasa tanah penyulang 20 kv bilka di GI Ngagel",
+  "abstract": "Penyulang bilka merupakan salah satu penyulang 20 kV yang dicatu dari Gardu Induk (GI) Ngagel dengan menggunakan transformator daya 60 MVA. Panjang penyulang bilka 1,348 kms, yang terbagi menjadi Saluran Kabel Tegangan Menengah (SKTM) dengan panjang 0,198 kms dan Saluran Udara Tegangan Menengah (SUTM) dengan panjang 1,150 kms. Gangguan yang paling sering terjadi dalam sistem distribusi adalah gangguan hubung singkat 1 fasa ke tanah yang disebabkan pohon dan petir. Dengan penerapan metode pentanahan netral transformator daya melalui tahanan tinggi 500 ohm, didapatkan arus gangguan maksimum pada penyulang Bilka sebesar 24 A. Karena arus gangguan yang kecil, maka digunakan Directional Ground Relay (DGR) sebagai relay pengaman gangguan hubung singkat 1 fasa ke tanah. DGR bekerja berdasarkan tegangan residu dan arus residu yang timbul pada saat terjadi gangguan hubung singkat 1 fasa ke tanah. Untuk mendeteksi tegangan residu digunakan Grounding Potential Transformer (GPT) dan untuk mendeteksi arus residu digunakan Zero Current Transformer (ZCT). Pada penyulang Bilka, setting DGR IM 30D adalah Io = 2 A, Vo = 5 V dan to = 1 s. Dari nilai setting DGR yang telah didapat, DGR IM 30D dapat bekerja dengan baik untuk Penyulang Bilka.",
+  "creators": "DANIEL TOMAN HALOMOAN H",
+  "contributors": "HENDRIANTO (Advisor 1); Emmy Hosea (Advisor 2); Limboto Limantara (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010595/ELK/2008; Daniel Toman Halomoan H (23404035)",
+  "subjects": "ELECTRIC POWER DISTRIBUTION; ELECTRIC POWER SYSTEMS; ELECTRIC POWER TRANSMISSION"
+}

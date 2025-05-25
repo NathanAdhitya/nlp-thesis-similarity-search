@@ -1,0 +1,14 @@
+{
+  "id": "47463",
+  "title": "永磁同步电机直接转矩控制建模及仿真",
+  "abstract": "永磁同步电动机（PMSM）用于许多需要快速转矩响应和高性能运行的应用中。永磁同步电动机的结构与标准绕线转子同步电机非常相似，但在永磁同步电动机中没有阻尼绕组，并且励磁由永磁体代替励磁绕组提供。电机沉铁上的永磁体消除了励磁线圈，直流电源和滑环，借助永磁体可以减少电机损耗和复杂性。通过尽可能快地调节定子磁链的旋转速度，可以获得在定子磁链和转子磁链之间的较高角度以及快速的转矩响应。这种情况可以使用直接转矩控制（DTC）技术。直接转矩控制已在许多工业应用中与永磁同步电动机一起使用，该永磁同步电动机使用带有迟滞控制器的两级电压源三相逆变器。要在直接转矩控制中控制速度和磁链的联动，可以使用PID控制器。通过将直接转矩控制用于永磁同步电动机具有一些优势。优点是更简单，对电动机参数的依赖性小以及动态转矩响应好。但是，这种类型的驱动系统具有一些缺点。缺点是定子上的高纹波转矩和电流失真。 介绍了控制技术的基本操作原理。建立了提出的永磁同步电动机直接转矩控制的数学模型。仿真是基于基本理论和数学模型直接转矩控制的永磁同步电动机进行的。使用Matlab/Simulink进行仿真。仿真表明了直接转矩控制技术在永磁同步电动机上的性能。",
+  "creators": "SAMUEL ANTHONY ISKANDAR",
+  "contributors": "Zhou Xiao Hua (Advisor 1); Li Zhong Fu (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Chinese",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010982/ELK/2020; Samuel Anthony Iskandar (23415005)",
+  "subjects": "PERMANENT MAGNETS"
+}

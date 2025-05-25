@@ -1,0 +1,14 @@
+{
+  "id": "5171",
+  "title": "Penggunaan fuzzy clustering dalam pengenalan karakter angka",
+  "abstract": "Fuzzy clustering adalah salah satu metode yang dikembangkan untuk mengolah informasi dengan jumlah data yang banyak. Dengan menggunakan metode ini, data-data yang ada akan dikelompokkan menjadi beberapa cluster (kelompok) yang masing-masing diwakili oleh pusat cluster. Pusat-pusat cluster tersebut selanjutnya digunakan sebagai dasar untuk mengenali data baru Untuk mengetahui keefektifan dari metode fuzzy clustering, dalam perancangan ini digunakan fuzzy c-means (salah satu metode fuzzy clustering) untuk mengenali image angka 0 sampai 9 (tiap jenis angka tersebut memiliki jumlah sample image minimal 10 buah). Sedangkan proses feature extraction yang digunakan, diperoleh berdasarkan pada perpotongan garis, daerah tertutup, adanya garis lurus, dan pembagian wilayah. Hasil pengujian menunjukkan bahwa tingkat keberhasilan sistem yang telah dibuat adalah 70%. Tetapi jika image angka diganti dengan simbol-simbol yang jelas berbeda satu dengan yang lain hasil pengujian menunjukkan tingkat keberhasilan yang lebih baik (100%). Hal ini berarti bahwa proses clustering yang digunakan berjalan dengan baik, tetapi proses feature extraction-nya kurang memadai untuk dapat membedakan bentuk-bentuk angka 0 sampai 9.",
+  "creators": "SUHARYANTO",
+  "contributors": "Thiang (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/666/ELK/2003; Suharyanto (223499003)",
+  "subjects": "FUZZY ALGORITHMS; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

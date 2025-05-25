@@ -1,0 +1,14 @@
+{
+  "id": "48024",
+  "title": "Pengenalan rambu batas kecepatan pada Duckiebot",
+  "abstract": "Tugas akhir ini mengadopsi pengembangan duckietown dan duckiebot yaitu sebuah proyek penelitian yang berfokus pada selfdriving vehicle. Fokus tugas akhir bertujuan untuk mengembangkan duckiebot untuk dapat mengenali rambu-rambu batas kecepatan. Program yang dibuat dijalankan pada platform ROS. Proses pengembangan program yang digunakan diawali dengan lane following sampai menemukan rambu batas kecepatan, kemudian dilakukan proses pendeteksian keberadaan angka dengan mengunakan metode Haar Cascade pada gambar dari kamera. Selanjutnya Duckiebot akan bergerak sesuai dengan hasil pengenalan rambu. Pengujian sistem telah dilakukan dengan menjalankan duckiebot satu putaran penuh dan tingkat keberhasilan rata-rata 90%. Pengujian lain juga dilakukan dengan gangguan berupa variasi pencahayaan dan tingkat keberhasilannya 95% Pengujian pengenalan rambu batas kecepatan juga dilakukan dengan memberi gangguan berupa benda yang serupa dengan rambu dan didapatkan bahwa sistem dapat membedakan objek dan rambu batas kecepatan sebenarnya dengan 100% tingkat pengenalannya.",
+  "creators": "STEVEN JAYA NUGRAHA",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Handry Khoswanto (Advisor 2); Resmana Lim (Examination Committee 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 2); Indar Sugiarto (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011002/ELK/2020; Steven Jaya Nugraha (23416006)",
+  "subjects": "ROBOTS-CONTROL SYSTEM; TRAFFIC SIGNS AND SIGNALS"
+}

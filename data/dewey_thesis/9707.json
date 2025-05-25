@@ -1,0 +1,14 @@
+{
+  "id": "9707",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada toko \"Italy\" di Solo",
+  "abstract": "Toko \"Italy\" merupakan toko yang menyediakan barang berupa sepatu. Pada saat ini, pencatatan transaksi dan pembuatan laporan akuntansi dari Toko \"Italy\" masih dilakukan secara manual. Beberapa kekurangan yang ditemui pada sistem toko yang lama seperti sering terjadi bukti transaksi yang rusak / hilang, tidak adanya pencatatan jumlah stok barang, sering terjadi kesalahan perhitungan pada pembuatan laporan-laporan keuangan. Oleh karena itu, pada Tugas Akhir ini akan dibuat perangkat lunak untuk Sistem Informasi Akuntansi, yang diharapkan mampu meminimalisasi kesalahan-kesalahan yang terjadi pada saat perhitungan account-account perkiraan akuntansi. Pembuatan aplikasi Sistem Informasi Akuntansi menggunakan perangkat lunak Borland Delphi 7. Pembuatan aplikasi Sistem Informasi Akuntansi dimulai dengan membuat desain dari Sistem Informasi Akuntansi pada Toko \"Italy\". Kemudian dilanjutkan dengan membuat desain Entity Relationship Diagram (ERD) untuk mendesain tabel-tabel database yang akan digunakan. Setelah semua desain sistem tersebut selesai dibuat, maka dilanjutkan dengan pembuatan desain interface dari program, pembuatan master data, dilanjutkan dengan pencatatan transaksi yang kemudian dilanjutkan dengan pembuatan laporan master, transaksi, dan keuangan. Hasil dari pembuatan Tugas Akhir ini berupa sistem perangkat lunak yang dapat mencatat semua transaksi yang dilakukan Toko \"Italy\", dan mampu menghasilkan laporan master, laporan transaksi dan laporan keuangan secara otomatis.",
+  "creators": "ADRIAN GUNAWAN",
+  "contributors": "Oviliani Yenty Yuliana (Advisor 1); Yulia (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010706/INF/2008; Adrian Gunawan (26403124)",
+  "subjects": "DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

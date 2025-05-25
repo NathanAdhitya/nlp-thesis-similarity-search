@@ -1,0 +1,14 @@
+{
+  "id": "11529",
+  "title": "Dimmer kapasitif satu fasa untuk beban lampu pijar 100 watt",
+  "abstract": "Pada kehidupan sehari-hari beban lampu tersebut memerlukan pengaturan intensitas cahaya. Pengaturan cahaya tersebut memerlukan rangkaian elektronis yaitu dengan Dimmer. Namun pada umumnya, Dimmer yang ada dapat menyebabkan beban menjadi bersifat induktif yang dapat menimbulkan daya reaktif yang merugikan. Tugas akhir ini dibuat alat Dimmer yang bersifat kapasitif dengan tujuan mengkompensasi beban-beban yang bersifat induktif. Dimmer ini terdiri dari transistor mosfet dengan diode bridge. Sudut penyalaan diatur dari 180? menuju 0? dengan memberikan rangkaian trigger pada mosfet melalui optocoupler. Dari pengujian diperoleh bahwa dengan cos phi dimmer 0,68 leading dapat mengkompensasi sistem dengan beban lampu TL ( cos phi 0,54 lagging ) menjadi cos phi totalnya 0,89 ( lagging ).",
+  "creators": "HANNY SUGIANTO",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010603/ELK/2009; Hanny Sugianto (23404032)",
+  "subjects": "CAPACITORS"
+}

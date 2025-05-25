@@ -1,0 +1,14 @@
+{
+  "id": "43414",
+  "title": "Perancangan dan pembuatan automatic pet feeder menggunakan arduino dan mobile apps",
+  "abstract": "Penelitian ini dilakukan untuk memudahkan pemilik hewan peliharaan khususnya anjing untuk memberi makan hewan peliharaannya walaupun berada di tempat yang berbeda. Hal inilah yang memicu adanya pembuatan aplikasi mobile berbasis android untuk mengontrol alat makan tersebut yang telah dilengkapi oleh arduino beserta komponennya agar dapat melakukan automatisasi pemberian makanan. Pemakaian aplikasinya sederhana, cukup memasukkan hari, waktu, dan porsi yang diinginkan dalam menu di aplikasi dan pencet tombol simpan, maka data akan tersimpan di database dan akan dibaca oleh arduino. Ketika waktu arduino sama dengan waktu tersimpan di database, maka makanan akan otomatis keluar. Tetapi makanan yang keluar terkadang tidak sesuai dengan porsi yang kita inputkan karena adanya factor tertentu yang mempengaruhi hal tersebut.",
+  "creators": "ERIC WILYANTO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Resmana Lim (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021858/INF/2019; Eric Wilyanto (26414064)",
+  "subjects": "APPLICATION SOFTWARE; AUTOMATIC CONTROL; ARDUINO"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "57534",
+  "title": "Sistem pendeteksi pose dan posisi manusia menggunakan kamera",
+  "abstract": "Sistem pengawasan terhadap kondisi manusia merupakan sebuah kebutuhan bagi para keluarga, khususnya bagi yang memiliki anggota keluarga berlanjut usia, untuk memastikan keselamatan para lansia. Saat ini, sistem pengawasan sudah beralih pengecekan manual terhadap jejak rekam kamera CCTV menjadi otomatis untuk dapat memperoleh informasi kondisi lansia dengan lebih cepat. Oleh karena itu dibutuhkan sebuah sistem yang dapat mengakomodasi kebutuhan ini. Sistem yang dibuat pada skripsi ini akan menggunakan Nvidia Jetson Nano sebagai embedded device untuk melakukan edge computing yang akan mengimplementasikan algoritma pendeteksi objek berbasis deep learning dengan YOLOv4-tiny untuk melakukan deteksi pose manusia, library Python untuk melakukan transformasi homografik untuk mendapatkan posisi manusia pada pose tertentu, dan MQTT untuk mengirimkan pesan hasil deteksi pose dan posisi. Berdasarkan hasil pengujian, sistem berhasil melakukan deteksi pose baring di kursi, baring di lantai, berdiri, duduk di kursi, dan duduk di lantai di Laboratorium IoT Universitas Kristen Petra yang didesain dengan skenario tempat tinggal pada ruang makan dan ruang keluarga. Sistem memiliki performa 5.5 – 6.5 FPS dengan inference time 50 – 60 milisekon. Sistem dapat melakukan deteksi pose dengan nilai mAP@50 sebesar 95.1% pada ruang makan dan 95.2% pada ruang keluarga. Sistem juga berhasil melakukan deteksi posisi berdasarkan pose manusia pada area dengan luas sekitar 6 meter persegi.",
+  "creators": "JASON HALIM",
+  "contributors": "Handy Wicaksono (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010154/ELK/2023; Jason Halim (C11190014)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

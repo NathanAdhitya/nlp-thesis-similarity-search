@@ -1,0 +1,14 @@
+{
+  "id": "10604",
+  "title": "Aplikasi TCP/IP untuk manajemen presentasi di ruang kelas",
+  "abstract": "Proses perkuliahan pada laboratorium komputer memiliki banyak kendala, seperti konsentrasi mahasiswa yang tidak terfokus pada penjelasan dosen karena melakukan aktivitas lain dengan komputer di depannya. Selain itu dosen juga tidak dapat melakukan pengawasan terhadap tampilan layar komputer mahasiswa karena terfokus kepada materi perkuliahan yang dibawakan. Umumnya komputer di laboratorium terhubung satu dengan yang lain dalam jaringan lokal. Dengan kondisi laboratorium komputer seperti itu, maka perlu dibuat suatu aplikasi yang dapat menunjang proses belajar mengajar. Aplikasi manajemen presentasi di ruang kelas ini dibuat menggunakan bahasa pemrograman Microsoft Visual C#. Aplikasi ini terdiri dari dua bagian, yaitu aplikasi pada komputer dosen dan aplikasi pada komputer mahasiswa. Aplikasi pada komputer dosen dapat melakukan pengawasan terhadap tampilan layar komputer mahasiswa dan menampilkan layar komputer mahasiswa, sedangkan aplikasi pada komputer mahasiswa dapat menampilkan layar komputer dosen jika diinginkan. Komunikasi antara kedua aplikasi dilakukan dengan protokol TCP/IP, khususnya menggunakan protokol HTTP untuk proses pertukaran datanya. Pengujian yang dilakukan pada aplikasi menunjukkan bahwa pertukaran data tampilan layar server setiap 1 detik menggunakan sumber daya jaringan rata-rata sebesar 69.86 KBytes, dan waktu rata-rata yang dibutuhkan aplikasi pada komputer mahasiswa untuk menampilkan layar komputer dosen adalah 0.47 detik.",
+  "creators": "GERRY A S P SAMPETODING",
+  "contributors": "Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010083/ELK/2008; Gerry A.S.P. Sampetoding (23404053)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

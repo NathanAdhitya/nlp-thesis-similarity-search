@@ -1,0 +1,14 @@
+{
+  "id": "9080",
+  "title": "Penjadwalan produksi untuk meminimumkan setup time dan memaksimumkan aliran uang dengan metode genetic algorithm studi kasus pada CV. WP",
+  "abstract": "Penjadwalan pada CV. WP memiliki banyak kendala dan kriteria. Kendala yang dihadapi adalah total omzet dan adanya produksi bertahap untuk produk dengan banyak warna yang menyebabkan waktu setup menjadi besar. Kriteria yang harus dipenuhi adalah mempercepat waktu penyelesaian, memaksimumkan aliran uang, dan meminimumkan setup time. Selama ini, penjadwalan CV. WP hanya berdasarkan intuisi dan pengalaman. Tugas Akhir ini bertujuan untuk memberikan usulan mengenai metode penjadwalan produksi dengan menggunakaan Genetic Algorithm yang dapat meminimumkan setup time dan memaksimalkan aliran uang melalui dua tahap penjadwalan yaitu menentukan kombinasi order yang dikerjakan terlebih dahulu dan menentukan jumlah produksi bertahap untuk produk-produk yang memiliki lebih dari satu warna. Penjadwalan usulan dapat memberikan hasil yang lebih baik dibandingkan penjadwalan awal CV. WP, yaitu dapat meningkatkan aliran uang sebesar 3,434% dan menurunkan setup time sebesar 3,5856%.",
+  "creators": "IVAN PARTANA; NOVIDWINA WANAYULASTRI",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Herri Christian Palit (Advisor 2); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011175/IND/2007; Ivan Partana (25403021), Novidwina Wanayulastri (25403045)",
+  "subjects": "SCHEDULING (MANAGEMENT); PRODUCTION PLANNING"
+}

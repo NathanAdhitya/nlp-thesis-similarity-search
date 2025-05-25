@@ -1,0 +1,14 @@
+{
+  "id": "8650",
+  "title": "Aplikasi polling dengan menggunakan media SMS",
+  "abstract": "Metode polling merupakan metode yang relatif mudah dan efisien untuk mengukur pendapat umum. Saat ini dikembangkan suatu aplikasi polling dengan menggunakan media SMS, sehingga hasil akhir polling dapat diperoleh lebih cepat. Aplikasi Polling SMS ini menggunakan sebuah mobile-phone (Siemens S45) yang terhubung dengan sebuah server (komputer). Antara keduanya dihubungkan dengan media kabel data serial (RS232 Siemens) yang dibantu dengan komponen TMSComm untuk koneksinya. Sedangkan perintah yang digunakan untuk komunikasi antara keduanya adalah perintah AT-Command. Untuk database-nya menggunakan database MySQL. Setiap SMS yang diterima dapat diproses dengan benar, jika SMS yang diterima sesuai dengan format penulisan SMS yang telah ditetapkan. Format untuk registrasi adalah Reg [spasi] nama polling, sedangkan format untuk mengikuti polling adalah Nama polling [spasi] pilihan jawaban polling. Setiap balasan untuk peserta polling akan dikirimkan dalam bentuk SMS. Kemudian peserta polling dapat melihat keseluruhan hasil polling yang diadakan di Web Site. Aplikasi Polling SMS beserta fasilitas-fasilitasnya (Multi polling, Open/Close polling, Registrasi, One SMS/More) dapat berjalan dengan baik. Adapun beberapa kegagalan yang dapat terjadi antara lain kegagalan yang disebabkan oleh Aplikasi Polling SMS yang tidak dapat mendeteksi status pengiriman SMS (SMS Not Sent) dan kegagalan yang disebabkan oleh Aplikasi Polling SMS menerima karakter-karakter yang tidak sesuai dengan karakter yang ada atau yang disediakan mobile-phone (di server). Sehingga kegagalan-kegagalan tersebut dapat menyebabkan Aplikasi Polling SMS menjadi error.",
+  "creators": "ROBBY SANJAYA",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Lauw Lim Un Tung (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010027/ELK/2005; Robby Sanjaya (23400047)",
+  "subjects": "MOBILE COMMUNICATION SYSTEMS; INTERNET (COMPUTER NETWORKS)"
+}

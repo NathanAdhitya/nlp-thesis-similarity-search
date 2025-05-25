@@ -1,0 +1,14 @@
+{
+  "id": "60537",
+  "title": "Perbandingan metode XGBoost dengan SMOTE-Boosting dan SMOTE-Bagging pada data penyakit stroke yang tidak seimbang",
+  "abstract": "Penelitian ini bertujuan untuk mengembangkan model prediksi penyakit stroke menggunakan dua pendekatan berbeda, yaitu SMOTE-Bagging XGBoost dan SMOTE-Boosting XGBoost. Metode SMOTE digunakan untuk menangani masalah ketidakseimbangan data dengan menambah jumlah sampel pada kelas minoritas. Bagging dan Boosting digunakan sebagai metode ensemble untuk meningkatkan akurasi prediksi. Hasil evaluasi cross-validation 5-fold pada data pelatihan menunjukkan bahwa model SMOTE-Bagging XGBoost memiliki rata-rata akurasi sebesar 75%, presisi sebesar 33%, recall sebesar 45%, F1-score sebesar 38%, AUC-ROC sebesar 75%, dan G-Mean sebesar 60%. Model SMOTE-Boosting GBoost menunjukkan rata-rata akurasi sebesar 72%, presisi sebesar 30%, recall sebesar 55%, F1-score sebesar 39%, AUC-ROC sebesar 73%, dan G-Mean sebesar 64%. Namun, ketika diuji dengan data uji independen, kedua model menunjukkan performa yang buruk dengan nilai metrik evaluasi tidak lebih dari 50%, menunjukkan bahwa model tidak lebih baik dari prediksi acak. Penelitian ini menyimpulkan bahwa baik metode SMOTE-Bagging XGBoost maupun SMOTE-Boosting XGBoost tidak mampu memberikan prediksi yang akurat pada data test independen. Hal ini kemungkinan disebabkan oleh distribusi data test yang sangat seimbang dan tidak adanya pola yang jelas dalam data. Meskipun demikian, pada data pelatihan, kedua metode menunjukkan peningkatan dalam prediksi pada kelas positif, terutama pada model SMOTE-Boosting XGBoost yang memiliki hasil sedikit lebih tinggi daripada SMOTE-Bagging XGBoost dalam memprediksi kelas positif.",
+  "creators": "RALLY DEWA MAULANA PARDI",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Agustinus Noertjahyana (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022482/INF/2024; Rally Dewa Maulana Pardi (C14200100)",
+  "subjects": "BAGGING; BOOSTING (ALGORITHMS); CEREBROVASCULAR DISEASE; DATABASE DESIGN--COMPUTER PROGRAMS"
+}

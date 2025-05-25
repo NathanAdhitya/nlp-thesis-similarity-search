@@ -1,0 +1,14 @@
+{
+  "id": "17670",
+  "title": "Pengaruh kapasitor terhadap pemisahan beban yang terdistorsi harmonisa",
+  "abstract": "Penggunaan kapasitor mampu memperbaiki faktor daya dari sistem kelistrikan tegangan rendah. Disisi lain penggunaan kapasitor dapat memperkuat/meningkatkan nilai harmonisa yang ada di sistem kelistrikan tegangan rendah tersebut. Pentingnya penentuan client yang berharmonisa besar dapat ditentukan dengan metode harmonic current vector. Pada tugas akhir ini, dibuat simulasi sistem kelistrikan tegangan rendah yang terdiri dari beban linear dan beban non linear dan mensimulasikan penentuan client yang berharmonisa dengan metode harmonic current vector dan membandingkan efek adanya pemasangan kapasitor dan tanpa kapasitor. Percobaan/simulasi dila kukan di sumber dan PCC. Dari pengujian diperoleh bahwa pengukuran di PCC tanpa kapasitor total harmonisa arus pada orde 3 untuk client 1 sebesar 0.2998 A, sedangkan nilai total harmonisa arus client 2 sebesar 110.8262 A, jadi penghasil harmonisa arus yang dominan berasal dari client 2. Pengukuran di PCC dengan kapasitor nilai total arus harmonisa pada orde 3 untuk client 1 sebesar 0.2951 A, sedangkan nilai total arus harmonisa pada orde 3 untuk client 2 sebesar 113.8479 A, jadi penghasil harmonisa arus yang dominan berasal dari client 2. Kesimpulan yang dapat diperoleh dari hasil perhitungan bahwa kapasitor menyebabkan kenaikan tingkat harmonisa arus pada client 2 sebesar 2.7265 %. Metode identifikasi dapat diterapkan pada sistem tanpa pengaruh ada/tidaknya kapasitor.",
+  "creators": "TEDDY SUBANDI",
+  "contributors": "Julius Sentosa Setiadji (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); Limboto Limantara (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010613/ELK/2010; Teddy Subandi (23406045)",
+  "subjects": "CAPASITORS; ELECTRIC CAPASITORS"
+}

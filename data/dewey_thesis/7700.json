@@ -1,0 +1,14 @@
+{
+  "id": "7700",
+  "title": "Aplikasi cluster analysis menggunakan self organizing maps (SOM) untuk analisa talenta pemain basket",
+  "abstract": "Dunia bola basket telah berkembang dengan pesat seiring dengan berjalannya waktu. Hal ini ditandai dengan munculnya berbagai macam dan jenis kompetisi dan pertandingan baik dunia maupun dalam negeri. Sehingga makin banyak dilahirkannya pemain berbakat dengan berbagai karakteristik permainan yang berbeda. Tuntutan bagi seorang pelatih / pemandu bakat, untuk dapat melihat secara jeli dalam memenuhi kebutuhan tim untuk membentuk tim yang solid. Dengan dibuatnya aplikasi ini, maka akan membantu proses analisa dan pengambilan keputusan bagi pelatih maupun pemandu bakat. Software ini menggunakan metode clustering yaitu proses training dan testing algoritma Self Organizing Maps (SOM) untuk melakukan pengelompokkan data. Dalam pembuatan software, dilakukan pengumpulan data-data real pemain NBA yang diperlukan untuk keperluan proses training dan data-data real pemain lokal / pemain Universitas Petra untuk proses testing . Data dipersiapkan dengan melalui proses cleaning dan di transformasi ke bentuk yang dapat diolah oleh software melalui tahap yang disebut data preprocessing. Kemudian data diolah sesuai algoritma sehingga menghasilkan cluster-cluster yang telah mengelompok. Hasil cluster-cluster ini ditampilkan dalam bentuk yang mudah untuk dilihat dan digunakan sebagai analisa serta dapat disimpan juga ke dalam bentuk file teks. Penulis menggunakan software Borland Delphi 7 dan Microsoft SQL Server 2000 dalam pembuatan software ini. Dengan menggunakan output dari software ini, yang berupa item-item yang telah ter-cluster (terkelompok), pengambil keputusan dapat mengetahui informasi \"tersembunyi\" yang ada pada cluster-cluster tersebut. Output dari Tugas Akhir ini juga dijabarkan mengenai karakteristik pemain yang di-testing lengkap dengan karakteristik pemain yang berada dalam sekelompoknya / satu cluster dengannya. Informasi ini memberikan pertimbangan tambahan bagi pengambil keputusan dalam pengambilan keputusan.",
+  "creators": "STEVEN HARRYANTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010555/INF/2006; Steven Harryanto (26402058)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

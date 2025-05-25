@@ -1,0 +1,14 @@
+{
+  "id": "5753",
+  "title": "An Electropneumatic position controller for pneumatically actuated continuous valves",
+  "abstract": "Pneumatic merupakan sistem otomatis untuk menggerakkan valve dengan menggunakan tekanan udara. Sistem pengontrolan udara yang masuk dan keluar dari valve dikontrol dengan mempergunakan pilot valve. Dan untuk mengaktifkannya diatur di positioner controller. Positioner controller mempergunakan microcontroller keluarga MCS-51 yang dilengkapi dengan ADC0804 dan EEPROM 24C01. Microcontroller menghasilkan output berupa PWM untuk menjalankan pilot valve (berfungsi mengatur udara yang keluar dan masuk valve). Dengan feedback menggunakan potensiometer yang dipasang di valve 2000 (merk burkert), maka besar bukaan valve dapat dikontrol oleh positioner controller ini. Dari pengujian diketahui bahwa sistem ini mampu mengontrol bukaan valve dengan menggunakan valve 2000 yang terhubung dengan pilot valve (4,6bar-5,2bar). Sehingga dapat beroperasi seperti layaknya positioner controller yang dijual di pasaran.",
+  "creators": "DAVID SANI",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); MULIADI TEDJOTJAHJONO, ST. (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010774/ELK/2006; David Sani (23401020)",
+  "subjects": "PNEUMATIC CONTROL VALVES"
+}

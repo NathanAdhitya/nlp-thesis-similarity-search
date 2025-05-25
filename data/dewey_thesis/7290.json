@@ -1,0 +1,14 @@
+{
+  "id": "7290",
+  "title": "Perancangan dan pembuatan sistem informasi penjualan dan pembelian buku pada Toko Buku Uranus",
+  "abstract": "Toko Buku Uranus merupakan suatu bidang usaha yang melayani pembelian buku. Pembelian buku dilakukan dengan datang langsung ke toko. Dalam rangka penyusunan tugas akhir, maka dibuat website penjualan online untuk menampilkan informasi buku yang ditawarkan oleh Toko Buku Uranus, customer dapat menjadi member dan melakukan pembelian buku secara online meskipun belum adanya fasilitas pembayaran online, dan terdapat fasilitas pencarian data buku. Sedangkan aplikasi untuk administrator merupakan aplikasi desktop secara lokal di toko dan tidak online. Proses pembuatan website ini dimulai dari menganalisis sistem yang lama, pembuatan DFD, Flowchart, ERD, dan tabel-tabel yang diperlukan. Website ini dibuat dengan menggunakan software database PostgreSQL 8.0.2. untuk pembuatan database, PHP 5.0.3. sebagai bahasa scripting, dan dikerjakan pada Windows XP Professional. Sedangkan aplikasi desktop dibuat dengan menggunakan database yang sama dengan database website dan Borland Delphi 7.0. sebagai bahasa scripting. Pada website ini terdapat fasilitas untuk menampilkan gambar dan keterangan mengenai buku, pencarian data buku serta login menjadi member. Selain itu, tersedianya fasilitas polling untuk mengetahui tanggapan customer sebagai masukan bagi pengembangan sistem. Dari hasil pengujian dan pembagian kuisioner kepada orang awan sebagai customer sebesar 51.67% mengatakan bahwa website ini cukup mudah digunakan, informasi yang disampaikan mudah dibaca dan dimengerti serta untuk mencari informasi yang dibutuhkan juga mudah.",
+  "creators": "RENNY",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Arie Wirawan Margono (Advisor 2); Arlinah Imam Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000361/INF/2005; Renny (26401124)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

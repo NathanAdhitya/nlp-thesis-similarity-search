@@ -1,0 +1,14 @@
+{
+  "id": "1945",
+  "title": "Studi vacuum tube untuk aplikasi push-pull power amplifier 20 watt kelas A",
+  "abstract": "Tugas Akhir ini merancang sebuah power amplifier vacuum tube dengan konfigurasi push-pull amplifier dengan tujuan supaya dapat mendesain rangkaian untuk aplikasi sebagai power amplifier yang mempunyai frekuensi respon 15Hz-20kHz dengan daya 20 watt. Power amplifier ini menggunakan trioda 6H1N dan pentoda EL34 yang menggunakan common chatode sebagai desain rangkaiannya. Pada desain rangkaian diharapkan push-pull power amplifier ini mempunyai respon frekuensi 15Hz-20kHz dengan penguatan 20 Watt tetapi dari hasil pengujian, ternyata didapatkan pada respon frekuensi 100Hz-10kHz menghasilkan penguatan sebesar 18,38 watt. Dari analisa hasil percobaan yang dilakukan pada trasformator output didapatkan ketidaksesuaian impedansi primer sebesar 1535 . yang seharusnya 2k . dan impedansi sekunder sebesar 123,2 . yang seharusnya 8 . Akibat dari ketidaksesuaian impedansi maka besar daya yang dirancang 20 watt hanya mencapai 18,38 watt.",
+  "creators": "ANDY NYOTO RAHARJO",
+  "contributors": "YOHANES T. D. S (Advisor 1); Handry Khoswanto (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010708/ELK/2005; Andy Nyoto Raharjo (23499009)",
+  "subjects": "POWER AMPLIFIERS; VACUUM-TUBES"
+}

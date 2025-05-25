@@ -1,0 +1,14 @@
+{
+  "id": "59161",
+  "title": "Sistem urban farming berbasis IoT menggunakan platform Antares dan protokol LoRa",
+  "abstract": "Urban farming merupakan suatu praktik yang memanfaatkan ruang terbuka untuk menghasilkan tanaman pertanian sehingga dihasilkan sayuran yang berkualitas dengan biaya pengeluaran yang lebih sedikit. Hidroponik adalah metode yang sering digunakan dalam urban farming yang dapat mengatasi masalah ketahanan pangan. Akan tetapi, ada masalah di mana masyarakat enggan untuk menerapakan hidroponik karena jam kerja mereka yang cukup panjang sehingga waktu mereka terbatas. Untuk mengatasi masalah tersebut, dibuatlah sistem hidroponik menggunakan teknologi IoT, namun teknologi IoT tidak dapat diterapkan jika tidak ada internet dan masih ada beberapa daerah di Indonesia yang tidak terjangkau internet sehingga digunakan teknologi LoRa dengan protokol point-to-point. Sistem yang dibuat menggunakan panel PentaGrow, PentaMix, PentaMist, dan meliputi pemantauan melalui dekstop dan smartphone serta kendali aktuator secara otomatis dan manual melalui smartphone. Untuk sistem pemantauan, data sensor dikirim dari panel PentaGrow ke Raspberry Pi dengan LoRa point-to-point, lalu dikirim lagi ke server Antares dengan MQTT dan ditampilkan pada desktop dan smartphone. Sedangkan, untuk kendali aktuator, data dari smartphone dikirim ke server Antares lalu diambil oleh Raspberry Pi dengan MQTT dan dikirim lagi ke panel PentaGrow sebagai panel utama untuk menjalankan aktuator dengan LoRa point-to-point, di mana jangkauan LoRa point-to-point pada sistem dibuat tidak seluas seperti hasil pengujian jangkauan LoRa point-to-point yang telah dilakukan, yaitu 310 meter. Selain itu, dari seluruh sensor yang digunakan, yaitu sensor BME280 (suhu, kelembaban, tekanan udara), BH1750 (cahaya), dan EC (nutrisi), hanya sensor BME280 yang paling akurat. Kemudian, sistem yang dibuat telah dijalankan selama 3 hari dan dapat melakukan pengiriman data dengan baik, akan tetapi pengiriman data tidak dapat dilakukan selama 24 jam.",
+  "creators": "RANGGASTIKA PRAHLADA CANDRA",
+  "contributors": "Handy Wicaksono (Advisor 1); Indar Sugiarto (Advisor 2); Thiang (Examination Committee 1); Resmana Lim (Examination Committee 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011057/ELK/2023; Ranggastika Prahlada Candra (C11190025)",
+  "subjects": "INTERNET OF THINGS; URBAN AGRICULTURE--TECHNOLOGICAL INNOVATIONS"
+}

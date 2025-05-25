@@ -1,0 +1,14 @@
+{
+  "id": "12706",
+  "title": "Perencanaan dan pembuatan alat ukur tekanan tekanan darah, suhu badan dan denyut jantung",
+  "abstract": "Teknik biomedikal merupakan teknologi yang sangat penting karena berhubungan dengan kehidupan manusia. Alat ukur tekanan darah, denyut jantung dan suhu badan merupakan bagian yang sederhana dari teknik biomedikal. Tujuan dari tugas akhir ini adalah merencanakan dan membuat alat ukur jarak jauh untuk tekanan darah, denyut jantung, dan suhu badan dengan menggunakan mikrokontroller selain itu juga mempelajari karakteristrik sensor-sensor yang terkait pada pembuatan alat ukur ini. Pengukuran tekanan darah dan denyut jantung pada tugas akhir ini menggunakan sensor tekanan untuk mendeteksi harga tekanan atas dan tekanan bawahnya sedangkan suhu badan dideteksi dengan menggunakan sensor suhu. Setiap pengukuran yang dilakukan, dikontrol melalui minimum sistem DT-51 dimana hasil pengukuran akan proses oleh minimum sistem DT-51 menjadi suatu harga yang dapat ditampilkan melalui LCD. Pemompaan cuff yang diletakkan dilengan menggunakan motor sedangkan pembuangan udara menggunakan relay release. Agar harga tegangan yang dikeluarkan dari sensor dapat dideteksi oleh minimum sistem DT-51 maka sebelum dihubungkan ke DT-51, keluaran dari sensor dihubungkan ke rangkaian ADC0808. Hasil pengukuran tekanan darah, denyut jantung dan suhu badan menunjukkan bahwa hasil pengukuran tidak berbeda jauh dengan alat pengukuran yang telah ada. Hasil pengukuran didapat dengan menguji alat ukur secara terpisah pada beberapa kondisi dan juga secara keseluruhan.",
+  "creators": "SILVIYA",
+  "contributors": "MARTIN SETIAWAN (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/064/501; Silviya (23495069)",
+  "subjects": "SPHYGMOMANOMETER"
+}

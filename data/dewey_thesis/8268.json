@@ -1,0 +1,14 @@
+{
+  "id": "8268",
+  "title": "Pengendali PI untuk pengaturan posisi pada miniatur konveyor",
+  "abstract": "Konveyor lazim digunakan dalam dunia industri, fungsi konveyor adalah sebagai sarana transportasi barang dari satu proses menuju proses lainnya. Dalam sistem miniatur konveyor ini digunakan motor dc 12V sebagai motor pengerak belt konveyor, dengan menggunakan H-Bridge sebagai driver dari motor ini. Untuk pengendalian kecepatan motor dipakai rangkaian PWM (Pulse Width Modulation) dengan menggunakan IC LM741. Sensor dari sistem ini menggunakan rotary encoder yang menghasilkan keluaran berupa pulsa. Pulsa dari rotary encoder akan dihitung dengan menggunakan modul high speed counter (CT001-V1) pada PLC OMRON C200HG. Program yang digunakan untuk mengendalikan sistem miniatur ini menggunakan software SYSMAC-CPT. sistem kontrol yang digunakan adalah sistem kontrol proportional plus integral. Output dari hasil perhitungan sistem kontrol proportional plus integral dikeluarkan melalui modul DAC (DA001) pada PLC. Untuk monitoring sistem digunakan Wonderware InTouch, selain berfungsi sebagai monitoring jalannya sistem, Wonderware juga dapat menampilkan grafik respon sistem. Dari hasil percobaan didapatkan nilai Kp terbaik sebesar 6 dan nilai Ki terbaik sebesar 50 1 . Dari nilai Kp dan Ki tersebut diperoleh rise time = 6.45s dan overshoot = 0 untuk set point 20cm, Kp dan Ki juga dipakai pada set point 10cm dan 15cm. Pada saat konveyor diberi beban, kecepatan konveyor akan berkurang sehingga waktu untuk mencapai set point akan bertambah lama. Kekurangan dalam sistem miniatur konveyor ini adalah kurang cepatnya motor DC yang dipakai, sehingga perubahan respon sistem kurang jelas terlihat.",
+  "creators": "TWU HENDRA WICAKSANA",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010781/ELK/2006; Twu Hendra Wicaksana (23401117)",
+  "subjects": "PROGRAMMABLE CONTROLLERS"
+}

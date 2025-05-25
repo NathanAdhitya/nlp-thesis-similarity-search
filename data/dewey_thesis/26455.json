@@ -1,0 +1,14 @@
+{
+  "id": "26455",
+  "title": "Perhitungan framed-tube dengan metode coull yang dimodifikasi",
+  "abstract": "Alexander Coull dan Bose Bishawanath memberikan suatu cara pendekatan untuk menganalisa struktur framedtube, yaitu dengan menganggap struktur framed-tube tersebut dapat digantikan dengan suatu tabung orthotropik ekivalen, yaitu suatu tabung yang sisi-sisinya merupakan plat orthotropik ekivalen (Equivalent Orthotropic Plate). Distribusi tegangan normal vertikal diasumsikan sebagai, suatu polinomial pangkat 2 pada Normal Panel dan pangkat 3 pada Side Panel. Perbandingan hasil metode Coull dengan perhitungan tiga dimensi menunjukkan perbedaan nilai gaya normal kolom ujung yang cukup berarti. Jos Sudarto dan Abi Satriya mengusulkan untuk memodifikasi metode Coull dengan menambahkan luasan pada keempat sisi tabung orthtropik ekivalen tersebut dengan suatu nilai konstan sebesar 30% dari luas kolom tengah. Penelitian ini mengusulkan suatu modifikasi dari usulan Jos Sudarto dan Abi Satriya yaitu dengan memberikan penambahan luasan berupa suatu fungsi yang tergantung kepada perbandingan dari ketinggian bangunan terhadap lebar side panel. Pengujian usulan modifikasi ini menunjukkan persentase kesalahan bervariasi sebesar 1,7% sampai 6% untuk struktur framed-tube dengan denah bujur sangkar, dan untuk struktur framed-tube dengan denah persegi panjang sebesar -7,9% sampai 8,4%. Sedangan usulan Jos Sudarto dan Abi Satriya memberikan persentase kesalahan sebesar -4,1% sampai 8,8% untuk denah bujur sangkar dan -22% sampai -7,9% untuk denah persegi panjang. Hasil metode Coull memberikan persentase kesalahan sebesar -23,1% sampai -9,2% untuk denah bujur sangkar dan -34,7% sampai -22,9% untuk denah persegi panjang.",
+  "creators": "AGUSTINUS TANUJAYA; AKADRI SUWITO",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Takim Andriono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 586 S; Agustinus Tanujaya (21489017), Akadri Suwito (21489030)",
+  "subjects": "STRUCTURAL FRAMES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "24468",
+  "title": "Perbaikan sistem maintenance di PT. X",
+  "abstract": "PT.X merupakan perusahaan yang memproduksi mur dan baut. PT.X menerapkan corrective maintenance dimana perusahaan akan mengganti komponen mesin setelah mesin rusak. Corrective maintenance tersebut menyebabkan terhentinya proses produksi, khususnya pada mesin heading CH5L dan mesin rolling RL2G. Preventive maintenance merupakan sistem perawatan terencana yang bertujuan untuk mencegah terjadinya Kerusakan. Pengembangannya adalah preventive maintenance dengan modularity design yang mengelompokkan perawatan komponen mesin sebagai sebuah modul. Penentuan waktu penggantian komponen ditentukan berdasarkan minimasi waktu kerusakan dalam modul tersebut. Komponen mesin heading CH5L dikelompokkan ke dalam 4 modul dan komponen mesin rolling RL2G dikelompokkan ke dalam 4 modul. Interval waktu terkecil di dalam modul dilakukan untuk perawatan, sedangkan penggantian komponen dilakukan berdasarkan frekuensi penggantian pada komponen dengan interval waktu terkecil tersebut. Preventive maintenance dengan modularity design dapat meningkatkan ketersediaan mesin heading CH5L sebesar 6,59% dan mesin rolling RL2G sebesar 4,26%. Biaya maintenance untuk mesin heading CH5L sebesar Rp 12.023.488 per tahun dan mesin rolling RL2G sebesar Rp 13.944.320 per tahun dari keadaan awal yang berarti preventive maintenance dengan modularity design merupakan sistem maintenance terbaik untuk PT.X.",
+  "creators": "MONICA WIYONO",
+  "contributors": "Felecia, S.T., M.Sc. (Advisor 1); Siana Halim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021573/IND/2012; Monica Wiyono (25407013)",
+  "subjects": "MAINTENANCE--MANAGEMENT; PLANT MAINTENANCE"
+}

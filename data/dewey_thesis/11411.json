@@ -1,0 +1,14 @@
+{
+  "id": "11411",
+  "title": "Perencanaan dan pembuatan pencatat KWH meter melalui media telepon dengan basis mikrokontroler basic 80C32",
+  "abstract": "Sampai saat ini PLN masih menggunakan tenaga manusia untuk mencatat hasil KWH meter di rumah-rumah, kemudian hasil pencatatan itu diolah di kantor. Hal ini dilihat kurang efisien dalam waktu, tenaga, dan keakuratan datanya tidak terjamin.Oleh karena itu timbul ide untuk membuat KWH meter yang dapat berkomunikasi langsung dengan Personal Computer-nya PLN, sehingga datanya dapat dikirim melalui jaringan telepon. Untuk mengirim data melalui jaringan telepon diperlukan Modem. KWH meter ini menggunakan Mikrokontroler 80C32 untuk mengolah hasil sampel tegangan dan arus dari ADC0808, menghitung Cos phi, serta mengontrol aliran data ke Modem. Rangkaian Modem menggunakan IC FSK Modem TCM3105 yang mempunyai baud rate maksimal 1200 bps. PC Modem yaitu modem yang langsung berhubungan dengan PC-nya PLN juga menggunakan IC TCM3105 dan Mikrokontroler 80C32 yang dilengkapi dengan ROM BASIC Interpreter secara eksternal. PC Modem ini dilengkapi dengan rangkaian tone dekoder yang menggunakan IC LM567, yang digunakan untuk mendeteksi frekwensi telepon 425 Hz, dan juga dilengkapi dengan IC DTMF receiver/transmitter MT8880, yaitu untuk mengkonversikan pasangan frekwensi menjadi kode biner maupun sebaltknya yaitu kode biner menjadi pasangan frekwensi. Pengambilan data dilakukan dengan men-dial nomor KWH meter melalui PC, dan setelah terjadi koneksi maka KWH meter akan langsung mengirim data yang bersama 'Cek Sum'. PC akan mengecek apakah Cek Sumnya sesuai dengan data yang telah diterima, jika Cek Sum sesuai dengan data yang diterima maka data akan ditampilkan di layar, jika Cek Sum tidak sesuai dengan data yang diterima berarti data error.",
+  "creators": "HENGKY KOES HENDRAWAN",
+  "contributors": "IRWAN SAHLI (Advisor 1); Limboto Limantara (Advisor 2); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/039/0299; HENGKY KOES HENDRAWAN (23491106)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; INTEL 80C32 (MICROCONTROLLER)"
+}

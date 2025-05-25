@@ -1,0 +1,14 @@
+{
+  "id": "561",
+  "title": "Program T-C aktivitas proyek berdasarkan produktivitas pekerja di lapangan",
+  "abstract": "Program T-C (Time - Cost) merupakan program untuk pembuatan model durasi-biaya aktivitas proyek berdasarkan suatu sistem pendataan biaya aktivitas proyek dan produktivitas pekerja dengan memasukkan faktor-faktor yang mempengaruhi produktivitas di lapangan. Program T-C ini dibuat dengan tujuan untuk melengkapi manajer proyek dalam perencanaan maupun percepatan jadwal proyek. Program T-C dibuat berdasarkan pada hasil penelitian di lapangan pada aktivitas pemasangan dinding bata, plesteran dan acian. Data penelitian diperoleh melalui dua cara yaitu (l) kuesioner disebarkan kepada para mandor/pengawas lapangan untuk rnemperoleh faktor-faktor yang mempengaruhi produktivitas pekerja, (2) observasi lapangan dengan mengamati aktivitas pekerja seara langsung di lapangan untuk memperoleh data produktivitas dan faktor-faktor nyata di lapangan. Data yang diperoleh kemudian dijadikan database pada program. Pembuatan progrrm T-C menggunakan tiga program pendukung, yaitu Miirosoft Visual FoxPro, Microsoft Visual Basic dan Minitab. Setiap layar dan pengolahan data dibuat dengan program Microsoft Visuol FoxPro. Pogram Minitab digunakan dalam pengolahan data untuk menghasilkan model produktivitas pekerja dalam bentuk persamaan regresi linier. Sedangkan program Microsoft Visual Basic digunakan untuk menampilkan grafik slope percepatan aktivitas. Hasil dari program T-C adalah persamaan regresi linier produktivitas dan model hubungan antara durasi-biaya aktivitas yang digambarkan dalam bentuk grafik slope percepatan aktivitas.",
+  "creators": "DECKY ROBOT",
+  "contributors": "Ratna S. Alifen (Advisor 1); JANUAR BUDIMAN (Advisor 2); Paulus Nugraha (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 055/MTS; Decky Robot (01500018)",
+  "subjects": "CONSTRUCTION INDUSTRY-RESEARCH; CONSTRUCTION INDUSTRY-MANAGEMENT; CONSTRUCTION INDUSTRY-PERSONNEL MANAGEMENT"
+}

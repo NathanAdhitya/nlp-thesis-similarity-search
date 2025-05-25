@@ -1,0 +1,14 @@
+{
+  "id": "48828",
+  "title": "Deteksi aktivitas manusia berdasarkan data skeleton dengan menggunakan modifikasi VGG16",
+  "abstract": "Deteksi aktivitas manusia merupakan salah satu topik penelitian yang mutakhir. Pada umumnya deteksi aktivitas manusia dilakukan untuk mendeteksi aktivitas pada kehidupan sehari-hari. Dengan pengembangan lebih lanjut, deteksi aktivitas manusia dimanfaatkan untuk mendeteksi aktivitas yang dicurigai (bukan rutinitas) sebagai aplikasi early warning. Deteksi aktivitas manusia dalam aplikasi early warning kemudian akan diimplementasikan pada sistem lainnya. Namun terdapat beberapa permasalahan dalam mendeteksi aktivitas manusia antara lain, adanya variasi dalam melakukan suatu aktivitas, adanya gerakan transisi antar aktivitas, dan adanya kemiripan gerakan dalam aktivitas yang berbeda. Permasalahan ini pernah dibahas pada penelitan sebelumnya, Du et al., Cippitelli et al, dan lainnya. Berdasarkan dari penelitian sebelumnya, masalah di atas dapat diatasi dengan menggunakan deep learning. Metode deep learning yang digunakan adalah VGG16, dengan input berupa gambar. Input VGG16 yang digunakan adalah data skeleton dari dataset NTU RGB+D, kemudian data akan diubah menjadi gambar. Representasi gambar akan diproses dengan crop, diubah menjadi grayscale, dan mengabungkan 10 gambar menjadi 10 channels untuk sebuah rangkaian urutan aktivitas. VGG16 akan dimodifikasi yaitu, convolutional layer akan dipertahankan, fully connected layer akan dimodifikasi, dan sebelum fully connected layer akan ditambahkan average pooling layer. Hasil pengujian modifikasi VGG16 dengan representasi data skeleton dapat menghasilkan tingkat akurasi tertinggi sebesar 54.59%, tingkat akurasi adalah jumlah klasifikator benar dibanding keseluruhan prediksi. Tingkat akurasi tidak bisa lebih tinggi karena representasi data skeleton berupa gambar dirasa tidak tepat dengan penggunaan modifikasi VGG16. Modifikasi VGG16 masih menjadi model yang terbaik berdasarkan pengujian dengan model CNN lainnya.",
+  "creators": "DANIEL",
+  "contributors": "Liliana (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022038/INF/2021; Daniel (C14170034)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

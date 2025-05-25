@@ -1,0 +1,14 @@
+{
+  "id": "4679",
+  "title": "Pembuatan web sistem informasi tempat kost untuk mahasiswa Universitas Kristen Petra",
+  "abstract": "Untuk mencari informasi tempat kost, masyarakat khususnya mahasiswa biasanya menggunakan cara manual, yaitu dengan tanya pada orang yang mereka kenal dan dapat dipercaya, atau dengan keliling di sekitar universitas tempat mereka akan kuliah. Kebanyakan dari mereka bingung mau kemana dahulu dan belum tentu mendapatkan tempat yang mereka inginkan. Pada tugas akhir ini, penulis mencoba untuk membuat web yang berisi informasi tempat ? tempat kost di sekitar Universitas Kristen Petra Surabaya, yang didesain dengan menggunakan Macromedia Dreamweaver 4 bersama PHP, dan MySQL Server 4.0.12 sebagai penyimpan datanya, serta MySQL-Front 2.5 sebagai penghubungnya. Dari pengujian program, didapatkan keberhasilan dalam membuat web yang mempunyai data informasi untuk tempat kost. Program ini dapat menambah user yang ditujukan kepada pemilik kost baru atau pemilik kost lama yang ingin mendaftar untuk memasukkan informasi tempat kostnya ke dalam web informasi tempat kost ini. Mereka cukup menghubungi BAKA (Biro Administrasi Kemahasiswaan dan Alumni) Universitas Kristen Petra Surabaya (informasi BAKA tercantum pada halaman utama) untuk mendapatkan username dan password yang digunakan untuk login. Web ini dapat menyimpan data kost (seperti alamat, telepon, foto, contact person, harga sewa kamar, dan banyak lagi) serta mengubahnya lewat internet, tapi harus mempunyai username dan password. Untuk masyarakat, khususnya mahasiswa atau orang tua mahasiswa dapat melihat informasi tempat kost yang mereka inginkan ( yang sudah dimasukkan oleh pengelola kost ) lewat internet dimanapun mereka berada, dan kapanpun mereka mau (yang penting harus ada koneksi ke internet).",
+  "creators": "POERNOMO SETIAWAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Ibnu Gunawan (Advisor 2); Arlinah Imam Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000223/INF/2004; Poernomo Setiawan (26498096)",
+  "subjects": "DATA TRANSMISSION SYSTEMS; DATABASE DESIGN"
+}

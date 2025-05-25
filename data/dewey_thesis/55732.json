@@ -1,0 +1,14 @@
+{
+  "id": "55732",
+  "title": "Keran air multifungsi berbasis arduino",
+  "abstract": "Permasalahan dunia yang masih terjadi hingga saat ini adalah keterbatasan jumlah air bersih. Penyebab dari permasalahan air dapat disengaja maupun tidak disengaja, seperti pemborosan air. Salah satu contohnya adalah lupa mematikan keran air sehingga air terbuang. Untuk mengatasi permasalahan ini, diciptakanlah sebuah keran multifungsi berbasis Arduino yang memiliki sistem otomatis. Keran ini didesain agar compact dan dapat dipasang pada berbagai tempat dan kebutuhan. Keran multifungsi dilengkapi dengan sensor ultrasonik untuk mendeteksi level air yang dapat mengawasi ketinggian permukaan air. Keran ini juga dilengkapi flow meter untuk dapat menghitung volume air yang dikeluarkan. Alat ini menggunakan solenoid valve yang dapat terbuka dan tertutup otomatis dengan menerima perintah dari mikrokontroler. Keran menggunakan mikrokontroler berupa Arduino Nano yang menjadi kendali dari sistem. Pengguna hanya perlu memasukan data berupa batas atas dan bawah untuk mode deteksi level air, serta volume untuk mode volume air. Melalui penelitian dan pengujian tugas akhir ini, telah dibuat sistem kerja, desain, dan sketch. Beberapa pengujian terhadap kinerja keran multifungsi juga telah dilakukan. Semua komponen terutama sensor ultrasonic, flow meter sensor, dan solenoid valve telah dianggap dapat digunakan dan berfungsi baik dalam sistem.",
+  "creators": "HANDY CRISTOVAL",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011045/ELK/2023; Handy Cristoval (C11180014)",
+  "subjects": "ELECTRICAL ENGINEERING; BUILDINGS-ELECTRICAL EQUIPMENT"
+}

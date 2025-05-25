@@ -1,0 +1,14 @@
+{
+  "id": "11746",
+  "title": "Perancangan dan pembuatan aplikasi untuk menyelesaikan masalah rute tercepat dengan mengembangkan algoritma dijkstra",
+  "abstract": "Fluktuasi kepadatan lalu-lintas di jalan raya sangatlah mempengaruhi durasi perjalanan seseorang untuk tiba di tujuan. Seringkali seseorang harus sampai di tujuan sesegera mungkin. Akibatnya, orang tersebut harus mencari rute perjalanan alternatif yang dapat ditempuh dengan durasi waktu sesingkat mungkin. Rute perjalanan tersebut selanjutnya disebut sebagai rute tercepat. Pada skripsi ini, dibuatlah aplikasi simulasi penentuan rute tercepat. Aplikasi yang dibuat bertujuan untuk menyelesaikan dua buah tipe permasalahan penentuan rute tercepat. Tipe permasalahan pertama adalah penentuan rute perjalanan dan waktu tiba di tujuan apabila diketahui lokasi asal, lokasi tujuan, serta waktu keberangkatan, sedangkan tipe permasalahan kedua adalah penentuan rute perjalanan dan waktu keberangkatan apabila diketahui lokasi asal, lokasi tujuan, serta waktu tiba di tujuan. Setiap jalan yang menghubungkan dua buah lokasi diasumsikan dapat dilalui dengan lama perjalanan yang bergantung pada waktu berangkat dari titik asal. Algoritma yang digunakan untuk menyelesaikan kedua tipe permasalahan tersebut dibuat berdasarkan struktur Algoritma Dijkstra. Kesimpulan yang diperoleh dalam skripsi ini adalah tingkat kompleksitas algoritma yang dibuat lebih tinggi daripada Algoritma Dijkstra. Algoritma untuk permasalahan tipe pertama memiliki upper bound O (|E|+ |V| 2.log2|P|), sedangkan algoritma untuk permasalahan tipe kedua memiliki upper bound O (|E|+ |V| 2.log2|P|), dimana |E| menyatakan jumlah jalan, |V| menyatakan jumlah lokasi, dan |P| menyatakan jumlah titik kontrol yang mengatur fungsi durasi perjalanan.",
+  "creators": "DAVID SETIAWAN PUTRA R",
+  "contributors": "Rolly Intan (Advisor 1); Kartika Gunadi (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01020774/INF/2009; David Setiawan Putra Robianto (26405006)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTER); DATA BASE DESIGN"
+}

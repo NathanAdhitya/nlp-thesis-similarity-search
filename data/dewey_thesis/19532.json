@@ -1,0 +1,14 @@
+{
+  "id": "19532",
+  "title": "Interval type-2 fuzzy logic system for electrical load time series data forecasting",
+  "abstract": "Struktur Interval Fuzzy type-2 merupakan hasil pengembangan dari Fuzzy type-1 oleh Zadeh, yang salah satu fungsinya dapat digunakan untuk memprediksi data time series. Contoh data time series yang digunakan untuk melakukan prediksi adalah data beban listrik. Struktur Interval Type-2 Fuzzy Logic ini digunakan untuk memprediksi beban listrik Jatim-Bali periode Januari-Maret 2007. Sedangkan data beban listrik yang digunakan untuk trainingadalah periode September 2005-31 Desember 2006 yang bersumber dari website PLN. Struktur Interval Type-2 Fuzzy Logic dalam tugas akhir ini menggunakan fuzzy set berupa Gaussian Membership Function tipe uncertain means sebanyak tiga, sedangkan input sebanyak dua-lima untuk memprediksi nilai satu nilai output. Steepest descent training adalah algoritma yang diterapkan pada Interval Fuzzy type-2, dan berfungsi untuk memperbaiki parameter-parameter yang dimiliki, sehingga sistem dapat menghasilkan output dengan error yang minimum. Hasil forecasting yang diperoleh dari pengujian sistem untuk data beban listrik Jatim-Bali bulan Januari 2007-Maret 2007 didapatkan nilai Root Mean Square Error (RMSE) sebesar 0,082691. Di mana dari hasil pengujian sistem yang telah dilakukan, jumlah input yang paling optimal adalah 2 input, varian 0,2 dan alfa/learning rate 0,4.",
+  "creators": "YONGKY KURNIAWAN WONGSO",
+  "contributors": "Thiang (Advisor 1); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010901/ELK/2009; Yongky Kurniawan (23405010)",
+  "subjects": "FUZZY LOGIC; FUZZY-SYSTEMS; FUZZY SETS"
+}

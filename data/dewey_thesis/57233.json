@@ -1,0 +1,14 @@
+{
+  "id": "57233",
+  "title": "Prediksi arah pergerakan harga saham menggunakan metode Graph Neural Network (GNN)",
+  "abstract": "Melakukan prediksi pada harga saham tidaklah mudah. Beberapa teknik yang biasanya digunakan adalah analisis fundamental dan teknikal. Analisis fundamental biasanya diperuntukan untuk menganalisa saham untuk jangka panjang sedangkan teknikal biasanya digunakan untuk jangka waktu yang lebih pendek. Dalam melakukan analisis teknikal banyak sekali faktor yang bisa membuat hasil analisa kurang akurat seperti emosi. Disinilah machine learning bisa memberikan keunggulan. Machine learning bisa melakukan prediksi saham bahkan saham yang volatile sekalipun, prediksi dihasilkan berdasarkan pola yang dibentuk dari harga historis. Model akan melakukan prediksi ke depan sebanyak yang pengguna minta dan hasil prediksi akan diberikan dalam bentuk chart dan dalam bentuk tabel sehingga pengguna dapat menentukan sendiri apakah akan melakukan transaksi buy, sell atau hold. Metode yang digunakan dalam skripsi ini adalah Graph Neural Network (GNN) dengan jenisnya yaitu Graph Convolutional Network (GCN) data yang menjadi input model adalah data harga pembukaan, penutupan, terendah dan tertinggi dari saham. Hasil prediksi akan diuji dengan menggunakan sklearn.metrics untuk menentukan RMSE dan juga diuji secara manual dengan menghitung RMSE secara manual. Dari pengujian didapati bahwa nilai learning rate 0.001, 2 layer, 5000 epoch, 1 bulan panjang training memberikan nilai RMSE yang paling kecil. RMSE untuk saham bipi adalah 5.4, saham bumi 6.2 dan saham fren 1.4.",
+  "creators": "JOSEPH CLIO LIMANTARA",
+  "contributors": "Hans Juwiantho S.Kom., M.Kom (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Kartika Gunadi (Examination Committee 1); Silvia Rostianingsih (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022309/INF/2023; Joseph Clio Limantara (C14190047)",
+  "subjects": "MACHINE LEARNING; NEURAL NETWORKS (COMPUTER SCIENCE)--COMPUTER PROGRAMS; STOCKS--PRICES"
+}

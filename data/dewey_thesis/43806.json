@@ -1,0 +1,14 @@
+{
+  "id": "43806",
+  "title": "Pembuatan rak komponen semi otomatis berbasis raspberry Pi 3 dan arduino nano kietown",
+  "abstract": "Modernisasi toko komponen elektronika sangat dibutuhkan, ide ini diambil dari masalah ketidakpraktisan toko komponen elektronika dalam memanagemen komponen yang dijual pada rak komponen dan sangat mengharapkan ketelitian penjual dalam mengetahui posisi komponen yang terletak. Sistem yang dibuat ini terdiri dari rak komponen dan simulasi rak komponen yang terdapat LED sebagai indikator drawer dan komponen-komponen pendukung didalamnya. Didalam sistem ini terdapat dua buah kontroler Arduino Nano dan Raspberry Pi 3 yang memiliki fungsi sebagai penerima data drawer dan pengontrol indikator drawer. Sistem ini memiliki sebuah halaman web pembelian sederhana sebagai antar muka pengguna yang terhubung didalam satu jaringan lokal. Berdasarkan hasil pengujian yang diterima, kontroler Raspberry Pi 3 telah sesuai mengirim data ke indikator sesuai data pesanan dan kontroler Arduino Nano telah sesuai mengirim data sesuai drawer yang terbuka.",
+  "creators": "JONATHAN PRATAMA LUKITO",
+  "contributors": "Resmana Lim (Advisor 1); Handry Khoswanto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010970/ELK/2018; Jonathan Pratama Lukito (23414004)",
+  "subjects": "ELECTRICAL ENGINEERING; RASPBERRY PI (COMPUTER)--PROGRAMMING"
+}

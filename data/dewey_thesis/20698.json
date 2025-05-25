@@ -1,0 +1,14 @@
+{
+  "id": "20698",
+  "title": "Perancangan dan pembuatan sistem administrasi pembelian dan penjualan pada Toko Makmur Abadi",
+  "abstract": "Makmur Abadi adalah salah satu toko yang bergerak di bidang pembelian dan penjualan bahan bangunan, dimana selama ini masih menggunakan sistem manual dalam transaksi sehari-hari. Akibatnya sering terjadi kekeliruan dalam proses pencatatan data sehingga informasi yang dihasilkan tidak akurat dan memerlukan waktu yang cukup lama untuk mengolah data yang ada. Proses perancangan dan pembuatan sistem dimulai dengan mempelajari dan menganalisis sistem yang digunakan saat ini, membuat DFD, ERD, dan database yang diperlukan. Kemudian membuat program sesuai dengan desain yang telah dibuat. Program ini dikembangkan diatas sistem operasi Microsoft Windows XP Service Pack 2, dengan MySQL sebagai database, dan Java sebagai bahasa pemograman. Dari hasil pengujian terhadap aplikasi menunjukan bahwa aplikasi ini dapat memproses data yang berhubungan langsung dengan proses pembelian dan penjualan secara otomatis. Laporan-laporan yang dihasilkan akurat karena sesuai dengan perhitungan manual. Berdasarkan hasil evaluasi, 80% pengguna mengatakan fitur-fitur dalam aplikasi dinilai baik dan sesuai kebutuhan toko.",
+  "creators": "YOHANES TOFAN NOTANUBUN",
+  "contributors": "Yulia (Advisor 1); Arlinah Imam Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020996/INF/2011; Yohanes Tofan Notanubun (26407150)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

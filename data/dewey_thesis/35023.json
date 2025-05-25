@@ -1,0 +1,14 @@
+{
+  "id": "35023",
+  "title": "Perancangan dan pembuatan webportal dengan penerapan “market basket analysis”",
+  "abstract": "Toko online “X” merupakan badan usaha yang bergerak di bidang pakaian dan segala macam aksesories. Dirasa kurang efektifnya jika melakukan pendataan pembelian dan penjualan secara manual. Maka diharapkan dengan adanya website portal online ini dapat membantu melakukan dalam pendataan pelanggan serta transaksinya, Website dibuat dengan tujuan untuk memahami kondisi kebutuhan tentang bagaimana menjembatani antara customer serta Toko online “X” melalui sebuah website portal yang mampu mengakomodasi kebutuhan dari Toko online “X” dalam mempromosikan barang yang akan dijual. Website ini menyediakan tempat bagi pengguna non toko online yang ingin berjualan pada website ini yang ditujukan agar meningkatkan variasi produk yang dijual dan menarik minat pembeli untuk membeli barang pada website ini . Website ini dibuat dengan menggunakan bahasa pemrograman PHP dan SQL. Serta Java Script untuk mempermudah penggunaan dari website, sedangkan koneksi database menggunakan MySQL dengan demikian mudah untuk dikembangkan ke depannya. Untuk mempermudah penguna dalam melakukan pencarian barang, penerapan fitur data mining dengan metode apriori di mana metode tersebut akan menganalisis kebiasaan transaksi pembeli serta barang yang dikunjungi bergantian oleh pengguna untuk menemukan hubungan antara barang yang berbeda tidak hanya oleh 1 penjual yang tetapi bias jadi beberapa penjual. Data transaksi dan data kunjungan penguna diolah berdasarkan algoritma apriori untuk menghasilkan frequent item sets yang pada akhirnya menghasilkan association rules dalam bentuk tabel apriori. Penambahan unsure waktu dari waktu transaksi diharapkan juga membantu memberikan hasil yang akurat terhadap hasil dari proses data mining tersebut.",
+  "creators": "VINCENTIUS HADI RAHARDJO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Leo Willyanto Santoso (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021472/INF/2015; Vincentius Hadi Rahardjo (26411002)",
+  "subjects": "INTERNET (COMPUTER NETWORK); PROGRAMMING (ELECTRONIC COMPUTERS); WEB SITES DESIGN"
+}

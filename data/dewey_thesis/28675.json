@@ -1,0 +1,14 @@
+{
+  "id": "28675",
+  "title": "Situs web penulusuran artikel ilmiah dengan agregasi pencarian google scholar dan mendeley",
+  "abstract": "Banyak situs yang menyediakan koleksi jurnal atau artikel ilmiah di antaranya Mendeley dan Google Scholar. Bagian judul dan daftar referensi dapat digunakan untuk melakukan penelusuran lebih lanjut mengenai jurnal tersebut. Salah satu software yang dapat digunakan untuk mendeteksi bagian-bagian jurnal adalah ParsCit. Berdasarkan fakta tersebut dibuatlah sebuah situs web penelusuran artikel ilmiah dengan memanfaatkan ParsCit. Situs web penelusuran artikel ilmiah ini menyediakan fitur untuk melakukan ekstraksi jurnal dengan menggunakan inputan berupa link atau file PDF. Selain itu situs ini juga menyediakan fitur batch query, sehingga pengguna dapat meng-upload file maupun link tanpa harus menunggu proses ekstraksi. Berdasarkan pengujian situs web ini dapat melakukan ekstraksi jurnal dengan baik, tetapi tidak semua jurnal dapat dilakukan proses ekstraksi karena tingkat keakuratan dari ParsCit itu sendiri dalam mendeteksi bagian-bagian jurnal. Situs web akan melakukan penelusuran related paper menggunakan Mendeley dan Google Scholar berdasarkan judul dan daftar pustaka dan melakukan penelusuran konferensi berdasarkan kata kunci. Parsing informasi paper menggunakan Google Scholar rentan terhadap pemblokiran alamat IP karena adanya mekanisme pengecekan aktivitas robot. Request yang terlalu banyak akan dianggap sebagai aktivitas robot.",
+  "creators": "HANSIN SUSATYA",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010121/ELK/2013; Hansin Susatya (23409007)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); WEBSITES; WEBSITES-DESIGN; ELECTRONIC INFORMATION RESOURCE SEARCHING"
+}

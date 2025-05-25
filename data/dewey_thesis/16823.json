@@ -1,0 +1,14 @@
+{
+  "id": "16823",
+  "title": "Universal Eprom programmer",
+  "abstract": "EPROM (Erasable Program Memory) sebagai elemen memori mempunyai sifat non-volatile yaitu data yang ada tidak akan hilang meskipun catu dayanya dihilangkan. Data hanya akan hilang jika terkena sinar yang memiiiki panjang gelombang kurang dari 4000 angstrom. Pada tugas akhir ini dibuat EPROM programmer untuk mengisi program yang telah dibuat ke EPROM. Alat ini bersifat universal untuk mengisi EPROM yang mempunyai kapasitas 2 Kbyte, 4 Kbyte, 8 Kbyte, 16 Kbyte, 32 Kbyte, dan 64 Kbyte. Karena bersifat universal maka perlu juga memperhatikan variasi tata letakpin dan tegangan pemrograman EPROM. Pengujian alat dilakukan dengan membandingkan hasil yang telah diperoleh dengan programmer lain (ALLMAX). Hasil yang diperoleh untuk proses pengisian, verify dan blank check untuk berbagai jenis EPROM sudah berfungsi sesuai dengan yang diharapkan.",
+  "creators": "DWI JUNIATI ROSITA",
+  "contributors": "HERLIANTO TENGGARA (Examination Committee 1); Lauw Lim Un Tung (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.99/E/EL/035/429; Dwi Juniati Rosita (23494051)",
+  "subjects": "COMPUTERS; ERASABLE PROGRAM MEMORY (COMPUTER PROGRAM)"
+}

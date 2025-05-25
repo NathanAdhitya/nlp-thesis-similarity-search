@@ -1,0 +1,14 @@
+{
+  "id": "28011",
+  "title": "Pembuatan website Dinas Pariwisata Kabupaten Malang dengan fitur peta dan rute perjalanan",
+  "abstract": "Dinas Pariwisata Kabupaten Malang adalah sebuah lembaga pemerintahan yang bergerak dibidang Pariwisata. Tugas dari Dinas Pariwisata Kabupaten Malang adalah untuk mengenalkan dan memelihara kelestarian dari tempat-tempat wisata yang berada di Kabupaten Malang. Untuk memperkenalkan tempat wisata yang ada di Kabupaten Malang, maka perlu adanya website untuk memberikan informasi kepada user dan mendapatkan feedback dari user. Dinas Pariwisata Kabupaten Malang telah memiliki website yang masih dalam tahap develop, sehingga masih perlu adanya fitur-fitur yang ditambahkan untuk melengkapi website tersebut. Fitur yang dibutuhkan antara lain adanya panorama view, artikel yang dapat diberi komentar dan rating, Social Networking,poling dan terutama informasi berupa peta dan rute perjalanan yang dapat membantu untuk melihat peta dan memperoleh rute jalan menuju ketempat wisata yang berada di Kabupaten Malang sesuai dengan jalan yang di rekomendasikan oleh Dinas Pariwisata. Oleh karena itu dilakukan pembuatan website untuk mendukung Dinas Pariwisata Kabupaten Malang. Website diimplementasikan dengan dilengkapi dengan menu beranda yang menampilkan Panoramaview, menu tempat wisata yang berisi ulasan tentang suatu tempat wisata, menu peta dan rute yang berisi peta dan rute yang menujukan arah untuk menuju ke suatu tempat wisata, Menu Poling yang berisi tentang poling terhadap beberapa kegiatan dan social network yang dapat terhubung dengan social Network yang aktif. Untuk mendesain sistem baru Flowchart digunakan aplikasi Microsoft Visio, dan ERD digunakan aplikasi Power Designer 12.5. Website dibuat dengan menggunakan PHP dan MySQL sebagai penyimpan database.Untuk pembuatan Peta dan Rute digunakan Google API versi 3 yang dapat memudahkan dalam pembuatan marker , rute dan animasi yang ada dengan membuat beberapa fungsi-fungsi yang sesuai dengan Google API versi 3 .Dari hasil pengujian, maka dapat disimpulkan bahwa jika dari sisi admin website yang telah dibuat memiliki tampilan, fitur, informasi yang disajikan dan kelayakan sistem dianggap baik dengan perhitungan sebanyak 83% dari hasi kuesioner, sedangkkan jika dilihat dari sisi user maka tampilan, fitur, Informasi yang disajikan, dan peran website dalam membantu user sudah dianggap baik dengan 66,7% dari hasil kuesioner",
+  "creators": "CYNTHIA ANGGRAENI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Lady Joanne Tjahyana, S.Kom., MMM. (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021217/INF/2013; Cynthia Anggraeni (26409129)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); WEBSITE-DESIGN"
+}

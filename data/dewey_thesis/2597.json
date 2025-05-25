@@ -1,0 +1,14 @@
+{
+  "id": "2597",
+  "title": "Pembuatan perangkat lunak untuk membandingkan metode 3D shading",
+  "abstract": "Salah satu cara untuk menampilkan objek 3 dimensi agar terlihat nyata adalah dengan menggunakan shading. Shading adalah cara menampilkan objek 3 dimensi dengan mewarnai permukaan objek tersebut dengan memperhitungkan efek-efek cahaya. Efek-efek cahaya yang dimaksud adalah ambient, diffuse, dan specular. Metode shading yang digunakan adalah Flat Shading, Gouraud Shading, dan Phong Shading. Untuk Flat Shading, perhitungan warna dilakukan satu kali karena dalam 1 face tidak terjadi gradasi warna, untuk Gouraud Shading, pewarnaan vertex dilakukan pada tiap vertex sehingga tampak gradasi warnanya. Dan untuk Phong Shading, pewarnaan dilakukan pada tiap garis hasil scanline pada face sehingga gradasi tampak lebih halus. Aplikasi yang dibuat sebagai tugas akhir ini bertujuan untuk mewarnai objek 3 dimensi dengan 3 metode sehingga user yang menggunakan dapat melihat perbandingan waktu maupun hasil antara metode yang satu dengan metode yang lain. Secara umum, aplikasi ini membaca file yang berisi data mesh objek kemudian mewarnai objek tersebut sesuai dengan metode yang dipilih. Aplikasi dibuat menggunakan Microsoft Visual C++ dan OpenGL. Dari hasil implementasi dan pengujian sistem, Phong Shading merupakan metode yang terbaik dikarenakan untuk mewarnai objek dilakukan scanline sehingga pada tiap face, pewarnaan dilakukan tiap garis. Namun, proses pewarnaan yang dilakukan lebih lama daripada yang lain akibat scanline yang dilakukan.",
+  "creators": "SIGIT",
+  "contributors": "Kartika Gunadi (Advisor 1); Liliana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01000369/INF/2005; Sigit (26401014)",
+  "subjects": "SOFTWARE ENGINEERING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

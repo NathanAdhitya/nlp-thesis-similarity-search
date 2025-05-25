@@ -1,0 +1,14 @@
+{
+  "id": "43791",
+  "title": "Perancangan dan pembuatan sistem kontrol lampu dengan pengaturan tema tata cahaya berbasis arduino",
+  "abstract": "Perkembangan desain tata lampu dalam desain interior yang beragam dan pesat membutuhkan dukungan perangkat elektronika yang memadai. Penggunaan cara lama dalam pengontrolan lampu sudah mulai ditinggalkan, dan berganti ke cara yang lebih modern. Tugas akhir ini bertujuan untuk mengimplementasikan teknologi di dalam dunia desain interior, agar dapat mengontrol intensitas cahaya dan suasana ruang dengan lebih mudah dan cepat serta fleksibel. Metode yang digunakan adalah phase cutting, charlieplexing, rangkaian pembagi tegangan, arduino, dan disimpan EEPROM. Fungsi utama dari mengontrol intensitas cahaya per grup lampu, serta menyimpan dan memanggil skenario. Berdasarkan hasil pengujian, didapatkan deteksi zero-crossing yang sesuai, rangkaian dimmer dengan persamaan y = 57,09 + 1,75x, rangkaian tombol dengan prinsip rangkaian pembagi tegangan, dan penyimpanan yang tepat pada EEPROM.",
+  "creators": "ANTONIUS DHANI SWASTIKO ADITYA",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Handry Khoswanto (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No: 01010655/ELK/2018; Antonius Dhani Swastiko Aditya (23413011)",
+  "subjects": "ARDUINO (PROGRAMMABLE CONTROLLER); ELECTRIC LIGHTING"
+}

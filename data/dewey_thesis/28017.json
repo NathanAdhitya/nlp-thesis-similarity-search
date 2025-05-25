@@ -1,0 +1,14 @@
+{
+  "id": "28017",
+  "title": "Rancang bangun aplikasi sistem pendukung keputusan untuk pembelian berdasarkan peramalan penjualan pada PT. X",
+  "abstract": "Perusahaan X adalah perusahaan yang bergerak di bidang distributor penjualan kabel. Perusahaan X mempunyai kendala dalam penentuan berapa barang yang harus dipesan ke pabrik untuk dijual dan terkadang mengalami kekurangan persediaan stok barang di gudang. Perusahaan memerlukan suatu alat bantu yang dapat membantu dan memaksimalkan kinerja perusahaan dalam peramalan (forecasting) jumlah barang yang harus dipesan ke pabrik dan memperkirakan jumlah barang yang laku pada periode akan datang.. Aplikasi dibuat dengan menggunakan metode Naïve, metode Moving Averages (MA), metode Single Exponential Smoothing (SES) dan metode Simple Linear Regression. Hasil dari aplikasi ini berupa informasi mengenai jumlah penjualan yang mungkin terjadi pada periode akan datang. Aplikasi ini berguna bagi perusahaan untuk mengambil keputusan dalam penentuan jumlah barang yang harus dipesan untuk dijual di periode mendatang. Dari hasil kuisioner yang telah disebarkan, hasil dari kuisioner mengatakan bahwa aplikasi ini sudah baik dan memenuhi kebutuhan perusahaan.",
+  "creators": "NICO HARTANTO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Alexander Setiawan (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021223/INF/2013; Nico Hartanto (26409127)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

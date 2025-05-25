@@ -1,0 +1,14 @@
+{
+  "id": "4913",
+  "title": "Pembuatan aplikasi perangkat lunak pengenalan huruf cetak pada file text hasil scanning dengan menggunakan metode kohonen neural network",
+  "abstract": "Pengenalan karakter merupakan salah satu bidang dalam ilmu komputer yang dapat membantu proses pengolahan data. Tujuan dari tugas akhir ini adalah untuk membuat perangkat lunak yang dapat melakukan pengenalan huruf cetak pada scanned document dan simpan menjadi text file. Perangkat lunak ini dibuat dengan menggunakan metode jaringan saraf tiruan Kohonen Self Organizing Map dua dimensi sebagai algoritma pengenalan dan pembelajaran. Untuk mempersiapkan dan mengolah image dokumen yang digunakan sebagai input, akan dilakukan beberapa proses pengolahan gambar seperti thresholding, skeletonize dan segmentasi karakter. Hasil pengujian menunjukkan bahwa rata-rata akurasi pengenalan huruf cetak untuk karakter jenis dan ukuran font yang telah dilatihkan pada image non-paragraf sebesar 95.62 % dan pada image paragraf sebesar 72.40 %. Rata-rata akurasi pengenalan huruf cetak untuk karakter jenis dan ukuran font yang belum dilatihkan pada image non-paragraf sebesar 70.43 % dan pada image paragraf sebesar 55.62 %.",
+  "creators": "STEFANUS SURIAATMADJA L",
+  "contributors": "Rolly Intan (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010583/INF/2007; Stefanus Suriaatmadja Limbing (26402021)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

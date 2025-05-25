@@ -1,0 +1,14 @@
+{
+  "id": "8272",
+  "title": "Robot berkaki enam yang dapat mengikuti obyek berwarna",
+  "abstract": "Robot berkaki enam merupakan salah satu bentuk produk teknologi yang saat ini berkembang pesat. Perkembangan teknologi robot ini juga diikuti dengan perkembangan teknologi sensor robot yang semakin canggih. Sensor merupakan komponen yang sangat penting pada robot, karena dengan adanya sensor robot dapat meng-indera daerah sekitarnya. Robot berkaki enam ini (dengan bantuan CMUCam) diprogram untuk mampu mengenali segala macam warna (warna solid). Obyek berwarna solid yang digunakan berbentuk bola. Robot dapat mengikuti gerakan obyek berwarna, selama masih dalam jarak pandang kamera. Berdasarkan hasil pengujian diperoleh kecepatan bergerak maju robot mengikuti obyek berwarna adalah 1,4 cm / s dan kecepatan berjalan mundur 1,3 cm / s. Kecepatan robot berputar ke kanan 2.76? / s dan berputar ke kiri 2.73? / s. Kemampuan robot untuk mengikuti obyek berwarna dipengaruhi oleh berbagai macam faktor antara lain : warna cahaya, sumber cahaya, intensitas cahaya, dan lain-lain. Dari hasil pengujian intensitas cahaya yang cukup untuk menerangi obyek adalah cahaya lampu neon dan intensitas cahaya maksimum adalah cahaya matahari. Obyek harus berada pada jarak minimal 16 cm dan jarak maksimal 56 cm agar obyek dapat terlihat pada pandangan kamera robot.",
+  "creators": "IVAN CANDRA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010768/ELK/2006; Ivan Candra (23401012)",
+  "subjects": "ROBOTS; ROBOTICS; ROBOTS-DYNAMICS"
+}

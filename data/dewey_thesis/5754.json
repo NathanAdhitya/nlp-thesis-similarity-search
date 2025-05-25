@@ -1,0 +1,14 @@
+{
+  "id": "5754",
+  "title": "Volume unit meter dengan LCD grafik",
+  "abstract": "Pada Tugas Akhir ini dirancang sebuah VU meter dengan tampilan pada LCD grafik. Pembuatan VU meter digital bertujuan menghilangkan kekurangan yang terdapat pada VU meter Analog antara lain pada tampilan, kurang efisien dan gerakan yang terbetas. Signal input diambil dari line out tape, CD player, walkman, discman, radio atau media lainnya. Signal audio di bagi dalam Zona - Zona frekuensi dan hasil pembacaan masing-masing Zona ditampilkan pada LCD grafik dalam bentuk grafik Bar. Pada desain rangkaian VU meter digital Signal audio dibagi menjadi 5 Zona frekuensi menggunakan band pass filter, yaitu : 63 Hz, 250 Hz, 1000 Hz, 4000 Hz dan 16000 Hz. Hasil penyaringan akan diolah oleh Microcontroller ATMEGA16 dengan metode multiplexer dan hasilnya akan ditampilkan per-Zona pada LCD grafik 128 X 64 dot. Pada LCD grafik menampilkan 5 Channel stereo dengan 11 variasi Level Bar tiap channel. VU meter digital dapat mengukur gain sampai 14 dB.",
+  "creators": "GUNADI SANDJAJA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010775/ELK/2006; Gunadi Sandjaja (23401048)",
+  "subjects": "SOUND-RECORDING AND REPRODUCING"
+}

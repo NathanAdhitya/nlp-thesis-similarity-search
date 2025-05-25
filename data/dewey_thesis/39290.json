@@ -1,0 +1,14 @@
+{
+  "id": "39290",
+  "title": "Indexing dan searching document menggunakan metode semantic suffix tree clustering berbasis android",
+  "abstract": "Perangkat smartphone berbasis android sudah menjadi bagian hidup bagi penggunanya di zaman modern seperti saat ini. Pengguna menggunakan smartphone untuk mendukung aktivitas harian seperti di antaranya adalah membaca dan menyimpan dokumen elektronik PDF, Word dan lain-lain. Pengguna smartphone seringkali lupa terhadap lokasi penyimpanan dokumen elektronik. Penelitian ini dilakukan untuk membantu pengguna smartphone android mencari dokumen yang mencerminkan keyword pengguna secara semantic atau kata asli di dalam smartphone pengguna. Hasil pencarian dokumen adalah dokumen yang mencerminkan input pengguna secara semantic atau kata asli. Berbagai metode diuji untuk membuat kebutuhan waktu proses cluster menggunakan metode suffix tree hingga pencarian dokumen secara semantik seminimal mungkin Hasil penelitian menunjukan bahwa pengguna dapat mencari dokumen yang dimaksud di dalam smartphone pengguna. Konsumsi waktu rata-rata untuk proses cluster terhadap 100 dokumen yang mengandung kurang lebih 1000 kata adalah 686.7 detik. Pengguna dapat mencari dokumen yang mencerminkan maksud pengguna setelah proses cluster dilakukan. Konsumsi waktu rata-rata untuk pencarian dokumen yang mencerminkan maksud pengguna adalah kurang dari 2 detik. Kesimpulan performa aplikasi dalam kategori optimal dalam segi waktu karena aplikasi telah dioptimasi dengan menggunakan thread dan hasil pencarian yang diberikan mampu memberikan hasil secara semantic",
+  "creators": "DAVID VALENTINO",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Justinus Andjarwirawan (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021649/INF/2017; David Valentino (26413097)",
+  "subjects": "ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); APPLICATION SOFTWARE-DEVELOPMENT; ELECTRONIC INFORMATION RESOURCE SEARCHING"
+}

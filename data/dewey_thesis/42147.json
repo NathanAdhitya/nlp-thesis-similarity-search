@@ -1,0 +1,14 @@
+{
+  "id": "42147",
+  "title": "Pembuatan aplikasi Poliklinik Universitas X berbasis Web",
+  "abstract": "Banyak tenaga kesehatan belum mengenal teknologi informasi dalam pelayanannya. Teknologi informasi pada bidang kesehatan dapat berupa aplikasi pencatatan pasien, pemberian resep, hingga pembayaran. Namun, aplikasi tersebut jarang digunakan khususnya pada Poliklinik Universitas X yang masih melakukan pencatatan secara manual. Sehingga, dibuatlah aplikasi Poliklinik Universitas X berbasis web untuk menggantikan pencatatan manual. Aplikasi ini dapat memudahkan user dalam pengolahan data, mempercepat proses pelayanan, serta mempermudah pencatatan resep. Web ini bertujuan untuk mempersingkat pengantaran resep dari dokter ke apoteker, meminimalisir kesalahan membaca resep, serta mengurangi penggunaan kertas. Dasar pembuatan program ini menggunakan Laravel. Sehingga, dengan pencatatan yang dilakukan oleh dokter maupun apoteker di Poliklinik Universitas X menjadi lebih terstruktur. Pada saat pasien datang terlebih dahulu mengantri. Resepsionis akan melakukan pendataan pasien. Data pasien secara otomatis masuk ke dokter yang dituju. Dokter menginputkan diagnosa serta memberikan obat. Obat tersebut secara otomatis terhubung ke resepsionis sehingga dapat disiapkan. Surat keterangan sakit, yang dibuat oleh dokter langsung terhubung ke resepsionis untuk dicetak. Dari hasil pengujian sistem, dapat diambil beberapa kesimpulan, yaitu aplikasi dapat memudahkan user melakukan add, update, delete dan dalam outputnya, mempercepat proses pelayanan di Poliklinik Universitas X, mempermudah user dalam melakukan pencatatan resep dokter.",
+  "creators": "MARIA ALVINNA",
+  "contributors": "Kristo Radion Purba S.ST. (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021754/INF/2018; Maria Alvinna (26413142)",
+  "subjects": "WEBSITES-DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); MYSQL (COMPUTER PROGRAM); DATABASE DESIGN"
+}

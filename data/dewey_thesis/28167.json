@@ -1,0 +1,14 @@
+{
+  "id": "28167",
+  "title": "Perencanaan dan pembuatan surround processor dan aplikasinya pada perangkat audio untuk mendapatkan efek suara theatre",
+  "abstract": "Beberapa tahun yang lalu mode Quadraphonic yang menggunakan empat buah loudspeaker dan dua buah amplifier stereo banyak dibicarakan oleh penggemar audio. Tetapi mode ini tidak dapat bertahan lama karena membutuhkan perangkat lunak yang khusus. Sekarang ini timbul mode yang baru yaitu surround sound, karena dengan peralatan ini ruang tamu yang kecil dapat dirasakan seperti di dalam suatu theatre atau concert hall yang puluhan kali lebih luas. Pada prinsipnya, rangkaian mempunyai dua input yang dicampur, dengan satu input diberikan langsung pada sinyal channel kanan dan satunya lagi pada channel kiri. Selanjutnya rangkaian delay diberikan sebagai alat untuk penundaan waktu. Rangkaian delay ini dipengaruhi oleh sinyal clock dua fase. Untuk menjamin bahwa tidak ada sinyal frekuensi tinggi (misalnya penyimpangan sinyal radio) memasuki rangkaian delay ini, maka di depannya dipasang low pass filter. Filter low pass output dipergunakan untuk menjaga penerobosan dari sinyal clock. Filter output diikuti oleh rangkaian pembalik yang menghasllkan sinyal untuk speaker belakang yang ke dua.",
+  "creators": "Arif Setiawan",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); AGUS MULYANTO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 88/E/EL/008; Arif Setiawan (482023)",
+  "subjects": "AUDIO AMPLIFIERS; SURROUND-SOUND SYSTEM; ELECTRO-ACOUSTICS"
+}

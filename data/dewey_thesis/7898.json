@@ -1,0 +1,14 @@
+{
+  "id": "7898",
+  "title": "Aplikasi bluetooth-based positioning service untuk mengakses informasi pameran",
+  "abstract": "Positioning adalah suatu sistem untuk menentukan suatu posisi di dalam area tertentu. Pada saat ini sebagian besar sistem penentuan posisi menggunakan Global Positioning Service (GPS). Tetapi ketika proses penentuan lokasi dilakukan pada tempat tertutup (bangunan) dan kota yang padat, maka GPS memiliki banyak sekali kelemahan. Di tempat tertutup sistem penentuan lokasi yang banyak dikembangkan yaitu, menggunakan RADAR, RF-ID, Active-Badge, dan lain-lain. Kelemahan dari sistem-sistem ini adalah biaya yang dibutuhkan tinggi dan membutuhkan alat tambahan di pihak client. Oleh karena itu dalam Tugas Akhir ini ditawarkan aplikasi penentuan lokasi yang relatif membutuhkan biaya lebih rendah, tidak membutuhkan alat tambahan di pihak client, dan mudah diterapkan. Aplikasi ini menggunakan teknologi bluetooth di mana saat ini sudah banyak ditemukan pada alat-alat komunikasi,seperti handphone, PDA, dan sebagainya. Sistem ini menggunakan metode proximity detection di mana client yang akan melakukan device discovery untuk mendapatkan ID dari bluetooth access point yang terjangkau olehnya dan selanjutnya status terjangkau atau tidaknya access point akan digunakan untuk menentukan lokasi. Sistem penentuan lokasi ini diterapkan ke dalam sebuah pameran, di mana pengunjung dapat mengetahui posisi mereka dan stan yang hendak mereka cari, selain itu pengunjung dapat mengakses informasi menggunakan device yang mereka bawa. Aplikasi ini dibuat menggunakan pemrograman J2SE pada server dan J2ME pada client, di mana client berupa device yang memiliki teknologi bluetooth dan dapat menjalankan aplikasi Java. Hasil pengujian menunjukkan bahwa dalam penentuan lokasi menggunakan proximity detection dalam sistem ini bergantung pada keberhasilan client dalam melakukan device discovery dan diperlukan site survey dalam peletakan server untuk menghasilkan area yang diinginkan.",
+  "creators": "IBNU WAHYUDI SANTOSO",
+  "contributors": "Resmana Lim (Advisor 1); Andreas Handojo (Advisor 2); BUDI BAMBANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010539/INF/2006; Ibnu Wahyudi Santoso (26403093)",
+  "subjects": "WIRELESS COMMUNICATION SYSTEMS; BLUETOOTH"
+}

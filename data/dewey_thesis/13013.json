@@ -1,0 +1,14 @@
+{
+  "id": "13013",
+  "title": "Implementasi pengenalan kata dengan menggunakan PCA dan HMM untuk mengontrol gerak robot mobil",
+  "abstract": "Tugas akhir ini dibuat dengan tujuan untuk membuat sistem pengenalan kata yang diimplementasikan pada personal komputer. Metode yang digunakan adalah Principal Component Analysis (PCA) dan Hidden Markov Model (HMM). PCA digunakan untuk mengekstrak pola suara, sedangkan HMM digunakan untuk pengenalan pola suara. Sistem ini diaplikasikan pada robot mobil sehingga robot mobil dapat diperintah untuk bergerak. Sistem ini dirancang dengan menggunakan sebuah personal computer yang berfungsi sebagai pengatur dan pengolah data. Sistem ini akan mengambil pola suara yang di-input-kan selama 1 detik. Pola suara akan proses menggunakan metode PCA. Output PCA akan menjadi input HMM untuk menghasilkan ? model dari setiap perintah. Probabilitas observasi simbol terbesar akan Berdasarkan hasil pengujian yang telah dilakukan, tingkat keberhasilan tertinggi dalam pengenalan kata dengan input microphone adalah 20 % dan data training sebesar 100%. Robot mobil juga dapat bergerak sesuai dengan perintah kata yang di-input-kan dan waktu yang diperlukan untuk pengenalan kata kurang dari 1 detik.",
+  "creators": "ADRIEL ANDREW HADIPURNOMO",
+  "contributors": "Thiang (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010895/ELK/2009; Adriel Andrew H. (23404034)",
+  "subjects": "MOBILE ROBOT"
+}

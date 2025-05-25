@@ -1,0 +1,14 @@
+{
+  "id": "3723",
+  "title": "Pemodelan bangkitan/tarikan pergerakan pada beberapa hotel terpilih di Surabaya",
+  "abstract": "Penyediaan fasilitas parkir untuk hotel sangat penting untuk mendukung pelayanan hotel. Kajian tentang keperluan parkir untuk hotel, khususnya hotel berbintang 3 dan 4 di Surabaya telah dicoba dilakukan, dengan meneliti perpakiran di 10 hotel terpilih. Survei dilakukan dengan mencatat plat nomor kendaraan, okupansi kendaraan, dan proporsi pengunjung hotel pada saat ada kegiatan khusus (event) dan tidak ada kegiatan khusus (biasa). Untuk mendapatkan model persamaan matematis terbaik dilakukan dengan metode Pearson Correlation, Stepwise Regression, dan Linear Regression. Hasil analisa menunjukkan bahwa model terbaik regresi linear berganda untuk sepeda motor (biasa) adalah Log(yl) = 0.447 + 0.547 log (x2) + 0.360 log{x4(i)}, sepeda motor (event) adalah Log(yl) = 1.10 + 0.645 log{x4(b)} + 0.352 log{x4(c)}, mobil pribadi (biasa) adalah Log(y2) = 1.17 + 0.0311 xl + 0.00222 x2, mobil pribadi (event) adalah Log(y2) = 1.72 + 0.00806 xl + 0.0333 x4(e). Model matematis terbaik regresi linear sederhana adalah untuk sepeda motor (biasa) adalah Log(yl) = 1.33 + 0.00563 x2, sepeda motor (event) adalah Log(yl) = 1.19 + 0.794 log{x4(b)}, mobil pribadi (biasa) adalah Log(y2) = 1.18 + 0.0408 xl, mobil pribadi (event) adalah Log(y2) = 1.02 + 0.710 log (xl). Dimana xl adalah jumlah pengunjung, x2 adalah juinlah karyawan yang hadir, x4(b) adalah luas ruang karyawan, x4(c) adalah luas ruang mesin, gudang dan alat-alat, x4(e) adalah luas raung yang disewakan, x4(i) adalah luas lahan parkir, x4(l) adalah luas total lahan, dan x7 adalah okupansi hotel.",
+  "creators": "FITHRES YUSFITA SARI; YULIN PATRISIA",
+  "contributors": "Harry Patmadjaja (Advisor 1); Rudy Setiawan (Advisor 2); Tirta Djusman Arief (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 1223/SIP/2002; Fithres Yusfita Sari (21498061), Yulin Patrisia (21498201)",
+  "subjects": "URBAN TRANSPORTATION"
+}

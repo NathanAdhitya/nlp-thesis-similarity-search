@@ -1,0 +1,14 @@
+{
+  "id": "22066",
+  "title": "Pembuatan software pembelajaran matematika tentang bidang datar dan bangun ruang",
+  "abstract": "Software ini dibuat untuk memudahkan guru dan siswa melakukan proses belajar mengajar tentang bidang datar dan bangun ruang. Materi bidang datar dan bangun ruang memiliki banyak rumus dan gambar, sehingga menyebabkan siswa menjadi kesulitan dalam mengerjakan soal. Software ini terdiri dari aplikasi client dan aplikasi server. Aplikasi client memiliki bagian materi, contoh soal, latihan soal dan test. Aplikasi server akan terhubung ke database server, sehingga dapat menyimpan atau memanggil data-data yang diperlukan selama proses belajar mengajar. Data-data tersebut dapat berupa biodata siswa, guru, isi materi, isi test, gambar dan lain-lain. Bahasa pemrograman yang digunakan dalam pembuatan software ini adalah java. Database yang digunakan adalah MySQL.",
+  "creators": "PURWANTO",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010106/ELK/2011; Purwanto (23406050)",
+  "subjects": "SOFTWARE ENGINEERING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

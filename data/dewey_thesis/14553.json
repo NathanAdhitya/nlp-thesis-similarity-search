@@ -1,0 +1,14 @@
+{
+  "id": "14553",
+  "title": "Perencanaan dan pembuatan aplikasi online caricature generator",
+  "abstract": "Karikatur adalah sebuah gambar potrait dari seseorang dimana bagian-bagian wajah yang unik dari orang tersebut dilebih-lebihkan (exaggeration). Dewasa ini, banyak website yang menyediakan layanan pembuatan karikatur. Namun, karikatur yang dihasilkan tersebut masih merupakan karya dari karikaturis. Oleh karena itu, pada skripsi ini, dilakukan pembuatan website untuk membuat karikatur dari foto wajah manusia. Adapun proses yang dilakukan adalah sebagai berikut: gambar wajah di-upload ke dalam website, proses facial feature extraction untuk mencari titik fitur wajah, proses shape exaggeration untuk menonjolkan fitur wajah yang unik dan proses pembuatan karikatur berupa proses image warping terhadap karikatur yang telah disiapkan sebelumnya. Website ini dibuat dengan ASP .NET dan C# dengan Microsoft Visual Studio 2008 sebagai IDE-nya. Hasil pengujian menunjukkan bahwa proses facial feature extraction telah mencapai rata-rata tingkat akurasi sebesar 56% dan karikatur yang dihasilkan telah dapat menonjolkan fitur-fitur wajah yang unik. Hasil survey juga menunjukkan bahwa karikatur yang dihasilkan dapat dikenali sebagai wajah input dengan tingkat keberhasilan 80%.",
+  "creators": "STEPHANUS SURYA JAYA",
+  "contributors": "Rudy Adipranata (Advisor 1); Kartika Gunadi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020836/INF/2009; Stephanus Surya Jaya (26406036)",
+  "subjects": "COMPUTER INTERFACES; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

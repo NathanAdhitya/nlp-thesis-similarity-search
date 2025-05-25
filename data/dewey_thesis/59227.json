@@ -1,0 +1,14 @@
+{
+  "id": "59227",
+  "title": "Penerapan machine learning untuk deteksi keinginan bunuh diri pada teks di Twitter",
+  "abstract": "Twitter adalah salah satu contoh media sosial di mana banyak orang berbagi cerita dan perasaan mereka. Berbagai macam pesan/tweet yang ada di twitter tidak sedikit yang mengandung terkait pesan adanya keinginan untuk bunuh diri. Hal ini tentu berbahaya dan harus segera ditangani agar tidak terjadi korban bunuh diri. Oleh karena itu diperlukan sarana yang dapat mendeteksi teks yang berisi bunuh diri agar dapat digunakan untuk peringatan kepada orang yang bersangkutan. Dalam penelitian ini, dirancang suatu aplikasi yang dapat mendeteksi teks Twitter berbahasa Indonesia apakah teks tersebut termasuk ke dalam kategori adanya keinginan bunuh diri atau tidak, atau bahkan adanya ajakan untuk bunuh diri. Sistem ini nantinya akan dibangun berdasarkan 10 algoritma yang akan diuji dan akan dipilih yang paling cocok. 10 algoritma itu diantara lain: Support Vector Machine, Naïve Bayes, Decision Tree, K-NN (K-Nearest Neighbors, Random Forest, MultiLayer Perceptron, Adaptive Boosting, Logistic Regression, Gradient Boosting, BERT, dan CNN 1D. Penggunaan metode Grid search juga digunakan untuk mencari parameter terbaik bagi tiap model. Hasil pengujian yang dilakukan, Support Vector Machine dan Logistic Regression mendapatkan akurasi tertinggi sebesar 90%, diikuti dengan Random Forest, MultiLayer Perceptron, Adaptive Boosting dan Gradient Boosting dengan akurasi 89% dan akurasi sebesar 87% didapatkan oleh Naïve Bayes, Decision Tree, K-Nearest Neighbors dan CNN 1D. Dilakukan juga pengujian dengan 4 kondisi binary class, yaitu kondisi 1 di mana data dengan label 2 diganti dengan label 0, lalu kondisi 2 yaitu data dengan label 2 diganti dengan label 1, lalu kondisi 3 yaitu data dengan label 0 dihilangkan dan kondisi 4 yaitu data dengan label 2 dihilangkan. Hasil pengujian paling baik diperoleh oleh kondisi 1 dengan 5 algoritma mencapai akurasi sebesar 93% yaitu Logistic Regression, Support Vector Machine, Multilayer Perceptron, Adaptive Boosting dan Gradient Boosting.",
+  "creators": "STEVE CHRISTOPHER WIJAYA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Silvia Rostianingsih (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022453/INF/2024; Steve Christopher Wijaya (C14200201)",
+  "subjects": "ATTEMPTED SUICIDE; DETECTION (ELECTRONICS); MACHINE LEARNING; SUPPORT VECTOR MACHINES"
+}

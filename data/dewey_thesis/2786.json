@@ -1,0 +1,14 @@
+{
+  "id": "2786",
+  "title": "Perangkat warung telekomunikasi mandiri",
+  "abstract": "Jika dihitung secara keseluruhan, perangkat wartel yang umumnya berbasiskan PC (Personal Computer) biayanya cukup mahal. Selain itu perangkat wartel berbasis PC juga kurang fleksibel jika ingin menambah KBU (Kamar Bicara Umum). Hal ini disebabkan kelemahan sistem komunikasi RS-232 yang digunakan PC untuk mengontrol KBU yang ada. Pada sistem ini dipakai sistem mikrokontroler untuk menggantikan PC sebagai kontroler perangkat warung telekomunikasi. Selain itu juga dirancang fasilitas download dari PC yang memungkinkan untuk mengganti database kode zona wilayah yang tersimpan. Sistem mikrokontroler ini memakai sistem komunikasi RS-485 sebagai penghubung antar kontroler. Untuk mendeteksi awal pembicaraan telepon, digunakan ringback detector yang mendeteksi sinyal ringback (nada tunggu). Hasil pengujian menunjukkan bahwa satu kontroler hanya membutuhkan arus sekitar 100 mA. Sedangkan sistem RS-485 yang dipakai mampu menangani lalu lintas komunikasi dari sistem multicontroler seperti sistem ini. Sistem deteksi sinyal ringback gagal dalam pengujian tertentu dimana sinyal ringback tidak pernah muncul dalam suatu pembicaraan telepon. Pemakaian mikrokontroler dengan sistem komunikasi RS-485 memberi banyak keunggulan dibanding pemakaian PC seperti lebih ringkas, low power, dan fleksibel. Sedangkan sistem deteksi sinyal ringback yang kurang handal bisa diganti dengan sistem lain seperti deteksi sinyal 16 KHz.",
+  "creators": "OENTUNG TJAHYADI",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 0l/E/EL/019/533; Oentung Tjahyadi (23497055)",
+  "subjects": "TELECOMMUNICATION; TELEPHONE STATIONS; TELEPHONE, AUTOMATIC"
+}

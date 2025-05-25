@@ -1,0 +1,14 @@
+{
+  "id": "43229",
+  "title": "Aplikasi word alignment interlinier Bible dari Bahasa Ibrani/Yunani ke bahasa Jawa dengan menggunakan algoritma markov chain monte carlo",
+  "abstract": "Alkitab sebagai buku yang paling populer dan berpengaruh, paling banyak dicetak dan diterjemahkan dalam berbagai bahasa di dunia. Ada sekitar 2.527 terjemahan bagian dari teks Alkitab, dan 475 terjemahan penuh teks Alkitab (Christodouloupoulos & Steedman, 2014). Tujuan dari semuanya ini adalah agar banyak orang di dunia dapat membaca Alkitab dengan bahasa yang dapat dimengerti. Dalam proses penerjemahan ini, ada kemungkinan terdapat gap atau kesenjangan antara bahasa asli Alkitab dengan bahasa terjemahan (Aji, 2016). Untuk menjawab persoalan tersebut, dirancang suatu aplikasi yang menerapkan algoritma Markov Chain Monte Carlo dan dikemas dalam tool efmaral untuk mengkorelasikan bahasa asli Alkitab dengan bahasa lain yang dikenal dengan Interlinear Bible. Intelinear Bible (ITL) merupakan sebuah sarana untuk melihat makna kata atau frasa pada teks asli Alkitab. Dengan Interlinear Bible, gap atau kesenjangan antara bahasa asli Alkitab dengan bahasa terjemahan dapat diatasi. Interlinear bible merupakan salah satu penerapan word alignment di mana memiliki fungsi untuk mengidentifikasi hubungan antar kata-kata dalam teks paralel dengan dua bahasa yang berbeda. Berdasarkan hasil penelitian ini, dapat diketahui bahwa penambahan kata pertama secara acak pada tiap awal ayat dapat meningkatkan hasil recall, precision dan f-measure dari algoritma baik korelasi antara Bahasa Jawa dengan Hebrew, maupun korelasi antara Bahsasa Jawa dengan Greek. Selain itu, semakin banyak jumlah kata yang dikorelasikan, semakin meningkat nilai recall, precision dan f-measure.",
+  "creators": "YUNIKE CHRISTINA",
+  "contributors": "Rolly Intan (Advisor 1); Andreas Handojo (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021831/INF/2019; Yunike Christina (26415169)",
+  "subjects": "MONTE CARLO METHOD; BIBLE; ALGORITHMS"
+}

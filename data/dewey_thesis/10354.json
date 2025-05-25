@@ -1,0 +1,14 @@
+{
+  "id": "10354",
+  "title": "Perancangan dan pembuatan aplikasi customer relationship management pada bengkel dan toko Oli Asia Baru",
+  "abstract": "Saat ini toko Asia Baru masih menggunakan sistem manual. Dengan sistem tersebut sering kali terjadi kesalahan yang menyebabkan keluhan oleh pelanggan. Hal ini terjadi diakibatkan oleh kurangnya informasi yang dimiliki toko Asia Baru mengenai pelanggannya. Oleh karena itu dibutuhkan pencatatan data pelanggan dengan tujuan agar dapat memberikan layanan yang lebih maksimal. Dengan memberikan pelayanan yang maksimal akan meningkatkan loyalitas pelanggan. Proses perancangan dan pembuatan aplikasi Customer Relationship Management pada toko Asia Baru di mulai dengan mempelajari dan menganalisis sistem perusahaan saat ini kemudian menyusun dan membuat Data Flow Diagram, Entity Relationship Diagram dan tabel-tabel yang dibutuhkan. Proses pembuatan program menggunakan bahasa pemrograman PHP dan database MySQL. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, dapat menyimpan data pelanggan, transaksi pembelian, penjualan, service. Juga dapat membuat dan menampilkan laporan pembelian, laporan penjualan, reminder pelanggan yang berulangtahun, reminder pelanggan yang lama tidak melakukan transaksi, laporan jenis service tersering, laporan jenis mobil yang sering melakukan service, laporan jenis oli terlaris, dan melakukan pengiriman SMS untuk melakukan penawaran barang yang dijual kepada pelanggan.",
+  "creators": "FREDDY HARTANTO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Andreas Handojo (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010716/INF/2008; Freddy Hartanto (26403091)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

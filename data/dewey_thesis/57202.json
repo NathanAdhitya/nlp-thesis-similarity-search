@@ -1,0 +1,14 @@
+{
+  "id": "57202",
+  "title": "Aplikasi prediksi stok barang menggunakan metode arima, holt-winters dan sarimax pada toko Best Charcoals",
+  "abstract": "Toko Best Charcoals merupakan usaha yang bergerak menjual bermacam produk yaitu panggangan, arang, dan kayu bakar. Toko Best Charcoals didirikan pada tahun 2018 terletak di Jakarta Barat Kecamatan Grogol Petamburan. Sebanyak 85% pembeli berasal dari provinsi DKI Jakarta. Toko Best Charcoals tidak hanya berjualan secara offline tetapi juga secara online. Best Charcoals menjual barang secara online melalui aplikasi shopee dan tokopedia. Dikarenakan adanya permintaan barang yang tidak teratur setiap bulannya dikarenakan musim-musim tertentu seperti menjelang hari raya Idul Adha, Idul Fitri, Natal, Tahun Baru mengakibatkan kehabisan stok barang. Prediksi stok barang sangat diperlukan untuk menangani permasalahan Toko Best Charcoals. Pada tugas akhir ini, akan dirancang solusi untuk permasalahan toko best charcoals dengan pembuatan aplikasi prediksi stok barang menggunakan metode arima, sarimax, dan holt-winters sehingga dapat mengetahui jumlah yang harus diorder untuk bulan selanjutnya. Dengan pengujian yang telah dilakukan terlihat setiap metode memiliki penilaiannya tersendiri pada produk tertentu, sejauh ini metode holt-winter lebih banyak tampil baik dibandingkan metode lainnya, karena memiliki nilai error paling rendah. Ketika dilakukan uji error, menggunakan metode MAD, MSD, MAPE. Metode yang baik pada masing-masing produk terlihat ketika hasil prediksi yang mendekati data aktual.",
+  "creators": "JEREMY MULIAWAN MARIO",
+  "contributors": "Alexander Setiawan (Advisor 1); Krisna Wahyudi, S.Kom., M.T. (Advisor 2); Agustinus Noertjahyana (Examination Committee 1); I Gede Agus Widyadana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022291/INF/2023; Jeremy Muliawan Mario (C14190227)",
+  "subjects": "APPLICATION SOFTWARE; DATABASE MANAGEMANT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

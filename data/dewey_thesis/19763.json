@@ -1,0 +1,14 @@
+{
+  "id": "19763",
+  "title": "Perancangan dan pembuatan mail client untuk attachment file yang besar dengan menggunakan samba dan java",
+  "abstract": "Sejak kehadirannya, email (electronic mail) telah mampu mengubah cara berkomunikasi dari yang semula sangat tergantung pada surat kertas biasa untuk mengirim pesan kemudian beralih ke email. Pada saat sekarang ini penggunaan email tidak terbatas untuk mengirimkan email saja tetapi juga berupa attachment file seperti file doc, excel, mp3, gambar, dan lain-lain. Sampai saat ini attachment file yang ada masih belum bisa untuk mengirimkan file yang berukuran besar hanya terbatas hingga 25 MB dan tidak bisa mengirimkan banyak file sekaligus. Seiring dengan kebutuhan untuk bisa mengirimkan attachment file yang berukuran besar, dan dalam banyak file sekaligus maka di butuhkan juga email yang bisa memenuhi kebutuhan tersebut. Mail client ini dibuat dengan menggunakan Samba pada sisi server yang memungkinkan client dapat mengirimkan banyak file secara bersamaan dalam ukuran besar, dan menggunakan bahasa Java di karenakan Java sebagai bahasa pemograman multi platform. Berdasarkan hasil pengujian, maksimal attachment yang bisa dikirimkan dibatasi oleh kapasitas hardisk komputer yang ada, dan program ini dapat berjalan pada multiple OS.",
+  "creators": "BIMA ARIATEJA",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020931/INF/2010; Bima Ariateja (26406125)",
+  "subjects": "INTERNET (COMPUTER NETWORK); ELECTRONIC MAIL SYSTEMS"
+}

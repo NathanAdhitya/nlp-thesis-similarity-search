@@ -1,0 +1,14 @@
+{
+  "id": "46476",
+  "title": "Pengenalan golongan jenis kendaraan bermotor pada ruas jalan tol menggunakan CNN",
+  "abstract": "Sistem pembayaran di gerbang tol sudah mengalami kemajuan, yaitu dari pembayaran menggunakan uang fisik digantikan dengan e-money. Sistem pembayaran perlu mengetahui golongan jenis kendaraan yang masuk pada gerbang tol sehingga sistem bisa tahu berapa biaya yang harus diambil dari saldo e-money. Terdapat lima golongan jenis kendaraan, tetapi masih banyak gerbang tol yang memiliki batas tinggi untuk membatasi golongan kendaraan yang bisa masuk sehingga menyulitkan golongan selain golonganI karena hanya memiliki gerbang yang sedikit. Dengan berkembangnya teknologi, golongan kendaraan dapat dikenali secara otomatis menggunakan Neural etwork.Penelitian ini menggunakan metode You Only Look Oncedan Convolutional Neural Network. You Only Look Once digunakan untuk mendeteksi posisi kendaraan pada gambar. Convolutional Neural Network digunakan untuk mengklasifikasikan golongan jenis kendaraan pada gambar. Untuk model convolutional neural network, salah satu model yang terkenal adalah VGG16yang cukup baik dalam mengklasifikasikan gambar. Hasil penelitian yang akan ditampilkan adalah hasil pengenalan golongan jenis kendaraan dalam bentuk string. Hasil dari pengujian yang dilakukan adalah akurasi darikonfigurasi convolutional neural network yang digunakan adalah 93.5% dan f-score sebesar 81.37% dan model VGG16 dengan akurasi sebesar 90.76% dan f-score 73.53%.",
+  "creators": "RICKY HERWANTO",
+  "contributors": "Kartika Gunadi (Advisor 1); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021934/INF/2020; Ricky Herwanto (26416058)",
+  "subjects": "COMPUTER INTERFACES; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

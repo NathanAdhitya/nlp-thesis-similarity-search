@@ -1,0 +1,14 @@
+{
+  "id": "16786",
+  "title": "Perencanaan dan pembuatan dimmer electronic untuk rangkaian lampu pijar 220 V, 1000 W yang dapat diatur dengan remote control",
+  "abstract": "Adanya kemajuan Teknologi yang cukup pesat di bidang elektronika, makabanyak alat yang memakai kontrol secara remote. Dalam pengembangan Teknologi remote dewasa ini, sistem yang dipakai meliputi beberapa macam diantaranya adalah sistem remote dengan Infra Red, sistem remote dengan frekuensi. Pada pembahasan kali ini akan diketengahkan mengenai Dimmer Electronic tanpa kabel, sebagai pengganti kabel tersebut akan dipakai Infra Red yang difungsikan untuk mengirim data dari tombol keypad ke rangkaian Dimmer Electronic tersebut secara jarak jauh. Prinsip kerja dari alat ini adalah sebagai berikut : Sinyal yang dikirim dari Transmitter Infra Red diterima oleh bagian Receiver Infra Red yang akan diproses oleh Rangkaian Kontroller Data yang akan mengaktifkan Rangkaian Up/Down Counter dan Rangkaian Driver yang memutar motor Stepper yang dihubungkan dengan Potensiometer. Setiap gerakan motor Stepper bersesuaian dengan perubahan nilai tahanan potensiometer pada Rangkaian Driver. Perubahan nilai tahanan menyebabkan Firing Delay berubah. Apabila Firing Delay membesar, maka intensitas lampu akan mengecil demikian pula sebaliknya. Peralatan ini khususnya bagian pengatur ketajaman cahaya lampu dapat dikembangkan dengan menggunakan Rangkaian Digital agar diperoleh pengontrolan yang lebih baik, dengan demikian pemakaian Motor Stepper tidak diperlukan lagi. Jadi dengan adanya alat ini, maka dimasa yang akan datang dapat dikembangkan untuk hal-hal yang lebih menguntungkan dalam penggunaan sehari-hari di dunia pendidikan atau Industri.",
+  "creators": "HARRIS PUTRA DJAYA",
+  "contributors": "BUNAWI GUNAWIDJAJA (Advisor 1); IRWAN SAHLI (Advisor 2); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/TST/012/202; Harris Putra Djaya (23488075)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "1381",
+  "title": "Sistem tampilan papan iklan berbasis sms",
+  "abstract": "Iklan merupakan salah satu sarana untuk memperkenalkan sebuah produk, baik barang maupun jasa. Dengan menggunakan iklan, maka masyarakat bisa lebih cepat mengenal produk yang ditawarkan oleh pemasang iklan. Namun sejalan dengan perkembangan jaman dan pertumbuhan ekonomi, maka kebutuhan produsen untuk memasang iklan semakin meningkat. Terbukti dengan semakin banyaknya jumlah papan iklan yang dipasang di tengah kota, dekat pusat keramaian. Birokrasi yang sulit membuat pemasangan iklan membutuhkan waktu yang lama. Hal ini bisa diatasi dengan sistem tampilan papan iklan yang berbasis SMS. Pemasangan iklan bisa dilakukan melalui SMS yang sangat menghemat waktu pemasangan. Sistem ini dirancang dalam 3 sistem utama yang terpisah, yaitu: modul untuk berkoneksi dengan handphone sebagai penerima SMS, modul kedua sebagai alat pencetak bukti melalui printer, dan modul terakhir digunakan untuk menampilkan pesan SMS pada display yang disediakan. Dari pengujian diperoleh hasil bahwa SMS dapat diterima, kemudian ditampilkan pada display, dan dicetak melalui printer. Jumlah karakter yang dapat diterima oleh sistem ini sebanyak 89 karakter. Sementara waktu yang diperlukan untuk melakukan proses penerimaan SMS sampai pada proses tampilan membutuhkan waktu yang singkat dibanding dengan iklan konvensional, sehingga dapat dijadikan alternatif pemasangan iklan sederhana.",
+  "creators": "HENRY TJANDRA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/671/ELK/2003; Henry Tjandra (23499057)",
+  "subjects": "COMPUTER GRAPHICS; COMPUTER VISION"
+}

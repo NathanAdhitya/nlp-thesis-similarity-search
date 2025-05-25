@@ -1,0 +1,14 @@
+{
+  "id": "7447",
+  "title": "Perancangan dan pembuatan sistem absensi dan penggajian karyawan pada perusahaan karton box UD Raya Kemas",
+  "abstract": "Sistem absensi dan penggajian karyawan pada UD Raya Kemas saat ini masih menggunakan sistem manual, yaitu perhitungan pembayaran gaji dilakukan secara manual dan absensi menggunakan kertas absensi. Untuk menangani masalah tersebut dibutuhkan suatu sistem baru untuk dapat memperbaiki sistem yang dipakai saat ini. Perancangan program meliputi beberapa modul, antara lain: program absensi karyawan dengan menggunakan entry komputer dan program penggajian karyawan secara otomatis. Proses yang lain seperti: pengambilan cuti kerja karyawan, surat lembur kerja karyawan, surat peringatan, surat PHK. Pembuatan interface program menggunakan Borland Delphi 7 dan databasenya menggunakan Microsoft Access 2000. Hasil dari pembuatan program ini adalah sistem absensi dengan menggunakan entry komputer dan mengotomatisasi perhitungan dalam proses penggajian karyawan, dimana dalam sistem yang lama masih menggunakan perhitungan manual. Program dapat menampilkan laporan-laporan seperti: laporan data karyawan, laporan absensi karyawan, laporan cuti karyawan, laporan kerja lembur, laporan gaji karyawan dan slip gaji.",
+  "creators": "EDWIN NUGRAHA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000231/INF/2004; Edwin Nugraha (26400030)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTER); DATABASE DESIGN; DATABASE MANAGEMENT"
+}

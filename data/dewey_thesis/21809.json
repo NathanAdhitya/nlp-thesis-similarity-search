@@ -1,0 +1,14 @@
+{
+  "id": "21809",
+  "title": "Penerapan supply chain management pada perusahaan roti Candy Cake di Surabaya",
+  "abstract": "Perusahaan roti Candy Cake merupakan salah satu Usaha Kecil Menengah (UKM) di Surabaya. Pada saat ini sistem pemesanan bahan baku dan pencatatannya menggunakan sistem manual, sehingga sering terjadi kesalahan akibat salah pencatatan dan mengakibatkan hubungan yang tidak baik dengan supplier. Untuk mengurangi kesalahan yang terjadi sehingga dapat menjaga hubungan dengan supplier diperlukan sebuah aplikasi untuk dapat mencatat secara otomatis dan akurat. Desain data flow diagram dan data relationship diagram dibuat menggunakan program PowerDesigner15. Aplikasi ini dikembangkan dan dibuat dengan menggunakan bahasa pemrograman PHP dan MySQL sebagai tempat penyimpanan data. Aplikasi yang dibuat meliputi proses pemesanan, surat jalan, dan usulan. Dari hasil pengujian terhadap aplikasi, menunjukkan bahwa aplikasi ini dapat memproses data pemesanan yang berhubungan langsung dengan supplier dan data pengiriman barang jadi yang berhubungan langsung dengan customer. Aplikasi ini dapat menghasilkan laporan purchase order dan laporan surat jalan.",
+  "creators": "BILLY DWI PRAWIRO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Zeplin Jiwa Husada Tarigan (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021002/INF/2011; Billy Dwi Prawiro (26407037)",
+  "subjects": "WEBSITES-DESIGN; INTERNET (COMPUTER NETWORK); PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

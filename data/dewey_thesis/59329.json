@@ -1,0 +1,14 @@
+{
+  "id": "59329",
+  "title": "Program simulasi perhitungan produktivitas, waktu, dan biaya excavator dan dump truck pada proyek galian",
+  "abstract": "Indonesia merupakan negara yang penduduknya sangat banyak sehingga pertumbuhan infrastruktur semakin meningkat. Salah satu dari pekerjaan yang memiliki prosentase besar adalah pekerjaan galian tanah. Pekerjaan ini menggunakan alat berat seperti excavator dan dibantu dengan dump truck. Pemilihan tipe alat yang baik bertujuan proyek dapat diselesaikan dengan tepat waktu dan biaya yang optimal. Metode yang digunakan untuk penelitian ini adalah dengan menentukan informasi proyek dan tipe alat berat yang akan dipakai. Perhitungan produktivitas alat dan jumlah alat yang akan dipakai, menghitung biaya keseluruhan dan harga galian tanah per meter persegi. Data yang diperlukan untuk menghitung produktivitas dan biaya adalah jenis material, sudut putar, kondisi galian, kondisi pekerjaan, kondisi manajemen, kemampuan excavator dan dump truck, serta biaya sewa excavator dan dump truck. Banyaknya faktor tersebut akan membutuhkan waktu perhitungan yang cukup lama bila dihitung secara manual. Program perhitungan excel dibuat untuk membantu kontraktor mempercepat perhitungan produktivitas dan biaya gabungan dari excavator dan dump truck sehingga dapat menentukan alat yang efisien untuk digunakan. Diambil contoh proyek dengan volume galian 10.000 m³ dan jarak ke site pembuangan adalah 1.000 m dengan batasan waktu pengerjaan maksimal 16 hari kerja. Dilakukan perhitungan dengan 4 contoh kasus yaitu: Excavator Komatsu PC100 dengan Dump Truck Mitsubishi FN62F, Excavator Komatsu PC100 dengan Dump Truck Hino FM 260 JD, Excavator Komatsu PC200 dengan Dump Truck Mitsubishi FN62F, dan Excavator Komatsu PC200 dengan Dump Truck Hino FM 260 JD. Terhadap 4 contoh kasus di atas didapatkan hasil yang paling efisien adalah contoh kasus 4 dengan menggunakan alat PC200 dengan Mitsubishi Hino FM 260 JD dengan hasil akhir jumlah excavator 2 unit dan jumlah dump truck 2 unit. Total waktu pengerjaan adalah 10 hari dengan total harga pekerjaan galian Rp. 103.040.000 dan biaya per m³ adalah Rp. 10.304/m³.",
+  "creators": "CLIVE EDWARD LUKMANTO; MATIUS RYAN KURNIAWAN",
+  "contributors": "Angela Jasmine Tanya Tjahyana, S.T., M.T. (Advisor 1); Willy Husada, ST.,MT., Msc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012725/SIP/2024; Clive edward lukmanto (B11190076); Matius ryan kurniawan (B11190028)",
+  "subjects": "CONSTRUCTION INDUSTRY-COSTS; CONSTRUCTION INDUSTRY-MANAGEMENT; TARIFF ON EXCAVATORS"
+}

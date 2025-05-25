@@ -1,0 +1,14 @@
+{
+  "id": "11745",
+  "title": "Pembuatan aplikasi kompresi data lossless dengan metode deflate",
+  "abstract": "Seiring berkembangnya teknologi, proses pengiriman sebuah data atau file tidak perlu dilakukan lagi secara manual. Data atau file tersebut dapat dikirim secara elektronik melalui email. Pada saat mengirim data atau file melalui email, data atau file tersebut harus melalui proses attachment atau diupload terlebih dahulu. Hal itu tentu akan menggunakan bandwidth yang besar apabila ukuran file yang akan dikirim juga besar. Sehubungan dengan permasalahan di atas maka diperlukan sebuah aplikasi untuk mengecilkan atau mengkompresi ukuran data atau file tersebut agar dapat menghemat pemakaian bandwidth. Lossless merupakan metode kompresi data dimana data yang sudah dikompresi dapat didekompresi tepat menjadi informasi semula. Pada Skripsi ini, dibuat aplikasi kompresi data lossless yang menggunakan metode Deflate. Pembuatan aplikasi menggunakan Borland Delphi 7, yang memudahkan dalam mengatur tampilan interface serta mengakses dan mengubah file. Aplikasi ini diuji dengan berbagai macam tipe data dan ukuran, serta mencoba untuk mengembalikan isi data yang dikompres. Hasil pengujian menunjukkan bahwa aplikasi lebih baik digunakan terhadap file dengan tipe BMP karena ratio hasil kompresi lebih baik dibandingkan tipe file yang lainnya.",
+  "creators": "ERICK HOBER",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Rudy Adipranata (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01020775/INF/2009; Erick Hober (26404111)",
+  "subjects": "DATA COMPRESSION (COMPUTER SCIENCE); ELECTRONIC MAIL MESSAGES"
+}

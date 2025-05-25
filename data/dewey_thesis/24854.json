@@ -1,0 +1,14 @@
+{
+  "id": "24854",
+  "title": "Pengembangan model persediaan bahan baku multi item dengan mempertimbangkan kadaluwarsa, unit diskon pada permasalahan non-konstan demand",
+  "abstract": "Tugas Akhir ini menyelesaikanan model persediaan bahan baku multi item dengan pertimbangan kadaluwarsa dan unit pada permasalahan non-konstan demand. Penyelesaian dilakukan dengan simulasi dimana model simulasi yang digunakan berdasarkan sistem periodic review dan diselesaikan menggunakan Algoritma Genetik. Pada kasus backorder, solusi dari model menghasilkan total biaya persediaan lebih rendah 2,3% hingga 26% daripada model lain. Sementara pada kasus lost-sale, solusi dari model menghasilkan total biaya persediaan lebih tinggi 6% hingga lebih rendah 25%, biaya ini lebih tinggi dibandingkan dengan beberapa metode karena pengaruh unit diskon.",
+  "creators": "STANLEY SURYA JAYA",
+  "contributors": "Tanti Octavia (Advisor 1); I Gede Agus Widyadana (Advisor 2); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021667/IND/2012; Stanley Surya Jaya (25408058)",
+  "subjects": "MATERIALS MANAGEMENT; INVENTORY CONTROL"
+}

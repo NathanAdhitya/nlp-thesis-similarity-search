@@ -1,0 +1,14 @@
+{
+  "id": "5444",
+  "title": "Pembuatan sistem informasi pembelian dan penjualan pada Pasti Jaya",
+  "abstract": "Toko Pasti Jaya menjual berbagai macam aksesoris rambut. Saat ini toko Pasti Jaya ini masih menggunakan cara manual, yaitu semua kegiatan pembelian dan penjualannya dilakukan dengan media kertas dan kalkulator, sehingga sering terjadi kesalahan pencatatan. Proses manual tidak berjalan dengan baik. Pemilik sering merasa kesulitan untuk menghitung sisa stok, pencatatan pembelian dan penjualan barang, sehingga informasi yang dihasilkan tidak akurat. Sering terjadi transaksi pembelian dan penjualan sehingga pada saat pembayarannya, stok barang juga sulit untuk diketahui. Semuanya ini membuat pemilik merasa kesulitan untuk mengetahui informasi yang ingin dibutuhkan. Pada tugas akhir ini ditujukan untuk membuat program sistem informasi pembelian dan penjualan yang terkomputerisasi untuk toko Pasti Jaya ini, agar informasi dapat lebih akurat. Proses pembuatan program dimulai dari awal, yaitu analisis kegiatan pada toko Pasti Jaya yang masih secara manual, kemudian penyusunan DFD, ERD, dan pembuatan tabel sampai pada pemrograman. Sistem komputerisasinya meliputi pembelian, penjualan, dan pembayaran. Untuk pengamanan data, setiap pemakai diberi user, password, dan menu yang bisa diakses. Pembuatan database menggunakan Microsoft SQL Server 2000. Bahasa pemrograman yang digunakan adalah Borland Delphi 7.0. Pada sistem informasi pembelian dan penjualan yang dibuat ini, bisa dilakukan proses pembelian, penjualan dan pembayaran termasuk retur, penerimaan,dan pemindahan barang. Selain itu juga dapat menghasilkan laporan-laporan stok barang, jatuh tempo pembayaran supplier dan customer.",
+  "creators": "SIANNY ALIM",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); ANDREAS SOEBAGIO (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000178/INF/2004; Sianny Alim (26499106)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

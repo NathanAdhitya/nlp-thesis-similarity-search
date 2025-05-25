@@ -1,0 +1,14 @@
+{
+  "id": "29983",
+  "title": "Perancangan sistem antrian pembayaran di swalayan",
+  "abstract": "Perancangan sistem antrian merupakan faktor yang penting, apabila tempat pembayaran terlalu banyak, maka akan memerlukan ongkos yang besar yaitu biaya investasi mesin pembayaran, biaya listrik, dan biaya tenaga kerja; sebaliknya, jika kapasitas pelayanan kurang, maka akan terjadi baris penungguan yang panjang sehingga konsumen harus menunggu lama untuk mendapatkan pelayanan. Dan apabila konsumen tidak puas akan pelayanan tersebut maka akan menimbulkan biaya kehilangan pelanggan. Untuk mengantisipasi hal tersebut maka diperlukan suatu analisa sistem antrian pembayaran. Analisa sistem antrian menggunakan simulasi yang menganalisis data waktu pelayanan dan waktu antar kedatangan yang dibedakan berdasarkan waktu sibuk dan waktu tidak sibuk dan pelanggan yang memakai keranjang dan kereta untuk menentukan model bentuk baris antrian dan jumlah kasir yang meminimumkan ekspektasi waktu tunggu. Permodelan sistem antrian memiliki beberapa model bentuk baris antrian yaitu bentuk baris antrian paralel, seri, dan seri-ganda. Untuk menunjang realisasi dari hasil rancangan maka dibuat program antrian dari model tersebut dengan menggunakan software ProModel versi 3.0.",
+  "creators": "VICTOR HANSEN",
+  "contributors": "Stevanus Adrianto Tjandra (Advisor 1); Sujono Poetrodjojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 062/TMI-50/1997; Victor Hansen (25492076)",
+  "subjects": "QUENING THEORY; OPERATIONS RESEARCH"
+}

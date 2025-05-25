@@ -1,0 +1,14 @@
+{
+  "id": "51787",
+  "title": "Penerapan metode Modified-Partial Capacity Design (M-PCD) pada bangunan persegi 6 lantai dan 15 lantai dengan variasi penempatan 50% kolom elastis",
+  "abstract": "Metode Partial Capacity Design (PCD) merupakan alternatif dari metode Capacity Design (CD) karena desain balok dan kolom dapat dilakukan bersamaan. Mekanisme keruntuhan terburuk yang diperbolehkan dalam metode PCD adalah partial side sway mechanism, di mana balok dan beberapa kolom diperbolehkan mengalami sendi plastis. Namun, pada penelitian PCD sebelumnya, mekanisme keruntuhan struktur yang terjadi masih lebih buruk dari partial side sway mechanism, sehingga diusulkan metode Modified-Partial Capacity Design (M-PCD). Metode ini menggunakan dua model saat proses desain. Model pertama diberi gempa desain dengan R = 8 untuk mendesain balok dan kolom plastis, sedangkan model kedua menggunakan selisih gempa besar (R = 1,6) dan gempa desain (R = 8). Penelitian ini mengusulkan pemodelan sendi plastis pada model kedua dengan modifikasi inersia seluruh bentang sebesar 0,2 pada balok dan 0,35 pada kolom. Penjumlahan gaya dalam dari kedua model digunakan untuk mendesain kolom elastis. Bangunan yang ditinjau berbentuk persegi dengan dua variasi penempatan 50% kolom elastis pada 6 dan 15 lantai. Penelitian ini dilakukan untuk mengetahui performa struktur dan perbandingan dua variasi penempatan kolom elastis. Pengujian struktur dilakukan dengan pushover dan time history. Hasil penelitian menunjukkan bahwa penerapan metode M-PCD pada bangunan 6 lantai cukup baik, sedangkan bangunan 15 lantai belum menunjukkan hasil yang diharapkan.",
+  "creators": "CHRISTIA APHRODITA; MILLICENT KARSIANA THEODORA",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); FRANSISCA WIJAYA, ST.,M.Sc. (Advisor 2); Jimmy Chandra (Examination Committee 1); Benjamin Lumantarna (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012542/SIP/2022; Christia Aphrodita (B11180105), Millicent Karsiana Theodora (B11180091)",
+  "subjects": "STRUCTURAL FRAMES; COLUMNS"
+}

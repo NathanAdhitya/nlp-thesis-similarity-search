@@ -1,0 +1,14 @@
+{
+  "id": "39592",
+  "title": "Optimasi penampang rangka batang deengan metode metaheuristic berdasarkan SNI 1729:2015",
+  "abstract": "Studi ini dilakukan untuk membandingkan kemampuan optimasi dari empat algoritma metaheuristic yaitu Particle Swarm Optimization (PSO), Differential Evolution (DE), Teaching Learning Based Optimization (TLBO), Symbiotic Organisms Search (SOS) dan SAP2000 dalam mengoptimasi ukuran profil enam struktur rangka batang yang profilnya berasal dari variabel diskrit dan akan dioptimasi agar memenuhi persyaratan SNI 1729:2015. Tujuan penelitian ini adalah mengevaluasi algoritma metaheuristic yang memiliki performa paling baik serta mengetahui apakah algoritma metaheuristic lebih baik dari fitur optimasi SAP2000 dalam mendesain struktur rangka batang yang optimum. Karena algoritma metaheuristic selalu memilih profil secara acak, maka pengujian untuk setiap algoritma dilakukan sebanyak tiga puluh kali untuk mendapatkan data sampel yang kemudian akan diolah menggunakan analisa statistik. Data yang telah diolah akan dibandingkan untuk melihat performa dari masing-masing metode yang digunakan. Perbandingan ditunjukkan dalam bentuk rata-rata, standar deviasi, nilai minimum dan grafik konvergen. Hasil penelitian menunjukkan bahwa algoritma SOS adalah yang paling superior pada struktur rangka batang kecil. Algoritma ini lebih cepat mencapai kondisi konvergen daripada algoritma lainnya dan memiliki standar deviasi terkecil. Sedangkan fitur optimasi SAP2000 bekerja dengan baik pada struktur rangka batang besar namun hanya berselisih 7% dari hasil SOS yang menggunakan algoritma yang belum dimodifikasi sama sekali sehingga masih terdapat ruang untuk pengembangan.",
+  "creators": "RICKY GUNAWAN; STEFANO KUSUMA ALI",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Doddy Prayogo S.T. (Advisor 2); Effendy Tanojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012153/SIP/2017; Ricky Gunawan (21413114), Stefano Kusuma Ali (21413136)",
+  "subjects": "CONCRETE-STRUCTURAL; COSNTRUCTION INDUSTRY-MANAGEMENT; TRUSSES"
+}

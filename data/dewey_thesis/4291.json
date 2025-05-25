@@ -1,0 +1,14 @@
+{
+  "id": "4291",
+  "title": "Perancangan dan pembuatan sistem informasi pembelian dan penjualan pada Toko Infodata Computindo",
+  "abstract": "Infodata Computindo adalah sebuah toko komputer yang melayani pembelian dan penjualan perlengkapan komputer mulai dari asesoris komputer, motherboard, printer, graphic card dan perlengkapan lain-lainnya. Pembelian dan penjualan ini melayani tunai dan kredit. Dalam transaksi sehari-hari toko menggunakan software lama yang kurang kompatibel dengan sistem yang ada di toko misalnya untuk update data stok toko mengalami kesukaran serta tidak adanya fasilitas purchase order dan retur. Sistem di dalam program ini didesain menggunakan Data Flow Diagram dan Entity Relationship Diagram. Program ini dibuat menggunakan program Borland Delphi 7.0 dan Microsoft Access 2003. Dengan menggunakan program ini, semua transaksi pembelian dan penjualan termasuk pembayaran akan disimpan ke dalam database secara otomatis sesuai dengan system yang ada. Semua informasi yang telah disimpan dapat dipanggil sewaktu-waktu, sehingga aktifitas di dalam toko ini dapat dilakukan dengan efisien. Program ini akan menghasilkan laporan-laporan transaksi yang diperlukan dan untuk transaksi pembelian dapat berdasarkan order pembelian yang sudah dibuat. Laporan-laporan ini meliputi laporan pembelian, laporan penjualan, dan juga laporan laba rugi yang dihasilkan dari proses posting transaksi pembelian dan transaksi penjualan",
+  "creators": "ERWIN SOEWONO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Arie Wirawan Margono (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000270/INF/2004; Erwin Soewono (26400119)",
+  "subjects": "DATABASE DESIGN; MANAGEMENT INFORMATION SYSTEMS; INFORMATION RESOURCES MANAGEMENT; DATABASE MANAGEMENT-COMPUTER PROGRAMS"
+}

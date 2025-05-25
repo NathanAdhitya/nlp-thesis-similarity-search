@@ -1,0 +1,14 @@
+{
+  "id": "35011",
+  "title": "Assess applicability of the functional programming paradigms in embedded hardware",
+  "abstract": "The graduation project was initiated by Philips Lighting which explores new and more efficient ways of programming embedded devices. Programming in embedded lighting domain is done using the C language with the Object Oriented programming paradigm. However applying that paradigm in combination with the low-level language like C creates a conceptual gap between the requirements and design and actual implementation. This results in reduced source code readability and maintainability. Functional programming paradigm was expected to alleviate this problem by reducing the gap and enhancing readability. A proof of concept was built on an advanced, IP-connected, digital LED driver (Power over Ethernet) device. The actual code was inspired by the rule-based decision engine concept developed by EnLight. Based on the hardware specifications of the device, the existing code to communicate with, and adherence to the functional paradigm, Lua was chosen to build the proof with. The implementation of the decision engine was altered to exploit characteristics of functional programming, such as representing actions as functions rather than as an enumeration value, using the common filter function to replace loops, and many more. The proof of concept was able to run in the device. It was also relatively more maintainable. However, it was slightly slower, less memory efficient, and less capable in dealing with low-level problems such as garbage compared to the engine in C language. This could be improved by finding a way to collect garbage when the device is idle.",
+  "creators": "DANNY BENLIN OSWAN",
+  "contributors": "MARCIN GRAMZA (Advisor 1); MICHIEL W. KOEHORST (Advisor 2); MARIELLE FRANSEN (Advisor and Examination Committee)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Undergraduate Degree No. 01021415/INF/2015; Danny Benlin Oswan (26411001)",
+  "subjects": "PROGRAMMING LANGUAGES; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "49022",
+  "title": "Implementasi program presensi mahasiswa dengan menggunakan face recognition",
+  "abstract": "Permasalahan penggunaan daftar absen fisik menyebabkan adanya ketidakvalid-an dimana mahasiswa tersebut melakukan “Penitipan Absen” yang dimana meminta mahasiswa lain untuk mewakili paraf absen. Permasalahan tersebut banyak ditemukan pada kegiatan kuliah. Deteksi wajah mahasiswa dengan menggunakan library Face Recognition sebagai cara untuk validasi dalam proses pengambilan presensi. Face Recognition membutuhkan data wajah yang telah di preprocess dan menggunakan model K-Nearest Neighbor (KNN) atau Support Vector Machine (SVM) untuk memvalidasi wajah mahasiswa pada proses presensi. Pengujian pada 15 sample gambar wajah dengan 40 jumlah class wajah memperolah akurasi rata-rata 99%. Face Recognition tidak dapat mendeteksi jika fitur wajah tertutup. Validasi Presensi mahasiswa berhasil dengan menggunakan Face Recognition untuk meminimalisir kecurangan dalam pengambilan presensi.",
+  "creators": "RICHARD LAWRENCE THIOSDOR",
+  "contributors": "Kartika Gunadi (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Justinus Andjarwirawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022023/INF/2021; Richard Lawrence Thiosdor (26416099)",
+  "subjects": "HUMAN FACE RECOGNITION (COMPUTER SCIENCE)"
+}

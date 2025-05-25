@@ -1,0 +1,14 @@
+{
+  "id": "13110",
+  "title": "Perancangan grup teknologi di PT Mentari Massen Toys",
+  "abstract": "P.T. Mentari Massen Toys adalah suatu perusahan yang bergerak dalam bidang industri, yaitu memproduksi barang-barang berupa mainan dari kayu untuk keperluan ekspor. Sistem produksi dari P.T. Mentari Massen Toys adalah job order. Item yang diproduksi oleh perusahaan ini sekarang mencapai sekitar 400 item. P.T. Mentari Massen Toys sering kali mengalami keterlambatan pengiriman order yang dikarenakan banyak hal, di antaranya adalah susunan mesin-mesin dan tata letak pabrik yang tidak optimal. Selain itu, hal ini menyebabkan juga banyaknya kebutuhan perusahaan akan material handling. Oleh karena itu dalam Tugas Akhir, ini penulis ingin membantu perusahaan dalam mengatasi masalah tersebut dengan menggunakan Grup Teknologi yang akan dilanjutkan dengan perancangan Tata Letak Pabrik. Metode yang digunakan dalam Grup Teknologi adalah ROC {Rank Order Clustering), SLCA(Single Linkage Cluster Analysis), dan Branching 5, sedangkan metode untuk Tata Letak Pabrik adalah From To Chart. Dari analisa menggunakan ketiga metode yang tersebut di alas, maka dapat diambil kesimpulan bahwa metode yang tepat dan dapat digunakan sesuai dengan keadaan di perusahaan adalah metode ROC (Rank Order Clustering), yang menghasilkan 2 machine cell, 2 part family, dan 5 bottleneck machine. Setelah didapatkan susunan mesin-mesin yang baru dengan mengguankan metode ROC tersebut langkah berikutnya adalah menyusun Tata Letak Pabrik dengan menggunakan metode From To Chart. Dari hasil perhitungan didapatkan momen awal yang terdapat di pabrik adalah 149.687,6. Sedangkan hasil perhitungan didapat momen sebesar 25.599 untuk machine cell 1 dan 3.122,4 untuk machine cell 2. Dari keadaan ini dapat diambil kesimpulan bahwa Tata Letak Pabrik yang baru dengan membagi mesin-mesin yang ada ke dalam dua machine cell, lebih efisien dibandingkan dengan Tata Letak Pabrik yang lama.",
+  "creators": "TJONDRO SOETANTO",
+  "contributors": "Didik Wahjudi (Advisor and Examination Committee)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99.54.324; Tjondro Soetanto (24493013)",
+  "subjects": "PLANT LAYOUT; MANUFACTURING PROCESSES"
+}

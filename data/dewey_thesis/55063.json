@@ -1,0 +1,14 @@
+{
+  "id": "55063",
+  "title": "Sistem kehadiran otomatis menggunakan indoor positioning system dengan fingerprinting BLE untuk monitoring pegawai PT Deuscode",
+  "abstract": "Sistem kehadiran dapat mempermudah pegawai dalam mengajukan presensi berkat teknologi. Presensi telah menggunakan teknologi seperti sistem deteksi sidik jari, deteksi wajah, dan juga sistem dengan PIN untuk pegawai dapat memasukkan nomor mereka. Presensi juga dapat menggunakan dan memanfaatkan gelombang yang dipancar dengan transmitter dan diterima oleh receiver Presensi dapat langsung mencatat kehadiran pegawai yang datang ke tempat kerja dengan melalui sebuah geleombang perantara yang dapat diterima dalam sebuah presensi yang akan diisi oleh pegawai. Contoh perantara yang dapat digunakan dalam presensi adalah gelombang radio. gelombang radio memiliki kelebihan sendiri dalam mengatur presensi pengguna, sinyal dapat diterima oleh pengguna meski dalam jarak jauh. Penerapan dari gelombang radio ini adalah dengan GPS, ultraband, Wi-Fi dan lainnya. Jika sistem kehadiran berada di lingkungan tempat kerja maka sistem akan memanfaatkan gelombang yang bisa bekerja di tempat yang tertutup. Bluetooth low energy menjadi fokus dalam penggunaan ini karena BLE tidak memakan banyak energi dan juga harga yang terjangkau bila dibandingkan dengan Wi-Fi. Sistem akan berfungsi untuk menerima presensi dari pegawai dengan mobile phone dengan memindai sinyal dari bluetooth low energy. Sistem juga akan memberikan posisi dan lokasi dari pegawai .Performa dalam sistem ini akan diukur berdasarkan keakuratan dari beacon BLE untuk mendapat posisi dari pengguna saat pengguna ada di dalam ruangan.",
+  "creators": "WILLIAM EHUD GUNAWAN",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); ANITA NATHANIA PURBOWO, S.KOM. (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022221/INF/2022; William Ehud Gunawan (C14180212)",
+  "subjects": "BLUETOOTH TECHNOLOGY; FINGERPRINTS-DATA PROCESSING; INDOOR POSITIONING SYSTEMS (WIRELESS LOCALIZATION)"
+}

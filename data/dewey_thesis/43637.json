@@ -1,0 +1,14 @@
+{
+  "id": "43637",
+  "title": "Simulasi operasi pemindahan tanah mekanis pada proyek konstruksi menggunakan cyclone",
+  "abstract": "Permasalahan yang sering ditemukan dalam proyek konstruksi adalah kurangnya tingkat efisiensi alat berat yang menyebabkan idle time. Idle time pada siklus alat berat terjadi karena kurangnya pengetahuan dalam perencanaan alat berat yang menyebabkan keterlambatan dalam operasi konstruksi dan menimbulkan biaya alat yang berlebih. Operasi alat berat dapat dikatakan efisien apabila memiliki idle time yang minimum. Salah satu cara untuk mengantisipasi tidak efisiennya operasi alat berat adalah dengan simulasi. Simulasi yang digunakan dalam tugas akhir ini adalah metode simulasi Cyclone (Cyclic Operation Network). Simulasi ini diaplikasikan pada proyek Unika Widya Mandala, Surabaya. Observasi lapangan didapatkan proses urutan pekerjaan pemindahan galian tanah mekanis dan waktu siklus dari backhoe dan dump truck. Setelah mendapatkan urutan pekerjaan dan durasi kegiatan dilakukan penyusunan model operasi pemindahan tanah mekanis. Tahap akhir dari simulasi ini adalah melakukan optimasi pada backhoe dan dump truck yang digunakan dengan analisa sensivitas yang merupakan optimalisasi dari hasil output Webcyclone. Dari hasil output WebCyclone didapatkan nilai produktivitas dan idle time dari tiap sumber daya. Hasil simulasi ini menghasilkan produktivitas yang optimal dan meminimalisir idle time pada sumberdaya. Dari simulasi Webcyclone dengan menggunakan sumberdaya 2 buah backhoe dan 2 buah dump truck didapatkan hasil produktivitas pada model operasi pemindahan tanah mekanis adalah sebesar 32.34 M3/Jam dengan idle time pada ‘backhoe 1’ sebesar 54,82%. Dari optimasi yang dilakukan, didapatkan hasil kombinasi sumberdaya yang paling optimal dengan menggunakan 4 dump truck dan 2 backhoe dimana didapatkan produktivitas sebesar 54.6 M3/jam dan dengan idle time sumberdaya adalah 17.64%.",
+  "creators": "KENNY ALDER; ANDY SETIAWAN",
+  "contributors": "Ratna S. Alifen (Advisor 1); Herry Pintardi Chandra (Examination Committee 1); Jonathan Hendra Kusuma (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Undergraduate Thesis No. 21012303/SIP/2019; Kenny Alder (21414001), Andy Setiawan (21414103)",
+  "subjects": "CONSTRUCTION INDUSTRY--MANAGEMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "9109",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi berbasis web untuk lembaga continuing education centre",
+  "abstract": "Continuing Education Centre (CE) adalah salah satu unit kampus Universitas Kristen Petra yang bergerak di bidang pendidikan berkelanjutan. Produk yang dipasarkan oleh CE adalah program -program training atau workshop Dalam Tugas Akhir ini, didesain sebuah aplikasi berbasis web yang dapat membatu CE dalam meningkatkan kualitas pelayanan. Selama ini sistem pencatatan data masih dilakukan secara manual baik dalam transaksi keuangan ataupun proses administrasi sehingga dapat menimbulkan kesalahan. Perancangan sistem dimulai dari pembuatan desain sistem yang menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk pembuatan tabel beserta relasinya, serta desain interface sampai ke implementasi dan pengujian sistem. Pembuatan program aplikasi ini menggunakan bahasa pemrograman PHP dan MySQL untuk pembuatan database. Hasil dari aplikasi yang dibuat berupa data peserta, data pengajar, data transaksi kas kecil dan kas bank, pengkodean kelas, pembukaan dan penutupan kelas, perhitungan break-event point, pencatatan kelas yang pernah diikuti peserta, pencatatan kelas yang penah diajar oleh pengajar, dan laporan keuangan.",
+  "creators": "ERWIN DEVIN SUGIHARTO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Ibnu Gunawan (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010659/INF/2007; Erwin Devin Sugiharto (26403049)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "17093",
+  "title": "Perancangan dan pembuatan penghitungan harga pokok produksi pada UD. Golden Surabaya dengan metode campuran",
+  "abstract": "UD. Golden adalah sebuah perusahaan yang bergerak di bidang garment, khususnya dalam pembuatan sprei dan bed cover. Pembuatan aplikasi ini dilakukan untuk membantu pemilik dalam menentukan harga pokok produksi setiap jenis sprei dan bed cover. Didukung dengan perkembangan teknologi informasi yang semakin maju sehingga terciptalah perpaduan antara teknologi dengan sistem akuntansi yang biasa disebut dengan akuntansi biaya dimana dengan sistem tersebut kita dapat menghitung harga pokok produksi suatu produk. Metode yang digunakan dalam pembuatan aplikasi ini adalah metode campuran yaitu perpaduan antara metode pesanan dengan metode proses. Aplikasi ini dibuat dengan menggunakan Borland Delphi 7.0 dan Microsoft Access 2003 sebagai database-nya. Modul yang dibuat dalam aplikasi ini adalah master bahan baku, detil bahan baku, pembelian, pengeluaran, production order, production cost report, alokasi join cost, dan job cost sheet. Setelah melakukan uji coba pada aplikasi yang telah dibuat dengan cara membandingkan hasil penghitungan harga pokok produksi menggunakan aplikasi ini dengan cara manual, didapatkan hasil yang berbeda. Perbedaan itu disebab karena cara manual tidak menghitung biaya overhead operasional sedangkan aplikasi yang sudah dibuat menghitungnya dan memasukkan semua jenis overhead yang ada.",
+  "creators": "HENDRA YEHEZKIEL S",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Leo Willyanto Santoso (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020898/INF/2010; Hendra Yehezkiel (26404013)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

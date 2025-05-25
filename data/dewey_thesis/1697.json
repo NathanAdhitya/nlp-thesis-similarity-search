@@ -1,0 +1,14 @@
+{
+  "id": "1697",
+  "title": "Sistem parkir prabayar",
+  "abstract": "Sistem parkir yang berlaku saat ini masih dilakukan secara manual dan memiliki beberapa kelemahan, antara lain sering terjadinya praktik korupsi yang dilakukan oleh juru parkir, penarikan biaya parkir secara serampangan, dan tingkat keamanan yang masih kurang. Dari permasalahan di atas timbul suatu gagasan untuk melakukan pembayaran parkir dengan sistem prabayar menggunakan kartu chip . Tujuan pembuatan tugas akhir ini adalah penggunaan kartu chip sebagai alat pembayaran parkir. Metode yang digunakan adalah penggunaan mikrokontroler untuk menghitung biaya parkir dan melakukan pengurangan saldo kartu chip, mencatat data-data yang diperlukan (seperti nomor pelat kendaraan, nomor ID alat, dan kode pengaman) ke dalam kartu chip, dan melakukan proses penyetoran secara elektronik dengan menggunakan komputer. Kartu chip yang digunakan adalah kartu chip ISO 7816 tipe AT24C08SC, namun pada tugas akhir ini diganti PCB yang berbentuk kartu chip ISO 7816 dengan Serial EEPROM. Sistem telah dapat berjalan dengan baik, hal ini dibuktikan dengan melakukan setiap proses yang diperlukan baik untuk perangkat pengisian maupun perangkat parkir. Sistem ini berukuran 199 x 175 x 48,5 mm, dengan berat 670 gram, menggunakan catu daya 9 volt DC.",
+  "creators": "EDWIN JAYA LOWANTO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/657/ELK/2003; Edwin Jaya Lowanto (23499135)",
+  "subjects": "DIGITAL CONTROL SYSTEMS; AUTOMATIC CONTROL; ELECTRONIC DIGITAL COMPUTERS"
+}

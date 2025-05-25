@@ -1,0 +1,14 @@
+{
+  "id": "11135",
+  "title": "Alat pengukur ketebalan antara 10-30 mm dengan menggunakan mikrokontroller 8749",
+  "abstract": "Pemakaian microprocessor dalam berbagai bidang sebagai control otomatis hampir ditemui setiap hari terutama dalam industri-industri. Salah satu aplikasi yang disajikan di sini adalah penggunaan mikrokomputer 8749 sebagai alat pengukur ketebalan. Agar data input dapat diproses, maka terlebih dahulu harus dirubah ke dalam bentuk sinyal listrik dengan menggunakan transducer, kemudian output dari transducer tersebut di inputkan ke dalam comparator dengan raengambil tegangan referensi sebagai pembanding. Output dari comparator di inputkan kedalam multiplexer dan melalui multiplexer dikontrol oleh mikrokomputer 8749 lalu ditampilkan. Pembuatan alat ukur ini mempunyai keterbatasan dalam pengukuran dimana hanya mampu mengukur ketebalan dari sepuluh sampai dengan tigapuluh milimeter dan memiliki ketelitian sebesar satu milimeter. Dengan adanya aplikasi penggunaan mikrokomputer 8749 ini maka diharapkan kerumitan hardware dapat dihindari, karena didalam satu chip mikrokomputer 8749 sudah terdapat RAM, EPROM, dan I/O yang dapat diperluas.",
+  "creators": "TEDDY GUNAWAN",
+  "contributors": "HANDAYANI T. (Actor); YOHANES T. D. S (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/017/0076; Teddy Gunawan (14484085)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; MICROCONTROLLERS"
+}

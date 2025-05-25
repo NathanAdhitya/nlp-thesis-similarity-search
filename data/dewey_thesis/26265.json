@@ -1,0 +1,14 @@
+{
+  "id": "26265",
+  "title": "Perbandingan beberapa metode numerik untuk penyelesaian analisa dinamis struktur",
+  "abstract": "Dalam tulisan ini dibandingkan beberapa macam metode numerik yang biasa dipakai untuk menyelesaikan analisa dinamis struktur. Untuk keperluan perbandingan digunakan kriteria waktu yang dibutuhkan untuk menyelesaikan suatu persoalan tertentu dengan suatu batasan ketelitian yang telah ditentukan sebelumnya. Perbandingan dilakukan pada struktur elastis, tidak ada peredam dan derajat kebebasan tunggal. Adapun metode-metode numerik yang dibandingkan adalah metode Constant-Velocity, metode Constant-Average-Acceleration, metode Linear- Acceleration, metode Linear-Acceleration - Linear-Velocity, metode Newmark-B (B :0,2), dan metode Wilson-0 (0=1,4). Sedang tipe-tipe pembebanan yang ditinjau adalah beban impuls, beban harmonis, dan beban percepatan pondasi (beban gempa). Sebuah program dalam bahasa Turbo Pascal telah dibuat untuk menyelesaikan perhitungan-perhitungan yang diperlukan. Demikian juga untuk keperluan menggambar dengan plotter telah dibuat sebuah program komputer dalam bahasa Basic. Dan hasil penelitian, penulis berkesimpulan bahwa pengambilan interval waktu ( ^t ) sebesar 1/10 T tidak bisa selamanya dipakai untuk semua tipe pembebanan untuk mendapatkan hasil yang baik. Secara umum metode Linear- Acceleration - Linear-Velocity merupakan metode yang terbaik untuk beban impuls, sedang metode Constant-Velocity merupakan metode yang terbaik untuk beban harmonis dan percepatan pondasi.",
+  "creators": "ONNYXIFORUS GONDOKUSUMO; BAMBANG SOEBIANTORO",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Ir. GIDEON HADI KUSUMA, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 357 S; Onnyxiforus Gondokusumo (283007), Bambang Soebiantoro (283008)",
+  "subjects": "STRUCTURAL DYNAMICS-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "39277",
+  "title": "Pembuatan aplikasi mobile augmented reality dengan scene recognition memanfaatkan convolutional neural network",
+  "abstract": "Perkembangan teknologi smartphone dan kebutuhan masyarakat mencari informasi suatu tempat membuka kesempatan untuk pemanfaatan augmented reality untuk membantu memperoleh informasi tempat sambil melihat melalui kamera. Sistem AR berbasis sensor mengandalkan GPS yang tidak bisa selalu tersedia. Pada penelitian ini digunakan sistem AR dengan memanfaatkan convolutional neural network untuk mendeteksi scene. Terdapat 45 variasi network yang akan diuji untuk menemukan kombinasi yang terbaik. Parameter yang dibedakan adalah arsitektur, metode inisialisasi, dan fungsi aktivasi yang digunakan. Arsitektur yang digunakan adalah GoogLeNet dan 2 variasi GoogLeNet yang diperkecil. Metode inisialisasi yang digunakan adalah inisialisasi secara random (Xavier dan MSRA) dan inisialisasi menggunakan weight yang sudah di-training sebelumnya. Fungsi aktivasi yang digunakan adalah ReLU, PReLU, dan ELU. Augmentasi data yang dilakukan saat training berupa random cropping, color balance, rotasi, blur, sharpen, serta manipulasi brightness dan contrast. Dari 1649 foto di 12 kategori scene, digunakan 321 foto untuk testing dengan variasi rotasi (interval 30 derajat), blur, sharpen, brightness, dan contrast. Didapati bahwa jaringan dengan metode inisialisasi dengan finetuning di seluruh bagian network dan fungsi aktivasi PReLU memiliki rata-rata akurasi yang lebih baik.",
+  "creators": "JOSEPH NATHANAEL WITANTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi N0. 01021642/INF/2017; Joseph Nathanael Witanto (26413016)",
+  "subjects": "ANDROID (COMPUTER PROGRAM); ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); NEURAL NETWORKS"
+}

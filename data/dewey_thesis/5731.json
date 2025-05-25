@@ -1,0 +1,14 @@
+{
+  "id": "5731",
+  "title": "Alat ukur kekuatan benang jahit berbasis AVR dengan menggunakan strain gage",
+  "abstract": "Pembuatan tugas akhir ini dimaksudkan agar dalam produksinya, industri textil dapat memilih dan menggunakan benang yang memiliki kekuatan yang cukup kuat. Sehingga, dapat menghasilkan suatu produk dengan kualitas yang lebih baik Alat ukur benang ini menggunakan sebuah mikro kontroler tipe AVR yang memiliki fitur tambahan seperti ADC internal, komunikasi serial dan internal clock osscilator. Pada Alat ukur benang ini AVR berfungsi sebagai pengatur dari komponen lain seperti LCD (Liquid Crystal Display) dan MAX-232 serta sebagai pengolah data. Data kekuatan maksimal yang dapat diterima oleh benang diperoleh menggunakan sensor Strain gage yang dipasang pada plat. Untuk mendapatkan nilai kekuatan dari suatu benang, salah satu ujung benang tersebut diikatkan pada plat dan ujung yang lain pada gulungan yang terhubung pada motor kemudian gulungan tersebut akan menggulung benang hingga putus sehingga plat akan menerima tarikan.Data nilai terkuat yang dapat diterima oleh benang ditampilkan dalam dua bentuk yaitu nilai maksimalnya saja (tampilan pada LCD), dan dalam bentuk grafik yang dapat dilihat pada komputer. Grafik pada komputer dapat disimpan dalam bentuk data sehingga dapat ditampilkan kembali proses yang terjadi dan dapat pula disimpan dalam bentuk gambar Berdasarkan pengujian, nilai yang didapatkan untuk satu jenis benang kadang berbeda - beda dikarenakan pada satu gulungan terdapat bagian yang mudah putus selain itu plat tidak kembali pada posisi terakhir setelah penarikan suatu benang telah selesai.",
+  "creators": "EDWIN NINABER",
+  "contributors": "Hany Ferdinando (Advisor 1); Lauw Lim Un Tung (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010779/ELK/2006; Edwin Ninaber (23401105)",
+  "subjects": "MICRO CONTROLLERS; ELECTRIC MEASUREMENTS"
+}

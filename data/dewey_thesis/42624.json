@@ -1,0 +1,14 @@
+{
+  "id": "42624",
+  "title": "Balancing robot roda dua dengan metode rule base berbasis mikrokontroller arduino",
+  "abstract": "Balancing Robot Roda Dua dengan Metode Rule base Berbasis Mikrokontroller Arduino Metode robot beroda dua untuk keseimbangan memerlukan kontrol yang baik untuk mempertahankan posisi robot dalam keadaan tegak. Balancing robot ini dikembangkan menjadi satu model yaitu Segway. Balancing robot menggunakaan mikrokontroller arduino, sensor IMU 6050, serta kontrol Rule base. Kontrol Rule base digunakan untuk membuat robot dapat berdiri tegak dengan menentukan range dan output motor yang sesuai. Berdasarkan hasil pengujian respon robot yang dihasilkan untuk mencapai titik tegak sangat cepat sebelumya. Seperti pada percobaan dengan set awal yang paling besar dengan kemiringan robot -11 hingga -70 dengan rata-rata respon 421 iterasi dan set awal kemiringan robot 13 hingga 70 derajat dengan respon rata-rata untuk mencapai tegak yaitu 386 iterasi.",
+  "creators": "HENDRA.WIJAYA",
+  "contributors": "Handry Khoswanto (Advisor 1); Felix Pasila (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010965/ELK/2018; Hendra Wijaya (23412024)",
+  "subjects": "ARDUINO; MICROCONTROLLERS; MICROPROCESSSORS; ROBOTS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "35050",
+  "title": "Aplikasi perbaikan dan manipulasi citra digital berbasis android",
+  "abstract": "Teknologi yang selalu berkembang saat ini adalah smartphone. Bahkan saat ini smartphone dapat menggantikan banyak peran salah satunya kamera ataupun komputer dan telah menjadi sebagai salah satu kebutuhan bagi kebanyakan orang. Kamera dari ponsel salah satunya yang banyak digunakan, namun terkadang hasil gambar masih kurang bagus sehingga perlu adanya perbaikan citra. Aplikasi edit di komputer salah satu cara untuk memperbaikinya. Akan tetapi dengan hal itu masih kurang praktis karena banyak proses yang harus dilakukan. Oleh karena itu, dengan aplikasi perbaikan dan manipulasi citra digital berbasis android ini lebih memudahkan untuk melakukan pengeditan atau pengubahan pada gambar. Sistem yang dibuat meliputi proses pengambilan gambar dari sd card smartphone, memasukkan gambar ke acticty menu utama editor. Pada menu ini dapat dipilih empat menu yang ada yaitu brightness, contrast, auto contrast dan blur. Proses auto contrast menggunakan metode histogram dan menggunakan ruang warna RGB dan HSV sedangkan untuk proses blur, brightness dan contrast menggunakan ruang warna RGB. Aplikasi ini dibuat menggunakan bahasa pemrograman java dengan android studio sebagai IDE nya. Hasil pengujian menunjukkan value atau angka penambah dan pengali untuk proses brightness dan contrast sangat berpengaruh pada hasil akhir gambar, karena akan membuat gambar tersebut terlihat semakin cerah atau gelap. Pemberian efek blur tidak bisa diberikan sekali untuk tingkat blur tinggi karena efek blur yang tinggi membuat prosesnya akan lama. Pada proses auto hasil pada gambar yang terlalu terang akan menghasilkan gambar yang berbayang atau terlihat pecah proses auto berkerja lebih baik jika pada gambar yang cenderung gelap, besar pixel juga mempengaruhi kerja proses editing.",
+  "creators": "ANTHONY WIJAYA",
+  "contributors": "Liliana (Advisor 1); ANITA NATHANIA (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021451/INF/2015; Anthony Wijaya (26411066)",
+  "subjects": "ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (ELECTRONIC RESOURCE)-PROGRAMMING; DIGITAL IMAGE PROCESSING"
+}

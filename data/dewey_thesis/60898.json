@@ -1,0 +1,14 @@
+{
+  "id": "60898",
+  "title": "Pelacakan posisi lansia dalam ruangan untuk sistem pengantar benda",
+  "abstract": "Pelacakan posisi lansia dalam ruangan dibuat untuk membantu sistem pengantar benda mengetahui lokasi posisi lansia secara waktu nyata. Dengan bantuan pelacakan posisi lansia dalam ruangan, mobilitas pada sistem pengantar benda menjadi lebih bebas dan lebih dapat diandalkan. Pelacakan posisi lansia ini penting agar sistem pengantar benda dapat mengantarkan benda ke lokasi lansia yang tepat. Sistem pelacakan posisi menggunakan perangkat ESP32 DW1000 yang dilengkapi dengan teknologi ultra wideband (UWB) dan bluetooth low energy (BLE). Dengan menggabungkan kedua teknologi ini, yaitu BLE sebagai pengukuran koordinat sebelum sistem pengantar benda meminta koordinat lansia dan UWB sebagai pengukuran koordinat setelah sistem pengantar benda meminta koordinat lansia. Hasil pengujian pengukuran koordinat lansia menggunakan algoritma trilateration yang dilakukan menggunakan BLE memiliki rata-rata 13.76% persentase akurasi. Sedangkan hasil pengujian pengukuran koordinat lansia menggunakan algoritma trilateration yang dilakukan menggunakan UWB memiliki rata-rata 94.61% persentase akurasi. Pengujian siklus kerja alat ESP32 dari BLE menjadi UWB memberikan hasil BLE membutuhkan daya 0.41W atau 47.67% yang lebih besar dibandingkan UWB.",
+  "creators": "BERTRANDO GUNAWAN",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010159/ELK/2024; Bertrando Gunawan (C11200027)",
+  "subjects": "OLDER PEOPLE; TRACKING (ENGINEERING); ULTRA-WIDEBAND COMMUNICATION SYSTEMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "50560",
+  "title": "Pengenalan penyakit pada tanaman pokok di Indonesia dengan metode convolutional neural network",
+  "abstract": "Di Indonesia makanan pokok yang paling banyak dikonsumsi adalah nasi, nasi tersebut berasal dari tanaman padi, selain nasi juga terdapat tanaman singkong dan jagung. Keberhasilan panen tanaman-tanaman tersebut dapat mempengaruhi kesejahteraan pangan negara, namun serangan hama dan penyakit meyebabkan kegagalan panen. Oleh karena itu, dibuatlah program yang dapat membantu dalam mengidentifikasikan penyakit pada tanaman- tanaman tersebut sehingga dapat memaksimalkan hasil panen. Pada proses identifikasi penyakit, masalah yang sering terjadi adalah pengenalan karakteristik penyakit. Dengan berkembangnya teknologi, pengenalan penyakit dapat dilakukan secara otomatis menggunakan Neural Network. Penelitian ini menggunakan metode Convolutional Neural Network (CNN) dengan arsitektur Inception v3. Juga, model yang digunakan akan dikonversikan menggunakan TensorFlow Lite sehingga bisa digunakan dalam aplikasi smartphone berbasis Android. Hasil program dari penelitian ini mengidentifikasikan penyakit pada tanaman jagung, kentang, singkong, dan padi. Berdasarkan pengujian yang dilakukan, didapatkan nilai akurasi rata-rata sebesar 90.77% pada pengujian data testing. Pengujian pada lapangan sesungguhnya menghasilkan rata-rata akurasi sebesar 65.00%.",
+  "creators": "HANDY PRAYOGA ANG JAYA",
+  "contributors": "Kartika Gunadi (Advisor 1); Rudy Adipranata (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022084/INF/2021; Handy Prayoga Ang Jaya (C14170131)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE)"
+}

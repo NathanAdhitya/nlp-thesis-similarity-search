@@ -1,0 +1,14 @@
+{
+  "id": "28111",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada perusahaan importir PT. X",
+  "abstract": "PT. X adalah unit usaha yang bergerak di bidang perdagangan ban dan velg yang berlokasi di Surabaya Provinsi Jawa Timur. Dalam kegiatannya sehari-hari PT. X masih menerapkan sistem manual dalam proses pencatatan transaksi dan menentukan laba rugi. Hal ini menyebabkan proses penghitungan berjalan lambat dan kurang akurat jika dibandingkan dengan menggunakan sistem yang terkomputerisasi. Oleh karena itu PT. X membutuhkan sistem informasi akuntansi yang terkomputerisasi, dengan harapan dapat mengatasi masalah yang dihadapi. Sistem informasi akuntansi yang dimaksud agar dapat membantu pemilik perusahaan dalam mencatat semua transaksi yang dilakukan dan mengolahnya menjadi laporan yang berguna bagi pemilik untuk pengembangan perusahaan kedepannya. Perancangan desain sistem menggunakan Data Flow Diagram dan Entity Relationship Diagram. Program menggunakan MySQL Server sebagai database, dan menggunakan bahasa pemrograman PHP. Ruang lingkup program yang dibuat meliputi pembuatan database master untuk supplier, customer, bahan ban, jenis barang, merek barang, jenismobil, tipe arsiran, COA, dan barang. Transaksi meliputi transaksi pemesanan pembelian, penerimaan pembelian, pemesanan penjualan, penjualan, penyesuaian stok, penjualan barang bekas, retur penjualan, pengganti retur penjualan, serta pembuatan jurnal secara otomatis.Dari hasil kuisioner, secara keseluruhan aplikasi yang telah mendapatkan nilai kompeten yang berarti aplikasi ini sesuai dengan kebutuhan perusahaan. Laporan yang dihasilkan akurat sesuai dengan perhitungan manual. Selain itu desain interface program dan kemudahan penggunaan antar menu dianggap sudah baik oleh user.",
+  "creators": "LOENARDI",
+  "contributors": "Yulia (Advisor 1); Alexander Setiawan (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021242/INF/2013; Loenardi (26409052)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN; DATABASE MANAGEMENT"
+}

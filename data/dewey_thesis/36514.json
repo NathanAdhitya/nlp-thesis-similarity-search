@@ -1,0 +1,14 @@
+{
+  "id": "36514",
+  "title": "Studi elemen discrete kirchhoff-mindlin quadrilateral (DKMQ) untuk analisis statik pelat lentur dan pengembangan untuk tekuk pelat",
+  "abstract": "Analisis pelat lentur yang menggunakan metode elemen hingga telah mengalami banyak perkembangan. Salah satunya adalah elemen yang dikembangkan oleh Katili pada tahun 1993, yaitu Discrete-Kirchhoff Mindlin Quadrilateral (DKMQ). Elemen ini diklaim telah memenuhi berbagai kriteria, seperti lolos patch test, tidak terjadi shear locking, tidak ada tambahan zero-energy modes, tidak sensitif terhadap distorsi bentuk, dan konvergensi elemen yang baik. Untuk membuktikan hal-hal tersebut, pada penelitian ini elemen DKMQ akan digunakan sebagai elemen uji coba, dengan batasan berupa analisis linear dan material isotropik. Selain itu, akan dilakukan pengembangan pada elemen DKMQ untuk analisis tekuk pelat. Dengan berbagai percobaan dan pengujian dalam perhitungan statik, hasil dari elemen ini sesuai dengan apa yang telah diklaim sebelumnya. Hanya saja, pada pengujian patch test terhadap constant shear elemen ini mempunyai hasil yang kurang tepat terhadap hasil eksaknya. Sedangkan untuk analisis tekuk, elemen DKMQ menunjukkan konvergensi yang cukup baik, namun gaya kritis yang dihasilkan mengarah pada nilai yang sedikit di bawah hasil referensi.",
+  "creators": "ERWIN; ALEXANDER RICHARD",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Benjamin Lumantarna (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012062/SIP/2015; Erwin (21412038), Alexander Richard (21412101)",
+  "subjects": "PLATES (ENGINEERING); ELASTIC PLATES AND SHELLS"
+}

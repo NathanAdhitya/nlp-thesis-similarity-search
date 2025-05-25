@@ -1,0 +1,14 @@
+{
+  "id": "4618",
+  "title": "Implementasi wonderware suitevoyager 2.5 untuk scada berbasis web pada plc omron cpmi",
+  "abstract": "Tugas akhir ini dibuat dengan tujuan mengimplementasikan Wonderware SuiteVoyager 2.5 untuk membuat Man Machine Interface yang berbasis Web Internet, sehingga dapat di akses dari jarak jauh. PLC di hubungkan dengan PC Server menggunakan kabel serial RS-232. Plant berupa sebuah miniatur rumah sederhana. Plant di kontrol PLC OMRON CPM1 dengan menggunakan ladder diagram yang dibuat melalui software Sysmac-CPT v1.12. Program yang digunakan adalah Wonderware InTouch 9.0, Wonderware InSQL 8.0, Wonderware SuiteVoyager 2.5, OMRON Host Link. Dari hasil pengujian, sistem ini dapat melakukan fungsi controlling dan monitoring pada plant, sistem ini dapat menyimpan status ke dalam database dan menampilkan isi database ke dalam web portal. Konsumsi daya total adalah 2,7337 Watt. Respon waktu yang diperlukan pada jaringan intranet sebesar 0,77 detik untuk menyalakan lampu, sebesar 1,21 detik untuk menyalakan fan, dan sebesar 1,87 detik untuk menyalakan dimmer. Respon waktu yang diperlukan pada jaringan internet sebesar 1,16 detik untuk menyalakan lampu, sebesar 1,34 detik untuk menyalakan fan, dan sebesar 1,95 detik untuk menyalakan dimmer.",
+  "creators": "RONALD AUDHIE",
+  "contributors": "Resmana Lim (Advisor 1); Handy Wicaksono (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010820/ELK/2006; Ronald Audhie (23402014)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; SCADA (SOFTWARE SUPERVISOR CONTROL AND DATA ACQUISITION)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "30312",
+  "title": "Perancangan dan pembuatan perangkat lunak untuk memantau pergerakan sebuah benda dalam ruang tiga dimensi dengan metode stereo vision",
+  "abstract": "Pada saat ini sangat penting untuk sebuah komputer dapat mengetahui letak sebuah objek dalam ruangan tiga dimensi. Sebagai contoh dalam sistem motion detector, aplikasi untuk membuat three dimension object modeling. Tujuan dari tugas akhir ini adalah membuat sebuah perangkat lunak yang dapat memetakan objek dalam ruangan tiga dimensi serta menggambarkan ulang secara tiga dimensi. Perangkat lunak menggunakan metode stereo vision. Metode ini sering disebut dengan nama binocular yaitu perhitungan jarak objek dengan menggunakan dua kamera. Konsep dari perangkat lunak ini seperti konsep mata manusia. Kedua gambar yang ditangkap oleh kedua kamera merupakan input yang dipakai oleh perangkat lunak, kemudian kedua gambar diolah untuk mendapatkan titik-titik yang correspondence. Setelah itu nilai X dan Y dari kedua pasangan titik yang saling ber-correspondence digunakan untuk menentukan lokasi objek di 3D world coordinate. Hasil pengujian dari perangkat lunak ini menunjukkan hasil yang lumayan bagus di mana tingkat ketepatan perangkat lunak dalam menentukan lokasi objek antara 50.00% sampai dengan 99.99%.",
+  "creators": "DARMAWAN SUGIARTO",
+  "contributors": "Resmana Lim (Advisor 1); Arie Wirawan Margono (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000299/INF/2004; Darmawan Sugiarto (26400050)",
+  "subjects": "COMPUTER GRAPHICS--COMPUTER PROGRAMS; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "28186",
+  "title": "Perencanaan dan pembuatan kontrol digital dengan menggunakan MCS-51 untuk pengontrolan magnetic levitation",
+  "abstract": "Perkembangan teknologi yang luar biasa pesat di segala bidang, terutama bidang Industri menuntut suatu sistem kontrol yang automatik, presisi, cepat dan spontan/real time. Pengontrolan automatik yang dimaksud di sini adalah pengontrolan dengan digital control, yang dapat menentukan aksi sistem yang dikontrol sesuai dengan inputnya, sehingga dapat didapat pengontrolan yang baik. Sistem yang dimaksud adalah sistem kontrol Magnetic Levitation, yang membutuhkan pengontrolan yang tinggi karena bola besi yang mengambang selalu dipengaruhi efek gravitasional, sehingga sistem ini membutuhkan pengontrolan yang presisi, cepat dan spontan. Pengontrolan Magnetic Levitation ini menggunakan microcontroller 8052AH Basic Interpreter untuk memproses perhitungan matematis kontrol PID dan memperkirakan nilainilai Kp, Ki dan Kd dari proses learning. Konstanta-konstanta PID yang diperoleh kemudian disubstitusikan ke persamaanpersamaan PID yang dipergunakan untuk mengatur sistem ini, pada setting point yang dikehendaki. Pengendalian dilakukan oleh microcontroller 8052 dengan memberikan pulsa PWM melalui power interface ke Elektromagnet (mengkonversi pulsa PWM menjadi level tegangan) . Feedback dilakukan dengan menggunakan sensor peka cahaya {photo transistor). Pada dasarnya sistem pengontrolan ini sangat baik, terutama untuk proses yang membutuhkan kecepatan kontrol yang tinggi dan presisi, dan dapat dikembangkan lagi untuk bermacam-macam aplikasi.",
+  "creators": "FAJAR HARIYANTO",
+  "contributors": "Murtiyanto Santoso (Advisor 1); MOCHAMAD HEROE (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No 94/E/EL/031/188; Fajar Hariyanto (23488064)",
+  "subjects": "MAGNETIC SUSPENSION; PROCESS CONTROL-COMPUTER PROGRAMS"
+}

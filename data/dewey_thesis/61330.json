@@ -1,0 +1,14 @@
+{
+  "id": "61330",
+  "title": "Development of a potential roof area detection and calculation system for rooftop PV installation using the machine vision method",
+  "abstract": "Solar energy is a renewable energy alternative that is increasingly in demand because of its great potential and minimal negative impact on the environment. This research aims to develop a detection and calculation system for potential roof areas for installing solar photovoltaic (solar PV) modules on building roofs using Machine Vision. This system uses Geographic Information System (GIS) technology to map and analyze estimates of total solar energy on building roofs in the Java, Bali and Nusa Tenggara regions. The method used in this research uses image segmentation with adaptive thresholding techniques to detect building roofs and takes light intensity data from the National Renewable Energy Laboratory (NREL) to calculate the potential for electrical energy produced in an area. The system was developed and designed to be user-friendly by displaying information via a JavaScript-based interactive map website. The research results show that the method used can detect and calculate the roof area correctly at zoom levels 20 to 16 and provide an estimate of the total electrical energy from the installed solar photovoltaic (solar PV) modules. Thus, this system can be a tool that can facilitate and support the development of renewable energy in Indonesia.",
+  "creators": "CHRISTIAN REYNER",
+  "contributors": "Indar Sugiarto (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011066/ELK/2024; Christian Reyner (C11200029)",
+  "subjects": "GEOGRAPHIC INFORMATION SYSTEMS; PHOTOVOLTAIC POWER SYSTEMS; SOLAR ENERGY; MACHINE VISION"
+}

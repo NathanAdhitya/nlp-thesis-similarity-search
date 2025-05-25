@@ -1,0 +1,14 @@
+{
+  "id": "14632",
+  "title": "Pemilihan supplier dan perencanaan kebutuhan bahan baku kayu di perusahaan mebel",
+  "abstract": "Perusahaan mebel yang diamati pada Tugas Akhir ini menghasilkan produk-produk mebel dari kayu dimana hasil produksinya adalah untuk keperluan ekspor. Bahan baku utama yang digunakan adalah kayu ramin dan diperoleh dari beberapa supplier di luar pulau, yaitu Kalimantan. Untuk itu pemilihan supplier bahan baku kayu di perusahaan mebel tersebut memegang peranan yang cukup penting karena pemesanan dilakukan dalam kuantitas yang tidak sedikit sehingga menyangkut biaya yang tidak sedikit pula. Dengan membuat suatu model Mixed Integer Programming untuk pemilihan supplier ini maka akan diperoleh suatu keputusan yang tepat dengan tujuan untuk melakukan penghematan biaya dengan mempertimbangkan biaya pemesanan, harga beli dan kuantitas pemesanan yang diperkenankan. Perencanaan kebutuhan bahan baku kayu juga memiliki peranan yang cukup penting mengingat keseluruhan hasil produksinya diekspor ke luar negeri, yang tentunya memiliki resiko keterlambatan yang cukup besar pula. Salah satu faktor yang perlu diperhatikan di dalam perencanaan kebutuhan bahan baku adalah proses peramalan permintaan dimana metode yang tepat harus dipilih berdasarkan pola-pola permintaan masa lalu. Di sini penulis menggunakan metode peramalan Double Exponential Smoothing dan Winter's Method yang sesuai dengan pola permintaan masa lalu yang ada. Untuk membuat suatu jadual produksi (Master Production Schedule) digunakan model Linear Programming dengan tujuan untuk meminimumkan biaya. Sedangkan untuk menentukan besarnya kuantitas bahan baku sekali pemesanan (lot sizing) digunakan metode Economic Order Quantity (EOQ) probabilistik karena adanya fluktuasi permintaan selama lead time. Dengan adanya laporan MRP yang baik, maka dapat diketahui kapan sebaiknya pemesanan bahan baku dilakukan serta berapa kuantitas pemesanan yang paling optimal, sehingga dengan demikian proses produksi dapat berjalan dengan lancar dan produk akhir dapat tiba di tempat pembeli tepat pada waktunya.",
+  "creators": "ELLY CAYLIANI",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Maja Indahwati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 095/TMI-25/1998; Elly Cayliani (25493073)",
+  "subjects": "MATERIAL MANAGEMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "11478",
+  "title": "Pengenalan kata dengan menggunakan linear predictive coding dan artificial neural network untuk mengontrol robot mobil",
+  "abstract": "Aplikasi dari sistem cerdas sudah banyak kita jumpai dalam kehidupan sehari-hari. Beberapa contoh aplikasi dari sistem cerdas antara lain teknologi pengenalan kata, pengenalan wajah, pengenalan retina, pengenalan sidik jari, dan lain sebagainya. Tugas akhir ini mengambil pengenalan kata sebagai aplikasi dari sistem cerdas. Dalam sistem ini, suara dari mikropon akan diproses oleh rangkaian operational amplifier dan selanjutnya diproses oleh ADC. Kemudian sinyal digital hasil olahan ADC dikirimkan ke PC untuk dilakukan proses ekstrasi pola suara dan proses pengenalan kata. Tugas akhir ini menggunakan Linear Predictive Coding sebagai metode ekstrasi pola suara dan Artificial Neural Network sebagai metode pengenalan kata. Untuk proses training dari Artificial Neural Network digunakan metode training backpropagation. Suara pertama-tama akan diproses oleh rangkaian filter, op-amp, dan ADC. Kemudian hasil dari proses tersebut akan dikirimkan ke PC oleh rangkaian microcontroller. Data yang dikirimkan oleh microcontroller akan diproses dengan menggunakan metode LPC. Proses LPC akan menghasilkan 576 data. Untuk proses ANN, proses training dilakukan dengan menggunakan 210 data training. Data training ini meliputi pengucapan tujuh kata yang dikenali, yaitu maju, mundur, kiri, kanan, stop, tambah, dan kurang, dari 30 orang yang berbeda. Pengujian dilakukan dengan variasi jumlah hidden layer antara 1 sampai dengan 4 hidden layer, jumlah neuron hidden layer antara 5 sampai dengan 30 neuron per hidden layer, dan variasi learning rate yaitu 0,1 dan 0,01. Neuron input yang menerima hasil dari proses LPC berjumlah 576 neuron. Dari hasil pengujian didapatkan tingkat keberhasilan pengenalan kata tertinggi sebesar 91,4%. Hasil ini didapat dengan menggunakan arsitektur 25 sampel per kata, 1 hidden layer, 5 neuron hidden layer, dan learning rate 0,1.",
+  "creators": "SURYO WIJOYO",
+  "contributors": "Thiang (Advisor 1); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010890/ELK/2009; Suryo Wijoyo (23404019)",
+  "subjects": "ROBOTS; MOBILE ROBOTS"
+}

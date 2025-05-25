@@ -1,0 +1,14 @@
+{
+  "id": "54082",
+  "title": "Desain cryogenic storage vessel menggunakan finite element analysis (FEA)",
+  "abstract": "Cryogenic vessel adalah tangki silinder berdinding ganda dengan baja tahan karat (stainless steel) untuk inner vessel dan baja karbon (carbon steel) untuk outer vessel, yang ruang diantara kedua dinding tersebut diberi tekanan vakum. Fungsi utama cryogenic vessel sebagai tempat penyimpanan khusus untuk liquid cryogen. Contohnya liquefied nitrogen, liquefied natural gas, liquid hydrogen, dan liquid oxygen. Cryogenic vessel harus mampu menahan tekanan tinggi dalam suhu rendah. Penelitian ini berfokus pada perancangan cryogenic vessel untuk liquid hydrogen. Cryogenic storage tank dirancang untuk kapasitas 1.000 L, pressure 2.1 MPa, dan temperatur -270oC dengan mengacu pada standar American Society of Mechanical Engineers (ASME) Code Section VIII Division II : Rules for Construction of Pressure Vessels. Perancangan dilakukan secara analitis dan simulasi dengan menggunakan software Autodesk Inventor Professional 2022 untuk Computer Aided Design, dan software ANSYS Mechanical 2022 R1 untuk simulasi Finite Element Analysis. Dari hasil simulasi diperoleh, Inner vessel dengan model head berbentuk hemispherical, dengan material 316 Austenitic Stainless steel setebal 15 mm. Outer vessel dengan model ellipsoidal head, dengan material ASTM Carbon Steel A516 setebal 10 mm. Stiffener rings dengan tebal 10 mm terbuat dari material ASTM Carbon Steel A516. Dari analisa Finite Element Analysis didapatkan range nilai safety factor 3.5 – 6, besar deformasi maksimal yang terjadi 0.2627 mm, dan besar tegangan maksimal yang terjadi 79.99 MPa.",
+  "creators": "EDSEL RYAN HARTANTO",
+  "contributors": "Amelia (Advisor 1); ANTON WINARKO, ST.M.Sc. (Advisor 2); Ninuk Jonoadji (Examination Committee 1); Joni Dewanto (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03011461/MES/2022; Edsel Ryan Hartanto (C12180046)",
+  "subjects": "CRYOGENIC LIQUIDS.; LOW TEMPERATURES; FINITE ELEMENT METHOD"
+}

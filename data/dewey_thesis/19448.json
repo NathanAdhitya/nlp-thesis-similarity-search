@@ -1,0 +1,14 @@
+{
+  "id": "19448",
+  "title": "Perancangan dan pembuatan aplikasi untuk mengevaluasi permainan biola monophonic",
+  "abstract": "Penggunaan media elektronik sebagai sarana belajar musik adalah bidang penelitian yang terus-menerus berkembang. Perkembangan ini didorong dengan adanya kebutuhan dari pemain biola pemula untuk menemukan cara belajar biola yang efisien dan menarik. Oleh karena itu, pada skripsi ini, dilakukan pembuatan aplikasi untuk melakukan evaluasi permainan biola monophonic untuk menemukan kesalahan mengenai pitch dari not-not yang dimainkan dan kesalahan tempo pada lagu. Proses evaluasi didahului oleh proses transcriber untuk mentranskripsi data masukan dengan menggunakan metode overlap-add dan analisa harmonic structure. Kemudian dilanjutkan dengan proses alignment untuk pitch dan tempo. Hasil dari proses evaluasi adalah data kesalahan dari permaian biola disertai dengan sebuah penilaian mengenai hasil pada proses evaluasi. Aplikasi ini dibuat menggunakan Microsoft Visual C# 2005. Hasil pengujian menunjukkan bahwa tingkat kebenaran dari hasil evaluasi sangat dipengaruhi oleh kualitas data input. Permainan biola yang tidak stabil menimbulkan resiko terjadinya kesalahan deteksi pada proses transkripsi. Persentase tingkat akurasi transcriber dalam melakukan proses transkripsi adalah 92,5%. Sistem yang dikembangkan telah sesuai dengan kebutuhan dan layak dipakai oleh pemain biola pemula berdasarkan hasil kuisioner yang dibagikan kepada user dengan nilai rata-rata 4,025 (nilai maksimal 5,0).",
+  "creators": "MAUREEN TANUADJI",
+  "contributors": "Liliana (Advisor 1); Resmana Lim (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020876/INF/2009; Maureen Tanuadji (26406024)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

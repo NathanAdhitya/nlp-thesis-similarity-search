@@ -1,0 +1,14 @@
+{
+  "id": "50563",
+  "title": "Penerapan metode modified partial capacity design (M-PCD) pada bangunan persegi panjang 6 lantai dan 10 lantai dengan rasio distribusi gaya geser 90%",
+  "abstract": "Pada umumnya perencanaan struktur terhadap gempa menggunakan metode Capacity Design. Metode Modified Partial Capacity Design (M-PCD) merupakan salah satu metode alternatif dari Capacity Design yang efektif dalam merencanakan bangunan terhadap gempa. Penelitian ini menerapkan metode tersebut pada bangunan persegi panjang 6 dan 10 tingkat dengan 90% gaya geser total yang ditopang oleh kolom elastis. Dalam M-PCD, ada dua model yang dipakai untuk desain. Model pertama dipakai untuk merencanakan elemen-elemen yang diidzinkan meleleh selama gempa besar terjadi. Model ini disematkan gempa desain dengan faktor reduksi gempa (R) sebesar 8,00. Model kedua dipakai untuk merencanakan kolom yang ditakdirkan untuk tetap elastis selama gempa besar terjadi. Model ini disematkan gempa dengan R=1,60 dikurangi dengan gempa pada model pertama. Untuk mendesain kolom elastis, wajib dilakukan penjumlahan gaya dalam dari model pertama dan model kedua. Pada penelitian ini, beban gempa yang digunakan dalam analisa adalah spektrum konsisten percepatan tanah yang dihasilkan dari El Centro 1940 komponen East-West dan North-South sesuai dengan undang-undang SNI 1726:2012 dengan situs tanah kelas SE kota Surabaya. Pengujian kinerja struktur dilakukan dengan nonlinear static procedure (NSP) atau pushover analysis serta nonlinear dynamic procedure (NDP) atau time history analysis pada masing-masing level gempa desain (EDRS) dan maksimum (MCER). Hasil pengujian mempertontonkan pola keruntuhan partial side sway mechanism tercapai pada segenap prosedur pengujian dan pada masing-masing level gempa desain dan maksimum. Selain itu, drift struktur memenuhi undang-undang FEMA 273 pada seluruh prosedur pengujian dan pada masing-masing level gempa.",
+  "creators": "KEVIN TANTRA; SAMUEL HANS",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Effendy Tanojo (Examination Committee 1); Ir. Soehendro Ratnawidjaja, M.Eng. (Examination Committee 2); Fransisca Wijaya (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012491/SIP/2021; Kevin Tantra (21416206)Samuel Hans (B11170129)",
+  "subjects": "BUILDINGS--EARTHQUAKE EFFECTS; SHEAR (MECHANICS)"
+}

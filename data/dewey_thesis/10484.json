@@ -1,0 +1,14 @@
+{
+  "id": "10484",
+  "title": "Spectograph digital dengan menggunakan IBM PC",
+  "abstract": "Dewasa ini perkembangan elektronika maju pesat baik dibidang perangkat keras maupun dibidang perangkat lunaknya. Hasil dari perkembangan kedua bidang tersebut, adalah munculnya bidang pengolahan sinyal wicara atau speech processing dengan menggunakan metode Linier Preditive Analysis (LPA). Berkaitan dengan itu di dalam tugas akhir ini dibuat suatu spectograph digital dengan menggunakan komputer IBM PC. Metode LPA adalah metode yang cukup presisi dan pengolahannya cukup sederhana. Untuk menginputkan sinyal suara yang berupa besaran analog ke komputer dibutuhkan Analog To Digital Converter ADC 0820. ADC tersebut cukup cepat konversinya dan untuk sampling datanya dibutuhkan rangkaian \"sample and hold (S/H)\" yang mempunyai waktu sampling sebesar 10 khz. Bila S/H diberi pulsa high, maka tegangan keluaran akan sama dengan tegangan input, bila S/H diberi pulsa low, maka keluarannya akan dipertahankan selama 8 us. Untuk mengaktifkan S/H dibutuhkan rangkaian astable yang akan mengeluarkan pulsa-pulsa dengan periode 100 us. Data digital yang diperoleh diolah secara perhitungan matematis untuk mencari koefisien prediksinya atau disebut sebagai metode \"Linier Predictive Analysis\". Karena metode tersebut sering dipakai dalam hal pengolahan sinyal suara. Hasil perhitungan yang diperoleh digunakan untuk menentukan frekuensi formant suara.",
+  "creators": "CHANDRA HERMANTO",
+  "contributors": "HANDAYANI T. (Advisor 1); VINCENT PRASETYO (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/001/0091; Chandra Hermanto (14485031)",
+  "subjects": "SPEECH PROCESSING SYSTEMS; SIGNAL PROCESSING-DIGITAL TECHNIQUES"
+}

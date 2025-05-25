@@ -1,0 +1,14 @@
+{
+  "id": "5431",
+  "title": "Pembuatan perangkat lunak untuk alat bantu perencanaan dan penjadualan produksi di CV. Toyobo",
+  "abstract": "CV. Toyoboo adalah perusahaan yang bergerak daalma bidang industri sepatu, yang khusus memproduksi sepatu boot. Selama ini tidak ada perencanaan produksi, tidak ada penjadwalan produksi dan semua keputusan diambil seringkali hanya berdasarkan pada intuisi dan pengalaman dari sang pemimpin. Hal tersebut membuat perusahaan tidak dapat memenuhi permintaan pasar, dan tidak adanya terget produksi seringkali juga membuat produksi menjadi tidak terkendali dengan adanya jenis produk yang diproduksi sangat banya dan ada jenis yang diproduksi sedikit sekali. Dalam tugas akhir ini, dirangkai bebrapa proses yang terkait dengan Decision Support System, peramalan, perencanaan produksi, dan kebutuhan material. Proses desain mulai dari sistem flow perusahaan, Data Flow Diagram, hingga FlowChart. Implementasi dari program menggunakan bahasa pemrograman sebagai pengaturan desain interface program dan koneksi ke database. Database digunakan untuk melakukan penyimpanan hasil dari proses perencanaan produksi. Perangkat lunak yang dihasilkan ini dapat mengetahui kemunkinan jumlah penjualan kedepan. Proses perencanaan produksi memberikan hasil perhitungan mengenai pembagian kerja produksi. Proses kebutuhan material memberikan hasil perhitungan jumlah material yang dibutuhkanuntuk produksi.",
+  "creators": "SUGIARTO PRAWIRADIRJA",
+  "contributors": "M. ISA IRAWAN (Advisor 1); Agustinus Noertjahyana (Advisor 2); Theresia Lestiowati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000168/INF/2004; Sugiarto Prawiradirja (26499146)",
+  "subjects": "DATA BASE DESIGN; DATA BASE MANAGEMENT"
+}

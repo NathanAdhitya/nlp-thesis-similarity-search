@@ -1,0 +1,14 @@
+{
+  "id": "1297",
+  "title": "Alat kontrol elektroplating dengan MCS-51",
+  "abstract": "Elektroplating merupakan suatu proses yang digunakan untuk memanipulasi sifat suatu substrat dengan cara melapisinya dengan logam lain. Proses elektroplating banyak dibutuhkan oleh industri penghasil benda logam, diantaranya industri komponen elektronika, peralatan listrik, peralatan olah-raga, peralatan dapur, dan sebagainya. Namun demikian proses elektroplating dalam prakteknya masih sulit dilakukan oleh karena pengendaliannya masih membutuhkan tenaga ahli yang berpengalaman. Terbatasnya tenaga ahli yang berpengalaman di bidang elektroplating, khususnya di Surabaya, mendorong pelaksanaan tugas akhir ini dalam rangka membuat suatu alat pengontrol elektroplating yang mudah digunakan dan tidak membutuhkan keahlian khusus. Hasil yang diperoleh dalam proses elektroplating dipengaruhi oleh banyak variabel, diantaranya larutan yang digunakan, suhu larutan, durasi plating, tegangan antara kedua elektroda, keadaan elektroda yang digunakan, dan sebagainya. Dalam rangka pembuatan alat kontrol elektroplating dengan MCS-51, maka ditentukan terlebih dulu bahwa variabel yang dikendalikan adalah suhu larutan, durasi plating dan tegangan yang digunakan. Variabel-variabel lain seperti keadaan elektroda dan keadaan larutan masih belum dapat dikontrol melalui mikrokontroler, sehingga akan dikendalikan secara manual. Alat kontrol elektroplating ini dilengkapi dengan display, sensor suhu, fan, heater dan sumber tegangan yang semuanya diperlukan dalam proses pengendalian elektroplating. Pengujian alat kontrol elektroplating ini digunakan pada proses nikel plating dan krom plating. Bagaimanapun juga, meski alat kontrol elektroplating ini berjalan dengan baik namun tidak dapat menggantikan kerja operator secara total. Salah satu kesulitan dalam mencapai hasil plating yang memuaskan adalah sifat larutan yang berubah-ubah secara cepat dan random. Metode pengujian yang dilakukan adalah bereksperimen dengan berbagai kombinasi variabel suhu, waktu dan tegangan. Dalam pengujian diperoleh kesimpulan bahwa dengan adanya alat kontrol elektroplating dengan MCS-51 ini proses elektroplating dapat dilakukan dengan mudah dan hasil yang diperoleh pun memuaskan.",
+  "creators": "LESLIE PUJIONO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/E/EL/030/576; Leslie Pujiono (23498094)",
+  "subjects": "ELECTROPLATING-AUTOMATION"
+}

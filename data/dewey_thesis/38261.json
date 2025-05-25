@@ -1,0 +1,14 @@
+{
+  "id": "38261",
+  "title": "Analisa pemodelan PLTA Sengguruh dengan Matlab Simulink",
+  "abstract": "PLTA Sengguruh terletak di Malang, memiliki 2 unit pembangkit sebesar 2 x 14,5 MW. Saat ini kinerjanya telah berkurang. Penelitian ini berupaya untuk menganalisa PLTA Sengguruh dengan pemodelan Matlab Simulink agar dapat digunakan dalam melakukan perencanaan dan investigasi masalah oleh PLTA Sengguruh. Pemodelan PLTA Sengguruh menggunakan input inflow, buka tutup katup dan persamaan linear. Hasil simulasi model berupa elevasi waduk, debit outflow, elevasi tail race, Head efektif dan produksi listrik. Hasil simulasi divalidasi berdasarkan persentase kesalahannya, yang didapat dari perbandingan antara hasil simulasi dengan data eksisting. Simulasi PLTA Sengguruh memiliki persentase kesalahan sebesar 0.024% untuk elevasi waduk, 0% untuk debit outflow, 0.29% untuk elevasi Tail Race. Simulasi untuk produksi dilakukan dua pemodelan sesuai dengan rumus PLTA dan dengan koefisien pengali di lapangan. Kesalahan pada simulasi dengan rumus sebesar 11.35 % dan kesalahan dengan koefisien sebesar 5.1%.",
+  "creators": "NADIA ADIKURNIAWAN",
+  "contributors": "Daniel Rohi (Advisor 1); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 2); Julius Sentosa Setiadji (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010642/ELK/2016; Nadia Adikurniawan (23412028)",
+  "subjects": "ELECTRIC POWER PLANTS; HYDROELECTRIC POWER PLANTS; RESERVOIRS"
+}

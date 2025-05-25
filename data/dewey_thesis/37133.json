@@ -1,0 +1,14 @@
+{
+  "id": "37133",
+  "title": "Website publikasi dan evaluasi kegiatan Lembaga Kemahasiswaan Universitas Kristen Petra",
+  "abstract": "Selama ini, proses publikasi kegiatan dari suatu kepanitiaan dalam Lembaga Kemahasiswaan yang ada di Universitas Kristen Petra masih menggunakan manual yaitu berupa poster yang dicetak dan ditempel pada papan pengumuman. Hal ini mengakibatkan tidak sedikit mahasiswa yang tidak menerima informasi publikasi kegiatan kalau mereka tidak aktif melihat poster-poster yang terpasang di papan pengumuman. Dan realita yang lain, hasil dari evaluasi kegiatan yang dibuat oleh panitia tidak terpublikasi sehingga tidak banyak mahasiswa yang mengetahui hasil evaluasi kegiatan pada masing-masing kegiatan yang ada di Universitas Kristen Petra. Padahal, ketika banyak mahasiswa yang mengetahui hasil evaluasi kegiatan mereka dapat membandingkan kegiatan yang satu dengan kegiatan yang lain sehingga akan lebih siap dalam membuat kegiatan. Oleh karena itu dibuatlah sistem informasi berbasis Website untuk menjawab realita yang ada. Website ini memiliki fitur publikasi kegiatan, laporan kegiatan, evaluasi kegiatan dengan memberikan rating dan komentar pada setiap kegiatan, pertanyaan pada setiap bentuk kegiatan yang tidak terlalu banyak, dan didukung dengan sistem pengiriman skkk ke dalam server BAKA menggunakan SOAP, menyimpan Video kegiatan kedalam youtube, menyimpan foto-foto kegiatan, menampilkan rating tertinggi supaya panitia dapat termotivasi untuk membuat kegiatan yang bagus agar mendapatkan rating tertinggi, fitur add location menggunakan Google map, dan notifikasi menggunakan phpmailer. Dari hasil pengujian dan kuesioner yang diisi oleh pengurus Lembaga kemahasiswaan yang terdiri dari beberapa kriteria mendapatkan hasil penilaian untuk desain interface 63% dari seluruh responden memberikan nilai cukup, tingkat kemudahan 100% responden memberikan nilai baik, kegunaan website 100% reponden memberikan nilai baik, kelengkapan fitur 100% responden memberikan nilai baik, dan penilaian terhadap keseluruhan aplikasi 100% responden memberikan nilai baik. Sehingga dapat disimpulkan bahwa website ini berguna, memiliki fitur yang lengkap dan dapat membantu untuk publikasi dan evaluasi kegiatan dalam Lembaga Kemahasiswaan.",
+  "creators": "YEFTA BINTANG KURNIAWAN",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021586/INF/2016; Yefta Bintang Kurniawan (26412147)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); WEBSITES-DESIGN; WEBSITES"
+}

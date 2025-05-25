@@ -1,0 +1,14 @@
+{
+  "id": "15673",
+  "title": "Implementasi kendali logika fuzzy pada pendulum terbalik rotasional",
+  "abstract": "Pendulum terbalik rotasional merupakan suatu sistem dinamik yang non linier, yang agak sukar untuk dikendalikan dengan menggunakan sistem kendali konvensional karena sistem kendali konvensional membutuhkan model persamaan matematika yang rumit dari sistem yang akan dikendalikan. Tujuan tugas akhir ini adalah untuk mengetahui kemampuan kendali logika fuzzy bila digunakan untuk mengendalikan suatu sistem dinamik yang non linier, dalam hal ini pada sistem pendulum terbalik rotasional. Kendali logika fuzzy akan diimplementasikan pada sistem ini untuk mempertahankan pendulum pada posisi tegaknya melalui pemberian gaya pada batang pemegang pendulum. Kendali logika fuzzy digunakan karena sistem kendali ini tidak membutuhkan banyak persamaan matematil:a dan tidak tergantung pada variabel-variabel sistem seperti panjang batang, ukuran dan berat pendulum. Implementasi sistem dilakukan dengan menggunakan mikrokontroller berbasisMCS-51. Dalam tugas akhir ini, perencanaan sistem yang meliputi perencanaan plant, perangkat keras, serta perangkat lunak akan dibahas secara detail. Selain itu, konstruksi membership function serta fuzzy rule generation juga akan dibahas. Dari keseluruhan hasil pengujian, terlihat bahwa kendali logika fuzzy mampu mengendalikan sistem pendulum terbalik rotasional ini. Dengan ini dapat disimpulkan bahwa kendali logika fuzzy dapat diterapkan untuk mengendalikan sistem dinamik yang non linier.",
+  "creators": "HENDRIK THIEHUNAN",
+  "contributors": "Thiang (Advisor 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/042/479; Hendrik Thiehunan (23496028)",
+  "subjects": "FUZZY LOGIC; INTEL AT89C51 (MICROCONTROLLER)"
+}

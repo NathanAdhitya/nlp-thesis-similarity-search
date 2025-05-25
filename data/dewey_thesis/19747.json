@@ -1,0 +1,14 @@
+{
+  "id": "19747",
+  "title": "Perancangan dan pembuatan aplikasi untuk menunjang analisa track record penyakit di RSU Dr. Soetomo dengan menggunakan algoritma SPADE",
+  "abstract": "Sekarang ini, sistem yang terdapat pada RSU Dr. Soetomo telah menggunakan sistem yang terkomputerisasi yang digunakan untuk mencatat track record penyakit para pasiennya. Dengan banyaknya data yang harus dianalisis, RSU Dr. Soetomo perlu mengetahui pola urutan penyakit yang ada. Berdasarkan permasalahan yang dihadapi RSU Dr. Soetomo, maka perlu dibuat suatu aplikasi berbasis data mining untuk membantu mengetahui pola urutan penyakit. Aplikasi dirancang untuk dapat memprediksi pola urutan penyakit yang diderita pasien dalam kurun waktu tertentu dan/atau daerah tertentu berdasarkan data historis pasien RSU Dr.Seotomo dengan menggunakan Frequent pattern-projected sequential pattern mining. Informasi yang dihasilkan dari aplikasi berupa rule dan graph. Dari hasil pengujian semakin banyak jumlah record, waktu yang dibutuhkan semakin lama.",
+  "creators": "TEDDY WIDJAJA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Silvia Rostianingsih (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020939/INF/2010; Teddy Widjaja (26406083)",
+  "subjects": "DATA MINING; DATABASE SEARCHING"
+}

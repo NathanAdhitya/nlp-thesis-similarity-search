@@ -1,0 +1,14 @@
+{
+  "id": "55746",
+  "title": "Prediksi harga material konstruksi di Indonesia dengan least squares support vector machine",
+  "abstract": "Prediksi harga material konstruksi menjadi salah satu metode untuk membantu perkembangan dunia konstruksi di Indonesia. Sebanyak 85% dari total biaya konstruksi merupakan biaya material, sedangkan sisanya untuk alat dan tenaga kerja. Material konstruksi sering kali berkaitan dengan harga makroekonomi maupun harga komoditas baik secara nasional maupun internasional. Prediksi dilakukan menggunakan Least Squares Support Vector Machine (LS-SVM) dengan variabel input berupa data makroekonomi dan komoditas, serta variabel output berupa data Indeks Harga Perdangan Besar di Indonesia. Hasil penerapan LS-SVM kedalam prediksi harga material menunjukkan hasil dengan nilai error yang rendah. Prediksi material semen menunjukkan nilai Mean Absolute Percentage Error sebesar 0.624% hingga 0.962%, sedangkan untuk material logam besi baja sebesar 0.676% hingga 0.853%. Korelasi dari material semen dan besi beton juga menunjukkan hasil yang baik yaitu 0.981 hingga 0.996 untuk kedua variabel tersebut. Secara keseluruhan, metode LS-SVM diusulkan dalam penelitian ini karena menghasilkan hasil prediksi yang baik dan akurat.",
+  "creators": "TIMOTHY EMANUEL",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Januar Budiman (Examination Committee 1); I Gede Agus Widyadana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000335/MTS/2023; Timothy Emanuel (B21220007)",
+  "subjects": "BUILDING MATERIALS--PRICES; CONSTRUCTION INDUSTRY--COSTS; LEAST SQUARES--COMPUTER PROGRAMS; MACHINE LEARNING"
+}

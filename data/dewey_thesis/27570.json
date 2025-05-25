@@ -1,0 +1,14 @@
+{
+  "id": "27570",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada King's Good",
+  "abstract": "King’s Good adalah unit usaha yang bergerak di bidang penjualan bahan makanan Jepang yang terletak di kota Sidoarjo Provinsi Jawa Timur. Dalam kegiatannya sehari-hari King’s Good masih menerapkan sistem manual dan belum sama sekali terdapat proses akuntansi didalamnya. Hal ini menyebabkan proses transaksinya berjalan lambat dan kurang akurat jika dibandingkan dengan menggunakan sistem yang terkomputerisasi. Oleh karena itu King’s Good membutuhkan sistem informasi akuntansi yang terkomputerisasi, dengan harapan dapat mengatasi masalah yang dihadapi. Sistem informasi akuntansi yang dimaksud diharapkan dapat membantu pemilik dalam mencatat semua transaksi yang dilakukan dan mengolahnya menjadi laporan yang berguna bagi pemilik untuk pengembangan usaha kedepannya. Perancangan desain sistem menggunakan Data Flow Diagram dan Entity Relationship Diagram. Program menggunakan Microsoft SQL Server 2005 sebagai database, dan menggunakan bahasa pemrograman Microsoft Visual Studio 2005 .NET. Ruang lingkup program yang dibuat meliputi pembuatan database master untuk supplier, customer, barang, harga, dan satuan. Transaksi meliputi transaksi pembelian dan penjualan, serta pembuatan jurnal secara otomatis. Dari hasil kuesioner, secara keseluruhan aplikasi yang telah dibuat sesuai dengan kebutuhan. Laporan yang dihasilkan akurat sesuai dengan perhitungan manual. Selain itu desain program dan kemudahan penggunaan antar menu dianggap sudah baik oleh sebagian user.",
+  "creators": "TINTUS WIJAYA",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Silvia Rostianingsih (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02021192/INF/2012: Tintus Wijaya (26408009)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

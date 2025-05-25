@@ -1,0 +1,14 @@
+{
+  "id": "9554",
+  "title": "Perancangan dan pembuatan data warehouse dan olap tools pada hotel \"S\" Surabaya",
+  "abstract": "Sistem informasi dalam Hotel `S? telah terkomputerisasi dan menggunakan software OLTP perhotelan yang dibeli jadi. Software tersebut juga digunakan oleh cabang Hotel `S? yang lain dan mengalami penyesuaian sesuai dengan kondisi hotel. Selama Hotel ?S? mengalami kesulitan untuk membuat laporan dan mendapatkan data yang diinginkan untuk mendukung pengambilan keputusan Berdasarkan masalah yang dihadapi Hotel `S?, maka dilakukan pembuatan perangkat lunak pendukung pengambilan keputusan dengan menggunakan Data Warehouse dan OLAP Tools. Aplikasi yang dibuat meliputi proses transformasi dari database hotel lama ke dalam database star schema, analisa data dalam bentuk tabel, grafik dan report. Pembuatan aplikasi ini menggunakan SQL Server 2005 sebagai tempat penyimpanan database dan SQL Server Bussiness Inteligence Development Studio sebagai tempat untuk membuat coding aplikasi. Informasi yang dihasilkan dari sistem tersebut adalah pengukuran data reservasi check in dan check out dari dimensi tamu, waktu, kamar dan travel agent yang terkait dengan reservasi, pengukuran data penjualan bar dan restoran dari dimensi menu, waktu, dan customer, pengukuran data penjualan laundry dan room service dari dimensi item, waktu, dan kamar serta pengukuran data penyelenggaraan event di Hotel `S?. Data tersebut dapat ditampilkan dari berbagai sudut pandang yang berbeda sehingga memudahkan proses analisa sebagai pendukung pengambilan keputusan.",
+  "creators": "MONIKA KRISNA MAHARANI",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Andreas Handojo (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010694/INF/2008; Monika Krisna (26404025)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

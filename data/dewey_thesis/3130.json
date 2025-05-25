@@ -1,0 +1,14 @@
+{
+  "id": "3130",
+  "title": "Perancangan tata letak pabrik di PT\"X\"",
+  "abstract": "PT \"X\" adalah sebuah perusahaan yang bergerak dibidang pembuatan kasur pegas (spring bed). PT \"X\" memiliki rencana untuk menggabungkan 2 perusahaan yakni yang berlokasi di Tropodo dan Pandaan untuk menempati area yang baru di Buduran, dimana selama ini perusahaan yang berlokasi di Tropodo digunakan untuk proses perakitan dan perusahaan yang berlokasi di Pandaan digunakan untuk memproduksi spon maupun kawat pegas (peer). Maka timbullah ide dari penulis untuk mencoba memberikan suatu model layout (tata letak) yang baik dimana yang lebih meminimalkan jarak perpindahan material dan juga analisis biaya yang diperlukan untuk proses pemindahan mesin-mesin, bahan baku, barang jadi dan peralatan pendukung lainnya menuju ke lokasi baru. Perancangan model layout yang dilakukan dalam Tugas Akhir ini berdasarkan aliran material, dalam hal ini yang dinilai adalah frekuensi perpindahan material. Frekuensi perpindahan material dapat diukur secara kuantitatif maupun secara kualitatif. Layout Algoritma yang digunakan dalam tugas ini adalah Corelap dan Blocplan. Dari hasil pengolahan data yang dilakukan diperoleh bahwa layout dari Corelap adalah model layout yang paling meminimalkan jarak perpindahan material dibandingkan dengan model layout dari Blocplan, dimana momen total dari layout Corelap adalah sebesar l7167 dan momen total dari layout Blocplan adalah sebesar 20532 . Dari hasil analisis pemindahan mesin-mesin, bahan baku, barang jadi dan peralatan pendukung lainnya dari pabrik yang berlokasi di Tropodo dan Pandaan menuju ke Sidoarjo membutuhkan biaya sebesar Rp 6.500.000,- dan membutuhkan waktu selama 5 hari dimana tanggal 3-4 Agustus 2002 dilaksanakan pemindahan dari pabrik yang berlokasi di Pandaan dan pada tanggal 10-12 Agustus dilaksanakan pemindahan dari pabrik yang berlokasi di Tropodo.",
+  "creators": "SUKARDI",
+  "contributors": "Kristiana Asih Damayanti (Advisor 1); I Gede Agus Widyadana (Advisor 2); Julianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 559/TI-040/2002; Sukardi (25497047)",
+  "subjects": "PLANTS LAYOUT; PLANT LAYOUT-ANALYSIS"
+}

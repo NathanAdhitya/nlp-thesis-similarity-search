@@ -1,0 +1,14 @@
+{
+  "id": "15116",
+  "title": "Perencanaan dan pembuatan interface pada printer untuk mencetak gambar dari osiloskop konvensional dengan bantuan mikrokontroler 68HC11",
+  "abstract": "Osiloskop merupakan alat elektronik yang sering dipakai bagi para perancang serta peneliti untuk membantu menganalisa respon suatu rangkaian elektronik, juga membantu mencari kesalahan/kerusakan suatu rangkaian. Untuk menganalisa gambar hasil pengukuran pada osiloskop konvensional umumnya digambar dengan tangan, hasil penggambaran membutuhkan waktu yang lama dan menjadi susah apabila gelombangnya berjalan terus. Akan menyulitkan bila memerlukan penggambaran dalam jumlah banyak. Pada tugas akhir ini dibuat suatu interface pada printer, sehingga tidak perlu melakukan penggambaran dengan tangan. Hasil pengukuran pada osiloskop konvensional dapat langsung dicetak pada printer tanpa melalui komputer. Alat ini mmpunyai kemampuan untuk mencetak sampai frekuensi 100 kHz dan input tegangan 160 Volt. Data hasil cetakan berupa posisi dari gambar dapat dikirim dan disimpan pada komputer.",
+  "creators": "KEVIN IVANDER",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.95/E/EL/048/0251; Kevin Ivander (23489120)",
+  "subjects": "INTEL 68HC11 (MICROCONTROLLER); INTERFACE CIRCUITS-COMPUTER PROGRAMS"
+}

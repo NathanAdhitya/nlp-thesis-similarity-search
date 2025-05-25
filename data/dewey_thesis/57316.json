@@ -1,0 +1,14 @@
+{
+  "id": "57316",
+  "title": "Modified pickup and delivery-capacitated heterogeneous vehicle routing problem untuk perancangan rute dan alokasi kapal",
+  "abstract": "Laporan tugas akhir ini membahas masalah perancangan rute dan alokasi muatan permintaan untuk setiap kapal pada PT X, dengan tujuan menentukan rute yang efisien baik dalam segi total jarak dan utilitas. Model yang diusulkan adalah Heterogeneous Fleet Vehicle Routing Problem (HFVRP) yang dimodifikasi untuk dapat juga mengatasi permasalahan pickup and delivery. Untuk mengatasi 2 (Dua) fungsi tujuan, pendekatan yang digunakan adalah menggabungkan bobot jarak dan permintaan antar pelabuhan, serta menggunakan transition probability untuk mempertimbangkan pengalaman perusahaan. Dari analisis perbandingan, model ini mampu menghasilkan rute dan alokasi kapal yang lebih baik dari segi total jarak dan rata-rata utilitas. Implementasi model untuk demand di homebase Jakarta dan Surabaya menghasilkan penurunan total jarak hingga sebesar 1160 N.Miles dan peningkatan rata-rata utilitas sebesar 23,78% dari rute sebelumnya. Dengan catatan, model hanya mengusulkan penggunaan kapal sesuai dengan jumlah yang efisien untuk dioperasikan dan masih terbatas pada pengoperasian 1 homebase saja. Model saat ini telah diotomasi menjadi sebuah program yang dapat berfungsi sebagai sistem pendukung keputusan bagi perusahaan dalam menentukan rute terbaik atau mendekati optimal.",
+  "creators": "VITOVERN JOEY SUSILA",
+  "contributors": "Siana Halim (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022603/IND/2023; Vitovern Joey Susila (C13190046)",
+  "subjects": "BUSINESS LOGISTICS--MANAGEMENT; VEHICLE ROUTING PROBLEM"
+}

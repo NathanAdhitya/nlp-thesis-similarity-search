@@ -1,0 +1,14 @@
+{
+  "id": "34962",
+  "title": "Aplikasi sistem pemesanan travel berbasis android pada PT Kirana Anugerah Terindah",
+  "abstract": "PT Kirana merupakan agen pariwisata yang cukup terkenal di kota Malang. Perusahaan ini menyediakan beberapa macam paket wisata dengan harga yang cukup terjangkau. Kirana Travel memiliki beberapa rute antara lain: Surabaya, Mojokerto, Malang dan Juanda. Pada saat ini, sistem bisnis yang ada masih manual, pencatatan order yang dilakukan masih manual. Pengorderan dilakukan melalui telepon, lalu admin mencatat alamat customer yang akan dijemput. Setelah mencatat semua order yang ada, admin memberitahukan kepada driver alamat-alamat yang akan dijemput. Driver tidak mengetahui rute terbaik yang akan ditempuh. Pada saat pengoperasian armada, driver hanya memiliki alamat-alamat customer yang akan di jemput satu per satu. Saat armada beroperasi biasanya pihak kantor dan customer tidak mengetahui di mana posisi armada saat itu. Aplikasi ini dibuat dengan menggunakan program eclipse dan phpmyadmin sebagai tempat penyimpanan database sistem. Aplikasi ini terbagi menjadi tiga aplikasi, yakni: aplikasi untuk customer, aplikasi untuk admin, dan aplikasi untuk armada. Aplikasi customer digunakan untuk melakukan pengorderan. Aplikasi admin dilakukan untuk manajemen jadwal dan order. Aplikasi armada digunakan untuk melihat rute penjemputan. Dari hasil pengujian terhadap aplikasi, menunjukkan bahwa aplikasi ini dapat berjalan dengan baik pada mobile device yang menggunakan operating system andorid. Karena setiap customer akan menggunakan mobile device untuk melakukan proses pengorderan. Jadi pemesanan Travel Kirana akan lebih mudah kedepannya.",
+  "creators": "SUGENG HADI WIJAYA",
+  "contributors": "Andreas Handojo (Advisor 1); Justinus Andjarwirawan (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021413/INF/2015; Sugeng Hadi Wijaya (26410029)",
+  "subjects": "ANDROID (COMPUTER PROGRAM); APPLICATION SOFTWARE-DEVELOPMENT; ANDROIDS-FICTION"
+}

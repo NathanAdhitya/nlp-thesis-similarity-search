@@ -1,0 +1,14 @@
+{
+  "id": "5391",
+  "title": "Perancangan dan pembuatan sistem Informasi bagian personalia PT. X",
+  "abstract": "Sistem informasi personalia yang diterapkan pada PT. X merupakan gabungan antara sistem manual dan sistem komputer sederhana. Hal ini terlihat dari sistem absensi karyawan yang menggunakan mesin check clock dan kartu absensi, sedangkan untuk penyimpanan data-data personalia menggunakan aplikasi Microsoft Excel karena bagian personalia tidak memiliki aplikasi database, dimana hal ini sangat memperlambat proses, tidak efisien, dan memperbesar resiko kesalahan manusia. Berdasarkan latar belakang permasalahan yang dihadapi oleh bagian personalia tersebut, maka dilakukan perancangan aplikasi berbasis database dengan menggunakan Borland Delphi 6 sebagai bahasa pemrograman dan desain interface, serta Microsoft SQL Server 7 sebagai fasilitas/tempat penyimpanan datanya. Desain dalam pembuatan aplikasi ini sengaja dirancang agar dapat menunjang penggunaan multi user, namun dibatasi hanya untuk pencatatan absensi kerja karyawan. Hasil akhir dari perancangan sistem informasi personalia adalah sebuah aplikasi yang digunakan untuk menyimpan data-data personalia perusahaan dan permintaan karyawan baru, mengolah data absensi dan penggajian karyawan, serta menghasilkan informasi dari hasil pengolahan data personalia dalam bentuk laporan personalia per periode yang ditujukan kepada manajer dan kepala divisi.",
+  "creators": "HENDRA DARMAWAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Ibnu Gunawan (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000137/INF/2004; Hendra Darmawan (26400166)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "44836",
+  "title": "Optimasi resource leveling pada proyek rumah toko x dengan metode metaheuristik",
+  "abstract": "Semakin tinggi tingkat kompleksitas suatu proyek konstruksi, maka semakin tinggi juga tingkat resiko yang mungkin akan terjadi. Alokasi sumber daya yang tidak merata merupakan salah satu masalah yang dialami pada proyek konstruksi. Hal tersebut dapat menimbulkan kelebihan biaya dan keterlambatan terhadap penjadwalan proyek. Optimasi resource leveling dengan metode metaheuristik diperlukan untuk mengatasi masalah tersebut. Sembilan objective function digunakan untuk mengatasi masalah resource leveling. Tiap objective function memiliki tujuan yang sama, yaitu mengurangi fluktuasi penggunaan sumber daya dalam proyek. Studi kasus ini membandingkan performa dari metode Particle Swarm Optimization (PSO), Artificial Bee Colony (ABC), dan Symbiotic Organisms Search (SOS) dalam menyelesaikan optimasi resource leveling menggunakan sembilan objective function. Performa dari ketiga metode dibandingkan untuk mengetahui metode mana yang paling cocok untuk menyelesaikan permasalahan optimasi resource leveling. Tiap objective function akan menghasilkan diagram permintaan sumber daya yang berbeda. Hasil penelitian menunjukkan bahwa nilai objektif yang dihasilkan oleh ketiga metode lebih baik dibandingkan nilai objektif awal, dan diagram permintaan sumber daya yang dihasilkan lebih rata dibandingkan diagram sebelum leveling. Metode SOS terbukti memiliki performa yang lebih baik dari PSO dan ABC. SOS dapat menghasilkan solusi terbaik pada delapan dari sembilan objective function dibandingkan dengan PSO dan ABC.",
+  "creators": "ADRIAN HARTANTO KANG; DICKY PRATHAMA THEJA",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Andi (Examination Committee 1); Willy Husada, S.T., M.T., M.Sc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 21012367/SIP/2019; Adrian Hartanto Kang (21415219), Dicky Prathama Theja (21415211)",
+  "subjects": "CONSTRUCTION INDUSTRY--MANAGEMENT"
+}

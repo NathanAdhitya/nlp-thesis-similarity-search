@@ -1,0 +1,14 @@
+{
+  "id": "2843",
+  "title": "Perancangan dan pembuatan software untuk minimalisasi biaya pembelian bahan baku pada departemen food and beverages Hotel Kartika Graha",
+  "abstract": "Departemen Food and Beverages Hotel Kartika Graha mengalami masalah dalam menentukan jumlah bahan baku yang akan dibeli dengan biaya yang minimal untuk memproduksi tiap item. Selama ini Kepala Departemen Food and Beverages hanya menggunakan perkiraan dan pengalaman dalam menentukannya. Aplikasi Tugas Akhir ini diharapkan dapat membantu mengatasinya. Pada aplikasi ini dilakukan peramalan penjualan untuk mendapatkan jumlah produksi tiap item yang optimal. Metode peramalan yang digunakan adalah Moving Average, Single Exponential Smoothing, Double Exponential Smoothing dan Winter. Untuk mencari biaya pembelian bahan baku yang minimal digunakan metode lot sizing yaitu Lot for Lot, Economic Order Quantity, Least Unit Cost, Part Period Balancing dan Wagner Within. Pembuatan aplikasi ini menggunakan software Borland Delphi 7.0 dan Microsoft Access 2000 sebagai database. Dari hasil peramalan dapat dicari nilai forecast error, yaitu Mean Absolute Deviation, Mean Absolute Percentage Error dan Mean Square Error yang menunjukkan efektivitas suatu model peramalan. Hasil dari lot sizing adalah total biaya pembelian bahan baku yang minimal. Hasil peramalan dan lot sizing, dibuat laporan Material Requirement Planning (MRP) untuk mengetahui jumlah bahan baku yang harus dibeli.",
+  "creators": "VIVI SUTANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Tanti Octavia (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000333//INF/2005; Vivi Sutanto (26401143)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "51129",
+  "title": "Perancangan dan pembuatan sistem perencanaan produksi di PT Vonita Garment",
+  "abstract": "PT Vonita Garment adalah perusahaan yang bergerak di garmen. Selama ini sistem produksi yang dilakukan berdasarkan inventori atau stok gudang, di mana produksi terus berlangsung tanpa melihat permintaan penjualan. Hal ini dapat mengakibatkan kerugian apabila permintaan penjualan jumlahnya lebih sedikit dari hasil produksi sehingga terdapat sisa produk yang tidak terjual, maupun apabila terjadi permintaan penjualan yang melebihi stok sehingga PT Vonita Garment tidak dapat memenuhi permintaan tersebut. Hal ini disebabkan kurang akuratnya data permintaan penjualan karena pencatatan yang dilakukan secara manual. Untuk mengatasi masalah tersebut, maka dibutuhkan suatu sistem baru untuk memperbaiki sistem yang dipakai saat ini. Pembuatan perangkat lunak untuk sistem yang baru menggunakan Borland Delphi 7.0 untuk bahasa pemrogramannya, Microsoft SQL Server 2000 untuk menyimpan database-nya, dan Microsoft Windows XP sebagai sistem operasinya. Untuk mendesain sistem dimulai dengan merancang Data Flow Diagram (DFD) serta Entity Relationship Diagram (ERD). DFD dan ERD dibuat dengan menggunakan Power Designer 6.1. Perangkat lunak yang dihasilkan dapat menangani input data seperti data barang, mesin, dan aktifltas; mencatat permintaan penjualan, produksi; meng-update jumlah barang jika terjadi penjualan; dan mencatat koreksi jumlah barang. Dari hasil uji coba, perangkat lunak ini dapat mengetahui jumlah stok barang, jumlah permintaan penjualan, hasil peramalan dengan menggunakan metode yang memiliki nilai Mean Absolute Deviation (MAD) terkecil, hasil penjadwalan produksi tiap minggu, dan hasil produksi.",
+  "creators": "JAMES ARTHUR ANGGAWINATA",
+  "contributors": "Tanti Octavia (Advisor 1); Felicia Soedjianto (Advisor 2); Theresia Lestiowati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000402/INF/2005: James Arthur Anggawinata (26401060)",
+  "subjects": "PRODUCTION MANAGEMENT; PRODUCTION PLANNING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

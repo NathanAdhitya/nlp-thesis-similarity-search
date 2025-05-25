@@ -1,0 +1,14 @@
+{
+  "id": "5428",
+  "title": "Perancangan dan pembuatan sistem informasi tata usaha hasil untuk petani tebu rakyat di PT. Perkebunan Nusantara X (Persero) PG Pesantren Baru - Kediri",
+  "abstract": "Tata Usaha Hasil (TU Hasil) merupakan bagian dari Pabrik Gula (PG) Pesantren Baru yang menangani segala sesuatu yang berhubungan dengan petani tebu atau yang biasa disebut Petani Tebu Rakyat (PTR). Sistem kerja TU Hasil disebut dengan Sistem TU Hasil. Sistem ini menerapkan gabungan antara sistem manual dan sistem komputer sederhana. Ini terlihat dari perhitungan pendapatan PTR yang masih menggunakan kalkulator. Penyimpanan hasil perhitungan tersebut menggunakan database sederhana untuk menghasilkan laporan. Hal ini tidak efisien, dan memperbesar resiko kesalahan. Salah satu tujuan dari Tugas Akhir ini adalah membuat sistem komputerisasi yang dapat menggantikan sistem manual yang ada dan memberikan kemudahan dalam menangani segala hal yang berkaitan dengan sistem itu sendiri. Proses-proses penting di dalam Sistem TU Hasil antara lain analisis tebu, pencatatan hasil produksi, perhitungan kadar gula dan perhitungan pendapatan PTR. Hal yang perlu dilakukan dalam merancang sistem yang baru adalah merancang Conceptual Entity Relationship Diagram maupun Physical Entity Relationship Diagram. Kemudian baru merancang interface dan yang terakhir adalah melakukan implementasi. Sistem baru dikembangkan menggunakan Borland Delphi 6 dan Paradox 7.0. Hasil dari aplikasi ini adalah otomatisasi perhitungan dalam Sistem TU Hasil yang dalam sistem yang lama masih menggunakan cara manual. Dengan otomatisasi ini diharapkan proses Sistem TU Hasil menjadi lebih efisien dan bebas dari kesalahan. Program juga menghasilkan laporan-laporan manajemen yang diperlukan untuk pengambilan keputusan. Salah satu laporan adalah Perhitungan Bagi Hasil Efektif (PBHE). Laporan ini mencakup segala perhitungan pendapatan PTR.",
+  "creators": "ELLI TRIANA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0162/INF/2004; Elli Triana (26400161)",
+  "subjects": "BORLAND DELPHI 7 (COMPUTER PROGRAM LANGUAGE); DATA BASE DESIGN; DATA BASE MANAGEMENT"
+}

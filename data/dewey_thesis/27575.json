@@ -1,0 +1,14 @@
+{
+  "id": "27575",
+  "title": "Audit monitoring and evaluate software iSpektra berdasarkan standar Control Objective for Information and Related Technology (COBIT) 4.0 dan Capability Maturity Model Integration (CMMI) VI.2",
+  "abstract": "Universitas Kristen Petra memiliki perpustakaan yang memiliki banyak sekali koleksi yang hampir semua sistemnya dikerjakan secara otomasi. Sehingga mempermudah saat proses pencarian dan peminjaman koleksi perpustakaan. Permasalahan yang dihadapi perpustakaan yakni sering terjadinya downserver. Hal ini yang menghambat proses transaksi peminjaman dan pengembalian buku serta proses pencarian koleksi di website. Berikutnya ketidaksesuaian letak buku yang diberikan pada katalog online dengan letak buku yang sebenarnya juga mempersulit proses pencarian buku. Pada skripsi ini, dilakukan audit software dan dibuatlah aplikasi merangkum data hasil audit pada perpustakaan Universitas Kristen Petra. Pembuatan aplikasi ini menggunakan database SQL SERVER, bahasa pemrograman menggunakan Visual Studio .Net 2005. Berdasarkan pengujian, aplikasi ini membantu merangkum dan scoring hasil audit yang telah dilakukan serta menentukan kriteria audit yang sesuai yakni berdasarkan standar COBIT 4.0 dan CMMI V1.2 pada domain ME 1(Monitor and Evaluate IT Performance) dan ME 4 (Provide IT Governance).",
+  "creators": "RAYMOND WEILY",
+  "contributors": "Ibnu Gunawan (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021155/INF/2012; Raymond Weily (26408105)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

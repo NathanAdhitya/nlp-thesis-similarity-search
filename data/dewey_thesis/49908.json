@@ -1,0 +1,14 @@
+{
+  "id": "49908",
+  "title": "Sistem monitoring motor induksi 3 fasa dengan sensor getaran dan sensor suhu",
+  "abstract": "Kerusakan pada motor listrik seperti motor induksi pada pabrik dapat menyebabkan terjadinya kerugian skala besar, mulai dari terhambatnya proses produksi dan biaya perbaikan yang mahal. Tugas akhir ini bertujuan untuk membuat sistem monitoring motor induksi 3 fasa dengan menggunakan sensor getaran yang dibuat dari sensor accelerometer ADXL335 dan sensor suhu PT100. Sistem ini akan melakukan proses monitoring pada motor induksi 3 fasa yang digunakan menggunakan PLC. Untuk mengonversi satuan percepatan yang dibaca oleh accelerometer menjadi kecepatan, dapat dilakukan dengan integral pertama terhadap waktu. Sedangkan untuk sensor suhu PT100, nilai suhu didapatkan dari persamaan linier. Kedua data ini akan dikirimkan ke PLC menggunakan modbus TCP/IP sehingga PLC dapat melakukan monitoring motor induksi menggunakan parameter tersebut. Berdasarkan hasil yang didapatkan dari pengujian sistem ini, sensor getaran yang dibuat memiliki selisih yang cukup besar jika dibandingkan dengan vibration meter pada pengukuran motor induksi. Persentase error yang dihasilkan saat kondisi motor normal sebesar 70.53% dan pada kondisi tidak normal sebesar 59.77%. Untuk pembacaan sensor suhu, pada kondisi motor normal memiliki selisih sebesar 6.34% dan pada kondisi motor tidak normal memiliki selisih 6.35%.",
+  "creators": "WENDY WIBISONO",
+  "contributors": "Handy Wicaksono (Advisor 1); Handry Khoswanto (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011015/ELK/2021; Wendy Wibisono (C11170015)",
+  "subjects": "ELECTRIC MOTOR, INDUCTION; SENSOR NETWORKS"
+}

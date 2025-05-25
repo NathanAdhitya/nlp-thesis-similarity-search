@@ -1,0 +1,14 @@
+{
+  "id": "10583",
+  "title": "Perencanaan dan pembuatan alat pengontrol pendistribusian air mampu program pada sistem pengairan sawah",
+  "abstract": "Sistem distribusi ini merupakan suatu sistem yang berguna untuk membantu sistem penyaluran air dalam pertanian, hal ini dikarenakan sistem yang sekarang di negara kita menggunakan sistem manual dan masih sederhana, Sebab itu direncanakan suatu sistem yang dapat bekerja secara otomatis, dan dapat berjalan sesuai dengan waktu real time, sehingga ketepatan pengairan dapat dilakukan tanpa samasekali campur tangan seseorang. Tujuan yang akan dicapai dengan alat ini yaitu mewujudkan sistem yang dapat membantu manusia lebih baik dalam meningkatkan sistem pengairan, dan dapat meningkatkan hasil pertanian yang jauh lebih baik \\ay) seperti negara-negara yang sudah maju. Perencanaan dan pembuatan alat ini dapat dibagi menjadi dua bagian yaitu perencanaan dan pembuatan hardware dan software. Untuk perencanaan hardware didesain minimum system dengan menggunakan microcontroller 8031, RTC, LCD dan keypad beserta sensor-sensor maupun driver untuk solenoid. Perencanaan software dibuat sesuai dengan alur dari alat atau sistem ini, demikian software berguna mengontrol solenoid dalam keadaan terbuka atau tertutup, setting RTC(Real Time Clock), LCD(Liquid Crystal Display), maupun keypad dengan memprogram tiap solenoid yang bekerja mernbuka dan menutup air pada waktu on dan waktu off, disertai dengan setting jam dan menit. Hasil uji di laboratorium tercapai dan sistem berjalan sesuai dengan sistem yang sudah direncanakan, solenoid A dan solenoid B melakukan buka/tutup sesuai dengan waktu yang sudah diprogram pemakai waktu on dan off, penampilan lewat LCD sangat membantu dalam kita melakukan pemrograman. Sistem dari hasil uji didapatkan berjalan sesuai dengan perencanaan dan dapat diuji cobakan pada sistem yang sesungguhnya untuk membantu dalam pengairan di suatu pertanian.",
+  "creators": "JOSE SOARES",
+  "contributors": "IRWAN SAHLI (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.00/E/EL/026/463; Jose Soares (23494001)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

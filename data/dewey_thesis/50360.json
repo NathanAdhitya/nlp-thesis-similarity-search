@@ -1,0 +1,14 @@
+{
+  "id": "50360",
+  "title": "Balanced amplifier dengan menggunakan driver op amp FET",
+  "abstract": "Umumnya amplifier konvensional melibatkan jalur power supply (ground) yang berhubungan dengan jalur audio. Sehingga dalam pengolahan sinyal audio akan muncul IHM (Interval Hum Modulation) noise. Maka dari itu untuk dapat menekan timbulnya noise seminimal mungkin dibuat suatu amplifier yang tidak bereferensi pada ground power supply. Jadi amplifier ini harus benar-benar balance dari input sampai ke output. Tugas Akhir ini membuat balance amplifier klas AB push-pull dengan daya rms sebesar 120 Watt dan lebar bandwidth antara 50 sampai lOkHz. Amplifier ini menggunakan op-amp FET sebagai driver-nya. Op-amp FET yang digunakan adalah TL072 karena op-amp ini mempunyai karakteristik low noise. Pada power amplifier digunakan sistem rangkaian complementary pairs sebagai penguat arus. Sedangkan tone control-nya menggunakan tone control aktif. Dari hasil pengujian ternyata daya output yang keluar ke speaker hanya 110 Watt. Sedangkan pada desain rangkaian diharapkan daya output yang keluar ke speaker sebesar 120 Watt.",
+  "creators": "IWAN WAHYUDI",
+  "contributors": "YOHANES T. D. S (Advisor 1); Handry Khoswanto (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/651/ELK/2003; Iwan Wahyudi (23499066)",
+  "subjects": "AMPLIFIERS"
+}

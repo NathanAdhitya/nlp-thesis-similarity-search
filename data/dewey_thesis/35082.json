@@ -1,0 +1,14 @@
+{
+  "id": "35082",
+  "title": "Perencanaan enterprise architecture pada perusahaan manufaktur PT Z",
+  "abstract": "PT Z merupakan produsen cat terkemuka di Indonesia dengan pengalaman bertahun-tahun di bidang industri cat yang memproduksi beragam jenis cat antara lain Decorative Coating (water and solvent based), Automotive Coating, Industrial Coating, dan Heavy Duty Coating. PT Z memiliki kantor perwakilan dibeberapa tempat untuk membantu distribusi produk. Dalam proses bisnisnya, PT Z memiliki sistem informasi yang mendukung proses bisnis. Namun, sistem informasi yang ada belum sempurna karena masih ada beberapa pencatatan yang dilakukan secara manual dan aplikasi sering mengalami masalah. Maka, pada skripsi dilakukan analisis dan pembuatan desain sistem informasi enterprise architecture bagi perusahan. Kerangka kerja yang digunakan yaitu Enterprise Architecture Planning. Proses diawali dengan melakukan analisis terhadap model bisnis dan strategi bisnis perusahaan. Kemudian melihat kondisi information technology di perusahaan saat ini dan mencatat permasalahan yang dihadapi dan kebutuhan information technology di masa depan. Setelah itu dilakukan pembuatan desain arsitektur data, arsitektur aplikasi dan arsitektur teknologi yang sesuai dengan tujuan, strategi bisnis dan proses bisnis perusahaan. Hasil desain arsitektur data yang dihasilkan terdiri dari beberapa sub sistem yaitu Sub Sistem Karyawan, Sub Sistem Pembelian, Sub Sistem Penjualan, Sub Sistem Ekspedisi, Sub Sistem Finance dan Accounting, Sub Sistem Warehouse, Sub Produksi, dan Sub Sistem Maintenance. Arsitektur Aplikasi terdiri dari beberapa aplikasi utama dan aplikasi pendukung. Aplikasi utama terdiri dari Sistem informasi Karyawan, Sistem Informasi Pembelian, Sistem Informasi Penjualan, Sistem Informasi Ekspedisi, Sistem Informasi Finance dan Accounting, Sistem Informasi Warehouse, Sistem Informasi Produksi, dan Sistem Informasi Maintenance. Semua aplikasi tersebut merupakan aplikasi yang dibuat dengan menggunakan bahasa pemprograman visual basic. Aplikasi yang mendukung aplikasi-aplikasi tersebut adalah aplikasi Data Provider di mana aplikasi tersebut membantu aplikasi utama dalam berkomunikasi untuk melakukan permintaan data antar aplikasi. Arsitektur Tekonologi menggunakan Client/Server Architecture Pattern dan Service Oriented Architecture.",
+  "creators": "ODWIN VIATOR HARTEDJA",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Silvia Rostianingsih (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021475/INF/2015; Odwin Viator Hartedja (26411060)",
+  "subjects": "BALANCED SCORECARD; INFORMATION SYSTEM; INFORMATION TECHNOLOGY"
+}

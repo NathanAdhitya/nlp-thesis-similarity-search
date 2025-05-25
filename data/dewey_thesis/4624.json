@@ -1,0 +1,14 @@
+{
+  "id": "4624",
+  "title": "Programmable peripheral interface using PLD",
+  "abstract": "PLD (Progammable Logic Device) adalah IC digital yang dapat diprogram arsitektur di dalamnya untuk dibuat sesuai dengan kebutuhan. PLD memiliki banyak jenis di antaranya adalah FPGA Xilinx XC4005XL. Tugas akhir ini merupakan implementasi Xilinx XC4005XL sebagai PPI yang memiliki kapasitas lima port ekspansi sebagai pengganti dari 8255 yang hanya memiliki kapasitas port terbatas (3 port) untuk memenuhi kebutuhan aplikasi dari microcontroller. Dengan adanya PPI ini tidak perlu lagi menggunakan minimum system, cukup dengan single chip. Pemrograman XC4005XL ini menggunakan Xilinx Foundation 2.1 dalam bentuk HDL (High Description Language) dan schematic. Arsitektur di dalamnya mengadopsi arsitektur dari 74573 sebagai pemisah data dan address, dan 8255. XC4005XL akan berkomunikasi dengan microcontroller AT89S51. PPI dengan menggunakan FPGA Xilinx XC4005XL ini memiliki control port dan control word untuk inisialisasi port sebagai input atau output. Dari hasil pengujian alat, XC4005XL dapat berkomunikasi dengan AT89S51 baik dalam membaca atau menulis data. Implementasi dari PPI ini berhasil men-demux address dan data yang diberikan dari microcontroller. Port ekspansi yang dimiliki PPI buatan ini sebanyak lima port. Port dapat diperluas sesuai dengan banyaknya I/O port yang dimiliki suatu FPGA.",
+  "creators": "RANDY PRANOTO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010828/ELK/2006; Randy Pranoto (23402101)",
+  "subjects": "COMPUTER-INTERFACES; PROGRAMMABLE CONTROLLERS"
+}

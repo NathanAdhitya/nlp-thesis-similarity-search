@@ -1,0 +1,14 @@
+{
+  "id": "26025",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada Toko Subur Makmur",
+  "abstract": "Toko Subur Makmur adalah toko dagang yang bergerak di bidang penjualan, pembelian alat tulis kantor dan barang kelontong. Dalam kegiatannya sehari-hari Toko Subur Makmur masih menerapkan sistem manual dan belum sama sekali terdapat proses administrasi di dalamnya. Hal ini menyebabkan proses transaksinya berjalan lambat dan kurang akurat jika dibandingkan dengan menggunakan sistem yang terkomputerisasi. Oleh karena itu Toko Subur Makmur membutuhkan sistem informasi administrasi yang terkomputerisasi, dengan tujuan dapat mengatasi masalah yang dihadapi. Sistem informasi administrasi yang dimaksud diharapkan dapat membantu pemilik toko dalam mencatat semua transaksi yang dilakukan dan mengolahnya menjadi laporan yang berguna bagi pemilik untuk pengembangan toko ke depannya. Aplikasi ini dikembangkan dan dibuat dengan menggunakan bahasa pemrograman Microsoft Visual Studio 2005.Net dan Microsoft SQL Server 2005 sebagai tempat penyimpanan data. Aplikasi yang dibuat memiliki ruang lingkup sebagai berikut : proses pembelian, penjualan, pelunasan hutang piutang, retur pembelian penjualan, stok barang dan laporan keuangan yang meliputi laporan hutang, laporan piutang, laporan penjualan, laporan pembelian, laporan laba rugi dan laporan kartu stok. Hasil pengujian terhadap aplikasi menunjukkan bahwa aplikasi ini dapat secara otomatis memproses data administrasi yang berhubungan langsung dengan proses pembelian dan penjualan. Laporan yang dihasilkan aplikasi mencapai angka 100% pada grade 3. Tingkat keakuratan informasi dan data mencapai angka 100% dan mendapatkan grade 5. Sedangkan manfaat dari aplikasi mendapatkan grade 6 dengan angka 100%.",
+  "creators": "FREDY CAHYA KUSUMA",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Rudy Adipranata (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021142/INF/2012; Fredy Cahya Kusuma (26408033)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

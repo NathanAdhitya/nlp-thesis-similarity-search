@@ -1,0 +1,14 @@
+{
+  "id": "30010",
+  "title": "Simulasi cockpit view pesawat terbang",
+  "abstract": "Banyak orang yang berkeinginan untuk mencoba menerbangkan pesawat terbang, tetapi dalam dunia nyata, tidak mungkin seseorang menggunakannya hanya untuk ingin tahu bagaimana rasanya mengemudikan pesawat terbang. Hal tersebut dikarenakan dibutuhkannya izin untuk dapat menerbangkan pesawat terbang. Selain itu banyak resiko kecelakaan yang dapat terjadi saat menerbangkannya. Dengan menyediakan simulasi Cockpit View pesawat terbang dengan interface tiga dimensi yang dibuat semirip dengan dunia nyata, akan membantu orang yang berkeinginan untuk menerbangkan pesawat terbang merasakan berada pada kokpit pesawat terbang. Joystick sebagai kontrol kemudi akan membuat pengguna seperti menggunakan kontrol kemudi pada pesawat terbang. Dalam penggunaan joystick diperlukan simple directmedia layer (SDL) sebagai library untuk membaca dan menerima input yang dihasilkan dari joystick. Aplikasi ini akan menghasilkan data training yang nantinya akan dilatihkan pada Neuro-Fuzzy tipe MIMO Takagi Sugeno (NFTS) atau Jaringan saraf tiruan jenis lain. Hasil dari data training nantinya akan digunakan untuk mengontrol gerakan dari Massively Actuator Array using Artificial Intelligence (MA3I).",
+  "creators": "HANS JUWIANTHO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021338/INF/2014; Hans Juwiantho (26410089)",
+  "subjects": "VIDEO GAMES-PROGRAMMING; NEURAL NETWORKS (COMPUTER SCIENCE); COMPUTER GRAPHIC-COMPUTER PROGRAMS"
+}

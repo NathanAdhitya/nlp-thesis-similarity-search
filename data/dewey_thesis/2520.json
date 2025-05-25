@@ -1,0 +1,14 @@
+{
+  "id": "2520",
+  "title": "Program komputer untuk pengajaran perilaku struktur terhadap beban dinamis (tiga dimensi)",
+  "abstract": "Suatu program komputer sederhana telah dibuat untuk membantu para mahasiswa maupun para praktisi (teknik sipil maupun teknik arsitektur) dalam mempelajari perilaku struktur elastis akibat suatu sistem pembebanan dinamis. Program ini dibuat sebagai kelanjutan dari program gempa yang telah dibuat di Universitas Kristen Petra pada masa lalu. Program ini dibuat dalam arah tiga dimensi dan dapat digunakan untuk struktur dimana pusat massa semua lantai terletak pada satu sumbu vertikal, dan pusat kekakuan semua lantai terletak pada satu sumbu vertikal yang lain, artinya eksentrisitas eN dan ey sama untuk semua tingkat. Program ini juga mampu menampilkan animasi tampak samping yang diidealisasikan sebagai lumped mass dan animasi tampak atas dari response struktur akibat dibebani beban dinamis pada satu arah dan pengaruh arah tegak lurusnya. Penggunaan program ini diusahakan sesederhana mungkin, sehingga pemakai hanya memerlukan pengetahuan minimal tentang komputer. Dengan menggunakan program ini diharapkan pemakai dapat memperoleh pengertian yang lebih mendalam mengenai perilaku struktur elastis terhadap beban dinamis, antara lain pengaruh \"soft storey', pengaruh resonansi antara pembebanan dan struktur, pengaruh torsi serta pengaruh perubahan kekakuan struktur dan lainnya. Verifikasi program ini dilakukan dengan membandingkan hasil dari program dengan contoh - contoh soal yang ada di berbagai buku - buku referensi dan dengan program - program gempa yang telah dibuat terdahulu di Universitas Kristen Petra Surabaya.",
+  "creators": "YOHAN FANGAJA; ERNY OLIVIA MALAKA",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Tirta Djusman Arief (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 1199 S; Yohan Fangaja (21496009), Erny Olivia Malaka (21496207)",
+  "subjects": "REINFORCED CONCRETE CONTRUCTION"
+}

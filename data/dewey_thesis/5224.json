@@ -1,0 +1,14 @@
+{
+  "id": "5224",
+  "title": "Start motor sinkron metode asinkron dengan zelio, disimulasi pada motor sinkron 3 phasa 3000rpm, 110/220v, 0.55kW, 50H",
+  "abstract": "Pembuatan tugas akhir ini dimaksudkan untuk mempelajari penggunaan zelio yang diaplikasikan untuk melakukan start motor sinkron secara otomatis. Oleh karena itu dilakukan penelitian untuk melakukan start motor sinkron menggunakan zelio dengan metode asinkron. Jadi untuk melakukan start motor sinkron hanya menggunakan sebuah tombol. Dalam pembuatan sistem start motor sinkron secara otomatis menggunakan zelio tipe SR3 B261BD. Zelio tersebut memiliki fitur input analog. Pada topik ini zelio berfungsi sebagai pengatur dan menerima input dari komponen sensor kecepatan berupa IC LM2917 sebagai konversi frekuensi ke tegangan, dan detektor arus yang menggunakan IC Op-Amp HA17324 sebagai konversi arus ke tegangan. Output dari hasil olahan zelio dihubungkan ke relay dan kontaktor untuk dapat menjalankan motor sinkron. Dari hasil pengujian, sensor kecepatan memiliki error sebesar 5,899% sedangkan detektor arus memiliki error sebesar 24,347%. Namun tidak menjadi kendala karena yang digunakan dari sensor-sensor tersebut adalah kelinearitasan sensor tersebut yaitu sebesar 0,9998 untuk sensor kecepatan dan 0.9973 untuk detektor arus. Bagian - bagian pada alat ini mampu bekerja dengan baik sehingga dapat menjadi satu kesatuan yang utuh. Dari percobaan sistem sebanyak 20 kali terjadi 14 kali keberhasilan sehingga didapat persentase keberhasilan dari hasil percobaan tersebut sebesar 70%.",
+  "creators": "STEVY INDRA KRISNA",
+  "contributors": "Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 1); Handy Wicaksono (Advisor 2); Limboto Limantara (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No.01010554/ELK/2007; Stevy Indra Krisna (23403003)",
+  "subjects": "ELECTRIC MOTORS-STARTING DEVICES; ELECTRIC MOTORS-SYNCHRONOUS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "19179",
+  "title": "Perencanaan dan pembuatan sistem pengaturan rumah yang dihubungkan dengan line telepon",
+  "abstract": "Sejalan dengan perkembangan dibidang komunikasi dan kontrol, timbul tuntutan masyarakat akan suatu jenis pengontrolan dimana antara plant yang dikontrol dan pengontrolnya tidak hams berada pada satu tempat. Menjawab tuntutan tersebut, maka harus ada suatu sistem kontrol yang dapat mengendalikan / mengatur plant dari jarak jauh, dan untuk itu selain dibutuhkan alat pengontrolnya, juga dibutuhkan suatu media yang mudah didapat dan juga terjamin kehandalannya untuk dijadikan sarana komunikasi. Line telepon adalah salah satu pilihan dari sekian banyak media komunikasi, mengingat bahwa telepon sudah merupakan suatu sarana yang masal, sehingga sangat mudah untuk diperoleh. Sarana inilah yang akan dipergunakan pada tugas akhir berikut. Dalam tugas akhir ini sinyal yang digunakan adalah sinyal DTMF karena sinyal ini tahan terhadap noise, mengingat pendeteksian sinyal ini adalah pada frekuensinya, bukan pada amlitudonya. Plant yang akan dikontrol berupa peralatan yang ada didalam rumah. Peralatan tersebut mencakup peralatan penerangan, sensor , saklar, dan sirine/buzzer. Peralatan kontrol yang dibuat ini menggunakan mikrokontroler 8031 dan menggunakan IC MT8888 sebagai komponen utama yang berfungsi sebagai DTMF tranceiver. Sedangkan sebagai peralatan input digunakan switch dan sebagai outputnya digunakan liquid crystal display. Peralatan kontrol ini juga dUengkapi oleh fasilitas komunikasi serial dengan komputer. Dengan menggunakan komputer sebagai peralatan input dan outputnya, user dapat lebih mudah mengoperasikan sistem kontrol ini.",
+  "creators": "RAYMOND TANDEAN",
+  "contributors": "Andojo Ongkodjojo (Advisor 2); Murtiyanto Santoso (Examination Committee 1); IRWAN SAHLI (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/045/344; Raymond Tandean (23492151)",
+  "subjects": "AUTOMATIC-CONTROL; MICROCONTROLLERS 8031; TELEPHONE AUTOMATIC"
+}

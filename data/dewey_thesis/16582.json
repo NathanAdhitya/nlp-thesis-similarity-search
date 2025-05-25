@@ -1,0 +1,14 @@
+{
+  "id": "16582",
+  "title": "Perencanaan dan pembuatan program simulator mikroprosesor MC68000",
+  "abstract": "Seiring pertumbuhan industri dan kemajuan teknologi, penggunaan mikroprosesor 8 bit mulai ditinggalkan dan digantikan oleh mikroprosesor 16 dan 32 bit. Salah satunya adalah mikroprosesor 68000 yang dibuat oleh Motorola. Desain program untuk mikroprosesor dalam low level language membutuhkan assembler dan program bantu untuk mendebug kesalahan yang terjadi dan tidak teramati tanpa proses eksekusi program. Program bantu tersebut adalah Simulator. Desain Assembler dengan menggunakan fixed format line dan two pass dimaksudkan untuk melengkapi program simulator, sehingga program simulator dapat menerapkan aturan yang sama dengan mikroprosesor yang sesungguhnya, dimana program harus diassembler terlebih dahulu sebelum dieksekusi. Two Pass assembler memungkinkan forward reference suatu alamat memory atau label sebelum alamat atau label ditemukan. Fixed line format, memberikan keleluasaan untuk menulis program. Dengan simulator, kesalahan yang tidak teramati selama proses assembler dapat terlihat, baik kesalahan yang kecil seperti kesalahan referensi alamat atau kesalahan yang global seperti stack overflow. Hal tersebut dimungkinkan dengan adanya fasilitas step by step simulation dan simulasi dalam kecepatan tinggi. Program simulator diimplementasi dengan instruksi-instruksi type program control, aritmetika, dan transfer. Program simulator didukung oleh text editor dan menghasilkan suatu lingkungan pengembangan terpadu. Hasil pengujian dengan mengamati eksekusi program, mampu menampilkan kondisi kerja mikroprosesor 68000.",
+  "creators": "DANIEL NUGROHO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Rolly Intan (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/KOM/012/016; Daniel Nugroho (23491170)",
+  "subjects": "MICROPROCESSOR MC6800; MOTOROLA 6800 (MICROPROCESSOR)"
+}

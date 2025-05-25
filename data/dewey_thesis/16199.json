@@ -1,0 +1,14 @@
+{
+  "id": "16199",
+  "title": "Analisis perbandingan empat algoritma daerah sekitar untuk kasus penjadwalan",
+  "abstract": "Tujuan dari penelitian ini adalah membuat sistem penjadwalan produksi yang bertujuan untuk meminimalkan jumlah pekerjaan yang terlambat dengan memperhatikan bobot pekerjaan yaitu biaya penalty dan tingkat kepentingan konsumen {weighted number of tardy job) pada proses molding di PT. Davin Plastindo dengan menggunakan beberapa algoritma daerah sekitar yaitu multistart descent, simulated annealing, tabu search dan algoritma genetik. Kemudian melakukan analisis perbandingan dari keempat algoritma daerah sekitar tersebut. Hal ini dikarenakan oleh adanya permasalahan yang sedang dihadapi oleh penisahaan yang 70% konsumennya berada di luar negeri ini adalah banyaknya pesanan atau job yang terlambat. Jika suatu job terlambat maka perusahaan akan dikenakan biaya penalty. Penelitian ini dibagi menjadi 4 tahap penting, yaitu pengumpulan dan pengolahan data, pembuatan solusi awal dengan algoritma A dan algoritma B dan pembuatan penjadwalan produksi dengan keempat algoritma daerah sekitar kemudian membuat analisis perbandingan dari keempat algoritma yang digunakan. Hasil paling optimal untuk kasus penjadwalan ini, dicapai dengan menggunakan algoritma multistart descent dan simulated annealing. Sedangkan untuk kasus lain yang mungkin akan dihadapi perusahaan, penyusun menyarankan untuk mencoba beberapa kali dari setiap algoritma daerah sekitar, kemudian dicari yang paling optimal. Algoritma multistart descent, simulated annealing dan tabu serach menunjukkan adanya perbaikan yang significant dari solusi awal yang digunakan. Sedangkan algoritma genetik kurang menunjukkan adanya perbaikan yang significant dari solusi awal yang digunakan.",
+  "creators": "WINETY KRISTIANA DEWI",
+  "contributors": "Stevanus Adrianto Tjandra (Advisor 1); Sujono Poetrodjojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 157/TI-87/1998; Winety Kristiana Dewi (25494016)",
+  "subjects": "SCHEDULING; MANUFACTURING PROCESSES"
+}

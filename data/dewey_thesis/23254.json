@@ -1,0 +1,14 @@
+{
+  "id": "23254",
+  "title": "Perencanaan dan pembuatan interface kamera ke IBM PC untuk mengambil gambar, menampilkan ke monitor dan menyimpan ke disk",
+  "abstract": "Untuk mengabadikan suatu gambar atau peristiwa, dapat digunakan kamera foto. eta pi dengan cara i n i hasil pengambilan gambar tak dapat diketahui secara langsung, karena masih memerlukan pencucian f i l m (negatif) dan pencetakan. Pada Tugas A k h i r i n i dibuat suatu a l a t berupa interface card yang ditancapkan ke salah satu s l o t komputer. Alat i n i dapat mengambil garnbar dari kamera, menampilkan ke monitor dan menyimpan data pada disk. Dengan memanfaatkan paket program jadi, gambar dapat langsung dicetak pada printer sehingga hasilnya dapat langsung diketahui. Gambar yang diambil pada a l a t i n i berukuran 416x312 t i t i k . Prinsip dasar a l a t i n i adalah memisahkan sinyal RIG dan B dari sinyal video komposit sistem PAL. Setelah dipisahkan, masing-masing komponen R,G dan B dikonversi menjadi data d i g i t a l 8 b i t oleh ADC. Sehingga dapat dihasilkan gambar yang true color (24 b i t ) . Data d i g i t a l dari ADC i n i disimpan sementara dalam memori eksternal. Dalam ha1 i n i yang dimaksud dengan memori eksternal adalah RAM eksternal (HM628128). Selama belum terdeteksi penekanan tombol untuk 'capture' a l a t akan terus menerus menyampling data. Karena ha1 i n i , maka gambar yang tersimpan dalam memori eksternal b e r s i f a t r e a l time. Setelah tombol capture ditekan akan t e r j a d i proses transfer data dari memori eksternal ke memori komputer. Gambar dapat ditampilkan pada monitor Super VGA dengan resolusi 640x480. Gambar yang diambil dapat disimpan pada disk. Proses penyimpanan gambar i n i memakai standar format f i l e PCX. Dengan demikian dapat dilakukan pengolahan gambar lebih lanjut, misalnya pencetakan pada printer, pengeditan gambar dan lain sebagainya.",
+  "creators": "MARIA IMELDA N.",
+  "contributors": "SOETIKNO (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/015/0275; Maria Imelda N. (23491847)",
+  "subjects": "CAMERA-READY COPY-COMPUTER PROGRAMS; COMPUTERS; INTERFACE CIRCUITS"
+}

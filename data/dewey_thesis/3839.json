@@ -1,0 +1,14 @@
+{
+  "id": "3839",
+  "title": "Perencanaan dan pembuatan inverter 12 VDC ke 220 VAC dengan daya 250 watt, frekuensi 50 Hz",
+  "abstract": "Salah satu cara untuk mengubah tegangan DC menjadi AC adalah dengan menggunakan Inverter. Inverter berfungsi sebagai mengubah tegangan 12 VDC menjadi 220 VAC. Metode pembangkitan gelombang/sinyal menggunakan rangkaian oscillator/Multivibrator yang dirancang dengan frekuensi kerja 50 Hz, untuk membangkitkan gelombang kotak (Square Wave). Salah satu tujuan Inverter ialah untuk suplai tegangan AC pada kendaraan bermotor. Dalam Perancangan dan Pembuatan Tugas Akhir ini menggunakan metode Inverter Saturate Switch dari jenis inverter arus. Pada rangkaian Inverter ini rangkaian multivibrator akan membangkitkan pulsa tegangan serta frekuensi dimana berfungsi sebagai pengontrol dari rangkaian driver, arus emitor dari rangkaian driver ini akan mengontrol basis dari rangkaian transistor daya. Tegangan yang dihasilkan oleh rangkaian transistor daya akan menuju ke transformator, pada transformator ini tegangan akan dinaikkan menjadi tegangan yang lebih besar lagi. Pada Pengujian Inverter yang dibebani dengan bermacam-macam beban terdapat voltage drop. Sebagai contoh pada pengujian beban lampu pijar 260 Watt Voltage drop tegangan output mencapai 30,13%, sedangkan untuk tegangan sumber terjadi Voltage drop mencapai 5,89%.",
+  "creators": "I GEDE KESUMA WIJAYA",
+  "contributors": "Limboto Limantara (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010541/ELK/2006; I Gede Kesuma Wijaya (23400125)",
+  "subjects": "ELECTRIC INVERTERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "36988",
+  "title": "Aplikasi queueing system berbasis android yang bisa menginformasikan perkiraan waktu tunggu melalui teknologi push notification",
+  "abstract": "Menunggu adalah suatu hal yang membosankan bagi kebanyakan orang. Apalagi, jika seseorang menunggu dalam sebuah antrian yang sangat panjang. Hal tersebut memberikan efek jera karena mereka tidak mengetahui berapa lama lagi mereka harus menunggu hingga mendapatkan pelayanan. Oleh karena itu, dibuatlah suatu aplikasi sistem antrian berbasis Android yang dapat memberikan informasi perkiraan waktu tunggu bagi Customer yang sedang berada dalam sebuah antrian, sehingga mereka dapat mengetahui estimasi waktu mereka akan dilayani. Aplikasi Android pada skripsi ini memiliki fitur menampilkan informasi antrian saat ini yang dibutuhkan oleh Customer, seperti nomor antrian milik Customer dan perkiraan waktu tunggu, nomor antrian yang dilayani saat ini, serta jumlah orang yang menunggu sebelum Customer tersebut. Informasi tiket Customer dikirimkan pada aplikasi Android dengan fitur Google Cloud Messaging (push notification). Dari hasil pengujian, sistem ini dapat menghasilkan perkiraan waktu tunggu sekitar 65,51% tanpa toleransi over time dan mencapai 67,95% dengan toleransi +/- 2 menit. Hasil tersebut didapatkan dengan menggunakan histori data waktu kedatangan dan pelayanan yang dimiliki oleh sebuah instansi atau organisasi.",
+  "creators": "YOSAFAT SETIA BUDI",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Yulia (Advisor 2); Iwan Njoto Sandjaja, S.T., MSCS. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021596/INF/2016; Yosafat Setia Budi (26412067)",
+  "subjects": "ANDROID (COMPUTER PROGRAM); ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); APPLICATION SOFTWARE-DEVELOPMENT"
+}

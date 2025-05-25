@@ -1,0 +1,14 @@
+{
+  "id": "49809",
+  "title": "Penjadwalan flow shop plant P dengan modified hodgson algorithm di PT X",
+  "abstract": "PT X merupakan perusahaan pemrosesan kaca yang terletak di Kota Surabaya. Sistem produksi berdasarkan customer order atau bersifat make to order. Penjadwalan produksi yang kurang sesuai dengan alur produksi menyebabkan departemen produksi kesulitan dalam mengikuti jadwal produksi yang ada dan estimasi waktu penyelesaian order tidak akurat. Dampak yang timbul dari permasalahan ini adalah keterlambatan pesanan mencapai 33,07%. Tujuan penelitian adalah membuat usulan penjadwalan produksi yang dapat meminimalkan keterlambatan pesanan. Algoritma penjadwalan adalah menggunakan Modified Hodgson Algorithm. Algoritma ini menggunakan waktu sisa proses dari order sebagai acuan untuk menentukan urutan pengerjaan order. Hasil perbandingan antara keadaan awal dan usulan adalah terdapat beberapa perbedaan tetapi tidak untuk semua keadaan yang ada. Hal ini terjadi karena urutan pengerjaan order pada proses cutting antara keadaan awal dan usulan sama. Hasil implementasi untuk proses cutting, edge serta cowak dan bor berjalan dengan baik. Kendala yang dialami dalam implementasi adalah produk belum selesai diproses pada proses berikutnya. Hal ini terjadi karena penjadwalan tidak memperhatikan transport time. Evaluasi kecocokan antara jadwal dan realisasi untuk proses cutting, potong ulang, gosok square, gosok irregular serta cowak dan bor sebesar 100%, 33%, 32%, 35% dan 30%.",
+  "creators": "ADELIA LEONY TANUWIJAYA",
+  "contributors": "Herri Christian Palit (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022400/IND/2021; Adelia Leony Tanuwijaya (C13170081)",
+  "subjects": "PRODUCTION CONTROL; PRODUCTION MANAGEMENT; PRODUCTION SCHEDULING"
+}

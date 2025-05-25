@@ -1,0 +1,14 @@
+{
+  "id": "6188",
+  "title": "Perancangan dan pembuatan material requirements planning (MRP) pada perusahaan sandal PT. Halim Jaya Sakti",
+  "abstract": "Pada perusahaan sandal PT. \"X\" tidak digunakan sistem yang terkomputerisasi. Untuk perencanaan produksi yang dilakukan masih manual sehingga banyak bahan baku yang dibeli secara berlebihan. Hal itu akan menyebabkan keuntungan perusahaan menjadi tidak maksimal. Pembuatan sistem perencanaan kebutuhan bahan ini diawali dengan peramalan terhadap item dengan menggunakan metode Moving Average, Exponential Smoothing, dan Trend Line Analysis lalu dari hasil peramalan tersebut maka akan dicari total biaya terkecil dari metode-metode lot size sebagai berikut Lot for Lot, Economic Order Quantity, Period Order Quantity, Part Period Total Cost Balancing yaitu yang akan menghasilkan tabel perencanaan kebutuhan bahan yang berupa perencanaan kebutuhan bahan dari periode-periode yang ada. Software ini dibuat dengan menggunakan SQL Server 2000 untuk database-nya dan menggunakan Borland Delphi 7.0 sebagai compilernya. Dari hasil implementasi dan pengujian maka perusahaan akan mendapatkan perkiraan kebutuhan bahan yang mendekati kenyataan dan mengurangi terjadinya pembelian bahan baku yang berlebih, sehingga keuntungan yang didapat perusahaan akan menjadi lebih besar.",
+  "creators": "LINA AMELIA AGUSTINE",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Yulia (Advisor 2); M. ISA IRAWAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010561/INF/2006; Lina Amelia Agustine (26402080)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

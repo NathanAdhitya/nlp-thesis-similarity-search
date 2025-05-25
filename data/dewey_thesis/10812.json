@@ -1,0 +1,14 @@
+{
+  "id": "10812",
+  "title": "Pengendalian miniatur lift 5 lantai dengan plc schneider tsx micro 37/21",
+  "abstract": "Seiring perkembangan teknologi ini banyak diciptakan lift pada gedung-gedung bertingkat, maka dari itu dalam Tugas Akhir ini dibuatlah miniatur atau simulasinya sehingga kita dapat mempelajari cara kerja lift lebih dalam lagi. Sistem kerja dari miniatur lift 5 lantai ini menggunakan PLC Schneider TSX Micro 37/21 sebagai pengontrol sistem, inverter tipe ATV16U54N4 sebagai pengatur kecepatan, Motor AC 380V sebagai penggerak sangkar naik dan turun dan motor DC 24VDC sebagai penggerak pintu sangkar lift. Driver dari motor DC ini menggunakan relay 24VDC yang disusun secara H-Bridge dan untuk pengendali kecepatan motor AC digunakan VSD (Variable Speed Drive) atau yang biasa disebut sebagai inverter. Sensor dari sistem ini menggunakan Limit Switch yang disusun secara berurutan pada tiap lantainya. Hasil yang dicapai dari Tugas Akhir ini adalah bahwa inverter atau VSD ini dapat mengontrol kecepatan motor AC 3 phase, dengan cara mengatur frekuensi dari motor AC tersebut. Untuk pemrograman dari PLC Schneider TSX Micro 37/21 ini menggunakan bahasa pemrograman PL7, dan memang dalam pemrograman ini didapati kompleksitas yang cukup tinggi.",
+  "creators": "TONY NOVIANTO",
+  "contributors": "Felix Pasila (Advisor 1); Hany Ferdinando (Advisor 2); Handy Wicaksono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010849/ELK/2008; Tony Novianto (23401055)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

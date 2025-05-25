@@ -1,0 +1,14 @@
+{
+  "id": "13684",
+  "title": "Penjadwalan produksi pada PT. \"X\" dengan pendekatan algoritma genetika",
+  "abstract": "Dunia industri yang saat ini berkembang terus mengupayakan cara untuk memaksimalkan fasilitas-fasilitas yang dimiliki dalam memenuhi permintaan konsumen dalam jumlah dan waktu yang tepat. Penjadwalan produksi dengan tujuan mengoptimalkan mesin-mesin dan tenaga kerja yang tersedia dapat diterapkan untuk mengatasi masalah tersebut. PT \"X\" yang bergerak di bidang industri garmen juga mengalami masalah dalam memenuhi permintaan konsumen tepat pada waktunya. Adapun PT\"X\" mempunyai lingkungan mesin yang bersifat job shop. Algoritma Genetika yang mengambil prinsip dasar dari evolusi biologi terutama kemampuan individu dalam beradaptasi dengan lingkungan yang ada, merupakan salah satu algoritma metaheuristik yang dapat diterapkan dalam masalah penjadwalan dengan lingkungan mesin job shop. Dengan tujuan meminimumkan makespan akan didapatkan jadwal produksi yang memiliki kemampuan bertahan paling baik setelah melalui n iterasi. Penerapan algoritma Genetika ini dapat dipermudah dengan membuat program dengan software Turbo Pascal. Penjadwalan job shop dengan algoritma genetika terbukti dapat menghasilkan jadwal baru yang memiliki penurunan makespan (5.3 %) dari jadwal lama yang diperoleh secara acak pada populasi awal dan penurunan makespan sebesar 8,99% dari jadwal produksi PT \"X\". Jadwal baru dengan makespan terminimum dihasilkan dari penjadwalan yang memakai mesin 5 yaitu mesin dengan jumlah job terbanyak sebagai mesin bottleneck. Metode penyilangan yang digunakan adalah Linear Order Crossover dengan Pc = 0,8 sebagai probabilitas penyilangan yang paling optimal.",
+  "creators": "ANDRIANI",
+  "contributors": "Pauline Astari Singgih (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 463/TI-054/2001; Andriani (25497038)",
+  "subjects": "SCHEDULING (MANAGEMENT); PRODUCTION PLANNING"
+}

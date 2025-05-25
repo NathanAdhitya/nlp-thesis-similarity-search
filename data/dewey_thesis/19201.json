@@ -1,0 +1,14 @@
+{
+  "id": "19201",
+  "title": "Calendar management application to synchronize mobile phone and WEB calendars",
+  "abstract": "For those who have many calendars, it is impractical to access schedules on many calendars of different sources, such as web-based calendar, mobile phone calendar or paper-based calendar. It would be better to save those schedules to only one source that can be accessed all the time. By means of mobile phone calendar, this idea can be carried out. But, multi-schedules cannot be written manually to mobile phone calendar at once. To address this, those schedules from different calendars can be stored into one web-based calendar and those who has calendar on that web-based calendar can synchronize their mobile phone calendar with it using an MIDP application which is also capable of writing multi-schedules to mobile phone calendar at once. That MIDP application named Calendar Management Application is capable of accessing mobile phone calendar using interface in PIM Optional Package and is capable of synchronizing web calendar and mobile phone calendar. Based on the system testing result, Calendar Management Application is able to synchronize event data on web calendar and mobile phone calendar ; and writes all schedules at once.",
+  "creators": "TRIANA MUGIA RAHAYU",
+  "contributors": "Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010101/ELK/2010; Triana Mugia Rahayu (23406056)",
+  "subjects": "MOBILE COMMUNICATION SYSTEMS"
+}

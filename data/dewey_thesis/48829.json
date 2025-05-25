@@ -1,0 +1,14 @@
+{
+  "id": "48829",
+  "title": "Feature selection pada phishing detection dengan menggunakan parallel genetic algorithm dan ensemble learning",
+  "abstract": "Situs phishing dapat menjadi ancaman yang mendapatkan informasi pribadi tanpa sepengetahuan pemilik informasi. Setiap situs memiliki catatan secara teknis dalam jumlah yang cukup banyak, yang akan menjadi feature. Dikarenakan banyaknya feature yang ada, belum tentu semua feature tersebut penting bagi pendeteksian situs phishing. Feature selection menjadi penting pada kasus ini. Penelitian ini menggunakan Genetic Algorithm, dengan Ensemble Learning sebagai fitness function-nya. Dikarenakan feature selection membutuhkan waktu yang lama, paralelisasi sistem kemudian dilakukan dengan tujuan mempercepat kerja sistem. Hasil dari sistem ini menunjukkan bahwa dengan feature selection, terdapat peningkatan akurasi pada klasifikasi. Paralelisasi memberikan bantuan percepatan hingga dua kali lebih cepat. Dengan menggunakan sistem ini, memungkinkan adanya peningkatan keefektifan dalam mendeteksi situs phishing.",
+  "creators": "ALLES SANDRO OKTAVIO GANDADIREJA",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Kartika Gunadi (Examination Committee 1); Hans Juwiantho (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022026/INF/2021; Alles Sandro Oktavio Gandadireja (C14170011)",
+  "subjects": "GENETIC ALGORITHMS"
+}

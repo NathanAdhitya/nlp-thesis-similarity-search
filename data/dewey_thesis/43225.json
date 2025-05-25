@@ -1,0 +1,14 @@
+{
+  "id": "43225",
+  "title": "Sistem informasi administrasi multi cabang UD Bangun Persada",
+  "abstract": "UD Bangun Persada adalah sebuah usaha dagang yang menjual berbagai bahan dan alat bangunan yang berdiri pada tahun 1998. UD Bangun Persada berlokasi di kota Surabaya. Saat ini UD Bangun Persada memiliki 2 toko utama dan 3 cabang dengan pegawai sebanyak 32 orang. Saat ini, untuk mengelola proses bisnisnya UD Bangun Persada masih menjalankan dengan cara manual. Setiap transaksi yang terjadi harus dicatat pada buku besar dan pengecekan stok setiap toko seluruhnya juga dilakukan secara manual. Hal ini dirasa kurang efektif karena lamanya proses untuk mengetahui jumlah stok terbaru setiap toko dan tidak adanya laporan yang dapat memaparkan perkembangan masing - masing toko secara keseluruhan. Berdasarkan masalah yang ada, maka pada skripsi ini dibuat sistem informasi administrasi multi cabang yang dapat saling terkoneksi atar toko. Sehingga setiap transaksi penjualan, pembelian, stok barang, retur, hutang, dan piutang dapat dikelola secara terstruktur dan dapat menghasilkan laporan yang dibutuhkan untuk memaparkan perkembangan UD Bangun Persada. Sistem Informasi Adminitrasi ini akan dibuat berbasis website dengan bahasa pemrograman berbasis PHP 7, dibantu dengan library Bootstrap dan JQuery serta menggunakan database MySQL. Berdasarkan hasil dari penelitian skripsi ini dapat disimpulkan bahwa secara keseluruhan sistem informasi administrasi ini sudah memenuhi kebutuhan UD Bangun Persada terutama pada fungsi pengaturan stok sehingga stok setiap toko dapat diketahui secara real time. tetapi dalam penerapannya dapat dikembangan lebih lanjut terutama untuk perhitungan secara akuntansi dan dalam membantu mengambil keputusan melalui data yang tersedia.",
+  "creators": "ANGGITA CHRISTINA SUNARTO PUTRI",
+  "contributors": "Yulia (Advisor 1); Alexander Setiawan (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021821/INF/2019; Anggita Christina Sunarto Putri (26415110)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (COMPUTERS); INFORMATION SYSTEM"
+}

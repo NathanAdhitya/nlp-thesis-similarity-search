@@ -1,0 +1,14 @@
+{
+  "id": "43669",
+  "title": "Peningkatan elemen Q4-CNS untuk analisis statik dan analisis getaran bebas pelat lentur Reissner-Mindlin",
+  "abstract": "Analisis pelat lentur yang menggunakan metode elemen hingga telah mengalami banyak perkembangan. Salah satunya adalah elemen pelat lentur Q4-CNS (Four-node quadrilateral with continnous nodal stress). Kelemahan yang dimiliki oleh Soetanto (2018) adalah perhitungan gaya geser yang kurang akurat pada pelat tipis bagian dekat tepi pelat. Pada penelitian ini, interpolasi Q4-CNS dikembangkan lagi dengan menggunakan penambahan jumlah satellite node pada bagian dekat perletakan sehingga memakai elemen dua lapis. Selain itu, akan dilakukan pengembangan pada elemen Q4-CNS untuk analisis getaran bebas untuk mengetahui natural frequency dan mode shape pada elemen tersebut. Dengan berbagai percobaan dan pengujian dalam perhitungan statik, hasil dari elemen ini kurang sesuai dengan apa yang diharapkan sebelumnya malah mengalami shear locking lebih besar daripada yang diteliti sebelumnya. Sedangkan untuk analisis getaran bebas, elemen Q4-CNS menunjukkan konvergensi pada natural frequency yang cukup baik.",
+  "creators": "KEVIN AGUSTA",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Januar Budiman (Examination Committee 1); Effendy Tanojo (Examination Committee 2); Pamuda Pudjisuryadi (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000264/MTS/2019; Kevin Agusta (B21170007)",
+  "subjects": "ELASTIC PLATES AND SHELLS; PLATES (ENGINEERING)"
+}

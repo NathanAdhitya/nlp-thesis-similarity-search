@@ -1,0 +1,14 @@
+{
+  "id": "50318",
+  "title": "Penerapan metode modified-partial capacity design (M-PCD) pada bangunan persegi panjang 6 lantai dan 10 lantai dengan rasio distribusi gaya geser 70%",
+  "abstract": "Pada perencanaan struktur tahan gempa, salah satu alternatif dari metode capacity design adalah metode partial capacity design (PCD). Penelitian mengenai (PCD) dengan faktor pengali masih terus dikembangkan karena masih kurang efektif untuk mencapai mekanisme keruntuhan partial side sway mechanism, yang diharapkan. Pada penelitian ini diusulkan untuk menggunakan metode modifikasi PCD dengan membuat dua model saat mendesain. Model pertama diberi gempa dengan R = 8 untuk mendesain balok dan kolom plastis. Model kedua diberi gempa selisih antara R = 1,6 dan R = 8. Penjumlahan gaya dalam pada model pertama dan kedua digunakan untuk mendesain kolom elastis. Dengan menggunakan 2 model ini, rasio gaya geser dari kolom elastis terhadap total base shear saat kondisi ulimit dapat diprediksi, dimana pada penelitian ini digunakan sebesar 70%. Metode modifikasi PCD diterapkan pada bangunan persegi panjang dengan 6 dan 10 lantai. Beban gempa yang diberikan adalah percepatan gempa El Centro 1940 East-West dan North-South yang disesuaikan dengan respon spektrum dari SNI 1726:2012 dengan situs tanah SE kota Surabaya. Pengujian struktur menggunakan nonlinear static procedure (NSP) atau pushover dan nonlinear dynamic procedure (NDP) atau time history. Pengujian dilakukan pada level gempa desain (EDRS) dan level gempa maksimum (MCER). Hasil pengujian tersebut adalah mekanisme keruntuhan partial side sway mechanism dapat terpenuhi dengan baik dan hasil drift bangunan memenuhi persyaratan FEMA 273.",
+  "creators": "BONIFASIUS CHRISTIAN PRASETYO; RAIMOND TANUWIJAYA",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Benjamin Lumantarna (Advisor 2); Jimmy Chandra (Examination Committee 1); Willy Husada, ST.,MT., Msc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012496/SIP/2021; Bonifasius Christian Prasetyo (B11170118), Raimond Tanuwijaya (B11170076)",
+  "subjects": "BUILDINGS--EARTHQUAKE EFFECTS; SHEAR (MECHANICS); STRUCTURAL ANALYSIS (ENGINEERING)"
+}

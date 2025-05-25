@@ -1,0 +1,14 @@
+{
+  "id": "19020",
+  "title": "Prototipe alur kerja (workflow) proses cuti karyawan di Universitas Kristen Petra",
+  "abstract": "Prototipe aplikasi alur kerja (workflow) proses cuti karyawan diUniversitas Kristen Petra ini merupakan gabungan dari beberapa aplikasi yang kesemuanya terintegrasikan menjadi satu sehingga membentuk sebuah prototipe aplikasi workflow untuk cuti karyawan, beberapa aplikasi tersebut adalah electronic mail, electronic form, dan message flow. Pemanfaatan aplikasi workflow untuk proses cuti karyawan di Universitas Kristen Petra merupakan sebuah contoh pemanfaatan teknologi workflow dalam lingkungan kerja, dimana memberikan cukup banyak kemudahan bagi penggunanya. Untuk menggunakan aplikasi ini pemohon cuti pertama kali membuka program mail yakni Microsoft Outlook kemudian membuka form cuti yang ada didalamnya dimana terdapat kolom isian yang harus diisi sesuai dengan keperluan cuti pemohon, data pribadi pemohon terdapat didalam database sehingga pemohon cukup mengisikan nomor induk pegawai untuk menampilkannya, setelah semua kolom isian dilengkapi pemohon tinggal mengirimkan form tersebut dengan menekan tombol send yang telah disediakan dan form akan dikirimkan sebagai email ke bagian kepegawaian untuk diproses lebih lanjut. Proses ini juga terjadi pada tingkat atasan dan atasan langsung untuk persetujuan cuti pemohon. Dari hasil pengujian terlihat bahwa sebagian besar alur kerja (workflow) sudah berjalan dengan baik namun masih terdapat beberapa kekurangan diantaranya adalah belum adanya salinan form cuti yang telah disetujui maupun tidak disetujui kepada pemohon dan adanya sebagian data yang tidak ditampilkan.",
+  "creators": "SASTRO HARIS DJATMIKO",
+  "contributors": "Kartika Gunadi (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/KOM/007/083; Sastro haris Djatmiko (23494070)",
+  "subjects": "ELECTRONIC MAIL SYSTEMS; WORKFLOW-SIMULATION METHODS"
+}

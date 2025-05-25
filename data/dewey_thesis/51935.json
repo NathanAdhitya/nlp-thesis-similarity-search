@@ -1,0 +1,14 @@
+{
+  "id": "51935",
+  "title": "Sistem rekomendasi konsentrasi berdasarkan aggregate function multi criteria pada prodi informatika UK Petra",
+  "abstract": "Sistem rekomendasi merupakan sistem yang berfungsi untuk membantu user dalam mengambil keputusan dengan cara memberikan rekomendasi item kepada user. Dalam perkuliahan, mahasiswa dihadapkan pada pilihan untuk mengambil konsentrasi studi tertentu. Namun, seringkali mahasiswa kebingungan untuk memilih konsentrasi studi yang harus diambil. Oleh karena itu, diperlukan suatu sistem yang dapat memberikan rekomendasi konsentrasi sehingga dapat membantu mahasiswa dalam pengambilan keputusan akan konsentrasi studi yang akan diambil. Sebelumnya telah ada skripsi untuk menyelesaikan masalah serupa yaitu dengan menggunakan metode User Based Collaborative Filtering. Pada penelitian ini metode yang digunakan adalah Aggregate Function. Aggregate Function digunakan untuk menggabungkan hasil dari ketiga kriteria. Implementasi Aggregate Function dilakukan dengan cara menghitung nilai rata-rata setiap konsentrasi dari hasil setiap kriteria. Hasil kriteria pertama didapat dengan menggunakan metode User Based Collaborative Filtering berbasis Algoritma Adjusted Cosine Similarity. Hasil kriteria kedua didapat dengan menghitung nilai rata-rata mata kuliah wajib tertentu yang telah diambil oleh user. Hasil kriteria ketiga didapat dengan menghitung nilai rata-rata kesukaan user pada suatu bidang profesi. Pengujian sistem rekomendasi dilakukan dengan menggunakan confusion matrix dengan mengukur nilai akurasi sistem rekomendasi. Hasil dari penelitian ini adalah urutan rekomendasi konsentrasi yang sesuai untuk user berdasarkan penggunaan Aggregate Function. Hasil dari pengujian yang dilakukan terhadap 30 user tingkat akurasi yang didapatkan mencapai 73.3%.",
+  "creators": "WILLY SANTOSO",
+  "contributors": "Rolly Intan (Advisor 1); Yulia (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022116/INF/2022; Willy Santoso (C14170077)",
+  "subjects": "RECOMMENDER SYSTEMS (INFORMATION FILTERING); SET THEORY"
+}

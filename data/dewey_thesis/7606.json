@@ -1,0 +1,14 @@
+{
+  "id": "7606",
+  "title": "Perancangan dan pembuatan aplikasi untuk konversi spreadsheet excel ke dalam database oracle dengan menggunakan XML",
+  "abstract": "Bagi perusahaan yang masih menggunakan Microsoft Office Excel sebagai sistem manajemen database-nya dan ingin beralih ke database Oracle, akan menemui beberapa kendala. Pemindahan data secara manual dari Excel ke Oracle akan membuang banyak waktu dan tenaga, sehingga proses ini sangat tidak efisien, disamping itu struktur data dari Excel dan Oracle juga sangat berbeda, dimana penyimpanan pada Excel berupa flat table sedangkan penyimpanan pada Oracle berupa tabel yang terelasi. Pada Tugas Akhir ini akan dicoba untuk membantu perusahaan yang ingin beralih dari penggunaan Microsoft Office Excel ke Oracle Database. Aplikasi proses konversi akan dibuat dengan menggunakan Delphi 7 dan dengan memanfaatkan variasi dari data, serta teori mengenai functional dependencies dan normalisasi Setiap kolom yang ada pada spreadsheet akan menjadi sebuah field pada database. Pencarian akan dilakukan untuk masing-masing kolom sebagai dependen dengan semua variasi determinannya dalam mendapatkan fully functional dependency. Tiap functional dependency akan menghasilkan sebuah tabel untuk masing-masing determinannya sebagai identifier. Urutan dari proses konversi dimulai dari penyimpanan spreadsheet Excel menjadi spreadsheet XML, parsing spreadsheet XML, melakukan normalisasi yang akan menghasilkan pilihan functional dependencies, pemilihan functional dependencies oleh user, pembuatan skema database dan pengisian data. Dari hasil pengujian didapatkan bahwa relational database dapat terbentuk dari flat database dengan menggunakan teori functional dependencies dan normalisasi serta bantuan dari user yang paham tentang arti dari data yang ingin dikonversi. Pilihan normalisasi yang ada yaitu 2NF dan 3NF. Kolom yang berisi function akan disertakan dalam normalisasi 2NF, namun tidak pada 3NF.",
+  "creators": "LINDA WAHYUDI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000405/INF/2005; Linda Wahyudi (26401176)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

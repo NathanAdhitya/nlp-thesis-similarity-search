@@ -1,0 +1,14 @@
+{
+  "id": "19757",
+  "title": "Perancangan dan pembuatan aplikasi pencari lokasi dan informasi ruangan (e-kiosk)",
+  "abstract": "Bagi sebuah kota metropolitan seperti Surabaya, banyak sekali terdapat gedung bertingkat yang di setiap lantainya terdapat banyak ruangan. Luas sebuah gedung bertingkat seringkali menyulitkan pengunjung untuk menemukan lokasi tujuan maupun mencari rute dari tempat asal menuju ke tempat tujuan. Dari permasalahan tersebut, maka dibutuhkanlah sebuah sistem layanan informasi berbantukan komputer yang menyediakan lokasi dan informasi ruangan yang dapat diakses oleh publik. Dilakukan pembuatan suatu aplikasi pencari lokasi dan informasi ruangan yang biasa disebut dengan E-Kiosk. Aplikasi yang dibuat terdiri dari dua bagian, yaitu server E-Kiosk sebagai pengelola dan penyedia informasi dan terminal E-Kiosk sebagai penampil informasi. Di server E-Kiosk terdapat tools Map Editor. Sedangkan di terminal E-Kiosk terdapat tools Map Viewer. Pencarian jalur terpendek dari posisi pengguna saat ini menuju ke ruangan atau fasilitas umum tujuan dengan menggunakan metode A*. Aplikasi E-Kiosk dibuat dengan bahasa pemrograman VB, PHP dan Flash. Berdasarkan pengujian, aplikasi ini telah menunjukkan pada pengguna tentang pencarian informasi lokasi ruangan pada Universitas Kristen Petra maupun Mall City of Tomorrow. Metode A* yang dipakai dalam pencarian rute terpendek pada aplikasi E-Kiosk, dapat menghitung jarak terpendek dari semua titik ke semua titik yang ada. Pada perhitungan secara manual di halaman 16, ternyata hasil dari pencarian rute sama seperti menggunakan aplikasi pencari lokasi dan informasi ruangan (E-Kiosk). Jadi, pencarian rute aplikasi pencari lokasi dan informasi ruangan (E-Kiosk) terbukti benar dan valid.",
+  "creators": "EDWIN WIJAYA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Andreas Handojo (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020954/INF/2010; Edwin Wijaya (26407024)",
+  "subjects": "DATA BASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

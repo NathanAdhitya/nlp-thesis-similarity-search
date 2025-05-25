@@ -1,0 +1,14 @@
+{
+  "id": "45664",
+  "title": "Perbaikan sistem keandalan mesin kapal dan pengelolaan persediaan spare part di PT X",
+  "abstract": "PT X merupakan perusahaan yang bergerak dalam bidang pelayaran, khususnya sektor minyak dan gas bumi. Salah satu tugas yang dimiliki perusahaan adalah penyediaan kapal dan pemenuhan permintaan user dengan melakukan pengiriman terhadap komponen sparepart yang dibutuhkan. Tujuan dari penelitian ini adalah memperoleh rata-rata waktu kerusakan spare part menggunakan metode Mean Time To Fail (MTTF) sebagai gambaran dalam penentuan jadwal interval penggantian komponen. Selain itu metode lain yang digunakan adalah kebijakan pengendalian persediaan Economic Order Quantity (EOQ) dalam penentuan ukuran order yang optimal (Q*), persediaan pengaman (safety stock), dan titik pemesanan kembali (reorder point). Hasil penelitian menunjukkan bahwa kapal CB RURIK 01 memiliki frekuensi kerusakan paling tinggi pada bulan Januari hingga Desember 2018. Spare part kritis terpilih dari kapal CB RURIK 01 adalah Injector 65.10101-7097, Piston 65.02501-0707, Valve Ex 65.04101-0068, dan Valve In 65.04101-0067. Interval penggantian spare part yang diusulkan berdasarkan perhitungan MTTF yaitu Injector 65.10101-7097 setiap 21 hari, Piston 65.02501-0707 setiap 24 hari, Valve Ex 65.04101-0068 setiap 13 hari, dan Valve In 65.04101-0067 setiap 13 hari.",
+  "creators": "CRISTHOFORUS MAXIMILLIANO DAELY",
+  "contributors": "Jani Rahardjo (Advisor 1); Benedictus Rahardjo S.T. M.B.A. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022251/IND/2019; Cristhoforus Maximilliano Daely (25415022)",
+  "subjects": "TIME STUDY; METHODS--TIME MEASUREMENT"
+}

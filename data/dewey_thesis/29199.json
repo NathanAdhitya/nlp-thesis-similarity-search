@@ -1,0 +1,14 @@
+{
+  "id": "29199",
+  "title": "Perancangan dan pembuatan sistem seleksi calon pegawai menggunakan metode analytic hierarchy process pada X.O Suki and Cuisine di Bali",
+  "abstract": "Sistem pemilihan pegawai pada X.O Suki and Cuisine di Bali masih dilakukan secara manual, tidak terkomputerisasi dan masih belum menggunakan metode pemilihan yang tepat, oleh karena itu dibutuhkan suatu aplikasi yang dapat membantu mempermudah para decision maker pada X.O Suki and Cuisine di Bali dalam membuat suatu keputusan. Metode AHP dirasa cocok untuk diimplementasikan pada X.O Suki and Cuisine di Bali karena kriteria yang ada pada X.O Suki and Cuisine di Bali cukup kompleks. Aplikasi AHP pada X.O Suki and Cuisine di Bali dirancang untuk dapat dipergunakan secara fleksibel. Fleksibilitas yang dimaksud adalah kriteria dan sub-kriteria yang ada pada aplikasi dapat ditambah sesuai dengan keadaan sekarang. Aplikasi ini dikembangkan dengan menggunakan SQL Server 2005 dan Visual Basic .Net Data yang digunakan untuk implementasi dan pengujian program didapat dengan cara mengisi kuisioner yang dilakukan oleh pihak perusahaan, dengan demikian data tersebut merupakan data real yang dapat dipertanggungjawabkan keakuratannya. Dari hasil implementasi dan pengujian sistem didapatkan kesimpulan bahwa kriteria dalam aplikasi ini dapat disesuaikan dengan keadaan X.O Suki and Cuisine di Bali saat ini. Dan hasil akhir dari aplikasi ini membantu decision maker X.O Suki and Cuisine di Bali dalam memilih pegawai.",
+  "creators": "STEFANUS RICO CHANDRA",
+  "contributors": "Alexander Setiawan (Advisor 1); Andreas Handojo (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021030/INF/2011; Stefanus Rico Chandra (26407130)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

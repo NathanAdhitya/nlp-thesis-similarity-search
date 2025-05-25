@@ -1,0 +1,14 @@
+{
+  "id": "5690",
+  "title": "Robot cerdas pemadam api untuk kontes robot cerdas Indonesia tahun 2006",
+  "abstract": "Dunia robotika sekarang ini sedang berkembang dengan pesat. Tidak hanya negara-negara maju saja yang mengembangkan teknologi ini. Terbukti bahwa Direktorat Jendral Pendidikan Tinggi mengadakan Kontes Robot Cerdas Indonesia yang telah diselenggarakan setiap tahun dalam rangka mengembangkan minat mahasiswa dalam teknologi robotika. Topik dari Kontes Robot Cerdas Indonesia 2006 adalah Robot Cerdas Pemadam Api. Target dari robot ini adalah menemukan lilin yang menyala di salah satu ruangan dari empat ruangan yang terdapat pada arena pertandingan dan kemudian memadamkan api lilin tersebut serta kembali ke posisi start. Desain robot berupa robot berkaki empat yang digerakkan oleh motor servo sebagai actuator. Robot ini dikontrol oleh tiga buah mikrokontroler yang berkomunikasi secara parallel. Robot ini dilengkapi dengan sensor-sensor seperti sensor suara, sensor ultrasonic, sensor flame detector, dan sensor photoreflector. Teknik memadamkan api lilin yang dipakai adalah dengan memberikan tiupan angin yang dihasilkan oleh kipas angin (motor DC). Berdasarkan hasil pengujian dan analisa yang telah dilakukan, robot tidak memenuhi target yang diberikan pada Kontes Robot Cerdas Indonesia 2006, karena pada pengujian dengan posisi api yang tidak diketahui tidak dapat diselesaikan secara keseluruhan oleh robot cerdas pemadam api ini. Untuk pengujian dengan posisi api yang diketahui, tingkat keberhasilan yang dicapai sebesar 55 persen.",
+  "creators": "CHIPTA PRIYA LAKSANA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010801/ELK/2006; Chipta Priya Laksana (23402020)",
+  "subjects": "ROBOTICS"
+}

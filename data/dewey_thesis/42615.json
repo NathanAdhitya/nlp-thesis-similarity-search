@@ -1,0 +1,14 @@
+{
+  "id": "42615",
+  "title": "Pengembangan elemen Q4-CNS untuk analisis pelat lentur reissner-mindlin",
+  "abstract": "Elemen Q4-CNS merupakan penggabungan dari metode elemen hingga dan metode mesh-free berdasarkan partition of unity. Penggabungan tersebut ditujukan untuk mengatasi kelemahan dari masing-masing metode. Metode mesh-free yang digunakan pada penelitian ini menggunakan constrained orthonormalized least square (CO-LS) yang kemudian dikombinasi dengan interpolasi metode elemen hingga yaitu non-conforming shape function berdasarkan Kirchhoff rectangular plate. Pada penelitian ini akan dipaparkan penerapan elemen Q4-CNS untuk analisis pelat lentur Reissner-Mindlin. Untuk mengeliminasi shear locking yang merupakan masalah utama pada elemen pelat lentur Reissner-Mindlin, pada penelitian ini digunakan metode discrete shear gap (DSG). Implementasi elemen Q4-CNS untuk analisis pelat lentur Reissner-Mindlin dilakukan dengan bantuan program Matlab. Untuk menguji keakuratan elemen Q4-CNS untuk analisis pelat lentur Reissner-Mindlin, maka elemen Q4-CNS diuji dengan berbagai macam benchmark problem. Hasil dari pengujian tersebut menunjukkan bahwa elemen Q4-CNS bebas terhadap shear locking setelah menggunakan teknik DSG, memberikan hasil displacement yang akurat walaupun dengan mesh yang relatif kasar, memiliki sifat kekonvergenan yang baik, menghasilkan distribusi momen lentur yang halus dan gaya geser yang akurat, lebih tahan terhadap bentuk mesh yang terdistorsi dibandingkan elemen pelat yang terdapat pada SAP2000v14. Hal ini berarti Q4-CNS sangat baik untuk diterapkan pada pelat lentur Reissner-Mindlin.",
+  "creators": "Richo M S S.T.",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Januar Budiman (Advisor 2); Pamuda Pudjisuryadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No.01000248/MTS/2017; Richo Michael Soetanto (01515007)",
+  "subjects": "PLATES (ENGINEERING); ELASTIC PLATES AND SHELLS"
+}

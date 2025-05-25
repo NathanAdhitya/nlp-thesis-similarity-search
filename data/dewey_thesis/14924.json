@@ -1,0 +1,14 @@
+{
+  "id": "14924",
+  "title": "Aplikasi mikroprosessor PIC16C84 sebagai timer dua channel",
+  "abstract": "PIC16C84 microcontroller has a new technology semiconductor chip. The microcontroller applicated as two channel timer in this final project, at reach degree of university. The microcontroller system has been designed having two function : timer on/off and real time using internal timer, and controlling timer channel one and two. The method of real time, only using an internal timer with crystal 4.194304 MHz, divided by internal prescaler of microcontroller. By programming the frequency base has been obtained. The development of this equipment included LCD as real time and timer display, keypad used as real time or timer setting, relay - driver to switch on- off the loads, e.g.: lamps or other electrical equipment. The result of this project was an microcontroller system using PIC16C84 which functional test was correct.",
+  "creators": "ALVOMEGA CHRISTIAN T.T.",
+  "contributors": "YOHANES T. D. S (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/001/346; Alvomega Christian Timotius Tejo (23487059)",
+  "subjects": "COMPUTERS; INTEL PIC 16C84 (MICROCONTROLLER)"
+}

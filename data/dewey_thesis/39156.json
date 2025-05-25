@@ -1,0 +1,14 @@
+{
+  "id": "39156",
+  "title": "Perencanaan mesin pembuat minuman otomatis berbasis PLC",
+  "abstract": "Seiring perkembangan zaman, segala perangkat elektronik telah dikembangkan agar dapat bekerja secara otomatis. Programmable Logic Controller atau yang biasa dikenal dengan PLC merupakan salah satu controller yang digunakan dalam era otomatisasi ini. Tujuan tugas akhir ini adalah membuat sebuah perencanaan pembuatan mesin minuman otomatis yang memanfaatkan PLC sebagai perangkat pengendali. Pada perencanaan ini digunakan program PLC milik Zelio dan hardware yang telah didesain sendiri sesuai dengan kebutuhan perencanaan. Terdapat enam rasa minuman yang nantinya akan dibuat melalui adanya sistem perencanaan pembuatan minuman otomatis ini. Tiga rasa utamanya adalah rasa strawberry, rasa lychees, dan orange. Dan untuk tiga rasa selanjutnya adalah campuran antara rasa strawberry dan lychees, strawberry dan orange, serta campuran rasa lychees dan orange. Untuk ke depannya, perencanaan ini juga dapat dikembangan dengan memanfaatkan PLC Siemens S7-200 sebagai perangkat pengendali. Dari hasil pengujian didapatkan bahwa laju konveyor terlalu cepat sehingga membuat minuman tumpah pada saat konveyor berhenti. Kemudian putaran mixer dari Miyako HM-620 membuat minuman tumpah dari wadahnya karena putaran yang terlalu cepat, menandakan bahwa Miyako HM-620 tidak tepat bila digunakan untuk mixer minuman. Serta belt konveyor yang sering keluar dari papan konveyor karena pembuatan papan konveyor kurang sempurna atau tidak simetris. Untuk software yang di simulasikan pada program PLC berbasis Zelio sudah dapat berjalan dengan baik dan dapat di implementasikan dengan memanfaatkan PLC yang memiliki input/output yang sesuai, contohnya adalah PLC Siemens S7-200.",
+  "creators": "TEMMY ALFISA FEBRINATA",
+  "contributors": "Felix Pasila (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010957/ELK/2016; Temmy Alfisa Febrinata (23411015)",
+  "subjects": "AUTOMATIC MACHINERY-DESIGN AND CONSTRUCTION; ELECTRICAL ENGINEERING; PROGRAMMABLE LOGIC CONTROLLER"
+}

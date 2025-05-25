@@ -1,0 +1,14 @@
+{
+  "id": "52651",
+  "title": "Hybrid recommendation system untuk peminjaman buku perpustakaan dengan collaborative dan content-based filtering",
+  "abstract": "Seiring dengan perkembangan teknologi yang semakin pesat, perkembangan data digital yang ada di internet juga turut bertambah. Oleh karena itu, sistem rekomendasi ditemukan dan dapat digunakan dalam berbagai aspek kehidupan manusia. Contohnya, sebuah sistem rekomendasi buku yang dapat membantu seseorang untuk memilih buku yang akan dibaca berikutnya sesuai dengan preferensinya. Dengan adanya sistem rekomendasi dapat mengurangi waktu yang dibutuhkan untuk memilih buku karena pilihan buku yang sangat banyak. Penelitian ini menggunakan Hybrid Recommendation System yang menggabungkan metode Collaborative Filtering dan Content-based Filtering. Penggabungan kedua metode dilakukan dengan tujuan untuk memperoleh hasil rekomendasi yang lebih baik. Untuk mengukur seberapa baik hasil rekomendasi yang dihasilkan akan digunakan metode Mean Reciprocal Rank dan Mean Average Precision. Hasil dari sistem menunjukkan bahwa metode Weighted Hybrid menghasilkan nilai MRR dan MAP yang lebih baik dibanding kedua metode lainnya dengan nilai sebesar 0.2113 dan 0.0988.",
+  "creators": "ADRIANUS ADITYA WIDJAJA",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Liliana (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022142/INF/2022; Adrianus Aditya Widjaja (C14170012)",
+  "subjects": "DATA MINING; RECOMMENDER SYSTEMS (INFORMATION FILTERING); DISCOURSE ANALYSIS--DATA PROCESSING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "11830",
+  "title": "Penilaian keakuratan dan konvergensi dari elemen-elemen shell yang terdapat dalam sap 2000 ver.11.0.0",
+  "abstract": "Penilitian ini bertujuan menguji keakuratan dan konvergensi elemen shell dalam SAP 2000 dengan berbagai benchmark problems yang biasa di pakai oleh para pengembang elemen shell. Benchmark problems tersebut dimodelkan dengan menggunakan elemen shell quadrilateral (Q4) dan elemen shell tringular (T3), yang berdasarkan teori cangkang tipis (thin shell theory) dan teori cangkang tebal (thick shell theory). Yang diukur dalam pengujian ini adalah displacement dan gaya dalam yang terjadi. Hasil penelitian secara umum menunjukkan bahwa elemen Q4 menghasilkan nilai yang mendekati solusi referensi dibandingkan elemen T3. Namun ada beberapa hasil pengujian yang masih jauh dari solusi referensi meskipun menggunakan mesh yang cukup halus. Bahkan pada permasalahan Raasch Challenge, hasil yang didapatkan menuju ke arah konvergensi yang berbeda dari solusi referensi. Hal ini merupakan suatu usulan untuk melakukan pengetesan menggunakan program lain dalam penelitian ini, untuk mendapatkan hasil yang lebih akurat mengenai kinerja elemen.",
+  "creators": "FENNY TANJOYO; KWARI SASTRO SUBIANTO",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Ir. Soehendro Ratnawidjaja, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.11011658/SIP/2009; Fenny Tanjoyo (21405014), Kwari Sastro Subianto (21405061)",
+  "subjects": "STRUCTURAL ANALYSIS-DATA PROCESSING; COMPUTER-AIDED ENGINEERING"
+}

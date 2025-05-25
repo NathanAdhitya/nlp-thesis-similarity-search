@@ -1,0 +1,14 @@
+{
+  "id": "55819",
+  "title": "Peningkatan akurasi context aware - collaborative filtering terhadap sparse data dengan menggunakan implicit data",
+  "abstract": "Sehubungan dengan perkembangan zaman dan internet, jumlah informasi dan data yang beredar semakin banyak. Oleh karena itu diperlukan sebuah sistem rekomendasi yang dapat mengelola data secara cepat dan hemat untuk personalisasi dari pengguna internet. Salah satu algoritma yang sering digunakan, bahkan oleh perusahaan besar seperti Netflix dan Amazon adalah Collaborative Filtering. Collaborative Filtering terbagi menjadi dua yaitu, user-based dan item-based. User-based Collaborative Filtering bekerja dengan asumsi bahwa jika ada dua atau lebih user yang memberi rating kepada sejumlah item dengan rating yang sama atau memiliki behavior yang sama maka user tersebut akan memberi rating atau melakukan suatu behavior yang sama juga terhadap item lain, begitu juga sebaliknya dengan item-based. Seiring dengan berkembangnya teknologi, ditemukan pentingnya penggunaan Context dalam sebuah sistem rekomendasi, sehingga dibuatlah Context-Aware Collaborative Filtering. Tetapi dalam penggunaan Collaborative Filtering ini membuat masalah yang sering dihadapi, yaitu masalah Sparsity. Sparsity mengacu pada sebuah problem dimana dataset yang digunakan merupakan sparse data, yang berarti data yang digunakan renggang dan bisa dibilang kekurangan informasi. Penelitian ini menggunakan Implicit Data untuk berusaha menangani masalah Sparsity yang dialami oleh Context-Aware Collaborative Filtering ini. Implicit Data adalah data yang mengacu pada data yang tidak secara terang-terangan menyatakan apakah pengguna menyukai suatu barang atau tidak, melainkan tindakan pengguna yang secara tidak langsung menunjukan demikian. Implicit Data dipilih karena merupakan salah satu cara yang sering digunakan untuk menangani masalah Sparsity, terutama untuk Collaborative Filtering biasa. Yang dimaksud dengan akurasi adalah persentase dari seberapa penuhnya matrix rekomendasi (matrix rating) yang dihasilkan oleh sistem. Semakin penuh matrix tersebut maka rekomendasi yang dihasilkan akan semakin akurat. Hasil penelitian menunjukkan bahwa Context-Aware Collaborative Filtering yang menggunakan Implicit Data dapat menangani masalah sparse data yang dihadapi.",
+  "creators": "JEREMY JOEL MARLIM",
+  "contributors": "Rolly Intan (Advisor 1); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022255/INF/2023; Jeremy Joel Marlim (C14180111)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; RECOMMENDER SYSTEMS (INFORMATION FILTERING)"
+}

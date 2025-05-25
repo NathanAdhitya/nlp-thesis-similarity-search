@@ -1,0 +1,14 @@
+{
+  "id": "1954",
+  "title": "Simulasi fuzzy logic untuk mobile robot dengan FPGA XC4000",
+  "abstract": "Robot cerdas minimal mempunyai satu sensor sebagai indera untuk dapat mengenali sekitar lingkungan. Dalam tugas akhir ini dibuat robot cerdas dengan menggunakan tiga pasang sensor yang berada di sisi kanan, kiri dan depan sehingga diharapkan robot tidak akan menabrak halangan atau maze. Sensor ini digunakan untuk mengetahui jarak halangan. Metode yang digunakan dalam hal ini adalah metode Fuzzy Logic, dengan sensor ultrasonik sebagai input dan PWM sebagai output. Fuzzy ini diaplikasikan pada FPGA sebagai board utamanya yang menggunakan bahasa VHDL. Dengan menggunakan metode Fuzzy ini diharapkan output akan lebih akurat terhadap perubahan input. Pengujian dilakukan melalui simulator pada software Xilinx Foundation 2.1i dan secara hardware. Untuk sensor ultrasonik bekerja pada frekuensi 35 Khz sampai 45 Khz. Dalam project ini menghabiskan total jumlah CLB sebesar 565.",
+  "creators": "MOHAMMAD ISMAIL RAHMAN",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Indar Sugiarto (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010733/ELK/2005; Mohammad Ismail Rahman (23400135)",
+  "subjects": "MOBILE ROBOTS; ROBOTS; ROBOTICS"
+}

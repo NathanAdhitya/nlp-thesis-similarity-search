@@ -1,0 +1,14 @@
+{
+  "id": "34383",
+  "title": "Mesin pemotong foil otomatis",
+  "abstract": "Pembuatan mesin pemotong foil otomatis ini dilakukan untuk membantu proses pemotongan foil yang ada di toko Astika. Untuk mengontrol sistem pada mesin ini, digunakan Arduino Mega 2560. Pada mesin pemotong foil otomatis ini terdapat empat buah motor DC reducer dengan torsi berbeda-beda, yang digunakan untuk memutar foil, memutar poros besi, memutar poros putar pisau, dan memutar pisau potong. Pada motor 1 dan motor 2, terdapat rotary encoder yang berfungsi untuk membaca panjang dengan cara mengkonversi rotasi menjadi panjang. Keempat motor DC reducer tersebut terhubung ke Arduino Mega 2560 melalui 4 channel motor control unit. Untuk melakukan pemotongan, operator akan memasukkan data panjang foil, panjang potong, dan banyak potong ke Arduino, melalui keypad 4x4. Setiap data yang dimasukkan oleh operator akan ditampilkan pada layar LCD 16x2. Kesimpulan yang didapat dari pembuatan mesin ini adalah perpindahan yang dihasilkan oleh rotary encoder buatan menggunakan bahan akrilik dengan tingkat ketelitian 20 PPR adalah 0,205 mm/pulse. Dengan menggunakan rotary encoder ini, eror yang didapat dari hasil rata-rata tiap percobaan berkisar 5-6%. Eror ini terjadi dikarenakan beberapa hal seperti tingkat ketelitian dari rotary encoder buatan yang kurang dan tidak adanya fungsi break pada driver motor.",
+  "creators": "LAURENSIUS NURHADI WONOKU",
+  "contributors": "Handry Khoswanto (Advisor 1); Ninuk Jonoadji (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010946/ELK/2015; Laurensius Nurhadi Wonokusumo (23411017)",
+  "subjects": "CUTTING MACHINE; ARDUINO (PROGRAMMABLE CONTROLLER); CUTTING MACHINES-COMPUTER PROGRAMS"
+}

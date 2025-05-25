@@ -1,0 +1,14 @@
+{
+  "id": "43259",
+  "title": "Enterprise architecture pada CV Grande Zangrandi dengan metode enterprise architecture planning (EAP)",
+  "abstract": "CV Grande Zangrandi merupakan anak perusahaan dari Zangrandi yang bergerak dibidang makanan, yaitu es krim. Selain es krim, CV Grande Zangrandi juga menyediakan berbagai macam makanan dan minuman yang diproduksi sendiri. Saat ini semua proses yang ada pada perusahaan belum memiliki sistem informasi yang terintegrasi. Perusahaan hanya menggunakan program untuk point of sales (POS) untuk penjualan, sementara proses lainnya masih dilakukan secara manual. Untuk membantu permasalahan tersebut, diperlukan analisa desain enterprise architecture untuk CV Grande Zangrandi dengan metode Enterprise Architecture Planning. Langkah pertama yaitu melakukan analisa proses bisnis dan strategi pada perusahaan saat ini. Selanjutnya melihat teknologi yang sudah ada pada perusahaan, permasalahan yang dialami saat ini, beserta dengan kebutuhan perusahaan untuk saat ini dan masa depan. Berdasarkan hasil tersebut akan dilakukan pembuatan desain arsitektur data, desain arsitektur aplikasi, dan desain arsitektur teknologi. Hasil dari desain arsitektur data yaitu Sub Sistem Informasi Inventory, Sub Sistem Informasi Produksi, Sub Sistem Informasi Penjualan, Sub Sistem Informasi Managing Karyawan, dan Sub Sistem Informasi Keuangan. Desain arsitektur aplikasi berbasis web yang tediri dari aplikasi utama, pendukung, dan strategi, antara lain Sistem Informasi Inventory, Sistem Informasi Produksi, Sistem Informasi Penjualan, Sistem Informasi Managing Karyawan, Sistem Informasi Keuangan, Single Sign On Service, email, Back Up Database Server, dan Sistem Informasi Komplain. Desain arsitektur teknologi menggunakan client/server dan layanan data dengan service oriented architecture.",
+  "creators": "VIVI INDRA LIANA",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Yulia (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021818/INF/2019; Vivi Indra Liana (26415141)",
+  "subjects": "INFORMATION SYSTEM; INFORMATION TECHNOLOGY; MANAGEMENT INFORMATION SYSTEMS"
+}

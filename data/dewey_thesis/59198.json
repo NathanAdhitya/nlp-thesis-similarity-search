@@ -1,0 +1,14 @@
+{
+  "id": "59198",
+  "title": "Identifikasi sampah organik dan anorganik menggunakan transfer learning dengan Convolutional Neural Network",
+  "abstract": "Sampah merupakan bagian dari kehidupan manusia. Sampah adalah benda atau zat sisa yang sudah tidak terpakai. Seharusnya sampah mendapat perhatian dan penanganan yang serius. Namun karena kurangnya pengertian masyarakat, kurangnya menjaga kebersihan tempat sampah, maka masalah sampah ini menjadi terabaikan dan semakin bertambah tumpukan sampah. Saat ini sebagian besar masyarakat telah mengetahui dampak buruk sampah, antara lain menyebabkan penyakit dan bau yang dapat mengganggu kehidupan di lingkungan tetapi hal ini tidak diimbangi oleh perilaku masyarakatnya sendiri. Dengan perkembangan teknologi yang pesat terutama dalam bidang artificial neural network, maka dikembangkanlah sebuah program untuk melakukan indentifikasi sampah dari gambar dalam membuat sebuah model artificial neural network. Metode yang digunakan adalah Convolutional Neural Network karena sangat baik dalam mendeteksi objek. Kemudian metode yang digunakan adalah Deep Belief Networks karena juga sangat baik untuk mendeteksi objek. Namun Transfer Learning merupakan termasuk teknik Machine Learning tetapi sangat cocok untuk membantu menghindari terjadinya overfitting pada kedua model tersebut. Penelitian ini mengatasi masalah pada jenis sampah yang akan menggunakan metode CNN. Metode CNN ini digunakan karena metode ini dibuat atau diciptakan untuk memproses data berupa gambar hingga hasil deteksi. Oleh karena itu, untuk mengatasi masalah yang terdapat pada jenis sampah, maka dilakukan pengembangan sistem deteksi dengan metode CNN dan DBN untuk membandingkan mana yang hasil terbaik. Pengembangan pada sistem deteksi ini akan dilakukan desain dan proses neural network. Proses neural network ini dilakukan untuk mengetahui jenis sampah apa yang memiliki ciri-ciri dengan gambar yang diambil langsung oleh pengguna. Hasil yang diharapkan adalah output dapat menampilkan gambar sampah dan tinggi tingkat akurasi yang diuji dengan persentase serta jumlah waktu yang dibutuhkan dalam sistem deteksi yang berjalan. Dari persentase tinggi tingkat akurasi dan jumlah waktu itulah yang akan menjadi tingkat keberhasilan dari penelitian ini.",
+  "creators": "WILSON OTTO SASONGKO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Leo Willyanto Santoso (Advisor 2); Liliana (Examination Committee 1); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022422/INF/2024; Wilson otto sasongko (C14190017)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--INDUSTRIAL APPLICATIONS; NEURAL NETWORKS (COMPUTER SCIENCE); RECYCLING (WASTE)"
+}

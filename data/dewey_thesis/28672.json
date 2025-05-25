@@ -1,0 +1,14 @@
+{
+  "id": "28672",
+  "title": "Perencanaan dan pembuatan single ended audio amplifier mono block class A dengan menggunakan tabung hampa 300B.",
+  "abstract": "Pada era digital, tabung hampa merupakan barang yang sangat langka untuk didapatkan sehingga para pencinta musik audiophile rela mengeluarkan uang yang relatif banyak untuk mendapatkannya. Penggunaan tabung hampa tipe 300B ditujukan agar memperoleh kualitas suara pada middle range yang terbaik di kelasnya. Jadi diperlukan rangkaian single ended amplifier class A untuk mencapai tujuan di mana suara middle range menjadi dominan pada power amplifier ini. Pada kesempatan ini akan membuat power amplifier dengan tipe single ended amplifier class A dengan menggunakan tabung hampa 300B sebagai power-nya dan tabung hampa 6SN7 sebagai driver-nya. Biasanya daya yang dikeluarkan dari jenis single ended amplifier ini relatif kecil karena maksimal daya keluaran tabung hampa 300B hanya 7 Watt. Setelah melakukan pengujian power amplifier ini memiliki gain sebesar 31 dB. Bandwith pada -3 dB dari hasil pengujian di laboratorium adalah 20Hz-8000Hz. Kemudian hasil pengujian juga membuktikan bahwa output transformer mengalami roll off pada frekuensi 30KHz yang disebabkan adanya efek resonance pada output transformer.",
+  "creators": "FERDIAN SANTOSO",
+  "contributors": "Limboto Limantara (Advisor 1); Handry Khoswanto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010931/ELK/2013; Ferdian Santoso (23408003)",
+  "subjects": "AMPLIFIERS; DIGITAL AUDIO"
+}

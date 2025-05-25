@@ -1,0 +1,14 @@
+{
+  "id": "26748",
+  "title": "Perencanaan dan pembuatan sistem pengaturan kecepatan motor DC dengan PC 80286 untuk menunjang praktikum SPP di UK Petra (motor DC 12 V, 3000 rpm)",
+  "abstract": "Kontrol Speed di sini dimaksudkan untuk mengatur kecepatan motor dc (direct current) selain menggunakan peralatan hardware juga ditunjang peralatan software yang diatur dengan komputer.. Melalui komputer PC 80286 harga setpoint dari kecepatan motor DC diinputkan kemudian oleh PPI 8255 input yang berupa desimal diubah menjadi bineri. Hasil output ini merupakan input bagi DAC 0808 sehingga menghasilkan output berupa tegangan yang oleh rangkaian PWM diubah menjadi frekuensi untuk menggerakkan driver motor. Saat driver motor on maka motor akan berputar sebanding dengan frekuensi on dari motor driver. Saat motor berputar oleh sebuah opto interrupt device yang telah terlebih dahulu dikopelkan dengan motor akan menghasilkan suatu gelombang sinus yang sebanding harga frekuensinya dengan kecepatan putaran motor. Hasil output ini oleh sebuah IC LM331 diubah menjadi tegangan yang mana merupakan input bagi ADC 0808 sehingga menghasilkan bilangan bineri yang oleh PPI 8255 diubah menjadi bilangan desimal. Oleh komputer data input dan data output dibandingkan sehingga data outputnya akan mendekati data input. Pengolahan data tersebut akan diproses dengan software sehingga diperoleh hasil yang baik. Serta dengan bantuan komputer akan diperoleh bentuk grafik dari proses pengaturan kecepatan motor. Penggunaan PC 80286 di sini bertujuan untuk mempercepat pembacaan harga dari ADC 0808. Karena input clock dari ADC 0808 didapat dari output clock dari komputer PC 80286. Untuk memperoleh hasil yang lebih baik maka software yang digunakan ini tidak menggunakan sistem on-off kontrol yang diketahui kurang baik, sehingga untuk memperoleh hasil yang memuaskan maka software dibuat dengan sistem kontroler Proportional plus Integral plus Derivative (PID Controller). Besaran yang digunakan untuk kecepatan motor digunakan satuan rpm yang diperoleh dengan mensinkronkan hasil putaran rpm dengan output dari ADC. Misal dari putaran motor 1000 rpm diperoleh hasil output ADC sebesar 50 desimal, Kemudian bila 2000 rpm di peroleh hasil output 110. Dari data-data tersebut dapat kita peroleh rumus regresion liner yang berfungsi untuk mensinkronkan hasil perputaran motor dengan hasil output ADC 0808.",
+  "creators": "NYOMAN SOEHARTO",
+  "contributors": "SUPENO DJANALI (Advisor 1); BENJAMIN FLEMING INTAN (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/032/0153; Nyoman Soeharto (23488015)",
+  "subjects": "AUTOMATIC CONTROL; MOTORS-AUTOMATIC CONTROL"
+}

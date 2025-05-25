@@ -1,0 +1,14 @@
+{
+  "id": "42110",
+  "title": "Perancangan sistem informasi penjualan perusahaan velg PT Cahaya Citra Alumindo",
+  "abstract": "PT Cahaya Citra Alumindo merupakan perusahaan yang bergerak pada bidang produksi velg dan terletak di Sidoarjo. Perusahaan ini masih melakukan proses pengelolaan data menggunakan metode manual serta pencatatan menggunakan Microsoft Excel sehingga masih terdapat kelemahan seperti kesalahan perhitungan kebutuhan bahan dan laporan, proses pengelolaan data yang membutuhkan waktu cukup lama, serta kesulitan pencarian data. Aplikasi ini dibuat dengan menggunakan bahasa pemrograman HTML, CSS, framework PHP, dan database MySQL. Tampilan aplikasi menggunakan template Bootstrap. Aplikasi memiliki fitur antara lain menu stok, menu pesanan, menu perencanaan, menu master database, dan menu laporan. Hasil akhir dari implementasi aplikasi ini antara lain membantu penghitungan laporan laba rugi dan menampilkan laporan hingga beberapa periode yang lalu, mencatat segala stok barang dan bahan yang serta melakukan update harga bahan, mengelola pesanan yang diterima dan memantau perkembangan stok yang dipesan, dan mencatat perencanaan produksi serta melakukan penghitungan bahan yang diperlukan untuk setiap kali proses produksi dilakukan.",
+  "creators": "KEVIN",
+  "contributors": "Kartika Gunadi (Advisor 1); Silvia Rostianingsih (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021748/INF/2018; Kevin (26413115)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMANT; DATABASE DESIGN"
+}

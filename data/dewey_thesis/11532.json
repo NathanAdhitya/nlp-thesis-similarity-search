@@ -1,0 +1,14 @@
+{
+  "id": "11532",
+  "title": "Penentuan lokasi dan perencanaan filter harmonisa pada sistem distribusi industri",
+  "abstract": "Gangguan harmonisa merupakan suatu fenomena yang muncul sejak awal sejarah sistem daya AC. Penyebab gangguan harmonisa terdahulu adalah ketika inti besi pada trafo dan mesin listrik dalam kondisi saturasi. Seiring dengan bertumbuhnya teknologi modern yang ditandai dengan semakin banyaknya penggunaan komponen semikonduktor menjadikan masalah-masalah harmonisa semakin meningkat. Salah satu cara pencegahan harmonisa adalah dengan pemasangan filter. Pembuatan tugas akhir ini dilakukan pengukuran dan mendesain filter pasif pada MDP PT. Hanil Jaya di GI Rungkut yang kemudian disimulasikan menggunakan ETAP Power Station 4.0.0C. Peredaman harmonisa dapat dilakukan dengan memasang filter pasif jenis single tuned. Komponen pasif yang digunakan untuk GI Rungkut pada sisi PCC, yaitu resistor sebesar 1?, induktor sebesar 0,0238 mH, dan kapasitor sebesar 40,26 ?F digunakan untuk meredam harmonisa orde ke-2 (100Hz), sedangkan untuk meredam harmonisa orde ke-3 (150 Hz) digunakan resistor sebesar 1 ?, induktor sebesar 0,0538 mH, dan kapasitor sebesar 50,23 ?F. Melihat simulasi pada ETAP, filter mampu meredam ITHD yang sebelumnya 20,07% turun menjadi 0,33 %.",
+  "creators": "YAN GUNTURE GUNAWAN PUTRA",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Julius Sentosa Setiadji (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010601/ELK/2009; Yan Gunture Gunawan (23404033)",
+  "subjects": "ELECTRIC POWER DISTRIBUTION; POWER SYSTEM HARMONICS"
+}

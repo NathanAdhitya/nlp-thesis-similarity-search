@@ -1,0 +1,14 @@
+{
+  "id": "1114",
+  "title": "Perancangan input, output dan database dari siklus transaksi penjualan ikan pada UD. Alam Jaya di Surabaya",
+  "abstract": "Perusahaan masih menggunakan sistem manual pada transaksi penjualannya, dimana data penjualan yang dimiliki perusahaan hanya tersimpan pada media buku catatan. Penulis tertarik melakukan perancangan sistem komputer dari input, output dan database agar data yang dimiliki perusahaan dapat tersimpan dengan baik, sehingga dapat ditelusuri dengan cepat dan juga dapat dilakukan perubahan jika diperlukan. Penelitian ini dilakukan dengan mengamati siklus transaksi perusahaan, mencari data, mencatat dan bertanya mengenai infomiasi yang dibutuhkan. Hasil perancangan ini adalah terbentuknya database berupa tabel-tabel yang juga merupakan file-file perusahaan. Selain itu penulis juga merancang beberapa kode pada///e sebagai upaya untuk menelusuri data yang diinginkan dengan mudah. Kesimpulan yang diperoleh adalah bahwa perancangan ini menghasilkan tabel-tabel seperti tabel buyer, tabelftsh, tabel sales person, tabel cold storage clerk, tabel shipping company, tabel sales contract dan tabel sales contract detail. Tabeltabel ini merupakan file-file pada perusahaan yang berguna didalam membuat formulir pada layar komputer sebagai media masukan data dan membuat laporan penjualan sebagai hasil output.",
+  "creators": "SUSIANA",
+  "contributors": "Setyarini Santosa (Advisor 1); Juniarti (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 210/95/FE.AK/2002; Susiana (32495070)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN"
+}

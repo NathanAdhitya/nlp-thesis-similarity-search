@@ -1,0 +1,14 @@
+{
+  "id": "17128",
+  "title": "Perancangan dan pembuatan aplikasi data mining market basket analysis untuk rumah makan 'De Joglo'",
+  "abstract": "Rumah makan De Joglo adalah rumah makan yang telah menggunakan sistem komputerisasi dalam pencatatan transaksi. Namun dengan banyaknya data yang harus dianalisis, maka dibutuhkan suatu sistem pendukung yang dapat memberikan informasi bagi pengambil keputusan dengan menggunakan data transaksi rumah makan. Data yang diperlukan adalah data transaksi penjualan, data menu, dan tanggal penjualan. Berdasarkan permasalahan yang dihadapi rumah makan tersebut, maka dilakukan pembuatan perangkat lunak yang berbasis data mining. Data mining merupakan teknik untuk melakukan ekstraksi informasi dari data berskala besar. Informasi tersebut merupakan nilai tambah yang sebelumnya tidak dapat diketahui dengan menggunakan cara manual. Aplikasi dibuat dengan metode market basket analysis dimana metode tersebut akan menganalisa kebiasaan pelanggan dengan menemukan hubungan antara menu yang berbeda pada satu nomor transaksi. Software dibuat dengan menggunakan algoritma FP-Tree. Aplikasi ini dibuat menggunakan software Borland Delphi 7.0 dan Microsoft Access 2007. Dengan menggunakan output dari software ini, yang berupa association rule dan grafik, pengambil keputusan dapat mengetahui menu apa saja yang sering dipesan bersamaan oleh pelanggan di rumah makan De Joglo. Berdasarkan pengujian, aplikasi dapat dilakukan dan telah dapat diaplikasikan dengan baik. Hasil kuisioner dari user menunjukkan bahwa tingkat keakuratan informasi hasil aplikasi 80%, desain interface 80%, kemudahan menggunakan program 70%, penggunaan bahasa dalam menyampaikan informasi 70%, dan petunjuk yang diberikan dalam membantu user menggunakan aplikasi 75%.",
+  "creators": "NADIA ANDREANI DWIYONO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Andreas Handojo (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020887/INF/2010; Nadia Andreani Dwiyono (26406019)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

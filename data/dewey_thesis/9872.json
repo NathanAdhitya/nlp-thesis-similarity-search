@@ -1,0 +1,14 @@
+{
+  "id": "9872",
+  "title": "Perancangan alat ukur domensi 3-axis dengan metode sentuh",
+  "abstract": "Alat ukur dimensi 3-axis dengan metode sentuh dirancang atas dasar kebutuhan pengukuran saat ini dipasaran kebanyakan hanya dapat mengukur obyek berupa benda pada satu bidang sumbu tertentu saja. Selain itu, seiring dengan perkembangan teknologi alat ukur dimensi seperti coordinate measuring machine (CMM) sudah mampu mengukur obyek pada ketiga bidang sumbu secara bersamaan. Namun harganya di pasaran masih relatif mahal dibandingkan dengan alat-alat ukur dimensi lainnya. Perancangan difokuskan pada perencanaan konstruksi yang kokoh dan ringan, batas pengukuran terhadap ukuran obyek sepanjang 200 mm, incremental rotary encoder sebagai sensor kontrol gerak, obyek yang diukur tidak berdeformasi, dan maksimum ketelitian pengukuran mencapai 10-3 mm. Struktur dari konstruksi alat ukur menggunakan alumunium profile beserta sambungannya (joint) dan mekanisme printer yang dikombinasi dengan incremental rotary encoder yang bertujuan untuk mengubah dan menyesuaikan (kalibrasi) gerak putar menjadi gerak linear sebagai pengukuran terhadap jarak. Berdasarkan hasil pengujian perbandingan antara hasil pengukuran alat ukur dimensi 3-axis dengan mikrometer untuk ketiga sumbu didapat persentase error untuk tiap-tiap sumbu (X, Y, Z) adalah 1,800 %, 5,224 %, dan 0,949 %. Konstruksi alat ukur dimensi 3-axis dapat digunakan untuk pengukuran searah sumbu X, Y, dan Z dengan pergerakan secara manual/digerakkan oleh operator dengan menggunakan batang ulir sebagai kontrol pergerakannya. Hasil pengukuran tidak dapat diambil secara bersamaan dalam bentuk koordinat obyek melainkan hanya dapat ditampilkan dengan pengukuran yang dilakukan pada masing-masing sumbu secara bergantian.",
+  "creators": "JONNY WIJAYA",
+  "contributors": "Roche Alimin (Advisor 1); Soejono Tjitro (Advisor 2); Willyanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010870/MES/2008; Jonny Wijaya (24403054)",
+  "subjects": "COORDINATE MEASURING MACHINES; TESTING-MACHINES; ENGINEERING INSPECTION; MEASURING INSTRUMENTS"
+}

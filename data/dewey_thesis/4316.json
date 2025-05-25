@@ -1,0 +1,14 @@
+{
+  "id": "4316",
+  "title": "Pembuatan sistem informasi pembelian, penjualan, dan forecasting kebutuhan barang pada Toko Usaha Baru",
+  "abstract": "Toko Usaha Baru adalah sebuah toko yang bergerak dalam bidang bahan bangunan dan alat listrik. Selama ini sistem penjualan dan pembelian pada Toko Usaha Baru masih menggunakan sistem manual. Sistem tersebut memiliki banyak kekurangan, misalnya tidak dapat mengetahui jumlah barang dan jumlah hutang kepada supplier secara cepat, jumlah pendapatan setiap harinya, serta tidak dapat memprediksi jumlah barang yang harus dibeli dari supplier. Untuk mengatasi masalah tersebut, maka dibutuhkan suatu sistem baru untuk memperbaiki sistem yang dipakai saat ini. Pembuatan perangkat lunak untuk sistem yang baru menggunakan Borland Delphi 7 untuk bahasa pemrogramannya, SQL Server 7.0 untuk menyimpan database-nya, dan Windows 2000 Server sebagai sistem operasinya. Untuk mendesain sistem dimulai dengan merancang Data Flow Diagram (DFD), Entity Relationship Diagram (ERD), dan flowchart. Flowchart digunakan untuk menggambarkan alur perhitungan peramalan metode Winter. DFD dan ERD dibuat dengan menggunakan Power Designer 6.1 sedangkan flowchart menggunakan Microsoft Visio 2000. Perangkat lunak yang dihasilkan dapat menangani input data seperti data barang dan supplier; mencatat order, penjualan, pembelian, retur penjualan dan pembelian; meng-update jumlah barang jika terjadi pembelian, penjualan, retur penjualan dan pembelian; mencatat koreksi jumlah barang. Dari hasil uji coba, perangkat lunak ini dapat mengetahui order yang belum dan sudah dikirim oleh supplier; jumlah pembelian, hutang, dan penjualan per periode; dan hasil peramalan dimana Mean Square Error (MSE) yang didapat mencapai 6.34 untuk barang tertentu. Perangkat lunak ini juga dapat mengetahui jumlah retur pembelian dan penjualan yang selama ini tidak pernah dicatat.",
+  "creators": "FIFI WIDYAWATI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Leo Willyanto Santoso (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000263/INF/2004; Fifi Widyawati (26400033)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN; INFORMATION RESOURCES MANAGEMENT"
+}

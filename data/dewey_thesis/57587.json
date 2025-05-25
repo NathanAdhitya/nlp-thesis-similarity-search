@@ -1,0 +1,14 @@
+{
+  "id": "57587",
+  "title": "Mendeteksi dan klasifikasi konten pornografi dalam gambar menggunakan metode vision transformer",
+  "abstract": "Saat ini penyebaran informasi sudah sering terjadi tanpa adanya batas ruang dan waktu, baik itu informasi yang positif maupun negatif. Salah satu contoh dari informasi negatif tersebut adalah konten pornografi yang saat ini tersebar luas di berbagai macam media seperti internet. Hal ini menyebabkan banyak masyarakat terpapar oleh konten negatif tersebut sehingga berdampak buruk bagi sosialisasi dan kesehatan mental. Terdapat sistem yang berfungsi untuk mencegah atau memperlambat penyebaran dari konten pornografi, tetapi sistem tersebut kurang akurat dalam melakukan klasifikasi dan deteksi, sehingga seringkali konten-konten tersebut lolos saat pengecekan sistem dan tersebar di internet. Oleh karena itu, skripsi ini mengajukan sebuah sistem berbasis artificial intelligence yang dapat membantu atau mengembangkan sistem yang ada dalam mencegah atau memperlambat proses penyebaran konten yang salah dan berbahaya tersebut. Skripsi ini menggunakan metode Vision Transformer untuk melakukan klasifikasi secara umum dan spesifik terhadap konten pornografi. Untuk object detection terhadap bagian tubuh privat, akan digabungkan model yang melakukan klasifikasi secara spesifik dengan metode selective search. Sistem yang telah dibuat mendapat akurasi sebesar 91% dalam melakukan klasifikasi secara umum, 92% dalam melakukan klasifikasi secara spesifik, dan 56% dalam melakukan object detection bagian tubuh privat.",
+  "creators": "WELLIAM SASTRADIPURA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Kartika Gunadi (Advisor 2); Gregorius Satiabudhi (Examination Committee 1); Justinus Andjarwirawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022335/INF/2023; Welliam Sastradipura (C14190194)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--COMPUTER PROGRAMS; INTERNET PORNOGRAPHY; MACHINE LEARNING"
+}

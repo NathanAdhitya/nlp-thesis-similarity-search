@@ -1,0 +1,14 @@
+{
+  "id": "26012",
+  "title": "Perancangan dan pembuatan aplikasi klasifikasi nilai jual properti menggunakan metode k-nearest neighbor dan probabilistic neural network",
+  "abstract": "Wealth Aspiration, Inc. merupakan sebuah perusahaan di California yang bergerak di bidang properti real estate. Dalam menjalankan fungsinya, Wealth Aspiration seringkali membutuhkan estimasi nilai jual suatu properti yang selama ini masih dilakukan secara manual. Dalam skripsi ini dikembangkan sebuah aplikasi untuk memprediksi nilai jual suatu properti dengan membandingkan kemiripan spesifikasinya dengan rumah di sekitarnya dalam radius 1 mil. Prediksi dilakukan dengan menggunakan metode K-Nearest Neighbor dan Probabilistic Neural Network dan dikembangkan dengan menggunakan bahasa Java. Hasil pengujian menunjukkan bahwa metode K-Nearest Neighbor dan Probabilistic Neural Network memiliki tingkat akurasi yang baik, yaitu 81,86% untuk metode KNN dan 82,15% untuk metode PNN serta kecepatan proses yang cukup cepat. Tingkat akurasi belum optimal dikarenakan adanya adjustment yang membutuhkan peranan manual dan setting bobot atribut yang masih dilakukan secara manual.",
+  "creators": "ALVIN POERNOMO",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Gregorius Satiabudhi (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021158/INF/2012; Alvin Poernomo (26408069)",
+  "subjects": "DATABASE DESIGN; NEURAL NETWORK COMPUTERS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

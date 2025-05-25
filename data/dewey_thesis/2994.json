@@ -1,0 +1,14 @@
+{
+  "id": "2994",
+  "title": "Aplikasi soundcard pada pembuatan oscilloscope untuk frekuensi audio",
+  "abstract": "Kebutuhan pemakaian oscilloscope masih cukup tinggi tetapi kesulitan untuk memiliki, memakai, serta membawa-bawanya masih cukup tinggi pula. Oleh sebab itu diciptakan software PC-Oscilloscope yang dapat memberikan fasilitas sebagai oscilloscope untuk frekuensi audio dan sound generator. PC-Oscilloscope berfungsi sebagai sound generator dan oscillscope. PC-Oscilloscope menggunakan Delphi programming language, WindowsXP operating system, dan media soundcard. Metode yang digunakan adalah menampilkan sinyal input-an yang diberikan melalui line-in soundcard. PC-Oscilloscope memerlukan pengkalibrasian untuk nilai 1Vpp pada soundcard menggunakan function generator eksternal dengan spesifikasi squarewave, 1kHz, 1Vpp, 60% duty cycle. Hasil pengujian menunjukan bahwa PC-Oscilloscope mempunyai performa yang kurang untuk analisa sinyal frekuensi tinggi karena keterbatasan kemampuan dalam sampling data dan tidak adanya filter anti-aliasing. Respon PC-Oscilloscope menggunakan soundcard onboard ACER dan soundcard Sound Blaster Live! mempunyai tegangan input maksimal 2.5V (line-in), tegangan output 2.8V (line out), dan pada frekuensi tinggi (15kHz-20kHz) menghasilkan gelombang aliasing 2kHz-6kHz. Untuk penggunaan soundcard Sound Blaster Live! juga menghasilkan gelombang yang relatif amplitudonya semakin kecil pada frekuensi tinggi (10kHz-20kHz). Software ini nantinya dapat dikembangkan menjadi spectrum analyzer dan memiliki fasilitas filter yang berguna untuk menghilangkan sinyal-sinyal yang tidak diinginkan (noise, aliasing).",
+  "creators": "DAVID YOSAPUTRA",
+  "contributors": "Hany Ferdinando (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010737/ELK/2005; David Yosaputra (23401007)",
+  "subjects": "CATHODE RAY OSCILLOSCOPE; CATHODE RAY OSCILLOSCOPE-COMPUTER PROGRAMS"
+}

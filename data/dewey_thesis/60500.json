@@ -1,0 +1,14 @@
+{
+  "id": "60500",
+  "title": "Prediksi kelayakan pinjaman bank menggunakan metode deep neuro fuzzy network",
+  "abstract": "Proses pemberian pinjaman bank kepada nasabah melibatkan sejumlah tantangan yang mempengaruhi, baik bank maupun nasabah secara signifikan, termasuk risiko kredit macet dan ketidakakuratan penilaian risiko. Pinjaman merupakan salah satu cara bank untuk mendapatkan keuntungan, namun proses persetujuan pinjaman yang bergantung pada prosedur manual memiliki kekurangan dalam hal efisiensi. Prediksi kelayakan pinjaman yang efektif menjadi semakin penting dalam sistem keuangan saat ini, terutama mengingat dampak luas yang dapat terjadi akibat prediksi gagal bayar pinjaman yang tidak akurat. Penelitian yang sudah pernah dilakukan sebelumnya memiliki kelemahan yaitu memiliki hasil yang belum memuaskan dan juga fitur dataset yang sedikit. Pada skripsi ini akan digunakan metode deep neuro fuzzy network yang menggabungkan fuzzy ke dalam deep neural network untuk melakukan prediksi kelayakan pinjaman yang menerapkan expert knowledge pada model agar hasil prediksi lebih akurat. Expert knowledege akan dimasukkan ke dalam custom fuzzy layer yang berupa gabungan dari fitur-fitur dataset, kemudian dihitung membership value-nya berdasarkan input sesuai dengan treshold yang ditetapkan oleh pakar untuk membuat rules tersebut. Dengan menggunakan metode ini, hasil akurasi dari pengujian mencapai 96% dan penggunaan confidence adjustment pada fuzzy layer sebesar 0.1. Meskipun tidak signifikan, hal ini terbukti meningkatkan performa model dari tanpa menggunakan confidence adjustment dengan akurasi 93%.",
+  "creators": "JEREMY DION PURNAMA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Examination Committee 1); Justinus Andjarwirawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022573/INF/2024; Jeremy Dion Purnama (C14200206)",
+  "subjects": "BANK LOANS; COMPUTER PROGRAMMING; DEEP LEARNING (MACHINE LEARNING)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "12933",
+  "title": "Perencanaan dan pembuatan pembaca kartu magnetik dengan bantuan sensor magnetik dan mikrokontroler 8031",
+  "abstract": "Perkembangan teknologi elektronika yang pesat dewasa ini membuat teknik identifikasi semakin canggih. Teknik identifikasi ini dapat mempermudah tugas-tugas identifikasi yang rutin dilakukan. Ada bermacam-macam teknik identifikasi seperti kode bans (Bar Code), kartu magnetik (Magnetic Card), pengenalan suara (Voice Recognition), sidik jari (Finger Print), retina mata dan iain-lain dengan masing-masing kelebihan dan kelemahannya sendiri. Dalam Tugas Akhir ini akan direncanakan dan dibuat pembaca kartu magnetik dengan sistem pembacaan yang mengikuti standard ISO. Diharapkan dengan mengikuti aturan dan teknik yang telah standard maka pembaca kartu magnetik yang dibuat akan dapat digunakan untuk membaca kartu magnetik dengan sistem 'swap' tanpa perlu menggunakan motor . Diharapkan pula agar alat yang dibuat mampu membaca jenis-jenis kartu magnetik yang mengikuti standard ISO yang banyak beredar di masyarakat, khususnya dalam dunia perbankan. Standard ISO menggunakan teknik encoding yang disebut \"Frequency Doubling' dimana logika \"0\" dan \"l\" tidak diwakili oleh keadaan sinyal \"Low\" atau \"High\", melainkan diwakili oleh perbandingan lebar pulsa / periode dari sinyal itu sendiri. Sinyal yang mewakili logika \"1\" memiliki periode yang besarnya j kali (frekuensinya 2 kali) dari periode sinyal yang mewakili logika \"0\". Teknik inilah yang akan digunakan untuk sitem pambacaan kartu magnetik dalam Tugas Akhir ini.",
+  "creators": "LIAUW TOONG TJIEK",
+  "contributors": "Murtiyanto Santoso (Advisor 1); IRWAN SAHLI (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/005/265; Liauw Toong Tjiek (23489029)",
+  "subjects": "COMPUTERS; MAGNACARD DATA PROCESSING SYSTEMS"
+}

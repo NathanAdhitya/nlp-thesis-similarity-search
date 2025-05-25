@@ -1,0 +1,14 @@
+{
+  "id": "42289",
+  "title": "Aplikasi pemilihan rute pengiriman barang pada perusahaan elektronik di Surabaya dengan menggunakan metode K-Means Clustering dan Google Maps API",
+  "abstract": "Perusahaan elektronik yang dituju merupakan perusahaan yang bergerak dalam bidang retail barang elektronika. Perusahaan berusaha untuk melakukan peningkatan kepuasan pelanggan dengan melakukan evaluasi dan perbaikan pada proses bisnis yang ada. Salah satunya adalah proses pengiriman barang. Permasalahan yang muncul pada proses ini yaitu susahnya menentukan urutan rute pengiriman barang, terutama jika dalam suatu pengiriman terdapat pelanggan yang memiliki preferensi jam pengiriman. Selain itu, perusahaan juga tidak bisa memberikan informasi kepada pelanggan mengenai waktu estimasi kedatangan barang. Oleh karena itu dibutuhkan suatu sistem informasi pengiriman barang yang mampu memberikan rekomendasi urutan rute pengiriman barang dan informasi mengenai estimasi waktu pengiriman barang. Sistem informasi pengiriman barang dibuat dengan basis website dengan menggunakan framework Codeigniter. Pada sistem ini, proses pertama yang dilakukan yaitu mencocokan alamat pengiriman dengan alamat hasil response dari Google Maps API. Selanjutnya program akan melakukan kalkulasi terhadap setiap alamat pengiriman. Dalam usaha untuk melakukan perhitungan, Google Maps API menyediakan layanan service bebas biaya yang mampu memberikan urutan rute terbaik dengan keterbaasan maksimum 8 titik alamat. Namun, service ini tidak dapat langsung digunakan karena jumlah alamat dalam satu pengiriman biasanya berjumlah lebih dari 8 alamat. Oleh karena itu dibutuhkan metode K-Means Clustering untuk mengelompokan area pengiriman menjadi 8 titik area. Titik area tersebut nantinya digunakan untuk mengurutkan rute pengiriman. Hasil akhir dari program ini yaitu suatu sistem informasi pengiriman barang untuk pengurus/administrator dan supir perusahaan. Sistem ini mampu memberikan rekomendasi untuk pemilihan rute pengiriman barang dan informasi mengenai estimasi waktu pengiriman barang. Dari hasil pengujian yang dilakukan, sistem dapat melakukan perhitungan rute dengan waktu rata-rata kalkulasi 133 detik untuk 30 rute tujuan.",
+  "creators": "LILIANA ESTER",
+  "contributors": "Rolly Intan (Advisor 1); Andreas Handojo (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021769/INF/2018; Liliana Ester (26414087)",
+  "subjects": "PROGRAMMING (COMPUTERS); COMPUTER SOFTWARE--DEVELOPMENT"
+}

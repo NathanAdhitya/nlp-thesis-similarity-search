@@ -1,0 +1,14 @@
+{
+  "id": "41187",
+  "title": "Pembuatan aplikasi mobile indoor positioning system menggunakan android dan bluetooth low energy dengan metode trilateration",
+  "abstract": "Perkembangan teknologi informasi dan konsep smart city mulai berkembang. Teknologi informasi yang dibutuhkan masyarakat yaitu mencari informasi posisi dan lokasi tujuan dalam gedung (indoor positionting). Indoor positioning dengan menggunakan WiFi memiliki batasan pada penempatan lokasi. Untuk mengatasi kekurangan tersebut maka digunakan sensor beacon bluetooth low energy dengan kelebihan yaitu memiliki konsumsi daya yang rendah dan dimensi yang relatif kecil sehingga dapat diletakkan di berbagai tempat yang sulit dijangkau oleh WiFi. Indoor Positioning System (IPS) adalah sebuah sistem untuk mengetahui posisi dari objek atau orang dalam ruangan dengan menggunakan gelombang radio, medan magnet, atau sensor lainnya yang didapatkan oleh mobile device. Metode indoor positioning dibagi menjadi deterministic dan probabilistic. Deterministic dapat menentukan posisi lebih cepat dengan menggunakan teknik pengukuran seperti Trilateration dan Triangulation. Trilateration merupakan metode untuk menentukan lokasi dengan informasi tiga lokasi dan jarak perangkat terhadap masing-masing access point diketahui. Pada penelitian ini digunakan metode Trilateration dengan teknik pengukuran estimasi jarak berdasarkan nilai RSSI. Berdasarkan hasil penghujian, RSSI dari beacon sangat terpengaruh oleh benda yang memiliki ketebalan dan kepadatan. Dalam kondisi line of sight, perangkat Android mampu menerima sinyal dengan baik dan menentukan lokasi perangkat menggunakan trilateration dengan cukup akurat.",
+  "creators": "IGNATIUS ALEX WIJAYANTO",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Agustinus Noertjahyana (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021688/INF/2017; Ignatius Alex Wijayanto (26413098)",
+  "subjects": "WIRELESS COMMUNICATION SYSTEMS; BLUETOOTH TECHNOLOGY; APPLICATION SOFTWARE-DEVELOPMENT; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (COMPUTER PROGRAM)"
+}

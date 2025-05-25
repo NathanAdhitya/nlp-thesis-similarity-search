@@ -1,0 +1,14 @@
+{
+  "id": "59253",
+  "title": "Implementasi demand side management pada beban listrik rumah tinggal",
+  "abstract": "Manajemen energi didefinisikan sebagai pendekatan untuk melaksanakan pemanfaatan sumber daya energi secara efektif, efisien dan rasional tanpa mengurangi kuantitas maupun kualitas fungsi utama rumah tinggal. Manajemen energi dapat dicapai dengan monitoring energi listrik untuk mengidentifikasi pemborosan energi listrik dan menyusun pencegahannya. Salah satu cara mengefisienkan pemakaian energi listrik adalah dengan metode Demand Side Management (DSM) untuk memberikan peluang penghematan biaya listrik. Dalam realisasinya, diterapkan DSM dengan bentuk pola beban peak clipping untuk memutus beban puncak dan load shifting untuk pemindahan beban dengan memanfaatkan platform Home Assistant. Dari hasil pengujian, setelah dilakukan penerapan DSM dengan bentuk pola beban Peak Clipping, relay pada kipas dimatikan pada tanggal 1 Januari 2024 dan 4 Januari 2024 serta relay pada mesin cuci dimatikan pada tanggal 30-31 Desember dan 2 Januari 2024 pukul 08:00 karena memiliki nilai beban paling tinggi. Sedangkan untuk penerapan DSM dengan bentuk pola beban load shifting, relay pada kipas dinyalakan kembali pada tanggal 1 Januari 2024 dan 4 Januari 2023 serta relay pada mesin cuci dimatikan pada tanggal 30-31 Desember dan 2 Januari 2024 pukul 09:00 karena terdampak peak clipping sebelumnya dan telah berada di luar jam beban puncak.",
+  "creators": "YOGA MAULANA ALDI WICAKSONO",
+  "contributors": "Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 1); Resmana Lim (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1); Julius Sentosa Setiadji (Examination Committee 2); Felix Pasila (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010158/ELK/2023; Yoga Maulana Aldi Wicaksono (C11190027)",
+  "subjects": "DWELLINGS-ENERGY CONSUMPTION; ELECTRIC POWER CONSUMPTION--MANAGEMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "1085",
+  "title": "Pemakaian gempa rencana untuk analisis respon dinamik riwayat waktu non-linear",
+  "abstract": "Belum adanya riwayat waktu gempa rencana yang disetujui untuk dipakai di Indonesia menyebabkan harus digunakan minimal 4 (empat) riwayat waktu gempa yang berbeda dalam analisis respons dinamik riwayat waktu. Hal ini menimbulkan kesulitan tersendiri dalam penelitian, khususnya dalam melakukan analisis respons dinamik riwayat waktu non-linear. Salah satu pemecahan yang dapat diambil adalah dengan memodifikasi riwayat waktu gempa yang sesungguhnya untuk menghasilkan suatu gempa rencana yang menghasilkan respons spektrum yang konsisten dengan respons spektrum dalam peraturan gempa, dalam hal ini Konsep ke-2 SNI1726-1998. Penelitian ini mencoba membandingkan hasil analisis respons dinamik riwayat waktu non-linear dengan Gempa Rencana 500 tahun. Gempa yang dipakai adalah 10 buah gempa, yang terdiri dari 5 buah gempa asli yaitu Gempa Denpasar,El Centro, Pacoima, Parkfield, dan Pasadena, serta 5 buah gempa yang dimodifikasi dari 5 buah gempa asli tersebut. Proses modifikasi dilakukan dengan Program RESMAT, yang merupakan hasil modifikasi dari penelitian sebelumnya. Struktur yang ditinjau adalah 3 buah struktur sederhana dengan denah yang simetris dan teratur, dengan jumlah lantai 5, 10, dan 15 lantai, yang direncanakan sesuai Konsep ke-2 SNI1726-1998. Analisis respons dinamik riwayat waktu non-linear dilakukan dengan Program RUAUMOKO. Simpangan lateral, simpangan antar tingkat, gaya geser tingkat, gaya-gaya dalam elemen struktur, curvature ductilty dan lokasi sendi plastis yang dihasilkan akibat gempa modifikasi dibandingkan dengan akibat gempa menurut Konsep ke-2 SNl 1726-1998. Dari penelitian ini dapat disimpulkan bahwa Gempa El Centro Modifikasi merupakan kemungkinan yang terbaik sebagai gempa rencana sesuai Konsep ke-2 SNI1726-1998.",
+  "creators": "DENI GUNAWAN PRIYANTO P; YOHANES BUDIANTO",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Hasan Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 969 S; Deni Gunawan P.P (21495038), Yohanes Budianto (21495054)",
+  "subjects": "BUILDING-EARTHQUAKE EFFECTS"
+}

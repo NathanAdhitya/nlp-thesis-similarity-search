@@ -1,0 +1,14 @@
+{
+  "id": "3643",
+  "title": "Perancangan dan pembuatan aplikasi pelacakan pergerakan wajah secara real time dengan menggunakan facial feature extraction",
+  "abstract": "Dewasa ini dunia animasi semakin berkembang, baik dalam pembuatan game maupun dalam bidang pembuatan film. Pada awalnya pembuatan animasi ini masih berupa gambar dua dimensi, tetapi dengan berkembangnya teknologi maka semakin banyak animasi yang dibuat secara tiga dimensi. Untuk memudahkan pembuatan gerakan pada animasi tersebut dapat dilakukan pelacakan pada pergerakan yang dilakukan manusia. Oleh sebab itu pada Tugas Akhir ini dibuat aplikasi yang dapat melakukan pelacakan pergerakan wajah dengan menggunakan obyek 3D secara real-time. Dalam aplikasi ini, pertama kali dilakukan proses pendeteksian daerah wajah. Proses pendeteksian daerah wajah dilakukan dengan menggunakan warna kulit. Setelah didapatkan daerah wajah dilakukan pendeteksian fitur-fitur pada daerah wajah tersebut dengan menggunakan Facial Feature Extraction. Aplikasi dibuat menggunakan Microsoft Visual C++ 6.0. Hasil pengujian menunjukkan bahwa proses pelacakan sangat bergantung pada cahaya yang didapatkan oleh wajah. Bila cahaya yang didapatkan tepat maka proses pelacakan pergerakan wajah akan berjalan dengan baik.",
+  "creators": "RONALD PASKA ONGKODJOJO",
+  "contributors": "Rudy Adipranata (Advisor 1); Cherry Galatia Ballangan, S.Si., M.AIT. (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010554/INF/2006; Ronald Paska Ongkodjojo (26403025)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

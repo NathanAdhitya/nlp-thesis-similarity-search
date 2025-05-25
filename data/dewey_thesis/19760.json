@@ -1,0 +1,14 @@
+{
+  "id": "19760",
+  "title": "Pembuatan aplikasi untuk mengurangi noise pada sebuah image dengan menggunakan perhitungan morfologi",
+  "abstract": "Di era serba digital sekarang ini, citra digital mengambil peranan yang cukup penting dalam kehidupan manusia, terutama dalam kaitannya dengan citra yang diambil menggunakan kamera digital. Orang-orang mengharapkan kualitas citra sebagus citra yang diambil menggunakan kamera film. Namun, dalam prakteknya, citra digital memiliki kelemahan, salah satunya adalah adanya munculnya noise yang cukup banyak. Beberapa produsen kamera memberikan inovasi pada kamera supaya dapat meminimalkan noise yang muncul pada hasil citra digital yang ditangkap, namun harganya relatif mahal. Untuk mengatasi masalah tersebut, algoritma untuk mengurangi noise pada citra digital banyak dikembangkan. Pembuatan aplikasi ini dilakukan untuk menerapkan proses noise reduction pada sebuah image dengan menerapkan teori dan perhitungan morfologi. Secara keseluruhan, proses pembersihan noise terbagi menjadi dua proses yaitu proses penghalusan gambar dan proses pengembalian detail image. Dalam proses penghalusan dilakukan proses OCCO (Opening-Closing-Closing-Opening) sehingga citra yang ber-noise akan menjadi halus. Lalu yang termasuk dalam proses pengembalian detail adalah proses yang dinamakan TOPBOT (Tophat & Bothat filtering) di mana di dalamnya terdapat proses thresholding, ranking, dilation, isolated deletion, dan skeletoning. Hasil dari aplikasi ini menunjukkan bahwa teori dari perhitungan morfologi dapat diterapkan untuk proses pembersihan noise dalam suatu image sekaligus mengembalikan detail. Image yang dihasilkan pada perulangan pertama dan kedua secara visual masih dapat diterima, namun pada perulangan ketiga, image sudah bersifat terlalu halus dan detail sudah mulai banyak yang hilang. Pengujian program dilakukan menggunakan perhitungan Peak Signal-to-Noise Ratio (PSNR). Yang dibandingkan adalah citra hasil dari pembersihan melalui program dengan citra dengan ISO rendah (dengan asumsi citra dengan ISO rendah adalah citra tanpa noise) dan perbandingan antara citra hasil dari pembersihan melalui photoshop CS5 dengan citra ISO rendah. Kedua angka PSNR tersebut lalu dibandingkan lagi untuk mendapatkan kesimpulan seberapa jauh kemampuan program menghilangkan noise pada sebuah citra digital.",
+  "creators": "DIONISIUS KRISTAL",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020929/INF/2010; Dionisius Kristal (26406061)",
+  "subjects": "COMPUTER GRAPHICS--COMPUTER PROGRAMS; COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

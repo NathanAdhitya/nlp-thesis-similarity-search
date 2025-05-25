@@ -1,0 +1,14 @@
+{
+  "id": "1956",
+  "title": "Pembuatan mobile robot 8 arah",
+  "abstract": "Saat ini sudah banyak diciptakannya mobile robot yang dapat bergerak ke segala arah serta memiliki fungsi sesuai dengan yang diinginkan, tetapi pembuatan mobile robot yang dapat menempuh medan yang sempit dan memiliki belokan-belokan yang tajam belum terealisasikan. Untuk membuat mobile robot yang dapat melewati medan tersebut haruslah robot yang dapat berbelok sampai sudut 90?. Dari ide ini, tugas akhir ini akan dibuat mobile robot yang mampu bergerak dan berbelok sampai sudut 90? tanpa harus membelokkan muka dari robot. Sistem ini dibuat tidak menggunakan sensor, melainkan menggunakan remote berkabel (remote berupa joystick). Sebagai driver dari remote digunakan IC LM3914. Data output dari remote akan diolah oleh microcontroller AT89C51. Agar tercapainya target di atas maka diperlukan mekanika robot yang tepat, sehingga mampu mendukung gerak robot, diantaranya digunakannya piringan meja makan yang sisi dalamnya dapat berputar. Roda penggerak menggunakan 2 buah roda yang masing-masing roda digerakkan oleh sebuah motor DC. Dengan demikian diharapkan robot dapat bergerak ke-8 arah tanpa mengubah posisi muka dari robot, yaitu muka robot tetap menghadap ke depan. Berdasarkan hasil pengujian, robot dapat bergerak 8 arah meskipun terjadi sedikit pergeseran muka dari robot.",
+  "creators": "HAMZAH FAJAR PUTRANTO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010734/ELK/2005; Hamzah Fajar Putranto (23400157)",
+  "subjects": "MOBILE ROBOTS; ROBOTS"
+}

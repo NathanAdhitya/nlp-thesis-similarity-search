@@ -1,0 +1,14 @@
+{
+  "id": "60913",
+  "title": "Electronic drum sticking pad dengan sound sample module dan speaker amplifier",
+  "abstract": "Drum Sticking Pad merupakan alat latihan yang esensial untuk pemain drum agar dapat melatih akurasi, teknik, ketepatan, dan ketahan tangan pemain drum. Mengetahui adanya perkembangan teknologi maka digabungkanlah Drum Practice Pad dengan Sound Sample Module dan Speaker Amplifier. Hal ini bertujuan untuk menambah keuntungan dan kemudahan bagi pemain drum untuk berlatih. Untuk saat ini belum ada pengembangan Drum Practice Pad yang dikembangkan dengan Sound Sample Module dan Speaker Amplifier. Electronic Drum Sticking Pad yang dibuat dalam tugas akhir ini dibuat menjadi tiga bagian utama yaitu Input pada Drum Pad menggunakan sensor piezoelektrik, Sound Sample Module yang menggunakan Arduino Uno Microcontroller dengan modul SD Card Reader DF Player MP3 Player, dan Speaker Amplifier yang menggunakan modul Power Amplifier PAM8403 menuju Speaker 3Watt 4Ohm. Input dari sensor piezoelektrik dapat mendeteksi keras dan pelannya pukulan yang dibaca oleh Arduino Uno Microcontroller. Arduino Uno Microcontroller dipasangkan kode untuk dapat membagi besar kecil sinyal pembacaan menjadi keras kecil pukulan dan dapat mengidentifikasi sinyal dari sensor yang berbeda. Arduino Uno Microcontroller juga dapat memanggil suara dari dalam SD Card Reader sesuai dengan Input yang diterima dari sensor piezoelektrik dan dikirimkan ke Power Amplifier PAM 8403 menuju ke Speaker. Electronic Drum Sticking Pad diuji rangkaian pembacaan piezoelektrik sensornya menggunakan bola bekel yang dijatuhkan pada ketinggian yang berbeda denga hasil yang menunjukkan hasil yang baik, diuji pemanggilan suara dari Sound Sample Module dengan hasil terdapat waktu keterlambatan yang cukup banyak antara pukulan dan keluarnya suara di Speaker Amplifier, dan diuji daerah pembacaan sensor piezoelektrik dengan hasil daerah pembacaan optimal untuk setiap sensor piezoelektrik adalah di sekitar titik tengah dengan jarak efektif hingga 3 cm dari pusat sensor.",
+  "creators": "JUSTIN JONES THUNGRIALLU",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Resmana Lim (Examination Committee 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011061/ELK/2024; Justin Jones Thungriallu (C11200012)",
+  "subjects": "AMPLIFIERS (ELECTRONICS); ARDUINO (PROGRAMMABLE CONTROLLER); SOUND-RECORDING AND REPRODUCING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "46417",
+  "title": "Perbaikan tata letak fasilitas dengan pendekatan simulasi pada segmen I PT X",
+  "abstract": "PT X adalah perusahaan pemutus sirkuit yang memproduksi berbagai jenis produk. Terdapat beberapa segmen produksi dan masing-masing segmen digunakan untuk menghasilkan satu jenis produk. PT X telah melakukan evaluasi atas tata letak fasilitas di segmen I, dan mendapati perlunya perbaikan tata letak fasilitas. Kekurangan dari tata letak saat ini adalah penempatan dari beberapa fasilitas, yang terletak di luar area yang tersedia untuk segmen I. Akan tetapi, pengaturan tata letak produksi yang baru tidak boleh mengurangi hasil produksi. Penataan ulang fasilitas produksi mahal, oleh karena itu simulasi digunakan untuk menganalisis tata letak yang diusulkan. Pendekatan simulasi digunakan untuk membandingkan tata letak awal dengan tata letak yang diusulkan. Model simulasi dibangun menggunakan perangkat lunak Promodel 10, dengan waktu simulasi 22,5 jam dan direplikasi 25 kali. Tata letak yang diusulkan diturunkan menggunakan metode algoritma evolusioner, dengan penyesuaian terhadap beberapa kendala dari tata letak awal. Tata letak yang diusulkan dapat menjawab kebutuhan segmen I, karena tidak ada fasilitas yang melebihi area yang ditentukan dan menghasilkan lebih banyak produk dalam sehari dibandingkan model awal.",
+  "creators": "ALOYSIUS FUNG ELNINO SENATRA",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Tanti Octavia (Examination Committee 1); Herri Christian Palit (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022268/IND/2020; Aloysius Fung Elnino Senatra (25416049)",
+  "subjects": "PLANT LAYOUT; PLANT LAYOUT--PLANNING"
+}

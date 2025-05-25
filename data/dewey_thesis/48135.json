@@ -1,0 +1,14 @@
+{
+  "id": "48135",
+  "title": "Gestur tangan untuk kendali turtlebot dan openmanipulator",
+  "abstract": "Tugas Akhir ini berfokus pada pembuatan program kontrol robot yang menggunakan gestur tangan. Program kontrol ini memanfaatkan Robot Operating System (ROS) sebagai platform pemrograman. Fitur dari program ini adalah melakukan kontrol terhadap robot turtlebot dan openmanipulator menggunakan gestur dan gerak tangan yang ditangkap kamera leap motion. Program ini terdiri dari 3 program berbeda yaitu program pendeteksi tangan, program kontrol turtlebot, dan program kontrol OpenManipulator. Program pendeteksi tangan menggunakan leap motion sebagai kamera untuk mendeteksi tangan dan leap motion API untuk memproses data tersebut. Program kontrol turtlebot menggunakan turtlebot_teleop_key sebagai referensi. Program kontrol OpenManipulator menggunakan library moveit_commander untuk menghitung dan menggerakkan robot. Pengujian sistem dilakukan dengan menguji kesuksesan program pendeteksi tangan dalam mengenali bentuk tangan yang terdeteksi, kesuksesan kontrol openmanipulator, serta waktu yang dibutuhkan program masing-masing program kontrol untuk menyelesaikan fungsinya. Hasil pengujian menunjukkan bahwa program pendeteksi tangan dapat dengan mudah mendeteksi bentuk tangan terbuka dan mengepal dengan tingkat kesuksesan 100%, namun cukup kesulitan mendeteksi bentuk tangan menjepit. Kesulitan ini disebabkan karena variabel yang digunakan untuk membedakan bentuk tangan tersebut tidak cukup detail. Pengujian kontrol robot menunjukkan bahwa program dapat dengan mudah menggerakkan turtlebot dengan rata-rata waktu proses 0.1 detik. Pengujian program kontrol openmanipulator menunjukkan bahwa penggunaan ik_solver lain (ikpy) yang terpisah dengan library moveit sebagai penggerak robot menghasilkan tingkat kesuksesan yang cukup tinggi, yaitu 70%.",
+  "creators": "ALEXANDER EDWARD HUTOMO",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Indar Sugiarto (Examination Committee 1); Handry Khoswanto (Examination Committee 2); Handy Wicaksono (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010999/ELK/2020; Alexander Edward Hutomo (23416018)",
+  "subjects": "ROBOT HANDS; ROBOTS--CONTROL SYSTEMS"
+}

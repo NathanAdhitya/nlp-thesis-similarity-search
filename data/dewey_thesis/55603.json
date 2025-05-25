@@ -1,0 +1,14 @@
+{
+  "id": "55603",
+  "title": "Kustomisasi modul manajemen proyek pada aplikasi ERP Odoo: studi kasus perusahaan teknologi PT X",
+  "abstract": "Perkembangan teknologi pada saat ini membuat teknologi informasi menjadi penting bagi dunia bisnis. Odoo merupakan salah satu aplikasi Enterprise Resource Planning (ERP) berbasis Open Source yang dapat saling terintegrasi antar modulnya. PT X merupakan perusahaan yang bergerak dalam bidang solusi teknologi informasi. Saat ini PT X telah menerapkan aplikasi Odoo ERP pada proses bisnisnya. Namun, modul-modul yang diterapkan belum terdapat modul manajemen proyek sehingga belum terintegrasi satu sama lain dengan modul yang sudah digunakan. Hal ini membuat adanya masalah yang muncul. Pertama, perusahaan membutuhkan waktu yang lama untuk mendapatkan data progres pekerjaan yang sudah selesai dari proyek yang sedang berjalan karena data tersebut harus dimintakan melalui karyawan yang bertugas dan data tersebut tidak masuk ke dalam sistem. Kedua, adanya masalah dalam penagihan ke klien yang terjadi karena proses pendataan laporan progress pekerjaan yang lama, seperti harus dilakukan pertemuan untuk mengetahui progres pekerjaan yang dibutuhkan untuk penagihan atau karyawan yang terlambat untuk melaporkan progres pekerjaan saat ini. Apabila tidak segera ditangani akan menimbulkan masalah pada arus kas perusahaan. Penelitian ini mengatasi masalah yang dihadapi PT X dengan membuat program Enterprise Resource Planning. Aplikasi Odoo memiliki kelebihan seperti kemudahan dalam konfigurasi dan kustomisasi modulnya. Untuk mengatasi permasalahan yang terdapat pada PT X maka dilakukan pengembangan pada modul manajemen proyek Odoo. Pengembangan pada modul ini akan dilakukan desain dan analisa terhadap alur kerja manajemen proyek pada PT X. Beberapa analisa terhadap program ERP akan dilakukan untuk mengukur kesuksesan implementasinya pada perusahaan. Analisa tersebut berupa analisa efisiensi waktu dalam pengerjaan proyek. Dari hasil analisa implementasi aplikasi Odoo ERP pada perusahaan dapat disimpulkan bahwa aplikasi Odoo ERP memberikan dampak yang positif bagi perusahaan. Dengan adanya program ini maka efisiensi waktu dalam pengerjaan proyek adalah 95,5% sampai 97,75% lebih cepat.",
+  "creators": "FELICIA RONALDI",
+  "contributors": "Yulia (Advisor 1); Kartika Gunadi (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Doddy Prayogo S.T. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022248/INF/2023; Felicia Ronaldi (C14180042)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; COMPUTING PLATFORMS; ENTERPRISE RESOURCE PLANNING (ERP); COMPUTER PROGRAMMING"
+}

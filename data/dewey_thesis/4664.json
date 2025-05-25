@@ -1,0 +1,14 @@
+{
+  "id": "4664",
+  "title": "Pembuatan man machine interface pada jaringan PLC untuk sistem keamanan miniatur kompleks perumahan",
+  "abstract": "Perkembangan teknologi yang cukup pesat, menyebabkan banyak industri menggunakan Man Machine Interface untuk memonitor dan mengontrol beberapa PLC. Tugas akhir ini dibuat dengan tujuan membuat Man Machine Interface pada jaringan PLC dengan menggunakan RS-232 to RS-485 converter sebagai media komunikasi antara komputer dan PLC, agar komputer dapat mengontrol atau memonitor beberapa PLC Sistem MMI (SCADA) dalam tugas akhir ini di desain dengan menggunakan VB 6.0 dan diaplikasikan pada Sistem Keamanan Kompleks Perumahan. Miniatur kompleks perumahan sederhana terdiri dari perangkat-perangkat limit switch sebagai tombol emergency, lampu sebagai lampu jalan, motor DC untuk portal masuk dan keluar. Program PLC menggunakan ladder diagram yang dibuat melalui software SYSWIN 3.0. Miniatur ini dikontrol oleh 2 PLC Omron CPM1 dengan menggunakan RS-232 to RS-485 converter sebagai media komunikasi antara PC dengan 2 PLC. Hasil pengujian menunjukkan bahwa semua fitur dalam program tersebut dapat berfungsi dengan baik. Waktu respon terhadap plant rata-rata 2,95 detik.",
+  "creators": "EDYSON LAO",
+  "contributors": "Thiang (Advisor 1); Handy Wicaksono (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010837/ELK/2007; Edyson Lao (23402140)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

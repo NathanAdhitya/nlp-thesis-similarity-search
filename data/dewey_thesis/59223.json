@@ -1,0 +1,14 @@
+{
+  "id": "59223",
+  "title": "Penjadwalan rute inventory order picking dengan menggunakan kombinasi algoritma pathfinding dan tabu search",
+  "abstract": "Gudang berperan penting dalam proses logistik. Peran krusial gudang dalam logistik menjadi semakin jelas ketika kekurangan dalam sistem order picking dapat menimbulkan tantangan serius dalam aspek waktu, tenaga kerja, dan biaya. Proses order picking manual memakan lebih dari 55% dari biaya operasional gudang (Bottani, et al., 2015). Pada skripsi ini telah dirancang aplikasi berbasis web yang akan memecahkan permasalahan yang telah dijelaskan sebelumnya. Aplikasi ini dirancang untuk menampilkan rute terpendek dalam proses order picking dengan memanfaatkan gabungan antara algoritma Pathfinding dan Tabu Search. Aplikasi ini memilih urutan optimal pengambilan barang dengan mengintegrasikan algoritma Pathfinding dan Tabu Search, kemudian menentukan rute pengambilan barang pada denah gudang dengan menggunakan algoritma A*. Hasil perbandingan antara algoritma Tabu Search, Pathfinding, dan kombinasinya menunjukkan bahwa penggunaan kedua algoritma secara bersama-sama menghasilkan rute yang secara keseluruhan lebih optimal (hingga 22,5% peningkatan dibandingkan dengan hanya menggunakan Pathfinding, serta hingga 17,3% jika dibandingkan dengan hanya menggunakan Tabu Search). Selain itu, algoritma kombinasi menunjukkan tingkat kestabilan yang lebih tinggi dibandingkan dengan penggunaan Tabu Search saja. Waktu komputasi untuk algoritma kombinasi cukup singkat, yaitu 23 detik untuk mengambil 100 barang.",
+  "creators": "PACQUITA MAHAMAYA TJANDRA",
+  "contributors": "Andreas Handojo (Advisor 1); Tanti Octavia (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Gregorius Satiabudhi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022429/INF/2024; Pacquita Mahamaya Tjandra (C14190073)",
+  "subjects": "ORDER PICKING SYSTEMS; TIME MANAGEMENT; WEB APPLICATIONS"
+}

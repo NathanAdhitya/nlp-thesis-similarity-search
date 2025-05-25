@@ -1,0 +1,14 @@
+{
+  "id": "4768",
+  "title": "Deteksi wajah dengan menggunakan metode principal component analysis",
+  "abstract": "Seiring perkembangan jaman, teknologi elektronika dan komputer mengalami kemajuan yang sangat pesat. Perkembangan ini mendorong berkembangnya teknologi computer vision dan image processing yang memungkinkan komputer dapat mengenali suatu citra (gambar) digital. Salah satu contohnya adalah sistem pengenalan wajah. Untuk dapat mengenali wajah, diperlukan suatu sistem pendeteksian wajah sebagai tahap awal. Tujuan utama dari tugas akhir ini adalah untuk mengimplementasikan sebuah aplikasi pendeteksian wajah menggunakan metode Principal Component Analysis. Aplikasi diwujudkan dengan menggunakan input berupa image yang ter-capture dari webcam atau melalui open file. Bahasa pemrograman yang digunakan untuk mengaplikasikan adalah Microsoft Visual C++ 6.0, dengan menggunakan library dari Open Source Computer Vision Library dan Intel Image Processing. Dari hasil pengujian yang dilakukan, tingkat keberhasilan program ini mencapai 88,125%.",
+  "creators": "ADRY",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010021/ELK/2004; Adry (23400152)",
+  "subjects": "ARTIFICIAL INTELLIGENCE"
+}

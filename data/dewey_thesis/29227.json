@@ -1,0 +1,14 @@
+{
+  "id": "29227",
+  "title": "Pembuatan currency market indicator pada metatrader",
+  "abstract": "PT X bergerak dibidang Future pasar valas dan pasar indeks. PT X memiliki trader-trader yang bermain dalam pasar valas dan indeks untuk memberikan keuntungan kepada klien. Tapi trader PT X memiliki beberapa permasalahan pada saat trading. Berdasarkan kuesioner yang disebar kepada 52 trader didapat data bahwa trader PT X memiliki tiga masalah utama yaitu kesulitan dalam menentukan kekuatan tren, kesulitan menentukan money management dan kesulitan dalam menentukan waktu di mana trader harus memasuki pasar. Berdasarkan latar belakang masalah tersebut trader membutuhkan indikator yang dapat mengukur kekuatan tren, mengatur money management dan memberikan informasi waktu yang tepat kapan trader harus memasuki pasar. PT X menggunakan Metatrader sebagai trading platform. Indikator dibuat dengan menggunakan metode candlestick pattern yang memanfaatkan adanya pembalikan arah market dengan bantuan indikator yang juga memanfaatkan adanya pembalikan arah seperti RSI dan Bollinger Bands. Indikator dibuat dengan konsep customize jadi trader dapat meng-customize indikator menurut keinginan dan cara trading, trader juga bisa menjadi ahli dalam menggunakan indikator agar dapat mendapatkan keuntungan yang maksimal. Setelah pengujian yang berulang-ulang dan analisa indikator dengan menggunakan metode backtesting, didapat bahwa indikator cocok bekerja dengan gabungan indikator Bollinger Bands pada time frame H4 dan indikator juga dapat membantu trader dalam menentukan money management sehingga trader dapat memberikan keuntungan kepada klien. Didapat tingkat retur sebesar 671% dalam jangka waktu 2 tahun dengan menggunakan 4 pasang mata uang dengan investasi $10,000 untuk setiap pasang mata uang.",
+  "creators": "TAN HENDRA WIJAYA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Resmana Lim (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021273/INF/2013; Tan Hendra Wijaya (26409050)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

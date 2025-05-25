@@ -1,0 +1,14 @@
+{
+  "id": "2985",
+  "title": "Perancangan dan pembuatan mixer audio digital dengan 4 buah input",
+  "abstract": "Pada Tugas Akhir ini dirancang sebuah mixer audio digital dengan 4 buah input dengan tujuan untuk menghilangkan kekurangan yang terdapat pada mixer analog antara lain terjadinya clipping dan distorsi akibat superposisi antara sinyal input. Dengan menggunakan saklar elektronis yang dikendalikan oleh rangkaian pengatur waktu ( timer circuit ), sinyal input akan di sampling secara bergantian. Metode yang digunakan untuk menggabungkan sinyal sample yang tidak terkuantisasi adalah dengan menggunakan metode Time Division Multiplexing ( TDM ). Pada desain rangkaian mixer audio digital dengan 4 buah input digunakan frekuensi sampling sebesar 800 kHz Dari hasil pengujian didapatkan respon frekuensi rangkaian antara 20 Hz sampai dengan 15 kHz, penguatan amplitudo sinyal input pada setiap channel sebesar 2 kali, dan nilai THD dari sistem audio mixer digital sebesar 6.208 %. Amplitudo sinyal output mengalami clipping ketika volume maksimum, dan masih terdapat distorsi antar line input.",
+  "creators": "STEFANUS WINARDI",
+  "contributors": "YOHANES T. D. S (Advisor 1); Handry Khoswanto (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010735/ELK/2005; Stefanus Winardi (23401001)",
+  "subjects": "AUDIO MIXER; SOUND-RECORDING AND REPRODUCING-DIGITAL TECHNIQUES"
+}

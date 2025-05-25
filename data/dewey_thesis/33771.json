@@ -1,0 +1,14 @@
+{
+  "id": "33771",
+  "title": "Pembuatan aplikasi objek removal dengan menggunakan exemplar-based inpainting",
+  "abstract": "Teknologi saat ini telah berkembang dengan pesat sehingga memudahkan pengambilan gambar. Namun seringkali terdapat objek yang tidak diinginkan pada gambar yang diambil. Masalah dapat timbul apabila objek tersebut dihilangkan dari gambar, karena akan menghasilkan ruang kosong pada gambar tersebut. Untuk mengatasi masalah tersebut, pengisian ruang kosong (target region) pada gambar dengan menggunakan metode novel based exemplar sebagai metode untuk pengisian gambar. Keunggulan dari metode ini adalah penggunaan urutan pengisian gambar yang dipengaruhi oleh nilai isophote dan jumlah source region. Hasil pengujian menunjukkan bahwa ukuran atau bentuk penyeleksian objek, gradasi, pembiasan warna sangat berpengaruh terhadap hasil inpainting. Prioritas sangat mempengaruhi pengambilan pada source region yang dicari. Gradien yang jelas tanpa dipengaruhi oleh pembiasan, gradasi warna dan blur akan membuat hasil inpainting yang alami.",
+  "creators": "FILBERT SUGIANTO M",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021224/INF/2013; Filbert Sugianto Manunggal (26409020)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES; COMPUTER GRAPHICS--COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10773",
+  "title": "Sistem pengeringan kayu buatan menggunakan sensor temperatur dan kelembaban tipe SHT75",
+  "abstract": "Desain sistem pengering kayu ini mengacu pada oven pengering kayu yang konvensional (conventional kiln dryer). Hal ini dikarenakan oven jenis ini paling mudah pengoperasiannya, efisien dan rendah biaya investasinya. Kadar air pada kayu yang sesuai standar adalah < 16 %RH (daerah Asia). Jadi, dibuatlah sebuah sistem yang dapat mengatur suhu dan kelembaban oven kayu, sehingga hasil yang diperoleh mempunyai kadar air yang sesuai dengan tuntutan tersebut. Mikrokontroler yang dipakai adalah Atmel ATmega8 yang memiliki performa dan fleksibilitas yang lebih tinggi dibandingkan keluarga MCS-51. Sensor SHT75 juga digunakan karena sensor ini terbukti memiliki sertifikat standar internasional ISO/IEC 17025. Pemanas menggunakan elemen panas seterika yang dihimpit oleh heatsink. Kipas pada cerobong berfungsi untuk mengambil udara bersih dari luar dan membuang udara lembab dari dalam. Pengujian dilakukan pada oven kayu miniatur. Hasil dari pengujian ini kemudian dicari korelasinya terhadap oven kayu yang sebenarnya. Dari pengujian yang telah dilakukan pada miniatur, diperoleh hasil kayu yang memiliki kadar air 16%RH dengan waktu selama ?24 jam. Sedangkan pada oven sebenarnya, didapatkan hasil kayu dengan kelembaban 16 %RH pada hari ketiga (?60 jam). Hasil percobaan miniatur ini dapat menjadi pembanding dengan oven besar karena pengaturannya sama-sama memperhatikan kelembaban dan temperatur.",
+  "creators": "SEHAT DIROJO KUSUMO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010854/ELK/2008; Sehat Dirojo Kusumo (23403025)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

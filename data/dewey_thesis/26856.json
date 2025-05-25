@@ -1,0 +1,14 @@
+{
+  "id": "26856",
+  "title": "Studi perbandingan analisa P-Delta",
+  "abstract": "Analisa Second Order dibedakan menjadi dua bagian yaitu \"Analisa Second Order\" dan \"Analisa P-Delta\". Sedangkan untuk Analisa P-Delta sendiri dibedakan menjadi dua bagian lagi yaitu \"Iteratif\" dan \"Non iteratif\", untuk yang iteratif terdiri dari cara Fictitious Lateral dan cara Fictitious Gravity sedangkan untuk yang non iteratif terdiri dari cara Fictitious Bracing dan Fictitious Column. Pada Skripsi/Tugas Akhir ini telah dibandingkan cara Fictitious Lateral, Fictitious Gravity, Fictitious Bracing dan Fictitious Column dengan Analisa Second Order, ternyata cara yang paling mendekati Analisa Second Order adalah cara Fictitious Lateral dan Fictitious Gravity. Selain itu juga dibandingkan antara peraturan yang membahas mengenai efek P-Delta seperti PBI'89, AISC, CANADIAN, ACI dan PPBBI'83 dengan Analisa Second Order, ternyata peraturan-peraturan ini memberikan hasil yang lebih besar dari Analisa Second Order kecuali PPBBI'83 yang memberikan hasil lebih kecil dari Analisa Second Order. Dalam Skripsi/Tugas Akhir ini juga diberikan contoh design kolom berdasarkan Peraturan dan design kolom berdasarkan Analisa P-Delta di sini dipakai cara Fictitious Bracing. Berdasarkan hasil yang telah diperoleh dianjurkan untuk mempergunakan cara Fictitious Lateral atau Fictitious Gravity dalam memperhitungkan efek P-Delta di dalam perencanaan struktur, mengingat ke dua cara ini cukup mudah pengerjaannya.",
+  "creators": "SUPARTO LIAUWNOTO; HADI SUSANTO ADIWIJAYA",
+  "contributors": "Ir. GIDEON HADI KUSUMA, M.Eng. (Advisor 1); Benjamin Lumantarna (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 432 S; Suparto Liauwnoto (285023), Hadi Susanto Adiwijaya (285033)3",
+  "subjects": "P-DELTA-ANALYSIS-COMPUTER PROGRAMS"
+}

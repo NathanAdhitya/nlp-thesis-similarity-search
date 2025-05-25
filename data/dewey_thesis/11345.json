@@ -1,0 +1,14 @@
+{
+  "id": "11345",
+  "title": "Perencanaan dan pembuatan alat penulis dan pembaca kartu magnetik dan digunakan sebagai telepon kartu dalam suatu lingkup tertentu dengan bantuan mikrokontroller 8031",
+  "abstract": "Kartu magnetik adalah kartu plastik ukuran saku yang dilengkapi dengan media magnetik untuk menyimpan data. Kartu ini banyak dipakai pada masa sekarang sebagai kartu kredit, kartu absen, kartu mahasiswa, sampai dipakai sebagai kunci rahasia disuatu bangunan tertentu. Untuk membaca kartu magnetik diperlukan pembaca kartu magnetik. Pembaca kartu magnetik serta menulis ke dalam kartu magnetik diperlukan sebuah head baca/tulis yang ada dipasaran, dan dengan bantuan minimum sistem 8031. Dengan sistem yang ada padanya, 8031 merupakan suatu chip yang sangat handal. Studi kepustakaan serta pengumpulan data mengenai kartu magnetik biasanya hanya terdapat proses baca saja, sedangkan pada proses pengisian pada kartu magnetik tidak pernah diketahui, karena dipasaran tidak terdapat data-data standart pengisian data untuk kartu magnetik. Oleh sebab itu dalam proyek tugas akhir ini tidak memakai standart yang umum dipakai dipasaran, tetapi hanya berdasarkan sistem magnetisasi yang ada pada kartuj maka dengan dasar itulah dapat kita simpan suatu data dalam bentuk sinyal. Dalam proses penulisan dan pembacaan kartu magnetik dibantu dengan sebuah kontroller yaitu mikrokontroller 8031, dan ,juga data yang ada pada kartu magnetik ditampilkan oleh sebuah display LCD, dan dengan bantuan IC MT8880 dapat kita peroleh nomer tombol yang ditekan dari teiepon yang akan diubah menjadi data-data binary.",
+  "creators": "KURNIAWAN HANDOKO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Murtiyanto Santoso (Advisor 1); IRWAN SAHLI (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi no. 95/E/EL/008/0211; Kurniawan Handoko (23488071)",
+  "subjects": "TELEPHONE, AUTOMATIC-MAGNETIC CARD"
+}

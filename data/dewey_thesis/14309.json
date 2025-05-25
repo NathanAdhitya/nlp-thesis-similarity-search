@@ -1,0 +1,14 @@
+{
+  "id": "14309",
+  "title": "Pengendalian peralatan listrik pada ruangan melalui perintah suara manusia berbasis jaringan saraf tiruan",
+  "abstract": "Pada tugas akhir ini dibuat suatu sistem pengenalan suara manusia dengan jaringan saraf tiruan metode back propagation dengan bantuan personal computer. Jaringan saraf tiruan yang dibuat maksimal merapunyai 5 layer dengan hidden layer maksimal 3 buah, input layer 1 buah, dan output layer 1 buah. Jumlah node maksimal untuk masing-masing layer (kecuali output layer) adalah 30 node dan jumlah node pada output layer adalah 1 node. Suara manusia yang diinputkan melalui microphone disampling dengan frekuensi sampling 11.000 Hz, 8 bit, mono Dari penyamplingan ini didapat suatu sinyal diskrit dengan amplitudo 0 sampai 255 (8 bit). Dari sinyaJ diskrit yang ada dilakukan proses Fast Fourier Transforms (FFT) dengan jumlah data (N) =8192 data Hasil FFT dibagi dalam beberapa blok untuk dicari nilai rata-ratanya dan setelah dinormalisasi digunakan sebagai input bagi jaringan saraf tiruan. Setelah dilakukan pengujian ternyata didapat arsitektur jaringan yang optimum yaitu terdiri dari 2 sampai 3 hidden layer dengan jumlah node 15 sampai 30 node pada masing-masing hidden layer. Pada tugas akhir ini digunakan arsitektur 20 * 25 * 15 * 1 dengan gain-term 0,3 dan momentum-terrr. 0,7. Pengujian juga dilakukan pada FFT untuk mengetahui pcrformancenya. Ternyata meskipun hasil FFT sudah benar, tetapi masih didapatkan error yang cukup besar yaitu 22,5 %. Hal ini cukup untuk memberikan gambaran bahwa masih diperlukan proses tambahan untuk mengambil parameter dari hasil FFT sebelum diinputkan ke JST. Pengenalan suara diaplikasikan untuk mengendalikan peralatan listrik pada ruangan, sehingga pengendalian peralatan listrik akan lebih mudah karena tanpa melakukan suatu pensaklaran.",
+  "creators": "UDI WIJAYA",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/014/408; Udi Wijaya (23494012)",
+  "subjects": "AUTOMATIC CONTROL; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

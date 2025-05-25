@@ -1,0 +1,14 @@
+{
+  "id": "3155",
+  "title": "Perancangan mobile robot pencari sasaran dengan beacon frekuensi infra merah",
+  "abstract": "Aplikasi mobile robot dalam pelaksanaan tugas akhir sudah banyak, tetapi belum ada yang mengaplikasikan mobile robot dalam fungsi mencari dan membawa suatu sasaran. Dalam pelaksanaan tugas akhir ini, sebuah mobile robot dirancang dan dibuat untuk dapat menemukan sebuah sasaran yang diperintahkan kepada robot melalui penekanan tombol dan membawanya ke sasaran lain yang didefinisikan sebagai home base. Tiap sasaran, termasuk home base dan mobile robot sendiri dilengkapi dengan sebuah transmitter dan receiver sinyal infra merah sehingga memungkinkan adanya sebuah komunikasi antara modul-modul tersebut. Adanya sistem komunikasi tersebut juga memungkinkan mobile robot untuk mengindentifikasi sasaran tertentu sehingga mobile robot dapat memilih sasaran yang akan didekati dan dibawa menuju home base sesuai dengan perintah yang diberikan. Pengujian sistem ini dilakukan dalam kombinasi dari empat kondisi yaitu luas ruangan, waktu pelaksanaan pengujian (siang atau malam hari), pemberian penutup khusus pada sensor serta posisi sasaran dan mobile robot. Dari pengujian didapatkan bahwa mobile robot dapat berfungsi dengan baik pada kondisi menggunakan penutup sensor dan dalam posisi saling berhadapan dengan sasaran. Pada percobaan yang dilakukan dengan jarak sekitar 1 meter tingkat keberhasilan untuk mencapai sasaran sekitar 97,5% dan tingkat keberhasilan untuk membawa sasaran ke home base dengan kondisi yang sama adalah 75%.",
+  "creators": "ANDREW KOENTJORO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/015/561; Andrew Koentjoro (23497006)",
+  "subjects": "ROBOTS; MOBILE ROBOTS; ROBOTS-CONTROL SYSTEMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "39224",
+  "title": "Aplikasi private cloud storage untuk menyimpan data operasional program studi teknik informatika menggunakan open source",
+  "abstract": "Pada masa sekarang ini, Program Studi Teknik Informatika dan Sistem Informasi Bisnis Universitas Kristen Petra Surabaya telah memiliki shared folder yang digunakan untuk menyimpan data yang berhubungan operasional jurusan, seperti data nilai mahasiswa, data peserta mahasiswa aktif, dan foto-foto yang dimiliki oleh jurusan. Namun shared folder ini sangat rentan untuk dibobol karena jika seorang pihak lain di luar staff dan dosen dari program studi Teknik Informatika memiliki akses pada komputer dengan shared folder tersebut, maka pihak lain tersebut sudah bisa membobol data yang terdapat di dalam data tersebut. Shared folder tersebut juga masih sulit untuk diakses oleh smartphone, karena tidak memiliki aplikasi yang memudahkan user untuk mengakses folder tersebut. Aplikasi Private Cloud Storage ini menggunakan bahasa pemrograman PHP dan Javascript, dan Java untuk aplikasi mobile. Server yang digunakan oleh aplikasi ini menggunakan komputer yang didedikasikan untuk server ini dan dapat diakses dengan Public IP. Hasil akhir dari pengembangan aplikasi ini adalah pengguna dapat mengakses file-filenya dari smartphone yang dimiliki oleh pengguna. Aplikasi juga memiliki verifikasi terhadap device yang digunakan sehingga tidak sembarang orang bisa masuk dan melakukan login ke dalam account pengguna pada aplikasi mobile. Pengguna juga bisa membagikan data di dalam akun pengguna kepada pengguna dan juga kepada grup. Pengguna juga dapat mengedit dokumen- dokumen di dalam cloud storage di dalam aplikasi di dalam web.",
+  "creators": "MICHAEL ADI",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Andreas Handojo (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021609/INF/2017; Michael Adi (26413007)",
+  "subjects": "APPLICATION SOFTWARE-DEVELOPMENT; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (COMPUTER PROGRAM)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "9739",
+  "title": "Pembuatan aplikasi web mesin harvester open archives",
+  "abstract": "Koleksi penelitian digital dari berbagai sumber yang terintegrasi dengan baik bisa membantu peneliti dalam mengolah informasi yang dibutuhkan untuk penelitian. Open Archives merupakan salah satu teknologi open source terbaru yang bisa digunakan untuk mengintegrasikan koleksi penelitian digital dengan cara melakukan standarisasi dalam proses pertukaran data. Aplikasi koleksi penelitian berbasis Open Archives yang dibuat nantinya akan diimplementasikan dan diuji coba di Pusat Penelitian Universitas Kristen Petra. Tujuan dari tugas akhir ini adalah untuk membangun harvester dalam hubungannya dengan teknologi Open Archives. Tujuan lain dari tugas akhir ini adalah melakukan pengembangan terhadap service provider yang dimiliki pusat penelititan Universitas Kristen Petra dengan menambahkan beberapa fitur, sehingga service provider dapat mengolah metadata artikel dari data provider dengan menggunakan protokol Open Archives. Harvester koleksi penelitian digital akan dibangun menggunakan platform Apache sebagai web server, MySQL sebagai database engine, dan PHP sebagai scripting engine.",
+  "creators": "ARIFIN TJANDRA",
+  "contributors": "Resmana Lim (Advisor 1); Arlinah Imam Rahardjo (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010711/INF/2008; Arifin Tjandra (26404060)",
+  "subjects": "INTERNET PROGRAMMING; INTERNET (COMPUTER NETWORK)"
+}

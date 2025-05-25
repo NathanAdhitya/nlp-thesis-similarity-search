@@ -1,0 +1,14 @@
+{
+  "id": "16783",
+  "title": "Pembuatan program file manager berbasis windows dilengkapi fasilitas preview file dan kemampuan manajemen file dari jaringan komputer",
+  "abstract": "Media penyimpanan merupakan suatu komponen yang penting bagi pemakai komputer. Kegunaannya sebagai komponen penyimpan data, program, dan masih banyak lagi menjadikan media penyimpanan memerlukan suatu penanganan tersendiri. Dengan perkembangan program dan data komputer, maka kebutuhan suatu program yang digunakan untuk mengorganisasi media penyimpanan semakin tinggi. Teknologi jaringan komputer menambah kompleksitas organisasi media penyimpanan, karena beberapa media penyimpanan menjadi satu. Dalam pembuatan program pada tugas akhir ini menggunakan fungsi-fungsi yang telah dibuat oleh Microsoft untuk melakukan akses pada media penyimpanan. Isi dari media penyimpanan dianggap sebagai suatu objek yang mempunyai spesifikasi khusus dan memerlukan penanganan spesifik. Objek ini disebut OLE COM object. Program pada tugas akhir ini menyediakan fasilitas organisasi file dengan tampilan treeview dan listview serta menyediakan fasilitas preview dari file image, video dan suara. Fasilitas tersebut mampu mendukung pengorganisasian yang baik dari media penyimpanan. Proyek tugas akhir ini juga mencakup bagaimana filesystem Linux dapat diterima oleh sistem Windows. Filesystem Linux dan windows yang berbeda dapat dijembatani oleh Samba, suatu program resident pada server Linux. Hal ini menambah kemudahan bagi user karena selama ini sistem Linux termasuk sulit bagi user yang terbiasa menggunakan sistem windows. Konfigurasi server Samba yang tepat dapat membuat server Linux dapat muncul sebagai suatu resources pada Network Neighborhood. Implementasi dari proyek tugas akhir ini telah berhasil membuat suatu program file manager dengan fasilitas-fasilitas seperti di atas, dengan menggunakan bahasa pemrograman Borland Delphi 4.0.",
+  "creators": "MARIO DANIEL TRIMAN",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/KOM/012/051; Mario Daniel Triman (23492136)",
+  "subjects": "DATABASE MANAGEMENT; FILE ORGANIZATION (COMPUTER SCIENCE); SOFTWARE ENGINEERING"
+}

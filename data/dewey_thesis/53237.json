@@ -1,0 +1,14 @@
+{
+  "id": "53237",
+  "title": "Deteksi plagiarisme pada kode bahasa pemrograman java menggunakan xgboost",
+  "abstract": "Dengan adanya kemudahan akses informasi dan teknologi cloud server memudahkan siapa saja untuk mengakses code tersebut. Ditambah lagi dengan zaman industri 4.0 sehingga jumlah mahasiswa informatika yang semakin banyak. Hal tersebut membuat tindakan plagirisme code khususnya di lingkungan akademis semakin mudah dilakukan. Faktanya, proses pengecekan plagiarisme source code secara manual merupakan tugas yang repetitif, sulit, dan memerlukan waktu yang lama. Dengan demikian, otomasi untuk deteksi plagiarisme source code yang memiliki kualitas tinggi sangat dibutuhkan. Dataset yang digunakan untuk penelitian ini dikumpulkan dari kelas Dasar Pemrograman Universitas Kristen Petra. Setelah itu kode akan melewati tahapan preprocessing tokenisasi menggunakan grammar Java. Lalu, algoritma akan menghitung pairwise features dengan menggunakan 3 algoritma utama, yaitu levenshtein distance, greedy string tiling, dan bigram yang akan menghasilkan 12 features dan kumpulan feature statistik. Di langkah akhir, features akan digunakan untuk proses training maupun inference pada model XGBoost. Hasil pengujian menunjukkan bahwa menggunakan features yang diajukan beserta preprocessing memiliki performa metrik yang lebih baik dari penelitian sebelumnya, yaitu f1-score sebesar 99%. Penerapan preprocessing juga dapat meningkatkan performa metrik pada features yang diajukan di di penelitian sebelumnya.",
+  "creators": "TOMY",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022146/INF/2022; Tomy (C14180006)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PLAGIARISM; PROGRAMMING (ELECTRONIC COMPUTERS); JAVA (COMPUTER PROGRAM LANGUAGE)"
+}

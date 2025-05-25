@@ -1,0 +1,14 @@
+{
+  "id": "8651",
+  "title": "Optimasi metode principal component analysis dan Hidden Markov pada pengenalan wajah",
+  "abstract": "Seiring dengan perkembangan jaman, metode pengenalan wajah merupakan metode yang cukup berkembang belakangan ini. Beberapa metode dari pengenalan wajah yang sudah banyak dipelajari diantaranya Principal Component Analysis (PCA) dan Hidden Markov Model (HMM). Komputer yang dihubungkan dengan WebCam atau CCTV dapat dipergunakan untuk menjalankan metode-metode di atas. Namun pada kenyataanya sering terjadi kesalahan dalam pendeteksian. Cara terbaik untuk meminimalkan kesalahan yang terjadi adalah dengan memanipulasi parameter dari masing-masing metode sehingga mencapai struktur yang ideal. Tujuan tugas akhir ini adalah mengoptimalkan penggunaan metode pengenalan wajah khususnya PCA dan HMM. Untuk itu dilakukan pengujian terhadap masing-masing metode. Pengujian PCA dilakukan dengan mengganti parameter Eigen feature dan jumlah image training per individu. Sedangkan untuk HMM dilakukan pengujian variasi struktur Hidden Markov, Number of Mixture, Sampling window, DCT Coefficient, dan Sampling step. Dalam penelitian ini, kita membuat program yang berfungsi hanya untuk menguji parameter metode PCA, karena program pengujian parameter metode HMM telah dibuat oleh Arie Margono. PCA dibuat dengan program Microsoft Visual C++.NET sedangkan HMM dengan versi sebelumnya, dan keduanya dibantu dengan library dari Intel Image Processing dan Intel Open Source Computer Vision. Hasil pengujian sistem metode PCA menunjukkan bahwa, dengan memanipulasi parameter Eigen feature menjadi 40 atau 60 dan memperbanyak jumlah image training per individu menjadi 7 atau 10 image, persen kebenaran maksimal yang diperoleh adalah 94,6%. Sedangkan untuk hasil metode HMM, ditemukan susunan struktur yang ideal 3-6-6-3 atau 3-6-6-6-3, Number of Mixture 3, Sampling window 12 x 12, DCT Coefficient 3 x 3, Sampling step 4 x 4 atau 8 x 8. Dengan menggunakan struktur parameter di atas, persen kebenaran maksimal yang diperoleh adalah 97%.",
+  "creators": "BUDI ERWANTO",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010028/ELK/2005; Budi Erwanto (23401022)",
+  "subjects": "COMPUTER VISION; PATTERN RECOGNITION SYSTEMS"
+}

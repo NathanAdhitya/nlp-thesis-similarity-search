@@ -1,0 +1,14 @@
+{
+  "id": "28676",
+  "title": "Perancangan dan pembuatan indikator prediksi pada currency market menggunakan metode neuro-fuzzy",
+  "abstract": "Indikator teknikal adalah salah satu instrumen analisis untuk membantu trader dalam menganalisa pergerakan harga forex melalui chart. Indikator prediksi adalah indikator teknikal buatan yang dapat membantu trader dalam melihat pergerakan harga forex ke depan. Informasi prediksi ini kemudian menjadi salah satu dasar dalam pengambilan keputusan trading. Skripsi ini bertujuan untuk membuat sebuah indikator prediksi pada MetaTrader yang dapat memberikan informasi lima prediksi harga forex menggunakan metode Neuro-Fuzzy. Sistem Neuro-Fuzzy membutuhkan parameter masukan pada proses prediksi sistem yang didapatkan dari proses training sistem. Parameter tersebut dapat melalui proses optimasi atau tanpa optimasi. Kemudian, indikator prediksi juga akan melakukan pengambilan keputusan trading berdasarkan analisa indikator prediksi, RSI dan Stochastic. Akhirnya, informasi keputusan trading akan ditampilkan pada pages Facebook. Hasil pengujian indikator prediksi berjalan dengan baik berdasarkan sebuah sistem trading. Indikator prediksi dengan parameter sebelum optimasi baik digunakan pada pair EURUSD timeframe H4 tahun 2012 dengan prediksi keuntungan sebesar USD 16.499. Sedangkan indikator prediksi dengan parameter setelah optimasi baik digunakan pada pair EURUSD timeframe H1 tahun 2012 dengan prediksi keuntungan sebesar USD 21.945. Informasi keputusan trading juga berhasil ditampilkan pada pages Facebook.",
+  "creators": "RONALD LIMOWA LIE",
+  "contributors": "Felix Pasila (Advisor 1); Resmana Lim (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010122/ELK/2013; Ronald Limowa Lie (23409015)",
+  "subjects": "FUZZY SYSTEMS; NEURAL NETWORK (COMPUTER SCIENCE); SOFT COMPUTING; ARTIFICAL INTELLIGENCE"
+}

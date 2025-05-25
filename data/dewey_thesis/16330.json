@@ -1,0 +1,14 @@
+{
+  "id": "16330",
+  "title": "Perhitungan biaya pemuat dan truk curah untuk proyek pemindahan tanah dengan bantuan program foxpro",
+  "abstract": "Permasalahan yang sering dihadapi oleh pihak kontraktor dalam pemindahan tanah mekanis adalah kecermatan dalam perencanaan yang berkenaan dengan peralatan yang akan dipakai, jadwal waktu pelaksanaan dan estimasi biaya. Permasalahan yang berkaitan dengan peralatan yaitu pemiiihan peralatan yang sesuai dengan pekerjaan yang dikerjakan, penentuan jumlah pemuat (loader)-tmk curah (dump truck), dan penentuan biaya total sehubungan dengan jadwal waktu yang direncanakan. Permasalahan tersebut dapat diatasi dengan membuat suatu program komputer. Program komputer ini dapat menghitung jumlah pemuat-truk curah yang diperlukan sesuai dengan waktu dan biaya yang telah direncanakan. Kelebihan yang dirasakan oleh pemakai adalah dalam segi kecepatan proses perhitungan. Proses perhitungan dapat dilakukan dengan cepat karena didukung oleh database yang terdapat pada program FoxPro yang digunakan. Hal-hal yang perlu dilakukan dalam program aplikasi ini antara lain mengisikan data-data yang berhubungan dengan kondisi lapangan pada proyek yang akan dikerjakan, mengisikan data-data pemuat-truk curah dan kondisi lapangan, menampilkan biaya total pemuat-truk curah dengan beberapa altematif biaya untuk memperoleh peralatan tersebut. Hasil akhir merupakan suatu laporan yang berisi data-data volume tanah yang dipindahkan, jadwal pelaksanaan pekerjaan, jumlah pemuat-truk curah yang dibutuhkan, altematif pemenuhan kebutuhan peralatan bila peralatan yang dimiliki tidak mencukupi, biaya masing-masing peralatan dan biaya total yang harus dikeluarkan.",
+  "creators": "TEGUH SUTANTO; EDDY WIBOWO",
+  "contributors": "Ratna S. Alifen (Advisor 1); Paulus Nugraha (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 807 S; Eddy Wibowo (21492063), Teguh Sutanto (21492116)",
+  "subjects": "EXCAVATION-ESTIMATES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8177",
+  "title": "Pembuatan sistem corporate messenger pada jaringan LAN",
+  "abstract": "Corporate messenger merupakan suatu aplikasi yang dapat digunakan untuk berkomunikasi dalam sebuah local area network. Hal ini dilatarbelakangi oleh perlu adanya proses pengiriman pesan secara bersama-sama dalam sebuah Local Area Network. Pesan yang ingin dikomunikasikan tidak hanya berupa teks, tetapi dapat juga menggunakan video maupun audio Komputer client akan melakukan koneksi dengan server. Jika sudah terjadi koneksi dengan server, maka client tersebut akan melanjutkan dengan autentikasi dan kemudian dapat melakukan pengiriman pesan dengan client yang telah terdaftar dalam database server. Pengiriman pesan audio dan video terjadi dengan koneksi peer to peer dengan terlebih dahulu memasukkan IP address dari remote user yang ingin diajak berkomunikasi. Pengujian dilakukan dengan menggunakan tiga buah komputer dan diperoleh bahwa proses autentikasi dapat berjalan dengan baik, pengiriman pesan teks dapat dilakukan dengan baik dan komunikasi dengan menggunakan audio dapat didengar dengan jelas. Khusus untuk pengiriman pesan dengan menggunakan video dapat langsung dilihat pada remote client. Rata-rata waktu yang dibutuhkan untuk menampilkan video pada remote client adalah 3.71 detik.",
+  "creators": "REMUZ MB KMURAWAK",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010062/ELK/2007; Remuz MB Kmurawak (23402175)",
+  "subjects": "CLIENT/SERVER COMPUTING; LOCAL AREA NETWORKS (COMPUTER NETWORKS); MESSENGERS (COMPUTER PROGRAMS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5271",
+  "title": "Perencanaan dan pembuatan sistem automasi proses produksi minuman dengan sistem scada menggunakan PLC",
+  "abstract": "Dunia industri membutuhkan suatu proses produksi yang dapat dioperasikan secara berurutan dari proses yang satu ke proses yang lain tanpa harus memakai tenaga manusia yang banyak. Untuk masalah itu, dibutuhkan sistem automasi yang dapat dijalankan dan dioperasikan dari satu pusat. SCADA dengan menggunakan PLC banyak dipakai dalam proses industri karena mampu menjawab se mua masalah dalam mengontrol aplikasi industri secara otomatis. Pada tugas akhir ini akan dibuat simulasi plan dari proses produksi minuman beserta dengan desainnya. Plan yang akan digunakan meliputi : pompa, mixer, valve, dan heater. Plan tersebut akan dioperasikan menggunakan PLC Omron C-200 HS yang akan disambungan ke SCADA Intouch, buatan Wonderware. Hasil dari desain simulasi plan didapatkan daya poros pompa minimal sebesar 6,788 Watt. Untuk mixer dibutuhkan motor dengan kecepatan 114 rpm. Juga dibutuhkan waktu 01:44:21.64 dengan daya heater 1000 Watt. Sedangkan untuk desain valve minimal dibutuhkan valve yang mampu menahan tekanan fluida sampai 106,4096 KPa. Komunikasi antara PLC Omron dengan SCADA Intouch dilakukan dengan menggunakan Host Link RS232c dengan program I/O Servers.",
+  "creators": "NELSON KUSUMA RAHARDJA",
+  "contributors": "Felix Pasila (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 01/468/ELK/2003; Nelson Kusuma Rahardja (23499008 )",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS; SCADA (SOFTWARE SUPERVISOR CONTROL AND DATA ACQUISITION)"
+}

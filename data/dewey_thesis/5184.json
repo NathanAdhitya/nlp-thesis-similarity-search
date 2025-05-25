@@ -1,0 +1,14 @@
+{
+  "id": "5184",
+  "title": "Mesin presensi menggunakan RFID",
+  "abstract": "Belakangan ini, kegunaan teknologi telah diimplementasikan pada sistem presensi menggantikan sistem manual yang kurang efisien. Misalnya magnetic card dan barcode card. Akan tetapi, masih ditemukan beberapa kekurangan pada kedua teknologi tersebut. Misalnya, tidak tahannya barcode card pada goresan, tidak tahannya magnetic card pada medan magnet, dan mudahnya duplikasi pada barcode card. Sehingga mendorong dilakukannya penyempurnaan pada sistem presensi. Untuk mengatasi kelemahan-kelemahan yang terdapat pada sistem presensi yang ada, digunakan sistem RFID. Hal ini disebabkan karena kartu (disebut juga tag) pada sistem RFID mempunyai banyak kelebihan. Antara lain, tahan terhadap goresan, air, medan magnet, panas, dan tidak dapat diduplikasi. Selain itu pendeteksian tag oleh sensor RFID dapat dilakukan tanpa terjadi persinggungan walaupun terhalang oleh benda berbahan non-metal. Untuk menunjukkan kelebihan sistem RFID, sebuah prototype mesin presensi diimplementasikan. Kemudian dilakukan pengujian pada mesin presensi dan juga ketahanan dari tag. Didapatkan hasil bahwa mesin presensi menggunakan RFID ini dapat menyimpan sebanyak 1000 data pekerja (nomor ID, nomor tag, PIN, dan nama) dan 4000 data presensi. Sensor RFID dapat mendeteksi tag dengan jarak maksimum sekitar 7,5 cm dari arah atas sensor. Kelemahan-kelemahan yang ditemukan pada sistem presensi yang telah ada dapat teratasi. Akan tetapi, pada aplikasi sesungguhnya dibutuhkan mesin presensi lebih dari satu untuk menangani jumlah pekerja yang besar. Pada akhirnya dapat ditarik kesimpulan bahwa mesin presensi menggunakan RFID dapat digunakan sebagai alternatif sistem presensi yang ada, baik yang secara manual maupun yang menggunakan teknologi.",
+  "creators": "PAULUS",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Aditya Umbu Tana Amah (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/675/ELK/2003; Paulus (23499099)",
+  "subjects": "ELECTRIC CONTROLLERS"
+}

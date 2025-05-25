@@ -1,0 +1,14 @@
+{
+  "id": "12869",
+  "title": "Pengaturan kecepatan motor 1 phasa tegangan 220V 30 watt (1400 RPM) dengan metoda varabel tegangan-variabel frekuensi menggunakan mikrokontroller 8031",
+  "abstract": "Dalam tugas akhir ini dibahas tentang pengaturan kecepatan motor dengan merubah frekuensi input yang diberikan ke motor induksi. Untuk menunjang cara pengaturan ini digunakan variabel tegangan-variabel frekuensi. Untuk merealisasikan metoda tersebut digunakan digital berbasis mikrokontroler 8031 yang menghasilkan PWM. Sistem dibuat close loop dengan umpan balik berupa pulsa yang dihasilkan dari pembacaan sensor kecepatan. Dengan sistem ini diharapkan respon pengaturan yang dibuat akan bekerja dengan baik, selain itu akan mempermudah pengoperasian pengaturan kecepatan mtotr. Dari hasil pengujian ternyata sistem hanya dapat bekerja secara open loop dengan lebar pengaturan yang sempit. Hal ini disebabkan adanya kesalahan pada sistem umpan balik.",
+  "creators": "SURJONO RAHARDJO",
+  "contributors": "BUNAWI GUNAWIDJAJA (Advisor 1); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/TST/015/294; Surjono Rahardjo (23491020)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; MICROCONTROLLER 8031"
+}

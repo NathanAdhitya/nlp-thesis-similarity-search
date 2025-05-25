@@ -1,0 +1,14 @@
+{
+  "id": "2488",
+  "title": "Kontrol robot mobil melintasi maze dengan menggunakan sensor kamera",
+  "abstract": "Munculnya mikroprosesor dengan kecepatan mencapai gigahertz bahkan lebih, bentuk kamera yang semakin kecil, harga kamera yang semakin murah dan bandwith dari video capture melalui USB2 yang bertambah 10 kali Iipat memungkinkan mengaplikasikan computer vision dan image processing untuk menghasilkan suatu teknologi untuk dapat membuat keputusan yang terbaik mengenai obyek fisik nyata dan pemandangan atau scenes berdasarkan unuge dari sensor kamera. Salah satu aplikasinya yaitu robot mobil menelusuri maze dengan menggunakan sensor kamera. Kamera mendeteksi posisi robot mobil, dimana informasi dari posisi robot mobil dikinm ke komputer untuk diproses dalam program untuk mengendalikan robot mobil dari tempat start ke tempat fmish. Kontrol robot mobil pada maze dengan menggunakan sensor kamera, dibuat unluk mengendalikan jalannya robot mobil dengan menambahkan sensor kamera yang dihubungkan dengan PC. Pengontrolan robot mobil menggunakan mekanik Motor DC. Metode pengenalan atau pengontrolan robot mobil dengan menggunakan sensor kamera adalah metode statistical signal processing tepatnya algoritma CamShift dari Open Source Computer Vision Library, yang menghasilkan orientasi ukuran dan titik pusat dari suatu obyek yang diproses. Informasi yang dihasilkan, dipergunakan untuk mengontrol robot mobil dalam menelusuri maze dari tempat slart ke tempat finish. Kontrol robot mobil dengan menggunakan sensor kamera ini dibuat dengan menggunakan Microsoft Visual C++ 6.0?, Microsoft? DirectShow?, Open Suurce Cumputer Vision Librury dan INTEL Performance Library. Pengontrolan robot mobil dalam menelusuri maze masih mempunyai kelemahan-kelemahan seperti dalam mencari path maze belum bisa dilakukan secara otomatis dari program, baru bisa dilakukan secara manual, pengaruh efek cahaya dalam mendeteksi path maze belum memberikan hasil yang baik, untuk mencari corner pada path maze masih dilakukan secara manual, untuk mencari jalan terpendek sudah dapat dilakukan dengan baik dan pengontrolan robot mobil dari tempat start ke tempat finish masih harus disempurnakan. Kontrol robot mobil dengan menggunakan sensor kamera dapat dikembangkan menjadi suatu teknologi robotika yang dapat melakukan suatu pekerjaan dengan input dari kamera.",
+  "creators": "VELIX",
+  "contributors": "Resmana Lim (Advisor 1); Lauw Lim Un Tung (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/031/577; Velix (23498107)",
+  "subjects": "MOBILE ROBOTS; ROBOTS"
+}

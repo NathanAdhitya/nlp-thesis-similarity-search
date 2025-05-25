@@ -1,0 +1,14 @@
+{
+  "id": "8170",
+  "title": "Pengembangan aplikasi mobile device untuk mengakses konten melalui jaringan WLAN",
+  "abstract": "Pada umumnya mobile device, dalam hal ini PDA difungsikan sebagai assistant yang membantu dalam mencatat jadwal. PDA sering juga dimanfaatkan untuk pertukaran data atau konten. Konten ini biasanya dikirim dengan men-download melalui jaringan WLAN (Wireless LAN), sehingga mobilitas pengguna tidak terbatas karena bentuk koneksi fisik WLAN menggunakan gelombang radio. Oleh karena itu, muncullah sebuah ide untuk mengembangkan aplikasi mobile device untuk mengakses konten melalui WLAN. Pengguna dapat mengakses konten melalui fasilitas download yang menggunakan protokol HTTP. Aplikasi dibangun dengan platform \"Microsoft Visual Basic 2005 .NET\" dan menggunakan \"Media Player\" sebagai aplikasi pemutar konten. Sistem ini terbagi atas 2 bagian penting yaitu user access dan member access. User access meliputi layanan registrasi, login, dan open file. Sedangkan member access menyediakan layanan berupa penambahan saldo, informasi saldo, preview dan pembelian konten. Berdasarkan hasil pengujian sistem akses konten dapat diketahui bahwa sistem ini dapat mengakses konten dimana saja selama lokasi tersebut masih terhubung dengan jaringan server. Sistem ini berhasil melakukan registrasi, login dengan account yang terdaftar, menambah nilai saldo dengan memasukkan ID voucher, melihat saldo akhir, melakukan pilihan konten, men-download konten, preview dan pembelian konten. Sistem juga dapat memutar konten multimedia yang tersimpan di storage device dan konten yang telah di-download.",
+  "creators": "DANIEL HARTONO SUTANTO",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010064/ELK/2007; Daniel Hartono Sutanto (23403057)",
+  "subjects": "WIRELESS COMMUNICATION SYSTEMS; INTERNET (COMPUTER NETWORK); MOBILE COMMUNICATION SYSTEMS"
+}

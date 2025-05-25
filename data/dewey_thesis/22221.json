@@ -1,0 +1,14 @@
+{
+  "id": "22221",
+  "title": "Studi penggunaan PLC sebagai sistem otomasi pada pembangkit generator dengan daya total 13400 KVA 6,6 KV di Tunjugan Plaza III",
+  "abstract": "Di jaman yang modern ini kehidupan manusia tidak terlepas dari kebutuhan listrik. Listrik sangat dibutuhkan oleh manusia. Selain itu, listrik juga sangat dibutuhkan di pabrik-pabrik dan di plaza-plaza. Sebagai contohnya di Tunjungan Plaza yang merupakan mall terbesar di Surabaya. Di dalam kegiatan operationalnya pasti tidak terlepas dari kebutuhan listrik. Sumber tenaga listrik beserta sistem pengontrolannya yang berada di Tunjungan Plaza III yang dipakai ada dua yaitu: yang pertama berasal dari PLN sebesar 8660 KVA dan yang kedua berasal dari lima buah genset, yang terdiri dari tiga buah genset dengan daya sebesar 2600 KW dan dua buah genset dengan daya sebesar 1460 KW. Dimana konsumsi bahan bakar rata rata adalah 0.36 KW/liter Sistem pembangkit genset di Tunjungan Plaza III menggunakan PLC sebagai kontrol beban, kontrol sinkronising dan kontrol kerja pararel. Sebagai input dari PLC digunakan sensor sensor seperti sensor arus, sensor tegangan, sensor beban, temperature dimana relay akan menggerakkan main kontaktor/CB bila parameter input lebih besar daripada parameter settingnya. Penggunaan PLC pada sistem pembangkit ini memberikan keuntungan bahwa semua operational kerja dapat dilakukan secara otomatis dan operator hanya mengawasi atau mengontrol lewat komputer di ruang kontrol PLC.",
+  "creators": "IWAN ADI UTAMA",
+  "contributors": "Emmy Hosea (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/TST/003/417; Iwan Adi Utama (23497071)",
+  "subjects": "ELECTRIC GENERATORS; ELECTRIC TRANSFORMERS"
+}

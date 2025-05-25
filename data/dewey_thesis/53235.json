@@ -1,0 +1,14 @@
+{
+  "id": "53235",
+  "title": "Penerapan deep learning model adaptive sparse transformer untuk meningkatkan ROUGE-1 score pada text summarization dari bagian introduction jurnal ilmiah berbahasa Inggris",
+  "abstract": "Perkembangan teknologi dan internet menyebabkan banyaknya informasi yang dapat diakses pada setiap waktu. Artikel jurnal merupakan salah satu dari banyaknya informasi yang tersedia yang membutuhkan waktu untuk dibaca sehingga diperlukan ringkasan secara otomatis. Automatic Text Summarization (ATS) pada dasarnya adalah pembuatan kalimat baru yang lebih pendek dari pada kalimat aslinya tanpa menghilangkan makna keseluruhan dari sebuah kalimat. Pembuatan ringkasan secara otomatis tersebut dapat dilakukan secara ektraktif maupun abstratif. Ringkasan yang dibuat secara ektraktif hanya dapat menggunakan kata yang ada pada bagian masukan, sedangkan ringkasan yang dibuat secara abstratif dapat menghasilkan ringkasan yang memiliki kata di luar dari kata yang ada pada bagian masukan. Penelitian sebelumnya dalam abstractive summarization masih belum optimal sehingga perlu ditingkatkan. Metode yang digunakan dalam penelitian ini adalah abstractive summarization dengan Adaptive Sparse Transformer. Hal-hal yang akan dilakukan pada penelitian adalah scraping dataset arxiv machine learning, pembuatan data, pengolahan data dan percobaan terhadap pengaturan hyperparameter pada model terhadap performa ROUGE-1 precision score. Dataset yang digunakan adalah dataset Arxiv Scientific Paper dan Arxiv Scientific Paper+Arxiv Machine Learning. Hasil penelitian ini menunjukkan bahwa metode yang digunakan mampu bersaing dengan metode-metode terunggul dengan model nilai average R-1 precision score 39.4 untuk Arxiv Scientific Paper+Arxiv Machine Learning dan 42.5 untuk Arxiv Scientific Paper.",
+  "creators": "ANDREW FIRMAN SAPUTRA",
+  "contributors": "Liliana (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Hans Juwiantho S.Kom., M.Kom (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022157/INF/2022; Andrew Firman Saputra (C14180029)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN--COMPUTER PROGRAMS; DEEP LEARNING (MACHINE LEARNING)"
+}

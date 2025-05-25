@@ -1,0 +1,14 @@
+{
+  "id": "46343",
+  "title": "Pengenalan alfabet bahasa isyarat tangan secara real-time dengan menggunakan metode convolutional Neural Network dan Recurrent Neural Network",
+  "abstract": "Bahasa isyarat tangan merupakan salah satu alat komunikasi yang biasa digunakan oleh penyandang disabilitas atau difabel. Bahasa isyarat alfabet merupakan alat bantu dasar yang digunakan para pengajar untuk mengajar para penyandang tunarungu dan tunawicara untuk mengenal huruf alfabet dasar. Akan tetapi, banyak masyarakat yang kesusahan dalam berkomunikasi dengan kalangan tersebut dikarenakan kurangnya wawasan masyarakat tentang bahasa isyarat tangan. Penelitian pada bahasa isyarat tangan telah mengalami banyak kemajuan dalam memproses gambar statik tetapi masih mengalami kendala karena kesulitan dalam memproses gambar dinamik / video mengingat kebanyakan dari bahasa isyarat tangan direpresentasikan dengan gerakan tubuh, tangan, dan wajah. Penelitian ini menggunakan metode Convolutional Neural Network (CNN) dan Recurrent Neural Network (RNN) dengan input berupa video. Metode CNN digunakan sebagai feature extraction di spatial feature sementara RNN bertugas untuk mengkolerasikan antar frame yang di ekstrak oleh CNN di temporal feature. Hasil akhir yang ditampilkan berupa text alphabet yang merupakan hasil dari pengenalan alphabet bahasa isyarat tangan tersebut. Berdasarkan pengujian yang dilakukan, didapatkan nilai akurasi rata-rata sebesar 60.58% pada seluruh huruf sementara pengujian real-time mengalami kegagalan karena teknologi yang digunakan tidak bisa menopang arsitektur yang dibuat.",
+  "creators": "DEVINA YOLANDA",
+  "contributors": "Kartika Gunadi (Advisor 1); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021969/INF/2020; Devina Yolanda (26416006)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); PROGRAMMING (COMPUTERS)"
+}

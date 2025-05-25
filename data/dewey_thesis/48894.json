@@ -1,0 +1,14 @@
+{
+  "id": "48894",
+  "title": "Optimasi waste pembesian beton bertulang dengan metode metaheuristik",
+  "abstract": "Kebutuhan pembesian beton bertulang biasanya dituangkan dalam bentuk bar bending schedule. Dalam sebuah proyek, aktivitas pemotongan tulangan yang tidak dilakukan secara efisien cenderung akan menghasilkan waste yang besar dan berpotensi menyebabkan pembengkakan biaya. Untuk mengatasi hal tersebut, dilakukan optimasi waste pembesian beton bertulang guna meminimalkan waste yang dihasilkan. Sebelumnya, telah dilakukan penelitian mengenai optimasi waste pembesian beton bertulang dengan menggunakan tiga variasi panjang potongan tulangan. Namun, penelitian tersebut kurang relevan dengan kondisi lapangan yang biasanya melibatkan banyak variasi panjang potongan tulangan. Oleh karena itu, penelitian ini bertujuan untuk menyelesaikan permasalahan optimasi waste pembesian beton bertulang berdasarkan sebuah bar bending schedule proyek rumah toko (ruko) yang meliputi 24 variasi panjang potongan tulangan. Pada penelitian ini, akan digunakan tiga macam cutting pattern generator dan dua macam metode metaheuristik, yaitu Particle Swarm Optimization (PSO) dan Symbiotic Organisms Search (SOS). Performa dari kedua metode tersebut dibandingkan dengan melihat nilai minimum, maksimum, rata-rata, standar deviasi, dan grafik konvergensi dari setiap iterasi yang dilakukan. Hasil penelitian menunjukkan bahwa metode SOS memiliki performa yang lebih baik dalam menemukan biaya waste pembesian beton bertulang yang paling minimum.",
+  "creators": "CHRISTOPHER GUNARSO; NATHANIEL ALVIN",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Willy Husada, ST.,MT., Msc. (Advisor 2); Wong Foek Tjong, S.T., M.T., Ph.D. (Examination Committee 1); Joko Purnomo S.T., M.Sc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 21012476/SIP/2021; Christopher Gunarso (B11170022)Nathaniel Alvin (B11170018)",
+  "subjects": "CONSTRUCTION INDUSTRY--MANAGEMENT; CONSTRUCTION INDUSTRY--MANAGEMENT--DATA PROCESSING"
+}

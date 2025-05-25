@@ -1,0 +1,14 @@
+{
+  "id": "15828",
+  "title": "Implementasi kontroler neural network back propagation untuk sistem pengatur suhu air antara 25 derajat sampai 75 derajat celcius dengan komputer IBM-PC",
+  "abstract": "The development of artificial neural network control system is quite rapid. A good parallel process ability, non linear mapping, self learning ability and self generalization are factors which motivate its development as a smart control system. In this final project, a control system with an artificial neural network is designed to control water temperature, based on IBM PC. The neural network architecture used in this control system is back propagation with a supervised learning method. In this supervised learning method, the input and output supply is done explicitly so that each samples gives an output, resulted from the input given. The neural network software consists of two processes, training and running. In training process, network parameter will be determined, input layer, hidden layer, output layer and learning parameter value, where training could be done until the error wanted is achieved and the output produced will be employed in the running process. After doing the system respond system, optimal neural network parameter are obtained, that is by using 0,0005 learning parameter value and 3 layers, each of them consists of 2 node input layer, 40 node hidden layer and 1 node output layer. The result of the test points out the steady state error of about 5% from the setting point value. The respond of the water temperature running system towards the neural network is quite good. In order to improve it, several methods can be done such as undertaking a more various network structure training, making training data which have a larger variety of training pattern.",
+  "creators": "RUDY WIDJAJA",
+  "contributors": "YOHANES T. D. S (Examination Committee 1); Resmana Lim (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/008/353; Rudy Widjaja (23489104)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

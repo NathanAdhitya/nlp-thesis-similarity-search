@@ -1,0 +1,14 @@
+{
+  "id": "16689",
+  "title": "Perencanaan dan pembuatan perangkat lunak untuk pengenalan tulisan tangan dengan jaringan syaraf tiruan",
+  "abstract": "Sejalan dengan perkembangan komputer dewasa ini dengan kecepatan yang tinggi memungkinkan untuk pengembangan suatu program untuk pengenalan tulisan tangan. Program ini dibutuhkan untuk mempermudah pekeijaan manusia yang selalu menginginkan kemudahan dan kecepatan dalam bekerja. Pada tugas akhir ini dibuat suatu program yang menganalisa huruf A sampai Z (kapital) dengan algoritma back error propagation. Prinsip kerja sistem ini adalah dengan mengajarinya sehingga diperoleh bobot-bobot yang merupakan suatu penyelesaian. Bobot yang telah diperbaharui ini disimpan dalam file. Proses pelatihan ternyata membutuhkan waktu yang sangat lama (? 1 menit 10 detik untuk satu set huruf A - Z sampai error < 10\"5 ). Dari hasil pengujian didapat jumlah node dari hidden layer yang terbaik adalah 90 dan koefisien belajar atau learning rate 0,25.",
+  "creators": "SUNGKONO SUSILO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Vivi Anggraini (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/031/0291; Sungkono Susilo (23490159)",
+  "subjects": "COMPUTERS; SOFTWARE"
+}

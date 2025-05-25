@@ -1,0 +1,14 @@
+{
+  "id": "16361",
+  "title": "Perencanaan dan pembuatan alat pengatur penerangan dengan menggunakan relai impuls",
+  "abstract": "Pengaturan sistem penerangan pada umumnya masih menggunakan saklar biasa untuk memutuskan atau menghubungkan beban penerangan, namun pengaturan sistem penerangan ini masih dirasakan kurang efisien. Untuk itu digunakan relai impuls sebagai pengganti saklar, sehingga pengaturan sistem penerangan akan menjadi lebih efisien. Hal ini disebabkan dalam pengaturan penerangan tersebut dapat digunakan lebih dari satu tombol tekan, sehingga kita dapat mematikan maupun menghidupkan lampu penerangan dari beberapa tombol tekan yang berbeda. Selain itu dapat dilakukan kontrol secara lokal dan terpusat, serta dapat mengatur beban penerangan yang dikoneksikan pada beberapa phasa yang berbeda dengan menggunakan sebuah tombol tekan yang sama. Fungsi utama dari relai impuls adalah sebagai penyambung dan pemutus sirkuit beban penerangan dengan menggunakan masukan sinyal impuls (tegangan sesaat) yang diberikan dari tombol tekan. Prinsip kerja dari relai impuls adalah berdasarkan elektomagnet yang dibangkitkan dari koil yang diberi arus listrik, sehingga menarik armatur relai dan menggerakkan alat mekanis yang akan menutup dan membuka kontak relai. Relai impuls yang digunakan dalam tugas akhir ini adalah relai impuls tipe TL dengan menggunakan sensor cahaya jenis LDR (Light Dependent Resistor) sebagai pengganti tombol tekan, relai impuls tipe TLc dengan kontrol terpusat, dan relai impuls tipe ETL yang merupakan relai tambahan yang digunakan untuk mengatur beban penerangan pada beberapa phasa yang berbeda. Dari hasil pengujian alat didapat bahwa relai impuls dapat dikontrol dari beberapa tombol tekan yang berbeda, dapat dikontrol lokal dan terpusat, serta dapat mengatur beban pada beberapa phasa dengan tombol tekan yang sama.",
+  "creators": "WOE ANTON HUSIN",
+  "contributors": "Emmy Hosea (Advisor 1); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/TST/006/243; Woe Anton Husin (23489109)",
+  "subjects": "ELECTRIC APPARATUS AND APPLIANCES; ELECTRIC CONTROLLERS"
+}

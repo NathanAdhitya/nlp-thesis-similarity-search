@@ -1,0 +1,14 @@
+{
+  "id": "10754",
+  "title": "Pembuatan perangkat lunak image morphing dengan menggunakan algoritma featured based image metamorphosis",
+  "abstract": "Seiring dengan perkembangan teknologi pengolahan citra digital dan animasi dewasa ini, diperlukan adanya sebuah perangkat lunak yang dapat membantu pembuatan animasi. Sehingga dalam membuat sebuah animasi, seorang animator tidak perlu membuat ribuan citra hanya untuk membuat animasi selama satu menit. Oleh sebab itulah diperlukan sebuah teknik image processing untuk melakukan bagian tersulit pada suatu animasi secara otomatis, yaitu teknik image morphing yang berfungsi untuk melakukan proses metamorphosis dari sebuah citra digital menuju citra lainnya. Tujuan tugas akhir ini adalah merancang dan merealisasikan perangkat lunak image morphing dengan menggunakan algoritma Featured Based Image Metamorphosis yang diperkenalkan oleh Thaddeus Beier dan Shawn Neely. Keuntungan algoritma ini adalah penggunaan kontrol garis dibanding dengan penggunaan kontrol titik. Sehingga user lebih mudah menentukan posisi kontrol yang dikehendakinya, sedangkan kerugiannya adalah dalam faktor kecepatan pemrosesan dan kontrol terhadap garis - garis kontrol yang ada. Perangkat lunak image morphing yang direalisasikan telah berhasil melakukan proses morphing terhadap masukan dua buah citra awal dua dimensi bertipe graphic windows bit-mapped (bmp), dengan maksimum garis kontrol sebesar 99 buah. Hasil proses morphing dapat disimpan dalam bentuk urutan citra maupun dalam sebuah file movie. File movie tersebut lebih lanjut dapat ditampilkan menggunakan fasilitas built-in player. Dikarenakan perangkat lunak ini masih berada pada tahap awal, dapat dikembangkan kemampuan untuk melakukan morphing lebih dari dua frame awal, penambahan fasilitas peletakan garis - garis kontrol secara otomatis serta penambahan jumlah garis kontrol yang dapat dipergunakan.",
+  "creators": "BUDI SETIAWAN",
+  "contributors": "Kartika Gunadi (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/KOM/007/064; Budi Setiawan (23495106)",
+  "subjects": "IMAGE MORPHING (COMPUTER PROGRAM); IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

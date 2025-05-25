@@ -1,0 +1,14 @@
+{
+  "id": "26037",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada toko Tanjung Baru",
+  "abstract": "Toko Tanjung Baru adalah unit usaha yang bergerak di bidang penjualan yang terletak di kota Mojokerto, Jawa Timur. Barang atau produk yang dijual meliputi barang kebutuhan sehari-hari dan sembako. Dalam kegiatannya sehari-hari Toko Tanjung Baru masih menerapkan sistem manual, hal ini menyebabkan proses transaksinya berjalan lambat dan kurang akurat jika dibandingkan dengan menggunakan sistem yang terkomputerisasi. Oleh karena itu Toko Tanjung Baru membutuhkan sistem informasi akuntansi yang terkomputerisasi, dengan harapan dapat mengatasi masalah yang dihadapi Perancangan desain sistem menggunakan Data Flow Diagram dan Entity Relationship Diagram. Program menggunakan Microsoft SQL Server 2005 sebagai database, dan menggunakan bahasa pemrograman Microsoft Visual Studio 2005 .NET. Ruang lingkup program yang dibuat meliputi pembuatan database master untuk supplier, customer, barang, harga, dan satuan. Transaksi meliputi transaksi pembelian dan penjualan, serta pembuatan jurnal secara otomatis. Dari hasil pengujian, program, hasil dari proses transaksi dan penjurnalan yang dilakukan valid dan sesuai dengan kebutuhan perusahaan. Laporan yang dihasilkan telah dapat bermanfaat dan memenuhi kebutuhan perusahaan.",
+  "creators": "YOHANAN AGUSTINUS A P",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Gregorius Satiabudhi (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021130/INF/2012; Yohanan Agustinus Angkasaputera (26408043)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMANT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

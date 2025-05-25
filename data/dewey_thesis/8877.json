@@ -1,0 +1,14 @@
+{
+  "id": "8877",
+  "title": "Sistem remote monitoring GPS via SMS",
+  "abstract": "Dengan semakin berkembangnya ilmu pengetahuan dan teknologi dalam bidang telekomunikasi terutama handphone, sehingga semakin dituntut segala sesuatunya dapat dilakukan hanya oleh satu alat itu saja, oleh karena itu dengan melihat kemampuan yang dipunyai oleh handphone dan GPS, maka timbul ide untuk menggabungkannya. Sehingga dengan handphone bisa mengetahui posisi, yang diaplikasikan sebagai GPS car controller. Sistem dibangun dengan menggunakan microcontroller AT89C52 yang di-interface-kan secara serial dengan GPS Garmin 25 dan sebuah handphone Nokia 5110 (yang menggunakan format FBUS). Garmin 25 memberikan data posisi kepada microcontroller yang selanjutnya akan dikirim via SMS kepada handphone pengguna. Pengguna sistem cukup memerintahkan sistem dengan mengirimkan SMS command, kemudian sistem akan merespon dengan mengirimkan SMS berisi data posisi dalam mapping peta (yang telah di-mapping berdasarkan peta kota Surabaya). Selain itu, sistem juga dapat digunakan sebagai remote control via SMS untuk mengaktifkan atau mematikan LED serta buzzer. Sistem dilengkapi dengan display LCD. Tampilan display pada LCD 1 adalah output dari GPS Garmin 25 (format $GPRMC), yang berupa data posisi dan mapping peta. Sedangkan output SMS dapat dilihat pada LCD 2, yang berupa letak mobil, keadaan dari mobil dan 5 pengguna terakhir yang telah mengakses sistem. Sistem telah diuji cobakan untuk berbagai posisi di Surabaya dan dapat merespon perintah dari handphone pengguna dengan baik.",
+  "creators": "BAGUS SARWONO",
+  "contributors": "Resmana Lim (Advisor 1); Lauw Lim Un Tung (Advisor 2); Anies Hannawati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 2059/ELK/2002; Bagus Sarwono (23498135)",
+  "subjects": "MOBILE COMMUNICATION SYSTEMS; REMOTE CONTROL"
+}

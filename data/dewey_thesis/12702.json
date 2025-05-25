@@ -1,0 +1,14 @@
+{
+  "id": "12702",
+  "title": "Sistem pembantu acara pada radio broadcasting dengan memanfaatkan PC dan soundcard",
+  "abstract": "Sistem pembantu acara pada radio broadcasting dengan memanfaatkan PC dan soundcard ini menggabungkan semua bagian dari suatu stasiun radio, yaitu bagian produksi, bagian penyimpanan, bagian penjadualan, dan bagian penyiaran menjadi satu, sehingga stasiun radio akan menjadi semakin sederhana dan mudah pengoperasiannya serta tidak diperlukan banyak tenaga operator lagi. Pada tugas akhir ini, PC {Personal Computer) digunakan untuk menerima input yang berupa data yang masih bersifat mentah, artinya masih belum diolah datanya melalui proses perekaman. Kemudian data ini diproses dan dimasukkan kedalam database. Data-data yang akan dimasukkan kedalam database diberi keterangan-keterangan, agar nanti kalau hendak digunakan tidak membuat kebingungan, baik berupa nama penyanyi, judul lagu, lama lagu, dan lain sebagainya. Hal ini akan mempermudah didalam melakukan penjadualan acara. Pada penjadualan acara ini, diatur lagu-lagu atau iklan-iklan yang akan dijalankan. Keluaran dari penjadualan acara ini berupa playback yang akan dioutputkm melalui mixer audio. Menu-menu yang disediakan dalam program ini meliputi pencarian data didalam database, pengkompresan data, dan perekaman serta playback lagu. Sistem pembantu acara ini akan menggunakan bahasa pemrograman Delphi 3.0. Bahasa pemrograman Delphi digunakan untuk membuat menu-menu tampilan, proses perekaman suara melalui soundcard yang akan disimpan ke dalam file jenis wav, yang kemudian akan dikompres agar diperoleh file dengan ukuran yang lebih kecil, file audio ini kemudian akan dikeluarkan kembali pada playback melalui soundcard, dan penjadualan acara kegiatan serta database yang akan dibuat dengan menggunakan Paradox yang berbasiskan pada bahasa pemrograman Delphi.",
+  "creators": "ANDIK DJUARI",
+  "contributors": "Resmana Lim (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/025/419; Andik Djuari (23494102)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTER); COMPUTERS; RADIO BROADCASTING-COMPUTER PROGRAMS"
+}

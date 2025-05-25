@@ -1,0 +1,14 @@
+{
+  "id": "26097",
+  "title": "Perancangan dan pembuatan aplikasi perhitungan harga pokok produksi dengan metode process costing pada PT. ACMI",
+  "abstract": "Saat ini tidak ada sistem perhitungan harga pokok produksi yang dimiliki oleh PT. ACMI. Semua perhitungan biaya bahan baku, overhead pabrik dan biaya tenaga kerja langsung serta pembuatan laporan yang berkaitan dengan perhitungan harga pokok produksi suatu produk masih dibuat dalam bentuk perkiraan saja sehingga proses produksi akan sulit ditelusuri. Berdasarkan latar belakang permasalahan itu, penulis merancang sistem perhitungan Harga Pokok Produksi yang dapat mengatasi permasalahan tersebut. Proses pembuatannya menggunakan Microsoft Visual Studio .Net 2005 sebagai bahasa pemogramannya dan SQL Server 2005 sebagai database. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, dapat menyimpan pemakaian bahan baku baik yang sesuai Bill of Material ataupun tambahan pada aktualnya, pemakaian tenaga kerja, dan sebagainya yang berkaitan dengan proses produksi tersebut. Selain itu aplikasi yang telah dibuat dapat digunakan untuk mengalokasikan biaya-biaya yang terjadi pada saat proses produksi, dan dapat digunakan untuk mengolah data yang akan dapat menghasilkan laporan-laporan yang berkaitan dengan perhitungan Harga Pokok Produksi suatu produk secara otomatis.",
+  "creators": "NJO EDWIN SURYO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Rudy Adipranata (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021069/INF/2011; Njo Edwin Suryo (26408054)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

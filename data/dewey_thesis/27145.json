@@ -1,0 +1,14 @@
+{
+  "id": "27145",
+  "title": "Perencanaan detail sambungan pada konstruksi baja dengan komputer",
+  "abstract": "Perencanaan dengan program komputer ini meliputi perhitungan dan gambar detail sambungan dari balok dan kolom yang terskala. Adapun jenis-jenis sambungan yang dibahas disini adalah Framed Connection (bolt/weld), Unstiffened Seat Connection (bolt/weld), Stiffened Seat Connection ( bolt/weld ), End Plate Moment Connection (Elastis) dan End Plate Momen Connection (Plastis). Data masukan program yang berupa gaya-gaya dalam harus sudah didapatkan dari analisa struktur, demikian pula dengan dimensi profil balok dan profil kolom harus sudah diketahui. Program ini ditulis dalam bahasa Turbo C dengan sistem pull down menu sehingga diharapkan mudah pemakaiannya. Demikian pula untuk keperluan menggambar, di samping keluaran langsung ke printer juga telah dibuat script file di mana dapat dijalankan dengan package program Autocad sehingga diharapkan akan dapat membantu para perencana struktur di dalam merencanakan dan mendisain detail sambungan.",
+  "creators": "SUGIANTO; BENNY SUSILO PUTRO",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Oentoeng (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 436 S; Sugianto (285045), Benny Susilo Putro (285077)",
+  "subjects": "STEEL, STRUCTURAL; STEEL, STRUCTURAL-COMPUTER PROGRAMS"
+}

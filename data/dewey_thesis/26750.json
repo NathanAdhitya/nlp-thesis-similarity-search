@@ -1,0 +1,14 @@
+{
+  "id": "26750",
+  "title": "Pengendalian tanpa kabel untuk sistem penerangan dan air conditioning dalam rumah tangga",
+  "abstract": "Sistem penerangan dan air conditioning dalam rumah tangga adalah suatu sistem yang bertujuan untuk mengatur/mengendalikan lampu penerangan dan air conditioning dalam lingkungan rumah tangga. Lampu penerangan dan air conditioning dalam rumah biasanya dikendalikan secara manual yaitu dengan cara menghampiri saklar masing-masing peralatan untuk mematikan ataupun menyalakan peralatan tersebut. Sistem pengendalian yang dirancang untuk tugas akhir ini menggunakan sistem pengendalian tanpa kabel. Pengendalian dapat dilakukan dari sembarang tempat dalam lingkungan rumah tangga sehingga sistem penerangan dan air conditioning dalam rumah dapat diatur dengan mudah, tanpa perlu menghampiri masing-masing saklar peralatan yang biasanya terpisah oleh jarak satu sama lainnya. Sistem pengendalian yang dibuat dalam tugas akhir ini terdiri dari dua bagian utama. Bagian pertama (Transmitter) berfungsi untuk memberikan perintah pengendalian pada suatu peralatan. Pengendalian dilakukan melalui pemilihan tombol kontrol (keypad) yang bersesuaian dengan peralatan yang perlu dikendalikan. Perintah pengendalian diterima pada bagian kedua (Receiver), yang untuk selanjutnya perintah ini digunakan untuk menggerakkan driver peralatan yang akan dikendalikan. Pengendalian peralatan selain dilakukan melalui relay driver yang dikontrol mikro kontroler 8031, dapat pula dilakukan secara manual dengan memberikan perintah Set-Reset pada peralatan yang perlu dikendalikan. Sistem pengendalian tanpa kabel yang dibuat dalam tugas akhir ini menggunakan sistem komunikasi digital dengan modulasi ASK (Amplitude-Shift Keying) di mana amplitudu gelombang pembawa berubah di antara level 0 (off state) dan level 1 (on state). Sistem pengendalian tanpa kabel dalam rumah tangga lebih menguntungkan karena lampu penerangan dan air conditioning dapat diatur dengan mudah.",
+  "creators": "SOEPRAPTO SOEDJATMIKO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); HANDAYANI T. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/036/0157; Soeprapto Soedjatmiko (23488068)",
+  "subjects": "AIR CONDITIONING--CONTROL; AUTOMATIC CONTROL; AUTOMATION"
+}

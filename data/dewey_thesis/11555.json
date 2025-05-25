@@ -1,0 +1,14 @@
+{
+  "id": "11555",
+  "title": "Perancangan dan pembuatan aplikasi fuzzy expert system untuk pengenalan penyakit umum",
+  "abstract": "Dewasa ini semakin banyaknya penyakit yang ada di tengah masyarakat. Seiring dengan itu, semakin banyak pula obat-obatan yang beredar saat ini. Oleh karena itu system ini dibuat untuk membantu masyarakat dalam mempermudah pengenalan suatu penyakit dan penggunaan obat untuk penanganan penyakit tersebut. Perancangan sistem ini dibuat dengan menggunakan metode Fuzzy Expert System, yang diharapkan dapat membantu masyarakat dalam mengenal penyakit umum dan obat yang dapat digunakan untuk penanganan penyakit tersebut. Pada sistem ini akan disediakan beberapa form konsultasi dimana setiap form konsultasi ini dapat dipilih sesuai dengan kebutuhan. Pada awal sistem ini, akan dilakukan konsultasi awal yang berupa pemeriksaan suhu, tekanan darah, dan usia. Pemeriksaan awal tersebut dihitung derajat keanggotaannya, kemudian dihasilkan informasi pemeriksaan awal. Setelah pemeriksaan awal, dapat dilanjutkan dengan pemeriksaan lain sesuai dengan kebutuhan. Setiap gejala yang dimasukkan, akan diinputkan juga nilai keparahannya, yang kemudian nilai keparahan tersebut diubah menjadi Degree of Membership oleh proses fusifikasi dalam metode Fuzzy Expert System. Aplikasi yang digunakan dalam pembuatan sistem ini adalah Borland Delphi 7.0 sebagai bahasa pemrograman dan desain interfacenya. Hasil dari implementasi sistem ini adalah nama dari suatu penyakit dan obat yang memungkinkan dapat digunakan untuk penanganan penyakit tersebut. Hasil pengujian yang dilakukan, telah dapat memenuhi tujuan dari system ini sendiri yaitu untuk mempermudah dalam pengenalan suatu jenis penyakit dan informasi tentang obat yang dapat digunakan. Melalui sistem ini, dapat dibuktikan bahwa Fuzzy Expert System dapat dimanfaatkan untuk menghasilkan suatu penyakit dari gejala yang diinputkan.",
+  "creators": "HENRY OCTAVIANO",
+  "contributors": "Alexander Setiawan (Advisor 1); Gregorius Satiabudhi (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02020800/INF/2009; Henry Octaviano (26404055)",
+  "subjects": "EXPERT SYSTEMS (COMPUTER SCIENCE); FUZZY EXPERT SYSTEMS"
+}

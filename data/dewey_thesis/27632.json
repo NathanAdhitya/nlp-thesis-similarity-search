@@ -1,0 +1,14 @@
+{
+  "id": "27632",
+  "title": "Sistem informasi akademik berbasis web pada SMAK Stella Maris Surabaya",
+  "abstract": "SMAK Stella Maris saat ini masih belum mempunyai sistem informasi yang rapi berbasis database. Sistem pencatatan yang digunakan masih menggunakan Microsoft Excel sehingga menyebabkan terjadinya data yang rangkap, dan tidak mudah ditemukan data yang paling valid. Pembuatan jadwal pelajaran masih dilakukan secara manual oleh wakil kepala sekolah (waka-kurikulum). Pendaftaran siswa belum dilakukan melalui internet (online). Menjawab permasalahan tersebut, maka dirancang suatu sistem informasi akademik berbasis web pada SMAK Stella Maris Surabaya. Aplikasi yang dibuat meliputi pembuatan jadwal pelajaran, pendaftaran siswa baru online (PSBO), pencatatan nilai, dan pembuatan laporan nilai. Aplikasi ini dibuat dengan bahasa pemrograman PHP dan menggunakan database MySQL. Hasil pengujian menunjukkan bahwa aplikasi dapat menjawab kebutuhan SMAK Stella Maris Surabaya. Pembuatan rapor yang sebelumnya membutuhkan waktu beberapa hari dapat dilakukan dengan cepat, dan dapat dicetak secara langsung. Hasil evaluasi dari kuisioner menunjukkan bahwa untuk kriteria “Menu yang ada sesuai kebutuhan” 100% pengguna menyatakan sangat baik, kriteria “Tingkat akurasi data dalam proses yang dijalankan” 80% pengguna menyatakan sangat baik, dan kriteria “Manfaat aplikasi dalam mendapatkan informasi” 100% pengguna menyatakan sangat baik.",
+  "creators": "DANNY",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Silvia Rostianingsih (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021196/INF/2012; Danny (26407083)",
+  "subjects": "WEBSITES-DESIGN; DATABASE DESIGN"
+}

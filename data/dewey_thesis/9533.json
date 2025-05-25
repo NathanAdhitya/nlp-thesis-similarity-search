@@ -1,0 +1,14 @@
+{
+  "id": "9533",
+  "title": "Perancangan dan pembuatan sistem pengendalian switch on/off pada lampu 220 volt dengan menggunakan sms",
+  "abstract": "Hari demi hari berlalu, aktifitas manusia kian padat saja. Mobilitas manusia pun semakin tinggi, khususnya di daerah perkotaan. Padatnya jalan dan hiruk pikuk keramaian seakan sudah menjadi rutinitas. Kebutuhan manusia untuk berkomunikasi antara satu dengan lainnya tak terelakkan lagi. Di lain sisi, ilmu pengetahuan terus berkembang pesat. Berbagai perangkat canggih ditemukan, salah satunya ponsel. Kini, nyaris semua orang telah memiliki ponsel. Jika awalnya ponsel hanya bisa digunakan untuk berkomunikasi, kini telah memiliki banyak fungsi tambahan, misalnya untuk mengirim pesan, mengambil gambar, sampai melihat televisi. Berangkat dari fakta diatas, maka penulis membuat suatu aplikasi yang mampu digunakan untuk mengendalikan lampu rumah melalui SMS. Aplikasi ini menggunakan 4 buah hardware penting, yakni ponsel sebagai server, Serial PPI sebagai `jembatan? untuk menghubungkan komputer dengan hardware lainnya, Relay Board v.2.0 sebagai penghubung antara Serial PPI dengan lampu 220 Volt, dan komputer itu sendiri. Sistem ini dibuat dengan menggunakan Borland Delphi 7.0. Untuk berkomunikasi antara komputer dengan ponsel server digunakan AT Command. Format data yang mengalir antara komputer dengan ponsel dalam bentuk teks. Sedangkan untuk berkomunikasi dengan Serial PPI langsung mengirimkan byte/bit. Serial PPI dan Relay Board v.2.0 menggunakan catu daya DC 12V.",
+  "creators": "EDWIN WIJAYA SUTANTO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Handry Khoswanto (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010579/INF/2007; Edwin Wijaya (26403027)",
+  "subjects": "COMPUTER INTERFACES; INTERFACE CIRCUITS"
+}

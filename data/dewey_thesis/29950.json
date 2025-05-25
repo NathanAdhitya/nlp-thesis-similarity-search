@@ -1,0 +1,14 @@
+{
+  "id": "29950",
+  "title": "Aplikasi Virtual Tour 3D pabrik PT X",
+  "abstract": "PT X merupakan sebuah perusahaan ternama yang memiliki karyawan berjumlah kurang lebih 1000 orang. Salah satu kegiatan rutin yang dilakukan PT X yang ditujukan kepada para karyawan baru adalah orientasi, dimana terdapat sebuah acara yang mengajak para karyawan baru untuk berkunjung ke pabrik perusahaan. Kendala yang terjadi adalah lokasi pabrik perusahaan dengan kantor utama yang cukup jauh, sehingga kurang adanya efisiensi waktu dalam kegiatan tersebut. Aplikasi ini bertujuan untuk memfasilitasi PT X dalam melakukan kegiatan orientasi karyawan baru sehingga lokasi pabrik dapat dilihat secara virtual. Hal yang dilakukan terlebih dahulu dalam proses pembuatan aplikasi adalah melakukan kunjungan ke lokasi pabrik untuk mengetahui bentuk dan posisi objek, sehingga diharapkan hasil yang ditampilkan dapat menyerupai kondisi aslinya. Objek 3D beserta teksturnya dibuat dengan menggunakan aplikasi Blender agar dapat diimpor ke dalam aplikasi yang dibuat. Pemberian fitur collision bertujuan agar user tidak dapat menembus objek. Posisi, bentuk dan objek yang terdapat pada aplikasi telah menyerupai keadaan asli yang terdapat pada lokasi pabrik. Hambatan utama dalam pembuatan aplikasi ini adalah waktu pembuatan, sehingga tidak dapat membuat peta pabrik secara detil. Gedung utama, gedung produksi, dan warehouse telah dibuat, hanya objek-objek kecil yang terdapat di dalam gedung utama belum sempat terlengkapi.",
+  "creators": "WILLY NUGRAHA UTOMO",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021329/INF/2014; Willy Nugraha Utomo (26410070)",
+  "subjects": "IMAGE PROCESING-DIGITAL TECHNIQUES; VIRTUAL COMPUTER SYSTEMS; IMAGE PROCESSING--DIGITAL TECHNIQUES"
+}

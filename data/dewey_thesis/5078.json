@@ -1,0 +1,14 @@
+{
+  "id": "5078",
+  "title": "Pengaturan perangkat rumah tangga dengan sistem embedded melalui jaringan internet",
+  "abstract": "Di zaman modern seperti saat ini untuk mendukung mobilitas manusia dibutuhkan kepraktisan untuk mengontrol suatu alat dari jarak jauh. Salah satu aplikasinya yaitu untuk mengatur dan memantau suatu perangkat rumah tangga dari jarak jauh. Perangkat rumah yang dikontrol, antara lain: lampu, stop kontak, pintu dan mengatur peredupan intensitas dimmer lamp serta memantau suhu ruangan. Untuk dapat melakukan kontrol dari jarak jauh, digunakan sebuah sistem embedded yang terintegrasi dengan jaringan internet, yaitu RabbitCore RCM3200. RabbitCore RCM3200 ini terhubung langsung dengan jaringan internet dan juga dengan perangkat rumah tangga yang akan di kontrol. Proses kontrol dan pemantauan, dilakukan dengan mengakses nomor IP dari sistem embedded terlebih dahulu, setelah itu proses kontrol baru dapat dilakukan secara manual (menekan push button on/off dari perangkat) maupun dari jarak jauh, yaitu melalui jaringan internet dengan mengakses sistem embedded dari web browser. Dari percobaan yang dilakukan, didapatkan bahwa sistem embedded yang dibuat, dapat melakukan proses kontrol on/off lampu, stop kontak dan buka/tutup pintu rumah sesuai dengan kondisi adanya penekanan push button dari cara manual maupun dari web browser. Dan jika dilakukan pengaksesan dengan web browser (akses dari jarak jauh) maka dapat dipantau suhu ruangan dan dapat mengatur intensitas cahaya dari dimmer lamp.",
+  "creators": "YONDY YOHANNES PHIETER P.",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 03010002/ELK/2004; Yondy Yohannes Phieter Phie (23400012)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS; AUTOMATION"
+}

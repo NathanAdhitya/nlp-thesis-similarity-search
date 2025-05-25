@@ -1,0 +1,14 @@
+{
+  "id": "15382",
+  "title": "Optimalisasi utilitas mesin dan operator di PT. Aditama Raya Farmindo melalui pendekatan simulasi",
+  "abstract": "Utilitas dari mesin dan operator dalam suatu perusahaan merupakan suatu hal yang perlu untuk ditingkatkan secara terus menerus dengan melakukan perbaikan-perbaikan secara bertahap. Dimana untuk peningkatan utilitas mesin dan operator harus diperhatikan kondisi perusahaan yang ada, kapasitas produksi yang ada. Untuk melakukan perbaikan pada elemen kerja sehingga dapat seproduktif mungkin perlu dilakukan dengan perhitungan yang tepat, dan terkadang perbaikan tidak dapat dilakukan secara subyektif, karena bila tidak berhasil dapat menimbulkan kerugian bagi perusahaan. Keadaan awal yang terdapat di lantai produksi dimodelkan dalam suatu program simulasi. Program simulasi ini memiliki input waktu produksi masing-masing elemen kerja, jarak antar stasiun kerja serta data lain seperti target waktu produksi. Program simulasi menggunakan Software Promodel 3.0. Data waktu produksi didapatkan dari hasil pengamatan yang kemudian dilakukan pencocokan distribusi. Program simulasi ini dapat memperlihatkan jalannya proses produksi sehari-hari sehingga dapat diketahui keadaan-keadaan misalnya jumlah barang yang dihasilkan, utilitas mesin, utilitas operator, dan sebagainya. Ouput yang dihasilkan dari program simulasi ini digunakan untuk analisa identifikasi keadaan yang kurang baik di perusahaan. Berdasarkan data awal yang disimulasikan didapatkan output statistik. Hasil output statistik tersebut dianalisa untuk mengoptimalkan % utilitas dari elemen kerja dengan memperhatikan keseimbangan lintasan, dari hasil analisa tersebut didapatkan suatu usulan perbaikan yang kemudian dicoba disimulasikan. Hasil output statistik dari usulan perbaikan dianalisa apakah perbaikan menyebabkan kenaikan % utilitas. Dari hasil simulasi didapatkan target output perusahaan pada proses pencampuran antalgin dan paracetamol belum memenuhi kapasitas maksimal dari mesin dan operator yang ada. Didapatkan juga bahwa terjadi pengalokasian jumlah operator yang berlebihan pada mesin pengeringan dan pengalokasian jumlah mesin pengeringan yang berlebihan pada proses pencampuran CTM.",
+  "creators": "CHARLY WIDJAYA TALITAN",
+  "contributors": "Tessa Vanina Soetanto (Advisor 1); Kristiana Asih Damayanti (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 330/TI-57/2000; Charly Widjaya Talitan (25496106)",
+  "subjects": "MANUFACTURING PROCESSES; WORK MEASUREMENT; PRODUCTION PLANNING-SIMULATION METHODS"
+}

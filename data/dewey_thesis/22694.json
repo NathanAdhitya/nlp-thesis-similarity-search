@@ -1,0 +1,14 @@
+{
+  "id": "22694",
+  "title": "Perancangan sistem pemenuhan order di PT Steel Pipe Industry of Indonesia",
+  "abstract": "Sistem pemenuhan order merupakan permasalahan kompleks yang mencakup perencanaan produksi dan bahan baku. Dalam sebuah perusahaan dengan sistem make to demand, perusahaan dituntut untuk selalu memenuhi order tepat waktu guna memuaskan customer. Tugas akhir ini bertujuan untuk membuat perancangan sistem pemenuhan order di PT Steel Pipe Industry of Indonesia dengan target pemenuhan order 14 hari dengan merancang Master Production Scheduling (MPS) dan Material Requirement Planning (MRP) yang tepat. Master Production Scheduling (MPS) yang digunakan dalam tugas akhir ini didapat dari perhitungan peramalan permintaan, persentase reject, dan kapasitas mesin. Sedangkan untuk Material Requirement Planning (MRP) didapat dari perkiraan kebutuhan bahan baku serta perhitungan lama waktu kedatangan bahan baku. Kombinasi MPS dan MRP yang tepat dapat meminimumkan waktu pemenuhan order. Perbandingan kombinasi MPS dan MRP usulan yang disimulasikan dengan penjadwalan produksi menunjukkan peningkatan persentase order yang terpenuhi dalam target perusahaan. Hasil simulasi selama 4bulan menggunakan kombinasi MPS dan MRP yang tepat meningkatkan persentase order yang terpenuhi dalam taget perusahaan sebesar 29,15% dari keadaan sebelum simulasi.",
+  "creators": "PRISCA HADIWIJAYANTI",
+  "contributors": "Tanti Octavia (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021534/IND/2011; Prisca Hadiwijayanti (25407005)",
+  "subjects": "MATERIAL REQUIREMENTS PLANNING (MRP); PRODUCTION PLANNING; PRODUCTION SCHEDULING; INVENTORY CONTROL"
+}

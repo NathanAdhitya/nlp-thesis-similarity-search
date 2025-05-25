@@ -1,0 +1,14 @@
+{
+  "id": "2136",
+  "title": "Pembuatan sistem pakar untuk pendeteksian dan pengobatan penyakit pada anjing",
+  "abstract": "Bagi seorang dokter hewan kesalahan diagnosis dan pengobatan suatu penyakit akan membawa dampak yang fatal bagi pasiennya, dalam hal ini anjing. Untuk membantu mengatasi hal tersebut, salah satu caranya adalah dengan pembuatan aplikasi sistem pakar. Aplikasi sistem pakar ini meniru cara berpikir seorang dokter hewan dalam melakukan diagnosis suatu kasus penyakit. Aplikasi ini membantu dalam mencari kesimpulan akan penyakit yang diderita beserta pengobatan yang sesuai. Program aplikasi ini menganalisa data anjing, anamnesis awal, serta gejala-gejala dari suatu penyakit. Pengembangan sistem pakar ini menggunakan metode inferensi forward chaining, yaitu proses inferensi yang memulai pencarian dari premis menuju pada konklusi, dan backward chaining, yaitu proses inferensi yang memulai pencarian dari konklusi untuk mendapatkan premis. Aplikasi sistem pakar ini menggunakan pemrograman Borland Delphi 7, dan untuk database-nya menggunakan Microsoft Access 2000. Berdasarkan hasil kuisioner yang telah dilakukan, didapatkan kenyataan bahwa prosentase kelayakan program untuk digunakan oleh dokter hewan adalah sebesar 72%, prosentase keakuratan program adalah sebesar 64%, Prosentase kemudahan penggunaan program adalah sebesar 88%, dan prosentase desain tampilan dari sistem pakar adalah sebesar 84%.",
+  "creators": "HARY MINTARYO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Silvia Rostianingsih (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000306//INF/2005; Hary Mintaryo (26401116)",
+  "subjects": "DIAGNOSIS--DATA PROCESSING; EXPERT SYSTEM (COMPUTER SCIENCE)"
+}

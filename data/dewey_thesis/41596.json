@@ -1,0 +1,14 @@
+{
+  "id": "41596",
+  "title": "Pemrograman dan aplikasi elemen-elemen segitiga linier dan kuadratik untuk masalah torsi saint-venant",
+  "abstract": "Masalah torsi sering kali ditemui dalam bidang struktur. Solusi eksak permasalahan torsi untuk struktur berpenampang lingkaran mudah didapatkan tidak seperti penampang lain dengan penampang non-cilcular. Permasalahan ini dijawab oleh Saint-Venant dengan mengasumsikan deformasi yang akan terjadi. Dalam penelitian ini metode elemen hingga dengan elemen segitiga linier dan elemen segitiga kuadratik digunakan untuk menyelesaikan permasalahan torsi dari Saint-Venant. Berbagai macam material telah diuji, termasuk di dalamnya material isotropik, orthotropik dan anisotropik yang homogen dan non homogen. Perumusan displacement function digunakan untuk berbagai penampang singly dan multiply connected dengan material isotropik, orthotropik dan anisotropik yang homogen dan non homogen. Sementara perumusan stress function digunakan untuk berbagai penampang singly connected dengan material isotropik yang homogen dan non homogen. Hasil dari penelitian ini yang berupa kekakuan torsi dan nilai tegangan geser. Perumusan displacement function dan stress function untuk semua penampang yang diuji menunjukkan hasil yang konvergen terhadap hasil analitis.",
+  "creators": "WIRMANSYAH CHANDRA WIJAYA; JOHAN SIANDY PUTRA",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Joko Purnomo S.T., M.Sc. (Advisor 2); Ir. Soehendro Ratnawidjaja, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.11012198/SIP/2018; Wirmansyah Chandra Wijaya (21414016), Johan Siandy Putra (21414021)",
+  "subjects": "STRUCTURES ENGINEERING; STRUCTURAL ANALYSIS (ENGINEERING)-FINITE ELEMENT METHOD; MATLAB (COMPUTER PROGRAM); FINITE ELEMENT METHOD"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4036",
+  "title": "Perencanaan produksi aggregate dan bahan baku dengan goal programming di PT Alas Petala Makmur",
+  "abstract": "Perencanaan produksi merupakan kegiatan yang sangat penting dari seluruh kegiatan produksi suatu perusahaan. Untuk perusahaan yang memproduksi banyak item produk, maka perencanaan akan menjadi lebih rumit. Untuk itu dibuat suatu perencanaan produksi aggregate. Dalam berproduksi perusahaan memiliki tujuan-tujuan yang ingin dicapai, dimana tujuan-tujuan tersebut sering tidak sejalan antara satu dengan lainnya. Oleh karena itu perlu dibuat suatu perencanaan produksi yang dapat mengakomodasikan tujuan-tujuan tersebut dengan baik. Model goal programming dapat digunakan untuk membuat rencana produksi aggregate yang mengakomodasi lebih dari satu tujuan yang ingin dicapai oleh perusahaan. Peramalan permintaan produk merupakan input untuk perencanaan produksi aggregate. Dari perencanaan aggregate kemudian dilanjutkan ke rencana bahan baku. Rencana bahan baku dibuat dalam bentuk ukuran lot pembelian yang ekonomis. Penerapan model goal programming di PT Alas Petala Makmur dengan tujuan memeksimumkan profit, meminimumkan jumlah produk subkontrak, meminimumkan biaya overtime tenaga kerja dan meminimumkan jumlah inventory. Hasil yang diperoleh menunjukan bahwa model goal programming dapat mengakomodasi tiga tujuan yang ingin dicapai perusahaan sedangkan tujuan untuk meminimumkan jumlah inventory produk jadi tidak terpenuhi. Perbandingan antara rencana dan realisasi menunjukan bahwa rencana produksi aggregate dengan model goal programming dapat mengurangi biaya overtime tenaga kerja sebesar 45% dari biaya yang digunakan realisasi. Untuk perencanaan bahan baku dilakukan berdasarkan metode wagner whitin (WW) .",
+  "creators": "DARSONO SULISTIO",
+  "contributors": "I Nyoman Sutapa (Advisor 1); Herri Christian Palit (Advisor 2); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0810/IND/2004; Darsono Sulistio (25400071)",
+  "subjects": "PRODUCTION PLANNING"
+}

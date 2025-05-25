@@ -1,0 +1,14 @@
+{
+  "id": "62044",
+  "title": "SIASIG (sistem informasi manajemen apresiasi musik gereja) untuk mengelola kegiatan pada paduan suara Petra Christian University (PCU Choir)",
+  "abstract": "Petra Christian University (PCU) adalah salah satu universitas swasta terkemuka di Surabaya dengan akreditasi unggul. PCU Choir, di bawah naungan Pusat Pengembangan Musik Gerejawi Petra (PPMG) dan Wakil Rektor Bidang Kemahasiswaan, memiliki lebih dari 100 anggota mahasiswa yang berkomitmen untuk mengembangkan musik gereja dan berpartisipasi dalam berbagai kegiatan dan kompetisi. Namun, pengelolaan administrasi PCU Choir masih dilakukan secara manual, yang menyebabkan beberapa kendala seperti kesulitan dalam rekapitulasi data, kelambatan persetujuan, dan risiko miskomunikasi. Penelitian ini bertujuan untuk mengembangkan Sistem Informasi Apresiasi Musik Gereja (SIASIG) yang akan membantu PCU Choir dalam mengelola manajemen kegiatan, anggota, dan partitur dengan lebih efisien dan efektif. Penelitian ini menggunakan metodologi pengembangan perangkat lunak dengan framework Laravel, meliputi analisis kebutuhan, desain sistem, implementasi database, pengujian, dan evaluasi. Studi literatur sebelumnya juga digunakan sebagai dasar pengembangan sistem ini. Hasil evaluasi yang dilakukan melalui uji skenario dan kuesioner User Acceptance Test (UAT) menunjukkan bahwa SIASIG berhasil meningkatkan efisiensi manajemen administrasi. Sebanyak 66,7% dari 9 partisipan (admin) merasa sangat puas dengan sistem ini. SIASIG mempermudah proses pencatatan data kegiatan, anggota, dan partitur yang sebelumnya dilakukan secara manual. Selain itu, kendala seperti tidak terlapornya kegiatan atau tidak terdatanya partisipan dapat diatasi dengan baik melalui sistem ini. Dengan adanya SIASIG, PCU Choir dapat mengatasi kendala administrasi dan meningkatkan kualitas manajemen kegiatan, anggota, dan partitur.",
+  "creators": "KEVIN DANIEL",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Krisna Wahyudi, S.Kom., M.T. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022601/INF/2024; Kevin Daniel (C14200140)",
+  "subjects": "DATABASE MANAGEMENT--COMPUTER PROGRAMS; MANAGEMENT INFORMATION SYSTEM-COMPUTER PROGRAMS"
+}

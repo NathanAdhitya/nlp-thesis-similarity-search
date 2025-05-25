@@ -1,0 +1,14 @@
+{
+  "id": "27789",
+  "title": "Perencanaan dan pembuatan remote control 10 channel untuk pengaturan on-off peralatan elektronika dengan media infra merah menggunakan mikrokontroler 80C31",
+  "abstract": "Umumnya untuk menyalakan atau mematikan beberapa peralatan elektronika kita perlu mengeluarkan tenaga ekstra dengan berjalan menuju ke tempat saklar pada tiap peralatan. Hal ini masih diperkenankan, namun ada beberapa peralatan yang menimbulkan radiasi kecil dalam jarak dekat sewaktu pertama dinyalakan. Pada tugas akhir ini dibuat suatu alat remote control dengan media sensor infra merah untuk pengendalian beberapa peralatan elektronika dalam jarak yang cukup jauh. Hal ini bertujuan agar pemakai lebih praktis, effisien dan mencegah efek yang ditimbulkan dari beberapa peralatan yang dinyalakan dalam jarak dekat. Digunakan mikrokontroler 80C31 karena mempunyai fasilitas internal data memori (RAM), timer, on chip oscillator dan input output port, sehingga rangkaian yang direncanakan lebih sederhana dan bentuk fisik peralatan menjadi lebih praktis dan kecil. Sistem remote control ini terdiri dari 10 channel yang dapat diprogram waktu maupun lamanya on maupun off untuk tiap channel serta untuk transmitter dapat dikunci ( password ). Serta digunakan real time clock MC 146818 yang dapat dipakai untuk fasilitas jam, tanggal dan mendukung kepresisian waktu maupun lamanya suatu device atau peralatan untuk on maupun off. Pada pengujian sistem remote control dengan media sensor infra merah ini dilakukan pengukuran tegangan sebelum dan setelah rangkaian penguat untuk mengetahui seberapa jauh remote control ini dapat digunakan dengan sempurna.",
+  "creators": "Rudijanto Adiwidjaja",
+  "contributors": "AGUS MULYANTO (Examination Committee 1); SUPENO DJANALI (Advisor 2); Daniel Indarto Prajogo (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/006/0163; Rudijanto Adiwidjaja (23487019)",
+  "subjects": "AUTOMATIC CONTROL; MICROCONTROLLER 80C31; REMOTE CONTROL-COMPUTER PROGRAMS"
+}

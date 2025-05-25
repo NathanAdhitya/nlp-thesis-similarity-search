@@ -1,0 +1,14 @@
+{
+  "id": "49753",
+  "title": "Penerapan conditional based maintenance berbasis IIoT pada motor induksi",
+  "abstract": "Conditional based Maintenance merupakan suatu jenis perawatan mesin yang dilakukan berdasarkan informasi yang telah dikumpulkan melalui monitoring kondisi mesin tersebut. Sistem ini menggunakan Node Red dalam Raspberry Pi untuk membaca nilai parameter yang berada di dalam PLC Siemens S7-1200. Parameter yang dibaca adalah vibrasi motor, temperatur motor, dan load factor motor. Sistem ini dapat dimonitor secara online sehingga terbebas dari batasan jarak dengan interface dari dashboard Node Red di Raspberry Pi. Selain itu sistem juga fungsi lain seperti mengirimkan notifikasi saat parameter melebihi batas, menyimpan data parameter motor ke dalam database, memberikan rata-rata nilai parameter pada hari itu. Apabila motor mengalami kenaikan nilai secara berlebih dari parameter yang diukur maka sistem dapat mengeluarkan analisis kemungkinan penyebab nilai parameter tersebut naik. Implementasi IoT menggunakan Dataplicity. Berdasarkan hasil pengujian yang dilakukan, PLC telah berhasil mengirimkan data ke Node Red, interface dashboard telah berhasil dilakukan monitoring secara online, algoritma yang dibuat sudah sesuai dengan flowchart, parameter motor telah berhasil dimasukkan ke dalam database, sistem notifikasi untuk alarm dapat dikirimkan melalui email atau SMS bagi user yang sedang tidak tersambung dengan internet. Namun pembacaan data motor dari sensor belum bisa berjalan dengan sempurna dikarenakan parameter yang dibaca sensor masih kurang akurat.",
+  "creators": "JONATHAN ADITYA WIJAYA",
+  "contributors": "Handy Wicaksono (Advisor 1); Roche Alimin (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011011/ELK/2021; Jonathan Aditya Wijaya (C11170010)",
+  "subjects": "ELECTRIC MOTORS, INDUCTION; INTERNET OF THINGS; MACHINERY--MAINTENANCE AND REPAIR"
+}

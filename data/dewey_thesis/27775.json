@@ -1,0 +1,14 @@
+{
+  "id": "27775",
+  "title": "Sebuah database untuk sistem informasi pada construction site udbc (unified datebase for construction)",
+  "abstract": "Suatu sistem informasi dengan database yang direncanakan secara adhoc akan kurang efektif dan sulit sekali untuk mengikuti berbagai ragam tuntutan proses bisnis. Ruang lingkup penelitian ini meliputi perancangan sebuah database untuk mengendalikan pelaksanaan proyek konstruksi. Penelitian ini dilakukan berdasarkan suatu generalisasi, bahwa proses konstruksi adalah suatu proses dimana Resource diubah menjadi BQ Item melalui serangkaian Activity. Hasil yang dicapai dalam penelitian ini merupakan sebuah semantic model yang menggambarkan ketiga entity beserta hubungan yang ada diantaranya. Semantic model menggunakan The Relational Concept sebagai data model dan menghasilkan sebuah Database Schema yang dinamakan UDBC. Database Schema ini memanfaatkan hubungan induk dan anak dalam menyusun berbagai aktivitas yang ada dalam proyek konstruksi. Hal ini telah memberikan suatu fleksibilitas kepada database dalam menyediakan berbagai kebutuhan informasi bagi pihak-pihak yang terlibat dalam proses konstruksi. Dengan tetap mempertahankan sudut pandang global, kesederhanaan dan integritas data, hasilhasil yang diperoleh menunjukkan bahwa UDBC telah mampu menyimpan dan menyajikan kembali data/informasi tentang jumlah sumber daya, biaya, dan waktu pelaksanaan yang dibutuhkan dalam pelaksanaan sebuah proyek konstruksi.",
+  "creators": "VERLINA WIJAYA",
+  "contributors": "Herry Pintardi Chandra (Examination Committee 1); JANUAR BUDIMAN (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No.01000077/MTS/2004; Verlina Wijaya (01502012)",
+  "subjects": "CONCRETE CONSTRUCTION INDUSTRY-MANAGEMENT"
+}

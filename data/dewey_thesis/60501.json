@@ -1,0 +1,14 @@
+{
+  "id": "60501",
+  "title": "Website sistem informasi penjualan, pembelian, dan pengiriman produk pada Perusahaan Garmen CV X",
+  "abstract": "CV X merupakan bisnis yang berada di kota Malang dan berdiri pada tahun 2016. CV X sendiri bergerak di bidang tekstil dengan melakukan penjualan sprei seperti, bantal, guling, kasur, dan lainnya. Bahan yang diproduksi akan diletakkan pada inventory dan melakukan sistem made by order. Dengan bertambahnya jumlah pembeli setiap tahunnya, CV X memerlukan sistem informasi untuk melakukan pengolahan mulai dari pendataan transaksi hingga laporan penjualan untuk mendukung pertumbuhan bisnisnya. Hal tersebut diperlukan karena adanya kesalahan yang terjadi dalam pencatatan pesanan oleh admin sehingga harus melakukan konfirmasi ulang ke pembeli dan kerugian yang ada akan ditanggung oleh CV X. Pada proyek akhir ini, akan dibuat website yang mempermudah dalam melakukan transaksi penjualan dan pembelian produk. Pembuatan website ini didukung dengan menggunakan laravel sebagai framework, PHP sebagai bahasa pemrograman, dan MySQL sebagai databasenya untuk meningkatkan pengalaman berbelanja yang lebih baik kepada pembelinya. Setelah dilakukan pengujian, website ini mendapatkan hasil akhir 86.67 dengan menggunakan perhitungan dari System Usability Scale (SUS). Angka tersebut dapat diartikan bahwa user puas dengan website yang telah dibuat. Website ini dapat mengurangi tingkat kesalahan dan mempermudah transaksi dikarenakan karyawan yang ada dapat memiliki akses user yang berbeda-beda tiap bagiannya serta jika ada pembeli yang komplain dapat dilakukan dengan mudah.",
+  "creators": "ANGELICA AGATHA",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022532/INF/2024; Angelica Agatha (C14200127)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; MANAGEMENT INFORMATION SYSTEMS; PROGRAMMING (ELECTRONIC COMPUTERS); WEB SITES--DESIGN"
+}

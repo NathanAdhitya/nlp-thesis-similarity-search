@@ -1,0 +1,14 @@
+{
+  "id": "33815",
+  "title": "Enterprise architecture sistem informasi pada Hotel ABC",
+  "abstract": "Hotel ABC merupakan perusahaan yang bergerak di bidang perhotelan yaitu persewaan kamar, persewaan ruang meeting dan coffee shop. Hotel ABC memiliki cabang yang memiliki spesifikasi hotel yang sama. Dalam proses bisnisnya, Hotel ABC memiliki sistem informasi untuk mendukung proses bisnis yang ada. Namun, sistem informasi yang ada belum terintegrasi antara hotel pusat dan hotel cabang. Selain itu, sistem informasi yang ada belum sempurna karena masih ada beberapa pencatatan yang dilakukan secara manual. Oleh karena itu, pada skripsi ini, dilakukan analisa dan pembuatan desain sistem informasi enterprise architecture bagi perusahaan. Kerangka kerja yang digunakan yaitu Enterprise Architecture Planning. Proses diawali dengan melakukan analisa model bisnis dan strategi bisnis perusahaan. Kemudian melihat kondisi information technology di perusahaan saat ini, permasalahan yang dihadapi dan kebutuhan information technology di masa depan. Setelah itu dilakukan pembuatan desain arsitektur data, arsitektur aplikasi dan arsitektur teknologi yang sesuai dengan tujuan, strategi bisnis dan proses bisnis perusahaan. Arsitektur Data yang dihasilkan untuk perusahaan terdiri dari beberapa sub sistem yaitu Sub Sistem Service dan Kontrol, Sub Sistem Pembelian, Sub Sistem Penjualan, Sub Sistem Pengeluaran, Sub Sistem Accounting, Sub Sistem Personalia, Sub Sistem Admin. Arsitektur Aplikasi terdiri dari beberapa aplikasi utama dan aplikasi pendukung. Aplikasi utama terdiri dari Sistem informasi Service dan Kontrol, Sistem Informasi Pembelian, Sistem Informasi Penjualan, Sistem Informasi Pengeluaran, Sistem Informasi Accounting, Sistem Informasi Personalia, Sistem Informasi Admin. Aplikasi aplikasi tersebut merupakan aplikasi berbasis web, kecuali aplikasi Sistem Informasi Penjualan yang menggunakan aplikasi berbasis Visual Basic dengan Embedded Database. Aplikasi yang mendukung aplikasi-aplikasi tersebut adalah aplikasi Data Provider dimana aplikasi tersebut membantu aplikasi utama dalam berkomunikasi untuk melakukan permintaan data antar aplikasi. Arsitektur Tekonologi menggunakan Client/Server Architecture Pattern dan Service Oriented Architecture.",
+  "creators": "STEPHANIE SOESATYO",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Andreas Handojo (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021393/INF/2015; Stephanie Soesatyo (26411123)",
+  "subjects": "INFORMATION TECHNOLOGY; INFORMATION SYSTEM-HOTEL"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "26142",
+  "title": "Perancangan dan pembuatan sistem informasi point of sale pada mini market sakura rejeki",
+  "abstract": "Mini Market Sakura Rejeki adalah sebuah mini market yang bergerak di bidang penjualan dan pembelian makanan minuman ringan dalam kemasan, dan kebutuhan sehari-hari. Pada saat ini pencatatan kegiatan yang dilaksanakan masih dilakukan secara manual. Setiap hari Sabtu, kumpulan faktur penjualan yang ada dikumpulkan dan dicatat kedalam pembukuan. Hal ini menyebabkan banyak masalah seperti kesalahan pencatatan, data yang diinputkan kurang lengkap karena hilangnya faktur dan waktu yang digunakan untuk mencocokan kembali relatif lebih lama, serta kesulitan untuk membuat laporan laba rugi dikarenakan penyimpanan data yang tidak teratur. Berdasarkan latar belakang permasalahan yang terjadi, maka penulis merancang sistem informasi point of sale yang meliputi sistem penjualan, pembelian, pencatatan stok, dan menampilkan laporan dalam suatu periode. Pembuatan aplikasi ini menggunakan Microsoft Visual Studio 2005 VB.NET sebagai bahasa pemrogramannya dan Microsoft SQL Server 2005 sebagai databasenya. Aplikasi yang dibuat dapat menampilkan berbagai macam laporan, serta transaksi penjualan dan pembelian. Laporan ini berguna untuk membantu melihat transaksi yang terjadi dalam periode tertentu.",
+  "creators": "NATHANAEL",
+  "contributors": "Liliana (Advisor 1); Ibnu Gunawan (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021120/INF/2012; Nathanael (26406052)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMANT; DATABASE MICROSOFT SQL SERVER; MICROSOFT VISUAL STUDIO 2005 (COMPUTER PROGRAM LANGUAGE)"
+}

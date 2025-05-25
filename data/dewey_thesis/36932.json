@@ -1,0 +1,14 @@
+{
+  "id": "36932",
+  "title": "Pembuatan sistem informasi administrasi pada PT Galoeh Husada Farma",
+  "abstract": "Seiring dengan perkembangan zaman, perusahaan membutuhkan sistem untuk melakukan pengolahan data, khususnya perusahaan distribusi yang menjual obat-obatan membutuhkan sebuah sistem informasi administrasi untuk mencegah kontrol barang yang kurang bagus sehingga menghindari out of stock. Aplikasi yang dibuat menggunakan bahasa pemrograman PHP, Javascript, Ajax, JQuery, dan menggunakan MySQL sebagai database. Dalam pembuatan aplikasi, sistem informasi administrasi yang dibuat menggunakan metode FIFO sehingga barang yang pertama kali dibeli merupakan barang yang pertama kali dijual dan metode ini sangat cocok dengan jenis perusahaan yang melakukan distribusi obat-obatan ke seluruh wilayah Jawa Timur dan luar pulau. Hasil akhir dari pembuatan aplikasi sistem informasi administrasi, yakni dapat melakukan pengecekan out of stock dan dapat mengetahui jumlah stok barang dengan melakukan pencatatan kartu stok barang apabila terjadi transaksi penerimaan, pengiriman, retur pembelian, retur penjualan, dan kegiatan stok opname.",
+  "creators": "WINARDY HERTANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); I Gede Agus Widyadana (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021553/INF/2016; Winardy Hertanto (26411165)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

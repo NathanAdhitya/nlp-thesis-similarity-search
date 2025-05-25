@@ -1,0 +1,14 @@
+{
+  "id": "45182",
+  "title": "Sistem pakar rekomendasi produk makeup berbasis web dengan metode forward chaining",
+  "abstract": "Seiring dengan berjalannya waktu, semakin banyak merk-merk dari makeup yang bermunculan. Dari merk tersebut, mengeluarkan banyak sekali jenis-jenis produk-produk makeup yang kegunaannya mendekati sama. Karena banyaknya produk makeup yang baru, maka sering kali pembeli kesulitan untuk menentukan membeli produk yang sesuai dengan kondisi kulit yang dimilikinya. Dalam membantu pemilihan produk makeup yang sesuai, maka diperlukan sistem pakar rekomendasi produk makeup dengan memberikan pertanyaan-pertanyaan yang mudah dimengerti oleh pembeli dan pembeli akan mendapatkan rekomendasi produk makeup yang sesuai. Sistem pakar rekomendasi produk makeup menggunakan knowledge rule based yang menggunakan seorang pakar sebagai dasar pengetahuan untuk menentukan rule. Dalam mengolah informasi yang telah diberikan oleh user, digunakan metode forward chaining dengan mencokkan fakta yang ada menuju pada kesimpulan yang dihasilkan dari fakta tersebut untuk menguji kebenaran hipotesis. Hasil pengujian aplikasi rekomendasi produk makeup menunjukkan bahwa aplikasi dapat menghasilkan produk rekomendasi makeup yang sesuai dengan keinginan user. Proses pengambilan keputusan ini juga memudahkan user karena dapat diakses dari manapun dan kapanpun.",
+  "creators": "NIKITA CHRISTY",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Kartika Gunadi (Examination Committee 1); Leo Willyanto Santoso (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021893/INF/2019; Nikita Christy (26415062)",
+  "subjects": "COMPUTER PROGRAMMING; DATABASE MANAGEMENT; WEB-BASED USER INTERFACES; APPLICATION SOFTWARE"
+}

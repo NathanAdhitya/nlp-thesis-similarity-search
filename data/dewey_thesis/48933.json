@@ -1,0 +1,14 @@
+{
+  "id": "48933",
+  "title": "Sistem keamanan pada kendaraan bermotor roda dua dengan Arduino dan Android berbasis suara",
+  "abstract": "Seiring dengan perkembangan jumlah kendaraan bermotor roda dua yang berkembang dengan sangat cepat dan juga perkembangan teknologi informasi dan komunikasi yang juga tinggi telah membawa manfaat bagi perkembangan kemajuan peradaban umat manusia di dunia maupun di Indonesia khususnya smartphone, namun masalah yang berkaitan dengan kriminalitas khususnya terhadap pencurian motor juga bisa dikatakan sangat tinggi, sehingga perlu dirancang suatu sistem keamanan pada kendaraan bermotor roda dua dengan Android dan Arduino yang dapat diperintah melalui suara. Sistem yang dibuat menggunakan smartphone Android sebagai penerima inputan perintah berupa suara dan Arduino sebagai alat yang mengontrol perangkat keras berdasarkan perintah. Sistem ini akan mengirimkan perintah suara dari Android yang telah diubah menjadi text dengan metode speech to text dan mengirimkan perintah sesuai dengan input perintah melalui pesan yang dikirimkan melalui SMSManager terhadap modul SIM800LV2.0 yang terpasang pada Arduino Uno. Pesan yang diterima pada modul SIM800L V2.0 akan diproses oleh Arduino Uno, sehingga Arduino dapat mengontrol setiap modul yang terpasang, seperti buzzer, modul GPS (Global Positioning System), dan relay sebagai pengontrol dari sistem security, sistem kontak, maupun sistem starter pada motor. Berdasarkan hasil pengujian yang telah dilakukan, menunjukkan bahwa sistem ini sudah dapat berjalan dengan baik untuk mengontrol kendaraan bermotor roda dua dengan Android dan Arduino dalam memberikan suatu sistem keamanan bagi kendaraan bermotor roda dua yang juga dilengkapi dengan fitur lokasi untuk mengetahui letak dari kendaraan.",
+  "creators": "ANDREAS WIJAYA KANGNATA",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Justinus Andjarwirawan (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Resmana Lim (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022015/INF/2021; Andreas Wijaya Kangnata (C14170095)",
+  "subjects": "ANDROID (ELECTRONIC RESOURCE)--PROGRAMMING; ARDUINO (PROGRAMMABLE CONTROLLER)"
+}

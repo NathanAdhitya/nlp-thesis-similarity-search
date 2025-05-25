@@ -1,0 +1,14 @@
+{
+  "id": "53177",
+  "title": "Perancangan simulasi dan program kontrol autonomous mobile robot di pabrik garmen",
+  "abstract": "Rancangan program kontrol dan simulasi AMR ini dibangun pada ekosistem Robot Operating System (ROS). Rancangan yang dimaksud meliputi: AMR virtual, pabrik garmen virtual, program pengontrol low-level, dan program bringup. Semua proses perancangan ini dapat dimungkinkan karena ROS dilengkapi dengan komponen-komponen pendukung, seperti: URDF, Gazebo, dan Rosserial. URDF berfungsi untuk membangun AMR virtual, sedangkan Gazebo berfungsi untuk membangun lingkungan virtual. Rosserial memungkinkan pemrograman kontrol di board yang kompatibel dengan ROS. Program kontrol ini terkait dengan sistem odometry dan penglihatan dari AMR yang tentunya memiliki tingkat ketelian yang perlu diuji. Dari hasil pengujian, disimpulkan bahwa sistem odometry yang dimiliki robot memiliki ketelian pembacaan sumbu x sebesar 4.34 % dan sumbu y sebesar 11.59 %. Pengujian orientasi dan kecepatan robot membuktikan robot memiliki error masing-masing 1.01% dan 4.12%. Dari hasil pengujian penggabungan pembacaan sensor LiDAR ditemukan bahwa robot memiliki error sebesar 1.25%. Pengujian fungsionalitas simulasi membuktikan bahawa robot simulasi dapat bekerja dengan baik pada lingkungan virtual. Adapun pengujian pergerakan robot simulasi terhadap riil membuktikan bahwa robot simulasi memiliki error ketepatan posisi sebesar 18.49% dan orientasi sebesar 11.08%.",
+  "creators": "GLENN RICARDO",
+  "contributors": "Handy Wicaksono (Advisor 1); Indar Sugiarto (Advisor 2); Thiang (Examination Committee 1); Resmana Lim (Examination Committee 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011040/ELK/2022; Glenn Ricardo (C11180021)",
+  "subjects": "MOBILE ROBOTS; MOBILE ROBOTS--PROGRAMMING; AUTOMATIC CONTROL"
+}

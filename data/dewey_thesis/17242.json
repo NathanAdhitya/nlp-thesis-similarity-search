@@ -1,0 +1,14 @@
+{
+  "id": "17242",
+  "title": "Perencanaan kebutuhan material (MRP) pada industri tangki plastik",
+  "abstract": "Kondisi perekonomian yang semakin menurun menyebabkan banyaknya perusahaan yang tidak dapat bertahan. Kesulitan dalam pembelian material akibat fluktuasi harga dan penurunan tingkat penjualan, menyebabkan perusahaan merasa perlu untuk merencanakan cara baru yang tepat dan efisien. Salah satu cara untuk mengatasinya adalah dengan menyusun suatu perencanaan kebutuhan material. Dalam menyusun perencanaan kebutuhan material (material requirement planning), memerlukan data-data penjualan masa lalu untuk menentukan pola data. Perhitungan selanjutnya adalah msaghxtung forecasting yang akan menjadi jadwal induk perencanaan produksi dan pemesanan material. Output dari perencanaan kebutuhan material adalah berupa planned order released (PORE) yang tergantung pada lead time. Planned Order Released adalah suatu perencanaan produksi atau pemesanan material dari hasil teknik Lot Sizing. Metode Lot Sizing yang digunakan yaitu: metode Lot for lot, Silver meal dan algoritma Wagner-Within. Metode Lot for lot dipilih karena metode ini bertujuan untuk meniadakan penyimpanan untuk safety stock. Penggunaan dari metode Silver meal adalah metode heuristik untuk menetapkan periode pemesanan dengan biaya yang minimum untuk memenuhi beberapa periode sekaligus. Sedangkan metode Wagner-Within merupakan penentuan kapan dan berapa jumlah yang akan diproduksi dengan biaya yang optimal. Perhitungannya dari demand dalam perencanaan dan ditempatkan pada awal periode dengan alternatif dari periode dengan biaya paling minimum. Analisa yang dilakukan penyusun adalah dengan membandingkan biaya yang paling minimum untuk ketiga metode tersebut dan membandingkan pula dengan sistem perusahaan asal untuk menunjukkan kelemahannya. Hasil dari analisa kuantitatif menunjukkan bahwa perencanaan produksi menggunakan metode Lot for lot dikarenakan biaya paling minimum dengan tanpa adanya penyimpanan produk. Sedangkan lot sizing pemesanan material menggunakan metode Silver meal, untuk pemesanan beberapa periode dan iterasi dihentikan sampai adanya kenaikkan biaya total per periodenya.",
+  "creators": "DORIS INDRA YULITA",
+  "contributors": "Maja Indahwati (Advisor 1); Kriswanto Widiawan (Advisor 2); I Gede Agus Widyadana (Examination Committee 1); Jani Rahardjo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 208/TI-34/1999; Doris Indra Yulita (25494011)",
+  "subjects": "INVENTORY CONTROL; MATERIALS-MANAGEMENT"
+}

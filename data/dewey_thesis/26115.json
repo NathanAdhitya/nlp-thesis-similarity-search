@@ -1,0 +1,14 @@
+{
+  "id": "26115",
+  "title": "Penjadwalan mata kuliah untuk mahasiswa saat PRS dengan metode genetic algorithm",
+  "abstract": "Dalam perkuliahan, jadwal kuliah merupakan sesuatu yang sangat penting sehingga pada saat mahasiswa melaksanakan pendaftaran rencana studi, mahasiswa akan menemui beberapa kesulitan dalam membuat jadwal kuliah dikarenakan harus mempertimbangkan banyak hal, misalnya apakah jadwal ujian dari tiap mata kuliah yang mereka ambil itu sesuai, ataupun kesulitan menentukan mata kuliah apa yang harus diambil terlebih dahulu, begitu juga untuk mahasiswa yang memiliki banyak kegiatan di luar universitas yang mengakibatkan mahasiswa hanya bisa kuliah pada jam-jam tertentu saja. Genetic Algorithm merupakan salah satu metode untuk mempermudah membuat sebuah jadwal kuliah. Metode ini dapat menentukan apakah jadwal kuliah tersebut sudah tepat atau tidak, dengan menggunakan suatu perhitungan fitness cost yang mana kualitas hasilnya dapat dibandingkan dengan jadwal kuliah yang lain. Kemudian dengan menggunakan crossover, mutasi dan elitism yang dapat memberikan solusi yang lebih baik. Aplikasi ini dikembangkan dengan menggunakan bahasa pemrograman Microsoft Visual Studio 2005 VB.NET dan Microsoft SQL Server 2005 sebagai penyimpanan data. Berdasarkan hasil kuisioner, 80% responden memberikan nilai 4 dari 5 untuk kualitas jadwal yang dihasilkan, sedangkan 20% responden memberikan nilai 5 dari 5 untuk kualitas jadwal yang dihasilkan.",
+  "creators": "DENNY ALEXANDER WIBOWO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Kartika Gunadi (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021110/INF/2012; Denny Alexander Wibowo (26408040)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMANT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

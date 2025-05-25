@@ -1,0 +1,14 @@
+{
+  "id": "5368",
+  "title": "Penerapan algoritma kriptografi DES, AES dan RSA serta algoritma kompresi data LZM untuk pengamanan berkas digital",
+  "abstract": "Dewasa ini, arus perpidahan informasi menjadi sangat tinggi, sehingga dibutuhkan teknologi yang dapat memampatkan dan menjaga keamanan informasi tersebut. Kedua hal tersebut memicu perkembangan teknologi kriptografi dan kompresi data. Implementasi dari kedua hal tersebut seringkali dilakukan sendiri-sendiri sehingga pengguna minimal harus menjalankan dua proses. Dalam skripsi ini, kedua hal tersebut diintegrasikan dalam satu proses enkapsulasi dengan menggunakan algoritma kriptografi DES, AES dan RSA serta algoritma kompresi data LZW. Pengujian yang dilakukan menunjukkan dua hal. Pertama, rasio kesalahan antara berkas orisinil dengan hasil definisi ulang dari berkas terenkapsulasi sebesar 0,00%. Kemudian, penggunaan kompresi data dengan algoritma kompresi data LZW tidak selalu menghasilkan informasi dengan ukuran yang lebih kecil. Juga dilakukan perhitungan terhadap lama proses yang dibutuhkan untuk berbagai variasi ukuran berkas.",
+  "creators": "YUDI CHANDRA KURNIAWAN",
+  "contributors": "Unknown",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010601/INF/2007; Yudi C. Kurniawan (26402019)",
+  "subjects": "CRYPTOGRAPHY-COMPUTER PROGRAM"
+}

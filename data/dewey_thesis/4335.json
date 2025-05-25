@@ -1,0 +1,14 @@
+{
+  "id": "4335",
+  "title": "Perencanaan dan pembuatan sistem informasi pembelian dan penjualan di PT. Conbat",
+  "abstract": "Perusahaan PT. Conbat bergerak di bidang pembuatan Accu dengan target pasar di dalam dan luar negeri. Dalam sistem yang lama, PT. Conbat mengalami banyak kendala terutama dalam pengolahan data. Selama ini perusahaan masih menggunakan sistem manual dalam hal mencatat pembelian, penjualan maupun pada persediaan barang. Akibatnya sering terjadi perbedaan antara stok yang tertera pada kartu stok dengan jumlah barang yang ada secara fisik sehingga mempengaruhi efisiensi dan efektivitas kerja. Dalam menanggulangi masalah tersebut, maka dirancang suatu sistem informasi yang cepat, tepat dan akurat dalam hal penjualan dan persediaan barang pada PT. Conbat dengan menggunakan komputer sebagai alat bantu. Proses pembuatan program dimulai dari awal yaitu dengan melakukan analisis proses pembelian, penjualan dan persediaan barang perusahaan yang secara manual, kemudian menyusun DFD,EFD, pembuatan tabel sampai pada pemrograman. Untuk pengamanan data, setiap pemakai akan di beri nama user, password, dan menu yang bisa diakses. Sistem operasi yang digunakan adalah Windows 2000. Pembuatan database menggunakan SQL Server 2000, sehingga memungkinkan pengembangan lebih lanjut menjadi Client Server. Bahasa pemrograman yang dipakai adalah Borland Delphi 7. Keberhasilan dari program aplikasi ini adalah membangun komputerisasi dari sistem pembelian dan penjualan di perusahaan \"PT. CONBAT\" sehingga proses pembelian dan penjualan lebih rapi karena tercatat dengan baik. Selain itu, dengan perangkat lunak ini, persediaan barang dan bahan baku dapat dikontrol dengan baik, sehingga dapat membantu pihak manajemen dalam hal penyediaan informasi dengan cepat, lengkap dan akurat.",
+  "creators": "CHRISTIN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Agustinus Noertjahyana (Advisor 2); M. ISA IRAWAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 020093/INF/2003; Christin (26499022)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

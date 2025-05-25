@@ -1,0 +1,14 @@
+{
+  "id": "5091",
+  "title": "Pengaksesan sistem informasi kemahasiswaan Universitas Kristen Petra melalui handphone dengan menggunakan teknologi Java",
+  "abstract": "Perkembangan teknologi nirkabel yang semakin maju merupakan salah satu penyebab terjadinya percepatan seseorang untuk memperoleh informasi tertentu. Melalui sebuah mobile devices seperti telepon genggam saat ini seseorang dapat dengan mudah melakukan akses internet untuk memperoleh informasi tertentu. Universitas Kristen Petra sebagai sebuah kampus yang berdasar pada teknologi merasa perlu juga mempersiapkan sistem informasi kemahasiswaan yang dapat diakses melalui mobile devices. Desain sistem melibatkan sisi client dan sisi server, sisi client akan memanfaatkan telepon genggam sebagai perangkat untuk melakukan akses informasi dengan dukungan perangkat lunak Java 2 Micro Edition. Sisi server memanfaatkan sebuah web server dengan dukungan utama script language PHP dan juga database Microsoft Visual Fox Pro yang diletakkan pada database server. Hasil pengujian yang dilakukan oleh mahasiswa Petra dari beberapa jurusan yang berbeda menunjukkan bahwa desain sistem berhasil dengan baik walaupun ada sebuah ketergantungan sistem dengan dukungan GPRS yang ada. Pada saat tingkat pemakaian GPRS tinggi, sistem mengalami gangguan baik dalam hal pengiriman maupun penerimaan data. Sedangkan saat tingkat pemakaian GPRS rendah, sistem tidak mengalami gangguan dan dapat berjalan.",
+  "creators": "ARI GUNAWAN",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 03010005/ELK/2004; Ari Gunawan (23400121)",
+  "subjects": "JAVA (COMPUTER PROGRAM LANGUAGE); ELECTRONIC MAIL MESSAGES-COMPUTER PROGRAMS; ELECTRONIC MAIL MESSAGES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "44518",
+  "title": "Penentuan jumlah dan lokasi gudang distribusi untuk meminimalkan biaya logistik proses B2C pada PT X",
+  "abstract": "PT X yang merupakan perusahaan Fast Moving Consumer Goods (FMCG) menggunakan sistem distribusi Business to Business (B2B) untuk menyalurkan produknya. Perusahaan saat ini sedang melakukan test market untuk produk tembakau alternatif baru menggunakan sistem Business to Consumer (B2C). Tujuan dari penelitian ini adalah menentukan jumlah dan lokasi gudang yang memberikan total biaya logistik minimal bagi PT X dalam melakukan metode bisnis yang baru, dimana PT X saat ini masih menggunakan 4 gudang milik perusahaan untuk menjalankan proses B2C. Penentuan jumlah dan lokasi gudang ini dilakukan dengan Agglomerative Hierarchical Clustering (AHC) dimana pengelompokkan didasarkan dari jarak yang terpendek yang dilakukan dengan Evolutionary Solver. Center of Gravity (COG) juga digunakan dalam menentukan lokasi gudang. Iterasi akan dilakukan untuk mendapatkan jumlah gudang yang memberikan biaya minimal. Perhitungan biaya tersebut akan meliputi biaya transportasi, biaya gudang serta biaya manpower. Pembuatan model didasarkan pada proyeksi demand dari 10% penjualan SPM tahun 2017. Hasil dari pembuatan model menunjukkan bahwa penggunaan jumlah gudang yang optimal adalah 6 gudang, dengan lokasi di daerah Cengkareng Timur, Gambir, Rawabadak, Cakung, Ciracas dan Cipete. Keenam lokasi gudang ini akan memberikan total biaya logistik yang paling minimal dengan proyeksi demand yang ada. Setiap gudang akan memiliki pembagian wilayah pasar yang berbeda-beda. Penggunaan lokasi dan jumlah gudang ini akan menurunkan total biaya logistik sebesar 29,6% untuk setiap 2 bulannya apabila dibandingkan dengan penggunaan gudang saat ini. Penurunan biaya ini dikarenakan adanya penurunan biaya pengiriman dari gudang ke end-customer (outbound) sebesar Rp 127.812.100,- untuk setiap 2 bulannya.",
+  "creators": "TANIA NANO CAHYONO",
+  "contributors": "I Nyoman Sutapa (Advisor 1); Jani Rahardjo (Examination Committee 1); Maynard Koerniadi (Advisor 2); Willy Saputra (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022198/IND/2019; Tania Nano Cahyono (25415029)",
+  "subjects": "COST CONTROL; LOGISTIC DISTRIBUTION"
+}

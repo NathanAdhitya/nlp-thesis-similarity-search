@@ -1,0 +1,14 @@
+{
+  "id": "19485",
+  "title": "Magnetic levitation dengan kontrol pid analog",
+  "abstract": "Magnetic Levitation dengan kontrol PID analog bertujuan untuk melayangkan benda. Sebelumnya alat ini sudah ada namun alat yang lama menggunakan LDR (Light Dependent Resistor) sebagai sensor.Pada alat yang lamapenggunaan LDR sebagai sensor memiliki kelemahan yaitu sistem susah untuk stabil sehingga benda susah untuk dapat melayang. Pada alat yang baru ini menggunakan sensor hall effect. Dengan menggunakan sensor hall effect ini tercipta alat magnetic levitation yang dapat melayangkan benda dengan lebih cepat stabil. Benda yang dilayangkan harus ditempel dengan magnet. Hasil pengujian alat ini menunjukan hasil yang memuaskan. Alat dapat melayang benda dengan stabil dan cepat. Pengujian dilakukan pada beberapa aspek yang meliputi sensor yang digunakan, setting point yang berbeda pada sistem, berat beban yang dapat dilayangkan. Penggunaan beban yang berat pada sistem berpengaruh dengan jumlah magnet yang ditempel pada benda. Perubahan nilai kapasitansi kapasitor dilakukan untuk merubah nilai ki dan kd. Pada sistem ini nilai kp yang digunakan adalah 4, nilai ki 0, dan nilai kd 0,33.",
+  "creators": "ALAN ASTONO",
+  "contributors": "Hany Ferdinando (Advisor 1); Murtiyanto Santoso (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010916/ELK/2010; Alan Astono (23406018 )",
+  "subjects": "MAGNETIC LEVITATION; AUTOMATIC CONTROL-COMPUTER PROGRAMS; PID CONTROLLER"
+}

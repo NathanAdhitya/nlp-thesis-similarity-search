@@ -1,0 +1,14 @@
+{
+  "id": "21500",
+  "title": "Analisa tegangan pada roda gigi dengan metode elemen hingga",
+  "abstract": "Makalah ini membahas penerapan Metode Elemen Hingga untuk analisis tegangan dan defleksi yang terjadi pada roda gigi lurus akibat gaya kontak yang terjadi pada operasi roda gigi sebagai alat transmisi daya. Keuntungan penerapan Metode Elemen Hingga adalah kemampuannya untuk digunakan dalam analisis yang berkenaan dengan bentuk geometri struktur yang sulit/tidak sederhana dan pembeDanan yang kompleks. Di samping itu dengan Metode Elemen Hirtgga akan didapat hasii berupa distribusi tegangan dan defleksi di seluruh struktur, tidak terbatas hanya pada tegangan dan defleksi di titik tertentu saja. Sebagai teknik numerik yang implementasinya memanfaatkan teknologi komputer, Metode Elemen Hingga dapat memberikan hasii analisa yang akurat dalam waktu yang relatif singkat. Dalam hal ini apabila dilakukan modifikasi terhadap struktur, maka struktur yang dimodifikasi tersebut dapat dianalisis ulang secara cepat. Sebagai contohnya, dalam Tugas Akhir yang dikerjakan dilakukan analisis terhadap profil roda gigi dengan radius akar gigi yang bervariasi. Pemodelan geometris profil roda gigi dilakukan dengan bantuan perangkat lunak AUtOCAD 12 untuk mendapatkan geometri profil roda gigi yang akurat. Model geometris hasil AutocAD 12 kemudian diekspor ke perangkat lunak SAP9O untuk dibuat ''mesheenya dan kemudian dilakukan analisis elemen hingga.",
+  "creators": "DANDY BARATA SOEWANDITO",
+  "contributors": "Unknown",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96.54.179; Dandy Barata Soewandito (24491053)",
+  "subjects": "GEARING"
+}

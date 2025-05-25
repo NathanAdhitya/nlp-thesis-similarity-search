@@ -1,0 +1,14 @@
+{
+  "id": "57155",
+  "title": "Sistem back-end situs web administrasi kemahasiswaan Universitas Kristen Petra",
+  "abstract": "Biro Administrasi Kemahasiswaan dan Alumni (BAKA) Universitas Kristen Petra yang dikoordinasi oleh Wakil Rektor Bidang Kemahasiswaan (WR3) memiliki peran penting dalam mengelola kegiatan kemahasiswaan. Namun, beberapa proses administrasi kemahasiswaan seperti pengajuan proposal, laporan pertanggungjawaban, dan Satuan Kredit Kegiatan Kemahasiswaan (SKKK) masih dilakukan secara manual melalui e-mail. Selain itu, kurangnya integrasi antar proses administrasi juga mengakibatkan kesulitan dalam rekapitulasi data. Oleh karena itu, penelitian ini bertujuan untuk merancang dan mengimplementasikan sistem back-end untuk situs web sebagai sistem informasi BAKA Universitas Kristen Petra. Sistem ini akan mengatasi kendala tersebut dan memberikan solusi yang lebih efisien dalam proses administrasi kemahasiswaan. Metode penelitian yang digunakan adalah pengembangan API (Application Programming Interface) menggunakan Laravel sebagai framework, PostgreSQL sebagai database, dan Redis serta database indexing untuk meningkatkan performa sistem. Sistem juga dilengkapi dengan fitur notifikasi melalui e-mail untuk dapat meningkatkan efisiensi dan akurasi dalam proses administrasi. Melalui pengujian termasuk unit test dan load testing, API dari sistem menunjukkan performa yang baik dengan rata-rata waktu response sekitar 100 ms menggunakan Postman Runner, serta error rate sebesar 0-0.33% menggunakan Apache JMeter dengan 500 concurrent user. Dengan demikian, penelitian ini memberikan kontribusi dalam mengoptimalkan proses administrasi kemahasiswaan di BAKA Universitas Kristen Petra menggunakan pendekatan teknologi informasi yang efektif.",
+  "creators": "CALVERT TANUDIHARDJO",
+  "contributors": "Liliana (Advisor 1); Yulia (Advisor 2); Ivan Widiyanto S.Kom (Advisor 3); Agustinus Noertjahyana (Examination Committee 1); Justinus Andjarwirawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Riset Pemasaran",
+  "source": "Skripsi No. 01022386/INF/2023; Calvert Tanudihardjo (C14190033)",
+  "subjects": "APPLICATION PROGRAM INTERFACES (COMPUTER SOFTWARE); EDUCATION, HIGHER--ADMINISTRATION; WEB APPLICATIONS--COMPUTER PROGRAMS; WEB SITES"
+}

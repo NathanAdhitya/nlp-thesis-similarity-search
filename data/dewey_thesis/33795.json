@@ -1,0 +1,14 @@
+{
+  "id": "33795",
+  "title": "Digitalisasi lecturing note",
+  "abstract": "Perkembangan teknologi mempermudah manusia dalam melakukan berbagai hal. Metode pengajaran saat ini memiliki banyak variasi sehingga proses pembelajaran lebih hidup. Pembelajaran dengan penjelasan proses demi proses yang dapat terlihat sangat bermanfaat. Terkadang dalam suatu proses justru gerakan tangan memegang peranan penting untuk memahami proses secara mendalam. Penggunaan webcam dapat menjadi alternatif lain untuk mendigitalisasi apa yang ditulis user. Skripsi ini bertujuan untuk membuat digitalisasi lecturing note pada kertas memanfaatkan device webcam. Sistem yang dibuat meliputi proses pengambilan image, pendeteksian kertas, projection mapping kertas, skin detection dan skin removal, serta pengolahan hasil goresan yang didapatkan dengan metode threshold. Proses pendeteksian tepi kertas menggunakan metode canny edge detection, di mana dari image webcam berubah menjadi image dengan area kertas berwarna putih. Proses projection mapping untuk me-mapping image dengan bentuk kertas yang trapesium menjadi image dengan bentuk kertas persegi panjang. Proses skin detection menggunakan ruang warna HSV dan YCbCr, di mana image awal yang masih menampilkan tangan berubah menjadi image tanpa adanya tangan. Aplikasi dibuat menggunakan bahasa pemrograman C# dengan Visual C# 2010 sebagai IDE nya. Hasil pengujian menunjukkan warna, ketebalan tinta, ambang batas nilai threshold, ketinggian webcam, ukuran dan jarak antar goresan, serta tingkat pencahayaan akan mempengaruhi hasil akhir dari aplikasi. Selain itu, pada saat menulis dengan posisi tangan di atas kertas akan memunculkan bayangan tangan. Hasil paling bagus dari semua metode yang dicoba adalah hasil dari metode threshold.",
+  "creators": "LISTYA PURNOMO",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021396/INF/2015; Listya Purnomo (26411042)",
+  "subjects": "DIGITAL TECHNOLOGY; DIGITAL COMMUNICATIONS"
+}

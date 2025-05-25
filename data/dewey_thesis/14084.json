@@ -1,0 +1,14 @@
+{
+  "id": "14084",
+  "title": "Perencanaan dan pembuatan alat pengatur waktu dan pencatat papan diagram pada pertandingan catur dengan bantuan IBM PC",
+  "abstract": "Umumnya dalam suatu pertandingan catur setelah pecatur selesai menjalankan bidaknya ia harus mematikan waktu lamanya ia berpikir dan harus mencatat setiap langkah yang telah dilakukannya serta dibutuhkan banyak operator kamera guna meliput jalannya pertandingan dari banyak meja yang tersedia. Hal ini dinilai sangat tidak efisien. Pada tugas akhir ini dibuat suatu alat pengatur waktu dan pencatat papan diagram catur secara otomatis sehingga para pecatur tidak perlu mematikan waktu maupun mencatat langkah-langkah yang telah dilakukan dan juga tidak diperlukan banyaknya dana untuk menjalankan suatu pertandingan catur, hal ini karena setiap langkah yang dijalankan pada papan catur dapat langsung terlihat pada komputer IBM PC. Data langkah-langkah setiap bidak yang diperoleh selama pertandingan berlangsung akan disimpan pada file dan dapat dicetak nantinya pada printer serta dapat pula disim-pan pada disket atau hard disk. Digunakannya mikrokontroler 80C31 karena mempunyai fasilitas I/O port dan jalur komunikasi serial, di mana jalur serial ini digunakan untuk mengirim data ke komputer dan menampilkannya pada layar serta menyimpan data tersebut pada file. Dilakukan komunikasi secara serial karena jangkauan jarak komunikasi dapat lebih jauh serta penggunaan port komunikasi serial RS-485 karena dapat disambungkan dengan banyak papan catur sekaligus. Pada pengujian alat pengatur waktu dan pencatat papan diagram catur ini dilakukan dengan menguji sensor yang dipakai yang dalam hal ini Magnetic Reed Switch, serta rangkaian minimum sistem 80C31 untuk mengetahui sinyal -sinyal yang dibutuhkan telah bekerja dengan benar. Kesimpulan yang diambil adalah penggunaan Magnetic Reed Switch di sini menguntungkan karena pion yang dipakai mudah didapat tapi kelemahannya yaitu kepekaan dari Magnetic Reed Switch kurang.",
+  "creators": "Tony Wonginsidi",
+  "contributors": "SOETIKNO (Examination Committee 1); IRWAN SAHLI (Advisor 1); HERLIANTO TENGGARA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/003/0263; Tony Wonginsidi (23488035)",
+  "subjects": "AUTOMATIC CONTROL; ELECTRONIC CONTROLLERS-COMPUTER PROGRAM; MICROCONTROLLER 80C31"
+}

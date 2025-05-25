@@ -1,0 +1,14 @@
+{
+  "id": "27937",
+  "title": "Perencanaan dan pembuatan mesin absensi karyawan dengan menggunakan microcontroller 8031 dengan bantuan mikrokomputer IBM PC/XT",
+  "abstract": "Penggunaan mesin absensi secara mekanis dirasakan kurang efisien, karena adanya kemungkinan terjadinya kesalahan dalam penghitungan jumlah jam yang dilakukan oleh manusia. Mesin absensi karyawan yang direncanakan ini menggunakan microcontroller 8031 yang dibuat berupa suatu sistem minimum microcontroller 8031 yang di-interface-kan ke mikrokomputer IBM PC/XT melalui saluran komunikasi seri RS-232C dengan tujuan untuk mendukung operasi sistem Adapun piranti pendukung dalam sistem minimum tersebut adalah piranti-piranti memori (EPROM dan RAM), PPI 8255, RTC, display serta komunikasi serial. Prinsip kerja mesin absensi karyawan ini adalah menerima input dari sebuah kartu berlubang yang berisi nomor identitas seorang karyawan. Data yang diterima ini akan dibandingkan dengan seluruh data karyawan yang disimpan dalam RAM. Bila data ini benar, maka data yang berupa jam dan menit akan disimpan di dalam RAM sesuai dengan kondisi IN/OUT saat kartu diinputkan. Data-data yang berada di dalam RAM dapat dipindahkan ke dalam disket dengan bantuan mikrokomputer. Selain dipergunakan untuk menerima data seluruh karyawan dari dalam RAM sistem minimum, mikrokomputer ini digunakan untuk mengirimkan data seluruh karyawan ke dalam RAM sistem minimum. Data yang diterima oleh mikrokomputer dapat diolah lebih lanjut. Pengolahan ini terbatas pada perhitungan jumlah jam kerja. Mesin absensi yang dibuat ini mempunyai kapasitas sebesar 128 karyawan, sedangkan pengolahan data oleh mikrokomputer IBM PC/XT hanya terbatas pada perhitungan jumlah jam kerja setiap karyawan selama satu bulan.",
+  "creators": "SUBANDI GUNAWAN",
+  "contributors": "NAWANTO WIBOWO (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 90/E/EL/011/0051; Subandi Gunawan (485007)",
+  "subjects": "ELECTRONIC DIGITAL COMPUTERS; MICROCONTROLLERS"
+}

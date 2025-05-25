@@ -1,0 +1,14 @@
+{
+  "id": "5713",
+  "title": "Prototype remote pintu garasi menggunakan media bluetooth",
+  "abstract": "Kemajuan teknologi didunia ini sangat pesat. Salah satunya adalah teknologi di bidang komunikasi. Teknologi ini ingin diterapkan pada kehidupan sehari-hari, salah satunya adalah pintu garasi. Pintu garasi sering kali dibuka manual pada saat pemilik rumah pulang. Remote berteknologi bluetooth yang dapat dimanfaatkan untuk membuka atau menutup garasi mobil mereka. Sedangkan di sisi garasi mobil, hampir mustahil disediakan satu bluetooth module untuk stand by di garasi mobil. Terdapat bluetooth module yang dapat langsung dihubungkan ke microcontroller yaitu EmbeddedBlue TM 500. Bluetooth module ini berfungsi sebagai converter data yang dikirim oleh bluetooth device dengan sistem bluetooth agar dapat diterima dan dibaca oleh microcontroller. EmbeddedBlue TM 500 ini memakai komunikasi serial UART seperti halnya pada komunikasi serial pada microcontroller. Microcontroller yang dipakai adalah AT89S52. Setelah dilakukan pengujian alat, EmbeddedBlue TM 500 dan USB Bluetooth Dongle dapat berkomunikasi sampai jarak ?18 meter. Selain itu, komunikasi bluetooth sulit dilakukan apabila ada penghalang beberapa tembok.",
+  "creators": "HENDRA ADINATA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010788/ELK/2006; Hendra Adinata (23400073)",
+  "subjects": "WIRELESS COMMUNICATION SYSTEMS; BLUETOOTH; REMOTE CONTROL"
+}

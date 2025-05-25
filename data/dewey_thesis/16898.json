@@ -1,0 +1,14 @@
+{
+  "id": "16898",
+  "title": "Kernel density estimation serta aplikasinya dalam pembuatan regresi nonparametrik",
+  "abstract": "Kernel density estimation merupakan metode nonparametrik yang digunakan untuk mendapatkan estimasi dari fungsi densitas. Namun dalam praktelcnya, untuk mendapatkan hasil estimasi yang baik harus dilakukan pemilihan bandwidth. Bandwidth yang terlalu kecil akan menyebabkan hasil estimasi akan terlihat terlalu kasar dan sebaliknya pemakaian bandwidth yang terlalu besar akan menyebabkan estimasinya terlalu halus dan bias. Bandwidth yang optimal dapat diperoleh dengan meminimalkan mean integrated square error. Ide dasar dari kernel estimator ini dapat digunakan dalam masalah regresi nonparametrik, yaitu untuk mengestimasi fungsi regresi. Seperti halnya pada kernel density estimation, pemilihan bandwidth akan mempengaruhi hasil estimasi fungsi regresinya. Bandwidth yang terlalu kecil akan menyebabkan estimasi yang dihasilkan akan menyerupai data, sedangkan bandwidth yang terlalu besar akan menyebabkan estimasi yang konstan.",
+  "creators": "WILLY GUNARTO",
+  "contributors": "Siana Halim (Examination Committee 3); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 264/TI-90/1999; Willy Gunarto (25495008)",
+  "subjects": "ESTIMATION THEORY; PARAMETER ESTIMATION; REGRESSION ANALYSIS"
+}

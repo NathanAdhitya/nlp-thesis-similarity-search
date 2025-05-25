@@ -1,0 +1,14 @@
+{
+  "id": "42293",
+  "title": "Aplikasi pendeteksi unsur hinaan dalam komentar di media sosial berbahasa Indonesia",
+  "abstract": "Komunikasi di media sosial sudah menjadi bagian dari gaya hidup masyarakat Indonesia. Sebagian besar bentuk dari komunikasi antar pengguna adalah berbentuk teks komentar. Seringkali terdapat komentar yang mengandung unsur hinaan yang ditujukan pada orang lain. Perlu pendeteksian unsur hinaan dalam teks komentar di media sosial. Langkah pertama dalam metode tersebut adalah melakukan normalisasi terhadap teks sehingga teks komentar lebih teratur dan memiliki standar. Penggantian variasi kata hinaan menjadi kata hinaan aslinya juga dilakukan. Kemudian dilakukan proses stemming untuk mengambil kata dasar tiap kata. Dengan melakukan feature extraction terhadap teks tersebut, didapatkan setiap fitur dari teks tersebut kemudian diprediksi menggunakan metode SVM, Logistic Regression, dan Naive Bayes. Aplikasi yang digunakan pada karya tulis ilmiah ini berhasil mendeteksi unsur hinaan dalam teks komentar dari media sosial menggunakan ketiga metode klasifikasi SVM, Logistic Regression, dan Naive Bayes.",
+  "creators": "YOHANES ADAM SASTRODIKORO WIRYOADIKUSUMO",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Justinus Andjarwirawan (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021777/INF/2018; Yohanes Adam S.W. (26414148)",
+  "subjects": "WEBSITES-DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

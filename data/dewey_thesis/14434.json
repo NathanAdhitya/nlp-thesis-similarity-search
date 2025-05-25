@@ -1,0 +1,14 @@
+{
+  "id": "14434",
+  "title": "Perencanaan RPS otomatis sinyal AC-50V dengan output DC 0-5V berbasis mikrokonbtroler 68HC11",
+  "abstract": "Dalam sistem kontrol seringkali dijumpai rangkaian pengkondisi sinyal. Rangkaian ini merupakan media yang menyesuaikan lebar tegangan kerja antara dua buah peralatan dengan spesifikasi yang berbeda. Untuk mempermudah operator ditambahkan kontroler yang mengambil alih tugas peritungan dan penyetelan sistem. Pembuatan alat ini meliputi selector dan rectifier untuk menangani tegangan AC, rangkaian potensiometer digital menggunakan resistor array, rangkaian DAC0800 sebagai zero, minimum sistem MC68HC11 sebagai pusat pemrosesan data, 7 segment sebagai display yang menampilkan input untuk setting, keypad yang berguna untuk setting harga-harga span dan zero. Dari hasil perancangan, implementasi, dan pengujian alat, terjadi kegagalan sistem pada rangkaian span (multiplekser pada resistor array) yang disebabkan oleh resistansi internal dari IC CMOS.",
+  "creators": "BUDI SUWITO",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/003/397; Budi Suwito (23491032)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; INTEL 68HC11 (MICROCONTROLLER)"
+}

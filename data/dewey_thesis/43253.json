@@ -1,0 +1,14 @@
+{
+  "id": "43253",
+  "title": "Sistem informasi administrasi pada perusahaan multi cabang PT Akixpres",
+  "abstract": "Perusahaan AkiXpres menyediakan berbagai macam jenis barang aki. Saat ini, proses penjualan dan pembelian masih dilakukan secara tertulis ataupun lisan. Hal tersebut dapat menimbulkan beberapa masalah. Pertama, dalam proses perpindahan stok dapat terjadi kesalahan dalam menghitung stok barang yang dimiliki antar cabang. Ketidakcocokan data yang dimiliki dapat membuat data antar cabang yang tidak terintegrasi. Jika data antar cabang tidak sinkron, maka laporan yang dibuat pun menjadi tidak valid. Selain itu, dalam menjalankan setiap proses dibutuhkan waktu sehingga dapat menghambat proses lainnya dan sulit melakukan pencatatan serta membuat laporan. Untuk itu, diperlukan sebuah sistem yang dapat mengelola, mengintegrasikan dan mencatat data dengan baik agar proses dapat berjalan lancar serta menghasilkan laporan. Sistem ini memiliki beberapa fitur utama diantaranya penjualan, pembelian, penerimaan, mutasi, pencatatan stok, perhitungan harga pokok penjualan, pembayaran, cetak invoice dan menghasilkan laporan penjualan, pembelian, biaya dan laba rugi. Sistem ini dibuat dengan menggunakan bahasa pemograman HTML, PHP, Javascript, framework Laravel dan database MySQL. Tampilan sistem menggunakan template SB Admin 2 dengan Bootstrap. Hasil akhir dari pengembangan sistem ini adalah dapat terintegrasinya informasi perusahaan seperti catatan penjualan, pembelian, invoice, stok barang, penerimaan dan laporan. Pengguna dengan hak akses manajer dan investor dapat melihat laporan penjualan, laporan pembelian dan stok yang dimiliki oleh cabang.",
+  "creators": "RIBKA KWANDANA, KWAN",
+  "contributors": "Yulia (Advisor 1); Justinus Andjarwirawan (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021855/INF/2019; Ribka Kwandana, Kwan (26415148)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (COMPUTERS)"
+}

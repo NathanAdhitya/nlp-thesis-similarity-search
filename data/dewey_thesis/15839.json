@@ -1,0 +1,14 @@
+{
+  "id": "15839",
+  "title": "Implementasi alat ukur tekanan darah (sphygnomanometer) otomatis dengan bantuan personal komputer",
+  "abstract": "For years blood pressure meter depends only on feeling and skills from medical operator, now automation has been introduced. SBP (Systolic Blood Pressure) and DBP (Diastolic Blood Pressure) measurements on patient become more easily nowdays, thanks to the invention of MOTOROLA pressure sensor. MOTOROLA pressure sensor has two outputs, one is used as the cuff pressure while the other is used to extract cuff pressure oscillations. The first output directly interfaced with ADC (Analog to Digital Converter) to Personal Computer using PPI (Programmable Peripheral Interface) Card. The other output will be filltered and amplified before finally interfaced with ADC to PC through the same PPI Card. Electronic Cuff Inflater will be controlled from PC using PPI Card, the cuff pressure can also be monitored by bar mdicator on computer screen. Meanwhile, for cuff exhaustion can be done manually by the patient. Oscillations that occur during the measurements become the basic idea to calculate SBP and DBP. Main menu software that will controll the entire measurement system from PC has been made user friendly with extra information for each command icons. Digital result from the measurement on computer screen has made this method can easily be read. In fact, the results after doing many measurement experiments are less accurate plus there are instability on measurement results during measurement. Measurement results vary in errors for different object of measurement. Further development and research on wiring, repositioning components and using very low noise components hopefully will improve accuracy and stability of this electronic blood pressure meter.",
+  "creators": "ANDREAS A.BIMAWAN SETIADI",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/051/488; Andreas Avellinus Bimawan Setiadi (23495060)",
+  "subjects": "BLOOD PRESSURE-MEASUREMENT; SPHYGMOMANOMETER"
+}

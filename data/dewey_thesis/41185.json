@@ -1,0 +1,14 @@
+{
+  "id": "41185",
+  "title": "Aplikasi simulasi dan pembelajaran routing protocol dengan metode OSPFv2 berbasis android",
+  "abstract": "Untuk berkomunikasi antar Router membutuhkan proses yang biasa dikenal routing protocol. Pemilihan Routing protocol dengan metode OSPFv2 sebagai materi untuk aplikasi pembelajaran karena Metode ini merupakan salah satu dari metode yang paling sering dan umum digunakan untuk protokol antar router, Minimnya aplikasi sejenis, juga menjadi salah satu alasan untuk pembuatan aplikasi ini. Maka pada skripsi ini dibuatlah aplikasi yang dapat sekaligus untuk membaca file materi PDF, mengerjakan latihan soal dan melakukan simulasi mengenai OSPFv2. Aplikasi dibuat dengan basis android, dan dikembangkan menggunakan Android Studio. sehingga pengguna dapat dengan mudah belajar menggunakan aplikasi ini. aplikasi dapat menampilkan file PDF, dapat mengerjakan latihan-latihan soal dan melakukan perhitungan hasil jawaban user serta dapat melakukan simulasi mengenai OSPFv2. Aplikasi juga dapat dijalankan pada sistem operasi minimum Android Jellybean 4.3 API 18. Hasil dari skripsi ini dapat disimpulkan aplikasi dapat berjalan dengan baik dalam menampilkan file PDF, menampilkan soal latihan dan melakukan evaluasi jumlah benar jawaban dari user, dan dapat melakukan simulasi OSPFv2 dengan focus topology point to point dan bus multi access. Peletakan device topology terbatas pada kotak 5x8, dan penambahan data file PDF dan soal latihan masih manual karena aplikasi bersifat offline.",
+  "creators": "AGUNG TRIARTA HARIYANTO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021683/INF/2017; Agung Triarta Hariyanto (26413014)",
+  "subjects": "APPLICATION SOFTWARE-DEVELOPMENT; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (COMPUTER PROGRAM)"
+}

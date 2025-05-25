@@ -1,0 +1,14 @@
+{
+  "id": "23698",
+  "title": "Perencanaan penampang kolom persegi akibat momen 2 arah & aksial tekan dengan komputer",
+  "abstract": "Perancangan kolom yang banyak dijumpai sering dirancang atas beban lentur satu arah (uniaksial ) dan beban Iaksial saja. Perancangan ini hanya benar bila struktur diidealisasikan sebagai portal bidang (portal satu arah ) , sedang arah lainnya dianggap balok anak. Pada prakteknya, banyak kolom biaksial yang dirancang secara uniaksial dengan cara pendekatan tertentu. Sebetulnya perancangan ini kurang sesuai dengan keadaan yang sebenarnya terjadi , terutama untuk kolom-kolom pojok. Perancangan kolom secara biaksial sering dihindari karena cukup sulit dan memerlukan waktu relatif lama, karena digunakan cara mencoba-coba. Dalam tugas akhir ini, penyusun mencoba membuat program komputer dalam bahasa BASIC untuk menggantikan card pendekatan maupun penggunaan nomogram. Program yang disusun berdasarkan penurunan rumus yang didasarkan atas kondisi kesetimbangan dan kompatibi itas regangan. Dengan garis netral yang didapat dengan carditerasi, maka dari persamaan kesetimbanqan gaya horisontal didapat luas tulangan total yang dibutuhkan. Dari luas tulangan yang diperoleh tersebut, dihitungg besarnya kapasitas momen resultan. Untuk menjalankan program ini diperlukan masukan (input ) : momen arah x dan arah y, beban aksial tekan, ukuran penampang kolom, mutu baja dan beton, koefisien tinggi manfaat. Dengan program ini diharapkan waktu untuk perancangan kolom biaksial menjadi lebih singkat dengan hasi l yang lebih teliti dan menghindari perhitungan yang berulang-ulang.",
+  "creators": "GUNAWAN; FIDELlA LIMANTO",
+  "contributors": "Hurijanto Koentjoro (Advisor 1); Sukanto Tedjokusuma (Advisor 2); Ir. Soehendro Ratnawidjaja, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 390 S; Gunawan (284074), Fidelia Limanto (284088)",
+  "subjects": "COLUMNS, CONCRETE-COMPUTER PROGRAMS"
+}

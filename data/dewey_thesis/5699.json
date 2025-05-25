@@ -1,0 +1,14 @@
+{
+  "id": "5699",
+  "title": "Simulator proses pencampuran bahan memanfaatkan intouch recipe manager dan intouch SQL access manager",
+  "abstract": "Perkembangan teknologi dalam bidang perindustrian berkembang sangat pesat. Banyak industri yang sudah menggunakan sistem automasi dengan menggunakan PLC (Programmable Logic Controller) dalam bidang produksinya. SCADA (Supervisory Control And Data Acquisition) letaknya berada di atas PLC yaitu berfungsi sebagai operating, supervising, monitoring remote/local, dan mengakses informasi/data dari plant. Salah satu software untuk membuat program SCADA adalah Wonderware InTouch. Wonderware mempunyai program-program tambahan yaitu Recipe Manager dan SQL Access Manager. Pada Tugas Akhir ini, akan dibuat simulasi proses pembuatan kertas. Untuk itu akan dibuat simulator plant yang dihubungkan ke PLC Omron C200HG dan dari PLC dihubungkan ke komputer dengan software Wonderware InTouch. Program Recipe Manager digunakan untuk membuat resep bahan-bahan yang akan dicampur ke dalam mixing chest. Program SQL Access Manager digunakan untuk pencatatan data ke dalam database. Berdasarkan hasil pengujian secara keseluruhan terhadap simulator mixing plant pada proses pembuatan kertas, dapat disimpulkan bahwa Recipe Manager merupakan program sederhana yang mudah digunakan, akan tetapi kegunaannya sangat penting yaitu dalam hal membuat recipe (resep). SQL Access Manager mempunyai banyak fungsi, akan tetapi fungsi-fungsi yang digunakan dalam simulator pencampuran bahan ini terbatas pada mengkoneksikan dan memutuskan koneksi dengan database, membuat tabel baru dengan parameter-parameter yang telah ditentukan terlebih dahulu, mencatat data yang ada pada plant sesuai dengan parameter-parameter yang telah ditentukan, serta mengakses data yang ada pada database tersebut.",
+  "creators": "WILLIAM SUTANTO",
+  "contributors": "Resmana Lim (Advisor 1); Handy Wicaksono (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010806/ELK/2006; William Sutanto (23402054)",
+  "subjects": "COMPUTER PROGRAMS; PLANT MAINTENANCE"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "53567",
+  "title": "Analisis non-linear struktur tensegrity menggunakan total potential energy optimization with metaheuristic methods (TPO/MA)",
+  "abstract": "Total Potential Energy Optimization With Metaheuristic Methods (TPO/MA) adalah metode analisis struktur yang menggunakan prinsip energi minimum. Metode ini dapat melakukan baik analisis linear maupun non-linear pada berbagai struktur tanpa modifikasi yang signifikan dalam prosesnya. Salah satu struktur yang bersifat sangat non-linear adalah struktur tensegrity. Dalam penelitian ini, metode TPO/MA dengan tiga algoritma metaheuristik yaitu TLBO, HS dan SOS digunakan untuk melakukan analisis non-linear pada 5 studi kasus struktur tensegrity yang telah diteliti sebelumnya. Kelima studi kasus yang diteliti bervariasi dari segi geometri hingga material yang digunakan. Pada beberapa studi kasus, elemen-elemen struktur juga diberikan prestress. Hasil analisis struktur yang didapatkan TPO/MA menggunakan TLBO, HS dan SOS berupa displacement pada setiap DOF aktif struktur hingga tegangan, regangan, dan gaya dalam elemen. Beberapa batasan seperti batas deformasi ditambahkan untuk memastikan solusi analisis struktur masih dalam batas logis dan wajar. Hasil penelitian menunjukkan TPO/MA dapat melakukan analisis non-linear pada struktur tensegrity dengan akurat apabila dibandingkan dengan studi-studi terdahulu, dan memiliki konsistensi yang tinggi dalam penyelesaiannya. Algoritma TLBO dan SOS memiliki performa yang lebih baik dibandingkan HS dalam menyelesaikan analisis non-linear pada struktur tensegrity menggunakan TPO/MA.",
+  "creators": "DENALYN TANIST ISTIANTO",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Doddy Prayogo S.T. (Advisor 2); Pamuda Pudjisuryadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000322/MTS/2022; Denalyn Tanist Istianto (B21210016)",
+  "subjects": "ENGINEERING MATHEMATICS; STRUCTURAL ANALYSIS (ENGINEERING); TENSEGRITY (ENGINEERING)--MATHEMATICAL MODELS; TENSEGRITY (ENGINEERING)"
+}

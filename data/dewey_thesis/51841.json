@@ -1,0 +1,14 @@
+{
+  "id": "51841",
+  "title": "Aplikasi deteksi jumlah orang pada area indoor untuk mendukung pelaksanaan ppkm dengan metode YOLO",
+  "abstract": "Akhir-akhir ini, dunia sedang dilanda wabah Covid-19 yang menyebabkan beberapa aktifitas dan sektor menjadi terhambat, salah satunya adalah sektor tempat jual beli baik itu yang ada di dalam pusat perbelanjaan maupun di luar. Akhirnya timbulah sebuah solusi di mana setiap toko diberi batasan jumlah pengunjung untuk meminimalkan penyebaran virus Covid-19. Namun terdapat sebuah permasalahan yaitu pengawasan jumlah pengunjung dilakukan secara manual sehingga kurang efektif dan efisien. Oleh karena perlu adanya sebuah aplikasi yang dapat memonitor jumlah pengunjung apabila telah mencapai batasan tertentu, aplikasi akan mengirimkan notifikasi ke pengguna. Metode yang dipakai dalam pembuatan aplikasi ini dalam proses deteksi jumlah orang adalah You Only Look Once (YOLO). Aplikasi memiliki fitur agar user bisa mengkonfigurasi sendiri parameter-parameter yang akan digunakan. Secara keseluruhan, sistem pendeteksi yang digunakan masih memiliki kekurangan dalam mendeteksi obyek yang berukuran kecil sehingga terkadang tidak terdeteksi sebagai orang. Selebihnya, sistem berjalan tanpa masalah dari obyek yang berukuran besar hingga menengah. Di sisi lain, secara keseluruhan para responden survei puas dengan sistem ini, hal ini terlihat pada hasil survei yang diambil dari 15 responden mengenai penilaian bagaimana aplikasi ini membantu pelaksanaan PPKM yaitu mendapat nilai rata-rata 8.53 dari 10, sedangkan penilaian mengenai kemudahan penggunaan aplikasi dan user interface adalah 8.6 dari 10 dan 8.4 dari 10.",
+  "creators": "YOKEN ADINATA",
+  "contributors": "Kartika Gunadi (Advisor 1); Indar Sugiarto (Advisor 2); Liliana (Examination Committee 1); ALVIN NATHANIEL TJONDROWIGUNO, S.Kom. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022123/INF/2022; Yoken Adinata (C14170008)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--COMPUTER PROGRAMS; COMPUTER PROGRAMMING"
+}

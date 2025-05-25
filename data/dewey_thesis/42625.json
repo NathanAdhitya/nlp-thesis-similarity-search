@@ -1,0 +1,14 @@
+{
+  "id": "42625",
+  "title": "Prototipe balancing robot dengan metode kendali PID",
+  "abstract": "Saat ini teknologi untuk alat transportasi ataupun kegiatan yang mendukung manusia semakin berkembang. Salah satunya adalah balancing robot yang sekarang semakin banyak berkembang dan digunakan oleh perorangan ataupun industri. Balancing robot bisa digunakan dalam bentuk transportasi berupa segway atapun alat bantu untuk produksi pada pabrik. Prototipe Balancing robot tersebut dilengkapi dengan IMU sensor yang berfungsi untuk mendeteksi nilai kemiringan. Metode PID pada prototipe balancing robot ini bertujuan untuk mengembalikan posisi robot dari posisi awal miring menjadi tegak atau seimbang. Berdasarkan hasil pengujian pada posisi tidur, robot tidak dapat mengembalikan posisi menjadi tegak atau seimbang dikarenakan adanya osilasi gangguan pada robot.",
+  "creators": "INDRO ZAINI",
+  "contributors": "Handry Khoswanto (Advisor 1); Felix Pasila (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010964/ELK/2018; Indro Zaini (23412025)",
+  "subjects": "ROBOTS-MOVEMENT; BALANCING OF MACHINERY"
+}

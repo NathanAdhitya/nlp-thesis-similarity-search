@@ -1,0 +1,14 @@
+{
+  "id": "26403",
+  "title": "Perancangan dan pembuatan aplikasi multiple sequence alignment dengan menggunakan algoritma clustal w",
+  "abstract": "Seiring dengan pekembangan ilmu pengetahuan dan teknologi, semakin banyak keuntungan yang ditemukan dari sebuah proses Polymerase Chain Reaction (PCR). Untuk memulai sebuah proses PCR diperlukan sepasang helaian asam nukleat yang berfungsi sebagai titik awal untuk sintesis DNA yang disebut primer. Para ahli biologi merasa kesulitan untuk mendesain sepasang primer untuk suatu spesies tertentu di dalam sampel DNA jika di dalam sampel tersebut terdapat DNA spesies yang bukan spesies yang ingin digandakan bagian DNAnya. Berdasarkan permasalahan tersebut, maka diperlukan suatu aplikasi yang dapat membantu orang mendesain sepasang primer. Pada skripsi ini akan dibuat aplikasi untuk melakukan alignment pada beberapa sequence DNA sekaligus dengan menggunakan algoritma Clustal W. Output dari aplikasi ini dapat membantu user untuk mendesain sepasang primer yang cocok. Metode ini dapat menghasilkan alignment yang memperlihatkan daerah dari sequence DNA yang homolog. Berdasarkan hasil pengujian yang dilakukan, hasil Alignment sangat dipengaruhi oleh parameter weight matrix dan gap penalties. Dengan parameter weight matrix dan gap penalties yang berbeda alignment yang dihasilkan juga akan berbeda. Perbedaan waktu proses algoritma Clustal W dibandingkan dengan Clustal mengikuti quadratic growth.",
+  "creators": "STEVEN HERIYANTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021060/INF/2011; Steven Heriyanto (26407071)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); SOFTWARE ENGINEERING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "22406",
+  "title": "Sistem informasi proses produksi pada PT. Indoasri Dirgafoam",
+  "abstract": "Dalam usaha memproduksi sepon pada PT. Indoasri Dirgafoam banyak ditemui bebagai kesulitan selama proses produksinya, hal ini dikarenakan untuk sekali proses produksi harus melalui berbagai bagian terlebih dahulu, yaitu : bagian marketing untuk proses pembuatan surat dan perhitungan secara manual, bagian produksi untuk proses pembuatan sepon, dan yangterakhir adalah bagian gudang untuk proses pengiriman. Karena itu untuk satu prosesnya akan memakan waktu yang cukup lama dan karena masih menggunakan sistem manual maka faktor kesalahan manusia dal am hal perhitungan juga masih besar.Tujuan dari Tugas akhir ini adalah untuk memberikan berbagai fasilitas dalam hal efisiensi dan otomatisasi untuk ketiga bagian tersebut Sebagai implementasinya akan diwujudkan dalam bentuk sistem database berbasiskan komputer dalam suatu jaringan client server dengan menggunakan Microsoft Sql Server 7 sebagai databasenya. Database ini akan diletakkan pada server tersendiri yang akan diakses oleh ketiga bagian tersebut. Untuk interfacenya digunakan Borland Delphi 6- dimana masing-masing klien akan didesain interface programnya secara berbeda-beda. Hasil yang diperoleh dari adanya sistem ini adalah : berkurangnya keterlambatan hasil produksi yang disebabkan karena lamanya proses perhitungan untuk proses produksi, memberikan berbagai kemudahan dalam hal pengontrolan bahan baku dan barang jadi yang telah selesai diproduksi atau diproses, menjadikan keseluruhan proses yang sebelumnya menggunakan sistem manual menajdi sistem komputerisasi yang dapat memberikan tingkat efisiensi dan keakuratan perhitungan yang lebih baik dari sistem sebelumnya, memberikan berbagai bentuk laporan yang dibutuhkan oleh perusahaan untuk meningkalkan kinerja proses produksi secara umum Dengan demikian dengan adanya sistem ini ketiga bagian tersebut akan dapat terintegrasi dengan baik dan proses otomatisasi serta efisiensi proses produksi dapat beijalan dengan baik",
+  "creators": "WIYONO HARTANTO",
+  "contributors": "Rudy Adipranata (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010003/INF/2002; Wiyono Hartono (26498002)",
+  "subjects": "DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

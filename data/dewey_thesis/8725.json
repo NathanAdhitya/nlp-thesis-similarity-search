@@ -1,0 +1,14 @@
+{
+  "id": "8725",
+  "title": "Perencanaan dan pembuatan sistem multiple weblog dengan asp.net",
+  "abstract": "Tren pengembangan aplikasi web tidak hanya terbatas pada aplikasi-aplikasi yang berorientasi bisnis seperti toko online, tetapi juga mulai menyebar ke bidang-bidang lain. Saat ini muncul tren pengembangan aplikasi Weblog atau yang lebih dikenal sebagai Blog. Weblog merupakan jurnal yang diisi secara periodik dan diperuntukkan bagi konsumsi umum. Oleh karena itu dalam Tugas Akhir ini berusaha membangun suatu sistem manajemen Weblog untuk membuat dan mengatur satu atau lebih blog Aplikasi weblog yang dibuat meliputi modul-modul dasar sebuah weblog yaitu antara lain artikel, komentar, member, skin, gallery, foto, dan sebagainya. Konsep yang digunakan adalah Content Management System (CMS) sehingga jika terjadi perubahan pada halaman web tertentu tidak perlu mengubah keseluruhan halaman web yang ada. Aplikasi dibuat dengan ASP.NET 2.0 dengan tool yang digunakan adalah Visual Studio 2005, sedangkan penyimpanan data menggunakan Microsoft SQL Server 2005 Express Edition sehingga dapat dimanfaatkan oleh para blogger dalam melakukan kegiatan blogging. Uji coba terhadap aplikasi weblog dilakukan dengan mencoba beberapa jenis keanggotaan yang memiliki hak akses yang berbeda-beda sehingga dapat diperoleh sebuah aplikasi yang dapat memiliki pembatasan hak akses yang akurat dan terpercaya. Dari pembuatan aplikasi ini dapat disimpulkan penggunaan SQL Express sebagai database sangat praktis karena file database dapat berupa file fisik yaitu file dengan extension mdf. Service untuk SQL Express akan ter-install secara otomatis saat instalasi Visual Studio 2005. Penggunaan .NET Framework dalam implementasi sistem weblog memiliki beberapa keunggulan yaitu sistem dapat diakses oleh browser apapun, tidak terbatas pada Internet Explorer. Selain itu programmer tidak perlu melakukan coding terlalu banyak karena banyak komponen yang sudah disediakan pada .NET Framework.",
+  "creators": "RENDY TANAGO",
+  "contributors": "Theresia Lestiowati (Advisor 1); Ibnu Gunawan (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010634/INF/2007; Rendy Tanago (26403143)",
+  "subjects": "WEBSITES-DESIGN; INTERNET (COMPUTER NETWORKS); PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

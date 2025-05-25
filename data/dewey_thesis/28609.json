@@ -1,0 +1,14 @@
+{
+  "id": "28609",
+  "title": "Aplikasi toko tas online berbasis android",
+  "abstract": "Tren perdagangan yang semakin meledak saat ini yaitu perdagangan online. Hal tersebut terjadi karena banyaknya pengguna internet. Internet tidak hanya dapat digunakan pada komputer saja melainkan sudah merambah ke perangkat komunikasi seluler yang saat ini sedang meledak perkembangannya yaitu smartphone berbasis Android. Pengembangan aplikasi pada smartphone Android dapat digunakan sebagai peluang usaha guna memanfaatkan tren perdagangan yaitu aplikasi toko online. Metode yang digunakan untuk membangun aplikasi toko online adalah membangun database, XML parse dan memanfaatkan SMTP Gmail. Database berfungsi untuk menyimpan data barang ke server. XML digunakan untuk menampilkan informasi yang ada pada database server dalam bentuk dokumen XML. Selanjutnya dokumen XML diurai menggunakan metode DOM parser untuk mendapatkan nilai dari dokumen tersebut. Nilai tersebut akan ditampilkan di aplikasi toko online dalam bentuk listview. Notifikasi barang yang dipesan memanfaatkan SMTP Gmail sehingga aplikasi mengirim email secara otomatis mengenai informasi pesanan ke customer. Berdasarkan hasil pengujian, aplikasi Android yang dibuat dapat menampilkan product dari database server. Pembeli dapat melakukan pemesanan secara online melalui aplikasi Android.Aplikasi toko tas online berbasis Android dapat berjalan dengan baik pada Android versi 2.3.3 (Gingerbread ) ke atas. Aplikasi memiliki ketidaksempurnaan pada bagian gambar product dan proses pemesanan yang hanya dapat dilakukan satu kali saja dalam suatu proses pemesanan product.",
+  "creators": "POUNDRA KARTIKA PUTRA",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010116/ELK/2012; Poundra Kartika Putra (23407014)",
+  "subjects": "ANDROID (COMPUTER PROGRAM); DATABASE DESIGN; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE)"
+}

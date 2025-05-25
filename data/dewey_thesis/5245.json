@@ -1,0 +1,14 @@
+{
+  "id": "5245",
+  "title": "Aplikasi fuzzy logic untuk navigasi robot mobil dengan memanfaatkan sensor vector compass",
+  "abstract": "Saat ini perkembangan teknologi sangat cepat dengan ditemukannya alat-alat digital dengan kemampuan yang semakin canggih. Dengan alat-alat tersebut dapat digunakan untuk membuat sistem navigasi otomatis yang berfungsi untuk mengurangi kesalahan yang disebabkan oleh manusia. Dalam tugas akhir ini sistem navigasi otomatis diaplikasikan pada robot mobil dengan menggunakan metode Fuzzy Logic dan menggunakan sensor vector compass. Fuzzy Logic digunakan untuk mengontrol robot mobil supaya robot mobil dapat bergerak ke arah yang diinginkan dan dengan adanya sensor jarak maka dapat menempuh jarak yang diinginkan. Crisp input yang dipakai yaitu error yang terjadi antara arah robot mobil mula-mula dengan arah yang di-input-kan dari keypad dan crisp output-nya pergerakan robot mobil, nilai crisp output ini yang menentukan arah gerakan dari robot mobil. Pengujian telah dilakukan untuk arah gerakan robot mobil dan jarak tempuh robot mobil. Dari hasil pengujian didapat bahwa dengan menggunakan fuzzy logic hasil pergerakan arah robot mobil cukup baik dengan rata-rata error hanya 1.45 o dan hasil pengukuran jarak dengan rata-rata error 2.82 %.",
+  "creators": "DENY KRISTIANTO",
+  "contributors": "Thiang (Advisor 1); FENDY SANTOSO (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/622/ELK/2003; Deny Kristianto (23498101)",
+  "subjects": "ROBOTS-CONTROL SYSTEMS; MOBILE ROBOTS; ROBOTS"
+}

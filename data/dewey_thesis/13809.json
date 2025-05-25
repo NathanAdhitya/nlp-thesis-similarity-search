@@ -1,0 +1,14 @@
+{
+  "id": "13809",
+  "title": "Penggunaan water heater berbasis mikrokontroller 8088 sebagai pengontrol pemanas air",
+  "abstract": "Sistem pemanas air yang dibuat disini menggunakan teori logika Fuzzy dengan mikrokontroller 8088 sebagai basis dalam mengolah logika Fuzzy. Sehingga pembuatan kernel dari proses Fuzzy ini menggunakan bahasa assembly yang sesuai dengan kernel untuk 68HC11 dari Motorola, sedangkan untuk data base-nya dibuat dengan bantuan software Petrafuz. Pemanas air yang digunakan dihubungkan dengan rangkaian Triac untuk mengatur sudut penyalaannya. Dimana output dari proses Fuzzy inilah yang akan memilih sudut penyalaan yang sesuai dengan kondisi yang ada saat ini. Sedangkan untuk sensor suhu akan digunakan IC LM335 yang mempunyai kemampuan untuk menyatakan temperatur dalam bentuk tegangan, dimana untuk kenaikan tegangan adalah sebanding dengan kenaikan temperatur. Dan sebagai pengubah bentuk tegangan ke dalam bentuk digital agar dapat dibaca oleh mikrokontroller digunakan IC ADC 0804 yang mempunyai rangkaian span dan zero didalamnya. Sistem pemanas air ini akan digunakan untuk mengontrol suhu air antara 30?C sampai 69?C. Dengan menggunakan logika Fuzzy dalam pengontrolan akan didapatkan respon yang sesuai dengan jumlah serta bentuk dari membership function yang digunakan. Semakin banyak jumlah label pada membership function yang digunakan maka respon akan semakin sensitif, walaupun pada dasarnya sistem kontrol jenis ini tidak dibutuhkan respon yang terlalu sensitif. Untuk settling time dari kontrol yang menggunakan logika Fuzzy dapat dikatakan cukup cepat, hanya untuk steady state error-nya sangat tergantung dari bentuk membership function serta rules yang digunakan.",
+  "creators": "ANDI MUNANDAR",
+  "contributors": "IRWAN SAHLI (Examination Committee 1); Yohanes Trilaksono Dibyo S. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/016/410; Andi Munandar (23494025)",
+  "subjects": "AUTOMATIC CONTROL; CELLULOSE TAPE-INDUSTRY; PROGRAMMABLE CONTROLLERS"
+}

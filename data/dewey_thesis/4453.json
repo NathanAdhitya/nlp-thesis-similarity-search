@@ -1,0 +1,14 @@
+{
+  "id": "4453",
+  "title": "Optical character recognition dengan metode gabungan template matching dan feature extraction",
+  "abstract": "Saat ini banyak orang telah menggunakan scanner untuk melakukan scan pada dokumen. Akan tetapi dokumen hasil scan ini dalam bentuk format gambar sehingga tidak dapat dilakukan proses penyuntingan pada dokumen tersebut. Untuk mengubah dokumen tersebut menjadi format teks maka dilakukan proses pengenalan karakter. Metode yang digunakan untuk pengenalan karakter antara lain metode template matching dan feature extraction. Tujuan dari Tugas Akhir ini adalah membuat program pengenalan karakter dengan metode gabungan template matching dan feature extraction. Proses pengenalan karakter ini didukung dengan proses noise removal dan skew angle detection sehingga proses pengenalan karakter dapat menjadi lebih akurat. Hasil pengujian menunjukkan bahwa pengenalan karakter dengan menggunakan dokumen hasil scan dengan color mode text enhanced pada jenis font times new roman sebesar 96,05%, arial sebesar 98,42% dan verdana sebesar 99,34%. Untuk hasil pengujian dengan menggunakan dokumen hasil scan dengan color mode grayscale pada jenis font times new roman sebesar 97,33%, arial sebesar 99,25% dan verdana sebesar 99,41%.",
+  "creators": "DENNY SETIAWAN",
+  "contributors": "Resmana Lim (Advisor 1); Kartika Gunadi (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010000230/INF/2004; Denny Setiawan (26400129)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHIQUES; COMPUTER VISION"
+}

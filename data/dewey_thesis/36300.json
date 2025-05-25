@@ -1,0 +1,14 @@
+{
+  "id": "36300",
+  "title": "Sistem kendali akses pintu menggunakan RFID dan aplikasi android pada laboratorium sistem kontrol",
+  "abstract": "Sistem keamanan merupakan hal yang penting dalam kehidupan. Ada beberapa masalah yang muncul terutama dalam sistem penguncian. Ada beberapa alternatif penyelesaian untuk permasalahan-permasalahan tersebut, salah satunya dengan memanfaatkan kunci elektrik. Selain itu, dengan memanfaatkan aplikasi android untuk memonitor dan mengontrol akses pintu. Untuk itu dalam skripsi ini, dibuat sistem untuk akses masuk atau keluar pintu. Sistem ini juga mampu untuk memonitor akses dari pengguna yang melibatkan kontrol dari mikrokontroler dan melalui aplikasi android. Selain itu, aplikasi android juga berfungsi untuk memproses akses pintu. Pengujian dilakukan dengan menguji sistem akses pintu yang hanya diberikan kepada pemilik kartu RFID dan aplikasi android untuk admin. Selain itu, admin juga dapat melakukan pengecekan akses pintu. Waktu yang dihasilkan dari pengujian pembacaan RFID dan android menggunakan kabel LAN masingmasing sebesar 2.1713 detik dan 4.214 detik, sedangkan menggunakan provider GSM sebesar 4.3212 detik dan 5.989 detik.",
+  "creators": "SAMUEL STEPHANUS CHANDRA",
+  "contributors": "Resmana Lim (Advisor 1); Handry Khoswanto (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010953/ELK/2016; Samuel Stephanus Chandra (23411002)",
+  "subjects": "WEB SERVICES; DATABASE DESIGN; ANDROID (ELECTRONIC RESOURCE)-PROGRAMMING; RADIO FREQUENCY IDENTIFICATION SYSTEMS"
+}

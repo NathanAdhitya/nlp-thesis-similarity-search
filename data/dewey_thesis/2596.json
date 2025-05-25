@@ -1,0 +1,14 @@
+{
+  "id": "2596",
+  "title": "Perancangan dan pembuatan aplikasi segmentasi gambar dengan menggunakan metode morphological watershed",
+  "abstract": "Saat ini, pengolahan gambar dapat lebih mudah dilakukan dengan menggunakan pengolahan gambar digital. Salah satu penyebabnya adalah adanya segmentasi pada gambar digital. Segmentasi dapat dikatakan memisahkan objekobjek yang ada pada gambar, sehingga pengolahan gambar digital dapat dilakukan pada masing-masing objek. Morphological watershed adalah salah satu metode dalam segmentasi. Morphological watershed memproses gambar berdasarkan tingkat warna abu-abunya. Gambar dibentuk seakan-akan menjadi topografi dengan warna paling gelap menjadi dasarnya. Sebelum segmentasi dilakukan dibutuhkan juga pre-processing. Ada banyak macam pre-processing yang dapat dilakukan dan objek yang dihasilkan oleh morphological watershed untuk sebuah gambar berbeda-beda berdasarkan pre-processing yang dilakukan.",
+  "creators": "IVAN PRAYOGO",
+  "contributors": "Rudy Adipranata (Advisor 1); Andreas Handojo (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01000368/INF/2005; Ivan Prayogo (26401084)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

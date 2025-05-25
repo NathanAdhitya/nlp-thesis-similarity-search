@@ -1,0 +1,14 @@
+{
+  "id": "29914",
+  "title": "Pencegah noise adaptif menggunakan starter kit digital signal processor keluarga TMS320",
+  "abstract": "Kegiatan dokumentasi atau perekaman pada suatu acara yang digelar secara live seringkali mengalami gangguan berupa sinyal noise yang berasal dari background sumber utama. Misalnya pada acara seminar, seringkali kegiatan audience menimbulkan suara-suara yang tidak diniginkan, sehingga suara mereka ikut tercampur ke dalam suara pembicara, dan akibatnya mutu hasil rekaman menjadi berkurang. Untuk mencegah timbulnya hal-hal seperti ini, maka sebelum sinyal utama direkam, harus diletakkan sebuah piranti yang mampu mencegah masuknya background noise tersebut ke dalam alat perekam, untuk itu dalam Tugas akhir ini akan dikembangkan sebuah alat yang dapat digunakan untuk mencegah masuknya background noise ke dalam proses perekaman. Alat ini dibuat dengan memanfaatkan Digital Signal Processor (DSP) Starter Kit Keluarga TMS320. Sedangkan metode yang akan digunakan adalah teknik Filter Adaptif yang mampu beradaptasi dan mengikuti perubahan besar sinyal noise. Algoritma adaptasi bobot filter yang digunakan adalah Least Mean Square (LMS). Sinyal input yang dihasilkan oleh pembicara, yang telah terinterferensi noise akan menjadi input utama, sedangkan sebagai input kedua diambil referensi noise dari background. Kedua input (analog) akan diolah menggunakan DSP dengan frekuensi sampling sebesar 16 KHz. Dengan memanfaatkan input ke dua (noise reference), DSP akan mengolah dan menghasilkan replika noise yang akan dikurangkan ke sinyal input yang terinterferensi noise, sehingga hasil yang diharapkan nantinya adalah sinyal pembicara yang sudah dibersihkan noisenya. Proses adaptasi filter yang dimaksud adalah update bobot filter yang dilakukan tiap sampling period dan hasil update ini digunakan untuk input bobot berikutnya. Dari hasil pengujian piranti pencegah noise adaptif ini terlihat bahwa respon frekuensi yang dihasilkan mengindikasikan sinyal pembicara yang noisenya telah terreduksi. Dari hasil pengujian, didapat tap filter yang paling optimum untuk sistem ini adalah 4 tap, dengan reduksi Signal to Noise Ratio sebesar 25 hingga 28 dB. Dengan hasil reduksi ini, menunjukkan bahwa metode filter adaptif dengan algoritma LMS cukup baik digunakan untuk mereduksi noise background. Penelitian lanjutan dapat diteruskan untuk mencari algoritma adaptasi selain LMS, sehingga didapat faktor reduksi yang lebih baik.",
+  "creators": "TRIANGGORO",
+  "contributors": "Resmana Lim (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/KOM/002/024; Trianggoro (23492069)",
+  "subjects": "SIGNAL PROCESSING-DIGITAL TECHNIQUES; SOUND RECORDING INDUSTRY"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "27150",
+  "title": "Analisa nonlinear pada struktur grid",
+  "abstract": "Perhitungan grid yang umum dilakukan selama ini adalah analisa elastis yang menganggap adanya hubungan linear antara momen dan curvature. Tugas akhir ini mencoba membahas tentang analisa material nonlinear pada baja. Pada analisa elastis yang beranggapan material elastis sempurna (nilai E konstan), dengan rumus-rumus yang telah tersedia, dapat dicari besar gaya dalam yang terjadi akibat beban yang bekerja pada struktur. Sedangkan pada analisa nonlinear perhitungan kekakuan (EI) tiap elemen berubah sesuai dengan momen yang terjadi, sehingga hasil yang didapat akan lebih mendekati keadaan yang sebenarnya (realistis) dibandingkan bila struktur dianalisa dengan analisa elastis linear. Dalam daerah nonlinear nilai E selalu berubah sesuai dengan perubahan harga M dan o penampang. Untuk dapat mengikuti perubahan E ini, tiap batang dibagi menjadi elemen-elemen yang kekakuannya (El) berubah sesuai harga E yang terjadi. Sementara itu beban yang diberikan kepada struktur dibagi menjadi beberapa tahap. Dengan membebani struktur dengan suatu tingkat beban, diperoleh gaya dalam pada tiap batang, dan gaya dalam pada tiap elemen juga dapat dicari. Dengan rumus yang ada dapat dihitung nilai o sehingga harga E dapat dihitung pula untuk dipergunakan dalam pembentukan matriks kekakuan untuk perhitungan gaya dalam akibat beban tahap berikutnya. Gaya dalam akhir merupakan kumulatif dari gaya-gaya dalam yang diperoleh pada tiap-tiap tingkatan beban. Dalam penulisan skripsi ini, momen hasil perhitungan dengan analisa elastis ini dibandingkan dengan momen akhir hasil perhitungan dengan analisa nonlinear. Dari perbandingan tersebut dapat diketahui seberapa besar perbedaan antara analisa nonlinear dibandingkan dengan dengan analisa elastis. Untuk keperluan perhitungan gaya dalam dengan menggunakan analisa nonlinear ini, telah dipersiapkan suatu program komputer. Dan dalam upaya mencapai tujuan serta lebih memperjelas oara pemakaian program maka pada penulisan skripsi ini diberikan beberapa contoh soal.",
+  "creators": "SUSANNA SUKAMTO; F. X. SATRIO HUTOMO",
+  "contributors": "Daniel Zefania Pribadi (Advisor 1); Benjamin Lumantarna (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 483 S; Susanna Sukamto (14286051), F. X. Satrio Hutomo (14286098)",
+  "subjects": "NONLINEAR PROGRAMMING"
+}

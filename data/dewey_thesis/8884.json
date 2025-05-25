@@ -1,0 +1,14 @@
+{
+  "id": "8884",
+  "title": "Virtual drum dengan menggunakan sensor kamera",
+  "abstract": "Belakangan ini banyak bermunculan mesin - mesin game ( lebih dikenal dengan nama arcade ) yang kreatif dan inovatif, terutama untuk mesin - mesin game musik, sebagai contoh: dengan bermodalkan input gitar plastik yang tidak bersenar, kita bisa memainkan gitar layaknya gitaris kelas dunia. Dengan maksud untuk meramaikan koleksi permainan digital ini, saya mengangkat judul ini. Tujuan dari tugas akhir ini adalah untuk menggunakan kamera sebaga i sensor input untuk mendeteksi gerak tangan dari pemain dengan kombinasi ketukan tertentu, yang kemudian diteruskan sebagai input yang menghasilkan output suara seperti suara ketukan drum pada speaker. Metode yang digunakan adalah segmentasi berdasarkan warna untuk memisahkan antara warna input yaitu warna tangan dengan warna lainnya yang tertangkap oleh kamera dengan resolusi 128 x 96, dan 30 frame rate persecond. Pemisahan ini dapat dilakukan karena adanya sampel warna tangan yang dipakai oleh kamera sebagai vision image bagi CPU. Fungsi- fungsi yang diperlukan diambil dari Open Source Computer Vision Library serta INTEL ? Image Processing Library. Berdasarkan hasil pengujian sistem dapat diambil beberapa kesimpulan. CPU dapat mendeteksi letak posisi dari tangan pemain dengan menggunakan beberapa sensor ROI ( Region Of Interest ) untuk mengenal warna input yang sama dengan warna sampel. Program bekerja lebih cepat pada resolusi terendah yaitu 128 x 96, dengan kemampuan output suara mencapai 5 ketukan perdetik. Directsound yang merupakan bagaian dari Microsoft Directx 8.1 SDK, terbukti bekerja dengan baik. Hal ini bisa kita lihat dari hasil percobaan, dimana program dapat menampilkan beberapa bunyi drum yang berlainan pada waktu yang sama. Jadi secara keseluruhan program sudah berjalan dengan baik. Jika masih ada kekurangan mungkin diakibatkan kecepatan frame rate dari kamera yang masih kurang, dan untuk mengatasinya saya sarankan untuk memakai kamera yang lebih tinggi dari 30 frame rate persecond.",
+  "creators": "DARWIN",
+  "contributors": "Resmana Lim (Advisor 1); Anies Hannawati (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/607/ELK/2003; Darwin (23498086)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES; COMPUTER VISION"
+}

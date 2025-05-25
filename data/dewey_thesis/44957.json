@@ -1,0 +1,14 @@
+{
+  "id": "44957",
+  "title": "Perbandingan metode penempatan VSL Gensui damper terhadap kinerja seismik struktur beton bertulang dengan ketidakberaturan vertikal tingkat lunak",
+  "abstract": "Dalam perkuatan sktruktur, penggunaan damper adalah satu metode yang sudah terbukti efektif. Pada umumnya, damper dipasang pada setiap lantai bangunan, namun timbul pertanyaan tentang efisiensi tiap damper, sehingga perlu dilakukan metode terhadap strategi perletakan damper. Oleh sebab itu, terdapat banyak metode optimasi penempatan damper agar penggunaan damper efisien. Penelitian ini meninjau seberapa efektif metode optimasi penempatan damper seperti metode Uniform, Simplified Sequential Search Algorithm (SSSA), Simplified Sequential Search Algorithm Modified (SSSAmod), dan Optimum Damper Allocation Method (ODAM) pada bangunan yang memiliki ketidakberaturan vertikal tingkat lunak. Damper yang digunakan dalam penelitian ini adalah damper nonlinear yang sudah digunakan pada proyek nyata, yaitu VSL Gensui Damper. Keempat metode tersebut akan diterapkan pada 2 jenis bangunan yang tidak beraturan secara vertikal dengan tinggi 10 lantai. Selanjutnya akan ditentukan metode yang paling optimal dengan membandingkan indikator interstory drift dan kerusakan sendi plastis. Untuk memperoleh hasil tersebut, dilakukan analisis riwayat waktu nonlinier dengan beban percepatan gempa yang telah disesuaikan dengan respons spektrum dari Kota Surabaya dengan periode ulang 2500 tahun. Setelah dilakukan analisis, didapatkan bahwa semua metode yang dilakukan tidak dapat memperbaiki kedua indikator yang diuji secara bersamaan. Hasil yang didapatkan dari penelitian ini adalah metode SSSA kurang konsisten dalam memperbaiki indikator interstory drift dan kerusakan sendi plastis. Sedangkan Metode SSSAmod dan ODAM menunjukkan hasil yang mirip, kedua metode lebih efektif dalam mengurangi interstory drift pada kedua bangunan namun tidak konsisten dalam perbaikan kerusakan sendi plastis. Metode uniform, menunjukkan hasil yang baik dalam perbaikan kerusakan.",
+  "creators": "EDWIN ANDINI; REYNALDI ARVIN GOENAWAN",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Benjamin Lumantarna (Advisor 2); Jimmy Chandra (Examination Committee 1); Gunawan Budi Wijaya S.T., M.T., M.Eng. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012334/SIP/2019; Edwin Andini (21415210), Reynaldi Arvin Goenawan (21415236)",
+  "subjects": "BUILDINGS--EARTHQUAKE EFFECTS; REINFORCED CONCRETE CONSTRUCTION; STRUCTURAL DYNAMICS"
+}

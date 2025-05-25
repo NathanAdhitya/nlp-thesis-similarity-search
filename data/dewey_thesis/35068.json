@@ -1,0 +1,14 @@
+{
+  "id": "35068",
+  "title": "Pemanfaatan teknologi near field communication untuk penyampaian informasi multimedia di Museum Negeri Mpu Tantular",
+  "abstract": "Museum adalah tempat menyimpan keanekaragaman warisan budaya bangsa yang dapat dijadikan sebagai objek wisata edukatif bagi masyarakat dan bahan studi yang digunakan oleh kalangan akademisi. Namun sayangnya minat masyarakat untuk menjadikan museum sebagai tujuan wisata sangatlah rendah. Oleh karena itu diperlukan inovasi untuk menarik minat masyarakat, dan dalam hal ini inovasi dilakukan dalam pemanfaatan teknologi NFC pada android. Saat ini teknologi NFC sedang berkembang pesat dan sudah dimanfaatkan dalam berbagai aplikasi, sehingga pemanfaatan teknologi ini diharapkan dapat menghilangkan kesan ketinggalan jaman dan kurang menarik pada museum. Aplikasi ini akan dibagi menjadi dua, yaitu aplikasi mobile untuk pengunjung yang dikembangkan menggunakan software Android Studio dan aplikasi web yang dikembangkan menggunakan Notepad++ dan database MySQL. Aplikasi mobile yang dibuat dapat menampilkan informasi dari benda di museum dalam bentuk text, gambar, video, dan audio, dengan cara melakukan scanning pada NFC tag yang kemudian hasil scan tersebut akan mengarahkan aplikasi untuk mengambil data dari aplikasi web yang berfungsi sebagai server untuk manajemen database. Aplikasi mobile ini juga dapat menampilkan profil museum, event museum, peta museum, serta mini games. Selain itu, dari aplikasi mobile ini juga pihak museum dapat memperoleh data statistik yang dapat berguna untuk pengembangan museum dan dapat diakses lewat aplikasi web. Berdasarkan hasil implementasi yang telah diuji, aplikasi ini ternyata mampu menyampaikan informasi dalam format teks, gambar, suara, maupun video dengan melakukan scan pada NFC tag. Dari uji kelayakan aplikasi oleh pengguna secara acak, seluruh responden mengemukakan bahwa mereka lebih tertarik untuk mengunjungi museum dengan adanya aplikasi ini.",
+  "creators": "RYAN CHRISTIAN WIGUNO",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021462/INF/2015; Ryan Christian Wiguno (26411112)",
+  "subjects": "ANDROID (ELECTRONIC RESOURCE)-PROGRAMMING; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); DATABASE MANAGEMENT"
+}

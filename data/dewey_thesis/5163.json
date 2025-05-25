@@ -1,0 +1,14 @@
+{
+  "id": "5163",
+  "title": "Robot cerdas pemadam api",
+  "abstract": "Dunia Robotika sekarang ini sedang berkembang dengan pesat. Tidak hanya negara-negara maju saja yang mengembangkan teknologi robotika, namun negara-negara berkembang pun mengembangkan teknologi ini. Terbukti, Direktorat Jendral Pendidikan Tinggi mengadakan Kontes Robot Cerdas Indonesia yang rencananya akan diadakan setiap tahunnya dalam rangka untuk mengembangkan minat mahasiswa dalam teknologi robotika. Topik Kontes Robot Cerdas Indonesia 2004 adalah Robot Cerdas Pemadam Api. Target dari robot ini adalah menemukan lilin yang menyala di salah satu ruangan dari empat ruangan yang terdapat pada arena pertandingan dan kemudian memadamkan api lilin tersebut serta kembali ke posisi start. Sistem ini dibuat dengan menggunakan sensor-sensor seperti sensor ultrasonic, sensor flame detector, sensor photoreflector, dan sensor rotary encoder. Teknik memadamkan api lilin adalah dengan menyemprotkan air coolant ke arah api lilin tersebut dengan menggunakan 12 V DC washer pump yang biasa dipakai pada wiper mobil. Berdasarkan hasil pengujian, robot dapat beroperasi menemukan api lilin, memadamkannya, dan kembali ke posisi start dalam durasi waktu rata-rata 1 menit 47 detik.",
+  "creators": "JIMMY WIJAYA",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010689/ELK/2004; Jimmy wijaya (23400019)",
+  "subjects": "ROBOTS-CONTROL SYSTEMS"
+}

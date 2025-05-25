@@ -1,0 +1,14 @@
+{
+  "id": "7248",
+  "title": "Evaluasi modal pushover analysis pada sistem rangka penahan momen beton bertulang first mode dominant",
+  "abstract": "Modal Pushover Analysis (MPA) merupakan salah satu metode analisis statis nonlinier yang memperhitungkan pengaruh mode yang lebih tinggi ke dalam analisisnya. Metode ini telah diterima dalam ATC-55 dan terbukti baik untuk struktur yang memiliki higher mode dominant. Penelitian ini bertujuan untuk mengevaluasi keuniversalan dan keefektivitasan MPA khususnya pada sistem rangka penahan momen beton bertulang first mode dominant yang didesain sesuai SNI 03-1726-2002 dan SNI 03-2847-2002. Respons struktur yang berupa simpangan tingkat, rasio simpangan antarlantai, gaya geser, dan momen akan dibandingkan dengan respons hasil analisis riwayat waktu nonlinier (Nonlinear Time History Analysis, NL-THA) dan juga Capacity Spectrum Method (CSM). Dengan demikian dapat diketahui seberapa besar efektivitas MPA dibandingkan dengan CSM yang selama ini banyak digunakan. Hasil penelitian menunjukkan bahwa MPA dengan satu ?mode? saja telah mampu memprediksi simpangan tingkat dan rasio simpangan antarlantai yang lebih mendekati NL-THA dibandingkan dengan CSM. Penambahan ?mode? yang lebih tinggi tidak memberikan efek yang signifikan. Sedangkan untuk gaya geser dan momen, seperti halnya CSM, MPA kurang dapat memberikan estimasi yang baik akibat penggunaan kombinasi respons maksimum tiap ?mode? dengan aturan Square-Root-of-Sum-of-Squares (SRSS). Secara umum, MPA dapat dipergunakan pada struktur first mode dominant untuk mengestimasi simpangannya, konservatif terhadap NL-THA, dan lebih eksplisit dalam memperhitungkan efek inelastis struktur dibanding CSM. Di samping semua keunggulan MPA dibanding CSM, aplikasinya dianggap lebih rumit daripada CSM.",
+  "creators": "IRMA JUWITASARI H; HARTANTO WIBOWO",
+  "contributors": "Ima Muljati Ginsar (Advisor 1); Benjamin Lumantarna (Advisor 2); Pamuda Pudjisuryadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11131501/SIP/2007; Irma Juwitasari Hadiwijaya (21403012), Hartanto Wibowo (21403130)",
+  "subjects": "BUILDING-EARTHQUAKE EFFECTS; REINFORCED CONCRETE CONSTRUCTION"
+}

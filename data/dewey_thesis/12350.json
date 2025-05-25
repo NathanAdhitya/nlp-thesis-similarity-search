@@ -1,0 +1,14 @@
+{
+  "id": "12350",
+  "title": "Perancangan sistem sampling penerimaan di PT. X",
+  "abstract": "Selama ini PT \"X\" menggunakan sistem Single Sampling,akan tetapi ada banyak komplain dari konsumen akan kualitas produk yang dihasilkan. Adapun kendala yang dimiliki PT \"X\" adalah keterbatasan jumlah operator Quality Assurance (QA) serta lamanya waktu dari operator QA dalam melakukan sampling, sedangkan produk yang dihasilkan terus bertambah sehingga mengakibatkan terjadinya bottleneck pada proses sampling. Oleh karena itu, dilakukan evaluasi terhadap faktor manusia dan metode. Faktor manusia dianalisa dengan job analysis terhadap operator QA. Metode sampling yang diterapkan PT \"X\" dianalisa dengan OC Curve. Hasil job analysis menunjukkan bahwa 37.5% operator QA melakukan sampling tidak sesuai dengan prosedur yang ditetapkan PT \"X\". Analisa OC Curve menunjukkan bahwa kombinasi n (jumlah sampel) dan c (bilangan penerimaan) yang digunakan dalam metode sampling di PT \"X\" tidak menggambarkan nilai AQL 10% untuk beberapa ukuran keramik. Berdasarkan hasil evaluasi di atas, dengan menetapkan AQL 6.5% maka dilakukan perancangan metode sampling usulan dengan mengubah bilangan penerimaan tanpa menambah jumlah sampel. Perubahan bilangan penerimaan ini membuat sistem menjadi lebih ketat tanpa menambah waktu operator dalam melakukan sampling.",
+  "creators": "NOVITA WIYONO; MELISSA ROSALIA WASITO",
+  "contributors": "Felecia, S.T., M.Sc. (Advisor 1); Tanti Octavia (Advisor 2); Indriati Njoto Bisono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02011331/IND/2009; Novita Wiyono (25405053); Melissa Rosalia W. (25405069)",
+  "subjects": "QUALITY ASSURANCE; QUALITY CONTROL"
+}

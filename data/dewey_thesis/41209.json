@@ -1,0 +1,14 @@
+{
+  "id": "41209",
+  "title": "Pembuatan aplikasi reservasi dokter praktek di Apotek ACP Ambon berbasis web dan android",
+  "abstract": "Apotek ACP Ambon berada di Jl. Said Perintah No.36, Kel Honipopu, Sirimau, Kota Ambon. Apotek ini merupakan salah satu apotek terbesar di Kota Ambon dengan nomor Ijin: 442/711/DIKES. Jam operasional Apotek ACP adalah dari jam 8 pagi sampai 11 malam. Pada apotek ini untuk mereservasi dokter praktek pasien harus datang terlebih dahulu ke apotek untuk mendaftar, jika pasien mendapatkan nomor antrian yang besar pasien lebih memilih untuk pulang dan kembali. Hal ini sangat tidak efisien. Selain itu, sering kali ketika pasien kembali nomor antrian pasien tersebut sudah dilewati sehingga pasien harus menunggu sampai nomor antrian terakhir baru pasien tersebut dapat dilayani. Dalam pembuatan rekam medis pasien dan resep dokter yang masih menggunakan kertas juga seringkali menyebabkan beberapa masalah. Seperti, kertas rekam medis pasien dan resep dokter dapat hilang atau rusak, serta proses perekapan data rekam medis pasien dan resep dokter menjadi lebih susah. Untuk itu, diperlukan sebuah aplikasi reservasi dokter di Apotek ACP Ambon dengan mengintegrasikan antara teknologi website dengan smartphone berbasis Android. Aplikasi ini dibuat dengan menggunakan bahasa pemrograman HTML, PHP, JavaScript, dan database MySQL pada aplikasi berbasis web. Bahasa pemograman Java dan database SQLite pada aplikasi berbasis Android. Tampilan aplikasi menggunakan template Bootstrap. Fitur notifikasi untuk nomor antrian pasien pada aplikasi berbasis Android menggunakan Firebase Cloud Massaging (FCM). Hasil akhir dari pengembangan aplikasi ini adalah dapat melakukan proses reservasi dokter dengan cepat, dapat menerima notifikasi nomor urut pasien yang sedang diperiksa dokter, dapat mencatat rekam medis pasien dan resep dokter dengan terkomputerisasi. Owner juga dapat melihat laporan harian pemeriksaan dokter.",
+  "creators": "REYVIANO MARCYAN LUHULIMA",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Yulia (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021681/INF/2017; Reyviano Marcyan Luhulima (26413135)",
+  "subjects": "WEBSITES-DESIGN; INTERNET (COMPUTER NETWORK); ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (COMPUTER PROGRAM)"
+}

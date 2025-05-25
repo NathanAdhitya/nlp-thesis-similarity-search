@@ -1,0 +1,14 @@
+{
+  "id": "4150",
+  "title": "Pembuatan sistem informasi alumni di Biro Administrasi Kemahasiswaan dan Alumni Universitas Kristen Petra",
+  "abstract": "Biro Administrasi Kemahasiswaan dan Alumni (BAKA) memerlukan suatu program yang dapat membantu tugasnya dalam mempersiapkan keperluan wisuda dan pembuatan buku kenangan untuk alumni. BAKA juga memerlukan suatu web yang berisi data alumni dan data kuisioner secara online sebagai wadah komunikasi antara pihak BAKA dan para alumni. Sistem yang ada sebelumnya, BAKA menggunakan sistem manual dan mengetikkan data satu-persatu sehingga memakan banyak waktu dan rentan akan kesalahan (human error). Tujuan Tugas Akhir ini adalah pembuatan program aplikasi yang bisa memenuhi kebutuhan BAKA tersebut sehingga sistem bisa berubah menjadi terkomputerisasi. Metode penelitian yang digunakan adalah perancangan Data Flow Diagram, Entity Relationship Diagram, dan alur proses. Aplikasi dibuat berdasarkan tabel-tabel yang sudah ada di BAKA dan Pusat Komputer serta beberapa tabel tambahan. Selanjutnya dibuat program dengan Visual Basic 6.0 untuk Report BAKA dan ASP untuk web. Report BAKA dibuat dalam bentuk aplikasi dan report. Pengujian program aplikasi ini menunjukkan hasil yang cukup baik pada user interface. Wawancara yang dilakukan menunjukkan bahwa user merasa bahwa program aplikasi ini memiliki penampilan yang baik dan mudah untuk digunakan dan berguna bagi pihak BAKA dalam menjalankan tugasnya.",
+  "creators": "SUSAN LILYANA JOHAN",
+  "contributors": "Kartika Gunadi (Advisor 1); Agustinus Noertjahyana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0047/INF/2003; Susan Lilyana Johan (26498047)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN"
+}

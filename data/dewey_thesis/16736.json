@@ -1,0 +1,14 @@
+{
+  "id": "16736",
+  "title": "Perancangan sistem pengendalian persediaan dan sistem informasi persediaan di suatu industri kampas rem",
+  "abstract": "Persediaan bahan baku merupakan salah satu aspek penting dalam fungsi manajemen. Kelebihan maupun kekurangan bahan baku selalu menimbulkan dampak yang merugikan dan dapat mempengaruhi total biaya produksi. Hal inilah yang mendorong pentingnya penerapan pengendalian persediaan sehingga dapat meminimumkan total biaya. Di samping itu perlu diperhatikan masalah sistem informasi yang berkaitan dengan pengendalian persediaan. Kelancaran dan keakuratan arus informsi antar bagian akan mempermudah pihak perusahaan dalam pengambilan keputusan. Untuk mengantisipasi ketidakpastian permintaan kampas rem di masa mendatang diperlukan suatu analisis peramalan. Peramalan menggunakan metode Box Jenkins yang menganalisis data historis dan menehtukan model yang sesuai dengan dasar statist ik. Dari hasil peramalan diketahui jumlah permintaan kampas rem yang akan datang sehingga dapat dicari perkiraan jumlah masing-masing bahan baku yang dibutuhkan. Perancangan pengendalian persediaan menggunakan model persediaan Economic Order Quantity Probabilistik dengan mempertimbangkan adanya backorders, untuk mengetahui reorder point, jumlah pemesanan yang optimal dan jumlah persediaan pengaman yang memungkinkan total biaya minimum. Untuk bahan baku yang berasal dari pemasok yang sama dilakukan pemesanan secara bersamaan (multi items orders). Perancangan sistem informasi persediaan yang terpadu dan berbasis komputer akan menghasilkan informasi yang tepat waktu, tepat guna, tepat biaya, dan akurat. Rancangan dibuat berdasarkan prosedur persediaan lama yang diterapkan di perusahaan dan memberikan usulan perbaikan yang diperlukan serta dipadukan dengan sistem persediaan hasil rancangan. Untuk menunjang realisasi dari hasil rancangan maka dibuat program basis data dengan menggunakan software foxpro versi 2.60 sehingga hasil rancangan semakin mudah diaplikasikan dalam perusahaan.",
+  "creators": "NIP LILY YULIANA",
+  "contributors": "S.G. Ferryanto (Advisor 1); Oviliani Yenty Yuliana (Advisor 2); Sujono Poetrodjojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 047/TMI-35/1997; Lily Yuliana (25493051)",
+  "subjects": "MATERIAL MANAGEMENT; PRODUCTION PLANNING"
+}

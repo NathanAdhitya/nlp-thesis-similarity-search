@@ -1,0 +1,14 @@
+{
+  "id": "41429",
+  "title": "Program komputer dari analisa kestabilan lereng",
+  "abstract": "Untuk sebuah lereng yang terjadi secara alamiah (natural slope) atau lereng yang sengaja dibuat untuk suatu tujuan tertentu (man made slope), suatu index kestabilan yang berhubungan dengan keruntuhan atau kelongsoran dari lereng Itu secara tiba-tiba maupun secara perlahan dikenal sebagai angka keamanan (safety factor) dari lereng tersebut. Angka keamanan ini dapat dinyatakan sebagai perbandingan antara gaya perlawanan dari material lereng tersebut terhadap gaya yang cenderung menyebabkan lereng tersebut bergerak (longsor), Sebuah lereng yang tepat akan runtuh mempunyai angka keamanan sebesar 1,0. Jadi dapat dikatakan bahwa analisa kestabilan le- reng adalah penyelesaian analitis untuk menentukan keadaan yang paling kritis dari lereng itu atau suatu analisa untuk mencari angka keamanan yang terendah dari suatu lereng. Maksud dan tujuan utama dari pada penulisan ini ialah hen- dak mengembangkan suatu program komputer untuk analisa kestabilan lereng berdasarkan metode simplified (modified) Bishop untuk menghitung angka keamanan suatu lereng tanah yang isotropis, Karena untuk menentukan letak dari permukaan bidang longsor yang paling kritis (bidang longsor dengan angka keamanan yang paling rendah) diperlukan perhitungan dengan cara mencoba (berulang-ulang kali), sehingga bila dilakukan secara manual membutuhkan waktu yang lama dan akan membosankan. Telah banyak program komputer mengenai analisa kestabilan lereng yang telah beredar. Dalam tulisan ini penulis berusaha memodifikasi program komputer yang ada, sehingga program kesta- bilan lereng tersebut dapat dikerjakan dengan menggunakan komputer yang-ada di laboratorium Universitas Kristen Petra. Dalam tulisan ini pula, secara singkat akan dibahas tipe-tipe dari keruntuhan (landslide), beberapa metode analisa kestabilan lereng dan keakuratan masing-masing metode itu serta penurunan rumus untuk metode simplified (modified) Bishop.",
+  "creators": "Eka Harianto W; Kwee Sioe Lan",
+  "contributors": "SIA KHAIJ TJWAN (Advisor and Examination Committee)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 189.S; Eka Harianto W. (279088), Kwee Sioe Lan (279104)",
+  "subjects": "COMPUTER PROGRAM; LANDSLIDES; SOIL MECHANICS; SOIL STABILIZATION"
+}

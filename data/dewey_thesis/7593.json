@@ -1,0 +1,14 @@
+{
+  "id": "7593",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi dan keuangan di pabrik es Sahabat Mina Lamongan",
+  "abstract": "Sahabat Mina adalah pabrik yang memproduksi balok es yang dijual secara partai. Sistem yang ada masih manual khususnya untuk pembelian, penjualan, penggajian dan akuntansi. Untuk meningkatkan efisiensi dan efektifitas dibutuhkan sistem baru yang terkomputerisasi dan terintegrasi, agar dapat menghasilkan informasi yang dibutuhkan secara cepat, tepat dan akurat. Perancangan desain sistem yang baru menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk membuat desain struktur tabel dan relasi antar tabel. Database dibuat dengan menggunakan Microsoft Access 2000. Aplikasi dibuat dan dikembangkan dengan menggunakan bahasa pemrograman Borland Delphi 7.0. Program yang dibuat meliputi: modul pembelian, penjualan, penggajian dan akuntansi. Dari hasil pengujian program menunjukkan bahwa program ini mampu memproses data akuntansi yang berhubungan dengan pembelian, penjualan dan penggajian secara otomatis dan menghasilkan informasi berupa laporan transaksi (laporan pembelian, penjualan, piutang), laporan penggajian dan laporan keuangan (arus kas, laba rugi, ekuitas pemilik dan neraca) yang akurat (sesuai dengan proses manualnya) .",
+  "creators": "YENNI KRISTIANTI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Ibnu Gunawan (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000413/INF/2005; Yenni Kristianti (26401105)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

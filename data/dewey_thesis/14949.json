@@ -1,0 +1,14 @@
+{
+  "id": "14949",
+  "title": "Perencanaan dan pembuatan simulasi kontrol otomatis tanpa kabel sebagai pengendali crane menggunakan mikrokontroler 8031",
+  "abstract": "Crane sebagai alat angkut sering dijumpai di pabrik-pabrik untuk memindahkan barang-barang dalam suatu lokasi tertentu misalnya pada gudang penyimpanan. Crane yang sering dijumpai pada saat ini dikontrol oleh suatu unit pengontrol yang dihubungkan secara langsung melalui kabel pada motor penggerak dan pengontrolan dilakukan secara manual. Pada tugas akhir ini dibuat suatu alternatif lain dimana unit pengontrol bebas dari hubungan dengan motor penggerak sehingga pengendali tidak terikat pada suatu posisi tertentu. Alternatif lain untuk pengendalian secara manual adalah dengan pengendalian secara otomatis untuk posisi yang tertentu dimana hanya dengan memasukkan data posisi tujuan maka crane akan bergerak menuju tujuan yang diinginkan. Prinsip dasar dari alat ini adalah mikrokontroler akan mengolah data input dari koordinat asal dan koordinat tujuan dimana selisih dari keduanya yang akan digunakan untuk menentukan arah gerak dari motor. Hasil yang didapat dikirim dengan sebuah pemancar pada suatu frekwensi yang berhubungan dengan arah gerak motor yang diinginkan. Penerima yang berupa pesawat radio akan menangkap frekwensi yang dipancarkan tersebut kemudian suatu rangkaian tone decoder akan mendeteksi frekwensi yang dipancarkan tersebut sehingga dapat ditentukan motor dan arah putaran yang harus diaktifkan.",
+  "creators": "ARIF HARDJANA",
+  "contributors": "Murtiyanto Santoso (Advisor 1); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/045/0202; Arif Hardjana (23489107)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; INTEL 8031 (MICROCONTROLLER)"
+}

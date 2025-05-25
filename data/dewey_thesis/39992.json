@@ -1,0 +1,14 @@
+{
+  "id": "39992",
+  "title": "Pembuatan robot mobil yang mengikuti langkah manusia",
+  "abstract": "Teknologi robot yang mengikuti langkah manusia telah berkembang pesat, robot banyak digunakan untuk membantu pekerjaan manusia di banyak tempat. Salah satunya di tempat berbelanja dan untuk membawa barang belanja. Sistem ini terdiri dari sebuah mobil robot, yang dikontrol oleh Arduino dan dilengkapi dengan sensor IR transmitter sebagai alat untuk mengetahui siapa orang yang diikuti oleh robot, sensor IR receiver sebagai penentu gerakan robot, dan sensor ultrasonic digunakan untuk mengetahui halangan di depan robot. Berdasarkan hasil pengujian metode yang digunakan pada sistem ini gagal, karena penggunaan metode lima sensor IR receiver yang telah diusulkan dalam sistem ini tidak dapat digunakan untuk menentukan posisi robot sehingga gerak robot menjadi tidak beraturan. Pada pengujian menunjukkan bahwa dalam suatu sitem jika menggunakan lebih dari satu IR receiver maka IR transmitter harus mengirimkan data yang berbeda pada setiap receiver yang digunakan.",
+  "creators": "KEVIN ADRIAN DJABUMIR",
+  "contributors": "Resmana Lim (Advisor 1); Handry Khoswanto (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010963/ELK/2017; Kevin Adrian Djabumir (23412018)",
+  "subjects": "ROBOTS; MOBILE ROBOTS"
+}

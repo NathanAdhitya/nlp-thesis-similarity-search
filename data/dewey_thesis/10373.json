@@ -1,0 +1,14 @@
+{
+  "id": "10373",
+  "title": "Pembuatan robot penghindar halangan berbasis NLX-222 (pengontrol fuzzy logic)",
+  "abstract": "Dewasa ini Fuzzy Logic sering dipakai untuk mempermudah pengontrolan suatu sistem otomatisasi. Alat yang dibuat pada Tugas Akhir ini memanfaatkan Chip- Fuzzy type NLX 222P untuk mengontrol tegangan pada output-outputnya yang didasarkan atas perubahan tegangan dari semua variabel inputnya. Pada prinsipnya sensor-sensor pengindera yang dipakai pada alat ini meniru sistem penginderaan kelelawar, yaitu dengan mengirimkan melalui Transmitter-nya (TX) suatu gelombang ultra-suara (ultrasonic 40 Khz). Selama pengiriman, suatu rangkaian Counter akan mencacah secara binary dengan frekwensi 10,63 KHz untuk menampilkan jarak tempuh suara itu dari TX ke Benda solid di depannya yang terpantul ke RX (Receiver). Hasil cacahan yang berupa bilangan binary (mewakili jarak) akan merupakan input bagi Chip Fuzzy NLX-222, dan hasil pengolahan internalnya akan ditampilkan oleh output-output dari Chip Fuzzynya yang juga berupa tegangan DC dan siap untuk menggerakkan motor melalui suatu rangkaian VCO berikut rangkaian Drivernya. Apabila pada suatu jarak tertentu ada halangan benda solid di depannya, maka Robot tersebut diharapkan akan menghindar secara otomatis sesuai dengan keputusan algoritmanya yang logis dari programnya. Namun rupanya terjadi kegagalan yang dominan pada bagian Receiver (Penerima) Rx, yang menentukan kapan berakhirnya hitungan Counter sebagai sarana penyedia data informasi input pada NLX-222-nya, sehingga pada tahap pengujian alat tidak didapat informasi output (tegangan) Fuzzy Chipnya.",
+  "creators": "DJOKO HERWANDI",
+  "contributors": "SOETIKNO (Advisor 1); Yohanes Trilaksono Dibyo S. (Advisor 2); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/048/485; Djoko Herwandi (23490040)",
+  "subjects": "ROBOTS; ROBOTICS"
+}

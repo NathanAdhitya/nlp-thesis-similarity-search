@@ -1,0 +1,14 @@
+{
+  "id": "60647",
+  "title": "Pengembangan aplikasi chatbot menggunakan LLAMA 2 dan framework Flutter sebagai tools dalam studi Alkitab",
+  "abstract": "Studi Alkitab merupakan suatu hal yang penting, khususnya untuk para pengikut Kristus. Salah satu metode yang dapat digunakan untuk mempelajari Alkitab adalah dengan menggunakan generative AI. Namun generative AI cenderung mengalami AI hallucination karena di training dengan data yang banyak dan general. Hal ini menyebabkan AI tidak terfokus dan bisa membuat data baru yang menyimpang dari Alkitab. Oleh karena itu model generative AI perlu di fine tuning dengan data Alkitab. Metode fine tuning yang digunakan adalah supervized fine tuning. Data yang digunakan adalah data Alkitab dari kitab Yohanes dalam bentuk pertanyaan dan jawaban. Data juga akan di augmentasi menggunakan metode generative data augmentation. Model yang digunakan adalah Llama 2 7b dan Mistral 7b. Berdasarkan pengujian, model generative AI dapat menghasilkan hasil yang lebih memuaskan dibandingkan dengan sebelum di fine tuning. Dengan pengujian oleh 5 ahli teologi dengan metrik keakuratan teologis, kelengkapan jawaban, kejelasan, dan relevansi dan 10 sampel pertanyaan, kenaikan skor Mistral dalam keakuratan teologis adalah 2.56, kelengkapan jawaban 2.30, kejelasan dan kepahaman 2.30, serta relevansi 2.28, sementara kenaikan skor Llama adalah 0.28 untuk keakuratan teologis, 0.02 untuk kelengkapan jawaban, 0.26 untuk kejelasan dan kepahaman, serta 0.20 untuk relevansi.",
+  "creators": "MICHAEL",
+  "contributors": "Alexander Setiawan (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Liliana (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022523/INF/2024; Michael (C14200155)",
+  "subjects": "BIBLE--STUDY AND TEACHING; COMPUTER PROGRAMMING; PROGRAMMING LANGUAGES (ELECTRONIC COMPUTERS)"
+}

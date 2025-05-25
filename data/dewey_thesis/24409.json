@@ -1,0 +1,14 @@
+{
+  "id": "24409",
+  "title": "Perencanaan dan pembuatan prototype kerja paralel antara dua microprosesor Z-80 untuk pengaturan suara dan display dot matrik",
+  "abstract": "Penggunaan mikroprosessor dan mikrokontroler sebagai basis dalam sistem kontrol telah banyak sekali digunakan, baik untuk aplikasi militer, industri maupun alat-alat rumah tangga. Jenis-jenis mikroprosessor dan mikrokontroler yang telah diciptakan juga sangat banyak, baik untuk keperluan khusus maupun keperluan umum. Pada keadaan khusus satu mikroprosessor atau mikrokontroler untuk mengatur suatu sistem tidaklah mencukupi. Untuk mengatasi hal ini dapat digunakan dua mikroprosessor/mikrokontroler atau tebih untuk menangani masalah ini, salah satunya dengan cara kerja paralel (paralel processing) antara dua mikroprocessor atau lebih. Prototype ini menggunakan arsitektur Simple Parallel Processing dengan metode Share Data Memory. Rancangan prototype ini menggunakan dua mikroprocessor Z-80 yang bekerja secara paralel dan aplikasi prototype ini disimulasikan untuk pengaturan suara dan display dot matrik secara bersama- sama, sumber suara dihasilkan dari program suara yang diolah oleh mikroprosessor sehingga menghasilkan melodi suatu musik, dalam pengolahan ini diperlukan kontinuitas yang stabil sehingga suara yang dihasilkan dan data yang ditampilkan tidak mengalami penundaan atau gangguan. Pengolahan suara tidak akan terganggu meskipun sistem masih menangani operasi yang lain, dalam aplikasi ini sistem juga menangani masukan data dari keypad dan pengaturan volome, bass dan treble. Penerapan arsitektur Simple Parallel Processing dengan metode Share Data Memory dapat digunakan untuk kerja paralel antara dua mikroprosessor Z-80. Prototype yang dibuat dapat mengolah data suara dan data display dot matrik secara bersama-sama dan terkoordinasi. Pada saat pemasukan data melalui keypad dan pengaturan volume, bass dan treble, sistem dapat mengolah data suara dengan normal.",
+  "creators": "HARI SUNJAYA TIONO",
+  "contributors": "IRWAN SAHLI (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/029/0289; Hari Sunjaya Tiono (23490120)",
+  "subjects": "COMPUTERS"
+}

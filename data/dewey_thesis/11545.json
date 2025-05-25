@@ -1,0 +1,14 @@
+{
+  "id": "11545",
+  "title": "Kendali musical fountain melalui SMS",
+  "abstract": "Teknologi sekarang ini telah berkembang sedemikian rupa sehingga dapat mencakup semua aspek kebutuhan manusia. Tetapi perkembangan teknologi yang ada, tidaklah merata pada semua aspek kehidupan manusia contohnya dalam bidang pertamanan. Oleh karena itu, tugas akhir ini dibuat sebuah air mancur yang bersifat menghibur sehingga dapat membuat daya kreasi dari masyarakat untuk lebih maju lagi. Musical Fountain ini menggunakan solenoid valve sebagai perantara untuk mengatur keluarnya air. Solenoid valve yang ada dikontrol oleh komputer dengan menggunakan mikrokontroler AT89S51 yang terhubung secara serial. Untuk menjalankan alat ini, pengguna harus mengirimkan SMS dengan format penulisan yang tertera pada layar komputer. Lalu SMS tersebut akan diterima oleh handphone yang terhubung pada komputer dengan menggunakan kabel data. Data SMS dari handphone tersebut kemudian diolah oleh komputer sehingga menjadi suatu perintah bagi komputer untuk menjalankan lagu beserta pola semprotan air yang sudah diatur terlebih dahulu sesuai dengan SMS yang dikirimkan. Musical fountain yang dibuat memiliki lima titik semprotan air dan ketepatan pengaturan dari solenoid valve adalah 100 milisecond. Dari hasil pengujian, bagian - bagian pada alat ini mampu bekerja dengan baik sehingga dapat menjadi satu kesatuan yang utuh. Penggunaan pompa sebagai pemberi tekanan, tidak dapat menghasilkan ketinggian air yang merata.",
+  "creators": "THIMOTIUS SUNARYO GUNAWAN",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010036/ELK/2006; Thimotius Sunaryo Gunawan (23402016)",
+  "subjects": "DIGITAL COMMUNICATION; DATA TRANSMISSION SYSTEMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "20689",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada distributor beras UD. Widodo",
+  "abstract": "UD. Widodo adalah sebuah perusahaan yang bergerak di bidang penjualan beras. Sistem pembelian, penjualan, proses selep dan proses administrasi lainnya masih bersifat manual berupa tulisan tangan sehingga tidak tercatat secara lengkap. Hal ini dapat mengakibatkan perusahaan mengalami kesulitan dalam mengecek jumlah stok yang ada di gudang dan laba rugi yang diperoleh perusahaan. Berdasarkan analisis permasalahan yang dihadapi oleh UD. Widodo, maka dibutuhkan suatu sistem informasi administrasi yang dapat membantu UD. Widodo dalam melakukan pencatatan pada aktivitas-aktivitas yang dilakukan perusahaan. Aplikasi diimplementasikan dapat memproses transaksi pemesanan, penerimaan barang, penjualan, retur penjualan, proses selep, pembayaran hutang dan piutang. Untuk mendesain sistem baru Data Flow Diagram (DFD) dan Entity Relationship Diagram (ERD), sedangkan perancangan sistem digunakan Power Designer 6.1. Database dibuat dengan menggunakan Microsoft SQL Server dan pembuatan sistem menggunakan Microsoft Visual Basic 6. Aplikasi dapat melakukan penyimpanan data master dan transaksi pembelian dan penjualan, penyimpanan data selep serta memberikan informasi berupa laporan yang diperlukan termasuk perhitungan laba rugi yang diperoleh perusahaan.",
+  "creators": "KRISVI OKTADIWANTI",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020978/INF/2011; Krisvi Oktadiwanti (26406157)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

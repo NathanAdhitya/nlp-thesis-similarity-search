@@ -1,0 +1,14 @@
+{
+  "id": "45700",
+  "title": "Magento 2 and elasticsearch integration",
+  "abstract": "Tujuan dari penelitian ini adalah untuk menambah fitur dari integrasi standar Elasticsearch di Magento 2.3 untuk mencari konten lain yang merupakan kategori dan halaman konten. Mesin pencari saat ini di Magento menggunakan mesin pencari default MySQL, dengan update Magento 2.3, Elasticsearch diperkenalkan sebagai mesin pencarian opsional. Elasticsearch menyediakan full text search yang lebih baik dan dioptimalkan, namun integrasi baru ini hanya dapat mencari produk katalog dari Magento, oleh karena itu cara menambah fitur integrasi Elasticsearch di Magento dilakukan. Fitur utama yang ingin diterapkan adalah pencarian Kategori menggunakan Elasticsearch di Magento 2.",
+  "creators": "ANDY SUKANTO KAN",
+  "contributors": "Bart Delvaux (Advisor 1); Peter Boots (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021909/INF/2019; Andy Sukanto Kan (26415147)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN--COMPUTER PROGRAMS; MAGENTO (WEB SITE DEVELOPMENT TOOL)"
+}

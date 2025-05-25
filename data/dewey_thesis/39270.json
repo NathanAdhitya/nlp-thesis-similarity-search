@@ -1,0 +1,14 @@
+{
+  "id": "39270",
+  "title": "Pembuatan aplikasi perdagangan valas dengan metode elman neural network",
+  "abstract": "Teknologi Jaringan Syaraf Tiruan merupakan suatu sistem yang berfungsi seperti otak manusia. Teknologi ini mampu memecahkan masalah-masalah yang sulit dipecahkan dengan perhitungan matematik. Pada skripsi ini dibuat suatu sistem Elman Neural Network untuk memprediksi nilai mata uang asing dengan tujuan membantu para pialang atau investor dalam mengambil keputusan. Berdasarkan masalah di atas maka aplikasi ini dibuat dengan memanfaatkan beberapa indikator valas yang sering digunakan oleh para trader untuk dimasukkan kedalam input node pada jaringan syaraf tiruan dan output node berupa prediksi buy atau sell. Dari hasil pengujian dapat disimpulkan bahwa pemilihan waktu training yang tepat dan semakin banyak jumlah indikator terbaik yang digunakan dapat meningkatkan tingkat keberhasilan untuk memprediksi harga valas.",
+  "creators": "SABIL YUDIFERA DAENG PATTAH",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Murtiyanto Santoso (Advisor 2); Kristo Radion Purba S.ST. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021627/INF/2017; Sabil Yudifera Daeng Pattah (26412178)",
+  "subjects": "NEURAL NETWORKS (COMPUTER PROGRAMS); NEURAL NETWORKS; ARTIFICIAL NEURAL NETWORKS; COMPUTER SOFTWARE-DEVELOPMENT; COMPUTER SOFTWARE"
+}

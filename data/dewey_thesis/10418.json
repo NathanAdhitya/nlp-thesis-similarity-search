@@ -1,0 +1,14 @@
+{
+  "id": "10418",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada PT. Sarana Usaha Lintas Indonesia",
+  "abstract": "PT. SARANA USAHA LINTAS INDONESIA adalah perusahaan yang bergerak dibidang Ekspedisi Muatan Kapal Laut (EMKL). Sistem yang ada masih manual khususnya untuk transaksi order baik impor maupun ekspor. Untuk meningkatkan efisiensi dan efektifitas dibutuhkan sistem baru yang terkomputerisasi dan terintegrasi, agar dapat menghasilkan informasi yang dibutuhkan secara cepat, tepat dan akurat. Perancangan desain sistem yang baru menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk membuat struktur tabel dan relasi antar tabel. Database dibuat menggunakan SQL Server 7. aplikasi dibuat dan dikembangkan dengan menggunakan bahasa pemrograman Borland Delphi 7.0. Program yang dibuat meliputi modul transaksi order impor dan ekspor, besar nilai pajak tiap detail barang ditampilkan secara otomatis, modul invoice, modul kwitansi dan laporan order. Dari hasil pengujian program menunjukkan bahwa program ini mampu menyelesaikan masalah sistem manual yang lama dengan memproses data order dan penghitungan nilai pajak tiap order serta menghasilkan invoice beserta perincian biaya yang akan ditagihkan kepada employee, kwitansi dan laporan order yang akurat.",
+  "creators": "ELVA YULIANA TANAEM",
+  "contributors": "Andreas Handojo (Advisor 1); Rudy Adipranata (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010732A/INF/2008; Elva Yuliana Tanaem (26402203)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

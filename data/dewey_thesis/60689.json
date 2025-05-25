@@ -1,0 +1,14 @@
+{
+  "id": "60689",
+  "title": "Evaluasi algoritma machine learning dalam menentukan diagnosis dan obat berdasarkan gejala pasien",
+  "abstract": "Penelitian ini bertujuan untuk menentukan algoritma machine learning terbaik dalam membantu dokter memberikan diagnosis dan rekomendasi obat berdasarkan gejala yang dialami pasien. Mengingat pentingnya diagnosis yang akurat dalam dunia medis, kesalahan diagnosis atau misdiagnosis dapat berdampak serius terhadap kesehatan pasien dan dapat menyebabkan konsekuensi hukum bagi tenaga medis. Dalam upaya ini, penelitian menggunakan beberapa algoritma machine learning, termasuk Naïve Bayes, Decision Tree, Random Forest, Support Vector Machine, dan Extreme Gradient Boosting, serta menerapkan metode ensemble seperti Bagging dan Voting untuk meningkatkan akurasi. Data yang digunakan dalam penelitian ini diperoleh dari rekam medis pasien yang mencakup identitas pasien, gejala, diagnosis, dan obat yang diberikan. Dataset ini berasal dari hasil pemeriksaan yang dilakukan oleh dr. Rita Wey serta dari aplikasi web yang digunakan oleh klinik dan website PCare dari BPJS Kesehatan. Evaluasi akurasi model dilakukan dengan membandingkan hasil prediksi algoritma dengan diagnosis yang dibuat oleh tenaga kesehatan. Hasil penelitian diharapkan dapat memberikan kontribusi signifikan dalam mengurangi kemungkinan kesalahan diagnosis dan meningkatkan akurasi dalam pemberian obat, sehingga membantu dokter dalam pengambilan keputusan medis yang lebih tepat dan efektif.",
+  "creators": "VINCENTIUS ANDY",
+  "contributors": "Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 1); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022479/INF/2024; Vincentius Andy (C14200191)",
+  "subjects": "COMPUTER ALGORITHMS; DIAGNOSIS--AUTOMATION; MACHINE LEARNING"
+}

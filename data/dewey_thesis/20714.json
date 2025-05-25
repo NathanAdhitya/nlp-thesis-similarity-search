@@ -1,0 +1,14 @@
+{
+  "id": "20714",
+  "title": "Perancangan dan pembuatan aplikasi databese reverse engineering dan forward engineering database menggunakan notasi chen",
+  "abstract": "Data merupakan sumber informasi penting bagi perusahaan, untuk itu perlu dibuat desain database agar data tersebut dapat diolah sesuai kebutuhan perusahaan. Proses desain database dilakukan dengan data modeling yang merupakan metode untuk mendefinisikan serta menganalisa data requirements. Data requirements tersimpan dalam conceptual model yang digambarkan dalam Entity Relational Diagram. Umumnya ketika proses desain database selesai, desain ERD tidak tersimpan lagi, padahal apabila dilakukan analisis terhadap sistem, keberadaan ERD sangatlah membantu. Dalam Skripsi ini dibuat aplikasi untuk melakukan database reverse engineering dan forward engineering. Jadi gambar desain database dapat diperoleh lagi walaupun dokumentasi mengenai desain ERD sudah tidak ada. Aplikasi ini dibuat menggunakan Visual Basic.Net 2005. Database engine yang digunakan adalah SQL Server 2005, MySQL dan Oracle 10g. Berdasarkan pengujian yang dilakukan, database reverse engineering dan database forward engineering dapat memproses weak entity, strong entity, simple attribute, multivalued attribute, unary relationship, binary relationship, ternary relationship, n-ary relationship dan subtype/supertype relation. Selain itu pada database forward engineering dapat diproses derived attribute dan composite attribute. Khusus untuk weak entity dengan 1 atribut akan dideteksi sebagai multivalued atribut dan multivalued atribut yang composite akan dideteksi sebagai weak entity.",
+  "creators": "INDAH PUSPA SARI",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Andreas Handojo (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020981/INF/2011; Indah Puspa Sari (26407063)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

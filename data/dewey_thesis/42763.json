@@ -1,0 +1,14 @@
+{
+  "id": "42763",
+  "title": "Pembuatan sistem informasi multi store terdistribusi pada perusahaan stationery PT X di Surabaya",
+  "abstract": "PT X adalah salah satu perusahaan yang bergerak dalam bidang distributor stationery yang menyediakan berbagai macam jenis barang alat tulis kantor dan suvenir yang berpusat di Surabaya. Saat ini PT X mempunyai cabang toko retail sebanyak 29 gerai yang tidak termasuk gerai di mal. Tentunya diperlukan suatu sistem yang terintegrasi agar proses bisnis yang berjalan dapat berjalan tanpa hambatan. Saat ini, program yang dimiliki PT X masihlah berbasis DOS, sedangkan untuk integrasi program satu sama lain masih dilakukan secara annual menggunakan metode export dan import via e-mail. Hal ini dirasa masih kurang efektif dikarenakan lamanya proses untuk integrasi sehingga dapat menyebabkan inkonsistensi data, sehingga diperlukan sebuah sistem yang dapat mengintegrasikan sistem satu sama lain secara cepat dan akurat. Melihat adanya masalah tersebut, maka pada skripsi ini akan dibuat sistem informasi terdistribusi satu sama lain menggunakan komunikasi yang sudah familiar yaitu koneksi internet. Sistem informasi ini disesuaikan juga dengan hasil penelitian mengenai proses bisnis dan program aplikasi yang sudah dijalankan saat ini dengan beberapa fitur tambahan yang masih belum mencakup sistem yang lama. Sistem ini akan dibuat berbasis website dengan bahasa pemrograman berbasis PHP 7 dengan Framework Codeigniter 3, dibantu dengan library Bootstrap dan JQuery serta menggunakan database MySQL. Berdasarkan hasil dari penelitian skripsi ini dapat disimpulkan bahwa penggunaan aplikasi sistem informasi ini masih dibutuhkan beberapa penyesuaian dikarenakan terdapat proses yang berbeda dengan program yang lama seperti sinkronisasi data. Pada dasarnya program ini telah mencakup hampir semua kebutuhan yang ada di dalam proses bisnis PT X akan tetapi aplikasi sistem informasi ini dapat dikembangkan lebih lanjut untuk memutakhirkan kinerja program khususnya dalam proses pengambilan keputusan dalam lingkup multi cabang.",
+  "creators": "FERRY HARTONO",
+  "contributors": "Andreas Handojo (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021797/INF/2018; Ferry Hartono (26414077)",
+  "subjects": "MANAGEMENT INFORMATION SYSTEMS; PROGRAMMING LANGUAGES (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10350",
+  "title": "Identifikasi kontribusi sumber harmonisa pada sistem distribusi industri dengan menggunakan metode harmonic current vector",
+  "abstract": "Pada Point of Common Coupling yang merupakan titik pertemuan antara sisi pelanggan dan utilitas, mengalir arus dan tegangan yang mengandung harmonisa. Arus dan tegangan harmonisa ini dapat mengganggu kestabilan sistem tenaga listrik. Karena itu, perlu diketahui sisi mana yang memberikan kontribusi harmonisa terbesar pada Point of Common Coupling agar sisi tersebut dapat dipasang filter harmonisa. Dalam tugas akhir ini, digunakan metode Harmonic Current Vector dengan impedansi referensi untuk pemisahan kontribusi harmonisa arus dan tegangan serta PSIM 7.1.2_Demo sebagai sarana simulasi rangkaian. Dari hasil perhitungan menggunakan metode Harmonic Current Vector, diketahui bahwa komponen skalar harmonisa arus orde 7 pada utilitas (sUI7) bernilai 36,645 A, sedangkan pada sisi pelanggan (sCI7) bernilai 34,5 A. Nilai sUI7 yang lebih besar daripada sCI7 menunjukkan bahwa kontribusi harmonisa arus orde 7 terbesar pada Point of Common Coupling berasal dari sisi utilitas. Sementara itu, komponen skalar harmonisa tegangan orde 7 pada utilitas (sUU7) bernilai 47,96 V dan pada sisi pelanggan (sCU7) bernilai -28,82 V. Hal ini menunjukkan bahwa, kontribusi harmonisa tegangan orde 7 terbesar pada Point of Common Coupling juga berasal dari sisi utilitas.",
+  "creators": "HERLINA RIANTY",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Julius Sentosa Setiadji (Advisor 2); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010598/ELK/2008; Herlina Rianty (23404051)",
+  "subjects": "ELECTRIC POWER DISTRIBUTION; POWER SYSTEM HARMONICS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4623",
+  "title": "Study hall effect sensor untuk amperemeter",
+  "abstract": "Pembuatan tugas akhir ini dimaksudkan untuk mempelajari sensor Hall Effect yang diaplikasikan untuk mengukur arus listrik. Amperemeter saat ini penggunaannya dipasang secara seri dengan memutuskan kabel yang ada pada rangkaian atau menggunakan tang Ampere. Oleh karena itu dilakukan penelitian untuk mengukur arus listrik menggunakan hall effect sensor dengan metode mendeteksi besarnya medan magnet pada suatu kabel yang dialiri arus listrik. Jadi untuk mengukur arus, sensor hall effect hanya didekatkan pada kabel yang akan diukur. Dalam pembuatan Amperemeter ini menggunakan sebuah mikrokontroler tipe AVR ATMega 8. AVR ATMega 8 memiliki fitur tambahan seperti ADC internal dan internal clock osscilator. Pada alat ukur arus ini AVR berfungsi sebagai pengatur dari komponen seperti LCD (Liquid Crystal Display) dan sebagai pengolah data. Output dari sensor diolah terlebih dahulu oleh rangkaian amplifier baru kemudian data analog yang ada diubah oleh AVR menjadi data digital dan ditampilkan hasilnya melalui LCD. Berdasarkan pengujian, hasil pengukuran arus menggunakan sensor Hall Effect nilainya berubah-ubah dikarenakan output tegangan sensor medan magnet pada saat tidak ada medan magnet berubah-ubah. Amperemeter dengan Hall Effect sensor hasilnya lebih akurat bila jarak terhadap sensor semakin dekat.",
+  "creators": "MAYA CHRISTIANNY E N",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010826/ELK/2006; Maya Christianny E.N. (23402091)",
+  "subjects": "ELECTRIC MEASUREMENTS"
+}

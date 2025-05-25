@@ -1,0 +1,14 @@
+{
+  "id": "57165",
+  "title": "Aplikasi mobile sistem informasi dan chat untuk kegiatan Welcome, Grateful Generation Petra Christian University",
+  "abstract": "Welcome, Grateful Generation (WGG) merupakan rangkaian kegiatan tahunan yang rutin digelar di Universitas Kristen Petra (UKP) untuk menyambut, membekali, dan memperlengkapi mahasiswa baru sebelum memulai perkuliahan. Selama ini, informasi yang dibagikan kepada mahasiswa baru untuk memperlengkapi kegiatan ini dilakukan oleh panitia secara manual pada web WGG. Jika mahasiswa baru ingin bertanya kepada panitia harus melalui official account menggunakan aplikasi/sumber terpisah (LINE). Oleh karena itu, penelitian ini bertujuan untuk merancang dan membuat sistem berupa aplikasi mobile dan web yang dapat menyelesaikan masalah tersebut dengan beberapa fitur utama, yaitu fitur pengumuman, FAQ, forum untuk mahasiswa baru, dan chat. Fitur pada sistem terikat dengan role atau hak akses. Terdapat tiga jenis role pada program ini, yakni mahasiswa baru, panitia, dan admin. Setiap user yang dapat melakukan autentikasi dengan sistem harus memiliki atribut role. Web hanya dapat diakses oleh panitia dan admin, sedangkan aplikasi dapat diakses oleh semua jenis role yang ada. Pengujian pada penelitian ini diambil menggunakan user testing dengan menyebar kuesioner dan melakukan wawancara kepada panitia WGG 2023. Hasil penelitian menunjukkan bahwa sistem web admin mendapat nilai sangat baik sebesar 75,0%, dan nilai baik sebesar 25,0%. Sedangkan sistem aplikasi mendapat nilai sangat baik sebesar 50,0%, nilai baik sebesar 33,3%, dan nilai cukup sebesar 16,7%. Mahasiswa baru bisa mendapatkan informasi dan mengakses fitur secara lengkap pada aplikasi, sedangkan admin dan panitia dapat mengelola pengumuman, FAQ, dan chat bersama-sama panitia lainnya melalui fitur hak akses yang ada pada sistem. Sistem ini masih jauh dari sempurna dan memerlukan peningkatan lebih lanjut sesuai feedback yang telah diberikan pengguna.",
+  "creators": "CHRISTIAN WILLSON",
+  "contributors": "Yulia (Advisor 1); ANITA NATHANIA PURBOWO, S.KOM. (Advisor 2); Alexander Setiawan (Examination Committee 1); Silvia Rostianingsih (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022321/INF/2023; Christian Willson (C14190178)",
+  "subjects": "DASHBOARDS (MANAGEMENT INFORMATION SYSTEMS); MOBILE APPS--DESIGN"
+}

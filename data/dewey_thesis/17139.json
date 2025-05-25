@@ -1,0 +1,14 @@
+{
+  "id": "17139",
+  "title": "Perancangan dan pembuatan aplikasi simple SCADA dengan fitur drag and drop untuk PLC OMRON CPM1A",
+  "abstract": "SCADA ( Security Control and Data Acquisition ) adalah sebuah pendekatan untuk interaksi Manusia - Mesin. Software SCADA digunakan sebagai pengendali sekunder bagi PLC ( Programmable Logic Controller ) yang bertujuan memudahkan proses pengawasan automasi pada mesin-mesin Industri. Software SCADA yang beredar harganya sangat mahal dan masih banyak yang belum memiliki fitur drag and drop component yang dimiliki oleh aplikasi berbasis GUI ( Graphics User Interfaces ), sedangkan aplikasi berbasis GUI memerlukan spesifikasi komputer yang tinggi. Melalui skripsi ini akan dikembangkan sebuah aplikasi SCADA sederhana. Yang akan diaplikasikan pada Sistem Rumah Cerdas. Hasil dari skripsi ini berupa program dimana user tidak perlu melakukan coding, serta memiliki fitur-fitur dasar antara lain dapat berkomunukasi dengan PLC OMRON CPM1A, memiliki database, memiliki grafik aktif, simple alarm dan dapat memudahkan user dengan tampilan yang sudah drag and drop component - GUI based.",
+  "creators": "ERICHLONG MEZQUE",
+  "contributors": "Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 1); Handy Wicaksono (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020882/INF/2010; Erichlong Mezque (26406107)",
+  "subjects": "SCADA (SUPERVISORY CONTROL AND DATA ACQUISITION); AUTOMATIC CONTROL; PROGRAMMABLE CONTROLLERS"
+}

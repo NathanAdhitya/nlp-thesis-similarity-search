@@ -1,0 +1,14 @@
+{
+  "id": "42797",
+  "title": "Sistem informasi koperasi pada PT Jadi Abadi Corak Biscuit",
+  "abstract": "Kondisi saat ini, koperasi PT. Jadi Abadi Corak Biscuit masih menjalankan seluruh proses bisnisnya secara manual. Kondisi seperti ini mengakibatkan proses penghitungan sisa hasil usaha tidak melibatkan keuntungan dari swalayan karena tidak adanya integrasi data antar usaha simpan pinjam dan usaha swalayan. Selain itu, petugas swalayan juga sangat kesulitan dalam melakukan penyesuaian stok dan pembuatan laporan karena harus menyesuaikan data penjualan dan pembelian secara manual. Masalah juga ditemukan pada saat akan melakukan penghitungan sisa hasil usaha, proses penghitungan sisa hasil usaha akan membutuhkan waktu yang sangat lama karena harus mengumpulkan laporan-laporan yang ada, membuat pembukuan laba ruginya, dan kemudian memasukkan data-data anggota secara satu per satu ke dalam excel. Sistem informasi koperasi berbasis website ini dibuat dengan menggunakan Bootstrap framework dan database MySQL. Fitur yang diberikan antara lain: point of sales, integrasi data antar usaha simpan pinjam dan usaha swalayan, pembelian, kartu stok, penghitungan sisa hasil usaha dan pembuatan laporan. Hasil akhir dari pembuatan sistem informasi koperasi ini adalah pengguna dapat mengetahui jumlah stock barang, melakukan penghitungan sisa hasil usaha, dan mendapat laporan-laporan yang dibutuhkan untuk pengelolaan koperasi. Dari hasil kuesioner terdapat 100% pada penilaian tampilan aplikasi baik, 100% pada penilaian fitur penjualan dan pembelian swalayan baik, dan 100% pada penilaian keseluruhan permasalahan baik",
+  "creators": "DARMAWAN HADIPRASETYO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Yulia (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021801/INF/2018; Darmawan Hadiprasetyo (26414143)",
+  "subjects": "MANAGEMENT INFORMATION SYSTEMS; PROGRAMMING LANGUAGES (ELECTRONIC COMPUTERS)"
+}

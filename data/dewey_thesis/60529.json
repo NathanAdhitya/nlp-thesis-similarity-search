@@ -1,0 +1,14 @@
+{
+  "id": "60529",
+  "title": "Menerjemahkan bahasa Bali ke bahasa Indonesia dengan metode Transformer BERT dan Bi-LSTM",
+  "abstract": "Bahasa Bali adalah salah satu dari 7 bahasa daerah yang paling banyak digunakan di Indonesia. Dengan seiring bertambahnya jaman Bahasa daerah mulai dilupakan. Di mana tidak semua sekolah mewajibkan pembelajaran Bahasa daerah. Untuk itu perlu adanya pelestarian terhadap Bahasa daerah yang mana salah satunya adalah Bahasa Bali. Dengan memanfaatkan metode Deep learning (Bi-LSTM) dan Transformer BERT untuk membantu penerjemahan Bahasa Bali ke Indonesia. Bidirectional Long Short-Term Memory (Bi-LSTM) dengan 60000 data dan layer Bidirectional sebanyak 512 dan 256 mendapatkan akurasi tertinggi yaitu 79%.",
+  "creators": "BRIGITTA AUDREY HERYANTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022513/INF/2024; Brigitta Audrey Heryanto (C14200188)",
+  "subjects": "BALINESE LANGUAGE--TRANSLITERATION INTO INDONESIAN; DEEP LEARNING (MACHINE LEARNING)"
+}

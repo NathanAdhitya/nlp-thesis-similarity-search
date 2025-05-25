@@ -1,0 +1,14 @@
+{
+  "id": "5717",
+  "title": "Sistem antrian untuk tiga ruang periksa di poliklinik menggunakan jaring LAN berbasis PC",
+  "abstract": "Penggunaan teknologi modern seperti komputer sangat menguntungkan dalam proses antrian. Selain dapat meminimalkan tenaga manusia, dengan metode jaringan LAN dapat digunakan untuk penyimpanan medical record pasien yang akan sangat membantu sekali bagi dokter untuk \"mengenal\" pasien yang akan diperiksa melalui data tersebut. Sistem antrian ini terdiri dari satu komputer sebagai server dengan tiga buah komputer client pada masing-masing ruang periksa. Komputer server berfungsi untuk memasukkan data pasien dan mengirimkan data tersebut beserta medical record pasien ke komputer client dimana pasien akan diperiksa. Setelah pasien tersebut diperiksa dokter akan memasukkan hasil pemeriksaan pasien yang kemudian dikirimkan kembali ke komputer server untuk ditambahkan ke medical record pasien tersebut. Komputer server akan mengirimkan nomor antrian untuk pasien berikutnya yang diterima oleh IC AT89S51 melalui MAX232 yang kemudian ditampilkan pada seven segment. Sistem antrian ini dapat bekerja dengan baudrate antara 150-28800 bps, hal ini disesuaikan dengan kemampuan dari mikrokontroler AT89S51. Untuk pengunaan metode scanning display, dapat membuat arus yang mengalir menjadi lebih kecil dibandingkan perhitungan dikarenakan perubahan yang sangat cepat pada transsistor pada saat saturasi dan cuttoff.",
+  "creators": "AGUS DHARMA HENDRATA",
+  "contributors": "Hany Ferdinando (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010790/ELK/2006; Agus Dharma Hendrata (23401051)",
+  "subjects": "IC AT 89551 (MICROCONTROLLER); LOCAL AREA NETWORKS (COMPUTER NETWORKS)"
+}

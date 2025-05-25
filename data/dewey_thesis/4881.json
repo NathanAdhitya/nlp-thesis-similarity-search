@@ -1,0 +1,14 @@
+{
+  "id": "4881",
+  "title": "Perancangan dan pembuatan perangkat lunak berbasis jaringan syaraf tiruan untuk memprediksi harga saham dengan menggunakan metode backpropagation",
+  "abstract": "Kebanyakan investor menggunakan dua pendekatan untuk melakukan analisis atau memprediksi saham, yaitu analisis fundamental dan analisis teknikal. Namun bagi para investor awam dan masyarakat umum yang baru mengenal atau belajar saham akan sangat kesulitan dan membutuhkan waktu yang sangat banyak untuk mempelajari secara lebih mendalam mengenai kedua analisis tersebut diatas. Karena itu sangat dibutuhkan suatu proses prediksi untuk meramalkan harga saham yang lebih sederhana dari pada kedua analisa tersebut dan yang dapat membantu para investor untuk membeli dan menjual saham. Proses prediksi harga saham ini dapat dilakukan dengan memanfaatkan teknologi Jaringan Syaraf Tiruan (JST) yang merupakan suatu sistem yang berfungsi seperti otak manusia serta menggunakan model multilayer feedforward dengan algoritma Backpropagation yang tersusun dari sejumlah input neuron, hidden layer dan output. Input neuron mempresentasikan variabel input berupa nilai dari harga saham pada periode sebelumnya (harga saham max, harga saham min, harga saham penutupan), IHSG, fluktuasi harga rupiah terhadap dollar dan tingkat suku bunga pada beberapa perusahaan. Variabel input lain dapat berupa nilai harga saham penutupan dari sepuluh hari sebelumnya untuk memprediksi hari selanjutnya. Dari hasil pengujian dapat disimpulkan bahwa pemilihan parameter dan bobot untuk prediksi tergantung pada hasil testing, kalau error testing minimum maka bobot dan parameter hasil training akan dipakai untuk prediksi, sehingga adakalanya suatu perusahaan lebih baik menggunakan 6 input dan ada yang lebih baik dengan menggunakan 10 input.",
+  "creators": "DESI ENDRA JAYA",
+  "contributors": "M. ISA IRAWAN (Advisor 1); Rudy Adipranata (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000383/INF/2005; Desi Endra Jaya (26401114)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

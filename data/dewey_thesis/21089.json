@@ -1,0 +1,14 @@
+{
+  "id": "21089",
+  "title": "Implementasi teori discriminant analysis Altman pada jaringan saraf tiruan feedforward backpropagation",
+  "abstract": "Perencanaan merupakan kunci sukses bagi seorang manager keuangan. Rencana keuangan yang baik hams dikaitkan dengan kekuatan dan kelemahan perusahaan. Kekuatan perusahaan harus dipahami jika hendak dimanfaatkan dengan tepat dan kelemahan perusahaan harus dikenali jika hendak dilakukan tindakan perbaikan. Setiap rencana keuangan harus dimulai dengan analisis keuangan yang bermacam - macam jenisnya seperti rasio likuiditas, leverage, aktivasi, profitabilitas, pertumbuhan, dan penilaian. Tetapi analisa-analisa rasio tersebut mempunyai kelemahan pada metodologinya yang bersifat satu penyimpangan (univariate) yang berarti setiap rasio diuji secara terpisah. Untuk mengatasi kekurangan tersebut Altman memberikan solusi statistiknya yang bernama teori Discriminant Analysis dimana berbagai rasio dikombinasikan agar menghasilkan suatu index untuk mengklasifikasikan suatu perusahaan. Dalam tugas akhir ini teori Altman diimplementasikan ke dalam jaringan saraf tiruan bermetode feedforward backpropagation, aktifasi gaussian dengan menggunakan bahasa Pemrograman Borland Delphi 5 sebagai engine pelatihan dan Paradox 7.0 untuk data - data yang dilatihkan. Setelah melalui pengujian software didapatkan hasil paling optimal jika jaringan 5 input ini mempunyai kombinasi komponen jaringan saraf tiruan antara 5 hidden unit, learning rate : 0.1, momentum : 0.5, tipe error : Mean square error dan error limit : 0.001 yang kemudian setelah dilatih menghasilkan error hanya sebesar 9.99816.10\"5 yang berarti dari 100 data kemungkinan teriadi kesalahan bisa mendekati 1 %. Setelah pengujian analisa, kesalahan analisa untuk 25 data yang sudah dilatih adalah 0 %, sedangkan untuk 24 data yang belum dilatih terjadi kesalahan analisa sebesar 16.66 %. Ini menunjukkan bahwa jaringan saraf tiruan tidak menganalisa sebagus analisa dengan perhitungan Altman secara manual.",
+  "creators": "BUDANI HASTUTI NINGSIH",
+  "contributors": "Dewi Astuti (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Kartika Gunadi (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/KOM/003/079; Budani Hastuti Ningsih (23495112)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); SOFTWARE ENGINEERING"
+}

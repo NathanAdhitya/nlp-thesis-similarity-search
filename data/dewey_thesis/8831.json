@@ -1,0 +1,14 @@
+{
+  "id": "8831",
+  "title": "Alat ukur kelembaban udara dengan menggunakan metode psikometri berbasis mikrokontroller MCS 51",
+  "abstract": "Bahan baku industri membutuhkan tempat penyimpanan yang memiliki kelembaban tertentu. Kadar air yang berlebihan dalam suatu bahan akan menurunkan kualitas dari bahan yang bersangkutan. Oleh karena itu diperlukan suatu alat ukur yang dapat digunakan untuk mengukur kelembaban dari ruangan tempat penyimpanan bahan baku industri tersebut. Alat ukur kelembaban elektronik di pasaran sebenarnya sudah ada, namun harganya cukup mahal, untuk itu akan dibuat suatu alat ukur kelembaban elektronik yang cukup presisi, namun bila ditinjau dalam segi ekonomisnya lebih terjangkau, sehingga sensor ini akan sangat bermanfaat bagi bidang industri, terlebih- lebih bagi industri kecil. Adapun cara yang digunakan untuk mengukur kelembaban udara adalah dengan menggunakan metode psikrometri. Metode ini menggunakan dua buah transduser temperatur yang berupa IC LM 35, sebuah transduser dibiarkan kering dan disebut dry bulb, sedang transduser yang lainnya dililiti dengan kain basah dan disebut wet bulb. Hubungan antara temperatur dry bulb, penurunan temperatur wet bulb, dan kelembaban relatif ditabelkan dalam tabel psikrometri yang diolah dalam mikrokontroler MCS 51. Dari pengujian yang telah dilakukan, didapatkan hasil bahwa alat yang dibuat memiliki error yang cukup kecil, yaitu ? 3%. Dapat dikatakan bahwa alat yang dibuat cukup berhasil.",
+  "creators": "TEGUH IRWANTO",
+  "contributors": "Thiang (Advisor 1); Anies Hannawati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/584/ELK/2003; Teguh Irwanto (23497032)",
+  "subjects": "HUMIDITY CONTROL-COMPUTER PROGRAMS; AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

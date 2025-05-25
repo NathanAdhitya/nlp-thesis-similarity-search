@@ -1,0 +1,14 @@
+{
+  "id": "57700",
+  "title": "Penentuan rute pengiriman barang pada PT Surya Dermato Medica Laboratories menggunakan algoritma Tabu Search",
+  "abstract": "PT Surya Dermato Medica Laboratories merupakan perusahaan yang bergerak di bidang farmasi. Selama ini pengiriman barang untuk customer di daerah Surabaya berdasarkan kelompok pembagian sopir sesuai wilayah bagiannya masing-masing dan kurang memperhatikan rute secara keseluruhan sehingga kurang optimal dan biaya transportasi yang dikeluarkan menjadi besar. Perusahaan dan customer juga memiliki jam layanan tertentu untuk mengirim dan menerima barang. Penelitian ini dilakukan bertujuan untuk menentukkan rute pengiriman barang dengan mempertimbangkan time windows (Vehicle routing problem with time windows/VRPTW) sehingga dapat meminimumkan biaya transportasi yang dikeluarkan perusahaan. Metode yang akan digunakan dalam menyelesaikan masalah tersebut adalah algoritma Tabu Search dengan bantuan Visual Basic Microsoft Excel. Hasil dari rancangan penentuan rute yang dibuat memiliki total biaya yang lebih sedikit, di mana menghasilkan penurunan biaya sebesar 11,34% lebih kecil dibandingkan dengan penentuan rute yang dibuat oleh perusahaan saat ini.",
+  "creators": "JOYCELIN FELIANI SILOLA",
+  "contributors": "Herri Christian Palit (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022627/IDN/2023; Joycelin Feliani Silola (C13190088)",
+  "subjects": "TIME MANAGEMENT; VEHICLE ROUTING PROBLEM; SCHEDULING"
+}

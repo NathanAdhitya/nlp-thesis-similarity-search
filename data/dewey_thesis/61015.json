@@ -1,0 +1,14 @@
+{
+  "id": "61015",
+  "title": "Sistem pemesanan dan pembayaran untuk robot penyaji minuman",
+  "abstract": "Laboratorium Elektronika Program Studi Teknik Elektro membutuhkan modul untuk kunjungan SMA/K maka dibuatlah sistem pemesanan dan pembayaran untuk robot penyaji minuman yang dirancang untuk meningkatkan efisiensi operasional dan kenyamanan pengguna. Sistem ini mencakup antarmuka pemesanan berbasis perangkat lunak yang diimplementasikan menggunakan Raspberry Pi 5 yang terhubung ke monitor layar sentuh, memungkinkan pengguna untuk memesan minuman secara langsung. Selain itu, sistem ini dilengkapi dengan mekanisme pembayaran elektronik yang aman menggunakan payment gateway iFortepay, memudahkan transaksi tanpa uang tunai. Pengujian meliputi evaluasi desain antarmuka, kehandalan sistem pembayaran, dan pengiriman data ke robot. Hasil survei menunjukkan bahwa sebagian besar pengguna menilai antarmuka mudah digunakan dengan penilaian 3 atau 4 pada skala 1 sampai 4. Hasil pengujian menunjukkan bahwa antarmuka mudah digunakan, sistem pembayaran berjalan dengan lancar, dan data berhasil dikirim ke robot dengan waktu rata-rata 3,2 detik. Fitur admin juga diuji, menunjukkan kemampuan dalam menyaring data, melihat statistik, dan menghasilkan laporan penjualan yang akurat.",
+  "creators": "JEREMY MARCELINO WIHARDJO",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011068/ELK/2024; Jeremy Marcelino Wihardjo (C11200011)",
+  "subjects": "RASPBERRY PI (COMPUTER); ROBOTICS; ROBOTS"
+}

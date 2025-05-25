@@ -1,0 +1,14 @@
+{
+  "id": "55647",
+  "title": "Peningkatan keamanan penyimpanan password dalam lagu mp3 dengan kriptografi AES dan steganografi spread spectrum",
+  "abstract": "Password setiap hari digunakan oleh masyarakat. Tetapi dengan banyaknya jumlah password, hal ini sering kali terlupakan. Ataupun jika menyimpannya tidak ditempat yang aman seperti notepad, password dapat tercuri. Tidak hanya teknologi yang berkembang, namun juga dalam dunia musik. Sebuah lagu memiliki informasi musik yang dapat dimanfaatkan untuk menyembunyikan sesuatu. Penelitian ini bertujuan untuk melihat seberapa aman jika menyembunyikan password ke dalam lagu. Password berupa file text dan lagu yang digunakan memiliki format mp3. Terdapat penelitian sebelumnya, pesan berhasil disembunyikan ke dalam file audio MP3 dengan hasil size file yang tidak terlalu beda dengan file aslinya. Metode yang akan digunakan untuk penelitian ini adalah kriptografi AES dan steganografi spread spectrum. Password akan di enkripsi menggunakan AES dan akan dilanjutkan encoding dengan spread spectrum. Dengan menggabungkan 2 metode, maka akan memberikan tingkat keamanan yang tinggi. Hasil proses penyisipan memiliki rata-rata waktu 1.19 detik dan pengeluaran password memiliki rata-rata waktu 0.6 detik. Perbedaan ukuran file awal dengan file akhir hanya 0,01MB. Dari 3 uji coba password yang terdiri dari huruf kecil, huruf besar, tanda baca, emoji dan enter, percobaan penyisipan berhasil dan tidak ada perubahan baik pada saat di dengarkan maupun di dalam grafik audio. Ukuran file juga tidak terjadi perubahan yang signifikan.",
+  "creators": "TIFANY SUSANTO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Justinus Andjarwirawan (Examination Committee 1); Silvia Rostianingsih (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022251/IF/2023; Tifany Susanto (C14180073)",
+  "subjects": "COMPUTERS--ACCESS CONTROL--PASSWORDS; CRYPTOGRAPHY-COMPUTER PROGRAM; DATABASE MANAGEMENT--COMPUTER PROGRAMS"
+}

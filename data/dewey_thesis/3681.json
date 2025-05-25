@@ -1,0 +1,14 @@
+{
+  "id": "3681",
+  "title": "Pembuatan program fuzzy PLC Schneider TSX 37/21 untuk aplikasi kontrol motor DC",
+  "abstract": "Fuzzy logic merupakan salah satu metode pengontrolan pada masa ini. Tugas akhir ini dibuat dengan tujuan membuat program fuzzy pada PLC TSX micro 37/21 sehingga dapat mengontrol kecepatan motor DC. Motor DC yang digunakan adalah motor kepunyaan tugas akhir Oscar Finaldi ( nomor tugas akhir : 00/E/EL/035/472). Untuk mengontrol motor DC ini menggunakan hardware bantuan F to V converter untuk mengetahui kecepatan motor, dan untuk menggerakan motor dari output PLC ditambahkan rangkaian PWM, dan current amplifier. Program fuzzy dibuat dalam PL7 menggunakan modul analog I/O sebagai input dan output dari PLC. Program fuzzy ini dibuat dalam structured text pada PL7 yang dibagi menjadi 2 buah suboutine. Subroutine 1 berisi fuzzyfication input, dan rule evaluation untuk mendapatkan nilai fuzzy setiap rule. Subroutine 2 pertama berisi membership function, memanggil subroutine 1, rule evaluation untuk mendapatkan nilai fuzzy label output, dan proses defuzzfication.Kemudian motor dikontrol menggunakan program fuzzy tersebut dengan set point tertentu. Berdasarkan hasil pengujian, program fuzzy yang dibuat ini dapat mengontrol pergerakan motor DC sesuai dengan set point. Duty cycle dari program fuzzy ini dengan rule maksimal adalah 7.695 ms.",
+  "creators": "TEDDI SANTOSA",
+  "contributors": "Hany Ferdinando (Advisor 1); Handry Khoswanto (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010815/ELK/2006: Teddi Santosa (23402028)",
+  "subjects": "AUTOMATIC CONTROL; PROGRAMMABLE CONTROLLERS"
+}

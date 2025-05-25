@@ -1,0 +1,14 @@
+{
+  "id": "27768",
+  "title": "Perencanaan dan pembuatan peralatan analisis spektrum dengan metode fast fourier transform",
+  "abstract": "Salah satu pengukuran dalam bidang elektronik yang terus menerus dikembangkan adalah pengukuran spektrum frekuensi suatu sinyal. Metode demi metode terus menerus dikembangkan untuk mendapatkan hasil pengukuran yang baik. Salah satu metode yang cukup sistematis dalam pengukuran spektrum frekuensi suatu sinyal adalah Fast Fourier Transform. Metode ini sudah banyak digunakan orang dalam pemrosesan sinyal digital. Penggunaan metode di atas lebih banyak digunakan untuk menganalisis suatu sinyal dari luar. Dalam tugas akh ir ini akan direncanakan bagaimana penggunaan metode di atas untuk menganalisis spektrum frekuensi berbagai macam gelombang yang periodik maupun yang tidak periodik. Untuk membantu pemrosesan data digunakan mikrokomputer IBM PC. Untuk memasukkan gelombang/sinyal yang berupabesaran analog ke komputer dibutuhkan analog to digitalkonverter. Software yang dibuat, digunakan untukpemrosesan data analog tersebut dan menampilkan hasilanalisis sinyal ke layar monitor. Untuk mempercepatproses pengeluaran data ke port digunakan bahasa mesin,sedangkan untuk proses perhitungan matematik dilakukann melalui bahasa tingkat tinggi. Hasil analisis dapat ditampilkan di layar monitor baik berupa hasil perhitungan maupun grafik spektrum frekuensi Jika dikehendaki.Hasil kepentingan pemrosesan transformasi tugas akhir ini studi yang lebih sinyal digital, Fouriernya.dapat digunakan untuk mendalam dalam melihat",
+  "creators": "Danny Soetomo",
+  "contributors": "NAWANTO WIBOWO (Examination Committee 1); BENJAMIN HADISURYA (Advisor 2); HANDAYANI T. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.88/E/EL/021; Danny Soetomo (483060)",
+  "subjects": "FOURIER TRANSFORM SPECTROSCOPY; SPECTRUM ANALYSIS-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4770",
+  "title": "Pengaturan lampu lalu lintas dengan media jaringan komputer wireless LAN",
+  "abstract": "Lalu lintas di Surabaya pada khususnya sering mengalami kemacetan karena lampu lalu lintas yang tidak bisa dikontrol. Wireless LAN memungkinkan lampu lalu lintas dikontrol dari jarak jauh tanpa menggunakan kabel. Sistem pengaturan lalu lintas dengan menggunakan media wireless LAN ini secara garis besar terbagi menjadi dua sisi yaitu server dan klien. Server merupakan bagian yang menyimpan pola dan interval, mengolah data dan mengirimkan data ke klien. Pada server juga terdapat fasilitas interupt untuk keadaan darurat yang berfungsi untuk mengganti pola yang sedang berjalan dengan pola baru. Klien bertugas menerima data dari server dan mengolah data agar hardware dapat berjalan sesuai dengan pola dan interval pada server. Pada pengujian sistem, aplikasi pengaturan lampu lalu lintas dapat berjalan lancar dengan menggunakan konfigurasi wireless LAN peer to peer karena delay kurang dari 10 ms",
+  "creators": "ROBBY WIJAYA",
+  "contributors": "Resmana Lim (Advisor 1); Aditya Umbu Tana Amah (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 0301008/ELK/2004; Robby Wijaya (23400013)",
+  "subjects": "WIRELESS LOCAL AREA NETWORKS; LOCAL AREA NETWORKS (COMPUTER NETWORKS)"
+}

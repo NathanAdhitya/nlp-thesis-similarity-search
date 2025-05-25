@@ -1,0 +1,14 @@
+{
+  "id": "27976",
+  "title": "Perencanaan dan pembuatan simulasi mesin pencuci pakaian otomatis dengan menggunakan mikrokontroler MCS-51",
+  "abstract": "Umumnya dalam mencuci pakaian masih dilakukan secara manual, hal ini akan banyak menyita waktu dan tenaga. Dan di pasaran pada saat ini telah banyak dibuat mesin pencuci pakaian baik yang tidak terprogram maupun yang terprogram (otomatis). Pada tugas akhir ini dibuat suatu alat yang dapat mencuci pakaian secara otomatis. Di sini disediakan dua mode operasi yaitu proses manual dan otomatis. Proses manual bekerja hanya sekali saja dengan pengaturan waktu dari luar sedangkan proses otomatis bekerja sekaligus semuanya secara bertahap dengan waktu yang ditentukan di dalam software. Digunakan mikrokontroler 80C31 karena mempunyai fasilitas I/O port yang dapat dialamatkan secara per bit dan bersifat bidirectional. Di mana port-port ini digunakan untuk menyalakan LED, mengaktifkan solenoid valve, dan menerima data dari sensor ketinggian air dan sensor kecepatan. Solenoid valve yang digunakan jenis normally closed dengan tegangan 220 Volt dan Motor DC yang digunakan tegangan 12 Volt, 80 Watt. Dengan menggunakan mesin pencuci pakaian otomatis dapat menghemat tenaga dan waktu, karena semua proses pencucian telah diatur secara program sehingga proses pencucian pakaian dapat ditinggal. Dan dengan menggunakan Real Time Clock MC 146818 dapat dihasilkan waktu yang presisi.",
+  "creators": "WURYANTO HANDI",
+  "contributors": "SUPENO DJANALI (Advisor 1); BENJAMIN FLEMING INTAN (Advisor 2); AGUS MULYANTO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/012/0133; Wuryanto Handi (23487020)",
+  "subjects": "WASHING-MACHINES-AUTOMATIC CONTROL; MICROCONTROLLERS"
+}

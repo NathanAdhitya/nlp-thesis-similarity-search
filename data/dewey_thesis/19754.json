@@ -1,0 +1,14 @@
+{
+  "id": "19754",
+  "title": "Perancangan dan pembuatan search engine dokumen menggunakan metode topic based vector space model",
+  "abstract": "Perkembangan jumlah dokumen digital yang semakin banyak menyebabkan peran search engine menjadi semakin penting. Oleh karena itu diperlukan metode untuk mencari dokumen dengan mudah dan cepat. Salah satu tantangan dalam pengembangan search engine adalah kegagalan dalam mendapatkan dokumen yang diminta karena terjadi word mismatch. Metode Topic Based Vector Space Model memiliki asumsi bahwa setiap term memiliki hubungan terhadap term yang lainnya, sehingga dimensi dari vector space dibentuk berdasarkan fundamental topic. Keunggulan dari metode ini adalah proses pencarian dokumen tidak berdasarkan keyword matching, tetapi berdasarkan fundamental topic. Untuk meningkatkan performa dari metode ini, dilakukan proses stemming, irregular verbs converter dan stopwords removal sebelum proses indexing yang dilakukan. Aplikasi ini dibuat menggunakan Microsoft Visual Basic.Net 2005 digunakan sebagai backend indexing, sedangkan Microsoft ASP.Net 2005 digunakan sebagai front end search engine. Berdasarkan hasil pengujian yang dilakukan, metode ini dapat melengkapi kekurangan dari metode Vector Space Model dan OKAPI BM25.",
+  "creators": "ALBERT HALIM",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Andreas Handojo (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020948/INF/2010; Albert Halim (26407072)",
+  "subjects": "INTERNET (COMPUTER NETWORK); WEBSITE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

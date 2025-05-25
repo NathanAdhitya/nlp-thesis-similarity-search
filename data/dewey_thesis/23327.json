@@ -1,0 +1,14 @@
+{
+  "id": "23327",
+  "title": "Aplikasi komputer IBM PC untuk single trace oscilloscope",
+  "abstract": "Osiloskop merupakan suatu alat ukur yang dipergunakan untuk mengukur besar tegangan sebagai fungsi waktu dengan cara menampilkan bentuk gelombang yang diukur tersebut pada suatu layar CRT. Pada tugas akhir ini dibuat sebuah osiloskop dengan memanfaatkan sebuah personal komputer. Pemakaian komputer dalam hal ini memberikan banyak keuntungan antara lain karena komputer telah dilengkapi dengan media input (papan ketik) , media pemroses informasi (CPU), perekaman informasi ( disk ) , dan media penampil yang memiliki warna dan tingkat resolusi yang b a i k . Perangkat keras yang dibuat berupa rangkaian interface, ADC, pengatur skala tegangan. Dalam desain peralatan, keterbatasan kecepatan waktu sampling pada rangkaian ADC diatasi dengan pemakaian multiple ADC yang bekerja secara bersama - sama dengan waktu awal konversi yang berlainan. Dengan demikian kecepatan konversi ADC akan dapat ditingkatkan sebanyak jumlah ADC yang dipakai. Perangkat lunak yang ditulis dalam bahasa Pascal dipergunakan untuk mengontrol mekanisme input serta penampilan data pada layar CRT . Perangkat lunak ditunjang oleh perangkat keras komputer dan bagian interface bersama - sama memberikan fasilitas seperti automatic scaling, pemakaian garis ukur, pilihan skala tegangan dan skala waktu, perekaman dan pembacaan data dari disk dan pencetakan ke printer.",
+  "creators": "MULYADI SANTOSO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Rolly Intan (Advisor 2); HANDAYANI T. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/013/0134; Mulyadi Santoso (23487036)",
+  "subjects": "IBM MICROCOMPUTERS; CATHODE RAY OSCILLOSCOPE"
+}

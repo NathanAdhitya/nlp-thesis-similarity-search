@@ -1,0 +1,14 @@
+{
+  "id": "55051",
+  "title": "Dynamic difficulty adjustment stats musuh dengan neuroevolution of augmenting topologies pada custom space shooter game",
+  "abstract": "Pengembangan game biasanya menghabiskan waktu dan biaya yang besar pada penyesuaian tingkat kesulitan musuh yang akan dihadapi pemain. Contohnya seperti penyesuaian stats musuh yang ikut berubah semakin kuat mengikuti kemampuan pemain dalam game tersebut yang semakin membaik. Begitu pula sebaliknya, stats musuh tersebut akan menurun mengikuti kurangnya kemampuan pemain dalam game tersebut. Contoh penerapan ini mudah dilihat pada game-game arcade yang sudah berkembang mengikuti zaman seperti game Space Shooter ini. Penggunaan machine learning pada game dapat menyelesaikan masalah optimasi yang menyesuaikan stats musuh tersebut sehingga menjadi adaptif dengan kemampuan pemain. Penggunaan metode Neuroevolution of Augmenting Topologies atau biasa disingkat NEAT yang mendasari algoritma neuroevolution diterapkan dengan mendapatkan input berupa performa musuh tersebut terhadap pemain. Setelah itu, hasil output dari NEAT akan diterapkan pada nilai stats masing-masing musuh tersebut. Pengambilan data dilakukan dengan menguji metode NEAT dengan metode penelitian sebelumnya yaitu Genetic Algorithm oleh bot dan juga pemain. Berdasarkan hasil pengujian yang sudah dilakukan, metode penelitian sebelumnya dan metode yang digunakan masih belum mampu menyesuaikan nilai stats musuh terhadap kemampuan pemain baik dari hasil ujinya dengan bot maupun dengan pemain.",
+  "creators": "WELLY SUSANTO",
+  "contributors": "Kartika Gunadi (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022225/INF/2022; Welly Susanto (C14180245)",
+  "subjects": "LEVEL DESIGN (COMPUTER SCIENCE); VIDEO GAMES--DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10727",
+  "title": "Mesin pengering jamur kuping berbasis mikrokontroler AVR atmega8",
+  "abstract": "Masalah utama bagi petani jamur kuping adalah pengananan pascapanen jamur kuping. Untuk mengatasi masalah tersebut dilakukan proses pengeringan. Pengeringan jamur kuping ada dua cara, yaitu secara alami dan buatan. Pengeringan secara alami sangat tergantung dengan cuaca. Di Indonesia curah hujan pada bulan Desember sampai Pebruari sangat tinggi, bahkan bisa turun hujan sampai tiga hari berturut-turut. Dari kondisi tersebut pengeringan ini tidak efektif sehingga diperlukan sebuah pengering yang mampu mengeringkan jamur kuping sampai kadar air 20%RH. Pengeringan buatan ini menggunakan prinsip pengeringan konvensional yang memiliki heater, blower, dan ruang sirkulasi udara. Heater berasal dari elemen setrika. Blower berfungsi untuk menyebarkan udara panas dan kering ke dalam ruang pengeringan. Kontroler dari mesin pengering ini menggunakan microcontroller AVR ATmega8. Keunggulan dari microcontroller ini adalah menggunakan bahasa pemrograman high level sehingga memudahkan pemakainya, performa dan fleksibilitas yang lebih tinggi dibandingkan dengan keluarga MCS-51. Sensor yang digunakan adalah SHT11 buatan sensirion. Komunikasi sensor ini menggunakan cara 2 wire serial interface yang menggunakan serial clock input (SCK) dan serial data (DATA). Pengeringan menggunakan mesin memiliki waktu yang lebih cepat dibanding dengan pengeringan alami. Pengeringan secara alami berlangsung antara 7-8jam, sedangkan dengan pengering hanya ?5 jam. Daya yang digunakan mesin pengering ini 400watt.",
+  "creators": "ERVAN HARY SAPUTRA",
+  "contributors": "Hany Ferdinando (Advisor 1); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010862/ELK/2008; Ervan Hary Saputra (23401004)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; HEATING-COMPUTER PROGRAMS; STOVES-COMPUTER PROGRAMS"
+}

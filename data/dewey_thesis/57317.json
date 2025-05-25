@@ -1,0 +1,14 @@
+{
+  "id": "57317",
+  "title": "Aplikasi metode random forest dan recency, frequency, monetary value untuk klasifikasi pendonor darah di PMI Surabaya",
+  "abstract": "Tubuh manusia membutuhkan darah untuk mengedarkan segala nutrisi ke seluruh tubuhnya. Namun, ada beberapa kondisi yang membuat kandungan darah di tubuh manusia berkurang dengan drastis, misalnya kecelakaan. Jika tidak ditangani dengan cepat, maka akan berakibat fatal bagi keselamatan manusia. Permasalahan ini bisa diatasi dengan proses donor darah dari satu manusia ke manusia lainnya yang difasilitasi oleh PMI Surabaya. Ketika stok darah habis namun ada yang membutuhkan, maka PMI Surabaya membutuhkan adanya sistem untuk melakukan klasifikasi pendonor mana yang aktif dan yang tidak sesuai dengan kebutuhan yang ada. Sistem ini dapat melakukan proses klasifikasi pendonor dari yang paling aktif hingga ke pasif. Klasifikasi dilakukan berdasarkan beberapa parameter, misalnya usia, jenis kelamin, golongan darah, dan kebiasaan pendonor. Untuk melakukan proses klasifikasi, digunakan metode Random Forest dan Recency, Frequency, Monetary Value. Hasil klasifikasi akan menampilkan daftar pendonor mana yang potensial dan mana yang tidak sehingga memudahkan petugas PMI untuk menghubunginya jika memang membutuhkan stok darurat.",
+  "creators": "LINDA TAMARA CHANDRA",
+  "contributors": "Andreas Handojo (Advisor 1); Tanti Octavia (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022365/INF/2023; Linda Tamara Chandra (C14190015)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "22222",
+  "title": "Timbangan dan pengukur tinggi badan berbasis MCS-51",
+  "abstract": "Pada saat ini pengukuran tinggi dan berat badan pada umumnya dilakukan secara terpisah dengan alat ukur analog. Sehingga ketepatan hasil pengukuran sangat bergantung pada orang yang mengukurnya. Oleh karena itu timbul ide untuk membuat suatu alat ukur yang dapat melakukan kedua pengukuran tersebut secara langsung memperlihatkan apakah berat badan tersebut ideal atau tidak. Metode yang digunakan untuk menghitung berat badan adalah dengan menggunakan rangkaian timbangan sedangkan untuk tinggi badan dengan menggunakan rangkaian ultrasonic yang menghitung jarak sensor dari kepala kemudian mikrokontroler yang akan melakukan konversi ke dalam bentuk digital dan ditampilkan ke LCD. Pengujian sistem dilakukan adalah dengan memberikan beban pada timbangan dan mengukur tinggi dari beban tersebut. Dalam hal pengujian ini beban. Secara keseluruhan sistem telah dapat beijalan dengan baik, hanya saja keakuratan data yang dihasilkan pada rangkaian masih kurang, error kesalahannya 2,628% untuk berat dan 1,009% untuk tinggi badan, karena komponen dan timbangan tidak dikalibrasi terlebih dahulu, dilakukannya pembulatan waktu, dan nilai hambatan serta faktor kesalahan manusia dalam melakukan pencatatan waktu.",
+  "creators": "EVIE MAYLANIE",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Anies Hannawati (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/598/ELK/2003; Evie Maylanie (23498050)",
+  "subjects": "ELECTRIC BALANCES; MCS-51 (MICROCONTROLLER)"
+}

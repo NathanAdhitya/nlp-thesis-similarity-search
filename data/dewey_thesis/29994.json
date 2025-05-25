@@ -1,0 +1,14 @@
+{
+  "id": "29994",
+  "title": "Penentuan frekuensi perencanaan ulang master production schedule dan ukuran produksi yang optimal",
+  "abstract": "Dalam menjalankan kegiatan produksi di PT XYZ, tempat penelitian Tugas Akhir ini dilaksanakan, sering terjadi hambatan-hambatan. Salah satu hambatan tersebut adalah tidak tersedianya material pada waktu yang dibutuhkan dengan jumlah sesuai yang diperlukan. Proses produksi sering tertunda karena menunggu kelengkapan dari seluruh komponen yang akan dirakit. Penundaan proses produksi ini menyebabkan PT XYZ sering tidak dapat memenuhi tanggal penyelesaian tepat pada waktunya sehingga menimbulkan tambahan biaya (pinalti dari pihak komsumen). Ketidaksesuaian antara apa yang diharapkan atau direncanakan oleh perusahaan dengan kenyataan yang terjadi seperti di atas disebabkan karena tidak adanya perencanaan produksi yang baik di perusahaan tersebut. Permasalahan ini diselesaikan dengan membuat perencanaan kebutuhan material. Perencanaan kebutuhan material dibuat dengan menggunakan sistem MRP dan metode lot for lot karena pihak perusahaan ingin meminimumkan persediaan. Jadi, komponen diproduksi atau dipesan hanya pada saat dibutuhkan dengan jumlah yang sesuai keperluan. Agar target produksi yang telah ditetapkan dapat tercapai, maka pihak perusahaan harus memantau jalannya produksi agar dapat dilakukan perencanaan ulang produksi tersebut. Dengan data-data yang ada dan model yang telah dibuat dan diselesaikan dengan bantuan software What's Best! didapatkan biaya tiap periode dan total biayanya. Selanjutnya, dari beberapa jangka waktu peramalan demand dan beberapa frekuensi perencanaan ulang dibandingkan total biayanya dan dipilih yang minimum. Kesimpulan penelitian Tugas Akhir ini adalah frekuensi perencanaan ulang Master Production Schedule yang terbaik adalah tiap dua minggu (two week replanning frequency) dengan jangka waktu peramalan sepanjang satu bulan (four week forecast window). Frekuensi perencanaan ulang ini menimbulkan biaya minimum dibanding dengan frekuensi perencanaan ulang yang lainnya, sehingga perusahaan harus menyesuaikan (updated) rencana produksinya tiap dua minggu. Dalam solusi yang diberikan oleh model, terdapat persediaan dalam jumlah tertentu. Sehingga, bila perusahaan tetap menginginkan untuk mencapai target produksi tanpa persediaan, maka perusahaan harus menambah kapasitas produksinya.",
+  "creators": "GRACE DJUNAIDI",
+  "contributors": "Didik Wahjudi (Advisor 1); Maja Indahwati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 292/TI-19/2000; Grace Djunaidi (25496025)",
+  "subjects": "SCHEDULING; PRODUCTION PLANNING"
+}

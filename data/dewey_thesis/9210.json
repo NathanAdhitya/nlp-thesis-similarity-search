@@ -1,0 +1,14 @@
+{
+  "id": "9210",
+  "title": "Perancangan dan pembuatan aplikasi harga pokok pruduksi pada CV. Asti Printing dengan menggunakan metode job-costing",
+  "abstract": "CV. Asti Printing adalah sebuah perusahaan yang bergerak dalam industri printing dan packaging. Selama ini, CV. Asti mencatat dan mengolah data produksi secara manual, sehingga sering terjadi kesalahan, baik kesalahan pencatatan maupun kehilangan data. Perusahaan ini juga mengalami kesulitan dalam menghitung dan menentukan harga penjualan yang dipengaruhi oleh faktor inflasi yang nilainya ditentukan dengan future value, calculate and set the selling price membuat laporan-laporan produksi dan menghitung Harga Pokok Produksi (HPP) serta penjadwalan pengadaan bahan. Kesulitan ini dikarenakan banyaknya varian order printing yang ada, dimana tiap model printing ditentukan oleh customer. Tugas Akhir ini dirancang untuk membantu perusahaan dalam memecahkan permasalahan, sehingga dapat memberikan efisiensi waktu dan biaya bagi perusahaan. Pembuatan perangkat lunak untuk aplikasi HPP menggunakan Borland Delphi 7.0 untuk bahasa pemrogramannya, Microsoft SQL Server 2000 untuk menyimpan database-nya, dan Microsoft Windows XP sebagai sistem operasinya. Untuk desain sistem dimulai dengan merancang Data Flow Diagram (DFD) serta Entity Relationship Diagram (ERD) dengan menggunakan Power Designer 6.1. Perangkat lunak yang dihasilkan dapat menangani input data seperti data bahan, mesin, tenaga kerja dan aktifitas; mencatat order produksi, pembelian dan penjualan, serta dapat menentukan nilai dari future value. Dari hasil implementasi dan uji coba, perangkat lunak ini dapat mengetahui jadwal pengadaan bahan, status tiap proses produksi sebuah order, laporan hasil dan waste dari tiap proses produksi, laporan pemakaian bahan, mesin, tenaga kerja, overhead dan laporan harga pokok produksi dengan menggunakan metode FIFO (First In First Out) untuk metode pengambilan inventory-nya.",
+  "creators": "DENNY FRANCISKUS",
+  "contributors": "Yulia (Advisor 1); Alexander Setiawan (Advisor 2); Sri Maharsi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000509/INF/2006; Denny Franciskus (26402164)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

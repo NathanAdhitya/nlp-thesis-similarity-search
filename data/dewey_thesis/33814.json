@@ -1,0 +1,14 @@
+{
+  "id": "33814",
+  "title": "Analisis perencanaan enterprise architecture pada PT X",
+  "abstract": "PT X merupakan perusahaan yang bergerak di bidang manufaktur kertas, yang memiliki beberapa divisi untuk menjalankan proses-proses bisnis perusahaan. Pada saat ini perusahaan telah memiliki sistem informasi untuk mendukung setiap proses bisnis perusahaan, akan tetapi sistem informasi yang ada saat ini memiliki banyak kekurangan karena belum terintegrasi secara menyeluruh. Sistem informasi yang digunakan pada saat ini hanya untuk mendukung pembukuan akutansi, sedangkan proses bisnis lainnya lebih banyak menggunakan sistem pencatatan manual. Berdasarkan hal tersebut, maka dilakukan analisis dan pembuatan desain enterprise architecture untuk perusahaan. Kerangka kerja yang digunakan yaitu Enterprise Architecture Planning. Dalam mendalami proses bisnis perusahaan, maka dilakukan pemodelan bisnis dan analisa strategi bisnis perusahaan. Setelah itu tahapan selanjutnya adalah melihat kondisi information technology pada saat ini, permasalahan yang dihadapi, serta kebutuhan information technology di masa depan. Lalu dari hal-hal tersebut, maka dilakukan pembuatan desain arsitektur data, arsitektur aplikasi dan arsitektur teknologi. Arsitektur data menghasilkan beberapa sub sistem pada perusahaan, di antaranya adalah sub sistem HRD, sub sistem sales and marketing, sub sistem logistik, sub sistem produksi, sub sistem gudang dan quality control, sub sistem purchasing, serta sub sistem akuntansi dan keuangan. Arsitektur aplikasi terdiri dari beberapa aplikasi utama dan pendukung, semua aplikasi yang ada berbasis web. Aplikasi utama terdiri dari sistem informasi HRD, sistem informasi sales and marketing, sistem informasi logistik, sistem informasi produksi, sistem informasi gudang dan quality control, sistem informasi purchasing, serta sistem informasi akuntansi dan keuangan. Arstitektur teknologi menggunakan client/server architecture pattern dengan layanan data service oriented architecture.",
+  "creators": "ERIC CHRISTOPHER SANDJAJA",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Alexander Setiawan (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021381/INF/2015; Eric Christopher Sandjaja (26411105)",
+  "subjects": "INFORMATION TECHNOLOGY; BALANCED SCORECARD"
+}

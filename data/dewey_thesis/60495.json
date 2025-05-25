@@ -1,0 +1,14 @@
+{
+  "id": "60495",
+  "title": "Prediksi customer churn untuk mempertahankan pelanggan PT X menggunakan naive bayes dan support vector machine",
+  "abstract": "Customer churn adalah masalah yang dihadapi oleh banyak perusahaan di berbagai bidang. Hilangnya pelanggan tentu membawa dampak pada perusahaan secara finansial. Churn dapat dipicu oleh berbagai macam faktor tetapi sebagian besar dikarenakan adanya ketidakpuasan terhadap perusahaan. Pelanggan yang tidak puas dapat terlihat dari perilakunya, maka dari itu dari data pelanggan yang ada dapat terlihat karakteristik pelanggan yang akan churn. Dengan bantuan machine learning, data customer dapat menjadi acuan untuk memprediksi pelanggan yang memiliki potensi untuk churn dan mencegahnya. Penelitian akan dilakukan pada perusahaan yang bergerak dalam bidang data center. Pembuatan model prediksi akan diawali dengan menentukan atribut yang menjadi faktor pemicu churn pelanggan. Penentuan ini akan dilakukan dengan mengecek korelasi atribut dengan churn atau tidaknya pelanggan tersebut. Metode machine learning yang akan digunakan untuk pembuatan model prediksi adalah Naive Bayes dan Support Vector Machine. Pada masing-masing model akan dilakukan hyperparameter tuning sesuai metodenya agar menghasilkan model yang terbaik. Hasil dari model-model tersebut akan di tes menggunakan confusion matrix dan dibandingkan untuk mengetahui model mana yang paling cocok untuk memprediksi customer churn perusahaan X. Untuk memudahkan pihak perusahaan, akan dibuatkan website sederhana yang bisa digunakan user melakukan prediksi. Hasil dari penelitian ini adalah atribut yang menjadi faktor churn yaitu jumlah komplain, average nilai data center, nilai technical support tahun terakhir, dan average nilai account manager. Selain itu, model terbaik adalah dengan metode Support Vector Machine dengan kernel polynomial yang memiliki nilai precision 100%, recall 100%, f1 score 100%, dan accuracy 100%. Sedangkan dengan metode Gaussian Naive Bayes yang memiliki nilai precision 100%, recall 99%, f1 score 100%, dan accuracy 99%. Model yang lebih cocok untuk memprediksi customer churn pada PT X adalah model dengan metode SVM kernel polynomial.",
+  "creators": "REGINA FELIA",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Kartika Gunadi (Examination Committee 1); Hans Juwiantho S.Kom., M.Kom (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022480/INF/2024; Regina Felia (C14200016)",
+  "subjects": "CONSUMER BEHAVIOR; MACHINE LEARNING--DESIGN; SUPPORT VECTOR MACHINE"
+}

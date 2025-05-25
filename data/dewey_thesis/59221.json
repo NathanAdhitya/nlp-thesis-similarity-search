@@ -1,0 +1,14 @@
+{
+  "id": "59221",
+  "title": "Prediksi phishing menggunakan machine learning support vector, dan random forest",
+  "abstract": "Dalam era digital yang semakin maju, konektivitas internet telah menjadi bagian integral dari kehidupan sehari-hari. Meskipun menyediakan berbagai manfaat, penggunaan internet juga membawa risiko yang signifikan, salah satunya adalah serangan phishing. Serangan phishing merupakan tindakan cyber yang berusaha mencuri informasi sensitif dengan menyamar sebagai entitas yang terpercaya. Sebagai contoh, serangan phishing seringkali melibatkan situs web palsu yang bertujuan untuk mencuri informasi login. Serangan phishing memiliki dampak yang merugikan, termasuk kerugian finansial dan ancaman terhadap privasi serta keamanan online. Informasi pribadi yang dicuri dapat disalahgunakan untuk aktivitas ilegal dan penipuan, serta dapat digunakan untuk mengakses layanan online yang bersifat sensitif. Oleh karena itu, deteksi serangan phishing menjadi semakin penting dalam melindungi individu dan organisasi. Skripsi ini bertujuan untuk menggunakan teknik machine learning, seperti SVM dan Random Forest, dalam pengembangan model prediksi phishing lalu model yang dinilai paling baik akan diimplemnetasikan ke dalam web. Model ini dirancang untuk mengidentifikasi situs web phishing dengan akurasi tinggi. Melalui penelitian ini, diharapkan dapat memberikan kontribusi dalam meningkatkan keamanan cyber dan melindungi pengguna dari ancaman phishing yang semakin kompleks. Kesimpulan yang diambil dari penelitian ini menunjukkan bahwa dalam konteks deteksi serangan phishing, model berbasis Random Forest memiliki performa yang lebih baik dibandingkan dengan model berbasis Support Vector Machine (SVM). Penggunaan Random Forest dalam prediksi serangan phishing menunjukkan tingkat akurasi yang lebih tinggi, dengan akurasi sebesar 96.2%, sementara model SVM mencapai akurasi sebesar 82.2%. Hasil ini menegaskan bahwa Random Forest secara signifikan lebih unggul, memberikan keamanan yang lebih presisi dalam mengidentifikasi situs web palsu dengan perbedaan akurasi sebesar 14%.",
+  "creators": "TIMOTHY JASON",
+  "contributors": "Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 1); Andreas Handojo (Examination Committee 1); Liliana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022433/INF/2024; Timothy Jason (C14190087)",
+  "subjects": "PHISHING; CYBERTERRORISM; PHISHING--PREVENTION"
+}

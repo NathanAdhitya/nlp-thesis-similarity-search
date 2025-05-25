@@ -1,0 +1,14 @@
+{
+  "id": "4665",
+  "title": "Sistem pengaturan kecepatan mobil listrik",
+  "abstract": "Pembuatan tugas akhir ini dimaksudkan untuk merancang sebuah sistem elektrik yang diaplikasikan untuk mengatur kecepatan motor pada kerangka sebuah mobil menggunakan teknik PWM (Pulse Width Modulation). Sedangkan Kerangka mobil yang digunakan pada tugas akhir kali ini merupakan penyempurnaan dari kerangka dasar yang telah dibuat oleh Team PKMT ?Mobil Tenaga Surya? 2005. Dalam pembuatan sistem ini digunakan 2 buah microcontroller tipe AT89S51 sebagai pengolah data kecepatan dan AT89C2051 sebagai pengontrol level kecepatan. Sebagai tambahan digunakan rangkaian pendukung lainnya yang terdiri dari encoder sebagai sensor kecepatan, LCD (Liquid Crystal Display) sebagai indicator kecepatan dan komponen switching tegangan yang tersusun atas opto coupler, transistor dan MOSFET (Metal Oxide Field Effect Transistor). Motor yang digunakan sebagai actuator sistem ini adalah jenis motor direct drive dengan sistem kopel velg yang memiliki spesifikasi daya 350 watt. Data hasil pengujian menunjukkan bahwa microcontroller telah bekerja dengan baik tetapi akibat delay waktu switching opto coupler sebesar 15 ms maka output sistem mengalami error yang berupa penambahan nilai duty cycle sebesar 16.66%. Meskipun demikian sistem tetap dapat bekerja optimal karena dapat menyajikan 5 level kecepatan layaknya pada sistem mekanik dan mampu menjalankan mobil dengan kecepatan 6.33 km/h untuk level 1, 11.17 km/h untuk level 2, 15.17 untuk level 3, 19.17 untuk level 4 dan 25.17 km/h untuk level 5 pada jarak tempuh ? 250 meter dengan beban total sebesar 231 kg.",
+  "creators": "MAWAN HENDRAWAN",
+  "contributors": "Hany Ferdinando (Advisor 1); Handry Khoswanto (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010838/ELK/2006; Mawan Hendrawan (23403002)",
+  "subjects": "INTEGRATED CIRCUITS; MICROCONTROLLERS; ELECTRIC CURRENTS, DIRECT"
+}

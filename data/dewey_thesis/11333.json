@@ -1,0 +1,14 @@
+{
+  "id": "11333",
+  "title": "Perencanaan dan pembuatan duplikator braille dengan menggunakan mikrokontroller 8031",
+  "abstract": "Didalam abad ini, kemajuan teknologi dengan begitu cepat berkembang hampir merata disegala bidang, baik itu teknologi elektronika dan teknologi komputer. Ada bidang-bidang tertentu yang sampai sekarang belum banyak yang memikirkan, antara lain bidang pendidikan, khususnya pendidikan tuna netra. Pemanfaatan teknologi belum begitu meluas bahkan belum begitu banyak dirasakan oleh mereka, dan belum banyak peralatan atau piranti yang menunjang mereka. Oleh karena itu beragam komponen diaplikasikan untuk pembuatan 'Duplikator Braille' dengan menggunakan mikrokontroller 8031 sebagai basis processor. Dan dengan menggunakan beberapa piranti pendukung lainnya, yaitu sensor temperatur untuk mendeteksi temperatur. Programmable Peripheral Interface (PPI) 8255 sebagai programmable I/O yaitu display seven segmen dan keypad, serta digunakan pula EPROM sebagai eksternal ROM dan juga ADC 0808 sebagai pengubah sinyal analog menjadi sinyal digital, serta rangkaian relay driver sebagai driver untuk menjalankan pemanas. Pada pembuatan Duplikator Braille ini juga diperlukan piranti pendukung atau mekanisme lainnya, yaitu suction unit dan heater. Suction unit yang digunakan adalah pompa vakum udara atau kompresor yang biasa digunakan untuk pendingin, yang fungsinya untuk menghisap naskah Braille yang asli atau master yang akan diduplikatkan. Sedangkan heater digunakan untuk memanasi master supaya menjadi lentur. Dengan alat Duplikator Braille ini maka naskah Braille yang berbentuk huruf maupun gambar dapat diperbanyak, dan sebagai duplikatnya menggunakan plastik atau mika, dengan ketebalan plastik-mika yang berbeda-beda.",
+  "creators": "DWI NUGROHO",
+  "contributors": "VINCENT PRASETYO (Examination Committee 1); SOETIKNO (Advisor 1); HERLIANTO TENGGARA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/029/0232; Dwi Nugroho (23487005)",
+  "subjects": "COPING MACHINES-COMPUTER PROGRAMS; MICROCONTROLLER 8031"
+}

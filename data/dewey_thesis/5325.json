@@ -1,0 +1,14 @@
+{
+  "id": "5325",
+  "title": "Evaluasi penggunaan filter harmonisa (kompensator daya reaktif) terhadap sistem kelistrikan di pabrik Semen Gresik,Tuban III",
+  "abstract": "Dengan semakin berkembangnya penerapan teknologi elektronika dalam bidang industri, maka semakin banyak pula beban non linier yang dipergunakan. Namun, beban non linier tersebut mempunyai kendala pada bentuk gelombangnya yaitu berbentuk gelombang sinus yang tak sempurna. Gelombang sinus tak sempurna ini mempunyai berbagai kerugian. Diantaranya adalah peralatan menjadi lebih cepat panas, lifetime peralatan menjadi berkurang, interferensi sinyal (gangguan pada saluran telepon), dan tegangan berlebih. Pada Pabrik Semen Gresik, Tuban III mempunyai beban non linier yang berjumlah cukup banyak. Maka, untuk mengatasi pengaruh beban non linier tersebut masuk ke system kelistrikan, dipergunakanlah filter harmonisa sebanyak 8 buah. Dimana filter tersebut bekerja pada 5 frekuensi berbeda. Kelima frekuensi tersebut adalah 100 Hz, 150 Hz, 250 Hz, 350 Hz, dan 550 Hz. Dari hasil pengukuran dan simulasi menggunakan software ETAP Power Station Versi 4.00C didapatkan bahwa pemilihan filter harmonisa tersebut telah mampu mengatasi harmonisa yang timbul, selain ITHD busbar SS VII masih lebih besar dari standar yang diijinkan (ITHD=12) yaitu 12,05. Selain digunakan sebagai filter harmonisa, filter tersebut juga dimanfaatkan untuk mengkompensasi daya reaktif dari 0,72 menjadi 0,985.",
+  "creators": "JOHANES HERMAN WIBOWO",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Emmy Hosea (Advisor 2); Limboto Limantara (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 01010516/ELK/2004; Johanes Herman Wibowo (23400080)",
+  "subjects": "ELECTRIC POWER DISTRIBUTION; ELECTRIC POWER SYSTEMS"
+}

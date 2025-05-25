@@ -1,0 +1,14 @@
+{
+  "id": "19705",
+  "title": "Perancangan dan pembuatan sistem perhitungan harga pokok produksi produk farmasi pada PT. Balatif dengan metode process costing",
+  "abstract": "Saat ini sistem perhitungan harga pokok produksi tersebut yang dimiliki oleh PT. Balatif hanya bisa mencakup perhitungan biaya bahan baku hanya sesuai Bill of Material, sedangkan pencatatan biaya overhead pabrik dan biaya tenaga kerja langsung serta pembuatan laporan yang berkaitan dengan perhitungan Harga Pokok Produksi suatu produk masih belum bisa ditangani oleh sistem sehingga arus biaya yang terjadi dalam proses produksi akan sulit ditelusuri. Berdasarkan latar belakang permasalahan itu, penulis merancang sistem perhitungan Harga Pokok Produksi yang dapat mengatasi permasalahan tersebut. Proses pembuatannya menggunakan Microsoft Visual Studio .Net 2005 sebagai bahasa pemogramannya dan Oracle 10g sebagai database. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, dapat menyimpan pemakaian bahan baku baik yang sesuai Bill of Material ataupun tambahan, pemakaian mesin, pemakaian operator, dan sebagainya yang berkaitan dengan proses produksi tersebut. Selain itu aplikasi yang telah dibuat dapat digunakan untuk mengalokasikan biaya-biaya yang terjadi pada saat proses produksi, dan dapat digunakan untuk menghasilkan laporan-laporan yang berkaitan dengan perhitungan Harga Pokok Produksi suatu produk secara otomatis.",
+  "creators": "ROBBY ADRIAN JOESOEF",
+  "contributors": "Andreas Handojo (Advisor 2); Yulia (Advisor 1); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020963/INF/2010; Robby Adrian Joesoef (26407069)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

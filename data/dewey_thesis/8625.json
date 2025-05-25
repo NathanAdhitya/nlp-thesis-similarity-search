@@ -1,0 +1,14 @@
+{
+  "id": "8625",
+  "title": "Studi simulasi hybrid active filter seri-seri untuk meredam harmonisa pada induction furnace dengan menggunakan program PSIM",
+  "abstract": "Harmonisa disebabkan oleh beban non linier. Sehingga bentuk gelombang arus maupun tegangan yang idealnya adalah sinusoidal murni akan menjadi cacat akibat distorsi harmonisa yang terjadi. Harmonisa juga mengakibatkan jeleknya power quality pada utility atau pada sistem tenaga listrik di industri. Hal ini menjadi lebih serius dengan terjadinya harmonisa ke 5 dan ke 7 karena dampak negatifnya pada peralatan listrik di industri. Peredaman harmonisa dengan menggunakan Hybrid Active Filter Seri-Seri merupakan pilihan yang tepat untuk mengurangi harmonisa tegangan dan arus. Hal ini dapat dibuktikan dengan simulasi rangkaian menggunakan program Psim menunjukkan hasil yang baik. Yaitu dari 3.927% VTHD tanpa menggunakan filter menjadi 1.88% VTHD sedangkan untuk arus harmonisa dari 26.2% ITHD tanpa menggunakan filter menjadi 11.86% ITHD dengan Hybrid Active Filter Seri-Seri, dan keduanya dapat memenuhi standard IEEE 519-1992 (ITHD dan VTHD) tentang limit tegangan dan arus harmonisa yang diperbolehkan.",
+  "creators": "RATNA SHINTA DEWI",
+  "contributors": "Limboto Limantara (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010530/ELK/2005; Ratna Shinta Dewi (23400150)",
+  "subjects": "ELECTRIC POWER DISTRIBUTION; HARMONIC ANALYZERS; ELECTRIC POWER SYSTEM"
+}

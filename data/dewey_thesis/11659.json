@@ -1,0 +1,14 @@
+{
+  "id": "11659",
+  "title": "Perancangan dan pembuatan aplikasi untuk menganalisa data pada relational database dengan metode bayesian belief network",
+  "abstract": "Dalam perkembangannya, teknologi informasi banyak digunakan untuk mendukung proses transaksi dalam suatu bisnis seperti menyimpan data-data transaksi dan kemudian menampilkan informasi yang berkaitan dengan proses transaksi tersebut. Namun, sebenarnya masih banyak informasi tersembunyi yang bisa dihasilkan dari data-data transaksi tersebut. Untuk mendapatkan informasi tersembunyi tersebut, maka perlu dilakukan data mining yang bisa dilakukan dengan berbagai metode. Salah satu metode yang dapat digunakan adalah dengan menggunakan Bayesian Belief Network. Oleh karena itu, pada skripsi ini akan dikembangkan sebuah aplikasi untuk data mining dengan metode Bayesian Belief Network. Aplikasi dibuat untuk merepresentasikan tingkat dependensi data dan menampilkannya ke dalam weighted directed acyclic graph. Pembuatan aplikasi menggunakan Oracle 10g sebagai database server dan Java sebagai bahasa pemrograman. Informasi yang dihasilkan berupa model grafis hubungan probabilitas antar variabel data dan tabel conditional probability untuk setiap variabel data. Diharapkan output yang dihasilkan dapat menunjang proses pengambilan keputusan.",
+  "creators": "DWI KRISTANTO",
+  "contributors": "Rolly Intan (Advisor 1); Oviliani Yenty Yuliana (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01020788/INF/2009; Dwi Kristanto (26405031)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT"
+}

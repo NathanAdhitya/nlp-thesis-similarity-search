@@ -1,0 +1,14 @@
+{
+  "id": "59428",
+  "title": "Optimasi desain dinding struktur beton dengan metode metaheuristik",
+  "abstract": "Dalam mendesain bangunan tinggi, gaya lateral umumnya menjadi perhatian khusus dalam mendesain struktur bangunan. Banyak sistem penahan gaya lateral pada bangunan tinggi dapat digunakan untuk menahan gaya lateral yang relatif besar. Salah satu sistem penahan gaya lateral pada bangunan tinggi adalah dinding geser. Dinding geser dapat didesain dengan metode pendekatan (simplified method) atau dengan metode yang lebih akurat (2D P-M Curve). Banyaknya pertimbangan dalam mendesain dinding geser dapat menyebabkan desain yang dihasilkan tidak sepenuhnya optimal. Dengan demikian diperlukan optimasi pada struktur dinding geser agar menghasilkan desain yang optimal namun tetap memenuhi syarat kekuatan dan kondisi layan dengan menggunakan metode metaheuristik. Penelitian ini bertujuan untuk mengoptimasi biaya struktur dinding geser dengan mempertimbangkan dimensi dinding, rasio penulangan, dan mutu beton. Penelitian ini menggunakan 2 jenis algoritma metahuristik yaitu, Particle Swarm Optimization (PSO) dan Symbiotic Organisms Search (SOS). Penelitian ini menguji 2 studi kasus dinding geser yaitu studi kasus dinding geser 12 lantai dari kasus optimasi yang dilakukan oleh Vaez & Qomi (2018), serta studi kasus dinding geser 7 lantai dari kasus ACI SP-17M(14) shear wall example 2 (2018). PSO dan SOS akan bekerja untuk menemukan desain dinding geser dengan biaya terendah dan dibatasi oleh semua constraint dari SNI 2847:2019. Hasil penelitian ini menunjukkan bahwa metode metaheuristik mampu menemukan desain dinding geser dengan biaya termurah. Pada penelitian ini algoritma SOS menghasilkan performa yang lebih baik daripada PSO.",
+  "creators": "CHRISTOPER HENRY; LEONARDO VALENTINUS HANDOKO",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Jimmy Chandra (Advisor 1); Pamuda Pudjisuryadi (Examination Committee 1); Joko Purnomo S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012727/SIP/2024; Christoper Henry (B11200029), Leonardo Valentinus Handoko (B11200009)",
+  "subjects": "CONCRETE WALLS-DESIGN AND CONSTRUCTION; METAHEURISTICS; SHEAR WALLS"
+}

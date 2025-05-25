@@ -1,0 +1,14 @@
+{
+  "id": "36524",
+  "title": "Aplikasi perhitungan harga pokok produksi pada PT X menggunakan metode job order costing",
+  "abstract": "PT X merupakan perusahaan yang bergerak dalam bidang manufaktur roti. Pada saat ini pencatatan dan pembukuan pada PT X masih menggunakan sistem yang manual, pembukuan dengan sistem yang manual seringkali membuat perusahaan menjadi kesulitan dalam mengawasi dan mengatur sistem pembukuan yang ada dalam perusahaan. Perhitungan Harga Pokok Produksi masih dilakukan secara manual oleh perusahaan dengan membuat perkiraan Harga Pokok Produksi. Perhitungan yang dilakukan secara manual menyebabkan perusahaan kesulitan dalam menghitung keuntungan dan kerugian yang secara pasti dalam proses produksi dan mempengaruhi keuntungan dan kerugian yang didapatkan oleh perusahaan. Berdasarkan latar belakang tersebut, maka dirancang suatu sistem perhitungan Harga Pokok Produksi yang secara otomatis sehingga membantu sistem perusahaan ke depannya. Proses perancangan aplikasi ini dilakukan dengan beberapa tahap, tahap awal dengan mensurvei kondisi lapangan yang ada dalam perusahaan kemudian merancang Data Flow Diagram dan Entity Relationship Diagram sebelum membuat aplikasi. Untuk pembuatan aplikasi menggunakan Microsoft Access 2013 sebagai penyimpanan data dan bahasa pemrogramman menggunakan Microsoft Visual Studio 2012. Pada perhitungan Harga Pokok Produksi menggunakan metode Job Order Costing yang dapat diupdate secara otomatis. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, aplikasi melakukan perhitungan harga pokok produksi secara akurat, aplikasi melakukan proses pembelian dan penjualan, aplikasi menghasilkan laporan proses produksi secara akurat dan tepat apabila sewaktu-waktu dibutuhkan dan aplikasi melakukan penelusuran arus biaya dalam proses produksi. Dari hasil pengujian aplikasi 80% dari user beranggapan bahwa penilaian program secara keseluruhan sangat baik, sedangkan 20% dari user lainnya beranggapan bahwa penilaian program secara keseluruhan baik.",
+  "creators": "LOIS CHRISTIAN",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Rudy Adipranata (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021478/INF/2015; Lois Christian (26410053)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; INFORMATION SYSTEM; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

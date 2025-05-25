@@ -1,0 +1,14 @@
+{
+  "id": "57306",
+  "title": "Chatbot dengan algoritma bidirectional long short term memory untuk website admisi dan humas Universitas Kristen Petra",
+  "abstract": "Universitas Kristen Petra (UK Petra) memiliki layanan informasi yang bertujuan untuk membantu masyarakat, terutama mahasiswa baru dan orang tua mahasiswa untuk memperoleh informasi seputar UK Petra. UK Petra sudah memiliki layanan chatbot sederhana yang mampu menjawab beberapa pertanyaan umum yang sering ditanyakan masyarakat. Namun apabila pertanyaan yang diajukan terlalu rumit, maka masyarakat akan dihimbau untuk langsung berbincang dengan petugas. Hal ini tentu kurang efektif, mengingat jam kerja petugas yang terbatas, belum lagi apabila petugas sedang sibuk melayani orang lain. Penelitian oleh ko Kevin dengan penggunaan metode k-NN dan HMM menunjukkan kekurang mampuan chatbot dalam menerima pertanyaan yang kompleks (lebih dari 8 kata). Oleh karena itu, skripsi ini akan menggunakan metode k-Means untuk melakukan pengelompokkan data, lalu model Bidirectional Long Short Term Memory akan digunakan untuk pemberian jawaban akhir. Akan dilakukan juga penelitian dengan menggunakan model Convolutional Neural Network sebagai pembanding. Word Embedding yang juga akan dilakukan antara lain adalah Tokenizer, Word2Vec, Bag of Words, dan GloVe. Hasil akurasi rata-rata tertinggi chatbot sebesar 55.56%, dengan menggunakan Word2Vec CBOW Window=5 Min_Count=1 Bidirectional Long Short Term Memory dengan Splitting Data dan Stopwords Dihilangkan.",
+  "creators": "ALFONS RICHARDO SAMPURNO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Andreas Handojo (Examination Committee 1); Agustinus Noertjahyana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022359/INF/2023; Alfons Richardo Sampurno (C14190069)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--COMPUTER PROGRAMS; MACHINE LEARNING; NEURAL NETWORKS (COMPUTER SCIENCE)--COMPUTER PROGRAMS"
+}

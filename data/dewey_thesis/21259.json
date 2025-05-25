@@ -1,0 +1,14 @@
+{
+  "id": "21259",
+  "title": "Implementasi algoritma genetika untuk robot pencari rute terpendek yand dikontrol dengan mikrokontroler MCS-51",
+  "abstract": "Akhir-akhir ini perkembangan teknologi dan informasi semakin pesat dan Iuas di berbagai bidang. Seiring dengan perkembangan tersebut muncul pula masalah-masalah baru, satu di antaranya adalah masalah optimasi. Optimasi adalah pcncarian nilai-nilai variabel yang dianggap optimal, efektif dan efisien untuk mencapai hasil yang diinginkan. Pengoptimasian ini beraneka ragam tergantung dari masalah yang dihadapi. Metode yang digunakan untuk pengoptimasian pun bermacam-macam jenisnya. Tugas akhir kali ini berhubungan dengan masalah optimasi, yaitu mencari rute terpendek dari satu titik asal ke titik tujuan pada sebuah peta jalan. Metode optimasi yang digunakan adalah algoritma genetika. Algoritma genetika adalah metode pencarian solusi yang didasarkan pada seleksi alam dan genetika alarm. Semua proses algoritma genetika seperti membangkitkan populasi awal, evaluasi. seleksi. crossover dan mutasi. dilakukan oleh mikrokontroler MCS51. Jenis kromosom yang digunakan dalam sistem ini adalah bit siring. Metode seleksi yang digunakan adalah roulette wheel dan elitism. Sebuah program bantuan yang beroperasi di komputer digunakan untuk membuat peta jalan dan men-download semua informasi yang dibutuhkan ke mikrokontroler MCS51 secara serial. Aplikasi yang dibuat adalah sebuah robot yang mampu mencari rute terpendek pada suatu track. Pengujian telah dilakukan dengan simulasi pada program dan dengan menerapkan pada mikrokontroler untuk menentukan rute terpendek dari suatu lokasi menuju ke lokasi lain. Dari hasil pengujian terlihat bahwa implementasi algoritma genetika pada mikrokontroler dapat berjalan dengan baik dan mampu menentukan rute terpendek dengan tingkat keberhasilan mencapai 99% dengan bervariasi model peta.",
+  "creators": "RONALD KURNIAWAN",
+  "contributors": "Thiang (Advisor 1); Hany Ferdinando (Advisor 2); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/011/525; Ronald Kurniawan (23497001)",
+  "subjects": "MICROCONTROLLER MCS-51; ROBOTICS"
+}

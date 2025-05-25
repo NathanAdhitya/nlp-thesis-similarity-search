@@ -1,0 +1,14 @@
+{
+  "id": "4662",
+  "title": "Identifikasi sistem orde satu dan orde dua dengan metode step response",
+  "abstract": "Setiap sistem fisik memiliki persamaan matematis. Persamaan matematis ini sering disebut dengan transfer function. Dengan mengetahui transfer function, suatu sistem dapat dianalisa. Jika dianalisa, kelemahan dari sistem akan diketahui dan dapat diberi sebuah kontroler untuk memperbaiki kelemahan tersebut. Percobaan identifikasi sistem diawali dengan menentukan transfer function acuan yang akan dicari. Untuk sistem orde satu akan digunakan lima buah transfer function dan sistem orde dua menggunakan lima buah transfer function. Keseluruhan total transfer function yang akan diuji adalah sepuluh buah transfer function. Setelah transfer function acuan ditentukan, selanjutnya kesepuluh transfer function tersebut akan diuji melalui software Matlab, Multisim, dan rangkaian nyata dengan menggunakan resistor, kapasitor, op-amp dan komponen lainnya yang diperlukan. Input yang diberikan adalah input step sebesar 1 Volt. Setelah diuji, selanjutnya akan dilakukan analisa dengan metode step response, yaitu two-parameter models, three-parameter models dan four-parameter models untuk sistem orde satu dan orde dua. Khusus untuk sistem orde dua akan ditambah dengan analisa metode step response oscillatory models. Hasil analisa dengan menggunakan Matlab, Multisim dan rangkaian nyata menunjukkan keakuratan pengidentifikasian yang tinggi terhadap sistem orde satu, dengan metode yang paling baik adalah metode three-parameter b dan metode four parameter, dengan tingkat error 3.52%. Sedangkan untuk sistem orde dua hanya metode oscillatory yang dapat menunjukkan osilasi dari sistem dengan tingkat error terhadap peak time 10.62%, maximum overshoot 16.19%, settling time 151.16% dan rise time 8.94%.",
+  "creators": "ANDY SUYONO PUTRA",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Handy Wicaksono (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010835/ELK/2007; Andy Suyono Putra (23402042)",
+  "subjects": "TRANSFER FUNCTION; AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

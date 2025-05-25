@@ -1,0 +1,14 @@
+{
+  "id": "28187",
+  "title": "Perencanaan dan pembuatan alat pengaman pembicaraan antar telepon dengan scrambling-descrambling menggunakan mikrokontroler 8031",
+  "abstract": "Dewasa ini sistem telekomunikasi dengan menggunakan sinyal informasi berupa sinyal suara seperti telepon sangat digemari. Hal ini mengakibatkan semakin padatnya lalu lintas pada sistem telekomunikasi ini, sehingga tidak jarang terjadi sinyal informasi yang dikirimkan dapat diterima oleh pihak lain yang tidak dituju. Karena alasan tersebut di atas maka pada tugas akhir ini dibuat suatu alat yang dapat membantu agar sinyal informasi yang dikirimkan hanya dapat dimengerti oleh pihak yang dituju saja. Prinsip dasar dari alat yang dibuat adalah sinyal suara yang masuk dari mikrophone dikuatkan, kemudian dilewatkan pada rangkaian Low Pass Filter dan dijadikan data digital oleh ADC untuk diolah atau diacak dengan aturan tertentu. Kemudian dijadikan sinyal analog lagi oleh DAC untuk dikirimkan melalui pesawat telepon. Sedangkan untuk proses pengembaliannya adalah sinyal analog yang diterima dari pesawat telepon dilewatkan pada rangkaian Low Pass Filter untuk kemudian dijadikan data digital. Selanjutnya dilakukan proses pengembalian yang sesuai dengan proses pengacakan. Setelah itu data digital dikembalikan lagi menjadi sinyal analog dengan DAC utnuk kemudian dikeluarkan pada speaker. Dengan cara tersebut maka pihak lain yang tidak dituju bila mendapatkan sinyal informasi tersebut akan menerima sinyal informasi yang telah kacau. Dengan demikian maka sinyal informasi tersebut akan aman pada pihak yang dituju tanpa dapat dimengerti oleh pihak lain.",
+  "creators": "SOEPRIO WIDJOJO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); SUPENO DJANALI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/014/0171; Soeprio Widjojo (23488072)",
+  "subjects": "MICROCONTROLLER 8031; TELEPHONE-SYSTEMS; TELEPHONE-EQUIPMENTS AND SUPPLY"
+}

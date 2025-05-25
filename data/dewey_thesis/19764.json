@@ -1,0 +1,14 @@
+{
+  "id": "19764",
+  "title": "Optimalisasi penyusunan kotak karton ke dalam kontainer dengan metode heuristik",
+  "abstract": "PT \"X\" merupakan perusahaan manufaktur yang bergerak dibidang stationery. Permasalahan yang terjadi adalah perusahaan ingin memaksimalkan daya tampung kontainer yang digunakan pada penjualan ekspor. Perusahaan sudah memiliki sebuah program sederhana untuk mengestimasi daya tampung kontainer, namun perusahaan ingin mencari kombinasi pengepakan lain yang lebih mengoptimalkan daya tampung kontainer. Usaha mengoptimalkan daya tampung kontainer dilakukan dengan membuat sebuah sistem pengepakan baru yang memaksimalkan dimensi tinggi, lebar, kemudian panjang kontainer. Kotak karton yang dimasukkan adalah kotak karton dengan total volume terbesar terlebih dahulu, dan setiap jenis kotak dimasukkan hingga habis sebelum berpindah ke jenis kotak berikutnya. Cara pengepakan yang baru memberikan hasil utilitas ruang kontainer sebesar 87,65%. Utilitas ini lebih rendah daripada utilitas cara pengepakan sebelumnya dengan perbedaan rata-rata sebesar 1,768%. Sekalipun rata-rata utilitas lebih rendah dibandingkan dengan cara pengepakan sebelumnya, namun cara pengepakan usulan memiliki dapat dijadikan standar pengepakan di perusahaan karena memiliki urutan proses yang tetap.",
+  "creators": "REDMOND LEONARD THO",
+  "contributors": "Herri Christian Palit (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021499/IND/2010; Redmond Leonard Tho (25406094)",
+  "subjects": "PACKING FOR SHIPMENT; PACKAGING; OPERATIONS RESEACRH"
+}

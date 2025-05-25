@@ -1,0 +1,14 @@
+{
+  "id": "4414",
+  "title": "Perancangan dan pembuatan program penghitung jumlah orang menggunakan webcam",
+  "abstract": "Data jumlah pengunjung suatu tempat umum sangat penting. Data jumlah pengunjung biasanya didapat secara manual. Saat ini kamera Video telah diterapkan untuk kepentingan keamanan. Karena itu dibuatlah program penghitung jumlah pengunjung dengan metode Normalized Sum-Squared Differences (NSSD) yang mengambil selisih jumlah pixel Frame dan Background dan dikuadratkan, dinormalisasi dengan luasan detection window. Nilai NSSD yang didapat diseleksi dengan proses Thresholding untuk mendeteksi keberadaan orang pada detection window. Tugas Akhir ini dibuat dengan menggunakan Borland Delphi 5.0, dengan tambahan komponen TVideo. Program ini secara keseluruhan menunjukkan keberhasilan lebih dari 85%. Keberhasilan dari program ini sangat dipengaruhi oleh penentuan nilai threshold yang tepat.",
+  "creators": "CHANDRA KUNCARA",
+  "contributors": "Resmana Lim (Advisor 1); Kartika Gunadi (Advisor 1); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000167/INF/2004; Chandra Kuncara (26400056)",
+  "subjects": "COMPUTER VISIONIMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

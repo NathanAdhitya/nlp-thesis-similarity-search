@@ -1,0 +1,14 @@
+{
+  "id": "10730",
+  "title": "Active power filter menggunakan DSP card",
+  "abstract": "Pada saat ini perusahaan pada umumnya kebanyakan menggunakan beban non-linear, seperti VSD (Variable Speed Drive), rectifier, UPS, komputer, dll. Pemakaian beban ini akan menimbulkan harmonisa dan akan menyebabkan terjadinya penurunan nilai kualitas daya pada suatu sistem distribusi listrik. Gelombang harmonisa tersebut juga akan mempengaruhi kinerja dari beban yang digunakan pada sistem tersebut. Untuk mengurangi harmonisa pada suatu sistem, digunakan suatu filter aktif yang menggunakan DSP card yang dihubungkan pada suatu unit komputer. Gelombang sinusoidal yang telah terdistorsi oleh harmonisa, yang masuk pada DSP card, akan diolah, dengan menggunakan software LabView 7, sehingga harmonisa yang ada dapat dikurangi atau bahkan dihilangkan. Dengan penggunaan DSP card, gelombang harmonisa yang ditimbulkan akibat pemakaian beban non-linear dapat dikurangi sampai dengan gelombang harmonisa ke 25, sehingga nilai kualitas daya pada sistem tersebut juga meningkat. Dalam kasus ini digunakan DSP card milik Sheldon Instruments, SI-C33DSP-PCI, yang disertakan pula sebuah modul analog I/O, SI-MOD68xx, yang akan digunakan untuk pemrosesan sinyal di dalam sebuah komputer. Karena penggunaan alat instrumentasi tersebut pada penggunaan software ditambahkan sebuah library tambahan yang bernama QuVIEW, yang berfungsi mengoperasikan DSP card tersebut. Dari hasil analisa diperoleh kesimpulan bahwa rata-rata eliminasi nilai harmonisa pada suatu gelombang yang terdistorsi adalah , sampai dengan 80 %. Dimana pada gelombang segitiga murni nilai %THD dari 13.4376% menjadi 3.12239% dan dari 47.2217% menjadi 9.50893% pada gelombang kotak murni.",
+  "creators": "DAVID WAILANDUW",
+  "contributors": "Limboto Limantara (Advisor 1); Felix Pasila (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010861/ELK/2008; David Wailanduw (23403040)",
+  "subjects": "HARMONICS (ELECTRIC WAVES); HARMONIC ANALYZERS; ELECTRIC POWER SYSTEM STABILITY; ELECTRIC POWER SYSTEMS"
+}

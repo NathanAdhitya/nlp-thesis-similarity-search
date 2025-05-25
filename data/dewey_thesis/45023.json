@@ -1,0 +1,14 @@
+{
+  "id": "45023",
+  "title": "Optimasi tingkat persediaan bahan baku di PT X",
+  "abstract": "PT. X merupakan salah satu perusahaan tembakau terkemuka di Indonesia dan dunia yang bergerak di bidang manufaktur rokok. Perencanaan kebutuhan material yang dapat mengoptimumkan tingkat inventori menjadi hal yang penting untuk dilakukan. Penelitian ini berfokus pada penentuan parameter safety time serta metode yang digunakan dalam melakukan perencanaan pemesanan material hinge lid dan soft label untuk perusahaan afiliasi di Filipina. Perusahaan saat ini melakukan pemesanan material menggunakan sistem SAP dengan menggunakan konsep safety time. Safety time yang digunakan saat ini kurang optimal karena masih sering terjadi criticality atau perkiraan terjadinya shortage. Simulasi menunjukkan bahwa ada sekitar 156 kali terjadinya criticality pada kondisi awal, 72 kali pada hasil usulan trial and error menggunakan simulasi, serta 76 kali pada usulan untuk mengkonversikan safety stock menjadi safety time. Simulasi penggunaan konsep ROP-EOQ yang dilakukan pada 20 jenis material menghasilkan jumlah criticality sebanyak 59 kali, sedangkan penggunaan konsep safety time usulan hasil trial and error hanya sebanyak 9 kali. Simulasi yang dilakukan berdasarkan total inventory cost menunjukkan hasil terbaiknya terjadi ketika menggunakan konsep safety time hasil usulan trial and error. Usulan simulasi trial and error menghasilkan penurunan total inventory cost sebesar Rp758.547.044,03 atau sekitar 27,65% dari kondisi awal.",
+  "creators": "ELVINA YUNIA DEAROSA",
+  "contributors": "Tanti Octavia (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022230/IND/2019; Elvina Yunia Dearosa (25415030)",
+  "subjects": "INVENTORY CONTROL"
+}

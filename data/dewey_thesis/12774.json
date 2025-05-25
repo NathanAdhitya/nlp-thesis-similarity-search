@@ -1,0 +1,14 @@
+{
+  "id": "12774",
+  "title": "Studi banding teknik pamampatan data antara metode run length encoding huffman coding dan lzss",
+  "abstract": "Dewasa ini perkembangan industri perangkat lunak melaju dengan pesat. Perkembangan ini memberikan dampak positif yaitu tersedianya berbagai macam perangkat lunak beserta fungsi dan keistimewaannya. Sedangkan dampak negatifnya adalah diperlukannya media penyimpanan dengan kapasitas besar untuk menampung perangkat-perangkat lunak lainnya. Agar suatu media penyimpanan dapat menyimpan lebih banyak, isi perangkat lunak harus dimampatkan. Dengan begitu banyaknya metode-metode pemampatan data maka perlu dilakukan pembandingan metode mana yang memberikan hasil pemampatan paling baik jika digunakan untuk memampatkan sebarang perangkat lunak. Perbandingan dilakukan antara metode Run Length Encoding, Huffman Coding dan LZSS terhadap file sampel yang terdiri dari file teks, grafik, spreadsheet, data base dan executable. Selain itu ditambahkan juga perangkat lunak pemampatan yang umum digunakan yaitu PKZIP dan ARJ sebagai pembanding. Hasil penggunaan ketiga metode terhadap file sampel dianalisa secara statistik dengan student t distribution. Dari uji coba ketiga metode terhadap file sampel dan analisa statistik terhadap hasil uji coba, disimpulkan bahwa metode LZSS memberikan hasil pemampatan terbaik diantara kedua metode lainnya, yaitu metode RLE dan Huffman Coding.",
+  "creators": "SELVI KUSUMA WARDHANI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Oviliani Yenty Yuliana (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.96/E/KOM/002/002; Selvi Kusuma Wardhani (23491060)",
+  "subjects": "COMPUTERS"
+}

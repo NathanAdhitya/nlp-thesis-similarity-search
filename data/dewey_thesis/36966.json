@@ -1,0 +1,14 @@
+{
+  "id": "36966",
+  "title": "Pembuatan sistem keuangan pada Continuing Education Centre Universitas Kristen Petra",
+  "abstract": "Continuing Education Centre merupakan satu unit di bawah koordinasi Wakil Rektor bidang akademik dari Universitas Kristen Petra yang bergerak di bidang jasa pedidikan. Continuing Education Centre adalah unit/lembaga pendidikan berkelanjutan yang berkualitas dengan berbagai macam program. Sampai saat ini, Continuing Education Centre belum memiliki sistem yang membantu proses transaksi sehingga sering terdapat kesalahan dalam proses transaksi. Oleh karena itu pada skripsi ini akan dibuat program sistem informasi akuntansi dan estimasi pengeluaran yang membantu Continuing Education Centre dalam memproses transaksi dan mengolahnya menjadi laporan yang berguna bagi Continuing Education Centre. Proses pembuatan sistem ini dimulai dari menganalisis kebutuhan perusahaan, pembuatan rancangan sistem menggunakan Data Flow Diagram dan Entity Relational Diagram. Sistem ini dibuat dengan menggunakan database MySQL dan Hypertext Prepocessor (PHP). Ruang lingkup meliputi pencatatan, penjadwalan dan estimasi, pembuatan Chart of Account, pembuatan transaksi pengeluaran, serta pembuatan jurnal dan laporan transaksi secara otomatis. Semua ini didukung dengan server VPN berbasis Windows 7 dan tampilan antar muka berbasis web. Dari hasil pengujian yang dibuat, program dapat memproses transaksi, memberikan peramalan penjualan dan membuat laporan keuangan sehingga membantu proses keuangan di Continuing Education Centre. Berdasarkan hasil kuesioner, sistem ini memenuhi kebutuhan perusahaan dengan tingkat kepuasan mencapai 66.66% yang mengatakan baik dan 33.33% menyatakan cukup.",
+  "creators": "RYAN KICK KASSIDY",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Agustinus Noertjahyana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021554/NF/2016; Ryan Kick Kassidy (26412063)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); INTERNET (COMPUTER NETWORK); DATABASE MANAGEMENT-COMPUTER PROGRAM; DATABASE DESIGN; WEBSITES"
+}

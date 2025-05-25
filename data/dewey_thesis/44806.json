@@ -1,0 +1,14 @@
+{
+  "id": "44806",
+  "title": "Simulasi pembayaran menggunakan RFID (Radio Frequency Identification) pada studi kasus layanan mahasiswa",
+  "abstract": "Uang merupakan alat untuk melakukan transaksi. Semakin berkembangnya teknologi metode pembayaran juga semakin bervariasi, salah satu caranya bisa dengan e-money. Tetapi, meskipun ada metode seperti ini, kegiatan administratif Universitas Kristen Petra masih menggunakan sistem manual sehingga dirasa kurang praktis. Kemudian ketika akan menerapkan metode e-money ada aspek keamanan yang harus dipertimbangkan. Salah satunya adalah cara pengamanan saldo yang berada di dalam kartu sehingga saldo tidak dapat diduplikasi. Untuk mewujudkan pembayaran dengan e-money pada kegiatan administratif Universitas Kristen Petra, maka akan dibuat sistem pembayaran dengan menggunakan RFID dengan penyimpanan saldo didalam kartu. Ada 3 metode yang akan diujicobakan pada penelitian ini yaitu AES, DES, 3DES dengan mode CBC dan CFB dalam hal perbandingan kecepatan enkripsi dekripsi, penggunaan memori, dan anti duplikasi pada kartu. Selain itu juga akan dilakukan perbandingan kecepatan ketika melakukan top up/pencairan saldo/transaksi layanan antara saldo yang disimpan di dalam kartu dan saldo yang disimpan di dalam database. Hasil pengujian didapati bahwa anti duplikasi berhasil diterapkan, kecepatan enkripsi dekripsi metode AES, DES, 3DES mode CBC lebih cepat dibandingkan dengan CFB dan jumlah penggunaan memori yang sama pada penggunaan tiap metodenya. Proses penyimpanan data didalam database memiliki waktu lebih cepat pada proses top up/pencairan saldo sedangkan metode DES dengan mode CBC lebih cepat saat transaksi layanan.",
+  "creators": "ALVIN SANTOSO",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Alexander Setiawan (Advisor 2); Yulia (Examination Committee 1); Leo Willyanto Santoso (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021876/INF/2019; Alvin Santoso (26415056)",
+  "subjects": "ELECTRIC CONTROLLERS; RADIO FREQUENCY IDENTIFICATION SYSTEMS--TECHNOLOGICAL INNOVATIONS"
+}

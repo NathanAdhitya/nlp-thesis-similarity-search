@@ -1,0 +1,14 @@
+{
+  "id": "11332",
+  "title": "Perencanaan dan pembuatan model alat pemberi informasi tempat/lokasi kosong pada lahan parkir bertingkat dengan menggunakan 8031 yang dihubungkan dengan PC secara serial",
+  "abstract": "Dengan semakin pesatnya kemajuan teknologi elektronika saat ini, maka semakin banyak diproduksi peralatan yang dapat memudahkan hidup kita. Dewasa ini banyak sekali dibangun gedung-gedung bertingkat yang dibangun sebagai sarana penunjang dalam kegiatan bisnis. Seiring dengan hal itu dan mengingat sempitnya lahan yang ada dikota maka banyak pula dibangun gedung-gedung parkir bertingkat yang biasanya terhubung dengan gedung induk, yang bertujuan untuk memudahkan seseorang untuk melakukan kegiatan bisnisnya. Masalahnya sekarang adalah seringkali seseorang yang akan memarkirkan kendaraannya harus berputar-putar dari satu lantai ke lantai yang lain untuk mancari tempat yang kosong. Untuk itu agar pemakai jasa parkir mendapat kemudahan dalam mencari tempat kosong perlu adanya suatu peralatan yang mampu memberi informasi yang diperlukan. Untuk dapat memenuhi hal ini dibuat suatu model alat pemberi inofrmasi tempat kosong pada lahan parkir bertingkat yang akan dibahas dalam buku ini. Pada model sistem yang dibuat ini mengunakan sensor infra red yang diletakkan tepat ditengah-tengah petak parkir. Untuk dapat ditampilkan pada layar monitor maka dipergunakan mikrokontroler 8031 yang dihubungkan secara serial dengan PC. Masing-masing lantai parkir pada model memuat 24 petak parkir dan pada model ini terdiri dari 2 lantai. Ke-48 sensor yang digunakan dihubungkan ke minimum sistem 8031 melalui 2 buah PPI 8255.",
+  "creators": "LOKANANTA EDDY S.",
+  "contributors": "SUPENO DJANALI (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/003/0206; Lokananta Eddy S (23486099)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; AUTOMOBILE PARKING"
+}

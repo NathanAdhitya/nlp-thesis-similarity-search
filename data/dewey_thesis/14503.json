@@ -1,0 +1,14 @@
+{
+  "id": "14503",
+  "title": "Perencanaan dan pembuatan penyimpan pesan dan kunci elektronis yang dilengkapi dengan timer kontrol peralatan rumah tangga",
+  "abstract": "Salah satu pemanfaatan kemajuan dari tehnologi mikroprosesor adalah sebagai media penyimpanan yang handal dan otomatisasi atau pengaturan suatu sistem. Pada tugas akhir ini dibuat sebuah minimum sistem dengan menggunakan mikrokontroler 8031 yang digunakan sebagai penyimpan pesan dan pengontrolan beberapa peralatan juga sebagai kunci elektronis. Pesan yang akan disimpan diketikkan melalui keyboard dan ditampilkan melalui LCD. Peralatan yang dikontrol oleh kontroler 8031 yang dibuat pada tugas akhir ini adalah peralatan elektronis. Peralatan tersebut dihubungkan dengan sebuah relai sehingga dapat diatur waktu on atau off nya. Disamping itu minimum sistem ini dihubungkan dengan sebuah solenoid activated switch yang berfungsi sebagai kunci elektronis dilengkapi pula dengan sebuah sensor alarm. Alarm akan akan aktif apabila pintu dibuka tanpa menggunakan kunci kombinasi ini. Alat yang dibuat pada tugas akhir ini dilengkapi dengan keyboard, minimum sistem dan LCD sebagai peraga. Dengan alat ini kita dapat menyimpan 5 buah pesan dan mengatur 5 buah peralatan elektronis sesuai dengan waktu yang diinginkan. Untuk mengedit program diperlukan sebuah password agar tidak setiap orang dapat mengetahui isi program kita.",
+  "creators": "CHRIS ANDRIANTO",
+  "contributors": "VINCENT PRASETYO (Examination Committee 1); HANDAYANI T. (Advisor 1); HERLIANTO TENGGARA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi NO. 94/E/EL/016/0173; Chris Andrianto (23488079)",
+  "subjects": "AUTOMATIC CONTROL; MICROCONTROLLERS"
+}

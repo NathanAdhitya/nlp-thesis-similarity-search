@@ -1,0 +1,14 @@
+{
+  "id": "24649",
+  "title": "Analisa jaringan pipa dengan metode hardy cross dan partial pivoting",
+  "abstract": "Persoalan jaringan pipa dapat diselesaikan dengan bermacam-macam metode. Dua buah metode yang dibahas di sini adalah metode Hardy Cross dan metode Partial Pivoting. Metode pertama memerlukan perkiraan awal debit aliran yang memenuhi syarat kontinuitas pada setiap titik temu. Perkiraan awal ini digunakan untuk menentukan perhitungan debit pada setiap loop. Karena sifat konvergensinya, perhitungan dilakukan berulang-ulang sampai diperoleh hasil akhir. Pada metode kedua persamaan energi yang tidak linier dibuat menjadi linier dan bersama-sama dengan persamaan kontinuitas membentuk persamaan simultan yang dapat diselesaikan dengan eliminasi Gauss. Pada metode ini perhitungan juga dilakukan secara berulang. Untuk mengurangi kesalahan akibat pembulatan serta menghindari pembagian dengan bilangan yang sangat kecil atau nol, digunakan Partial Pivoting, seperti dirintis oleh Demuren, A.O. dan Ideriah, F.J.K. Untuk kedua metode ini telah dibuat program pada PC sehingga dengan contohcontoh kasus dapat disimpulkan perbandingan antara kedua metode. Dari kasus-kasus yang disajikan diperoleh kesimpulan bahwa metode Partial Pivoting lebih \"menguntungkan\" apabila di dalam jaringan tidak terdapat elemen pompa.",
+  "creators": "HENDRO PURNOMO; DANIEL FERRYANTO",
+  "contributors": "Agus Adhisetiono Sutanto (Advisor 1); Ir. Prasetio Sudjarwo, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 349 S; Hendro Purnomo (279102), Daniel Ferryanto (279141)",
+  "subjects": "PIPELINES; PIPELINES-STANDARDS"
+}

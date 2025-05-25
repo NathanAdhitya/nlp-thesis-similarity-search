@@ -1,0 +1,14 @@
+{
+  "id": "54165",
+  "title": "Data analytics roles in the creation of covid-19 pandemic insights",
+  "abstract": "Starting from the declaration of a pandemic on January 30, 2020 and continuing until now, the COVID-19 pandemic has affected the lives of most people. Governments across the world have been trying to prevent the virus’ spread to sustain the cases number within a controllable condition. To contribute, COVID-19 data analysts created COVID-19 dashboards for the public. Often, the dashboards that are created only contain basic descriptive insights of the pandemic such as the past-recorded value until the current date. However, in order to provide a valuable information, the future value of COVID-19 pandemic cases also need to be given. Snowflake cloud database and Tableau are implemented to produce COVID-19 analytics dashboards for insights of the world and US States. In addition, Indonesia’s COVID-19 confirmed cases forecasting is also done in order to provide more advanced insights of the COVID-19 pandemic. Quadratic Trend Analysis and ARIMA modelling using python libraries in Google Colab and Minitab 18, are used as an approach to produce the forecast. The findings suggest that ARIMA (2,0,5) is the model that gives promising forecast for the future time period in Indonesia.",
+  "creators": "ARYADAKSA AMUDRA",
+  "contributors": "Indriati Njoto Bisono (Advisor 1); HANIJANTO SOEWANDI, Ph.D. (Advisor 2); Prof. BERNARDO NUGROHO YAHYA, Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020015/IBE/2022; Aryadaksa Amudra (C13180050)",
+  "subjects": "COVID-19 (DISEASE)--EDUCATIONAL ASPECTS; COMPUTER PROGRAMS"
+}

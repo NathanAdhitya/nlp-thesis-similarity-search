@@ -1,0 +1,14 @@
+{
+  "id": "48353",
+  "title": "Deteksi balon ucapan pada komik Jepang dengan convolutional neural network, canny edge detection dan run length smooth algorithm",
+  "abstract": "Komik merupakan sebuah media hiburan yang biasanya digunakan untuk mengisi waktu kosong. Komik sendiri sudah sangat terkenal di dunia, terutama komik dari Jepang. Komik dari Jepang biasa disebut Manga, memiliki tingkat popularitas yang tinggi. Buktinya banyak sekali Manga yang diterjemahkan ke dalam Bahasa masing-masing tiap negara. Contohnya seperti One Piece yang sudah beredar di 43 negara. Walaupun begitu proses translasi cukup lama tertutama dalam penerjemahan Bahasa Jepang. Penelitian ini dapat digunakan untuk mempercepat proses penerjemahan dengan cara menggunakan CNN dan Canny Edge Detection untuk mendeteksi balon ucapan pada Manga. Hasil deteksi tersebut disegmentasi dan dengan bantuan OCR untuk mendigitalisasi huruf Jepang. Kemudian menggunakan teknik copypaste pada online dictionary atau online translator untuk mencari arti dari huruf yang tidak dimengerti. Karena mencari huruf dari kamus fisik (buku) memakan lebih banyak waktu. Hasil penelitian untuk mensegmentasi balon ucapan dari Manga berhasil tetapi untuk menklasifikasikan gambar tersebut berupa balon ucapan atau bukan dengan CNN tidak berhasil. Peneliti berasumsi karena dataset yang dibuat jumlahnya sedikit atau masalah pada saat pre-processing",
+  "creators": "RICKY SETIAWAN SASWONO",
+  "contributors": "Rudy Adipranata (Advisor 1); Kartika Gunadi (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021996/INF/2020; Ricky Setiawan Saswono (26416095)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

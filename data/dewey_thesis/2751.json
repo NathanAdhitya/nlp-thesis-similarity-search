@@ -1,0 +1,14 @@
+{
+  "id": "2751",
+  "title": "Perancangan ulang tata letak fasilitas di PT Meco Inoxprima",
+  "abstract": "P.T. Meco Inoxprima adalah perusahaan yang memproduksi tangki dengan tipe job order. Untuk mendukungnya proses pembuatan produknya perusahaan memiliki 2 lokasi yaitu Meco I dan Meco II yang letaknya berjauhan. Meco II menyuplai sebagian komponen-komponen yang tidak terdapat di Meco I sebagai pusat produksi. Hal ini menyebabkan kadang-kadang terjadinya keterlambatan produk, mengingat jarak antar pabrik cukup jauh. Pihak manajemen merencanakan pemindahan lokasi pabrik Meco I ke Meco II yang mempunyai lahan kosong dan merancang ulang Meco I karena dirasakan keadaan kurang optimal dalam hal jarak perpindahan materialnya. Dengan melihat kondisi perusahaan tersebut, maka timbulah ide unruk memberikan model layout yang meminimalkan jarak perpindahan material. Hal ini disebabkan karena salah satu kriteria yang dari layout yang baik apabila layout tersebut mempunyai jarak perpindahan yang seminimal mungkin. Pengukuran secara kuantitatif berupa from to chart yaitu frekuensi perpindahan material dan secara kualitatif berupa Activity Relationship Chart. Algoritma yang digunakan untuk merancang layout adalah algoritma BLOCPIAN, algoritma Kriteria Ganda yang kemudian diolah menggunakan CRAFT dan algoritma CORELAP. Dari pengolahan data didapatkan bahwa momen dari initial layout adalah 2.162.809,2 dan untuk momen untuk layout usulan dari BLOCPLAN (Alternatif I) adalah 1.696.153.05, momen dari CRAFT (Alternatif II) adalah 1.825.049,1 dan dari CORELAP (Alternatif III) adalah 1.620.982,05. Momen yang terkecil menunjukkan bahwa jarak perpindahan yang semakin optimal. Dari hasil pengolahan data ternyata layout altematif III adjustment dari algoritma CORELAP adalah layout yang lebih meminimalkan jarak perpindahan material, yang memiliki total momen yang terkecil dibandingkan dengan total momen layout lainnya. Dan bila dibandingkan dengan initial layout maka mengalami penurunan momen sebesar 25.05 %.",
+  "creators": "AGUSTIN FITRIANI D",
+  "contributors": "Herri Christian Palit (Advisor 1); BENEDICTUS J. (Advisor 2); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010603/IND/02; Agustin Fitriani Djinarwan (25498087)",
+  "subjects": "PLANT LAYOUT"
+}

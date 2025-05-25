@@ -1,0 +1,14 @@
+{
+  "id": "58146",
+  "title": "Aplikasi penentuan menu makanan sehat berbasis Android",
+  "abstract": "Kurangnya pengetahuan masyarakat tentang makanan sehat menjadi masalah yang semakin meningkat di era modern ini. Salah satu solusi untuk mengatasi permasalahan ini adalah dengan mengembangkan aplikasi yang dapat memudahkan masyarakat dalam memilih menu makanan sehat. Penelitian ini bertujuan untuk mengembangkan aplikasi penentuan menu makanan sehat menggunakan metode Fuzzy dan Algoritma Genetika berbasis Android. Metode Fuzzy digunakan untuk mengatasi ketidakpastian dalam pengambilan keputusan, sedangkan Algoritma Genetika digunakan untuk memperoleh hasil yang optimal. Aplikasi yang dikembangkan mampu memberikan rekomendasi menu makanan sehat yang disesuaikan dengan kebutuhan nutrisi pengguna. Informasi yang diinputkan oleh pengguna meliputi usia, jenis kelamin, tinggi badan, berat badan, dan aktivitas fisik. Metode Fuzzy digunakan untuk menghitung bobot setiap faktor dan memberikan penilaian terhadap kelayakan menu makanan sehat. Algoritma Genetika digunakan untuk memperoleh hasil yang optimal dengan melakukan proses seleksi, crossover, dan mutasi. Hasil penelitian menunjukkan bahwa aplikasi yang dikembangkan dapat memberikan rekomendasi menu makanan sehat yang sesuai dengan kebutuhan nutrisi pengguna. Pengguna dapat memilih menu makanan yang disarankan oleh aplikasi atau melakukan kustomisasi sesuai dengan preferensi mereka. Aplikasi ini dapat membantu meningkatkan pengetahuan masyarakat tentang makanan sehat dan memfasilitasi mereka dalam memilih makanan yang sesuai dengan kebutuhan nutrisi.",
+  "creators": "MARCELLINO DARMAWAN",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022300/INF/2023; Marcellino Darmawan (26416001)",
+  "subjects": "ANDROID (ELECTRONIC RESOURCE)--PROGRAMMING; APPLICATION SOFTWARE--DEVELOPMENT; GENETIC ALGORITHMS"
+}

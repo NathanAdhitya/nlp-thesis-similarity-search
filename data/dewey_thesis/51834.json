@@ -1,0 +1,14 @@
+{
+  "id": "51834",
+  "title": "Penerapan metode convolutional neural network untuk clothing image recognition",
+  "abstract": "Objek recognition adalah suatu perkembangan dunia AI (Artificial Intelligence) yang digunakan untuk mengenali objek dalam citra digital. Berbagai macam pengenalan objek dapat dilakukan, salah satunya Clothing Image Recognition. Era industri global, kreativitas fashion akan terus diekspresikan dan berkembang dengan menciptakan berbagai macam banyak model dan jenis pakaian. Perkembangan ini, membuat orang kesulitan dalam mengenali variasi fashion yang baru, hal ini dikarenakan pakaian memiliki banyak jenis dan varian, misalnya untuk pakaian atas terdapat varian mulai dari sweatshirts, kurtas, waistcoat dan sebagainya. Hal ini membuat pengguna menjadi kesulitan untuk membedakan kategori dari jenis pakaian. Bahkan, seringkali pengguna tidak mengetahui atau lupa dengan nama suatu jenis pakaian yang ingin dicari dan lebih mengingat bentuknya. Clothing image recognition menggunakan metode CNN (Convolutional Neural Network) dengan model VGG16. Penerapan CNN dengan model VGG16 akan dilakukan pada pyhton dengan bantuan library Keras sebagai mempercepat proses riset pada training data. Untuk implementasi program ke perangkat mobile menggunakan Android Studio dengan bahasa pemrograman Kotlin, dengan bantuan library Tensorflow Lite sebagai pembelajaran machine learning pada perangkat mobile. Hasil skripsi ini menunjukan akurasi 81.83% terhadap training data pada epoch 1 dan 82%-94% terhadap training data pada epoch 10 pada clothing image recognition.",
+  "creators": "FUYI GUNAWAN PUTRI",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); ANITA NATHANIA PURBOWO, S.KOM. (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022131/INF/2022; Fuyi Gunawan Putri (C14170156)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); ARTIFICIAL INTELLIGENCE--COMPUTER PROGRAMS"
+}

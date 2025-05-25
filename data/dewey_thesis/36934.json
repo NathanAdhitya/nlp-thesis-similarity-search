@@ -1,0 +1,14 @@
+{
+  "id": "36934",
+  "title": "Aplikasi penjadwalan asisten penjaga ujian dengan metode algoritma genetika",
+  "abstract": "Pada saat menjelang ujian tengah semester atau saat ujian akhir semester di Universitas Kristen Petra pasti dibutuhkan asisten yang akan menjaga pada setiap kelas pada ujian mata kuliah tertentu. Oleh karena itu diperlukan penjaga sebelum menentukan jadwal yang akan dijaga, maka diperlukan rapat supaya bisa menentukan jadwal tersebut. Jadi aplikasi ini dibuat untuk lebih memudahkan asisten dan koordinator ujian untuk menentukan jadwal tanpa membuang lebih banyak waktu antar koordinator. Koordinator dan asisten cukup membuka aplikasi ini. Asisten dapat memasukkan jadwal ujian mereka sesuai dengan tanggal dan jam mereka ujian, dan koordinator juga dapat menghasilkan program dengan menggunakan algoritma genetika sesuai batasan-batasan yang telah diberikan oleh koordinator ujian. Sehingga jadwal yang telah dihasilkan memiliki kecocokan dengan hasil akhirnya. Dan memiliki berbagai fitur tambahan seperti memberikan notice kepada asisten, dapat export jadwal jadi ke microsoft office excel atau print langsung. Pada saat survey algoritma genetika, program ini memiliki jadwal sesuai dengan batasan batasan yang diberikan oleh koordinator ujian. Jadi program ini layak dipakai oleh koordinator ujian Universitas Kristen Petra dalam prodi infomatika",
+  "creators": "JOSEPH CLINTON ADI GUNAWAN PUTRA",
+  "contributors": "Kristo Radion Purba S.ST. (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021587/INF/2016; Joseph Clinton Adi Gunawan Putra (26412001)",
+  "subjects": "APPLICATION SOFTWARE-DEVELOPMENT; GENETIC ALGORITHMS"
+}

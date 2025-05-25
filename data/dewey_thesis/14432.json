@@ -1,0 +1,14 @@
+{
+  "id": "14432",
+  "title": "Perencanaan dan pembuatan sistem sintesa suara yang digunakan sebagai informasi akademik mahasiswa dengan bantuan IBM PC",
+  "abstract": "Pada Tugas Akhir ini dibuat suatu alternatif sistem informasi akademik melalui pesawat telepon yang di kontrol oleh IBM PC. Para mahasiswa yang tidak dapat nadir ke kampus secara langsung diharapkan mendapat informasi mengenai prestasi akademik dan informasi lainnya, cukup hanya menelpon ke kampus saja. Prinsip kerja dari alat ini adalah mahasiswa ditun-tun dengan suara panduan, yang disimpan didalam file, yang dihubungkan demgma saluran telepon untuk mendapat-kan informasi yang diinginkan. Data yang dikirim melalui jaringan telepon adalah data berupa angka yang ditekan dan mengeluarkan sinyal DTMF, dimana sinyal DTMF ini akan diubah menjadi data biner sesuai dengan angka yang ditekan. Untuk mendapatkan informasi yang diinginkan, dapat dilakukan dengan cara menekan angka-angka pada pesawat telepon, data-data yang telah dikirimkan user dalam bentuk sinyal DTMF ini diubah menjadi data biner lalu ditransferkan ke komputer untuk diproses lebih lanjut. Setelah mendapat data dari user perangkat lunak akan mengatur informasi suara yang akan dikirim melalui saluran telepon sesuai dengan tombol yang telah ditekan oleh user. Setelah selesai mendapatkan informasi, user akan meletakkan gagang telepon, maka komputer secara otomatis juga akan menutup saluran teleponnya, sehingga saluran telepon tersebut dapat digunakan oleh user lain. Pada frekuensi sampling sebesar 10 KHz didapatkan hasil suara yang bersih dan jelas. Alat ini merupakan 'prototype' dari sistem informasi melalui saluran telepon, hanya mengubah konfigurasi dari perangkat lunak dan file suara diharapkan dapat digunakan sebagai sistem informasi untuk instansi lain atau sistem kon-trol melalui pesawat telepon.",
+  "creators": "HADI HARIANTO HARTANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); MOCHAMMAD HEROE (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/040/0243; Hadi Harianto Hartanto (23489050)",
+  "subjects": "INTERFACE CIRCUITS; TELEPHONE ANSWERING AND RECORDING EQUIPMENT-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "39601",
+  "title": "Pengembangan elemen balok timoshenko discrete shear gap standar dan berbasis kriging untuk analisis getaran bebas dan tekuk",
+  "abstract": "Penyelesaian masalah perhitungan struktur umumnya menggunakan metode analitis, tetapi untuk analisis struktur yang rumit metode analitis menjadi tidak efektif lagi, sehingga metode numerik adalah solusi dari masalah tersebut, salah satu metode numerik yang paling populer adalah metode elemen hingga (MEH). Selain MEH standar terdapat juga MEH berbasis Kriging (MEH-K) di mana shape function yang digunakan adalah shape function Kriging. Dengan teknik discrete shear gap (DSG) fenomena shear locking yang terjadi pada balok Timoshenko telah berhasil dieliminasi untuk analisa statik. Tujuan penelitian ini adalah untuk mengembangkan suatu elemen balok Timoshenko dengan MEH standar maupun berbasis Kriging dengan teknik DSG untuk analisis getaran bebas dan analisis tekuk. Menggunakan program MatlabR2010a peneliti menambahkan matriks massa untuk analisis getaran bebas dan matriks kekakuan geometrik untuk analisis tekuk, ke dalam program analisis statik elemen balok Timoshenko dari peneliti sebelumnya baik untuk MEH standar maupun MEH-K. Dari penelitian ini, didapatkan bahwa pada elemen balok Timoshenko standar mapun berbasis Kriging menghasilkan hasil yang sangat akurat, baik untuk analisis getaran bebas maupun tekuk.",
+  "creators": "NELVIN TANOYO; TONNY CHRISTANTO GOSARIA",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Pamuda Pudjisuryadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012149/SIP/2017; Nelvin Tanoyo (21413053), Tonny Christanto Gosaria (21413193)",
+  "subjects": "STRAINS AND STRESSES; GIRDERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "14851",
+  "title": "Perencanaan dan pembuatan pengatur temperatur tipe PID untuk laboratorium SPP dengan menggunakan PLC antara 25 C - 100 C",
+  "abstract": "Pengaturan sistero secara otomatis dewasa ini memainkan peranan yang penting baik dalam dunia industri inaupun dalam kehidupan sehari-hari salah satu cor.toh nyata adalah pengaturan suhu secara otomatis. Dalam menghadapi masalah ini adalah perlu bagi mahasiswa khususnya Elektro untuk mengenal akan pengaturan secara otomatis. Laboratorium SPP merupakan salah satu sarana untuk pengenalan sistem pengaturan termasuk pula pengaturan suhu. Salah satu alat pengatur yang banyak dipergunakan pada industri adalah Programmable Controller(PC) yaitu alat pengatur yang dapat diprogram. Dengan memanfaatkan alat ini maka akan dibuat suatu unit pengatur suhu secara otomatis dengan menggunakan jenis pengaturan PID yang merupakan jenis pengaturan paling baik saat ini. Alat bantu PC yaitu ASCII Unit digunakan untuk memudahkan pemrograman perhitungan matematika. Rarena PC tidak dapat dihubungkan langpung ke sistem yang diatur, perlu dibuat antar muka (interface). Interface akan mengolah sinyal-sinyal analog menjadi sinyal digital sehingga dapat dibaca oleh PC. Dari hasil' pengukuran berbagai jenis pengaturan (P, PI, PD, dan PID) didapatkan bahwa untuk sistem yang lambat panas dan kehilangan panas terhadap lingkungannya adalah kecil lebih baik/cocok dipakai pengaturan tipe P. Sistem pemanas yang direncanakan tidak dapat mencapai 125 ?C (maksimum hanya 100?C) karena pemanas yang digunakan dayanya kurang besar.",
+  "creators": "SIAUW FIE FIE",
+  "contributors": "SUPENO DJANALI (Advisor 1); Heri Saptono Warpindyasmoro (Advisor 2); AGUS MULYANTO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/011/0070; Siauw Fie Fie (485064)",
+  "subjects": "TEMPERATURE CONTROLLER"
+}

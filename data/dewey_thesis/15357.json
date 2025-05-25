@@ -1,0 +1,14 @@
+{
+  "id": "15357",
+  "title": "Perencanaan dan pembuatan assembler untuk mikrokontroler M68HC11 dilengkapi dengan lingkungan pengembangan terpadu",
+  "abstract": "Dengan semakin berkembangnya industri di Indonesia, kebutuhan akan peralatan minimum system berbasis pada mikrokontroler juga meningkat. Salah satunya adalah mikrokontroler M68HC11 disertai dengan peralatan untuk mendesainnya. Peralatan tersebut dapat berupa assembler yang dilengkapi dengan text editor dan EPROM emulator. Desain two-pass assembler untuk mikrokontroler M68HC11 dapat memecahkan masalah forward reference, dimana program bermaksud bercabang atau melompat ke suatu alamat yang berada dibelakangnya. Pada pass pertama dilakukan pengumpulan label yang menunjuk pada suatu lokasi memory atau label yang mewakili konstanta dan pada pass kedua dilakukan pembangkitan kode mesin. Desain EPROM emulator menggunakan IC RAM. dimana RAM dapat ditulis atau dihapus dengan cepat tanpa tambahan peralatan khusus hanya dengan tambahan beberapa sinyal kontrol. Pemakaian EPROM emulator tersebut harus ditunjang oleh komputer yang berfungsi sebagai host yang mengendalikan penulisan atau proses download data lewat parallel port. Pengembangan text-editor dengan kemampuan pengeditan multiple-file dapat dikembangkan dengan mudah oleh Turbo Vision. Ditunjang dengan metode pemrograman berorientasi object yang menjadikan program lebih terstruktur dari metode yang selama ini ada. Text editor ini dilengkapi dengan menu proses assembly dan menu download ke EPROM emulator.",
+  "creators": "DENNY PRASETYA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Rolly Intan (Advisor 2); ESTHER HANAYA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/KOM/004/004; Denny Prasetya (23491078)",
+  "subjects": "ASSEMBLING (ELECTRONIC COMPUTERS); INTEL M68HC11 (MICROCONTROLLER)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "15652",
+  "title": "Perencanaan dan pembuatan papan peraga dot matriks dengan pengiriman data melalui saluran jala-jala menggunakan mikrokontroler 8031",
+  "abstract": "The using of dot matrix display as an information conveying means has been widely spread in many fields. Its interesting display can attract others' attentions to see the information that it conveys. Dot matrix display standard design does not make the operator possible to change the data easily, especially when the display is put in the position which is difficult to reach. The tools consist of transmitter and receiver. In the transmitter part, the result of the data which comes from the keypad can be seen in the display, so that the content can be read, changed, and corrected before being transmitted serially. The data transmition can be done through power line by using the help of the modulator-demodulator to the receiver to be displayed in the receiver's display. The control of the tool uses microcontroller 8031, and it is supported by 8279 interface which handles the control from the keypad matrix series. IC LM 1893 is used to modulation-demodulation of the serial data transmition from microcontroller 8031. The result of the testing shows that serial data transmition between transmitter system minimum and receiver system minimum can directly work well. However, the obstacle in the tuning of the modulator-demodulator series causes serial data transmition through power line cannot be done.",
+  "creators": "YUYU",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Thiang (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/KOM/016/055; YuYu (23491162)",
+  "subjects": "DETECTORS-COMPUTER PROGRAMS; DISPLAY BOARDS-COMPUTER PROGRAMS; INTEL 8031 (MICROCONTROLLER)"
+}

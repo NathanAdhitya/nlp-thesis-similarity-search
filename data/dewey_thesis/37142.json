@@ -1,0 +1,14 @@
+{
+  "id": "37142",
+  "title": "Implementasi neural network pada non-player character dalam survival action game",
+  "abstract": "Game merupakan aplikasi multi media yang membutuhkan beberapa unsur utama yaitu, tujuan, tantangan dan game play atau biasa dikenal sebagai aturan main dalam sebuah game. Survival action game akan menerapkan sistem game play yang sifatnya real time. Sifat game play yang real time biasanya membutuhkan metode pengambilan keputusan ai yang cepat sehingga tidak mengganggu sistem game play yang sedang berjalan. Salah satu yang metode yang cepat dalam proses pengambilan keputusan adalah backpropagation. Penggunaan metode backpropagation dapat memanfaatkan fitur perubahan data training sehingga output yang dikalkulasi dapat berbeda dari sebelum data training dirubah. Untuk bisa diterapkan ke dalam sistem game, backpropagation yang menerapkan arsitektur winner-take-all sehingga sistem backpropagation yang dibuat, dapat menjalankan proses training dengan baik. Berdasarkan hasil pengujian, sistem backpropagation dapat diterapkan dalam sistem game yang sifatnya real time dan fitur penambahan data training dapat memberikan perubahan berupa pengambilan keputusan yang berbeda dari sebelumnya.",
+  "creators": "SEMUEL YOOTJE DANIEL TAWAS",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Kristo Radion Purba S.ST. (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021572/INF/2016; Semuel Yootje Daniel Tawas (26412175)",
+  "subjects": "ARTIFICIAL NEURAL NETWORK; COMPUTER GAMES-DESIGN"
+}

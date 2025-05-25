@@ -1,0 +1,14 @@
+{
+  "id": "48988",
+  "title": "Performa seismik bangunan ruko berdinding bata di Surabaya dengan mempertimbangkan rigid dan semi-rigid floor",
+  "abstract": "Dalam pemodelan struktur, dinding bata pengisi secara umum dianggap sebagai elemen non-struktural yang dimodelkan sebagai beban dan mengabaikan kekakuannya. Pada realitanya, dinding bata memberikan pengaruh pada performa struktur bangunan dikarenakan adanya interaksi dinding bata (brittle) dengan portal (ductile), menghasilkan struktur lebih kaku dan kuat dibandingkan portal biasa. Pada penelitian ini dilakukan penyelidikan terhadap performa seismik bangunan ruko berdinding bata di Surabaya dengan mempertimbangkan rigid dan semirigid diaphragm serta memasukkan pengaruh bond-slip pada balok dengan panjang penjangkaran tulangan kurang memadai. Analisis dilakukan secara 3D dengan metode non-linear direct integration time history menggunakan software SAP2000 v21.2. Beban gempa yang digunakan untuk analisis adalah El-Centro 1940 yang dimodifikasi sesuai SNI Gempa Indonesia (1726:2019) untuk kota Surabaya pada level gempa desain (2⁄3 MCER). Dinding bata dimodelkan sebagai 3 strut diagonal ekuivalen pada kedua arah. Pada balok, kolom dan sloof dimodelkan kerusakan sendi plastis dan momen bond-slip. Pada dinding bata dimodelkan kerusakan brittle dengan interaksi In-Plane dan Out-Of-Plane. Fitur element removal digunakan untuk menganalisis progressive collapse yang terjadi. Hasil penelitian menunjukkan bahwa keberadaan dinding bata memengaruhi performa seismik bangunan beton bertulang berdasarkan analisis rigid maupun semirigid diaphragm. Idealisasi semirigid diaphragm harus dilakukan apabila rasio dimensi diafragma sesuai kategori yang ditetapkan, karena performa yang dihasilkan berbeda.",
+  "creators": "TAMARA JENNIFER CAROLINA; AMBROSIUS MATTHEW JUNIUS REYNALDO",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Benjamin Lumantarna (Advisor 2); Jimmy Chandra (Examination Committee 1); Agievianthi, MS (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012452/SIP/2021; Tamara Jennifer Carolina (B11170006), Ambrosius Matthew Junius Reynaldo (B11170042)",
+  "subjects": "BUILDINGS-EARTHQUAKE EFFECTS; BRICK WALLS; BUILDINGS--DESIGN AND CONSTRUCTION"
+}

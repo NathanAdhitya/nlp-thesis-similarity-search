@@ -1,0 +1,14 @@
+{
+  "id": "21249",
+  "title": "Pengendali printer dengan gelombang FM sebagai media transmisi data",
+  "abstract": "Dalam pemakaian sebuah printer oleh beberapa komputer selama ini banyak digunakan selector switch mekanis. Pemakaian peralatan dengan gelombang radio sebagai media transmisi data merupakan salah satu alternatif lainnya. Gelombang radio yang digunakan adalah gelombang FM. Pemilihan gelombang FM ditentukan karena memiliki perbandingan sinyal terhadap desah yang cukup tinggi dibandingkan dengan gelombang AM. Sehingga dirancang dan dibuat suatu pengendali printer dengan gelombang FM sebagai media transmisi data. Peralatan ini terdiri dari dua bagian Transmitter untuk pengendalian dua komputer dan satu Receiver untuk pengendalian bagian printer. Peralatan ini memiliki kelebihan dimana tidak menggunakan kabel dan dapat sharing antar dua komputer dalam melakukan pengetikan pada satu printer. Dari pencetakan data pada program berbasis DOS dan menggunakan printer Hewlett Packard Deskjet 400, waktu pencetakan data pada printer dengan menggunakan peralatan ini mengalami perlambatan sebesar 62% dibandingkan bila menggunakan kabel parallel. Pengendali printer ini mampu melakukan transmisi data hingga sejauh 5 meter.",
+  "creators": "MULYADI WIDJOJO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/005/519; Mulyadi Widjojo (23495040)",
+  "subjects": "DATA TRANSMISION SYSTEMS; RADIO WAVES"
+}

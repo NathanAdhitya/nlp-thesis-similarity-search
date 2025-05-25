@@ -1,0 +1,14 @@
+{
+  "id": "42060",
+  "title": "Pembuatan aplikasi simulator robot manipulator dengan menggunakan forward dan inverse kinematik di unity",
+  "abstract": "Teknik Elektro merupakan salah satu program studi di Fakultas Teknologi Industri di Universitas Kristen Petra. Pembelajaran yang dilakukan meliputi pembelajaran eletronik seperti robot manipulator. Pada pembelajaran robot manipulator, mahasiswa Teknik Elektro wajib mempelajari dasar dari pembelajaran tersebut, yakni materi forward dan inverse kinematik.. Hambatan dalam kegiatan belajar mengajar adalah perhitungan terhadap pergerakan lengan robot yang cukup sulit dijelaskan karena pergerakan robot yang dihitung berdasarkan banyaknya persamaan matematik trigonometri serta tidak adanya visualisasi secara langsung respon gerakan lengan robot. Skripsi ini dibuat untuk menjawab masalah di atas dengan pembuatan aplikasi simulator robot manipulator. Aplikasi ini dibuat dengan engine Unity dengan bahasa pemograman C#. Aplikasi ini mensimulasikan pergerakan robot baik secara forward maupun inverse kinematik dengan batasan DOF 2 dan 3. Aplikasi sejenis yang menjadi pembanding adalah RoboAnalyzer. Berdasarkan hasil pengujian, program ‘FIK’ sudah menggambarkan forward maupun inverse kinematik, perhitungan rumus matematis, pergerakan simulator, serta trace yang dihasilkan. Untuk hasil inverse kinematik hanya menampilkan satu hasil, sedangkan pada program pembanding menampilkan kemungkinan 2-4 jawaban.",
+  "creators": "KEVIN NATHANAEL SUGIHARTO",
+  "contributors": "Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 1); Handry Khoswanto (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021736/INF/2017; Kevin Nathanael Sugiharto (26413028)",
+  "subjects": "GRAPHIC ARTS; INTERACTIVE MULTIMEDIA; SMARTPHONE; VISUAL COMMUNICATION; MOBILE PHONE (GAME)"
+}

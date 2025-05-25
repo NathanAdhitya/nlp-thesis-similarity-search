@@ -1,0 +1,14 @@
+{
+  "id": "53613",
+  "title": "Sales forecasting pada Dealer Motor X dengan LSTM, ARIMA dan Holt-Winters Exponential Smoothing",
+  "abstract": "Dalam dunia dagang, persediaan stok barang menjadi persoalan yang penting. Terkadang, dealer motor X mengalami kehilangan pendapatan akibat kurang persediaan motor serta ruang penyimpanan yang terbuang rugi karena motor yang kurang laris disimpan dalam jumlah banyak. Apabila proses restock mudah dilakukan, maka akan menjawab permasalahan. Persediaan motor pada dealer motor X dikirim dari Jakarta ke Sulawesi Tengah. Jika dealer motor X ingin melakukan restock maka akan memakan waktu yang cukup lama serta biaya pengiriman yang mahal. Untuk mengatasi permasalahan pada dealer motor X, diperlukan sebuah prediksi atau peramalan(forecasting) terhadap penjualan motor. Dengan adanya peramalan ini diharapkan pemilik dealer motor X dapat menentukan jumlah dan tipe motor mana yang harus dikirim dari Jakarta setiap bulannya. Pada penelitian ini akan menggunakan Long-Short Term Memory (LSTM), Autoregressive Integrated Moving Average (ARIMA), dan Holt-Winters Exponential Smoothing untuk melakukan forecasting penjualan motor dan kemudian akan dibandingkan performanya dengan menggunakan evaluation metrics, seperti Root Mean Square Error (RMSE) dan Mean Absolute Percentage Error (MAPE). Dari ketiga model ini, model yang paling baik untuk forecasting yaitu ARIMA dengan nilai RMSE (1.1339-5.8936) terendah untuk semua jenis motor dan memiliki nilai MAPE terendah untuk tiga jenis motor. Apabila model LSTM dibandingkan dengan model Holt-Winters, model LSTM lebih baik dalam melakukan peramalan dengan nilai RMSE dan nilai MAPE yang lebih kecil pada kebanyakan jenis motor.",
+  "creators": "JENNIFER SOERYAWINATA",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Leo Willyanto Santoso (Advisor 2); Alexander Setiawan (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022213/INF/2022; Jennifer Soeryawinata (C14180254)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); INFORMATION RESOURCES MANAGEMENT"
+}

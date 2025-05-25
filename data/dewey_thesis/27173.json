@@ -1,0 +1,14 @@
+{
+  "id": "27173",
+  "title": "Perencanaan dan pembuatan timbangan digital untuk kantor pos dengan menggunakan MCS-51 (range 5 gr-2 kg)",
+  "abstract": "Sejalan dengan perkembangan teknologi, maka timbangan digital hadir untuk menggantikan peran dari timbangan jarum analog yang mempunyai banyak kekurangan. Pada timbangan digital untuk kantor pos ini digunakan transducer load cell yang akan mengubah besaran fisis berat dari benda yang ditimbang menjadi suatu besaran listrik analog. Pada saat load cell mendapat beban, akan terjadi perubahan resistansi pada susunan strain gauge-strain gauge tersebut, yang selanjutnya akan menimbulkan suatu tegangan diferensial yang kecil. Tegangan diferensial yang dihasilkan ini akan diperkuat oleh penguat instrumentasi sehingga sesuai dengan range ADC yang akan digunakan. Tegangan analog yang dihasilkan penguat instrumentasi akan dikonversikan menjadi bentuk digital oleh Analog to Digital Converter. Selanjutnya keluaran dari ADC akan diolah oleh minimun system dan akan ditampilkan dalam satuan berat (gram). Selain itu minimun sistem juga dapat menerima input dari operator berupa jenis benda yang akan dikirim (meliputi surat, kilat, barang cetakan, surat kabar dll), tujuan benda kiriman tersebut {dalam/luar negeri) dan bea-bea khusus pengiriman (tercatat/express) dengan menekan tombol keyboard yang sesuai. Dengan informasi yang didapat dari operator, maka mikrokontroler akan mendisplaykan harga yang harus dibayar untuk pengiriman ke daerah tertentu. Alat timbangan ini dirancang untuk dapat menimbang benda pos antara range 5 - 2000 gram dengan ketelitian satu digit di belakang koma.",
+  "creators": "ALEXANDRA",
+  "contributors": "SOETIKNO (Advisor 1); IRWAN SAHLI (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/035/0156; Alexandra (23488063)",
+  "subjects": "POSTAL SERVICE-AUTOMATION; POSTAL SERVICE-EQUIPMENT AND SUPPLIES"
+}

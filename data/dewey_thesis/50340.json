@@ -1,0 +1,14 @@
+{
+  "id": "50340",
+  "title": "Penerapan metode YOLO dan Tesseract-OCR untuk pendataan plat nomor kendaraan bermotor umum di Indonesia menggunakan Raspberry Pi",
+  "abstract": "Sistem parkir merupakan hal yang sering ditemui pada tempat-tempat umum. Sistem parkir biasanya memiliki sebuah program untuk mengenali dan membaca plat nomor. Seiring berkembangnya teknologi, program / sistem yang dapat mengenali dan membaca plat nomor secara otomatis sudah tersedia secara luas. Namun jika sebuah pihak ingin menggunakan sistem tersebut, terkadang dibutuhkan biaya yang cukup mahal. Pada penelitian ini akan digunakan Raspberry Pi 4. Dengan menggunakan Raspberry Pi, diharapkan dapat mengurangi biaya yang harus dikeluarkan untuk dapat mencapai hasil seperti program yang sudah ada. Namun menggunakan Raspberry Pi juga terdapat kekurangan, yaitu spesifikasi hardware yang tidak sebagus komputer seperti biasanya. Pada penelitian ini akan digunakan metode YOLO (You Only Look Once) untuk mendeteksi plat nomor dan Tesseract-OCR untuk membaca karakter yang terdapat pada plat nomor tersebut. Dari penelitian ini, dapat diambil kesimpulan bahwa program dapat menerapkan YOLO dan Tesseract-OCR untuk mendeteksi dan membaca plat nomor kendaraan bermotor umum dengan dijalankan pada Raspberry Pi 4. Untuk mendapatkan hasil yang optimal, gambar yang menjadi input dapat diambil pada siang hari, dengan menggunakan kamera berkualitas tinggi, dan untuk metode pre-processing hanya menggunakan metode-metode yang diperlukan saja.",
+  "creators": "ERIC TIRTANA",
+  "contributors": "Kartika Gunadi (Advisor 1); Indar Sugiarto (Advisor 2); Liliana (Examination Committee 1); Alvin Nathaniel Tjondrowiguno (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022089/INF/2021; Eric Tirtana (C14170048)",
+  "subjects": "PARKING FACILITIES; RASPBERRY PI (COMPUTER)--PROGRAMMING; AUTOMOBILE LICENSE PLATES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "60865",
+  "title": "Modifikasi 3D printer Ender 5 pro Cartesian menjadi tipe CoreXY guna mempercepat proses print serta menambahkan enclosure guna mendukung filamen ABS",
+  "abstract": "Pada 3D Printer Ender 5 Pro, mekanisme Cartesian menghadapi masalah inersia, membutuhkan lebih banyak ruang dan energi, serta tidak dapat menjaga suhu stabil untuk filamen ABS. Mekanisme CoreXY lebih baik karena memungkinkan pergerakan lebih cepat, stabil, dan presisi, serta mengurangi inersia dan penggunaan energi, serta menambahkan Enclosure guna menjaga kestabilan suhu area cetak. Dengan keunggulan ini, dilakukan modifikasi pada 3D Printer Ender 5 Pro untuk mendukung pencetakan filamen ABS. Pembuatan spesimen menggunakan filemen PLA dan ABS pada 3D Print Ender 5 Pro sebelum dan sesudah modifikasi. Dengan menggunakan 3 kecepatan yang berbeda, dilakukan perbandingan hasil serta kemampuan kecepatan dalam proses pencentakan serta melakukan uji model 3D Print guna memperoleh hasil tes untuk menunjukkan hasil cetak dalam segala aspek. Dapat disimpulkan dalam modifikasi 3D Print Ender 5 Pro Cartesian menjadi CoreXY, menunjukan bahwa beban motor stepper yang awalnya berada pada sumbu X dan Y yang menyebabkan pergerakan X dan Y menjadi kurang responsif menjadikan motor stepper berada pada belakang rangka utama 3D Print, sehingga menyebabkan pergerakan nozzle untuk sumbu X dan Y menjadi lebih responsive. Penambahan enclosure juga menunjukan hasil yang maksimal. Dikarenakan dalam proses pencetakan menggunakan filamen ABS, 3D Print Ender 5 Pro Cartesian tidak mampu untuk mencetak dikarenakan suhu area cetak tidak stabil. Tetapi setelah melakukan modifikasi 3D Print Ender 5 Pro CoreXY serta menambahkan enclosure, suhu pada area cetak menjadi lebih stabil. Dengan begitu 3D Print Ender 5 CoreXY dapat mencetak menggunakan filamen ABS.",
+  "creators": "VICTORIUS ROY",
+  "contributors": "Ian Hardianto Siahaan (Advisor 1); Willyanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03011534/MES/2024; Victorius Roy (C12180090)",
+  "subjects": "COMPUTER-AIDED DESIGN; THREE-DIMENSIONAL PRINTING"
+}

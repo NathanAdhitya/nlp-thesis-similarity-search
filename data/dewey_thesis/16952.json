@@ -1,0 +1,14 @@
+{
+  "id": "16952",
+  "title": "Pembuatan perangkat lunak untuk mengenali tanda tangan dengan jaringan saraf tiruan metode kohonen",
+  "abstract": "Pengenalan tanda tangan umumnya dilakukan secara manual. Namun karena perkembangan jaman yang serba otomatisasi maka kegiatan yang semula dilakukan secara manual berangsur-angsur berganti dilakukan secara otomatisasi. Untuk otomatisasi pengenalan / identifikasi tanda tangan dibutuhkan sistem yang handal dan smart sebab jika tidak maka bisa terjadi kekeliruan dalam identifikasi. Salah satu sistem yang smart adalah jaringan saraf tiruan yang mulai berkembang sejak tahun 1990. Jaringan saraf yang dipakai dalam mengenali pola tanda tangan adalah jaringan saraf metode Kohonen yang bersifat unsupervised dan backpropagation yang bersifat supervised. Implementasi pengenalan tanda tangan di sini hanya terbatas secara perangkat lunak saja dan diaplikasikan pada PC. Hasil yang telah dicapai dengan kedua metode jaringan saraf tiruan untuk mengenali pola tanda tangan asli cukup baik. Dengan prosentase keberhasilan untuk Kohonen sebesar 81,25 %, dan untuk metode Kohonen dibantu metode backpropagation sebesar 81,25 %. Namun untuk pengenalan pola tanda tangan palsu tidak baik hasilnya karena hanya 53,33 % saja keberhasilannya mendeteksi pemalsuan yang telah dicoba.",
+  "creators": "SUGIANTO",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Advisor 1); Vivi Anggraini (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/KOM/004/026; Sugianto (23491110)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); ARTIFICIAL INTELLIGENCE-COMPUTER PROGRAMS"
+}

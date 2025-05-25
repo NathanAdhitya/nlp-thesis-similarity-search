@@ -1,0 +1,14 @@
+{
+  "id": "7372",
+  "title": "Perancangan dan pembuatan perangkat lunak editor denah ruang 2D untuk ditampilkan secara 3D",
+  "abstract": "Saat ini telah banyak perangkat lunak yang digunakan untuk membantu pembuatan denah ruang. Akan tetapi sebagian besar perangkat lunak hanya memiliki kemampuan untuk menampilkan denah ruangan dalam bentuk 2 dimensi, yaitu tampak pada bagian atas. Dengan hanya penampakan bagian atas user akan mengalami kesulitan dalam melihat bentuk ruangan yang dibuat berdasarkan denah tersebut secara nyata yaitu tiga dimensi. Karena itu dibutuhkan suatu perangkat lunak editor denah ruang 2D yang dapat menampilkan dalam bentuk 3D. Tujuan dari tugas akhir ini adalah membuat perangkat lunak agar user dapat membuat denah ruangan secara 2D dengan tampak atas, dan kemudian ditampilkan secara 3D. Untuk menggambar dalam 2D digunakan fasilitas image dalam Delphi, dan untuk gambar 3D menggunakan OpenGL. Hasil pengujian menunjukkan bahwa dengan menggunakan perangkat lunak ini user dapat menggambar denah ruang 2D dan menampilkannya secara 3D. Gambar-gambar 2D dapat ditampilkan semua dalam bentuk 3D.",
+  "creators": "YOHANES PRIBADI",
+  "contributors": "Rudy Adipranata (Advisor 1); Liliana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000320/INF/2005; Yohanes Pribadi (26401012)",
+  "subjects": "COMPUTER GRAPHICS; COMPUTER GRAPHICS(SOFTWARE); COMPUTER GRAPHICS-3D"
+}

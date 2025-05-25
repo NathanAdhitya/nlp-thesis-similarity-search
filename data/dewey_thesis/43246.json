@@ -1,0 +1,14 @@
+{
+  "id": "43246",
+  "title": "Klasifikasi genre musik menggunakan metode deep learning convolutional neural network dan mel-spektrogram",
+  "abstract": "Pertumbuhan database musik yang berkembang secara sangat pesat menyebabkan sukarnya proses pengelompokkan musik dalam kategori tertentu, sehingga dapat berakibat sulitnya pencarian suatu kategori musik dalam jumlah banyak dan skala yang besar. Dengan perkembangan jaman, sekarang telah mulai dikembangkan metode agar suatu audio file dapat dikenali secara otomatis dari fitur-fitur yang telah diekstrak sebelumnya dengan bantuan MFCC (Mel Frequency Cepstral Coefficients) dan ANN (Artificial Neural Network). Dalam penelitian ini akan digunakan metode Mel-spectrogram. Dimana Mel spektrogram merupakan hasil pemetaan fitur yang telah diambil oleh metode MFCC, yang akan diklasifikasikan dan dimasukkan kedalan Convolutional Neural Network. Yang akan dibedakan activation function nya yaitu ReLU dan ELU. Penelitian ini menunjukkan bahwa pengambilan fitur dari audio dengan menggunakan MFCC merupakan metode yang benar, dan dalam hasil pengujian, banyaknya dataset, iterasi training, dan spesifikasi komputer sangat mempengauhi tingkat akurasi dan lama pembuatan neural network model yang optimal. Dalam hasil penelitian ini telah diuji beberapa kali didapatkan hasil akurasi yang paling optimal yaitu 99%.",
+  "creators": "DANNY LIONEL",
+  "contributors": "Rudy Adipranata (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021840/INF/2019; Danny Lionel (26415106)",
+  "subjects": "ARTIFICIAL NEURAL NETWORKS; IMAGE PROCESSING--DIGITAL TECHNIQUES; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

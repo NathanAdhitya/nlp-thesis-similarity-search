@@ -1,0 +1,14 @@
+{
+  "id": "40256",
+  "title": "Pembuatan aplikasi mobile untuk sistem parkir berbasis internet of things (iot)",
+  "abstract": "Pada sistem ini dibuat aplikasi mobile untuk mendukung sistem parkir berbasis internet of things. Data dari area parkir (status slot dan dan aktivitas penggunaan area parkir) akan dikirim menuju aplikasi mobile. Pengguna dapat melihat informasi ini di manapun dan kapanpun. Sistem ini terdiri dari 4 bagian yaitu server lokal, ubidots cloud, server publik, dan aplikasi mobile. Server lokal bertugas untuk mengelola data dari sebuah area parkir untuk kemudian dikirim menuju ubidots cloud. Ubidots cloud bertugas untuk menyimpan data dari area parkir. Selanjutnya, server publik akan mengambil data dari ubidots cloud untuk diproses dan dikirim menuju aplikasi mobile. Terdapat 3 macam pengguna aplikasi mobile yaitu pengguna biasa, pengguna pra bayar dan pengguna admin. Pengguna biasa dan pra bayar adalah orang yang menggunakan area parkir pada umumnya. Pengguna pra bayar sendiri merupakan pengguna area parkir yang melakukan proses pembayaran di depan. Pengguna admin adalah orang yang memiliki hak akses penuh atas sebuah area parkir seperti pengelola. Terdapat 2 macam pengujian pada sistem ini yaitu waktu respon dan akurasi data. Dari pengujian waktu respon didapatkan bahwa rata-rata waktu yang dibutuhkan untuk mengirim 1 data menuju ubidots cloud adalah 4 detik, sedangkan rata-rata waktu yang dibutuhkan untuk mengambil 1 data dari ubidots cloud adalah 1 detik. Dari pengujian akurasi data didapatkan bahwa pertukaran data pada sistem ini memiliki tingkat ketepatan 100%. Berdasarkan hasil pengujian di atas maka didapatkan kesimpulan bahwa pada sistem ini aplikasi mobile membutuhkan waktu 1 detik dikali jumlah slot untuk mendapatkan data slot parkir. Selain itu, data diterima oleh aplikasi mobile dengan tepat.",
+  "creators": "DAVID ISHAK KOSASIH",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010134/ELK/2017; David Ishak Kosasih (23413005)",
+  "subjects": "JAVA (COMPUTER PROGRAM); DATABASE DESIGN; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (COMPUTER PROGRAM)"
+}

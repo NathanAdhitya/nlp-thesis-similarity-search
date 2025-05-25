@@ -1,0 +1,14 @@
+{
+  "id": "5710",
+  "title": "Akses LED dot matriks ukuran 7 x 120 menggunakan keyboard PC",
+  "abstract": "Saat ini keyboard PC sudah sangat lazim digunakan untuk meng-input-kan informasi atau karakter yang diinginkan. Namun keyboard PC ini masih sering tergantung dengan PC (Personal Computer) dan monitor komputer, sehingga masih sering kerepotan dalam menampilkan informasi atau karakter yang diinginkan. Dalam perencanaannya, penyalaan LED Dot Matriks digunakan sistem scanning kolom dan pengambilan data dari keyboard PC menggunakan sistem scanning code keyboard PC. Dan yang menjadi inti permasalahan adalah bagaimana menghubungkan antara keyboard dengan LED dot matriks agar dapat menampilkan informasi yang di-input-kan oleh keyboard PC. Maka diperlukan 2 (dua) buah mikrokontroler yang saling berkomunikasi. Mikrokontroler AT89S52 dipilih karena memiliki internal RAM dan port I/O yang memadai untuk menghubungkan keyboard dengan LED dot matriks. Dari hasil pengujian, dapat dilihat bahwa frekuensi dari sistem adalah sebesar 32,26 Hz.",
+  "creators": "FELIX RINALDO LIMPAHSINDU",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handy Wicaksono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010786/ELK/2006; Felix Rinaldo Limpahsindu (23499089)",
+  "subjects": "MICRO CONTROLLERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8421",
+  "title": "Analisa perbandingan produk Kredit Pemilikan Rumah (KPR) di Perbankan Surabaya",
+  "abstract": "Untuk memilih KPR (Kredit pemilikan Rumah) yang aman dan sesuai kebutuhan, konsumen perlu mengetahui tarif suku bunga kredit (bunga nominal), biaya-biaya awal setelah terikat kontrak, dan penalti, sehingga dapat diketahui beban bunga riil (bunga efektif). Dimana metode analisa data yang digunakan untuk perhitungan bunga efektif yaitu time value of money dengan bantuan program Microsoft Excel dan menggunakan analisa regresi linier berganda untuk uji asumsi klasik untuk mengetahui bagaimana variabel independen (nominal pinjaman, periode pinjaman, bunga nominal, finance charge dan penalti) berpengaruh signifikan secara serempak dan parsial terhadap bunga efektif. Dari hasil perhitungan bunga efektif dapat diketahui bahwa bunga efektif lebih besar dari pada bunga nominal karena setiap pinjaman pasti dikenakan finance charge, dan bunga efektif akan lebih tinggi bila semakin cepat dilunasi karena terkena penalti. Berdasarkan hasil analisa regresi linier berganda dapat diketahui bahwa nominal pinjaman, periode pinjaman, bunga nominal, finance charge berpengaruh signifikan secara parsial terhadap bunga efektif sebelum penalti, untuk bunga efektif setelah penalti 1 tahun hanya dipengaruhi oleh bunga nominal dan penalti 1 tahun, dan untuk bunga efektif 5 tahun dipengaruhi oleh jumlah pinjaman, bunga nominal, finance charge dan penalti 5 tahun. Sedangkan semua variabel independen berpengaruh signifikan secara serempak terhadap variabel dependen (bunga riil).",
+  "creators": "ADELIA DIAN SAVITRI; SHERLY WIDJAJA",
+  "contributors": "Prof. Dr. Njo Anastasia, S.E., M.T. (Advisor 1); Sautma Ronni Basana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 05012289/MAN/2007; Adelia Dian Savitri (31403008), Sherly Widjaja (31403252)",
+  "subjects": "CREDIT MANAGEMENT; REAL ESTATE MANAGEMENT"
+}

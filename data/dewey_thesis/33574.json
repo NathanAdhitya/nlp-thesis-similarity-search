@@ -1,0 +1,14 @@
+{
+  "id": "33574",
+  "title": "Optimasi kinerja samping bersinyal dengan menggunakan spreadsheet",
+  "abstract": "Salah satu kendala dalam perhitungan kinerja simpang bersinyal baik secara manual maupun dengan mempergunakan software Kapasitas Jalan Indonesia (KAJI) adalah untuk memperoleh nilai optimum dari berbagai nilai parameter seperti waktu hijau, lebar lajur belok kiri (WLTOR), lebar satu lajur lurus dan atau belok kanan, dan jumlah lajur setiap lengan pendekat terhadap nilai derajat kejenuhan (DS) tertentu, diperlukan perhitungan secara berulang secara manual yang membutuhkan waktu lama. Tujuan dari pembuatan aplikasi ini adalah membuat aplikasi spreadsheet dengan mempergunakan fasilitas Add-in Solver pada Microsoft Excel, untuk mempermudah memperoleh waktu hijau, WLTOR, lebar satu lajur lurus dan atau belok kanan, dan jumlah lajur setiap lengan pendekat yang memenuhi batas nilai DS tertentu berdasarkan Manual Kapasitas Jalan Indonesia (MKJI) 1997. Setelah dilakukan perbandingan antara perhitungan KAJI dengan perhitungan aplikasi spreadsheet, dapat disimpulkan bahwa aplikasi spreadsheet dapat digunakan untuk mempemudah dan mempercepat proses perhitungan kinerja simpang bersinyal, meskipun masih terdapat perbedaan perhitungan karena adanya perbedaan asumsi dalam perhitungan faktor penyesuaian parkir (FP).",
+  "creators": "HENNY SUTJIONO",
+  "contributors": "Rudy Setiawan (Advisor 1); Johanes Indrojono Suwono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 13012028/SIP/2015; Henny Sutjiono (21411060)",
+  "subjects": "TRAFFIC SIGNS AND SIGNALS; TRAFFIC ENGINEERING-COMPUTER PROGRAMS"
+}

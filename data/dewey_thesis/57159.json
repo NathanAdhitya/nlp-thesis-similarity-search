@@ -1,0 +1,14 @@
+{
+  "id": "57159",
+  "title": "Content-bases filtering untuk rekomendasi pemilihan dosen pembimbing skripsi dengan consine similarity",
+  "abstract": "Skripsi merupakan suatu tahap akhir yang pasti akan dilalui mahasiswa yang hendak meraih gelar sarjana. Pengerjaan skripsi umumnya dengan bimbingan dari dosen pembimbing skripsi yang dipilih oleh mahasiswa sendiri. Oleh sebab itu, memilih dosen pembimbing yang tepat, dalam artian sesuai dengan bidang skripsi yang dikerjakan mahasiswa, sangat krusial. Sistem rekomendasi dosen pembimbing skripsi akan dapat membantu dalam memilih dosen pembimbing skripsi dengan spesifikasi yang sesuai dengan keinginan mahasiswa. Dengan adanya sistem rekomendasi dosen pembimbing skripsi, mahasiswa bisa mendapatkan dosen pembimbing skripsi yang sesuai dengan kebutuhan bidang kerja skripsinya. Berdasarkan pengujian yang telah dilakukan, sistem rekomendasi menggunakan kombinasi Cosine Similarity dengan Euclidean Similarity dapat memberikan rekomendasi secara baik. Berdasarkan perhitungan Confusion Matrix, akurasi hasil rekomendasi mencapai 79%, dimana hasil ini cukup baik.",
+  "creators": "RENSIS YEHUDA",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Alexander Setiawan (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022353/INF/2023; Rensis Yehuda (C14190111)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5799",
+  "title": "Miniatur sistem Emergency Shut Down (ESD) loading arm dock-3 PT. Badak NGL Bontang",
+  "abstract": "PT Badak NGL Bontang adalah perusahaan penghasil gas alam cair (LNG) terbesar di dunia. Pada proses pendistribusian LNG dari storage tank ke kapal tanker untuk diekspor menggunakan loading arm yang dilengkapi dengan sistem Emergency Shut Down (ESD) sebagai syarat/prosedur keamanan dan keselamatan kerja. Untuk itu perlu dibuat sebuah miniatur loading arm yang dapat mensimulasikan proses kerja loading arm di PT Badak NGL sebagai wadah pelatihan/training. Pada Tugas Akhir ini dibuat sebuah miniatur loading arm dengan sistem pengamanannya sebagai sarana bagi mahasiswa dalam mempelajari, melakukan troubleshooting, dan mensimulasikan sistem kontrol loading arm dock-3 khususnya pada ladder diagram dengan menggunakan PLC Omron C200HG sebagai kontrolernya. Dalam perencanaan sistem ini selain menggunakan I/O digital, juga menggunakan IC L298 sebagai penggerak motor DC dan IC mikrokontroler AT89S51 untuk pemprograman keypad. Plant yang digunakan dalam Tugas Akhir ini adalah motor DC yang berfungsi sebagai penggerak miniatur loading arm dan sensor limit switch sebagai pembatas daerah jangkauan kerjanya dengan lampu indikator untuk mengindikasikan seluruh kejadian. Berdasarkan hasil pengujian secara keseluruhan, pembuatan plant/sistem untuk simulasi proses emergency telah tercapai. Total waktu sequence sistem emergency pada miniatur loading arm dengan menggunakan PLC Omron C200HG adalah 16,48 detik untuk gerak slewing dan 16,5 detik untuk gerak extension.",
+  "creators": "ESTEVANUS K PANGKONG",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010764/ELK/2005; Estevanus Kurniawan Pangkong (23401084)",
+  "subjects": "AUTOMATIC CONTROL; ELECTRIC CONTROLLERS; PROGRAMMABLE CONTROLLERS"
+}

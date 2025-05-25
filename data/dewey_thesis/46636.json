@@ -1,0 +1,14 @@
+{
+  "id": "46636",
+  "title": "Analisis metode Genetic Algorithm yang diakselerasi untuk travelling salesman problem pada platform Multicore CPU dan CUDA",
+  "abstract": "Kemajuan di bidang teknologi membawa berbagai tantangan dan kesempatan baru. Salah satunya adalah kesempatan untuk mempercepat suatu algoritma di mana algoritma ini biasanya memakan waktu sangat lama. Genetic Algorithm adalah salah satu algoritma yang dapat dipercepat dengan memanfaatkan perkembangan tersebut. Salah satu cara mempercepat algoritma ini dapat melakukan pengubahan parameter, tetapi tidak semua parameter yang diubah ini dapat mempertahankan kualitas hasil dari algoritma dibandingkan dengan metode sebelumnya yang belum diakselerasi. Penelitian ini menggunakan metode parallel computing menggunakan teknologi Multicore CPU dan GPU untuk mempercepat algoritma tanpa mengubah parameter. Pada penelitian ini peneliti ingin menganalisa perubahan kinerja dari metode Genetic Algorithm ketika dilakukan paralelisasi. Penelitian ini menggunakan CUDA untuk melakukan paralelisasi yang menggunakan GPU dan menggunakan OpenMP API untuk melakukan paralelisasi yang menggunakan teknologi tersebut. Teknologi yang digunakan adalah platform CUDA dan API OpenMP untuk masing-masing GPU dan CPU. Selain teknologi tersebut, pemilihan bagian yang diparalelisasi juga mempengaruhi secara besar bagaimana performa dari algoritma. Berdasarkan hasil pengujian yang telah dilakukan, metode Genetic Algorithm dapat dipercepat dengan paralelisasi menggunakan OpenMP pada CPU dan CUDA pada GPU.",
+  "creators": "ALEXANDER THOMAS KURNIAWAN PRATOMO",
+  "contributors": "Henry Navianus Palit (Advisor 1); Darian Gunamardi (Advisor 2); Yulia (Examination Committee 1); Indar Sugiarto (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021953/INF/2020; Alexander Thomas Kurniawan Pratomo (26416119)",
+  "subjects": "GENETIC PROGRAMMING (COMPUTER SCIENCE); GENETIC ALGORITHMS"
+}

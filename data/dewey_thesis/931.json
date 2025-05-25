@@ -1,0 +1,14 @@
+{
+  "id": "931",
+  "title": "Verifikasi hasil program komputer untuk pendidikan perencanaan bangunan tahan gempa (3 dimensi)",
+  "abstract": "Pada tugas akhir ini telah diturunkan penyelesaian analitis suatu struktur 3 dimensi yang memenuhi syarat-syarat eksentrisitas tertentu. Penyelesaian analitis ini digunakan untuk memverifikasi analisa numerik yang telah dilakukan pada tugas akhir terdahulu [5]. Penyelesaian analitis didapatkan dengan menggunakan Analisa Modal dimana persamaan struktur dengan kebebasan n dapat diuraikan (uncoupled), sehingga didapatkan n buah persamaan derajat kebebasan satu (Singgle Degree Of Freedom System). Penyelesaian analitis dilakukan pada persamaan dengan derajat kebebasan satu tersebut,sedangkan penyelesaian struktur yang sebenarnya diperoleh dengan menggabungkan kembali penyelesaian yang telah diperoleh untuk masing-masing model. Penggabungan ini dilakukan secara numerik dengan menggunakan suatu pragram sederhana yang ditulis dengan menggunakan bahasa Turbo Pascal 5.5. Ternyata hasil dari tugas akhir ini menunjukkan bahwa analisa numerik pada tugas akhir [5] adalah cukup teliti dan dapat dipakai untuk maksud pendidikan.",
+  "creators": "SUWITO KARJOHARDJO",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Takim Andriono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.453 S; Suwito Karjohardjo (34287156)",
+  "subjects": "EARTHQUAKES AND BUILDINGS-COMPUTER PROGRAMS"
+}

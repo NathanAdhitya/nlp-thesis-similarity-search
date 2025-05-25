@@ -1,0 +1,14 @@
+{
+  "id": "10594",
+  "title": "Perangkat lunak navigasi mobil menggunakan global positioning system",
+  "abstract": "Kendala yang ditimbulkan oleh semakin meningkatnya kebutuhan akan transportasi, terutama mobil, adalah untuk penentuan jalur perjalanan yang sfesien. Salah satu cara yang representatif untuk memecahkan masalah ini adalah iengan membuat suatu sistem yang dapat membantu para pengendara mobil ialam menentukan rute perjalanan yang efisien. Teori Graph adalah teori yang digunakan untuk menggambarkan suatu lubungan node atau network. Dalam penerapannya teori Graph dapat digunakan ontuk menggambarkan hubungan dan jalur jalan. Untuk melakukan proses Dencarian jalur digunakan Algoritma Dijkstra yang umum digunakan dalam Droses pencarian jalur terpendek. Dengan membandingkan waktu tempuh dari .etiap jalan maka akan didapatkan suatu jalur yang efisien. Untuk lebih merealisasikan sistem yang dibuat, digunakan Global Positioning System Receiver yang berfungsi untuk menunjukkan posisi dari mobil rang memakai Sistem Navigasi Mobil. Data posisi yang diterima oleh GPS akan likirimkan pada sistem yang akan menampilkan posisi kendaraan pada layar nonitor. Sistem Navigasi Mobil akan menuntun pengendara selama perjalanan Iengan memberikan petunjuk berupa gambar penunjuk arah pada layar monitor Ian suara. Pada kondisi tertentu dimana terjadi kemacetan pada jalur yang litentukan maka sistem akan memberikan jalur altematif pada pengendara. Sistem Navigasi Mobil ini diharapkan sedikit banyak dapat membantu pengendara lalam menentukan arah perjalanan yang efisien. Berdasarkan pengujian yang dilakukan, Sistem Navigasi Mobil dapat nenunjukkan posisi dari kendaraan dan memberikan jalur perjalanan yang paling fisien. Selama pengendara melalui jalur yang diberikan, Sistem membimbing >engendara dengan menunjukkan arah perjalanan pada monitor dan suara.",
+  "creators": "HERY SANTOSO",
+  "contributors": "Resmana Lim (Advisor 2); Irwan Kristanto Julistiono (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.99/E/KOM/008/017; Hery Santoso (23494104)",
+  "subjects": "GLOBAL POSITIONING SYSTEM; NAVIGATION"
+}

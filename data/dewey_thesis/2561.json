@@ -1,0 +1,14 @@
+{
+  "id": "2561",
+  "title": "Optimasi penjadwalan sidang tugas akhir dengan menggunakan metode fuzzy relation dan genetic algorithms",
+  "abstract": "Saat ini, penjadwalan sidang tugas akhir di Jurusan Teknik Informatika Universitas Kristen Petra sudah dilakukan dengan komputer. Namun, software yang digunakan masih memiliki beberapa kelemahan, antara lain pemilihan dosen penguji masih dilakukan secara acak, sehingga Koordinator Tugas Akhir harus meluangkan banyak waktu untuk menyesuaikan jadwal sidang yang dihasilkan. Software optimasi ini diharapkan dapat mempermudah tugas Koordinator Tugas Akhir dalam menyusun jadwal sidang tugas akhir. Software ini dibuat dengan mengimplementasikan teori Fuzzy Relation dalam menentukan dosen yang sesuai untuk menguji suatu tugas akhir sehingga pemilihan dosen penguji tidak lagi dilakukan secara acak. Di sini, Fuzzy Relation digunakan untuk menghitung tingkat kompetensi seorang dosen dengan menghitung nilai keahlian dosen tersebut terhadap topik tugas akhir. Optimasi penyusunan jadwal dalam software ini menggunakan metode Genetic Algorithms untuk mencari solusi terbaik. Metode ini dilakukan berdasar pada mekanisme genetika dalam dunia biologi. Setiap tugas akhir beserta dosendosen (sebagai pembimbing dan penguji) disusun sebagai gen dalam kromosomkromosom yang merupakan kandidat solusi. Kemudian dilakukan proses mutasi dan kawin silang antara kromosom-kromosom tersebut untuk mencari fitness cost yang optimal terhadap jadwal sidang berdasarkan jadwal dosen dan tingkat kompetensi. Dengan adanya software ini, Koordinator Tugas Akhir tidak perlu meluangkan banyak waktu dalam menyusun jadwal sidang tugas akhir.",
+  "creators": "TEDDY CHANDRA TALIWANG",
+  "contributors": "Rolly Intan (Advisor 1); Silvia Rostianingsih (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01000380/INF/2005; Teddy Chandra Taliwang (26401181)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTER); DATABASE DESIGN"
+}

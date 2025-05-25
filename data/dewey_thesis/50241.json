@@ -1,0 +1,14 @@
+{
+  "id": "50241",
+  "title": "Penerapan metode modified partial capacity design (M-PCD) pada bangunan persegi panjang 6 lantai dan 10 lantai dengan rasio distribusi gaya geser 80%",
+  "abstract": "Seiring perkembangan zaman, metode dalam perhitungan dan analisis desain bangunan terhadap gempa juga turut mengalami berbagai perkembangan. Pada awalnya, metode yang digunakan adalah Capacity Design (CD) dan kemudian berkembang menjadi Partial Capacity Design (PCD) untuk meningkatkan efisiensi dan mencegah terjadinya overstrength pada kolom. Pada Partial Capacity Design, menggunakan faktor pengali dan belum dapat memberikan hasil yang efektif dan efisien terutama pada bangunan yang tidak beraturan atau pada daerah bangunan dengan seismik yang tinggi. Kemudian di tahun 2021, diusulkan metode Modified Partial Capacity Design (M-PCD) yang dalam analisisnya tidak memerlukan rumusan faktor pengali. Dalam analisis M-PCD, digunakan dua model bangunan. Model pertama menggunakan pengaturan gempa R=8 dan dilakukan desain balok dan kolom plastis. Model kedua menggunakan gempa selisih dari R=1,6 dan R=8. Untuk analisis desain kolom elastis menggunakan gaya dalam total dari model pertama dan kedua. Bangunan persegi panjang dengan ketinggian 6 lantai dan 10 lantai didesain dengan metode Modified Partial Capacity Design (M-PCD) pada penelitian ini. Software yang digunakan adalah SAP2000 v23.0.0 dengan beban gempa sesuai dengan situs tanah SE di kota Surabaya pada SNI 1726:2012. Dilakukan 2 analisis yaitu menggunakan pushover atau nonlinear static procedure (NSP) dan time history atau nonlinear dynamic procedure (NDP). Desain diujikan pada level gempa desain (EDRS) dan gempa maksimum (MCER). Hasil simpangan antar lantai (drift) memenuhi persyaratan FEMA 273. Mekanisme keruntuhan partial side sway mechanism sudah tercapai pada analisis NSP dan NDP pada level gempa EDRS dan MCER.",
+  "creators": "ABIYOGA CHRISTIANSEN MAHAGOL; REYNALDI KENNY CAHYONO",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Jimmy Chandra (Examination Committee 1); Agievianthi, MS (Examination Committee 2); Fransisca Wijaya, S.T., M.Sc. (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012489/SIP/2021; Abiyoga Christiansen Mahagol (B11170121), Reynaldi Kenny Cahyono (B11170097)",
+  "subjects": "BUILDINGS--EARTHQUAKE EFFECTS; STRUCTURAL DESIGN"
+}

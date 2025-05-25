@@ -1,0 +1,14 @@
+{
+  "id": "36578",
+  "title": "Pembuatan perangkat dan aplikasi sistem vending machine berbasis Arduino Leonardo dan Android",
+  "abstract": "Kemampuan konsep Internet of Things (IoT) yang dapat menghasilkan sebuah benda mati yang terkoneksi dengan jaringan internet membuat konsep teknologi ini sangat populer saat ini. Didukung dengan teknologi yang sudah tidak asing lagi yaitu Arduino dan Android menyebabkan gabungan dari ketiga hal ini dapat digabungkan ke dalam sebuah sistem terpadu yang memberikan manfaat bagi para pelakunya. Pengaplikasian 3 hal tersebut dalam lingkup perangkat vending machine sangatlah pas mengingat besarnya peluang yang ada bagi pasar vending machine khususnya di Indonesia. Kebutuhan akan manajemen perangkat vending machine ini pun juga dituangkan oleh perusahaan Intel dalam salah satu dokumen mengenai IoT-nya yang menjelaskan bahwa para operator perangkat vending machine akan diuntungkan melalui keuntungan yang meningkat yang dikarenakan jumlah penjualan yang lebih tinggi dan biaya operasi yang lebih rendah. Pemikiran itulah yang menyebabkan terciptanya ide untuk membuat sebuah sistem terintegrasi yaitu vending system yang terdiri atas perangkat vending machine dengan sistem pengelolaan dan pembelian melalui aplikasi Android. Sistem ini bertujuan untuk memberikan keuntungan serta kemudahan bagi para penggunanya termasuk pihak pengelola dan pihak pelanggan. Vending system dirancang sedemikian rupa mulai dari pemrograman pada Android, pemrograman pada Arduino hingga konfigurasi serta pemrograman pada server. Hal tersebut agar dapat memenuhi kebutuhan akan sebuah sistem yang terintegrasi satu sama lain dalam lingkup konsep IoT. Pengujian sistem ini dilakukan dengan melakukan fungsi-fungsi manajemen data seperti produk, pengguna, vending machine serta promo yang ada dan fungsi alur pembelian produk pada vending machine agar dapat berjalan sesuai yang diinginkan. Hasil dari pembuatan sistem yang didasarkan pada konsep IoT, teknologi Arduino, Android dan server MySQL ini adalah sebuah sistem terkoneksi satu sama lain melalui jaringan internet yang terdiri atas 3 bagian utama. Bagian pertama adalah sebuah server sebagai perantara antar 2 bagian lainnya. Bagian kedua adalah perangkat vending machine sebagai perangkat fisik yang didasarkan pada teknologi Arduino. Bagian terakhir adalah aplikasi manajemen dan pembelian yang berdasarkan teknologi mobile Android.",
+  "creators": "ANDREW KURNIAWAN SULISTHIO",
+  "contributors": "Yulia (Advisor 1); Handry Khoswanto (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021494/INF/2016; Andrew Kurniawan Sulisthio (26412102)",
+  "subjects": "ANDROID (COMPUTER PROGRAM); APPLICATION SOFTWARE-DEVELOPMENT; ARDUINO"
+}

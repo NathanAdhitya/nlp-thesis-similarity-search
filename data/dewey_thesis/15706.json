@@ -1,0 +1,14 @@
+{
+  "id": "15706",
+  "title": "Rancang bangun sistem pengembangan mikrokontroller atmel AT90S2313",
+  "abstract": "Dalam tugas akhir ini, dilakukan rancang bangun sistem pengembangan mikrokontroler ATMEL AT90S2313. Adapun hasil yang ingin didapat adalah minimum sistem yang relatif sederhana dan murah, juga sebuah program programmer chip AT90S2313. Pada sistem pengembangan ini, program debugger yang dipakai menggunakan program siap pakai dari ATMEL sendiri, sehingga penulis tidak merancangnya. Untuk mencoba penggunaan chip AT90S2313 ini, dilakukan berbagai percobaan. Percobaan mikrokontroler ini meliputi percobaan penggunaan SPI Programmer, UART, Analog Comparator, Interup Eksternal, Interup Internal, Timer/Counter dan PWM. Sebagai percobaan sistem, digunakan target sederhana berupa motor DC, yang akan dikendalikan kecepatannya dengan metode PWM. Proses pengendalian ini dibantu pemantauan kecepatannya dengan sensor infra merah. Dengan beberapa lubang pada piringan yang disatukan dengan poros motor, maka sensor infra merah dapat mendeteksi tiap putaran motor tersebut. Pulsa yang dihasilkan sensor infra merah ini, kemudian diteruskan ke chip AT90S2313, untuk kemudian ditampilkan ke layar PC sebagai displai kecepatan saat itu. Dari hasil pengamatan percobaan, didapat hasil percobaan yang baik, yang sesuai data-data dari pabrik pembuat. Penggunaan fungsi-fungsi internal diuraikan penggunaannya, bersama dengan metode penggunaannya. Akhir kata, percobaan penggunaan mikrokontroler AT90S2313 ini diharapkan menjadi dasar bagi pengembangan selanjutnya, untuk mengendalikan proses dalam industri nyata secara otomatis.",
+  "creators": "HENDY SOERONO WINDURA",
+  "contributors": "Resmana Lim (Advisor 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/EL/039/433; Hendy Soerono Windura (23493065)",
+  "subjects": "INTEL ATMEL AT90S2313 (MICROCONTROLLER); MICRO COMPUTERS"
+}

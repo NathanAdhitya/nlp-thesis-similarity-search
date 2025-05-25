@@ -1,0 +1,14 @@
+{
+  "id": "2333",
+  "title": "Komunikasi master slave dengan serial RS485",
+  "abstract": "Perancangan sistem kontrol ini didasari pada keinginan dari manusia untuk dapat mengontrol peralatan elektronik dengan mudah, aman dan ekonomis. Masalah yang sering dihadapi adalah banyaknya peralatan yang akan dikontrol serta letaknya yang beriauhan satu dengan yang lainnya. Hal ini menyulitkan dalam pengontrolan dan pengecekannya. Melalui tugas akhir ini dibuat sebuah sistem kontrol dengan satu buah master dan tiga buah slave. MicrocontrollerMCS51 digunakan sebagai otak dari master dan slave. Untuk menghubungan antara master dan slave dipakai komunikasi serial RS485 dan dua utas kabel sebagai media / sahirannya. Untuk dapat dibedakan oleh master, setiap slave diberikan nomor ID. Sehingga nantinya tidak terjadi kesalahan dalam pengiriman dan penerimaan informasi. Selain itu pada driver beban dilengkapi dengan saklar manual yang berfungsi untuk menjalankan peralatan secara langsung tanpa menggunakan sistem ini. Saklar manual ini dapat berfungsi pada keadaan darurat atau system kontrol mengalami kerusakan. Pengujian sistem dilakukan dengan menggunakan dua utas kabel telepon dengan panjang ? 60 m yang menghubungkan master dengan slave. Pengujian baudratedah komunikasi MCS51 antara lain 1200 bps, 2400 bps, 4800 bps, 9600 bps, 19200 bps, 28800 bps, 57600 bps, dan 115200 bps. Dari hasil pengujian data yang dikirimkan sama dengan data yang diterima, didapat error sama dengan nol. Kemudian slave dipasang masing - masing beban lampu 5 Watt, kipas angin ? 35 Watt dan lampu neon 10 Watt. Pengujian yang dilakukan untuk menguji hardware dan software yang telah direncanakan, yaitu dengan memberikan perintah menyalakan dan mematikan beban pada slave dari master. Dari hasil pengujian slave dapat menjalankan perintah dengan baik dan memberikan laporan sesuai dengan apa yang diperintahkan oleh master.",
+  "creators": "JIMMY O LIEMANTIKA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Anies Hannawati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/014/560; Jimmy Oktovianus Liemantika (23496106)",
+  "subjects": "COMMUNICATION"
+}

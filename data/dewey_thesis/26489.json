@@ -1,0 +1,14 @@
+{
+  "id": "26489",
+  "title": "Perencanaan dan pembuatan sistem telephone exchange dengan menggunakan mikrokontroler MCS-51",
+  "abstract": "Dengan perkembangan teknologi yang semakin pesat, bidang komunikasi pun memegang peranan yang cukup penting. Gedung-gedung perkantoran ataupun perumahan yang terdiri dari banyak ruangan memerlukan sarana komunikasi baik secara eksternal (untuk melakukan sambungan telepon ke luar) maupun secara internal (antar ruangan atau bagian dari gedung tersebut). Untuk itulah dibutuhkan suatu sistem telephone exchange mengingat keterbatasan dana jika dipasang beberapa nomer telepon sekaligus. Sistem telephone exchange adalah suatu sistem yang terdiri dari satu buah jalur telepon eksternal dan beberapa buah jalur internal. Prinsip dasar sistem ini adalah satu nomer telepon dapat melayani beberapa buah pesawat telepon dengan sistem pulse-dialing (dalam Tugas Akhir ini dihubungkan delapan buah pesawat telepon). Setiap pesawat telepon dapat melakukan sambungan telepon ke luar secara bergantian, di samping itu juga dimungkinkan pembicaraan antar pesawat telepon secara internal. Untuk mengendalikan sistem ini digunakan suatu BASIC Computer dengan mikrokontroler 8052-AH BASIC dari keluarga MCS-51. BASIC Computer ini tidak memiliki keyboard dan layar monitor sendiri, karena itu fungsi komunikasinya dilakukan oleh suatu terminal atau Personal Computer secara eksternal yang dihubungkan dengan BASIC Computer secara bidireksional, serial I/O port. Jika program kontrol sudah ditest dan dapat berjalan dengan baik maka terminal tersebut tidak lagi diperlukan dan BASIC Computer dapat berfungsi sebagai kontroler yang berdiri sendiri. Interface board dari sistem telephone exchange berfungsi untuk mengkonversi sinyal digital yang dihasilkan oleh board komputer menjadi sinyal-sinyal jaringan telepon dan sebaliknya. Secara keseluruhan sistem ini merupakan sistem yang cukup baik dalam penggunaannya mengingat fungsi-fungsinya dapat diganti ataupun ditambah dengan cara mengganti atau menambah program kontrolnya melalui BASIC Computer. Sistem ini telah diuji keandalannya untuk berbagai fungsi-fungsi yang telah direncanakan dan telah terbukti dapat beroperasi dengan baik.",
+  "creators": "ANNY S. WIGUNAWAN",
+  "contributors": "HANDAYANI T. (Advisor 1); Caroline Chan (Advisor 2); AGUS MULYANTO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/012/0102; Anny S. Wigunawan (14487012)",
+  "subjects": "TELEPHONE CABLES-MICROCONTROLLER; MICROCONTROLLERS"
+}

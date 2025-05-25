@@ -1,0 +1,14 @@
+{
+  "id": "16727",
+  "title": "Perencanaan produksi agregat pada industri ubin keramik dengan pemrograman dinamis",
+  "abstract": "PT. AVI adalah sebuah perusahaan yang memproduksi ubin keramik. Produk yang dihasilkan bervariasi motifhya namun mempunyai urutan proses produksi yang hampir sama. Variasi motif menimbulkan perbedaan pada proses set up di mesin glasir dan mesin printing, serta perbedaan frekwensi printing. Untuk mengantisipasi demand tiap motif yang berfluktuasi jumlahnya dan ketatnya persaingan maka diperlukan suatu perencanaan produksi yang handal. Dalam usaha mengantisipasi jumlah permintaan di masa mendatang yang mengandung unsur ketidakpastian diperlukan suatu analisis peramalan. Metode peramalan yang digunakan adalah metode deret berkala, yaitu Metode Box Jenkins yang dapat mengantisipasi peramalan jangka menengah. Dari hasil peramalan dapat dibuat suatu perencanaan produksi yang memperhatikan jenis dan jumlah fasilitas produksi serta kapasitas dari masing-masing fasilitas produksi tersebut. Perencanaan produksi yang sesuai adalah Perencanaan Produksi Agregat (Aggregate Production Planning). Tujuan perencanaan agregat adalah menyesuaikan peramalan permintaan yang digunakan sebagai target produksi dengan kapasitas mesin yang dimiliki. Hasil perencanaan produksi agregat menunjukkan bahwa pada proses calibre sort, kiln, glasir dan engobe terdapat kekurangan kapasitas produksi. Informasi ini akan menjadi masukan bagi perusahaan dalam mengambil keputusan untuk pengembangan jangka panjang. Lama periode perencanaan produksi (Planning Horizon) dipilih 12 bulan terhitung Januari-Desember 1996. Metode yang digunakan dalam perencanaan produksi agregat adalah Metode Pemrograman Dinamis. Hasil dari perencanaan agregat merupakan input proses disagregasi yang akan menghasilkan Jadwal Induk Produksi (Master Production Schedule) untuk tiap jenis motif keramik pada setiap periode (bulan).",
+  "creators": "LAILA WANGI",
+  "contributors": "S.G. Ferryanto (Advisor 1); Stevanus Adrianto Tjandra (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 09/TMI-021/1997; Laila Wangi (25492059)",
+  "subjects": "TILES-TESTING"
+}

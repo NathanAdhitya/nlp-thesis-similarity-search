@@ -1,0 +1,14 @@
+{
+  "id": "9788",
+  "title": "Pembuatan pengendali lampu lalu lintas jalan raya disertai kamera pemantau",
+  "abstract": "Ada berbagai macam cara pengendalian lampu lalu lintas, misalnya operator yang ingin mengubah setting pada lampu lalu lintas harus melakukannya langsung di tempat lampu lalu lintas berada. Dengan demikian sistem seperti ini menjadi kurang efektif, karena setiap kali mau mengadakan perubahan setting pada lampu lalu lintas maka, operator harus melakukannya di tempat lampu tersebut berada. Oleh karena itu, ditawarkanlah sebuah solusi untuk mengefektifkan pekerjaan operator dalam mengendalikan lampu lalu lintas jalan raya. Solusi tersebut adalah pembuatan pengendali lampu lalu lintas jalan raya yang dapat dikendalikan dari jarak jauh melalui jaringan komputer dan dapat dipantau melalui kamera pemantau. Sistem yang dibangun ini memiliki aplikasi yang terdapat pada sisi client dan server dan dibuat menggunakan Borland Delphi 7.0 termasuk komponen tambahan seperti IConf SDK dan TVicLPT. Client mengendalikan perangkat keras dengan memanfaatkan MSSQL Server sebagai database untuk menyimpan data-data yang akan digunakan oleh server. Eksekusi data oleh aplikasi pada sisi server diproses oleh rangkaian yang terdiri dari bagian buffer, decoder, multiplexer yang terhubung dengan PC melalui paralel port. Sistem ini menunjukkan bahwa pengendalian lampu lalu lintas dapat dilakukan dari jarak jauh melalui media jaringan komputer dan dapat dipantau dari client menggunakan kamera pemantau dengan kecepatan putaran penggerak kamera sebesar 66? / 3 detik.",
+  "creators": "BENHARD RICARDIO E M",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Lauw Lim Un Tung (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010070/ELK/2008; Benhard Ricardo Emanuella Mattheis (23402122)",
+  "subjects": "COMPUTERS; DETECTORS-COMPUTER PROGRAMS"
+}

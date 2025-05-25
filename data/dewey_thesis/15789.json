@@ -1,0 +1,14 @@
+{
+  "id": "15789",
+  "title": "Pengendali kecepatan putaran motor universal (70W, 100Vdc/125Vac, 0.7A) VIA suara manusia berbasis jaringan saraf tiruan dengan pemroses awal fast fourier transform",
+  "abstract": "Pada tugas akhir ini dibuat suatu sistem pengendali kecepatan motor universal menggunakan perintah dari suara manusia. Sehingga diperlukan sistem pengenalan suara manusia, di mana sistem yang dipakai adalah jaringan saraf tiruan dengan algoritma back propagation. Pada sinyal yang diinputkan terlebih dahulu dilakukan pre processing. Sinyal suara dalam time domain diubah ke frequency domain dengan menggunakan Algoritma Fast Fourier Transform (FFT). Dengan harapan sinyal yang diinputkan ke Jaringan Saraf Tiruan tidak lagt tergantung waktu. Jaringan saraf tiruan yang dibuat mempunyai 1 layer input (maksimal terdiri dari 30 node), 3 layer hidden (maksimal terdiri dari 30 node per layer), dan 1 layer output terdiri dari 1 node. FFT terdiri dari 8192 input. Sinyal yang dipakai sebagai masukan ke node jaringan saraf tiruan antara frekuensi 100 Hz -2750 Hz. Hal ini dikarenakan data spektram di luar daerah frekuensi tersebut mempunyai amplitudo yang kecil dan hampir sama. untuk setiap kata yang diinputkan; sehingga pola yang terbentuk hampir sama. Kemiripan tersebut dapat menyebabkan kesulitan bagi jaringan saraf tiruan untuk membedakan tiap kata yang diinputkan. Setelah dilakukan pengujian ternyata didapat arsitektur jaringan yang optimum yaitu 12* 15* 15* 15*1 dengan learning rate 0.3 dan momentum-term 0.7 Pengujian juga dilakukan terhadap FFT untuk mengetahui kebenaran dari algoritmanya dengan memberikan input sinyal sinusoidal dari function generator dan mengeceknya dengan teori yang ada. Ternyata pre processing yang dilakukan dengan menggunakan FFT saja kurang mencukupi untuk mendapatkan keakuratan sistem pengenalan suara manusia yang tidak tergantung waktu, terbukti dengan error yang masih sebesar 26 %, maka perlu ditambahkan pre processing yang lain terhadap sinyal suara dalam domain waktu sebelum diinputkan ke FFT.",
+  "creators": "DEDDY KRISSUSANTO",
+  "contributors": "YOHANES T. D. S (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/012/406; Deddy Krissusanto (23494004)",
+  "subjects": "ARTIFICIAL NEURAL NETWORK; AUTOMATIC CONTROL"
+}

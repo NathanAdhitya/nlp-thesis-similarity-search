@@ -1,0 +1,14 @@
+{
+  "id": "1932",
+  "title": "Desain air receiver tank horisontal dengan menggunakan metode elemen hingga",
+  "abstract": "Air Receiver Tank adalah suatu alat yang berfungsi untuk menampung udara bertekanan. Alat ini memiliki geometri yang cukup kompleks, sehingga akan lebih tepat apabila perancangan dilakukan dengan menggunakan metode elemen hingga, yaitu dengan penggunaan software ANSYS. Pada dasarnya penggunaan software ditujukan untuk analisis struktur, tetapi dengan bantuan metode optimasi numerik, software juga bisa digunakan untuk perancangan. Untuk keperluan perancangan yang dilakukan dalam Tugas Akhir ini, Air Receiver Tank dimodelkan sebagai symmetric shell, yaitu dengan menggunakan elemen SHELL63 dari ANSYS. Pemilihan elemen ini didasari oleh penelitian dari David Heckman tentang penggunaan ANSYS untuk analisa tangki bertekanan. Berdasarkan penelitian tersebut, penggunaan SHELL63 cukup menguntungkan karena waktu analisa yang cukup singkat dan kesalahan atau error yang relatif kecil. Kesimpulan yang didapat dari penulisan Tugas Akhir ini adalah bahwa penggunaan metode elemen hingga dalam perancangan Air Receiver Tank sangat menguntungkan. Karena solusi yang diberikan telah mengikutsertakan adanya faktor konsentrasi tegangan pada tangki.",
+  "creators": "STEVEN JAPAR",
+  "contributors": "Willyanto (Advisor 1); Ninuk Jonoadji (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.030701/MES/2005; Steven Japar (24401052)",
+  "subjects": "MACHINE DESIGN"
+}

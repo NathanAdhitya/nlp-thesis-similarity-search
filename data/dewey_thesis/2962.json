@@ -1,0 +1,14 @@
+{
+  "id": "2962",
+  "title": "Pembuatan insect killer",
+  "abstract": "Pada tugas akhir ini telah dirancang dan diimplementasikan suatu alat penarik dan pembunuh nyamuk dan lalat yang disebut Insect Killer. Insect Killer ini dirancang dengan memanfaatkan lampu UV-A (lampu ultraviolet) untuk menarik nyamuk dan lalat sementara pada electrical grid yang mengelilingi lampu tersebut diberi tegangan tinggi untuk mematikan nyamuk dan lalat yang tertarik menuju lampu. Insect Killer ini dirancang dengan menggunakan tegangan jala-jala listrik 220VAC untuk menghidupkan 4 buah lampu ultraviolet dan menghasilkan tegangan output pada electrical grid (kawat aluminium) sebesar 1000VDC. Tegangan output 1000VDC dihasilkan dari tegangan jala-jala 220VAC yang akan diubah terlebih dahulu menjadi tegangan AC 12V dengan menggunakan transformator step down. Tegangan 12VAC ini kemudian akan diubah menjadi tegangan DC 12V untuk kemudian dengan menggunakan DC to DC Converter akan diubah menjadi tegangan tinggi 1000VDC untuk dialirkan ke electrical grid yang melingkari lampu ultraviolet tersebut. Hasil dari pengujian yang dilakukan adalah Insect Killer ini dapat menarik nyamuk dan lalat sebanyak 80% dari nyamuk dan lalat yang ada disekitarnya dan tegangan tinggi 1000VDC pada electrical grid dapat membunuh nyamuk dan lalat tersebut.",
+  "creators": "SHERLEY",
+  "contributors": "YOHANES T. D. S (Advisor 1); Emmy Hosea (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010713/ELK/2005; Sherley (23400017)",
+  "subjects": "ULTRAVIOLET LIGHT; ULTRAVIOLET RADIATION"
+}

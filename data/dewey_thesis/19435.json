@@ -1,0 +1,14 @@
+{
+  "id": "19435",
+  "title": "Perancangan dan pembuatan sistem informasi pemesanan Restoran Camelot dengan mobile device berbasis web",
+  "abstract": "Restoran Camelot adalah restoran yang berada di Ciputra, Surabaya, yang menawarkan makanan masakan barat, seperti steak dan pasta, dan juga menyediakan masakan Jepang. Pada saat ini sistem yang digunakan masih manual sehingga pemesanan makanan ataupun minuman masih dilakukan secara manual, sehingga kurang efisien. Berdasarkan latar belakang permasalahan itu, akan dirancang sebuah sistem informasi pemesanan yang dapat dibuka melalui mobile device yang mempunyai koneksi Wifi. Aplikasi juga dibuat pada kasir dan dapur untuk dapat menerima pesanan melalui mobile device berbasis web tersebut. Pembuatan aplikasi ini menggunakan Visual Basic 2005 sebagai bahasa pemograman pada kasir dan dapur, ASP .NET pada web pemesanan restoran dan SQL Server 2005 sebagai databasenya. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, sistem informasi pemesanan yang lebih baik dan efisien, via mobile device yang mempunyai koneksi Wifi seperti Blackberry dan Iphone, sistem perhitungan stok makanan berdasarkan bahan yang tersedia, laporan harga pokok penjualan, dan laporan laba rugi. Berdasarkan hasil pengujian yang dilakukan, 60% pengguna menyatakan fitur-fitur dalam aplikasi yang dibuat dinilai bagus dalam menjawab kebutuhan dari restoran, sedangkan sisanya 40% menilai cukup.",
+  "creators": "ANDREW BRIAN PURNOMO",
+  "contributors": "Alexander Setiawan (Advisor 1); Justinus Andjarwirawan (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020909/INF/2010; Andrew Brian Purnomo (26406102)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); WEB SITE"
+}

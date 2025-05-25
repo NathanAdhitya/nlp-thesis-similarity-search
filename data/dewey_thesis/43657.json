@@ -1,0 +1,14 @@
+{
+  "id": "43657",
+  "title": "Pengembangan duckiebot untuk dapat mengenal rambu-rambu",
+  "abstract": "Tugas akhir ini mengadopsi pengembangan duckietown dan duckiebot yaitu sebuah proyek penelitian yang berfokus pada selfdriving vehicle. Fokus tugas akhir bertujuan untuk mengembangkan duckiebot untuk dapat mengenali rambu-rambu lalu lintas dan bergerak sesuai dengan rambu. Program yang dibuat dijalankan pada platform ROS. Proses pengembangan program yang digunakan diawali dengan lane following sampai menemukan stop lane filter, kemudian dilakukan proses pendeteksian keberadaan rambu dengan mendeteksi warna rambu pada gambar dari kamera. Selanjutnya dilakukan proses pengenalan rambu dengan metode segmentasi dalam empat ROI. Duckiebot akan bergerak sesuai dengan hasil pengenalan rambu. Pengujian sistem telah dilakukan dengan menjalankan duckiebot satu putaran penuh dan tingkat keberhasilan rata-rata 80%. Pengujian lain juga dilakukan dengan gangguan berupa variasi pencahayaan dan tingkat keberhasilannya 80%. Pengujian juga dilakukan dengan memberi gangguan berupa benda yang sewarna dengan rambu dan didapatkan tingkat keberhasilan 50%.",
+  "creators": "GLENN RYAN PURWANTO",
+  "contributors": "Thiang (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Indar Sugiarto (Examination Committee 1); Handry Khoswanto (Examination Committee 3); Handy Wicaksono (Examination Committee 4)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Unknown",
+  "source": "Skripsi No. 02010977/ELK/2019; Glenn Ryan Purwanto (23414018)",
+  "subjects": "MOBILE ROBOTS; TRAFFIC SIGNS AND SIGNALS--CONTROL SYSTEMS; ROBOTS-CONTROL SYSTEMS"
+}

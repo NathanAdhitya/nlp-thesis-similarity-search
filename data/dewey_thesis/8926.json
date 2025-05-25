@@ -1,0 +1,14 @@
+{
+  "id": "8926",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi atas siklus penjualan pembelian pada Subur Toserba",
+  "abstract": "Subur toserba adalah sebuah toko yang bergerak dalam bidang usaha retail yang menjual berbagai macam kebutuhan dari makanan, minuman sampai kebutuhan rumah tangga. Sistem yang digunakan sekarang hanya terbatas pada sistem penjualan dan pembelian. Proses akuntansi sudah ada tetapi hanya berlangsung secara manual. Untuk memenuhi kebutuhan dari Subur toserba maka dibutuhkan sistem informasi akuntansi yang terkomputerisasi agar memudahkan dalam pembuatan laporan keuangan. Perancangan desain sistem yang lama menggunakan sistem flow untuk menunjukan proses penjualan dan pembelian yang lama, sedangkan desain sistem yang baru menggunakan Data Flow Diagram untuk mengetahui aliran data yang terjadi dan desain struktur tabel beserta relasinya menggunakan Entity Relationship Diagram. Untuk aplikasi yang dibuat menggunakan Borland Delphi 7.0 dan Microsoft SQL Server 2000 sebagai database-nya. Aplikasi yang dibuat terdiri dari beberapa bagian yaitu penjualan, pembelian, persediaan barang dagang, dan akuntansi. Dari hasil pengujian program dapat disimpulkan bahwa hasil perhitungan manual sudah sesuai dengan hasil perhitungan oleh sistem. Data dari transaksi yang terjadi dapat diproses secara otomatis menjadi data akuntansi sehingga dapat dihasilkan laporan-laporan keuangan yang dibutuhkan oleh Subur toserba.",
+  "creators": "RICKY RICARDO",
+  "contributors": "Yulia (Advisor 1); Sri Maharsi (Advisor 2); Oviliani Yenty Yuliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010620/INF/2007; Ricky Ricardo (26403024)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

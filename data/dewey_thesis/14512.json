@@ -1,0 +1,14 @@
+{
+  "id": "14512",
+  "title": "Studi heuristik peta x dan r ekonomis serta pengembanganya untuk n, h yang bervariasi",
+  "abstract": "Penentuan parameter peta kendali yang baik haruslah memperhatikan aspek biaya pengendalian kualitas dan kemampuannya dalam memonitor proses. Banyak metode telah dikembangkan untuk membahas masalah ini, tetapi kebanyakan memerlukan teknik perhitungan yang relatif rumit terutama bagi para praktisi. Tugas akhir ini akan membahas pendekatan heuristik yang teknik perhitungannya sederhana yaitu Heuristic Fixed Control Charts (HFC) di dalam menentukan parameter peta kendali tersebut. Tujuannya adalah untuk mengetahui bagaimana keandalan HFC bila dibandingkan dengan metode yang memerlukan perhitungan yang rumit (dalam hal ini diwakili oleh metode Variable Sampling Rate atau VSR (Park, 1999)). Selain itu juga dibahas penggunaan ukuran sampel (n) dan interval waktu pengambilan sampel (h) yang bervariasi (HVC, Heuristic Variable Control Charts) yang dikembangkan dengan menggunakan metode HFC. Tujuannya untuk mengetahui apakah keandalan HFC meningkat dengan n dan h yang bervariasi tersebut. Penelitian dilakukan dengan 2 tahap yaitu simulasi dan studi kasus. Simulasi dilakukan untuk membandingkan keandalan peta kendali Park, tradisional (Shewhart dengan batas kendali 3(7j, n = 4 dan h = 1 jam), HFC dan HVC. Studi kasus dilakukan untuk mengetahui bagaimana penerapan HFC dan HVC pada dunia industri secara nyata. Studi kasus dilaksanakan di pabrik speaker C.V. Sinar Baja Electric. Hasil yang diperoleh menunjukkan bahwa keandalan HFC secara umum lebih baik dan pada VSR dan peta kendali tradisional. Keandalan HFC secara statistik dibandingkan dengan HVC tidak berbeda secara significant. Penerapan HFC dan HVC di dunia industri relatif mudah untuk dilakukan. Kesulitannya adalah menentukan parameter proses dan parameter biaya secara tepat yang dibutuhkan sebagai input desain HFC dan HVC. Penentuan parameter peta kendali sebaiknya dilakukan dengan mempertimbangkan aspek biaya dan kemampuan dalam memonitor proses. Hal ini dilakukan untuk mencapai keseimbangan antara biaya yang dikeluarkan untuk mengendalikan kualitas dan kualitas dari produk yang dihasilkan. Penentuan parameter proses dan biaya perlu dilakukan supaya parameter peta kendali yang didapat benar-benar dapat digunakan untuk memonitor proses secara optimal.",
+  "creators": "KURNIAWAN SUBIYANTORO R.",
+  "contributors": "Tanti Octavia (Advisor 1); Jani Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 426/TI-017/2001; Kurniawan Subiyantoro Rahardjo (25497093)",
+  "subjects": "TOTAL QUALITY MANAGEMENT-STATISTICAL METHODS; QUALITY CONTROL-STATISTICAL METHODS"
+}

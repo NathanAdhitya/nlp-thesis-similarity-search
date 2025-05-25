@@ -1,0 +1,14 @@
+{
+  "id": "31015",
+  "title": "Material handling dengan mecanum wheels mobile robot",
+  "abstract": "Proses penanganan material merupakan bagian integral dari proses produksi suatu produk yang meliputi pengangkatan, penurunan, penyimpanan, dan transportasi bahan baku hingga bahan siap dipasarkan. Tujuan penanganan material adalah untuk menghilangkan inefisiensi berupa pemborosan waktu dan biaya produksi. Berdasarkan fakta tersebut dibuat sebuah mobile robot yang efektif untuk digunakan dalam proses penanganan material dengan menggunakan roda mekanum. Berdasarkan hasil pengujian diketahui semua sistem dan perangkat pada robot berjalan dengan baik. Robot juga dapat menerjemahkan dan menjalankan perintah yang diberikan dengan baik. Namun robot yang telah dibuat juga masih memiliki kekurangan, yaitu desain dan pembuatan mekanik robot yang kurang baik menyebabkan adanya error yang terjadi ketika robot melakukan gerakan sideways. Selain itu sistem robot yang menggunakan sistem yang terbuka menyebabkan robot tidak dapat melakukan perbaikan posisi ketika terjadi pergeseran posisi saat robot bergerak. Dengan melakukan variasi pada kecepatan putar dan arah putaran pada masing-masing roda mekanum yang terpasang pada robot dapat dihasilkan pergerakan ke segala arah, seperti maju, mundur, geser kiri dan kanan, rotasi searah dan berlawanan arah jarum jam, diagonal dan berbelok pada radius tertentu.",
+  "creators": "ADI LAKSMONO",
+  "contributors": "Handry Khoswanto (Advisor 1); Hany Ferdinando (Advisor 2); Handy Wicaksono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010932/ELK/2013; Adi Laksmono (23409019)",
+  "subjects": "ROBOTICS; MOBILE ROBOTS"
+}

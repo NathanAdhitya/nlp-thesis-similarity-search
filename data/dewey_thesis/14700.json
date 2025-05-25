@@ -1,0 +1,14 @@
+{
+  "id": "14700",
+  "title": "Penjadwalan produksi di PT. Mulia Jadi",
+  "abstract": "PT. Mulia Jadi adalah salah satu perusahaan yang bergerak dibidang pembuatan kaleng. Ada delapan macam produk yang diproduksi oleh PT. Mulia Jadi yaitu kaleng 17 kg solder, kaleng 17 kg latex, kaleng 5 kg, kaleng 1 kg, kaleng biskuit bulat, kaleng biskuit persegi, kaleng pita mesin tik, dan tutup permen. Untuk produk kaleng 5 kg, kaleng 1 kg, kaleng biskuit bulat, dan kaleng biskuit persegi tersebut perusahaan lebih banyak menerima pesanan dari konsumen. Permintaan tersebut ada pada bulan-bulan tertentu, dan secara bersamaan sehingga seringkali pihak perusahaan tidak dapat memenuhi pesanan tersebut dengan jumlah yang telah ditentukan oleh konsumen. Di dalam Tugas Akhir ini akan dibuat suatu sistem penjadwalan untuk memberikan alternatif sistem penjadwalan yang lebih baik dan untuk mendapatkan makespan yang paling minimum, agar pihak perusahaan dapat memenuhi permintaan para konsumen dengan jumlah yang tepat. Karena tiapyoA mempunyai urutan proses yang berbeda maka penjadwalan dilakukan dengan menggunakan penjadwalan job shop dengan algoritma Shifting Bottleneck Heuristic berdasarkan kriteria lateness. Setelah memperoleh jadwal dengan metode tersebut, dibuat gantt chart untuk memperoleh waktu penyelesaian minimum dari proses produksi tersebut. Dengan diketahuinya waktu penyelesaian minimum maka diharapkan pihak perusahaan dapat memenuhi pesanan sesuai dengan permintaan konsumen.",
+  "creators": "JOSEF FERRY SANTOSO",
+  "contributors": "Siana Halim (Examination Committee 1); Tessa Vanina Soetanto (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 321/TI-48/2000; Josef Ferry Santoso (25493092)",
+  "subjects": "PRODUCTION MANAGEMENT"
+}

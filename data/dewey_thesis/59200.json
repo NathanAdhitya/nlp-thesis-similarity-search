@@ -1,0 +1,14 @@
+{
+  "id": "59200",
+  "title": "Analisa dan identifikasi pola malware menggunakan dynamic malware analysis dan statics malware analysis untuk meningkatkan threat intelligence pada PTIK",
+  "abstract": "Ancaman malware mencakup worm, trojan, ransomware, spyware, dan banyak jenis lainnya. Malware dapat menyebabkan kerusakan sistem, pencurian data pribadi, pencurian keuangan, atau bahkan pengambilalihan sistem komputer. Mereka dapat menyebar melalui email, situs web, atau perangkat penyimpanan yang terinfeksi. Dengan melakukan analisis terhadap malware-malware yang ada kita dapat mengambil informasi yang dibutuhkan oleh tim cyber security dalam meningkatkan tingkat keamanan dari setiap device yang dirasa akan rentan dalam serangan dan rules untuk memperketat sistem. Analisis Dinamis mempunyai tingkat deteksi yang tinggi karena analisis Dinamis mengandalkan behavior based detection sementara itu analisis statis menggunakan signature based detection. Analisis Statis lebih unggul pada efisiensi waktu yang dibutuhkan dalam analisis malware karena dapat melihat secara langsung string, header, signature dari malware, dari sisi skalabilitas/jumlah malware yang dianalisis membuat analisis statis akan lebih unggul. Sementara itu analisis dinamis mempunyai keunggulan karena dapat memberikan informasi tambahan dari hasil analisis statis mengenai cara kerja malware dan perilaku dari malware. Dengan menggunakan kedua metode dapat memperoleh hasil analisis yang lebih mendalam, memahami sisi statis maupun dinamis dari malware. Sehingga dapat meningkatkan keakuratan dan efisiensi informasi dari malware. Hasil analisis yang sudah dilakukan akan dirangkum dan dibuat dalam bentuk buku panduan yang dapat digunakan PTIK sebagai dasaran dalam memahami malware dan mengatasi serangan malware yang ada.",
+  "creators": "GABRIEL SUGIARTO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Resmana Lim (Advisor 2); Justinus Andjarwirawan (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022432/INF/2024; Gabriel Sugiarto (C14190078)",
+  "subjects": "COMPUTER VIRUSES; MALWARE (COMPUTER SOFTWARE)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "53838",
+  "title": "Prediksi kebutuhan darah menggunakan metode ARIMA dengan mempertimbangkan faktor deterioration",
+  "abstract": "Darah memiliki berbagai kegunaan yang sangat penting bagi tubuh manusia. Namun, darah hanya dapat didonorkan dalam jumlah yang terbatas karena darah hanya dapat diproduksi oleh manusia. Kegiatan donor darah ini diatur dan diselenggarakan oleh Unit Transfusi Darah (UTD), yang salah satunya adalah UTD PMI Surabaya. UTD PMI Surabaya juga memproduksi dan menyimpan produk darah serta mendistribusikannya ke rumah sakit maupun langsung ke pasien yang membutuhkan darah. Oleh karena jumlah kebutuhan darah yang tidak menentu, UTD PMI Surabaya perlu melakukan prediksi agar dapat memenuhi kebutuhan darah. Namun darah memiliki masa simpan yang juga perlu di perhatikan. Sedangkan, sistem prediksi kebutuhan darah masih menggunakan prekiraan manusia. Oleh karena itu dibutuhkan sistem informasi yang dapat membantu dalam memprediksi kebutuhan darah dengan mempertimbangkan masa kadaluarsa darah. Aplikasi yang dibuat pada penelitian ini merupakan aplikasi web yang dapat membantu dalam melakukan prediksi dengan menggunakan metode ARIMA.Kemudian akan dilakukan perhitungan dengan mempertimbangkan kadaluarsa darah untuk menentukan kebutuhan darah di bulan depan. Berdasarkan hasil pengujian, aplikasi yang dibuat mampu melakukan prediksi kebutuhan darah. Model ARIMA yang dipakai untuk melakukan prediksi komponen darah WB adalah ARIMA (7,0,6) dengan RMSE 58,91. Sedangkan model ARIMA yang dipakai untuk melakukan prediksi komponen darah TC adalah ARIMA (5,0,6) dengan RMSE 272,46.",
+  "creators": "GABRIELA CONSUELO HERIYANTO",
+  "contributors": "Andreas Handojo (Advisor 1); Tanti Octavia (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022193/INF/2022; Gabriela Consuelo Heriyanto (C14180055)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; INVENTORY CONTROL--DATA PROCESSING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

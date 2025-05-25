@@ -1,0 +1,14 @@
+{
+  "id": "52081",
+  "title": "Sistem monitoring dan control hidroponik berbasis IoT",
+  "abstract": "Tugas akhir ini bertujuan untuk membuat sistem hidroponik yang dapat mengatur kebutuhan tanaman seperti pH dan ppm. Penelitian ini diharapkan dapat menjadi contoh untuk penghobi hidroponik lainnya. Sistem ini menggunakan mikrokontroller ESP32 Devkit V1 sebagai alat penghubung hardware dan software aplikasi mobile. ESP32 digunakan untuk membaca 3 buah sensor. Di antaranya sensor pH, TDS, ultrasonic, dan 3 buah float switch. Data dari sensor-sensor akan dikirimkan menggunakan MQTT (Message Queuing Telemetry Transport) untuk dipantau dan dikontrol. Dalam sistem hidroponik, terdapat 5 buah output berupa pompa celup, 3 buah pompa peristaltik, dan solenoid valve. Tiga buah float switch berfungsi untuk menampilkan peringatan pada aplikasi mobile beserta tanggal dan waktu real time. Nilai sensor pH, TDS, dan ultrasonic akan tampil pada aplikasi mobile beserta grafik untuk 3 buah sensor tersebut. Riwayat nilai sensor dapat dilihat beserta tanggal dan waktu real time saat pengambilan data. Terdapat juga tombol untuk kontrol sinyal low dan high pada relay. Nilai sensor tersimpan pada database berupa SQLite sehingga dapat menampung dan menyimpan banyak data ke dalam suatu folder. Berdasarkan pengujian yang telah dilakukan penulis, sistem monitoring dan control hidroponik berbasis IoT dapat berjalan baik. Untuk mendapatkan informasi data sensor dan peringatan akan ketersediaan larutan juga berjalan dengan lancar.",
+  "creators": "ANTONIUS KURNIA GUNAWAN",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011026/ELK/2022; Antonius Kurnia Gunawan (23416017)",
+  "subjects": "AUTOMATIC CONTROL; MICROCONTROLLERS"
+}

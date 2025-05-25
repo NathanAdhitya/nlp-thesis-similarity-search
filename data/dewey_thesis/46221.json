@@ -1,0 +1,14 @@
+{
+  "id": "46221",
+  "title": "Optimasi triangle forward facing step pada Toyota Hiace untuk mengurangi drag",
+  "abstract": "Triangle forward facing step merupakan forward facing step yang dibuat bentuknya menjadi segitiga agar menyesuaikan pemasangan pada Toyota Hiace. Forward facing step merupakan turbulator pemisah aliran di mana yang diharapkan adalah tekanan tinggi dan kecepatan rendah pada forward facing step. Facing step merupakan stepper yang dipasangkan pada wall (benda) yang menyebabkan terjadinya bubble separation. Perancangan akan diawali dengan pembuatan Toyota Hiace 1:1, pembuatan 2 dimensi pada gambit, dan menentukan dimensi triangle forward facing step. Parameter yang digunakan dalam simulasi fluent adalah kecepatan 22m/s, viskositas udara 1.225kgm/s, model viscous k-omega SST, dan iterasi sebanyak 1000. Separasi merupakan peristiwa dimana boundary layer mengalami backflow ketika menabrak dinding yang tajam sehingga terjadinya attach. Pada penelitian ini diharapkan didapatkan re-attachment flow pada triangle forward facing step, sehingga diharapkan koefisien drag yang turun sebesar ≥5%.",
+  "creators": "CHANDRA PRAWIRA ARTHA",
+  "contributors": "Sutrisno S.T.,M.T. (Advisor 1); Fandi Dwiputra Suprianto, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011318/MES/2019; Chandra Prawira Artha (24415091)",
+  "subjects": "MACHINE DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "46692",
+  "title": "Perangkat lunak logistik kemanusiaan untuk memantau distribusi bantuan korban bencana alam",
+  "abstract": "Gudang Palang Merah Indonesia Regional Gresik menampung dan menangani proses bantuan logistik kemanusiaan wilayah Jawa Timur, Sulawesi dan seluruh Indonesia bagian Timur. Bantuan logistik kemanusiaan, merupakan barang darurat yang dapat disalurkan ketika terjadi kejadian bencana. Saat ini, dalam menjalankan proses logistik digunakan aplikasi yang tertanam pada mesin lokal. Aplikasi tersebut sudah out to date dan tidak dapat menjalankan beberapa fungsi sesuai kebutuhan gudang sehingga beberapa proses dilakukan secara manual menggunakan excel. Konfirmasi penerimaan dan pengiriman juga masih sering dilakukan via whatsapp messager sehingga seringkali terjadi kekeliruan. Selain itu pemberian nomor lacak tidak unique sehingga barang sulit untuk dilacak. Hal ini menyebabkan proses logistik pada gudang menjadi kurang efektif, sehingga diperlukan sebuah perangkat lunak yang dapat memudahkan proses logistiknya. Perangkat lunak yang dikembangkan merupakan sebuah sistem logistik bantuan kemanusiaan berbasis web. Sistem ini juga disesuaikan dengan hasil analisis terhadap aplikasi yang ada saat ini dengan beberapa fitur tambahan menyesuaikan kebutuhan gudang. Sistem web dikembangkankan menggunakan bahasa pemrograman serverside PHP 7.12.13 dengan Framework Laravel 5.7 serta beberapa library pendukung clientside css, javascript seperti bootstrap, jQuery. Hasil akhir dari pengembangan perangkat lunak mencakup pergerakan barang yang terjadi dalam gudang, seperti input barang masuk dan keluar, serta dengan pembaharuan nomor lacak dan pemberian nomor lacak secara otomatis pada barang bantuan.",
+  "creators": "EFRAIM OWEN GUNAWAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Yulia (Examination Committee 1); INDRO SETIAWAN (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021957/INF/2020; Efraim Owen Gunawan (26414135)",
+  "subjects": "DATABASE MANAGEMENT; WEB SITES--DESIGN"
+}

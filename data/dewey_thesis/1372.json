@@ -1,0 +1,14 @@
+{
+  "id": "1372",
+  "title": "Studi literatur isometric view pada game 2D dengan DirectX",
+  "abstract": "Dalam membuat permainan lebih mudah membuat permainan dua dimensi dibandingkan dengan membuat permainan tiga dimensi. Selain itu tuntutan hardware yang diperlukan untuk permainan dua dimensi lebih ringan, dan untuk membuat permainan tiga dimensi dibutuhkan tim pembuat yang lebih besar. Karenanya pembuatan aplikasi yang dilakukan merupakan permainan dua dimensi yang menggunakan tampilan isometric untuk memberikan kesan adanya tiga dimensi tanpa perlu membuat system tiga dimensi sesungguhnya. Proses pembuatan aplikasi yang dilakukan bertujuan untuk membuat permainan dua dimensi sederhana dengan menggunakan tampilan isometric yang dapat dijalankan pada komputer berbasis Windows. Pembuatan aplikasi dilakukan dengan menggunakan program Microsoft Visual C++ dan Microsoft DirectX 8.1 Software Development Kit serta libary tambahan IsoHexDef dan WavLoader untuk membantu pembuatan aplikasi. Dari hasil pengujian yang dilakukan dapat terlihat aplikasi yang dibuat mempunyai dua level permainan, adanya beragam perintah yang dapat diberikan kepada unit, unit yang ada dapat menerima dan menjalankan perintah yang diberikan sesuai dengan kemampuan yang dimiliki, komputer dapat melakukan perhitungan untuk menggerakkan unit yang dimiliki, dan tampilan gambar yang digunakan termasuk menggunakan sudut pandang isometric.",
+  "creators": "ARISTOTALES LENGKONG",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Ibnu Gunawan (Advisor 2); Theresia Lestiowati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010055/INF/2003; Aristotales Lengkong (26499140)",
+  "subjects": "COMPUTER GAMES-PROGRAMMING"
+}

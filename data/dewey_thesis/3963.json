@@ -1,0 +1,14 @@
+{
+  "id": "3963",
+  "title": "Penjadwalan pengiriman barang di PT. \"X\"",
+  "abstract": "Dalam tugas akhir ini dibahas permasalahan penjadwalan pengiriman barang di PT.X, suatu perusahaan yang memproduksi berbagai macam cat, meni, plamir, woodfiller, woodstain, politur, dan tinner, dimana sekitar 25% pesanan yang masuk mengalami keterlambatan pengiriman 3-10 hari. Karena itu, diusulkan suatu sistem penjadwalan pengiriman yang meliputi sistem database untuk mempermudah proses pemilihan pesanan ya ng akan dikirim dan algoritma heuristik untuk mempermudah proses penugasan kendaraan. Sistem database yang dibuat berguna untuk menyimpan data produk, customer, dan pesanan. Selain itu, dalam sistem database, pesanan diurutkan berdasarkan prioritas tanggal order sehingga dapat dilakukan pemilihan pesanan yang akan dikirim dengan lebih mudah. Dalam pemilihan pesanan juga dipertimbangkan kapasitas kendaraan yang tersedia dengan melakukan perhitungan total berat permintaan dari pesanan-pesanan yang dipilih. Pesanan-pesanan yang dipilih selanjutnya diinputkan ke dalam algoritma penugasan. Dalam tugas akhir ini diusulkan algoritma heuristik forward dan algoritma heuristik backward untuk menentukan kombinasi customer-truk yang merupakan salah satu permasalahan vehicle routing dengan karakteristik permintaan deterministik dan pendistribusian barang dilakukan dari depot tunggal ke beberapa destinasi. Kedua algoritma heuristik tersebut bertujuan meminimalkan total waktu pengiriman dengan memperhatikan kendala waktu dan kapasitas kendaraan. Dari analisa hasil implementasi penjadwalan pengiriman selama 8 hari, didapatkan bahwa pada sistem baru tidak ada pesanan yang mengalami keterlambatan pengiriman lebih dari 2 hari (keterlambatan pengiriman yang terjadi adalah 1-2 hari) walaupun jumlah pesanan yang terlambat dikirim (185 pesanan) lebih besar daripada jumlah pesanan yang mengalami keterlambatan pengiriman pada sistem yang lama (140 pesanan).",
+  "creators": "SHERLY ANTHONY; LIDYA CLAUDINA HIANDINATA",
+  "contributors": "I Nyoman Sutapa (Advisor 1); Herri Christian Palit (Advisor 2); Iwan Halim Sahputra, S.T., M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0787/IND/2004; Sherly Anthony (25400001), Lidya Claudina Hiandinata (25400044)",
+  "subjects": "PHYSICAL DISTRIBUTION OF GOODS-SCHEDULING; SHIPMENT OF GOODS-SCHEDULING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "19200",
+  "title": "Robot keseimbangan beroda dua menggunakan logika fuzzy",
+  "abstract": "Pada tugas akhir ini, robot beroda dua dirancang menggunakan komponen LEGO sebagai chassis yang juga diletakkan sebuah sensor accelerometer MX2125. Kontroler yang digunakan untuk mengatur keseimbangan robot beroda dua ini adalah ATMega128. Metode yang digunakan pada pada tugas akhir ini yaitu fuzzy logic control. Membership function yang digunakan adalah 7 membership function karena memiliki tingkat kestabilan paling besar. Dari hasil pengujian robot mampu kembali ke titik seimbang dengan adanya gangguan maksimal 5? dan berjalan secara seimbang dengan jarak tempuh maksimal 10 cm.",
+  "creators": "ALVIN SOFYAN",
+  "contributors": "Handry Khoswanto (Advisor 1); Thiang (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010917/ELK/2010; Alvin Sofyan (23406022)",
+  "subjects": "FUZZY LOGIC; ROBOT-CONTROL SYSTEMS"
+}

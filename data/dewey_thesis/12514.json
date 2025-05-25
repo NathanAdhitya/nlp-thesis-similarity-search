@@ -1,0 +1,14 @@
+{
+  "id": "12514",
+  "title": "Analisa efektivitas metode top-down dan metode bottom-up dalam pemodelan assembly pada software cad",
+  "abstract": "Mendesain pemodelan assembly 3-D di software CAD, terdapat 2 metode, yaitu metode bottom-up dan top-down. Metode bottom-up adalah metode CAD yang umum digunakan, yaitu membuat part secara terpisah, baru membuat model dari assembly sesuai dengan constraint dari part. Tetapi terdapat kekurangan dari metode ini, yaitu pengeditan assembly rawan terjadi error dan membutuhkan waktu lama. Metode top-down adalah metode pemodelan assembly secara lengkap dahulu kemudian membuat part sesuai dengan constraint assembly-nya. Hal ini, membuat proses perbaikan lebih mudah, karena bila satu komponen diubah maka komponen lain akan menyesuaikan. Adapun tujuan dari penelitian ini adalah mendapatkan nilai efektifitas baik dalam waktu maupun kemampuan fleksibilitas adaptasi model dengan menggunakan metode top-down dan metode bottom-up pada pemodelan assembly di software CAD. Pada skripsi ini disimpulkan bahwa metode bottom-up masih mempunyai waktu paling singkat dalam hal pemodelan, sedangkan metode top-down sangat efektif dalam pengeditan yang dilakukan pada model yang sudah dibuat, baik dalam jumlah langkah maupun waktu.",
+  "creators": "ALBERT KURNIA T",
+  "contributors": "Willyanto (Advisor 1); Stefanus Ongkodjojo, S.T., M.Sc. (Advisor 2); Ian Hardianto Siahaan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010892/MES/2009; Albert Kurnia Tjandranegara (24405009)",
+  "subjects": "MACHINE DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "50447",
+  "title": "Implementasi algoritma AES, ElGamal, dan SHA3 untuk keamanan file digital",
+  "abstract": "Di era yang serba modern ini, perkembangan teknologi di dunia berkembang dengan sangat cepat. Kemajuan teknologi yang sangat pesat ini membuat pekerjan dan pertukaran data maupun informasi menjadi sangat cepat, akurat, dan efisien. Tetapi dengan adanya kemudahan tersebut juga muncul celah keamanan baru seperti munculnya tindak kejahatan di dunia maya (cyber-crime). Tindakan-tindakan tersebut dapat berupa pencurian data, pembobolan kata sandi (password) seseorang, hingga penyebarluasan perangkat lunak (software) ataupun data seseorang tanpa ijin. Oleh karena itu, penelitian ini bertujuan untuk mengatasi masalah keamanan tersebut dengan cara mengimplementasikan algoritma AES, algoritma ElGamal, dan fungsi hash SHA3 agar dapat digunakan secara bersamaan menjadi suatu sistem enkripsi yang aman. Pengujian dalam penelitian ini terbagi menjadi tiga tahap, yaitu pengujian kemampuan sistem dalam melakukan proses enkripsi dan dekripsi, pengujian kecepatan sistem, dan pengujian web platform. Dari hasil pengujian dapat dibuktikan bahwa program dapat melakukan enkripsi dan dekripsi terhadap semua jenis file dengan baik dan dapat mendeteksi keaslian file tersebut. Pada pengujian web, dapat diketahui bahwa web mampu mengirimkan file yang terenkripsi kepada penerima dengan baik tanpa ada satupun yang hilang. Penelitian ini menghasilkan sebuah perangkat lunak yang dapat melakukan enkripsi dan dekripsi terhadap berbagai jenis file dan dapat memverifikasi jika terdapat perubahan/modifikasi terhadap file tersebut. Penelitian ini juga menghasilkan sebuah web platform yang dapat digunakan untuk melakukan pengiriman file antar pengguna dengan benar.",
+  "creators": "JOSHUA ALLAN SAPUTRA",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Andreas Handojo (Examination Committee 1); Silvia Rostianingsih (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022086/INF/2021; Joshua Allan Saputra (C14170007)",
+  "subjects": "ALGORITHMS; COMPUTER ALGORITHMS"
+}

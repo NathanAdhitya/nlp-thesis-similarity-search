@@ -1,0 +1,14 @@
+{
+  "id": "6061",
+  "title": "Pengenalan metode meshless sebagai alternatif dari metode elemen hingga untuk menyelesaikan problem elastisitas",
+  "abstract": "Metode meshless merupakan metode numerik untuk menyelesaikan persamaan diferensial parsial yang dikembangkan sebagai alternatif dari metode elemen hingga yang sudah lebih dahulu dipakai secara luas. Dalam perkembangannya, metode meshless digunakan di berbagai aplikasi engineering, antara lain elastisitas, fluid flow, heat conduction, dan sebagainya. Pada bahasan ini, penekanan diberikan pada analisis untuk problem elastisitas yang berkaitan erat dengan teknik sipil, khususnya structural engineering. Ciri utama yang sekaligus menjadi keunggulan utama metode meshless adalah tidak diperlukannya prosedur meshing dengan elemen yang kompleks, yang masih menjadi suatu kelemahan dari metode elemen hingga. Metode meshless tidak memerlukan definisi elemen untuk mendiskretisasi suatu struktur yang kontinu, tapi cukup hanya dengan definisi dari titik-titik nodal dan kondisi batas dari suatu domain. Pola aproksimasi yang umum dipakai pada metode meshless berupa \"least-squares fitting\", di mana fungsi yang dibuat tidak tepat melewati data titik-titik nodal. Konsep umum serta karakteristik khusus dari beberapa metode meshless yang cukup menonjol, yaitu metode element-free Galerkin, meshless local Petrov-Galerkin, dan finite point akan diuraikan. Perbedaan yang mendasar dari ketiga metode tersebut adalah dalam hal residual collocation, prosedur integrasi, dan test function yang dipakai. Pengenalan akan metode meshless tersebut juga akan diperjelas dengan memaparkan perbandingan konsepnya dengan metode elemen hingga (khususnya metode weighted residual).",
+  "creators": "JOICE CAMELIA SUTANTO; FRANSISCA ARDIYANI WIBOWO",
+  "contributors": "Effendy Tanojo (Advisor 1); Pamuda Pudjisuryadi (Advisor 2); Ir. Soehendro Ratnawidjaja, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11301351/SIP/2004; Joice Camelia Sutanto (21400021), Fransisca Ardiyani Wibowo (21400037)",
+  "subjects": "STRUCTURAL ANALYSIS (ENGINEERING)"
+}

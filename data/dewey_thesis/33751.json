@@ -1,0 +1,14 @@
+{
+  "id": "33751",
+  "title": "Pembuatan sistem informasi akuntansi manufaktur UD Aneka Karunia",
+  "abstract": "UD Aneka Karunia merupakan sebuah perusahaan perseorangan yang berjalan dalam bidang manufaktur aksesoris sepatu yang bertempat di Gedangan, Sidoarjo. Proses bisnis pada UD Aneka Karunia tergolong masih manual baik dalam proses penjualan, pembelian maupun manufaktur tanpa adanya sistem integrasi yang baik. Perusahaan hanya memiliki sistem pembukuan konvensional menggunakan microsoft excel. Ditelusuri lebih lanjut, sistem ini hanya bisa digunakan karena hanya bisa mencatat stok sementara tapi tidak bisa mencatat arus keluar masuk barang. Melihat dari hal tersebut, sistem hanya dapat digunakan untuk mencatat stok temporer, bukan arus pergerakan barang. Melihat latar belakang permasalahan itu, dirancang sistem informasi akuntansi manufaktur yang terstruktur. Sistem ini didukung oleh 5 fitur utama yaitu fitur master, pembelian, penjualan, jurnal dan laporan. Untuk proses pembelian terdiri dari purchase order, penerimaan barang, faktur beli dan retur. Proses penjualan juga memiliki struktur yang hampir sama dengan proses pembelian yaitu dimulai dari sales order, surat jalan, faktur jual dan yang terakhir retur. Untuk laporan terdiri dari laporan stok, laporan penjualan, laporan pembelian, dan yang terakhir laporan keuangan seperti neraca, laporan laba rugi dan buku besar. Aplikasi tersebut juga dapat mengakomodasi pencatatan jurnal dan menghitung harga pokok produksi. Sistem informasi akuntansi ini dibuat dengan Microsoft Visual Studio 2010 dan MySQL. Hasil yang diperoleh dari aplikasi ini antara lain pencatatan master, pencatatan transaksi pembelian dan penjualan, pencatatan produksi yang terintegrasi dengan kartu stok, perhitungan harga pokok produksi, dan laporan keuangan.",
+  "creators": "TIMOTHY OSCAR",
+  "contributors": "Alexander Setiawan (Advisor 1); ANDY SETIABUDI (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021401/INF/2015; Timothy Oscar (26411028)",
+  "subjects": "ACCOUNTING-COMPUTER PROGRAMS; DATABASE MANAGEMENT; DATABASE DESIGN"
+}

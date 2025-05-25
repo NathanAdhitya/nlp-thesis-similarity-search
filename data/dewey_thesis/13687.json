@@ -1,0 +1,14 @@
+{
+  "id": "13687",
+  "title": "Mesin absensi dengan barcode reader",
+  "abstract": "Seperti telah diketahui ada berbagai macam cara meng-absen kehadiran seseorang, antara lain dengan cara manual dan menggunakan mesin absensi. Cara manual adalah dengan cara mengawasi lalu mencatat seseorang hadir jam berapa tanggal berapa serta pulang jam berapa. Cara seperti ini sudah dianggap sangat kuno dan kurang relevan untuk diterapkan dalam perusahaan yang memiliki jumlah pegawai yang banyak. Sedangkan untuk mesin absensi ada yang memakai kertas dan memakai kartu magnetik bahkan sidik jari. Untuk mesin yang menggunakan kertas dirasa kurang praktis karena kertas dapat habis serta harus memasukkan data lagi ke dalam komputer (dapat menyebabkan data salah). Sedang untuk kartu magnetik kelemahannya adalah magnet dapat hilang (terhapus) karena bergesekan dengan kartu magnet lainnya (ATM dll) dan mahal. Karena itu untuk tugas akhir ini direncanakan suatu mesin absensi dengan menggunakan barcode reader dengan code 39 dengan pertimbangan praktis, tahan lama, dan murah. Secara garis besar cara kerja dari mesin absensi ini adalah: data dari barcode akan dibaca oleh barcode reader, setelah itu masukkan kode PIN untuk mengurangi kemungkinan ytng-absen-m oleh orang-orang yang tidak semestinya ,data dari barcode dan keypad masuk ke mikrokontroler dan disimpan sementara dalam memori 6264 selanjutnya data akan dikirim ke komputer. Setelah direalisasikan maka diadakan suatu pengujian. Pengujian yang dilakukan meliputi pengujian pembacaan barcode serta pengiriman dan penerimaan data agar dapat ditampilkan. Dari hasil pengujian tampak bahwa alat dapat berjalan baik, dimana hasil pembacaan dapat ditampilkan dengan membuka file open data (*.sav).",
+  "creators": "ANTONIUS SETIADI KUSUMAH",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/007/521; Antonius Setiadi Kusumah (23495130)",
+  "subjects": "BARCODING"
+}

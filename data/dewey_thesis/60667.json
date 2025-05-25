@@ -1,0 +1,14 @@
+{
+  "id": "60667",
+  "title": "Aplikasi manajemen produksi karung dilengkapi dengan fitur job assignment menggunakan metode simple additive weighting berbasis web",
+  "abstract": "Skripsi ini bertujuan untuk mengevaluasi efisiensi dan akurasi penerapan fitur job assignment dalam menentukan mesin yang tepat untuk meningkatkan kecepatan pengerjaan serta menentukan tanggal order selesai dikerjakan. Selain itu, skripsi ini juga akan melakukan pemindahan sistem aplikasi dari desktop ke web, serta menilai tingkat kegunaan dari pemindahan sistem tersebut. Metode Simple Additive Weighting (SAW) digunakan karena kesederhanaannya dalam pengambilan keputusan berdasarkan bobot berbagai kriteria. Meskipun metode ini diketahui memiliki tingkat akurasi yang tidak terlalu tinggi, ketidakakuratan yang dihasilkan masih berada dalam batas toleransi yang dapat diterima sehingga tetap digunakan dalam skripsi ini. Hasil pengujian menunjukkan bahwa persentase perbedaan kecepatan pengerjaan adalah 8.99%, dan perbedaan jumlah hari efektif adalah 0%. Efisiensi sistem baru tercatat 1.85 kali lebih tinggi dengan kecepatan pengerjaan meningkat dari 503.37 meter/hari menjadi 932.67 meter/hari. Pengujian tingkat kegunaan menunjukkan mayoritas feedback dari pengguna positif terhadap kemudahan penggunaan dan peningkatan fitur setelah pemindahan sistem aplikasi ke web.",
+  "creators": "ALBERT VALENTINO",
+  "contributors": "Andreas Handojo (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Hans Juwiantho S.Kom., M.Kom (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022470/INF/2024; Albert Valentino (C14200135)",
+  "subjects": "INFORMATION SYSTEMS; WEB APPLICATIONS"
+}

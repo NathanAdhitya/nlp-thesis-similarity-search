@@ -1,0 +1,14 @@
+{
+  "id": "28308",
+  "title": "Perencanaan dan pembuatan alat pendeteksi suhu radiator, putaran mesin (RPM) dan bahan bakar dalam tangki pada mobil dengan menggunakan microcontroller 8048",
+  "abstract": "Pemakaian microprocessor dalam berbagai bidang sebagai control otomatis hampir kita temui setiap hari terutama dalam industri-industri. Salah satu aplikasi yang disajikan di sini adalah penggunaan microcontroller 8048 sebagai pendeteksi suhu radiator, putaran mesin (RPM), dan bahan bakar dari suatu mobil pada kondisi tertentu. Agar data input dapat diproses, maka terlebih dahulu harus dirubah ke dalam bentuk sinyal listrik dengan menggunakan transducer, kemudian output dari transducer tersebut dirubah ke dalam bentuk data digital oleh ADC agar bisa diproses oleh microcontroller. Dengan adanya aplikasi penggunaan microcontroller tersebut sebagai control otomatis, maka akan sangat membantu kita dalam mendetesi suatu sistim secara keseluruhan. Pemakaian microcontroller 8048 sebagai pemroses utama pada peralatan yang dibuat ternyata cukup menguntungkan karena pada microcontroller tersebut sudah tersedia fasilitas-fasilitas pendukung dari microprocessor seperti memori-memori dan I/O yang semuanya sudah dikemas dalam satu bentuk IC, sehingga menghindarkan kita dari kerumitan hardware. Hasil dari pengukuran yang dilakukan di atas, dapat terlihat pada seven segment yang merupakan output dari sistim, dengan masing-masing 3 digit untuk temperatur, 3 digit untuk bahan bakar dan 4 digit untuk putaran mesin.",
+  "creators": "YARID PABISA",
+  "contributors": "NAWANTO WIBOWO (Advisor 2); SUPENO DJANALI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/012/0071; Yarid Pabisa (485072)",
+  "subjects": "INTEL 8048 (COMPUTER)"
+}

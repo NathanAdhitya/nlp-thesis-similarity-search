@@ -1,0 +1,14 @@
+{
+  "id": "4667",
+  "title": "Fuzzy clustering dengan metode Gustafson-Kessel untuk forecasting data electrical load",
+  "abstract": "Untuk dapat merancang sebuah sistem fuzzy yang baik, pengetahuan akan karakteristik data yang digunakan memegang peranan yang sangat penting. Namun jika sistem melibatkan data dalam jumlah besar, maka karakteristik data akan sulit diamati. Fuzzy clustering dengan metode Gustafson-Kessel dapat digunakan sebagai solusi, karena membership function akan terbentuk sesuai penyebaran data secara otomatis. Proses pembentukan cluster ini disebut modeling. Dalam pemodelan, algoritma Gustafson-Kessel clustering akan digunakan untuk mengelompokkan data electrical load Jatim-Bali, dan degree of membership tiap data terhadap tiap cluster tersebut akan membentuk Gaussian Membership Function. Inference system yang digunakan adalah tipe Takagi-Sugeno yang memiliki output berupa persamaan linier. Persamaan Membership Function dan parameter output yang diperoleh dari proses modeling inilah yang akan digunakan untuk forecasting. Rata-rata error forecast untuk tiap data mencapai ? 5% dari beban listrik maksimal, dengan menggunakan 9 input yang disusun per minggu dan 4 cluster.",
+  "creators": "LINDAWATI CHANDRA",
+  "contributors": "Felix Pasila (Advisor 1); Thiang (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010840/ELK/2007; Lindawati Chandra (23403023)",
+  "subjects": "FORECASTING-STATISCAL METHODS; TIME-SERIES ANALYSIS"
+}

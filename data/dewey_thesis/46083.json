@@ -1,0 +1,14 @@
+{
+  "id": "46083",
+  "title": "Filtering kata-kata kasar dengan metode Long Short-term Memory",
+  "abstract": "Komunikasi menggunakan media sosial seperti Facebook, WhatsApp, LINE, dan Instagram sudah menjadi gaya hidup masyarakat. Baik tua ataupun muda, hampir tidak ada yang tidak menggunakan media sosial. Sebagian besar bentuk komunikasi yang mereka lakukan dalam menggunakan media sosial adalah berbentuk teks. Seringkali terdapat posan maupun komentar yang mengandung kata-kata kasar atau kata yang dapat menyinggung perasaan (menghina) orang lain. Oleh karena itu, diperlukan suatu aplikasi yang dapat menyaring pos maupun komentar yang mengandung kata-kata kasar dalam media sosial. Langkah pertama dalam metode tersebut adalah melakukan normalisasi terhadap teks yang terdapat pada posan maupun komentar dalam media sosial sehingga teks dapat teratur dan memiliki standar. Kemudian dilakukan proses stemming untuk mengambil kata dasar dari masing-masing kata, kemudian dideteksi dengan metode LSTM. Aplikasi yang digunakan pada karya ilmiah ini berhasil mendeteksi kata-kata kasar yang terdapat pada posan atau komentar media sosial menggunakan metode LSTM.",
+  "creators": "JAMES WIBISONO SANTOSO",
+  "contributors": "Rolly Intan (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021916/INF/2019; James Wibisono Santoso (26415037)",
+  "subjects": "TEXT EDITORS (COMPUTER PROGRAMS); COMPUTER PROGRAMMING"
+}

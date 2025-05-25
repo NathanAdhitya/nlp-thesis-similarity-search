@@ -1,0 +1,14 @@
+{
+  "id": "8619",
+  "title": "Pemesanan tiket bioskop dengan memanfaatkan bluetooth pada telepon selular",
+  "abstract": "Aplikasi pemesanan tiket bioskop via bluetooth merupakan implementasi dari Java API (Application Programming Interface) bluetooth (JSR-82) yang bertujuan untuk memberikan solusi alternatif masalah antrian pada saat pemesanan tiket dengan menggunakan telepon selular di ticket box. Aplikasi ini terdiri dari dua bagian yaitu aplikasi bluetooth server pada komputer dan aplikasi MIDlet bluetooth client pada telepon selular yang mendukung JSR-82. Koneksi client-server menggunakan SPP (Serial Port Profile) yang berdasarkan protokol RFCOMM. Tipe jaringan bluetooth yang digunakan adalah piconet. Aturan komunikasi client-server yaitu client mengirimkan request message pada server dan server akan membalas dengan reply message ke client. Sistem telah diuji dengan menggunakan tiga client (telepon selular), kabel USB sepanjang 2 meter untuk menghubungkan komputer dengan USB bluetooth dongle, penghalang tembok setebal 13,8 cm, dan jarak antara client dengan server adalah 6 meter. Berdasarkan hasil pengujian lama waktu koneksi antara client dengan server berkisar antara 1,11 - 8,65 detik. Fitur-fitur yang tersedia pada aplikasi ini yaitu pemesanan tiket, pembatalan tiket, pencetakan tiket melalui telepon selular, dan pencetakan laporan transaksi. Dengan menggunakan aplikasi ini, pengguna dapat melakukan pemesanan tiket bioskop dengan mudah dan nyaman.",
+  "creators": "WIRYONO KESOWO",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010034/ELK/2005; Wiryono Kesowo (23401142)",
+  "subjects": "WIRELESS COMMUNICATION SYSTEMS; MOBILE COMMUNICATION SYSTEMS; BLUETOOTH"
+}

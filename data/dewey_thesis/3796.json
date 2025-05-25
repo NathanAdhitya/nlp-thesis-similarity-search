@@ -1,0 +1,14 @@
+{
+  "id": "3796",
+  "title": "Alat pengukur curah hujan",
+  "abstract": "Hujan merupakan peristiwa sampainya air dalam bentuk cair maupun padat yang dicurahkan dari atmosfer ke permukaan bumi. Jumlah hujan yang turun ke bumi merupakan curah hujan. Dalam perindustrian dalam bidang pangan misalnya, banyak sekali negara-negara asing yang memiliki kualitas buah-buahan ataupun sayur-sayuran yang sangat segar dan bagus. Hal tersebut dikarenakan mereka memperhatikan beberapa aspek, salah satunya curah hujan. Alat pengukur curah hujan ini dibuat untuk pengukuran curah hujan di daerah terpencil seperti di daerah pegunungan dimana sangat dibutuhkan untuk mengetahui data-data curah hujan yang sangat berhubungan dengan pertanian. Alat ini menggunakan AVR ATMega8 sebagai mikrokontroler yang mengatur masuknya data-data sensor Flexi Force dan data waktu dari RTC (Real Time Clock). Setelah data-data tersebut diolah oleh AVR, maka data tersebut akan dikirim ke dalam serial EEPROM (Electrically Erasable and Programmable Read Only Memory) yang berkapasitas 64Kbytes. Data yang tersimpan di EEPROM secara periodik akan diambil oleh petugas untuk dibaca datanya di PC melalui mikrokontroler AT89C2051 dan disimpan ke dalam file ?.txt?. Informasi yang tersimpan dalam file ini adalah data curah hujan pada setiap waktu tertentu. Berdasarkan data ini, maka kondisi curah hujan di tempat tersebut dapat diketahui Alat ini mampu membaca ketinggian air sampai dengan ketelitian ?5 mm. Namun pada alat ini tidak memiliki data yang repeatable dan kurang linier. Alat ini hanya memakan arus yang sangat kecil yaitu hanya di bawah 1A jika dijalankan. Alat ini dapat bekerja dalam jangka waktu yang lama (?3 bulan) tanpa harus diberhentikan karena alat ini memang dirancang sedemikian rupa untuk dapat bekerja di suatu tempat terpencil dengan sumber tegangan sendiri.",
+  "creators": "JULIUS ALEXANDER W",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010825/ELK/2006; Julius Alexander Wijaya (23402076)",
+  "subjects": "AUTOMATIC CONTROL; RAIN AND RAINFALL"
+}

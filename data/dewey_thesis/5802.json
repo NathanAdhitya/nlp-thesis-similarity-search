@@ -1,0 +1,14 @@
+{
+  "id": "5802",
+  "title": "Robot lengan 3 derajad kebebasan dengan metode PID",
+  "abstract": "Dalam melakukan proses industri, seperti mengatur urutan produk atau pemasangan tutup botol atau segel, seringkali diperlukan ketepatan dalam pemasangannya. Proses tersebut membutuhkan ketelitian agar kesalahan yang terjadi dapat diminimalkan. Pada tugas akhir ini, robot lengan 3 derajat kebebasan dikontrol melalui PC dengan menggunakan program C dan microcontroller. Robot tersebut menggunakan 3 motor DC yang masing-masing telah dihubungkan dengan sensor posisi, yakni : motor pertama merupakan penggerak body utama, yang kedua untuk mengambil balok huruf dan yang terakhir untuk menggerakkan lengan putar. Proses untuk men-drive ketiga motor DC dan selenoid diatur oleh microcontroller AT89S51. Proses pergerakan lengan robot ini menggunakan metode PID yang diatur dari microcontroller dan dikendalikan oleh PC, hubungan antara microcontroller dan PC menggunakan serial RS232. Proses bekerjanya robot lengan ini adalah pada waktu PC mendapat inputan oleh user, maka PC akan mengirimkan data ke microcontroller. Microcontroller memproses data-data tersebut dan mengatur pergerakan robot hingga sesuai dengan permintaan inputan user. Nilai konstanta terbaik PID yang telah didapat dengan percobaan adalah Kp=24 Ki=30 Kd=0.1, dengan nilai konstanta tersebut robot lengan dengan metode PID didapatkan nilai rise time (tr)=1.41s, settling time (ts)=4.03s, maksimum overshoot (Mp)=1.62%.",
+  "creators": "RINTO WIBOWO",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010762/ELK/2005; Rinto Wibowo (23401063)",
+  "subjects": "ROBOTICS; ROBOTS-MOVEMENT; ROBOT-DYNAMICS"
+}

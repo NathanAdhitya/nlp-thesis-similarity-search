@@ -1,0 +1,14 @@
+{
+  "id": "33816",
+  "title": "Perencanaan enterprise architecture pada PT X",
+  "abstract": "PT X adalah sebuah perusahaan swasta yang beroperasi secara komersial sejak tahun 1991. Perusahaan ini menjadi perusahaan pertama di Indonesia yang memproduksi Sodium Tripolyphosphate (STPP). Dalam mendukung proses bisnisnya, PT X hanya memiliki program yang menangani Warehouse perusahaan dan juga general ledger perusahaan. Program di PT X mempunyai kekurangan yaitu tidak memiliki sistem informasi yang terintegrasi secara keseluruhan. Oleh karena itu, pada skripsi ini akan dilaksanakan analisa dan perencanaan desain sistem informasi Enterprise Architecture pada perusahan. Kerangka kerja yang digunakan yaitu Enterprise Architecture Planning. Proses yang akan dilakukan pertama kali yaitu dengan melakukan analisa model bisnis dan strategi bisnis perusahaan. Selanjutnya, dilakukan analisa kondisi information technology di perusahaan saat ini, mengetahui permasalahan information technology yang ada, lalu melihat kebutuhan information technology yang baru di masa depan. Setelah itu dilakukan pembuatan desain arsitektur data, arsitektur aplikasi dan arsitektur teknologi yang sesuai dengan strategi bisnis dan proses bisnis perusahaan. Arsitektur data yang dihasilkan untuk perusahaan terdiri dari beberapa sub sistem yaitu Sub Sistem Pembelian, Sub Sistem Warehouse, Sub Sistem Produksi, Sub Sistem Penjualan, Sub Sistem Accounting and Finance dan Sub Sistem Personalia. Arsitektur Aplikasi terdiri dari beberapa aplikasi utama dan aplikasi pendukung. Aplikasi utama terdiri dari Sistem Informasi Pembelian, Sistem Informasi Warehouse, Sistem Informasi Produksi, Sistem Informasi Accounting and Finance, dan Sistem Informasi Personalia. Aplikasi-aplikasi tersebut merupakan aplikasi berbasis website. Aplikasi yang dapat mendukung aplikasi-aplikasi tersebut adalah aplikasi Data Provider di mana aplikasi tersebut membantu aplikasi utama dalam berkomunikasi untuk melakukan permintaan data antar aplikasi. Arsitektur teknologi yang dilakukan menggunakan Service Oriented Architecture.",
+  "creators": "AGUSTINUS GANDAWIDJAJA",
+  "contributors": "Yulia (Advisor 1); Andreas Handojo (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021389/INF/2015; Agustinus Gandawidjaja (26411013)",
+  "subjects": "INFORMATION SYSTEM; INFORMATION TECHNOLOGY AUDITING; BALANCED SCORECARD"
+}

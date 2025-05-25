@@ -1,0 +1,14 @@
+{
+  "id": "14681",
+  "title": "Perencanaan dan pembuatan sistem kontrol pintu kaca menggunakan mikrokontroler fuzzy NLX 220 ES",
+  "abstract": "Pada teknologi yang semakin berkembang, efisiensi kerja motor yang tinggi semakin dituntut. Melalui penggunaan kontrol dengan logika fuzzy diharapkan mampu untuk mengontrol kerja motor pada pintu kaca. Kontrol fuzzy dalam tugas akhir ini dilakukan oleh sebuah sirkit terintegrasi NLX 220 ES melalui sebuah software khusus yakni software Insight dan suatu development system. Sensor berat digunakan untuk mendeteksi banyaknya orang yang akan masuk ke suatu ruangan dimana parameter ini digunakan sebagai masukan bagi kontroler untuk mengatur kerja motor yang mengakibatkan terbukanya pintu kaca sesuai yang diinginkan dan dalam keadaan parameter yang dapat berubah-ubah. Dari hasil pengujian dapat diketahui bahwa faktor mekanisme terutama sensor berat yang digunakan sangat mempengaruhi ketelitian pada sistem pintu kaca. Pada tugas akhir ini kerja motor pada pintu kaca dapat terbuka sesuai banyaknya orang yang akan masuk yakni 1 orang, 2 orang dan maksimum 3 orang.",
+  "creators": "AGUSTU",
+  "contributors": "SOETIKNO (Advisor 1); Yohanes Trilaksono Dibyo S. (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/047/392; Agustu (23491051)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; INTEL FUZZY NLX 220ES (MICROCONTROLLER)"
+}

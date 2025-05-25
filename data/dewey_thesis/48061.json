@@ -1,0 +1,14 @@
+{
+  "id": "48061",
+  "title": "Perancangan nomor spare part dan pengendalian persediaan gudang spare part di PT X",
+  "abstract": "PT X merupakan sebuah perusahaan yang menghasilkan produk dari olahan kelapa sawit. Proses produksi dilakukan dengan menggunakan mesin. Spare part dari mesin ini disediakan oleh gudang spare part. Saat ini nomor material dari spare part terdiri dari 6 digit acak. Pembuatan konsep nomor material baru dilakukan dengan pendekatan group technology untuk mempermudah identifikasi spare part. Konsep nomor material baru terdiri dari 12 digit angka yaitu 4 digit angka untuk kode mesin atau general, 3 digit angka untuk kode kelompok komponen, 2 digit angka untuk kode jenis komponen, dan 3 digit angka untuk kode spare part. Pengendalian persediaan di gudang spare part juga masih belum efisien. Pengendalian persediaan usulan dilakukan dengan metode periodic review. Pengendalian persediaan dengan nilai service level 95% untuk kelas A dan kelas B menghasilkan penghematan biaya 8,64% dengan jumlah barang stockout sebanyak 4 jenis. Pengubahan nilai service level 78% pada kelas B menghasilkan penghematan biaya 15.9% dengan jumlah barang stockout sebanyak 9 jenis.",
+  "creators": "MONICA YUNITA",
+  "contributors": "HERRI CHRISTIAN PALIT (Advisor 1); MONIKA INDRIATI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022345/IND/2020; Monica Yunita (25416063)",
+  "subjects": "INVENTORY CONTROL; PRODUCTION PLANNING"
+}

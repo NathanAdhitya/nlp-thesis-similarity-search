@@ -1,0 +1,14 @@
+{
+  "id": "51930",
+  "title": "Perancangan dan pemantauan locker menggunakan KTM berbasis ESP8266",
+  "abstract": "Penelitian ini dilatarbelakangi oleh beberapa kasus di mana barang atau komponen hilang saat di rak lab kampus, beberapa kasus di mana salah satu proyek dari mahasiswa rusak karena ditinggal di rak lab kampus, ada juga beberapa kasus di mana barang yang dititipkan di lab tertinggal atau lupa akan barangnya. Hal ini menyebabkan kerugian pada pengguna rak serta kurangnya informasi asisten lab akan barang tersebut. Pada tugas akhir ini, penulis berusaha untuk membuat alat yang bisa berfungsi sebagai sistem keamanan locker dengan menggunakan RFID pada KTM mahasiswa. Alat ini bisa memantau penggunaan locker user, locker nomor berapa yang digunakan dan jam penggunaan locker. Proses pemantauan ini bisa lakukan oleh admin ataupun user itu sendiri. Pengujian dilakukan dengan 3 metode. Pertama, Pengujian hardware yang terdiri dari pengujian alat RFID tanpa dan menggunakan media penghalang. Kedua, pengujian software yang terdiri dari pengujian input, edit, tambah, hapus dan pengujian melakukan monitoringi. Ketiga, pengujian sistem secara keseluruhan.",
+  "creators": "DANIEL IGNATIUS RORY",
+  "contributors": "Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 1); Handry Khoswanto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1); Resmana Lim (Examination Committee 2); Felix Pasila (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010146/ELK/2022; Daniel Ignatius Rory (23416026)",
+  "subjects": "COMPUTER NETWORKS--SECURITY MEASURES; RADIO FREQUENCY IDENTIFICATION SYSTEMS--TECHNOLOGICAL INNOVATIONS"
+}

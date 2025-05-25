@@ -1,0 +1,14 @@
+{
+  "id": "30459",
+  "title": "Perencanaan dan pembuatan pengontrol arah sel photovoltaic untuk penerimaan energi matahari yang maksimum dengan bantuan mikroprosesor Z-80",
+  "abstract": "Kemajuan teknologi khususnya dalam bidang elektronika menyebabkan pemakaian kontrol, baik yang menggunakan mikroprosesor maupun mikrokomputer telah banyak dipakai dalam dunia industri maupun dalam kehidupan sehari-hari. Dengan adanya alat yang dapat mengubah dari suatu besaran yang satu ke besaran yang lain, maka apa yang semula tidak dapat diaplikasikan, menjadi sangat berguna. Salah satu peralatan itu adalah Transducer Photovoltaic yang dapat mengubah energi matahari menjadi tegangan listrik yang mudah diaplikasikan. Dalam tugas akhir ini akan dibuat suatu alat, di mana mikroprosesor Z80 akan diaplikasikan untuk mengendalikan motor stepper dalam mengatur posisi panel photovoltaic untuk penerimaan cahaya yang paling optimal setiap saat. Pengendalian ini ditunjang oleh komponen memori, PPI 8255, ADC dan beberapa komponen yang lain. Prinsip kerja alat ini adalah memantau arah datangnya cahaya. Darimana intensitas yang paling besar, ke arah ini panel photovoltaic akan bergerak.",
+  "creators": "DAVID TANA",
+  "contributors": "NAWANTO WIBOWO (Advisor 1); Heri Saptono Warpindyasmoro (Advisor 2); HANDAYANI T. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/022/0081; David Tana (485069)",
+  "subjects": "SOLAR ENERGY; MICROPROCESSORS"
+}

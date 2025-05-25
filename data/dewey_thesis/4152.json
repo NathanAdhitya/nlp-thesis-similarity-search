@@ -1,0 +1,14 @@
+{
+  "id": "4152",
+  "title": "Sistem penggajian buruh produksi PT Wim Cycle",
+  "abstract": "PT. Wim Cycle merupakan perusahaan swasta yang bergerak di bidang produksi sepeda, proses produksi dilaksanakan di Bambe Gresik dengan buruh produksi yang dibedakan dalam beberapa divisi dalam departemen produksi yang digaji secara mingguan. Konsep perancangan sistem penggajian buruh ini mengacu pada komponen-komponen buruh produksi harian. Sistem dibuat dengan sistem multi user dan menggunakan program Visual Basic 6 dan SQL Server 2000 dan Windows 98 sebagai OS. Perancangan sistem memiliki komponen seperti data identitas buruh, gaji pokok buruh dan sub komponennya seperti uang makan, uang transport, tunjangan keahlian, uang lembur, juga absensi buruh dan sub komponennya seperti absensi harian untuk memperoleh data absensi dalam absensi mingguan yang diperlukan untuk digunakan dalam penghitungan gaji, absensi mingguan yang mengolah data absensi untuk penghitungan gaji dalam kurun waktu satu minggu, dan juga komponen lainnya yang dikomposisikan menjadi satu kesatuan dalam sistem. Dengan adanya sistem baru ini operator dapat menginputkan data identitas dan data absensi buruh dengan lebih teratur dan lebih aman untuk proses penghitungan gaji. Sehingga dengan adanya sistem ini dapat meningkatkan kinerja menjadi lebih efisien dan lebih produktif bagi perusahaan.",
+  "creators": "INGE KUSUMAWATI LUKMAN",
+  "contributors": "Kartika Gunadi (Advisor 1); Silvia Rostianingsih (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0050/INF/2003; Inge Kusumawati Lukman (26498056)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN"
+}

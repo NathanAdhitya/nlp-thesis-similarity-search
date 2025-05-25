@@ -1,0 +1,14 @@
+{
+  "id": "21894",
+  "title": "Pengendalian aktivitas produksi dengan hiearchical production planning di PT. X",
+  "abstract": "Perencanaan produksi sangat diperlukan oleh suatu perusahaan dalam menghadapi tingkat permintaan yang tidak menentu dan pasar. Tujuan dari tugas akhir ini adalah membuat suatu perencanaan produksi untuk produk bola dengan menggunakan perencanaan produksi hirarki. Perencanaan produksi hirarki adalah suatu perencanaan produksi dengan men-dekomposisi-kan perencanaan produksi berskala besar ke dalam subproblem yang lebih kecil,dan menyelesaikan masing-masing subproblem tersebut dan menghubungkan hasilnya dengan suatu cara yang terkoordinasi. Produk bola dibagi dalam 4 tipe dan dari 4 tipe tersebut terbagi lagi menjadi 13 famili, dimana nap famili terdiri dari satu item. Dan data penjualan dilakukan peramalan dengan menggunakan metode peramalan dekomposisi. Hasil peramalan data penjualan, data waktu, dan data biaya digunakan untuk perencanaan agregat dari 4 tipe produk yang ada. Kemudian dilakukan perencanaan disagregat famili, dan ukuran lot untuk tiap famili. Kemudian dilakukan penjadwalan dengan metode heuristik.",
+  "creators": "DIAN ARIESTA WIDHANTO",
+  "contributors": "Siana Halim (Advisor 1); Indriati Njoto Bisono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 501/TI-092/2001; Dian Ariesta Widhanto (25497050)",
+  "subjects": "PRODUCTION PLANNING; SCHEDULLING (MANAGEMENT)"
+}

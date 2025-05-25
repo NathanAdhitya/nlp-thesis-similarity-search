@@ -1,0 +1,14 @@
+{
+  "id": "14827",
+  "title": "Pengaturan dan pendeteksian sensor terpadu pada aplikasi sistem keamanan rumah",
+  "abstract": "Dengan semakin majunya teknologi dan tingkat kehidupan manusia, maka semakin maju pula tingkat kejahatan yang mungkin timbul di dunia ini. Berlandaskan dari pikiran tersebut maka untuk meningkatkan keamanan dan privasi seseorang dibutuhkan suatu sistem keamanan yang efekiif dan cukup ekonomis untuk dapat melindungi dan mendeteksi adanya ancaman. Sistem keamanan yang dibuat ini dapat mendeteksi adanya seseorang dalam suatu ruangan, mendeteksi adanya pendobrakan terhadap pintu atau jendela, dan mendeteksi adanya asap yang berlebihan. Bila salah satu atau semua sensor menangkup adanya gangguan maka sistem akan menampilkan status gangguan tersebut di layar monitor PC. Sensor gerakan mampu mendeteksi gerakan sampai pada jarak maksimal sekitar 9 meter. Sensor getar untuk mendeteksi pintu dan jendela akan aktif bila objek bergeser sekitar 10 cm. Dan sensor asap mampu mendeteksi asap bila dalam ruangan terdapat asap yang berlebihan, sedang bila kadar asap biasa-biasa saja sensor tidak akan aktif. Bila seseorang hendak masuk maka terlebih dahulu harus memberikan akses lewat kartu magnetik. Bila akses diterima maka sistem akan mematikan semua sensor yang terpasang. Sedangkan bila akses ditolak maka sensor akan tetap aktif dan siap mendeteksi adanya gangguan. Tampilan sistem yang dihubungkan ke PC bertujuan untuk pengembangan lebih laniut. Dimana sistem ini bisa dikembangakn untuk berkomunikasi dengan aparat keamanan lewat internet. Dan juga tampilan untuk sistem bisa dikembangkan dalam bentuk tampilan tiga dimensi. Walaupun sederhana tetapi diharapkan sistem ini dapat berguna untuk mengurangi ancaman bahaya terhadap privasi seseorang.",
+  "creators": "GONDO HANDOKO",
+  "contributors": "IRWAN SAHLI (Advisor 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 0/E/EL/029/466; Gondo Handoko (23495025)",
+  "subjects": "DETECTORS-COMPUTER PROGRAMS; INTEL AT81C51 (MICROCONTROLLER)"
+}

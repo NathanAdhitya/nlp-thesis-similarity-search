@@ -1,0 +1,14 @@
+{
+  "id": "8840",
+  "title": "Perancangan dan pembuatan data warehouse dan aplikasi online analitycal processing untuk bank \"X\"",
+  "abstract": "Sistem informasi yang digunakan oleh Bank \"X\" merupakan sistem informasi yang menggunakan aplikasi database sederhana dan berbasis DOS. Untuk melakukan sebuah analisis, pihak bank harus mengambil data dari laporan yang dihasilkan oleh aplikasi tersebut sesuai dengan keperluan dan kemudian dipindahkan dalam Microsoft Excel untuk melakukan penghitungan analisis yang diperlukan. Berdasarkan latar belakang permasalahan dan kebutuhan yang dihadapi oleh Bank \"X\", maka dilakukan perancangan dan pembuatan data warehouse dan aplikasi OLAP antara lain Loan To Deposit Ratio, Liquidity Ratio, Non Performance Loan, Cash Adequacy Ratio, Cash Ratio, Earning Ratio, Return of Assets, dan Return of Equity, dimana proses pembuatannya menggunakan Borland Delphi 7 sebagai bahasa pemrograman dan desain interface, serta Microsoft SQL Server 2000 sebagai media penyimpanan data untuk data warehouse. Untuk hasil yang diperoleh dari program yang telah dibuat antara lain adalah beberapa perhitungan analisis yang dibutuhkan oleh pihak bank. Selain itu, data dan laporan yang dihasilkan dapat dilihat dalam beberapa sudut pandang dan disertai dengan grafik yang bersifat tiga dimensi. Kelebihan yang lain dari program ini adalah pihak bank bisa menambahkan rumus perhitungan yang analisisnya bisa dilakukan lewat program yang telah dibuat.",
+  "creators": "BENNY CANDRA GUNAWAN",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Silvia Rostianingsih (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010609/INF/2007; Benny Candra Gunawan (26403117)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

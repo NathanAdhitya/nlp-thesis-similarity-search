@@ -1,0 +1,14 @@
+{
+  "id": "3272",
+  "title": "Penjadwalan di PT. Intertrend Utama",
+  "abstract": "PT. Intertrend Utama yang berlokasi di desa Buduran Sidoarjo, adalah perusahaan yang memproduksi garden furniture, dimana produk-produknya terbuat dari kayu. Perusahaan ini bersifat job order dan perusahaan ini memiliki konsumen yang semuanya berasal dari luar negeri. Perusahaan ini sudah memiliki sistem penjadwalan yang didasarkan atas due date produk, dan proses re-scheduling dilakukan tiap minggu sekali. Jadwal yang disusun dapat segera dilaksanakan pada proses produksi, tapi pada divisi drilling yang terdiri dari beberapa buah mesin, jadwal yang telah disusun tidak dapat langsung diterapkan, disebabkan divisi drilling memiliki lingkungan mesin openshop, dimana penjadwal tidak dapat menentukan urutan proses yang baku. Hal tersebut menyebabkan waktu total proses yang terjadi bertambah besar dan adanya mesin yang menganggur yang menyebabkan utilitas mesin menurun. Berdasarkan keadaan tersebut, maka dilaksanakan analisa penjadwalan pada divisi drilling untuk membuat suatu jadwal yang meminimumkan makespan, dimana semakin kecil nilai makespan, maka semakin tinggi utilitas mesin-mesin yang digunakan dan waktu menganggur semakin kecil. Jadwal yang akan disusun menggunakan Evolutionary Algorithm, dimana metode ini mencari kromosom(kandidat solusi) dari suatu populasi kromosom yang sesuai dengan fitness function-nya, yaitu memiliki nilai makespan yang paling minimum. Hasil yang didapatkan dari Evolutionary Algorithm merupakan solusi (jadwal) yang paling optimal bila dibandingkan dengan solusi-solusi yang lain dalam satu populasi. Solusi atau jadwal yang paling optimal adalah jadwal yang memiliki makespan paling minimum. Hasil dari tugas akhir ini menunjukkan terjadi penurunan makespan sebesar 12.76% dari jadwal perusahaan.",
+  "creators": "YOPI WIJAYA",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Julianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 01/0688/IND/2003; Yopi Wijaya (25498047)",
+  "subjects": "PRODUCTION SCHEDULING"
+}

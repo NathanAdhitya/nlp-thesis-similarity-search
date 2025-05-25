@@ -1,0 +1,14 @@
+{
+  "id": "22069",
+  "title": "Server basis data dan aplikasi J2ME pencari informasi musik",
+  "abstract": "Mendengarkan musik merupakan hal yang umum bagi masyarakat terutama bagi mereka yang merupakan penikmat musik. Kemajuan teknologi dalam membuat perangkat mobile dapat digunakan sebagai pemberi informasi yang efisien. ID3 adalah metadata pada file MP3 yang berisi informasi mengenai file MP3 itu sendiri. Masalah yang dihadapi masyarakat adalah bagaimana mendapatkan informasi musik dengan tepat dengan penggalan informasi yang diketahui. Solusi yang diberikan adalah server basis data dan aplikasi J2ME pencari musik. Data didapatkan dari ID3 yang kemudian dimasukkan ke dalam entitas yang sesuai pada server basis data. Aplikasi J2ME pencari musik meminta data kepada server sesuai dengan kategori dan kata kunci pencarian yang dimasukkan oleh pengguna, kemudian server memberikan hasil pencarian yang tepat. Pengujian yang dilakukan pada adalah ekstraksi paket informasi ID3 dari file MP3 sebagai proses pengisian data pada server basis data yang kemudian diakses pengguna untuk mencari informasi. Aplikasi J2ME pencari musik dapat digunakan pada telepon genggam dengan platform symbian S60v3.2, S60v9.1, UIQ symbian.",
+  "creators": "JIE YOGI ADITYA",
+  "contributors": "Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010103/ELK/2011; Jie Yogi Aditya (23407018)",
+  "subjects": "WEBSITES-DESIGN; DATABASE MICROSOFT SQL SERVER; DATABASE DESIGN"
+}

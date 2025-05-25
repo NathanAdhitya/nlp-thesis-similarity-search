@@ -1,0 +1,14 @@
+{
+  "id": "8879",
+  "title": "People counter menggunakan web camera",
+  "abstract": "Setiap tempat yang banyak dikunjungi oleh orang, membutuhkan data-data tentang jumlah pengunjung. Data ini diperlukan agar dapat mengelola tempat tersebut dengan lebih baik. Oleh karena itu dibuatlah program perhitungan orang dengan menggunakan web cam. Bahasa pemrograman yang dipakai adalah Microsoft Visual C++ 6.0, Intel Performance Library, dan Open Source Computer Vision Library. Metode yang digunakan adalah proses subtract antara background dengan frame yang ditangkap oleh kamera. Hasil subtract tersebut menampilkan gambar dari obyek yang tidak terdapat dalam background. Luasan obyek tersebut dihitung untuk mengetahui apakah obyek tersebut orang atau bukan, selanjutnya digunakan algoritma perhitungan untuk menghitung orang yang pernah lewat. Dari hasil pengujian didapatkan bahwa untuk dapat menghitung orang dengan benar dibutuhkan pencahayaan ruangan yang sedang dan background yang tidak memantulkan bayangan dari orang yang lewat.",
+  "creators": "JIMMY GUNAWAN",
+  "contributors": "Resmana Lim (Advisor 1); YOHANES T. D. S (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/602/ELK/2003; Jimmy Gunawan (23498055)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

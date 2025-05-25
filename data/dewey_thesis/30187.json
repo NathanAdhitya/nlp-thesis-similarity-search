@@ -1,0 +1,14 @@
+{
+  "id": "30187",
+  "title": "Perencanaan dan pembuatan image scanner pada IBM-PC dengan bantuan microcontroller 8031",
+  "abstract": "Image Scanner adalah suatu alat yang berfungsi untuk memindahkan detail gambar pada selembar kertas ke dalam layar monitor, pada sebuah komputer IBM-PC. Image Scanner adalah kesatuan proses yang meliputi pembacaan data gambar oleh sensor, penggambaran kembali pada layar monitor, penyimpanan dan pengambilan data gambar pada disket, serta pencetakan kembali melalui sebuah printer. Di dalam sistem penggerak mekanisnya, Image Scanner yang dibuat ini memakai suatu chip buatan Intel yaitu Microcontroller keluarga MCS-51, 8031. Dengan sistem yang ada padanya, 8031 merupakan suatu chip yang sangat handal untuk pengoperasian kontrol suatu interface. Untuk kebutuhan mekanisne gerak sensor dan kertas, dipergunakan dua buah stepper motor yang banyak terdapat di pasaran. Sedang sebagai sensor scanning dipergunakan pasangan optik infra merah. Sistem perangkat lunak yang digunakan adalah dengan bahasa tingkat tinggi yaitu Turbo Pascal untuk menjalankan Image Scanner dari IBH-PC, sedangkan bahasa tingkat rendah (low level) adalah assembly dari 8031 sebagai microcontroller pembantu. Kesalahan yang dapat terjadi diakibatkan oleh keterbatasan sensor infra merah dalam mendapatkan titik fokus yang sekecil mungkin selama proses scanning.",
+  "creators": "STEPHANUS INDRAKUSUMA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Resmana Lim (Advisor 2); HANDAYANI T. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/018/0139; Stephanus Indrakusuma (23488014)",
+  "subjects": "INTEL 8031 (MICROCONTROLLER); MICROCOMPUTERS; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

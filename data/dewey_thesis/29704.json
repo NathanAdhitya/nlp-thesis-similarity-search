@@ -1,0 +1,14 @@
+{
+  "id": "29704",
+  "title": "Perbandingan aplikasi menggunakan metode camellia 128 bit key dan 256 bit key",
+  "abstract": "Perkembangan internet yang pesat saat ini menyebabkan tingginya tingkat resiko dalam pembajakan data. Salah satu cara mengamankan data dengan menggunakan kriptografi camellia. Camellia dikenal sebagai metode yang memiliki waktu enkripsi dan dekripsi yang cepat. Metode Camellia memiliki 3 macam besaran key yaitu 128-bit, 192-bit, dan 256-bit. Aplikasi ini dibuat dengan menggunakan bahasa pemrograman c++ dan menggunakan GUI visual studio 2010. Penelitian ini membandingkan besaran kunci terkecil dan terbesar yang digunakan pada file berekstensi .txt, .doc, .docx, .jpg, .mp4, .mkv, dan .flv. Aplikasi ini dibuat untuk mengetahui perbandingan waktu dan tingkat keamanan pada penggunaan kunci 128 bit dan 256 bit. Perbandingan keamanan dilakukan dengan membandingkan hasil nilai avalanche effect untuk kunci 128 bit dan 256 bit.",
+  "creators": "LANNY SUTANTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021331/INF/2014; Lanny Sutanto (26409008)",
+  "subjects": "CRYPTOGRAPHY-COMPUTER PROGRAM; CRYPTOGRAPHY"
+}

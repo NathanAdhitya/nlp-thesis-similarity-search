@@ -1,0 +1,14 @@
+{
+  "id": "1414",
+  "title": "Sistem sekuriti untuk rumah sarang burung walet yang dimonitor menggunakan transceiver FM",
+  "abstract": "Budidaya burung walet merupakan bisnis yang menggiurkan, satu kilo sarang burang walet dapat bernilai puluhan juta, akibatnya rumah sarang burung walet merupakan sasaran empuk para pencuri. Cara pencuriannya beraneka ragam antara lain: menggali terowongan dalam tanah, melubangi dinding, masuk dari atap, plafon dan pintu. Tujuan tugas akhir ini adalah membuat sistem sekuriti yang mampu mengetahui masuknya orang yang tidak diundang dari segala arah, oleh karena itu sensor-sensor akan diletakkan ditempat-tempat yang rawan. Pada perencanaan perangkat keras dibuat sensor-sensor seperti sensor saklar magnetik yang dipasang dipintu masuk, pendeteksi gerak yang dipasang di plafon, pendeteksi getar yang dipasang dilantai, detektor photo beam yang dipasang dipintu antar kamar, selain itu juga ada power suplai detektor untuk mendeteksi padamnya listrik PLN dan battery level sensing untuk mendeteksi level tegangan baterai cadangan. Selain itu juga terdapat remote untuk mengakses sistem sekuriti ini. Sensor-sensor tersebut terhubung dengan sebuah kontroler. Kontroler tersebut akan mengirimkan kondisi sensor-sensor berupa sinyal FSK melalui peraancar FM. Sinyal FSK tersebut akan diterima oleh kontroler lain melalui penerima FM dan ditampilkan di LED indicator, jadi jika ada sensor yang aktif, LED indicator akan menyala. Pada pengujian sensor-sensor tidak terjadi kesalahan. Sedangkan pada pengujian transmisi data pada jarak pancar 15m terjadi kesalahan sebesar 22,22% dan pada jarak pancar 20m terjadi kesalahan sebesar 44,44%. Hal ini menandakan daya keluaran dari pemancar FM yang lemah. Dengan melihat hasil pengujian, sensor-sensor bekerja dengan baik, akan tetapi terdapat kelemahan pada bagian sistem monitoring yaitu pada transceiver FM. Dalam aplikasinya nanti, pemancar FM dapat diganti dengan alat komunikasi lainnya, sehingga gangguan yang berasal dari pemancar FM dapat dihilangkan.",
+  "creators": "TEGUH WIBISANA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/021/567; Teguh Wibisana (23497072)",
+  "subjects": "DETECTORS; SIGNAL DETECTION"
+}

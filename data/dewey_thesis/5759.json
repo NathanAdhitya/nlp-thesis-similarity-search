@@ -1,0 +1,14 @@
+{
+  "id": "5759",
+  "title": "Pembuatan clamp amperemeter (tang ampere) dengan 7-segment",
+  "abstract": "Untuk mengukur besarnya arus yang melewati sebuah rangkaian dengan menggunakan amperemeter konvensional sedikit mengalami kesulitan, dimana rangkaian yang ada harus dipotong terlebih dahulu. Dengan memotong kemudian menyambung kembali rangkaian, maka akan menyebabkan harga resistansi pada rangkaian atau kabel akan meningkat. Sehingga arus yang melewati rangkaian tersebut akan semakin kecil. Dilihat dari sudut pandang estetika, kabel yang terpotong kemudian disambung kembali akan terlihat kurang menarik. Oleh karena itu, untuk mempermudah pengukuran arus listrik yang melewati sebuah kabel dapat menggunakan clamp ampere (tang jepit). Dimana kabel yang ada tidak perlu dipotong, tetapi cuma dikalungi saja. Proses kerja dari alat ini adalah arus yang melewati kabel tersebut akan menyebabkan fluks magnetik pada kumparan, sehingga timbul beda tegangan pada kedua ujung kawat. Tegangan AC yang dihasilkan kecil, jadi harus diperbesar kemudian diubah menjadi tegangan DC. Output ini kemudian dihubungkan dengan ICL 7107 sebagai konverter dari data analog menjadi digital sekaligus berfungsi sebagai display. Dari hasil pengujian sistem didapatkan sistem bersifat linier. Dari hasil pengujian tang jepit dibandingkan dengan hasil pengujian dengan menggunakan amperemeter konvensional, error yang terjadi cukup kecil yaitu 2.261 %.",
+  "creators": "RUDYANTO SARMIENTO P B",
+  "contributors": "Hany Ferdinando (Advisor 1); Handry Khoswanto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010769/ELK/2006; Rudyanto Sarmiento (23499034)",
+  "subjects": "ELECTRIC MEASUREMENTS"
+}

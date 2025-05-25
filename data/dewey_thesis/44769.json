@@ -1,0 +1,14 @@
+{
+  "id": "44769",
+  "title": "Sistem penggajian dan penilaian kinerja karyawan (studi kasus PT X)",
+  "abstract": "PT X adalah sebuah perusahaan yang bergerak di bidang produksi tisu sejak tahun 1995 di daerah Jawa Timur. Departemen HRD yang bertanggungjawab dalam proses penggajian dan penilaian kinerja karyawan melakukan proses ini dengan cara manual dan menggunakan banyak kertas dalam pencatatannya yang mengakibatkan waktu pemrosesan yang lama dan rentan untuk terjadinya kesalahan perhitungan dan pencatatan. Dari permasalahan yang tersebut, maka PT X membutuhkan sistem yang terintegrasi dengan kehadiran (presensi, cuti/ijin), dan penilaian kinerja karyawan dengan tujuan menolong PT X mengurangi waktu proses perhitungan gaji dan penilaian kinerja karyawan. Pada skripsi ini dirancang sebuah sistem penggajian dan penilaian kinerja karyawan untuk menolong PT X melaksanakan proses penggajian dan penilaian kinerja di perusahaannya. Perancangan sistem ini juga didahului dengan melakukan analisa dan desain terhadap alur penggajian dan penilaian kinerja PT X dengan cara melakukan proses wawancara dengan HRD, peninjauan peraturan UU yang berhubungan terhadap sistem penggajian, dan pembuatan Data Flow Diagram beserta Entity Relation Diagram. Sistem dibuat berbasis website dengan menggunakan HTML, JavaScript, database MySQL yang diakses dengan Bahasa Go. Hasil akhir yang diperoleh adalah sebuah sistem informasi yang dapat menolong PT X melakukan proses permohonan ijin dan persetujuannya, proses permohonan pinjaman, proses import file presensi, proses lembur, dan menggunakannya untuk dasar perhitungan gaji karyawan dan penilaian kinerja karyawan. Perbandingan perhitungan gaji yang antara manual dan yang dihasilkan sistem telah sesuai dan akurat. Berdasarkan hasil kuesioner yang diisi oleh pengguna sistem menunjukkan bahwa sistem telah sesuai dengan kebutuhan PT X 100% baik (tiga dari tiga responden), dan tampilan sistem 66,66% baik (dua dari tiga responden).",
+  "creators": "YOSIA ALEXANDER CHRISTIAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Yulia (Advisor 2); Alexander Setiawan (Examination Committee 1); Silvia Rostianingsih (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021900/INF/2019; Yosia Alexander Christian (26415081)",
+  "subjects": "PERSONNEL MANAGEMENT; PERFORMANCE; WAGES"
+}

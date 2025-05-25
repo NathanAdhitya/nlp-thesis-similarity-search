@@ -1,0 +1,14 @@
+{
+  "id": "21785",
+  "title": "Perancangan dan pembuatan aplikasi segmentasi citra digital dalam representasi HSV",
+  "abstract": "Segmentasi citra digital merupakan proses pembagian suatu citra digital ke beberapa bagian. Tujuan dari segmentasi ini adalah untuk mempermudah ataupun mengubah dari suatu citra digital ke bagian yang lebih berarti dan mudah untuk dianalisa. Kebanyakan proses segmentasi dilakukan dalam representasi RGB. Oleh karena itu, pada skripsi ini, dilakukan pembuatan aplikasi segmentasi citra digital dengan representasi HSV. Adapun proses yang dilakukan adalah sebagai berikut: citra digital di-load ke aplikasi, proses mengubah representasi citra digital dari RGB ke HSV, proses pencarian titik-titik centroid dengan maximin algorithm, proses clustering dengan K-Means, dan post processing terhadap hasil clustering untuk menghilangkan noise dan detail yang tidak diperlukan. Aplikasi ini dibuat dengan C# .Net dengan Microsoft Visual Studio 2005 sebagai IDE-nya. Hasil pengujian menunjukkan bahwa hasil segmentasi dipengaruhi oleh titik-titik centroid. Penentuan jumlah centroid yang tepat, memberikan hasil segmentasi yang teratur dan jelas. Faktor yang mempengaruhi centroid dapat dari itensitas cahaya dan macam warna pada citra digital.",
+  "creators": "ANTHONY WIDIANTO",
+  "contributors": "Kartika Gunadi (Advisor 1); Rudy Adipranata (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021034/INF/2011; Anthony Widianto (26407091)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

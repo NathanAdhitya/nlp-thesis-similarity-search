@@ -1,0 +1,14 @@
+{
+  "id": "16788",
+  "title": "Viskosimenter dengan metode pengadukan berbasis minimum sistem 8088",
+  "abstract": "Viskositas atau kekentalao suatu zat cair adalah besaran fisika yang sangat penting dalam proses industri. Dalam industri percetakan maka ketebalan cetak sangat tergantung dari kekentalan tinta. Dalam industri perminyakan, kekentalan oli adalah sangat penting. Dan masih banyak lagi kegunaan dari nilai viskositas inL Mengingat pentingnya nilai viskositas maka dikembangkan berbagai macam metode pengukuran viskositas, misalnya metode bola jatuh, metode Zahn dan lain sebagainya. Kelemahan dari kebanyakan metode pengukuran tersebut adalah masih manual. Tujuan tugas akhir ini adalah mencoba untuk membuat alat ukur viskometer elektronis dengan metode pengadukan zat cair. Diharapkan dengan viskometer elektronik ini pengukuran viskositas menjadi lebih efisien. Cara kerja dari viskosimeter elektronis yang dibuat di sini adalah sebagai berikut: lengan sudu-sudu yang digerakan motor dengan kecepatan konstan dimasukan dalam zat cair dalam suatu wadah. Kemudian dengan sensor putaran diukur berapa cepat putaran motor. Dari sensor putaran, frekuensi putaran dirubah menjadi besaran tegangan oleh frequency to voltage converter dan kemudian dilewatkan ADC untuk mendapatkan data digital. Data ini akan dikonversikan ke dalam nilai viskositas dan frekuensi putaran. Selanjutnya keduanya ditampilkan pada display Selain dari pengukuran di atas, viskosimeter elektronik ini juga dilengkapi dengan sensor suhu untuk mengukur suhu cairan. Dari pengujian yang dilakukan tampak bahwa alat mampu mengukur viskositas dengan baik pada range 40-160 Cerrtipoise dengan asumsi bahwa error yang diijinkan adalah kurang dari ?10 % dari nilai viskositas hasil percobaan bola jatuh. Dari hasil yang lain pengujian tampak juga bahwa putaran sudu-sudu tidak mempengaruhi temperatur cairan yang diuji dan bentuk sudu-sudu yang baik adalah berbentuk silinder. Kelemahan dari alat yang dibuat ini adalah kurang baiknya sistem mekanik yang digunakan sehingga untuk cairan yang encer akan timbul bending akibat cepatnya putaran motor, sehingga kurang bagus untuk mengukur viskositas cairan yang relatif encer.",
+  "creators": "AGUS PRAJITNO",
+  "contributors": "Resmana Lim (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/045/390; Agus Prajitno (23493002)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; VISCOSIMETER-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5600",
+  "title": "Perancangan dan pembuatan sistem penggajian pada perusahaan Jaya Logam",
+  "abstract": "Sistem personalia yang diterapkan pada perusahaan Jaya Logam merupakan gabungan antara sistem manual dan sistem komputer sederhana. Hal ini terlihat dari penyimpanan data personalia menggunakan aplikasi Microsoft Excel karena bagian personalia tidak memiliki aplikasi database, dimana hal ini memperlambat proses, tidak efisien, dan memperbesar resiko kesalahan manusia Berdasarkan latar belakang permasalahan yang dihadapi oleh bagian personalia tersebut, maka dilakukan perancangan aplikasi berbasis database dengan menggunakan Borland Delphi 6 sebagai bahasa pemrograman dan desain interfacenya, serta Microsoft Access 2000 sebagai tempat penyimpanan data. Perancangan sistem memiliki komponen seperti data identitas karyawan, gaji pokok karyawan dan komponen lainnya seperti uang makan, uang transport, uang lembur, juga absensi karyawan dan komponen seperti absensi harian untuk memperoleh data absensi dalam absensi mingguan yang diperlukan untuk digunakan dalam penghitungan gaji, dan absensi bulanan yang mengolah data absensi untuk penghitungan gaji dalam waktu satu bulan. Hasil dari pembuatan program ini adalah sistem absensi dengan menggunakan barcode reader dan perhitungan dalam proses penggajian karyawan. Melalui perangkat lunak ini, sebagian besar data kepegawaian dapat tersimpan dengan rapi dalam struktur database yang terjamin keamanannya. Informasi-informasi dapat dicetak dan dipakai oleh pihak-pihak yang membutuhkannya.",
+  "creators": "CHENG MEI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000220/INF/2004; Cheng Mei (26400055)",
+  "subjects": "DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

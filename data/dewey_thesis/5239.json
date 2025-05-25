@@ -1,0 +1,14 @@
+{
+  "id": "5239",
+  "title": "Jam digital dengan output suara",
+  "abstract": "Pembuatan tugas akhir ini didasarkan dari keinginan untuk mempermudah orang buta untuk mengetahui waktu dengan mudah. Oleh karena itu dibuat jam digital yang dapat mengeluarkan suara. Dengan penambahan kemampuan untuk menyatakan hari, tanggal dan alarm membuat jam tersebut menjadi lebih lengkap. Jam ini dibuat dengan menggunakan sebuah mikrokontroler yang mengatur komponen lainnya, seperti LCD ( Liquid Crystal Display ), RTC ( Real Time Clock ) dan APR6008 ( IC suara ). Data waktu, hari dan tanggal diambil dari RTC ditampilkan pada LCD dan suara disimpan di APR6008. Jam ini menggunakan dua macam power supply, yaitu baterai 9 volt atau supply 9 volt. Jam ini dilengkapi dengan keypad untuk mengontrol jam tersebut, antara lain untuk mengatur jam, hari, tanggal maupun alarm, dan untuk membunyikan suara yang menunjukkan waktu atau tanggal sekarang. Dari hasil penelitian didapat ketepatan waktu yang cukup baik, sehingga tidak perlu sering mencocokkan jam maupun menitnya. Suara yang dikeluarkannya cukup keras sehingga dapat didengar pemakai hingga jarak lebih kurang dua meter.",
+  "creators": "ANTON SUGIYANTO",
+  "contributors": "Thiang (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/618/ELK/2003; Anton Sugiyanto (23497036)",
+  "subjects": "MICROCONTROLLERS; ELECTRONIC WATCHES, DIGITAL"
+}

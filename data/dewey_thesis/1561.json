@@ -1,0 +1,14 @@
+{
+  "id": "1561",
+  "title": "Perancangan dan pembuatan software pendukung bermain gitar menggunakan aplikasi optical character recognition",
+  "abstract": "Pada Tugas Akhir ini dirancang dan dibuat sebuah software pendukung bermain gitar menggunakan aplikasi Optical Character Recognition (OCR) Software ini dibuat menggunakan program Delphi 5.0 dan sebagai databasenya digunakan program Microsoft SQL Server 7.0. Aplikasi OCR ini digunakan untuk mengenali karakter-karakter yang terdapat dalam buku nyanyian yang telah discan. Proses pengenalan karakter pada software ini menggunakan metode Template Matching, dimana cara kerja metode ini adalah melakukan pattern recognition pada karakter yang ingin dikenali dan membandingkan antara input pattern dengan template yang disimpan. Ada dua jenis proses recognition yang diterapkan dalam pembuatan Tugas Akhir ini yaitu Image Correlation dan Feature Extraction. Image Correlation melakukan pengenalan karakter dengan cara membandingkan gambar input pattern dengan gambar template. Sedangkan Feature Extraction melakukan pengenalan karakter dengan cara membandingkan fitur input pattern dengan fitur template. Teks sebagai hasil pengenalan karakter menggunakan OCR tadi dikenali accord-accord yang terdapat di dalamnya dan ditampilkan gambar cara penempatan jari-jari pada gitar sesuai dengan accord-accord yang ada. Software ini juga dapat mengeluarkan suara petikan-petikan gitar sesuai dengan accord yang ditampilkan. Dengan demikian pembuatan Tugas Akhir ini digunakan untuk membantu para pemain gitar pemula dalam mempelajari accord-accord gitar yang ada.",
+  "creators": "IRWANTORO",
+  "contributors": "Resmana Lim (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0110/INF/2003; Irwantoro (26499019)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECNIQUES"
+}

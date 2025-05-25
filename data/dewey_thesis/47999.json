@@ -1,0 +1,14 @@
+{
+  "id": "47999",
+  "title": "Prototipe filtrasi air otomatis berbasis IoT pada PDAM Surabaya",
+  "abstract": "Pada PDAM Surya Sembada proses filtrasi yang dilakukan oleh PDAM masih menggunakan cara manual atau masih membutuhkan tenaga manusia untuk mengoperasikannya dengan cara membuka valve, menyalakan sistem blower dan pompa untuk pengurasan masih dengan cara manual. Tugas akhir ini bertujuan merubah sistem filtrasi air dari manual menjadi otomatis dengan memanfaatkan Programmable Logic Controller sebagai pengendali dan Raspberry Pi sebagai server dari IoT. Sistem ini dapat melakukan monitoring dan memberikan notifikasi kepada petugas jika terjadi error. Berdasarkan hasil pengujian, sistem telah berjalan sesuai dengan alur program yang dibuat. Notifikasi berhasil terkirim jika salah satu bagian dari sistem tidak mendeteksi adanya aliran air. Notifikasi berhasil terkirim dalam waktu kurang dari 1 menit. Sistem dapat menyimpan waktu dan tanggal terjadinya error ke database MySQL. Antar PLC dapat saling berkomunikasi walaupun berbeda merk. Sensor water level memiliki nilai error sebesar 1,746% dan prototipe ini berhasil melakukan penyaringan pada air yang kotor dengan benda-benda bermassa ringan.",
+  "creators": "JASON HARTONO",
+  "contributors": "Handy Wicaksono (Advisor 1); Handry Khoswanto (Examination Committee 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 2); Felix Pasila (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011000/ELK/2020; Jason Hartono (23416021)",
+  "subjects": "PROGRAMMABLE CONTROLLERS--PROGRAMMING; WATER--PURIFICATION--FILTRATION"
+}

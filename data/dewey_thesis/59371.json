@@ -1,0 +1,14 @@
+{
+  "id": "59371",
+  "title": "Perancangan mekanisme pergantian warna lampu kabut otomatis",
+  "abstract": "Lampu kabut merupakan fitur keselamatan tambahan yang berfungsi untuk membantu pandangan pengemudi saat berkendara di cuaca yang kurang bersahabat, seperti cuaca berkabut, hujan deras, maupun berasap. Saat ini muncul lampu LED untuk lampu kabut yang memiliki dua warna yakni putih dan kuning. Untuk mengganti warna dari cahaya yang dikeluarkan oleh lampu kabut, pengemudi harus menyalakan dan mematikan lampu kabut terlebih dahulu. Oleh karena itu, penulis memiliki inovasi untuk merancang pergantian warna lampu kabut secara otomatis sesuai dengan kondisi cuaca yang sedang berlangsung. Perancangan mekanisme ini menggunakan mikrokontroler Arduino UNO yang telah diprogram dan terkonfigurasi dengan sensor-sensor yang dipakai. Sensor yang dipakai yaitu sensor asap, sensor hujan, dan sensor kelembaban. Jika sensor memiliki nilai yang melebihi atau kurang dari batas yang telah diberikan maka lampu akan berubah menjadi warna kuning maupun warna putih.",
+  "creators": "DERIAN RAMANDA SUTEJA",
+  "contributors": "Ian Hardianto Siahaan (Advisor 1); Roche Alimin (Advisor 2); Joni Dewanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011510/MES/2023; Derian Ramanda Suteja (C12190017)",
+  "subjects": "AUTOMOBILES--LIGHTING--TECHNOLOGICAL INNOVATIONS; AUTOMOBILES-LIGHTING"
+}

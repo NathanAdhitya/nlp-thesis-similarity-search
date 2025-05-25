@@ -1,0 +1,14 @@
+{
+  "id": "51714",
+  "title": "Penerapan segmentasi warna menggunakan k-means clustering untuk pemilihan template dalam pembuatan konten",
+  "abstract": "Kemudahan berbelanja secara daring mengakibatkan berkembangnya tren bisnis online sehingga konten dan konsistensi publikasi menjadi sangat penting untuk menarik perhatian pembeli. Pemilihan warna merupakan proses yang penting dalam pembuatan konten. Akan tetapi, tidak semua orang memiliki kemampuan memilih warna yang tepat, membuat konten yang menarik, serta waktu untuk membuat konten dan mengatur publikasinya. Penelitian Li menggunakan Generative Adversial Networks untuk membantu penataan layout elemen-elemen sebuah desain. Tetapi elemen-elemen tersebut tidak disediakan aplikasi sehingga user masih perlu mendesainnya sendiri. Untuk menjawab permasalahan tersebut, dikembangkan aplikasi pembuatan konten. Pemilihan template dibantu dengan K-Means Clustering yang digunakan untuk mendapatkan warna paling dominan dari sebuah gambar dan Euclidean Distance meneruskan proses perhitungan jarak warna terdekat dari gambar user dengan berbagai desain template tersedia. Adanya fitur tambahan Scheduled Post menjawab masalah keterbatasan waktu untuk publikasi konten. Segmentasi warna K-means terhadap 20 gambar dengan 1 atau 2 warna dominan mendapatkan akurasi 90%. Lima dosen DKV UK Petra menilai ketepatan nuansa warna dari desain template yang terpilih nuansa warna 76% tepat. Pembuatan konten menggunakan aplikasi skripsi lebih cepat 56,18% dibandingkan dengan menggunakan aplikasi serupa. Hasil desain fitur pembuatan konten dibandingkan dengan desain lainnya mendapatkan juara 1 dengan nilai voting 46,66%.",
+  "creators": "WILLY PRATAMA DARMALIM",
+  "contributors": "Liliana (Advisor 1); Silvia Rostianingsih (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Alexander Setiawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022130/INF/2022; Willy Pratama Darmalim (C14170010)",
+  "subjects": "COMPUTER PROGRAMMING; ELECTRONIC COMMERCE--MARKETING; GRAPHIC DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "15164",
+  "title": "Pemanfaatan keyboard pc sebagai papan chatboard pada handphone ericsson T18s",
+  "abstract": "Dengan semakin berkembangnya ilmu pengetahuan dan teknologi dalam bidang telekomunikasi terutama telepon genggam / handphone, mengakibatkan ukuran dari handphone semakin kecil, sehingga sangat menyulitkan untuk melakukan penekanan pada tombol-tombol di handphone tersebut. Oleh karena itu, salah satu produsen handphone yaitu ERICSSON memproduksi alat yang dinamakan chatboard. Namun chatboard juga berukuran kecil dan digunakan untuk fungsi portable. Maka melihat kesulitan yang ada menyebabkan timbulnya ide menggunakan keyboard PC sebagai pengganti fungsi dari chatboard ERICSSON. Secara garis besar prinsip kerja dari alat ini adalah saat tombol di keyboard PC ditekan akan terjadi pengiriman data ke microcontroller AT89C2051. Lalu oleh microcontroller AT89C2051 scan code dari keyboard PC tersebut akan diproses dan diubah menjadi data-data yang sesuai dengan format dari handphone ERICSSON T18s. Tampilan display pada handphone ERICSSON T18s adalah sesuai dengan apa yang diketik pada keyboard PC tersebut. Dan tampilan yang terjadi di display handphone sesuai dengan format dari keypad handphone itu sendiri. Selain itu kecepatan pengetikan dengan mengggunakan keyboard PC sebesar 60 karakter/menit.",
+  "creators": "ANDRI TARUNA JAYADI",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi : No. 01/E/EL/015/529; Andri Taruna Jayadi (23494073)",
+  "subjects": "CHATBOARD; INTEL AT892C2051 (MICROCONTROLLER); KEYBOARDS (ELECTRONICS)"
+}

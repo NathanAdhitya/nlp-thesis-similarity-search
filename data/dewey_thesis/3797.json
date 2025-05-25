@@ -1,0 +1,14 @@
+{
+  "id": "3797",
+  "title": "Bipedal robo",
+  "abstract": "Salah satu cabang dari Mechatronics yang sudah sangat maju baik dalam pengembangan maupun aplikasi pada saat ini adalah Humanoid Robotic. Bipedal Robo adalah salah satu contoh robot humanoid yang menirukan fungsi dan gerakan dari kaki manusia. Buku ini menjelaskan konsep dari pembuatan sebuah Bipedal Robo. Bipedal Robo adalah 2-legged robo (robot berkaki 2), dimana untuk setiap pasang kakinya didisain memiliki 5 DOF (Degree Of Freedom). Gerakan dari Bipedal robo ini dikendalikan melalui sebuah remote control. Untuk membentuk rangka Bipedal Robo yang ringan dan tipis tetapi kuat, maka digunakan material aluminium. Sedangkan untuk aktuator Bipedal Robo digunakan motor servo Futaba S3003, dimana setiap motor servo ini akan dikontrol oleh sebuah sistem kontrol berbasis AVR ATMega8 yang terdiri dari master controller yang berfungsi sebagai ?otak? utama dari sistem dan slave controller yang berfungsi sebagai direct servo controller. Ketika master controller mendapat input-an data dari remote control, maka data tersebut akan diolah oleh master controller dan dari data tersebut master controller akan mengatur sequence dari pengiriman data (posisi masing-masing servo) ke slave controller. Dari pengujian pola berjalan yang dilakukan pada Bipedal Robo yang menggunakan servo Futaba S3003 sebagai aktuator, diperoleh kesimpulan bahwa Bipedal Robo mengalami kesulitan untuk memindahkan dan mengangkat posisi badan karena tidak tersedianya torsi yang cukup dari servo. Sehingga diperlukan servo dengan torsi yang lebih besar agar dapat melakukan pola gerakan dengan baik, misalnya dengan servo Hitec HS-645 MG.",
+  "creators": "SANTOSO RAHARJO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010822/ELK/2006; Santoso Raharjo (23402032)",
+  "subjects": "ROBOTICS"
+}

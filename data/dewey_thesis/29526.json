@@ -1,0 +1,14 @@
+{
+  "id": "29526",
+  "title": "Perancangan dan pembuatan aplikasi sistem informasi administrasi penjualan dan pembelian pada Toko Sejahtera",
+  "abstract": "Toko Sejahtera mengalami kesulitan dalam menangani masalah administrasinya karena pengoperasiannya yang masih manual, yaitu pada transaksi penjualan dan pembelian, pembuatan laporan dan masalah pengeluaran lainnya. Sehingga memungkinkan terjadinya kesalahan dalam melakukan perhitungan nota serta resiko kehilangan dokumen. Hal ini dapat merugikan jika dilakukan setiap hari. Untuk mengatasi masalah yang ada maka didesain dan di implementasikan sistem baru. Sistem baru tersebut didesain menggunakan Data Flow Diagram (DFD) dan Entity Relationship Diagram (ERD) dengan menggunakan Microsoft Visio dan Power Designer, dan diimplementasikan dengan menggunakan Microsoft SQL Server 2012. Sistem yang dibuat meliputi proses transaksi pembelian, proses transaksi penjualan, proses pembuatan laporan laba rugi, membuat kartu stok. Sistem yang dibuat dapat mempermudah Toko Sejahtera untuk mengatasi masalah yang ada dan dapat membantu proses administrasi dari Toko Sejahtera.",
+  "creators": "ARNOLD",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Rudy Adipranata (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021281/INF/2013; Arnold (26409106)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; INFORMATION,STORAGE AND RETRIEVAL SYSTEMS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

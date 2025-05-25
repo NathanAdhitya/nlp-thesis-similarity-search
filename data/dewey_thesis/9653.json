@@ -1,0 +1,14 @@
+{
+  "id": "9653",
+  "title": "Perancangan dan pembuatan aplikasi image stabilizer",
+  "abstract": "Dewasa ini teknologi fotografi telah berkembang pesat. Sekarang banyak digunakan kamera digital sebagai media pengambil gambar. Pengambilan gambar secara digital ini memiliki banyak keuntungan dalam hal penyimpanan. Akan tetapi pada saat pengambilan gambar, kemungkinan dapat terjadi kegagalan akibat goncangan kamera sehingga gambar yang diambil menjadi kabur (blurred). Oleh karena itu, pada Tugas Akhir ini, dibuat aplikasi untuk melakukan perbaikan atas gambar yang kabur akibat goncangan kamera. Sebelum dilakukan perbaikan gambar, terlebih dahulu perlu ditemukan penyebab kekaburan gambar (Point Spread Function). Setelah ditentukan penyebab kekaburan gambar tersebut, dilakukan proses perbaikan gambar berdasarkan penyebabnya. Proses pencarian penyebab kekaburan gambar dan perbaikan yang dilakukan dibuat berdasarkan paper Removing Camera Shake from A Single Photograph dan metode Unsharp Mask. Aplikasi dibuat menggunakan Microsoft Visual C++ 6.0. Hasil pengujian menunjukkan bahwa proses image stabilization sangat bergantung pada input yang diberikan. Untuk metode paper Removing Camera Shake from A Single Photograph, input yang memengaruhi proses adalah blur width, patch area yang dipilih, dan jumlah iterasi perbaikan. Bila blur width dan patch area yang dipilih sesuai dengan keadaan gambar, proses image stabilization akan menghasilkan output dengan kualitas tajam. Jumlah iterasi perbaikan yang dilakukan juga harus disesuaikan dengan keadaan gambar yang ada.",
+  "creators": "JANUAR WIJAYA",
+  "contributors": "Rudy Adipranata (Advisor 1); Kartika Gunadi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010699/INF/2008; Januar Wijaya (26404043)",
+  "subjects": "VISUAL C++ (COMPUTER PROGRAM)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "25553",
+  "title": "Rancang bangun prototype otomasi gerakan pemotongan yang dilakukan oleh mesin las dengan bantuan IBM PC",
+  "abstract": "Industri dewasa ini banyak menggunakan kemajuan bidang elektronika. Hal ini disebabkan karena pengoperasiannya akan lebih mudah dan dapat diperoleh hasil yang lebih teliti. Selain itu kesehatan dan keselamatan kerja para karyawan lebih terjamin. Industri perakitan mesin dan industri lain yang banyak berhubungan dengan mekanik, biasanya banyak menggunakan mesin-mesin berat. Sedangkan mesin-mesin tersebut dewasa ini sudah banyak menggunakan sistim digital. Salah satu mesin tersebut dibahas dalam pembuatan tugas akhir ini. Untuk sistim kontrol dari prototype mesin potong ini dilakukan oleh komputer IBM PC. Sedangkan untuk menggerakkan mesinnya digunakan motor stepper, pergerakan mesin ini dibantu dengan sistim belt. Data dimasukkan lewat mouse, di mana benda kerja yang diiinginkan dibaca oleh mouse, lalu dikirim ke komputer untuk diolah dan data tersebut dimasukkan dalam suatu array. Kemudian data tersebut dikeluarkan lewat PPI card dan data ini diubah dalam bentuk pulsa yang mendrive motor stepper. Jadi dari benda kerja yang diinginkan akan didapatkan hasil yang sebenarnya pada mekanik tersebut. Untuk pengembangan selanjutnya dapat dilakukan dari sistim tersebut.",
+  "creators": "SRIJONO",
+  "contributors": "SUPENO DJANALI (Advisor 1); MOCHAMAD HEROE (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/031/0121; Srijono (14487079)",
+  "subjects": "AUTOMATIC CONTROL; IBM PC (COMPUTER)"
+}

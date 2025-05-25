@@ -1,0 +1,14 @@
+{
+  "id": "5386",
+  "title": "Perancangan dan pembuatan perangkat lunak untuk menulis dan memainkan not balok dengan suara piano dan violin",
+  "abstract": "Sekarang ini penggunaan media komputer untuk berbagai keperluan bukan merupakan hal yang baru. Banyak aplikasi komputer yang membantu kehidupan manusia, salah satunya dalam bidang musik. Dalam dunia musik dikenal adanya partitur, yang merupakan catatan nada-nada yang membentuk sebuah lagu, yang umumnya ditulis dengan menggunakan notasi balok. Aplikasi ini dibuat untuk menggantikan penulisan partitur bernotasi balok yang dilakukan secara manual. Dengan adanya aplikasi ini, partitur yang telah dibuat dapat disuarakan untuk mengetahui bagaimana lagu yang dihasilkan dari partitur tersebut. Input yang diterima oleh sistem adalah hasil penulisan pada editor yang terdapat pada aplikasi ini, bukan hasil scanner ataupun hasil penulisan dengan aplikasi lain yang serupa. Sedangkan output yang dihasilkan dari sistem adalah partitur yang dapat disuarakan dan dicetak, serta bunyi lagu yang dihasilkan dari partitur tersebut yang disimpan dalam file berformat MIDI untuk masing-masing alat musik. Aplikasi ini dibuat dengan menggunakan konsep pemrograman berorientasi objek, dengan bahasa pemrograman Pascal dan kompiler Borland Delphi 7, serta komponen TMidiGen.",
+  "creators": "NATANIA SANJAYA",
+  "contributors": "Rudy Adipranata (Advisor 1); Rolly Intan (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010616/INF/2007; Natania Sanjaya (26403076)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

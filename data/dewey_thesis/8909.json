@@ -1,0 +1,14 @@
+{
+  "id": "8909",
+  "title": "Perancangan dan pembuatan aplikasi penulisan notasi balok dari file midi",
+  "abstract": "Sekarang ini, harga buku musik cukup mahal. Dengan perangkat lunak yang dibuat dalam tugas akhir ini, user dapat membuat partitur sendiri dari file midi. Aplikasi ini dibuat untuk menghasilkan partitur secara otomatis dalam bentuk notasi balok. Aplikasi ini dibuat dengan menggunakan Borland Delphi 7. Input untuk perangkat lunak ini berupa file midi, di mana file midi tersebut harus terdiri dari satu instrumen saja. Perangkat lunak akan membaca dan memproses file midi menjadi data not, kemudian data not disimpan dalam struktur data. Output dari perangkat lunak ini berupa gambar penulisan notasi balok dari file midi yang dipilih user. Partitur dari aplikasi ini nantinya dapat disimpan dan dicetak. Perangkat lunak ini dapat menggambarkan notasi balok sesuai dengan data yang terdapat dalam file midi, tetapi masih terdapat keterbatasan, misalnya penggambaran simbol tanda henti dalam jumlah yang banyak selalu dimulai dengan nilai yang terbesar.",
+  "creators": "RICHIE ALAMVETA",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Liliana (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010604/INF/2007; Richie Alamveta (26403131)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

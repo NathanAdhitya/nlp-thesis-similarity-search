@@ -1,0 +1,14 @@
+{
+  "id": "43249",
+  "title": "Implementasi digital signage menggunakan raspberry PI",
+  "abstract": "Digital signage adalah sebuah bentuk penyampaian informasi melalui media display elektronik (dinamis). Selama ini, digital signage tidak memberikan fitur next, previous, like dan dislike. Sehingga masyarakat tidak dapat memberikan feedback atau harus menunggu informasi yang ingin dibaca. Pada penempatan digital signage sekarang ini kita tidak dapat mengetahui apakah banyak masyarakat yang membaca digital signage. Untuk menjawab persoalan tersebut, dirancang digital signage yang memberikan fitur next, previous, like dan dislike. Dengan memanfaatkan komputer Raspberry Pi dan kamera kita dapat mengetahui apakah banyak yang melihat digital signage tersebut. Hal ini dapat memungkinkan membantu menempatkan digital signage ditempat yang ramai dan banyak masyarakat yang melihat dan membaca. Sehingga penyebaran informasi dapat menyebar secara maksimal. Aplikasi ini tidak dapat mendeteksi orang 100% dikarenakan beberapa faktor seperti cahaya yang tidak terang, objek lain yang menghalangi, wajah yang tidak melihat penuh ke kamera atau digital signage. Jika orang yang sama tetap membaca ketika kamera mengambil gambar orang tersebut akan tetap terhitung.",
+  "creators": "ALVIN NATHANIEL SANTOSO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Justinus Andjarwirawan (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021833/INF/2019; Alvin Nathaniel Santoso (26414145)",
+  "subjects": "DIGITAL SIGNAGE; MULTIMEDIA COMMUNICATIONS"
+}

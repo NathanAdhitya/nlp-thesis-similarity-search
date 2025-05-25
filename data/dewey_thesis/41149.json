@@ -1,0 +1,14 @@
+{
+  "id": "41149",
+  "title": "Sistem informasi koperasi pada PT Intercallin Surabaya",
+  "abstract": "Kondisi saat ini, koperasi PT Interchalin Surabaya mempunyai program untuk mengelola operasional koperasi. Program tersebut memiliki kelemahan yaitu tidak dapat diubah untuk memenuhi kebutuhan koperasi sesuai dengan hasil rapat anggota koperasi karena telah terkunci dari divisi IT pusat, misalnya presentase simpan pinjam koperasi. Selain itu, dalam program saat ini belum dapat menyinkronkan jumlah stock barang fisik dengan sistem, sehingga mempengaruhi proses stock opname. Untuk menjawab permasalahan-permasalahan tersebut dibutuhkan sistem infomasi koperasi yang baru. Sistem informasi berbasis website HTML5 dan PHP ini dibuat dengan menggunakan Bootstrap framework dan database MySQL. Fitur yang diberikan antara lain: pinjaman uang, pinjaman barang, pengaturan presentase bunga simpan pinjam, pembelian, penjualan, kartu stok, dan laporan berbentuk PDF. Hasil akhir dari pembuatan sistem informasi ini adalah pengguna dapat mengetahui jumlah stock barang, persentase simpan pinjam dapat diubah sesuai dengan hasil rapat anggota koperasi, dan mendapat laporan-laporan yang dibutuhkan untuk pengelola koperasi. Dari hasil kuesioner terdapat 100% pada penilaian tampilan aplikasi baik, 100% pada penilaian fitur simpan pinjam baik, dan 100% pada penilaian keseluruhan permasalahan baik.",
+  "creators": "KANIA PUTRI RAHARDJO",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021666/INF/2017; Kania Putri Rahardjo (26413081)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

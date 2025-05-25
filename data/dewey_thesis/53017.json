@@ -1,0 +1,14 @@
+{
+  "id": "53017",
+  "title": "Perancangan sistem pemantauan untuk meningkatkan pencapaian realisasi dengan perencanaan painting di PT X",
+  "abstract": "PT X sebagai perusahaan yang memproduksi berbagai macam tipe sepeda saat ini mengalami permasalahan yaitu proses painting yang sering kali tidak memenuhi jadwal PPIC dengan tepat waktu dan tepat jumlah. Berdasarkan analisa Fishbone Diagram dan Pareto Chart, maka dapat disimpulkan bahwa faktor yang paling mempengaruhi adalah method, material, dan environment. Dari aspek method, pengerjaan repair belum dapat dimonitor dengan baik sehingga dapat terjadi penundaan pekerjaan. Dari aspek environment, tim painting sulit mengidentifikasi barang reject. Perancangan sistem pemantauan diawali dengan perbaikan alur yang kemudian dilanjutkan dengan pembuatan SOP dan perancangan database serta reporting yang berupa Google Sheets. Rata-rata persentase pencapaian realisasi dengan jadwal pada Februari hingga Maret (sebelum implementasi) sebesar 32.09% meningkat menjadi 50.01% pada bulan April hingga Mei (setelah implementasi). Sistem pemantauan juga dapat menunjukkan kinerja repair painting yaitu pencapaian repair harian terhadap reject pada bulan April memiliki rata-rata 72.13% dan pada bulan Mei sebesar 52.62% yang berada di bawah target.",
+  "creators": "VANESSA ANGELA CHIONARDES",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022473/IND/2022; Vanessa Angela Chionardes (C13180085)",
+  "subjects": "PRODUCTION CONTROL; PRODUCTION MANAGEMENT; TIME MANAGEMENT"
+}

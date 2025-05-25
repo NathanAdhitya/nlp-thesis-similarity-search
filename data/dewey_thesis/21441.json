@@ -1,0 +1,14 @@
+{
+  "id": "21441",
+  "title": "Pengendalian dan akuisisi data jarak jauh berbasis web dengan menggunakan tcp/ip dan web",
+  "abstract": "Pengendalian dan akuisisi data atau yang dikenal dengan SCADA adalah sistem yang banyak digunakan pada dewasa ini. Sayangnya, pengendalian dan akuisisi data ini pada umumnya terikat pada lokasi yang sama dan tidak dapat berpindah-pindah. Dengan menggunakan teknologi telepon selular, wireless application protocol dan transmission control protocol / internet protocol, maka dalam tugas akhir ini dibahas tentang sistem pengendalian dan akuisisi data yang dapat dilakukan dari mana saja atau bersifat mobile. Program dalam tugas akhir ini menggunakan Linux sebagai operating system dan modul demo yang terdiri dari rangkaian ADC serta rangkaian kontrol on-off. Dalam pengujian berhasil digunakan untuk mengendalikan sebuah kipas angin DC 12 V dan pemanas 220 V serta mengakuisisi suhu dari sensor temperatur dengan range dari 0?C sampai 100?C.",
+  "creators": "JUTAHARIADI SOESILO",
+  "contributors": "Murtiyanto Santoso (Examination Committee 1); HERLIANTO TENGGARA (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/058/495; Jutahariadi Soesilo (23494047)",
+  "subjects": "SCADA (SUPERVISORY CONTROL AND DATA ACQUISITION); WEB SITES"
+}

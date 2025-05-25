@@ -1,0 +1,14 @@
+{
+  "id": "49920",
+  "title": "Pemberi makan ikan dan pengurasan otomatis pada akuarium berbasis IoT",
+  "abstract": "Tugas akhir ini bertujuan untuk menggantikan cara pemeliharaan ikan tersebut dengan menggunakan sistem otomatis berbasis IoT yang dapat memberi makan ikan dan menguras akuarium secara otomatis. Sistem otomatis juga dapat memantau kondisi air akuarium melalui aplikasi mobile android pengguna melalui jaringan internet. Sistem otomatis menggunakan Wemos D1 mini terintegrasi ESP8266 sebagai mikrokontroler. Wemos D1 mini digunakan untuk membaca sensor turbiditas (membaca tingkat kekeruhan air), photodiode (membaca tingkat persediaan makanan ikan), dan water level (membaca tingkat air dalam akuarium). Sistem pemberian makan menggunakan motor servo untuk membuka dan menutup saluran makanan yang keluar. Sistem pengurasan menggunakan pompa untuk menyedot air akuarium dan valve untuk mengisi air bersih kembali. Sistem pemantauan dapat dilihat pada LCD hardware dan aplikasi mobile pada sistem operasi android yang juga berfungsi untuk menjadwalkan pemberian makan otomatis. Berdasarkan pengujian yang telah dilakukan penulis, sistem dapat memberi makan ikan secara otomatis berdasarkan waktu yang telah diatur pengguna dan pengurasan otomatis berdasarkan tingkat kekeruhan air. Hasil pembacaan sensor dapat dimonitor dengan mudah pada LCD 16x2 dan aplikasi mobile yang juga dapat memberikan notifikasi.",
+  "creators": "YANSEN SUWANTO",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011020/ELK/2021; Yansen Suwanto (C11170026)",
+  "subjects": "AQUARIUM FISHES; INTERNET OF THINGS; AUTOMATION"
+}

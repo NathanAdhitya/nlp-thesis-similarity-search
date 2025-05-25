@@ -1,0 +1,14 @@
+{
+  "id": "9490",
+  "title": "Studi perilaku mikro pejalan kaki di UK. Petra",
+  "abstract": "Konsep mikro pejalan kaki merupakan penelitian termutakhir dari pejalan kaki di dunia saat ini dimana trayektori dari pejalan kaki ditelusuri secara individu. Meskipun telah banyak dikembangkan simulasi pejalan kaki mikro, dimana pejalan kaki multi agent bergerak dalam dunia maya, kalibrasi dan validasi simulasi belum memadai karena belum terdapatnya data dari dunia nyata. Skripsi ini menjelaskan berbagai experiment dasar dari pejalan kaki mikro yang dapat dijadikan landasan untuk kalibrasi simulasi. Karakteristik mikro dari pejalan kaki didapatkan dengan pengambilan data melalui gambar video yang kemudian dikonversikan menjadi trayektori data (NTXY dataset) dan kemudian didapatkan distribusi perilaku pejalan kaki dalam index flow performance sesuai dengan konsep yang dikembangkan oleh Teknomo, 2007. Pemodelan dasar dari pejalan kaki mikro berupa berjalan bebas, menyalip, berjalan melewati rintangan dan berjalan melewati pintu menghasilkan berbagai nilai flow performance index yang mewakili karakteristik pejalan kaki mikro. Hasil dari experiment menunjukkan bahwa pejalan kaki yang lebih dari satu orang ternyata mempunyai arah yang mendekati ideal namun kecepatan berjalan sedikit lebih lambat jika dibandingkan dengan pejalan kaki tunggal. Pejalan kaki yang melewati rintangan mempunyai kecepatan yang sedikit bertambah disertai dengan menurunnya penundaan, hal ini berbeda dengan pada saat pejalan kaki melakukan overtaking.",
+  "creators": "ISTEFANUS BERNHARD P; FERY SELVIANUS WIJAYA",
+  "contributors": "Harry Patmadjaja (Advisor 1); Rudy Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.13011571/SIP/2008; Istefanus B. Papilaja (21400144), Fery S. Wijaya (21400180)",
+  "subjects": "CONSUMERS-RESEARCH"
+}

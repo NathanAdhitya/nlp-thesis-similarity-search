@@ -1,0 +1,14 @@
+{
+  "id": "36303",
+  "title": "Aplikasi untuk memonitor PLC pada filling dan capping machine",
+  "abstract": "Seiring berkembangnya teknologi industri, suatu sistem otomasi industri membutuhkan teknologi PLC (Programmable Logic Controller) untuk memenuhi tuntutan adanya fleksibilitas. Kebutuhan untuk pengawasan kendali proses dan mesin oleh PLC dan pengelolahan data selama proses berlangsung dan dapat dikontrol jarak jauh melalui internet, membawa lahirnya konsep HMI dan aplikasi dekstop yang mendukung adalah visual studio C#. Tugas akhir ini dirancang untuk mengatur sistem pengisian cairan ke dalam botol kemasan. Metode pengisian cairan ini menggunakan sebuah piston. Fungsi dari piston tersebut untuk mengeluarkan cairan secara stabil. Perangkat lain yang digunakan adalah katup solenoid on-off 3/2 yang memiliki fungsi sebagai aktuator silinder pneumatic. Algoritma kontrol yang digunakan pada mesin ini adalah on/off. Semua penerapan ini dilakukan menggunakan PLC Siemens S7-1200. Semua sistem dapat dikontrol secara otomatis melalui PC dengan menggunakan TIA Portal v12 sebagai HMI software. Dan kontrol jarak jauh melalui laptop menggunakan visual studio C# sebagai aplikasi. Pengujian yang dilakukan dengan membandingkan jalannya plant dengan tampilan/HMI pada komputer serta koneksi PLC Siemens S7-1200 dengan aplikasi dari visual studio C#. Mesin ini memilki kapasitas yang dapat diatur sesuai produksi botol yang diminta dengan rata-rata botolnya berisi 8,4 ml. Aplikasi C# dapat mengontrol PLC S7-1200 yang dihubungkan pada plant.",
+  "creators": "GREGORIUS ANDRY LAKSMANA",
+  "contributors": "Roche Alimin (Advisor 1); Felix Pasila (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010951/ELK/2016; Gregorius Andry Laksmana (23411009)",
+  "subjects": "AUTOMATION; PROGRAMABLE LOGIC CONTROLLER (PLC); PROGRAMMING (ELECTRONIC COMPUTERS); SOFTWARE ENGINERING"
+}

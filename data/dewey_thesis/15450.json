@@ -1,0 +1,14 @@
+{
+  "id": "15450",
+  "title": "Analisa alternatif tata letak fasilitas di percetakan PT. X",
+  "abstract": "Adanya pengaturan tata letak fasilitas mesin cetak yang lama membuat jarak aliran perpindahan material menjadi lebih panjang serta lantai produksi yang terpisah menjadi dua lantai. Untuk mengatasi permasalahan diatas, diperlukan suatu pengaturan tata letak fasilitas mesin didasarkan pada Grup Teknologi pada percetakan di PT. X , yaitu dengan cara pengelompokkan mesin-mesin yang dilalui oleh suatu produk kedalam suatu machine cell. Dalam hal ini digunakan tiga metode dari Grup Teknologi, yaitu Single Lingkage Cluster Analysis, Rank Order Cluster, dan Cluster Identification Algorithm. Dimana dalam perancangan tata letaknya menggunakan pertimbangan frekuensi antar mesin yang didapat dari From to Chart. Dari ketiga metode diatas dianalisa bahwa yang cocok dengan kondisi perusahaan saat ini adalah metode Single Lingkage Cluster Analysis yang menghasilkan 11 konfigurasi machine cell dimana dalam perancangan tata letak fasilitas mesinnya dilanjutkan dengan metode From to Chart yang menghasilkan momen intersel terkecil sebesar 998,3 dimana persentase pengurangan terhadap momen layout lama (Momen =2648.43) sebesar 38 %. Selanjutnya pada analisa biaya, biaya yang dikeluarkan untuk perancangan ulang tata letak mesinnya sebesar Rp. 5.670.000,00. Lantai produksi pada layout awal terdiri dari dua lantai dijadikan satu lantai produksi pada layout yang baru.",
+  "creators": "CHRISTIAN PARINUSSA",
+  "contributors": "Pauline Astari Singgih (Advisor 2); Kristiana Asih Damayanti (Examination Committee 1); Tessa Vanina Soetanto (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 325/TI-52/2000; Christian Parinussa (25495113)",
+  "subjects": "PLANT LAYOUT"
+}

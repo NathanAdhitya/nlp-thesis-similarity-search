@@ -1,0 +1,14 @@
+{
+  "id": "4297",
+  "title": "Pembuatan perangkat lunak sistem pembelian penjualan dan persediaan barang pada CV. Dwisatya Citra Perdana di Surabaya",
+  "abstract": "CV. Dwisatya Citra Perdana merupakan perusahaan yang bergerak dalam bidang penjualan produk makanan, minuman bayi dan kecap yang melayani dalam jumlah banyak dan sedikit. Sistem pembayaran yang digunakan adalah secara tunai dan kredit. Selama ini perusahaan masih menggunakan sistem manual dalam hal mencatat pembelian, penjualan maupun pada persediaan barang. Akibatnya sering terjadi perbedaan antara stock yang tertera pada kartu stock dengan jumlah barang yang ada secara fisik sehingga mempengaruhi efisiensi dan efektivitas kerja, sehingga pelayanan terhadap pelanggan menjadi sangat lambat. Pada Tugas akhir ini, dirangkai beberapa proses atau transaksi yang terkait dengan sistem pembelian, penjualan dan persediaan barang. Perangkat lunak ini dibuat dengan menggunakan sistem operasi Windows 2000 Server. Database yang digunakan adalah Microsoft SQL Server 7.0 dan bahasa pemrograman yang digunakan adalah Borland Delphi 6.0. Proses desain mulai dari sistem flow, Data Flow Diagram sampai dengan Entity Relationship Diagram. Proses implementasi program dalam bahasa pemrograman Delphi yang memanfaatkan basis koneksi ke database SQL Server. Perangkat lunak yang dihasilkan ini dapat mengetahui hasil pembelian, penjualan, dan persediaan barang yang ada di gudang. Proses pemesanan dengan menggunakan Economic Order Quantity dimana dapat memesan jumlah dari EOQ tersebut. sehingga sistem pembelian, penjualan dan persediaan barang dapat dikontrol dengan baik. Proses penagihan customer dan proses pembayaran supplier dapat terkontrol dengan adanya laporan hutang dan laporan piutang.",
+  "creators": "ALEXANDER SETIAWAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0068/INF/2003; Alexander Setiawan (26499043)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTER); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

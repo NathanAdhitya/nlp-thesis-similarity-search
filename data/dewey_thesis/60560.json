@@ -1,0 +1,14 @@
+{
+  "id": "60560",
+  "title": "Similarity search dengan graph database untuk pemetaan hotel pada Rodex tours and travel",
+  "abstract": "Rodex Tours and Travel menyediakan layanan pemesanan hotel dengan menawarkan beberapa pilihan harga serta layanan dari beberapa vendor. Data hotel dari vendor ini seringkali tidak konsisten, seperti adanya penulisan nama yang sedikit berbeda untuk hotel yang sama. Oleh karena itu, diperlukan proses pemetaan atau mapping data antara data vendor dan data master Rodex Tours & Travel untuk memastikan hasil pencarian yang akurat. Proses ini akan memetakan setiap data vendor kepada data master yang memiliki nilai similarity tertinggi. Saat ini, Rodex Tours and Travel menghitung nilai similarity dengan membandingkan kata per kata. Hal ini dapat menyebabkan masalah apabila terdapat kesalahan penulisan atau perubahan nama hotel yang signifikan. Untuk mengatasi masalah tersebut, penelitian ini mengusulkan mekanisme mapping pencarian similarity dengan menggunakan Graph Database. Akan dibuat tiga tipe node yaitu Address, Hotel dan Contact untuk menyimpan data-data hotel yang akan di-mapping. Nama, alamat, dan kontak alternatif dari suatu hotel juga dapat disimpan untuk kemudian digunakan saat pencarian hotel dengan similarity tertinggi. Pencarian similarity tertinggi dilakukan dengan menggunakan Jaccard, Overlap, Levenshtein, Sorensen-Dice dan Cosine Similarity. Hasil penelitian ini menunjukkan bahwa Sorensen-Dice Similarity memiliki persentase hasil data benar terbesar untuk pencarian similarity dibandingkan metrik lainnya. Selain itu, sistem pencarian similarity dan mapping Rodex Tours and Travel masih memiliki persentase hasil data benar yang lebih besar daripada sistem yang diusulkan.",
+  "creators": "VALERI CHRISTY LIADI",
+  "contributors": "Andreas Handojo (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1); Leo Willyanto Santoso (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022462/INF/2024; Valeri Christy Liadi (C14200066)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); RECOMMENDER SYSTEMS (INFORMATION FILTERING)"
+}

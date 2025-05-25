@@ -1,0 +1,14 @@
+{
+  "id": "14872",
+  "title": "Perencanaan dan pembuatan switcher data RGB monitor",
+  "abstract": "Dalam era kemajuan saat ini, komputer sudah menjadi bagian dari suatu sistem, baik sistem pengolahan data, sistem pendidikan, sistem komunikasi, dan sistem lainnya. Kemajuan yang sudah dicapai biasanya juga disertai adanya efek samping yang timbul, hal ini terjadi bila dalam penggunaannya tidak mencapai hal yang diinginkan. Dalam hal penggunaan komputer terlihat adanya efek samping yang timbul dalam pemakaian, komputer yang dapat dipergunakan untuk berbagai keperluan sering dipergunakan bukan untuk keperluan yang utama misal mengerjakan tugas yang diberikan tetapi untuk hal lainnya yang tidak berhubungan dengan tugas tersebut. Dalam hal ini diperlukan pengawasan secara langsung terhadap pengguna komputer oleh pengawasnya (supervisor), tetapi hal ini tidak efektif dan kurang menyenangkan bagi beberapa orang. Untuk dapat mengatasi permasalahan di atas, dalam Tugas Akhir ini direncanakan dan dibuat suatu peralatan yang mampu untuk mengawasi secara langsung pengguna komputer melalui monitor dan keyboard dari komputer yang dipergunakan seorang pengawas. Pembuatan switcher yang dirancang untuk dapat melakukan proses pemindahan tampilan layar monitor maupun penekanan tombol keyboard dari satu komputer ke komputer lain memanfaatkan fasilitas komunikasi standar RS-485 yang mampu menghubungkan 32 buah komputer sekaligus. Dalam tugas akhir ini pembuatan switcher dibatasi hanya untuk tiga buah komputer dengan jarak antara tiap komputer, sejauh 5 meter. Pengujian peralatan switcher pada tiap komputer dilakukan dengan menjalankan program resident yang dibuat dengan bahasa Pascal untuk dapat melakukan proses switching data monitor dan data keyboard melalui peralatan switcher. Switcher Data RGB Monitor ini bekerja pada komputer IBM-PC compatible dengan dengan beberapa batasan yaitu kecepatan tiap komputer yang berimbang dan tidak terdapat cacat pada tiap komputer seperti tidak adanya battery backup untuk menyimpan kondisi BIOS setup. Dari hasil pengujian diatas diperoleh kesimpulan bahwa pemindahan atau switching data RGB monitor dapat dilaksanakan dengan memanfaatkan komunikasi serial RS-485 dengan mempergunakan monitor berbasis teks karena pengendalian switcher mempergunakan program resident.",
+  "creators": "JUWONO TJIPTO",
+  "contributors": "SOETIKNO (Advisor 1); HERLIANTO TENGGARA (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/018/278; Juwono Tjipto (23489013)",
+  "subjects": "PASCAL (COMPUTER PROGRAM LANGUANGE); SWITCHING CONTROLLER"
+}

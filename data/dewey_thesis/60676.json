@@ -1,0 +1,14 @@
+{
+  "id": "60676",
+  "title": "Rancang bangun sistem informasi penggajian berbasis web di CV Trustline Indonesia",
+  "abstract": "CV Trustline Indonesia merupakan badan usaha yang bergerak di bidang konsultan pajak, pembuatan laporan keuangan, dan manajemen pengupahan sejak tahun 2018. Di dalam proses penggajiannya, CV Trustline Indonesia belum memiliki sistem penggajian dengan database yang terintegrasi dan sistem presensi karyawan yang lebih baik. Untuk mengatasi permasalahan tersebut, sistem penggajian yang terintegrasi dan sistem presensi yang lebih baik harus dimiliki oleh CV Trustline Indonesia. Pada skripsi ini dirancang sebuah sistem untuk menolong CV Trustline Indonesia melaksanakan proses presensi dan penggajiannya. Perancangan sistem ini didahului dengan melakukan analisis dan desain terhadap proses bisnis perusahaan, melakukan wawancara dengan divisi payroll, dan merancang DFD dan ERD yang relevan dengan perusahaan. Sistem ini dibuat berbasis website menggunakan database MySQL dan bahasa pemrograman JavaScript. Hasil akhir yang diperoleh adalah sebuah sistem informasi yang dapat menolong CV Trustline Indonesia melakukan cek log presensi, perhitungan presensi, dan perhitungan gaji. Perbandingan antara perhitungan penggajian manual dengan yang dihasilkan sistem telah sesuai dan akurat. Berdasarkan hasil kuesioner yang diisi oleh pengguna sistem menunjukkan bahwa sistem telah sesuai dengan kebutuhan CV Trustline Indonesia 100% baik (tiga dari tiga responden), dan tampilan sistem 66,66% baik (dua dari tiga responden).",
+  "creators": "EGIDIUS YOGA ADISWARA",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Kartika Gunadi (Examination Committee 1); Liliana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022477/INF/2024; Egidius Yoga Adiswara (C14170163)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; MANAGEMENT INFORMATION SYSTEMS; PROGRAMMING (ELECTRONIC COMPUTER); WEB SITES--DESIGN"
+}

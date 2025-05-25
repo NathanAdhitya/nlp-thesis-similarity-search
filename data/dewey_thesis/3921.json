@@ -1,0 +1,14 @@
+{
+  "id": "3921",
+  "title": "Study tentang vehicle routing problems dengan menggunakan standart evolutionary",
+  "abstract": "Skripsi ini membahas permasalahan Travelling Salesman Problem (TSP), Vehicle Routing Problem (VRP), dan variasinya, yang berdasarkan pada be berapa jurnal yang telah ditemukan. Permasalahan yang dibahas dalam skripsi ini adalah TSP, TSP dengan Time Windows, VRP, VRP dengan Time Windows, VRP dengan General Time Windows, Fleet Size, dan Mix VRP, Period VRP, Multi Depot VRP, Multi Product VRP, Split Deliveries , VRP dengan Pickup , dan Delivery, serta Inventory Routing Problem. Skripsi ini juga membahas mengenai metode penyelesaian untuk permasalahan TSP, TSP dengan Time Windows, VRP, VRP dengan Time Windows, Multi Product VRP, dan Multi Depot VRP, yang menggunakan Standart Evolutionary dalam Premium Solver Platform. Model tersebut diujikan pada permasalahan dengan jumlah konsumen 5, 10, dan 15, serta menggunakan mutation rate 0.075, 0.15, dan 0.3. Untuk tiap nilai mutation rate, pengujian dilakukan 10 kali. Dari hasil pengujian, dapat disimpulkan bahwa metode penyelesaian yang menggunakan Standart Evolutionary dalam Premium Solver Platform tersebut, kemungkinan besar dapat menghasilkan global optimum, hanya untuk permasalahan dengan jumlah konsumen 5 saja. Dapat pula disimpulkan bahwa nilai mutation rate yang paling sering menghasilkan hasil yang lebih optimum, dibandingkan dengan hasil dari kedua nilai mutation rate lainnya, adalah 0.15.",
+  "creators": "CHRISTINE",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); I Nyoman Sutapa (Advisor 2); Jani Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0766/IND/2004; Christine (25400186)",
+  "subjects": "INVENTORY CONTROL"
+}

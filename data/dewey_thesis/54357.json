@@ -1,0 +1,14 @@
+{
+  "id": "54357",
+  "title": "Sistem rekomendasi pembelian laptop dengan K-Nearest Neighbor (KNN)",
+  "abstract": "Seiring perkembangan jaman, tentunya semakin banyak orang yang membutuhkan laptop untuk membantu pekerjaannya dibandingkan komputer desktop karena desain yang kecil dan memiliki baterai internal sehingga dapat dibawa kemana-mana. Namun pilihan spesifikasi laptop sangat beragam, seperti Model Laptop, Brand, Jenis Processor, Kecepatan Processor, Ukuran Layar, RAM, harga, dan lain-lain. Tidak semua orang mengetahui indikator dalam memilih produk laptop sesuai dengan selera dan kriteria laptop yang dibutuhkan. Pembuatan sistem rekomendasi pada tugas akhir ini menggunakan metode K-Nearest Neighbor. Metode ini akan melakukan perhitungan jarak dengan rumus Euclidean antara kriteria user dengan data survey. Kemudian akan jarak terdekat akan dijadikan rekomendasi. Pengujian dilakukan dengan menghitung akurasi dari hasil rekomendasi yang diberikan kepada user. Survey digunakan untuk menghitung jumlah rekomendasi yang valid. Hasil dari penelitian ini dilihat dari pengujian dengan menggunakan survey kepuasan yang telah di survey ke 10 karyawan toko laptop. Berdasarkan hasil survey, pengujian hasil rekomendasi mendapat rata-rata akurasi sebesar 84%. Pengujian tampilan website juga sudah cukup baik karena kebanyakan user memberikan nilai atau rating 4 atau 5. Dilihat dari hasil pengujian dapat disimpulkan tampilan website dan hasil rekomendasi dengan metode K-Nearest Neighbor mendapatkan hasil yang cukup baik karena sesuai dengan keinginan dan kebutuhan calon pembeli.",
+  "creators": "SHEEREN HENDRIK ANGGELA",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Justinus Andjarwirawan (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1); Rolly Intan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022210/INF/2022; Sheeren Hendrik Anggela (C14180070)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); RECOMMENDER SYSTEMS (INFORMATION FILTERING); DATABASE DESIGN--COMPUTER PROGRAMS"
+}

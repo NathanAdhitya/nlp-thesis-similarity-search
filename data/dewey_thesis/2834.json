@@ -1,0 +1,14 @@
+{
+  "id": "2834",
+  "title": "Perancangan dan pembuatan perangkat lunak pengenalan suara pembicara dengan menggunakan analisa MFCC feature extraction",
+  "abstract": "Perkembangan dunia teknologi akhir-akhir sangat pesat, terutama dalam bidang artificial intelligent. Perangkat lunak yang dibuat dalam tugas akhir ini merupakan salah satu bagian dari aplikasi artificial intelligent yang mereplikasikan organ pendengaran manusia untuk dapat mengenali seorang pembicara berdasarkan suara yang di-input-kan. Perangkat lunak ini dibuat dengan menggunakan MFCC (Mel Frequency Cepstrum Coefficients) feature extraction dan didukung dengan K-Means clustering. MFCC feature extraction mengkonversikan signal suara kedalam beberapa vektor data yang berguna bagi proses pengenalan pembicara. Hasil dari MFCC feature extraction berukuran sangat besar, sehingga membutuhkan waktu proses yang lama bila langsung digunakan untuk proses pengenalan pembicara. Oleh karena itu, dibutuhkan peranan dari metode K-Means clustering untuk membuat beberapa vektor pusat sebagai wakil dari keseluruhan vektor data yang ada. Pemrograman perangkat lunak menggunakan prinsip pemrograman berorientasi objek (OOP) dengan menggunakan bahasa pemrograman C++, kompiler Microsoft Visual C++ 6.0? Perangkat lunak ini diujikan terhadap 101 orang, dengan komposisi 72 pria dan 29 wanita, dimana masing-masing orang mengucapkan 32 kata yang sudah ditentukan sebelumnya. Hasil pengujian menunjukkan tingkat akurasi perangkat lunak ini dalam mengenali suara pembicara berkisar antara 60% sampai dengan 90% dengan rata-rata tingkat keberhasilan untuk keseluruhan pengujian adalah 83.5%. Tingkat akurasi tersebut dipengaruhi oleh nilai parameterparameter yang digunakan baik dalam metode MFCC feature extraction maupun K-Means Clustering.",
+  "creators": "HERI SUGIANTO MANUNGGAL",
+  "contributors": "Rolly Intan (Advisor 1); Resmana Lim (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01000332/INF/2005; Heri Sugianto Manunggal (26401051)",
+  "subjects": "ARTIFICIAL INTELLIGENCE"
+}

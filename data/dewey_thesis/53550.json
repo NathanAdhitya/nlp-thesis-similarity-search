@@ -1,0 +1,14 @@
+{
+  "id": "53550",
+  "title": "Sales management dan pengukuran key performance indicator dengan menggunakan metode C4.5 pada CV X",
+  "abstract": "CV X merupakan suatu perusahaan wholesaler yang menjual barang kebutuhan sehari-hari. CV X memegang ribuan brand untuk jenis produk yang dijualnya. Saat ini, perusahaan memiliki sistem yang masih dibatasi dengan aplikasi desktop sehingga data masih diproses secara manual sebelum dimasukkan dalam aplikasi desktop. Hal ini mampu menyebabkan ketidakoptimalan dalam memaksimalkan kinerja masing-masing salesperson maupun faktor human error yang muncul Selain itu, pihak perusahaan juga memerlukan sistem yang dapat mengorganisir proses bisnis yang ada khususnya pihak penjualan. Perusahaan juga terbatas dalam sisi laporan yang tersedia serta dari tidak adanya wadah evaluasi untuk menganalisa performa Key Performance Indicator dari salesperson yang bekerja. Hal ini menyebabkan perusahaan tidak memiliki feedback untuk mengetahui pengukuran pada salesperson yang mempengaruhi penjualannya. Sistem sales management dibuat menggunakan basis website dengan menggunakan framework Codeigniter dan aplikasi mobile dengan menggunakan framework Flutter. Aplikasi ini dapat mengatur proses bisnis yang berkaitan dengan penjualan dengan lebih terintegrasi. Metode C4.5 turut digunakan untuk mengatasi pengelompokan atribut yang tersedia. Dengan adanya metode ini, membantu untuk menganalisa atribut dengan pengaruh terbesar dalam mempengaruhi ketercapaian performa yang ada pada salesperson. Hasil akhir dari program ini adalah terintegrasinya proses bisnis khususnya penjualan seperti dalam melakukan order, pengiriman, pengajuan return, pengiriman dan penerimaan return dan proses lainnya. Pengguna juga dapat melakukan akses terhadap laporan yang ada baik berupa data tabel maupun data grafik.",
+  "creators": "FERONICA NATALIA RIVALDI",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Yulia (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022169/INF/2022; Feronica Natalia Rivaldi (C14180099)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); WEB SITES--SECURITY MEASURES; SALES MANAGEMENT--DATA PROCESSING"
+}

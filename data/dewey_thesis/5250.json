@@ -1,0 +1,14 @@
+{
+  "id": "5250",
+  "title": "Pengukuran kepadatan lalu lintas menggunakan kamera",
+  "abstract": "Data kepadatan lalu- lintas merupakan kebutuhan yang mendasar dan penting bagi ilmu transportasi. Data kepadatan lalu- lintas biasanya didapat secara manual. Saat ini kamera video telah diterapkan untuk memantau kepadatan lalu-lintas. Untuk itu dibuatlah program penghitung kepadatan lalu- lintas dengan metode Normalized Sum-Squared Differences (NSSD) yang mengambil selisih jumlah pixel frame dan background dan dikuadratkan, dinormalisasi dengan luasan detection window. Nilai NSSD yang didapat difilter unrtuk mengurangi noise dan proses thresholding dilakukan untuk mendeteksi keberadaan kendaraan pada detection window. Tugas Akhir ini dibuat dengan menggunakan Microsoft Visual C++ 6.0, Intel Performance Library dan Open Source Computer Vision. Hasil dari pengujian performa dengan menggunakan file video dengan kondisi yang bervariasi yaitu kondisi terang, kondisi berawan, kondisi noise rendah dan kondisi noise tinggi, menunjukkan bahwa program ini secara keseluruhan menunjukkan keberhasilan lebih dari 80%. Keberhasilan dari program ini sangat dipengaruhi oleh penentuan nilai threshold yang tepat.",
+  "creators": "RIZAL YULIANTO HOSTIADI",
+  "contributors": "Resmana Lim (Advisor 1); Thiang (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/631/ELK/2003; Rizal Yulianto Hostiadi (23498036)",
+  "subjects": "CAMERA-COMPUTER PROGRAMS"
+}

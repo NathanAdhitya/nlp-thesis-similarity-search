@@ -1,0 +1,14 @@
+{
+  "id": "28619",
+  "title": "Aplikasi android untuk remote control quadcopter",
+  "abstract": "Android merupakan sistem operasi yang populer saat ini untuk perangkat mobile. Hampir semua perangkat Android memiliki berbagai sensor yang dapat digunakan untuk interaksi antara pengguna dengan perangkat Android, sebagai contoh yaitu sensor layar sentuh dan accelerometer. Perangkat Android ini dapat dikembangkan lebih lanjut dengan memanfaatkan sensor layar sentuh, accelerometer yang ada dan perangkat WiFi untuk mengendalikan quadcopter. Berdasarkan fakta tersebut dibuat aplikasi Android untuk mengontrol quadcopter buatan Parrot yang memiliki empat motor penopang, yaitu AR.Drone 2.0. Berdasarkan pengujian aplikasi dapat mengontrol AR.Drone 2.0 dengan memanfaatkan layar sentuh dan sensor accelerometer dengan baik. Data navigasi dan data video berhasil diterima, dan diolah dengan baik. Namun aplikasi yang dibuat memiliki kekurangan, yaitu video dan fitur penerimaan data navigasi yang tidak lancar. Selain itu Java Android yang digunakan sebagai bahasa pemprograman utama tidak dapat langsung memproses paket UDP dengan delay kurang dari 140 ms. Untuk perintah AT*PCMD yang memuat empat arah (pitch, roll, gaz, dan yaw) dalam satu perintah AT untuk kontrol, jika digunakan untuk lebih dari satu arah untuk satu perintah AT*PCMD maka pergerakan AR.Drone 2.0 akan menjadi tidak teratur. Perintah itu diabaikan oleh AR.Drone 2.0 selama AR.Drone 2.0 tidak terbang. Selain itu AR.Drone 2.0 hanya dapat menerima perintah dari satu perangkat saja.",
+  "creators": "RYAN NATHANAEL SOENJOTO W",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Handry Khoswanto (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010112/ELK/2012; Ryan Nathanael Soenjoto Widodo (23409003)",
+  "subjects": "ANDROID (COMPUTER PROGRAM); APPLICATION SOFTWARE-DEVELOPMENT; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "1293",
+  "title": "Penggunaan pc untuk wartel dengan koneksi RS-485",
+  "abstract": "Kemajuan teknologi elcktronika dan kumputer memungkinkan orang untuk berkomunikasi melalui telepon dan berbicara dengan orang lain meskipun jarak antara kedua orang tersebut sangat jauh. Karena kebutuhan akan komunikasi tersebut maka adanya usaha jasa Wartel. Wartel yang umum ialah wartel yang hanya tergantung pada satu PC saja, baik pendeteksian telepon sampai penghitungan pulsa. Wartel seperti ini kurang efisien karena jika ada penambahan KBU, harus mendesain ulang caid yang ada di dalam komputer, selain itu sistem pengkabelan yang rumit. Untuk mengatasi kekurangan itu, maka digunakan sistem RS-485 yang multipoint, antara PC dengan mikrokontroler. Dengan penggunaan mikrokontroler maka penambahan KBU, hanya dilakukan dengan menambah mikrokontroler saja. Prototype alat yang dibuat di dalam tugas akhir ini terdiri atas PC yang berisi data nomor telepon, mikrokontroler MCS-51 juga rangkaian hook detector yang berfungsi untuk mendeteksi on/off hook telepon, rangkaian pendeteksi sinyal 425 Hz berfungsi sebagai pendeteksi sinyal telepon dengan frekuensi 425 Hz, rangkaian DTMF dan display seven-segment. Hasil pengujian diperoleh bahwa sinyal telepon dengan frekuensi 425 Hz dapat digunakan sebagai pendeteksian dimulainya suatu pembicaraan, dengan delay sekitar 1 detik. Komunikasi dengan RS-4S5 memudahkan untuk penambahan suatu unit mikrokontroler (KBU) dan menyederhanakan sistem pengkabelan.",
+  "creators": "BAMBANG WIJANARKA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/004/550; Bambang Wijanarka (23497033)",
+  "subjects": "MICROCONTROLLERS-PROGRAMMING; TELEPHONE SYSTEMS"
+}

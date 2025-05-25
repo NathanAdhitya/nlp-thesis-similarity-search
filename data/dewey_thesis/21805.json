@@ -1,0 +1,14 @@
+{
+  "id": "21805",
+  "title": "Perancangan dan pembuatan aplikasi untuk memantau lokasi anak oleh orang tua melalui website dengan pendeteksian lokasi geografis handphone menggunakan location api pada java micro edition (Java ME)",
+  "abstract": "Layanan berbasis lokasi merupakan suatu mekanisme layanan yang menghasilkan informasi lokasi geografis. Layanan ini tentunya bisa dimanfaatkan mengingat belakangan ini banyak terjadi kasus anak hilang. Dengan demikian menjadi suatu kebutuhan bagi orang tua untuk dapat mengetahui keberadaan anak tiap saat. Berdasarkan permasalahan tersebut, maka perlu dibuat suatu aplikasi yang dapat mengambil lokasi geografis handphone. Informasi posisi yang dihasilkan dapat digunakan untuk memantau keberadaan pemilik handphone, yaitu orang tua yang ingin memantau keberadaan anaknya, sehingga dengan ini orang tua dapat memantau keberadaan anaknya dari jarak jauh melalui suatu website. Informasi posisi handphone dibaca dengan menggunakan Location API pada Java Micro Edition dan informasi yang dihasilkan ditampilkan pada website menggunakan Google Maps. Dari hasil pengujian, informasi posisi dipengaruhi oleh ketersediaan layanan operator, kekuatan sinyal operator, dan ketersediaan kemampuan handphone.",
+  "creators": "NATANAEL ADITYASATRIA",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Arlinah Imam Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021020/INF/2011; Natanael Adityasatria (26407136)",
+  "subjects": "WEBSITES-DESIGN; INTERNET (COMPUTER NETWORK); PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

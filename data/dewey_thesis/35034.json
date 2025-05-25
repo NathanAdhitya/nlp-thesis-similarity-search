@@ -1,0 +1,14 @@
+{
+  "id": "35034",
+  "title": "Enterprise architecture planning pada PT Sarana Logistik Indonesia",
+  "abstract": "PT Sarana Logistik Indonesia adalah sebuah perusahaan yang bergerak di bidang distribusi dan ekspedisi jalur laut sejak tahun 2005. Produk yang didistribusikan oleh PT Sarana Logistik Indonesia adalah semen dan pupuk bersubsidi. Pendistribusian semen dan pupuk subsidi dilakukan ke Wilayah Indonesia Timur, salah satu contohnya adalah wilayah di Provinsi Irian Jaya. Dalam mendukung proses bisnisnya, PT Sarana Logistik Indonesia hanya memiliki aplikasi yang menangani divisi finance dan warehouse perusahaan, sedangkan divisi marketing belum memiliki sistem informasi, sehingga dalam menjalankan proses bisnisnya, divisi marketing menggunakan jasa dari outsource. Oleh karena itu, pada skripsi ini akan dilaksanakan analisa dan perencanaan desain sistem informasi Enterprise Architecture pada PT Sarana Logistik Indonesia. Kerangka kerja yang digunakan adalah Enterprise Architecture Planning. Proses yang akan dilakukan pertama kali yaitu dengan melakukan analisa model bisnis dan strategi bisnis perusahaan. Selanjutnya, dilakukan analisa kondisi information technology di perusahaan saat ini, mengetahui permasalahan information technology yang ada, lalu melihat kebutuhan information technology (IT) yang baru di masa depan. Setelah itu dilakukan pembuatan desain arsitektur data dan arsitektur aplikasi berdasarkan dari data dan informasi yang diperoleh dari perusahaan. Arsitektur data yang dihasilkan untuk perusahaan terdiri dari beberapa sub sistem yaitu Sub Sistem Marketing, Sub Sistem Pembelian, Sub Sistem Pengadaan dan Perbaikan, Sub Sistem Penjualan, dan Sub Sistem Warehouse. Arsitektur Aplikasi terdiri dari beberapa aplikasi utama dan aplikasi pendukung. Aplikasi utama terdiri dari Sistem Informasi Marketing, Sistem Informasi Pembelian, Sistem Informasi Pengadaan dan Perbaikan, Sistem Informasi Penjualan, Sistem Informasi Warehouse, Sistem Informasi Peramalan (forecasting), dan Customer Relationship Management (CRM). Aplikasi-aplikasi tersebut merupakan aplikasi berbasis website. Sedangkan aplikasi pendukung adalah website perusahaan, back up database server, dan single sign on (SSO) service.",
+  "creators": "FELICIA NOVITA KARJADI",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Yulia (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021457/INF/2015; Felicia Novita Karjadi (26411020)",
+  "subjects": "MANAGEMENT INFORMATION SYSTEMS; BALANCED SCORECARD"
+}

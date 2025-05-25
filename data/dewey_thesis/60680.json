@@ -1,0 +1,14 @@
+{
+  "id": "60680",
+  "title": "Perancangan dashboard untuk meningkatkan monitoring proses manufaktur di PT Surya Dermato Medica",
+  "abstract": "PT SDM adalah perusahaan terkemuka yang memanufaktur produk dermatologi. Dalam upaya untuk meningkatkan kinerja dalam area produksi diperlukan untuk melakukan pengamatan dan pengambilan data mengenai proses produksi perusahaan pada area produksi saat ini, di mana dalam proses produksi perusahaan menggunakan log harian yang merupakan dokumen yang menyajikan informasi mengenai seluruh proses di area produksi. Berdasarkan pengamatan ditemukan perbedaan antara log harian dengan pengamatan langsung di mana pengamatan menunjukkan bahwa proses manual aktualnya lebih tinggi sebesar 16,29% sedangkan proses menggunakan mesin mengalami penurunan sebesar 7,82%. Berdasarkan hasil tersebut perusahaan tidak dapat melakukan evaluasi terhadap area produksi sehingga diperlukan dashboard produksi. Langkah pertama yang dilakukan adalah pengambilan data dan melakukan identifikasi menggunakan Five Whys untuk mengungkap masalah yang terjadi pada area produksi, setelah itu dilanjutkan dengan melakukan perancangan dashboard produksi tersebut yang diawali dengan menggunakan Data Flow Diagram untuk menggambarkan secara keseluruhan mengenai alur data pada dashboard yang dilanjutkan dengan Entity Relationship Diagram untuk memetakan hubungan dan model data yang digunakan oleh dashboard yang diakhiri dengan perancangan Activity Diagram untuk memetakan interaksi pengguna dengan dashboard yang memudahkan perancangan desain antar muka pada dashboard. Dengan adanya dashboard produksi ini dapat membantu perusahaan untuk meningkatkan dan memaksimalkan kinerja di area produksi.",
+  "creators": "EVAN",
+  "contributors": "Togar Wiliater Soaloon Panjaitan, S.T., MBA. (Advisor 1); Herri Christian Palit (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022662/IND/2024; Evan (C13200006)",
+  "subjects": "DASHBOARDS (MANAGEMENT INFORMATION SYSTEMS); MANUFACTURING INDUSTRIES--MANAGEMENT; PRODUCTION MANAGEMENT"
+}

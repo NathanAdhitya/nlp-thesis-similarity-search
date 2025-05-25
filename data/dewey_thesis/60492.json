@@ -1,0 +1,14 @@
+{
+  "id": "60492",
+  "title": "Aplikasi pendataan stok untuk efisiensi dan pengelolaan barang toko XYZ",
+  "abstract": "Toko XYZ adalah sebuah toko yang bergerak dalam penjualan kendaraan bermotor, suku cadang, dan perlengkapan kendaraan bermotor. Toko ini telah beroperasi sejak tahun 2008 dengan sistem jual beli yang masih manual. Kendala yang dihadapi antara lain pencatatan stok yang tidak sesuai, yang dapat mengakibatkan stok barang tidak akurat. Penelitian ini bertujuan untuk mengembangkan aplikasi pendataan stok berbasis web dan mobile yang dapat membantu dalam mencatat, memantau, dan mengelola stok barang secara lebih efektif. Aplikasi ini dirancang menggunakan Flutter untuk mobile apps dan Laravel untuk API backend dengan database MySQL. Website dirancang menggunakan Laravel. Implementasi sistem meliputi fitur-fitur seperti login, manajemen data pengguna, pengelolaan data barang dan stok, transaksi penjualan, transaksi pembelian, serta notifikasi stok barang yang mulai menipis. Hasil uji model kesuksesan DeLone and McLean menunjukkan nilai rata-rata keseluruhan sebesar 4,01 dari maksimal 5 pada skala likert. Berdasarkan hasil tersebut, aplikasi dan website internal yang dibuat untuk toko dapat dikatakan cukup berhasil dalam membantu operasional toko, seperti mencatat transaksi penjualan, transaksi pembelian, stok barang, dan fitur-fitur lainnya. Namun, hasil ini masih harus diperiksa lebih lanjut mengingat terbatasnya jumlah pengujian yang telah dilakukan. Evaluasi lebih lanjut akan memungkinkan untuk mendapatkan hasil yang lebih akurat mengenai keberhasilan aplikasi ini secara lebih menyeluruh.",
+  "creators": "KENNETH ALEXANDER PONIMAN",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); ANITA NATHANIA PURBOWO, S.KOM. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022502/INF/2024; Kenneth alexander poniman (C14200070)",
+  "subjects": "INVENTORIES, RETAIL--COMPUTER PROGRAMS; INVENTORIES--MANAGEMENT; MOBILE APPS--DESIGN"
+}

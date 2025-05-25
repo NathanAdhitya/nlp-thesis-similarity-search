@@ -1,0 +1,14 @@
+{
+  "id": "16831",
+  "title": "Robot mobil mandiri untuk pemetaan medan",
+  "abstract": "Diawali dan micromouse robot contest pada MIT 1979. Dipikirkan bahwa micromouse bisa digunakan untuk melakukan pemetaan medan, yang dalam hal ini berupa maze dari micromouse robot contest. Desain maze yang digunakan sesuai dengan standard dari IEEE Contest Rules. Mobile robot terdiri dan empat sistem utama yaitu control system yaitu microcontroller AT89C52, differential drive motor L298 dari SGS Thomson dan sederetan sensor infra merah dan shaft counter yang berfungsi sebagai sensor dinding dan posisi kemiringan dari robot, serta module komunikasi infrared. Dari pengujian algoritma dan komunikasi infrared, serta sensor dapat dilihat bahwa mobile robot bisa digunakan untuk memetakan maze dengan baik, dimana data - data mengenai dindingnya berasal dari sensor jarak yang ada padanya dan komunikasi dengan PC {personal computer) menggunakan infrared.",
+  "creators": "BAMBANG SETIONO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/036/473; Bambang Setiono (23495093)",
+  "subjects": "MOBIL ROBOTS; ROBOTS"
+}

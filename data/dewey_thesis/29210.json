@@ -1,0 +1,14 @@
+{
+  "id": "29210",
+  "title": "Pembuatan aplikasi predictive text menggunakan metode N-Gram-Based",
+  "abstract": "Penggunaan teknologi dalam pengetikan sudah sangat berkembang. Bermula dari mesin ketik, lalu mengalami perubahan kemajuan teknologi menjadi komputer, dan yang paling marak adalah telepon genggam. Semua itu adalah media pengetikan yang masih berkembang sampai saat ini. Teknologi tidak hanya berkembang pada media pengetikannya saja, tetapi juga berkembang pada sistem proses kata. Sistem-sistem prediksi pun banyak bermunculan untuk membantu mempercepat proses pengetikan. Oleh karena itu, pada skripsi ini dilakukan pembuatan aplikasi untuk melakukan prediksi kata dengan menggunakan n-gram sebagai metode dasar melakukan proses prediksi. Proses dimulai dengan memecah kata per kata dan mengelompokkannya sesuai dengan language model. Kemudian dilakukan proses scoring untuk menentukan kata mana yang sesuai untuk menjadi pilihan prediksi kata. Hasil pengujian menunjukkan bahwa metode n-gram sebagai metode dasar dalam proses prediksi sangatlah membantu pemilahan kata, sehingga proses prediksi menjadi lebih efektif, mampu menghasilkan prediksi efektif di atas 20% dari total prediksi yang terjadi. Keystroke saving yang dapat dihasilkan dapat mencapai 50% tergantung dari data training yang digunakan. Selain dari pada metode n-gram sendiri, pengaturan bobot untuk masing-masing score kata juga sangat mempengaruhi proses prediksi kata.",
+  "creators": "SENDY ANDRIAN SUGIANTO",
+  "contributors": "Liliana (Advisor 1); Silvia Rostianingsih (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021249/INF/2013; Sendy Andrian Sugianto (26409044)",
+  "subjects": "TYPING (WRITING); PREDICTIVE ANALYTICAL SOFTWARE"
+}

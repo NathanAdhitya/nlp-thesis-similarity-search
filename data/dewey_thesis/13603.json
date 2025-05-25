@@ -1,0 +1,14 @@
+{
+  "id": "13603",
+  "title": "Perencanaan dan pembuatan pengukur COS menggunakan MCS 51",
+  "abstract": "Penurunan daya dapat terjadi karena pemakaian pada beban yang bersifat induktif maupun yang bersifat kapasitif. Besarnya penurunan daya pada beban induktif dan kapasitif tergantung dari besarnya harga cos (Jx dimana c#> adalah perbedaan sudut antara tegangan dan arus. Pada industri yang kebanyakan menggunakan beban sifatnya induktif maka dengan mengetahui besarnya cos maka perencanaan penggunaan kapasitor akan semakin mudah. Pada pengukur cos d> digital akan memudahkan pemakai untuk membaca secara cepat. Dalam Tugas akhir ini, pengukuran harga cos dilakukan oleh sebuah minimum sistem MCS 51, dimana pengukuran harga cos <3> diiakukan dengan mengukur tegangan dan arus yang dipakai oleh beban yang terlebih dahulu diturunkan oleh trafo tegangan dan trafo arus. Kemudian gelombang dari tegangan dan arus diubah dari gelombang sinusoidal menjadi gelombang persegi agar memudahkan pendeteksian besarnya perbedaan sudut antara tegangan dan arus. Perbedaan sudut antara tegangan dan arus dapat diketahui dengan memasukkan keduanya serta suatu pewaktu ke dalam gerbang logika NAND, dimana frekuensi pewaktu yang digunakan pada tugas akhir ini sebesarnya 360 kali frekuensi jala-jala Sehingga apabila satu periode pewaktu ini keluar dari gerbang logika NAND maka setara dengan 1 ?. Pengujian alat ini dengan memberikan beban induktif yaitu memasang beberapa beban yang sifatnya induktif dan kapasitif secara bergantian. Sehingga pembacaan harga cos cj> tidak hanya lag saja tetapi juga untuk lead. Alat dibuat hanya untuk frekuensi jala-jala 50 Hz. Hasil yang diperoleh dari pengujian alat pengukuran cos 0 menunjukkan bahwa ada perbedaan (kesalahan) antara + 0.056 sampai + 0.156 terhadap hasil pengukuran yang diiakukan cos meter.",
+  "creators": "DANIEL SETIAWAN",
+  "contributors": "IRWAN SAHLI (Advisor 1); HERLIANTO TENGGARA (Advisor 2); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/027/372; Daniel Setiawan (23490134)",
+  "subjects": "DETECTORS-COMPUTER PROGRAMS; INTEL MCS 51 (MICROCONTROLLER)"
+}

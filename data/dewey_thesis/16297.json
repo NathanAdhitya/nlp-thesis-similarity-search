@@ -1,0 +1,14 @@
+{
+  "id": "16297",
+  "title": "Studi tentang peta kendali X dengan ukuran sampel dan interval pengambilan sampel yang bervariasi",
+  "abstract": "Peta kendali X Shewhart telah umum digunakan dalam pengendalian proses statistis untuk data variabel. Peta kendali X Shewhart ini telah terbukti berfungsi dengan baik untuk mendeteksi pergeseran rerata yang besar, namun kurang dapat (kurang cepat) mendeteksi pergeseran rerata yang kecil atau sedang yaitu pergeseran rerata yang kurang dari atau sama dengan 1,5 standar deviasi (Montgomery, 1996: 314). Untuk mengatasi kelemahan ini, kemudian diusulkan penggunaan peta kendali X dengan ukuran sampel dan interval pengambilan sampel yang bervariasi (X chart with variable sample size and sampling interval / Combined adaptive X chart ) disingkat dengan sebutan VSSI X chart atau peta kendali X VSSI (Prabhu,1994). Peta kendali X yang menggunakan ukuran sampel yang bervariasi antara ukuran sampel maksimum dan minimum disebut X chart with variable sample size (VSS X chart atau peta kendali X VSS). Peta kendali X yang menggunakan interval waktu pengambilan sampel yang bervariasi antara interval yang maksimum dan minimum disebut X chart with variable sampling interval (VSI X chart atau peta kendali X VSI). Peta kendali X VSSI merupakan gabungan dari peta kendali 7 VSS dan peta kendali ~X VSI. Kinerja atau peta kendali X VSSI dibandingkan dengan kinerja peta kendali X Shewhart peta kendali X VSS , dan peta kendali X VSI. Dalam Tugas Akhir ini, dilakukan simulasi dan perhitungan dengan metode Rantai Markov untuk mendapatkan nilai ATS sebagai ukuran kinerja masing-masing peta kendali. Selain itu kinerja peta kendali X VSSI dan peta kendali X VSS juga dibandingkan untuk ukuran sampel kecil (ni) = 1 unit dan 2 unit.",
+  "creators": "PAULINE ASTARI SINGGIH",
+  "contributors": "Tanti Octavia (Advisor 1); Siana Halim (Advisor 2); Didik Wahjudi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 312/TI-39/2000; Pauline Astari Singgih (25496003)",
+  "subjects": "TOTAL QUALITY MANAGEMENT-STATISTICIAL METHODS"
+}

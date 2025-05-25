@@ -1,0 +1,14 @@
+{
+  "id": "23982",
+  "title": "Perencanaan dan pembuatan system pengucapan harga pada komputer yang berfungsi sebagai cash register",
+  "abstract": "Pemanfaatan cash register sebagai salah satu sarana untuk perhitungan harga sudah semakin berkembang pesat. Tetapi sering terjadi karena padatnya pembeli sehingga mengganggu penglihatan pembeli ke display cash register. Hal ini tak perlu terjadi apabila terdapat suatu system yang dapat mengucapkan harga yang tertera pada cash register. Dalam tugas akhir ini akan dibuat suatu cash register yang dapat mengucapkan harga total dari suatu pembelian. Juga diperlukan bantuan sebuah komputer yang berhngsi sebagai elemen utama dalam proses sehingga alat ini behngsi sebagai cash register. Selain diperlukan perangkat keras juga diperlukan perangkat lunak yaitu dengan bahasa Turbo Pascal. Mat yang dibuat terdiri dari dua bagian yaitu rangkaian untuk output data suara manusia dari EPROM yang berupa interface yang dipasang pada slot IBM-PC. Bagian kedua adalah rangkaian untuk perekaman suara dari dan pada RAM. Prinsip dasar dari rangkaian perekaman adalah suara manusia yang berupa sinyal analog dilewatkan rangkain delta modulasi sehingga dihasilkan sinyal digital. Sinyal digital ini kemudian dijadikan data dan disimpan kedalam EPROM dengan alamat tertentu. Sedangkan prinsip rangkaian untuk output data suara adalah dengan merubah harga akhir pembayaran menjadi beberapa variable dimana masing-masing variable mewakili lokasi awal dan akhir dari sebuah data yang disimpan di EPROM. Kemudian dengan bantuan software, data tersebut dikeluarkan dengan mengcounter alamat dari lokasi awal sampai akhir. Dari hasil pengujian telah diperoleh tampilan dan output suara yang sesuai dengan data-data yang dimasukkan. Namun demikian peralatan ini masih memerlukan beberapa penyempurnaan untuk dapat meningkatkan unjuk kerjanya terutama penyempurnaan programnya.",
+  "creators": "VERA LISTIA ASTUTIK",
+  "contributors": "AGUS MULYANTO (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1); VINCENT PRASETYO",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/023/0144; Vera Listia Astutik (23485085)",
+  "subjects": "ELECTRONIC DIGITAL COMPUTERS; COMPUTER SOUND PROCESSING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "60912",
+  "title": "Penerapan metode ANN dalam memprediksi biaya konstruksi bangunan dengan mempertimbangkan faktor makroekonomi",
+  "abstract": "Perhitungan anggaran biaya konstruksi rumah tinggal merupakan salah satu hal yang penting untuk dilakukan dalam perencanaan pembangunan. Perhitungan rencana anggaran biaya tidak mudah dan membutuhkan banyak waktu dalam pengerjaannya. Mengingat pembangunan di Indonesia terus meningkat yang disebabkan oleh markoekonomi, sehingga banyak proyek yang membutuhkan perencanaan perhitungan biaya untuk mengetahui perkiraan nilai kontrak awal proyek konstruksi tersebut. Nilai awal proyek konstruksi dapat diprediksi dengan menggunakan metode ANN. Menghasilkan model prediksi yang akurat merupakan salah satu tujuan yang ingin dicapai. Metode prediksi yang digunakan dalam penelitian ini adalah artificial neural network (ANN), dan Regresi Linier. Kedua metode tersebut akan dievaluasi sehingga didapatkan metode mana yang terbaik untuk memprediksi biaya konstruksi/m2. Dari pengumpulan data diambil 119 data yang akan digunakan. 119 data tersebut merupakan proyek dari tahun 2012 hingga tahun 2023. Hasilnya, pada data yang diuji dengan metode ANN merupakan metode dengan nilai MAPE sebesar 15.23% dan R 0.68. Pada hasil pengujian dataset, ANN merupakan metode prediksi biaya konstruksi/m2 yang terbaik.",
+  "creators": "YOSZY ALDO TONDAYANA",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Jani Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000376/MTS/2024; Yoszy Aldo Tondayana (B21220030)",
+  "subjects": "CONSTRUCTION INDUSTRY-COSTS; MACROECONOMICS"
+}

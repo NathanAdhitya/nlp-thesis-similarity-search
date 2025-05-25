@@ -1,0 +1,14 @@
+{
+  "id": "52195",
+  "title": "Sistem pager 2 arah untuk armada taxi dengan memanfaatkan radio HT",
+  "abstract": "Sistem komunikasi armada taxi konvensional dilakukan secara langsung antara operator dengan supir taxi. Permasalahan terjadi bila supir lupa alamat penumpang, maka supir akan kembali menanyakan alamat tersebut kepada operator. Hal ini tentu merepotkan operator. Solusi yang tepat untuk mengatasi masalah ini adalah dengan memberikan alamat pemesan secara tertulis dan melayani pengambilan pesanan oleh supir taxi secara otomatis. Sistem ini dibangun dengan tujuan mengirimkan informasi pesanan kepada supir taxi secara tertulis (text). Pengiriman informasi dilakukan dengan menggunakan PC yang terhubung ke radio modem dan tetap menggunakan radio HT sebagai media perantaranya. Pengirimannya dapat dilakukan baik secara broadcast ataupun private dengan variasi alamat sebanyak 248 alamat. Bahasa pemrograman yang digunakan pada PC adalah Delphi 7.0. AT89C51 digunakan sebagai pengolah data yang diterima dari PC sehingga dapat ditampilkan dalam bentuk text pada LCD. Penggunaan EEPROM diperlukan untuk menyimpan informasi pesanan, sistem juga dilengkapi dengan fitur perhitungan argo taxi. Berdasarkan hasil pengujian, sistem ini lebih praktis karena operator hanya sekali mengetikkan informasi text. Pengambilan pesanan oleh supir taxi dapat dilayani secara otomatis oleh sistem pada operator. Jarak jangkauan dari komunikasi cukup luas bila menggunakan piranti berupa antenna external. Kekurangan dari sistem ini adalah data yang dikirimkan melalui HT lebih rentan terhadap noise.",
+  "creators": "DONNY BASHKORO HURIP",
+  "contributors": "Resmana Lim (Advisor 1); Handry Khoswanto (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010705/ELK/2004; Donny Baskoro Hurip (23400116)",
+  "subjects": "COMPUTER PROGRAMMING; RADIO-TRANSMITTERS AND TRANSMISSION"
+}

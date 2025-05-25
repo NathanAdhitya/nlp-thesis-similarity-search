@@ -1,0 +1,14 @@
+{
+  "id": "59228",
+  "title": "Kustomisasi dan pengembangan modul forecasting Odoo dengan metode simple moving average, linear regression tree, dan holt-winters exponential smoothing pada CV XYZ",
+  "abstract": "CV XYZ merupakan perusahaan manufaktur yang bergerak dalam pengolahan limbah sampah plastik berupa glangsing yang diolah menjadi produk finished goods tali rafia. CV XYZ memiliki pabrik yang beroperasi di Jombang, Jawa Timur. Proses bisnis CV XYZ berfokus kepada hasil olahan dari bahan baku glangsing menjadi biji plastik dan diolah kembali menjadi produk finished goods tali rafia. Dalam menjalankan proses bisnisnya, CV XYZ telah menggunakan sistem terkomputerisasi yang hanya mencakup kepada proses pencatatan pembelian, penjualan, dan pencatatan produk perusahaan. Namun, sistem ini tidak terintegrasi prosesnya dan perusahaan membutuhkan 2 tambahan modul, yaitu peramalan dan produksi untuk menunjang kebutuhan proses bisnis perusahaan. Tugas akhir ini akan dirancang pengembangan modul peramalan dan kustomisasi modul-modul yang dibutuhkan untuk mengatasi permasalahan CV XYZ dalam membantu proses bisnis peramalan data penjualan yang memiliki pola data trend dan seasonal, proses perencanaan produksi, dan proses kalkulasi HPP. Berdasarkan penelitian yang telah dilakukan, hasil kuesioner pengguna dengan nilai rata-rata sebesar 4.754 dinilai memuaskan terhadap kustomisasi dan pengembangan modul pada Odoo. Pengembangan modul peramalan juga telah mampu menjawab kebutuhan proses bisnis perusahaan dengan penggunaan metode Holt Winters Exponential Smoothing Addtive dengan nilai error MAPE sebesar 7,7%. Kustomisasi modul-modul tambahan seperti Master Production Schedule (MPS) pemetaan wilayah di Indonesia, dan modul pesan Telegram dan Whatsapp telah mampu menjawab permasalahan kebutuhan lainnya.",
+  "creators": "AUDREY ANGGRIAWAN",
+  "contributors": "Andreas Handojo (Advisor 1); I Gede Agus Widyadana (Advisor 2); Yulia (Examination Committee 1); Alexander Setiawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022444/INF/2024; Audrey Anggriawan (C14190170)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; APPLICATION SOFTWARE--DEVELOPMENT--COMPUTER PROGRAMS; DATABASE DESIGN--COMPUTER PROGRAMS; ENTERPRISE RESOURCE PLANNING"
+}

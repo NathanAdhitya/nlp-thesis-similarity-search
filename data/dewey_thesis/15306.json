@@ -1,0 +1,14 @@
+{
+  "id": "15306",
+  "title": "Perencanaan dan pembuatan sistem pengaman pintu dengan barcode menggunakan mikrokontroler 80C31 dengan memanfaatkan jaringan komputer",
+  "abstract": "Dewasa ini tingkat kejahatan semakin tinggi, sehingga diperlukan suatu sistem pengaman yang baik. Penggunaan kunci elektronik dapat digunakan sebagai alternatif pengganti penggunaan kunci konvensional. Penggunaan barcode pada suatu kartu dapat dipakai sebagai alternatif dalam suatu sistem pengaman. Untuk menambah tingkat keamanan dapat digunakan suatu proteksi dengan menggunakan password tertentu, sehingga tidak semua orang dapat menggunakan kartu tersebut. Pada Tugas Akhir ini dibuat suatu sistem pengaman untuk beberapa pintu dengan menggunakan pembaca barcode dan memanfaatkan suatu jaringan Novell Netware. Sebagai input untuk password dari pemakai juga ditambahkan sebuah keypad. Hardware yang dibuat berupa minimum sistem dengan menggunakan mikrokontroler 80C31 sebagai pengontrol pembaca barcode dan keypad, juga sebagai pengirim dan penerima data menggunakan serial RS232 ke suatu IBM PC. Keuntungan dari sistem ini yaitu dapat dilakukan pengaksesan data secara terpusat, dan dapat dilakukan pengontrolan pada semua pintu dari semua komputer yang terhubung dengan jaringan. Disamping itu dapat ditentukan hak akses seseorang pada pintu-pintu tertentu oleh pemakai yang mempunyai wewenang. Dari pengujian yang dilakukan kesalahan yang terbesar disebabkan karena kesalahan dari pemakai dalam menggesek barcode. Hal ini sangat dipengaruhi oleh pergerakan yang relatif konstan, kecepatan gerak dari pembaca barcode dan juga lebar dari barcode. Kesalahan yang disebabkan karena transmisi baik melalui serial RS232 maupun jaringan Novell Netware sangat jarang terjadi.",
+  "creators": "HENDY GOEINAWAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); ESTHER HANAYA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/Kom/002/006; Hendy Goeinawan (23491031)",
+  "subjects": "DOORS; MICROCONTROLLER 80C31; SECURITY SYSTEMS-COMPUTER PROGRAMS"
+}

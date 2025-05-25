@@ -1,0 +1,14 @@
+{
+  "id": "7222",
+  "title": "Pemodelan perkembangan panas hidrasi pada mass concrete dengan program ANSYS",
+  "abstract": "Dalam pengecoran beton masif, diperlukan perhatian terhadap perkembangan panas hidrasi untuk menghindari terjadinya retak. Panas tersebut dihasilkan dari reaksi antara semen dengan air pada campuran beton. Hingga saat ini, hal tersebut tetap menjadi permasalahan dalam pengecoran beton masif. Oleh sebab itu, diperlukan prediksi yang tepat mengenai peningkatan temperatur akibat panas hidrasi . Dalam memodelkan peningkatan temperatur tersebut digunakan program ANSYS. Data-data thermal sebagai input variabel yang dibutuhkan adalah density, specific heat, thermal conductivity, heat transfer coefficient, dan heat generate rate. Hasilnya akan dianalisa terhadap beberapa parameter, yaitu meshing, temperatur awal, distribusi temperatur, dan tahapan pengecoran. Analisa tersebut mencakup temperatur maksimum dan perbedaan temperatur maksimum. Hasil penelitian mendapatkan bahwa pemodelan peningkatan temperatur akibat panas hidrasi dapat dilakukan dengan menggunakan program ANSYS. Hasil dari pemodelan dalam program ANSYS berupa list variable, graph variable, dan contour plot serta animate overtime sangat berguna untuk mengetahui perkembangan temperatur pada beton masif",
+  "creators": "MEILINDA SISWATI; HANDAYANI",
+  "contributors": "Antoni (Advisor 1); Handoko Sugiharto (Advisor 2); Ima Muljati Ginsar (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11011537/SIP/2007; Meilinda Siswati (21403088), Handayani (21403148)",
+  "subjects": "CONCRETE"
+}

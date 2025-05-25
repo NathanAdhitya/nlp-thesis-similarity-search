@@ -1,0 +1,14 @@
+{
+  "id": "5221",
+  "title": "Sistem otomasi pada miniatur kolam renang dengan menggunakan zelio",
+  "abstract": "Pembuatan tugas akhir ini dimaksudkan untuk mempelajari sistem otomasi yang diaplikasikan pada kolam renang yang sesungguhnya melalui sebuah miniatur kolam renang dengan menggunakan Zelio. Untuk mengendalikan input device (sensor ketinggian air, sensor kadar kaporit,sensor kejernihan air dan sensor suhu) dan output device (pompa air, filter, heater, dan valve) dalam sistem otomasi pada miniatur kolam renang ini, digunakan Zelio SR3B261BD. Zelio SR3B261BD merupakan sebuah smart relay yang memiliki CPU, memory, dan relay yang terintegrasi didalamnya. Berbeda dengan PLC biasa, Zelio SR3B261BD memiliki input analog yang berfungsi untuk memudahkan dalam penggunaan input berupa data analog dan perbandingan tegangan. Berdasarkan pengujian, besar error maksimal rata-rata device pada tugas akhir ini adalah 1,2 %, hal ini karena hasil pengukuran tegangan pada masing-masing sensor nilainya hampir sama dengan hasil perhitungan. Respon kecepatan terlama yang terjadi adalah 2 detik, dan kecepatan sistem yang terlama adalah 20 menit. Sedangkan pada sensor kejernihan air satu dengan dua nilainya berbeda, dikarenakan perbedaan letak dan jarak sensor kejernihan air satu dan dua. Sensor kejernihan air hasilnya akan akurat apabila transmitter dan receiver sensor memiliki letak dan jarak yang sama.",
+  "creators": "DERY ANDI PUTRA TJAHYONO",
+  "contributors": "Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 1); Handy Wicaksono (Advisor 2); Limboto Limantara (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No.01010557/ELK/2007; Dery Andi Putra Tjahyono (23403041)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

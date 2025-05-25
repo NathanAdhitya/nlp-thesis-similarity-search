@@ -1,0 +1,14 @@
+{
+  "id": "57451",
+  "title": "Perbandingan klasifikasi intonasi dan kecepatan berbicara menggunakan FFT, CNN, dan Google Speech to Text",
+  "abstract": "Seiring berkembangnya zaman banyak lulusan sarjana yang menganggur akibat tidak didampingi dengan soft skill public speaking yang baik. Hal ini dikarenakan jumlah lulusan mahasiswa jauh lebih banyak daripada ahli public speaking yang ada. Aspek dalam public speaking adalah gestur, mikro ekspresi, serta teknik vokal. Teknik vokal sendiri terdiri dari intonasi serta kecepatan. Teknik vokal dapat dipelajari secara mandiri namun dibutuhkan usaha yang lumayan berat. Oleh sebab dibutuhkan sistem yang dapat membantu lulusan sarjana untuk berlatih teknik vokal khususnya pada bagian kecepatan. Metode yang digunakan dalam penelitian ini adalah Fast Fourier Transform (FFT), Speech to text, serta convolutional neural network (CNN) dan spektogram. Yang akan dilakukan pada penelitian ini adalah mengkonversi audio menjadi teks untuk klasifikasi kecepatan berbicara, kemudian algoritma FFT untuk klasifikasi intonasi. CNN dan spektogram juga akan digunakan sebagai klasifikasi intonasi dan klasifikasi kesalahan kecepatan berbicara dalam 3 klasifikasi yaitu baik, terlalu cepat, serta terlalu lambat. Hasil penelitian ini menunjukkan bahwa penggunaan google speech to text masih belum dapat mengkonversi data suara secara maksimal. Untuk FFT sendiri sudah dapat digunakan untuk mengklasifikasikan intonasi menjadi tinggi dan rendah. Sedangkan CNN dan spektogram untuk intonasi mendapatkan akurasi 82% dan untuk kesalahan kecepatan berbicara mendapatkan akurasi 60%.",
+  "creators": "GREGORIUS TIFANICO SOETANTO",
+  "contributors": "Liliana (Advisor 1); Indar Sugiarto (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Leo Willyanto Santoso (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022308/INF/2023; Gregorius Tifanico Soetanto (C14190135)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; COMPUTATIONAL LINGUISTICS; NEURAL NETWORKS (COMPUTER SCIENCE)--COMPUTER PROGRAMS; SPEECH-TO-TEXT SYSTEMS--COMPUTER PROGRAMS"
+}

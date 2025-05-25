@@ -1,0 +1,14 @@
+{
+  "id": "4701",
+  "title": "Implementasi inSQL database server pada sistem SCADA",
+  "abstract": "Saat ini proses pengontrolan dan pengawasan sistem menjadi semakin mudah dan cepat, karena operator tidak harus langsung turun ke lapangan tetapi cukup melihat layar monitor yang ada di ruang kontrol dengan menggunakan sistem SCADA yaitu Wonderware InTouch 9. Wonderware juga memiliki software InSQL Server yang dapat menyimpan data plant dalam format database. Data plant yang tersimpan dalam format database akan ditampilkan dengan menggunakan Active Factory. Pada PC diberi nilai set point untuk kontrol kecepatan motor, data kecepatan akan dilewatkan melalui PLC. DAC akan mengubah data digital menjadi analog yang berupa tengangan DC, lalu inverter akan mengatur frekuensi dan kecepatan motor AC. Encoder mengukur kecepatan motor, lalu output dari encoder akan diubah menjadi tegangan oleh F to V, kemudian ADC akan mengubah menjadi data digital sehingga dapat masuk ke dalam PLC dan akan ditampilkan melalui monitor PC. Dari hasil percobaan didapatkan bahwa tag yang di import secara cyclic atau delta tidak ada bedanya karena Live Values akan menampilkan data apabila ada perubahan nilai, pada History Values dan Tag Analysis akan menampilkan data sesuai dengan pilihan.",
+  "creators": "WITANTO",
+  "contributors": "Resmana Lim (Advisor 1); Handy Wicaksono (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010797/ELK/2006; Witanto (23401130)",
+  "subjects": "SCADA (SOFTWARE SUPERVISOR CONTROL AND DATA ACQUISITION); DATABASE MICROSOFT SQL SERVER; PROGRAMMABLE CONTROLLERS"
+}

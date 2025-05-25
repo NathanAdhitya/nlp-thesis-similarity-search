@@ -1,0 +1,14 @@
+{
+  "id": "16697",
+  "title": "Perencanaan dan pembuatan digital automatic voltage regulator dengan menggunakan SCR dan mikrokontroller 8031 untuk generator AC, 3 phasa, 50 Hz, 150 KVA",
+  "abstract": "To supllied electrical power, especially with generator we must consider the output voltage from generator, it must not over the range of rules and constanly instead (? 10 % from nominal voltage). To keep the output voltage of generator constanly, an automatic voltage regulator necessary needed. The planning is for make a digital automatic voltage regulator which to apply 80C31 as microcontroller and SCR as the exciter, this device applied to sinchronous generator, bhrusless, 3 phase, 220/380, 150 kVA, which belong to PT. SUMBER AGUNG Pasuruan, East Java. From the test of this digital AVR, we can see that the error is relativly small (2,68 %), this data is take from loaded generator, and this device could give a fast response for undervoltage or overvoltage.",
+  "creators": "KURNIAWAN SOEGIJANTO",
+  "contributors": "Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 1); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/TST/005/284; Kurniawan Soegijanto (23492089)",
+  "subjects": "VOLTAGE REGULATORS-COMPUTER PROGRAMS; INTEL 8031 (MICROCONTROLLER); AUTOMATIC CONTROL; ELECTRIC MACHINERY-ALTERNATING CURRENT"
+}

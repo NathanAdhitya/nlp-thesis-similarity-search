@@ -1,0 +1,14 @@
+{
+  "id": "40262",
+  "title": "Pengembangan dan pembuatan sistem home automation memanfaatkan internet of things cloud platform pada Laboratorium Elektronika Universitas Kristen Petra",
+  "abstract": "Perancangan sistem home automation ini dilakukan untuk membuat sebuah sistem yang dapat dikendalikan secara otomatis maupun manual. Sistem yang dibuat mengendalikan lampu LED, horizontal blind, dan AC. Pembuatan sistem smart home ini menggunakan microcontroller Raspberry Pi 3 model B. Proses pengiriman data dan kontrol menggunakan protokol internet. Dengan menggunakan intenet, sistem smart home ini dapat dikendalikan dari manapun tanpa dibatasi oleh jarak selama sistem terhubung dengan internet dan perangkat kontrol yang digunakan juga terhubung dengan internet. Panel kontrol menggunakan cloud ubidots. Sistem yang dibuat selain dapat dikendalikan dari jarak jauh juga dapat dikendalikan secara langsung di tempat. Pengendalian secara langsung di tempat dilakukan dengan menggunakan tombol. Teknik pengendalian lampu menggunakan PWM, pengaturan buka tutup dari blind menggunakan motor stepper, dan kontrol AC menggunakan LED Infrared. Metode perancangan dan pembuatan yang dilakukan mulai dari pengumpulan studi literatur, implementasi sistem, pengujian sistem, analisa data, hingga penarikan kesimpulan. Hasilnya, proses otomatis dan manual dapat berjalan dengan baik. Proses kontrol menggunakan cloud ubidots juga berhasil.",
+  "creators": "GERALDY MERKUSI LIMANTA",
+  "contributors": "Resmana Lim (Advisor 1); Handry Khoswanto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010961/ELK.2017; Geraldy Merkusi Limanta (23413016)",
+  "subjects": "INTERNET (COMPUTER NETWORKS)-AUTOMATION; HOME AUTOMATION"
+}

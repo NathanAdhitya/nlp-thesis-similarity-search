@@ -1,0 +1,14 @@
+{
+  "id": "23774",
+  "title": "Perencanaan dan pembuatan alat perekam pesan pada pesawat telepon dengan fasilitas pengambilan pesan melalui jalur telepon dengan menggunakan mikroprosessor 8088",
+  "abstract": "Peran telekomunikasi dalam berbagai bidang kehidupan yang akhir-akhir ini dirasakan sedemikian penting menyebabkan meningkatnya pemakaian pesawat telepon. Hal ini nampak dengan semakin banyaknya jumlah sambungan telepon. Dalam hubungan telepon yang sudah semakin memasyarakat penyampaian pesan seringkali terhambat karena pihak yang dihubungi tidak berada di tempat sehingga pesawat telepon tidak diangkat dan pesan tak tersampaikan. Masalah dengan keadaan seperti ini biasanya diselesaikan dengan memasang rangkaian penerima pesan pada pesawat telepon, sehingga pesan .bisa direkam dan tidak hilang. Dalam hal ini pesan dapat diterima oleh si pemilik setelah si pemilik telepon berada di tempat kembali. Pada tugas akhir ini direncanakan suatu rangkaian penerima pesan pada pesawat telepon yang dilengkapi dengan pengambilan-pesan lewat jalur telepon, sehingga si pemilik sewaktu-waktu dapat mengambil pesan lewat jalur telepon (dengan menekan tombol-tombol telepon) tanpa harus kembali ke tempat telepon. Pada sistem yang dibuat ini metoda perekaman pesan adalah dengan mensample suara manusia dengan prinsip modulasi Delta dan kemudian meletakkan data digital hasil sample suara manusia pada lokasi-lokasi memori tertentu. Deteksi tombol-tombol pesawat telepon yang ditekan adalah dengan menggunakan rangkaian tone dekoder yang merubah sinyal DTMF menjadi data biner. Perangkat lunak yang dibuat akan mengatur kerja keseluruhan sistem seperti yang diharapkan. Dengan pemasangan alat ini pada pesawat telepon pesan yang harus sampai pada kita tidak akan terlewatkan.",
+  "creators": "FERRY GUNAWAN",
+  "contributors": "NAWANTO WIBOWO (Examination Committee 1); HERLIANTO TENGGARA (Advisor 2); Murtiyanto Santoso (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/004/0207; Ferry Gunawan (23487016)",
+  "subjects": "TELEPHONE ANSWERING AND RECORDING APPARATUS"
+}

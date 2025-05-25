@@ -1,0 +1,14 @@
+{
+  "id": "15781",
+  "title": "Perencanaan dan pembuatan data akuisisi board dengan menggunakan ADS 7800 dan DAC 1210 untuk IBM PC",
+  "abstract": "Dalam masa sekarang, setiap perusahaan, industri, dan laboratorium melakukan proses memperoleh, menyimpan, mengirim, menampilkan dan memproses berdasarkan data. Untuk memproses data akuisisi, diperlukan banyak peralatan diantaranya Power Supply, Function generator, Oscilloscope, Multimeter, dan Iain-lain. Untuk ini dikembangkan metode data akuisisi yang mempunyai proses cepat, ke-presisian tinggi, dan ringkas, yaitu dengan menggunakan Personal Computer (PC). Berangkat dari permasalahan diatas maka dalam Tugas Akhir ini direncanakan dan dibuat suatu Data Akuisisi Board dengan menggunakan ADS 7800 dan DAC 1210 untuk IBM PC. Alat ini dibagi menjadi 2 bagian utama yaitu bagian untuk proses mengeluarkan tegangan yaitu DAC (DAC 1210) dan bagian untuk membaca sinyal dari luar yaitu ADC (ADS 1210). Untuk proses mengeluarkan tegangan yaitu pertama-tama adalah proses initialisasi, mengeluarkan 8 bit data pertama pada Port A, mengeluarkan 4 bit data MSB pada Port B (PB0-PB3), dan Write DAC. Untuk proses mengambil data yaitu pertama-tama adalah proses initialisasi, Read ADC, membaca 8 bit data LSB (PA0-PA7), membaca 4 bit data MSB (PB0-PB3), setelah itu baru menampilkan data digital yang diambil ke dalam bentuk grafik pada layar monitor. Hasil yang dicapai adalah alat ini dapat bekerja sebagai sumber tegangan (-10 VDC sampai 10 VDC) dimana dapat mengeluarkan tegangan konstan dan tegangan berubah, serta dapat bekerja seperti oscilloscope dimana mempunyai 2 fasilitas Time/Div (2 mSec dan 20 mSec) dan dapat membaca sinyal sinus, segitiga, dan kotak/persegi yang mempunyai tegangan antara -10 V sampai 10 V. Periode minimum (per step) yang dapat dikeluarkan melalui DAC adalah 16 uSec, sedangkan periode minimum (frekwensi maximum) yang masih dapat dibaca oleh ADC adalah 0,6 mSec.",
+  "creators": "ERWIN",
+  "contributors": "Resmana Lim (Advisor 1); Vivi Anggraini (Advisor 2); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/034/333; Erwin (23491044)",
+  "subjects": "ELECTRIC CONVERTER; COMPUTER INTERFACES; COMPUTERS"
+}

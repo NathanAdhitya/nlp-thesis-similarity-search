@@ -1,0 +1,14 @@
+{
+  "id": "45668",
+  "title": "Pembuatan program absensi sidik jari untuk bagian pergudangan PT Puji Surya Indah",
+  "abstract": "Produktivitas karyawan dapat mempengaruhi kinerja sebuah perusahaan, sehingga hal tersebut harus diperhatikan & dijaga. Salah satu cara untuk menjaga produktivitas karyawan adalah memantau kinerja para karyawan melalui absensi mereka. Tetapi, dibutuhkan juga alat yang tepat untuk mencegah pemalsuan input data absensi oleh karyawan. Sebagai contoh, bila menggunakan mesin timestamp, karyawan perusahaan dapat memalsukan data absensinya dengan menitip kartu absensi (untuk distempel) kepada rekannya. Oleh karena itu, sebuah program absensi yang dibantu dengan menggunakan mesin sidik jari, akan dirancang untuk membantu perusahaan dalam menjaga produktivitas para karyawan perusahaan Puji Surya Indah. Program absensi ini terdiri dari user interface, yang akan dibuat dengan menggunakan Visual Studio 2017, dengan bahasa pemrograman Visual Basic. Selain itu, juga didirikan database untuk menyimpan data karyawan, user, dan laporan absensi dan gaji, dengan menggunakan phpMyAdmin, yang menggunakan bahasa pemrograman MySQL Hasil akhir dari pembuatan program ini adalah sebuah program absensi, yang dapat menyimpan data pribadi para karyawan, data pengguna, beserta laporan absensi dan gaji para karyawan. Kesimpulan yang didapat dari pembuatan program ini adalah bahwa program ini layak digunakan, tapi masih perlu ditambahkan fitur dan membenarkan cara data ditampilkan; secara keseluruhan, program ini mendapatkan nilai 66.6% baik dan 33.3% cukup dari para responden.",
+  "creators": "HANS SEBASTIAN THENADY",
+  "contributors": "Alexander Setiawan (Advisor 1); Agustinus Noertjahyana (Advisor 2); Silvia Rostianingsih (Examination Committee 1); Yulia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021886/INF/2019; Hans Sebastian Thenady (26414058)",
+  "subjects": "FINGERPRINTS-IDENTIFICATION; IMAGE PROCESSING--DIGITAL TECHNIQUES--SOFTWARE; APPLICATION SOFTWARE--DEVELOPMENT"
+}

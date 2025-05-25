@@ -1,0 +1,14 @@
+{
+  "id": "49810",
+  "title": "Perancangan sistem PPIC pada perusahaan seprai X",
+  "abstract": "Tugas Akhir ini dilakukan untuk merancang sistem Production Planning and Inventory Control system (PPIC) pada perusahaan Seprai X. Hingga saat ini perusahaan Seprai X belum memiliki sistem PPIC. Selama ini perusahaan melakukan produksi sesuai dengan kekurangan dari inventori maksimum yang ditetapkan perusahaan. Perancangan sistem PPIC pada tugas akhir ini meliputi peramalan, pembuatan Master Production Schedule (MPS), pembuatan Material Requirment Planning (MRP), dan perhitungan lot sizing. Hasil peramalan pada penelitian ini ditentukan berdasarkan nilai Mean Absolute Deviation (MAD) terkecil yaitu metode Winter’s Multiplicative. MRP dirancang dengan penentuan pembelian bahan bakunya menggunakan metode wagner within. Total biaya pengadaan bahan baku sebesar Rp. 34,968,493 didapatkan dengan menggunakan metode wagner within. Perancangan sistem PPIC telah dilakukan pembuatan Visual Basic Application (VBA) untuk memudahkan pengguna untuk melakukan perencanaan produksi.",
+  "creators": "GILBERT KELVIN WIDARTA",
+  "contributors": "Tanti Octavia (Advisor 1); I Gede Agus Widyadana (Advisor 2); Felecia, S.T., M.Sc. (Examination Committee 1); Iwan Halim Sahputra, S.T., M.Sc., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022408/IND/2021; Gilbert Kelvin Widarta (C13170082)",
+  "subjects": "INVENTORY CONTROL; PRODUCTION PLANNING"
+}

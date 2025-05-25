@@ -1,0 +1,14 @@
+{
+  "id": "1936",
+  "title": "Perancangan solenoid coil sebagai metal detektor",
+  "abstract": "Mendeteksi adanya logam dapat menggunakan banyak cara. Salah satu cara yang dapat digunakan untuk mendeteksi logam adalah dengan menggunakan solenoid coil. Logam yang dapat dideteksi dengan menggunakan metode ini adalah jenis logam yang memiliki sifat kemagnetan, antara lain logam diamagnetik, logam paramagnetik dan logam feromagnetik. Metode yang digunakan adalah sebuah solenoid coil dengan sumber tegangan dan frekuensi menghasilkan medan magnetik. Logam yang ada disekitar solenoid coil menyerap medan magnet yang dihasilkan oleh solenoid coil. Penyerapan ini menyebabkan induktansi pada coil berubah. Perubahan pada induktansi dapat digunakan sebagai petunjuk adanya logam disekitar solenoid coil. Perubahan dapat diamati pada meter display. Hasil yang didapatkan adalah dapat mendeteksi berbagai jenis logam yang berukuran penampang luas yang besar. Luasan penampang terkecil yang dapat dideteksi berukuran 15 cm x 1.2 cm (persegi) , pada frekuensi 220 KHz dan pada jarak 0.3 cm dari kumparan deteksi didapat nilai Vpp pada output sebesar 7.22 Volt. Vpp output dalam keadaan normal (tidak mendeteksi adanya logam) adalah sebesar 5.5 Volt.",
+  "creators": "ANDY XUMARA",
+  "contributors": "YOHANES T. D. S (Advisor 1); Indar Sugiarto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010714/ELK/2005; Andy Xumara (23400095)",
+  "subjects": "METAL DETECTORS; DETECTORS"
+}

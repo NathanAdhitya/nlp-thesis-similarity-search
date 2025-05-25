@@ -1,0 +1,14 @@
+{
+  "id": "27262",
+  "title": "Tinjauan perhitungan penyederhanaan untuk space frame (metode unistrut)",
+  "abstract": "Space frame adalah rangka batang yang sangat kompleks dan mempunyai derajat kestatistaktentuan tingkat tinggi, sehingga perhitungan eksak secara perhitungan tangan bisa dikatakan tidak mungkin. Sebelum ditemukannya komputer, perhitungan space frame hanya bisa dilakukan secara pendekatan. Kesulitan utama perhitungan pendekatan dalam space frame terdapat pada pengambilan asumsi letak pias kritis/utama dan asumsi distribusi beban pada pias-pias tersebut. Karena itu perhitungan pendekatan, umumnya hanya dapat dipakai pada struktur sederhana, misalnya space frame double layer berbentuk persegi empat. Salah satu metode perhitungan pendekatan yang ada adalah perhitungan pendekatan \"UNISTRUT\". Metode pendekatan ini dibuat berdasarkan hasil pengujian terhadap 5 (lima) macam struktur. Untuk menguji metode pendekatan \"UNISTRUT\", dilakukan perbandingan hasil antara perhitungan \"UNISTRUT\" dengan perhitungan menggunakan paket program SAP'80. Selain melakukan perhitungan dengan distribusi beban menurut metode pendekatan \"UNISTRUT\", juga dilakukan perhitungan dengan menggunakan distribusi beban secara tributary area. Hasil perhitungan pendekatan \"UNISTRUT\" terhadap struktur space frame double layer berbentuk bujur sangkar dengan 4 (empat) perletakan kolom (example 1 sampai dengan example 4) memberikan hasil yang cukup baik. Sedangkan untuk space frame double layer berbentuk persegi panjang dengan perletakan dinding paralel atau dinding keliling (example 6, 7, 8) memberikan hasil yang tidak baik. Perhitungan pendekatan dengan menggunakan distribusi beban usulan (secara tributary area) juga memberikan hasil yang tidak baik.",
+  "creators": "NAGAWAN SOEGENG; IRWAN GIANTO",
+  "contributors": "Benjamin Lumantarna (Advisor 1); SUHENDRO RATNAWIDJAJA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 410 S; Nagawan Soegeng (284033), Irwan Gianto (284065)",
+  "subjects": "SPACE FRAME STRUCTURES"
+}

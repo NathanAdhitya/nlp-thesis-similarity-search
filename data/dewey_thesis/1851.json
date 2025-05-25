@@ -1,0 +1,14 @@
+{
+  "id": "1851",
+  "title": "Pembuatan situs WAP untuk download aplikasi Java ke telepon seluler beserta contoh aplikasinya",
+  "abstract": "Pada saat ini ketersediaan situs WAP masih sedikit, apalagi yang menyediakan aplikasi Java yang dapat di-download. Sehingga sedikit juga masyarakat yang memiliki telepon seluler dengan kemampuan WAP/GPRS mengerti fungsi dari fitur tersebut dan menggunakannya. Oleh karena itu dibuat situs untuk mendayagunakan teknologi ini sebagai tugas akhir. Situs WAP dibuat dengan WML dan dilengkapi dengan sistem registrasi, verifikasi dan autentikasi yang dibuat dengan menggunakan PHP. Database server MySQL digunakan untuk menyimpan data dari hasil registrasi. Untuk menjadikan komputer sebagai server, maka digunakan Apache. Pada situs ini juga dilengkapi dengan contoh aplikasi Java yang dibuat dengan platform J2ME. Situs ini telah diuji dengan berbagai macam telepon seluler dengan kemampuan WAP/GPRS dan Java. Hasil uji menunjukkan pengunjung dapat melakukan registrasi dan men-download aplikasi Java dengan telepon selulernya. Pengunjung dapat dengan mudah mendayagunakan teknologi ini.",
+  "creators": "GIYONO WIJAYA",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/662/ELK/2003; Givono Wijaya (23498102)",
+  "subjects": "WIRELESS COMMUNICATION SYSTEMS"
+}

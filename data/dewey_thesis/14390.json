@@ -1,0 +1,14 @@
+{
+  "id": "14390",
+  "title": "Perencanaan dan pembuatan nicam dan zweiton decoder",
+  "abstract": "Saat ini ada dua macam sistem suara yang digunakan pada televisi, yaitu NICAM Stereo dan Zweiton Stereo. Sistem Zweiton menggunakan sinyal analog, sedang NICAM menggunakan sinyal digital. IC Zweiton yang digunakan disini adalah TDA6612-5 yang merupakan keluaran Siemens. Di dalam IC ini telah terdapat rangkaian filter pilot carrier, rangkaian identifikasi pilot tone, rangkaian clock PLL, rangkaian matrix serta rangkaian switch yang menghubungkan sistem Zweiton dan NICAM. Sedangkan IC NICAM yang digunakan adalah SAA7283ZP Baik TDA6612-5 maupuan SAA7283ZP, pengontro1annya dilakukan dengan mikroprosessor/mikrokontro11er melalui sistem I 2 C. Sistem yang dikembangkan oleh Philips ini merupakan sistem dua wire bus bidireksiona1 yang cukup sederhana. Data serial (SDA) dan clock serial (SCL) membawa informasi antar peralatan yang dihubungkan dengan bus. Masing-masing alat dikenali dengan sebuah alamat yang unik dan dapat dioperasikan untuk mengirim dan menerima tergantung fungsi dari peralatan yang digunakan saat itu. PCF8584 digunakan sebagai interface antara parallel mikroprosessor/mikrokontro1ler bus dengan serial I a C bus. PCF8584 mengontrol pengiriman dan penerimaan data pada I*C bus dan parallel bus. Dengan memakai sistem NICAM dan Zweiton ini, kita dapat memodifikasi televisi set mono menjadi stereo dan dua bahasa. Ternyata sistem Zweiton lebih banyak dipakai oleh stasiun pemancar televisi di Indonesia daripada sistem NICAM.",
+  "creators": "ANIES HANNAWATI",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); SOETIKNO (Examination Committee 1); Resmana Lim (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/012/311; Anies Hannawati (23492031)",
+  "subjects": "DECODERS (ELECTRONICS); STEREOSCOPIC TELEVISION"
+}

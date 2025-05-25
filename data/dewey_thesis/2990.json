@@ -1,0 +1,14 @@
+{
+  "id": "2990",
+  "title": "Prototype simulasi lintasan matahari",
+  "abstract": "Dalam dunia pendidikan sekarang ini banyak dikenal alat bantu pendidikan yang sering disebut education tool. Education tool ini diharapkan dapat membantu para pengajar dalam memperjelas topik yang dibahas kepada para pelajar. Pembuatan Tugas Akhir ini berhubungan dengan pembuatan salah satu alat bantu pendidikan untuk jurusan arsitektur. Dalam mendesign suatu bangunan harus diperhitungakan bagaimana pergerakan semu matahari dari hari ke hari di tempat itu (dengan memperhitungkan altitude dan latitude daerah itu). Hal ini diperlukan untuk mengatur pencahayaan alami dalam ruang dan suhu dalam ruangan. Untuk mempermudah pengguna menggunakan alat ini maka dibutuhkan suatu rangkaian kontrol mekanik dan elektronik. Untuk rangkaian kontrol elektronik digunakan mikrokontroler AT89S51 sebagai otaknya, dan motor DC sebagai penggerak. Agar penggunaan alat dapat dimengerti oleh setiap pengguna maka disediakan LCD dan keypad sebagai pemandu. Dalam pengaturan posisi motor dapat dilakukan secara otomatis yaitu dengan memasukkan derajat yang diinginkan melalui keypad, atau dapat juga dilakukan secara manual dengan menggunakan keypad. Dalam pembuatan alat ini pergerakan altitude hanya terbatas dari 6? - 173? dan latitude dari 15? - 168?, dan pada pergerakkan altitude terdapat error maximal sebesar 4?, dan pergerakkan secara otomatis hanya dapat dilakukan dari sisi timur ke barat saja.",
+  "creators": "ARIS SETIAWAN",
+  "contributors": "Resmana Lim (Advisor 1); Frans Soehartono (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010730B/ELK/2005; Aris Setiawan (23400076)",
+  "subjects": "MICROCONTROLLERS"
+}

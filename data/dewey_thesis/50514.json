@@ -1,0 +1,14 @@
+{
+  "id": "50514",
+  "title": "Business intelligence using trackers, google big query, airflow, and tableau: a case study at PT XYZ E-commerce",
+  "abstract": "E-Commerce is one field that has rapid growth and extensive impact on society. As society started to adopt E-Commerce services, there is a lot of data that must be handled properly due to the increasing traffic. Instead of only using the data for gaining customers, E-Commerce needs to improve the performance of the sellers. Business Intelligence supported by Google Big Query is utilized to process the big data which leads to business decisions. Beforehand, the data must be collected from the trackers to capture the whole session of customers’ interaction (perform traffic analysis). In addition, the data is scheduled to update regularly by using Airflow to ensure data relevancy. Often times historical data which is represented in Tableau dashboard is used to learn the pattern and evaluate the performance in the past. Tableau dashboard helps the data to speak and notify some insights to the business users. However, it might fail to catch some occurrences when the data is limited. A simple Structured Query Language (SQL) reinforced by Business intelligence sense could be used as an early detection tool to address this condition. This technique helps company to identify fraud practices which usually unique from case to case immediately.",
+  "creators": "Hans Tanto",
+  "contributors": "Indriati Njoto Bisono (Advisor 1); Liauw Toong Tjiek, S.T., M.S., Ph.D. (Examination Committee 1); Hanijanto Soewandi (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Undergraduate Thesis No. 02020001/IBE/2021; Hans Tanto (C13170029)",
+  "subjects": "BUSINESS INTELLIGENCE; ELECTRONIC COMMERCE; DATABASE MANAGEMENT"
+}

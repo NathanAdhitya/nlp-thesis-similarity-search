@@ -1,0 +1,14 @@
+{
+  "id": "30007",
+  "title": "Aplikasi automatic image atitching pada kumpulan gambar dalam satu scene",
+  "abstract": "Semakin populernya panorama image membuat banyak metode pembuatan panorama bermunculan seperti Sweep Panorama maupun penelitian 360° Panorama Stitching. Pada implementasinya, kedua metode ini memiliki kelemahan yaitu hanya dapat menggabungkan gambar dengan pattern horizontal maupun vertical axis saja, sehingga pengambilan hanya dapat dilakukan satu arah, oleh karena itu kemungkinan gagal dalam mendapatkan hasil yang baik maupun kegagalan dalam proses matching sehingga user harus mengulang proses dari awal. Selain itu, terdapat kelemahan terhadap pengambilan gambar pada objek yang bergerak, yang menimbulkan efek ghosting maupun kegagalan dalam stitching. Untuk mengatasi hal tersebut, dibuatlah aplikasi yang dapat menggabungkan image secara automatic, sehingga user hanya perlu melakukan input gambar dan langsung mendapatkan output dalam bentuk panorama. Aplikasi ini pun dapat mendeteksi lebih dari satu panorama sehingga user tidak perlu memilah- milah gambar ataupun memberi urutan pada gambar terlebih dahulu. Langkah- langkah yang digunakan untuk melakukan proses Automatic Stitching yaitu Extract SIFT Feature untuk mendapatkan keypoint dari gambar input, kemudian proses Feature Matching yang digunakan untuk mencari kesamaan dalam gambar (daerah overlapped). Setelah diketahui relasi dari semua gambar input, dilakukan proses Stitching Sequence untuk mengetahui urutan penggabungan gambar. Langkah terakhir adalah Stitching, yaitu langkah untuk menggabungkan semua gambar input. Melalui hasil pengujian, stitching image berhasil dilakukan akan tetapi kualitas hasil akhir sangat bergantung pada gambar input. Gambar input yang baik memiliki intensitas yang cukup tinggi dan memiliki banyak object di dalamnya, sehingga memiliki banyak feature yang ditemukan. Tingkat keberhasilan juga dipengaruhi oleh setting aplikasi terhadap jumlah iterasi Best Bin First Search, jumlah Match Verification threshold, dan besaran RANSAC threshold.",
+  "creators": "EDNA RICKY FAJAR ADI P.",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021287/INF/2014; Edna Ricky Fajar Adi Putra (26410082)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES; CORPORATE IMAGE-COMPUTER PROGRAMS"
+}

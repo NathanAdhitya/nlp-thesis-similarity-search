@@ -1,0 +1,14 @@
+{
+  "id": "48842",
+  "title": "Perbandingan analisis faktor penentu penjualan PT X menggunakan lasso regression dan gradient boosted regression tree",
+  "abstract": "Informasi menjadi aset yang sangat penting dalam sebuah organisasi. PT X adalah sebuah perusahaan yang memproduksi lem dan cat. Staf perusahaan merasa kesulitan untuk menganalisis data karena harus diolah satu per satu. Terlebih, proses analisis data yang dilakukan langsung di database operasional dapat memperlambat kinerja database operasional tersebut. Kemudian, ketika Board of Director ingin mengetahui mengapa penjualan mengalami peningkatan atau penurunan, para pegawai menyimpulkan faktor-faktor penyebabnya berdasarkan asumsi belaka. Penelitian ini mengimplementasikan data warehouse dengan bantuan ETL tools. Lalu, analisis dilakukan terhadap data transaksi penjualan PT X untuk mengetahui faktor-faktor yang memiliki pengaruh dalam menentukan tingkat penjualan produk-produknya. Model faktor dibentuk untuk brand-brand perusahaan PT X yang tingkat penjualannya tidak memuaskan selama beberapa tahun belakangan. Faktor yang diuji antara lain harga produk, ketersediaan stok barang, ketepatan waktu pengiriman barang, jumlah barang retur, bulan pemesanan, dan harga bahan baku. Analisis faktor penentu ini dilakukan menggunakan 2 metode yaitu, LASSO regression dan Gradient Boosted Regression Tree. Hasil analisis dari kedua metode diuji berdasarkan nilai Root Mean Squared Error, R-squared, dan Variance Inflation Factor untuk mengetahui model faktor yang lebih baik. Berdasarkan pengujian yang dilakukan, analisis menggunakan metode LASSO regression dan Gradient Boosted Regression Tree berhasil memilih faktorfaktor yang berpengaruh signifikan terhadap penjualan PT X. Kedua metode bisa menghasilkan model faktor yang berbeda. Namun, model faktor dari Gradient Boosted Regression Tree menunjukkan tingkat akurasi yang lebih baik daripada LASSO regression. Supaya perusahaan dapat melakukan analisis faktor penentu di kemudian hari, sebuah program dibuat dengan metode Gradient Boosted Regression Tree.",
+  "creators": "JESSICA ATHALIA",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Silvia Rostianingsih (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1); Yulia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022036/INF/2021; Jessica Athalia (C14170066)",
+  "subjects": "DATA WAREHOUSING"
+}

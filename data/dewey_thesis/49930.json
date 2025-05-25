@@ -1,0 +1,14 @@
+{
+  "id": "49930",
+  "title": "Perancangan sistem kontrol robot desinfeksi ruangan dengan lampu UV-C",
+  "abstract": "Pandemi Covid-19, yang disebabkan oleh coronavirus jenis baru bernama SARS-CoV-2, menjadi sorotan dari semua negara di dunia ini. Hal ini disebabkan karena pandemi ini telah memakan banyak sekali korban jiwa dan sampai buku ini ditulis virus ini terus menyebar ke seluruh penjuru dunia. Tugas akhir ini bertujuan untuk membuat sebuah robot yang dapat mendesinfeksi ruangan dengan lampu UV-C secara semi-otomatis menggunakan metode magnetic line following. Robot dikerjakan oleh dua mahasiswa dengan pembagian tugas yang terstruktur sebagai bagian dari penelitian Tugas Akhir kedua mahasiswa. Lampu UV-C digunakan sebagai agen desinfeksi karena tidak mengandung bahan kimia. Namun paparan sinar UV-C sangat berbahaya bagi bagi manusia, sehingga robot ini dilengkapi dengan sensor pendeteksi gerakan manusia. Metode magnetic line following digunakan karena dapat digunakan dalam kondisi lingkungan yang kotor dan gelap sehingga robot ini cocok digunakan di berbagai macam kondisi. Robot desinfeksi ruangan ini menggunakan Raspberry Pi 4 sebagai mikrokontroler utama robot dan Raspberry Pi 400 sebagai mikrokontroler user interface (UI). Keseluruhan program pada sistem robot dibuat dengan middleware Robot Operating system (ROS) dengan bahasa pemrograman Python, sedangkan untuk user interface dibuat menggunakan PyQt5 dengan bahasa pemrograman Python. Hasil dari pengujian ini dapat disimpulkan bahwa dengan baterai yang dimilikinya, robot ini mampu mendesinfeksi area seluar 1575 m² dengan waktu 52 menit dalam sekali charge. Selain itu konfigurasi sensor pendeteksi gerakan manusia, membuat robot ini mampu mendeteksi gerakan manusia dalam radius 6 meter dari robot dengan tingkat keberhasilan 100%. Namun terdapat sebuah blind spot yang terletak di 100 cm pertama di sekitar robot, dengan ketinggian maksimal 170 cm.",
+  "creators": "JEREMY WINSTON",
+  "contributors": "Indar Sugiarto (Advisor 1); Handy Wicaksono (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011014/ELK/2021; Jeremy Winston (C11170013)",
+  "subjects": "ROBOTS--CONTROL SYSTEMS--DESIGN AND CONSTRUCTION; ULTRAVIOLET LIGHT; ROBOTS--DESIGN"
+}

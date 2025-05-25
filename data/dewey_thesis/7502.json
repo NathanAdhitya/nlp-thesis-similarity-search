@@ -1,0 +1,14 @@
+{
+  "id": "7502",
+  "title": "Kontrol robot lengan pada proses pengecatan menggunakan mikrokontroler MCS-51",
+  "abstract": "Sistem robot di dunia industri selama ini biasanya terdiri atas dua unsur penting, yaitu The Arm (robot lengan) sebagai unsur mekanik dan The Control sebagai unsur kontrol yang berfungsi mengendalikan pergerakan dari robot. Sistem yang dibuat kali ini adalah mengenai unsur kontrol, dalam hal ini digunakan pada simulasi proses pengecatan yang berbasis mikrokontroler MCS-51. Sistem kontrol robot lengan ini tersusun dari tujuh bagian rangkaian elektronik pendukung sistem, yaitu rangkaian keypad, minimum system, driver motor, ADC, memori eksternal, LCD dan rangkaian pengkondisi sinyal. Pengujian yang dilakukan adalah dengan memberikan variasi beban antara 100 gram sampai dengan 700 gram pada bagian ujung robot lengan dan akan dilihat arus yang dibutuhkan motor untuk mengangkat beban maksimal. Didapatkan bahwa, arus yang dibutuhkan untuk mengangkat beban maksimal dengan berat 700 gram adalah sebesar 0,36 A. Dari total besar arus yang sudah diketahui didapatkan bahwa daya maksimal yang dibutuhkan oleh semua motor penggerak robot lengan adalah sebesar 6,2 Watt. Sedangkan untuk menyelesaikan simulasi pergerakan proses pengecatan dalam tabung dengan diameter ?140 cm, waktu rata-rata yang dibutuhkan adalah sebesar 7 menit 59 detik.",
+  "creators": "DONY CAHYADY",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Indar Sugiarto (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No.02010756/ELK/2005; Dony Cahyady (23400133)",
+  "subjects": "ROBOTS; ROBOTICS"
+}

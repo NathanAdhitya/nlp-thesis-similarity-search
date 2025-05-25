@@ -1,0 +1,14 @@
+{
+  "id": "59209",
+  "title": "Aplikasi chatbot pendeteksi bakat dan minat siswa pada Petraverse dengan metode Bidirectional Long Short-Term Memory (Bi-LSTM)",
+  "abstract": "Metaverse adalah dunia virtual digital yang memungkinkan pendidikan online, seperti pada Petraverse. Namun, tidak adanya guru pembimbing menjadi masalah karena tidak adanya pengarahan bagi siswa Petravese ketika ingin mengikuti kelas (course) agar dapat memgembangkan bakat dan minat mereka. Petraverse ingin memanfaatkan chatbot bernama LIGHTBot dalam Bahasa Indonesia sebagai penasehat akademik bagi siswa peserta Petraverse. Sebelum siswa mengikuti kelas (course) pada Petraverse, LIGHTBot akan mengidentifikasi bakat dan minat siswa terlebih dahulu. LIGHTBot akan dibangun menggunakan metode Deep Learning (Bi-LSTM) untuk mendeteksi bakat dan minat siswa. Bidirectional Long Short-Term Memory (Bi-LSTM) menggunakan word embedding Word2Vec mencapai akurasi test tertinggi sebesar 89%.",
+  "creators": "JOSHLYN MAELEN CANDRA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022451/INF/2024; Joshlyn Maelen Candra (C14200035)",
+  "subjects": "CHATBOTS--COMPUTER PROGRAMS; DEEP LEARNING (MACHINE LEARNING); METAVERSE"
+}

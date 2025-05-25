@@ -1,0 +1,14 @@
+{
+  "id": "17295",
+  "title": "Perencanaan dan pembuatan KWH meter elektronik single phase 220V 50 HZ arus maksimum 10A",
+  "abstract": "Seiring dengan kemajuan teknologi pada umumnya dan sistera komputasi pada khususnya, hampir semua aspek kehidupan semakin menjurus ke otoraatisasi, yang secara umum bermaksud untuk mempermudah kehidupan manusia. Salah satu penerapan dari otomatisasi adalah perancangan KWH meter digital sebagai pengganti KWH meter analog yang sudah umum. Perencanaan ditujukan untuk lebih mempermudah pengoperasian dan lebih meningkatkan fungsi-fungsi pendataan. Perhitungan daya yang semula dilakukan oleh kompo-nen- komponen analog digantikan oleh sistem mikroprosesor yang dilakukan oleh mikrokontroler 8031 yang berfungsi untuk menghitung data-data digital yang mewakili nilai tegangan dan nilai arus yang telah dikonversikan oleh ADC sehingga diperoleh nilai dari daya yang hendak diukur. Karena rumus-rumus untuk menghitung daya, energi listrik (KWH) dan cos 0 telah tertentu, maka berdasarkan kemampuan aritmatika dari mikrokontroler 8031 maka semua nilai-nilai di atas dapat dihitung dan ditampilkan dalam bentuk display LED seven segment. Dengan alat ini maka pengoperasian dapat lebih dipermudah dan pengukuran dapat lebih akurat.",
+  "creators": "HUTOMO NYOMAN",
+  "contributors": "BUNAWI GUNAWIDJAJA (Advisor 1); Lauw Lim Un Tung (Advisor 2); ONTOSENO PENANGSANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/TST/022/176; Hutomo Nyoman (23489039)",
+  "subjects": "ELECTRIC METER-COMPUTER PROGRAMS; WATT-HOUR METER-COMPUTER PROGRAMS"
+}

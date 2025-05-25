@@ -1,0 +1,14 @@
+{
+  "id": "26052",
+  "title": "Sistem pengendalian ucapan dengan menggunakan speech processor SP-1000 untuk komputer IBM PC",
+  "abstract": "Pengenalan suara manusia merupakan dasar untuk membuat peralatan-peralatan yang dapat diperintah secara lisan. Dengan adanya kemampuan diperintah secara lisan maka penggunaan alat tersebut menjadi lebih mudah. Salah satu penerapan perintah lisan itu adalah menggantikan fungsi keyboard pada komputer. Ide merealisasi peralatan seperti ini ditunjang oleh kemampuan mikroprosessor yang makin lama makin meningkat. Idealnya, suatu sistem pengenal ucapan harus mampu mengenal banyak perbendaharaan kata dan tidak bergantung pada siapa yang berbicara (speaker independent). Untuk tujuan praktis dan sebagai langkah awal dalam merealisasi ide tersebut, dapat dipilih sistem jenis speaker dependent, di mana pemakai harus menyimpan terlebih dahulu ucapan-ucapan yang akan dipakai. Untuk pemrosesan data digunakan sebuah mikrokomputer IBM PC. Pada prinsipnya, suara setiap manusia mempunyai fonem dasar yang berbeda. Dalam tugas akhir ini digunakan representasi gelombang bentuk parameter yaitu Kode Peramalan Linear ( LPC ) untuk membedakan setiap sinyal ucapan yang masuk. Salah satu IC yang menggunakan LPC adalah SP-1000. Agar ucapan yang masuk tidak tercampur dengan suara yang bukan ucapan maka dibuat bandpass filter. Output dari bandpass filter ini dimasukkan ke analog to digital konverter agar dapat dihubungkan dengan komputer. Perangkat lunak yang dibuat digunakan untuk memroses data yang didapat dari SP-1000 menjadi sebuah template. Untuk setiap input suara yang masuk akan dilakukan proses matching terhadap template dari suara tersebut dengan template pembanding yang telah ada. Dalam hal ini template pembanding yang paling cocok yang akan dipilih.",
+  "creators": "DENY MURNIADI",
+  "contributors": "HANDAYANI T. (Advisor 1); Caroline Chan (Advisor 2); MOCHAMAD HEROE (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/007/0066; Deny Murniadi (485017)",
+  "subjects": "SPEECH PERCEPTION"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "15356",
+  "title": "Pengenalan bentuk mobil dan penghitung dengan teknologi image processing",
+  "abstract": "Untuk menghitung jumlah mobil yang masuk dan yang keluar dari area parkir dibutuhkan sensor yang dapat mendeteksi mobil dan membedakannya dengan objek lain. Sensor yang konvensional sukar untuk membedakan mobil dengan objek lainnya. Karena itu dipilih kamera sebagai sensor alternatif untuk mengatasi hal ini. Tentu untuk mengenali mobil dan membedakannya dengan objek yang lain dibutuhkan teknologi image processing. Metode yang digunakan untuk pengenalan objek mobil dalam image yang ditangkap oleh kamera adalah Template Matching dan pengembangan dari metode ini, Gabor Filter. Dua macam pengujian dilakukan pada kedua metode ini. Pengujian pertama adalah pengujian similarity untuk mengenali mobil yang paling mirip dengan template yang tersedia. Pengujian kedua adalah pengujian pembedaan, yaitu dengan membandingkan satu mobil (yaitu satu mobil sedan, satu mobil niaga dan satu mobil pickup) dengan template yang tersedia untuk mencari tingkat similarity setiap templatenya. Template Matching menghasilkan similarity yang lebih tinggi dari Gabor Filter. Namun untuk pembedaan mobil, Gabor Filter memberikan hasil yang lebih baik. Hal ini dapat dilihat dari tingginya nilai standar deviasi pada Gabor Filter. Aplikasi dari sistem ini dapat diterapkan pada lahan parkir dengan menggunakan dua buah kamera. Satu kamera diletakkan di pintu masuk dan satu lagi di pintu keluar.",
+  "creators": "ANDRE TEGUH GUNTORO",
+  "contributors": "Thiang (Advisor 1); Murtiyanto Santoso (Examination Committee 1); Irwan Kristanto Julistiono (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/045/482; Andre Teguh Guntoro (23496083)",
+  "subjects": "IMAGE PROCESING"
+}

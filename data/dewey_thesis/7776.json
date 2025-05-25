@@ -1,0 +1,14 @@
+{
+  "id": "7776",
+  "title": "Line tracker mobile robot yang memanfaatkan sel surya sebagai sumber energi",
+  "abstract": "Dewasa ini, energi merupakan sesuatu yang sangat diperlukan dalam berbagai aspek kehidupan. Timbulnya permasalahan energi dalam hal bahan bakar kendaraan bermotor merupakan salah satu kendala yang dihadapi masyarakat saat ini. Untuk itu diperlukan sebuah energi alternatif untuk mengatasi masalah energi saat ini, salah satunya adalah dengan memanfaatkan energi matahari. Selain itu, energi matahari sangat efektif jika digunakan sebagai sumber energi untuk menjalankan sebuah device dimana di tempat device tersebut berada, banyak mendapatkan sinar matahari. Pada tugas akhir ini, dibuat sebuah line tracker mobile robot yang tenaga penggeraknya memanfaatkan energi matahari, yaitu dengan menggunakan sel surya sebagai pengubah energi matahari tersebut menjadi energi listrik. Robot mobil ini dikendalikan oleh sebuah microcontroller AT89C2051 untuk menggerakkan dua buah motor DC, dan sebagai sensornya digunakan photoreflector. Line tracker mobile robot ini dapat mengikuti garis hitam pada arena lintasan putih dengan sudut belokan minimum 80. Mobile robot ini berukuran 25,4 ? 19,2 ? 6,2 cm dengan berat 531 gram dan konsumsi arus saat pada lintasan lurus 57 mA dan saat mobile robot melakukan belokan 122 mA (untuk sudut belokan 90). Lebar lintasan hitam yang digunakan selebar 1,5 cm. Tegangan kerja yang digunakan adalah 3 volt DC. Kekurangan mobile robot terletak pada roda belakang yang kurang dapat bergerak bebas sehingga menghambat pergerakkan dari mobile robot.",
+  "creators": "DHARMAWAN ANUGERAH",
+  "contributors": "Hany Ferdinando (Advisor 1); Indar Sugiarto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No.02010748/ELK/2005; Dharmawan Anugerah (23499105)",
+  "subjects": "ROBOTS-CONTROL SYSTEMS; MOBILE ROBOTS"
+}

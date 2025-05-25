@@ -1,0 +1,14 @@
+{
+  "id": "16389",
+  "title": "Perencanaan dan pembuatan alat pengatur pencahayaan lampu fluorescent",
+  "abstract": "In this thesys, a device has been made which is intended to control the light of fluorescent lamp. This dimmer need some supporting circuit, like : VCO circuit, frequency devider circuit with factor 2, grounding separator circuit and fluorescent lamp driver circuit. The voltage being received by the VCO will be changed to be square signal, then devided into two contra signal. The square signal have to pass grounding separator circuit. This circuit have function to separate the grounding of digital circuit with the grounding of voltage used by lamp driver. This separator was needed so that digital circuit was not influenced by the noise that rises because load in electric line. Signal that produced by grounding separator was used to drive driver circuit of fluorescent lamp. Laboratorium testing has shown, frequency fluorescent lamp can be changed, so we can control the lightning lamp",
+  "creators": "ONG JOU HOK",
+  "contributors": "IRWAN SAHLI (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripis No. 99/E/EL/004/398; Ong Jou Hok (23491084)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; FLUORESCENT LIGHTING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "30199",
+  "title": "Website untuk pemantauan lokasi sales melalui aplikasi android",
+  "abstract": "Di dalam skripsi ini dibuat sebuah sistem website yang melakukan pemantauan lokasi sales melalui sebuah aplikasi android. Data lokasi didapat berdasarkan aplikasi yang dibuat di android, yang kemudian data tersebut dikirim ke database server yang kemudian data tersebut ditampilkan pada sebuah peta dalam bentuk website. Informasi yang disajikan bersifat rahasia perusahaan sehingga hanya admin atau orang yang bertugas sebagai pemantau lokasi sales yang dapat mengakses website tersebut. Pengujian dilakukan pada seluruh fitur-fitur yang disediakan di dalam website mulai dari fitur registrasi, pemberian hak akses, proses update data, dan tampilan dari informasi database yang didapat dari data lokasi yang dikirim aplikasi android yang disajikan dalam website. Hasil dari pengujian menunjukkan bahwa sistem telah mampu menerapkan beberapa fitur dengan baik. Kelemahan dari system ini adalah belum dapat melakukan zoom menuju titik lokasi pada peta yang ingin dipantau berdasarkan salah satu IDSales yang dipilih dan pada bagian aplikasi android yang belum dapat menerima pesan yang dikirim dari website melalui database.",
+  "creators": "KRISTIAN ALEXANDER K",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010125/ELK/2014; Kristian Alexander Kurniawan (23407005)",
+  "subjects": "WEBSITE DEVELOPMENT; APPLICATION SOFTWARE; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "20828",
+  "title": "Perencanaan dan pembuatan interface untuk memasukkan pola-pola gambar ke mikro komputer IBM PC melalui penggambaran pd meja gambar secara langsung",
+  "abstract": "Kemajuan di bidang elektronika khususnya perkembangan komputer pribadi pada dewasa ini berkembang dengan pesat.Komputer pribadi atau lebih dikenal dengan sebutan PC telah dapat dimanfaatkan untuk penyimpanan dan pengolahan pola-pola gambar.Tetapi cara memasukkan pola gambar tersebut merupakan masalah tersendiri. Agar dapat pemasukkan pola gambar dapat dilakukan lebih mudah, maka dapat diberikan alat tambahan yang dapat mendeteksi posisi pola-pola gambar yang akan dimasukkan. Inform asi dari pola-pola gambar pada meja gambar dikirim sebagai data atau informasi kepada komputer. Mengkomunikasikan data atau informasi dari meja gambar ke komputer memerlukan beberapa peralatan tambahan, seperti rangkaian pengirim informasi dari meja gambar, A/D (Analog to Digital) Converter dan interface. Informasi data dari Analog to Digital Converter akan diolah oleh komputer untuk kemudian diungkapkan dalam data posisi titik yang ditampilkan pada layar monitor. Dimana pengaturannya dilakukan oleh software. Dari perencanaan dan pembuatan interface ini hasilnya banyak dipengaruhi oleh faktor kualitas komponen terutama potensiometernya sebagai sensor, serta resolusi jenis ADC nya. Dari hasil pembuatan rangkaian Interface ini dapat disimpulkan bahwa secara prinsip rangkaian ini dapat diterapkan dalam membantu proses pengambilan gambar ke komputer, walaupun masih memerlukan pengembangan lebih lanjut agar lebih berdaya guna.",
+  "creators": "HARRY KUSWINARTA",
+  "contributors": "SOETIKNO (Advisor 1); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 89/E/EL/008/0029; Harry Kuswinarta (4834007)",
+  "subjects": "ELECTRONIC DIGITAL COMPUTERS"
+}

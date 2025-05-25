@@ -1,0 +1,14 @@
+{
+  "id": "15697",
+  "title": "Aplikasi grup teknologi dan tata letak pabrik pada indistri percetakan",
+  "abstract": "Adanya variasi produksi yang semakin meningkat, lokasi lantai produksi yang terpisah serta tata letak pabrik yang kurang baik mengakibatkan waktu set-up menjadi lama, utilitas mesin-mesin yang digunakan tidak maksimal dan material handling yang dibutuhkan juga banyak. Untuk mengatasi masalah diatas maka diaplikasikan Grup Teknologi pada Perdana Priting Art, sebuah perusahaan percetakan di Surabaya, yaitu dengan cara mengelompokkan mesin-mesin yang dilalui oleh proses yang sama, dikelompokkan ke dalam suatu machine cell dan part/prodvk yang sejenis dikelompokkan menjadi satu part family. Dalam perancangan Grup Teknologi, digunakan 3 metode yaitu: Single Linkage Cluster Analysis, Cluster Identification Algorithm, dan Rank Order Cluster. Sedangkan metode yang digunakan dalam perancangan Tata Letak Pabrik pada lokasi yang baru adalah From To Chart. Dari analisa menggunakan ketiga metode tersebut yang paling sesuai dengan kondisi perusahaan adalah metode Rank Order Cluster, yang menghasilkan 2 machine cell dan functional machine facility. Setelah mendapatkan susunan mesin-mesin yang baru dengan menggunakan metode ROC tersebut maka selanjutnya dilakukan perancangan Tata Letak Pabrik yang dilakukan dengan metode From To Chart menggunakan 4 alternatif dengan hasil perhitungan momen intersel terkecil sebesar 3018. Dimana hasil perhitungan momen ini pasti lebih kecil dibandingkan dengan tata letak yang lama, karena pada lokasi lama antara divisi mesin cetak terpisah dari divisi mesin plong. Divisi mesin cetak berada di lokasi jalan Anjasmoro dan divisi mesin plong di jalan Wonorejo.",
+  "creators": "BETSY SOETARTO",
+  "contributors": "Didik Wahjudi (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 195/TI-21/1999; BETSY SOETARTO (25493126)",
+  "subjects": "PLANT LAYOUT; MATERIALS HANDLING"
+}

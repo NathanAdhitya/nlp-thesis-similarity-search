@@ -1,0 +1,14 @@
+{
+  "id": "7706",
+  "title": "Perancangan dan pembuatan perangkat lunak untuk penulisan not balok yang dapat disuarakan berbasis biola",
+  "abstract": "Musik merupakan suatu bidang yang cukup banyak diminati oleh manusia di seluruh dunia dan dari segala lapisan. Hal ini terbukti dengan banyaknya lahir musisi-musisi baru yang berkualitas serta banyaknya para pemula yang ingin mendalami musik. Namun banyak para pemula yang mengalami kesulitan dalam mempelajari alat musik yang mereka minati. Kurangnya media yang dapat membantu mereka mungkin adalah penyebab utama. Maka pada Tugas Akhir ini akan dilakukan pembuatan perangkat lunak untuk penulisan not balok yang dapat disuarakan untuk membantu para pemula dalam menulis not balok dan mendengarkan lagu dari suatu partitur. Pembuatan Tugas Akhir ini dengan menggunakan perangkat lunak Borland delphi7. Pembuatan Tugas Akhir ini dimulai dengan mendesain sistem dari perangkat lunak, yang kemudian dilanjutkan dengan desain untuk interface. Setelah desain interface selesai dimulai dengan pembuatan program dari penulisan not balok pada partitur beserta penyimpanannya pada file format sendiri, dilanjutkan proses play dengan menggunakan function-function windows hingga pada pembuatan file MIDI. Hasil pembuatan Tugas Akhir ini berupa sebuah perangkat lunak yang dapat melakukan proses untuk menuliskan not balok pada partitur dimana dilakukan proses penyesuaian secara otomatis menurut sistem penulisan partitur pada umumnya. Hasil pembuatan partitur pada perangkat lunak ini dapat dicetak pada kertas atau disuarakan dengan jenis alat musik biola. Juga dapat dibuat file MIDI yang dapat dibuka melalui perangkat lunak lain yang mempunyai fasilitas membaca file MIDI, contoh : Winamp, Windows Media Player, dan lain-lain.",
+  "creators": "ALBERT SISWANTORO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010550/INF/2006; Albert Siswantoro (26402059)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

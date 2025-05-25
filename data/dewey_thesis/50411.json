@@ -1,0 +1,14 @@
+{
+  "id": "50411",
+  "title": "Implementasi ethereum claims registry pada ethereum blockchain untuk verifikasi transaksi konten fotografi dengan interplanetary file system",
+  "abstract": "Pada zaman sekarang fotografi kerap mendapatkan banyak perhatian dari berbagai kalangan. Fotografi dapat digunakan untuk merekam momen-momen penting maupun lalu diabadikan dalam format digital dan disimpan ke sebuah penyimpanan. Pada umumnya konten fotografi disimpan ke server, namun terdapat ancaman pada penyimpanan terpusat seperti serangan malware, malfungsi pada hardware, dan human error. Pada penelitian ini akan dilakukan implementasi Ethereum Claims Registry pada smart contract untuk verifikasi atribut tertentu suatu user yang tersimpan di Ethereum Blockchain, sehingga user dapat memberikan atau mengambil claim yang ada. Lalu implementasi InterPlanetary File System sebagai penyimpanan website dan konten fotografi. Website dan fotografi yang tersimpan pada InterPlanetary File System dapat diakses secara global tanpa penyimpanan terpusat dan tidak dikenakan biaya tambahan pada transaksi ethereum karena disimpan off-chain atau diluar blockchain. Berdasarkan hasil pengujian yang telah dilakukan, implementasi Ethereum Claims Registry dan InterPlanetary File System sebagai penyimpanan konten fotografi untuk high gas price membutuhkan 0.020518 ETH, average gas price 0.010747 ETH, dan low gas price 0.004885 ETH. Lalu implementasi Ethereum Claims Registry memperoleh efisiensi ether sebanyak 1% pada deploy smart contract, -0.4% pada make claim, dan -0.4% pada set claim.",
+  "creators": "REYNER",
+  "contributors": "Rudy Adipranata (Advisor 1); Leo Willyanto Santoso (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022091/INF/2021; Reyner (C14170098)",
+  "subjects": "BLOCKCHAINS (DATABASES); DATABASE MANAGEMENT--COMPUTER PROGRAMS; FILE ORGANIZATION (COMPUTER SCIENCE)"
+}

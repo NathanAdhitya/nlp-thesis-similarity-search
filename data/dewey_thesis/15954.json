@@ -1,0 +1,14 @@
+{
+  "id": "15954",
+  "title": "Implementasi pengenalan kata dengan menggunakan DFT dan HMM untuk mengontrol gerak robot mobil",
+  "abstract": "Tugas akhir ini dibuat dengan tujuan untuk membuat sistem pengenalan kata. Metode yang digunakan adalah Discrete Fourier Transform (DFT) dan Hidden Markov Model (HMM). DFT digunakan untuk mengekstrak pola suara, sedangkan HMM digunakan untuk pengenalan pola suara. Sistem ini diaplikasikan pada robot mobil untuk mengontrol gerakan robot. Sistem ini dirancang dengan menggunakan Personal Computer yang berfungsi sebagai pengatur dan pengolah data. Sistem ini akan mengambil sinyal suara yang di-input-kan selama 1 detik. Sinyal suara akan proses menggunakan metode DFT. Data hasil DFT akan menjadi input HMM untuk menghasilkan a model dari setiap perintah. Probabilitas observasi symbol terbesar akan menentukan gerakan robot mobil. Berdasarkan hasil pengujian yang telah dilakukan, tingkat keberhasilan tertinggi pengenalan kata adalah 50 % jika menggunakan microphone dan jumlah sampel 35, jumlah observasi symbol 1000, dan dibutuhkan konsistensi pengucapan perintah serta suasana yang tenang, waktu maksimal untuk memberi perintah adalah 1 detik. Robot mobil juga dapat bergerak sesuai dengan perintah kata yang di-input-kan.",
+  "creators": "YOSUA HENDRA LUKITO",
+  "contributors": "Thiang (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010900/ELK/2009; Yosua Hendra Lukito (23404014)",
+  "subjects": "MOBILE ROBOTS; ROBOT-CONTROL SYSTEMS"
+}

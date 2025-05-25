@@ -1,0 +1,14 @@
+{
+  "id": "2816",
+  "title": "Pembuatan MIDlet pada handphone untuk pengenalan wajah dengan menggunakan metode principle component analysis dan hidden markov model",
+  "abstract": "Tidak semua orang dapat mengenali orang yang membahayakan yang ada di lingkungan dengan mudah. Penegak hukum juga kesulitan mencari orang yang termasuk dalam daftar pencarian orang. Karena itu, penulis membuat suatu software yang dapat melakukan pengenalan wajah melalui handphone untuk dapat dipakai orang awam dengan mudah dan di mana saja. Software dikembangkan dengan menggunakan Java 2 Micro Edition (J2ME) sebagai software yang berjalan pada sisi handphone sedangkan software untuk pengenalan wajah dikembangkan dengan menggunakan Microsoft Visual C++ 6.0? sebagai server, dan dibantu dengan library dari Intel Image Processing Library (IPL) dan Intel Open Source Computer Vision (OpenCV). Handphone melakukan pengiriman gambar wajah orang yang dicurigai melalui General Packet Radio System (GPRS), dan ditangani oleh sebuah servlet yang berfungsi sebagai perantara antara handphone dan recognition server, setelah gambar diterima lalu dikenali lalu hasil pengenalannya akan muncul pada layar handphone. Proses pengenalan wajah dilakukan dengan menggunakan metode Principle Component Analysis dan Hidden Markov Model.",
+  "creators": "BOBY ERTANTO",
+  "contributors": "Resmana Lim (Advisor 1); Arie Wirawan Margono (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01000329/INF/2005; Boby Ertanto (26401040)",
+  "subjects": "COMPUTER VISION; PATTERN RECOGNITION SYSTEMS"
+}

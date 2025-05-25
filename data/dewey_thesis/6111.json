@@ -1,0 +1,14 @@
+{
+  "id": "6111",
+  "title": "Perancangan dan pembuatan aplikasi segmentasi gambar dengan menggunakan metode level set",
+  "abstract": "Saat ini, manipulasi gambar menjadi semakin mudah dilakukan, salah satu penyebabnya adalah segmentasi pada gambar digital. Dengan segmentasi gambar maka di dalam suatu gambar setiap obyek dapat dibedakan satu sama lain , sehingga memudahkan untuk mengolah masing?masing obyek. Level Set adalah metode untuk mendeteksi pergerakan kurva yang dapat digunakan untuk melakukan segmentasi gambar. Kurva akan bergerak sampai pada akhirnya berhenti pada border dari obyek dalam sebuah gambar. Pengujian yang telah dilakukan dalam karya ilmiah ini membuktikan bahwa Metode Level Set dapat digunakan untuk segmentasi gambar dalam berbagai bentuk, baik itu cembung maupun cekung, dan hasilnya akan jauh lebih baik apabila gambar yang digunakan tidak memiliki variasi warna yang banyak (solid), seperti gambar kartun.",
+  "creators": "YOHAN SISWANTO",
+  "contributors": "Kartika Gunadi (Advisor 1); Cherry Galatia Ballangan, S.Si., M.AIT. (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000461/INF/2006; Yohan Siswanto (26402022)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECNIQUES; COMPUTER GRAPHICS"
+}

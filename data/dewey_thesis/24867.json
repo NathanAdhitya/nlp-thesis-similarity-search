@@ -1,0 +1,14 @@
+{
+  "id": "24867",
+  "title": "Model permainan stackelberg pada skema pembayaran progresif pemasok-pembeli",
+  "abstract": "Skema pembayaran progresif merupakan metode pembayaran dimana pemasok mentapkan dua periode penundaan. Pembeli akan menerima beban bunga penundaan apabila membayar setelah periode penundaan. Periode penundaan kedua lebih besar daripada periode penundaan pertama. Bunga penundaan akan meningkat apabila pembayaran belum lunas setelah periode penundaan yang kedua. Tujuan dari tugas akhir ini adalah mendesain suatu total biaya persediaan yang meminimumkan biaya pemasok-pembeli dalam skema pembayaran progresif. Pengerjaan tugas akhir ini menggunakan permainan Stackelberg, permain ekstensif antara dua pemain dengan informasi sempurna dimana satu pemain bertindak sebagai pemimpin dan pemain lainnya bertindak sebagai pengikut. Pemimpin di sini akan mengambil strategi keputusan yang pertama. Strategi keputusan pemimpin yang optimal dipecahkan menggunakan pencarian meta-heuristik Genetic Algorithm dan pemecahan strategi keputusan pengikut yang optimal menggunakan pencarian meta-heuristik Particle Swarm Optimization. Pemasok akan memaksimalkan keuntungannya dengan meminimumkan periode penundaan yang diberikan saat pemasok bertindak sebagai pemimpin. Pembeli akan memaksimalkan keuntungannya dengan memaksa pemasok untuk memaksimalkan periode penundaan yang diberikan, sehingga pembeli hanya cukup membayar bunga satu periode penundaan. Hasil yang didapat pada penelitian ini adalah skema pembayaran progresif tidak dapat menghasilkan keuntungan yang maksimal bagi kedua belah pihak, karena pemain akan berusaha memaksimalkan masing-masing keuntungannya sehingga hanya tercipta kondisi penundaan pembayaran tunggal.",
+  "creators": "DANIEL SURIAWIDJAJA SIEK",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021603/IND/2012; Daniel Suriawidjaja Siek (25408079)",
+  "subjects": "INVENTORY CONTROL; MATERIALS MANAGEMENT"
+}

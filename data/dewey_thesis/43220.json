@@ -1,0 +1,14 @@
+{
+  "id": "43220",
+  "title": "Deteksi jenis mobil dengan menggunakan metode YOLO dan Faster R-CNN",
+  "abstract": "Jenis mobil merupakan salah satu properti dari mobil yang penting untuk diidentifikasi. Untuk melakukan identifikasi secara otomatis, banyak cara yang telah diimplementasi untuk mencapai tujuan identifikasi jenis mobil secara cepat dan tepat. Untuk identifikasi gambar, salah satu metode yang terkenal adalah Faster R-CNN yang cukup cepat dan tepat untuk melakukan identifikasi gambar. Namun untuk ketepatannya masih belum maksimal. Metode lain yang tersedia adalah YOLO di mana metode ini akan lebih cepat dalam melakukan identifikasi. Penggunaan kedua metode dalam arsitektur yang akan dibangun bertujuan untuk meningkatkan akurasi kebenaran identifikasi jenis mobil. Kedua metode diharapkan dapat saling membantu dalam pengecekan dan menghasilkan hasil yang lebih baik dari masing-masing metode.",
+  "creators": "KEVIN ADIPUTRA SHIANTO",
+  "contributors": "Kartika Gunadi (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021828/INF/2019; Kevin Adiputra Shianto (26415145)",
+  "subjects": "NEURAL NETWORKS; ARTIFICIAL NEURAL NETWORK"
+}

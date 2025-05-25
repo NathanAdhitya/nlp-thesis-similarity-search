@@ -1,0 +1,14 @@
+{
+  "id": "27774",
+  "title": "Perencanaan dan pembuatan form scanner untuk mengoreksi hasil ujian dengan bantuan IBM PC",
+  "abstract": "Form Scanner adalah suatu alat yang dapat membantu mengoreksi hasil ujian dengan cepat dan tepat tanpa harus mengeluarkan biaya yang banyak, disamping mengoreksi hasil ujian, alat ini juga dapat dipakai untuk mendata mata kuliah di perguruan-perguruan tinggi atau sejenis. Form Scanner merupakan suatu kesatuan antara sistim Elektris(perangkat keras), mekanis maupun Perangkat Lunak yang dikendalikan oleh komputer. Sebenarnya Form Scanner yang dibuat ini dapat berdiri sendiri selama proses pengambilan data sehingga komputer dapat dipakai selama proses ini berlangsung, banyaknya kertas yang dikoreksi dan isi dari kertas dapat diatur sesuai dengan kebutuhan. Di dalam sistemnya Form Scanner yang dibuat ini memakai suatu Chip buatan INTEL yaitu Microcontroller keluaga MCS-51 8031, dengan sistem yang ada padanya 8031 merupakan suatu chip yang sangat handal untuk pengoperasian control suatu Interface. Untuk menggerakkan mekanisme pengambilan kertas digunakan suatu Stepper Motor yang banyak terdapat di pasaran, disamping roda-roda penggerakknya yang menggunakan Press Roll dari Tape recorder, sistem mekanis ini juga menggunakan komponen-komponen yang terdapat dipasaran dan diusahakan dapat dibuat dengan biaya yang seminim mungkin. Sistem perangkat lunak yang digunakan adalah dengan memakai bahasa tingkat tinggi yaitu Turbo PASCAL untuk menjalankan Form Scanner dari IBM PC, sedangkan bahasa tingkat rendah (Low Level) adalah ASEMBLY dari 8031 sebagai Microcontroller utama. Secara keseluruhan Form Scanner yang dibuat ini cukup handal, dengan persen kesalahan adalah sebesar 10 persen. Kesalahan yang terjadi diakibatkan oleh sistem mekanis dan ketidaklinearan phototranssistor.",
+  "creators": "Irwan Sahli",
+  "contributors": "HANG SUHARTO (Examination Committee 1); VINCENT PRASETYO (Advisor 2); SUPENO DJANALI (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/013/0072; Irwan Sahli (485076)",
+  "subjects": "SCANNING SYSTEMS"
+}

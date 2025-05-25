@@ -1,0 +1,14 @@
+{
+  "id": "14473",
+  "title": "MIDI keyboard dengan tiga sound bank menggunakan mikrokontroler AVR",
+  "abstract": "Sinyal suara dari suatu alat musik dapat direproduksi secara digital dengan memanfaatkan persamaan deret Fourier. Berdasarkan pemikiran ini, dibuatlah suatu sistem yang dapat mensintesis beberapa macam suara alat musik secara digital. Dalam proses pembuatannya, suara alat musik asli direkam untuk mendapatkan spektrum sinyalnya. Spektrum sinyal ini digunakan untuk mencari koefisien deret Fourier dari suara alat musik tersebut. Kemudian sistem akan mensintesis suara alat musik tersebut dengan berbekal informasi koefisien deret Fourier ini. Sistem ini juga menerima input dari pengguna melalui sebuah papan sentuh sebanyak satu oktaf dan melalui komunikasi MIDI dengan keyboard yang lain. Hasil pengujian dari sistem ini menunjukkan bahwa suara alat musik dengan sedikit harmonik, seperti pada Electric Piano, dapat direproduksi dengan baik sehingga mirip dengan sinyal aslinya. Sedangkan suara alat musik yang mempunyai jumlah harmonik menengah sampai banyak, seperti pada Clarinet dan Trumpet, tidak dapat direproduksi secara sempurna. Hal ini terlihat dari pengujian yang membandingkan spektrum sinyal suara asli dengan spektrum sinyal suara yang direproduksi.",
+  "creators": "NATHANAEL RHIZAYUWARDI A",
+  "contributors": "Hany Ferdinando (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010902/ELK/2009; Nathanael Rhizayuwardi A (23405016)",
+  "subjects": "KEYBOARDS (ELECTRONICS); MICROCONTROLLERS"
+}

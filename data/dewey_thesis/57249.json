@@ -1,0 +1,14 @@
+{
+  "id": "57249",
+  "title": "Sistem dashboard terintegrasi untuk mengawasi lansia",
+  "abstract": "Sistem pengawasan lansia sangat diperlukan untuk mengawasi lansia ketika hidup mandiri. Banyak dari lansia yang jatuh dan tidak diketahui oleh siapapun karena hidup sendiri tanpa ada pengawas. Hal tersebut, tentu harus diantisipasi agar jumlah kematian lansia akibat jatuh berkurang. Sistem pengawasan yang ada saat ini tidak terintegrasi satu dengan yang lainnya sehingga susah untuk digunakan dan tidak efisien. Sistem dashboard yang dibuat dalam tugas akhir ini memanfaatkan tablet sebagai alat monitoring dan kontrol untuk mengawasi lansia baik dari kondisi vital seperti detak jantung, kondisi rumah seperti kebocoran gas dan kebakaran, serta telepresence robot untuk berkomunikasi dengan lansia secara jarak jauh. Sistem ini menggunakan protokol MQTT sebagai protokol utama untuk pertukaran data. Dari hasil percobaan sistem ini mampu berkomunikasi dengan 3 subsistem, namun terdapat kelemahan pada sistem navigasi terdapat pergeseran, yang di mana sistem navigasi yang seharusnya memiliki keakuratan hingga 0.05 m pada penelitian ini menghasilkan pergeseran terjauh sebesar 0.11 m untuk sumbu X dan 0.14 m untuk sumbu Y dengan rata-rata masing-masing 0.05 m. Selain itu pergeseran derajat belok robot seharusnya 0.17 radian namun rata-rata pergeseran 0.30 radian dan pergeseran terjauh sebesar 0.77 radian. Meskipun terdapat pergeseran pada navigasi robot, kamera dari robot tetap dapat melihat posisi dari lansia.",
+  "creators": "SEAN GONDOWARDOYO",
+  "contributors": "Handy Wicaksono (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011052/ELK/2023; Sean Gondowardoyo (C11190009)",
+  "subjects": "DASHBOARDS (MANAGEMENT INFORMATION SYSTEMS); ROBOTICS; ROBOTS--PROGRAMMING; OLDER PEOPLE"
+}

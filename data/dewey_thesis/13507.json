@@ -1,0 +1,14 @@
+{
+  "id": "13507",
+  "title": "Perencanaan dan pembuatan pengontrolan (miniatur) proses pengolahan cairan dalam suatu pabrik dengan menggunakan PLC dan scada",
+  "abstract": "Dalam Tugas Akhir ini dibuat suatu sistem pengontrolan ( miniatur) proses pengolahan cairan dalam suatu pabrik dengan menggunakan PLC dan program SCADA untuk Laboratorium Sistem Produksi pada fakultas Teknik Industri U.K.PETRA. Miniatur ini dibuat dengan tujuan supaya dapat digunakan sebagai penunjang praktikum sistem produksi, karena respon dari pengontrolan tersebut dapat ditampilkan ataupun dimonitor pada monitor PC ( Personal Computer ), sehingga mempermudah untuk para mahasiswa mengerti cara kerja dari mekanik miniatur pabrik yang dibuat. Pengolahan yang disimulasikan pada peralatan ini mencakup pengaturan level cairan, pemanasan cairan dan pencampuran cairan. Untuk itu digunakan sensor-sensor, yaitu Sensor Level ( Paralel Elektroda ) dan Sensor Suhu ( Pt 100 ). Dimana output dari sensor-sensor tersebut adalah merupakan input bagi peralatan PLC yang dimasukkan pada terminal Analog Input Unit / AD 002. Proses pengontrolan tersebut nantinya digerakkan oleh PLC melalui OC 222, dan akan ditampilkan pada monitor PC ( Personal Computer ) yang telah dilengkapi dengan program SCADA (INTELLUTION FIXDMACS ). Program SCADA dapat mengambil dan mengirim data dari atau ke PLC. Dengan demikian semua proses yang berlangsung pada PLC dapat diatur dan dimonitor melalui komputer, sehingga memudahkan kita mengontrol proses yang berlangsung di PLC. Hasil pengukuran yang dilakukan dengan menggunakan paralel elektroda sebagai sensor ketinggian air menunjukkan bahwa paralel elektroda mempunyai linearitas yang tinggi (r = 0.9974866253 ) terhadap perubahan ketinggian air. Dan hasil pengukuran dari Pt 100 dan RPS ini juga menunjukkan linearitas yang tinggi ( r - 0.9995183822 dan r * 0.999653192 ) terhadap perubahan suhu air. Dengan demikian maka secara keseluruhan pengontrolan ( miniatur ) proses pengolahan cairan dalam suatu pabrik yang dibuat telah dapat menunjukkan pada kita semua proses-proses yang sedang terjadi pada miniatur yang dibuat, yang dapat dikontrol dengan PLC dan dapat ditampilkan melalui monitor pada PC dengan bantuan program SCADA.",
+  "creators": "WIYOTO TJANDRA",
+  "contributors": "Resmana Lim (Advisor 2); IRWAN SAHLI (Examination Committee 1); Murtiyanto Santoso (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/043/388; Wiyoto Tjandra (23491169)",
+  "subjects": "PROGRAMMABLE CONTROLLERS; AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

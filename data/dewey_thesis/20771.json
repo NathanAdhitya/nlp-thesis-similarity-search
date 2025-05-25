@@ -1,0 +1,14 @@
+{
+  "id": "20771",
+  "title": "Perencanaan dan pembuatan storage signal audio yang dapat diaplikasikan di Lab. Listrik dengan menggnakan mikroprosesor 6502",
+  "abstract": "Teknologi digital mempunyai banyak kelebihan dalam banyak hal antara lain kecepatan, ketepatan dan bersi- fat komunikatif. Banyak hal dalam dunia analog yang dapat diproses secara digital. Untuk menjembatani ke- duanya diperlukan suatu rangkaian interface, yaitu: ADC (Analog to Digital Converter)dan DAC (Digital to Ana- log Converter). Osiloskop pada umumnya adalah instrumentasi yang dipakai untuk mengamati bentuk gelombang periodik, tetapi di lain pihak banyak juga kebutuhan untuk mengamati sinyal transient maupun gelombang tak perio- dik.Untuk mengamati gelombang-gelombang semacam ini digunakan Storage Osiloskop, yang hingga saat ini masih merupakan suatu instrumen elektronik yang sangat mahal. Bentuk lain dari Storage Osiloskop adalah dengan membuat perekam sinyal dengan menggunakan mikroprosesor 6502 pada komputer \"APPLE II\", yaitu dengan mengubah sinyal input analog ke bentuk digital lewat ADC, kemu- dian menyimpannya ke dalam memori komputer. Metode yang digunakan adalah metode sample data, dimana input sinyal analog akan disampling pada waktu- waktu tertentu untuk kemudian dikonversikan ke bentuk digital oleh ADC.Output data dari ADC ini akan terhu- bung ke Port A dari VIA 6522,dimana VIA 6522 ini dihu- bungkan ke slot APPLE. Melalui instruksi dari perangkat lunak maka data pada port A akan berpindah ke suatu lokasi memori yang telah ditentukan pada saat instalisasi untuk disimpan maupun diolah lebih lanjut. Dimana melalui perangkat lunak data yang telah tersimpan ter- sebut akan dibaca berulang-ulang untuk ditampilkan pada monitor komputer APPLE II sebagai rekonstruksi sinyal input ataupun dapat ditampilkan pada Osiloskop setelah melewati DAC yang dihubungkan ke Port B dari VIA 6522.",
+  "creators": "THOE CHIAN TJONG",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 88/E/EL/018; Thoe Tjian Tjong (482069)",
+  "subjects": "COMPUTERS; STORAGE TUBES"
+}

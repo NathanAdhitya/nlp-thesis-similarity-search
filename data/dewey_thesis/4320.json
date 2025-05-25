@@ -1,0 +1,14 @@
+{
+  "id": "4320",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi UD Rejo Agung",
+  "abstract": "UD. Rejo Agung adalah sebuah toko yang bergerak di bidang penjualan peralatan elektronik terutama lampu. Hingga saat ini toko masih menerapkan paper based system dalam menjalankan semua kegiatan administrasinya sehingga banyak kesalahan dan kelemahan terutama dalam menangani transaksi penjualan. Oleh karena itu pemilik toko ingin merombak sistem kerjanya dengan menerapkan komputerisasi. Sistem administrasi baru diharapkan mampu menangani segala permasalahan yang ditimbulkan oleh sistem manual, meningkatkan kecepatan dalam bertransaksi dan menghasilkan laporan-laporan yang diperlukan seperti laporan hutang, laporan piutang dan laporan stok. Proses pembuatan program diawali dengan analisis kegiatan administrasi yang diterapkan di toko meliputi transaksi pembelian, penjualan, pembayaran pembelian dan pembayaran penjualan. Dari sistem ini kemudian disusunlah DFD, ERD dan diterapkan menjadi tabel yang dibuat pada database server SQL Server 2000. Program dibuat dengan bahasa pemrograman Borland Delphi 7.0 dan dengan sistem operasi Windows XP. Program ini juga mendukung sistem multiuser dengan tiga tingkatan user yaitu Pemilik, Pegawai Toko dan Pegawai Gudang. Untuk keamanan data, setiap user diberi login berupa user name dan password untuk dapat menggunakan program. Hasil pengujian menunjukkan bahwa program memiliki interface yang baik (86,6%) dan cukup mudah untuk dipahami (74,9 %). Laporan-laporan yang dihasilkan juga cukup banyak dan lengkap dengan menyesuaikan dengan kebutuhan dan desain yang diinginkan (83,2 %). Dengan program ini diharapkan seluruh transaksi administrasi akan menjadi rapi karena terdapat pencatatan yang lengkap dari saat pemesanan, transaksi, hingga pembayaran. Keamanan juga akan lebih terjamin karena pengguna telah diberi wewenang khusus sehingga tidak dapat mengakses data yang bukan menjadi wewenangnya.",
+  "creators": "DENY KURNIAWAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Leo Willyanto Santoso (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000258/INF/2004; Deny Kurniawan (26400067)",
+  "subjects": "INFORMATION RESOURCES MANAGEMENT-COMPUTER PROGRAMS; DATABASE MANAGEMENT; DATABASE DESIGN"
+}

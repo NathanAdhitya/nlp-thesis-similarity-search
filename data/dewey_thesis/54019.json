@@ -1,0 +1,14 @@
+{
+  "id": "54019",
+  "title": "Algoritma goal programming untuk driver assignment dalam simulasi taksi online",
+  "abstract": "Taksi adalah salah satu alat transportasi umum yang banyak digunakan oleh masyarakat. Pemasangan driver dan penumpang dalam taksi online dapat dilakukan dengan cara menawarkan order penumpang kepada seluruh driver terdekat dari lokasi penjemputan. Cara ini memiliki efisiensi waktu tinggi. Namun, hal ini menyebabkan naiknya tingkat pembatalan karena driver tidak memiliki cukup waktu untuk melihat detail pesanan, hanya asal menerima pesanan saja. Hal ini dapat berujung pada menurunnya tingkat kepuasan penumpang dan pendapatan taksi online. Oleh karena itu, faktor-faktor lain seperti rating driver, tingkat pembatalan pesanan driver, jumlah order yang sudah diselesaikan driver penting untuk dipertimbangkan dalam proses pemasangan untuk menghasilkan pemasangan yang efisien. Proses pemasangan driver dan penumpang akan dilakukan dengan metode Goal Programming karena metode ini cocok digunakan untuk masalah dalam pengambilan keputusan yang melibatkan lebih dari satu tujuan (multi-objectives). Hasil penelitian menunjukkan bahwa Goal Programming menghasilkan total waktu kalkulasi tertinggi yaitu 13.353 detik. Selain itu, rata-rata waktu tunggu penumpang dan jarak tempuh penjemputannya terendah yaitu 5.124 menit dan 1.357 km. Metode Hungarian Algorithm memiliki waktu kalkulasi yang lebih cepat yaitu 12.809 detik dibandingkan dengan metode Goal Programming, namun, jumlah pemasangannya lebih rendah sebesar 123 pasang. Selain itu, rata-rata waktu tunggu penumpang dan jarak tempuh penjemputannya lebih tinggi yaitu 5.320 menit dan 1.439 km. Metode Random Assignment memiliki waktu kalkulasi tercepat yaitu 2.473 detik dan tingkat keberhasilan pemasangan tertinggi sebesar 157 pasang. Namun, rata-rata waktu tunggu penumpang dan jarak tempuh penjemputannya jauh di atas kedua metode pembandingnya yaitu 17.720 menit dan 6.951 km. Penambahan faktor di luar waktu dan jarak jemput dalam persentase yang rendah dapat mempengaruhi nilai rata-rata faktor tersebut menjadi lebih baik. Namun, rata-rata waktu dan jarak tempuh penjemputannya menjadi bertambah.",
+  "creators": "LIENNY FERLINDA",
+  "contributors": "Andreas Handojo (Advisor 1); Tanti Octavia (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022201/INF/2022; Lienny Ferlinda (C14180008)",
+  "subjects": "ALGORITHMS; DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

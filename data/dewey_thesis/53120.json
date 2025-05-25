@@ -1,0 +1,14 @@
+{
+  "id": "53120",
+  "title": "Prediksi kebangkrutan dengan metode ANN, SVM, dan CART pada perusahaan properti, konstruksi, dan industri sejenis yang terdaftar di BEI",
+  "abstract": "Sifat ketidakpastian dalam sektor konstruksi, properti, real estate dan industri sejenis membuat sektor ini rentan menghadapi financial distress. Hal ini menyebabkan dibutuhkannya metode yang memahami kondisi finansial dari perusahaan. Namun hingga saat ini, metode yang digunakan untuk memprediksi status finansial perusahaan adalah pendekatan linier, sedangkan tidak semua variabel menunjukkan korelasi linear terhadap kesehatan finansial sebuah perusahaan. Penelitian ini bertujuan untuk menemukan model prediksi yang paling akurat dalam memprediksi indikasi financial distress pada sektor terkait dengan menggunakan kecerdasan buatan(AI). Metode AI yang digunakan dalam penelitian ini adalah artificial neural networks(ANN), support vector machines(SVM), dan classification and regression trees(CART). Ketiga metode ini digunakan untuk menganalisis tiga Model sesuai dengan rasio keuangan dari model peneliti terdahulu pada prediksi tiga dan lima tahun. Model yang diambil merupakan data sekunder yang dikumpulkan peneliti yang berisi laporan keuangan perusahaan terkait. Hasil terbaik dari pengolahan data kemudian dianalisis dengan confusion matrix untuk menentukan metode yang memiliki tingkat akurasi tertinggi. Hasil penelitian menunjukkan bahwa metode ANN memiliki tingkat akurasi paling tinggi terbanyak dibandingkan dengan metode prediksi lainnya. Penelitian menunjukkan juga bahwa Model dari peneliti Cheng et al. (2014) memiliki tingkat akurasi tertinggi pada hasil prediksi tiga tahun dengan metode CART dan lima tahun dengan menggunakan metode ANN.",
+  "creators": "Rafael Reinaldo Lorens",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Januar Budiman (Advisor 2); Jani Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000315/MTS/2022; Rafael Reinaldo Lorens (B21190002)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--COMPUTER PROGRAMS; BANKRUPTCY; CORPORATIONS--FINANCE"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "39116",
+  "title": "Analisa pengaruh penambahan riblets pada bodi bus terhadap coefficient of drag",
+  "abstract": "Kendaraan-kendaraan berat seperti bus dan truck, pada umumnya mempunyai bentuk yang bisa dikatakan kurang aerodinamis, cenderung mengotak dan panjang ukurannya. Aerodinamika dapat sangat berpengaruh terhadap penggunaan bahan bakar kendaraan karena dengan berkurangya Coefficient of Drag, kendaraan dapat lebih efisien dalam menggunakan bahan bakarnya karena gaya yang menghambat menjadi berkurang. Salah satu cara untuk mengurangi gaya hambat ini adalah dengan riblets. Riblets merupakan struktur yang berbentuk seperti sekumpulan parit berjajar yang memanjang. Hasil dari penelitian pada plat datar menunjukkan bahwa dengan riblets, maka bisa diperoleh maksimal 10% drag reduction dengan struktur blade dibandingkan dengan hanya flat surface pada kondisi yang sama. Metode percobaan dilakukan dengan menggunakan validasi hasil simulasi dengan hasil percobaan dari wind tunnel dengan kecepatan 16-27 m/s. Model bus dibuat dengan CAD sesuai bentuk aslinya untuk di test pada wind tunnel kemudian membandingkannya dengan hasil simulasi ANSYS Fluent. Geometri riblets dipelajari dengan menggunakan simulasi ANSYS Fluent dan hasil dari Boundary Layer akan diamati seiring dengan perubahan geometri riblets. Dari hasil penelitian, diketahui bahwa geometri riblets terbaik adalah 1% dari panjang keseluruhan bus dan dengan penerapan geometri riblets tersebut, didapatkan drag reduction sebesar 1.46%, dari Cd 0.548 menjadi 0.54. Model dengan drag reduction terbaik ini menggunakan riblets dibagian depan atap bus.",
+  "creators": "MATTHEW SEBASTIAN ANGKAWIDJAJA",
+  "contributors": "Fandi Dwiputra Suprianto, S.T., M.Sc. (Advisor 1); Sutrisno S.T.,M.T. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011153/MES/2016; Matthew Sebastian A. (24412029)",
+  "subjects": "AUTOMOBILES-AERODYNAMICS; AUTOMOBILES-TRANSPORTATION; AUTOMOTIVE (BUS)-BODIES"
+}

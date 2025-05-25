@@ -1,0 +1,14 @@
+{
+  "id": "50382",
+  "title": "Chatbot untuk website utama UK Petra dengan Hidden Markov Model dan k-Nearest Neighbor untuk generate jawaban",
+  "abstract": "Universitas Kristen Petra (UK Petra) memiliki berbagai media layanan informasi seputar jurusan universitas dan pendaftaran mahasiswa baru, seperti media sosial dan WhatsApp. Namun media ini masih bergantung pada operator manusia yang terbatas pada jumlah dan waktu. Dengan adanya chatbot, informasi seputar UK Petra dapat diketahui kapan saja. Penelitian chatbot oleh S. C. P & Afrianto membutuhkan metode pencocokkan pertanyaan dengan dataset. Skripsi ini menggunakan dua metode yaitu kNN (k-Nearest Neighbor) dan HMM (Hidden Markov Model) untuk menyelesaikan masalah tersebut. Pada penelitian ini chatbot akan mencoba menggabungkan kedua metode ini serta membandingkannya, dicoba apakah dapat menghasilkan jawaban yang dapat dipahami serta dapat menjawab pertanyaan dengan berbagai tingkat kesulitan. Metode kNN digunakan sebagai klasifikasi pertanyaan yang diberikan ke chatbot kira-kira mendekati dengan pertanyaan pada knowledge base chatbot. Metode HMM dipakai untuk merangkai kata-kata jawaban dari knowledge base yang terpilih. Hasil chatbot akan diuji dari segi validitas jawaban oleh dua responden (Humas dan Admisi kampus) beserta lama waktu yang dibutuhkan untuk menghasilkan sebuah jawaban. Hasil chatbot dengan metode kNN memiliki akurasi jawaban hasil uji sebesar 64,44% (45 pertanyaan), dengan waktu rata-rata 0,08 detik. Sedangkan hasil chatbot dengan penggabungan kNN-HMM menghasilkan jawaban yang random dan tidak beraturan, dengan waktu sistem rata-rata 0,12 detik disebabkan HMM merupakan metode berbasis probabilitas.",
+  "creators": "KEVIN",
+  "contributors": "Alexander Setiawan (Advisor 1); Indar Sugiarto (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); ALVIN NATHANIEL TJONDROWIGUNO, S.Kom. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022083/INF/2021; Kevin (C14170047)",
+  "subjects": "ANDROID (COMPUTER PROGRAM); MACHINE LEARNING; HIDDEN MARKOV MODELS"
+}

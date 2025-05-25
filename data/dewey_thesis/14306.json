@@ -1,0 +1,14 @@
+{
+  "id": "14306",
+  "title": "Perencanaan dan pembuatan control security parkir satu pintu otomatis dengan metoda VHDL",
+  "abstract": "Dengan tujuan mempelajari sistem VHDL dengan diimplementasikan pada IC CPLD (Complex Programable Logic Device) CY7C371I yang lagi berkembang dengan pesat untuk menggantikan disain digital konvensional. Alat yang dibuat ini berguna untuk pengaturan pintu parkir dan up-down counter yang diprogram dalam module tersendiri dan kemudian di gabungkan ke dalam satu IC, kelebihan penggunaan metoda ini adalah kemampuannya yang dapat diisi ulang (ripe tertentu), canggih sehingga dapat diproteksi agar tidak dicontoh atau ditiru oleh orang lain serta proses disain yang lebih mudah meskipun kita menggunakan state machine seperti moore dan mealy. Pada perancangan ini digunakan disain dengan metoda moore machine yang dapat menyimpan atau mengerjakan proses beberapa state. Proses pembuatan VHDL ini bermula dari dibuatnya suatu kondisi/state serta hasil/output yang diinginkan dari sistem tersebut kemudian diimplementasikan ke dalam bahasa VHDL dengan memilih deskripsi penulisan yang tersedia. Setelah selesai disain tersebut diCompile dengan menggunakan software Warp2 release 4.3 yaitu Galaxy agar disain dapat ditulis ke dalam IC CPLD, dan hasil yang didapat sebelum ditulis kedalam IC dapat kita check dengan menggunakan sotware Nova yang juga merupakan paket dari Warp. Hasil yang didapatkan dalam pembuatan program ini sangat memuaskan, dan program yang diimplementasikan berfungsi dengan sangat baik sesuai dengan teori yang ada. Tetapi ada suatu kesalahan behaviour dalam IC waktu pertama kali diimplementasikan yang mungkin disebabkan karena IC yang digunakan dalam uji coba bukan merupakan produk dari Cypress, namun masalah itu dapat teratasi dengan menambahkan perintah sederhana untuk memperjelas kondisi/perintah kerja dari program tersebut.",
+  "creators": "ARIEF BUDI SURIYANTO",
+  "contributors": "SOETIKNO (Advisor 1); IRWAN SAHLI (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/011/405; Arief Budi Suriyanto (23493095)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

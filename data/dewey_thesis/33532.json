@@ -1,0 +1,14 @@
+{
+  "id": "33532",
+  "title": "Kajian berbagai metode integrasi langsung untuk analisis dinamis",
+  "abstract": "Proses perhitungan analisis dinamis dapat diselesaikan dengan bantuan program yang sudah ada, seperti SAP2000, Seismostruct, dan Opensees. Dalam beberapa program, pengguna dihadapkan dengan pilihan-pilihan metode penyelesaian analisis dinamis. Dilakukan kajian untuk mempelajari metode integrasi langsung pada analisis dinamis, dengan tinjauan keempat metode yaitu metode diferensiasi terpusat, metode Houbolt, metode Wilson dan metode Newmark, sehingga dapat diketahui perbedaan masing-masing metode integrasi langsung dalam analisis dinamis dari sisi keunggulan dan kekurangan. Didapatkan beberapa kesimpulan dari keempat metode integrasi langsung analisis dinamis, dimana beberapa kesimpulan dapat digunakan untuk menentukan metode integrasi. Metode Newmark merupakan metode yang cocok digunakan untuk menganalisis struktur dengan gaya dinamis dengan hasil perhitungan yaitu respon perpindahan yang terbesar dari ketiga metode lainnya. Hal ini membuktikan bahwa metode Newmark merupakan metode terbaru yang dikembangkan dari ketiga metode sebelumnya sehingga hasil perhitungan menjadi lebih baik dan akurat dalam menyelesaikan persamaan kesetimbangan analisis dinamis.",
+  "creators": "KEVIN WINATA",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Pamuda Pudjisuryadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012016/SIP/2015; Kevin Winata (21411023)",
+  "subjects": "BEAMS; STRUCTURAL DYNAMICS-COMPUTER PROGRAMS; STRUCTURAL DYNAMICS; SPACE FRAME STRUCTURES"
+}

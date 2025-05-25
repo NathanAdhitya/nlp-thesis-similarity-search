@@ -1,0 +1,14 @@
+{
+  "id": "35695",
+  "title": "Perancangan dan implementasi aplikasi penghitungan harga pokok produksi pada PT Surya Intan Mandiri",
+  "abstract": "Saat ini, perhitungan harga pokok produksi oleh PT Surya Intan Mandiri masih dilakukan secara global. Pada perhitungan harga pokok produksi hanya dihitung berdasarkan penggunaan bahan baku, untuk overhead dan tenaga kerja langsung masih belum dilakukan perhitungan secara mendetail. Sehingga tidak adanya perhitungan jelas dan akurat untuk harga pokok produksi tiap barang. Berdasarkan latar belakang permasalahan itu, dirancang sebuah aplikasi perhitungan Harga Pokok Produksi untuk mengatasinya. Pembuatan aplikasi dilakukan dengan menggunakan bahasa pemograman PHP dan PGSQL sebagai database. Dari aplikasi yang dibuat, diperoleh sebuah sistem yang dapat menyimpan Bill of Material dari tiap produk yang di produksi, berupa bahan baku, tenaga kerja langsung, mesin serta overhead. Selain itu sistem juga memasukkan pemakaian aktual pada tiap penggunaan bahan baku, sehingga dapat dibandingkan dengan Bill of Material masing-masing. Dengan adanya pencatatan pemakaian aktual maka perhitungan Harga Pokok Produksi untuk suatu proses produksi dapat diketahui secara terperinci.",
+  "creators": "IVAN SATYAPUTRA",
+  "contributors": "Rudy Adipranata (Advisor 1); Ibnu Gunawan (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021355/INF/2014; Ivan Satya Putra (26410014)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

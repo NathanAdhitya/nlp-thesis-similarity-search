@@ -1,0 +1,14 @@
+{
+  "id": "21612",
+  "title": "Perhitungan kinematika robot lengan dengan menggunakan artificial neural network",
+  "abstract": "Kebutuhan dunia industri pada masa sekarang ini, menuntut teknologi baru yang diharapkan dapat mempermudah pekerjaan dalam bidang industri dan mengurangi kesalahan yang disebabkan oleh manusia. Salah satu solusinya adalah dengan menggunakan robot. Tugas akhir ini menggunakan artificial neural network (ANN) dengan metode backpropagation sebagai solusi untuk melakukan perhitungan kinematika pada robot lengan yang memiliki tiga derajat kebebasan. Hal ini bertujuan untuk menyederhanakan perhitungan kinematika yang kompleks. Khususnya pada robot yang memiliki lebih dari dua derajat kebebasan. Pengujian perhitungan kinematik dengan ANN dilakukan dengan variasi jumlah hidden layer, jumlah neuron per layer, dan learning rate. Hasil terbaik dari training menunjukkan RMSE terkecil yaitu 0.01474. Hasil tersebut didapatkan dari training dengan 219 buah data training, 1 buah hidden layer, 38 buah neuron hidden layer, learning rate = 0.1. Dari hasil pengujian didapatkan RMSE testing sebesar 0.01657, error maksimum lengan robot pertama sebesar 8.06% dan lengan kedua sebesar 11.67%. Lengan ketiga tidak dimasukan ke dalam pelatihan ANN karena gerakan dari lengan ketiga hanya berupa gerak translasi dengan jarak yang sama. Dari pengujian tersebut menunjukkan bahwa artificial neural network dengan metode training backpropagation dapat diaplikasikan untuk perhitungan kinematika.",
+  "creators": "RENDY PANGALDUS",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010877/ELK/2008; Rendy Pangaldus (23404001)",
+  "subjects": "ROBOTS; MACHINERY, KINEMATICS OF; ROBOTICS"
+}

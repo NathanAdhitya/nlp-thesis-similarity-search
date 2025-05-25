@@ -1,0 +1,14 @@
+{
+  "id": "25921",
+  "title": "Perencanaan dan pembuatan alat pendeteksi dan penganalisa keadaan bahaya pada sistem keamanan suatu bangunan dengan menggunakan mikrokontroller 68HC11",
+  "abstract": "Penanggulangan keamanan pada gedung-gedung bertingkat dewasa ini masih terasa kurang. Pada tugas akhir ini dibuat sistem dengan menggunakan mikrokontroler 68HC11 yang memiliki rangkaian ADC di dalamnya untuk menanggulangi bahaya kebakaran dan pencegahan tamu tidak diundang masuk. Sistem dihubungkan dengan detektor dan VMS yang memberitahukan keadaan yang terjadi. Adapun detektor yang dipakai adalah detektor asap, sensor panas, sensor pasif infra red serta sensor ultra sonic. Sensor-sensor ini mengirim sinyal yang diolah mikrokontroler, bila detektor dalam keadaan aktif maka dalam waktu yang bersamaan pada LCD akan tampil letak kejadian detektor yang aktif dan tampilan suara dari VMS memberitahukan apa yang terjadi. Dari hasil pengujian yang dilakukan semua detektor dapat berfungsi baik, kita dapat mengetahui apa yang terjadi dan dapat secepatnya ditanggulangi.",
+  "creators": "KARTIKA ANGGRAENI SANTOSO",
+  "contributors": "Murtiyanto Santoso (Advisor 1); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/006/0209; Kartika Anggreni Santoso (23488024)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; MICROCONTROLLER 68HC11"
+}

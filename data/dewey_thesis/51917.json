@@ -1,0 +1,14 @@
+{
+  "id": "51917",
+  "title": "Sistem rekomendasi aksesoris smartphone menggunakan item based clustering hybrid method",
+  "abstract": "Item-based Collaborative Filtering merupakan metode yang biasa dipakai pada sebuah sistem rekomendasi yang berdasarkan oleh Item yang digemari oleh User, karena dengan metode ini dapat merekomendasikan sesuai selera kebanyakan User, dengan itu metode ini sangat efektif untuk menentukan rekomendasi sebuah Item. Penelitian ini menggunakan Item-based Clustering Hybrid Method yang merupakan gabungan antara Item-based Collaborative Filtering dan Content-based Filtering, dengan menggabungkan similarity Item-based Collaborative Filtering berdasarkan kemiripan antar User dan Content-based Filtering berdasarkan kemiripan antar Item yang akan menemukan rekomendasi yang cocok untuk User walaupun Item tersebut belum pernah diberikan rating sebelumnya. Hasil dari penelitian ini adalah 10 Rekomendasi Aksesoris Smartphone yang sesuai dengan implementasi Item-based Clustering Hybrid Method, dan hasil dari survei mendapatkan bahwa 8 dari 10 orang yang menggunakan Website ini tidak merasa kebingungan akan User Interface yang ada, juga survei kecocokan Item yang direkomendasikan cukup tinggi dengan memiliki rata-rata sebesar 9 dari 10, dan hasil dari Mean Absolute Error dengan koefisien korelasi 0,4 menghasilkan Mean Absolute Error sebesar 0.202399.",
+  "creators": "BILLY PANGESTU",
+  "contributors": "Alexander Setiawan (Advisor 1); Andreas Handojo (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Hans Juwiantho S.Kom., M.Kom (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022117/INF/2022; Billy Pangestu (C14170026)",
+  "subjects": "RECOMMENDER SYSTEMS (INFORMATION FILTERING); SMARTPHONES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "19052",
+  "title": "Batasan pemakaian perencanaan pseudo elastis menggunakan satu kolom tepi",
+  "abstract": "Pemakaian cara kapasitas pada suatu struktur dengan beban gravitasi sebagai beban utama ( gravity load dominated structure ) di mana momen negatif balok akibat beban gravitasi jauh lebih besar dari momen negatif akibat beban gempa, akan menghasilkan kekuatan kolom yang berlebihan. Selain itu perencanaan dengan cara kapasitas mempunyai kelemahan yaitu perencanaan kolom baru dapat dilakukan setelah perencanaan balok selesai dilakukan. Dalam praktek hal ini dapat menghambat kelancaran perencanaan karena sering kali penentuan penulangan kolom harus dilakukan sebelum penulangan balok. Penelitian ini mengusulkan suatu cara perencanaan lain untuk gravity load dominated structure yang dinamakan dengan Perencanaan Pseudo Elastis. Pada cara ini, kolom tepi tidak boleh terjadi sendi plastis sehingga prinsip \"balok lemah kolom kuat \" masih tetap terpenuhi. Sedangkan untuk kolom dalam diijinkan terjadinya sendi plastis sehingga prinsip tersebut tidak terpenuhi pada seluruh bagian struktur. Meskipun demikian usulan perencanaan ini tetap memperhatikan kestabilan karena kebutuhan daktilitas penampang dan menghindari terjadinya soft-storey mechanism tidak terjadi. Dalam penelitian ini juga dicari suatu batasan sebagai pedoman untuk merencanakan struktur dengan perencanaan Pseudo Elastis. Untuk menguji prosedur perencanaan Pseudo Elastis diatas ditinjau 12 buah struktur, yang terdiri dari portal 4 lantai dengan 4, 5, 6 dan 7 bentang serta portal 5 dan 6 lantai dengan 4 bentang, dengan tinjauan wilayah gempa 1 dan 3 Indonesia. Dua belas buah struktur tersebut didesain dengan perencanaan Pseudo Elastis. Portal-portal tersebut dibebani dengan gempa El Centro 1940 N-S serta suatu gempa buatan yang di dapat dari gempa Pacoima Dam 1971 S16E yang disesuaikan dengan spektrum gempa Indonesia periode ulang 200 tahun untuk wilayah 1 dan 3 (Pacoima Dam 1971 S16E Modifikasi). Pengujian ini menunjukkan perencanaan Pseudo Elastis mempunyai perilaku yang baik pada terhadap gempa Pacoima Dam 1971 S16E Modifikasi maupun gempa El Centro 1940 N-S. Dalam pengujian juga didapat berbagai nilai ps yang merupakan batasan non dimensi untuk perencanaan Pseudo Elastis.",
+  "creators": "TINDRAWATI; JULIANA WIDJAJA",
+  "contributors": "Januar Buntoro (Examination Committee 1); Benjamin Lumantarna (Advisor 1); Po Seng Kian (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 773/SIP/1997; Tindrawati (21491051), Juliana Widjaja (21491243)",
+  "subjects": "BUILDINGS-EARTHQUAKE EFFECTS"
+}

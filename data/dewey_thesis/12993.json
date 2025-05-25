@@ -1,0 +1,14 @@
+{
+  "id": "12993",
+  "title": "Perancangan dan pembuataan recommendation system pada perpustakaan Universitas Kristen Petra dengan metode cosine similarity dan rocchio's relevance feedback",
+  "abstract": "Saat ini, sistem pencarian yang ada di Perpustakaan Universitas Kristen Petra hanya dapat menampilkan hasil pencarian yang mengandung kata/frase yang dimasukkan oleh user tanpa mempedulikan apakah hasil tersebut sesuai dengan apa yang dicari user atau tidak. Untuk mengatasi masalah tersebut maka dibuatlah suatu sistem rekomendasi yang dapat membantu user mendapatkan buku/koleksi yang sesuai dengan keinginannya. Sistem rekomendasi ini akan dibuat dengan menggunakan metode cosine similarity dan rocchio?s relevance feedback. Mula-mula dihitung bobot untuk setiap term dari masing-masing judul koleksi perpustakaan dan user?s feedback. Setiap bobot dari judul koleksi perpustakaan dan frase dari feedback dianggap sebagai vektor. Vektor yang didapat dari judul koleksi perpustakaan kemudian dibandingkan dengan vektor dari user?r feedback. Koleksi yang mirip akan mendapatkan nilai yang lebih tinggi. Kemudian 5 koleksi yang paling mirip akan direkomendasikan kepada user. Berdasarkan hasil pengujian dan kuesioner yang dibagikan, hasil rekomendasi yang terbaik menggunakan pangkat sebesar 2 pada bobot dari relevance document pada metode rocchio?s relevance feedback, tetapi waktu yang dibutuhkan untuk menghasilkan rekomendasi sangat bergantung pada jumlah feedback yang diberikan user. Dengan adanya sistem ini, user menjadi lebih mudah untuk mendapatkan buku/koleksi perpustakaan yang sesuai dengan keinginannya.",
+  "creators": "MINARDI CHANDRA TALIWANG",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Andreas Handojo (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. .01020809/INF/2009; Minardi Chandra Taliwang (26405135)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

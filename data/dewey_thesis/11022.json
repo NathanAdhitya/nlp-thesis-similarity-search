@@ -1,0 +1,14 @@
+{
+  "id": "11022",
+  "title": "Pemodelan dan simulasi photovoltaic systems dengan menggunakan PSIM",
+  "abstract": "Tugas Akhir ini dibuat dengan tujuan untuk mengevaluasi nilai arus, tegangan dan daya yang dapat dihasilkan sebuah solar sel pada suatu tempat (Surabaya) tanpa membuat hardwarenya. Caranya yaitu dengan pemodelan dan simulasi menggunakan program PSIM yang mana dalam membuat model diperlukan data?data pengukuran di lapangan antara lain arus dan tegangan. Pengambilan data pengukuran di lapangan menggunakan satu solar sel tipe monokristalin yang dibebani dengan resistor dengan variasi hambatan 10-100 ohm yang dilakukan selama tiga hari berturut-turut dimulai jam 09.00 berakhir pada jam 17.00 dengan variasi waktu pencatatan setiap 15 menit sekali. Berdasarkan hasil analisa, pemodelan dan simulasi dengan menggunakan program PSIM yang telah dibuat memiliki tingkat error yang tinggi pada irradiance yang kecil(<48 watt) dan irradiance yang besar(>700watt) yaitu dengan error 40% bila dibandingkan dengan pengukuran dilapangan untuk nilai daya. Tetapi untuk irradiance antara 200-600 watt tingkat error yang dihasilkan kecil yaitu hanya berbeda 20 % dari pengukuran di lapangan.",
+  "creators": "DAVID",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010588/ELK/2008; David (23403034)",
+  "subjects": "PHOTOVOLTAIC POWER SYSTEMS; PHOTOVOLTAIC CELLS"
+}

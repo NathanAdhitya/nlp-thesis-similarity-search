@@ -1,0 +1,14 @@
+{
+  "id": "9199",
+  "title": "Perbandingan algoritma exhaustive, algoritma genetika dan algoritma jaringan syaraf tiruan hopfield untuk pencarian rute terpendek",
+  "abstract": "Hingga saat ini, algoritma untuk pencarian rute terpendek (optimasi) begitu banyak. Setiap algoritma yang ada memiliki kelebihan dan kekurangan masing-masing, selain itu keunggulan dari tiap algoritma juga tergantung atas kasus yang dihadapi. Oleh karena itu, dalam tugas akhir ini dibuat perangkat lunak yang dapat memberikan informasi pembandingan algoritma berdasarkan kasus-kasus tertentu. Algoritma yang dibandingkan dalam pencarian rute adalah algoritma exhaustive, genetic algorithm dan neural network hopfield dimana ketiga algoritma ini memiliki kelebihan dan kekurangan yang berbeda-beda. Kasus-kasus yang digunakan dapat dibuat sendiri oleh user dengan fasilitas yang ada. Perangkat lunak ini dibuat menggunakan Borland Delphi 7. Dari hasil pengujian perangkat lunak ini, selain didapatkan rute paling optimum, dari hasil pembandingan antara ketiga algoritma tersebut dapat disimpulkan bahwa untuk kasus dengan skala kecil (n < 10), algoritma exhaustive memberikan hasil pencarian rute yang lebih optimum dan waktu yang singkat. Di samping itu, genetic algorithm harus memiliki input yang tepat untuk memberikan hasil optimum, sedangkan neural network hopfield memiliki hasil rute yang kurang memuaskan untuk kasus dengan skala besar.",
+  "creators": "WAHYUDI TJONDRO",
+  "contributors": "Rudy Adipranata (Advisor 1); Felicia Soedjianto (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000503/INF/2006; Wahyudi Tjondro (26401048)",
+  "subjects": "GENETIC ALGORITHMS; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

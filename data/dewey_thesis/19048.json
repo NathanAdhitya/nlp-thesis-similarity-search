@@ -1,0 +1,14 @@
+{
+  "id": "19048",
+  "title": "Economic order quantity dengan algoritma genetika",
+  "abstract": "Strategi sistem pemesanan bahan baku memegang peranan penting dalam menjaga tingkat inventory dan kemampuan untuk memenuhi demand. Meningkatnya persaingan dunia usaha menyebabkan lahirnya metode-metode inventory, salah satunya adalah Economic Order Quantity (EOQ). Metode EOQ hanya dapat digunakan apabila demand bersifat tetap, tetapi hal ini sangat jarang terjadi di dunia nyata. Oleh karena itu dikembangkan metode EOQ dengan algoritma genetika yang dapat digunakan untuk memenuhi demand yang berfluktuasi. Metode ini akan diterapkan di PT. Universal Wisesa, sebuah perusahaan sepatu yang bersifatyoi order, yang selama ini tidak memiliki metode khusus dalam menentukan jumlah pemesanan bahan baku dan memiliki demand yang berfluktuasi. Langkah awal proses pengerjaan tugas akhir ini adalah membuat pendekatan nilai aktual dari demand dengan menambahkan bilangan acak sesuai dengan distribusi error ke dalam data peramalan. Jumlah pemesanan yang dinyatakan sebagai nilai unsigned integers suatu kromosom pada algoritma genetika akan dibangkitkan secara acak dan mengalami proses croosover dan mutasi.Proses seleksi dari tiap generasi berdasarkan fitness value yang nantinya dinyatakan sebagai total biaya. Semakin kecil fitness value suatu kromosom maka semakin besar peluangnya untuk tetap survive. Pengolahan data yang dilakukan akan menghasilkan reorder point, jumlah pemesanan dan total biaya. Nilai ketiga output ini hanya dapat digunakan untuk jangka waktu tertentu berdasarkan demand yang digunakan. Kelemahan dari metode ini adalah waktu pengolahan yang lama untuk menemukan reorder point yang terbaik.",
+  "creators": "FANNY LANDREA",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 508/TI-099/2001; Fanny Landrea (25497131)",
+  "subjects": "INVENTORY CONTROL; PRODUCTION PLANNING-MATHEMATICAL MODELS"
+}

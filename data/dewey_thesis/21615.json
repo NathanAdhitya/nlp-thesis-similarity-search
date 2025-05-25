@@ -1,0 +1,14 @@
+{
+  "id": "21615",
+  "title": "Perancangan dan pembuatan aplikasi untuk menunjang pelayanan perawatan pelanggan klinik X dengan menggunakan sequential pattern mining",
+  "abstract": "Klinik X yang merupakan salah satu pionir dalam klinik estetika di Indonesia, mempunyai banyak tenaga kerja yang berpengalaman. Dengan berbekal pengalaman tersebut, para dokter dan perawat pada klinik X dapat melayani konsultasi dan dapat memberikan saran atau rekomendasi kepada pelanggan untuk perawatan berikutnya. Hal tersebut memberikan kenyamanan bagi pelanggan untuk mengambil keputusan. Namun, tidak semua pelanggan mempunyai waktu yang cukup untuk berkonsultasi dengan dokter. Dengan menggunakan FreeSpan, salah satu algoritma dalam metode sequential pattern mining, diharapkan dapat memenuhi kebutuhan pelanggan klinik X. Penggunaan sequential pattern mining pada sistem rekomendasi ini dapat membantu dokter dalam menambah rekomendasi, dan membantu pelanggan dalam mengambil keputusan. Algoritma ini menggunakan data historis perawatan pelanggan yang ada. Hasil yang diberikan dalam program ini berupa pola yang sesuai dengan keadaan yang ada pada klinik X. Hasil yang direkomendasikan dipilih berdasarkan kategori pelanggan yang ada, yaitu jenis kelamin, prioritas pelanggan pada klinik, dan range usia. Diharapkan dengan kategori yang ada dapat memberikan rekomendasi yang cocok dengan kriteria pelanggan yang ada.",
+  "creators": "SAMUEL KURNIAWAN B",
+  "contributors": "Alexander Setiawan (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020930/INF/2010; Samuel Kurniawan (26406143)",
+  "subjects": "DATA MINING; DATABASE SEARCHING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "11752",
+  "title": "Studi analisa setting over current relay pada gardu induk Waingapu PT. PLN (persero) cabang Sumba",
+  "abstract": "Dalam sistem tenaga listrik, sistem distribusi memegang peranan yang vital karena sistem ini langsung berhubungan dengan penyaluran tenaga listrik kepada konsumen.Akan tetapi gangguan dalam proses distribusi listrik tidak dapat dihindari. Gangguan yang sering terjadi pada sistem yang menggunakan saluran udara adalah gangguan arus lebih. Tugas akhir ini dibuat dengan tujuan mempelajari, memahami dan mengevaluasi sistem proteksi jaringan distribusi 20 kV pada PT. PLN(Persero) Cabang Sumba.Proteksi menggunakan Over Current Relay (OCR). OCR ini bekerja berdasarkan ketidakseimbangan arus pada saat terjadinya gangguan hubung singkat fasa ke fasa khususnya gangguan hubung singkat tiga fasa. Berdasarkan analisa, OCR harus disetting diatas arus beban puncak dan dibawah short circuit minimum. Artinya pada saat sistem dalam keadaan beban puncak, maka relay tidak diharapkan trip karena itu bukanlah gangguan. Namun selebihnya dari itu, maka relay diharapkan mampu mendeteksi arus gangguan sekecil mungkin yang dapat mengganggu kinerja sistem.Oleh karena itu, maka OCR perlu disetting pada batas : 1,25 Imax < Is < 0,81 Imin.",
+  "creators": "MURNI RAHMAWATI",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Emmy Hosea (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010608/ELK/2009; Murni Rahmawati Ngara (23402121)",
+  "subjects": "ELECTRICAL POWER DISTRIBUTION; ELECTRIC CURRENTS"
+}

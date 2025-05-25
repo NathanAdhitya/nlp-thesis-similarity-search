@@ -1,0 +1,14 @@
+{
+  "id": "1067",
+  "title": "Perencanaan dan pembuatan software CLTD (Cooling Load Temperature Difference)",
+  "abstract": "Karena semakin menipisnya sumber-sumber energi dan semakin mahalnya penggunaan energi; yang disertai dengan krisis ekonomi, karena itu dicari suatu cara dan strategi yang tepat untuk penggunaan energi secara efisien dan rasional. Dari permasalahan diatas maka diperlukan suatu program yang dapat menghitung besarnya kapasitas AC yang efisien, sehingga pemakaian listrik dapat ditekan. Pada pembuatan program terdahulu; dibuat dengan menggunakan Microsoft Excel, ditemui beberapa kelemahan, salah satunya yaitu tidak mampu mengolah data yang terlalu banyak. Aplikasi dibuat dengan Borland Delphi 5.0, sedangkan penyimpanan data memakai Microsoft Access XP. Aplikasi akan menghasilkan besarnya beban pendinginan/TR, berdasarkan data yang diinputkan. Pengujian aplikasi terdiri atas dua jenis pengujian, yaitu: berdasarkan program yang dibuat dengan Delphi, dan program yang dibuat dengan Microsoft Excel. Hasil yang didapat ternyata mengalami perbedaan, hal ini dikarenakan terdapat perbedaan metode dalam menghasilkan RSHG. Hasil RSHG pada Exel tergantung dari pilihan bulan dan jam, sedangkan hasil RSHG pada Delphi pemilihan bulan dan jam sudah diotomatisasi dengan didapat RSHG yang paling maximal.",
+  "creators": "ANTON",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); V.P. Nugroho Susilo (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0031/INF/2003; Anton Setiawan (26498092)",
+  "subjects": "SOFTWARE ENGINEERING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

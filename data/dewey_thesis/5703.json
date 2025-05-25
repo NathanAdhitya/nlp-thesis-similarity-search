@@ -1,0 +1,14 @@
+{
+  "id": "5703",
+  "title": "Pembuatan mesin kasir dengan video capture",
+  "abstract": "Dewasa ini penggunaan mesin kasir merupakan hal yang umum di berbagai kawasan pertokoan modern karena berbagai manfaat yang dihasilkannya. Namun, meskipun telah menggunakan mesin kasir, kesalahan-kesalahan pada hasil perhitungan masih sering terjadi. Kesalahan-kesalahan tersebut dapat terjadi karena kecurangan yang dilakukan oleh pelanggan, maupun karyawan toko itu sendiri. Untuk mengatasi kesalahan tersebut di atas, maka diperlukan sebuah sistem pengamanan yang dapat memantau aktivitas pada toko. Pemasangan kamera tersebut memberi manfaat, karena gambar yang ditangkap dapat disimpan dalam media penyimpanan digital (misalnya harddisk) dan dapat dijadikan barang bukti atas pelanggaran hukum. Pada tugas akhir ini dicoba diintegrasikan mesin kasir dengan sistem pengaman dengan web camera yang difokuskan pada meja kasir (yang diimplementasikan dengan komputer). Penggunaan komputer dipilih karena, yang pertama, telah menjadi platform yang umum untuk mesin kasir, dan yang kedua, sistem multitasking pada komputer cocok untuk aplikasi yang melakukan proses transaksi penjualan dan perekaman gambar sekaligus. Akhirnya, berhasil dibuat aplikasi client-server, multi user, dimana administrasi dan setting dilakukan pada server, dan proses transaksi sekaligus perekaman video dilakukan pada client. Data transaksi dikirim secara realtime, namun data video dipindahkan secara berkala dari client ke server. Dari pengujian diperoleh proses sistem mesin kasir, perekaman dan playback data video sudah baik. Sedangkan proses pemindahan masih perlu perbaikan.",
+  "creators": "JOHANES",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010783/ELK/2006; Johanes (23499011)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECNIGUES; COMPUTER VISION"
+}

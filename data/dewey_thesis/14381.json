@@ -1,0 +1,14 @@
+{
+  "id": "14381",
+  "title": "Face recognition by elastic bunch graph matching",
+  "abstract": "Dewasa ini, telah banyak dilakukan berbagai cara untuk dapat mengenali suatu objek melalui sebuah foto. Banyak para peneliti telah melakukan berbagai-bagai eksperimen untuk dapat memecahkan masalah ini, dan salah satunya yaitu pengenalan wajah seseorang dari sebuah input image melalui berbagai transformasi dan ekspresi yang ada. Pada skripsi kali ini, dilakukan penelitian tersebut dengan menggunakan salah satu metode pengenalan wajah, yaitu Elastic Bunch Graph Matching. Pertama, metode ini menggunakan suatu sistem pengenalan dengan Gabor Wavelet transform. Adanya penentuan face facial features diharapkan dapat menjadi identitas antara seseorang dengan yang lain, seperti mata, mulut, alis, hidung, dan lain sebagainya. Kemudian dilakukan proses Gabor Kernel Convolution untuk mendapatkan nilai jet guna membangun face graph yang akan membentuk Face Bunch Graph, dimana berfungsi untuk face graph extraction secara otomatis dari probe image nantinya. Graph inilah yang akan dicari tingkat similaritasnya dengan berbagai face graph yang ada di database. Aplikasi berorientasi obyek ini dikembangkan dengan menggunakan bahasa pemrograman Java dengan kompiler NetBeans IDE 7.0M1. Berdasarkan dari hasil pengujian yang dilakukan, hasil tingkat akurasi dari face recognition sangat bergantung terhadap banyak faktor. Juga dapat disimpulkan secara garis besar bahwa database yang cukup baik untuk pengenalan wajah menggunakan ukuran Gabor Kernel 45 x 45 pixel, complex face graph, dan menggunakan sistem ranking dengan Type Two Ranking. Untuk hasil tingkat akurasi pengujian, didapat 88% kebenaran tingkat identifikasi terhadap YALE database sebagai hasil pembandingan dengan metode-metode yang terdahulu.",
+  "creators": "ANDY BASUKI",
+  "contributors": "Rudy Adipranata (Advisor 1); Resmana Lim (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020835/INF/2009; Andy Basuki (26406026)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

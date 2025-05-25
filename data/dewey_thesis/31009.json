@@ -1,0 +1,14 @@
+{
+  "id": "31009",
+  "title": "Modifikasi sepeda statis untuk menggantikan fungsi keyboard pada game jalan-jalan di kota Surabaya",
+  "abstract": "Dunia permainan yang semakin maju seiring dengan inovasi dalam bidang teknologi industri telah mengalami perkembangan yang pesat demi mendukung kesejahteraan hidup manusia. Tugas Akhir ini mengangkat topik Modifikasi Sepeda Statis Untuk Menggantikan Fungsi Keyboard dimana sepeda statis akan mampu menggantikan fungsi keyboard pada salah satu game. Dalam proses pembuatannya, pembuatan chassis dibentuk model seperti segitiga yang dapat menyangga sepeda yang telah dimodifikasi dan bisa dioperasikan sesuai dengan kenyataan bersepeda pada umumnya. Sistem ini menerima input yang berasal dari encoder untuk mengetahui perubahan kecepatan yang terjadi secara dinamis. Input lain yang diproses pada mikrokontroler ini adalah potensiometer. Potensiometer akan memberikan output berupa arah kemudi. Hasil yang diberikan melalui input dari beberapa sensor akan dikonversikan kedalam kode ASCII yang dikenali oleh program OGRE untuk menjalankan permainan. Hasil pengujian menunjukan bahwa sepeda ini memiliki performa yang cukup baik dalam menggantikan fungsi keyboard. Pengujian dilakukan dalam beberapa faktor meliputi pengujian encoder, menunjukkan perubahan kecepatan yang bisa berubah-ubah sesuai dengan apa yang dilakukan oleh pemain. Kontrol arah yang dihasilkan dari sensor yang berupa potensiometer, bekerja dengan baik.",
+  "creators": "JONATHAN WIDYANTO SAPUTRA",
+  "contributors": "Handry Khoswanto (Advisor 1); Murtiyanto Santoso (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010933/ELK/2014; Jonathan Widyanto Saputra (23406020)",
+  "subjects": "MICROCONTROLLER; ENERGY DEVELOPMENT; ENCODER MC 145026; ELECTRIC ENGINEERING"
+}

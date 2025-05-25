@@ -1,0 +1,14 @@
+{
+  "id": "23773",
+  "title": "Perencanaan dan pembuatan interface untuk penggunaan bersama satu serial port RS232C dan RS485 IBM-PC oleh maksimum 8 I/O interface",
+  "abstract": "Perkembangan di bidang komunikasi data sudah sedemikian pesat sehingga komunikasi sangatlah dibutuhkan oleh komputer untuk mengontrol perangkat digital yang sangat banyak dan letaknya tidak dekat dengan komputer induk. Sarana komunikasi RS232C yang merupakan standar komunikasi data yang dikeluarkan oleh Electronics Industry Association (E.1.A) hanya mengijinkan satu perangkat digital saja untuk komunikasi data. Oleh karena itu, dirancang suatu sistem yang menggunakan RS232C si stem bus. Metode ini memungkinkan lebih dari satu perangkat digital terhubung pada satu buah serial port RS232C. Sarana komunikasi lain yang juga dikeluarkan oleh E.I.A. yaitu RS485 sudah mengijinkan banyak perangkat digital terhubung pada satu serial port RS485. Hal ini disebabkan karena RS485 hanya mempergunakan sepasang kabel dan semua perangkat digital yang akan berkomunikasi terhubung secara paralel dengan serial port RS485 dari komputer. Pengubahan data paralel ke data serial atau sebaliknya dilakukan oleh U.A.R.T (Universal Asynchronous Receiver Tranceiver) sedangkan pengubahan data komunikasi serial menurut standar RS232C dilakukan oleh I.C. (Integrated Circuit) ICL232 dan pengubahan data komunikasi serial menurut standar RS485 dilakukan oleh I.C. SN75176.",
+  "creators": "BAMBANG HARIANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); SUPENO DJANALI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/011/0214; Bambang Harianto (23489037)",
+  "subjects": "COMPUTER INTERFACES"
+}

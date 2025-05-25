@@ -1,0 +1,14 @@
+{
+  "id": "42677",
+  "title": "Aplikasi deteksi suhu dan orang untuk ruang server dengan raspberry PI",
+  "abstract": "Ruangan server adalah sebuah ruangan yang digunakan untuk menyimpan server, perangkat jaringan, dan perangkat lainnya. Sebuah ruangan server memiliki standar keamanan yang melindungi perangkat-perangkat yang ada di dalamnya, mulai dari suhu udara dalam sebuah ruangan server, kelembaban ruangan, kebakaran, serta akses keluar masuknya orang-orang yang dianggap kurang bertanggung jawab. Kurangnya pengawasan dan pemantauan suhu dan kelembaban ruangan sering terjadi. Hal ini disebabkan kurangnya pengawasan atau pengontrolan dari staff atau admin dari ruang server tersebut. Jika suhu dan kelembaban ruangan server sering tidak terkontrol maka akan terjadi kerusakan pada perangkat server yang berada dalam ruangan server tersebut. Sering kali keamanan ruangan server dari jangkauan orang-orang yang kurang bertanggung jawab juga kurang diperhatikan. Sehingga terkadang ada orang yang dapat masuk ke dalam ruangan server tanpa diketahui maksud serta tujuannya. Untuk solusi masalah di atas adalah dengan menggunakan aplikasi monitoring ruangan, yang dapat digunakan untuk mengontrol dan me-monitor suhu dan kelembaban pada ruangan server, sehingga suhu dan kelembaban ruangan server dapat terjaga. Aplikasi ini juga dapat mencegah orang yang tidak berkepentingan untuk masuk ke dalam ruangan server tersebut.",
+  "creators": "MARKUS DAUD GIANTARA",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021787/INF/2018; Markus Daud Giantara (26413025)",
+  "subjects": "RASPBERRY PI (COMPUTER); TEMPERATURE CONTROL"
+}

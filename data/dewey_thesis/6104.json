@@ -1,0 +1,14 @@
+{
+  "id": "6104",
+  "title": "Pembuatan perangkat lunak untuk menghasilkan ruled surface dan rotational object dari kurva bezier dan B-Splines",
+  "abstract": "Saat ini telah banyak perangkat lunak yang digunakan untuk membantu pembuatan objek 3D. Akan tetapi sebagian besar perangkat lunak hanya memiliki kemampuan untuk menciptakan objek-objek sederhana yang kemudian digabung-gabungkan atau diolah lebih lanjut. Karena itu dibutuhkan perangkat lunak yang dapat membuat objek yang kompleks namun fleksibel dalam pembuatannya, sehingga perangkat lunak tersebut dapat menjadi software pendukung untuk software pengolahan objek 3D yang lebih besar. Tujuan dari tugas akhir ini adalah membuat perangkat lunak agar user dapat membuat kurva Bezier dan B-Splines, kemudian kurva tersebut diolah lebih lanjut sehingga menghasilkan ruled surface maupun rotational object. Pembuatan objek kurva dilakukan dengan menginputkan titik kontrol dari kurva. Kurva yang terbentuk dapat digunakan untuk menciptakan ruled surface serta rotational object. Objek yang dihasilkan tersebut dapat disimpan dalam format file obj yang selanjutnya dapat digunakan oleh aplikasi pengolahan objek 3D lainnya. Pembuatan perangkat lunak ini menggunakan bahasa pemrograman Borland Delphi 7 dengan library OpenGL. Hasil pengujian menunjukkan bahwa dengan menggunakan perangkat lunak ini user dapat menggambar kurva bezier maupun B-Splines dan menjadikannya ruled surface maupun rotational object dalam ruang 3D.",
+  "creators": "FRICKY VALIANT",
+  "contributors": "Kartika Gunadi (Advisor 1); Liliana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000467/INF/2006; Fricky Valiant (26402200)",
+  "subjects": "SOFTWARE ENGINEERING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

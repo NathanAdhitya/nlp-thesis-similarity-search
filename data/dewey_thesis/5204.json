@@ -1,0 +1,14 @@
+{
+  "id": "5204",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada toko bahan bangunan UD Garuda",
+  "abstract": "UD. Garuda adalah sebuah perusahaan dagang yang bergerak di bidang pembelian dan penjualan bahan bangunan. Keseluruhan sistem pada perusahaan ini masih menggunakan sistem manual dimana setiap harinya dilakukan pembukuan untuk menyimpan data transaksi perusahaan. Supaya dapat dihasilkan informasi yang diperlukan secara cepat dan akurat maka perlu dirancang dan dibuat sebuah sistem informasi akuntansi. Perancangan sistem yang baru dimulai dengan melakukan analisis pada sistem yang sedang berjalan pada perusahaan. Setelah kebutuhan sistem diketahui maka dibuatlah perancangan sistem yang baru dengan menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk membuat desain struktur tabel dan relasi antar table dengan menggunakan Power Designer. Program sistem informasi akuntansi ini dibuat dengan menggunakan Borland Delphi 7.0 dan Microsoft SQL Server sebagai basis data. Sesuai dengan hasil analisi maka modul yang dibuat meliputi pembelian, penjualan, retur beli, retur beli, retur jual dan berbagai transaksi kas lainnya. Program juga dibuat dengan beberapa fitur tambahan lainnya. Hasil pengujian menunjukkan program telah menunjang proses-proses yang berjalan di perusahaan seperti memproses data akuntansi yang berhubungan dengan pembelian dan penjualan secara otomatis dan menghasilkan informasi berupa laporan manajerial (laporan pembelian, penjualan, retur, hutang, piutang) dan laporan keuangan (laporan jurnal-jurnal, laporan laba rugi, laporan ekuitas pemilik dan neraca) yang akurat (sesuai dengan proses manualnya) .",
+  "creators": "TERRY SETIAWAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Natalia Tangke (Advisor 2); Sri Maharsi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010628/INF/2007; Terry Setiawan (26403041)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATA BASE MANAGEMENT"
+}

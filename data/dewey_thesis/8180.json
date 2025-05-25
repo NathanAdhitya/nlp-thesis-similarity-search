@@ -1,0 +1,14 @@
+{
+  "id": "8180",
+  "title": "Embedded currency rate display",
+  "abstract": "Seiring dengan perkembangan teknologi internet, maka penggunaan internet juga semakin pesat. Pada sistem perbankan saat ini, untuk menampilkan kurs jual dan kurs beli masih dilakukan secara konvensional dengan menuliskannya atau menempelkan angka-angka di papan tampilan secara manual. Dengan menggunakan teknologi embedded internet, cara semacam itu dapat digantikan, sehingga pihak bank dapat mengontrol ataupun memantau kurs jual dan kurs beli dimanapun dan kapanpun secara realtime. Aplikasi embedded currency rate display menggunakan sebuah mikroprosesor RabbitCore RCM300. Selain itu, untuk mengatur tampilan yang ada di display, digunakan website yang nantinya dikelola oleh seorang administrator. Dari web tersebut dapat dipilih web acuan yaitu \"Bloomberg\" atau \"Yahoo!\", nilai margin, dan berapa lama waktu untuk menampilkan mata uang terbaru. Selain itu dari web administrator juga dapat memantau kurs terbaru serta IP address yang digunakan oleh RabbitCore RCM3200. Performanya pun dapat diandalkan karena dilengkapi dengan penanganan error untuk jaringan yang terputus.",
+  "creators": "YOAS SEBASTIAN",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010057/ELK/2007; Yoas Sebastian (23402039)",
+  "subjects": "INTERNET (COMPUTER NETWORK)"
+}

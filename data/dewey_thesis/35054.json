@@ -1,0 +1,14 @@
+{
+  "id": "35054",
+  "title": "Aplikasi committee recruitment broadcast di Universitas Kristen Petra berbasis website dan facebook API",
+  "abstract": "Penyebaran informasi dan pendaftaran kegiatan kepanitiaan di Universitas Kristen Petra masih dilakukan secara manual. Mahasiswa mengalami kesulitan mendapatkan informasi mengenai kegiatan kepanitiaan yang akan diadakan dan sedang membuka pendaftaran kepanitiaan. Oleh karena itu, perlunya sarana seperti website yang dapat memberikan informasi kepada seluruh mahasiswa Universitas Kristen Petra dan mempermudah mahasiswa dalam melakukan pendaftaran kepanitiaan yang diminati. Pada skripsi ini dibuatlah aplikasi berbasis website yang berada di dalam media sosial facebook dengan mengimplementasikan facebook API dan email service PostageApp untuk broadcast informasi kepanitiaan. Fitur yang disediakan pada aplikasi ini adalah input kegiatan baru, search kegiatan, pendaftaran panitia, penerimaan panitia, notifikasi, penilaian panitia, lihat history kepanitiaan mahasiswa, approve kegiatan kepanitiaan, dan import data dari file excel. Pembuatan aplikasi ini menggunakan bahasa pemrograman PHP dan HTML, framework CodeIgniter, dan database MySQL. Berdasarkan pengujian yang dilakukan, aplikasi website dapat berjalan pada facebook canvas yang dapat diakses setelah login pada facebook dan menyetujui permission dialog. Website kepanitiaan ini dapat membantu mahasiswa mendapatkan informasi mengenai kegiatan kepanitiaan yang ada di Universitas Kristen Petra, membantu proses pendaftaran dan rekrutmen panitia. Website juga dapat memberikan broadcast notifikasi facebook dan email kepada mahasiswa. Aplikasi ini memperoleh nilai kepuasan dari responden sebesar 82,03%.",
+  "creators": "CAROLINE INDAH WIJAYA",
+  "contributors": "Andreas Handojo (Advisor 1); ANITA NATHANIA (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021420/INF/2015; Caroline Indah Wijaya (26411077)",
+  "subjects": "WEB SITE-DESIGN; FACEBOOK (ELECTRONIC RESOURCE); APPLICATION PROGRAM INTERFACES"
+}

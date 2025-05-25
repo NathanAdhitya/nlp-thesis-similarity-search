@@ -1,0 +1,14 @@
+{
+  "id": "26057",
+  "title": "Studi perbandingan beberapa metode perhitungan aliran berubah lambat laun",
+  "abstract": "Kebutuhan air pada suatu jaringan irigasi yang diperlukan untuk mengairi sawah pada umumnya diperoleh dengan meninggikan muka air sungai yaitu dengan membuat bendungan-bendungan sederhana . Dalam membangun dan merencanakan bendungan-bendungan sederhana tersebut diperlukan pemikiran dan beberapa pertimbangan tentang profil muka air sungai yang naik akibat bendungan dan tinggi tanggul yang diperlukan. Profil muka air sungai yang naik akibat bendungan dapat diperhitungkan dengan beberapa metode aliran berubah lambat laun. Bila digolongkan secara umum, ada tiga metode perhitungan : - Metode Integrasi Grafis (Graphical Integration Method) - Metode Integrasi Langsung (Direct Integration Method) - Metode Tahapan Langsung (Step Method) Dengan adanya beberapa metode aliran berubah lambat laun tersebut, maka kami mencoba membandingkan ketiga metode dalam Tugas Akhir yang kami beri judul \" Studi Perbandingan Metode Perhitungan Aliran Berubah Lambat Laun” . Selama membandingkan ketiga metode aliran berubah lambat laun dengan hasil percobaan didapat hasil yang masih belum memuaskan, karena saluran yang digunakan hanya dapat menunjukkan sebagian saja dari bentuk profil aliran berubah lambat laun. Metode Integrasi Grafis merupakan metode yang sangat sederhana (mudah dilakukan) dan luas pemakaiannya. Dengan metode ini perhitungan pertambahan luas dapat diukur dengan alat planimeter, sehingga perhitungannya dapat dilakukan dengan cepat tanpa memakai sarana computer. Pada jarak yang cukup panjang Metode Integrasi Langsung lebih mendekati hasil yang sebenarnya, hal ini disebabkan karena Metode Integrasi Langsung menguraikan perhitungan untuk faktor penampang aliran kritis dan aliran seragam sebagai nilai eksponen hidrolis untuk perhitungan aliran kritis (N) dan eksponen hidrolis untuk perhitungan aliran seragam (M) yang berpengaruh langsung pada penampangnya. Sedangkan perhitungan Metode Integrasi Langsung tidak tergantung pada tahap sebelumnya, tetapi memerlukan tabel batasan dan interpolasi untuk perhitungan integralnya. Bila tersedia sarana computer, maka perhitungan Metode Integrasi Langsung akan lebih cepat dan lebih mudah untuk mendapatkan hasil. Untuk perhitungan Metode Integrasi Grafis dan Metode Tahapan Langsung tergantung pada tahap sebelumnya, sehingga faktor kesalahan atau pembulatan angka yang terjadi makin lama makin banyak .",
+  "creators": "LINARDI",
+  "contributors": "Ruslan Djajadi (Advisor 1); Frederik Jones Syaramual (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 455 S; Linardi (14281091)",
+  "subjects": "DAMS; IRRIGATION ENGINEERING"
+}

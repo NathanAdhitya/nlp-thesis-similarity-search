@@ -1,0 +1,14 @@
+{
+  "id": "30195",
+  "title": "Kendali noise akustik secara aktif dengan metode filtered-x least mean square dengan menggunakan starter kit digital signal processor TM32050",
+  "abstract": "Metode peredaman suara secara aktif bekerja berdasarkan prinsip superposisi yang destruktif, di mana sumber suara bising (noise), dilawan dengan sumber suara anti-noise. Sumber suara anti-noise ini memiliki amplitudo yang sama besar dengan sumber noise utama, namun phasenya berbeda 180°. Akibatnya kedua sumber suara ini akan saling melemahkan. Sebagai media simulasi, digunakan saluran pipa PVC sebagai tempat perambatan gelombang suara. Pipa ini dilengkapi dengan speaker noise, speaker anti-noise, microphone input, dan microphone error. Dalam hal ini, speaker berfiingsi sebagai sumber suara, baik noise maupun anti-noise. Sedangkan microphone berfungsi sebagai sensor penangkap sinyal suara. Kondisi real dari jalur-jalur akustik tempat perambatan gelombang suara diimplementasikan dalam bentuk filter-filter digital. Sedangkan untuk membantu pemroses sinyal-sinyal digital tersebut, digunakan Digital Signal Processing (DSP) TMS320C50. Processor ini memiliki kecepatan pemrosesan yang cukup tinggi dengan nmemonic-mnemonic yang dikhususkan untuk pemrosesan sinyal digital. Dalam penerapannya, sistem diuji dengan berbagai variasi step size, frekwensi noise, orde filter dan level sinyal noise. Selain itu juga dilakukan pengujian respon sistem terhadap sinyal noise multiple frekwensi dan pengujian respon parameter akustik yang terdapat pada saluran pipa PVC. Dari pengujian terhadap masing-masing variasi tersebut, ternyata sistem yang dibuat ini cukup efektif untuk meredam sinyal noise yang frekwensinya narrow-band. Frekwensi-frekwensi sinyal noise yang dapat diredam benilai 428, 476, 502, 550, 569, 600, 625 dan 643 Hz. Dari nilai-nilai tersebut, diperoleh nilai reduksi yang optimal sebesar 21.03 dBV, pada frekwensi noise 569 Hz. Sedangkan untuk sinyal noise multiple frekwensi, sistem efektif untuk meredam hingga 4 frekwensi sinyal input (quadruple-tone signal). Pada variasi level sinyal input, diperoleh hasil reduksi yang maksimal sebesar 33.86 dBV pada level sinyal input -5.99 dBV dengan frekwensi 428 Hz. Akhirnya, pemanfaatan dan pengembangan peredaman suara secara aktif ini diharapkan dapat menjadi dasar bagi pengembangan metode peredaman noise multiple frekwensi secara aktif yang banyak dijumpai pada pabrik, pada interior pesawat, mobil dan lain-lain.",
+  "creators": "MARCO JENNIFER PATRICK",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/020/414; Marco Jennifer Patrick (23493084)",
+  "subjects": "NOISE CONTROL; MICROPROCESSOR"
+}

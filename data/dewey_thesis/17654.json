@@ -1,0 +1,14 @@
+{
+  "id": "17654",
+  "title": "Pembandingan aplikasi metode penjadualan di perusahaan koper",
+  "abstract": "P.T. XYZ merupakan sebuah industri manufaktur yang memproduksi tas koper yaitu berupa tas travel, tas kantor dan beauty case. Produk-produk tersebut terdiri dari berbagai macam tipe dan ukuran. Produk yang dibahas dalam tugas akhir ini adalah tas travel 26\", tas travel 29\", beauty case dan tas kantor yang merupakan produk yang paling sering dipesan. Dalam perkembangannya P.T. XYZ berupaya untuk meningkatkan produktivitas dari perusahaan agar dapat memenuhi permintaan dari konsumen. Salah satu caranya adalah dengan melakukan penjadualan produksi. Dalam tugas akhir dilakukan studi literatur mengenai metode penjadualan yang sesuai dengan karakteristik perusahaan dengan berdasarkan data dan informasi dari tugas akhir no 11 l/TMI-41/1998 . Berdasarkan hasil dari studi literatur, maka dilakukan penjadualan dengan algoritma CDS sebagai solusi awal dari algoritma Rajendran, algoritma NEH, algoritma Hundal dan Rajgopal, algoritma RC dan metode Neighborhood Search yang disesuaikan dengan karakteristik perusahaan yang mempunyai tipe proses produksi flexible flow shop. Hasil penjadualan dengan menggunakan algoritma Rajendran, algoritma NEH, algoritma Hundal dan Rajgopal, algoritma RC dan metode Neighborhood Search tersebut, kemudian dievaluasi dengan menggunakan operator Delta untuk menentukan metode yang terbaik dalam meminimumkan makespan, total flow time, dan machine idle lime. Hasil dari evaluasi dengan menggunakan operator Delta tersebut didapatkan, bahwa algoritma RC merupakan metode yang terbaik dengan makespan sebesar 611483.29 detik, total flow time sebesar 5522410.1 detik, dan machine idle time sebesar 205503.24 detik.",
+  "creators": "TONNY SANTOSA",
+  "contributors": "Didik Wahjudi (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 183/TI-09/1999; Tonny Santosa (25494065)",
+  "subjects": "SCHEDULING; PRODUCTION PLANNING; WORK MEASUREMENT"
+}

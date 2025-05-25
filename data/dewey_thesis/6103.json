@@ -1,0 +1,14 @@
+{
+  "id": "6103",
+  "title": "Perancangan tools untuk pembuatan XML schema dengan menggunakan pendekatan entity relationship diagram",
+  "abstract": "Saat ini eXtensible Markup Language (XML) banyak digunakan untuk penyajian data dan pemindahan data. Bentuk format XML yang berbasis teks menyebabkan XML dengan mudah dapat memindahkan data antar platform. Hal tersebut sulit terjadi pada aplikasi yang tidak menggunakan XML, karena aplikasi?aplikasi ini berdiri pada platform yang berbeda. Untuk mendefinisikan aturan dalam penulisan file XML, suatu file XML terhubung dengan suatu file XML Schema (XSD). XSD berfungsi sebagai Data Definition Language bagi file XML. XSD menjabarkan suatu data yang digunakan untuk menjelaskan dan menvalidasi dokumen XML. Dengan makin banyaknya penggunaan XML yang juga membuat makin banyaknya penggunaan XSD, maka diperlukan suatu tools untuk membuat XSD yang memudahkan pemakai dalam mengaplikasikannya. Perangkat lunak ini berbasis grafis Entity Relationship Diagram (ERD) sebagai media inputan. Dalam pembuatan perangkat lunak, penulis melakukan pengamatan terhadap tools yang digunakan untuk membuat ERD sebagai bahan pembanding. Berdasarkan hasil pengamatan kemudian dirancang suatu interface (antarmuka) yang baik. Proses dilanjutkan dengan melakukan beberapa validasi terhadap hasil rancangan ERD. Hasil validasi ERD inilah yang kemudian diproses untuk dibuat dalam bentuk XSD. Penulis menggunakan software Microsoft Visual Studio .NET dalam pembuatan perangkat lunak ini. Dengan menggunakan perangkat lunak ini, pemakai yang awam dengan perintah XML dapat dengan mudah membuat suatu XSD yang digunakan dalam suatu file XML. Dengan perangkat lunak ini tidak perlu mengenali format XSD, karena perangkat lunak ini menggunakan ERD sebagai media dalam membuat XSD.",
+  "creators": "SUGIANTO EFFENDY",
+  "contributors": "Oviliani Yenty Yuliana (Advisor 1); Yulia (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000469/INF/2006; Sugianto Effendy (26402071)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

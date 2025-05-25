@@ -1,0 +1,14 @@
+{
+  "id": "4564",
+  "title": "Rancang bangun pembuatan mikrokontroller sistem kontrol traksi elektrikal vehicle model dengan sistem kontrol PID fuzzy",
+  "abstract": "Dari hasil-hasil penelitian ilmiah yang pernah dilakukan, sistem kontrol traksi (TCS) mampu mempertahankan stabilitas kendaraan, yaitu pada permukaan jalan dengan koefisien gesek adhesive ?L yang rendah dengan cara mengontrol ratio slip diantara ban dan permukaan jalan. Penulisan ini merencanakan dan membuat model/prototype mikrocontroller sistem kontrol traksi (TCS) kendaraan dengan bantuan software computer dan hardware. Hasil analisis teoritis dikatakan bahwa sistem kontrol dengan akses gain PID dan Fuzzy memberikan respon hasil yang significant yang berbeda (Ian Hardianto Siahaan, Thesis: Sistem Kontrol Traksi dengan Sistem Kontrol PID Fuzzy). Waktu saat kontrol traksi terjadi, dengan delay time yang sama dengan hasil eksperimen 1 detik. Respon stabil bersama pada slip 0,10-0,20 bisa dicapai pada respon stabil dari kedua kondisi dengan nilai terbesar. Rancang bangun microcontroller ini bermaksud untuk mengontrol spin agar tidak terjadi dan selanjutnya dilakukan dengan kontroller Fuzzy.",
+  "creators": "FERRY BINTORO WIBOWO",
+  "contributors": "Ian Hardianto Siahaan (Advisor 1); Ninuk Jonoadji (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0727/MES/2006; Ferry Bintoro Wibowo (24400033)",
+  "subjects": "TRACTION DRIVES; AUTOMOBILES-TRANSMISSION DEVICES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "30310",
+  "title": "Perancangan dan pembuatan perangkat lunak pengenalan angka kode pos surat dengan back propagation neural network",
+  "abstract": "Setiap surat yang diterima oleh kantor pos memerlukan pemilahan lebih lanjut sebelum dikirim ke alamat tujuan. Pemilahan surat dilakukan oleh kantor pos berdasarkan kode pos yang ditulis oleh pengirim surat. Kode pos yang tertera pada surat ditulis dengan tulisan tangan oleh pengirim surat. Proses pemilahan surat secara manual ini dapat dikerjakan secara otomatis dengan menggunakan perangkat lunak pengenalan kode pos. Dalam image preprocessing, ada beberapa tahap yang dilakukan, yaitu rotate, grayscale, image smoothing dan thresholding. Sedangkan metode untuk image localization adalah block extraction. Setelah image localization, image diproses dengan feature extraction lalu dikenali dengan Back Propagation Neural Network. Perangkat lunak pengenalan kode pos ini diimplementasikan dengan bahasa pemrograman Borland Delphi 7 dan menggunakan database Paradox yang terintegrasi dengan Borland Delphi 7. Perangkat lunak ini juga menggunakan library Intel IPL untuk image preprocessing dan komponen shellshock yang diinstall pada Borland Delphi 7. Hasil pengujian pengenalan angka tunggal rata-rata sebesar 68%, sedangkan hasil pengujian pengenalan angka pada image angka dan huruf rata-rata sebesar 14%. Hasil pengujian pengenalan angka pada image rata-rata sebesar 2%.",
+  "creators": "HARIYANTO TANUDJAJA",
+  "contributors": "Resmana Lim (Advisor 1); Kartika Gunadi (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000182/INF/2004; Hariyanto Tanudjaja (26400006)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); ARTIFICIAL INTELLIGENCE"
+}

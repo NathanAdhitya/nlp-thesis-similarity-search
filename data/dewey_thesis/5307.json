@@ -1,0 +1,14 @@
+{
+  "id": "5307",
+  "title": "Perencanaan produksi dan pengendalian inventory di Jaya Metal Coating",
+  "abstract": "Jaya Metal Coating adalah perusahaan yang bergerak dibidang pembuatan frame kursi atau kerangka kursi. Permasalahan yang dialami perusahaan saat ini adalah sering terjadinya keterlambatan dalam pemenuhan order dan tidak adanya pengaturan persediaan bahan baku yang baik. Hal ini mengakibatkan kepercayaan terhadap perusahaan menurun. Untuk mengatasi permasalahan yang ada dalam perusahaan maka diperlukan suatu perencanaan produksi yang baik. Dalam tugas akhir ini dibuat perencanaan produksi usulan dengan menggunakan minimum order dan safety stock sebagai peramalan permintaan di masa mendatang. Dengan menggunakan minimum order didapatkan total inventory cost yang paling rendah yaitu sebesar Rp. 32939. Kemudian hasil dari perencanaan produksi usulan digunakan sebagai input bagi MRP untuk merencanakan jumlah bahan baku yang diperlukan. Pada perencanaan persediaan bahan baku usulan digunakan metode Silver Meal, Least Unit Cost, dan Wagner Whitin. Biaya yang ditimbulkan oleh ketiga metode tersebut untuk bahan baku pipa oval 6 meter, 5.6 meter dan pipa bulat 6 meter sama yaitu sebesar Rp. 53271, Rp. 65089 dan Rp. 85541. Hal ini dikarenakan ketiga metode tersebut harus disesuaikan dengan minimum order yang ditetapkan oleh supplier. Sedangkan untuk bahan baku plat biaya yang paling kecil adalah dengan menggunakan metode Silver Meal dan Wagner Whitin yaitu sebesar Rp. 20200.",
+  "creators": "DENIS DANISWARA PRAWITO",
+  "contributors": "Tanti Octavia (Advisor 1); Herri Christian Palit (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011091/IND/2006; Denis Daniswara Prawito (25400182)",
+  "subjects": "PRODUCTION MANAGEMENT; PRODUCTION PLANNING; INVENTORY CONTROL"
+}

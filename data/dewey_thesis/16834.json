@@ -1,0 +1,14 @@
+{
+  "id": "16834",
+  "title": "Robot sepak bola dengan sistem wireless",
+  "abstract": "Perencanaan robot sepak bola ini dilatar belakangi oleh keinginan manusia untuk menerapkan permainan yang terbatas pada layar kaca atau monitor itu, menjadi permainan dalam bentuk robot. Pengendalian robot sepak bola ini dilakukan secara wireless, yaitu dengan menggunakan frekuensi radio sebagai sarana komunikasinya. Pada robot sepak bola ini digunakan 1 buah pemancar FM yang ada pada bagian pengendali dan 6 buah penerima FM yang ada pada setiap robot. Yang berarti digunakan 1 frekuensi yang sama, dan yang membedakan antar robot adalah ID data. Jadi data antara robot 1 sampai robot 6 berlainan. Pengujian robot sepak bola ini dilakukan pada sebuah lapangan yang berukuran 110 x 240 cm, dimana setiap grup terdiri dari 3 buah robot. Pada permainan ini setiap robot dikendalikan oleh satu orang, jadi dibutuhkan 6 orang untuk dapat melakukan permainan tersebut, dimana setiap grup berusaha untuk merebut bola dan bekerjasama untuk mencetak goal pada gawang lawan. Dari hasil pengujian yang telah dilakukan, semua robot dapat berjalan dengan baik sesuai yang diinginkan dan jarak terjauh robot dari transmitter adalah 10 meter.",
+  "creators": "EDY GUNAWAN",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/076/513; Edy Gunawan (23496085)",
+  "subjects": "RADIO FREQUENCY; ROBOTS-CONTROL SYSTEMS"
+}

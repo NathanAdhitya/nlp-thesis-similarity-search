@@ -1,0 +1,14 @@
+{
+  "id": "21866",
+  "title": "Perencanaan dan pembuatan alat monitor detak jantung dan temperatur tubuh yang dapat dimemori menggunakan mikrokontroler 8031",
+  "abstract": "Perencanaan dan pembuatan alat monitor detak jantung dan temperatur tubuh bertujuan agar dengan alat ini, pengukuran detak jantung dan temperatur tubuh dapat dilakukan lebih mudah dan praktis sehingga seseorang dapat memperkirakan kondisi kesehatannya. Pengukuran detak jantung dilakukan dengan mengukur perubahan aliran darah pada jari-jari tangan yang diakibatkan jantung yang berdetak. Sedangkan pengukuran temperatur tubuh dilakukan dengan menggunakan precision temperature sensor yang disentuhkan pada bagian tubuh yang ingin diukur temperaturnya. Secara garis besar peralatan ini terdiri dari tranduser yang digunakan untuk mengukur detak jantung adalah Light Dependent Resistor (LDR), dan transduser yang digunakan untuk mengukur panas tubuh adalah tipe LM335, rangkaian ADC untuk mengubah besaran analog dari hasil penguatan transduser untuk temperatur tubuh kebesaran digital, rangkaian pengontrol (minimum sistem) 8031 yang digunakan untuk mengontrol proses pengukuran dan display untuk menampilkan hasil pengukuran. Karena output dari transduser ini dalam orde milivolt, maka diperlukan suatu rangkaian penguat instrumentasi. Dari hasil pengujian alat diperoleh bahwa transduser yang dipakai mempunyai kelinieran dan kepekaan cukup baik. Alat pengukur panas tubuh ini mempunyai output voltage temperatur coefficient 7,86 mV/?C dan error sebesar 0,387 %. Dan alat pendeteksi detak jantung cukup mampu untuk mendeteksi pulsa, selama jari yang dideteksi perubahan aliran darahnya tidak berubah posisiya.",
+  "creators": "YUNUS SURYAGIRI",
+  "contributors": "AGUS MULYANTO (Advisor 1); HERLIANTO TENGGARA (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/027/0148; Yunus Suryagiri (23486047)",
+  "subjects": "AUTOMATIC CONTROL; MICROCONTROLLER 8031"
+}

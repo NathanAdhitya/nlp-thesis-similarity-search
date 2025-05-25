@@ -1,0 +1,14 @@
+{
+  "id": "57260",
+  "title": "Multi agent reinforcement learning untuk pembuatan artificial intelligence pada game tactical shooter",
+  "abstract": "Game tactical shooter adalah sebuah sub-genre dari genre shooter di mana tujuan pemain adalah bekerjasama dengan pemain lain atau agen Artificial Intelligence (AI) untuk memenangkan permainan. Namun agen AI yang dimiliki game game tersebut cenderung kurang menantang dan strategi yang digunakan cenderung tidak manusiawi dan monoton. Untuk mengatasi hal ini, sebuah agen yang dibuat dengan reinforcement learning diusulkan dalam penelitian ini. Reinforcement learning dipilih karena sudah terbukti dalam pembuatan agen AI yang memuaskan pemain seperti agen DOTA 2 OpenAI. Untuk mengakomodasi seluruh pemain dengan tingkat pengalaman bermain yang berbeda, dibuat 3 tingkat kesulitan pada agen. Setelah training hingga 250.000.000 step agen reinforcement learning dapat menavigasi dan menggunakan beberapa strategi yang sederhana seperti menyerang tim lawan dengan beberapa titik serang berbeda namun belum bisa memunculkan strategi yang terlalu kompleks seperti menggunakan granat ledak dan granat asap. Juga dilakukan survei pada 15 orang dengan 3 macam latar belakang pengalaman bermain game tactical shooter yaitu: sedikit, sedang, dan banyak. Hasil yang diperoleh dari survei mengindikasikan bahwa agen mendapatkan respons yang sangat positif terutama dari pemain yang memiliki pengalaman bermain banyak.",
+  "creators": "MIKAEL HANS UTOMO",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Examination Committee 1); Leo Willyanto Santoso (Examination Committee 2); Andre Gunawan (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022338/INF/2023; Mikael Hans Utomo (C14190218)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; COMPUTER GAMES--PROGRAMMING"
+}

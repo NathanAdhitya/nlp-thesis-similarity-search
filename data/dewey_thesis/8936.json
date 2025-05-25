@@ -1,0 +1,14 @@
+{
+  "id": "8936",
+  "title": "Perancangan dan pembuatan sistem informasi billing, kitchen, dan ordering untuk restoran bumbu sunda menggunakan pda",
+  "abstract": "Restoran Bumbu Sunda adalah sebuah restoran yang menjual makanan khas Sunda. Selama ini, restoran ini menggunakan cara manual di dalam pemesanan makanan. Proses koordinasi data pesanan dimulai dari pelanggan melakukan pesanan kepada pelayan kemudian pelayan meneruskannya ke bagian kasir dan dapur. Sistem koordinasi yang masih manual tersebut dirasa tidak efisien dan banyak menimbulkan kesalahan yang disebabkan oleh faktor human error. Penulis terlebih dahulu merancang data flow diagram dan entity relationship diagram. Setelah perancangan DFD dan ERD selesai penulis melanjutkan dengan pembuatan aplikasi. Aplikasi dibagi menjadi tiga bagian yaitu program administrasi dan billing yang tergabung pada komputer server, aplikasi kitchen pada komputer client, dan aplikasi ordering yang terdapat pada PDA. Penulis menggunakan koneksi LAN untuk koneksi antara komputer server dengan komputer client, sedangkan untuk koneksi PDA dengan komputer server penulis menggunakan koneksi Wi-Fi. Sistem informasi ini didesain menjadi sebuah aplikasi yang user friendly, dalam artian tidak membutuhkan keahlian khusus user di dalam menggunakannya. Sistem informasi ini dikembangkan dengan Microsoft Visual C# 2005 dan Microsoft SQL Server 2005. Hasil dari sistem informasi ini memungkinkan pelayan dapat langsung mengirim hasil pesanan pelanggan ke kasir dan dapur melalui PDA dengan koneksi Wi-Fi. Pelayan dapat langsung memberitahu pelanggan jika suatu menu telah habis. Pelayan juga dapat melihat status pesanan dan membatalkannya langsung tanpa harus pergi dan melakukan konfirmasi ke dapur. Dari hasil pengujian dapat disimpulkan bahwa keseluruhan aplikasi yang dikembangkan mendapat penilaian yang baik, terutama dinilai dari segi kemudahan penggunaan aplikasi. Hal ini dapat dilihat dari penilaian aplikasi oleh user yang mendapat nilai rata-rata 90% untuk kemudahan dalam menggunakan aplikasi.",
+  "creators": "DAVID SUGIANTO SUTANTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Ibnu Gunawan (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010648/INF/2007; David Sugianto Sutanto (26402024)",
+  "subjects": "WEBSITES-DESIGN; INTERNET (COMPUTER NETWORKS); PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

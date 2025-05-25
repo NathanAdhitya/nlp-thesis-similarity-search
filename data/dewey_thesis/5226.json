@@ -1,0 +1,14 @@
+{
+  "id": "5226",
+  "title": "Perencanaan filter pasif untuk mesin PP1 winder extruder 1 di PT Yanaprima Hastapersada Sidoarjo",
+  "abstract": "PT. Yanaprima Hastapersada adalah perusahaan yang bergerak pada bidang produksi karung plastik. Peralatan-peralatan elektronika seperti inverter yang merupakan beban non-linier, banyak digunakan dalam proses produksi di PT. Yanaprima Hastapersada. Pembuatan tugas akhir ini dimaksudkan untuk mempelajari desain filter pasif yang digunakan untuk meredamkan arus harmonisa yang timbul pada mesin Winder Extruder 1 di PT. Yanaprima Hastapersada, Sidoarjo. Harmonisa disebabkan oleh beban non linier yang menyebabkan bentuk gelombang arus maupun tegangan idealnya adalah sinusoidal murni akan menjadi cacat akibat distorsi harmonisa yang terjadi. Harmonisa mengakibatkan menurunnya kualitas daya pada peralatan atau pada sistem tenaga listrik di industri. Dari hasil pengukuran diketahui bahwa pada mesin Winder Extruder 1 di PT. Yanaprima Hastapersada, Sidoarjo terdapat harmonisa dengan persentase ITHD sebesar 29.73 % yang melebihi batas standar IEEE 519-1992 yang diijinkan yaitu sebesar 15 %. Harmonisa yang dominan adalah harmonisa ke-5 dan ke-7. Peredaman harmonisa dapat dilakukan dengan memasang filter pasif (shunt type). Komponen filter pasif yang dibutuhkan adalah 152 i F dan156 i F untuk kapasitor dan induktor dengan nilai sebesar 3,0213 mH (15,9 A) dan 1,4519 Melalui simulasi rangkaian menggunakan program Psim 6.1 dapat dilihat bahwa filter pasif menunjukkan hasil yang baik, yaitu dari 27,07 % ITHD tanpa menggunakan filter menjadi 14,10 % ITHD dengan menggunakan filter pasif harmonisa ke-5 dan ke-7, dan telah memenuhi standar IEEE 519-1992 tentang limit tegangan dan arus harmonisa yang diperbolehkan.",
+  "creators": "EKO HADIBOWO",
+  "contributors": "Limboto Limantara (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No.01010553/ELK/2007; Eko Hadibowo (23402117)",
+  "subjects": "ELECTRIC FILTERS"
+}

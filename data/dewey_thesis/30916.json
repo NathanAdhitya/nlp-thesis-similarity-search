@@ -1,0 +1,14 @@
+{
+  "id": "30916",
+  "title": "Perencanaan mekanisme timbangan otomatis kapasitas 2000 kg gabah",
+  "abstract": "Sejalan dengan perkembangan teknologi, maka timbangan berat digital hadir untuk menggantikan peran dari timbangan berat analog yang mempunyai banyak kekurangan. Timbangan digital yang ada saat ini biasanya hanya dibuat untuk penimbangan suatu benda yang membutuhkan tingkat ketelitian yang tinggi dan kelinearan hasil penimbangan yang tidak dapat dipenuhi oleh timbangan jarum analog. Pada makalah ini dibahas tentang timbangan digital berkemampuan atau berkapasitas maksimum 2000 kg gabah yang pengoperasiannya secara otomatis, yaitu penimbangan akan berhenti sendiri pada saat mencapai berat yang diinginkan dan dengan menekan tombol, gabah akan turun dengan sendirinya. Pada timbangan ini digunakan transducer load cell yang akan mengubah besaran fisis berat dari gabah yang ditimbang menjadi suatu besaran listrik analog. Dengan suatu piranti penguat sinyal, besaran ini diperkuat dan dikirim ke ADC (Analog to Digital Converter) untuk mengubah sinyal analog menjadi sinyal digital. Lalu besaran tersebut dikirim ke display untuk ditampilkan di LCD (Liquid Crystal Display) atau dikenal dengan indikator. Dari indikator inilah yang mengeluarkan sinyal output yang dapat dikontrol proses penimbangannya.",
+  "creators": "ANDREAS TOBING",
+  "contributors": "Suwandi Sugondo (Advisor and Examination Committee)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01.54.464; Andreas Tobing (24496041)",
+  "subjects": "WEIGHING-MACHINES; MACHINE DESIGN"
+}

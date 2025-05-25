@@ -1,0 +1,14 @@
+{
+  "id": "52654",
+  "title": "Analisis sentimen mahasiswa di Surabaya terhadap pelayanan vaksinasi covid-19 menggunakan beberapa classifier",
+  "abstract": "Indonesia merupakan salah satu negara yang sedang berjuang menangani pandemi virus COVID-19 pada saat ini. Untuk menangani pandemi ini, para ahli berlomba untuk memproduksi vaksin COVID-19. Pemerintah sekarang sedang berjuang mengajak masyarakat untuk melakukan vaksinasi, salah satunya adalah memaksimalkan pelayanan vaksinasi COVID-19. Realitanya, pelayanan vaksinasi masih memiliki kendala pada beberapa aspek yang dirasakan oleh penerima vaksinasi. Seperti terbatasnya fasilitas, yaitu ruang tunggu, jumlah kursi, dan sertifikat vaksin yang belum diterima atau data sertifikat vaksin yang salah. Untuk melihat berbagai pandangan mengenai pelayanan vaksinasi yang telah dilaksanakan, maka dari itu dilakukan penelitian di bidang Analisis Sentimen untuk menganalisa opini masyarakat terhadap pelayanan vaksinasi. Dalam penelitian ini akan menggunakan Naïve Bayes, Support Vector Machine (SVM), Random Forest, dan Light Gradient Boosting Machine (LGBM) untuk melakukan klasifikasi teks dan kemudian akan dibandingkan performanya dengan menggunakan evaluation metrics, seperti akurasi, presisi, recall, dan f1-score. Dari keempat classifier ini, model yang paling baik untuk klasifikasi aspek dihasilkan oleh Random Forest dengan nilai accuracy, precision, recall, dan f-1-score sebesar 85%, 86%, 85%, dan 85%. Sedangkan, model yang paling baik untuk klasifikasi sentimen dihasilkan oleh Random Forest dengan nilai accuracy, precision, recall, dan f-1-score sebesar 87%, 85%, 76%, dan 79%. Sedangkan untuk kombinasi preprocessing data yang tepat adalah kombinasi stemming, case folding, dan normalisasi atau semua tahap preprocessing data. Terdapat dua jenis dataset yang digunakan, yaitu dataset kuesioner dan dataset media sosial. Model kuesioner akan diuji menggunakan dataset media sosial, sedangkan model media sosial akan dibagi menjadi data training dan data testing. Dari hasil pengujian mengatakan bahwa model yang dilatih dengan dataset media sosial menghasilkan performa lebih baik daripada model yang dilatih dengan dataset kuesioner.",
+  "creators": "MELIANA KUSUMA PANGKASIDHI",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Leo Willyanto Santoso (Examination Committee 1); Andre Gunawan (Advisor 2); Alvin Nathaniel Tjondrowiguno (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022139/INF/2022; Meliana Kusuma Pangkasidhi (C14180117)",
+  "subjects": "VACCINATION--GOVERNMENT POLICY--INDONESIAN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "7900",
+  "title": "Analisa perbandingan kinerja algoritma kompresi huffman, lzw (lempel-ziv-welchi), dan dmc (dynamic markov compression)",
+  "abstract": "Komputer pada awalnya diciptakan untuk menyimpan data. Dahulu data yang disimpan berukuran kecil dan ringkas, sedangkan sekarang data semakin bervariasi dan berukuran besar. Data tersebut tidak hanya berupa teks saja, tetapi juga berupa gambar, suara dan video. Semakin besar ukuran data yang disimpan maka membutuhkan semakin besar pula tempat penyimpanannya. Semakin besar tempat penyimpanan yang dibutuhkan maka semakin besar juga biaya yang akan dikeluarkan. Oleh karena itu, kemudian banyak metode kompresi yang muncul agar dapat menghemat tempat penyimpanan data. Dalam tugas akhir ini, dibandingkan tiga buah metode kompresi, yaitu algoritma Huffman, LZW, dan DMC, yang masing-masing mewakili sebuah kategori teknik pengkodean, dalam bentuk perangkat lunak. Ketiga metode ini diujikan untuk mengkompresi dan mendekompresi berbagai tipe dan ukuran file yang berbeda. Lalu dilakukan analisis statistik untuk membandingkan kinerja setiap metode berdasarkan dua faktor, yaitu rasio/perbandingan ukuran file hasil kompresi terhadap file asli dan waktu kompresinya. Huffman menjadi yang tercepat dalam melakukan kompresi, dengan rasio hasil yang konsisten pada semua tipe file. LZW unggul pada tipe-tipe file teks dan source code dengan waktu kompresi di tengah-tengah Huffman dan DMC. Sedangkan DMC unggul pada beberapa tipe file teks dan source code, dengan waktu kompresi yang terlama.",
+  "creators": "ARIEF JOSEP CHANDRA",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Liliana (Advisor 2); BUDI BAMBANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010535/INF/2006; Arief Josep Chandra (26402120)",
+  "subjects": "ELECTRONIC DIGITAL COMPUTERS-PROGRAMMING; COMPUTER ALGORITHMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "19655",
+  "title": "Sistem ban berjalan untuk perpindahan benda dengan pengaturan kecepatan dan penyeleksian benda",
+  "abstract": "Salah satu bentuk pemanfaatan dari kemajuan teknologi mikroprosesor adalah untuk otomatisasi dan mengontrol suatu sistem yang memerlukan ketepatan serta kecepatan. Pada Tugas Akhir ini dibuat minimum sistem dengan mikroprosesor 8088 yang dihubungkan dengan sensor dan rangkaian motor penyeleksi benda serta sensor kecepatan putaran. Sinyal yang dihasilkan oleh sensor pada saat terhalang barang yang lewat akan dikirimkan ke mikroprosesor melalui peralatan input output terprogram dan diproses untuk menentukan jenis dari benda tersebut yang didasarkan pada dimensi tingginya. Dan pembagian jenis benda yang lewat hanya dibatasi dua macam saja sehingga motor penyeleksi akan menggerakkan tuas pemisah jenis benda tersebut ke kiri atau ke kanan. Selain itu sinyal dari sensor juga digunakan untuk pencacah jumlah benda yang lewat ban berjalan secara terpisah yang nantinya ditampilkan pada dispaly tersendiri. Untuk pendeteksian kecepatan putaran, didapatkan dari sinyal yang dikirim oleh optocoupler ke peralatan input output terprogram. Dari hasil pengujian, terlihat bahwa kecepatan putaran dari motor dapat dijaga konstan dengan menggunakan software dan penghitungan jumlah barang yang lewat pada ban berjalan dapat dilakukan dengan benar dan tepat.",
+  "creators": "INDRA SURJA MARGONO",
+  "contributors": "HANDAYANI T. (Advisor 1); SOETIKNO (Examination Committee 1); BENJAMIN FLEMING INTAN (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/003/0093; Indra Surja Margono (14486003)",
+  "subjects": "CONVEYING MACHINERY-ELECTRIC EQUIPMENT; MICROPROCESSORS"
+}

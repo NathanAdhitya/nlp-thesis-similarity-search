@@ -1,0 +1,14 @@
+{
+  "id": "16828",
+  "title": "Pembuatan alat monitor keamanan rumah lewat jaringan internet",
+  "abstract": "Internet adalah dunia tanpa batas yang dapat diakses dari mana saja. Apalagi didukung oleh banyaknya tempat yang sudah menyediakan layanan akses ke internet, bahkan dapat pula diakses secara wireless. Demikian juga dengan sistem keamanan rumah yang baik sebaiknya juga dapat melaporkan keadaan rumah di mana saja pemilik rumah mungkin berada. Pada tugas akhir ini, dibuat suatu sistem keamanan rumah yang dapat dipantau dari mana saja melalui jaringan internet. Keadaan di rumah bisa dilihat melalui web browser biasa karena menggunakan metode Active Server Pages (ASP) yang termasuk jenis Server-Side Scripting, dimana semua proses jalannya program berada di server. Sistem ini terdiri dari perangkat keras yang berfungsi untuk membaca sensor dan mengeluarkan tanda bahaya, serta perangkat lunak yang mengontrol dan menghubungkan dengan internet. Modul sensor yang disimulasikan dengan switch akan dibaca oleh minimum system, dan data yang diperoleh akan dikirim ke komputer melalui hubungan serial saat terjadi permintaan. Komputer akan memeriksa data dari sensor dan bila ada yang terbuka, alarm akan berbunyi dan data dikirim ke internet. Data yang dikirim ke internet akan ditampung dalam suatu database, yang akan selalu diperbaharui setiap ada data yang baru. Pengiriman data ke internet bisa melalui jaringan ethernet dan melalui Internet Service Provider dengan menggunakan modem. Pengujian yang dilakukan secara hardware dan software memperoleh hasil seperti yang diharapkan, yaitu data yang masuk dari sensor dapat dikirim melalui rangkaian querystring dan FTP menuju web server, serta ditampilkan dalam halaman web. Pengujian pengiriman data dengan modem dapat berhasil setelah melakukan proses verifikasi dengan ISP. Jika melalui jaringan ethernet, tidak perlu melakukan proses verifikasi tersebut. Sistem keamanan ini dapat digunakan pada rumah-rumah yang memiliki jaringan telpon, atau jaringan ethemet.",
+  "creators": "ALVIN TALIMAN",
+  "contributors": "IRWAN SAHLI (Advisor 1); Kartika Gunadi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/KOM/010/067; Alvin Taliman (23495016)",
+  "subjects": "DETECTORS-COMPUTER PROGRAMS; INTEL 89C51 (MICROCONTROLLER)"
+}

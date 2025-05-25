@@ -1,0 +1,14 @@
+{
+  "id": "14570",
+  "title": "Perancangan dan pembuatan aplikasi search engine dengan metode fuzzy relation pada E-journal jurusan teknik informatika universitas Kristen Petra",
+  "abstract": "Saat ini artikel ilmiah mudah sekali didapatkan, karena banyaknya peneliti yang melakukan penelitian dan penemuan baru. Namun semakin bertambahnya artikel ilmiah tersebut tidak diiringi dengan ketersediaan aplikasi untuk membantu proses pencarian artikel yang terkait. Aplikasi pencarian yang tersedia saat ini hanya melakukan proses pencarian berdasarkan string matching kata yang dicari. Dalam penelitian ini akan dibuat sebuah aplikasi pencarian berdasarkan keterkaitan kata kunci dengan menggunakan metode fuzzy relationship. Aplikasi pencarian ini dibangun dengan bahasa pemrograman PHP dan mysql sebagai database-nya Sistem operasi yang dipakai adalah Windows XP. Metode dalam fuzzy relationship yang dipakai adalah keyword to paper, paper to paper, dan paper to keyword dan keyword to keyword. Selain itu, juga dipakai komponen untuk mengubah file pdf ke format plain text. Berdasarkan hasil uji coba yang telah dilakukan, proses searching untuk 25 artikel membutuhkan waktu kurang dari 5 detik. Untuk proses indexing, hal ini dipengaruhi oleh jumlah halaman tiap artikel.",
+  "creators": "PRAYOGO PROBO SUSANTO",
+  "contributors": "Rolly Intan (Advisor 1); Leo Willyanto Santoso (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020843/INF/2009; Prayogo Probo Susanto (26405124)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

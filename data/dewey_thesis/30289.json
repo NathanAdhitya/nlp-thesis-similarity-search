@@ -1,0 +1,14 @@
+{
+  "id": "30289",
+  "title": "Perencanaan dan pembuatan soft starter metode variabel frekuensi pada motor 220 V 1 phase 3/4 HP 2950 RPM 30 HZ",
+  "abstract": "Masalah yang dihadapi dari motor-motor asinkron khususnya motor induksi 1 phasa adalah pada saat start, di mana arus start atau arus mula dari motor pada saat pertama kali dioperasikan/dijalankan. Besarnya lonjakan arus start motor dapat mencapai 7-8 kali dari arus nominalnya. Hal ini tentu akan mengganggu operasional sistem kelistrikan yang ada, serta umur dari motor menjadi tidak lama. Dalam Tugas Akhir ini akan dicoba untuk membuat soft starter untuk motor 1 phasa. Soft starter ini digunakan untuk motor asinkron 1 phasa 3/4 HP 2950 rpm 50 Hz 220 Volt dengan memakai metoda variabel frekuensi variabel voltage (VFVV), di mana besaran frekuensi dan tegangan akan naik secara perlahan dan proposional hingga mencapai harga nominalnya. Soft starter terdiri dari rangkaian converter AC to DC, converter DC to AC, penyulut/trigger, control, dan frekuensi counter. Dengan soft starter dapat ditunjukkan bahwa kenaikan arus akan terjadi secara perlahan/soft tanpa terjadi lonjakan arus yang besar.",
+  "creators": "LENY POERNOMO",
+  "contributors": "BUNAWI GUNAWIDJAJA (Advisor 1); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/TST/012/249; Leny Poernomo (23492060)",
+  "subjects": "ELECTRIC MOTORS"
+}

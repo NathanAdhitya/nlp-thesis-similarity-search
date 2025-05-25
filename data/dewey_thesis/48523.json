@@ -1,0 +1,14 @@
+{
+  "id": "48523",
+  "title": "Adaptive AI pada survival horror game menggunakan Fuzzy",
+  "abstract": "Ada banyak sekali metode yang digunakan oleh developer untuk membuat artificial intelligence di dalam game mereka. Metode yang paling sering dipakai oleh developer karena oleh fleksibilitasnya adalah metode scripting. Scripting dilakukan secara menulis beberapa rule yang ditulis dalam source code dalam bentuk if-then. Kelemahan dari metode ini adalah NPC artificial intelligence gampang untuk dieksploitasi oleh gamer yangt elahm emahami pola dari behaviour NPC tersebut. Konsep fuzzy logic digunakan untuk mengatasi masalah tersebut. Konsep fuzzy digunakan untuk lebih memberikan AI memiliki decision making yang lebih adaptif, di mana kelakuan AI berubah tergantung kondisi yang ada. Konsep fuzzy yang digunakan dalam hubungan dengan Fuzzy Inference adalah metode Fuzzy Tsukamoto dimana semua rule memiliki nilai masing - masing yang nantinya akan di cari rata rata dari semua rule untuk menentukan decision yang tepat untuk dilakukan. Dalam pembuatan fuzzy rules, penentuan desain dari game yang dibuat dan juga desain dari map harus dibuat terlebih dahulu. Setelah semua jadi, maka pembuatan fuzzy rules yang sesuai dapat dibuat. Hasil penelitian melalui survey yang diadakan menunjukan bahwa game yang menggunakan AI metode fuzzy Tsukamoto memberikan decision yang adaptif terhadap kondisi yang ada pada saat sesi permainan tersebut. Dari 9 orang yang disurvey mengatakan bahwa Game A dan Game B memiliki decision yang berbeda meskipun menggunakan AI yang sama sebanyak 77.8%, sedangkan yang mengatakan bahwa perlikaku AI sama sebanyak 22.2%. Dari hasil survey ini dapat dikatakan bahwa metode fuzzy Tsukamoto dapat menghasilkan decision yang adaptif berdasarkan kondisi yang ada.",
+  "creators": "LEONARD EVAN",
+  "contributors": "Rolly Intan (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Liliana (Examination Committee 2); Hans Juwiantho (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021991/INF/2020; Leonard Evan (26416005)",
+  "subjects": "COMPUTER GAMES--PROGRAMMING; ARTIFICIAL INTELLIGENCE"
+}

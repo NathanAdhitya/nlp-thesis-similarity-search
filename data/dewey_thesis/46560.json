@@ -1,0 +1,14 @@
+{
+  "id": "46560",
+  "title": "Aplikasi monitoring aquarium untuk mengurangi tingkat kematian dengan menggunakan Arduino",
+  "abstract": "Pada zaman globalisasi yang semakin maju, penitipan ikan dapat diatasi dengan pembuatan sistem khusus untuk memonitoring aquarium. Sistem yang dapat dikendalikan melalui Android menjadi salah satu pilihan media sistem. Dengan menggunakan microcontroller yang terkoneksi dengan internet, dapat memonitoring aquarium menggunakan sensor-sensor secara real time dan secara otomatis memasukkan data ke dalam database. Melalui aplikasi Blynk, pemilik ikan dapat menyesuaikan kondisi lingkungan dengan memasukkan kondisi yang diinginkan. Serta dapat me-monitoring data yang didapat dari sensor melalui website yang secara real time terhubung dengan microcontoller. Pengujian dilakukan dalam 2 lingkungan yang berbeda pada ikan yaitu lingkungan yang tidak menggunakan sistem monitoring dan lingkungan yang menggunakan sistem monitoring. Sistem monitoring pada penelitian ini tidak hanya memantau 4 parameter pada akuarium (feeding, temperatur air, ketinggian air, serta pH air) namun juga mengontrol sebagian besar parameter pada akuarium (kecuali pH air). Berdasarkan hasil penelitian, lingkungan yang menggunakan sistem monitoring memiliki tingkat kematian ikan sebesar 20% dengan suhu sekitar 28°C sedangkan lingkungan yang tidak menggunakan sistem monitoring memiliki tingkat kematian ikan sebesar 50% dengan suhu di atas 30°C.",
+  "creators": "KEZIA KURNIAWATI",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Handry Khoswanto (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Justinus Andjarwirawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021923/INF/2020; Kezia Kurniawati (26416089)",
+  "subjects": "APPLICATION SOFTWARE-DEVELOPMENT; ARDUINO (PROGRAMMABLE CONTROLLER); ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (COMPUTER PROGRAM)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5686",
+  "title": "Analisis perancangan dan implementasi kompensator pada metode root locus",
+  "abstract": "Desain kompensator pada metode root locus dilakukan dengan menggunakan bantuan software MATLAB. Kompensator yang didesain adalah lead compensator dan lag compensator dengan plant dasar sistem adalah sistem orde satu dan sistem orde dua. Setelah didesain kemudian dilihat bagaimana step response sistem tersebut. Setelah kompensator didesain dengan MATLAB, selanjutnya adalah mengimplementasikan sistem tersebut dalam bentuk rangkaian nyata yang menggunakan resistor, kapasitor, op-amp dan komponen lainnya yang diperlukan, sedangkan untuk inputnya digunakan input tegangan DC sebesar 1 Volt. Implementasi sistem terlebih dahulu disimulasikan dengan Multisim. Kemudian untuk mengambil data dari rangkaian nyata digunakan ADC 0804 dan komunikasi serial. Hasil pengujian antara respon sistem hasil desain dan respon implementasi sistem menunjukkan bahwa hasil yang diperoleh hampir sama, error yang diperoleh sebesar 13%. Perbedaan hasil yang muncul tersebut dikarenakan oleh pemilihan dan penggunaan komponen, noise yang muncul dan karakteristik dari semua komponen yang digunakan.",
+  "creators": "MORESTA VIRGORINI LANGGAR",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010793/ELK/2006; Moresta Virgorini Langgar (23401088)",
+  "subjects": "AUTOMATIC CONTROL-MATHEMATICAL MODELS-LINEAR; LINEAR SYSTEMS- DATA PROCESSING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2991",
+  "title": "Studi banding perancangan subwoofer dengan kontak udara termampatkan dan tak termampatkan",
+  "abstract": "Pada tugas akhir ini dirancang sistem subwoofer dengan tiga jenis kotak speaker berbeda, yaitu tipe kotak rapat (sealed box), kotak bass reflek (vented box), dan kotak double cavity. Untuk mendapatkan ukuran dari kotak speaker tersebut menggunakan software WinISD beta. Pada pengujian respon frekuensi dari sistem subwoofer dihasilkan frekuensi cut off sebesar 100 Hz dan pada pengujian active low pass filter pada frekuensi 10 Hz hingga 80 Hz belum terjadi penurunan gain, sedangkan pada frekuensi 90 Hz hingga 1000 Hz terjadi penurunan gain sebesar ?60 dB/dekade. Pada pengujian intensitas suara dengan menggunakan RTA (Real Time Analyzer), kotak rapat (sealed box) menghasilkan dB tertinggi yaitu 99.6 dB. Sedangkan pada kotak bass reflek (vented box) menghasilkan dB tertinggi yaitu 99.5 dB. Serta pada pengujian intensitas suara kotak double cavity menghasilkan dB tertinggi yaitu 99.4 dB. Total Harmonic Distortion (THD) yang timbul dari sistem subwoofer sangat kecil yaitu sebesar 1.355% sehingga suara yang dikeluarkan lebih jernih dan tidak terjadi noise. Berdasarkan dari hasil pengujian intensitas suara menggunakan RTA (Real Time Analyzer) dengan sumber bunyi gong dan drum, maka pada sumber bunyi gong cocok dengan kotak bass reflek dan kotak double cavity dan pada sumber bunyi drum cocok dengan kotak rapat.",
+  "creators": "YUDHI IRAWAN",
+  "contributors": "YOHANES T. D. S (Advisor 1); Handry Khoswanto (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010738/ELK/2005; Yudhi Irawan (23401021)",
+  "subjects": "SOUND-RECORDING AND REPRODUCING; SUBWOOFER-DESIGN AND CONSTRUCTION"
+}

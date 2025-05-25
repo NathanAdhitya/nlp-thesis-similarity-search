@@ -1,0 +1,14 @@
+{
+  "id": "48879",
+  "title": "Penerapan algoritma Textrank dan Dice Similarity untuk verifikasi berita hoax",
+  "abstract": "Hoax atau dalam Bahasa Indonesia, hoaks adalah berita bohong atau berita yang tak punya sumber. Hoax merupakan serangkaian informasi yang dibuat sesat, tetapi dijual sebagai kebenaran (Kiram, 2019). Penyebaran hoax bergantung pada pembaca yang dengan sengaja mengirimkan pesan atau berita tersebut ke korban potensial lainnya. Psikolog meyakini, berita hoax dihadirkan untuk memanipulasi banyak orang. Sebab, berita palsu bisa memanfaatkan kelompok orang yang takut, dan mengambil keuntungan ketakutan itu. Jangan menyepelekan dampak buruk berita hoax pada kesehatan mental. Sebab, efeknya bisa berlangsung dalam jangka panjang. Misalnya, mengganggu situasi emosional dan suasana hati yang berkepanjangan, sampai “menghantui” pikiran untuk waktu yang lama (Wisnubrata, 2019). Masalah diatas menjadi dasar untuk pembuatan sistem verifikasi berita hoax ini. Algoritma TextRank dan Dice Similarity akan digunakan untuk membantu memverifikasi berita yang diinputkan itu hoax atau fakta. Dimana pada penelitian ini, algoritma TextRank digunakan untuk mencari Keyword terpenting di satu berita yang kemudian akan digunakan untuk menjadi Keyword di mesin pencari. Kemudian algoritma Dice Similarity digunakan untuk mengukur tingkat kemiripan berita yang diinputkan dengan berita yang didapatkan dari hasil search di mesin pencari. Apabila berita inputan cenderung berasal dari media whitelist, maka berita tersebut berpotensi fakta. Apabila berita inputan berasal dari media whitelist, tetapi judul berita yang dipublish oleh media whitelist tersebut mengindikasikan hoaks, maka berita inputan tersebut berpotensi hoaks. Sistem verifikasi hoax yang telah dilakukan ini telah diuji menggunakan beberapa bobot similarity untuk mencari bobot similarity mana yang paling optimal. Data yang digunakan sebanyak 50 berita hoax dan 50 berita fakta. Dari pengujian tersebut didapatkan bobot similarity optimal sebesar 40% dengan akurasi mencapai 84%. Dengan rincian dari 50 data hoax didapatkan 47 berita dinyatakan hoax, 2 berita dinyatakan fakta, dan 1 berita dinyatakan unknown. Dari 50 berita fakta didapatkan 37 berita yang dinyatakan fakta, 13 berita dinyatakan hoax, dan tidak ada berita dinyatakan unknown.",
+  "creators": "CHRISTIAN KHONTORO",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Yulia (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Gregorius Satiabudhi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022018/INF/2021; Christian Khontoro (26416116)",
+  "subjects": "WEB SITES--SECURITY MEASURES"
+}

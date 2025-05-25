@@ -1,0 +1,14 @@
+{
+  "id": "8872",
+  "title": "Pengenalan sidik jari dengan fuzzy matching",
+  "abstract": "Pada tugas akhir ini, telah dibuat suatu perangkat lunak pengenalan sidik jari dengan metode fuzzy matching sebagai metode pengenalan utama dan nearest neighbour sebagai metode pengenalan pembanding. Untuk bagian pereduksi data sidik jari pada program ini digunakan metode PCA (Principal Component Analysis). Hasil pengujian dari program ini menunjukkan bahwa pada metode nearest neighbour memiliki tingkat kebenaran yang lebih baik, yaitu 72% sedangkan pada metode fuzzy matching hanya memiliki tingkat kebenaran sebesar 68%. Untuk basis pemrogramannya perangkat lunak ini menggunakan Borland Delphi 6.0.",
+  "creators": "BERLIAN",
+  "contributors": "Thiang (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/614/ELK/2003; Berlian (23498114)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

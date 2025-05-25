@@ -1,0 +1,14 @@
+{
+  "id": "36758",
+  "title": "Perancangan enterprise architecture di SMA Katolik Santo Augustinus dengan metode Enterprise Architecture Planning (EAP)",
+  "abstract": "SMA Katolik Santo Augustinus (SMAK) merupakan SMA swasta unggulan di kotamadya Kediri. SMA ini terus melakukan perkembangan dari tahun ke tahun dengan peningkatan tata kelola dan kegiatan-kegiatan yang mendukung dalam pencapaian visi dan misi sekolah. Salah satu cara yang ingin dilakukan dan dibuat untuk peningkatan tata kelola adalah dalam mengintegrasikan data sesuai kebutuhan, sehingga sekolah dapat melakukan pengambilan keputusan yang baik dan benar dalam pencapaian visi dan misi. Oleh karena itu, dilakukan analisis dan pembuatan desain sistem informasi enterprise architecture bagi sekolah. Kerangka kerja yang digunakan yaitu Enterprise Architecture Planning. Proses diawali dengan melakukan analisis model dan strategi bisnis sekolah. Kemudian melihat kondisi information technology saat ini, permasalahan yang dihadapi, dan kebutuhan information technology di masa depan. Setelah itu dilakukan pembuatan desain arsitektur data, aplikasi, dan teknologi yang sesuai dengan tujuan, strategi, dan proses bisnis sekolah. Arsitektur data yang dihasilkan untuk perusahaan terdiri dari beberapa sub sistem yaitu sub sistem Penerimaan Peserta Didik Baru (PPDB), sub sistem kurikulum, sub sistem keuangan, sub sistem sarana dan prasarana (sanpras), sub sistem perpustakaan, sub sistem kesiswaan, dan sub sistem personalia. Arsitektur aplikasi terdiri dari beberapa aplikasi utama dan pendukung. Aplikasi utama terdiri dari Sistem Informasi PPDB, Sistem Informasi Kurikulum, Sistem Informasi Keuangan, Sistem Informasi Sanpras, Sistem Informasi Perpustakaan, Sistem Informasi Kesiswaan, dan Sistem Informasi Personalia. Aplikasi-aplikasi tersebut merupakan aplikasi berbasis web. Aplikasi pendukung yaitu Single Sign On (SSO) service, backup database server, dan website. Arsitektur tekonologi menggunakan client/server architecture pattern.",
+  "creators": "SUSANTY NENDEN SOPUTRO",
+  "contributors": "Yulia (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Unknown",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021511/INF/2016; Susanty Nenden Soputro (26412091)",
+  "subjects": "BALANCED SCORECARD; INFORMATION SYSTEM; INFORMATION TECHNOLOGY"
+}

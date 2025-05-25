@@ -1,0 +1,14 @@
+{
+  "id": "14098",
+  "title": "Metode analisa struktur pada bangunan tinggi dengan memasukkan pengaruh creep",
+  "abstract": "Pada saat ini, ada beberapa metode analisa struktur yang dapat dipakai untuk menghitung besarnya gaya-gaya dalam yang terjadi akibat beban gravitasi pada bangunan tinggi. Metode yang umum dipakai selama ini adalah metode pembebanan langsung, di mana pembebanan diberikan sekaligus segera setelah proses pembangunan selesai, tanpa memperhatikan proses pembangunan di lapangan. Metode lainnya, yaitu metode sequential loading memberikan pembebanan secara bertahap sesuai dengan proses pembangunan di lapangan. Analisa struktur dengan metode pembebanan langsung memberikan hasil perhitungan gaya-gaya dalam yang lebih besar dibandingkan dengan metode sequential loading. Pada kenyataan di lapangan ketika beban mulai bekerja, struktur akan mengalami deformasi. Deformasi yang terjadi tidak hanya disebabkan oleh beban gravitasi akibat berat sendiri struktur, tetapi juga disebabkan oleh creep (rangkak) pada beton, yang bekerja mulai saat pembebanan diberikan dan terus meningkat sejalan dengan waktu selama beban tetap bekerja. Pada kolom struktur, creep akan mengakibatkan deformasi yang lebih besar daripada deformasi akibat berat sendiri struktur, sehingga perpendekan kolom menjadi lebih besar. Pada dua kolom berdampingan yang memikul beban tidak sama besar, akan terjadi perbedaan penurunan yang lebih besar, yang akan menimbulkan gaya dalam yang lebih besar pula. Metode analisa struktur yang ada saat ini, baik metode pembebanan langsung maupun metode sequential loading, tidak memasukkan pengaruh creep di dalam perhitungannya. Penelitian ini membandingkan hasil perhitungan yang diperoleh melalui metode analisa struktur dengan memasukkan pengaruh creep terhadap metode pembebanan langsung dan metode sequential loading. Dalam penelitian ini ditinjau 4 tipe bangunan, yaitu bangunan 10, 20, 30 dan 40 lantai dengan tebal dinding geser 30 cm. Pengaruh creep dimasukkan pada saat bangunan berumur 5, 10, 15, dan 20 tahun. Hasil penelitian menunjukkan bahwa metode analisa struktur dengan memasukkan pengaruh creep memberikan hasil yang lebih besar dibandingkan dengan metode pembebanan langsung ataupun dengan metode sequential loading.",
+  "creators": "DAVID BUDIONO; STEVEN",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Ir. Soehendro Ratnawidjaja, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 918 S; Steven (21494043), David Budiono (21494044)",
+  "subjects": "TALL BUILDINGS; STRUCTURAL ANALYSIS (ENGINEERING)"
+}

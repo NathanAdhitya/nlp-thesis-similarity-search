@@ -1,0 +1,14 @@
+{
+  "id": "3812",
+  "title": "Perancangan dan pembuatan sistem informasi produksi baju pada Pabrik Garment \"X\"",
+  "abstract": "Pabrik Garment \"X\" ini bergerak di bidang konveksi khususnya membuat pakaian kaos untuk orang dewasa. Tidak adanya sistem informasi produksi yang terkontrol dengan baik menyebabkan terjadinya banyak permasalahan yang timbul diantaranya kesulitan untuk mengetahui stok produk dan bahan baku, jumlah bahan baku yang diperlukan untuk memproduksi sejumlah produk, berapa lama waktu perkiraan selesai sebuah pesanan dan kesulitan untuk membuat laporan untuk pemilik perusahaan. Oleh karena itu, tujuan tugas akhir ini adalah membuat program yang mampu membantu perusahaan dalam memecahkan permasalahan. Pembuatan perangkat lunak untuk sistem yang baru menggunakan Borland Delphi 7.0 untuk bahasa pemrogramannya, Microsoft Access 2000 untuk menyimpan database-nya, dan Microsoft Windows XP sebagai sistem operasinya. Untuk mendesain sistem dimulai dengan merancang Data Flow Diagram (DFD) serta Entity Relationship Diagram (ERD). DFD dan ERD dibuat dengan menggunakan Power Designer 6.1. Perangkat lunak yang dihasilkan dapat menangani input data master seperti data bill of material, mesin, material, proses dan produk; mencatat data penjualan aktual, produksi; meng- update jumlah produk jika terjadi pengeluaran maupun produk masuk; melakukan peramalan perkiraan jumlah yang harus diproduksi dan memberikan perencanaan produksi dalam bentuk laporan. Dari hasil uji coba, perangkat lunak ini dapat mengetahui jumlah stok produk, jumlah stok bahan baku, waktu yang dibutuhkan untuk memproduksi sejumlah produk tertentu, jumlah bahan baku yang diperlukan, data penjualan aktual, hasil peramalan dengan menggunakan metode Trend Line Analysis Model, hasil penjadwalan produksi, dan hasil produksi.",
+  "creators": "CHANDRA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Yulia (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010548/INF/2006; Chandra (26402035)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "14828",
+  "title": "Instrumen penyelaras gitar otomatis (auto-chromatic musical instrument tuner)",
+  "abstract": "Alat musik yang paling sering digunakan oleh masyarakat adalah gitar. Gitar adalah salah satu jenis alat musik yang hams ditala dahulu sebelum dapat digunakan. Untuk orang awam menala gitar adalah hal yang sangat sulit, karena dalam menala gitar dibutuhkan kepekaan pendengaran. Si stem kerja dari alat ini adalah dengan merubah frekuensi gitar menjadi besaran tegangan yang dibandingkan dengan tegangan referensi, hasil perbandingan dapat dilihat dari kedua led indikator. Rangkaian utama dari alat ini adalah sebuah rangkaian differentiator stabilization, rangkaian bandpass, konverter frekuensi ke tegangan dan rangkaian tegangan referensi yang dilengkapi dengan komparator dan dua buah led sebagai indikator. Otomatisasi dari alat ini dilakukan dengan pembandingan tegangan antara frekuensi masukan dari gitar dengan tegangan referensi. Error rata-rata pada saat penalan kecil, yaitu 0,25%.",
+  "creators": "WIBOWO ARNINPUTRANTO",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); Thiang (Advisor 2); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/059/496; Wibowo Arninputranto (23495034)",
+  "subjects": "AMPLIFIERS (ELECTRONICS); OPERATIONAL AMPLIFIERS"
+}

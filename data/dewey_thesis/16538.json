@@ -1,0 +1,14 @@
+{
+  "id": "16538",
+  "title": "Apilkasi video on demand untuk iklan film dengan menggunakan real system player",
+  "abstract": "Sekarang ini kebanyakan dari iklan film masih bersifat konvensional. Di mana para pecinta film harus datang ke bioskop, melihatnya melalui media massa maupun elektronik untuk mendapatkan informasi film yang diinginkan. Hal ini tentunya akan membuat repot para pecinta film, karena akan membuang waktu apabila bioskop tersebut jauh dari rumah, bergantinya hari ataupun jam tayang dari media massa/elektronik dan apalagi jika film yang hendak kita cari tidak ada. Tujuan dari tugas akhir ini adalah membuat suatu program iklan film berbasis web sehingga para pecinta film dapat mendapatkan informasi film yang diinginkan dan memutar film yang dipilih dengan software player yang tepat dari rumah melalui jaringan internet sehingga membantu mereka dalam menentukan bioskop mana yang akan dikunjungi. Metodologi penelitian yang dilakukan dalam proses pembuatan tugas akhir ini adalah : melakukan perencanan program dan studi literatur, pembuatan program, pengujian program, dan pengambilan kesimpulan serta saran. Implementasi pemrograman halaman web menggunakan script HTML, RealPlayer, RealServer, RealProducer serta VcdCutter. Hasil yang diperoleh dari tugas akhir ini adalah suatu program iklan film yang berbasis web. Di mana film yang diinginkan akan dimainkan langsung di dalam browser dengan menggunakan Real Player. Dari hasil pengujian didapat bahwa film yang dimainkan di dalam browser tersebut dapat berjalan tanpa error dan berjalan tanpa menunggu karena proses yang terjadi adalah bukan download akan tetapi proses streaming. Sehingga dengan program ini maka akan memudahkan pecinta film dalam mendapatkan informasi film yang diinginkan. Untuk segi kualitas, film yang dihasilkan kualitasnya tergantung pada saat proses convert film (yang menggunakan RealProducer) yang memerlukan performance komputer yang tinggi. Semakin tinggi performance komputernya semakin baik kualitas yang dihasilkan dari proses convert tersebut.",
+  "creators": "GALIH CHANDRA",
+  "contributors": "Irwan Kristanto Julistiono (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/KOM/013/089; Galih Chandra (23496039)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); WEBSITES-DESIGN; SOFTWARE ENGINEERING"
+}

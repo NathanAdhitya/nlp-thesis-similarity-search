@@ -1,0 +1,14 @@
+{
+  "id": "20674",
+  "title": "Perancangan dan pembuatan aplikasi klasifikasi citra observasi bintik matahari menggunakan metode probabilistic neural network dan self-organized maps",
+  "abstract": "Matahari merupakan sumber energi yang tak ternilai bagi manusia. Namun, ternyata matahari juga menyimpan sisi buruk bagi manusia. Sisi buruk tersebut antara lain adalah dari adanya solar storm yang bisa mengakibatkan gangguan pada alat elektronik. Adapun solar storm tersebut disebabkan karena aktivitas kelompok sun spot. Dalam Skripsi ini, dikembangkan aplikasi yang mampu untuk melakukan klasifikasi kelompok sun spot berdasarkan Modified-Zurich Sunspot Classification. Proses pada aplikasi dimulai dengan proses preprocessing, yang bertujuan untuk mendapatkan nilai-nilai dari database sun spot untuk diolah dan digunakan sebagai input pada neural network. Metode neural network yang digunakan adalah Probabilistic Neural Network dan Self-Organized Maps. Aplikasi ini dikembangkan dengan menggunakan bahasa pemrograman C# dengan kompiler Microsoft Visual Studio 2005. Berdasarkan hasil pengujian yang dilakukan, akurasi hasil klasifikasi yang dihasilkan terutama bergantung pada kekonsistenan data input. Untuk metode PNN akurasi hasil klasifikasi terbaik adalah 100% terhadap data training dan 93,75% pada data selain data training. Sedangkan untuk metode SOM akurasi hasil klasifikasi terbaik adalah 100% terhadap data training dan 92,19% terhadap data selain data training. Untuk waktu training, PNN jauh lebih unggul daripada SOM.",
+  "creators": "ADRIAN HARTANTO N",
+  "contributors": "Rudy Adipranata (Advisor 1); Gregorius Satiabudhi (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021015/INF/2011; Adrian Hartanto N (26407062)",
+  "subjects": "STATISTICAL METHODS; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

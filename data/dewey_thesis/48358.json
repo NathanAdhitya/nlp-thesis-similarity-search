@@ -1,0 +1,14 @@
+{
+  "id": "48358",
+  "title": "Smart trash untuk membantu petugas kebersihan menggunakan arduino",
+  "abstract": "Seringkali dijumpai tempat-tempat sampah di tempat umum sudah penuh bahkan melebihi kapasitas atau overflow yang menyebabkan kondisi yang tidak higienis serta membuat tempat tersebut tidak enak dipandang. Tempat sampah yang sudah penuh dibiarkan menumpuk dan menunggu sampai diambil kembali oleh petugas kebersihan. Untuk menghindari situasi tersebut, dibuat smart trash untuk membantu petugas kebersihan dalam memantau muatan tempat sampah. Navghane (2016) telah membuat smart trash yang dapat memantau muatan tempat sampah melalui web browser. Maka pada penelitian ini akan dibuat tempat sampah dengan push notification melalui aplikasi pada smartphone sehingga lebih memudahkan petugas mengambil tempat sampah secara tepat waktu. Tempat sampah dipasang sistem Arduino WeMos D1 R1 dan sensor proximity E18-D80NK yang akan menunjukkan status sampah pada level saat ini. Data yang didapat dari sensor akan dikirim dengan koneksitivitas Wi-Fi yang terdapat pada mikrokontroler menuju database. Komunikasi tersebut akan memicu pertukaran data secara real-time antara aplikasi pada smartphone pengguna, dengan perangkat smart trash. Hasil yang didapatkan dari penelitian ini adalah perangkat dapat mendeteksi dan menampilkan status ketinggian sampah dalam tempat sampah secara real-time dalam bentuk persentase dan gambar 2D pada aplikasi smartphone, serta push notification yang akan muncul pada saat ketinggian sampah sudah penuh atau mencapai batas atas. Sensor proximity E18-D80NK rentan membaca sampah kering yang bersifat transparan dan tipis, namun akurat membaca sampah kering yang bersifat solid dan tidak tembus pandang.",
+  "creators": "RIESKY AKBAR MULYO SANTOSO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Handry Khoswanto (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021981/INF/2020; Riesky Akbar Mulyo Santoso (26414094)",
+  "subjects": "ANDROID (ELECTRONIC RESOURCE)--PROGRAMMING; SMARTPHONES--PROGRAMMING; ARDUINO"
+}

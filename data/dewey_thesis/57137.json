@@ -1,0 +1,14 @@
+{
+  "id": "57137",
+  "title": "Hand gesture dengan visually realistic grasping system untuk board game kartu strategi",
+  "abstract": "Hand gesture dapat meningkatkan pengalaman dan interaksi yang lebih imersif di dalam VR. Sejauh ini hand gesture yang digunakan untuk mengambil barang masih kurang akurat dan realistis. Memainkan board game di dalam VR memerlukan banyak interaksi dengan benda-benda virtual. Penelitian ini bertujuan untuk menguji hand gesture dengan Visually Realistic Grasping System. Skripsi ini menggabungkan hand gesture dengan Visually Realistic Grasping System. Terdapat 5 jenis hand gesture pada penelitian ini yaitu grab 1 permata, grab 2 permata, grab 3 permata, grab kartu, dan teleport. Penelitian ini melakukan pengujian terhadap akurasi hand gesture dan hand error yang didapatkan dari pengukuran jarak collision ketika mengambil dan melepas benda. Hand error digunakan untuk mengetahui seberapa akurat jarak tangan terhadap benda ketika mengambil dan melepas benda. Hasil pengujian menunjukkan bahwa hand gesture dengan Visually Realistic Grasping System dapat digunakan di dalam permainan board game kartu strategi. Hand gesture grab 1 permata memiliki tingkat akurasi paling tinggi diantara hand gesture grab yang lain sebesar 99.23% . Hand gesture grab 2 memiliki tingkat akurasi 92.31% dan Hand gesture grab kartu memiliki tingkat akurasi 85.7%. Hand gesture grab 3 dapat digunakan untuk mengambil 3 permata tetapi memiliki tingkat akurasi yang rendah sebesar 45.38%.",
+  "creators": "FELICIA TANIA",
+  "contributors": "Liliana (Advisor 1); Gregorius Satiabudhi (Examination Committee 1); Hans Juwiantho S.Kom., M.Kom (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022355/INF/2023; Felicia Tania (C14190108)",
+  "subjects": "BOARD GAMES; COLLISION DETECTION (COMPUTER ANIMATION)"
+}

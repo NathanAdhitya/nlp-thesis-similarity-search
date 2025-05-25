@@ -1,0 +1,14 @@
+{
+  "id": "4608",
+  "title": "Katalog media yang memanfaatkan database media di internet",
+  "abstract": "Kebutuhan untuk mendapatkan akses terhadap ketersediaan media semakin hari semakin bertambah. Akses untuk mengetahui ketersediaan media tersebut dapat dilakukan secara langsung dengan mengunjungi tempat penyedianya atau mencarinya melalui dunia internet. Apapun cara yang digunakan untuk mengakses ketersediaan media tersebut, pada dasarnya user membutuhkan cara yang paling efektif yaitu melalui dunia internet. Salah satu provider pada dunia internet yang memungkinkan untuk melakukan akses terhadap keberadaan suatu media yaitu amazon.com. Setiap user yang ingin mengakses data pada amazon.com harus membuka kembali website amazon.com, meskipun hal ini pernah dilakukan sebelumnya. Mengatasi permasalahan tersebut maka, dibangun suatu sistem yang dapat membantu user dalam mengakses informasi pada database amazon.com dan menyimpannya ke dalam database lokal. Sistem tersebut dibangun dengan menggunakan Borland Delphi sebagai bahasa programnya dengan didukung oleh PHP script dan XML script yang berfungsi untuk membangun hubungan dengan Amazon Web Service. Sedangkan Microsoft Access digunakan untuk membangun database lokal yang terhubung dengan Delphi maupun PHP script. Dengan keberadaan database lokal ini, akan memungkinkan user untuk tidak perlu mengakses kembali database amazon.com jika hendak melihat informasi yang sudah pernah diakses sebelumnya.",
+  "creators": "DEGXY YULISSA HARTOG",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Justinus Andjarwirawan (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 03010052/ELK/2006; Degxy Yulissa Hartog (23402127)",
+  "subjects": "COMPUTERS-CATALOGS; INTERNET (COMPUTER NETWORK); COMPUTER INTERFACES-CATALOGS"
+}

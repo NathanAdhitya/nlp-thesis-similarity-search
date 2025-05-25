@@ -1,0 +1,14 @@
+{
+  "id": "57459",
+  "title": "Penerapan procedural content generation untuk 3D dungeon menggunakan grid system dan manhattan distance",
+  "abstract": "Game Dungeon Crawler adalah permainan di mana pemain memulai dari titik awal dan mencari jalan menuju titik akhir. Desain level dan replay value merupakan faktor penting dalam pembuatan game Dungeon Crawler. Penggunaan Procedural Content Generation (PCG) menjadi solusi untuk menciptakan konten baru secara otomatis. Studi sebelumnya menggabungkan metode PCG dengan WaveFunctionCollapse (WFC) dalam pembuatan level dungeon 2D, tetapi masih memiliki kekurangan seperti koneksi ruangan, penempatan musuh, dan permainan yang masih dalam format 2D. Dalam skripsi ini, saya akan menerapkan dan menganalisis hasil level PCG dengan menggabungkan metode Grid system dan Manhattan Distance untuk membuat game dungeon secara prosedural yang juga mencakup fitur baru seperti statistik karakter, senjata, musuh, dan pengembangan permainan menjadi 3D. Tujuannya adalah meningkatkan replay value dalam game tersebut. Hasil dari pengujian dalam skripsi ini adalah level dungeon yang dibuat secara prosedural memiliki waktu bermain yang lebih lama dibandingkan dengan yang tidak dibuat secara prosedural dan juga Grid Sytem dan Manhattan Distance dapat membuat level yang tidak saling bertumpuk dan tiap ruangan pasti dapat dijangkau.",
+  "creators": "THEOFILUS RICCO WIGUNA",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022393/INF/2023; Theofilus Ricco Wiguna (C14180074)",
+  "subjects": "COMPUTATIONAL GRIDS (COMPUTER SYSTEMS); VIDEO GAMES--DESIGN"
+}

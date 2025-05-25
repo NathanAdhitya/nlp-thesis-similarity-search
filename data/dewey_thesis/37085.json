@@ -1,0 +1,14 @@
+{
+  "id": "37085",
+  "title": "Perancangan dan pembuatan real-time game dengan menggunakan machine learning dan fuzzy rule-based untuk mengontrol pergerakan enemy",
+  "abstract": "Bermain game merupakan salah satu alternatif untuk menghindarkan seseorang dari stres. Namun pada kenyataannya, banyak orang cepat merasa bosan dalam memainkan beberapa game yang telah tersedia. Untuk mengatasi hal tersebut, dalam skripsi ini akan dibuat sebuah game yang dapat mengembangkan kemampuan AI-nya sendiri dalam merespon gerakan player. Game yang dibuat adalah berjenis action game. AI yang akan dibuat dalam game ini menggunakan 2 (dua) metode, yaitu fuzzy state machine dan machine learning. Fuzzy state machine merupakan sebuah metode untuk memilih respon terbaik yang dapat diberikan oleh karakter enemy. Machine learning digunakan untuk melakukan update pada file rules yang aktif pada karakter enemy. Hasil pengujian menunjukkan bahwa fuzzy state machine dapat diimplementasikan dalam action game secara real time. Selain itu dengan adanya machine learning, sistem dapat melakukan perubahan terhadap rule yang dinilai kurang baik dalam memberikan respon untuk dijalankan oleh AI.",
+  "creators": "SAMUEL VINCENTIUS LIDIANTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Rolly Intan (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021574/INF/2016; Samuel Vincentius Lidianto (26412077)",
+  "subjects": "COMPUTER ANIMATION; COMPUTER GAMES-DESIGN; COMPUTER GAMES-PROGRAMMING; COMPUTER GAMES"
+}

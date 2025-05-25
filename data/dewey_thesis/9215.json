@@ -1,0 +1,14 @@
+{
+  "id": "9215",
+  "title": "Perancangan dan pembuatan perangkat lunak panoramic image mosaic dengan menggunakan metode 8 parameter perspective transformation",
+  "abstract": "Saat ini teknologi kamera digital berkembang secara pesat, namun kamera digital yang dikembangkan masih belum dapat mengambil obyek gambar yang sangat luas, sehingga obyek tersebut diambil dalam beberapa kali pengambilan. Hal ini menyebabkan gambar dari obyek tersebut terpisah-pisah menjadi beberapa bagian gambar. Dalam Tugas Akhir ini, dikembangkan aplikasi yang mampu untuk melakukan proses penggabungan gambar- gambar yang sebenarnya merupakan satu kesatuan. Proses penggabungan dimulai dengan proses inisialisasi titik correspondence, dimana titik tersebut menunjukkan bagian yang sama antara gambar pertama dan gambar kedua. Selanjutnya, proses transformasi dilakukan pada gambar kedua dengan menggunakan metode 8 Parameter Perspective Transformation, dimana untuk mencari matriks transformasinya berdasarkan titik-titik correspondence tersebut. Setelah gambar ditransformasikan, proses selanjutnya adalah menggabungkan bagian-bagian yang overlapping. Proses ini dapat dilakukan dengan menggunakan tiga metode, antara lain metode rata-rata intensitas warna kedua gambar, metode memakai intensitas warna gambar pertama dan metode weighted average. Aplikasi ini dikembangkan dengan menggunakan bahasa pemrograman C++ yang dengan kompiler Microsoft Visual C++ 6.0. Berdasarkan hasil pengujian yang dilakukan, proses penggabungan dipengaruhi oleh faktor penempatan posisi dan jumlah titik-titik correspondence dan faktor pencahayaan. Aplikasi ini dapat dikembangkan lebih lanjut, agar proses inisialisasi titik-titik correspondence dapat dilakukan secara otomatis.",
+  "creators": "HENDRA LITOYO",
+  "contributors": "Rudy Adipranata (Advisor 1); Cherry Galatia Ballangan, S.Si., M.AIT. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010538/INF/2006; Hendra Litoyo (26403023)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

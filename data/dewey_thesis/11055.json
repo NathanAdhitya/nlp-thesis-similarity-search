@@ -1,0 +1,14 @@
+{
+  "id": "11055",
+  "title": "Perancangan dan pembuatan sistem perhitungan harga pokok produksi pada Karoseri Podo Joyo dengan metode job costing",
+  "abstract": "Karoseri Podo Joyo merupakan sebuah perusahan yang bergerak di bidang jasa perakitan mobil. Saat ini perhitungan harga pokok produksi masih manual. Hal ini menyebabkan beberapa permasalahan antara lain: human error, kekeliruan perhitungan harga pokok produksi, hilangnya dokumen proses produksi, data sulit ditelusuri. Oleh karena itu, perusahaan membutuhkan perancangan dan pembuatan sistem perhitungan harga pokok produksi dengan metode job costing. Berdasarkan latar belakang permasalahan yang ada tersebut, dalam tugas akhir ini dirancang sebuah sistem penghitungan Harga Pokok Produksi yang terintegrasi dengan sistem pembelian, dan penjualan. Di dalam sistem penghitungan Harga Pokok Produksi terdapat order pembelian, order penjualan, master bahan, customer, supplier yang saling terintegrasi. Pada proses pembuatannya menggunakan Borland Delphi 7 sebagai bahasa pemograman dan Microsoft Access sebagai database. Hasil implementasi yang diperoleh dari aplikasi yang dibuat antara lain, dapat menyimpan proses produksi, transaksi pembelian, penjualan. Aplikasi juga dapat menampilkan laporan HPP, laporan pembelian, laporan order pembelian, laporan penjualan, dan laporan laba rugi secara otomatis.",
+  "creators": "ADRIANES HENDRYANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Alexander Setiawan (Advisor 2); Oviliani Yenty Yuliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010739/INF/2008; Adrianes Hendryanto (26403145)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

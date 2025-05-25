@@ -1,0 +1,14 @@
+{
+  "id": "59973",
+  "title": "Pengembangan sistem pengecekan kemiripan topik skripsi mahasiswa untuk website pra skripsi Teknik Informatika menggunakan metode TF-IDF dan teknik Phrase Recognition",
+  "abstract": "Dalam proses penyusunan skripsi teknik informatika penting untuk dipastikan bahwa topik skripsi yang ingin diajukan oleh mahasiswa tidak memiliki kemiripan dengan skripsi yang telah lulus. Namun hingga sekarang, sistem pengecekan pada website yang sudah ada masih belum dapat memberikan jawaban yang akurat. Hal ini dikarenakan sistem pengecekan hanya menggunakan judul skripsi saja. Hal ini dapat berdampak pada topik yang diajukan memiliki judul yang kurang lebih sama namun memiliki isi pembahasan yang berbeda. Oleh karena itu dibutuhkannya sebuah sistem yang dapat melakukan pengecekan kemiripan secara efisien. Sistem pengecekan akan dibuat menggunakan metode TF-IDF dan Phrase Recognition, di mana pengecekan akan dilakukan pada 5 kriteria yaitu judul, kata kunci, abstrak, latar belakang, serta kesimpulan skripsi. Dari pengujian data, program yang telah dibuat dapat berjalan dengan baik dan membantu untuk pengecekan kemiripan skripsi. Penggunaan metode TF-IDF dan Phrase Recognition dapat memberikan jawaban yang valid serta memiliki nilai rata rata perbedaan hasil program dan perhitungan manual sebesar 2.19% untuk nilai terendah dan 18.91% untuk nilai tertinggi.",
+  "creators": "ARDIAN ASMAN",
+  "contributors": "Liliana (Advisor 1); ANITA NATHANIA PURBOWO, S.KOM. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1); Hans Juwiantho S.Kom., M.Kom (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022460/INF/2024; Ardian Asman (C14190018)",
+  "subjects": "COMPUTER SOFTWARE-DEVELOPMENT; DIGITAL IMAGE PROCESSING; SIMILARITY JUDGMENT"
+}

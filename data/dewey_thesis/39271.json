@@ -1,0 +1,14 @@
+{
+  "id": "39271",
+  "title": "Pembuatan aplikasi marketplace untuk mahasiswa dan alumni Univeristas Kristen Petra",
+  "abstract": "Sekarang aplikasi marketplace yang sejenis sudah memiliki fitur yang cukup beragam dan sistem keamanan yang baik. Akan tetapi tidak sedikit pengguna internet yang menyalahgunakan fasilitas marketplace hanya untuk keuntungan pribadi misalnya saja penipuan dengan menggunakan data diri yang tidak valid (fake account) sehingga membuat calon pembeli hilang kepercayaannya untuk bertransaksi melalui situs marketplace. Berdasar kebutuhan ini, dibuatlah aplikasi marketplace untuk kalangan Mahasiswa dan Alumni Universitas Kristen Petra sebagai wadah informasi dan perantara untuk menghubungkan penjual dan pembeli serta untuk membangun kepercayaan pembeli terhadap penjual dengan menggunakan Username yang telah terintegrasi dengan data yang valid. Aplikasi marketplace untuk kalangan Mahasiswa dan Alumni Universitas Kristen Petra ini didesain menggunakan bootstrap framework dan telah didukung dengan AJAX, PHP, serta SOAP pada fitur transaksi third party, paypal serta mediasi komplain melalui live chat. Aplikasi ini telah terintegrasi dengan email dan password yang sudah terdapat pada database mahasiswa Universitas Kristen Petra Surabaya (john.petra.ac.id). Aplikasi ini juga telah dilengkapi dengan HTTPS, Anti XSS (Cross Site Scripting) dan Anti SQL Injection sebagai standar keamanan. Hasil dari aplikasi marketplace ini adalah aplikasi ini dapat membangun kepercayaan pembeli terhadap penjual untuk bertransaski online dengan menggunakan Username yang telah terintegrasi dengan data yang valid. Aplikasi ini telah dilengkapi fitur transaksi third party dan paypal. Selain itu ada fitur review-user yang membantu meyakinkan pembeli untuk memilih penjual yang pasti. Serta fitur live chat guna mediasi komplain antara pembeli, penjual, dan admin.",
+  "creators": "OEN DAVID HARYONO",
+  "contributors": "Kristo Radion Purba S.ST. (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021660/INF/2017; Oen David Haryono (26413001)",
+  "subjects": "DATABASE MANAGEMENT SYSTEMS; ELECTRONIC COMMERCE--COMPUTER PROGRAMS; MYSQL (COMPUTER PROGRAM LANGUAGE); WEBSITE DESIGN"
+}

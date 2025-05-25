@@ -1,0 +1,14 @@
+{
+  "id": "60852",
+  "title": "Analisis pengendalian sistem suspensi aktif pada model mobil minibus 7 dof dengan menggunakan sistem kontrol pid dan pid fuzzy",
+  "abstract": "Kondisi kenyamanan berkendara yang ideal itu sendiri adalah ketika bodi kendaraan tidak bergerak atau bergetar ketika mendapatkan gangguan dari luar. Electromagnetic adjustable suspension adalah sistem suspensi aktif yang dapat diatur secara elektromagnetik dengan menggunakan respons elektromagnetik untuk meninggikan ketinggian sasis mobil. Dalam konteks dinamis tentang kendaraan, vehicle roll dynamics merujuk pada fenomena gerakan-gerakan apa saja yang akan terjadi apabila kendaraan mengalami perubahaan arah. Setelah dilakukan simulasi menggunakan sistem PID gerakan radian roll dan pitch dapat teredam hingga 90% bahkan sampai 100%. Nilai terbaik didapatkan pada kondisi kendaraan ketika terkena lubang, pada kondisi tersebut sistem dapat meredam gerakan roll dan pitch dengan sangat baik pada kecepatan 60km/h sehingga sudut radian tidak melewati batas 0 atau tidak mengalami overshoot. Setelah menganalisa hasil ternyata nilai PID yang dihasilkan kurang besar sehingga nilai redaman yang dihasilkan tidak banyak perubahan dari kondisi redaman yang awal. Dengan memperbesar nilai gain (pengali untuk memperbesar nilai redaman yang dihasilkan oleh PID), simulasi menggunakan sistem PID dapat menghasilkan nilai redaman yang baik. Pada sistem fuzzy ketika mengubah nilai gain hasil redaman yang dihasilkan tetap terlalu kecil sehingga sistem kontrol fuzzy pada penelitian ini tidak dapat menstabilkan kendaraan ketika terkena kondisi jalan yang tidak rata.",
+  "creators": "TOBIAS CHRISTIAN DEWANTARA",
+  "contributors": "Oegik Soegihardjo (Advisor 1); Joni Dewanto (Examination Committee 1); Ninuk Jonoadji (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011546/MES/2024; Tobias Christian Dewantara (C12200035)",
+  "subjects": "AUTOMOBILES--CHASSIS; AUTOMOBILES--STABILITY; AUTOMOBILES--SUSPENSION; AUTOMOBILES--SPRINGS AND SUSPENSION"
+}

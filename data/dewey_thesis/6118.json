@@ -1,0 +1,14 @@
+{
+  "id": "6118",
+  "title": "Perancangan dan pembuatan aplikasi image segmentation menggunakan active contour (SNAKE)",
+  "abstract": "Saat ini, pengolahan gambar dapat lebih mudah dilakukan dengan menggunakan pengolahan gambar digital. Salah satu penyebabnya adalah adanya segmentasi pada gambar digital. Segmentasi dapat dikatakan memisahkan obyek-obyek yang ada pada gambar, sehingga pengolahan gambar digital dapat dilakukan pada masing-masing obyek. Active contour adalah salah satu metode dalam segmentasi. Pertama inisialisasi kurva dilakukan di luar obyek yang akan disegmen, kemudian melakukan preprocessing terhadap gambar input dan mengisi parameter dari active contour. Active contour memproses gambar berdasarkan edge dari tiap obyek oleh karena itu perlu untuk mencari turunan pertama/edge detection terhadap gambar input. Kemudian dicari koordinat yang baru dari tiap titik dari kurva. Dari hasil pengujian active contour dapat digunakan untuk melakukan segmentasi gambar, parameter dari active contour mengatur kurva sehingga mendapatkan bentuk dari obyek. Semakin besar nilai parameter alpha dan beta maka hasil segmentasi semakin mendekati bentuk obyek, meskipun hasil dari parameter beta tidak signifikan seperti parameter alpha, semakin besar parameter delta pergerakan kurva menjadi cepat namun dapat menyebabkan kurva melewati edge, nilai kecil akan menyebabkan kurva bergerak perlahan namun tidak melewati edge. Preprocessing blur berguna mempertebal edge obyek, preprocessing invert colour berguna menyegmen obyek yang lebih terang dari background, dan preprocessing threshold berguna membuang edge yang dianggap tidak perlu.",
+  "creators": "WILLIAM NUGROHO WIJAYA",
+  "contributors": "Rudy Adipranata (Advisor 1); Cherry Galatia Ballangan, S.Si., M.AIT. (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 01000457/INF/2006; William Nugroho Wijaya (26402056)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

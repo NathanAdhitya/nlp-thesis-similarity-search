@@ -1,0 +1,14 @@
+{
+  "id": "60536",
+  "title": "Pembuatan aplikasi pengaturan rute armada toko bangunan menggunakan metode cluster first route second dan lin-kernighan heuristic",
+  "abstract": "Pengiriman barang merupakan aspek vital dalam operasional logistik toko bangunan, mempengaruhi kepuasan pelanggan dan biaya operasional perusahaan. Di tengah era teknologi, sebagian toko bangunan masih mengandalkan metode manual, menyebabkan berbagai tantangan seperti pengaturan pengiriman, pemilihan rute efisien, dan manajemen informasi kapasitas kendaraan yang terbatas. Studi sebelumnya telah mengusulkan berbagai metode optimasi rute, namun masih ada kekurangan dalam pengaturan parameter dan keterbatasan dalam aplikasi nyata. Skripsi ini mencoba mengatasi masalah tersebut dengan memperkenalkan sebuah aplikasi yang menggunakan metode Cluster First Route Second. Metode ini mengelompokkan pengiriman berdasarkan peraturan toko bangunan menggunakan Rule-based Classifier (RBC), kemudian menerapkan algoritma Lin-Kernighan Heuristic (LKH) dan Simulated Annealing untuk menemukan rute terpendek dengan memperhitungkan faktor-faktor seperti waktu, berat, dan lokasi. Pada skripsi ini, yang akan dilakukan adalah pembuatan aplikasi yang dapat memberikan saran rute pengiriman berdasarkan peraturan pengiriman yang telah ditetapkan, yang nantinya akan dioptimasi dengan menggunakan LKH untuk memberikan rute pengiriman yang paling efisien. Selain itu, skripsi ini juga akan membandingkan metode optimasi perutean antara LKH, SA, dan metode manual. Setelah pembuatan dan implementasi aplikasi pada Toko Bangunan, didapatkan bahwa aplikasi dapat memberikan rekomendasi rute yang 35,65% lebih efektif dibandingkan dengan pemilihan manual. Aplikasi tersebut juga berhasil memaksimalkan muatan sebesar 88,64% untuk berat muatan, 72,31% untuk volume bak muatan, dan 10,78% untuk volume atap muatan.",
+  "creators": "RYAN ADLEY",
+  "contributors": "Andreas Handojo (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022572/INF/2024; Ryan Adley (C14180115)",
+  "subjects": "SIMULATED ANNEALING (MATHEMATICS); VEHICLE ROUTING PROBLEM"
+}

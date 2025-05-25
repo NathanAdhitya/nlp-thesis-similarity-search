@@ -1,0 +1,14 @@
+{
+  "id": "15928",
+  "title": "Pemecahan masalah trim-loss dengan integer linear programming di PT Buana Megah Sentosa",
+  "abstract": "Permasalahan yang dihadapi oleh perusahaan saat ini sehubungan dengan proses produksi yaitu proses pemotongan rol-rol plastik menjadi produk jadi. Adanya ukuran bahan baku berupa rol plastik yang tidak selalu tepat dengan ukuran permintaan konsumen, menyebabkan timbulnya sisa-sisa potongan plastik yang tentunya sangat merugikan pihak perusahaan. Walaupun ada penyebab lain seperti misalnya kondisi bahan baku yang terlipat, lengket, waktu penggantian rol dimana sering juga menghasilkan sisa-sisa akibat saat menyetel mesin potong dan lainnya. Apabila perusahaan dapat selalu mengatur pola pemotongan dengan baik, setidaknya dapat mengurangi biaya-biaya yang timbul seperti biaya bahan baku, biaya penggantian komponen dan sebagainya. Untuk pemecahan masalah ini, penyusun melakukan langkah awal dengan menentukan pola potongan pada proses pemotongan awal yaitu pemotongan lebar rol sebelum dipotong lagi menjadi produk jadi. Selain itu dari pola potongan yang optimal ini dapat ditentukan jumlah minimum rol yang harus dipotong agar sisa potongan menjadi minimal tetapi masih mampu memenuhi semua permintaan konsumen. Pendekatan yang digunakan adalah dengan membangun 2 model integer linear yaitu model 1 dimensi dan 2 dimensi dimana model 1 dimensi hanya menghitung jumlah rol yang akan dipotong sesuai pola tertentu, sedangkan model 2 dimensi dapat menghitung jumlah lembaran plastik yang dihasilkan selain jumlah rol yang akan dipotong untuk pola-pola tertentu sehingga pada akhimya secara tak langsung juga mengurangi biaya-biaya pemotongan yang timbul. Setelah dilakukan beberapa langkah tersebut, maka didapatkan kesimpulan untuk memenuhi permintaan konsumen yaitu dengan memesan jumlah rol yang dibutuhkan secara tepat sesuai jumlah rol yang nantinya akan dipotong sesuai pola pemotongan yang optimal yang akhirnya dapat meminimalkan total luas sisa potongan plastik.",
+  "creators": "HENNY HERAWATI",
+  "contributors": "Siana Halim (Advisor 2); Didik Wahjudi (Advisor 1); Jani Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 255/TI-81/1999; Henny Herawati (25495016)",
+  "subjects": "INDUSTRIAL ENGINEERING; OPERATION RESEARCH"
+}

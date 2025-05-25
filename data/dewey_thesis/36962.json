@@ -1,0 +1,14 @@
+{
+  "id": "36962",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi dan inventory control pada Salon Mobil XYZ",
+  "abstract": "Pada saat ini, Salon Mobil XYZ masih melakukan pencatatan transaksi penjualan, pembelian, perubahan stok, dan laporan keuangan secara manual. Salon Mobil XYZ masih belum menggunakan sistem informasi yang terstruktur. Owner seringkali mengalami kesulitan dalam melakukan pemantauan jumlah stok masing masing barang yang ada. Pencatatan yang dilakukan secara manual ini seringkali menyebabkan beberapa kesalahan yang dapat mengganggu proses bisnis dalam salon mobil ini serta membuang banyak waktu. Melihat berbagai macam permasalahan yang terjadi pada Salon Mobil XYZ ini, maka dirancang sistem yang dapat mengolah data transaksi operasional, pembuatan kartu stok dan inventory control serta pembuatan laporan keuangan yang lengkap. Aplikasi dibuat dengan program berbasis website yang menggunakan Framework CodeIgniter, PHP sebagai bahasa pemrogramannya dan MySQL sebagai database. Pencatatan akuntansi menggunakan metode perpetual dan kartu stok yang menggunakan metode FIFO (First In First Out). Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, dapat melakukan pencatatan transaksi penjualan dan pembelian, inventory control yang dapat memberikan reminder apabila stok barang berada pada titik tertentu, penjurnalan akuntansi serta laporan laporan keuangan yang diperlukan.",
+  "creators": "ALEX IVAN HARJONO",
+  "contributors": "Yulia (Advisor 1); CHRISTIAN, SE, AK (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021549/INF/2016; Alex Ivan Harjono (26412054)",
+  "subjects": "ACCOUNTING (COMPUTER PROGRAM); DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

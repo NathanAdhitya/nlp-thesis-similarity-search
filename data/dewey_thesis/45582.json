@@ -1,0 +1,14 @@
+{
+  "id": "45582",
+  "title": "Aplikasi pencarian Pet Hotel di Surabaya dengan menggunakan metode simple additive weighting",
+  "abstract": "Pet hotel merupakan jasa penitipan hewan peliharaan di mana pemilik hewan peliharaan dapat menitipkan hewan peliharannya selama beberapa hari. Di Surabaya, menemukan tempat penitpan yang ideal bagi hewan peliharaan merupakan sesuatu yang cukup sulit. Sebab, tidak semua orang mau dan mampu menerima dan merawat hewan peliharaan. Selain itu, banyak juga pet shop-pet shop di Surabaya yang tidak menerima jasa penginapan hewan, sehingga menemukan tempat penitipan hewan peliharaan di Surabaya merupakan suatu tantangan. Hal lain yang juga mempersulit pencarian tempat penitipan hewan peliharaan adalah minimnya informasi mengenai pet shop-pet shop yang memiliki jasa pet hotel. Sebagian besar pet shop di Surabaya masih mengandalkan brosur dan penyebaran informasi dari mulut ke mulut untuk menjalankan bisnisnya. Hal ini tentunya akan sangat mempersulit pencarian pet hotel bagi pemilik hewan peliharaan. Pada skripsi ini akan dibuat aplikasi pencarian pet hotel berbasis Android dengan mengimplementasikan metode Simple Additive Weighting di dalam sistem aplikasi. Pengimplementasian metode SAW ditujukan untuk menemukan alternatif terbaik berdasarkan kriteria-kriteria yang telah ditentukan dari survey. Kriteria-kriteria yang digunakan meliputi jumlah staff, kapasitas hewan yang dapat ditampung, jenis lokasi penitipan, kelengkapan fasilitas, harga fasilitas, dan harga hewan. Pencarian dilakukan dengan user memberikan bobot untuk setiap kriteria kemudian SAW akan menentukan pet hotel mana sajakah yang memiliki prioritas paling tinggi, yaitu pet hotel yang paling sesuai dengan preferensi user. Hasil akhir dari skripsi ini adalah aplikasi yang dapat membantu pemilik hewan peliharaan menemukan pet hotel di Surabaya dengan preferensi yang paling sesuai dengan keinginan user berdasarkan metode Simple Additive Weighting. Hasil pengujian Simple Additve Weigting yang telah dilakukan menunjukkan, penghitungan SAW yang dilakukan di dalam aplikasi telah mampu memberikan hasil yang sama dengan penghitungan yang dilakukan secara manual.",
+  "creators": "MICHAEL GOZALI",
+  "contributors": "Alexander Setiawan (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Yulia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021882/INF/2019; Michael Gozali (26415112)",
+  "subjects": "ANDROID (ELECTRONIC RESOURCE); APPLICATION SOFTWARE--DEVELOPMENT--COMPUTER PROGRAMS"
+}

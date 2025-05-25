@@ -1,0 +1,14 @@
+{
+  "id": "27985",
+  "title": "Perencanaan dan pembuatan komunikasi data antara IBM PC dengan mikrokontroler 8031 melalui jala-jala listrik untuk pengaturan sistem penerangan",
+  "abstract": "Sejalan dengan perkembangan bidang elektronika dibutuhkan komunikasi data serial asinkron antara PC dengan PC lain maupun antara PC dengan Mikrokontroller lainnya untuk penggunaan tranfer data maupun kontrol. Pada tugas akhir ini direncanakan komunikasi data serial asinkron melalui jaia-jala listrik antara PC dengan Mikrokontroller 8031 untuk pengaturan lampu penerangan untuk melakukan komunikasi data dengan media jala-jala listrik dibutuhkan suatu Modulator/Demodulator. Modulator/Demodulator terpasang pada sisi PC maupun pada sisi Mikrokontroller 8031 di mana Modulator/Demodulator mengunakan modulasi Frequency Shift Keying, di mana komunikasi data diatur oleh suatu protokol secara perangkat lunak. Tugas akhir ini direncanakan dan dibuat dengan dilakukan pengujian komunikasi data dengan baud rate yang berbeda pada setiap phasa (R,S dan T). Walaupun tugas akhir ini direncanakan komunikasi data dengan baud rate 1200 ternyata hasilnya tidak sesuai dengan yang diharapkan karena desain Modulator/Demodulator yang kurang sempurna.",
+  "creators": "TJOENG TJIE",
+  "contributors": "Resmana Lim (Advisor 1); BUNAWI GUNAWIDJAJA (Advisor 2); SUPENO DJANALI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/013/0273; Tjoeng Tjie (23490098)",
+  "subjects": "DATA COMMUNICATION-COMPUTER PROGRAMS; MICROCONTROLLERS 8031"
+}

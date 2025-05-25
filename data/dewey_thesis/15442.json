@@ -1,0 +1,14 @@
+{
+  "id": "15442",
+  "title": "Sistem informasi pengendalian persediaan di Departemen Spare-Part PT Indra Jaya Swastika",
+  "abstract": "Sistem pengendaliaan persediaan yang sekarang diterapkan di FT. Indra Jaya Swastika sering berdasarkan heuristic dan staf departemen spare-part. Keadaan ini menyebabkan terjadinya penyimpanan barang secara berlebihan maupun kehabisan persediaan. Selain itu, alur informasi yang ada saat ini memungkinkan terfaambatnya informasi antar bagian yang terlibat, karena terlalu berbelit-belit sehingga dapat menimbulkan kesalahan, pengulangan pekerjaan bahkan tidak terlaksanakannya suatu pekerjaan. Untuk itu, penyusun berusaha membantu pihak perusahaan untuk mengantisipasi masalah-masalah tersebut diatas. Perancangan sistem pengendalian persediaan diawali dengan pengelompokkan material-material yang dipakai dalatn proses repair container berdasarkan: (1) sifat pemakaiannya, (2) pemakaian dalam volume rupiah dengan menggunakan sistem klasifikasi ABC. Sesuai dengan batasan masalah maka material yang masuk dalam kelas A selanjutnya diramalkan pemakaiannya di masa mendatang dengan menggunakan metodologi Box-Jenkins. Distribusi hasil peramalan kemudian diuji (normal atau tidak) dengan menggunakan uji Kolmogorov-Smirnov. Selanjutnya, data-data yang diperlukan seperti data waktu pasok, data biaya persediaan dan data minimum waste of material dipersiapkan. Terakhir, dilakukan perhitungan jumlah pemesanan, titik pemesanan kembali, beserta persediaan pengaman yang memungkinkan total biaya minimum dengan metode Economic Order Quantity Probabilistic dengan mempertimbangkan adanya back order. Hasil perancangan pengendalian persediaan ini kemudian dipadukan dengan sistem informasi yang disesuaikan dengan kondisi perusahaan. Perancangan sistem informasi yang dimulai dengan membuat manual flowchart dm job description awal, perancangan awal yang meliputi penyusunan entity set, entity relationship diagram, dan skema basis data, perancangan detail yang meliputi penyusunan struktur basis data dan dataflow diagram (DFD), membuat manual flowchart dan Job description usulan, serta merancang menu, tampilan (input dan ouput) dmjorm-form (nota). Terakhir, diambil kesimpulan dari seluruh kegiatan tugas akhir ini dan saran-saran yang menunjang bagi pelaksanaan rancangan sistem pengendalian persediaan ini.",
+  "creators": "WIDIYA PRANOTO",
+  "contributors": "Didik Wahjudi (Examination Committee 1); I Gede Agus Widyadana (Advisor 2); UTAMI PRASETIAWATI (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 197/TI-23/1999; Widya Pranoto (25494026)",
+  "subjects": "INVENTORY CONTROL"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "26105",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada mini market Surya Jaya",
+  "abstract": "Mini Market Surya Jaya adalah perusahaan yang bergerak di bidang penjualan makanan dan minuman ringan serta kebutuhan rumah tangga lainnya. Sistem yang saat ini dijalankan masih berbasis manual sehingga tidak ada pengecekan untuk kesalahan yang terjadi, dan juga kurang akurat perhitungan dalam proses bisnisnya. Pada skripsi ini, proses pembuatan aplikasi diawali dengan desain hingga implementasi sistem. Untuk mendapatkan desain baru dibutuhkan survei lapangan. Desain yang dibuat meliputi pembuatan DFD dan ERD. Skripsi ini dibuat dengan menggunakan bahasa pemrograman Microsoft Visual Studio 2005 dan SQL Server 2005 sebagai penyimpan database. Program yang dibuat meliputi pembuatan database master untuk customer, barang, supplier, pegawai, transaksi untuk proses penjualan dan pembelian, serta proses akuntansi berkaitan dengan pembuatan jurnal secara otomatis dan jurnal penyesuaian secara manual serta laporan keuangan secara otomatis. Dari hasil pengujian, program yang dibuat dapat memproses data akuntansi yang berhubungan dengan transaksi pada Toko Stationery Golden. Laporan yang dihasilkan telah dapat memenuhi kebutuhan perusahaan mencakup laporan keuangan dan analisa dari transaksi.",
+  "creators": "DANIEL HADIWIJAYA",
+  "contributors": "Andreas Handojo (Advisor 1); Rudy Adipranata (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021043/INF/2011; Daniel Hadiwijaya (26406114)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMANT; INFORMATION STORAGE AND RETRIEVAL SYSTEM-ACCOUNTING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

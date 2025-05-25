@@ -1,0 +1,14 @@
+{
+  "id": "57582",
+  "title": "Sistem rekomendasi hybrid peminjaman buku di Perpustakaan Universitas Kristen Petra dengan metode content-based dan collaborative filtering",
+  "abstract": "Perpustakaan di Universitas Kristen Petra memiliki sistem informasi yang menyimpan berbagai informasi koleksi buku. Koleksi buku tersebut memiliki dua jenis yaitu Physical Collection dan Digital Collection. Jumlah koleksi buku yang dimiliki Perpustakaan Universitas Kristen Petra dapat bertambah dari waktu ke waktu, dan dilihat dari banyaknya koleksi buku yang dimiliki, mahasiswa dapat mengalami kesulitan serta lebih lama dalam memilih dan menentukan buku apa yang hendak dipinjam. Hal tersebut salah satunya disebabkan karena masih kurangnya fitur layanan yang dimiliki Perpustakaan Universitas Kristen Petra. Maka dibutuhkan sebuah sistem yang dapat digunakan untuk meningkatkan layanan perpustakaan bagi mahasiswa. Dalam penelitian ini akan dibuat sistem rekomendasi hybrid dengan menggabungkan metode content-based filtering dan user-based collaborative filtering. Penggabungan menjadi metode hybrid bertujuan untuk membantu perpustakaan mengekspos koleksi buku, dan mahasiswa menemukan dan meminjam buku di Perpustakaan Universitas Kristen Petra. Metode hybrid yang diteliti akan diuji dan dievaluasi untuk mengetahui seberapa baik hasil rekomendasi yang dihasilkan. Didapatkan hasil terbaik dari sistem rekomendasi hybrid menggunakan 25 nearest neighbors dengan nilai Mean Reciprocal Rank sebesar 0.39, dan nilai Mean Average Precision sebesar 0.86.",
+  "creators": "ALBERT BAYU SANI",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Liliana (Examination Committee 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022300/INF/2023; Albert Bayu Sani (C14180079)",
+  "subjects": "DATABASE MANAGEMENT--COMPUTER PROGRAMS; DATABASE MANAGEMENT; INFORMATION STORAGE AND RETRIEVAL SYSTEMS--DATABASE MANAGEMENT"
+}

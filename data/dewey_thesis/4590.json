@@ -1,0 +1,14 @@
+{
+  "id": "4590",
+  "title": "Aplikasi peta digital memanfaatkan file vektor untuk pembacaan data dari global positioning system (GPS)",
+  "abstract": "Dengan semakin berkembangnya sebuah kawasan, dibutuhkan sebuah sistem pemetaan yang mampu secara cepat memberikan informasi terbaru. Jika masih menggunakan pemetaan secara konvensional, maka akan dibutuhkan waktu lama untuk memperbaharui isi peta yang belum lengkap tersebut. Lain halnya dengan peta digital, peta jenis ini mempunyai fleksibilitas tinggi terhadap perubahan dan dapat dengan cepat melakukan pembaharuan data. Selain itu, data peta yang rumit dapat ditampilkan dengan lebih mudah. Sistem ini mengkombinasikan penggunaan peta digital dalam bentuk shapefile dan GPS receiver (yang dibangun lewat progam Delphi 7) yang mempunyai fungsi utama sebagai penuntun arah ke sebuah lokasi (Guiding), dan fungsi tambahan yaitu penambahan fasilitas dengan tipe point dan line yang belum terdapat pada peta. Dari hasil pengujian, didapatkan bahwa seluruh fasilitas berfungsi dengan baik. Hanya saja untuk fasilitas yang melibatkan GPS receiver, akurasinya sangat tergantung pada banyaknya sinyal satelit yang terbaca oleh GPS receiver (jika sinyal satelit yang diterima banyak akan semakin akurat).",
+  "creators": "PHILIPUS HERU SUSANTO",
+  "contributors": "Resmana Lim (Advisor 1); Lauw Lim Un Tung (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 03010042/ELK/2006; Philipus Heru Susanto (23400018)",
+  "subjects": "COMPUTER GRAPHICS"
+}

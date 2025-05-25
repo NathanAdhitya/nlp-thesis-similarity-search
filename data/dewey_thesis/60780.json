@@ -1,0 +1,14 @@
+{
+  "id": "60780",
+  "title": "New E-Invoicing markets and validation rule engine in Tesla's Billing Engine",
+  "abstract": "Billing Engine is a software system Tesla Company uses to create invoices and financial reports and synchronize these data with other systems. In handling invoice data, there are 2 types of invoices: ordinary invoice and electronic invoice. This research was motivated by the obligation of the company to report its sales data to the local tax authorities. Therefore, this research aimed to develop a new feature that can handle the process of creating e-invoices and synchronizing with tax authorities. The new feature is called the e-invoicing market. In addition, this thesis also discussed the development of a new application called Validation Rule Engine. This application is useful for improving the quality of the billing operation process on the Billing Engine in terms of data accuracy. This thesis used the Development Oriented Triangulation (DOT) Framework, a framework of research methods that aims to produce research products that meet the requirements of stakeholders in the research. The result of this research was an e-invoicing market and validation rule engine that can be used by the company.",
+  "creators": "REBEKA DEA LIANDANY",
+  "contributors": "Roopali Gupta (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022461/INF/2024; Rebeka Dea Liandany (C14190027)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; COMPUTER SOFTWARE; COMPUTER SOFTWARE--VALIDATION"
+}

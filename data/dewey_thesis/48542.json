@@ -1,0 +1,14 @@
+{
+  "id": "48542",
+  "title": "Aplikasi notifikasi telegram untuk mengetahui trend forex trading dengan menggunakan pola japanese candlestick",
+  "abstract": "Aktivitas trading pada forex merupakan salah satu bisnis yang menjanjikan keuntungan yang besar dan kebebasan seperti tidak perlu memiliki modal besar dan sebuah kantor fisik. Namun kenyataannya tidak semua trader mampu mengambil keuntungan yang memuaskan karena tidak menyadari akan terjadi perubahan arah tren dalam pasar. Oleh, karena itu perlu dibentuk sebuah aplikasi yang mampu memberitahu kapan akan terjadi perubahan arah tren dalam pasar secara real-time sehingga trader mampu memaksimalkan potensi untuk mengambil keuntungan dalam jumlah besar. Expert Advisor digunakan sebagai pembacaan arah tren dalam pasar secara otomatis dan di dalamnya terdapat sebuah metode untuk membaca arah tren pasar, yaitu bernama Pola Japanese Candlestick. Ada begitu banyak jenis Pola Japanese Candlestick yang sudah ada namun dalam penelitian ini memutuskan menggunakan 4 pola saja, yaitu Pola Hammer, Doji, Engulfing dan Custom. Lalu untuk pemberitahuan arah tren yang sedang berlangsung menggunakan Telegram sebagai chatbot untuk pengiriman notifikasinya. Hasil pengujian telah dibuktikan dalam mata uang EUR/USD dalam Time Frame H4 bahwa aplikasi yang dibuat mampu membaca arah tren pembalikan rata- rata sebesar 44,76% dan tren kelanjutan rata-rata sebesar 67,60% selama 3 tahun. Untuk melakukan mengirimkan pemberitahuan dalam Telegram, Expert Advisor akan menghasilkan pembacaan arah tren menggunakan Japanese Candlestick dalam bentuk file lalu chatbot untuk Telegram yang dibuat dalam bahasa Python akan mengambil file tersebut. Kemudian membaca, dan mengirimkan hasil pembacaan file berupa notifikasi kepada Telegram pengguna.",
+  "creators": "RICKY KUNCORO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Justinus Andjarwirawan (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021999/INF/2020; Ricky Kuncoro (26416051)",
+  "subjects": "BUSINESS--DATA PROCESSING"
+}

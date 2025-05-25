@@ -1,0 +1,14 @@
+{
+  "id": "11346",
+  "title": "Perencanaan dan pembuatan sistem pengaturan digital tanpa kabel untuk pra penguat stereo dengan menggunakan 8031",
+  "abstract": "Perkembangan teknologi yang semakin pesat secara langsung maupun tidak langsung banyak mempengaruhi kehidupan manusia. Sejalan dengan kemajuan teknologi tersebut, bidang audio merupakan salah satu bidang yang memiliki kemajuan yang cukup baik sehingga tercipta alat-alat yang mampu mempermudah dan menunjang pengoperasian. Saat ini pra-penguat audio merupakan salah satu sarana yang dikembangkan untuk menghasilkan kesempurnaan suara dan mempermudah pengoperasian antara lain untuk pengaturan nada, pengendalian dengan infra red dan lain sebagainya. Untuk itu dalam tugas akhir ini dibuat pra-penguat stereo dengan pengendalian tanpa kabel. Untuk sistem pra-penguat ini digunakan pengaturan tegangan untuk mengatur volume, balance, bass dan treble. Pengaturan tegangan dilakukan dengan menggunakan minimum sistem 8031 untuk mengatur putaran motor potensio pembagi tegangan untuk volume dan mengatur kerja DAC untuk menghasilkan tegangan yang dicounter. Disamping itu minimum 8031 digunakan untuk tuenerima data dari receiver infra red yang berasal dari trasmitter untuk pengendalian jarak jauh dan data keypad untuk pengendalian melalui panel. Sistem ini dilengkapi dengan timer 8253 untuk menghasilkan waktu dan 2 channel input. Untuk tampilan data yang diproses ditampilkan pada LCD. Kemampuan sistem ini dapat dikendalikan dengan jarak maksimum ?8.10 meter pada sudut pengendalian 0? dan jarak minimum + 2.75 meter pada sudut pengendalian 80?. Response bass yang dihasilkan 16.39 dB sedang response treble 16.39 dB. Sedangkan noise yang dihasilkan oleh alat ini adalah 5 mVpp atau 1.765 mVrms.",
+  "creators": "Oek Setiawan S.",
+  "contributors": "YOHANES T. D. S (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi no. 95/E/EL/036/0239; Oek Setiawan S. (23488081)",
+  "subjects": "AUDIO AMPLIFIERS; AMPLIFIERS"
+}

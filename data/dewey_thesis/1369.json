@@ -1,0 +1,14 @@
+{
+  "id": "1369",
+  "title": "Perancangan dan pembuatan software photo-to-pattern pada cross stitch",
+  "abstract": "Cross Stitch adalah salah satu bentuk penyulaman pada kain tertentu dengan menyulam benang-benang membentuk tanda silang (X). Untuk memulai suatu cross stitch, diperlukan sebuah pattern yang digunakan sebagai patokan dalam menyulam. Meskipun toko-toko sulaman telah banyak menyediakan aneka macam pattern cross stitch, tetapi kadang-kadang konsumen menginginkan pattern lainnya yang tidak tersedia, misalnya konsumen ingin menyulam wajah seseorang atau binatang kesayangan. Tujuan dari tugas akhir ini adalah untuk menghasilkan sebuah software yang dapat membentuk pattern cross stitch dengan input-an berupa sebuah file citra. Algoritma Bicubic Interpolation scaling digunakan dalam proses scaling untuk mengubah ukuran citra sebenarnya menjadi ukuran pattern yang diinginkan. Input-an file citra dibatasi pada format citra tertentu, yaitu .bmp, .pcx, .gif, dan .jpg. Output software berupa pattern berwarna, dan pattern dengan simbol beserta keterangannya. Bahasa pemrograman yang digunakan adalah Borland Delphi 6.0. Hasil pengujian software menunjukkan bahwa pattern cross stitch dengan rasio perbandingan ukuran pattern dengan ukuran gambar aslinya lebih atau sama dengan 100 %, akan mirip dengan gambar aslinya meskipun warna benang yang digunakan sedikit. Akan tetapi, jika jika rasio perbandingannya kurang dari 100 %, maka kemiripan antara pattern cross stitch dengan gambar aslinya bergantung pada variasi warna benang yang dimiliki pattern. Semakin banyak jumlah warna benang yang digunakan sebuah pattern, maka semakin mirip pattern dengan gambar aslinya.",
+  "creators": "JENNY JAURY",
+  "contributors": "Kartika Gunadi (Advisor 1); Yulia (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010058/INF/2003; Jenny Jaury (26499027)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

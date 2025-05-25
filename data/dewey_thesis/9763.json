@@ -1,0 +1,14 @@
+{
+  "id": "9763",
+  "title": "Analisa perbandingan metode local search pada algoritma ant colony untuk menyelesaikan permasalahan penjadwalan flowshop",
+  "abstract": "Penjadwalan memegang peran penting dalam perencanaan produksi. Metode heuristic terus berkembang karena dapat menemukan solusi-solusi mendekati optimal tanpa mencoba semua alternatif yang ada. Salah satu metode heuristic yang terus berkembang adalah Ant Colony Optimization (ACO). Pengembangan dari algoritma ini disebut PACO (Proposed Ant Colony Optimization). PACO menggunakan metode local search yang disebut job index based local search. Performa dari metode local search masih perlu diuji dengan cara dibandingkan dengan metode local search lainnya yaitu tabu search as local search. Dalam penelitian ini job index based local search akan dibandingkan dengan Ben Fawzan tabu search as local search. Dengan menggunakan algoritma tabu search Ben Fawzan sebagai local search pada PACO (disebut algoritma PACO-TABU), didapat nilai makespan yang tidak berbeda signifikan dari PACO dengan computational time yang jauh lebih singkat.",
+  "creators": "AGUS SUSANTO CHANDRA",
+  "contributors": "Iwan Halim Sahputra, S.T., M.Sc., Ph.D. (Advisor 1); Tanti Octavia (Advisor 2); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011264/IND/2008; Agus Susanto Chandra (25404125)",
+  "subjects": "SCHEDULING; PRODUCTION PLANNING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "14090",
+  "title": "Penggunaan voice modem untuk pengaksesan database dengan sistem respon suara interaktif",
+  "abstract": "Respon Suara Interaktif merupakan salah satu pengembangan aplikasi dari telepon di mana pemanggil secara interaktif berkomunikasi dengan aplikasi, memasukkan informasi, dan melakukan pilihan-pilihan melalui telepon touch-tone. Kebanyakan aplikasi respon suara interaktif berhubungan dengan database, dimana pemanggil dapat mengetahui informasi yang aktual dan akurat yang diperoleh melalui database. Di sini didesain sebuah respon suara interaktif dengan aplikasinya untuk mendapatkan informasi mengenai data-data akademis mahasiswa selama perkuliahannya, yaitu data IPK (Indeks Prestasi Komulatif) baik IPK yang diselesaikan maupun IPK seluruhnya, data SKS (Satuan Kredit Semester) baik SKS yang diselesaikan maupun SKS seluruhnya, IPS (Indeks Prestasi Semester) tiap semester, jumlah SKS yang bernilai 'D' dan 'E'. Mahasiswa dapat menghubungi sistem melalui telepon dari mana saja dan kapan saja untuk mengetahui data-data akademisnya. Saat mahasiswa menghubungi sistem maka sistem akan meminta mahasiswa tersebut untuk memasukkan NRP (Nomor Pokok Mahasiswa) dan PIN (Personal Identifier Number), sebelum dapat mengakses data yang telah disediakan. Desain hardwarenya hanya menggunakan voice modem yang sudah ada di pasaran yang dihubungkan dengan komputer IBM PC. Software dibuat under Windows '98 dengan bantuan Delphi 3.0 dari Borland International, Inc. Secara keseluruhan sistem berfungsi dengan baik. Kualitas suara dari voice modem juga cukup memadai untuk didengar oleh pemanggil. Akhirnya, pemanfaatan respon suara interaktif masih sangat luas di berbagai bidang. Dengan hardware yang pada dasarnya tidak berubah sebab menggunakan voice modem, aplikasi baru dapat dibuat hanya dengan sedikit perubahan pada softwarenya.",
+  "creators": "IMMANUEL VERRY IRWANTO",
+  "contributors": "Thiang (Advisor 1); IRWAN SAHLI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/043/437; Immanuel Verry Irwanto (23494046)",
+  "subjects": "INTERNET (COMPUTER NETWORKS); MODEMS"
+}

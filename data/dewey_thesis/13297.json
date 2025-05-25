@@ -1,0 +1,14 @@
+{
+  "id": "13297",
+  "title": "Penjadualan produksi pada PT. Hutama Neala dengan menggunakan algoritma genetika",
+  "abstract": "Di dalam menentukan suatu penjadualan pengerjaan produk-produk khususnya untuk perusahaan yang memproduksi beberapa macam produk bukanlah suatu hai yang mudah. Suatu penjadualan yang kurang tepat dapat mengakibatkan waktu yang dibutuhkan untuk memproduksi suatu permintaan relatif lama sehingga menimbulkan penumpukan barang belum jadi (WIP) serta adanya waktu idle mesin yang besar. Hal ini dialami pula oleh PT. Hutama Neala sebagai perusahaan yang bergerak di bidang manufacturing dengan memproduksi air mineral bermerek Squades dan HN terutama menyangkut masalah pengepakkannya. Selain itu didalam proses pengepakan produknya ini, PT. Hutama Neala menggunakan fasilitas-fasilitas dan aliran produksi yang sama, yaitu pola produksi yang dinamakan flowshop Oleh karena itu penelitian dilakukan untuk mendapatkan sistim penjadualan yang lebih baik dengan meminimumkan waktu penyelesaian job terakhir yang meninggalkan sistem (makespan) saja atau secara bersama-sama dengan memperhitungkan lamanya waktu yang dihabiskan seluruh job pada lantai produksi (total flowtime) serta waktu idle mesin (machine idletime). Metode yang dipilih adalah Metode Palmers dan Metode CDS yang hanya memperhitungan makespan saja dan Algoritma Genetika yang memperhitungkan makespan, flowtime, serta machine idletime.",
+  "creators": "HENRY RONALDO PESIRERON",
+  "contributors": "Tessa Vanina Soetanto (Advisor 1); Didik Wahjudi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 287/TI-14/2000; Henry Ronaldo Pesireron (25494129)",
+  "subjects": "SCHEDULING-MATHEMATICAL MODELS; PRODUCTION PLANNING-MATHEMATICAL MODELS"
+}

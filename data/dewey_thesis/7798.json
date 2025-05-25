@@ -1,0 +1,14 @@
+{
+  "id": "7798",
+  "title": "Kontrol posisi motor dengan logika fuzzy berbasis PLC",
+  "abstract": "Dalam perkembangan teknologi saat ini, kecepatan dan ketepatan dalam menentukan posisi sangat diperlukan. Hal ini dapat dilihat pada proses di industri yang menghasilkan produksi dalam jumlah besar dan cepat. Untuk mendukung hal tersebut diperlukan suatu sistem yang mempunyai kecepatan tinggi dan ketepatan posisi yang baik. Untuk memenuhi kebutuhan ini, salah satu kontrol yang bisa digunakan adalah PLC Omron C200HG. Dalam perencanaan sistem ini selain menggunakan I/O digital, juga menggunakan beberapa spesial unit PLC Omron seperti analog output unit (DA001), fuzzy logic unit (FZ001), dan high speed counter unit (CT001-V1). Metode fuzzy logic digunakan untuk mengontrol kecepatan dan arah motor untuk mencapai posisi derajat tertentu. Plan yang digunakan dalam tugas akhir ini adalah motor DC yang berfungsi untuk menggerakkan pointer dari busur derajat, encoder yang berfungsi sebagai sensor posisi dan console yang berfungsi sebagai input. Berdasarkan hasil pengujian dimana untuk posisi 0 ? 360 derajat dan 360 ? 0 derajat setiap 90 derajat, settling time antara 6 ? 12 ms, rise time 2 ? 5 ms dan overshoot 0. Error respon sistem antara 6,33 (2,55 derajat) ? 14,77 (5,77 derajat) pulsa setiap 20 derajat. Duty Cycle output fuzzy PWM antara 12,99 % - 87,77 %.",
+  "creators": "RICKY MINTARAGA",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No.02010743/ELK/2005; Ricky Mintaraga (23499006)",
+  "subjects": "AUTOMATIC CONTROL; ELECTRIC CONTROLLERS-DATA PROCESSING; PROGRAMMABLE CONTROLLERS"
+}

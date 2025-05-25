@@ -1,0 +1,14 @@
+{
+  "id": "60515",
+  "title": "Papan pengumuman digital untuk sentralisasi platform penyampaian informasi di program studi informatika",
+  "abstract": "Sampai saat ini, komunikasi antara program studi atau dosen program studi informatika masih mengandalkan berbagai platform penyampaian informasi. Karena terpencarnya platform penyampaian informasi tersebut, banyak penerima informasi yang mengalami kebingungan untuk melihat informasi yang diinginkan. Penelitian ini dimaksudkan untuk membantu penyampai informasi dan penerima informasi di program studi Informatika agar tidak mengalami kebingungan dalam mencari informasi dan Informasi yang disampaikan dapat menjadi lebih tepat sasaran. Metode untuk pembuatan papan pengumuman digital menggunakan framework Flask dan database menggunakan PostgreSQL, sedangkan metode untuk memverifikasi nilai kelayakan papan pengumuman digital dilakukan dengan metode automated software testing dengan menggunakan library pytest dan user acceptance testing yang berasal dari data yang dikumpulkan dari kuesioner dan wawancara yang telah dilakukan penulis dan sudah diolah. Hasil pengujian menunjukkan bahwa website sudah berjalan degan baik dalam hal fungsionalitas dan visualnya. Selain itu, website ini juga dinilai baik bagi pengguna mahasiswa dan dinilai cukup bagi para dosen.",
+  "creators": "JIMMY MARCELINO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022515/INF/2024; Jimmy Marcelino (C14200177)",
+  "subjects": "COMPUTER BULLETIN BOARDS; POSTGRESQL (COMPUTER SYSTEM); WEB SITES"
+}

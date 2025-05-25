@@ -1,0 +1,14 @@
+{
+  "id": "5644",
+  "title": "Kompas digital dengan LCD grafik menggunakan sensor magnetik bumi",
+  "abstract": "Sebagai pengembangan dari Tugas Akhir yang telah dibuat sebelumnya, yaitu \"Pembuatan Display Digital Untuk Modul Kompas CMPS-03\" oleh Panca Wahyudi, NRP: 2340086, maka kompas digital dalam tugas akhir ini menggunakan sebuah display LCD grafik. Tampilan berupa gambar lingkaran, pointer sebagai jarum penunjuk arah, dan empat arah penjuru mata angin selain dengan display angka dengan resolusi 1 o . Pada modul kompas CMPS-03 terdapat suatu sensor magnetik bumi Philips KMZ51. Pembacaan besar sudut diperoleh dari output modul kompas CMPS-03 dengan membaca sinyal output PWM dari modul tersebut. Selanjutnya, dengan menggunakan mikrokontroler AT89S53, sinyal PWM tersebut diolah dan dikonversikan menjadi besar sudut dan kemudian ditampilkan pada LCD grafik. Display digital pada alat ini menggunakan LCD grafik dengan resolusi 48 x 84 pixel, yaitu LPH 7779, dimana LCD tersebut banyak ditemukan pada beberapa produk telepon seluler. Pada LCD grafik LPH 7779 terdapat sebuah IC sebagai driver/controller berupa single chip LCD controller/driver, yaitu PCD 8544. Alat display kompas digital ini memiliki display gambar empat arah mata angin dengan resolusi 15 o . Walaupun demikian, alat ini masih dapat menampilkan posisi (angle) berupa angka dengan resolusi 1 o , dengan akurasi 3 o sampai 4 o bila dioperasikan secara horisontal (rata air).",
+  "creators": "HARIANTO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010809/ELK/2006; Harianto (23402087)",
+  "subjects": "MICROCONTROLLER; DIGITAL ELECTRONICS"
+}

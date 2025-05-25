@@ -1,0 +1,14 @@
+{
+  "id": "13985",
+  "title": "0-50 KHz dual trace oscilloscope printer dengan menggunakan mikrokontroler MCS-51",
+  "abstract": "Dalam pengembangan bidang elektronika dibutuhkan berbagai alat ukur, salah satu alat ukur yang paling sering digunakan adalah oscilloscope. Hasil pengukuran dari oscilloscope ini hanya dapat ditampilkan pada layar CRT, sehingga akan menyulitkan apabila diperlukan dokumen-tasi dari hasil pengukuran yang dilakukan. Karena itu timbul ide untuk mencetak hasil pengukuran oleh oscillo-scope pada selembar kertas. Alat yang dibuat ini berguna sebagai perantara antara oscilloscope dan printer yang digunakan sebagai pencetak hasil pengukuran. Input dari alat ini diperoleh dengan memparalel input dari oscilloscope sehingga tidak perlu membongkar oscilloscope. Prinsip kerja dari rangkaian yang direncanakan adalah sama dengan oscilloscope, dimana terdapat pemilihan besar dari Volt/Div dan Time/Div. Pemilihan besaran Time/Div ini digunakan untuk menentukan frekuensi sampling yang akan digunakan., sedangkan Volt/Div akan menentukan besarnya skala per kotak. Input dihubungkan dengan rangkaian attenuator yang digunakan untuk melemahkan atau menguatkan sinyal input sehingga sinyal itu tidak terlalu besar atau terlalu kecil. Output dari attenuator dihubungkan dengan rangkaian Analog to Digital Conveter (ADC) untuk dilakukan penyamplingan. Apabila proses sampling selesai dilakukan maka data - data tersebut akan dikirimkan ke printer untuk dicetak sehingga dihasilkan gambar yang sama seperti yang terlihat pada layar CRT dari oscilloscope. Pengiriman itu sendiri dikendalikan oleh mikrokontroller 8031 yang dihubungkan dengan printer type dotmatrik merk EPSON. Signal input dari alat ini dapat berbentuk gelombang segitiga, kotak, dan sinus dengan tegangan peak to peak (Vpp) maksimum sebesar 40 volt dan range frekuensi antara 0 -50 KHz. Pengertian dari frekuensi maksimum 50 KHz disini adalah hanya ditampilkan satu gelombang saja dalam satu layar, sehingga untuk frekuensi di atas 50 KHz dapat juga diprint tetapi tidak dapat dihasilkan satu gelombang dalam satu layar.",
+  "creators": "THEODORUS BODYANTO",
+  "contributors": "VINCENT PRASETYO (Advisor 1); IRWAN SAHLI (Advisor 2); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/054/0257; Theodorus Bodyanto (23490089)",
+  "subjects": "CATHODE RAY ASCILLOSCOPE; INTEL MCS-51 (MICROCONTROLLER)"
+}

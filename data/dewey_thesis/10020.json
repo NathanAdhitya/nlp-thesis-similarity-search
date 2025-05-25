@@ -1,0 +1,14 @@
+{
+  "id": "10020",
+  "title": "Analisa keandalan sistem transmisi dengan metode FTA (fault tree analysis). Studi kasus: sistem transmisi 150 Kv Jawa Timur",
+  "abstract": "Dalam sebuah Sistem tenaga listrik keandalan menjadi faktor yang sangat penting. Keandalan sistem bertujuan untuk menganalisa kemampuan suatu peralatan atau sistem dalam menjalankan misinya. Keandalan didefinisikan sebagai probabilitas sistem berfungsi selama waktu tertentu dalam kondisi tertentu pula. Tugas Akhir ini dibuat dengan tujuan menghitung nilai keandalan dari sistem Transmisi 150 kV Jawa Timur, diambil saluran transmisi Waru - Sawahan 1. Metode yang digunakan adalah FTA (Fault Tree Analysis), di mana indeks kegagalan dari setiap peralatan utama sistem transmisi diperhitungkan dalam mencari indeks keandalan sistem secara menyeluruh. Analisa ini berasal dari sistem top level event (kejadian utama) dan meneruskan analisa ke kejadian kegagalan komponen (basic event). Berdasarkan hasil analisa, critical event terdapat pada subsistem kebocoran pada Circuit Breaker (0.2530), khususnya pada tripping valve (0.4128) dan closing valve (0.6130), jadi pada bagian ini diperlukan perhatian khusus.",
+  "creators": "IRVAN INDRA KURNIAWAN",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Emmy Hosea (Advisor 2); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010574/ELK/2008; Irvan Indra Kurniawan (23403080)",
+  "subjects": "ELECTRONIC POWER TRANSMISSION"
+}

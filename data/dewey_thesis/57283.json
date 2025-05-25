@@ -1,0 +1,14 @@
+{
+  "id": "57283",
+  "title": "Sistem rekomendasi warna lipstik berdasarkan skintone dan undertone dengan menggunakan metode k-means untuk segmentasi area wajah",
+  "abstract": "Lipstik merupakan produk makeup yang sering digunakan para wanita. Variasi warna yang beragam seringkali membuat pembeli bingung untuk menentukan warna yang tepat. Apabila membeli melalui counter dapat meminta rekomendasi penjual, tetapi apabila secara online dengan melihat katalog atau virtual try on tetapi menghabiskan waktu mencoba berbagai varian. Menurut Makeup Artist, dalam penggunaan sehari-hari, warna lipstik disesuaikan dengan skintone dan undertone. Sehingga pada skripsi ini akan dibuat sistem rekomendasi warna lipstik berdasarkan skintone dan undertone dengan tujuan membantu pengguna memilih warna yang cocok dengan dirinya tanpa repot mencoba berbagai varian yang ada. Metode Kmeans digunakan untuk segmentasi area wajah dari foto yang mana nilai centroidnya adalah warna kulit. Selanjutnya dilakukan perhitungan ITA dan hue untuk mendapatkan skintone dan undertone yang digunakan untuk mapping warna lipstik yang direkomendasikan. Berdasarkan hasil pengujian hasil segmentasi area wajah dengan menggunakan Kmeans mendapatkan akurasi sebesar 85.25%. Aplikasi yang dibuat dapat memberikan rekomendasi warna 75.38% cocok dengan skintone dan undertone user. Tetapi proses pengambilan gambar sangat dipengaruhi oleh faktor cahaya. Kondisi cahaya kurang baik menyebabkan kesalahan klasifikasi kulit yang mana akurasi tertinggi yang didapatkan adalah 70%. Secara keseluruhan aplikasi dinilai bermanfaat oleh 90% user untuk membantu menentukan warna lipstik yang cocok.",
+  "creators": "KEZIA ANGELINE",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022363/INF/2023; Kezia Angeline (C14190048)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); RECOMMENDER SYSTEMS (INFORMATION FILTERING)"
+}

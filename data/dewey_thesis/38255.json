@@ -1,0 +1,14 @@
+{
+  "id": "38255",
+  "title": "Pengendalian titik berat pada mobile robot",
+  "abstract": "Mobile robot saat melewati kemiringan medan tertentu memiliki berbagai macam masalah. Salah satu masalah yang dihadapi adalah mobile robot yang memiliki ketinggian tertentu saat melewati medan dengan kemiringan tertentu akan menyebabkan mobile robot terbalik. Desain dari mobile robot ini dikhususkan untuk melewati medan dengan kemiringan tertentu. Metode yang digunakan adalah dengan menggunakan beban tambahan yang disebut sebagai beban dinamis. Beban dinamis digunakan untuk melakukan perpindahan titik berat. Data kemiringan medan yang dilalui mobile robot diperoleh melalui pembacaan accelerometer sedangkan massa beban statis yang dibawa oleh mobile robot diinputkan melalui bluetooth. Kedua data tersebut diolah oleh Arduino untuk menggerakkan motor stepper yang akan menggeser beban dinamis pada posisi tertentu. Mobile robot yang dihasilkan memiliki massa total sebesar 2550 gram dan tinggi beban statis pada posisi 40 cm. Dari hasil pengujian diketahui bahwa massa beban statis maksimum yang dapat dilakukan kompensasi oleh beban dinamis adalah sebesar 350 gram pada kemiringan medan uji 30O dengan perpindahan beban dinamis sebesar 11 cm pada 30O dan 10 cm pada -30O. Pembacaan sensor accelerometer memiliki kesalahan rata-rata pembacaan sebesar 5,88%. Persentase tingkat keberhasilan mobile robot melalui medan uji dengan kemiringan maksimal 30O sebesar 98,10%.",
+  "creators": "ANDREAS RAHARDJO",
+  "contributors": "Handry Khoswanto (Advisor 1); Heri Saptono Warpindyasmoro (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010955/ELK/2016; Andreas Rahardjo (23412014)",
+  "subjects": "MOBILE ROBOTS; ROBOTS"
+}

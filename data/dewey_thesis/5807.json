@@ -1,0 +1,14 @@
+{
+  "id": "5807",
+  "title": "Robot lengan 3 derajat kebebasan dengan metode fuzzy logic",
+  "abstract": "Tugas akhir ini dibuat dengan tujuan untuk menerapkan kontrol posisi berbasis fuzzy pada lengan robot, dan untuk ke depannya dapat diterapkan di pabrik-pabrik sebagai pemindah barang. Sistem ini dibuat dalam bentuk miniatur dengan menggunakan blok huruf sebagai pengganti barang. Sistem ini dibuat untuk memindahkan blok huruf ke tempat yang tersedia, dengan dikontrol melalui PC. Sistem ini dikontrol oleh sebuah DT-52 yang merupakan sebuah minimum sistem dan data dikirim melalui PC dengan program Borland Delphi 7. Pergerakan posisi lengan diatur dengan metode fuzzy logic. Hasil pengujian menunjukkan bahwa sistem ini sudah dapat berjalan dengan baik untuk derajat pertama dan kedua, untuk yang ketiga tidak berjalan dengan baik. Tetapi ada beberapa kekurangan yang harus diperhatikan. Gearbox harus sesuai dengan sistem sensor posisi, yaitu gearbox dengan perbandingan rasio yang sangat kecil. Respon motor dipengaruhi oleh banyak hal, antara lain gearbox, dan metode fuzzy logic yang dipakai. Respon motor dipengaruhi oleh karakteristik dari komponen-komponen Fuzzy Logic. Setelah melalui beberapa pengujian maka respon motor terbaik didapat dengan nilai rise time = 5,1 s dan settling time = 8s.",
+  "creators": "PRATAMA SAPTAHADI",
+  "contributors": "Hany Ferdinando (Advisor 1); Handry Khoswanto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010759/ELK/2005; Pratama Saptahadi (23401028)",
+  "subjects": "ROBOTICS; ROBOTS-MOVEMENT"
+}

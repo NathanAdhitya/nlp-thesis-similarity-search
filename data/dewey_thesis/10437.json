@@ -1,0 +1,14 @@
+{
+  "id": "10437",
+  "title": "Automatic rule generation dan autodetect redundant and conflict rule untuk pemodelan data time series pada electrical load Jatim-Bali tahun 2005-2007",
+  "abstract": "Daya listrik di Indonesia adalah sebuah fenomena yang dapat diprediksi dengan baik. Data penggunaan beban listrik yang berbentuk time series dapat dimodelkan kedalam sebuah sistem pemodelan data. Pada sistem yang kompleks, bentuk pemodelan data membutuhkan banyak rule. Rule-rule tersebut memunculkan masalah baru yaitu terdapat rule yang berulang (redundancy) dan rule yang konflik(conflict). Pada Tugas Akhir ini, data tersebut dimodelkan kedalam sistem fuzzy yang memiliki rule dan membership function. sistem fuzzy tersebut harus mampu untuk membuat rule secara otomatis sekaligus menghilangkan rule yang berulang dan konflik. Rule-rule yang telah melalui proses tersebut digunakan untuk memprediksi data beban listrik yang akan datang dengan menggunakan fungsi Gaussian untuk pembentukan Membership Function. Sistem fuzzy inference yang digunakan adalah Takagi-Sugeno fuzzy inference. Pengujian yang dilakukan meliputi pengujian untuk menentukan variasi jumlah GMF, input, representasi data dan jumlah data training. prediksi jangka pendek dan jangka panjang. Dari hasil pengujian sistem, didapatkan bahwa penggunaan parameter yang baik adalah 7 input dan 1 output dengan menggunakan 41 GMF, 15000 jumlah training dengan representasi minggu (week) dengan nilai MSE untuk prediksi jangka pendek bulan Januari 2007 - Agustus 2007 adalah 0.0022 dengan tingkat kesalahan sebesar 4.69 % dan MSE untuk prediksi jangka panjang adalah 0.0012 dengan tingkat kesalahan sebesar 3.46 %.",
+  "creators": "BENNY PERMATA SOEGIONO",
+  "contributors": "Felix Pasila (Advisor 1); Thiang (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010847/ELK/2007; Benny Permata Soegiono (23403069)",
+  "subjects": "TIME-SERIES ANALYSIS; FORECASTING-STATISCAL METHODS"
+}

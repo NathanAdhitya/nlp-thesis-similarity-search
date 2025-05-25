@@ -1,0 +1,14 @@
+{
+  "id": "57148",
+  "title": "Aplikasi payroll system untuk karyawan pada PT BPR Dinar Pusaka menggunakan framework Laravel",
+  "abstract": "PT BPR Dinar Pusaka merupakan Bank Perkreditan Rakyat dengan produk pinjaman seperti BPR, tabungan, deposito, dan berbagai payment point. Perusahaan ini belum memiliki sistem payroll dan presensi masih dilakukan secara manual menggunakan mesin fingerprint menghasilkan file berupa Microsoft Excel. Hal ini dapat mengakibatkan adanya kesalahan pada saat melakukan perhitungan gaji. Berdasarkan permasalahan tersebut, sistem payroll sangat dibutuhkan untuk membantu perusahaan dalam melakukan perhitungan gaji dan pembuatan slip gaji. Tujuan dari penelitian ini adalah untuk memudahkan perusahaan dalam melakukan penggajian karyawan. Pada skripsi ini dibuat sebuah aplikasi sistem payroll untuk karyawan pada PT BPR Dinar Pusaka untuk membantu perusahaan dalam melakukan perhitungan gaji karyawan. Pembuatan aplikasi dilakukan dengan menganalisa dan desain alur penggajian pada PT BPR Dinar Pusaka dan pembuatan Entity Relation Diagram. Sistem payroll dibuat menggunakan bahasa pemrograman PHP dengan framework Laravel yang merupakan framework open-source. SDM Officer wajib import file data presensi dan bonus dari karyawan berupa Microsoft Excel ke dalam sistem agar dapat dilakukan perhitungan gaji. Hasil yang diperoleh adalah sebuah aplikasi sistem payroll yang membantu perusahaan dalam melakukan proses pengajuan cuti, proses pengajuan izin keterlambatan, proses pengajuan lembur, proses perhitungan bonus, dan proses perhitungan gaji untuk karyawan dengan akurat. Penggunaan aplikasi sistem payroll dapat mengurangi waktu yang dibutuhkan oleh perusahaan dalam melakukan penggajian dan membantu perusahaan dalam mengatur perhitungan gaji, pendistribusian gaji, dan presensi karyawan. Berdasarkan hasil kuesioner yang dilakukan oleh karyawan pada PT BPR Dinar Pusaka adalah 62.5% dari responden sangat puas dengan adanya aplikasi sistem payroll yang telah dibuat.",
+  "creators": "HANSEL",
+  "contributors": "Yulia (Advisor 1); Rudy Adipranata (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1); Silvia Rostianingsih (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022298/INF/2023; Hansel (C14190052)",
+  "subjects": "EMPLOYEES; APPLICATION SOFTWARE; PAYROLLS--COMPUTER PROGRAMS"
+}

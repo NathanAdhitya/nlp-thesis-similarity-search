@@ -1,0 +1,14 @@
+{
+  "id": "42117",
+  "title": "Pembuatan sistem informasi manajemen aset berbasis website pada perusahaan Elektronika X",
+  "abstract": "Perusahaan Elektronika X menyediakan berbagai macam jenis barang elektronika dan untuk memenuhi setiap penjualan di setiap cabang maka diperlukan berbagai macam aset seperti kendaraan untuk pengiriman barang, etalase untuk menampilkan barang dan lainnya. Tentunya diperlukan maintenance untuk setiap aset yang dimiliki. Saat ini, proses penjadwalan, pencatatan dan realisasi maintenance masih dilakukan secara tertulis ataupun lisan. Kenyataan itu menyebabkan beberapa maintenance aset terlewat dan sulit merekap catatan untuk membuat laporan, sehingga diperlukan sebuah sistem yang dapat mencatat dengan baik laporan kerusakan aset, penjadwalan perawatan dan pencatatan hasil realisasi. Untuk mengatasi masalah tersebut, maka pada skripsi ini akan dibuat sistem berdasarkan Computerized Maintenance Management System(CMMS) yang akan disesuaikan juga dengan hasil wawancara mengenai proses maintenance aset perusahaan yang sudah dijalankan saat ini. Sistem ini akan dibuat berbasis website menggunakan bahasa pemrograman HTML, CSS, PHP dengan Framework Codeigniter 2, JavaScript, AJAX serta menggunakan database SQL Server. Realisasi sistem ini menyimpulkan bahwa sistem penjadwalan dapat berjalan dengan lancar namun masih memungkinkan penjadwalan overtime, forecast stok sparepart berjalan dengan baik sehingga sparepart selalu tersedia namun tidak bisa mencukupi kasus yang bersifat abnormal, dan berdasarkan hasil kuesioner yang dibagikan, untuk tampilan aplikasi 60% responden menjawab baik dan 40% menjawab sangat baik, untuk kemudahan memahami aplikasi 20% responden menjawab cukup dan 80% responden menjawab baik, untuk menjawab kebutuhan 80% responden menjawab baik dan 20% responden menjawab sangat baik, untuk keseluruhan aplikasi 100% responden menjawab baik.",
+  "creators": "YOHANES CHRISTIAN",
+  "contributors": "Yulia (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021743/INF/2018; Yohanes Christian (26414066)",
+  "subjects": "MANAGEMENT INFORMATION SYSTEMS; PROGRAMMING (COMPUTERS)"
+}

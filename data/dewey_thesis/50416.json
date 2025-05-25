@@ -1,0 +1,14 @@
+{
+  "id": "50416",
+  "title": "Analisa audio features dengan membandingkan metode multiple regression dan polynomial regression untuk memprediksi popularitas lagu",
+  "abstract": "Lagu merupakan karya seni yang mengeskpresikan ide dan emosi dalam bentuk ritme, melodi, harmoni. Lagu menjadi sumber keuntungan yang besar bagi musisi atau artis melalui sisi komersialnya. Berdasarkan data dari IFPI, pendapatan dari industri musik pada tahun 2019 sebesar 20.2 milliar USD, di mana 56.1% didapat dari streaming revenue. Spotify merupakan salah satu streaming service paling populer di dunia. Penelitian ini mencoba untuk melakukan prediksi popularitas dari sebuah lagu berdasarkan data audio features-nya yang diambil dari Spotify API. Dalam melakukan prediksi akan digunakan 2 metode regresi, yaitu Linear Regression dan Polynomial Regression. Model yang dibuat menggunakan metode tersebut akan diukur akurasinya dengan metrik R2, Adjusted R2, MAE, dan MSE. Berdasarkan hasil analisis pengimplementasian program, metode Linear Regression mempunyai hasil R2 rata-rata sebesar 0.23614, Adjusted R2 rata-rata sebesar 0.23536, dan memiliki error dengan metode MAE rata–rata sebesar 17.38129, MSE rata–rata sebesar 442.31700. Metode Polynomial Regression mempunyai hasil R2 rata-rata sebesar 0.31496, Adjusted R2 rata-rata sebesar 0.25880, dan memiliki error dengan MAE rata–rata sebesar 16.47367, MSE rata–rata sebesar 409.76242.",
+  "creators": "BILLY FAITH SUSANTO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Leo Willyanto Santoso (Advisor 2); Liliana (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022062/INF/2021; Billy Faith Susanto (C14170104)",
+  "subjects": "AUDIO EQUIPMENT; REGRESSION ANALYSIS"
+}

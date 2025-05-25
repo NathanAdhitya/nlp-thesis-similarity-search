@@ -1,0 +1,14 @@
+{
+  "id": "53781",
+  "title": "Implementasi text summarization pada review Aplikasi Super di Google Play Store menggunakan metode maximum marginal relevance",
+  "abstract": "Aplikasi Super adalah aplikasi untuk agen reseller yang menjual dan mendistribusikan sembako di kota-kota tingkat 2, 3 dan pedesaan Indonesia. Aplikasi Super sudah didownload sekitar 50.000 pengguna pada Play Store. Berbagai ulasan atau review juga telah diberikan oleh para pengguna yang telah mendownload aplikasi Super. Disadari atau tidak, opini-opini/ulasan pelanggan yang diberikan pada Google play, sedikit atau pun banyak, akan memberikan pengaruh pada calon pelanggan. Berdasarkan permasalahan yang terjadi, maka dalam penelitian ini akan dilakukan penerapan program peringkasan teks pada review Aplikasi Super dengan implementasi metode MMR dan TF-IDF, agar dari banyaknya jumlah review yang ada, dapat diekstrak beberapa kalimat penting saja, agar proses pengambilan kesimpulan akan menjadi lebih mudah. Hasil penelitian menggunakan metode MMR menghasilkan nilai rata-rata presisi 40,4% pada 3 kali percobaan, dan dengan nilai presisi tertinggi yaitu 60,4% pada percobaan menggunakan nilai parameter 𝜆 = 0,7.",
+  "creators": "DION ALEXANDER LOUIS",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Leo Willyanto Santoso (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1); Liliana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022149/INF/2022; Dion Alexander Louis (C14180034)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; INFORMATION RESOURCES MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "28010",
+  "title": "Implementasi ERP dengan software openERP pada perusahaan PT. Putra Sentosa",
+  "abstract": "Di era sekarang, bisnis skala menengah ke atas membutuhkan Enterprise Resource Planning dalam usaha untuk bisa bersaing dengan perusahaan lain PT. Putra Sentosa yang bergerak di bidang distributor import mesin pembungkus dan pemroses makanan, serta pemrosesan kayu ingin mengembangkan proses bisnis dengan ERP. ERP merupakan pengembangan dari MRP (Manufacturing Resource Planning) yang berfokus pada manufaktur. Software ERP yang digunakan pada implementasi ini adalah openERP. OpenERP digunakan karena dapat dicustomasi sesuai kebutuhan user dengan pemrograman Python dan XML. Selain itu, openERP juga tersedia dalam web sehingga server openERP dapat diakses langsung dengan web tanpa menggunakan client. Perusahaan PT. Putra Sentosa ingin mengimplementasikan proses bisnis dengan openERP pada perusahaan. Implementasi openERP dilakukan dengan menambahkan modul akuntansi, penjualan, pembelian, warehouse, hr_payroll, dan manufacture_repair. Implementasi juga dilakukan dengan modifikasi data kota yang dapat dipilih secara list dan update mata uang secara otomatis. Pengujian implementasi dilakukan dengan input data yang diproses dan laporan. Dari hasil pengujian dan kuisoner, openERP dapat digunakan pada proses bisnis PT. Putra Sentosa",
+  "creators": "WIDY ANGJAYA",
+  "contributors": "Rudy Adipranata (Advisor 1); Yulia (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021216/INF/2013; Widy Angjaya (26407017)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); SOFTWARE ENGINEERING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8830",
+  "title": "Pengembangan sistem transmisi otomatis pada sepeda motor suzuki RC-100",
+  "abstract": "Seiiring dengan kemajuan teknologi di bidang otomotif, maka tidak menutup kemungkinan sistem transmisi konvensional pada kendaraan bermotor roda dua diganti dengan sistem transmisi otomatis agar mempermudah pengguna dan tidak mengabaikan kenyamanan dalam berkendara. Pengembangan Sistem Transmisi Otomatis Pada Sepeda Motor ini bertujuan mengganti sistem transmisi konvensional pada sepeda motor menjadi otomatis, dengan menggunakan mikrokontroler sebagai otak utama dalam sistem. Mikrokontroler ATMEL 89C51 menerima pulsa dari sensor putaran roda sepeda motor sebagai acuan untuk menggerakkan motor DC sebagai pengubah gigi transmisi. Pada sistem ini sudah ditentukan untuk gigi 1 bekerja pada kecepatan 0 ? 18 Km/h, gigi 2 bekerja pada kecepatan 19 ? 37 Km/h, gigi 3 bekerja pada kecepatan 38 ? 60 Km/h, dan gigi 4 bekerja pada kecepatan 60 Km/h ke atas. Dari percobaan yang telah dilakukan didapatkan bahwa respon dari sistem transmisi otomatis ini lebih lambat dibandingkan sistem transmisi manual. Hal ini dapat dibuktikan untuk mencapai kecepatan dari 0 sampai 60 Km/h pada jalan lurus sistem transmisi otomatis memerlukan waktu 14,73 detik, sedangkan untuk sistem transmisi manual memerlukan waktu 13,59 detik.",
+  "creators": "HERI SUTANTO",
+  "contributors": "Felix Pasila (Advisor 1); Joni Dewanto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/596/ELK/2003; Heri Sutanto (23498042)",
+  "subjects": "MOTORCYCLES-TRANSMISSION DEVICES, AUTOMATIC"
+}

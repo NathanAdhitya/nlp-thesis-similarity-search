@@ -1,0 +1,14 @@
+{
+  "id": "13943",
+  "title": "Perencanaan dan pembuatan temperatur kontrol dengan kontrol pid dan auto tuning menggunakan metode Ziegler-Nichols berbasis MCS-51",
+  "abstract": "Melihat perkembangan teknologi yang semakin maju dibidang industri semakin dituntut suatu peralatan kontrol yang serba automatik. Dengan hanya menekan beberapa tombol kita dapat mengontrol suatu \"plant\" dengan perfomance yang tinggi. Hal ini mungkin terjadi karena kita dapat melakukan proses \"learning\" dari tingkah laku suatu plant untuk mendapatkan hasil pengontrolan yang baik. Salah satu contoh proses \"learning\" adalah pengontrolan suhu zat cair pada sistem stirrer (pengaduk). Pengontrolan suhu zat cair pada sistem stirrer ini, menggunakan mikrokontroler 8052-AH BASIC untuk memproses perhitungan matematis kontrol PID dan memprediksikan harga Kp,Ki dan Kd dari proses \"learning\". Konstanta-konstanta PID yang diperoleh dari proses \"learning\" kemudian dima-sukkan ke persamaan PID yang selanjutnya mengontrol suhu plant pada harga setting point yang kita kehendaki. Untuk interfacing digunakan Rangkaian Pengkondisi Sinyal (RPS) yang menghasilkan sinyal yang sesuai dan Analog to Digital Converter (ADC) yang mengkonversikan data analog ke digital. Secara keseluruhan sistem pengontrolan ini cukup baik dalam pemanfaatannya dan dapat dikembangkan untuk pengontrolan jenis plant lainnya.",
+  "creators": "HARDJOSUGITO JUSUF",
+  "contributors": "SOETIKNO (Advisor 1); BENJAMIN FLEMING INTAN (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/034/0155; Hardjosugito Jusuf (23488060)",
+  "subjects": "TEMPERATURE CONTROL-EQUIPMENT AND SUPPLIES-COMPUTER PROGRAMS; AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

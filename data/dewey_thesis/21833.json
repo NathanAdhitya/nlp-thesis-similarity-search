@@ -1,0 +1,14 @@
+{
+  "id": "21833",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada UD. Mega Jaya Sentosa Electric",
+  "abstract": "UD. Mega Jaya Sentosa Electric merupakan usaha dagang listrik yang terletak di Surabaya, Jawa Timur dan menjual alat-alat listrik, lampu, kabel dan panel. Pencatatan transaksi masih dilakukan secara manual, sehingga sering terjadi kesalahan penulisan. Hal ini mengakibatkan sulitnya mengetahui berapa besar keuntungan yang didapatkan. Selain itu, perusahaan ini tidak melakukan pencatatan stok barang. Tidak adanya pencatatan persediaan barang mengakibatkan sering terjadi penumpukan stok ataupun kehabisan stok. Sistem informasi administrasi ini, diharapkan dapat membantu UD. Mega Jaya Sentosa Electric dalam mencatat transaksi pembelian dan penjualan, sehingga dapat meminimalkan adanya kesalahan yang timbul akibat pencatatan aktivitas pembelian dan penjualan secara manual pada UD. Mega Jaya Sentosa Electric. Rancangan desain sistem meliputi sistem pembelian, penjualan, pencatatan stok. Semua sistem tersebut dirancang dengan Data Flow Diagram dan Entity Relationship Diagram. Pembuatan program ini menggunakan bahasa pemrograman Delphi. Proses penyimpanan data, digunakan database MySQL. Program yang dibuat, menghasilkan laporan-laporan yang berguna untuk dapat melihat transaksi yang telah dilakukan pada periode tertentu. Dari hasil implementasi dan pengujian sistem, program yang dibuat dapat menghasilkan fitur penjualan, pembelian, retur penjualan, retur pembelian sehingga fitur-fitur yang terdapat pada program dapat membantu dalam melakukan proses transaksi pembelian dan penjualan. Kebutuhan akan perusahaan ini juga telah terpenuhi melalui laporan penjualan, laporan pembelian, laporan laba rugi, dan laporan stok barang yang dihasilkan oleh program.",
+  "creators": "CLAUDIA MEILANI SANTOSO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Alexander Setiawan (Advisor 2); Arlinah Imam Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020975/INF/2011; Claudia Meilani Santoso (26406088)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; MYSQL (COMPUTER PROGRAM)"
+}

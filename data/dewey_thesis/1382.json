@@ -1,0 +1,14 @@
+{
+  "id": "1382",
+  "title": "Perencanaan dan pembuatan odometer kendaraan dengan mikrokontroler mcs51",
+  "abstract": "Meski kendaraan bermotor bukan merupakan kebutuhan pokok, hampir semua orang menggunakannya. Kendaraan bermotor perlu dirawat agar tidak mudah rusak. Akan tetapi tidak semua orang ingat waktu perawatan kendaraan bermotor. Untuk mencegah kerusakan maka diperlukan suatu sistem yang dapat mengingatkan pengguna kendaraan. Pada umumnya waktu perawatan kendaraan dilihat dari jarak yang ditempuh. Untuk itu digunakan mikrokontroler AT89C52 dan optocoupler. Dengan mengkonversi putaran menjadi jarak, maka waktu perawatan dapat diketahui. Apabila sudah mendekati waktu perawatan, maka akan diberikan suatu peringatan. Sistem ini juga dilengkapi dengan jam dan memory yang digunakan untuk menyimpan data-data perawatan yang dilakukan. Odometer ini memiliki dimensi 16,6 cm x 11,2 cm x 5,1 cm dengan berat 273,5 gram dan menggunakan baterai 12V. Odometer ini mampu mengukur jarak hingga 999.999.999,9 km dan kecepatan (0 km/jam sampai 250 km/jam).",
+  "creators": "JAJA WIJAYA GUNTORO",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/644/ELK/2003; Jaja Wijaya Guntoro (23498144)",
+  "subjects": "MICROCONTROLLER MCS 51; SPEEDMETERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "29254",
+  "title": "Analisa tekno-ekonomis dari simulasi pemanfaatan pembangkit hybrid micro off grid wind turbine-photovoltaic",
+  "abstract": "Pada pembuatan tugas akhir kali ini, penulis akan menganalisa segi teknis dan segi ekonomis dari simulasi pembangkit hybrid micro off-grid dari pembangkit jenis Renewable Energy yaitu Wind Turbine dan Photovoltaic menggunakan software HOMER dan RETSCreen. Sebagai pendukung analisa, maka ditetapkan daya yang harus dipenuhi oleh sistem pembangkit adalah sebesar 864 W. Konfigurasi sistem yang dipilih adalah konfigurasi yang mempunyai biaya energi (COE) yang terendah Equity dan Simple payback yang berjangka waktu terendah. Konfigurasi sistem paling optimal yang dihasilkan oleh software HOMER dan RETScreen adalah konfigurasi dengan photovoltaic dengan kapasitas sebesar 5 kW dan turbin angin sebanyak 3 unit. Konfigurasi tersebut memiliki nilai COE sebesar 0,614 $/kWh, dengan initial cost sebesar $ 22.479, nilai NPC sebesar $ 22.678, jangka waktu simple payback 7,9 tahun, equity payback selama 6,6 tahun dan nilai IRR sebesar 17%. Serta memiliki kelebihan daya sebesar 10.830 kWh. Masing-masing software memiliki kelebihannya masing-masing, jika HOMER mempertimbangkan dengan seksama data iklim cuaca dalam melakukan analisa sehingga HOMER memiliki hasil analisa yang lebih akurat dalam menghitung sisi teknis proyek. Sementara RETScreen dapat memberikan analisa berapa lama jangka waktu pengembalian modal dari investasi yang tidak dapat dilakukan HOMER. Jika proyek ini ingin dilaksanakan di wilayah Surabaya, maka akan lebih tepat jika perhitungan teknis dilakukan menggunakan HOMER dan ekonomis menggunakan RETScreen.",
+  "creators": "IRIANTO SUBRATA OTTONG",
+  "contributors": "Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 1); Murtiyanto Santoso (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010628/ELK/2013; Irianto Subrata Ottong (23407019)",
+  "subjects": "RENEWABLE ENERGY SOURCES; ELECTRIC POWER-PLANTS; ELECTRIC GENERATORS"
+}

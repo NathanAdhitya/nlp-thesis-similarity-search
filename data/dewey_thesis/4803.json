@@ -1,0 +1,14 @@
+{
+  "id": "4803",
+  "title": "Sistem kendali plc jarak jauh via SMS",
+  "abstract": "Dewasa ini pengontrolan PLC jarak jauh menjadi alternatif untuk efisiensi dalam manufakturing. Perkembangan teknologi komunikasi yang pesat mendukung kemajuan dalam pengontrolan. Sistem kendali jarak jauh untuk PLC ini merupakan suatu alat yang menjembatani komunikasi PLC dengan telepon seluler. Alat ini menyediakan akses kontrol PLC jarak jauh dengan kemudahan akses dari berbagai tempat dan memiliki biaya murah. Tugas akhir ini memberi ide bagaimana mengendalikan PLC dari jarak jauh via SMS dengan sistem ini. Sistem ini diimplementasikan mikrokontroler keluarga AVR untuk mengendalikan telepon seluler, mengolah data SMS dan meneruskan perintah dari pengirim SMS ke PLC serta meneruskan respon PLC ke pihak pengirim. Perintah yang diberikan dapat berupa perintah untuk membaca maupun menulis data ke PLC dan perintah sistem. Sedangkan respon dari PLC sendiri berupa data yang dapat dibaca dan mengendalikan plant secara sederhana. Hasil pengujian sistem menunjukan adanya kinerja yang baik dari sistem ini dalam mengendalikan PLC dari jarak jauh dengan sarana SMS.",
+  "creators": "DANIEL IFIANTO",
+  "contributors": "Resmana Lim (Advisor 1); Thiang (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010693/ELK/2004; Daniel Ifianto (23499060)",
+  "subjects": "DIGITAL COMMUNICATION; GLOBAL POSITIONING SYSTEM-COMPUTER PROGRAMS"
+}

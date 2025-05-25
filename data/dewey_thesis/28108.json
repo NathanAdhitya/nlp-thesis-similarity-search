@@ -1,0 +1,14 @@
+{
+  "id": "28108",
+  "title": "Website penelusuran artikel jurnal ilmiah dengan memanfaatkan parscit, google scholar API dan mendeley API",
+  "abstract": "Jurnal ilmiah berperan penting sebagai referensi bagi banyak orang ketika melakukan sebuah penelitian. Hal ini disebabkan karena jurnal ilmiah memaparkan suatu pembahasan secara ilmiah yang dilakukan oleh penulis atau peneliti untuk membagikan suatu hal secara logis dan sistematis kepada para pembacanya. Banyak perusahaan besar seperti Google, Mendeley, Endnote, Refworks, Zotero membuat sebuah website untuk menampung semua jurnal yang dipublikasi. Namun setiap website memiliki koleksi dan kapasitas jurnal yang berbeda-beda. Oleh karena itu, pada skripsi ini dibuat sebuah website yang berguna untuk mencari koleksi jurnal yang sesuai dengan kebutuhan. Skripsi ini dibuat untuk mengefisienkan pencarian jurnal ilmiah yang ada di Mendeley dan Google Scholar dengan memanfaatkan data paper hasil ekstraksi sitasi ParsCit. Aplikasi website ini dibuat menggunakan Hypertext Preprocessor (PHP) sebagai bahasa pemrograman dan MySQL sebagai database server. Dari hasil pengujian, dapat diketahui bahwa proses pencarian paper di Mendeley mendapatkan hasil yang lebih banyak dibandingkan dengan proses pencarian paper di Google Scholar. Hal ini disebabkan karena Mendeley menyediakan API untuk akses data paper, sedangkan Google Scholar tidak menyediakan API untuk akses data.",
+  "creators": "INDRA RUSLAN",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Resmana Lim (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021238/INF/2013; Indra Ruslan (26409094)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

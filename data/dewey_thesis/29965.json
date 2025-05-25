@@ -1,0 +1,14 @@
+{
+  "id": "29965",
+  "title": "Rancang bangun sales force automation berbasis android di PT X",
+  "abstract": "Dalam menjalankan proses penjualan, PT X melakukan proses pemasukan data secara manual. Saat di lapangan, Sales Force harus mencatat pesanan dari para customer secara manual, dan nantinya memasukkan ulang dalam bentuk data di kantor pusat. Proses penyalinan data yang berulang menyebabkan data rentan terhadap kesalahan ketik dan tidak up-to-date karena menunggu kepulangan Sales Force yang berminggu-minggu. Permasalahan lain yaitu banyaknya kertas yang terbuang dalam proses penjualan, seperti SO dan Invoice. Di samping itu, PT X juga membutuhkan dukungan dokumen yang lengkap yang dapat digunakan oleh Sales Force untuk memenuhi kebutuhan informasi customer. Dalam penelitian ini dipilihlah software Sales Force Automation (SFA) yang bekerja secara online sebagai solusi yang dapat membantu mengotomasi data penjualan. Untuk penyediaan dokumen, dikarenakan ada banyak dokumen yang harus disediakan, maka dibuatlah taksonomi bisnis untuk dokumen-dokumen tersebut. Dikarenakan software menuntut untuk dapat diakses di mana pun dan kapan pun, dipilihlah Android sebagai hardware-nya. Hasil yang diperoleh antara lain program bisa menampilkan, membuat, mengubah, dan menghapus data yang dibutuhkan dalam sistem penjualan serta knowledge base pada PT X. Program admin mendukung pembuatan penilaian kerja untuk Sales Force, notifikasi, pengkalkulasian perbandingan omzet dan target serta komisi Sales Force, dan lain-lain. Program SFA memungkinkan Sales Force membuat SO yang melalui verifikasi pada customer via SMS Gateway sebelum masuk ke database perusahaan, membuat penjadwalan, dan lain-lain.",
+  "creators": "GLENDA SOGO FANRENSEN",
+  "contributors": "Yulia (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021286/INF/2014; Glenda Sogo Fanrensen (26410072)",
+  "subjects": "APPLICATION SOFTWARE-DEVELOPMENT; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (COMPUTER PROGRAM)"
+}

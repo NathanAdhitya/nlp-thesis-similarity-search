@@ -1,0 +1,14 @@
+{
+  "id": "1366",
+  "title": "Kios sms dan ringtones",
+  "abstract": "Handphone selain sebagai sarana komunikasi, banyak feature-feature yang diberikan (SMS, ringtones, dll), dan harga yang tidak terlalu mahal, sehingga handphone semakin diminati oleh banyak orang. Pada type handphone tertentu; jumlah ringtones terbatas dan fasilitas compose ringtones tidak tersedia, sehingga tidak dapat mengubah / menambah ringtones yang ada. Maka dari itu timbul ide untuk merancang sistem kios SMS dan ringtones yang dapat dipasang di tempat umum. Dengan memasukkan coin jenis tertentu pada coin box maka user dapat melakukan proses SMS maupun ringtones. Sistem ini menggunakan handphone Nokia 6110 yang dihubungkan dengan mikrokontroler (AT89C52), dan menggunakan coin detector untuk biaya pengiriman SMS maupun ringtones. Mikrokontroler akan mengolah data SMS / ringtones untuk siap dikirim ke nomor handphone yang dituju, juga mengolah data yang di dapat dari SMS yang masuk, untuk ditampilkan pada LCD. Kios SMS dan ringtones yang telah dibuat pada tugas akhir ini, memiliki keuntungan yaitu sistem yang portable, dengan ukuran relatif kecil, dan dapat mengirimkan SMS atau menerima SMS (maksimal 160 character) dari semua type HP GSM. Dalam pengiriman ringtones (terdapat 10 judul ringtones), sistem ini baru dikembangkan untuk dikirimkan ke handphone jenis Nokia.",
+  "creators": "OLIVIA SETIAWAN",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/648/ELK/2003; Olivia Setiawan (23499020)",
+  "subjects": "INTERNET (COMMPUTER NETWORK); MICROCONTROLLERS"
+}

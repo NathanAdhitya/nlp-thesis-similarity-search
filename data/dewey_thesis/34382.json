@@ -1,0 +1,14 @@
+{
+  "id": "34382",
+  "title": "Sistem kendali akses ruangan menggunakan pengenalan citra wajah",
+  "abstract": "Pengenalan citra wajah merupakan salah satu dari sekian banyak penelitian yang saat ini masih berkembang dan diterapkan pada berbagai bidang, terutama untuk badan penegak keamanan. Pengenalan wajah dapat dipelajari karena terdapat berbagai macam sumber yang sifatnya terbuka, seperti OpenCV dan EmguCV. Sistem kendali akses ruangan menggunakan pengenalan citra wajah merupakan tugas akhir yang memanfaatkan library dari EmguCV. Webcam pada sistem digunakan sebagai sensor. Tugas akhir ini diimplementasikan pada ruangan asisten laboratorium elektronika Universitas Kristen Petra untuk sistem keamanan. Metode PCA menghasilkan tingkat keberhasilan 70% dan metode LDA 97%, akan tetapi metode LDA memakan waktu ±20 detik untuk memuat hasil pelatihan data, sedangkan PCA ±4,9 detik, sehingga metode PCA diterapkan pada sistem. Bukan pengguna yang mengakses ruangan 100% tidak dikenali. Penambahan lampu LED diperlukan agar wajah terlihat jelas. Sistem dapat membedakan wajah yang dibaca langsung maupun dari tablet. Arduino berhubungan dengan komputer untuk membuka kunci bila wajah dikenali.",
+  "creators": "FRANS KRISTIAN R",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010945/ELK/2015; Frans Kristian Rotinsulu (23411016)",
+  "subjects": "SOFTWARE ENGINEERING; PROGRAMMING (ELECRONIC COMPUTERS); PATTERN RECOGNITION SYSTEM"
+}

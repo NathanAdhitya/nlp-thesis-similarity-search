@@ -1,0 +1,14 @@
+{
+  "id": "16156",
+  "title": "Studi penggunaan differential relay mrd1-tseg yang diaplikasikan pada gangguan hubung singkat pada transformator daya 3,3 kva, 50 hz",
+  "abstract": "Gangguan hubung singkat yang terjadi pada transformer merupakan suatu masalah yang kerap kali terjadi pada suatu sistem distribusi dan jaringan transmisi dan seringkali kita temui bahwa gangguan tersebut berakibat dengan rusaknya transformer. Oleh karena itu pengaman transformer mutlak diperlukan untuk mengatasi gangguan hubung singkat pada transformer. Relay Differential MRD1-T adalah salah satu pengaman transformer yang selektif, yang dilengkapi event recorder untuk menyimpan semua data pengoperasian dan data gangguan. Ketika trip terjadi fault recorder merekam semua data gangguan pada saat itu. Data pada recorder tersebut dapat ditampilkan pada display (hardware) atau komputer dalam bentuk data melalui program HTL/PL-Soft3. Metoda yang digunakan adalah menghubungkan secara langsung terminal transformator didalam zona proteksi sehingga kita akan dapat mengetahui respon dari differential relay tersebut Dalam tugas akhir ini akan dianalisa penggunaan MRD1-T pada 3 transformer 1 phasa 3,3 KVA, 220/127 V. Melalui alat ukur akan dimonitor bagaimana respon differential relay MRD1-T terhadap hubung singkat yang dialami oleh transformator sehingga besarnya arus hubung singkat dapat dibaca dan dianalisa sehingga kita dapat mengetahui bahwa differential tersebut dapat bekerja dengan baik. Simulasi hubung singkat yang dilakukan dalam zona proteksi dari differential relay MRD1-TSEG pada sisi primer akan mengakibatkan differential relay trip dalam waktu enam detik dengan besar arus gangguan antar phasa adalah 12,9 ampere ( phasa R-S ), 15,1 ampere ( phasa R-T), dan 13,1 ampere ( phasa S-T) Simulasi hubung singkat yang dilakukan dalam zona proteksi dari differential relay MRD1-TSEG pada sisi sekunder akan mengakibatkan differential relay trip dalam waktu enam detik dengan besar arus gangguan antar phasa adalah 5,1 ampere ( phasa R-S), 4,8 ampere ( phasa R-T) dan 4,4 ampere ( phasa S-T) Simulasi hubung singkat yang dilakukan di luar zona proteksi dari MRD1-TSEG tidak mengakibatkan differential relay trip.",
+  "creators": "FRENKY SITANAYA",
+  "contributors": "Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 1); Limboto Limantara (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/TST/031/414; Frenky Sitanaya (23497023)",
+  "subjects": "ELECTRIC RELAYS; ELECTRIC TRANSFORMERS"
+}

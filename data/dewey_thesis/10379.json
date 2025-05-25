@@ -1,0 +1,14 @@
+{
+  "id": "10379",
+  "title": "PID controller training kit",
+  "abstract": "Ada dua metode untuk mendapatkan parameter PID, auto tuning dan trial & error. Metode trial & error membutuhkan pemahaman terhadap pengaruh masing-masing gain. PID Controller Training Kit mengadopsi metode trial & error, karena pada sistem ini, nilai dari parameter gain proportional, gain integral, dan gain derivative dapat dirubah oleh pengguna. Hardware (plant) kontrol posisi terdiri dari, motor sebagai penggerak, rotary encoder sebagai sensor, dan pointer sebagai penunjuk sudut. Hardware ini dihubungkan ke PC melalui parallel port dan dikendalikan oleh software khusus. Software ini dilengkapi dengan hasil response, seperti PV, Rise Time, Overshoot, dan Steady State Error. Grafik percobaan sebelumnya dapat dibandingkan dengan grafik percobaan berikutnya. Fasilitas grafik meliputi Copy, Save Image As, Page Setup, Print, Show Point Values, Un-Zoom, Undo All Zoom/Pan, and Set Scale to Default. Berdasarkan percobaan respons terbaik pada set point 90 degrees dengan parameter KP = 2.833, KI = 1.1, KD = 0.019, menghasilkan respons dengan rise time = 0.69 second, maximum overshoot = 0 %, steady state error = 0 degrees. Semakin besar set point, semakin sulit untuk mendapatkan respons yang baik, sehingga semakin dibutuhkan ketiga komponen gain, juga semakin sulit untuk mendapatkan komposisi gain yang tepat, karena dibutuhkan ketiga komponen gain untuk di tuning. Gain proportional mengurangi steady state error, gain integral menghilangkan steady state error. Gain proportional dan gain integral bila terlalu besar, akan menyebabkan respons berosilasi sedangkan gain derivative mampu meredam osilasi.",
+  "creators": "BOBY ANDRYANTO",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010846/ELK/2007; Boby Andryanto Kwary (23402088)",
+  "subjects": "PID CONTROLLERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "48354",
+  "title": "Klasifikasi topik dan analisa sentimen terhadap kuesioner umpan balik unversitas menggunakan metode Long Short-Term Memory",
+  "abstract": "Dalam melakukan evaluasi dan peningkatan mutu terhadap layanan dan fasilitas, Universitas Kristen Petra (UKP) melakukan pengambilan kuesioner umpan balik yang diberikan pada mahasiswa secara online. Pada saat ini, dalam membaca komentar yang ada di kolom saran masih dilakukan secara manual. Sehingga hal tersebut menjadi kurang efektif dan efisien dalam menganalisa sentimen dan mengklasifikasikan topik banyakkomentar.Dalam penelitian ini akan menerapkan metode word2vec dan Long Short-Term Memory untuk membantu mengklasifikasikan topik dan analisa sentimen dengan lebih efektif dan efisien. Word2vec digunakan sebagai metode untuk mengubah suatu kata menjadi vektor beserta dengan pemetaan makna kata yang ada. Dengan parameter yang diuji pada word2vec adalah jumlah iterasi dan ukuran windows. Sedangkan metode Long Short-Term Memory digunakan untuk melakukan klasifikasi sentimen dan topik. Dengan parameter yang diuji adalah jumlah layer, jumlah unit, ukuran batch, dan persentase dropout. Hasil dari penelitian ini menunjukan bahwa metode word2vec beserta dengan Long Short-Term Memory dapat digunakan untuk menganalisa sentimen dan klasifikasi topik. Dengan hasil konfigurasi terbaik didapatkan nilai rata – rata akurasi terbaik pada implementasi klasifikasi sentimen sebesar 89,16 % dan untuk implementasi klasifikasi topik sebesar 92,98 %.",
+  "creators": "DOENNY AUDDY LIONOVAN",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Rolly Intan (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021995/INF/2020; Doenny Auddy Lionovan (26416019)",
+  "subjects": "ALGORITHMS; COMPUTER ALGORITHMS; DATABASE MANAGEMENT--COMPUTER PROGRAMS"
+}

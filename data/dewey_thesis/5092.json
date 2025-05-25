@@ -1,0 +1,14 @@
+{
+  "id": "5092",
+  "title": "Aplikasi embedded internet pada vending machine menggunakan Rabbit Microprocessor RCM3200",
+  "abstract": "Vending Machine adalah sebuah mesin minuman yang beroperasi standalone untuk melayani pembelian minuman. Namun vending machine konvensional yang beredar memiliki kekurangan, yaitu administrator tidak mempunyai informasi yang up to date. Untuk mengatasi masalah itu, dalam tugas akhir ini akan dibangun embedded vending machine yang dapat berfungsi seperti sebuah vending machine konvensional dan dapat berkomunikasi dengan server melalui jaringan internet. Sistem embedded vending machine terdiri dari 2 bagian, yaitu vending machine yang terhubung pada modul RabbitCore dan komputer admin. Software yang digunakan pada modul RabbitCore adalah Dynamic C (yang menggunakan bahasa pemrograman C). Pada komputer admin digunakan Apache Web Server, PHP dan MySQL database server. Program pada modul RabbitCore digunakan untuk menangani semua layanan pada vending machine dan menjadikan sebagai client yang dapat berkomunikasi dengan server. Pada komputer admin digunakan PHP untuk pemrograman socket dan koneksi dengan database MySQL. Hardware vending machine terdiri dari 1 buah keypad 4x4, 1 buah modul LCD, 1 buah rangkaian sensor suhu dan driver solenoid. Hardware pada admin adalah sebuah PC yang terhubung dengan jaringan internet. Pengujian dilakukan secara software dan hardware untuk mendapatkan semua hasil-hasil yang diinginkan secara benar. Sehingga dapat ditarik kesimpulan, bahwa embedded vending machine menggunakan Rabbit Microprocessor RCM3200 dapat memecahkan masalah yang dihadapi pada vending machine konvensional di dalam hal mendapatkan informasi mesin yang up to date seperti data suhu dan transaksi.",
+  "creators": "HENDRAWAN",
+  "contributors": "Resmana Lim (Advisor 1); Lauw Lim Un Tung (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 03010007/ELK/2004; Hendrawan (23400163)",
+  "subjects": "VENDING MACHINES; RABBITCORE RCM/3200"
+}

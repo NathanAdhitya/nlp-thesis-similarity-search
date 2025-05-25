@@ -1,0 +1,14 @@
+{
+  "id": "49236",
+  "title": "Pemrograman metode elemen hingga untuk balok Timoshenko di atas pondasi elastis termasuk gaya aksial",
+  "abstract": "Metode Elemen Hingga adalah metode numerik untuk menyelesaikan persoalan analisis struktur, baik berupa beban static maupun dinamik, bergeometri sederhana maupun kompleks, ataupun model struktur berdimensi satu, dua dan tiga. Konsep balok di atas pondasi elastis secara luas digunakan dibidang geoteknik untuk rancangan pondasi dan analisis. Pemrograman metode elemen hingga untuk balok di atas pondasi elastis disederhanakan dengan mengabaikan gaya aksial (Nx=0) pada perumusan. Rumus – rumus tersebut akan mengeluarkan hasil berupa displacement (d), gaya geser (V) dan momen (M). Hasil dari program tersebut dibandingkan dengan hasil dari literature dan didapatkan nilai error dalam %.",
+  "creators": "YUSAK HARTANTO TEDJO",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Joko Purnomo S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012444/SIP/2021; Yusak Hartanto Tedjo (21413060)",
+  "subjects": "BEAM DYNAMICS; GIRDERS; STRAINS AND STRESSES"
+}

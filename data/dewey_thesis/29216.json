@@ -1,0 +1,14 @@
+{
+  "id": "29216",
+  "title": "Perancangan dan pembuatan aplikasi pengenalan nada dasar dan melodi pada sebuah file lagu monophonic",
+  "abstract": "Musik telah digemari di seluruh dunia. Untuk belajar musik, banyak orang yang memerlukan kursus untuk mempelajarinya. Sedangkan untuk orang yang mempelajari sendiri sering terjadi kesulitan saat menentukan melodi dan nada dasar. Aplikasi ini menyediakan fitur untuk mengenali nada dasar dan melodi dari sebuah file lagu monophonic dan menampilkannya dalam bentuk tabel. Dengan sebuah input file wav, aplikasi akan menggunakan Harmonic Product Spectrum untuk pitch detection dan menghasilkan nada dasar dan melodi dalam bentuk tabel. Adapun aplikasi ini dirancang untuk beroperasi pada operating system Windows. Berdasarkan hasil pengujian, aplikasi ini dapat berjalan dengan baik pada file rekaman alat musik yang menghasilkan nada yang konstan dan kualitas suara yang baik.",
+  "creators": "YANUAR CHRISTIAN ARDIANTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021279/INF/2013; Yanuar Christian Ardianto (26409123)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

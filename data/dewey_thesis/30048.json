@@ -1,0 +1,14 @@
+{
+  "id": "30048",
+  "title": "Peramalan harga emas dunia dengan menggunakan multivariate time series",
+  "abstract": "Emas merupakan salah satu komoditas primadona dan alternatif investasi yang sangat populer. Harga emas diduga dipengaruhi oleh beberapa faktor lain seperti US Dollar, harga minyak, tingkat inflasi, dan bursa saham sehingga pemodelan harga emas tidak hanya dipengaruhi oleh nilainya sendiri. Penelitian ini dilakukan untuk menentukan model peramalan terbaik serta mengetahui faktor-faktor apa yang berpengaruh terhadap harga emas. Penelitian ini memodelkan harga emas secara multivariat dan mengkaji ulang pemodelan univariat yang akan dipergunakan sebagai model pembanding dari pemodelan multivariat. Pemodelan univariat dilakukan menggunakan model ARIMA dimana hasil pemodelan menyatakan bahwa fluktuasi harga emas sebagai white noise. Pemodelan harga emas secara multivariat dilakukan menggunakan Vector Error Correction Model dengan harga emas, minyak, indeks US Dollar dan Dow Jones, serta tingkat inflasi sebagai prediktor. Hasil penelitian menunjukkan bahwa model VECM telah mampu memodelkan harga emas dengan baik dan semua faktor yang diteliti berpengaruh pada harga emas. US Dollar dan harga minyak berkorelasi negatif dengan harga emas, sementara tingkat inflasi berkorelasi positif dengan harga emas. Indeks Dow Jones berkorelasi positif dengan harga emas hanya pada 2 periode.",
+  "creators": "DAVID CHRISTIAN",
+  "contributors": "Siana Halim (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022039/IND/2017; David Christian (25413002)",
+  "subjects": "MULTIVARIATE ANALYSIS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "48825",
+  "title": "Penerapan probabilistic finite state machine pada AI musuh dalam game action RPG untuk membuat gerakan AI tidak monoton",
+  "abstract": "Game sudah sangat populer dan merupakan dari kehidupan manusia mulai dari anak-anak. Seiring berkembangnya zaman kebutuhan akan AI game yang tidak monoton menjadi semakin nyata, salah satu masalah yang membuat AI dalam game monoton adalah karena AI yang mengulang-ulang gerakan, oleh karena itu dibuatlah AI yang tidak mengulang-ulang gerakan dan dapat membuat pemain tidak bosan dengan gerakan yang diulang-ulang (spam) serta termotivasi untuk bermain. Penelitian sebelumnya sudah pernah dibuat namun dengan genre game yang berbeda dan teknik random yang berbeda. Game akan dikembangkan dengan metode Probabilistic finite state machine dan digabungkan dengan random shufflebag, Probability akan digunakan dalam memunculkan animasi gerakan sehingga animasi yang keluar tidak hanya satu dan random shufflebag akan digunakan dalam pemilihan gerakan sehingga gerakan yang keluar terbagi rata dan tidak diulang-ulang. Hasil dari pengujian menunjukkan bahwa AI tidak mengulang-ulang gerakan namun dapat mengulang pola gerakan, Masalah pengulangan pola dapat diselesaikan dengan adanya probability pada animasi yang keluar sehingga dengan pola yang sama gerakan yang dilihat pemain dapat berbeda.",
+  "creators": "NICOLAS WIYENDI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Liliana (Examination Committee 1); Agustinus Noertjahyana (Examination Committee 2); Hans Juwiantho, M. Kom. (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022019/INF/2021; Nicolas Wiyendi (26416088)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; COMPUTER GAMES--PROGRAMMING"
+}

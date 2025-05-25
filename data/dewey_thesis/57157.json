@@ -1,0 +1,14 @@
+{
+  "id": "57157",
+  "title": "Sistem back-end aplikasi layanan helpdesk pusat pengembangan sistem informasi untuk mendukung proses manajemen proyek dan evaluasi kinerja",
+  "abstract": "Pusat Pengembangan Sistem Informasi (PPSI) di Universitas Kristen Petra (UKP) bertanggung jawab untuk mengembangkan dan mengoperasikan Sistem Informasi di UKP. Mereka menyediakan layanan helpdesk kepada unit-unit di UKP agar dapat mengajukan tiket masalah melalui sistem manajemen proyek. Saat ini, pengajuan dan penyelesaian tiket dilakukan melalui dua situs web terpisah, yang dapat menyebabkan masalah sinkronisasi data. PPSI juga membutuhkan laporan kinerja yang dihasilkan dari penyelesaian tiket, namun sulit untuk menilai kinerja individu karena aplikasi yang terpisah. Oleh karena itu, telah dibuat sebuah sistem aplikasi Layanan Helpdesk yang baru yang menggabungkan semua fitur tersebut. Sistem ini menerima dan menyelesaikan tiket dari unit-unit dengan menggunakan proses manajemen proyek. Setelah penyelesaian tiket selesai, dilakukan evaluasi kinerja pegawai sebagai tolak ukur penyelesaian tiket. Penelitian ini menggunakan metode pengembangan API (Application Programming Interface) dengan framework Laravel, PostgreSQL untuk database, dan sistem dilengkapi beberapa fitur tambahan seperti cache dengan menggunakan File, fitur notifikasi e-mail serta pengunggahan file dan gambar dengan AWS (Amazon Web Services) semua fitur ini digunakan untuk membantu meningkatkan efisiensi dan alur dari sistem helpdesk. Terdapat pengujian seperti unit test dan load test, dimana API dari sistem dilakukan testing untuk melihat kesuksesan dan performa dari API yang menghasilkan hasil response dengan error rate sebesar 0,00% untuk pengujian dengan Apache JMeter dengan 50 concurrent user, serta error rate sebesar 14,20% - 23,04% untuk pengujian untuk kasus yang lebih berat dengan 500 concurrent user dengan perbedaan ramp-up time yang lebih tinggi. Maka dari itu, penelitian ini memberikan sebuah hasil sistem back-end untuk aplikasi Helpdesk PPSI Universitas Kristen Petra sesuai untuk menjawab permasalahan dari PPSI dalam segi menerima tiket, menyelesaikan tiket, dan menghasilkan evaluasi kinerja.",
+  "creators": "SERGIUS GEOFFREY HARYANTO",
+  "contributors": "Yulia (Advisor 1); Ivan Widiyanto S.Kom (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022328/INF/2023; Sergius Geoffrey Haryanto (C14190024)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); PROJECT MANAGEMENT--COMPUTER PROGRAMS; WEB SITES--DESIGN"
+}

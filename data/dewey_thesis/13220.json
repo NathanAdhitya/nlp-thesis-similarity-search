@@ -1,0 +1,14 @@
+{
+  "id": "13220",
+  "title": "Sistem pengembangan mikrokomputer serpih tunggal 8748",
+  "abstract": "Pemakaian mikroprosesor telah berkembang pesat dalam berbagai bidang, terutama dalam bidang industri. Pemakaian mikroprosesor berkaitan pula dengan IC-IC pendukungnya, baik memori (RAM dan ROM), I/O dan Iain-lain. Dalam bidang industri mikroprosesor banyak dipergunakan sebagai pengendali berbagai peralatan, sehingga banyaknya jumlah I/O lebih penting daripada jumlah memori yang besar. Untuk menghindari kerumitan hardware yang harus dibuat, diinginkan mikroprosesor yang telah dilengkapi dengan I/O yang dapat diperluas, memori secukupnya. dalam satu kemasan tunggal. Untuk memenuhi kebutuhan tersebut, maka lahirlah IC mikrokontroller / mikrokomputer. Ada bermacam-macam IC mikrokomputer yang mengguna-kan ROM sebagai penyimpan data atau program, salah satunya adalah IC mikrokomputer yang termasuk dalam keluarga MCS-48 yaitu mikrokomputer 8748. Mikrokomputer 8748 menggunakan EPROM (Erasable Programmable Read Only Memory) yang dapat diprogram sendiri oleh sipemakai dan bila sudah tidak diperlukan lagi datanya dapat dihapus dengan cara disinari dengan sinar UltraViolet. Untuk pengisian program di dalam EPROM dari 8748 diperlukan suatu peralatan programmer yang khusus digu-nakan untuk mikrokomputer 8748. Kemudian setelah EPROM dari 8748 tersebut terisi program/data, mikrokomputer tersebut dipasang pada sistem yang direncanakan dan selanjutnya dilakukan uji coba terhadap sistem tersebut. Apabila terjadi suatu kesalahan, maka program di dalam EPROM dihapus dan dilakukan pemrograman ulang. Namun dengan adanya Eprom Emulator 8748 ini diharapkan proses pengisian program ke EPROM 8748 dapat dilakukan seefisien mungkin yaitu satu kali pemrograman. Peralatan yang dibuat ini dapat digunakan untuk pemrograman mikrokomputer 8748H, 8748, 8749H dan 8749 serta dapat berfungsi sebagai rangkaian pengganti dari mikrokomputer 8748 dari sistem target yang menggunakan mikrokomputer tersebut.",
+  "creators": "HENRY LIMANTARA",
+  "contributors": "SOETIKNO (Examination Committee 1); HANDAYANI T. (Advisor 1); Caroline Chan (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 90/E/EL/014/0054; Henry Limantara (485024)",
+  "subjects": "MICROCONTROLLERS; ELECTRONIC DIGITAL COMPUTERS"
+}

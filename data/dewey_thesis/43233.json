@@ -1,0 +1,14 @@
+{
+  "id": "43233",
+  "title": "Sistem rekomendasi mata kuliah pilihan menggunakan metode user based collaborative filtering berbasis algoritma adjusted cosine similarity",
+  "abstract": "Sistem rekomendasi merupakan sistem yang memberikan rekomendasi pada suatu item yang dapat digunakan untuk membantu user dalam mengambil keputusan. Dalam perkuliahan, mahasiswa diwajibkan untuk mengambil keputusan akan mata kuliah pilihan yang harus diambil selama menjalani perkuliahan. Akan tetapi, tidak jarang banyak sekali mahasiswa yang kebingungan dalam menentukan mata kuliah pilihan yang harus diambil. Dengan demikian diperlukan suatu sistem yang dapat memberikan rekomendasi mata kuliah pilihan sehingga dapat membantu mahasiswa dalam pengambilan keputusan akan mata kuliah pilihan yang akan diambil. Salah satu metode yang sangat terkenal untuk dipergunakan pada sistem rekomendasi adalah Collaborative Filtering, dimana dalam metode ini dilakukan kalkulasi nilai kemiripan dari user yang akan diprediksi dengan user-user lainnya. Metode ini meggunakan Algoritma Adjusted Cosine Similarity dan K-Nearest Neighbors dalam menentukan user-user mana yang memiliki kemiripan terbaik dengan user sehingga dari data user-user inilah dapat dilakukan prediksi pada mata kuliah pilihan yang belum diambil oleh user. Hasil dari pengujian yang dilakukan, ditemukan algoritma Adjusted Cosine Similarity memiliki performa yang lebih dari dari Cosine Similarity dalam memberikan rekomendasi mata kuliah pilihan. Pada pegujian pada K-Nearest Neighbors, akurasi terbaik berada pada nilai variabel K=16 pada K-Nearest Neighbors dengan akurasi sebesar 89.31422 %.",
+  "creators": "GLENN FERIO FERNANTO",
+  "contributors": "Rolly Intan (Advisor 1); Silvia Rostianingsih (Advisor 2); Yulia (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021849/INF/2019; Glenn Ferio Fernanto (26415055)",
+  "subjects": "ALGORITHMS; DATABASE DESIGN; PROGRAMMING"
+}

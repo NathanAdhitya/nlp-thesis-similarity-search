@@ -1,0 +1,14 @@
+{
+  "id": "57161",
+  "title": "Topic modelling dan density-based clustering untuk anomaly detection pada transkrip diskusi terarah komunitas",
+  "abstract": "Diskusi terarah dalam Komunitas X adalah sebuah usaha yang dilakukan secara berkelompok oleh tim penyelenggara untuk membuat sebuah platform di mana anggota bisa berpendapat dan berdiskusi tentang topik-topik yang disediakan. Karena panjangnya pendapat beberapa peserta, notulis seringkali kehilangan fokus dan tidak mendokumentasikan pendapat peserta dengan baik dan harus melakukan parafrase yang berdasarkan sumber yang tidak lengkap, sehingga data yang dicatat tidak mencerminkan secara akurat pernyataan yang dikeluarkan oleh pembicara, dan mungkin mengandung bias, sehingga menghambat proses evaluasi. Penelitian ini bertujuan untuk membuat sebuah pipeline yang memastikan tertangkapnya pendapat setiap peserta diskusi dan menggunakan metode unsupervised learning untuk mencari dan mengidentifikasi anomali dalam data dengan cara mencari kombinasi-kombinasi parameter yang sesuai untuk mendapatkan anomali yang dimaksud. Digunakan word-embedding dan topic modeling sebagai metode feature extraction, serta density-based clustering, isolation forest, dan local outlier factor untuk melakukan anomaly detection. Ditemukan bahwa topic modeling dengan LDA dan density-based clustering dengan DBSCAN mampu mendeteksi kontribusi peserta diskusi yang tidak sesuai dengan topik dengan tingkat kesuksesan hingga 71,42%.",
+  "creators": "PETER YUDHISTIRA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022348/INF/2023; Peter Yudhistira (C14190067)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); ANOMALY DETECTION (COMPUTER SECURITY); DISCUSSION"
+}

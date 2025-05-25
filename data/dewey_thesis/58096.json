@@ -1,0 +1,14 @@
+{
+  "id": "58096",
+  "title": "Perbandingan metode multipack grey wolf optimizer dan grey wolf optimizer untuk penyelesaian masalah capacitated vehicle routing problem",
+  "abstract": "Capacitated Vehicle Routing Problem (CVRP) adalah suatu masalah yang muncul karena rute pengiriman barang yang menjadi semakin kompleks ketika titik yang perlu dikirim semakin banyak. Salah satu contoh CVRP pada dunia nyata adalah permasalahan yang dialami oleh e-commerce dalam pengiriman barang. Salah satu metode yang dapat diterapkan adalah menggunakan metode metaheuristik yang dapat menemukan hasil yang mendekati dari metode exact dengan waktu yang lebih singkat. Pada penelitian ini, CVRP akan coba diselesaikan dengan melakukan pendekatan cluster-first route-second. Untuk algoritma yang digunakan adalah Grey Wolf Optimizer (GWO) untuk pembuatan cluster dan Simulated Annealing untuk pembuatan rute. Selain itu GWO akan dikembangkan menjadi MultiPack Grey Wolf Optimizer (MPGWO) yang lebih mengikuti serigala di alam yang memiliki beberapa koloni dan saling berinteraksi. Hasil yang didapatkan pada penelitian ini adalah GWO maupun MPGWO memiliki potensial dalam penyelesaian CVRP. Dari segi hasil yang didapatkan, MPGWO dengan konfigurasi interaksi α, β, dan γ menggantikan tiga serigala secara acak dengan frekuensi yang semakin lama semakin sering dapat menghasilkan hasil yang lebih bagus. Tetapi penelitian lebih lanjut diperlukan untuk meningkatkan stabilitas hasil yang didapatkan oleh masing masing algoritma.",
+  "creators": "ALEXANDER THOMAS KURNIAWAN PRATOMO",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Doddy Prayogo S.T. (Advisor 2); Didik Wahjudi (Examination Committee 1); I Nyoman Sutapa (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01010021/MTI/2023; Alexander Thomas Kurniawan Pratomo (C23210003)",
+  "subjects": "COMPUTER ALGORITHMS; INDUSTRIAL MANAGEMENT; VEHICLE ROUTING PROBLEM"
+}

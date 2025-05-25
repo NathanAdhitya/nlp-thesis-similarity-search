@@ -1,0 +1,14 @@
+{
+  "id": "24779",
+  "title": "Robot dengan pemindah barang berbasis framework Emgu CV dan sensor Microsoft Kinect",
+  "abstract": "Dewasa ini, pesatnya perkembangan teknologi digitalberimbas pada kemudahan masyarakat saat ini untuk mengembangkan aplikasi robotika. Tugas Akhir ini mengangkat topik \"Robot Pemindah Barang Berbasis Framework Emgu CV dan Sensor Microsoft Kinect\". Topik ini dipilih dikarenakan sedang hangatnya pengembangan aplikasi-aplikasi berbasis Kinect pada saat Tugas Akhir ini ditulis. Penulis ingin menunjukkan bahwa sensor Kinect dapat berperan dengan baik pada pembuatan aplikasi robotika yang cukup rumit dimana data koordinat suatu benda perlu didapatkan oleh sistem. Tugas Akhir ini mengimplementasikan beberapa aspek penting dalam perkembangan teknologi robotika antara lain di bidang computer vision dan robot kinematics. Hasil pengujian Tugas Akhir ini menunjukkan bahwa aplikasi robot lengan pemindah barang dengan basis sensor Microsoft Kinectdan framework Emgu CV dapat bekerja dengan tingkat ketelitian 1 cm dan mampu memanipulasi posisi barang dalam batasan ruang kerja yang diberikan. Akan tetapi, dikarenakan limitasi pada sensor Kinect, sistem kesulitan untuk menentukan ketinggian benda.",
+  "creators": "PHOEN LEO MULYO SOESILO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010110/ELK/2012; Phoen Leo Mulyo Soesilo (23407024)",
+  "subjects": "ROBOTS-MOVEMENT; ROBOTICS"
+}

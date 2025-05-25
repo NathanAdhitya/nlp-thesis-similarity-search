@@ -1,0 +1,14 @@
+{
+  "id": "27982",
+  "title": "Pembuatan video mixer untuk dua input sinyal video",
+  "abstract": "Melihat perkembangan teknologi yang semakin maju dalam bidang informasi dan hiburan sekarang ini semakin dituntut suatu peralatan media yang menarik dan inovatif. Salah satu bentuk untuk menampilkan gambar yang variatif ialah dengan video mixer. Pada video mixer tersebut dapat ditampilkan beberapa macam pola pada layar dengan memanfaatkan gelombang referensi seperti parabola, ramp dan segitiga untuk mengatur pewaktuannya Video mixer yang dibuat di sini mampu untuk mengkombinasikan sebanyak 3 saluran input dan kemudian menghasilkan satu video output. Mixer tersebut hanya dapat mencampur dua saluran dari tiga yang ada dengan sebanyak 3 kombinasi yang mungkin. Mixer tersebut juga dibuat beberapa efek khusus seperti fade-in fade-out dan Superimpose efek. Video mixer tersebut bekerja dengan cara switching antara dua sinyal video yang akan dimix pada waktu pemayaran horisontal maupun pemayaran secara vertikal. Oleh karena hal tersebut diperlukan suatu input sinyal video yang ketiga-tiganya harus sinkron. Sebagai referensi bagi rangkaian untuk mengetahui waktu dari pemayaran horisontal maupun vertikal maka diperlukan sinyal sinkronisasi baik horisontal maupun vertikal yang diambil dari input video I. Secara keseluruhan alat tersebut cukup baik untuk menghasilkan efek gambar yang variatif dan dapat dikembangkan untuk efek-efek lain dengan mengubah data kontrolnya.",
+  "creators": "TENG FEI SEN",
+  "contributors": "IRWAN SAHLI (Advisor 2); MOCHAMAD HEROE (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/028/0185; Teng Fei Sen (23488039)",
+  "subjects": "VIDEO RECORDINGS"
+}

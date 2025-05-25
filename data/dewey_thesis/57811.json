@@ -1,0 +1,14 @@
+{
+  "id": "57811",
+  "title": "Peramalan permintaan dan perbaikan sistem FIFO untuk mengurangi keterlambatan pengiriman ekspor di PT ABC",
+  "abstract": "PT “ABC” merupakan perusahaan yang bergerak di bidang fast moving consumer good. Dalam melakukan pengiriman ekspor, perusahaan terkadang mengalami masalah dalam waktu pengiriman produk. Hal ini terlihat dari data yang didapat untuk pengiriman negara Vietnam di tahun 2022. Di tahun 2022, terdapat keterlambatan pengiriman pada bulan agustus, Oktober, dan November. Saat dilakukan pengamatan, ditemukan penyebab dari keterlambatan tersebut adalah kekurangan bahan duplex. Kekurangan bahan duplex tersebut disebabkan oleh tidak tepatnya forecast perusahaan dan data stok yang tidak sesuai karena sistem FIFO yang tidak berjalan dengan baik. Dari hal tersebut, dilakukan perancangan usulan untuk mengatasi masalah forecast perusahaan dan sistem FIFO. Beradasarkan data permintaan dari tahun 2018 hingga 2022 negara Vietnam, didapatkan metode forecast terbaik yaitu metode winter multiplicative. Metode ini memiliki memiliki nilai kesalahan sebesar 11.474 untuk MAD, 228.642 untuk MSE, dan 15.409% untuk MAPE. Perancangan usulan sistem FIFO dilakukan untuk mengurangi terjadinya human error saat melakukan input data dan mengambil bahan baku.",
+  "creators": "NICHOLAS RIYADI",
+  "contributors": "Herri Christian Palit (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022587/IND/2023; Nicholas Riyadi (C13190085)",
+  "subjects": "INDUSTRIAL MANAGEMENT; DELIVERY OF GOODS--MANAGEMENT"
+}

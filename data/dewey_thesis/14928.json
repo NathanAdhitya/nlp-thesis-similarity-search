@@ -1,0 +1,14 @@
+{
+  "id": "14928",
+  "title": "Perencanaan dan pembuatan linear current mode controller untuk test baterai, tegangan 12 V DC, daya 60 AH",
+  "abstract": "Dalam era informasi ini sangat dibutuhkan alat yang dapat membantu pekerjaan manusia dan sekaligus menyempur-nakannya, karena informasi yang tepat sangat dibutuhkan dalam pengambilan keputusan. Adapun alat yang direncana-kan pada tugas akhir ini digunakan untuk menguj i suatu baterai apakah dalam kondisi yang baik atau tidak. Baterai dikatakan baik bila AH efisiensi dan Watt efisiensinya tinggi. Kondisi baik atau tidaknya suatu baterai dapat diketahui dari test kapasitas baterai dengan cara melakukan pengisian dan pengosongan dengan arus konstan. Arus konstan ini dihasilkan dari rangkaian elektronik berupa Op-Amp sebagai komparator yang membandingkan arus pengujian dengan arus referensi. Output dari Op-Amp ini akan menggerakkan Power Mosfet dalam keadaan linear sesuai dengan sinyal tegangan yang diberikan oleh Op-Amp. Power Mosfet akan mengatur besarnya arus yang lewat sesuai dengan arus referensi yang telah ditentukan. Dengan demikian akan didapatkan arus yang relatif konstan pada saat proses pengisian dan pengosongan baterai. Pada saat pengujian berlangsung, dilakukan pengukur-an dengan bantuan personal komputer. Sistem pendataan tersebut menggunakan transducer, rangkaian pengubah analog ke digital, interface dan perangkat komputer. Transducer dapat mengubah besaran suhu dan besaran lis-trik (arus, tegangan) menjadi sinyal analog berupa te-gangan (0-5 Volt). Data analog tersebut diubah menjadi digital dengan menggunakan analog-digital converter (ADC0808) agar dapat diproses oleh mikroprosesor IBM-PC. Hubungan antara ADC0808 dan mikroprosesor IBM-PC dibutuh-kan interface (PPI 8255). Komputer diprogram dengan bahasa Turbo Pascal 7.0 sehingga dapat menampilkan dan menyimpan data yang diperlukan dalam proses pengukuran. Setelah dilakukan pengujian, maka didapatkan kesa-maan hasil pengukuran antara peralatan yang dibuat dengan hasil pengukuran menggunakan meter. Keuntungan yang lain adalah pendataan variabel-variabel tersebut dapat tepat, karena perhitungan waktu dan pencatatannya dilakukan oleh komputer sehingga kesalahan pendataan yang disebabkan oleh faktor manusia dapat dikurangi.",
+  "creators": "JOHANNES",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); SYARIFFUDDIN M. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/TST/018/0145; Johannes (23489065)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; ELECTRIC TRANSFORMERS"
+}

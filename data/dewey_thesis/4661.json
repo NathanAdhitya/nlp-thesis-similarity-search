@@ -1,0 +1,14 @@
+{
+  "id": "4661",
+  "title": "Aplikasi mobile SCADA System menggunakan PDA berbasis WiFi",
+  "abstract": "Dengan perkembangan teknologi perindustrian saat ini, Industri yang sebelumnya masih manual, mulai beralih ke teknologi automasi dengan melibatkan fitur SCADA (Supervisory Control And Data Acquisition). Lebih lanjut SCADA berkembang dengan menggunakan sebuah jaringan wireless. Dengan adanya teknologi ini, maka terbuka kemungkinan untuk membangun sebuah aplikasi SCADA yang terintegrasi penuh pada mobile devices. Sehingga aplikasi tersebut akan sangat bermanfaat bagi masyarakat dalam menjalankan bisnisnya secara mobile. Plant yang digunakan merupakan sebuah plant sederhana yaitu sebuah lampu, kipas angin (keduanya tegangan AC), sensor suhu, dan sensor cahaya. Plant dikontrol melalui sebuah PLC OMRON CPM1 yang diprogram dengan ladder diagram dari program Syswin 3.0. Sedangkan untuk server PC dan PDA menggunakan program Visual Basic .NET. Server PC terhubung oleh PLC menggunakan kabel RS-232 dan PDA terhubung dengan server PC menggunakan jaringan WiFi. Untuk menyimpan database dari plant menggunakan SQL Server 2005 Express Edition yang sekaligus sebagai jembatan penghubung antara PDA dengan Server PC. Berdasarkan hasil pengujian, aplikasi dapat melakukan monitoring, controlling, dan data acquisition terhadap plant dengan waktu koneksi sekitar 40 detik dan pengontrolan selama 0,63 hingga 1,63 detik.",
+  "creators": "VICTOR NYOMAN",
+  "contributors": "Resmana Lim (Advisor 1); Handy Wicaksono (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010834/ELK/2007; Victor Nyoman (23402035)",
+  "subjects": "PROGRAMMABLE CONTROLLERS"
+}

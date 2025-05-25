@@ -1,0 +1,14 @@
+{
+  "id": "36941",
+  "title": "Pembuatan aplikasi augmented reality pembelajaran hewan",
+  "abstract": "Augmented Reality (AR) merupakan sebuah media baru penyampaian informasi yang sedang berkembang saat ini. AR adalah teknologi yang menggabungkan benda maya dua dimensi maupun tiga dimensi ke dalam lingkungan nyata di sekitar kita. Melihat dari kemampuan yang dimiliki oleh AR, AR dapat digunakan sebagai media pembelajaran hewan yang menarik bagi anak-anak. Hal ini dikarenakan AR dapat menyajikan pembelajaran yang interaktif dan lebih efisien, karena anak-anak bukan hanya belajar secara teori saja melainkan anak-anak juga dapat melihat objek hewan yang diajarkan secara 3D. Pada skripsi ini akan dibuat aplikasi pembelajaran hewan untuk anak-anak. Aplikasi ini dibuat menggunakan library Vuforia dan Unity, dengan menggunakan bahasa pemrograman C#. Aplikasi dapat menampilkan objek 3D hewan dan menampilkan informasi hewan dengan Bahasa Inggris maupun Bahasa Indonesia. Hewan yang ada di aplikasi ini adalah serigala, rubah, gajah, singa, badak dan zebra. Hasil Pengujian menunjukkan bahwa library Vuforia dan Unity dapat memberikan output animasi dan informasi yang baik, di mana tiap marker yang telah ditentukan semuanya dapat dikenali dengan baik. Hasil pengujian juga telah menunjukkan bahwa ketertarikan anak terhadap aplikasi cukup tinggi, sebanyak 80% dari anak-anak suka dengan design aplikasi, 70% dari anak-anak tidak ada kendala dalam menggunakan aplikasi, dan 80% dari anak-anak akan menggunakan aplikasi lagi.",
+  "creators": "ROBERT HARTONO",
+  "contributors": "Liliana (Advisor 1); Yulia (Advisor 2); Kristo Radion Purba S.ST. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021590/INF/2016; Robert Hartono (26412018)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; VIRTUAL REALITY-COMPUTER PROGRAM; KINECT"
+}

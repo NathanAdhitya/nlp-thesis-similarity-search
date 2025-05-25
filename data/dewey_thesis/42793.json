@@ -1,0 +1,14 @@
+{
+  "id": "42793",
+  "title": "Security camera untuk mobil berbasis android dan raspberry Pi",
+  "abstract": "Berdasarkan data Polda Metro Jaya, pencurian kendaraan bermotor roda empat mengalami peningkatan yang paling tinggi, yakni sebesar 17 persen pada tahun 2015. Seiring kemajuan jaman, para pelaku kejahatan makin lihai dalam menjalankan aksi pencurian mobil.Meskipun sudah memiliki alarm mobil, namun alarm mobil dirasa kurang cukup untuk menjadi sistem keamanan karena memiliki keterbatasan yaitu tidak dapat difungsikan dalam jarak yang jauh dan para pelaku kejahatan memiliki banyak cara yang tidak terduga untuk dapat merusak sistem keamanan pada mobil. Hal ini tentu berbahaya jika pemilik mobil meninggalkan mobilnya dalam jarak yang jauh tanpa pemantauan dan pemilik mobil akan dirugikan. Oleh karena itu dibutuhkan teknologi yang dapat membantu pemilik mobil untuk memantau kendaraannya dari jarak jauh. Melihat permasalahan di atas maka dibutuhkan suatu aplikasi yang dapat membantu pemilik mobil untuk memantau kendaraannya dimana saja. Aplikasi ini menggunakan Android dan Raspberry Pi. Aplikasi ini dapat mendeteksi gerakan dengan kamera yang terhubung dengan Raspberry Pi dan pengguna dapat melihat keadaan dalam mobil secara live streaming. Pengguna akan mendapatkan notifikasi pada android device dan email setiap terdeteksi pergerakan pada kamera. Selain itu pengguna juga dapat mengakses gambar dan video yang dihasilkan dari pengambilan setiap terdeteksi pergerakan pada kamera. Aplikasi ini dapat membantu pengguna untuk memantau keadaan dalam mobil sebagai perlindungan dari kejahatan pencurian.",
+  "creators": "KEZIA TIATIRA ENDHY",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Andreas Handojo (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021799/INF/2018; Kezia Tiatira Endhy (26414115)",
+  "subjects": "RASPBERRY PI (COMPUTER); ANDROID (ELECTRONIC RESOURCE); SECURITY SYSTEMS"
+}

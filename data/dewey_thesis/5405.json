@@ -1,0 +1,14 @@
+{
+  "id": "5405",
+  "title": "Pembuatan perangkat lunak untuk panduan belajar menulis huruf Al Qur?an",
+  "abstract": "Karena pada umumnya seseorang yang memulai belajar menulis huruf Al Qur?an masih mengalami kesulitan, maka melalui tugas akhir ini dibuat sebuah perangkat lunak yang memandu untuk belajar menulis huruf Al Qur?an dari huruf Latin. Yang diinginkan dari program ini adalah menampilkan huruf- huruf Al Qur?an dan cara menulis rangkaian huruf Al Qur?an. Penulisan huruf Al Qur?an yang dimulai dari kanan ke kiri, dan gerakan penulisan maupun gerakan merangkai huruf Al Qur?an juga ditampilkan pada program ini, sehingga dengan menggunakan program tugas akhir ini akan dituntun langkah demi langkah untuk menulis huruf Al Qur?an. Program didisain untuk menerima huruf- huruf Latin yang dikenali oleh huruf Al Qur?an dan memeriksa letak huruf Latin dalam sebuah kata supaya sesuai dengan aturan penulisan huruf Al Qur?an. Berbeda dengan huruf Latin, penyambungan huruf Al Qur?an akan menyebabkan perubahan bentuk huruf Al Qur?an itu sendiri. Dalam disain program ini cara penulisannya dihasilkan dari file- file BMP yang berisi huruf, angka dan tanda baca Al Qur?an, untuk penampilan animasi gerakan huruf Al Qur?an ini pada awalnya huruf Al Qur?an ini sudah ditampilkan terlebih dahulu hanya saja diberi warna abu-abu yang mendekati putih. Sehingga dalam programnya jika menemukan warna abu-abu dirubah menjadi hitam, untuk gerakkannya sudah ditentukan mana yang harus dikerjakan terlebih dahulu dengan memasukkan koordinatnya. Pembuatan Perangkat Lunak ini dibuat dengan menggunakan bahasa pemrograman Borland Delphi. Hasil dari pembuatan perangkat lunak untuk panduan belajar menulis huruf Al Qur?an yaitu user dapat melihat bagaimana suatu huruf latin jika diinputkan akan dikonversikan ke dalam huruf Al Qur?an dan juga user dapat melihat cara penulisan melalui gerakan penulisan huruf Al Qur?an baik yang berdiri sendiri maupun yang huruf Al Qur?an yang disambung.",
+  "creators": "KATON PASANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 03/098/ELK/2003; Katon Pasanto (23496110)",
+  "subjects": "SOFTWARE ENGINEERING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "17167",
+  "title": "Sistem keamanan gedung hotel terhadap bahaya kebakaran dan pencurian dengan menggunakan fasilitas komputer IBM PC",
+  "abstract": "Penanggulangan keamanan pada gedung hotel dewasa ini masih terasa sangat kurang. Penanggulangan tersebut dapat berupa penanggulangan bahaya kebakaran dan pencegahan tamu yang tak diundang raasuk ke dalam kamar baik melewati jendela maupun lewat pintu masuk.Seringkali pihak hotel mengetahui terjadinya pencurian setelah ada laporan dari pihak tamu hotel yang telah kehilangan barang-barangnya di dalam kamar. Hal ini sangat disayangkan karena sebenarnya pencegahan dapat dilakukan sedini mungkin dengan bantuan suatu alat yang dapat mendeteksi bahaya-bahaya tersebut. Pada Tugas Akhir ini dibuat interface card yang bertujuan mencegah terjadinya pencurian dan penanggulangan terhadap bahaya kebakaran. Alat ini memanfaatkan mikrokomputer IBM PC XT yang dihubungkan dengan kontak relay dari beberapa detektor termasuk kontak relay dari kunci kartu. Adapun detektor-detektor yang dipakai adalah detektor asap, detektor panas (suhu tinggi), detektor ultrasonic (sensor gerakan),dan kunci kartu. Kontak dari relay detektor yang bekerja (ON) akan menghubungkan input port dengan ground dari interface card.Penyampaian data dari sumber detektor menuju input port tidak memerlukan waktu tunda sama sekali.Bila detektor dalam keadaan aktif maka dalam waktu yang bersamaan pada monitor akan tampil letak kejadian dimana detektor tersebut aktif dan bunyi alarm dari speaker komputer akan berbunyi juga. Jadi kita dapat mengetahui letak kejadiannya dan menanggulanginya dengan secepat mungkin.",
+  "creators": "TJANDIROSO MARGONO",
+  "contributors": "SOETIKNO (Advisor 1); Resmana Lim (Advisor 2); AGUS MULYANTO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/016/0106; Tjandiroso margono (14484076)",
+  "subjects": "IBM PERSONEL COMPUTER; FIRE DETECTORS-COMPUTER PROGRAMS; FIRE ALARMS-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "16856",
+  "title": "Perencanaan dan pembuatan alat penyadap suara menggunakan laser dioda dan mikrokontroler 80C32",
+  "abstract": "Dalam sistem penyadapan suara, biasanya digunakan parabola kecil beserta mic dan penguatan sehingga suara dapat didengar dari jarak cukup jauh, jika ingin menyadap suara dari ruangan alat ini tidak dapat digunakan. Oleh sebab itu dicari sistem yang lain, dengan menggunakan LASER sebagai sarana untuk mengambil suara dari permukaan pantul yaitu kaca, dimana kaca dapat menggetarkan suara dibaliknya. Maka LASER dapat dipakai sebagai alat penyadap suara. Pada tugas akhir ini dibuat LASER sebagai alat penyadap suara, suara disadap dengan bantuan sinar LASER dimana sinar pantul dari LASER ini diterima oleh photo-transistor dan dikuatkan, sehingga gelombang suara yang dibawa oleh sinar LASER tersebut dapat didengar melalui headphone. Untuk mencari penerimaan sinar LASER dipakai stepper motor sebagai pemutar dan pengunci kedudukan, stepper motor dan penerimaan dikontrol oleh mikrokontroler 80C32 melalui program yang ada di EPROM. Pengujian dilakukan dengan LASER dikenakan pada kaca pada jarak tertentu dan stepper motor akan mencari penerimaan sinar tersebut dan mengunci kedudukan tersebut, sehingga suara yang ada dibalik kaca akan terdengar pada headphone, untuk mengatur suara maka diputar potensiometer yang ada pada rangkaian penerima sehingga suara dapat diperjelas dan noise dikurangi. Hasil alat yang dicapai dapat mendengar suara dengan cukup baik meskipun noise yang dihasilkan cukup besar pula, pengaruh noise ini dapat menganggu penerimaan suara sehingga untuk itu perlu pemakaian alat tambahan seperti filter lensa, polarisator dan diafragma. Selain itu power supply yang dipakai harus baik sehingga frekuensi 50 Hertz tidak masuk pada rangkaian penguat dan filter rangkaian dapat diperkecil dengan lebar frekuensinya yaitu 300 Hz sampai 3400 Hz.",
+  "creators": "STEPHANUS BUDIJANTO",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); Heri Saptono Warpindyasmoro (Advisor 2); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/003/302; Stephanus Budijanto (23488029)",
+  "subjects": "OSCILLATORS, ELECTRIC; CATHODE RAY OSCILLOGRAPH"
+}

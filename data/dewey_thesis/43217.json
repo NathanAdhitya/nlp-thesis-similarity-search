@@ -1,0 +1,14 @@
+{
+  "id": "43217",
+  "title": "Simulasi online taxi’s dispatch system dengan metode combinatorial optimization",
+  "abstract": "Taksi merupakan salah satu bagian penting dalam kehidupan masyarakat saat ini. Taksi berfungsi sebagai salah satu sarana transportasi umum yang sangat berperan melayani masyarakat dalam mencapai tempat tujuan yang diinginkan dan mudah dijumpai sebab layanan taksi tersedia di sebagian besar kota di seluruh dunia. Mengikuti perkembangan teknologi, munculah taksi online. Taksi online merupakan sarana transportasi umum yang menggunakan aplikasi berbasis web atau mobile untuk menghubungkan penumpang dengan taksi. Taksi online memberi kemudahan bagi penumpang dan taksi untuk mengetahui lokasi tujuan melalui peta online dengan GPS atau nama dari tujuan yang diinginkan serta menampilkan faktor penting seperti jarak tempuh dan durasi dengan cepat. Di balik fitur-fitur yang disajikan oleh taksi online tentunya dibutuhkan metode dispatch taksi yang optimal. Kondisi jalan di setiap daerah tentunya berbeda-beda contohnya seperti kemacetan pada tengah kota berbeda dengan kemacetan di pinggir pinggir kota. Dari kondisi tersebut maka tidak mungkin hanya menggunakan satu jenis cara untuk proses dispatch taksi pada seluruh daerah tersebut. Dengan menggunakan simulasi yang memiliki beberapa metode, dapat ditentukan cara mana yang optimal untuk daerah yang ditentukan dengan memberikan gambaran proses dispatch oleh taksi beserta perbandingan hasil dari cara-cara yang digunakan pada simulasi tersebut. Hasil akhir dari program ini yaitu suatu simulasi yang dapat menjalankan 3 jenis algoritma untuk memasangkan taksi dan penumpang berdasarkan 3 faktor yaitu durasi, jarak, dan total penumpang yang sudah dilayani setiap taksi. Simulasi ini dapat memberikan perbandingan dari hasil ketiga algoritma dan perhitungan faktor yang digunakan pada skenario yang sama untuk mempermudah pengguna menentukan algoritma dan rumus perhitungan faktor yang sesuai pada daerah dan waktu tertentu.",
+  "creators": "VINCENT CHRISTIAN ANDOKO",
+  "contributors": "Andreas Handojo (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021837/INF/2019; Vincent Christian Andoko (26415069)",
+  "subjects": "COMBINATORIAL OPTIMIZATION"
+}

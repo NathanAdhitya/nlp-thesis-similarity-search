@@ -1,0 +1,14 @@
+{
+  "id": "51809",
+  "title": "Aplikasi pengukuran tinggi dan berat badan manusia menggunakan morphological image processing",
+  "abstract": "Saat ini masih banyak pengukuran tinggi dan berat badan dilakukan dengan cara manual, dimana seseorang yang ingin melakukan pengukuran tinggi dan berat badan harus memiliki alat pengukurnya. Hal ini menyebabkan kesulitan bagi orang yang tidak memiliki fasilitas pengukur tinggi dan berat badan seperti stature meter untuk mengukur tinggi badan dan timbangan badan untuk mengukur berat badan. Tetapi dengan berkembangnya teknologi terutama dibidang image processing, hal ini dapat dipermudah. Perkiraan tinggi dan berat badan manusia dapat diketahui melalui pengambilan gambar yang dilakukan dengan kamera smartphone android, sehingga dapat mempermudah pengukuran tinggi dan berat badan tanpa menggunakan alat pengukuran manual. Penelitian ini menggunakan metode image processing morphological untuk mengenali objek serta mengetahui tinggi badan objek dari gambar. Untuk mengetahui berat badan dari objek menggunakan rumus body surface area (BSA). Kedua metode tersebut digabungkan kedalam sebuah aplikasi. Hasil penelitian rata-rata akurasi penggukuran tinggi badan menggunakan image processing morphological adalah 98%. Sementara hasil rata-rata akurasi pengukuran berat badan menggunakan rumus body surface area adalah 95%.",
+  "creators": "NICKY",
+  "contributors": "Kartika Gunadi (Advisor 1); ANITA NATHANIA PURBOWO, S.KOM. (Advisor 2); Liliana (Examination Committee 1); ALVIN NATHANIEL TJONDROWIGUNO, S.Kom. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022104/INF/2021; Nicky (26416124)",
+  "subjects": "ANTHROPOMETRY; BODY WEIGHT; IMAGE PROCESSING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "36906",
+  "title": "Pengembangan lebih lanjut metode elemen hingga berbasis kriging untuk analisis statik linier 3D solids",
+  "abstract": "Akhir-akhir ini telah dikembangkan suatu varian metode elemen hingga (MEH) yang dinamakan MEH berbasis Kriging (MEH-K). Dengan MEH-K memungkinkan mendapatkan solusi akurat meskipun dengan memakai mesh dengan elemen-elemen yang sederhana. Shape function dengan basis polinom berderajat tinggi dapat dibangun tanpa memperbanyak node pada elemen karena dapat dibangun dari node di sekeliling elemen tersebut. MEH-K mudah diimplementasikan ke dalam program karena masih menggunakan dasar program yang sama seperti MEH. Dalam makalah ini akan disajikan pengembangan MEH-K untuk analisis statik linier 3D solids. Elemen yang digunakan untuk membangun interpolasi Kriging adalah elemen yang paling sederhana dalam ruang tiga dimensi, yaitu elemen tetrahedron dengan 4 node. Implementasi MEH-K dilakukan dalam bahasa pemrograman Matlab. Perangkat lunak GiD digunakan untuk membuat mesh dan untuk menyajikan hasil-hasil analisis. Keakuratan dan kekonvergenan MEH-K 3D solids ini diuji dengan menyelesaikan berbagai benchmark problems. Hasil-hasil pengujian memperlihatkan bahwa MEH-K 3D solids dapat memberikan solusi yang sangat akurat dan distribusi tegangan yang halus meskipun dengan jumlah elemen yang tidak terlalu banyak. Kelemahan utamanya adalah untuk aplikasi pada benda yang tipis, solusi MEH-K 3D solids konvergen ke solusi yang lebih besar daripada solusi referensi.",
+  "creators": "WELLY PONTJOHARYO",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Januar Budiman (Advisor 2); Pamuda Pudjisuryadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000217/MTS/2016; Welly Pontjoharyo (01514020)",
+  "subjects": "FINITE ELEMENT METHODS; COMPUTER-AIDED ENGINEERING; KRIGING"
+}

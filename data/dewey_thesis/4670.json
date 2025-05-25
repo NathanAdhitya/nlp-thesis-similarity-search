@@ -1,0 +1,14 @@
+{
+  "id": "4670",
+  "title": "Aplikasi metode hill climbing pada robot mobil",
+  "abstract": "Tugas Akhir ini dibuat dengan tujuan untuk mengaplikasikan metode Hill Climbing pada robot mobil. Penerapan metode Hill Climbing dalam Tugas Akhir ini adalah untuk mencari rute terpendek mencapai tujuan. Mula-mula robot diberi tahu lokasi start dan tujuan, kemudian robot bisa menentukan rute terpendek mencapai tujuan dengan menggunakan metode Hill Climbing. Dalam Tugas Akhir ini dibuat robot beroda yang dilengkapi dengan jepitan untuk pengangkatan benda. Dalam pembuatan robot ini digunakan sebuah mikrokontroler AT89S52. Mikrokontroler ini berfungsi sebagai otak yang memproses masukan dari sensor infra merah dan limit switch, memproses metode Hill Climbing, dan pengiriman data secara serial menggunakan modul TLP dan RLP 434 (frekuensi radio). Berdasarkan pengujian, rute yang dihasilkan sesuai dengan algoritma metode Hill Climbing. Robot dapat bergerak sama dengan rute yang dihasilkan.",
+  "creators": "HENDRA THELLY",
+  "contributors": "Felix Pasila (Advisor 1); Handry Khoswanto (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010843 /ELK/2007; Hendra Thelly (23403090)",
+  "subjects": "AUTOMATIC CONTROL; MICROCONTROLLER AT 89S52"
+}

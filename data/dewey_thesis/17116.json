@@ -1,0 +1,14 @@
+{
+  "id": "17116",
+  "title": "Perencanaan dan pembuatan kontrol kecepatan motor DC dengan menggunakan kontrol PID dan autotuning berbasis PLC SYSMAC C-200H dengan bantuan ASCII unit dan program scada",
+  "abstract": "Dalam usaha untuk melakukan otomatisasi dalam suatu aksi pengontrolan, maka dibuatlah tugas akhir ini untuk pengontrolan kecepatan motor DC menggunakan kontol PID secara autotuning dengan metode Ziegler Nichols dan metode Cohen and Coon, dengan bantuan ASCII Unit dan program SCADA berbasis PLC SYSMAC C-200H, OMRON. Tujuan dari pembuatan tugas akhir ini adalah untuk dapat melihat dan membandingkan kualitas respon terhadap pengontrolan kecepatan motor DC dengan kontrol PID dengan autotuning metode Ziegler Nichols dan metode Cohen and Coon. Untuk itu dibuat penelitian dengan mendapatkan respon dari aksi pengontrolan untuk masing-masing metode autotuning dengan bantuan program SCADA dimana perhitungan matematika untuk metode autotuning dan PID digunakan bantuan ASCII Unit. Respon dari aksi kontrol didapatkan dari pengontrolan motor DC tanpa beban dan pengontrolan motor DC dengan adanya pembebanan. Basil dari respon aksi kontrol yang didapat menunjukkan bahwa kontrol PID dengan autotuning metode Cohen and Coon didapat harga Kp = 1.58, Ki = 0.711, Kd= 1.2 E-2, Ti = 2.224 E-2, Td = 8 E-4, tr = 1.5 detik, tp = 3.1 detik, ts = 7.5 detik, Mp = 15 %, sedangkan dengan metode Ziegler Nichols didapat harga Kp = 1.26, Ki = 0.349, Kd = 8.5 E-2, Ti = 3.577 E-2, Td = 6.8 E-4, tr - 1.8 detik, tp = 3.5 detik, ts = 11 detik, Mp = 6.667 % sehingga dapat disimpulkan bahwa untuk respon time menuju setting point, respon time dalam menghandle steady state error maupun error ketika motor dilakukan pembebanan umumnya metode Cohen and Coon lebih baik dari metode Ziegler Nichols, meskipun terjadi overshoot yang cukup besar.",
+  "creators": "WAHYUDI",
+  "contributors": "Resmana Lim (Advisor 2); Andojo Ongkodjojo (Advisor 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/039/384; Wahyudi (23493107)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

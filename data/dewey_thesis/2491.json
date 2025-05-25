@@ -1,0 +1,14 @@
+{
+  "id": "2491",
+  "title": "Sistem pengendalian aquarium dengan menggunakan sms dari handphone",
+  "abstract": "Dewasa ini hobby memelihara ikan semakin meluas di kalangan masyarakat. Memelihara ikan kelihatannya merupakan hal yang mudah tetapi tentu saja pelaksanaannya tidak semudah yang dibayangkan. Tentunya proses perawatan ikan ini mulai dari memberi makan, mengganti air aquarium, menjaga suhu air, menjaga agar air tetap jernih cukup memakan waktu khususnya bagi orang-orang yang bekerja dan hobby memelihara ikan. Oleh karena itu dikembangkan metode pemeliharaan ikan dalam aquarium dari jarak jauh yang dapat dikontrol melalui SMS dari handphone. Sistem ini memberikan keuntungan bagi mereka yang sibuk bekerja namun tetap senang memelihara ikan. Peralatan-peralatan yang berada dalam aquarium yang dapat dikontrol yaitu air pump, pompa penyaring air, heater, pompa penguras air, pompa pengisi air, lampu neon, serta ada suatu device yang dapat digunakan untuk memberi makan ikan. Alat-alat tersebut dihubungkan dengan mikrokontroler AT89C52 sebagai pengolah data yang juga terhubung dengan handphone penerima SMS. Di sini handphone yang digunakan untuk menerima SMS adalah handphone yang harus men-support AT Commands yang digunakan untuk pengambilan data SMS (misal: Siemens S35i). Berdasarkan hasil pengujian, alat-alat dalam aquarium telah dapat bekerja dengan baik, dan juga device tambahan yaitu sensor suhu, sensor batas atas air, dan sensor batas bawah air dapat bekerja sesuai program yang diberikan. Ketujuh alat tersebut (lima di antaranya dengan fungsi timer) dapat dikontrol secara manual atau melalui SMS.",
+  "creators": "MIEKE DJUNANDA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/669/ELK/2003; Mieke Djunanda (23499025)",
+  "subjects": "CELLULAR-RADIO; AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

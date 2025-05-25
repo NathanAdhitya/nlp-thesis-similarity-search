@@ -1,0 +1,14 @@
+{
+  "id": "15645",
+  "title": "Studi banding peneganalan tanda tangan antara jaringan saraf tiruan metode kohonen dengan jaringan saraf tiruan metode backpropagation",
+  "abstract": "In this study, comparison of a system for introducing the signature with kohonen neural network method and feedforward backpropagation networks was done to know the effect of neighborhood size, alpha and desired error to the winner index output in kohonen networks. The study also was done to know the effect of learning rate, desired error and number of hidden layers in the feedforward backpropagation networks with binary input system that would be changed to the PCX grayscale 256 level format with 30 x 30 pixel resolution. The optimum parameters for kohonen networks obtained from this study are neighborhood size 12, alpha 0.09 and desired error 0.000001 with 50.91% chance to be succeed. For feedforward backpropagation networks, hidden layer 1 with 18 nodes, learning rate 0.015, and desired error 0.01 gave 43.64% chance to be succeed. Testing with tampered signature 45% succeeded for kohonen networks and 55% for feedforward backpropagation networks.",
+  "creators": "SUGIHARTO",
+  "contributors": "YOHANES T. D. S (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/K/EL/013/035; Suugiharto (23491012)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

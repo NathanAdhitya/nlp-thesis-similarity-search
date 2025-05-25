@@ -1,0 +1,14 @@
+{
+  "id": "8370",
+  "title": "Perancangan dan pembuatan sistem pembelian, penjualan dan laba/rugi pada Gaya Motor Jaya",
+  "abstract": "Gaya Motor Jaya adalah perusahaan yang bergerak di bidang perdagangan, yaitu penjualan suku cadang kendaraan bermotor khususnya mobil, dimana dalam menjalankan usahanya perusahaan ini melakukan banyak transaksi penjualan. Selama ini perusahaan memakai cara manual dalam melakukan pencatatan transaksi dengan menggunakan nota penjualan. Pada Tugas Akhir ini, dirangkai beberapa proses atau transaksi yang terkait dengan sistem pembelian, penjualan dan stok barang, beserta laporan laba rugi. Perangkat lunak ini dibuat dengan menggunakan sistem operasi Windows XP. Database yang digunakan adalah Microsoft Access dan bahasa pemrograman yang digunakan adalah Borland Delphi 7.0. Proses desain mulai dari sistem flow, Data Flow Diagram sampai dengan Entity Relationship Diagram dengan menggunakan Power designer 6.1. Proses implementasi program dalam bahasa pemrograman Delphi yang memanfaatkan basis koneksi ke BDE Administrator. Perangkat lunak yang akan dihasilkan ini dapat mengetahui hasil pembelian, penjualan, laporan laba rugi berdasarkan periode tertentu dan stok barang. Proses penagihan customer dan proses pembayaran supplier dapat terkontrol dengan adanya laporan hutang dan laporan piutang. Keamanan data dapat ditangani dengan mudah, dikarenakan ada password yang harus dimasukkan untuk dapat mengakses data.",
+  "creators": "FERRY HUDIONO",
+  "contributors": "JOKO LIANTO B.,DR.,Ir.,M.Sc. (Advisor 1); Alexander Setiawan (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000355/INF/2005; Ferry Hudiono (26400123)",
+  "subjects": "INFORMATION RESOURCES MANAGEMENT-COMPUTER PROGRAMS; DATABASE MANAGEMENT; DATABASE DESIGN"
+}

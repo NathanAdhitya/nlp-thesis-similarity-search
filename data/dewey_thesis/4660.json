@@ -1,0 +1,14 @@
+{
+  "id": "4660",
+  "title": "Pembuatan mobile SCADA system menggunakan hand phone berbasis WAP",
+  "abstract": "Perkembangan teknologi otomasi yang cukup pesat, menyebabkan banyak industri yang menggunakan sistem SCADA yang berbasis PLC. Tugas akhir ini dibuat dengan tujuan membuat sistem SCADA melalui handphone dengan menggunakan teknologi WAP, sehingga dapat diakses dari jarak jauh. PLC dihubungkan dengan PC menggunakan kabel serial RS-232. Plant dikontrol oleh PLC OMRON CPM1 yang diprogram menggunakan ladder diagram yang dibuat melalui software Syswin 3.0. Program yang digunakan adalah WML, PHP, MySQL dan Visual Basic .NET. WML berfungsi agar SCADA Software yang dibuat dapat dibaca di handphone. PHP berfungsi menghubungkan WML dengan MySQL. MySQL berfungsi untuk menyimpan kondisi plant ke dalam suatu database. Visual Basic .NET berfungsi untuk menghubungkan PLC dengan PC. Plant berupa sebuah miniatur ruangan, yang terdiri dari sebuah lampu pijar, dan sebuah fan, terdapat sebuah sensor suhu, sebuah sensor cahaya sebagai feedback dari lampu dan sebuah sensor cahaya sebagai feedback dari fan. Berdasarkan hasil pengujian, sistem ini dapat melakukan fungsi controlling, monitoring dan scheduling pada plant, baik melalui handphone maupun melalui PC server. Selain itu, plant juga dapat dinyalakan secara manual dengan switch. Dalam pengujian, rata-rata kecepatan untuk melakukan koneksi dari handphone ke WAP server membutuhkan waktu sekitar 06,90 detik pada siang hari dan 04,20 detik pada malam hari.",
+  "creators": "ADI SURYA HERDIANTO",
+  "contributors": "Resmana Lim (Advisor 1); Handy Wicaksono (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010833/ELK/2007; Adi Surya Herdianto (23402026)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

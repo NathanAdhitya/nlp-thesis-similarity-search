@@ -1,0 +1,14 @@
+{
+  "id": "13613",
+  "title": "Peramalan penjualan rokok PT. X dengan metode dynamic forecasting untuk model arch(1) dan garch(1,1)",
+  "abstract": "Peramalan merupakan suatu proses untuk memprediksi keadaan pada masa yang akan datang. Ada banyak metode peramalan yang dapat digunakan dengan kelebihan dan kelemahannya masing-masing, diantaranya adalah metode ARCH(l) dan GARCH( 1,1). Metode ARCH(l) dan GARCH(1,1) yang sudah diteliti sampai saat ini adalah model yang statis, maka melalui Tugas Akhir ini akan dikembangkan metode ARCH(l) dan GARCH(1,1) yang sifatnya dinamis, dimana dalam model yang baru ini nilai varians dan nilai parameternya selalu berubah sepanjang waktu. Model ini akan digunakan untuk meramalkan data penjualan rokok PT. X, serta dibandingkan hasilnya dengan metode ARCH(1) dan GARCH(U) yang statis. Metode dynamic forecasting untuk model ARCH(l) dan GARCH(1,1) mencoba untuk menggabungkan karakteristik dari metode ARCH(l) dan GARCH(1,1) yang nilai variansnya selalu berubah, dengan karakteristik dari metode dynamic linear model yang nilai parameternya juga selalu berubah sepanjang waktu. Nilai varians dan parameter yang selalu berubah serta hasil peramalan yang selalu di-updafe dan di-smoothing diharapkan dapat memberikan nilai peramalan yang lebih mendekati data aktual, sehingga error yang dihasilkan semakin kecil. Hasil dari Tugas Akhir ini berupa analisa perbandingan antara model ARCH(l) dan GARCH(1,1) yang statis dengan yang dinamis. Dari pengolahan data diketahui bahwa model ARCH(l) dan GARCH(1,1) yang dinamis memberikan hasil peramalan yang lebih baik dibandingkan dengan model yang statis. Ini dapat dilihat dari nilai MSE yang dihasilkan oleh model yang dinamis jauh lebih kecil daripada model yang statis.",
+  "creators": "VINCHIE",
+  "contributors": "Siana Halim (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 450/TI-041/2001; Vinchie (25497069)",
+  "subjects": "PRODUCTION FORECASTING; SALES FORECASTING"
+}

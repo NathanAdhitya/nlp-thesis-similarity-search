@@ -1,0 +1,14 @@
+{
+  "id": "48371",
+  "title": "Klasifikasi motif batik menggunakan metode deep convolutional neural network dengan data augmentation",
+  "abstract": "Pada penelitian-penelitian sebelumnya yang bertujuan untuk mengklasifikasikan motif batik umumnya menggunakan motif-motif geometri saja dengan menggunakan Convolutional Neural Network (CNN) VGG dan penerapan augmentasi sebatas pada skala dan rotasi. Untuk itu pada penelitian ini akan dilakukan augmentasi yang lebih beragam pada model CNN Residual Network (Resnet) dengan objek yang dijadikan penelitian adalah motif geometri dan non-geometri. Penelitian klasifikasi motif batik ini menggunakan metode CNN dengan arsitektur Resnet untuk mengenali pola pada motif batik. Motif batik yang menjadi objek penelitian ini adalah motif kategori geometri (ceplok, kawung, lereng, nitik, dan parang) dan kategori nongeometri (semen dan lunglungan). Selain itu, pada dataset akan diterapkan augmentasi Scale, Random Erase, Rotation, dan Flip. Augmentasi pada dataset diterapkan guna memperbesar jumlah dan meningkatkan variasi pada dataset batik. Hasil pengujian menunjukkan CNN dengan penggunaan data augmentation pada training dataset memberikan akurasi hingga 84,52% pada Resnet-18 dan 81,90% pada Resnet-50. Adapun pada penggunaan dataset dengan augmentasi rotation memberikan peningkatan akurasi sebesar 4,06%, augmentasi random erase memberikan peningkatan sebesar 9,38%, augmentasi scale sebesar 6,52%, dan pada augmentasi flip sebesar 8,58%.",
+  "creators": "SAMUEL FEBRIAN TUMEWU",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Indar Sugiarto (Advisor 2); Liliana (Examination Committee 1); Alvin Nathaniel Tjondrowiguno (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022003/INF/2020; Samuel Febrian Tumewu (26416105)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

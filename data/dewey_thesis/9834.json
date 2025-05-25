@@ -1,0 +1,14 @@
+{
+  "id": "9834",
+  "title": "Aplikasi autentikasi dan manajemen akses komputer di laboratorium telematika Universitas Kristen Petra",
+  "abstract": "Selama ini di dalam penggunaan komputer pada laboratorium-laboratorium Universitas, jarang dijumpai adanya proses autentikasi dan manajemen. Mahasiswa dapat dengan bebas menggunakan setiap komputer yang tersedia. Hal ini dapat mengakibatkan kemungkinan timbulnya penyalahgunaan terhadap penggunaan komputer. \"Aplikasi Autentikasi dan Manajemen Akses Komputer\" merupakan suatu aplikasi yang dapat digunakan untuk melakukan proses autentikasi dan manajeman pemakaian komputer pada Laboratorium Telematika Universitas Kristen Petra. Proses autentikasi berfungsi sebagai penyeleksi terhadap mahasiswa yang menggunakan komputer. Proses manajemen berfungsi untuk mendokumentasikan seluruh seluruh aktifitas penggunaan komputer, yang meliputi: identias mahasiswa pengguna komputer, waktu pemakaian dan alamat IP komputer yang digunakan. Komputer client akan membangun koneksi dengan komputer server. Jika sudah terbentuk koneksi, komputer client akan mengirimkan data account user yang akan login. Proses komunikasi client/server ini menggunakan protokol TCP/IP. Proses autentikasi dilakukan oleh server yang terkoneksi dengan database. Untuk proses registrasi, dilakukan melalui web. Database akan menyimpan seluruh data user yang telah terdaftar. Melalui web pula dapat dilihat hasil report manajemen. Dari pengujian yang telah dilakukan atas 12 komputer client dan sebuah komputer server, diperoleh bahwa aplikasi autentikasi dan manajemen dapat berjalan dengan baik. Dengan adanya aplikasi ini dapat digunakan untuk membantu melakukan proses autentikasi dan manajemen terhadap komputer-komputer di Laboratorium Telematika.",
+  "creators": "EFFERATA WIJAYA",
+  "contributors": "Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010077/ELK/2008; Efferata Wijaya (23404036)",
+  "subjects": "DATA TRANSMISSION SYSTEMS; DATABASE DESIGN; DATABASE MANAGEMENT"
+}

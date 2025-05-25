@@ -1,0 +1,14 @@
+{
+  "id": "14866",
+  "title": "Aplikasi protokol internet multicast untuk videoconference",
+  "abstract": "Tugas akhir ini diawali dengan suatu masalah pembahasan, yaitu bagaimana dapat melaksanakan komunikasi melalui videoconference dengan keterbatasan bandwidth yang dimiliki. Dalam penulisan hasil tugas akhir ini dibahas masalah tersebut dengan pengujian terhadap perangkat lunak videoconference yang dibuat menggunakan Protocol Internet Multicast untuk mengatasi keterbatasan bandwidth. Perangkat lunak videoconference dibuat dengan Visual C++ v4.1 pada Windows95/NT dengan user-interface Tcl/Tk yang dilengkapi dengan API Video for Windows. Standar kompresi audio menggunakan ADPCM, sedangkan video menggunakan H.261 dan NV. Kemampuan full-duplex dapat terealisasikan berkat library multimedia dari Visual C++. Akan dibuktikan bagaimana karakteristik dan kemampuan Protokol Internet Multicast terhadap jaringan 10MBPS yang umura digunakan saat ini. Begitu pula perbandingan dengan aplikasi videoconference yang Non-Multicast. Untuk pengujian multicast pada Local Area Network dengan 10 client dengan sebuah pengirim video didapat frame rate sebesar 4 hingga 6 frame/detik dengan batasan maksimum bandwidth sebesar 300kbps. Pengujian frame rate telah membuktikan bahwa dengan IP Multicast batasan bandwidth dapat diatasi, namun dengan kendala keterbatasan jumlah multicast router yang digunakan sebagai perantara videoconference antar jaringan. Dengan adanya perangkat lunak videoconference yang dibuat diharapkan dapat dikembangkan kembali menjadi lebih sempurna berjalan pada platform Windows95/NT dengan memanfaatkan GUI dari Microsoft Windows.",
+  "creators": "JUSTINUS ANDJARWIRAWAN",
+  "contributors": "Resmana Lim (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/KOM/001/023; Justinus Andjarwirawan (23491037)",
+  "subjects": "INTERNET PROTOCOL VERSION 6 (IPV6); VISUAL C++(COMPUTER PROGRAM)"
+}

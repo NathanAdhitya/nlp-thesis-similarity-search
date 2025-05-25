@@ -1,0 +1,14 @@
+{
+  "id": "57526",
+  "title": "Sistem pendeteksi kantuk secara real time pada pengemudi kendaraan transportasi di jalan tol menggunakan deep learning",
+  "abstract": "Ketika seseorang mengantuk, fokus dan konsentrasi akan menurun. Hal ini meningkatkan risiko kecelakaan, terutama saat melakukan aktivitas yang memerlukan tingkat kewaspadaan tinggi seperti mengemudi. Tanda fisik mengantuk dapat terlihat pada mata, seperti kelopak mata yang berat, pandangan kabur, gerakan mata yang melambat, dan sering menutup mata. Oleh karena itu, deteksi kantuk pada pengemudi sangat penting untuk menghindari kecelakaan. Terdapat penelitian yang menggunakan deep learning dan arsitektur CNN untuk mengidentifikasi tanda-tanda kantuk secara real-time. Meskipun model tersebut mencapai akurasi 90%, dataset dengan kondisi cahaya redup masih terbatas sehingga akurasi belum optimal. Solusi yang diusulkan adalah memanfaatkan model mobileNetV2 dan transfer learning untuk melatih model agar mendapatkan akurasi yang baik. Selain itu memanfaatkan dataset mata yang telah ada untuk dilatih dalam mengidentifikasi pengemudi kantuk dan dataset pengemudi yang sedang mengemudi. Di mana parameter menentukan pengemudi tersebut mengantuk dalam dataset ini adalah ketika pengemudi menguap dan mata tertutup. Hasil pengujian yang di dapat setelah memanfaatkan mobileNetV2 dan transfer learning adalah akurasi yang didapatkan di atas 90%. Model berhasil mendeteksi dengan akurasi 98%. Ketika model di uji pada kasus nyata, model berhasil mendeteksi secara real time kepada pengemudi yang dalam kondisi mengantuk serta berhasil mengirimkan sinyal peringatan bagi pengemudi.",
+  "creators": "KRISNA LAZARUS LOMI BEI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Examination Committee 1); Gregorius Satiabudhi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022379/INF/2023; Krisna Lazarus Lomi Bei (C14190226)",
+  "subjects": "DEEP LEARNING (MACHINE LEARNING); MACHINE LEARNING--DESIGN"
+}

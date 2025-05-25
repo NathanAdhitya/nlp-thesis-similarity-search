@@ -1,0 +1,14 @@
+{
+  "id": "59162",
+  "title": "Automatic speech recognition pada bahasa Indonesia menggunakan metode Bi-LSTM dengan pengaplikasian context based learning",
+  "abstract": "Automatic Speech Recognition merupakan perkembangan pada bidang AI yang memungkinkan komputer untuk menerima inputan suara manusia dan mengolah suara hingga dapat dikenali sebagai kata-kata yang dikenali manusia. ASR dapat dikembangkan pada teknologi lainnya untuk mempermudah interaksi manusia pada komputer tanpa bersentuhan langsung. Akan tetapi masih terjadi kendala pada ASR dalam mengklasifikasikan suara yang diucapkan oleh manusia, salah satu masalah yaitu homophones. Homophones merupakan kata yang memiliki pelafalan yang mirip dengan kata lainnya, namun memiliki pengejaan yang berbeda. Kata-kata Homophones ini dapat diidentifikasi dengan cara mengetahui konteks bicara seseorang. Oleh sebab itu dibutuhkan sebuah sistem yang dapat memahami konteks bicara pengguna di saat juga melakukan pengenalan suara. Penelitian ini mengajukan pengaplikasian model context based learning pada speech recognition dengan metode Bi-LSTM, untuk dapat melakukan pengenalan suara berkonteks pada dataset berupa rekaman suara. Hasil dari metode yang diajukan memperoleh nilai WER 34%, lebih baik dibandingkan dengan model tanpa pengaplikasian CBL.",
+  "creators": "JOVAN",
+  "contributors": "Liliana (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Kartika Gunadi (Advisor and Examination Committee); Gregorius Satiabudhi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022420/INF/2024; Jovan (C14190012)",
+  "subjects": "AUTOMATIC SPEECH RECOGNITION"
+}

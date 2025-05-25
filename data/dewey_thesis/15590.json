@@ -1,0 +1,14 @@
+{
+  "id": "15590",
+  "title": "Perencanaan dan pembuatan program sistem pakar untuk spesifikasi jenis anjing",
+  "abstract": "Dari dahulu hingga saat ini anjing selalu menempati hubungan yang khusus sebagai sahabat manusia. Dengan banyaknya macam anjing yang ada maka dibutuhkan seorang pakar untuk mengidentifikasikan jenis anjing berdasar ciri-ciri dari anjing yang bersangkutan. Tetapi seseorang yang benar-benar ahli sekalipun terkadang kesulitan dalam mengidentiflkasikannya karena adanya sedemikian banyak jenis anjing. Oleh sebab itu dibutuhkan suatu sistem yang dapat membantu pengindentifikasian. Yaitu suatu sistem yang dapat mengadopsi kemampuan para pakar untuk pengidentifikasian jenis anjing. Dengan adanya kemajuan teknologi yang makin pesat maka telah dikembangkan suatu teknologi yang mampu mengadopsi proses dan cara pikir manusia yaitu teknologi Artificial Intelligence atau kecerdasan buatan. Artificial Intelligence memiliki berbagai macam jenis aplikasi, salah satunya adalah Sistem Pakar atau Expert System yang memiliki kemampuan untuk mengadopsi suatu dasar pengetahuan {knowledge base) yang diperoleh melalui penginputan data dari kemampuan para pakar dalam suatu bidang tertentu yang bersifat spesifik. Pada prinsipnya seluruh data jenis anjing beserta ciri-cirinya akan dimasukkan pada suatu knowledge base yang berupa suatu kumpulan database dimana kemudian Inference Engine dari sistem pakar akan mengolahnya untuk mendiskripsikan jenis anjing berdasar ciri-ciri yang dimasukkan oleh user melalui fasilitas user interface.Sistem identifikasi untuk mendiskripsikan jenis anjing ini dibuat dengan menggunakan pemrograman delphi. Pada pengujian program, dilakukan pengujian sebanyak 20 kali berdasarkan variasi ciri-ciri jenis anjing yang ada. Dari pengujian tersebut, 19 kali pengujian berhasil menemui jawaban yang benar dan satu kali pengujian gagal menemui jawaban. Hal ini disebabkan karena data jenis anjing yang dicari tidak terdapat dalam database. Pada penginputan tinggi maupun berat dari jenis anjing yang berbentuk suatu inputan range, program akan menyeleksi jenis anjing pada database berdasar range minimum dan maksimum dari inputan. Dari hasil pengujian ini dapat disimpulkan bahwa program ini telah mencapai tingkat keberhasilan yang maksimal sesuai dengan tujuan yang diinginkan.",
+  "creators": "ANDREAS HANDOJO",
+  "contributors": "Kartika Gunadi (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.99/E/KOM/013/052; Adreas Handojo (23493071)",
+  "subjects": "EXPERT SYSTEMS (COMPUTER SCIENCE)"
+}

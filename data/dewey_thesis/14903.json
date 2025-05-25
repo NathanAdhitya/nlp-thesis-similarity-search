@@ -1,0 +1,14 @@
+{
+  "id": "14903",
+  "title": "Perencanaan dan pembuatan alat pengontrol pengisian air pada botol dengan menggunakan mikrokontroller 8031",
+  "abstract": "Untuk mendapatkan volume air yang diinginkan lalu diisikan ke dalam botol-botol tentunya dapat dilakukan secara manual, yaitu dengan terlebih dahulu menakar air tersebut pada gelas ukuran kemudian mengisikannya ke dalam botol-botol. Tetapi cara tersebut dapat ditinggal-kan setelah adanya mikrokontroller. Sistem ini dapat melakukannya secara otomatis. Oleh karena itu pada tugas akhir ini dibuat suatu alat pengontrol pengisian air pada botol. Dimana sistem yang dibuat dapat membantu proses pengisian yaitu dengan melakukan pengukuran volume berdasarkan sensor level air terlebih dahulu, kemudian motor dc menggerakkan botol-botol yang telah disediakan pada posisi yang tepat yaitu tepat pada lubang pengisian, baru diisikan ke botol tersebut. Proses ini dilakukan berulang kali sampai kita tekan tombol break, maka proses akan berhenti setelah botol terakhir terisi. Digunakan mikrokontroller 8031, karena mempunyai fasilitas I/O port, dimana port tersebut dipakai untuk mengontrol rangkaian driver motor stepper, rangkaian driver relay dan rangkaian driver solenoid valve, serta rangkaian driver motor. Peralatan yang telah dibuat tersebut dapat dipakai pada pabrik-pabrik yang memproduksi minuman yang dikemas dalam botol.",
+  "creators": "ANANG SUGIHANDONO",
+  "contributors": "SUPENO DJANALI (Advisor 1); IRWAN SAHLI (Advisor 2); MOCHAMAD HEROE (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/003/0124; Anang Sugihandono (23485096)",
+  "subjects": "MICROCONTROLLERS; AUTOMATIC CONTROL"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "55817",
+  "title": "Prediksi financial distress pada perusahaan terbuka di sektor konstruksi dan properti dengan metode integrasi Differential Evolution dan Least Squares Support Vector Machine",
+  "abstract": "Mengetahui perusahaan akan mengalami financial distress adalah hal yang penting bagi banyak pihak. Banyak metode yang digunakan dalam memprediksi financial distress, seperti multivariate discriminant analysis (MDA), logistic regression, hiingga yang paling terbaru menggunakan artificial intelligence. Dalam membuat model prediksi, akurasi mendekati sempurna adalah hal yang ingin dicapai, sehingga terus dilakukan penelitian agar mampu mendapatkan model prediksi financial distress dengan tingkat akurasi setinggi mungkin. Metode yang prediksi yang digunakan dalam penelitian ini adalah Least Squares Support Vector Machine (LSSVM) yang diintegrasikan dengan algoritma optimasi yaitu Differential Evolution (DE). Metode ini digunakan untuk memilih variabel dengan pengaruh paling tinggi dan parameter yang paling baik agar mendapatkan model prediksi yang mampu melakukan prediksi dengan akurasi yang tinggi. Total terdapat 111 data yang terdiri dari perusahaan-perusahaan yang terdaftar di brusa efek Indonesia. Terbukti, integrasi LSSVM-DE mampu mengalahkan model penelitian terdahulu seperti Altman Z”- Score",
+  "creators": "MARCELLINO JASON",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Prof. Dr. Njo Anastasia, S.E., M.T. (Examination Committee 1); Willy Husada, ST.,MT., Msc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000338/MTS/2023; Marcellino Jason (B21220005)",
+  "subjects": "FINANCIAL STATEMENTS; MACHINE LEARNING; LEAST SQUARES--COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "25117",
+  "title": "TRIAC starting switch untuk motor satu fasa 0,5 PK, 127V, 50 Hz",
+  "abstract": "Motor satu phase start dengan kapasitor kebanyakan memakai switch sentrifugal, sebagai switch pemutus kumparan bantu. Dengan menggunakan triac sebagai komponen utama maka switch sentrifugal dapat digantikan fungsinya. Arus start yang lewat kumparan utama digunakan untuk memicu gerbang triac sehingga kumparan bantu terhubung paralel dengan kumparan utama, dan motor berputar. Setelah putaran mencapai kira-kira 75% kecepatan nominal maka arus picu mati, dan pada saat arus utama nol terjadi komutasi. Maka kumparan bantu terbuka/lepas dari kumparan utamanya. Dan motor berputar dengan kumparan utama saja. Dengan memakai triac sebagai switch maka kegiatan perbaikan switch dapat dikurangi, dan memperbaiki unjuk kerja motor dimana torsi start menjadi lebih tinggi.",
+  "creators": "Gatot Kriswanto",
+  "contributors": "SOEBAGIO (Advisor 1); HERLIANTO TENGGARA (Advisor 2); ONTOSENO PENANGSANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/TST/005/0055; Gatot Kriswanto (484110)",
+  "subjects": "MOTOR CONTROLLER"
+}

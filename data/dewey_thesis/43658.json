@@ -1,0 +1,14 @@
+{
+  "id": "43658",
+  "title": "Sistem akses parkir dengan qr code",
+  "abstract": "Dewasa ini perkembangan teknologi berjalan sangat pesat, sehingga teknologi menjadi sebuah kebutuhan pada era saat ini. Banyak kebutuhan saat ini dapat terpenuhi melalui ponsel pintar atau biasa disebut smartphone. Salah satu kebutuhan yang dirasa diperlukan yaitu akses area parkir bagi pengendara kendaraan bermotor dan sering kali layanan area parkir dirasa masih kurang dan masih menggunakan metode konvensional. Dalam tugas akhir ini penulis berfokus pada sistem akses gerbang parkir dengan sistem smart parking area pada sebuah gedung. Tugas akhir dilakukan dengan penerapan penggunaan QR Code sebagai media akses gerbang parkir yang terdapat pada aplikasi smart phone dan penggunaan protokol MQTT untuk mengurangi data loss, sehingga dengan penggunaan metode ini dapat memberikan kemudahan bagi pengendara kendaraan bermotor untuk mengakses area parkir. Berdasarkan hasil pengujian yang telah dilakukan dapat disimpulkan bahwa pembacaan QR Code berfungsi dengan baik pada jarak antara smartphone dengan kamera yaitu 15 cm sampai dengan jarak maksimal 105 cm. Proses generate QR Code pada aplikasi smartphone untuk akses masuk membutuhkan waktu 0.11 detik dan akses keluar membutuhkan waktu 0.26 detik. Selain itu, pengiriman data dari alat pindai menuju server dan kontroler diterima dengan tepat.",
+  "creators": "DAVID WAHYU PRATOMO",
+  "contributors": "Resmana Lim (Advisor 1); Thiang (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1); Indar Sugiarto (Examination Committee 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010976/ELK/2019; David Wahyu Pratomo (23413017)",
+  "subjects": "PARKING LOTS--DESIGN AND CONSTRUCTION; QR CODES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "23820",
+  "title": "Perencanaan dan pembuatan alat bantu penggunaan pengolah data (word processor) bagi penyandang cacat lengan dengan komputer IBM-PC",
+  "abstract": "Bagi mereka penyandang cacat lengan, untuk meng- gunakan perangkat komputer dalam membuat teks akan mengalami kendala karena kegiatan tersebut IUemerlukan lengan / jari tangan untuk melakukan penekanan pada tombol-tomb01 papan ketik. Untuk mengatasi kendala tersebut dibuat alat bantu elektronik yang dapat memudahkan mereka menggunakan komputer pribadi (PC) sebagai sarana pembuatan teks, yaitu dengan menggunakan gerakan kepala sebagai pengganti fungsi lengan atau tangan. Metode yang digunakan adalah mendeteksi gerakan kepala secara vertikal dan horisontal, yaitu dengan mengukur jarak tiga titik pada kepala pemakai terhadap satu titik tetap. Dengan demikian gerakan kepala dapat dikonversikan sebagai gerakan pointer pada layar monitor. Pengukuran jarak dilakukan dengan menggunakan pulsa gelombang ultrasonik yang dipancarkan secara periodik dan setiap pulsa diukur waktu tempuhnya, kemudian dikonversi- kan sebagai jarak tempuh. Perbedaan jarak dari tiga titik diolah untuk menentukan posisi pointer pada layar monitor, dimana terdapat tampilan tombol-tomb01 papan ketik. Untuk melakukan llpenekananll tampilan tom'bol papan ketik tersebut digunakan micro switch yang dimodifikasi agar dapat digerakkan dengan cara ditiup. Alat bantu yang dibuat menggunakan IBM-PC sebagai prosessor dan ditunjang dengan PPI 8255 yang sangat multiguna sebagai paralel interface. Program dari sistem alat bantu ini dibuat dengan menggunakan bahasa pemrograman Turbo Pascal 7.0. Berdasarkan hasil pengujian dapat disimpulkan alat bantu yang dibuat dapat bekerja dengan baik yaitu mampu mendeteksi gerakan kepala secara vertikal dan horisontal untuk memilih tombol-tomb01 tampilan papan ketik pada layar monitor, membuat teks dan menyimpan teks dalam format ASCII. Alat bantu ini dapat dikembangkan lebih lanjut dengan aplikasi komputer yang beragam, khususnya sebagai pointing device.",
+  "creators": "ADWIN HARDJOWIBOWO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.96/E/EL/020/280; Adwin Hardjowibowo (23489027)",
+  "subjects": "COMPUTERS; WORLD PROCESSORS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "7777",
+  "title": "Aplikasi scada system pada miniatur water level control",
+  "abstract": "Tugas akhir tersebut dibuat sebagai salah satu bentuk simulasi dari proses yang terjadi dalam dunia industri. Tugas akhir ini juga dilengkapi dengan SCADA sistem, yang akan memberikan gambaran lebih nyata tentang proses yang dimaksud. Untuk lebih memudahkan proses kontrol dan monitoring, maka bentuk dan ukurannya-pun dibuat dalam model miniatur yang mudah dibawa (portable). Miniatur water level control dibuat sebagai plant yang dikontrol oleh PLC. PLC yang digunakan ada 2 macam yaitu: OMRON CPM1 dan MODICON TSX Micro 3721. Sedangkan komputer dalam hal ini SCADA software akan memvisualisasikan proses yang terjadi pada plant. Dari pengujian yang dilakukan, sistem dapat berjalan sesuai dengan yang diinginkan yaitu mempertahankan level ketinggian air. Di mana pencapaian kestabilan terjadi apabila nilai sensor sama dengan set_point. Untuk menjalankan sistem digunakan metode kontrol bias (teg_pompa = bias + error).",
+  "creators": "ANTONI SUSIONO",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No.02010745/ELK/2005; Antoni Susiono (23401016)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

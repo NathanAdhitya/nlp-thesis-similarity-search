@@ -1,0 +1,14 @@
+{
+  "id": "28255",
+  "title": "Pengontrol posisi antena parabola yang dapat di memori",
+  "abstract": "Dalam teknologi dunia Komunikasi yang semakin pesat terutama mengenai komunikasi dengan menggunakan antena parabola yang dapat menangkap gelombang mikro yang dipancarkan oleh satelit, maka harus ditunjang dengan sarana untuk dapat menggerakkan antena parabola tersebut agar didapat suatu hasil penerimaan yang baik. Untuk dapat menggerakkan antena parabola tersebut digunakan motor DC sebagai elemen penggeraknya dan IBM personal komputer dengan interfasing dan perangkat lunaknya sebagai pengontrol motor DC tersebut. Perangkat lunak yang dipergunakan menggunakan bahasa pemrograman tingkat tinggi Turbo Pascal. Teknik pengontrolan di sini dengan menggunakan metode proporsional dengan umpan balik menggunakan potensio yang dimasukkan dalam suatu elemen ADC sebagai input data dan dengan menggunakan elemen DAC sebagai output analog dengan melalui suatu penguat daya untuk dapat menggerakkan motor DC tersebut.",
+  "creators": "EDDY SOEDJATMIKO",
+  "contributors": "HANDAYANI T. (Advisor 1); HERLIANTO TENGGARA (Advisor 2); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 88/E/EL/015; Eddy Soedjatmiko (482046)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PARABOLIC-ANTENNA-COMPUTER PROGRAMS"
+}

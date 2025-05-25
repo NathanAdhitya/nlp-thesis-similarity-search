@@ -1,0 +1,14 @@
+{
+  "id": "28250",
+  "title": "Analisa jembatan box girder lengkung simply supported dengan metode finite strip",
+  "abstract": "Metode Finite Strip adalah suatu metode penyederhanaan dari metode Finite Element Metode Finite Strip ini menggunakan Teori Enerji Potensial total minimum sebagai pedoman untuk menganalisa struktur, terutama struktur Jembatan Box Girder Simply supperted. Pada tugas akhir ini akan dianalisa Jembatan Box Giroer dengan bentuk lengkung. Pada pembahasan pertama akan dibahas penggunaan Teori Enerji Potensial Total Minimum di dalam menganalisa persoalan struktur dan langkah-langkah di dalam penggunaan metode Finite Strip. Sedangkan pada bab-bab berikutnya akan dibahas penurunan matriks kekakuan dan matriks gaya secara umum, kemudian untuk pelat lengkung dan untuk shell kerucut terpancung, serta dibahas pula masalah tranformasi koordinat dan proses assemble. Pada pembahasan terakhir adalah pembuatan program untuk menganalisa Jembatan Box Girder lengkung Simply Supported, persiapan data, pembuatan data file, cara pemakaian program tersebut, serta contoh perhitungan, dan perbandingan hasil dengan penyelesaian yang menggunakan program Analisa Jembatan Box Girder lurus Simply Supported.",
+  "creators": "TOMAS WIBOWO; J. J. SUGIHARTO",
+  "contributors": "Ir. Soehendro Ratnawidjaja, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 220 S; Thomas Wibowo (280058), J.J. Sugiharto (280070)",
+  "subjects": "BRIDGES-BOX GINDER; BRIDGES-DESIGN"
+}

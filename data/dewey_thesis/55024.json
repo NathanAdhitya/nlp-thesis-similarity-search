@@ -1,0 +1,14 @@
+{
+  "id": "55024",
+  "title": "Peramalan pada data penjualan minuman serbuk kopi perusahaan XYZ dengan metode ARIMA",
+  "abstract": "Perusahaan XYZ merupakan perusahaan yang bergerak di bidang penjualan dan distribusi minuman serbuk kopi yang memerlukan suatu cara untuk memprediksi penjualan di masa yang akan datang. Prediksi ini dibutuhkan oleh perusahaan XYZ untuk memperkirakan rencana pembelian karena selama ini sering terjadi barang stockout atau oversupply pada warehouse yang menyebabkan kerugian bagi perusahaan. Selama ini, perusahaan sudah memiliki sistem peramalan yang lama namun hanya didasarkan dari perkiraan penjualan sebelumnya dan sering terjadi kesalahan. Tingkat error baik kelebihan maupun kekurangan produk mencapai kurang lebih 40 persen dari rata-rata penjualan semua produk. Selain itu, perusahaan juga kesulitan dalam mengambil keputusan terutama yang berkaitan dengan pemasaran dan promosi produknya karena data penjualan yang ada tidak dilakukan analisa dan hanya menjadi arsip perusahaan. Berdasarkan permasalahan yang ada, maka dalam penelitian ini akan dilakukan prediksi pada data penjualan minuman serbuk kopi perusahaan XYZ dengan metode ARIMA. Dengan melakukan prediksi penjualan, perusahaan XYZ dapat merancangkan suatu strategi untuk melakukan penjualan di masa yang akan datang. Dataset yang digunakan adalah data penjualan Januari 2017 hingga Desember 2017 untuk memprediksi penjualan pada bulan Januari 2018 sampai Desember 2018. Hasil penelitian menunjukkan bahwa prediksi penjualan perusahaan minuman serbuk kopi XYZ dengan metode ARIMA cukup baik dengan hasil rata-rata MAPE dari 10 produk minuman serbuk kopi yang diuji dengan angka 25.2%.",
+  "creators": "RICHARD ANDREW SANTOSO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Leo Willyanto Santoso (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022232/INF/2022; Richard Andrew Santoso (C14180107)",
+  "subjects": "INDUSTRIAL MANAGEMENT; SALES FORECASTING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "15961",
+  "title": "Perencanaan dan pembuatan perangkat lunak pengenalan berbicara dengan menggunakan TMS320C5X dan metode back propagation",
+  "abstract": "Pada tugas akhir ini dibuat suatu alat pengenalan pembicara ( Speaaker Recognition) dengan bantuan prosessor sinyal digital keluaran Texas Instruments keluarga TMS320. Permasalahan dibatasi pada pengenalan pembicara dengan jumlah maksimal 32 user, yang tergantung pada ciri-ciri suara dari tiap-tiap pembicara, dengan menggunakan bahasa pemrogramman c/c++ sebagai implementasi metode back propagation dan MSDQS 6.22 sebagai system operasinya. Pemrosessan ekstrasi ciri-ciri (feature) pada sistem dilakukan dengan TMS320C50 DSK (Digital Signal Processing Starter kit) untuk mendapatkan pengolahan yang real time, sedangkan proses pengenalan pola dengan metode back propagation digunakan komputer IBM PC/AT untuk kemudahannya. Metode yang digunakan untuk proses ektraksi ciri-ciri adalah metode analisa LPC (Linear Predictive Coding) dimana dari hasil perhitungan ini didapatkan koefisien prediksi,koefisien pancor, dan kesalahan prediksi. Yang dilanjutkan dengan proses pengenalan pola dengan metode back propagation, yang akhirnya menyebabkan diambilnya suatu keputusan yangmenyatakan sample suar tersebut dikenal atau tidak. Pengenalan suara ini dapat di pergunakan untuk beberapa aplikasi antara lain sistem keamanan, sistem telekomunikasi, komputer multimedia dan sebagainya. Kemampuan sistem pada tugas akhir ini terbatas pada kemampuan TMS320C50 yang merupakan prosessor fixed point untuk dapat melakukan perhitungan floating point secara perangkat lunak, dan ini mempengaruhi performasi sistem secara keseluruhan dan pemakaian komputer IBM PC/AT. Dari percobaan yang telah dilakukan di dapatkan bahwa karakteristik Neural yang optimum adalah Learning Ratenya adalah 0.25, biasnya 0.5 dan jumlah node dalam 3 buah layer adalah 200, 300, 5. Adapun keakuratan dalam Tugas akhir ini mencapai kurang lebih 50 %, hal ini dipengaruhi oleh beberapa hal antara lain yaitu waktu pelatihan, jumlah pattern tiap user, cara pelatihan dan tingkat error yang ada.",
+  "creators": "PRAJUDI",
+  "contributors": "Vivi Anggraini (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/KOM/014/018; Prajudi (23492137)",
+  "subjects": "SOFTWARE ENGINEERING"
+}

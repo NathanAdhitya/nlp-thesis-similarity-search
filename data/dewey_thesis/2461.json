@@ -1,0 +1,14 @@
+{
+  "id": "2461",
+  "title": "Validasi uang kertas rupiah dengan teknologi image processing",
+  "abstract": "Untuk memvalidasi uang kertas rupiah dibutuhkan alat yang dapat menangkap gambar uang kertas rupiah tersebut. Karena itu dipilih kamera sebagai indra. Setelah gambar diperoleh, digunakan teknologi image processing untuk mengenali dan membedakan nominal uang kertas rupiah. Metode template matching dipilih dan digunakan untuk mengenali dan membedakan ciri khusus uang kertas rupiah yang ditangkap oleh kamera karena variasinya tidaklah banyak. Pengujian similarity dilakukan untuk mengenali uang kertas rupiah yang paling mirip dengan template. Pengujian similarity yang pertama untuk invisible print, pengujian similarily yang kedua untuk watermark. Metode template matching menghasilkan persentase similarity yang cukup tinggi. Pada pengujian invisible print didapatkan rata - rata persentase similarity dari tiap nominal. Rp. 5.000 adalah 73 %, Rp. 5.000 New adalah 70 %, Rp. 10.000 adalah 55 %, Rp. 20.000 adalah 51 %, Rp. 50.000 adalah 65 %, Rp. 100.000 adalah 40 %. Pada pengujian watermark didapatkan rata - rata persentase similarity dari tiap nominal diantaranya Rp. 5.000 adalah 73 %, Rp. 5.000 New adalah 73 %, Rp. 10.000 adalah 50 %,~Rp. 20.000 adalah 80 %, Rp. 50.000 adalah 45 %. Validasi uang kertas rupiah diukur dari nilai persentase similarity. Uang kertas rapiah dikatakan valid bila memiliki persentase similarity diatas rata - rata yang ditentukan dan dikatakan invalid jika memiliki persentase similarity dibawah batas yang ditentukan.",
+  "creators": "TRIONO KRISTANTO",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Advisor 1); Anies Hannawati (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/023/569; Triono Kristanto (23497103)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8019",
+  "title": "Perancangan dan pembuatan perangkat lunak rekonstruksi gambar obyek 2 dimensi menjadi 3 dimensi dengan menggunakan metode generalized voxel coloring-layered depth image",
+  "abstract": "Saat ini, aplikasi digital, baik itu desain, permainan, program, animasi, telah memasuki dunia 3D, sehingga diperlukan suatu perangkat lunak yang mampu membuat obyek 3D dengan cepat dan mudah. Namun, saat ini belum ada perangkat lunak yang dapat membuat obyek 3D secara cepat, karena masih menggunakan teknik 3D modeling. Tujuan dari tugas akhir ini adalah membuat sebuah perangkat lunak yang dapat merekonstruksi obyek dalam tiga dimensi dari kumpulan gambar 2D dengan menggunakan metode generalized voxel coloring ? layered depth image. Metode ini sering disingkat dengan nama GVC-LDI yaitu rekonstruksi obyek dengan bantuan link list LDI untuk mencari voxel-voxel yang berkoresponden berdasarkan warna. Perangkat lunak ini bekerja dengan cara memproses pixel-pixel yang berkoresponden antar gambar terhadap sebuah voxel, kemudian menghitung standar deviasi warna voxel tersebut. Apabila standar deviasi warna-warna tersebut lebih kecil dari nilai tertentu maka dapat diasumsikan voxel tersebut termasuk bagian obyek. Proses dilakukan secara berulang untuk semua voxel hingga didapatkan semua voxel yang membentuk obyek 3D. Hasil dari proses rekonstruksi 3D berupa obyek 3D yang menyerupai obyek asli yang terdapat pada gambar 2D, dimana semakin banyak gambar referensi, semakin bagus hasil obyek 3D yang dibentuk. Namun, semakin banyak gambar referensi membuat proses rekonstruksi menjadi semakin lama. Pengembangan dari perangkat lunak ini adalah pembuatan aplikasi 3D modeling secara otomatis dan pembuatan aplikasi animasi 3D secara real time.",
+  "creators": "VICTOR JULIAN LIPESIK",
+  "contributors": "Rudy Adipranata (Advisor 1); Kartika Gunadi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01000678/INF/2007; Victor Julian Lipesik (26403003)",
+  "subjects": "DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

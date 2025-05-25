@@ -1,0 +1,14 @@
+{
+  "id": "1519",
+  "title": "Perencanaan dan pembuatan aplikasi untuk transfer warna ke gambar grayscale dengan metode global image matching",
+  "abstract": "Untuk menampilkan informasi yang lebih jelas dan juga untuk meningkatkan keindahan gambar, warna dapat ditransfer ke gambar grayscale, seperti foto tua hitam putih, film klasik, atau ilustrasi ilmiah. Bahkan untuk beberapa kasus, pentransferan warna ini sangat berguna, misalnya untuk memberi warna pada gambar bagasi pesawat yang diperoleh dari peralatan X-ray di bandara, scanning electron microscopy (SEM), dan gambar-gambar lainnya yang tidak memiliki warna. Tugas Akhir ini membahas tentang perancangan dan pembuatan sebuah aplikasi untuk mentransfer warna ke gambar grayscale dengan metode global image matching, dimana campur tangan manusia tidak dibutuhkan dalam proses pewarnaannya. Aplikasi ini akan mentransfer warna dari gambar asal, yaitu sebuah gambar warna, ke gambar tujuan, yaitu sebuah gambar grayscale, yang keduanya diinputkan oleh pengguna, dan menghasilkan gambar tujuan yang berwarna berdasarkan informasi warna dari gambar sumber. Pentransferan `suasana? warna dari gambar sumber ke gambar tujuan dilakukan dengan mencocokan tingkat kecerahan dan informasi tekstur di antara kedua gambar. Pentransferan warna ini dilakukan dengan mentransfer nilai kromatik dari gambar warna dan mempertahankan nilai tingkat kecerahan gambar grayscale. Teknik ini cukup sukses dalam penerapannya pada gambar yang bervariasi, dengan ukuran, tekstur dan tingkat kecerahan yang berbeda. Lebih lanjut, aplikasi yang dibuat dengan menggunakan Borland Delphi 6 ini memiliki rata-rata kecepatan pentransferan warna 1048,484 pixel per detik. Pengujian kecepatan pentransferan tersebut dilakukan menggunakan komputer dengan spesifikasi prosesor Intel Pentium III 550 MHz, memori SDRAM Visipro 320 MB, sistem operasi Windows 2000 Advanced Server, dan Kartu Grafik (VGA) S3 Inc. Savage4 16 MB. Sedangkan untuk ketepatan gambar yang dihasilkan aplikasi ini adalah cukup baik, terutama untuk gambar warna yang memiliki sedikit warna spektrum.",
+  "creators": "LILYANA DEWI",
+  "contributors": "Kartika Gunadi (Advisor 1); Resmana Lim (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010092/INF/2003; Lilyana Dewi (26499099)",
+  "subjects": "COMPUTER GRAPHICS--COMPUTER PROGRAMS; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

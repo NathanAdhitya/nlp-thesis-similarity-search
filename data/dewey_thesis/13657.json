@@ -1,0 +1,14 @@
+{
+  "id": "13657",
+  "title": "Perilaku seismik struktur rangka beton bertulang yang didesain menggunakan perencanaan pseudo elastis dalam respons 3 dimensi",
+  "abstract": "Perencanaan gempa struktur beton bertulang dengan perencanaan Desain Kapasitas mengarah pada terjadinya Strong Column Weak Beam Mechanism. Tetapi dengan perencanaan tersebut akan menghasilkan kekuatan kolom yang berlebihan pada struktur dengan beban gravitasi dominan dan juga membutuhkan waktu perencanaan yang relatif lebih lama karena perhitungan perencanaan kolom hanya dapat dilakukan setelah perhitungan perencanaan balok selesai. Tindrawati dan Juliana mengusulkan suatu cara alternatif perencanaan gempa struktur rangka beton bertulang, yang dinamakan perencanaan Pseudo Elastis, dengan berdasarkan Partial Beam Side Sway Mechanism. Dalam perencanaan ini tidak diperkenankan terjadi sendi plastis pada kolom eksterior kecuali pada lantai dasar, sedangkan pada balok dan kedua ujung kolom interior diijinkan terjadi sendi plastis. Konsep tersebut direncanakan dan dianalisa dalam struktur 2 dimensi. Dalam penelitian ini, digunakan 3 buah model struktur, yaitu portal 4 bentang dengan 4, 6, dan 8 lantai pada wilayah gempa 4, berdasarkan SNI 1726-1999. Struktur-struktur tersebut dianalisa dengan Analisa Respons Dinamik Riwayat Waktu Non-Linier menggunakan program SAP2000 dalam respons 3 dimensi. Dalam penelitian ini didapat bahwa semua struktur berperilaku memuaskan terhadap beban gempa El-Centro 1940 N-S modifikasi yang disesuaikan dengan respon spektrum gempa Indonesia periode ulang 200 tahun pada wilayah gempa 4. Untuk portal 4 bentang 4 lantai kegagalan struktur terjadi saat dikenai gempa dengan periode ulang 1000 tahun, sedangkan untuk portal 4 bentang dengan 6 dan 8 lantai kegagalan struktur terjadi saat dikenai gempa dengan periode ulang 500 tahun.",
+  "creators": "VIRA AGUSTIN; FERRY WIDJAJA",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Po Seng Kian (Advisor 2); Januar Buntoro (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 1112 S; Ferry Widjaja (21496017), Vira Agustin (21496022)",
+  "subjects": "EARTHQUAKES AND BUILDINGS"
+}

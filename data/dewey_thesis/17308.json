@@ -1,0 +1,14 @@
+{
+  "id": "17308",
+  "title": "Perancangan keseimbangan lintasan produksi dalam upaya meminimasi waktu menganggur di PT Djajanti Universal, Gresik",
+  "abstract": "Keseimbangan lintasan merupakan hal yang sangat penting di dalam perencanaan hasil produksi. Karena apabila lintasan produksi tidak seimbang maka target produksi yang sudah direncanakan sulit dicapai. Perancangan keseimbangan lintasan produksi yang dilakukan dalam penelitian tugas akhir ini dimaksudkan untuk meminimalkan waktu menganggur (idle time) pada lintasan produksi. Ada dua jenis meja yang diproduksi di PT. Djajanti Universal yaitu Veneer Table dan Solid Table, sehingga perlu dilakukan perancangan keseimbangan lintasan yang fleksibel yang dapat digunakan oleh kedua produk yang secara umum berbeda urutan serta waktu prosesnya tetapi ada beberapa jenis prosesnya yang identik. Kesulitan yang dihadapi dalam penelitian tugas akhir ini adalah tidak tersedianya literatur yang membahas tentang keseimbangan lintasan produksi yang menggabungkan lebih dari satu jenis produk sampai saat ini. Tetapi ada sebuah literatur yang menuliskan konsep dasar tentang Mixed-Product Line Balancing dengan waktu proses yang sama untuk masing-masing produk apabila dikerjakan dalam satu mesin yang sama. Sehingga dicoba dikembangkan sebuah metode pendekatan dengan memperhatikan konsep-konsep dasar yang ada. Metode pendekatan tersebut dirumuskan dalam langkah-langkah seperti menggabungkan precedence diagram dari kedua jenis produk, di sini diambil waktu proses yang maksimum dari masing-masing produk di mana waktu proses maksimum dapat mengcover waktu proses untuk masing-masing produk, kemudian diambil waktu siklus yang minimum dari masing-masing produk di mana waktu siklus minimum dapat memenuhi target produksi dari kedua produk. Kemudian dilakukan pengelompokkan operasi-operasi kerja dalam stasiun kerja dengan menggunakan metode COMSOAL Didapatkan dari hasil tersebut peningkatan efisiensi lintasan dari keadaan sebelum dilakukan keseimbangan lintasan sebesar 58.17 % dan penurunan jumlah kebutuhan operator sebanyak 41 orang.",
+  "creators": "SELLY MEILANIA",
+  "contributors": "Stevanus Adrianto Tjandra (Advisor 1); Oegik Soegihardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04/TMI-004/1996; Selly Meilania (25492102)",
+  "subjects": "PRODUCTION MANAGEMENT"
+}

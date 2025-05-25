@@ -1,0 +1,14 @@
+{
+  "id": "58104",
+  "title": "Perancangan dashboard persiapan cabang untuk Go-Live ERP pada PT X",
+  "abstract": "PT X merupakan perusahaan yang bergerak dalam bidang manufaktur gas, di mana sedang melaksanakan sebuah projek pergantian sistem ERP. Penelitian ini membahas terkait perancangan dashboard kesiapan cabang dalam proses pergantian ERP PT X berdasarkan perhitungan performa kinerja cabang. Performa kinerja cabang yang ditampilkan pada dashboard dihitung melalui beberapa kategori aktivitas yang sering dilakukan oleh setiap cabang yaitu, scan filling, scan delivery, verification, delivery without barcode, customer audit, dan saldo botol on truck. Dashboard terdiri dari 1 halaman yang terbagi menjadi 7 tabel utama di mana 6 tabel tersebut menampilkan detail angka skor performa kinerja seluruh cabang PT X untuk setiap kategorinya. Sedangkan 1 tabel terakhir menampilkan angka perhitungan akhir skor performa kinerja seluruh cabang. Dashboard kesiapan cabang dirancang untuk mengukur performa kinerja cabang apakah siap atau tidak dalam melakukan proses transformasi ERP.",
+  "creators": "CLAIRINE ATHALIA SUSILO",
+  "contributors": "Siana Halim (Advisor 1); Jani Rahardjo (Examination Committee 1); Alexander Christian (Advisor 2); Garant Fortino (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022585/IND/2023; Clairine Athalia Susilo (C13190013)",
+  "subjects": "DASHBOARDS (MANAGEMENT INFORMATION SYSTEMS); MANUFACTURING INDUSTRIES--MANAGEMENT; PRODUCTION MANAGEMENT"
+}

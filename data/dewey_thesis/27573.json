@@ -1,0 +1,14 @@
+{
+  "id": "27573",
+  "title": "Improving backpropagation training time and its generalization using pruning",
+  "abstract": "Beberapa tahun terakhir, banyak algoritma jaringan syaraf tiruan uang dikembangkan untuk klasifikasi pola. Salah satu algoritma yang populer adalah backpropagation. Akan tetapi, menentukan besarnya suatu jaringan backpropagation adalah suatu masalah yang sangat sulit. Jumlah hidden unit yang terlalu banyak akan menyebabkan jaringan terlalu menghafal data training dan kurang generalisasi. Sedangkan jumlah hidden unit yang terlalu sedikit, jaringan yang dihasilkan kurang belajar data yang ada. Pendekatan yang digunakan untuk mendapatkan jumlah hidden unit yang optimal adalah dengan memulai dengan jumlah yang berlebih kemudian menghilangkan hidden unit yang berlebih. Langkah kedua adalah menghilangkan input atribut yang berlebih. Langkah terakhir adalah menghilangkan weight yang berlebih. Aplikasi dibuat dengan C# dengan Microsoft Visual Studio 2005 sebagai IDE-nya. Hasil pengujian dengan beberapa data set menunjukan akurasi setelah proses pruning sama atau lebih baik. Akan tetapi, pada beberapa data set akurasai yang dihasilkan lebih rendah, tetapi masih dalam nilai yang wajar.",
+  "creators": "DANIEL BUDIONO",
+  "contributors": "Liliana (Advisor 1); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021096/INF/2012; Daniel Budiono (26408068)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

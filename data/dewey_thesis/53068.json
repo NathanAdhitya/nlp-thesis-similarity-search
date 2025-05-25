@@ -1,0 +1,14 @@
+{
+  "id": "53068",
+  "title": "Perancangan sistem mekanik dan pengisian daya otomatis pada autonomous mobile robot",
+  "abstract": "Fakultas Teknologi Industri UK Petra, memerlukan robot yang dapat mengantarkan barang terkait produksi pakaian. Untuk itu, dirancang dan dibuatlah autonomous mobile robot yang dapat bekerja pada lingkungan tertutup dengan lantai yang rata. Robot dibagi menjadi tiga topik spesifik yang dikerjakan oleh tiga mahasiswa. Topik yang akan dibahas oleh penulis terkait sistem pengisian daya mandiri dan penentuan motor DC robot. Sensor arus ACS712 dan rangkaian voltage divider menjadi kunci utama dalam sistem pengisian robot. Kedua sensor ini dikombinasikan untuk mengetahui kapasitas baterai lead-acid dan posisi robot. Secara khusus, perhitungan kapasitas baterai memanfaatkan metode coulomb counting. Seluruh data-data yang diperoleh sensor diolah melalui Arduino Mega 2560. Hasil olahannya dikirimkan ke ekosistem ROS yang didirikan pada Raspberry Pi 4. Berdasarkan hasil pengujian, motor DC yang dipilih sudah sesuai dengan kebutuhan dan sistem pengisian dapat bekerja dengan baik. Dengan motor DC yang dipilih, robot mampu membawa beban hingga 98,5 kg dengan kecepatan maksimal 1 m/s. Rata-rata eror pembacaan sensor arus dan tegangan rendah berkisar 0,18-1,48 %. Baterai mampu bertahan selama 3 jam dan 50 menit dengan beban konstan 10 A. Tingkat penggunaan kapasitas baterai (DoD) pada sistem robot sebesar 51,86 %.",
+  "creators": "THOMAS ARDI",
+  "contributors": "Handry Khoswanto (Advisor 1); Roche Alimin (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011034/ELK/2022; Thomas Ardi (C11180005)",
+  "subjects": "MOBILE ROBOTS--PROGRAMMING; ROBOTS--CONTROL SYSTEMS--DESIGN AND CONSTRUCTION; STORAGE BATTERIES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10748",
+  "title": "Pengatur brightness dan kontras otomatis pada televisi trainer",
+  "abstract": "Setiap televisi mempunyai mode pilihan gambar, diantaranya adalah brightness dan kontras. Oleh karena itu, diperlukan perancangan pengaturan brightness dan kontras secara otomatis pada televisi menyesuaikan cahaya ruang sekitar. Saat cahaya ruangan terang layar televisi menjadi terang. Jika cahaya ruangan gelap maka intensitas cahaya layar televisi redup. Kondisi seperti sebelumnya sudah diatur sedemikian rupa sehingga tepat bagi selera penonton televisi. Alat yang digunakan untuk pengaturan brightness dan kontras otomatis pada televisi adalah photodioda sebagai sensor yang menerima cahaya sekitar, IC Op Amp sebagai pengolah data pada rangkaian Instrumentation Amplifier sebagai Span dan Zero, Jembatan Wheatstone sebagai pengolah input dari sensor photodioda. Dari hasil pengujian pengatur brightness dan kontras terhadap intensitas cahaya luar, rangkaian bekerja mendekati linier dibandingkan regresi liniernya Y = 3,53 + 0,011X untuk brightness dan Y = 3,873 + 0,02X untuk kontras dengan r = 0.7 dan error 0.0001 sampai 0.005.",
+  "creators": "FERY ARIF GUNAWAN",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010858/ELK/2008; Fery Arif Gunawan (23401024)",
+  "subjects": "OPERATIONAL AMPLIFIERS; TELEVISION-PICTURE QUALITY-CONTROL"
+}

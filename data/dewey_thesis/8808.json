@@ -1,0 +1,14 @@
+{
+  "id": "8808",
+  "title": "Odour recognition dengan menggunakan neural network",
+  "abstract": "Dengan Kemajuan teknologi sensor gas, sensor gas dapat digunakan untuk mendeteksi bau. Karena setiap bau mempunyai karakteristik sendiri, maka perbedaan karakteristik ini dapat dimanfaatkan untuk mengenali suatu jenis zat atau bau. Tugas akhir ini bertujuan mengenali bau dengan metode Neural Network. Telah tersedia data-data untuk 15 jenis zat yang didapatkan dari 4 buah sensor bau TGS 2600, TGS 2610, TGS 2611 dan TGS 2620. 20 data konsentrasi dari tiap sensor dipisahkan dan menjadi bank data dalam proses pembelajaran neural network, sedangkan sisanya dijadikan pengujian dalam mengenali suatu jenis zat. Metode pengenalannya dengan menggunakan metode neural network back propagation. Pengujian dilakukan 2 tahap, yang pertama untuk mengetahui kebenaran sistem yang dibuat, sedangkan yang kedua bertujuan untuk mendapatkan hasil pengenalan pola yang lebih bagus dengan merubah parameter-parameternya. Sistem yang telah dibuat mempunyai persentase ketepatan mencapai 97%",
+  "creators": "HENRI MARTINUS",
+  "contributors": "Anies Hannawati (Advisor 1); Thiang (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/579/ELK/2003; Henri Martinus (23496055)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

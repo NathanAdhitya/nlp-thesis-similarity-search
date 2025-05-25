@@ -1,0 +1,14 @@
+{
+  "id": "13608",
+  "title": "Aplikasi e-commerce untuk penjualan VCD berbasis Java dan XML",
+  "abstract": "Java sebagai bahasa yang portabel dan XML sebagai bahasa markup yang mudah dikembangkan apabila dikombinasikan dapat menghasilkan aplikasi yang bersifat portabel dan mudah dikembangkan. Java Server Pages (JSP) dan Servlet merupakan bagian dari teknologi Java untuk komponen web dan dapat digunakan untuk menghasilkan aplikasi e-commerce. Dengan JSP dan Servlet maka aplikasi web dapat dikembangkan untuk menjadi aplikasi berskala enterprise maupun mobile. Tujuan dari tugas akhir ini adalah untuk membuat suatu aplikasi penjualan VCD berbasis web yang juga dapat menampilkan informasi VCD terbaru dan terbaik di browser HTML maupun browser WAP berbasis XML. Aplikasi yang dibuat untuk penjualan VCD secara online menggunakan teknologi JSP, Servlet, Java Bean. Database menggunakan MySQL dan Tomcat sebagai JSP dan Servlet Container. Aplikasi e-commerce yang dibuat memiliki fasilitas shopping cart, sistem keanggotaan, dan katalog VCD berbasis database, dan menampilkan informasi VCD terbaru dan terbaik. Tugas akhir ini telah berhasil mensimulasikan aplikasi e-commerce untuk penjualan VCD secara lokal dan dapat menampilkan informasi VCD pada browser HTML maupun WAP. Hal ini menunjukkan bahwa kombinasi dari teknologi yang digunakan pada tugas akhir ini cocok untuk membuat aplikasi web, termasuk aplikasi e-commerce.",
+  "creators": "ISAK RICKYANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Sukanto Tedjokusuma (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/KOM/009/085; Isak Rickyanto (23497004)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT-COMPUTER PROGRAMS; INTERNET (COMPUTER NETWORKS)"
+}

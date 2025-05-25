@@ -1,0 +1,14 @@
+{
+  "id": "36679",
+  "title": "Aplikasi game strategi penyerbuan di Batavia tahun 1628 oleh Kesultanan Mataram menggunakan metode algoritma genetika",
+  "abstract": "Salah satu cara yang dapat digunakan untuk melakukan pendekatan edukasi yang tidak membuat bosan adalah dengan menggunakan game. Salah satu genre game yang dapat digunakan untuk memberikan aspek hiburan dan edukasi pada pemainnya adalah game turn-based strategy. Sebagai game turn-based strategy, Battle of Batavia memerlukan AI lawan yang dapat mengambil keputusan untuk dapat membuat dan menggerakkan pasukan dengan baik agar membuat game lebih menarik untuk dimainkan. Untuk membuat AI yang dapat berpikir dengan baik, dibuatlah suatu sistem AI yang dapat berpikir dengan baik di dalam game. Sistem yang dibuat menggunakan metode algoritma genetika dalam mengambil keputusan dalam membuat dan menggerakkan pasukan. Aplikasi yang dibuat untuk skripsi ini adalah game Battle of Batavia itu sendiri. Sistem algoritma genetika dimasukkan kedalam game secara langsung di dalam game. Hasil pengujian menunjukkan bahwa AI algoritma genetika dapat dikembangkan agar dapat berpikir lebih baik lagi dengan menentukan kriteria fitness apa saja yang berpengaruh pada penentuan pembuatan dan pergerakan pasukan. Hasil juga menunjukkan bahwa metode AI algoritma genetika mampu mengambil keputusan yang lebih baik daripada metode random pada beberapa keadaan game.",
+  "creators": "JOHAN PRANATA",
+  "contributors": "Kristo Radion Purba S.ST. (Advisor 1); Liliana (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021529/INF/2016; Johan Pranata (26412026)",
+  "subjects": "COMPUTER GAMES-PROGRAMMING; COMPUTER GAMES; GENETIC ALGORITHMS"
+}

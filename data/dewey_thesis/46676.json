@@ -1,0 +1,14 @@
+{
+  "id": "46676",
+  "title": "Perancangan dan pembuatan aplikasi untuk menunjang analisa track record penyakit di RSU Dr. Soetomo dengan menggunakan sequential pattern mining",
+  "abstract": "Saat ini RSU Dr. Soetomo telah memiliki sistem yang terkomputerisasi untuk mencatat track record penyakit pasien. Dengan banyaknya data yang harus dianalisis, RSU Dr. Soetomo perlu mengetahui pola urutan penyakit. Berdasarkan permasalahan yang dihadapi RSU Dr. Soetomo, maka perlu dibuat suatu aplikasi berbasis data mining untuk membantu mengetahui pola urutan penyakit. Aplikasi dirancang untuk dapat memprediksi pola urutan penyakit yang diderita pasien dalam kurun waktu tertentu dan/atau daerah tertentu berdasarkan data historis pasien RSU Dr. Seotomo dengan menggunakan pattern-projected sequential pattern mining. Informasi yang dihasilkan dari aplikasi berupa rule dan graph. Dari hasil pengujian semakin banyak jumlah record, waktu yang dibutuhkan semakin lama.",
+  "creators": "SYLVIA TANUMULYA",
+  "contributors": "Oviliani Yenty Yuliana (Advisor 1); Gregorius Satiabudhi (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020854/INF/2009; Sylvia Tanumulya (26406023)",
+  "subjects": "DATA MINING; APPLICATION SOFTWARE"
+}

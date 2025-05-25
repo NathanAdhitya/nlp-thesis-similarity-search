@@ -1,0 +1,14 @@
+{
+  "id": "29229",
+  "title": "Aplikasi untuk menampilkan 3d-mesh dengan skeletal animation pada board game",
+  "abstract": "Animasi adalah bagian yang tak terpisahkan dari video game. Game yang menggunakan animasi yang sangat minim akan menghasilkan kesan yang monoton. Sistem animasi pada pengembangan game tidak bisa dihiraukan. Untuk dapat menghasilkan game dengan animasi yang baik, diperlukan sebuah metode untuk menganimasikan objek-objek dalam game. Salah satu metode yang digunakan adalah metode Skeletal Animation. Skeletal Animation adalah metode di mana pada sebuah objek diberikan kerangka sehingga objek bisa bergerak mengikuti kerangka dari objek. Dengan menggunakan metode Skeletal Animation, bisa dihasilkan sebuah game dengan animasi yang menarik dan terkesan tidak monoton sehingga pengguna dapat menikmati permainan. Akan tetapi, hanya menggunakan skeletal animation untuk menganimasikan objek-objek game masih menciptakan kesan yang kaku. Untuk memperbaikinya, bisa diperhitungkan beberapa variabel lain seperti percepatan dalam gerakan. Dalam kata lain, masih terdapat ruang untuk dikembangkan pada aplikasi. Skripsi ini akan mengimplementasikan metode Skeletal Animation untuk menganimasikan objek-objek dalam game bersama dengan metode-metode lainnya seperti translasi dan rotasi.",
+  "creators": "KIAT STANLEY",
+  "contributors": "Liliana (Advisor 1); Gregorius Satiabudhi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021277/INF/2013; Kiat Stanley (26409121)",
+  "subjects": "BOARD GAMES; PROGRAMMING (ELECTRONIC COMPUTERS); COMPUTER ANIMATIONS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "9696",
+  "title": "Perancangan sistem perencanaan produksi dan pengendalian bahan baku di PT Gunungarta Manunggal",
+  "abstract": "PT Gunungarta Manunggal merupakan industri manufaktur yang memproduksi air mineral dalam kemasan. Air mineral yang diproduksi ada 2 merk yaitu CERIA dan GLORIA yang dikemas dalam bentuk cup 240ml, botol 330 ml, botol 600 ml,botol 1500 ml, dan galon 19 liter. Produk CERIA dan GLORIA 240 ml merupakan produk standar dengan permintaan terbanyak, tetapi strategi respon yang digunakan masih menggunakan make to order. Oleh karena itu perlu dirancang sistem perencanaan produksi dengan strategi make to stock dan memperhitungkan safety stock. Ada tiga usulan perencanaan produksi yang dibuat yaitu berfokus pada pengisian inventori hingga mencapai stok minimum, yang kedua berfokus pada mengisian inventori hingga mencapai stok maksimum, dan yang ketiga membuat perencanaan produksi berdasarkan target perusahaan. Ternyata usulan yang lebih baik dan dapat digunakan oleh perusahaan adalah usulan pertama dan kedua karena stok akhir lebih stabil. Usulan pertama baik untuk kondisi kiriman yang diprediksikan sepi, sedangkan usulan kedua baik digunakan untuk kondisi kiriman yang diprediksikan ramai. Selain barang jadi, juga perlu untuk menghitung kebutuhan bahan baku selama satu bulan yang memperhitungkan safety stock dan permintaan saat lead time untuk mengendalikan bahan baku.",
+  "creators": "FIONA",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01040953/IND/2005; Fiona (25401061)",
+  "subjects": "IVENTORY CONTROL; PRODUCTION PLANNING"
+}

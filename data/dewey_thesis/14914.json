@@ -1,0 +1,14 @@
+{
+  "id": "14914",
+  "title": "Perencanaan dan pembuatan alat pengontrol AC pada ruangan dengan mikrokontroler 8031",
+  "abstract": "Dewasa ini hampir sebagian besar gedung-gedung di kota-kota besar terutama perkantoran menggunakan sarana pendingin ruangan yang menggunakan sistem kontrol secara manual. Untuk suhu diluar ruangan yang berganti-ganti, pada waktu siang hari suhu di luar bangunan lebih tinggi dan pada waktu malam atau hujan akan menjadi lebih rendah, maka sistem pendingin ruangan harus selalu disesuaikan, untuk itu diperlukan kontrol pendingin ruangan yang bekerja secara otomatis. Pada tugas akhir ini dibuat sebuah alat pengontrol AC pada ruangan dengan bantuan mikrokontroler 8031 dan sensor suhu-nya menggunakan LM 335. Prinsip dasar dari alat kontrol ini adalah mengetahui suhu yang dikehendaki oleh pengguna ruangan yang diinputkan melalui keypad, kemudian mikrokontroler 8031 akan membandingkan dengan suhu ruangan yang diperoleh dari sensor suhu LM 335. Agar sinyal yang dikeluarkan oleh LM 335 dapat diketahui oleh mikrokontroler 8031 maka diperlukan rangkaian pengkondisi sinyal LM 308 dan ADC 0804. Setelah mengetahui suhu ruangan dan suhu yang diinputkan oleh si pengguna ruangan maka mikrokontroler 8031 dapat mengontrol kompressor dan blower dari AC ruangan tersebut dengan bantuan PPI 8255 dan rangkaian driver elektronik. Suhu yang dikehendaki dapat terlihat melalui layar LCD. Pada pengujian yang dilakukan, terdapat kendala pada perangkat lunak sehingga alat tersebut tidak dapat berfungsi dengan sempurna.",
+  "creators": "IMAM SUDIRA T.",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); VINCENT PRASETYO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/003/348; Imam Sudira Tjandraatmadja (23485028)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

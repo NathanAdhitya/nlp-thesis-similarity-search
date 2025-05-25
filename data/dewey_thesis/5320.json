@@ -1,0 +1,14 @@
+{
+  "id": "5320",
+  "title": "Production scheduling using backward scheduling method in Job Shop System study case at Schneider Indonesia Ltd",
+  "abstract": "SCHNEIDER INDONESIA LTD. saat ini sedang menerapkan Lean Manufacturing baik di proses manufaktur maupun di proses perakitannya untuk meningkatkan baik kualitas produksi maupun kuantitas produksinya sehingga dituntut untuk memenuhi pesanan tepat waktu. Tugas Akhir ini berisi tentang pembuatan analisa kebutuhan kapasitas (Capacity Requirement Planning) di divisi metal shop khususnya proses bending dengan menggunakan software Microsoft Excel. Tujuan dari pembuatan program ini adalah memudahkan penganalisaan kapasitas yang ada serta memudahkan pembuatan schedule sehingga diharapkan proses produksi dapat berjalan lebih lancar dan tepat waktu. Program ini Juga diharapkan dapat menganalisa apakah suatu loading order terlambat atau tidak dengan menggunakan prinsip Queue Management. Penggunaan program ini cukup sederhana, yaitu dengan meng-input-kan data customer order (dalam hal ini project order: WBS-Element, Name of Project, Line, Type of Product, Quantity, Category, STD Lead Time (Hrs/5 cbl), Lead-time, Drawing, Progress). Data mengenai jenis shift, jumlah shift, today, dan jumlah hari libur juga di-input-kan. Secara otomatis, program akan membuat perhitungan kapasitas dan kemudian melakukan analisa kapasitas yang disebut `CRP? (Capacity Requirement Planning). Dan program secara otomatis membuat schedule. Setelah menganalisa CRP, kita akan mengetahui loading yang ada. Jika terjadi overload, maka kita dapat mengambil tindakan dengan melakukan overtime atau sub-kontrak.",
+  "creators": "CANDRA PURNAMA",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Herri Christian Palit (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10141083/IND/2006; Candra Purnama (25402103)",
+  "subjects": "SCHEDULING; PRODUCTION PLANNING"
+}

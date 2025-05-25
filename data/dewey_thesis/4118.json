@@ -1,0 +1,14 @@
+{
+  "id": "4118",
+  "title": "Perancangan sistem produksi dan pengendalian bahan baku perusahaan krupuk",
+  "abstract": "Perancangan sistem produksi dan pengendalian bahan baku sangat diperlukan dalam perusahaan. Perancangan sistem produksi dilakukan agar proses produksi dapat berjalan sesuai dengan perencanaan yang dilakukan. Bahan baku yang berlebihan merupakan suatu kerugian bagi perusahaan. Pengendalian bahan baku yang tepat diperlukan untuk mengatasi kelebihan bahan baku tersebut. Pengendalian bahan baku dilakukan dengan cara menentukan jumlah pesanan (lot sizing) yang tepat pada waktu yang tepat. Peramalan permintaan digunakan sebagai landasan untuk menentukan jumlah pemesanan bahan baku. Peramalan permintaannya yaitu peramalan time series, dengan perencanaan agregat menggunakan metode Integer Linear Programming. Perencanaan kebutuhan bahan baku (MRP) ditentukan dengan menggunakan lot sizing yang terbaik berdasarkan total biaya terkecil. Metode lot sizing yang diperoleh kemudian dilakukan perbandingan dengan perencanaan bahan baku yang dilakukan oleh perusahaan. Hasil perbandingan yang diperoleh menunjukkan bahwa total biaya dari perhitungan menggunakan lot sizing dengan metode Wagner Whitin Algorithm lebih kecil dari total biaya yang terjadi pada perusahaan saat ini.",
+  "creators": "FITRI EDDY",
+  "contributors": "I Nyoman Sutapa (Advisor 1); Herri Christian Palit (Advisor 2); Iwan Halim Sahputra, S.T., M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010841/IND/2004; Fitri Eddy (25499137)",
+  "subjects": "WORK MEASUREMENT; INVENTORY CONTROL; PRODUCTION PLANNING"
+}

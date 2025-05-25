@@ -1,0 +1,14 @@
+{
+  "id": "8016",
+  "title": "Perancangan dan pembuatan perangkat lunak pembuat soal dengan menggunakan nlp",
+  "abstract": "Dengan banyaknya kasus kebocoran soal ujian yang terjadi akhir-akhir ini, akan menimbulkan kerugian bagi banyak pihak, seperti pihak sekolah maupun pihak murid. Karena itu, diperlukan suatu sistem di mana kerahasiaan soal dapat terjaga dan meminimalkan peran manusia di dalamnya, karena tidak dapat dipungkiri kalau salah satu faktor yang mengakibatkan kebocoran soal adalah manusia. Hal tersebut dapat dicegah salah satunya dengan menerapkan NLP (Natural Language Processing) dalam bidang pendidikan, yaitu pembuatan soal secara otomatis dari materi yang diberikan. Beranjak dari permasalahan di atas, dibuat sebuah program untuk membuat soal secara otomatis dari materi yang diberikan dalam bahasa Indonesia. Dalam program ini terdapat fasilitas untuk menginputkan materi, melakukan pengecekan struktur kalimat, membuat pertanyaan, menginputkan kata baru, dan menampilkan data nilai. Program ini dibuat dengan bahasa pemrograman Borland Delphi 7.0 dan database-nya dengan Microsoft Access 2000. Diharapkan di kemudian hari program ini dapat menjadi cikal bakal untuk program pembuatan soal yang lebih rumit. Dari hasil pengujian dapat disimpulkan bahwa program dapat melakukan pengecekan terhadap kalimat-kalimat yang strukturnya sesuai dengan batasan-batasan yang tertulis dalam ruang lingkup dan membuat pertanyaan dari kalimat-kalimat tersebut. Untuk pengujian terdapat dua model pertanyaan, yaitu isian dan menjodohkan.",
+  "creators": "IDAWATI WIDJAJA",
+  "contributors": "Rolly Intan (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000514/INF/2006; Idawati Widjaja (26402086)",
+  "subjects": "SOFTWARE ENGINEERING; DATABASE DESIGN"
+}

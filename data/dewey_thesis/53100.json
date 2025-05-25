@@ -1,0 +1,14 @@
+{
+  "id": "53100",
+  "title": "Perancangan sistem perangkat lunak untuk kontrol pemetaan dan navigasi pada prototipe robot mobil",
+  "abstract": "Fakultas Teknologi Industri UK. Petra memerlukan robot yang dapat digunakan dalam lingkungan Mini Smart Factory. Robot yang dimaksudkan harus fleksibel dan dapat melakukan fungsi material handling. Tujuan akhir dari tugas akhir ini adalah membuat prototipe autonomous mobile robot yang terbagi menjadi tiga topik utama yang dikerjakan oleh tiga mahasiswa. Topik yang akan dibahas dalam tugas akhir ini mencakup pengontrolan robot yang telah dibuat yang sifatnya high-level. Robot dapat dikatakan fleksibel apabila dapat melakukan pengantaran troli dan pengisian daya secara mandiri. Robot dilengkapi dengan LIDAR yang dapat memetakan ruangan tertutup dengan kondisi permukaan lantai yang rata. Robot memiliki tiga stasiun pengambilan atau penyimpanan troli serta stasiun pengisian daya yang akan didaftarkan lokasinya. Kemudian, robot akan secara presisi menuju tujuan yang telah ditentukan (docking) dengan mendeteksi v-sign pada masing-masing stasiun. Berdasarkan hasil pengujian pemetaan dengan menggunakan metode Gmapping menghasilkan peta yang lebih baik dari pada dengan metode Cartographer. Pemetaan dengan jalur mengikuti dinding juga menghasilkan peta yang lebih lengkap dari pada dengan jalur di tengah-tengah lorong. Dari hasil pengujian waktu rata-rata yang dibutuhkan untuk melakukan docking sebesar 26.54 detik dengan tingkat kepresisian sebesar 0.58 centimeter. Berdasarkan hasil pengujian kestabilan docking, waktu rata-rata yang dibutuhkan untuk docking ketika posisi awal robot berada pada 4D sebesar 29.47 detik dengan kepresisian sebesar 0.89 centimeter.",
+  "creators": "JUAN STEVEN",
+  "contributors": "Resmana Lim (Advisor 1); Handy Wicaksono (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011043/ELK/2022; Juan Steven (C11180033)",
+  "subjects": "MOBILE ROBOTS; DATABASE DESIGN; DATABASE MANAGEMENT"
+}

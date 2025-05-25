@@ -1,0 +1,14 @@
+{
+  "id": "10512",
+  "title": "Perencanaan dan pembuatan pengukur konsentrasi ion logam suatu larutan, range 0 g/liter hingga 100 g/liter",
+  "abstract": "Dalam dunia industri kimia, khususnya bidang-bidang pelapisan logam, pemurnian, dan rnasih bariyak yang lain, tidak akan terlepas dari keberadaan suatu larutan yang berperan cukup penting dalam bidang industri tersebut, yang dikenal sebagai larutan elektrolit. Misalnya saja dalam elektroplating atau yang lebih umum dikenal sebagai penyepuhan. Karena kadar ion logam dalam larutan menentukan sekali dalam keseluruhan proses, guna mengetahuikomposisi suatu larutan, khususnya setelah larutan tersebut sebelumnya telah dipergunakan untuk proses terdahulu, dibutuhkan suatu peralatan pengukur konsentrasi ion logarnnya. Ada berbagai cara yang dapat dipergunakan untuk melakukan hal itu. Dalam tugas akhir ini dipergunakan cara elektrodeposisi, yaitu pengukuran konsentrasi ion logam dengan bantuan proses elektrolisa. Dimana dalam cara ini dilakukan pemisahan ion-ion logam yang terkandung dalam larutan yang bersangkutan dan ion-ion logam tersebut kemudian di-deposisi pada elektroda. Selanjutnya elektroda yang memuat deposisi ion-ion logam tersebut diukur beratnya melalui transducer, yang dipergunakan disini adalah transducer LVDT. Hasil pengukuran tersebut kemudian disimpan dalam rangkaian penyimpan data. Penyimpanan data tersebut dilakukan berdasarkan urutan waktu, yakni sebelum pengambilan data baru, data yang telah diambil sebelumnya disimpan terlebih dahulu. Pengambilan dan penyimpanan data tersebut diatur oleh pewaktu. Data terbaru yang telali tersimpau tersebut kemudian dibaudingkan dengan data yang telah tersimpau sebelumnya. Bila penambahan berat yang terjadi telah terlalu kecil, sehingga dapat diabaikan (berada di bawah batas ketelitiau alat), proses pengukuran diakhiri dan data terbaru yang telah tersimpan tersebut kemudian dibaca. Hasil pembacaan tersebut selanjutnya ditampilkan pada seven segment, sehingga dapat diamati dengaii mudah oleh pemakai.",
+  "creators": "PAULUS TRIAJI TJANDRA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/030/0233; Paulus Triaji Tjandra (23487046)",
+  "subjects": "MEASURING INSTRUMENTS"
+}

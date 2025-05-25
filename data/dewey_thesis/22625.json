@@ -1,0 +1,14 @@
+{
+  "id": "22625",
+  "title": "Percepatan rendering pada raytracing menggunakan KD-tree dan bounding box dengan pembanding raytracing dengan perbandingan jarak pada objek mesh",
+  "abstract": "Dewasa ini untuk membuat suatu gambar yang realistis pada objek 3 dimensi membutuhkan metode Raytracing. Pada metode Raytracing dilakukan perhitungan cahaya dari lampu kepada objek-objek yang nampak di kamera. Proses perhitungannya dengan menghitung efek ambient, diffuse, dan spekular pada setiap titik tabrak cahaya pada objek. Objek biasanya mempunyai model primitive objek dan mesh objek. Objek mesh mengandung banyak objek primitive seperti segitiga dan kotak(langkah). Permasalahan dari objek mesh modeling adalah lama waktu dari rendering ini dikarenakan pengecekan setiap sinar dari jumlah segitiga tiap objek mesh dan pengecekan jumlah lampu terhadap objek mesh untuk menghitung warna yang memperlambat proses raytracing. Untuk menyelesaikan masalah tersebut dilakukan penelitian dengan menggabungkan Kd-tree dan Bounding box pada Tugas Akhir ini. Penggunaan Boundingbox digunakan untuk membatasi pengecekan sinar yang tidak diperlukan, sedangkan Kd-tree digunakan untuk memisahkan segitiga menurut Bounding box yang diset pada titik tengah objek mesh hal ini dilakukan untuk mempecepat proses pengecekan segitiga. Hasil pengujian system menunjukkan bahwa Kdtree dan Bounding box Raytracing mampu mempercepat proses Raytracing hingga 3000% atau 30 kali lipat bisa lebih tergantung dari besar kecilnya objek pada layar terhadap proses Raytracing normal.",
+  "creators": "ANDRIAN KURNIAWAN C",
+  "contributors": "Liliana (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020995/INF/2011; Andrian Kurniawan Chandra (26406160)",
+  "subjects": "COMPUTER GRAPHICS; PROGRAMMING (ELECTRONIC COMPUTERS); RAY TRACING"
+}

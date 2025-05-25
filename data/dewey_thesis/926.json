@@ -1,0 +1,14 @@
+{
+  "id": "926",
+  "title": "Perhitungan gempa dengan menggunakan beban \"Least Favourable\"",
+  "abstract": "Pada umumnya perhitungan suatu struktur tahan gempa didasarkan atas pembebanan dari beberapa rekaman gempa besar yang pernah terjadi . Rekaman gempa tersebut diskala menurut percepatan maksimum yang sesuai dengan percepatan maksimum yang diharapkan terjadi di daerah dimana struktur tersebut akan dibangun. Namun dalam hal ini tidak menjamin bahwa tidak ada gempa lain yang dapat memberikan response maksimum yang lebih besar dari gempa rencana. Dari hal tersebut di atas, Drenick dengan menggunakan kalkulus variasi telah menurunkan suatu beban gempa rencana yang paling berbahaya bagi suatu struktur, yaitu beban \"Least Favourable\". Menurut Drenick beban \"Least Favourable\" ini akan membenkan response dinamis yang maksimum bagi suatu struktur. Untuk mengetahui apakah beban '\"Least Favourable\" ini dapat dipakai dalam perencanaan suatu struktur tahan gempa, maka diiakukan perbandingan pada beberapa struktur dengan diberi beban bermacam-macam gempa yang pernah terjadi dan beban \"Least Favourable\". Struktur tersebut dipilih sedemikian rupa hingga periode dari salah satu struktur ada yang mendekati periode dan rekaman gempa yang ada. Hasil perhitungan dengan menggunakan beban \"Least Favourable\" dan beban gempa yang mempunyai periode mendekati periode struktur ternyata memberikan niiai ratio antara 1,3 sampai 1,8. Hasil ini diperoleh dan perhitungan pada struktur bertingkat rendah ( sampai dengan tingkat 5 ) dengan beban gempa yang mempunyai periode pendek ( periode yang kurang dari 1 detik ).",
+  "creators": "DIKBYO TJANDRA; SURYADARMA T.",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Takim Andriono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 461 S; Dikbyo Tjandra (14284014), Suryadarma T. (34287002)",
+  "subjects": "EARTHQUAKE AND BUILDING-COMPUTER PROGRAMS"
+}

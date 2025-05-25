@@ -1,0 +1,14 @@
+{
+  "id": "15350",
+  "title": "Perencanaan dan pembuatan unit sinkronisasi digital dengan pengaturan tegangan dan frekwensi guna pengaturan kerja paralel bus",
+  "abstract": "Synchronizing is balancing different two-power energy of electricity to the load, with determine source reference. Balance of both will be achieved when voltage, frequency, polarity indicate the same, thus sequence indicator of phase nearing twelve o'clock. In accordance with development of generator, so more and more not possible to operate a synchronizing system with manually, so that developed unit control system with able to work perfect by itself. It has high accuracy and good precision. Unit system equipped with a microprocessor that is controlling and comparing output digital by ADC (Analog Digital Converter), to lay out in the display screen. Synchronizing will take place, when microprocessor has once achieved a success condition, which has programmed in the ROM. For closing time process between two-power source, there is a circuit breaker three phases. Finally, result of the final test shown that unit prototype worked which is suitable with program designed. Unit prototype able to synchronizing two-power sources effectively. The prototype programmed with assembly machine language 8031.",
+  "creators": "ANDY",
+  "contributors": "Limboto Limantara (Advisor 1); BUNAWI GUNAWIDJAJA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/TST/022/301; Andy (23493081)",
+  "subjects": "MICROPROCESSOR; SYNCHRONIZING"
+}

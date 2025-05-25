@@ -1,0 +1,14 @@
+{
+  "id": "5706",
+  "title": "Pembuatan OHM meter digital untuk pengukuran resistansi yang kecil",
+  "abstract": "Untuk mengukur besarnya harga resistansi yang kecil dari sebuah tahanan seperti kabel atau shunt resistor sedikit mengalami kesulitan. Selain itu faktor R wire (hambatan yang terdapat pada kabel) pada kabel probe berpengaruh terhadap proses pengukuran resistansi. Oleh karena itu, dibuat sebuah ohm meter digital yang dapat melakukan pengukuran terhadap resistansi yang kecil. Dimana hambatan yang terdapat pada probe sangat kecil sekali. Proses kerja dari alat ini adalah R yang diukur dihubungkan dengan jembatan kelvin berganda melalui probe, sehingga timbul beda tegangan pada jembatan Kelvin berganda. Beda tegangan yang dihasilkan sangat kecil, sehingga harus diperbesar menggunakan instrumentasi amplifier. Output ini kemudian dihubungkan dengan ICL 7107 sebagai konverter dari data analog menjadi digital sekaligus berfungsi sebagai display. Dari hasil pengujian sistem didapatkan sistem yang dapat digunakan untuk mengukur resistansi yang kecil dengan range pengukuran 1m - 1m. Dari hasil pengujian ohm meter digital dibandingkan dengan hasil pengujian dengan menggunakan portable double bridge type 2769 sebagai acuan, terdapat error sebesar 5.959%.",
+  "creators": "YOHANES WIADJI",
+  "contributors": "Hany Ferdinando (Advisor 1); Handry Khoswanto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010785/ELK/2006; Yohanes Wiadji (23499058)",
+  "subjects": "ELECTRIC RESISTANSE"
+}

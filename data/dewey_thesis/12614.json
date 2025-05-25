@@ -1,0 +1,14 @@
+{
+  "id": "12614",
+  "title": "Programmer PIC 16C84 dengan verifikasi tegangan operasional",
+  "abstract": "Dewasa ini microcontroller semakin populer dan banyak digunakan, salah satunya adalah PIC 16C84 yang mempunyai ukuran fisik yang kecil, mempunyai EEPROM yang terintegrasi di dalamnya dan harganya yang relatif murah. Dengan segala kelebihannya membuat PIC 16C84 ini menarik untuk dipelajari. Salah satu kendala yang dirasakan adalah harga programmer yang relatif mahal (khususnya mahasiswa). Untuk itu pada tugas akhir ini dibuat PIC Programmer 16C84 yang mempunyai beberapa kelebihan bila dibandingkan dengan Universal PIC Programmer P1CSTART-16B1 dari Microchip, antara lain adalah biaya pembuatan dapat ditekan serendah mungkin, sehingga dapat dijangkau oleh masyarakat umum dan kalangan mahasiswa pada khususnya. Karena digunakan paralelport, maka tidak dibutuhkan lagi suatu device tambahan contohnya PPI Card dan tidak membutuhkan lagi sebuah microcontroller bila mengunakan serial port. Terdapat verifikasi tegangan yang memungkinkan dapat mengetahui kegagalan yang terjadi saat pemrograman.",
+  "creators": "TITIKNO MOCHTAR",
+  "contributors": "HERLIANTO TENGGARA (Advisor 2); Murtiyanto Santoso (Examination Committee 1); Lauw Lim Un Tung (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/027/421; Titikno Mochtar (23488061)",
+  "subjects": "COMPUTERS; INTEL PIC 16C84 (MICROCONTROLLER)"
+}

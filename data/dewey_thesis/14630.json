@@ -1,0 +1,14 @@
+{
+  "id": "14630",
+  "title": "Analisa keseimbangan lintasan untuk kelancaran produksi dengan menggunakan promodel di C.V. Sinar Badja Electric",
+  "abstract": "Salah satu aplikasi atau pemanfaatan dari ditemukannya waktu baku atau waktu standard adalah berguna untuk menyeimbangkan lintasan produksi {the balancing of production lines). Dan keseimbangan lintasan merupakan salah satu faktor penting dalam perencanaan hasil produksi. Dengan lintasan produksi tidak seimbang, maka hasil produksi tidak bisa optimal yang menyebabkan target produksi yang sudah direncanakan tidak dapat tercapai. Perencanaan keseimbangan lintasan produksi yang dilaksanakan di C.V. Sinar Badja Electric dalam pembuatan tugas akhir ini adalah bertujuan untuk menganalisa kebutuhan waktu, meminimalkan waktu menganggur {idle time) pada lintasan assembly (produksi), pembagian stasiun kerja dan menentiikan jumlah operator yang diperlukan dalam suatu stasiun kerja agar supaya target produksi yang telah direncanakan dapat tercapai. C.V. Sinar Badja Electric memproduksi alat elektronik yaitu loud speaker dan saat ini terdapat kurang lebih 3000 jenis speaker yang dihasilkan. Perancangan keseimbangan lintasan yang dilakukan adalah dengan cara mengelompokkan operasi-operasi kerja dalam stasiun kerja dengan metode keseimbangan lintasan 'COMSOAL' yang dioperasikan melalui Software Quantitative System. Setelah itu membuat model simulasi dari lintasan perakitan speaker baik pada lintasan perakitan sebelum dilakukan keseimbangan lintasan maupun setelah dilakukan keseimbangan lintasan. Hasil yang didapat dari perancangan keseimbangan lintasan tersebut adalah adanya rata-rata peningkatan efisiensi lintasan yang sebanding dengan rata-rata penurunan balance delay sebesar 5.84% dan pengurangan operator sebanyak 7 (tujuh) orang.",
+  "creators": "BENNY ALEXANDER SUBRATA",
+  "contributors": "Indriati Njoto Bisono (Examination Committee 1); Tessa Vanina Soetanto (Advisor 1); SANDY CITRO (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 323/TI-50/2000; Benny Alexander Subrata (25496057)",
+  "subjects": "WORK MEASUREMENT; MANUFACTURING PROSSES; PRODUCTION PLANNING-SIMULATION METHODS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "36306",
+  "title": "Studi magnetic levitation dengan kontrol arduino",
+  "abstract": "Pembuatan magnetic levitation adalah salah satu contoh akan pemanfaatan gaya magnet pada kehidupan sehari-hari. Diharapkan pembuatan tugas akhir ini dapat menjadi inspirasi dan kemajuan di bidang teknologi. Sistem ini memanfaatkan gaya tolakan dari magnet untuk melakukan levitasi. Sistem ini dibuat dengan memanfaatkan gaya magnet dari kumparan dan magnet tetap. Fungsi dari magnet tetap adalah untuk memberikan gaya angkat pada objek levitasi dan kumparan berfungsi untuk memberikan gaya secara horizontal untuk menstabilkan objek levitasi agar selalu berada pada posisi semula. Gaya magnet pada kumparan dikontrol menggunakan driver H-Bridge untuk menentukan arah polaritas kutubnya. Penggunaan hall-effect sensor digunakan untuk mengetahui posisi dari objek yang dilevitasikan, yang kemudian akan menjadi sebuah nilai masukan mikrokontroler. Nilai keluaran dari sensor akan dikalkulasi menggunakan program perhitungan pada mikrokontroler dengan metode kontrol PID yang kemudian hasilnya akan menjadi nilai masukan untuk driver H-Bridge. Proses tersebut akan diulang-ulang terus menerus agar sistem dapat memperoleh kestabilan pada saat melakukan levitasi. Hasil dari pengujian menunjukan bahwa semakin tebal ring magnet yang digunakan untuk melakukan levitasi maka semakin besar gaya angkat yang dihasilkan. Penggunaan ring magnet berdiameter dalam 9.5 cm dan berdiameter luar 11.5 cm mampu memberikan gaya angkat benda dengan massa 25 gram akan tetapi belum dapat memberikan kestabilan posisi sehingga objek yang dilevitasikan akan tertarik jatuh ke samping. Pengaruh medan magnet yang dihasilkan kumparan terhadap sensor pada sistem relatif kecil dan dapat diabaikan. Kumparan dapat mengembalikan objek kembali ke set point pada saat tidak terpengaruh oleh ring magnet, akan tetapi gagal pada saat terpengaruh oleh ring magnet.",
+  "creators": "LIM, MICHAEL PONSA",
+  "contributors": "Handry Khoswanto (Advisor 1); Heri Saptono Warpindyasmoro (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010952/ELK/2016; Lim, Michael Ponsa (23411024)",
+  "subjects": "MAGNETIC LEVITATION; ARDUINO (PROGRAMMABLE CONTROLLER)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "21442",
+  "title": "Integrated develoment environment (IDE) untuk mikrokontroler MCS-51 dengan basis bahasa pascal",
+  "abstract": "Penggunaan mikrokontroler sebagai alat kontrol di dunia elektronika modern sudah bukan hal baru lagi. Proses pembuatan perangkat lunak untuk mikrokontroler tersebut terdiri dari beberapa tahap, antara lain editing, compiling, dan akhirnya downloading atau chip programming. Sayangnya jarang terdapat program yang menyediakan fasilitas untuk hal-hal tersebut secara terintegrasi, khususnya untuk keluarga mikrokontroler MCS-51. Tujuan tugas akhir ini adalah untuk membuat sebuah program terintegrasi dalam bentuk Integrated Development Environment (IDE). IDE ini menyediakan fasilitas editor serta compiler yang mampu menerjemahkan program dalam bahasa Pascal menjadi kode mesin mikrokontroler MCS-51. Kode mesin tersebut dapat di-download ke sebuah minimum system MCS-51 atau diprogramkan ke dalam sebuah chip MCS-51. Dari pembuatan program IDE tersebut ternyata dijumpai banyak kesulitan dalam menerjemahkan bahasa Pascal menjadi kode mesin MCS-51. Hal ini disebabkan karena kesederhanaan arsitektur mikrokontroler MCS-51 yang sebenarnya tidak didesain untuk penerapan bahasa pemrograman tingkat tinggi. Sebagai akibatnya kode mesin yang dihasilkan tidak efisien. Namun demikian hal tersebut masih dapat diterima untuk keburuhan yang tidak terlalu kompleks.",
+  "creators": "AGUSTONO GOTAMA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Murtiyanto Santoso (Examination Committee 1); Irwan Kristanto Julistiono (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/004/518; Agustono Gotama (23494013)",
+  "subjects": "SOFTWARE ENGINEERING; INTEL MCS-51(MICROCONTROLLERS)"
+}

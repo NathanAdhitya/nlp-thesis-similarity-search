@@ -1,0 +1,14 @@
+{
+  "id": "9121",
+  "title": "Perancangan dan pembuatan software customer relationship management untuk Petra Business Forum",
+  "abstract": "Petra Business Forum adalah suatu organisasi yang menyelenggarakan berbagai kegiatan forum terbuka bagi pengusaha-pengusaha dan kalangan eksekutif dalam dunia bisnis. Selama ini Petra Business Forum melakukan pencatatan data-data member dan segala macam administrasinya dalam bentuk yang sederhana karena tidak berada dalam suatu database. Selain itu, untuk penghitungan pemasukan dan pengeluaran per bulan masih dilakukan secara manual sehingga akan memperlambat proses penghitungan tersebut apalagi bila terjadi kesalahan yang dilakukan oleh pegawai (human error). Karena itu dibutuhkan suatu sistem untuk dapat memproses data - data yang ada dengan baik dan menghasilkan infomasi yang tepat. Perancangan desain sistem yang baru menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk membuat desain struktur tabel dan relasi antar tabel. Database dibuat dengan menggunakan SQL Server 2000. Aplikasi dibuat dan dikembangkan dengan menggunakan bahasa pemrograman Borland Delphi 7.0. Program yang dibuat meliputi: modul input data, edit data, ubah data, absensi, appointment, pembayaran member dan non member, dan laporan pendapatan. Dari hasil pengujian program menunjukkan bahwa program ini mampu memproses data-data yang ada tanpa perlu ada kerja ganda dan menghasilkan informasi berupa laporan-laporan yang dibutuhkan (laporan data peserta, laporan data pembicara, laporan daftar perusahaan, laporan pendapatan, laporan daftar kegiatan, laporan daftar appointment, laporan pembayaran peserta, dan absensi).",
+  "creators": "ALDO IRVANTO SLAMET",
+  "contributors": "M. ISA IRAWAN (Advisor 1); Ibnu Gunawan (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010669/INF/2007; Aldo Irvanto (26402005)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

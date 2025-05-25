@@ -1,0 +1,14 @@
+{
+  "id": "39826",
+  "title": "Perancangan dan pembuatan pre-amplifier auxiliary untuk smartphone pada sistem audio mobil",
+  "abstract": "Head-unit pada mobil dapat mengolah suara melalui beberapa sumber input. Sumber input yang dapat diolah oleh head-unit meliputi CD, USB, dan Aux. Project yang dilakukan adalah pembuatan alat bernama preamplifier auxiliary. Alat yang dibuat memiliki kemampuan untuk meningkatkan signal input dari smartphone sebagai pemutar lagu. Pembuatan preamplifier menggunakan berbagai macam komponen elektronika. Komponen yang digunakan antara lain IC op-amp, resistor, kapasitor, potensiometer, dan PCB. Preamplifier dibuat dengan menggunakan rangkaian op-amp berjenis inverting amplifier. IC yang digunakan memiliki tipe 5532 dengan kualitas suara vokal yang jernih. Resistor yang digunakan adalah jenis carbon film. Kapasitor yang digunakan berjenis MKP dan keramik. Jenis komponen dipilih berdasarkan sumber-sumber yang didapatkan agar suara yang dihasilkan dapat memenuhi target awal. Hasil pembuatan preamplifier auxiliary menunjukkan adanya peningkatan daya keluaran. Daya keluaran yang dihasilkan mencapai 0.61mW. Sebelum dilakukan penguatan dengan preamplifier, daya keluaran dari smartphone hanya sebesar 0.0479W. Peningkatan gain yang dihasilkan mencapai 45,7%",
+  "creators": "HANS CHRISTIAN",
+  "contributors": "Sutrisno S.T.,M.T. (Advisor 1); Philip Kristanto Tedjasaputra (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011192/MES/2017; Hans Christian (24413030)",
+  "subjects": "AUTOMOBILES-AUDIO EQUIPMENT; AUDIO AMPLIFIERS"
+}

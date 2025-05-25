@@ -1,0 +1,14 @@
+{
+  "id": "14953",
+  "title": "Program elemen hingga untuk elemen segitiga dan segiempat subparametrik dan isoparametrik dengan aplikasi visual",
+  "abstract": "Metode elemen hingga merupakan salah satu metode analisa numerik untuk menyelesaikan persamaan-persamaan differertsial dan permasalahan-permasalahan di bidang teknik sipil, yang tidak dapat diselesaikan secara analitis. Hal ini membutuhkan perhitungan yang banyak dan waktu yang lama jika dikerjakan secara manual biasa. Maka dari itu dicoba dibuat suatu program elemen hingga dengan aplikasi visual dengan menggunakan program Borland Delphi Program mi merupakan pengembangan dari program sebelumnva yang dibuat oleh Indnati dalam skripsinya yang berjudul \"Metode Elemen Hingga dan Aplikasinya pada Fersoalan Elastisitas\", dengan menggunakan bahasa Fortran Dalam program ini digunakan elemen segitiga dan segiempat subparametrik dan isoparametrik dengan cara penyelesaian plane stress dan plane strain.Dasar teori yang digunakan adalah metode vanasional dengan prinsip usaha virtuil dan total potensial energi minimum. Program ini bertujuan untuk mempermudah proses penghitungan struktur dengan metode elemen hingga antara lain: Dengan aplikasi visual, bentuk struktur dapat langsung dilihat sehingga mempermudah dalam mengetahui kesalahan dan memperbaikinya. Mempermudah proses pengecilan elemen apabila dikehendaki pembagian domain yang lebih halus. - Hasil tegangan dan perpindahan titik-titik pada struktur dapat dilihat berupa tabel dan grafik Hasil perhitungan program ini kemudian dibandingkan dengan program SAP dan perhitungan eksak. Hasil yang diperoleh dari program ini ternyata mendekati hasil pembandingnya yaitu program SAP dan perhitungan eksak.",
+  "creators": "LYCIA; BENNY SANTOSO GUNAWAN",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Tirta Djusman Arief (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.970 S; Benny Santoso G. (21495183), Lycia (21495253)",
+  "subjects": "STRUCTURAL ANALYSIS (ENGINEERING); MECHANICS, APPLIED"
+}

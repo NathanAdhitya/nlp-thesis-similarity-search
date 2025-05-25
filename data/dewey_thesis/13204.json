@@ -1,0 +1,14 @@
+{
+  "id": "13204",
+  "title": "Pembuatan software gfuzz sebagai fuzzy logic development tools",
+  "abstract": "Sehubungan penerapan fuzzy logic kedalam microcontroller, ternyata banyak dialami kesulitan dalam pembuatan membership function dan fuzzy sets yang baik. Dalam Tugas Akhir ini dibuat suatu software untuk membantu para pemakai fuzzy logic untuk menerapkan fuzzy logic tersebut kedalam desainnya secara graphical. Software ini dinamakan Gfuzz. Software Gfuzz ini memberikan dua macam pilihan metode defuzification, yaitu metode titik berat, dan metode titik tengah luasan. Software ini dibuat under Windows (32 bit) dengan bantuan Delphi 3.0 dari Borland International, dan ALDS untuk Assembly MCS 51 Family. Software ini dibagi dalam dua bagian, yang dibuat dengan Delphi 3.0 dinamakan Gfuzz High, dan yang lain dibuat dengan bantuan ALDS, dinamakan Gfuzz Low. Pengujian dari Gfuzz dilakukan dengan membuat suatu contoh desain sistem, dan disimulasikan dengan sebuah minimum sistem juga simulator dari Gfuzz High. Dari hasil pengujian tersebut didapatkan bahwa hasil yang didapat dari Gfuzz Low dengan metode COG menunjukkan error yang kecil mendekati 0 %, sedangkan dengan menggunakan metode COA terdapat error sampai dengan 8,82 %, bila dibandingkan dengan perhitungan.",
+  "creators": "ADI KURNIAWAN WIDHANTO",
+  "contributors": "IRWAN SAHLI (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/Kom/018/057; Adi Kurniawan Widhanto (23495128)",
+  "subjects": "SOFTWARE ENGINEERING"
+}

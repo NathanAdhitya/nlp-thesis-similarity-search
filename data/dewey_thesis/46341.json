@@ -1,0 +1,14 @@
+{
+  "id": "46341",
+  "title": "Power meter monitoring dengan mobile apps dan metode direct calculation",
+  "abstract": "Listrik merupakan kebutuhan pokok yang masih belum optimal di Indonesia, selain itu pemborosan listrik di Indonesia juga termasuk lumayan besar, maka dari itu dengan adanya alat ini bisa membantu untuk penghematan energi listrik, selain itu juga bisa memantau beban yang terpasang pada alat bisa untuk membantu mengelola keuangan karena di alat ini menampilkan total pemakaian dan total harga. Alat yang saya buat ini terdiri dari beberapa komponen utama seperti mikrokontroler Arduino, modul sensor tegangan ZMPT101B, modul sensor arus ACS712 30A. Dari beban yang terpasang, data berupa tegangan dan arus akan dibaca oleh sensor dan dikirimkan menuju mikrokontroler untuk dilakukan penghitungan. Hasil penghitungan akan di upload ke Firebase, yang nantinya akan di tampilkan oleh aplikasi Android, aplikasi juga dilengkapi dengan fitur lain seperti switch on-off, reset, history, setkwh dan total biaya.",
+  "creators": "KEVIN WIBISONO LOKANANTO",
+  "contributors": "Resmana Lim (Advisor 1); Alexander Setiawan (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021961/INF/2020; Kevin Wibisono Lokananto (26415078)",
+  "subjects": "ELECTRIC MEASUREMENTS; MOBILE APPS"
+}

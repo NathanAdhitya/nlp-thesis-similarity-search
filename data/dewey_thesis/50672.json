@@ -1,0 +1,14 @@
+{
+  "id": "50672",
+  "title": "Aplikasi monitoring aktivitas layar komputer dengan studi kasus lab praktikum",
+  "abstract": "Aplikasi monitoring aktivitas layar komputer merupakan aplikasi yang digunakan untuk membantu para pengawas atau dosen atau Astap Lab dalam mengawasi kegiatan praktikum di sebuah lab, dalam hal ini lab praktikum Multimedia (MM). Dengan aplikasi monitoring ini, dapat mengambil screenshot layar komputer tiap mahasiswa yang sedang melakukan kegiatan praktikum di lab praktikum, tanpa diketahui oleh mahasiswa. Sehingga para pengawas atau dosen atau Astap Lab dapat terbantu dalam melakukan pengawasan kegiatan praktikum. Untuk implementasi atau penggunaan aplikasi monitoring di lab MM, terdapat dua entitas utama, yakni entitas di sisi admin atau dosen dan entitas klien atau mahasiswa. Dalam sisi admin atau dosen, terdapat user interface dan tempat pengiriman hasil screenshot layar komputer dari komputer mahasiswa. Sehingga dalam sisi admin atau dosen bisa melihat hasil screenshot dalam rentang waktu tertentu dari sebuah komputer klien. Selain itu, di sisi klien atau mahasiswa, tidak ada user interface, karena pada sisi klien atau mahasiswa hanya terdapat background proses. Background proses ini hanya melakukan capture screenshot layar pada waktu tertentu, kemudian mengirimkan ke komputer admin atau dosen dalam waktu tertentu. Sehingga, pada akhirnya admin atau dosen bisa melihat hasil capture screenshot dari komputer mahasiswa. Hasil pengujian menunjukkan bahwa aplikasi berjalan sesuai yang diharapkan. Background proses yang diinstal di komputer mahasiswa berhasil melakukan capture screenshot dan mengirimkannya ke komputer admin atau dosen. Selain itu, pada sisi admin atau dosen juga berhasil melihat screenshot yang diambil di komputer mahasiswa. Dalam pengujian ini, juga terdapat sedikit kendala, yakni perlu melakukan konfigurasi tambahan dari sisi Firewall, karena pada lab MM terdapat konfigurasi yang menyebabkan tidak bisa terkoneksi antara komputer admin dan mahasiswa. Penelitian ini dapat dikembangkan dengan membuat platform lain selain windows, karena selain di lab MM, terdapat komputer dengan sistem operasi selain windows.",
+  "creators": "KELVIN YOHANES",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Alexander Setiawan (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022049/INF/2021; Kelvin Yohanes (26415023)",
+  "subjects": "INTERNET (COMPUTER NETWORK)-SAFETY MONITORING SYSTEMS; PROGRAMMING (ELECTRONIC COMPUTERS); APPLICATION SOFTWARE; APPLICATION SOFTWARE--DEVELOPMENT"
+}

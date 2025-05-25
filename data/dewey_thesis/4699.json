@@ -1,0 +1,14 @@
+{
+  "id": "4699",
+  "title": "Synchroscope dan check synchronising relay",
+  "abstract": "Pembangunan di Indonesia berkembang dengan pesat, berdampak pula dengan bertambahnya kebutuhan akan tenaga listrik. Salah satu cara untuk mengatasi tingginya tarif listrik yaitu dengan kerja paralel generator sehingga pembangkit tenaga listrik yang ada dapat dipergunakan secara optimal. Oleh karena itu dibutuhkan suatu alat untuk mensinkronisasikan sumber-sumber listrik tersebut. Synchroscope dan Check Synchronising Relay adalah sebuah alat yang berbasis mikroprosesor (single chip microprocessor) yang dapat mengukur semua hal yang berhubungan dengan sinkronisasi sebuah generator pada sebuah busbar. Dilengkapi dengan relay yang akan on bila semua syarat sinkronisasi telah terpenuhi. Digunakan pada berbagai macam instalasi yang memerlukan sinkronisasi secara manual atau semi-automatic. Alat ini mengukur 2 sumber tegangan: generator (GEN) dan busbar (BB). Beda phase antara GEN dan BB diproses pada mikroprosesor dan ditampilkan pada LED yang disusun melingkar, terdiri dari 36 LED merah. Sebagai tambahan, terdapat indikator `UGEN TOO HIGH? atau `UGEN TOO LOW? (LED merah), beda phase `o OK? (LED kuning), dan synchronising output, `SYNC.? (LED hijau). LED merah tersebut menyala secara bergantian bergantung pada posisinya yang meng-indikasikan beda phase antara GEN dan BB. LED yang menyala men-simulasikan jarum pada alat ukur analog. Jika LED menyala pada posisi jam 12, maka beda phasenya adalah 0 derajat. Pada posisi jam 6, beda phasenya adalah 180 derajat. Dengan 36 buah LED, maka resolusinya 10 derajat. Performa yang diperoleh sebanding dengan tipe CSQ-3 merk DEIF produk Denmark. Dengan alat ini diharapkan dapat mempermudah operator dalam melakukan kerja paralel generator sehingga bisa mengurangi kemungkinan terjadinya kesalahan (human error).",
+  "creators": "SUNTARIO GUNAWAN",
+  "contributors": "Limboto Limantara (Advisor 1); Lauw Lim Un Tung (Advisor 2); Handy Wicaksono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010799/ELK/2006; Suntario Gunawan (23402006)",
+  "subjects": "ELECTRIC MACHINERY, SYNCHROSCOPE"
+}

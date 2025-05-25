@@ -1,0 +1,14 @@
+{
+  "id": "16537",
+  "title": "Penggunaan metoda ultrasonik untuk memperkirakan tingkat kematangan buah tomat dan buah pepaya",
+  "abstract": "Sifat-sifat atau karakteristik dari suatu gelombang ultrasonik dipengaruhi oleh medium yang dilaluinya. Dengan mengukur sifat-sifat gelombang seperti kecepatan, atenuasi atau respon frekuensinya, gelombang ultrasonik ini dapat dimanfaatkan untuk menentukan keadaan medium yang dilaluinya. Metoda ultrasonik ini menggunakan intensitas yang rendah sehingga tidak mempengaruhi medium tersebut sehingga metoda ini sering disebut sebagai uji ultrasonik tak merusak. Tugas akhir ini mencoba menggunakan metoda ultrasonik untuk menentukan keadaan buah tomat dan buah pepaya. Dasar dari penggunaan metoda ultrasonik adalah ketergantungan kecepatan gelombang ultrasonik terhadap modulus Young dan rapat massa dari buah dimana kedua besaran fisis ini mempunyai hubungan dengan kekerasan buah. Kekerasan buah merupakan salah satu parameter praktis yang biasanya digunakan untuk menentukan tingkat kematangan buah. Pengukuran dilakukan dengan menggunakan perangkat keras yang terdiri dari dua buah transducer ultrasonik dengan frekuensi 40 KHz, rangkaian pemancar dan rangkaian penerima ultrasonik, serta rangkaian interface yang menghubungkan rangkaian dengan komputer. Sedangkan perangkat lunak yang digunakan adalah Turbo Pascal ver 7.0. Percobaan dilakukan pada buah tomat dan buah pepaya dari berbagai tingkat kematangan untuk mencari korelasinya dengan kecepatan gelombang ultrasonik. Dari hasil percobaan didapat bahwa rangkaian penerima ultrasonik tidak dapat menerima sinyal yang dipancarkan oleh rangkaian pemancar ultrasonik. Hal ini disebabkan gelombang ultrasonik yang dipancarkan mengalami efek pemantulan yang cukup besar. Selain itu hal ini juga disebabkan karena transducer ultrasonik yang digunakan hanya memiliki rating tegangan 20 Vrms sehingga amplitudo gelombang yang dihasilkan tidak cukup besar untuk dapat mengkompensasi efek pemantulan tersebut.",
+  "creators": "KAREL STEPHANUS",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Examination Committee 1); Hany Ferdinando (Advisor 2); Thiang (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/004/441; Karel Stephanus (23493100)",
+  "subjects": "ELECTRONIC INSTRUMENTS; ELECTRONICS APPARATUS AND APPLIANCES; TRANSDUCERS"
+}

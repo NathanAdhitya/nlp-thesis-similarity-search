@@ -1,0 +1,14 @@
+{
+  "id": "4895",
+  "title": "Perancangan dan pembuatan aplikasi cluster analysis terhadap data sirkulasi buku di Perpustakaan UK. Petra",
+  "abstract": "Selama ini program-program kegiatan perpustakaan dilaksanakan atas dasar pengamatan sekilas dari data yang dimiliki dan dari intuisi pengambil keputusan, belum dari pengolahan informasi dan knowledge. Oleh karena itu, pengambil keputusan perlu memakai suatu sistem yang dapat mendukung dalam mengambil keputusan secara cepat dan tepat. Knowledge atas suatu data dapat digunakan oleh perpustakaan untuk membantu menentukan program-program yang berkaitan dengan fungsi dan tujuan dari perpustakaan. Salah satu cara untuk mendapatkan knowledge adalah dengan membuat suatu aplikasi berdasar konsep data mining. Aplikasi ini menggunakan metode clustering (Unsupervised Classification) yaitu RObust Clustering using linKs (ROCK) untuk melakukan pengelompokan data dan metode classification (unsupervised Classification). Dari hasil kedua metode yang berupa obyek-obyek akan dicari korelasi antar obyek dengan menggunakan metode Jaccard Coefficient. Selain itu sistem juga menampilkan association rule yang menggambarkan hubungan antar obyek hasil klasifikasi. Software yang digunakan adalah Borland Delphi 7 dan Microsoft QL Server 2000. Untuk pengujian sistem, dipakai data sirkulasi dari Perpustakaan UK. Petra yang terjadi selama periode tertentu. Aplikasi ini menghasilkan output berupa data yang telah ter-cluster (terkelompok) dan nilai korelasi antar obyek . Dari output tersebut, pengambil keputusan dapat mengetahui informasi yang ada, misalnya suatu cluster dapat menunjukkan peminatan mahasiswa terhadap atribut buku tertentu. Informasi ini akan memberikan pertimbangan tambahan bagi perpustakaan UK. Petra dalam pengambilan keputusan.",
+  "creators": "ANGELINA SARTIKA K",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Arlinah Imam Rahardjo (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000478/INF/2006; Angelina Sartika Kurniawati (26402008)",
+  "subjects": "INTERNET (COMPUTER NETWORK); PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

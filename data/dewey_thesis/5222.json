@@ -1,0 +1,14 @@
+{
+  "id": "5222",
+  "title": "Analisis stabilitas multimesin dengan menggunakan program matlab",
+  "abstract": "Sistem tenaga listrik adalah suatu sistem yang membangkitkan, mengatur, menyalurkan, membagi, dan memakai atau memanfaatkan tenaga listrik. Sistem tenaga listrik yang ada pada saat ini adalah sistem tenaga listrik yang terdiri dari sejumlah pembangkit listrik yang bekerja secara parallel dan menyuplai sejumlah pusat beban melalui saluran transmisi tegangan tinggi, dan sering dikenal sebagai sistem interkoneksi. Dalam menganalisa stabilitas multimesin pada saluran transmisi sangatlah sulit, sehingga untuk mempermudah dalam menganalisa stabilitas multimesin pada saluran transmisi dapat menggunakan fungsi toolbox pada program Matlab 6.5. Sistem yang digunakan dalam analisa stabilitas multimesin ini adalah sistem Jawa Timur-Bali. Program Matlab yang digunakan dapat memudahkan pemantauan terhadap ketidakstabilan pada saluran transmisi, ketika terjadi gangguan. Gangguan yang dapat dipantau melalui program Matlab ini adalah gangguan shortcircuit dan terputusnya saluran transmisi yang menghubungkan antar jaringan. Dari hasil analisa menunjukkan pada saat gangguan hilang dalam waktu 0.04s lebih stabil dibandingkan pada saat gangguan hilang dalam waktu 0.08s, sehingga dapat disimpulkan semakin cepat hilangnya gangguan semakin stabil sistem tersebut.",
+  "creators": "HIDAYAT HARRY SAPUTRA",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Emmy Hosea (Advisor 2); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010556/ELK/2007; Hidayat Harry Saputro (23403032)",
+  "subjects": "MATLAB; MATHEMATICAL OPTIMIZATION DATA PROCESSING"
+}

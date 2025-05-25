@@ -1,0 +1,14 @@
+{
+  "id": "19218",
+  "title": "Vulnerability testing pada sistem administrasi Rumah Sakit X",
+  "abstract": "Perkembangan Rumah Sakit X semakin besar dan memiliki berbagai macam sistem informasi dalam menjalankan kegiatan operasionalnya. Rumah Sakit X sendiri telah memiliki server untuk mendukung kegiatan operasionalnya, terutama sistem administrasi yang berisi mengenai data-data pasien. Dengan adanya ketersediaan jaringan di Rumah Sakit X, baik melalui Wi-Fi maupun kabel Ethernet, maka perlu diperhatikan keterkaitannya antara jaringan dan server dari para hacker. Oleh karena adanya permasalahan tersebut maka kebutuhan yang penting saat ini adalah membantu meminimalisir dan mengantisipasi server yang ada dari kejahatan hacking. Salah satu hal yang dapat dilakukan adalah dengan melakukan pemantauan pada sistem administrasi dan melakukan vulnerability testing. Berdasarkan latar belakang permasalahan itu, maka dibutuhkan evaluasi dengan menggunakan metode vulnerability/penetration testing. Selain itu, penelitian ini juga menggunakan pedoman dari modul CEH (Certified Ethical Hacker), Acunetix, dan CISSP (Certified Information Systems Security Professional). Pengujian skripsi ini adalah bertujuan untuk menemukan kelemahan sistem administrasi pada Rumah Sakit X yang ada. Beberapa masalah yang ditemukan setelah pengujian, cukup banyak dimana setiap kelemahan yang ada mempunyai penanganan yang berbeda, keamanan fisik server yang lemah, dan port yang seharusnya tidak terbuka menjadi terbuka. Solusi yang diberikan untuk mengatasi permasalahan tersebut antara lain: penggunaan standar acunetix dan CISSP sebagai solusi terhadap kelemahan yang ada, melakukan maintenance secara berkala terhadap hardware, software, maupun jaringan, melakukan filter port yang ada, meningkatkan tingkat keamanan server, dan melakukan pengujian keamanan secara rutin dan berkala, baik dengan berkonsultasi kepada bidang terkait maupun menggunakan suatu panduan (seperti Acunetix, CEH, CISSP).",
+  "creators": "DAVID HARJOWINOTO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Justinus Andjarwirawan (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021487/INF/2016; David Harjowinoto (26412052)",
+  "subjects": "COMPUTER HACKERS; COMPUTER NETWORK; COMPUTER SECURITY"
+}

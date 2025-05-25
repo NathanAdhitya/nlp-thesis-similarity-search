@@ -1,0 +1,14 @@
+{
+  "id": "24776",
+  "title": "Pembuatan inverter 12 V DC ke 220 V AC sinusoidal dengan frekuensi 50Hz berbasis mikrokontroler",
+  "abstract": "Kebutuhan akan listrik sangat terasa ketika berada di daerah yang tidak ada jalur listrik semisal berada di desa ataupun ketika berada di dalam mobil. Inverter DC ke AC dapat menjadi solusi dari kebutuhan masyarakat akan listrik di tempat yang sulit listrik. Alat tersebut dapat dipakai untuk industri, perumahan dan di mobil sekalipun. Tujuan dari tugas akhir ini adalah merancang inverter 12 VDC ke 220 VAC dengan keluaran sinyal sinusoidal. Inverter ini berbasis mikrokontroler yang digunakan untuk mengontrol H-bridge dan mengeluarkan Pulse Width Modulation (PWM) untuk merepresentasikan sinyal sinusoidal. Tegangan DC yang diperoleh dari H-bridge dihubungkan step-up transformator untuk menaikkan tegangan AC 12 VAC menjadi tegangan AC yang lebih tinggi yaitu 220 VAC. Inverter yang telah dirancang mampu menghasilkan sinyal sinusoidal dengan tegangan 171 VAC tanpa menggunakan beban . Kecacatan sinyal terjadi ketika diberi beban 5 Watt, terjadi karena power supply yang digunakan tidak mampu menyalurkan arus yang dibutuhkan dan efisiensi trafo yang digunakan pada saat terbeban hanya mencapai 68,979% .",
+  "creators": "HAPPY YUNATA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "skripsi No. 02010927/ELK/2012; Happy Yunata (23408013)",
+  "subjects": "ELECTRIC TRANSFORMERS; ELECTRIC INVERTERS; MICROCONTROLLERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "54052",
+  "title": "Analisis non-linier balok geometrically exact dengan elemen balok berbagai derajat interpolasi",
+  "abstract": "Dalam perhitungan defleksi maupun gaya dalam struktur diperlukan metode analisis yang dengan akurat menggambarkan perilaku struktur. Metode analisis non-linier merupakan metode yang paling akurat saat ini. Salah satu non-linieritas pada struktur adalah geometri. Pada analisis geometri non-linier, kesetimbangan struktur dihitung saat struktur sudah mengalami deformasi. Hal ini diperlukan karena analisis geometri linier tidak dapat memperhitungkan defleksi dan rotasi besar. Pada metode elemen hingga, digunakan shape function untuk menginterpolasi perhitungan pada setiap node. Lagrangian polynomial digunakan sebagai shape function dikarenakan derajat interpolasinya dapat disesuaikan dengan keperluan. Terdapat 3 derajat interpolasi yang digunakan, yakni linier, kuadratik, dan kubik. Perhitungan dengan metode elemen hingga memiliki kelemahan bernama locking yang menyebabkan kekakuan struktur lebih besar dari yang seharusnya. Digunakan Selective-Reduced Integration (SRI) dan Least Square Smoothed Assumed Strain (LSSAS) untuk mengeliminasi locking. Penelitian ini bertujuan untuk mengevaluasi kinerja dari kedua metode eliminasi locking dengan lagrangian polynomial shape function pada balok geometrically exact menggunakan analisis non-linier dalam metode elemen hingga berdasarkan teori regangan Green. Struktur diuji terhadap locking, lentur murni, dan efek P Delta yang selanjutnya dibandingkan dengan SAP2000. Hasil penelitian membuktikan adanya tegangan aksial tambahan, SRI yang mampu mengeliminasi semua locking, dan LSSAS yang hanya mampu mengeliminasi semua locking pada elemen linier.",
+  "creators": "RIVALDO JASPER; FRANSISKUS ENRICO LEONARD",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Pamuda Pudjisuryadi (Examination Committee 1); Ir. Soehendro Ratnawidjaja, M.Eng. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012613/SIP/2022; Rivaldo Jasper (B11180021), Fransiskus Enrico Leonard (B11180013)",
+  "subjects": "BEAM DYNAMICS; STRUCTURAL ENGINEERING"
+}

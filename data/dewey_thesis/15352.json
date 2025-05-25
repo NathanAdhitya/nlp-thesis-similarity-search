@@ -1,0 +1,14 @@
+{
+  "id": "15352",
+  "title": "Pengaturan tegangan pada generator asinkron 3, 1,5 HP,220/380 V dengan mikroprosesor 8088",
+  "abstract": "Seiring dengan perkembangan jaman, dibutuhkan suatu konversi energi yang murah, handal, dan efisien. Di daerah pelosok yang sulit dijangkau oleh sistem kelistrikan PLN, dibutuhkan suatu pembangkit dengan daya yang kecil. Pada umumnya, beban listrik di pedesaan adalah penerangan dengan lampu pijar. Untuk itu generator yang murah dan sederhana adalah generator asinkron. Untuk membangkitkan tegangan dan mensuplai daya reaktif, dibutuhkan kapasitor. Agar tegangan keluarannya konstan, diperlukan kapasitas kapasitor yang berubah-ubah. Dalam Tugas Akhir ini dibuat suatu pengontrol tegangan keluaran' generator dengan mengatur besarnya kapasitas kapasitor yang mana kontrolernya menggunakan mikrbprosesor 8088. Alat ini akan mendeteksi tegangan drop yang terjadi bila beban ditambah kemudian akan memutuskan apakah perlu penambahan kapasitas kapasitor. Selain itu, jika terjadi tegangan lebih, alat ini juga akan melepas step kapasitor sehingga tegangan keluaran generator konstan. Dari pengujian di laboratorium, alat ini bisa mendeteksi tegangan drop dan tegangan lebih yang terjadi dari pembebanan lampu pijar yang berbeda-beda sehingga tegangan keluaran generator konstan.",
+  "creators": "AGUS NUGROHO",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/TST/037/316; Agus Nugroho (23494016)",
+  "subjects": "ELECTRIC MACHINERY, SYNCHRONOUS"
+}

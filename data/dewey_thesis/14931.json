@@ -1,0 +1,14 @@
+{
+  "id": "14931",
+  "title": "Perencanaan dan pembuatan alat penguji lampu TL pada jalur produksi",
+  "abstract": "Sistem pengujian lampu TL pada jalur produksi merupakan salah satu pengembangan aplikasi dari penggunaan medan elektromagnetik di mana dengan medan yang cukup kuat, dapat menyalakan lampu TL yang berada dalam lingkup medan elektromagnetik tersebut. Di sini didesain sebuah sistem penguji lampu TL yang dapat menyalakan lampu dengan cepat dan cahaya yang dihasilkan oleh lampu TL diubah kedalam besaran tegangan analog, setelah itu dengan menggunakan ADC0804 diubah kedalam besaran digital kemudian sebuah PPI Card digunakan sebagai antar muka data dari ADC0804 dengan komputer PC. Data yang diterima oleh komputer kemudian disimpan kedalam bentuk sebuah database. Desain hardwarenya terdiri dari rangkaian osilator tegangan tinggi, rangkaian sensor, rangkaian span and zero, rangkaian ADC0804, dan rangkaian PPI Card, yang dihubungkan dengan komputer IBM PC. Software dibuat under Windows '95 dengan bantuan Delphi 3.0 dari Borland International, Inc. Secara keseluruhan sistem berfungsi dengan baik, Cahaya yang dihasilkan dari lampu TL juga cukup memadai untuk dapat diterima dengan sensor, walaupun cahaya tersebut tidak sekuat cahaya yang dihasilkan oleh penyalaan lampu TL secara konvensional. Pengujian yang dapat dilakukan hanya terbatas pada keberadaan gas yang terisi pada tabung lampu, jadi sistem ini tidak menguji filamen dari lampu TL. Akhimya, pemanfaatan alat penguji lampu TL ini dapat membantu mempercepat proses produksi dari pembuatan lampu TL. Dengan desain hardware yang relatif tidak berubah banyak, pengembangan aplikasi dapat dibuat hanya dengan menulis ulang softwarenya.",
+  "creators": "DARMADI",
+  "contributors": "IRWAN SAHLI (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/027/464; Darmadi (23494056)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

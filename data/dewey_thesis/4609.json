@@ -1,0 +1,14 @@
+{
+  "id": "4609",
+  "title": "Pengenalan citra wajah dengan metode adaptive hidden Markov model",
+  "abstract": "Proses pengenalan wajah dengan menggunakan metode Hidden Markov Model sangat erat berhubungan dengan parameter Hidden Markov Model yang terkalkulasi. Seberapa baik proses pengenalan dilakukan tergantung pada parameter-parameter tersebut. Pembuatan tugas akhir ini bertujuan untuk merancang aplikasi dengan algoritma berbasis Hidden Markov Model dengan metode pembaharuan parameternya. Dalam perancangan aplikasi Adaptive Hidden Markov Model ini, software terdiri atas pendeteksian wajah dan juga pengenalan wajah. Pendeteksian wajah menggunakan metode Haar yang diadaptasi dari Haar wavelet transform, sedangkan untuk pengenalan menggunakan metode Hidden Markov Model. Aplikasi dikembangkan menggunakan Microsoft Visual C++ 6.0 ? , menggunakan library dari Intel Image Processing Library (IPL) dan Intel Open Source Computer Vision (OpenCV). Pada pengujian sistem akan terlihat bahwa dengan menggunakan proses adaptive pada Hidden Markov Model, tingkat kesalahan akan berkurang pada waktu melakukan pengenalan secara terus-menerus. Dengan menggunakan database individu berjumlah 26 orang dengan rata-rata jumlah gambar pada database sebanyak 5 didapatkan hasil pengenalan sebesar 68.5 prosen. Peningkatan pada hasil pengenalan setelah dilakukan proses adaptive bervariasi tergantung dari selisih likelihood yang digunakan, nilai selisih likelihood yang optimal adalah 0.3 yang menghasilkan prosentase kebenaran sebesar 77.14%.",
+  "creators": "ADITAMA",
+  "contributors": "Resmana Lim (Advisor 1); Siana Halim (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 03010054/ELK/2006; Aditama (23402148)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES; PATTERN RECOGNITION SYSTEM"
+}

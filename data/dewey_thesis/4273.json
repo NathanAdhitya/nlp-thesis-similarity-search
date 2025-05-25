@@ -1,0 +1,14 @@
+{
+  "id": "4273",
+  "title": "Perancangan dan pembuatan sistem informasi pembelian, penjualan dan keuangan pada Toko Mekar Jaya",
+  "abstract": "Sistem informasi pada Toko ekar Jaya masih menggunakan sistem manual dimana setiap harinya dilakukan pembukuan yang dibuat untuk menyimpan data transaksi-transaksi baik pembelian, penjualan, retur pembelian, retur penjualan dan pembayaran hutang maupun untuk piutang. Oleh karena itu pengolahan data yang dilakukan memakan waktu yang cukup lama. Lambatnya arus informasi karena sistem manual akan menyebabkan informasi menjadi tidak efektif dan efisien. Untuk itu dibutuhkan suatu perancangan dan pembuatan sistem informasi yang dapat mengelola data sehingga dapat menghasilkan informasi secara efektif dan efisien. Pembuatan sistem informasi dimulai dengan membuat analisis dan desain dari sistem yang ada dalam Toko ekar Jaya dengan cara melakukan wawancara dan juga pengamatan pada Toko ekar Jaya. Setelah desain sistem terbentuk, dilakukan perancangan basis data yang akan digunakan sebagai penyimpan data yang terorganisir. Program sistem informasi yang dibuat meliputi modul data master, modul transaksi dan laporan-laporan. Program sistem informasi ini dibuat dengan menggunakan Delphi 7.0 dengan icrosoft SQL Server 2000 sebagai basis data. odul yang telah berhasil dibuat meliputi pembelian, penjualan dan juga laporan-laporan. odul pembelian dan penjualan dilengkapi juga dengan retur pembelian, retur penjualan, hutang dan piutang.",
+  "creators": "STEPHANES LESMANA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Leo Willyanto Santoso (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000275/INF/2004; Stephanes Lesmana (26400178)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT-COMPUTER PROGRAMS; INFORMATION RESOURCES MANAGEMENT; MANAGEMENT INFORMATION SYSTEMS"
+}

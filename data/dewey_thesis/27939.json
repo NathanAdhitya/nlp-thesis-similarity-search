@@ -1,0 +1,14 @@
+{
+  "id": "27939",
+  "title": "Perencanaan dan pembuatan differential capasitance transducer dengan menggunakan programmable logic controller untuk mengukur & mengatur debit (flow rate) udara",
+  "abstract": "Pengukuran dan pengaturan sistem secara otomatis pada saat ini mempunyai peranan yang sangat penting dalam proses-proses industri, seperti mengukur dan mengatur flow rate (laju aliran) udara. Pengukuran sistem flow rate udara dapat dilakukan dengan flowmeter (jika ada) atau dengan membuat dan merancang differential capasitanoe transducer. Differential capasitance transducer yang diberi eksitasi input dari rangkaian osilator dan perubahan kapasitansinya dideteksi oleh jembatan kapasitansi, akan dapat berfungsi sebagai flowmeter. Pengaturan sistem flow rate udara dapat dilakukan dengan tenaga manusia (manual) atau dengan unit pengatur yang dapat diprogram (programmable logic controller). Unit pengatur tidak dapat dihubungkan langsung ke peralatan pengukur, sehingga dibutuhkan suatu unit lain yang berfungsi sebagai perantara. Unit tersebut adalah interface, yang berfungsi untuk mengolah sinyal analog yang merupakan keluaran dari peralatan pengukur ke sinyal digital sehingga dapat dibaca oleh unit pengatur (programmable logic controller). Dengan menuliskan program pengaturan pada unit pengatur, akan memungkinkan kita untuk memperoleh nilai flow rate udara sesuai dengan yang dikehendaki.",
+  "creators": "BENYAMIN FLEMING INTAN",
+  "contributors": "SUPENO DJANALI (Advisor 1); MOCHAMAD HEROE (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 90/E/EL/019/0059; Benyamin Fleming Intan (485104)",
+  "subjects": "FLOW METERS; TRANSDUCERS"
+}

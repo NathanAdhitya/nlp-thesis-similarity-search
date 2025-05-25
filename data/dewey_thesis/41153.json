@@ -1,0 +1,14 @@
+{
+  "id": "41153",
+  "title": "Sistem informasi administrasi multi cabang pada PT HC",
+  "abstract": "Saat ini PT HC menggunakan pencatatan dalam bentuk Microsoft Excel dan dokumen fisik untuk proses bisnis yang dijalankan. PT HC memiliki beberapa cabang yang tersebar di beberapa daerah di Indonesia dengan proses bisnis penjualan produk, pemesanan bahan baku dan peyimpanan stok. Tanpa menggunakan sistem informasi, akurasi dan kecepatan dalam memproses data pada PT HC dan cabang kurang baik serta membutuhkan waktu yang lebih lama. Aplikasi ini memiliki beberapa fitur utama di antaranya sales order, purchase order, pencatatan stok gudang, perhitungan reorder point, pembayaran invoice dan menghasilkan laporan omzet penjualan, pembelian dan stok. Aplikasi ini dibuat dengan menggunakan bahasa pemograman HTML, PHP, Javascript dan database MySQL. Tampilan aplikasi menggunakan template Gentellela dengan Bootstrap. Hasil akhir dari pengembangan aplikasi ini adalah dapat terintegrasinya informasi perusahaan seperti catatan sales order, purchase order, invoice, stok gudang, delivery order dan laporan. Pengguna dari pusat dapat melihat laporan penjualan, laporan pembelian bahan baku dan stok yang dimiliki oleh cabang. Pengguna juga dapat menerima remainder beberapa informasi seperti stok yang melebihi batas minimal stok dan invoice yang melebihi tanggal jatuh tempo melalui notifikasi sesuai dengan hak akses masing-masing.",
+  "creators": "LAVICIUS",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021671/INF/2017; Lavicius (26413020)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

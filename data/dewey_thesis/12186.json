@@ -1,0 +1,14 @@
+{
+  "id": "12186",
+  "title": "Perancangan dan pembuatan aplikasi untuk pencarian rute optimal dengan alogaritma dijkstra, A* dan ANT",
+  "abstract": "Dalam dunia pemrograman terdapat banyak sekali algoritma untuk melakukan pencarian rute optimal, dalam aplikasi ini dipakai tiga jenis algoritma yang dapat digunakan untuk melakukan pencarian rute optimal yaitu algoritma Dijkstra, A* dan Ant dimana ketiga algoritma tersebut akan dibandingkan untuk mengetahui kekurangan dan kelebihannya. Skripsi ini bertujuan untuk membandingkan algoritma pencarian mana yang cocok untuk digunakan dalam pencarian rute dengan membandingkan dari segi hasil dan lama proses untuk melakukan suatu pencarian rute tertentu. Berdasarkan pengujian yang telah dilakukan, algoritma Ant dirasa kurang tepat jika digunakan untuk pencarian rute karena jika dibandingkan dengan algoritma Dijkstra dan A* karena ketepatan pencarian kurang stabil dan lama proses terpaut lebih lambat cukup jauh. Untuk algoritma Dijkstra dan A* dapat dikembangkan lebih lanjut karena lama proses yang dihasilkan masih cukup cepat.",
+  "creators": "ANDRE KURNIAWAN PRAJOGO",
+  "contributors": "Alexander Setiawan (Advisor 1); Leo Willyanto Santoso (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01020825/INF/2009; Andre Kurniawan Prajogo (26405030)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10927",
+  "title": "Perencanaan dan pembuatan peralatan yang dapat mendata pengukuran temperatur dan melaporkan secara periodik ke pusat komputer",
+  "abstract": "Dalam mendata pengukuran temperatur secara kontinyu (misal tiap detik, tiap menit, tiap jam) dengan jumlah data sampai ribuan. Bila dilakukan secara manual tentu akan menimbulkan beberapa masalah. Masalah tersebut dapat berupa adanya kesalahan pada waktu pembacaan dan kesalahan pada waktu pemasukan data ke komputer. Berdasarkan pertimbangan diatas, maka dibuat suatu peralatan yang dapat mendata pengukuran temperatur dengan jumlah data sampai ribuan dan selang waktu pengukuran yang dapat diprogram, karena ditunjang oleh adanya sistem mikroprosesor, juga adanya sensor temperatur dalam bentuk IC yang mempunyai kelinearan baik dan dapat dihubungkan kesistem mikroprosesor dengan melalui konverter analog ke digital. Dengan adanya komputer yang sudah banyak dipakai saat ini, maka penggunaan komputer dapat dimanfaatkan untuk mengolah data pengukuran dari peralatan yang dibuat, agar informasi yang didapat lebih jelas. Yaitu dengan raenampilkan hasil pengukuran pada layar monitor dan mencetak hasil pengukuran sebagai laporan. Peralatan yang dibuat d antara 3? sampai 100? Celciu pengukuran sampai 2000 dat Untuk komunikasi data ant dengan pusat komputer digun seri dengan memanfaatkan komputer karena pengiriman d apat mendata pengukuran suhu s dan dapat mengirimkan data a untuk sekali pengiriman. ara peralatan yang dibuat akan pengiriman data secara port serial RS-232 dari atanya relatif jauh.",
+  "creators": "YANUARTO SURYO",
+  "contributors": "SUPENO DJANALI (Advisor 1); YOHANES T. D. S (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.91/E/EL/028/0087; Yanuarto Suryo (485124)",
+  "subjects": "TEMPERATURE MEASUREMENTS; MICROPROCESSORS"
+}

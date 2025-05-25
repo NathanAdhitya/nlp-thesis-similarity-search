@@ -1,0 +1,14 @@
+{
+  "id": "41245",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi Klinik Paripurna Surya",
+  "abstract": "Saat ini Klinik Paripurna Surya dalam pencatatan rekam medis masih menggunakan kartu medis. Klinik Paripurna Surya memiliki pencatatan rekam medis, pemeriksaan laboratorium dan resep dokter yang masih manual. Dengan sistem informasi, membuat semua pencatatan semakin cepat dalam mengolah data dan pengarsipan semakin lebih aman dan otomatis tersimpan dengan baik. Aplikasi ini dibuat dengan menggunakan bahasa pemograman HTML, PHP, Javascript, jQuery dan database MySQL. Tampilan aplikasi menggunakan template SB Admin dan Bootsrap. Aplikasi ini dapat melakukan pencatatan rekam medis, pemeriksaan lab, resep dokter, permintaan obat, log stok obat dan laporan. Admin dapat melihat laporan yang dibutuhkan seperti laporan transaksi rekam medis, laporan transaksi laboratorium, laporan pasien dan penyakit, laporan obat masuk. Laporan ini dapat memudahkan admin dalam monitor perkembangan klinik. Hasil akhir dari pengembangan aplikasi ini agar semua pencatatan dan pemeriksaan dapat terintegrasi dengan baik dan dengan penilaian kuesioner dapat menjamin aplikasi tersebut telah teruji dan sesuai dengan kebutuhan klinik.",
+  "creators": "PATRIC AVIDJAJA ROSELI",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Silvia Rostianingsih (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021716/INF/2017; Patric Avidjaja Roseli (26413063)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

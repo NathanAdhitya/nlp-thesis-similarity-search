@@ -1,0 +1,14 @@
+{
+  "id": "41220",
+  "title": "Pembuatan sistem kendali mobil remote control menggunakan Emotiv EPOC dengan metode Support Vector Machine (SVM)",
+  "abstract": "Pada era modern saat ini teknologi semakin berkembang, BCI atau brain computer interface adalah salah satu hal yang mulai menjadi fokus dari era modern ini. Dengan adanya BCI dapat memudahkan kita untuk mengakses teknologi, khususnya bagi kaum disabilitas yang kemampuan motoriknya terbatas. Dalam tugas akhir ini dibuat sistem kendali mobil rc dengan kontol mengunakan sinyal otak, yang diharapkan akan menjadi awalan untuk berkembangnya BCI sehingga dapat berguna dan memudahkan kehidupan sehari-hari. Tugas akhir ini dibuat menggunakan perangkat keras berupa headset Emotiv EPOC, Komputer, Wifi Router, Board Arduino Wemos D1. Dalam segi metode dan teori yang digunakan yaitu CSP,SVM, dan dengan bahasa pemrograman C++. Berdasarkan hasil keseluruhan sistem yang dibuat dapat disumpulkan bahwa sistem telah berhasil mengontrol mobil rc dengan tepat. Dari data pengujian yang diperoleh dapat dilihat tingkat akurasi dari model yang dihasilkan oleh SVM mencapai 88% untuk kelas kiri ,91% untuk kelas kanan , 90% kelas maju.",
+  "creators": "THOMAS SETIONO",
+  "contributors": "Yuliana (Advisor 1); Resmana Lim (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021698/INF/2017; Thomas Setiono (26413049)",
+  "subjects": "COMPUTER INTERFACES; REMOTE CONTROL"
+}

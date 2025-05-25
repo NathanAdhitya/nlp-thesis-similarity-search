@@ -1,0 +1,14 @@
+{
+  "id": "42290",
+  "title": "Perencanaan dan pembuatan aplikasi android pengkonversian suara menjadi teks dalam Bahasa Indonesia dengan machine learning untuk membantu tunarungu",
+  "abstract": "Sistem Pengenalan Pengucapan sejauh ini telah mencapai WER (Word Error Rate) hingga 11.85% dalam dataset Bahasa Inggris. Dengan dukungan data yang sangat besar machine learning menjadi popular karena dengan adanya data yang sangat besar ini dapat membantu machine learning untuk mengenali pengucapan dengan lebih baik. Penelitian ini terinspirasi dari arsitektur Deep Speech oleh Baidu, dan mengimplementasikan arsitektur tersebut terhadap dataset Bahasa Indonesia. Dataset dalam penelitian ini dibuat bervariasi berguna untuk menguji performa machine learning dalam mengenali pencucapan. Variasi data set itu berupa suara rekaman dengan kondisi bersih dan berisik, suara hasil sintesis dari Apple dan Bing. Penelitian ini menunjukkan bahwa semakin besar variasi data set, maka memberikan hasil WER yang semakin lebih kecil sehingga dengan kata lain hasil model machine learning dapat mengenali kata-kata dengan tepat. Permasalahannya adalah semakin besar variasi dataset, maka semakin besar pula ambiguitas model bahasanya (language model).",
+  "creators": "DAVID W.",
+  "contributors": "Rolly Intan (Advisor 1); Endang Setyawati (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021775/NF/2018; David Wibisono (26414093)",
+  "subjects": "ANDROID (COMPUTER PROGRAM); ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); APPLICATION SOFTWARE-DEVELOPMENT; ANDROID (ELECTRONIC RESOURCE)-PROGRAMMING"
+}

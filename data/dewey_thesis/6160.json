@@ -1,0 +1,14 @@
+{
+  "id": "6160",
+  "title": "Perancangan dan pembuatan aplikasi reengineering relational database menggunakan teknik data mining",
+  "abstract": "Aplikasi reengineering terdahulu masih belum menggunakan teknik data mining dalam prosesnya, sehingga proses reengineering masih belum bersifat otomatis dan sangat tergantung kepada pengetahuan user tentang database system. Selain itu, prosesnya memakan waktu yang lama. Pada Tugas Akhir ini dibuat suatu aplikasi yang dapat me-reengineer relational database secara otomatis dengan teknik data mining, sehingga dihasilkan relational database yang tidak mengandung data redundancy serta datanya konsisten. Aplikasi ini dibuat menggunakan Borland Delphi 7.0. Sumber data aplikasi adalah Microsoft Access dan Microsoft Excel. Proses reengineering meliputi pembacaan physical database ke dalam logical data model (reverse engineering), normalisasi 1NF, clustering, pencarian functional dependency, normalisasi 2NF, 3NF, dan BCNF berdasarkan data yang ada, kemudian mengembalikan logical data model tersebut ke physical database (forward engineering). Hasil reengineering akan disimpan dalam Microsoft Access. Proses pencarian functional dependency dilakukan dengan menggunakan teknik data mining Multi-dimensional Association Rules dan Cluster Analysis. Dari hasil pengujian disimpulkan bahwa aplikasi ini dapat me-reengineer relational database secara otomatis dan dapat menghasilkan desain relational database yang tidak lagi mengandung data redundancy dan datanya konsisten.",
+  "creators": "ALICIA VERANY",
+  "contributors": "Rolly Intan (Advisor 1); Oviliani Yenty Yuliana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 01000519/INF/2006; Alicia Verany (26402073)",
+  "subjects": "DATA MINING; DATA BASE DESIGN"
+}

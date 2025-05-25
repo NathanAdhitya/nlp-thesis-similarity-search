@@ -1,0 +1,14 @@
+{
+  "id": "10861",
+  "title": "Penerapan arsitektur multi-tiered dalam sistem informasi di Pusat Pendidikan Berkelanjutan U.K. Petra",
+  "abstract": "Suatu sistem informasi yang tangguh dan baik, semakin diperlukan untuk memenuhi kebutuhan bisnis dewasa ini, yang bergerak cepat untuk memenangkan keunggulan kompetisi. Pada awalnya teknologi client/server two-tier arsitektur banyak digunakan dan cukup baik, namun akhimya arsitektur ini dirasakan mempunyai banyak kekurangan yang cukup kritis berhubungan dengan masalah penggunaan kembali komponen, perluasan aplikasi, perawatan, serta keamanan data. Kemudian berkembanglah teknologi client/server multi-tier arsitektur yang menyediakan pemecahan yang baik bagi masalah ini. Dari permasalahan tersebut, maka pada tugas akhir ini akan dikembangkan suatu sistem informasi dengan memakai arsitektur client/server multi-tier, dengan memakai teknologi DCOM sebagai metode baru dalam implementasi database. Sistem ini diimplementasikan untuk pengembangan sistem informasi di Pusat Pendidikan Berkelanjutan U.K. Petra. Perangkat lunak dibuat dengan bahasa pemrograman Delphi 4 Client/Server Suite, dan memakai perangkat lunak database server Microsoft SQL Server v7.0. Aplikasi multi-tier terbagi menjadi tiga partisi, yaitu : aplikasi client yang meyediakan servis presentasi , aplikasi server yang menyediakan servis aplikasi, dan database server yang menyediakan servis database. Perangkat lunak aplikasi multi-tier ini dibuat dalam dua macam model , yaitu client/server windows model dan Web model. Untuk pembuatan aplikasi Web model, menggunakan teknologi ActiveX Form, yaitu form window dalam ActiveX control yang ditempelkan pada halaman web, sehingga dapat digunakan untuk akses database dengan client web browser Dari penelitian ini dapat ditemukan bahwa hasil pembuatan arsitektur multi-tier dengan DCOM teknologi memiliki banyak keuntungan seperti sentralisasi logika aplikasi pada middle-tier, membuat aplikasi client minimal, mendistribusikan beban proses pada beberapa mesin, meningkatkan keamanan data dengan kemampuan menyembunyikan letak data, dan perawatan dan instalasi yang cepat tanpa menginstall database driver pada tiap client.",
+  "creators": "HELIMAN PRASETYA TANTAMA",
+  "contributors": "Kartika Gunadi (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.00/E/KOM/006/063; Budiman Hadiatmadja (23493082)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAM"
+}

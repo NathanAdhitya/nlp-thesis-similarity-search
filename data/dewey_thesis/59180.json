@@ -1,0 +1,14 @@
+{
+  "id": "59180",
+  "title": "Sistem pemantauan status komputer pada jaringan perusahaan berbasis client-server",
+  "abstract": "Dalam suatu perusahaan yang memiliki banyak komputer yang terhubung, administrasi IT harus dapat memastikan agar semua komputer tersebut memiliki spesifikasi dan aplikasi yang benar sekaligus berjalan dengan kondisi baik. Namun karena jumlah komputer yang banyak, administrasi IT tersebut mengalami kesulitan karena harus melakukan pengecekan akan tiap komputer yang ada dalam perusahaan. Maka dari itu, diperlukannya sebuah sistem pemantauan yang dapat dipakai oleh administrasi IT untuk melakukan proses pemantauan pada komputer-komputer dalam perusahaan dengan mudah. Sistem ini akan berbasis PHP dan menggunakan Common Information Model, Lightweight Directory Access Protocol, dan beberapa script berbasis Powershell maupun CMD untuk dapat membantu administrasi IT dalam melakukan proses pemantauan. Sistem pemantauan yang sudah dikembangkan dan diimplementasikan di perusahaan dapat membuat tugas dari administrasi IT perusahaan melakukan proses pemantauan akan komputer-komputer yang ada di perusahaan menjadi lebih mudah, tidak memerlukan banyak energi, dan sekaligus lebih cepat.",
+  "creators": "MICHAEL ALEXANDER GUNAWAN",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Justinus Andjarwirawan (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022418/INF/2024; Michael Alexander Gunawan (C14190001)",
+  "subjects": "LDAP (COMPUTER NETWORK PROTOCOL); CLIENT/SERVER COMPUTING; COMPUTERS"
+}

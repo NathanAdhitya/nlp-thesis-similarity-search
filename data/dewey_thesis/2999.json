@@ -1,0 +1,14 @@
+{
+  "id": "2999",
+  "title": "Penggunaan sound card pada komputer untuk aplikasi penjawab telepon dengan kemampuan pembedaan penerima dan pengaksesan jarak jauh melalui jaringan telepon",
+  "abstract": "Answering Machine konvensional yang ada sekarang ini memiliki beberapa keterbatasan misalnya dalam hal kapasitas penyimpanan pesan, tidak bisa membedakan penerima pesan dan tidak memungkinkan untuk pengaksesan jarak jauh. Untuk mengatasi masalah ini, dalam Tugas Akhir ini akan dibuat sebuah Answering Computer / Komputer Penjawab Telepon yang memiliki kapasitas penyimpanan pesan yang besar, mampu untuk membedakan penerima pesan dan mampu untuk diakses jarak jauh melalui jaringan telepon. Komputer Penjawab Telepon ini terdiri dari dua bagian yaitu perangkat keras yang terhubung langsung dengan jaringan telepon, dan komputer yang berfungsi untuk memproses sinyal-sinyal yang masuk dari perangkat keras, dan berkomunikasi dengan penelpon. Perangkat lunak pada komputer dibuat dengan Delphi 7.0. Semua sinyal selain sinyal suara akan diinputkan ke komputer melalui parallel port dan sinyal suara dari jaringan telepon akan masuk dan keluar dari dan ke komputer melalui sound card. Dari hasil pengujian diketahui bahwa, perangkat keras dapat mendeteksi dengan baik sinyal dari jaringan telepon dan komputer dapat bekerja dengan baik dalam memproses sinyal masukan dari perangkat keras dan dalam memainkan suara, sehingga sistem ini berfungsi dengan baik. Oleh karena itu dapat disimpulkan bahwa Komputer Penjawab Telepon ini dapat dipakai sebagai alternatif yang lebih baik daripada Answering Machine konvensional.",
+  "creators": "FIRMANSAH ATE",
+  "contributors": "Resmana Lim (Advisor 1); Indar Sugiarto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010024/ELK/2005; Firmansah Ate (23401087)",
+  "subjects": "TELEPHONE-SOUND CARD SYSTEMS; INTERFACE CIRCUITS"
+}

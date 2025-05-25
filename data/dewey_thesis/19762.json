@@ -1,0 +1,14 @@
+{
+  "id": "19762",
+  "title": "Pembuatan aplikasi kompresi image dengan metode discrete cosine transform",
+  "abstract": "Perkembangan digital imaging pada kamera digital yang cepat membutuhkan semakin besarnya pemanfaatan storage untuk suatu image. Kualitas yang dihasilkan memang semakin bagus, tetapi juga menimbulkan masalah baru yaitu besarnya storage yang dibutuhkan. Dengan storage yang semakin besar, pertukaran data juga semakin sulit. Fasilitas-fasilitas yang disediakan pun biasanya membatasi storage untuk melakukan pertukaran data, bahkan tanpa batasan pun akan cukup merepotkan dalam pertukaran data. Untuk itu diperlukan metode kompresi yang dapat meminimalkan penggunaan storage tetapi juga tetap menjaga resolusi image dan kualitas image tersebut. Kompresi adalah cara untuk mengatasi masalah ini. Kompresi image secara umum dibedakan menjadi dua macam, lossless compression dan lossy compression. Metode yang biasanya dipakai dalam standard JPEG adalah lossy compression yaitu dengan menghilangkan sebagian informasi gambar dan memanfaatkan kelemahan dalam toleransi mata manusia terhadap warna. Program yang dibuat menggunakan lossy image compression dan setelah dilakukan pengujian berhasil memenuhi standard JPEG, cepat dalam hal komputasi dan menghasilkan output yang baik. Program ini menggunakan komputasi fDCT dan optimisasi algoritma lainnya sehingga kecepatannya lebih cepat daripada komputasi biasa. Pengujian dilakukan dengan IJG dan hasilnya program yang dibuat lebih cepat dalam hal komputasi sedangkan kualitas yang dihasilkan berbanding terbalik dengan besar kompresi data yang diinginkan.",
+  "creators": "ANDY FEBRICO BINTORO",
+  "contributors": "Liliana (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020933/INF/2010; Andy Febrico Bintoro (Andy Febrico Bintoro)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

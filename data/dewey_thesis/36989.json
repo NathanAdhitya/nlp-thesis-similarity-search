@@ -1,0 +1,14 @@
+{
+  "id": "36989",
+  "title": "Pembuatan aplikasi pemilihan karir dan peminatan bakat melalui tes psikologi self directed search dengan metode dempster shafer",
+  "abstract": "Pusat Karir Universitas Kristen Petra menggunakan berbagai jenis tes pada mahasiswa baru yang metodenya melalui kuisioner yang diberikan pada mahasiswa baru tersebut. Adapun pengembangannya salah satunya dengan menggunakan tes self-directed search (SDS) dengan metode Dempster-Shafer. Pada skripsi ini akan dibuat sebuah aplikasi berbasis web yang dapat diakses melalui browser yang berada pada jaringan opensource.petra.ac.id. Pembuatan aplikasi ini menggunakan PHP, Javascript, dan HTML sebagai bahasa pemrograman pada web tes SDS, dan mySQL sebagai databasenya. Berdasarkan pengujian sistem yang dilakukan, sistem dapat melakukan pengecekan login, menampilkan soal, melakukan penghitungan, melakukan pencarian kombinasi, menampilkan hasil tes, login administratror, menunjukkan hasil tes untuk administrator, dan menghapus hasil tes bagi mahasiswa yang ingin melakukan tes ulang. Aplikasi ini membutuhkan koneksi jaringan opensource.petra.ac.id untuk melakukan login admnistrator, dan melakukan tes dan server john.petra.ac.id untuk melakukan login mahasiswa.",
+  "creators": "JEREMY EZRA HARTONO",
+  "contributors": "Alexander Setiawan (Advisor 1); Justinus Andjarwirawan (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021541/INF/2016 ; Jeremy Ezra Hartono (26412069)",
+  "subjects": "APPLICATION SOFTWARE-DEVELOPMENT; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); WEBSITES-DESIGN"
+}

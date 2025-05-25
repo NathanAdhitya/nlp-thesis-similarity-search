@@ -1,0 +1,14 @@
+{
+  "id": "46610",
+  "title": "Implementasi internet of things untuk parkir mobil dengan pembayaran menggunakan qr code",
+  "abstract": "Seiring dengan bertambahnya jumlah kendaraan roda 4 (mobil), masalah yang berkaitan dengan ketersediaan tempat parkir untuk mobil juga semakin meningkat. Aliran masuk dan keluar mobil yang tidak seimbang dengan kapasitas tempat parkir. Hal ini disebabkan karena para pengemudi/pengunjung tidak memiliki informasi mengenai ketersediaan slot parkir sebelum berada di tempat parkir. Pada penelitian ini akan dilakukan uji coba untuk membantu menyelesaikan masalah tersebut dengan cara mengimplementasikan teknologi Internet of Things (IoT) pada gerbang masuk dan gerbang keluar tempat parkir, serta mendeteksi ketersediaan slot parkir. Lalu menggunakan sistem pembayaran digital dengan media QR Code untuk pembayaran parkir. Implementasi Internet of Things (IoT) yang digunakan pada bagian gerbang masuk dan keluar adalah menggunakan infrared sensor untuk mendeteksi adanya mobil pada gerbang dan servo motor untuk mengontrol gerbang masuk parkir. Sedangkan teknologi IoT untuk mendeteksi slot parkir adalah menggunakan sensor ultrasonik. Sensor akan selalu mendeteksi dan mengirimkan status setiap slot pada server. Untuk sistem pembayaran akan digunakan media QR Code sebagai bukti transaksi parkir. Keseluruhan teknologi dan sistem akan terintegrasi dalam suatu aplikasi, sehingga diharapkan dapat membantu masalah ketersediaan tempat parkir dan mempermudah proses pembayaran parkir.",
+  "creators": "JEMIMA CIANI SETIAWAN",
+  "contributors": "Resmana Lim (Advisor 1); Justinus Andjarwirawan (Advisor 2); Andreas Handojo (Examination Committee 1); Yulia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021968/INF/2020; Jemima Ciani Setiawan (26416042)",
+  "subjects": "INTERNET OF THINGS--INDUSTRIAL APPLICATIONS; PARKING LOTS; QR CODES; INTERNET OF THINGS"
+}

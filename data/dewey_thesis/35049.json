@@ -1,0 +1,14 @@
+{
+  "id": "35049",
+  "title": "Analisa risiko kelangsungan bisnis, pengawasan dan evaluasi teknologi informasi di PT ABC",
+  "abstract": "PT ABC merupakan perusahaan yang bergerak dibidang produksi besi beton. Dalam menjalankan proses bisnisnya, perusahaan ini menggunakan server, jaringan, software, hardware, perangkat PC. Dengan terganggunya salah satu sistem tersebut maka proses pengolahan data akan terganggu karena harus mengolah data secara manual dan melakukan input ke database setelah sistem dapat berjalan dengan normal kembali. Pada skripsi ini dilakukan analisa risiko terhadap IT continuity dan monitoring di PT ABC. Analisa risiko menggunakan framework dari ISO 31000, untuk proses analisa menggunakan COBIT 4.1 beserta control practices, dan menggunakan risk rating methodology (OWASP) untuk penghitungan nilai risiko. Dari hasil analisa, terdapat 7 risiko yang ditemukan yaitu 1 risiko dengan risk severity high adalah tidak mempunyai pihak yang bertanggung jawab terhadap penyimpangan, 2 risiko dengan risk severity medium adalah tidak mempunyai business continuity plan yang cocok, tidak mempunyai framework untuk membuat business continuity plan, 4 risiko dengan risk severity low adalah tidak mempunyai offsite backup, tidak mempunyai prioritas plan, tidak ada pelatihan untuk memperdalam skill analisa data, tidak melakukan update IT continuity. Hasil analisa risiko ini dapat membantu perusahaan untuk menyadari risiko-risiko yang mungkin terjadi di perusahaan.",
+  "creators": "RAYMOND ADRIAN HARDHA",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021438/INF/2015; Raymond Adrian Hardha (26411062)",
+  "subjects": "RISK ASSESSMENT; ANALYSIS, RISK; INFORMATION TECHNOLOGY"
+}

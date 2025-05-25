@@ -1,0 +1,14 @@
+{
+  "id": "35069",
+  "title": "Pembuatan aplikasi pengamanan data dengan metode Echo Hiding, MARS, dan Pseudorandom Generator dari RC4",
+  "abstract": "Di era modern ini teknologi berkembang pesat dan semakin canggih, terlebih teknologi komunikasi. Informasi dapat disebarkan tanpa harus bertatap muka satu sama lain. Tidak dipungkiri bahwa informasi bersifat rahasia pun dikirim melalui internet. Melalui beragam jenis informasi inilah berkembang teknik-teknik untuk merusak atau pun mempertahankan keamanan dari penyebaran informasi di internet Pengamanan data dengan menggunakan kriptografi dan steganografi sangat dibutuhkan untuk pengiriman data yang bersifat rahasia agar tidak semua orang bisa mengaksesnya. Proses yang dilakukan adalah enkripsi pesan dengan metode MARS, kemudian pesan diacak menggunakan Pseudorandom Generator dari RC4. Setelah teracak maka pesan disisipkan pada file carrier berupa file audio berformat WAV menggunakan metode Echo Hiding. Aplikasi ini dibuat dengan bahasa pemrograman Java menggunakan NetBeans IDE 7.4. Hasil pengujian menunjukkan bahwa enkripsi dengan metode MARS dapat dilakukan pada file jenis apapun. Hasil penyembunyian pesan dengan metode Echo Hiding menunjukkan bahwa parameter yang paling mempengaruhi keberhasilan ekstrak data adalah pembagian blok dan decay. Selain itu metode ini robust saat dikonversi ke file dengan format flac atau MP3 High VBR karena memiliki tingkat recovery rate yang cukup tinggi.",
+  "creators": "ELIZABETH NATHANIA W",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Kristo Radion Purba S.ST. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021422/INF/2015; Elizabeth Nathania Witanto (26411113)",
+  "subjects": "DATABASE DESIGN; CRYPTOGRAPHY-COMPUTER PROGRAM; COMPUTER SOFTWARE-DEVELOPMENT"
+}

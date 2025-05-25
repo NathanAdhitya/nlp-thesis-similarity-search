@@ -1,0 +1,14 @@
+{
+  "id": "2822",
+  "title": "Identifikasi tulisan berdasarkan analisa tekstur global menggunakan metode filter gabor",
+  "abstract": "Berbagai macam algoritma tersedia untuk melakukan identifikasi tulisan. Sebagian besar algoritma tersebut mengasumsikan tulisan yang diidentifikasi harus memiliki isi yang tetap. Kondisi ini tidak memungkinkan penerapan identifikasi tulisan pada bidang biometrik dan forensik. Oleh karena itu pada tugas akhir ini penulis berusaha untuk menghilangkan asumsi tersebut dengan menggunakan sebuah algoritma identifikasi tulisan yang melakukan analisa secara global. Tujuan tugas akhir ini adalah untuk membuat perangkat lunak sistem identifikasi tulisan melalui analisa tekstur global dengan menggunakan metode filter gabor. Metode ini memperlakukan tulisan sebagai tekstur yang unik, dan karena itu dapat dilakukan klasifikasi tekstur untuk mengidentifikasi tulisan. Karena aplikasi bersifat off-line identification maka input sistem berupa file gambar yang berisi tulisan. Pemrograman perangkat lunak menggunakan prinsip pemrograman berorientasi objek (OOP) dengan menggunakan bahasa pemrograman C++, kompiler Microsoft Visual C++ 6.0?, dan dibantu dengan library dari Intel Image Processing Library (IPL) dan Intel Open Source Computer Vision (OpenCV). Desain dan implementasi filter gabor menggunakan MATLAB 5.3. Tingkat akurasi sebesar 96% dicapai untuk identifikasi tulisan cetak dari 240 pengujian menggunakan 24 macam font. Untuk tulisan tangan diperoleh tingkat akurasi sebesar 98% dari 390 pengujian oleh 13 penulis. Tingkat akurasi identifikasi tanda tangan sebesar 79% dicapai dari 200 pengujian oleh 10 orang. Pengujian juga dilakukan untuk mengetahui pengaruh noise dan jumlah karakter.",
+  "creators": "VINCENT MARIO RUNTUWENE",
+  "contributors": "Kartika Gunadi (Advisor 1); Arie Wirawan Margono (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01000331/INF/2005; Vincent Mario Runtuwene (26401083)",
+  "subjects": "COMPUTER AIDED VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

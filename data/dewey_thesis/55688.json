@@ -1,0 +1,14 @@
+{
+  "id": "55688",
+  "title": "Prototype sistem entry data kesehatan sebagai pelengkap telemedicine",
+  "abstract": "Perkembangan teknologi komunikasi yang semakin cepat memungkinkan kita untuk bertukar data dengan cepat dan mudah. Perkembangan teknologi ini juga sudah menjamah ke dunia pengobatan sehingga kita mengenal istilah seperti telemedicine. Pada tugas akhir ini akan dibuat sebuah sistem untuk memonitor kondisi pasien dari jarak jauh dengan menggunakan aplikasi android, aplikasi web, server, dan database. Aplikasi android akan digunakan untuk mengawasi kondisi pasien dengan cara mengirim data input manual dari hasil pembacaan kondisi pasien. Aplikasi juga akan dapat menerima hasil riwayat dari kondisi pasien. Sementara itu aplikasi web akan digunakan untuk mendaftarkan pasien baru. Server digunakan untuk menyambungkan antara aplikasi dengan database. Terakhir database akan digunakan untuk menyimpan data dari aplikasi untuk digunakan lagi. Dari pengujian pengujian pasien dapat mengirim data ke server tetapi belum bisa mengambil data riwayat pasien dari server dengan aplikasi android. Aplikasi web sudah bisa mendaftarkan pasien baru",
+  "creators": "WILLIAM HAKAM GHOZALLI HERNOKO",
+  "contributors": "Resmana Lim (Advisor 1); Indar Sugiarto (Examination Committee 1); Thiang (Examination Committee 2); Felix Pasila (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010148/ELK/2023; William Hakam Ghozalli Hernoko (C11170014)",
+  "subjects": "ELECTRICAL ENGINEERING--DATA PROCESSING; ELECTRICAL ENGINEERING"
+}

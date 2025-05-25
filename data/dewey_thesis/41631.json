@@ -1,0 +1,14 @@
+{
+  "id": "41631",
+  "title": "Elemen segitiga berbasis kriging dengan tegangan kontinu pada titik nodal",
+  "abstract": "Diperkenalkan MEH-K Modifikasi yang menggabungkan metode elemen hingga berbasis Kriging dan elemen Trig3-CNS dengan harapan kelemahan masing-masing metode dapat diatasi. Elemen Trig3-CNS yang digunakan disusun dengan constrained orthonormalised least square (CO-LS) yang diinterpolasi menggunakan metode elemen hingga. Metode elemen hingga menggunakan Kriging shape function. Pada penelitian ini disajikan aplikasi MEH-K Modifikasi dalam penyelesaian masalah plane-stress dan plane-strain pada beberapa benchmark problem. MEH-K Modifikasi dibandingkan dengan MEH-K dan Trig3-CNS untuk mengetahui apakah tujuan tercapai dengan relative error perpindahan dan energi regangan sebagai pembanding. Penerapan MEH-K Modifikasi dilakukan dengan bantuan pemrograman MATLAB. Hasil yang didapatkan menunjukkan bahwa dengan diperhalusnya mesh, MEH-K Modifikasi dapat memberikan hasil yang makin mendekati eksak, menunjukkan sifat konvergen. MEH-K Modifikasi juga dapat memberikan stress contour yang baik. Pada problem balok kantilever dan pelat siku, perlu perlakuan khusus agar MEH-K Modifikasi dapat memberikan hasil yang baik, sehingga masih perlu dilakukan penelitian lebih lanjut",
+  "creators": "THEODORE ARNOLDUS LUDONG; CHRISTIAN KENTARO",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Jimmy Chandra (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012201/SIP/2018; Theodore Arnoldus Ludong (21414033), Christian Kentaro (21414049)",
+  "subjects": "CONSTRUCTION INDUSTRY-MANAGEMENT; KRIGING"
+}

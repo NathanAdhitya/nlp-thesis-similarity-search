@@ -1,0 +1,14 @@
+{
+  "id": "2594",
+  "title": "Perancangan dan pembuatan aplikasi personal digital shopping assistant untuk pengunjung pusat perbelanjaan \"X\"",
+  "abstract": "Aplikasi Personal Digital Shopping Assistant (PDSA) merupakan aplikasi yang digunakan pada Personal Digital Assistant (PDA). Aplikasi ini dibuat untuk mengatasi kesulitan dan hambatan yang sering ditemui para pengunjung sebuah pusat perbelanjaan pada saat berbelanja, seperti kesulitan mencari lokasi toko, membandingkan harga dan merek, serta mendapatkan info dan promo terkini. Aplikasi dibuat untuk digunakan pada PDA milik pengunjung, agar pengunjung dapat memperoleh informasi dengan cepat tanpa harus mencari terminal informasi. Sehingga , kegiatan berbelanja menjadi lebih efisien. Desain sistem aplikasi PDSA dilakukan menggunakan Power Designer. Pembuatan aplikasi PDSA utama untuk digunakan pada PDA menggunakan Macromedia Flash MX. Kemudian untuk pengisian data oleh administrator pada server pusat perbelanjaan, digunakan bahasa pemrograman PHP. Sedangkan database MySQL digunakan untuk menyimpan data. Aplikasi PDSA pada PDA mempunyai beberapa fitur yaitu, fitur peta untuk pencarian lokasi toko, fitur perbandingan harga dan merek, fitur pencarian info toko dan barang sesuai jenis dan spesifikasi tertentu, serta fitur info dan promo terkini di pusat perbelanjaan. Sebagai pelengkap, terdapat fitur daftar belanja untuk membantu pengunjung menentukan prioritas dalam berbelanja, fitur kalkulator diskon dan pajak, serta fitur kritik dan saran. Sedangkan dari sisi administrator, terdapat fitur pengisisan data, serta fitur laporan dan analisis perilaku pengunjung dalam berbelanja yang berguna untuk pengembangan pusat perbelanjaan.",
+  "creators": "LADY JOANNE TJAHYANA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Arie Wirawan Margono (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000366/INF/2005; Lady Joanne Tjahyana (26401127)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

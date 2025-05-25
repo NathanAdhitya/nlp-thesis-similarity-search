@@ -1,0 +1,14 @@
+{
+  "id": "17004",
+  "title": "Perencanaan dan pembuatan alat pengubah 1 fasa ke 3 fasa, 220/380 v dengan metode penggeser fasa",
+  "abstract": "Supply daya 3<$ > biasanya digunakan oleh pabrik-pabrik yang memiliki supply daya besar.Sedangkan untuk rumah tangga biasanya menggunakan supply daya 1$. Untuk memiliki supply 3 fasa dengan daya minimum tertentu yang ditetapkan oleh PLN dan hal ini dianggap kurang efisien. Untuk mengatasi masalah ini maka dibuat suatu alat yang mampu mengubah l? menjadi 3(j > tanpa harus merubah instalasi listrik pada rumah itu. Alat ini bekerja dengan prinsip penggeser fasa dimana listrik 1$ dengan tegangan 220 V diturunkan menjadi IV, outputnya dianggap sebagai fasa R. Tegangan ini nantinya di tunda fasanya dengan cara sampling sehingga didapat perbedaan fasa sebesar 120?, outputnya dianggap sebagai fasa S. Tegangan ini juga mengalami penundaan dengan cara yang sama untuk mendapatkan perbedaan fasa sebesar 120?, outputnya dianggap sebagai fasa T. Keluaran dari rangkaian tunda dikuatkan oleh power amplifier, kemudian dilewatkan trafo step-up untuk dihubungkan ke beban 3 . Pengujian alat ini dilakukan di laboratorium dengan motor tanpa beban dan lampu sebagai bebannya. Dari hasil pengujian ternyata output tegangan sinusoidal, perbedaan antar fasa 120?, dan drop tegangan maximum 9,5 %.",
+  "creators": "ANDY SUTRISNO",
+  "contributors": "Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/TST/034/313; Andy Sutrisno (23493058)",
+  "subjects": "ELECTRIC TRANSFORMERS"
+}

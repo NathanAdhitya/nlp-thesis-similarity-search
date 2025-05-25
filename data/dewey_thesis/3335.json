@@ -1,0 +1,14 @@
+{
+  "id": "3335",
+  "title": "Analisa momen lentur plat dua arah dengan berbagai tumpuan balok",
+  "abstract": "Perubahan ukuran balok penumpu, tebal plat (t), dan ukuran plat dapat mempengaruhi pola penyebaran momen lentur pada plat dua arah. Penelitian ini mempelajari pengaruh ukuran balok, tebal plat (t), dan ukuran plat terhadap momen lentur plat dua arah, dan membandingkan hasil perhitungan yang diperoleh terhadap momen lentur yang terdapat pada buku \" Grafik dan Tabel Perhitungan Beton Bertulang Berdasarkan SKSNI T-15-1991-03\" dan \"Peraturan Beton Indonesia 71\". Untuk menghitung momen lentur plat dengan berbagai macam ukuran balok, tebal plat (t), dan ukuran plat digunakan software SAP 2000 V.8.08. Dalam penelitian ini ukuran balok dimulai dengan tinggi balok (h) sama dengan tebal plat (t) sampai diperoleh keadaan jepit, dengan batasan lebar balok (b) = 0,5 tinggi balok (h), tebal plat minimum (tmm) disesuaikan dengan peraturan sedangkan tebal plat maksimum (tmaks) diambil 1/10 bentang pendek (lx) plat (Kirchhoff'theory), dan bentang pendek (lx) plat dimulai dari 2m sampai 7m dengan perbandingan bentang panjang dan pendek (ly/Ix) mulai 1 sampai dengan 2. Hasil penelitian menunjukkan bahwa, ada tiga case pola penyebaran momen lentur plat dua arah, seiring dengan membesarnya balok tumpuan. Selain itu, nilai momen arah x tidak selalu lebih besar daripada nilai momen arah y, bergantung pada ukuran balok penumpunya. Pendetailan secara khusus, perlu diberikan pada daerah sekitar kolom, ketika digunakan balok yang ukurannya relatif kecil.",
+  "creators": "IRWAN BUDIONO",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Januar Buntoro (Advisor 2); Effendy Tanojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 1330/SIP/2004; Irwan Budiono (21400050)",
+  "subjects": "CONCRETE BEAMS"
+}

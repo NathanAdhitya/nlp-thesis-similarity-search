@@ -1,0 +1,14 @@
+{
+  "id": "20665",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi berbasis web pada toko UD. Slamet",
+  "abstract": "UD. Slamet merupakan salah satu perusahaan yang bergerak dalam bidang pembelian dan penjualan oli, baik oli eceran maupun partai. Saat ini, toko UD. Slamet memiliki program sederhana yang masih berbasis DOS, namun tidak semua bagian tercakup dalam program ini, hanya pembelian dan penjualan sederhana. Maka dari itu dibutuhkan penambahan fitur dan integrasi untuk peningkatan kinerja perusahaan. Contoh kekurangannya adalah dalam hal perhitungan dan pencatatan stok. Untuk pengembangan usahanya dibutuhkan sistem baru yang dapat memperbaiki sistem lama yang dipakai saat ini. Pada skripsi ini, proses pembuatan aplikasi diawali dengan desain hingga implementasi. Untuk mendapatkan desain baru dibutuhkan survei lapangan. Desain yang dibuat meliputi pembuatan DFD dan ERD yang baru. Aplikasi sistem penjualan dan pembelian yang telah diimplementasikan dapat membuat proses pembelian dan penjualan pada UD. Slamet menjadi lebih terperinci dan tersusun rapi. skripsi ini dibuat dengan menggunakan PHP Hypertext Preprocessor (PHP) sebagai bahasa script dan PHPMyAdmin sebagai penyimpan database. Aplikasi ini telah selesai dibuat dengan fitur-fitur yang telah direncanakan dan disesuaikan dengan kebutuhan sebelumnya meliputi pembuatan Laba Rugi dengan menggunakan HPP dan kartu stok yang terperinci.",
+  "creators": "MICHAEL LIANTO DP",
+  "contributors": "Yulia (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021022/INF/2011; Michael Lianto (26406048)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

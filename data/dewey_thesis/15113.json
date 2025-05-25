@@ -1,0 +1,14 @@
+{
+  "id": "15113",
+  "title": "Perencanaan dan pembuatan pengatur kecepatan motor induksi satu phasa (220 Volt, 50 Hz, 860/970/1050 RPM) dengan infra red",
+  "abstract": "Pada saat ini peralatan elektronik dalam rumah tangga juga diperlukan adanya suatu sistem pengontrolan yang canggih sehingga memberikan kepraktisan, keefisienan dan kenyamanan bagi pemakai. Salah satu contoh aplikasi teknologi yang diterapkan dalam peralatan elektronik dalam rumah tangga adalah pengaturan kecepatan motor induksi satu fasa dari jarak jauh tanpa menyentuh objeknya. Perencanaan dan pembuatan alat ini menggunakan gelombang infra merah, dikirimkan data kecepatan motor yang diinginkan dan kemudian diterima oleh suatu rangkaian penerima yang akan membaca data itu sehingga diperoleh kecepatan motor yang diinginkan. Data ini yang selanjutnya diproses oleh suatu rangkaian pusat pengontrol berupa rangkaian minimum sistem Mikrokontroler 8031 (MCS 51). Dari sini juga mengirimkan sinyal kontrol untuk mengaktifkan sistem relai dari data yang dikehendaki. Di mana sistem relay ini berhubungan dengan pengaturan kecepatan motor. Sedangkan besar kecepatan motor diukur dan diproses oleh rangkaian pusat pengontrol yang kemudian ditampilkan pada sebuah papan tampilan.",
+  "creators": "ARIS POERWANTORO",
+  "contributors": "BUNAWI GUNAWIDJAJA (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); IRWAN SAHLI (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/TST/018/208; Aris Poerwantoro (23488023)",
+  "subjects": "ELECTRIC MOTORS-AUTOMATIC CONTROL; INTEL MCS-51 (MICROCONTROLLERS); AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

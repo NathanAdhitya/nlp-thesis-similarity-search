@@ -1,0 +1,14 @@
+{
+  "id": "16777",
+  "title": "Otomasi alur kerja (work flow) prosedur pembelian di Universitas Kristen Petra memanfaatkan jaringan TCP/IP",
+  "abstract": "Dalam tugas akhir ini alur kerja yang dibahas adalah alur kerja prosedur pembelian (realisasi anggaran) di Universitas Kristen Petra. Sistem alur kerja tersebut telah dilaksanakan selama ini secara manual. Agar pelaksanaan sistem alur kerja tersebut lebih efektif maka dilakukan otomasi terhadap alur kerja tersebut. Melakukan otomasi berarti menerapkan teknologi dalam pelaksanaan sistem alur kerja tersebut menggunakan komputer dan jaringan TCP/IP sebagai sarana pertukaran data. Otomasi yang dikembangkan menggunakan model client server, dimana program sisi server terhubung dengan database server yang menggunakan Microsoft SQL Server. Dikembangkan pula mekanisme keamanan menggunakan sistem password dan enkripsi / dekripsi untuk pertukaran data antara program sisi client dan sisi server. Program yang dikembangkan dengan model client server ini bekerja dalam sistem operasi Windows 95 dan Windows NT, untuk itu digunakan compiler Borland Delphi 3.0, diperlukan pula pustaka fungsi tambahan untuk menggunakan jaringan TCP/IP dalam sistem operasi Windows 95 dan Windows NT yaitu dWinsock 2.51. Dalam pengujian dilakukan simulasi masalah yang dihadapi pada pelaksanaan yang sebenarnya, menggunakan data permohonan pembelian yang diperoleh pada tahap survei pada salah satu Investment Center. Dari pengujian ini terlihat sistem dapat memberikan kecepatan pertukaran data yang lebih baik, perubahan posisi dan status permohonan tersebut dapat selalu diikuti. Dengan otomasi ini diharapkan pelaksanaan sistem alur kerja prosedur pembelian menjadi lebih efektif dan mengurangi penggunaan kertas/form, pemeliharaan data menjadi lebih sederhana dan terpusat, dan pertukaran data yang terjadi lebih cepat.",
+  "creators": "JOSAFAT TIMOTIUS",
+  "contributors": "Resmana Lim (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/KOM/005/027; Josafat Timotius (23492084)",
+  "subjects": "AUTOMATION; WORKFLOW-MANAGEMENT"
+}

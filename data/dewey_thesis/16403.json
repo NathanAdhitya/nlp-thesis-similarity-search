@@ -1,0 +1,14 @@
+{
+  "id": "16403",
+  "title": "Digitally controlled mixer yang dikontrol secara remote melalui PC",
+  "abstract": "Permasalahan yang sering dihadapi dalam mempersiapkan sebuah pertunjukan adalah menentukan letak mixer dan kabel yang menghubungkan peralatan musik atau microphone ke mixer tersebut. Mixer diletakkan di tengah penonton agar operator dari mixer bersangkutan dapat mendengar sinyal suara (yang dihasilkan oleh mixer) yang sama dengan yang didsngar oleh penonton dan dapat memberikan perubahan-perubahan konfigurasi bila diperlukan. Yang menjadi masalah adalah dengan adanya jumlah kabel yang cukup banyak dan berserakan antara panggung dengan mixer, kondisi yang rawan terjadi. Penonton dapat tanpa sengaja menendang kabel yang menjulur di tanah sehingga terlepas kontaknya dari mixer. Jumlah kabel yang banyak dan panjang juga membutuhkan biaya yang cukup besar. Untuk menjawab masalah di atas, tujuan tugas akhir ini adalah membuat metode pengontrolan mixer dari jarak jauh yang aman dan menggunakan kabel sesedikit mungkin sehingga efisien. Metode yang dipergunakan adalah menggunakan komunikasi serial sebagai media transfer data konfigurasi dari operator mixer yang berada di tengah audience ke mixer yang diletakkan di belakang panggung (tidak lagi di tengah penonton). Sehingga hanya diperlukan satu berkas kabel dari operator menuju ke mixer. Panjang kabel dari peralatan musik di panggung ke mixer juga tidak sepanjang semula, karena kali ini mixer diletakkan di dekat panggung. Operator mengubah konfigurasi melalui komputer. Komputer mengubah konfigurasi menjadi pesan digital yang kemudian dikirimkan secara serial ke mixer. Mixer menerima instruksi digital ini kemudian memperbaharui konfigurasi yang ada padanya sesuai data yang bam. Mixer dibuat menggunakan sistem baxandall. Mixer ini dikontrol secara digital melalui processor 8088. 8088 menerima data konfigurasi dari operator secara serial dengan level RS422. Hasil pengujian menunjukkan keberhasilan sistem yang dirancang. Operator dapat menggunakan komputer desktop atau laptop sebagai media pengirim data dan mixer dapat mengubah konfigurasi dirinya sesuai data yang ia terima. Metode ini dapat digunakan bila efisiensi dan keamanan peralatan mixer sangat dibutuhkan.",
+  "creators": "ADI WIBOWO",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/040/434; Adi Wibowo (23492040)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; REMOTE CONTROL; PROGRAMMABLE CONTROLLERS"
+}

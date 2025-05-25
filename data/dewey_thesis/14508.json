@@ -1,0 +1,14 @@
+{
+  "id": "14508",
+  "title": "Pembuatan charger baterai dengan 3 buah mode floating, boost dan equal menggunakan mikroprosesor 8031 dengan monitoring baterai 24V, arus 7A dan suhu 35 C untuk aplikasi baterai lead acid",
+  "abstract": "Seiring dengan majunya teknologi, maka bidang telekotniinikasi juga ikut berkembang. Bidang telekomunikasi yang terpopuler adalah telepon. Telepon ini membutuhkan suplai DC. Suplai DC ini kadang-kadang berada di gunung-gunung yang jauh dari pemukiman, padahal suplai DC ini tidak boleh mati dan membutuhkan perawatan. Oleh karena itu sistem ini membutuhkan charger baterai yang pintar. Yang bisa mencharge dan mengatur sistem sehingga suplai tidak terputus. Alat pada tugas akhir ini mempunyai 2 bank yaitu bank 1 dan bank 2. Kedua bank ini bekerja bergantian, bila bank 1 dipasang ke load maka bank 2 dicharge, demikian sebaliknya. Bila suplai PLN mati maka kedua bank diparalel dan masuk ke load, sehingga suplai ke beban tidak terputus. Sedangkan bila ada gangguan sehingga kedua bank low battery maka kedua bank diparalel ke load dan dicharge bersama. Alat ini dapat bekerja dalam 3 buah mode yaitu mode boost, floating dan equalize. Mode boost adalah mode yang digunakan untuk baterai baru (28,8 V). Mode floating adalah mode untuk pemanasan menuju proses charging sebenarnya (27,25 V). Mode equalize adalah mode charging yang sebenamya (28,8 V) Setelah melalui pengujian, maka alat ini ternyata dapat bekerja dalam 3 buah mode yatu boost, floating dan equalize. Alat ini juga dapat bekerja dengan baik sehingga suplai ke load tidak terputus bahkan bila suplai dan PLN terputus atau ada gangguan.",
+  "creators": "GO TJIEN SIN",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1); Limboto Limantara (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/TST/029/266; Go Tjien Sin (23491103)",
+  "subjects": "ELECTRIC BATTERIES"
+}

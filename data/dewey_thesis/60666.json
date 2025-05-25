@@ -1,0 +1,14 @@
+{
+  "id": "60666",
+  "title": "Sistem informasi manajemen pengerjaan tugas akhir di Universitas Kristen Petra",
+  "abstract": "Universitas Kristen Petra (UK Petra) berperan signifikan dalam mempersiapkan mahasiswa menjadi profesional yang handal, di mana penyusunan tugas akhir menjadi salah satu tahap penting. Untuk mendukung tahap ini, UK Petra memanfaatkan Sistem Informasi Manajemen Tugas Akhir (SIM-TA) yang terintegrasi dengan SIM Petra. Namun, sistem ini menghadapi beberapa tantangan, seperti kurangnya fleksibilitas dalam mengakomodasi perbedaan alur tugas akhir di berbagai program studi, terbatasnya fitur-fitur penting, dan masalah teknis. Contohnya, sistem tidak menyediakan fitur untuk mengunggah tugas akhir dan dokumen lainnya, serta membatasi jumlah dosen pembimbing yang dapat diajukan. Selain itu, terdapat isu dalam pengalaman pengguna, redundansi data pada tugas akhir kelompok, serta ketidakmampuan sistem untuk otomatis mengubah status tugas akhir setelah sidang. Penelitian ini bertujuan mengembangkan website SIM-TA baru guna mengatasi permasalahan tersebut dan meningkatkan efisiensi serta efektivitas dalam proses pengajuan proposal tugas akhir. Pengembangan website dilakukan menggunakan framework Laravel, database PostgreSQL, dan Amazon S3 untuk penyimpanan berkas. Hasil pengujian melalui skenario dan User Acceptance Testing (UAT) menunjukkan bahwa sistem baru ini berfungsi dengan baik, mengintegrasikan proses pengerjaan tugas akhir dalam satu platform. Sistem ini mempermudah koordinator tugas akhir, dosen, dan mahasiswa dari pengerjaan tugas akhir hingga revisi tugas akhir.",
+  "creators": "FILBERT FERDINAND LIM",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Ivan Widiyanto S.Kom (Advisor 2); Andreas Handojo (Examination Committee 1); Silvia Rostianingsih (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022588/INF/2024; Filbert Ferdinand Lim (C14200184)",
+  "subjects": "MANAGEMENT INFORMATION SYSTEM; THESIS; WEB APPLICATIONS--COMPUTER PROGRAMS"
+}

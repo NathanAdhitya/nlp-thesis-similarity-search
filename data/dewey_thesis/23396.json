@@ -1,0 +1,14 @@
+{
+  "id": "23396",
+  "title": "Perencanaan dan pembuatan tampilan melodi organ elektronik yang terekam dengan mikrokontroler 8031",
+  "abstract": "Musik adalah bagian yang tidak terpisahkan dalam kehidupan manusia, terutama pada saat teknologi berkembang begitu pesat dewasa ini. Berbagai alat musik yang ditunjang oleh peralatan elektronik mulai menggantikan peralatan-peralatan mekanis. Diantara semua peralatan yang ada tampaknya, organ elektronik merupakan pilihan yang utama. Pada tugas akhir ini penulis membuat tampilan melodi organ elektronik yang terekam yang dapat membantu orang yang baru pertama kali mempelajari organ elektronik. Terutama dalam belajar mengenal nada-nada dari organ. Frekuensi-frekuensi yang dikeluarkan oleh organ elektronik dikuatkan oleh rangkaian defferensial amplifier dan disample oleh rangkaian nodulasi Delta. Data yang direkam akan disimpan di dalam RAH dm akan diolah oleh Hicrokontroller 80C31 dari keluarga HCS-51 yang dibuat oleh Intel Corporation dan ditampilkan dalam bentuk notasi huruf pada display. Peranan perangkat lunak sangat penting yaitu sebagai pengontrol pemasukan, penyimpanan dan pengeluaran data. Data yang masuk akan dideteksi dan dibandingkan dengan standart data yang ada, sehingga diketahui not-notnya disimpan dan ditampilkan pada display.",
+  "creators": "Unknown",
+  "contributors": "SOETIKNO (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/017/277; Mintarto Mintarso (23488062)",
+  "subjects": "COMPUTER; INTEL 8031 (MICRO CONTROLLERS); ORGAN MUSIC"
+}

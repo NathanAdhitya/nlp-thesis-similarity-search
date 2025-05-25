@@ -1,0 +1,14 @@
+{
+  "id": "55686",
+  "title": "Segmentasi pelanggan pada PT Shoesmart untuk meningkatkan retensi dengan membandingkan antara metode k-means dan dbscan dengan menerapkan model analisis rfm",
+  "abstract": "Segmentasi pelanggan merupakan strategi yang digunakan oleh pelaku bisnis untuk mengelompokkan pelanggan ke dalam beberapa kelompok pelanggan tertentu berdasarkan sifat-sifat pelanggan. PT Shoesmart sebagai perusahaan yang bergerak pada bidang e- commerce saat ini memiliki kebutuhan untuk mengenali pelanggan-pelanggan yang ada dengan cara mengelompokkan pelanggan-pelanggan tersebut berdasarkan perilaku transaksi yang serupa. Dalam penelitian ini, akan dirancang dan dibuat sebuah aplikasi segmentasi pelanggan yang dapat membantu PT Shoesmart dalam melakukan segmentasi pelanggan. Proses segmentasi pelanggan akan dilakukan dengan menggunakan dan membandingkan 2 metode, yaitu metode k-means dan dbscan serta menerapkan model analisis RFM. Metode k-means adalah metode clustering di mana datanya dikelompokkan berdasarkan partisi sedangkan metode dbscan pengelompokkan datanya berdasarkan kepadatan data. Pengujian yang dilakukan yaitu segmen apa saja yang terbentuk antara dua metode clustering, membandingkan tingkat akurasi atau kualitas dari hasil segmen yang terbentuk dengan silhouette coefficient dan kuesioner tentang penggunaan aplikasi segmentasi pelanggan. Dari tiga pengujian yang dilakukan, pada pengujian pertama metode k-means menghasilkan 3 segmen dengan K= 3 dan metode dbscan menghasilkan 5 segmen dan 1 kelompok data outlier dengan nilai epsilon = 0,06000006 dan min_sample =9. Pengujian kedua yaitu membandingkan tingkat kualitas segmen. Metode k-means = 0.4106612734053469 dan metode dbscan = 0.3468140056645671, disimpulkan kualitas segmen hasil metode k-means lebih bagus dibandingkan metode dbscan. Kemudian hasil pengujian kuesioner, secara keseluruhan aplikasi segmentasi pelanggan diberi nilai cukup baik dari tim PT Shoesmart.",
+  "creators": "JONATHAN FEBRIAN PRATIGNYO",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Gregorius Satiabudhi (Advisor 2); Yulia (Examination Committee 1); Silvia Rostianingsih (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022266/INF/2023; Jonathan Febrian Pratignyo (C14180220)",
+  "subjects": "CONSUMER BEHAVIOR--CASE STUDIES; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE SEARCHING"
+}

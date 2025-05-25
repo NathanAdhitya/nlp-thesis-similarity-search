@@ -1,0 +1,14 @@
+{
+  "id": "11151",
+  "title": "Perancangan dan pembuatan modul pengelompokan expert portfolio dengan menggunakan metode fuzzy similarity relation",
+  "abstract": "Sebagai peneliti dan pengajar, pasti memiliki pengetahuan dan pengalaman. Pengetahuan dan pengalaman yang dimiliki akan lebih berguna bila dapat dibagikan kepada para peneliti dan pengajar lain untuk meningkatkan kualitas pengajaran dan penelitian. Agar hal tersebut dapat terealisasi, diperlukan sebuah wadah untuk menampung para peneliti dan pengajar agar dapat saling berkomunikasi dan melakukan sharing knowledge. Pada Tugas Akhir ini, dibuat modul pengelompokan para peneliti dan pengajar, yang diasumsikan seorang expert, ke dalam suatu wadah. Wadah tersebut berupa sebuah grup riset. Setiap grup riset memiliki topik masing-masing dan setiap expert juga memiliki expertise masing-masing. Para expert tersebut akan dikelompokkan ke dalam grup riset berdasarkan hubungan expertise yang dimiliki expert dengan topik dari grup riset tersebut dengan menggunakan metode Fuzzy Similarity Relation. Aplikasi ini dibuat dengan menggunakan Mahara eportfolio template sebagai user interface, bahasa pemrograman PHP, database MySQL, dan menggunakan operating system Linux Ubuntu sebagai server. Berdasarkan pengujian, modul ini dapat mengelompokkan expert ke dalam grup riset dengan topik tertentu sesuai dengan expertise yang dimiliki expert, sehingga expert yang memiliki expertise yang mirip dapat saling melakukan sharing knowledge. Selain itu juga dapat mencari hubungan seorang expert dengan expert lain sehingga mempermudah dalam melakukan pencarian expert yang mirip dengan expert yang dicari.",
+  "creators": "HENRY GUNAWAN",
+  "contributors": "Rolly Intan (Advisor 1); Resmana Lim (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010760/INF/2008; Henry Gunawan (26404020)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

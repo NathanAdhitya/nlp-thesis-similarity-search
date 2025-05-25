@@ -1,0 +1,14 @@
+{
+  "id": "15237",
+  "title": "Perencanaan dan pembuatan pintu dengan detektor logam dengan algoritma fuzzy logic",
+  "abstract": "Pada sebuah pabrik emas sangatlah mudah terjadi seorang karyawan melakukan pencurian, dengan menyembunyikannya pada bagian tubuhnya. Tindakan preventif sangatlah perlu dilakukan dengan pemeriksaan sebelum meninggalkan pabrik. Berdasarkan tindakan preventif tersebut peralatan ini dibuat. Detector logam dirancang dengan menggunakan dua coil sebaigai sensor pemancar dan penerima. Pancaran medan magnet bolak-balik dari koil pemancar akan terganggu bila terdapat logam yang menghalanginya. Dengan terhalangnya medan magnet bolak-balik ini, maka pada koil penerima akan mengalami peredaman sesuai dengan jenis dan besarnya logam. Sinyal keluaran dari koil penerima ini masih berupa tegangan bolak-balik dan sinyalnya kecil. Oleh karena itu harus diperkuat dan disearahkan, sehingga sinyal tersebut dapat diubah ke bentuk digital melalui ADC dan selanjutnya diolah dengan mikrokontroller dan ditampilkan ke alarm. Hasil akhir yang dicapai yaitu logam yang besarnya sebesar kalung dapat dideteksi.",
+  "creators": "RUDY",
+  "contributors": "IRWAN SAHLI (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/010/309; Rudy (23491010)",
+  "subjects": "AUTOMATIC CONTROL; METAL DETECTORS"
+}

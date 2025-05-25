@@ -1,0 +1,14 @@
+{
+  "id": "36226",
+  "title": "Aplikasi modul pengguna pada Perpustakaan Universitas Kristen Petra",
+  "abstract": "Saat ini, Perpustakaan Universitas Kristen Petra menyediakan formulir untuk para penggunanya mengusulkan koleksi. Tetapi, hal ini masih dilakukan secara manual yang menyebabkan seringnya terjadi human error dan kesulitan dalam pemrosesannya. Selain itu, pengguna belum dapat mengetahui informasi peminjaman koleksi, termasuk tanggal pengembalian dan denda jika ada. Berdasarkan latar belakang permasalahan tersebut, dibuatlah sebuah aplikasi modul pengguna pada perpustakaan. Aplikasi website ini dibuat dengan menggunakan Yii Framework dan database PostgreSQL. Untuk sistem rekomendasi koleksi buku dibuat berdasarkan judul koleksi sejarah peminjaman pengguna yang diproses oleh aplikasi Solr dan interest klasifikasi pengguna. Fitur live chat dibuat dengan menggunakan PHP Socket dan HTML5 WebSocket. Hasil akhir dari pengembangan aplikasi ini adalah pengguna dapat membuat usulan koleksi dan melihat usulan yang pernah diajukan beserta statusnya. Pengguna juga dapat melihat status dan sejarah peminjamannya beserta rekomendasi koleksi buku. Selain itu, terdapat fitur live chat sebagai sarana komunikasi antara perpustakaan dengan para penggunanya secara interaktif.",
+  "creators": "KEVIN YANWAR",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Kristo Radion Purba S.ST. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021496/INF/2016; Kevin Yanwar (26412084)",
+  "subjects": "DATABASES; LIBRARY WEB SITES-DESIGN; PROGRAMMING (ELECRONIC COMPUTERS); WEB (COMPUTER PROGRAM LANGUAGE)"
+}

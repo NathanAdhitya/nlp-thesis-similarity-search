@@ -1,0 +1,14 @@
+{
+  "id": "27812",
+  "title": "Perencanaan dan pembuatan peralatan otomatisasi proses penyablonan menggunakan MCS-51",
+  "abstract": "Dewasa ini perkembangan di bidang elektronika semakin pesat dengan hadirnya perangkat-perangkat elektronik yang berteknologi baru. Salah satu dari komponen elektronik yang penting adalah PCB (Printed Circuit Board), di mana biasanya kita mendesain jalur tembaganya sesuai dengan rangkaiannya. Salah satu proses yang membutuhkan ketrampilan tertentu adalah pada proses penyablonan PCB. Oleh karena itu, maka timbulah ide untuk membuat suatu peralatan otomatisasi proses penyablonan PCB yang akan dijadikan pokok pembahasan dalam tugas akhir ini. Adapun sebagai pengolah data digunakan mikrokontroler 8031, sehingga proses kerja peralatan dapat dikendalikan. Adapun pada peralatan otomatisasi ini, penyapu tinta sablon (rakel) digerakkan oleh motor stepper 1, sedangkan pengatur tekanan rakel (untuk mengatur tebaltipis hasil sablonan) digerakkan oleh motor stepper 2. Sedangkan PCB yang disusun dapat digeser satu persatu dengan plat yang digerakkan oleh sebuah motor DC sampai tepat di bawah cetakan sablon, lalu disablon oleh rakel yang digerakkan oleh motor stepper 1, sesudah itu digeser terus sampai jatuh ke tempat tertentu. Adapun untuk membatasi panjang gerakan motor DC (posisi awal dan posisi akhir) digunakan dua buah limit switch, sedangkan untuk mendeteksi agar PCB yang akan disablon berhenti tepat di bawah cetakan sablonan digunakan piringan berlubang dan optocoupler yang dipasang pada as motor DC. Adapun fasilitas dari peralatan otomatisasi ini yang dapat dinputkan melalui keyboard: interval gerakan rakel yang digerakkan motor stepper 1, tekanan rakel untuk mengatur ketebalan hasil sablonan yang digerakkan motor stepper 2, dan jarak untuk menggeser PCB agar tepat di bawah cetakan sablon yang kesemuanya dapat ditampakkan oleh display seven segment. Sedangkan counter untuk menunjukkan jumlah PCB yang telah disablon dapat ditunjukkan pula pada tampilan display seven segment tersebut. Pada peralatan otomatisasi ini juga dilengkapi dengan fasilitas pendeteksi tumpukan PCB yang akan disablon dengan menggunakan sebuah limit switch, jika PCB habis, maka peralatan ini tidak akan bekerja.",
+  "creators": "Budihardjo Daniel",
+  "contributors": "HANDAYANI T. (Advisor 1); BENJAMIN FLEMING INTAN (Advisor 2); SUPENO DJANALI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/008/0165; Budihardjo Daniel (23487092)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PRINTING MACHINERY AND SUPPLIES-ELECTRIC DRIVING-AUTOMATION; MICROCONTROLLER 8031"
+}

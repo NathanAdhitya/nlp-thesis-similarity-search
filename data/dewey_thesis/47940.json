@@ -1,0 +1,14 @@
+{
+  "id": "47940",
+  "title": "Pembuatan omni-directional mobile robot dengan kontroller berbasis Raspberry Pi",
+  "abstract": "Penggunaan robot terus menerus bertambah di berbagai bidang di masyarakat saat ini. Perkembangan jaman menuntut robot semakin efektif dan efisien dalam penerapannya,salah satunya dari segi pergerakan nya. Penelitian ini dimaksudkan untuk merancang robot yang bersifat omni-directional, sehingga mempermudah gerakan ke segala arah dengan menggunakan roda omniwheel,serta robot dapat mendeteksi objek sederhana disekelilingnya. Robot ini menggunakan tiga motor DC yang dilengkapi encoder sebagai feedback. Sistem pergerakan dikontrol menggunakan Raspberry Pi 4 , untuk menggerakkan robot ke posisi tujuan sesuai dengan input dari pengguna. Agar robot dapat mendeteksi suatu objek tertentu di sekitarnya, maka memanfaatkan sensor infrared untuk mendeteksi jarak objek dan juga kamera untuk kebutuhan image processing dengan Jetson Nano sebagai kontrollernya.Dengan menggunakan perhitungan inverse kinematics dan odometri untuk pergerakan robot, memiliki error sebesar 9.51% pada sumbu x dan 8.12% pada sumbu y pada posisi akhir robot. Robot mampu mendeteksi objek dari robot menggunakan sensor infrared dengan angka error sebesar 0.87% dan dapat mendeteksi ukuran objek memanfaatkan kamera dan image processing dengan tingkat kesalahan sebesar 30.02% untuk pembacaan panjang objek dan 41.8% untuk pembacaan tinggi objek.",
+  "creators": "Evert O,neil",
+  "contributors": "Indar Sugiarto (Advisor 1); Handry Khoswanto (Examination Committee 1); Handy Wicaksono (Examination Committee 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010995/ELK/2020; Evert O,neil (23416001)",
+  "subjects": "MOBILE ROBOTS; RASPBERRY PI (COMPUTER); ROBOTS--CONTROL SYSTEMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4790",
+  "title": "Kendali rumah jarak jauh memanfaatkan radio HT",
+  "abstract": "Sistem kontrol rumah konvensional mengharuskan seseorang untuk berada di rumah agar dapat mengontrol peralatan yang ada di rumah. Hal ini dinilai kurang praktis sehingga dikembangkan kontrol rumah jarak jauh. Handy talky dinilai tepat untuk digunakan sebagai media karena handy talky tidak memerlukan biaya untuk mengirimkan atau menerima data. Sistem yang telah dibangun dikontrol melalui Remote Control dengan menggunakan mikrokontroler AT90S2313 yang dihubungkan ke radio modem. Radio modem ini menggunakan IC XR2206 sebagai modulator dan IC XR2211 sebagai demodulator. Metode yang digunakan adalah modulasi dengan menggunakan sinyal Frequency Shift Keying (FSK). Proses pengontrolan pada rumah (house automation) dilakukan oleh mikrokontroler AT90S8515. AT90S8515 ini digunakan sebagai pengolah data yang diterima dari Remote Control dan pengolah data smoke detector. Pengontrolan meliputi pengontrolan dimmer lamp, pintu, lampu dan kipas angin. Software yang digunakan adalah bahasa pemrograman Assembly (AVRStudio4). Dari hasil pengujian, sistem ini memiliki beberapa keuntungan, antara lain lebih praktis dan efisien karena pengontrolan dapat dilakukan dari jarak jauh yaitu sampai 300 meter (dengan menggunakan antena standar Alinco DJ-195). Untuk pengontrolan yang lebih jauh dapat menggunakan antena eksternal",
+  "creators": "ARIEF ADINEGARA ASTRA",
+  "contributors": "Resmana Lim (Advisor 1); Handry Khoswanto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010704/ELK/2004; Arief Adinegara Astra (23400115)",
+  "subjects": "MICROCONTROLLER; RADIO CONTROL"
+}

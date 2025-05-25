@@ -1,0 +1,14 @@
+{
+  "id": "57329",
+  "title": "Aplikasi prediksi penjualan dengan metode sarima, moving average dan newsboy problem pada grosir X",
+  "abstract": "Perusahaan Grosir x merupakan perusahaan Grosir yang menjual sepatu dan sandal. Perusahaan Grosir x berdiri pada tahun 1993 di Mataram, Lombok. Beberapa Kategori Produk di perusahaan Grosir x meningkat pada saat-saat tertentu seperti saat menjelang hari raya idul fitri dan juga saat tahun ajaran baru. Sejauh ini pemilik perusahaan hanya memperkirakan kuantitas order tanpa adanya perhitungan yang akurat sehingga sering terjadi kelebihan stok barang yang dapat mengakibatkan semakin banyak barang mati yang ada di Gudang. Terkadang juga terjadi kekurangan stok sehingga dapat mengecewakan customer. Pada Grosir x juga terdapat beberapa produk yang memiliki umur, pada saat umur dari produk tersebut sudah habis maka barang yag tersisa harus diorder dengan harga yang sangat rendah sehingga mengakibatkan kerugian bagi perusahaan. Pada tugas akhir ini, akan dirancang solusi untuk permasalahan perusahaan Grosir x dengan pembuatan aplikasi prediksi data penjualan dengan menggunakan metode Sarima, Moving Average dan perhitungan analisis Newsboy Problem sehingga dapat mengetahui jumlah yang harus diorder. Dengan pengujian yang telah dilakukan terlihat bahwa kategori produk bermusim sesuai dengan metode Sarima karena menunujukkan tingkat error yang kecil. Untuk kategori produk yang tidak berpola musiman dapat menggunakan metode Moving average dan sudah menghasilkan nilai error yang kecil. Untuk produk berumur dapat ditentukan kuantitas order optimalnya menggunakan metode Newsboy Problem.",
+  "creators": "HARI DARMAWAN",
+  "contributors": "Andreas Handojo (Advisor 1); I Gede Agus Widyadana (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022296/INF/2023; Hari Darmawan (C14190228)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; INFORMATION RESOURCES MANAGEMENT--DATA PROCESSING; INVENTORY CONTROL--DATA PROCESSING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

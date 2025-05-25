@@ -1,0 +1,14 @@
+{
+  "id": "26031",
+  "title": "Perancangan dan pembuatan aplikasi perhitungan harga pokok produksi dengan metode process costing pada perusahaan bumbu cair CV . X",
+  "abstract": "Saat ini system perhitungan harga pokok produksi yang dimiliki Perusahaan Produk Bumbu Masakan CV. X hanya bisa mencakup perhitungan biaya bahan baku dan kemasan yang dikeluarkan secara keseluruhan, sedangakan pencatatan biaya harga pokok produksi tiap produk per kemasannya masih belum bisa ditangani karena masih banyak faktor-faktor biaya lain yang tidak dibebankan sehingga arus biaya yang terjadi dalam proses produksi produk bumbu sulit ditelurusi. Berdasarkan latar belakang permasalahan itulah, dirancang sebuah sistem perhitungan Harga Pokok Produksi yang dapat mengatasi permasalahan tersebut. Proses perancangan sistem dari aplikasi ini melalui beberapa tahap, dimulai dengan melakukan survey sistem perusahaan, analisa data dan merancang Data Flow Diagram dan Entity Relationship Diagram dari aplikasi yang akan dibuat. Proses pembuatannya menggunakan Borland Delphi 7.0 sebagai bahasa pemrogramannya dan MySQL Server sebagai database. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, dapat menyimpan pemakaian bahan baku, pemakaian kemasan sesuai dengan pemakaian proses packing, karyawan yang terdaftar sebagai pegawai produksi, biaya overhead yang dibebankan kepada produksi tersebut (biaya listrik, air, telepon, penyusutan mesin dan sebagainya) yang berkaitan dengan proses produksi tersebut. Selain itu, aplikasi yang telah dibuat dapat digunakan untuk mengalokasikan biaya-biaya yang terjadi pada saat produksi dan dapat digunakan untuk menghasilkan laporan-laporan yang berkaitan dengan perhitungan Harga Pokok Produksi produk bumbu dengan kemasan tertentu secara otomatis. Sistem yang diterapkan dan laporan yang dihasilkan telah sesuai dengan kebutuhan perusahaan menurut 72% dari total user. Keakuratan informasi yang diberikan aplikasi dinilai sangat baik menurut 67% user. Secara keseluruhan, 78% dari total user menilai program ini sudah memberikan manfaat kepada perusahaan.",
+  "creators": "LO LENNY DWIJANTY LOKYTO",
+  "contributors": "Alexander Setiawan (Advisor 1); Andreas Handojo (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021152/INF/2012; Lo Lenny Dwijanti Lokyto (26408055)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

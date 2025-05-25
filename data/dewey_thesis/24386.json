@@ -1,0 +1,14 @@
+{
+  "id": "24386",
+  "title": "Analisis struktur grid non prismatis",
+  "abstract": "Dalam beberapa macam struktur dikenal suatu sistem yang dinamakan struktur grid. Struktur grid ini merupakan rangkaian balok memanjang dan balok melintang yang biasanya merupakan struktur yang cukup besar. Bila struktur tersebut dianalisis secara manual tidaklah cukup mudah dan sangat tidak praktis karena memerlukan waktu yang lama untuk sampai menghasilkarl gaya-gaya dalamnya serta kemungkinan terjadinya kesalahan dalam perhitungan cukup besar. Karena itu penggunaan program komputer sangatlah membantu dalam permasalahan ini. Seperti yang telah dikenal struktur grid dewasa ini banyak yang menggunakan balok-balok non prismatis untuk maksud-maksud tertentu, misalnya jembatan. Program untuk analisis perhitungan struktur grid yang ada biasanya hanya terbatas pada grid dengan balok-balok yang prismatis, sehingga skripsi ini membahas tentang struktur grid dengan gelagar non prismatis dan membuat program komputer untuk mempermudah perhitungan.Pembuatan program komputer ini didasarkan pada analisis struktur dengan menggunakan metode direct stiffness. Untuk mencari kekakuan dari balok non prismatis ini, balok dibagi dalam beberapa elemen dan pembentukan matriks kekakuan member raemakai cara yang digunakan oleh Tharmalingham. Keakuratan hasil yang diperoleh dalam program, diperiksa dengan menggunakan program microfeap. Dalam penulisan ini juga diperkenalkan cara Bakht & Jaeger yang menganalisis grid non prismatis khususnya untuk jembatan, dengan menggunakan cara I ekivalen. Dengan cara ini gelagar pendukung yang berbentuk non prismatis diganti dengan gelagar yang prismatis (kekakuan konstan). Dengan demikian struktur grid dapat direncanakan dengan tabel dan grafik yang telah ada untuk jembatan. Cara ini cocok untuk digunakan dalam desain awal (preliminary design) bila tersedia tabel-tabel dan grafik-grafik untuk menghitung struktur grid prismatis.",
+  "creators": "HARYANTO SETIAWAN",
+  "contributors": "Daniel Zefania Pribadi (Advisor 1); Ir. Soehendro Ratnawidjaja, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 500.S; Haryanto Setiawan (14286011)",
+  "subjects": "BEAMS; GRIDERS"
+}

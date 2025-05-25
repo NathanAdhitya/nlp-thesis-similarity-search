@@ -1,0 +1,14 @@
+{
+  "id": "61019",
+  "title": "Modul uji rangkaian power amplifier untuk quality control perusahaan",
+  "abstract": "Power amplifier adalah penguat daya yang tingkatnya sesuai dengan daya listrik loudspeaker untuk menghasilkan tingkat bunyi yang dibutuhkan. Salah satu perusahaan yang memproduksi power amplifier adalah CV Sinar Baja Electric 2. Pada saat produksi, terdapat pengecekan quality control di mana proses tersebut dilakukan secara manual. Perusahaan ingin membuat pengecekan quality control menjadi otomatis. Untuk menunjang hal itu, pada tugas akhir ini dibuatkan modul untuk pengecekan quality control secara otomatis. Modul tersebut meliputi jig PCB untuk mendukung pengukuran tegangan pada beberapa titik di PCB power amplifier, pengukuran tegangan, pengukuran arus dengan menggunakan modul ACS712, pembacaan gelombang, dan menampilkan status quality control pada LCD 16x2 I2C dengan menggunakan Arduino Mega sebagai mikroprosesor. Hasil pengukuran dan pembacaan oleh mikroprosesor akan ditampilkan pada software Better Serial Plotter. Berdasarkan dari hasil pengujian, jig PCB berhasil mendukung pengukuran pada beberapa titik di PCB dan arduino mega berhasil melakukan pengukuran tegangan dengan error di bawah 4% dan error di bawah 10% untuk pengukuran tegangan 0,6 V dan 1,2 V. Modul juga berhasil melakukan pengecekan quality control secara otomatis. Proses quality control dilakukan dengan menentukan tegangan maksimal dan minimal yang didapatkan dari micro-SD Card pada pengukuran tegangan. Tetapi pengukuran arus dan pembacaan gelombang oleh Arduino Mega tidak akurat.",
+  "creators": "CHRISTOPHER ALLEN",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011058/ELK/2024; Christopher Allen (C11200002)",
+  "subjects": "ARDUINO (PROGRAMMABLE CONTROLLER); AUTOMATIC CONTROL--COMPUTER PROGRAMS; POWER AMPLIFIERS"
+}

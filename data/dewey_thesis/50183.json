@@ -1,0 +1,14 @@
+{
+  "id": "50183",
+  "title": "Penggunaan teknologi NFC untuk akses informasi di laboratorium telematika UK Petra",
+  "abstract": "Karena kurangnya akses informasi penjelasan dan spesifikasi alat-alat jaringan komputer, maka dibutuhkan sebuah sistem agar informasi mengenai peralatan jaringan komputer dapat diakses dengan cepat dan mudah. Pada tugas akhir ini akan dibuat sebuah sistem yang memungkinkan orang-orang untuk bisa mengkases informasi mengenai peralatan jaringan komputer dengan memanfaatkan NFC. Sistem tersebut menggunakan sebuah aplikasi mobile, aplikasi server, database server, dan web server. Aplikasi android digunakan untuk membaca tag NFC yang kemudian dikirim ke server melalui TCP/IP. Server kemudian memproses request dan mengirimkan respond pada aplikasi mobile. Web server digunakan untuk memungkinkan penggunaan website yang digunakan untuk mengatur data yang berada di dalam database. Dari hasil pengujian, aplikasi mobile dapat membaca NFC dan membagikan informasi yang ada ke smartphone lain yang tidak memiliki NFC. Selain itu website juga dapat digunakan untuk memasukan data baru, mengubah data, menghapus data dan melihat data yang berada di dalam database server.",
+  "creators": "JAMES DAVID TANPUTRAWAN MULYONO",
+  "contributors": "Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010145/ELK/2021; James David Tanputrawan Mulyono (C11170019)",
+  "subjects": "NEAR-FIELD COMMUNICATION"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "50571",
+  "title": "Sistem pendeteksi kebakaran dengan arduino pada gudang",
+  "abstract": "Kebakaran memang tidak diinginkan tetapi terkadang kebakaran tidak bisa dihindari. Gudang milik perorangan yang ukurannya kecil hingga menengah biasanya kurang mendapat pengawasan yang cukup. Oleh karena itu diperlukan sebuah sistem pintar yang dapat memberi informasi kepada pemilik mengenai keadaan gudang secara real time agar pemilik dapat menerima notifikasi secara cepat jika kebakaran terjadi. Internet of Things sebagai platform dimana setiap alat menjadi semakin pintar, setiap proses jadi memiliki kepandaian, dan komunikasi setiap hari semakin informatif. Internet of Things melalui perkembangannya telah memberi kita banyak teknologi baru yang memungkinkan komunikasi alat dengan alat, serta alat dengan manusia. Dari teknologi ini memungkinkan kita menciptakan rangkaian alat yang berfungsi untuk mengawasi gudang untuk kita dan memberi kita notifikasi apabila terjadi kebakaran. Dari pengujian yang dilakukan oleh penulis dapat diketahui bahwa tingkat kepekatan asap yang menyebabkan kebakaran ada di sekitar 5000PPM setelah dibandingkan dengan produk serupa yang ada di pasaran. Dari pengujian juga didapati bahwa rata-rata delay notifikasi adalah 3.8 detik dimana menurut standard ITU-TG.1010 untuk delay (end to end <10s) sehingga 3.8 adalah delay yang baik dan memenuhi standard tersebut.",
+  "creators": "GIDEON EKACIPTA HUTAMA",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Resmana Lim (Advisor 2); Indar Sugiarto (Examination Committee 2); Indro Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022085/INF/2021; Gideon Ekacipta Hutama (C14170001)",
+  "subjects": "FIRE ALARMS; INTERNET OF THINGS; ARDUINO"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "49631",
+  "title": "Analisa forecasting pada penjualan pakaian di PT X",
+  "abstract": "PT X adalah sebuah perusahaan yang berlokasi di Surabaya, bergerak sebagai distributor pakaian jadi ke sejumlah Department Store seluruh Indonesia. Pada saat ini PT X mengalami penumpukan barang pada masing-masing toko dari Department Store yang menjadi mitra bisnisnya. Hal ini berimbas kepada kerugian perusahaan karena biaya produksi yang tinggi tidak sesuai dengan stok barang yang masih tersisa pada setiap toko. Oleh karena itu, PT X membutuhkan aplikasi yang dapat melakukan forecasting jumlah dari kategori barang yang akan terjual pada masa mendatang. Analisis metode peramalan penjualan pada PT X menggunakan empat metode forecasting, yaitu Single Moving Average (SMA), Weighted Moving Average (WMA), Brown’s Double Exponential Smoothing (BES) dan Holt’s Double Exponential Smoothing (HES). Metode pengukuran error adalah Mean Absolute Deviation (MAD) dan Mean Squarred Error(MSE). Hasil analisa forecasting penjualan pada 4 kategori barang berupa blus panjang, blus pendek, dress, dan gamis dari salah satu toko yaitu MDS Delta Plaza, menunjukkan bahwa metode yang paling tepat untuk PT X adalah Holt’s Double Exponential Smoothing (HES). Nilai error Mean Absolute Deviation (MAD) sebesar dan Mean Squared Error (MSE) dari masing-masing kategori memiliki nilai terkecil daripada metode lainnya.",
+  "creators": "ANDREAS WILLIAM",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Yulia (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022044/INF/2021; Andreas William (26415143)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); APPLICATION SOFTWARE; FORECASTING"
+}

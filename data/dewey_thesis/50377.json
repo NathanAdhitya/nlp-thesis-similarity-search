@@ -1,0 +1,14 @@
+{
+  "id": "50377",
+  "title": "Robot pemanjat kaca",
+  "abstract": "Membersihkan kaca pada gedung bertingkat merupakan pekerjaan berbahaya karena bila terjadi kecelakaan maka para pekerja pembersih kaca dapat kehilangan nyawanya. Dunia elektronika saat ini telah berkembang pesat seiring dengan banyaknya pembuatan robot untuk membantu pekerjaan manusia dan menggantikan manusia dalam mengerjakan pekerjaan yang berbahaya. Oleh karena itu, pembuatan robot pemanjat kaca diharapkan dapat dikembangkan untuk menggantikan manusia dalam memanjat dan membersihkan kaca terutama pada gedung bertingkat. Pembuatan robot pemanjat kaca dilakukan dalam tiga tahap, yaitu perencanaan mekanik, elektronik, dan pemrograman. Pada perencanaan mekanik, kop kaca yang digunakan oleh tukang kaca untuk mengangkat kaca digunakan sebagai kaki robot. Sedangkan rangka robot menggunakan rel yang digunakan pada sliding door. Pada perencanaan elektronik, untuk mengontrol pergerakan robot digunakan mikrokontroler AT89C51 dan AT89C2051 yang dihubungkan secara serial. Untuk menghubungkan motor dengan mikrokontroler, digunakan HBridge Motor Driver dengan TIP 142 sebagai transistor utamanya. Pada perencanaan pemrograman, flowchart dibuat untuk memudahkan pembuatan program. Dari hasil pengujian, robot pemanjat kaca dapat menahan beban total seberat 40 kg dan mampu bergerak dengan kecepatan 5,806 cm/menit untuk gerakan naik dan 7,5 cm/menit untuk gerakan turun. Robot pemanjat kaca digunakan pada bidang vertikal sehingga gaya gravitasi berpengaruh pada kinerja robot. Namun, pengaruhnya terhadap kecepatan gerak robot cukup kecil karena kecepatan motor yang digunakan rendah sehingga menghasilkan torsi yang tinggi.",
+  "creators": "HENDRA DWIANTO",
+  "contributors": "Anies Hannawati (Advisor 1); Lauw Lim Un Tung (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/601/ELK/2003; Hendra Dwianto (23498054)",
+  "subjects": "ROBOTS"
+}

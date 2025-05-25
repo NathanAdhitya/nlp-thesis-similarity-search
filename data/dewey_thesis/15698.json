@@ -1,0 +1,14 @@
+{
+  "id": "15698",
+  "title": "Perencanaan produksi dan persediaan di PT. Tirta Bahagia",
+  "abstract": "P.T. Tirta Bahagia merupakan perusahaan yang memproduksi air mineral dalam kemasan. Kondisi di perusahaan, beberapa produk yang sama proses produksinya dikerjakan oleh satu mesin yang sama. Kondisi tersebut memerlukan pengaturan yang baik terhadap penentuan periode dan kuantitas produksi dari tiap-tiap produk. Pengaturan yang kurang baik dapat mengakibatkan besamya jumlah persediaan dan adanya beberapa kegiatan setup yang seharusnya tidak perlu untuk dilakukan. Cara yang digunakan untuk menghasilkan penentuan pengaturan yang baik tersebut adalah dengan menerapkan model General Lot Sizing with Sequence Dependent Setup Times. Penerapan model ini dilakukan terhadap dua buah mesin yaitu mesin cup filler dan mesin bottle filler yang masing-masing digunakan untuk memproduksi enam jenis produk. Penerapan model ini menghasilkan pengaturan produksi yang memberikan biaya yang lebih minimum. Perencanaan produksi air minum kemasan cup untuk tiga periode perencanaan menghasilkan biaya simpan dan biaya setup sebesar Rp. 25.892.832, sedangkan perencanaan produksi air minum kemasan botol untuk tiga periode perencanaan menghasilkan biaya simpan dan biaya setup sebesar Rp. 5.567.160. Setelah pengaturan produksi dilakukan, maka selanjutnya dilakukan perencanaan persediaan material pembantu. Perencanaan dilakukan dengan memilih teknik lot sizing yang menghasilkan biaya yang paling minimum. Adanya kondisi dimana volume produksi besar dan biaya pemesanan material kecil menyebabkan teknik lot sizing yang memberikan biaya paling minimum adalah teknik Lot for lot.",
+  "creators": "LOIS NOVITA",
+  "contributors": "Tanti Octavia (Advisor 1); Siana Halim (Advisor 2); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 464/TI-055/2001; Lois Novita (25496016)",
+  "subjects": "PRODUCTION PLANNING; INVENTORY CONTROL; TIME MEASUREMENT"
+}

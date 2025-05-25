@@ -1,0 +1,14 @@
+{
+  "id": "5182",
+  "title": "Perancangan dan pembuatan aplikasi citra digital untuk menghasilkan gambar stereogram",
+  "abstract": "Di dalam pengolahan gambar, terdapat banyak sekali cara dan metode untuk menghasilkan suatu gambar agar menjadi lebih menarik. Salah satu hasil pengolahan gambar tersebut adalah streogram, dimana pengolahan gambar jenis ini dapat membuat gambar menjadi lebih menarik. Hal ini disebabkan gambar jenis ini dapat membuat impresi pada otak manusia sebagai obyek 3D yang keluar dari gambar 2D biasa. Dalam Tugas Akhir ini, dikembangkan aplikasi yang mampu untuk melakukan proses penggabungan depth mask (gambar grayscale yang nantinya akan diproses menjadi gambar stereogram) dan pattern yang di-input-kan atau dengan menggunakan titik-titik acak yang akan di-generate secara otomatis. Proses ini dilakukan dengan memindah posisi pixel sesuai dengan gray value pada depth mask yang telah dihitung dan diproses terlebih dahulu. Di dalam pembuatan gambar stereogram, terdapat dua proses utama. Proses-proses tersebut adalah proses penghitungan jarak perpindahan pixel dan proses Hidden Surface Removal. Aplikasi ini dikembangkan dengan menggunakan bahasa pascal dan Borland Delphi 7 sebagai kompiler. Berdasarkan hasil pengujian yang dilakukan, aplikasi perangkat lunak ini dapat menghasilkan gambar stereogram, tetapi hasil gambar tersebut dipengaruhi oleh faktor nilai dari gray level dan posisi dari obyek yang memiliki nilai gray value lebih dari 0.",
+  "creators": "DANNY RAHARJA",
+  "contributors": "Rudy Adipranata (Advisor 1); Cherry Galatia Ballangan, S.Si., M.AIT. (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010618/INF/2007; Danny Raharja (26403133)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "44782",
+  "title": "Aplikasi Android untuk file backup dan sinkronisasi menggunakan Amazon web services simple storage service",
+  "abstract": "Teknologi cloud storage merupakan solusi dari local storage yang membutuhkan waktu maintenance tinggi dari pihak pengguna. Amazon Web Service (AWS) menyediakan storage yang dapat dimanfaatkan untuk melakukan file backup namun untuk menggunakan fitur Simple Storage Service, layanan storage yang disediakan oleh Amazon Web Services pengguna harus mengakses lewat web browser. Solusi untuk mempermudah penggunaan S3 yaitu memanfaatkan aplikasi mobile yang dapat mengautomasikan proses backup dan restore. Untuk mengatasi masalah putusnya koneksi yang mengakibatkan proses transfer harus diulang dari awal, maka menggunakan API Multipart Upload yang disediakan oleh AWS. Ketika sebuah upload mengalami putus koneksi internet, TransferUtility dari AWS automatis memerintahkan resume terhadap upload yang gagal. Hasil pengujian menyimpulkan bahwa AWS S3 memiliki koneksi internet yang setara dengan cloud storage lainnya seperti Google Drive, Dropbox, dan OneDrive. Kelebihan dari S3 yaitu kemampuannya untuk meresume transfer yang telah gagal akibat koneksi internet yang putus secara automatis tanpa perintah manual terlebih dahulu.",
+  "creators": "BRIAN STANLEY",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Andreas Handojo (Examination Committee 1); Indro Setiawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021878/INF/2019; Brian Stanley (26415043)",
+  "subjects": "ANDROID (COMPUTER PROGRAM); ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); APPLICATION SOFTWARE--DEVELOPMENT; CLOUD COMPUTING -- SECURITY MEASURES"
+}

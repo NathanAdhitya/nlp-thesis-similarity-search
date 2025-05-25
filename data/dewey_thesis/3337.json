@@ -1,0 +1,14 @@
+{
+  "id": "3337",
+  "title": "Usulan perhitungan penurunan pondasi dangkal akibat konsolidasi tanah liat normally consolidated",
+  "abstract": "Penurunan akibat konsolidasi pada umumnya dihitung dengan menggunakan metode one-point, dimana lapisan tanah liat dianggap satu lapisan, dan penambahan tegangan akibat beban dari pondasi hanya ditinjau pada tengah-tengah lapisan. Cara ini kurang teliti terutama untuk menghitung penurunan pada lapisan tanali liat yang tebal. Untuk mendapatkan besarnya penurunan yang lebih teliti, digunakan metode sub-layer dengan mengasumsikan bahwa suatu lapisan tanah liat terdiri dari beberapa lapisan tipis (sub-layer) dan perhitungan penurunannya dilakukan pada setiap lapisan tersebut. Penggunaan metode sub-layer ternyata memerlukan waktu yang lebih lama karena jumlah lapisan tipis yang cukup banyak, karena itu dicoba beberapa alternatif penyelesaian seperti mencari perumusan baru yang lebih sederhana yang didapatkan dari regresi pada hasil metode sub-layer. Alternatif lain juga digunakan beberapa praktisi untuk mengliitung penurunan pada ketebalan tanah yang cukup tebal (>15B) adalali tetap menggunakan perumusan one-point, hanya saja (Ap) yang digunakan dalam pemmusan nilainya sama dengan tekanan akibat beban pondasi (q) dan ketebalan tanah (H) dalam perumusan ditetapkan sebesar 1 - 3B. Hasil yang didapat menunjukkan bahwa penurunan yang dihitung dengan menggunakan perumusan baru ataupun menggunakan pendekatan secara empiris tersebut mendekati penurunan yang dihitung dengan metode sub-layer dengan penyimpangan ? 5% -8%, tetapi dengan cara yang lebih mudah dan lebih cepat bila dibanding metode sub-layer. Kata kunci: Penurunan, Konsolidasi, One-point, Sub-layer",
+  "creators": "JONI; PRIYO GUNAWAN SOEKARSO",
+  "contributors": "Gogot Setyo Budi (Advisor 1); Johanes Indrojono Suwono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 1331/SIP/2004; Joni (21400123), Priyo Gunawan Soekarso (21400175)",
+  "subjects": "SOIL MECHANICS; SOIL CONSOLIDATION; SOIL-TESTING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "17256",
+  "title": "Studi kasus penggunaan kwh meter tiga phasa di PLTU Paiton unit 1 & 2",
+  "abstract": "Di PLTU Paiton untuk mengetahui besamya energi listrik yang digunakan untuk pemakaian sendiri ditunjukkan oleh suatu alat ukur listrik yaitu kWh meter. KWh yang terpasang diPLTU Paiton unit 2 memiliki adanya kWh losses yang besarnya negatip. Hal ini sangat tidak mungkin karena dalam pembangkit memiliki trafo yang dayanya cukup besar, yang berarti terdapat rugi-rugi daya atau lebih dikenal dengan kWh losses (susut trafo). KWh meter yang terpasang di PLTU Paiton unit 2 ada empat macam yaitu meter GGO, meter MPT, meter UAT A dan meter UAT B. Untuk mengukur daya yang sangat besar tentunya meter tidak langsung terhubung dengan tegangan, melainkan melalui CT (transformer arus) dan PT (transformer tegangan). CT dan PT inilah tegangan dan arus diturunkan yang kemudian dihubungkan ke meter. Daya adalah perkalian antara tegangan dan arus. Untuk mencari adanya losses negatip dimana output lebih besar dari input, maka langkah awal yang di ambil tentunya kalibrasi meter, karena dengan kalibrasi bisa dilihat apakah meter yang terpasang mempunyai persentase kesalahan yang cukup besar, sehingga pengukuran dayanya salah. Bila meter dalam keadaan baik, artinya persentase kesalahan kecil maka langkah kedua yang di lakukan adalah mengetahui cara pemasangan meter tersebut, untuk mencari dan menyimpulkan, kenapa bisa terjadi adanya losses negatip. Apabila dilihat hasil kalibrasi meter tanggal 22 September 1999 maka terdapat kesalahan adjustment atau kalibrasi pada meter MPT yang besar hasil persentase kesalahan adalah negatip, hal ini tidak sesuai karena hasil persentase kesalahan seharusnya adalah positip berdasarkan SPLN. Kesalahan adjustment ini yang menyebabkan adanya losses negatip sebesar -1.700 KW. Kalibrasi ulang di lakukan tanggal 16 Agustus 2000 sehingga diperoleh hasil persentase kesalahan yang besarnya positip, kemudian meter dipasang kembali dan di lakukan pembacaan dari pukul 11.00-11.00 ( 24 jam ), sehingga dari perhitungan didapat kWh losses / susut trafo pada unit 2 sebesar 56.100 KWh. Hasil kWh losses ini sesuai dengan rugi-rugi Trafo yang terpasang sebesar 57.600 KWh yang diperoleh dari data Trafo dengan melakukan perhitungan secara teori.",
+  "creators": "HERI HARDIYANTO",
+  "contributors": "Limboto Limantara (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/TST/032/365; Heri Hardiyanto (23494049)",
+  "subjects": "ELECTRIC METERS; POWER-PLANTS"
+}

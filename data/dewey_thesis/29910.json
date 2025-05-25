@@ -1,0 +1,14 @@
+{
+  "id": "29910",
+  "title": "Aplikasi mobile broadcast informasi perkuliahan berbasis Android",
+  "abstract": "Informasi merupakan hal yang sangat penting di era modern seperti sekarang ini. Hal ini juga berlaku dalam informasi di lingkungan perkuliahan. Pentingnya informasi perkuliahan yang update, dapat dilihat dari banyaknya mahasiswa yang datang untuk melihat informasi perkuliahan yang diikutinya di papan pengumuman setiap harinya. Sehingga dibutuhkan sebuah aplikasi yang dapat memberikan informasi perkuliahan yang update secara realtime. Pemberian informasi perkuliahan tersebut berupa broadcast informasi perkuliahan, upload file, dan share calendar perkuliahan. Selain itu juga ada saling kirim komentar, sehingga dapat langsung bertanya apabila ada yang kurang jelas dari informasi yang diberikan. Aplikasi ini menggunakan Google Cloud Messaging untuk mengirimkan broadcast informasi perkuliahan. Agar broadcast informasi dapat sampai secara realtime dan mudah diakses maka aplikasi ini dibuat pada mobile device berbasis Android, sehingga broadcast informasi akan sampai langsung begitu ada koneksi internet. Berdasarkan hasil pengujian, aplikasi ini sudah berjalan dengan baik pada mobile device berbasis Android dan memberikan informasi perkuliahan yang update dan realtime. Dosen dapat mengirimkan notifikasi pengumuman perkuliahan, melakukan upload file, dan menambah event pada kalender perkuliahan. Dan mahasiswa dapat menerima notifikasi yang diberikan dosen, melakukan download file ada, dan melakukan synchronize calendar.",
+  "creators": "AGUS SANTOSO",
+  "contributors": "Andreas Handojo (Advisor 1); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021284/INF/2014; Agus Santoso (26410064)",
+  "subjects": "ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

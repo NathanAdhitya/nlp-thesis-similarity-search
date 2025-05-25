@@ -1,0 +1,14 @@
+{
+  "id": "58130",
+  "title": "Optimasi penjadwalan robot welding di PT Insera Sena",
+  "abstract": "PT Insera Sena adalah perusahaan manufaktur sepeda yang berlokasi di Sidoarjo, Jawa Timur. Frame merupakan bagian penting dalam pembuatan sepeda yang berfungsi untuk memberi bentuk pada sepeda. PT Insera Sena menggunakan dua metode produksi untuk memproduksi frame sepeda bagian depan, yaitu metode robot welding dengan fix cost tinggi dan biaya variable cost, serta manual welding dengan fix cost nol dan variable cost yang lebih tinggi. Penelitian ini bertujuan untuk menentukan batas produksi minimum, atau break even point, pada metode robot welding, yaitu sebanyak 1486 frame. Angka tersebut didapatkan setelah mencari titik impas dari persamaan biaya produksi menggunakan kedua metode. Selain itu, sebuah algoritma pengambilan keputusan dikembangkan untuk mengklasifikasikan pekerjaan secara sistematis, mengingat kapasitas produksi mingguan sebanyak 900 frame, dengan persyaratan bahwa semua frame harus selesai dalam minggu yang sama. Untuk menghilangkan kesalahan dan mempercepat proses penjadwalan, sebuah alat bantu juga dirancang untuk mengotomatisasi proses penjadwalan yang sudah ada.",
+  "creators": "BRYAN DARMAWAN",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Felecia, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022633/IND/2023; Bryan Darmawan (C13190047)",
+  "subjects": "PRODUCTION PLANNING-FORECASTING; PRODUCTION PLANNING; SCHEDULING"
+}

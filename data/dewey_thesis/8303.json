@@ -1,0 +1,14 @@
+{
+  "id": "8303",
+  "title": "Analisa efektifitas penggunaan bandwidth jaringan komputer di Universitas Kristen Petra",
+  "abstract": "Berkembangnya jaringan LAN dan jaringan internet di UK. Petra yang semakin membesar membutuhkan adanya suatu system manajemen jaringan yang mengatur dan mengidentifikasi kebutuhan akan system komputer. Tujuan dari analisa efektifitas penggunaan bandwidth jaringan komputer di UK. Petra adalah untuk mengidentifikasi performa dan jumlah traffic yang terjadi setiap harinya, baik pada jaringan LAN maupun pada jaringan koneksi internet UK. Petra. Metode penelitian yang digunakan adalah pengamatan terhadap backbone jaringan komputer UK. Petra. Identifikasi serta analisa mengenai performa dan total traffic dilakukan dengan bantuan program PRTG dan melalui log file proxy server jaringan internet UK. Petra. Dari hasil pengamatan didapat bahwa dari dua jaringan yang ada, yaitu jaringan akses internet dan jaringan LAN, jaringan akses internet memiliki tingkat utilisasi yang tinggi dan dirasakan cukup menghambat proses pencarian informasi akademis, terutama pada hari-hari kerja dan jam-jam sibuk. Dalam penelitian ini menghasilkan beberapa solusi yang dapat mengatasi lambatnya koneksi akses internet UK. Petra. Solusi yang ditawarkan adalah membatasi penggunaan situs internet yang tidak relevan dengan proses akademik, mengatur waktu penggunaan situs-situs tertentu pada jam-jam sibuk dan meningkatkan peranan administrator jaringan untuk memonitor traffic internet pada jam-jam kerja.",
+  "creators": "DANU PRASETYO RUSLI",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010035/ELK/2006; Danu Rusli (23401139)",
+  "subjects": "SOFTWARE ENGINEERING; DATABASE MANAGEMENT"
+}

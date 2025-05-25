@@ -1,0 +1,14 @@
+{
+  "id": "26106",
+  "title": "Perancangan dan pembuatan sistem adminstrasi pada Toko Abadi",
+  "abstract": "Toko Abadi ini adalah salah satu unit usaha yang menjual peralatan kantor, laboratorium, pembibitan, elektro, alat rumah sakit, alat kebersihan, alat rumah tangga, percetakan, perikanan, perkebunan, dan mebel yang cukup besar di pulau Lombok. Sistem yang digunakan saat ini masih dilakukan secara manual. Karena itu dibutuhkan sistem administrasi baru yang dapat memperbaiki sistem yang ada sekarang ini. Perancangan dan pembuatan sistem administrasi yang baru ini dimulai dengan menganalisis masalah yang ada, kemudian membuat aliran data dalam bentuk DFD dan ERD dengan menggunakan program Power Designer 6.1 agar tepat dalam membuat database. Untuk membuat database digunakan program SQL Server 2005, dan aplikasinya dibuat dengan menggunakan program Microsoft Visual Basic .NET. Hasil dari pembuatan aplikasi ini adalah komputerisasi pendataan data master, data transaksi, serta menghasilkan laporan sehingga dapat mempermudah dalam pencatatan dengan mengurangi resiko yang ada jika menggunakan sistem pencatatan manual.",
+  "creators": "NITA SOFIANI",
+  "contributors": "Yulia (Advisor 1); Leo Willyanto Santoso (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021076/INF/2011; Nita Sofiani (26407011)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

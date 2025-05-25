@@ -1,0 +1,14 @@
+{
+  "id": "53529",
+  "title": "Sistem rekomendasi content based filtering pekerjaan dan tenaga kerja potensial menggunakan cosine similarity",
+  "abstract": "Pada saat pandemi, terjadi masalah ekonomi yang membuat perusahaan harus melakukan sesuatu untuk menghindari kerugian yang ada. Salah satu usahanya adalah memutuskan hubungan kerja dengan tenaga kerjanya. Dengan cara tradisional, tenaga kerja dan perusahaan akan membuang banyak waktu untuk mencari yang cocok baginya. Sistem rekomendasi lowongan pekerjaan dan tenaga kerja potensial berperan penting di kondisi seperti ini. Karena dengan adanya sistem rekomendasi yang dapat membantu dari dua sisi akan mempercepat pertemuan antara perusahaan yang membutuhkan pekerja dan pekerja yang membutuhkan lowongan pekerjaan. Berdasarkan pengujian yang telah dilakukan, sistem rekomendasi menggunakan model TF-IDF dapat memberikan rekomendasinya dengan baik berdasarkan perhitungan Mean Reciprocal Rank mendapatkan sebesar 0.857 dan Mean Average Precision sebesar 0.833, dimana hasil ini cukup baik.",
+  "creators": "PHILIPS NOGO RAHARJO",
+  "contributors": "Andreas Handojo (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Liliana (Examination Committee 1); ALVIN NATHANIEL TJONDROWIGUNO, S.Kom. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022198/INF/2022; Philips Nogo Raharjo (C14180040)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); RECOMMENDER SYSTEMS (INFORMATION FILTERING)"
+}

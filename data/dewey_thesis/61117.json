@@ -1,0 +1,14 @@
+{
+  "id": "61117",
+  "title": "Analisis pengaruh ketebalan raft, panjang pile, dan jarak antar pile terhadap penurunan tanah pada piled raft foundation menggunakan Plaxis 2D",
+  "abstract": "Piled raft foundation merupakan sistem fondasi yang dapat mengkombinasikan fungsi dari raft dan pile, sehingga dapat meningkatkan kapasitas dukung tanah dan mengurangi penurunan tanah secara signifikan. Penelitian ini bertujuan untuk menganalisis pengaruh variasi ketebalan raft, panjang pile, dan jarak antar pile terhadap penurunan tanah pada piled raft foundation menggunakan Plaxis 2D. Penelitian ini menggunakan data NSPT, static loading test, denah struktur, denah fondasi bangunan, dan data immediate settlement bangunan. Analisis static loading test berfungsi untuk mencari parameter tanah dan mengerucutkan jangkauan korelasi tanah dengan data NSPT. Parameter tanah yang didapat digunakan untuk pemodelan piled raft foundation pada Plaxis 2D dengan validasi berupa data immediate settlement. Piled raft foundation yang digunakan untuk analisis variasi ketebalan raft, panjang pile, dan jarak antar pile menggunakan lokasi tanah yang sama dengan data immediate settlement bangunan, tetapi dengan dimensi dan beban yang berbeda. Ketebalan raft berpengaruh pada pada total settlement yang membesar, tetapi differential settlement yang mengecil. Panjang pile dapat mengubah differential settlement menjadi lebih rata pada lokasi panjang pile yang diubah. Jarak antar pile sangat berpengaruh pada berat sendiri fondasi dan efisiensi bahan.",
+  "creators": "RYAN LOURENTINO AGUNGPUTRAJAYA; ROBBY NUGROHO SIDHARTA",
+  "contributors": "Daniel Tjandra (Advisor 1); Gogot Setyo Budi (Advisor 2); Wong Foek Tjong, S.T., M.T., Ph.D. (Examination Committee 1); Pamuda Pudjisuryadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012775/SIP/2024; Ryan Lourentino Agungputrajaya (B11200027), Robby Nugroho Sidharta (B11200039)",
+  "subjects": "PILING; PILING (CIVIL ENGINEERING)--DESIGN AND CONSTRUCTION"
+}

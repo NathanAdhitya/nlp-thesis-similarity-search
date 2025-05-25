@@ -1,0 +1,14 @@
+{
+  "id": "47573",
+  "title": "Prediksi sinyal bullish dan bearish candlestick pada pasar forex dengan menggunakan random forest dan multilayer perceptron",
+  "abstract": "Pasar valuta asing merupakan pasar pertukaran mata uang yang aktif di negara mana saja. Nilai mata uang yang ditukarkan dapat menunjukkan nilai naik atau turun. Metode analisis teknikal muncul untuk membantu dalam melihat pergerakan harga. Tidak hanya itu, analisis teknikal juga dapat dilakukan dengan melihat pola pada bagan lilin. Berbagai metode timbul untuk memprediksi pergerakan harga valuta asing tersebut, namun masih banyak terjadi kesalahan. Bantuan untuk analisis teknikal pada pasar valuta asing nyatanya dapat dibantu dengan bantuan machine learning. Algoritma random forest mampu memprediksi sinyal candlestick di hari berikutnya dari analisis teknikal yang ada. Random forest berhasil mendapatkan angka ketelitian sebesar 61,68%. Algoritma dari neural network multilayer perceptron juga merupakan metode lain dalam memprediksi sinyal bull atau bear. MLP berhasil mendapatkan akurasi sebesar 64,15%. Fitur bagian-bagian dari sebuah bagan lilin juga dapat menaikkan ketelitian prediksi dari algoritma. Random forest berhasil mendapatkan ketelitian hingga 82,08% dan MLP mendapatkan akurasi 72,88%.",
+  "creators": "ZEBE DA",
+  "contributors": "Siana Halim (Advisor 1); Tanti Octavia (Examination Committee 1); Felecia, S.T., M.Sc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01012295/IND/2020; Zebe Da (25416036)",
+  "subjects": "FOREIGN EXCHANGE MARKET--COMPUTER SIMULATION"
+}

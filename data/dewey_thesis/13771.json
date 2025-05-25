@@ -1,0 +1,14 @@
+{
+  "id": "13771",
+  "title": "Perencanaan dan pembuatan papan peraga lampu berjalan yang dapat diprogram dari jarak jauh dengan sinar infra merah menggunakan mikrokontroler 8031",
+  "abstract": "Pada saat ini beragam macam Peraga Lampu Berjalan dibuat untuk penyampaian suatu informasi yang diperlukan oleh masyarakat di bioskop, toko atau tempat umum lainnya. Sering kali penempatan Peraga Lampu Berjalan yang sulit dijangkau menjadi kendala bagi pemasukan informasi oleh operator. Karena itu dalam tugas akhir ini dibuat keyboard yang dilengkapi dengan infra merah untuk pemasukan informasi. Dimana pada saat ini pemakaian remote control banyak dipakai pada barang-barang elektronik karena terkesan mudah mengaplikasikannya dan praktis. Data ASCII dari rangkaian keyboard ditransmisikan secara serial melalui gelombang infra merah. Data tersebut diterima oleh fotodioda pada modul penerima, dan disimpan dalam RAM. Selanjutnya data tersebut diproses sesuai dengan mode yang dimasukkan, untuk kemudian divisualisasikan pada modul tampilan. Pembuatan tugas akhir ini menggunakan mikrokontroler 8031. Pada alat yang dibuat kecepatan transmisi maksimum yang dapat dicapai adalah 600 Baud dengan jarak jangkau efektif adalah 3,05 meter.",
+  "creators": "SUTJAHJO TJANDRANEGARA",
+  "contributors": "SOETIKNO (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/034/0237; Sutjahjo Tjandranegara (23488040)",
+  "subjects": "COMPUTERS; MICROCONTROLLER 8031"
+}

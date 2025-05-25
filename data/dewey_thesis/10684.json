@@ -1,0 +1,14 @@
+{
+  "id": "10684",
+  "title": "Penyadapan daya saluran transmisi tegangan tinggi dengan kopling kapasitif untuk suplay tenaga listrik di daerah yang dilewati saluran transmisi",
+  "abstract": "Tanpa adanya penarikan jaringan distribusi primer yang panjang dan transformator daya tegangan tinggi, penggunaan sistem kopling kapasitif menjadi lebih efisien dalam memenuhi kebutuhan listrik di suatu daerah yang dilewati saluran transmisi dan berjarak cukup jauh dari jaringan distribusi primer. Kopling kapasitif merupakan suatu pembagi tegangan kapasitif yang menurunkan tegangan dari level tegangan transmisi ke level tegangan distribusi. Induktor dihubungkan pada sisi primer dan sisi sekunder transformator distribusi untuk mengkompensasi resonansi yang timbul akibat adanya beban kapasitif. Simulasi PSpice yang dilakukan pada saluran transmisi bertegangan 115 kV, tegangan sadapan 13,2 kV, daya sadapan 50 kVA; sebagai perbandingan dengan simulasi EMTP yang dilakukan oleh lembaga kelistrikan di Mexico, menunjukkan nilai tegangan lebih maksimum saat terjadi hubung-singkat sebesar 1,22 p.u. Simulasi PSpice juga dilakukan untuk perencanaan awal sistem di Desa Kembangan, Bondowoso dan menunjukkan nilai tegangan lebih maksimum saat terjadi hubungan singkat sebesar 1,28 p.u.",
+  "creators": "V. ARI KUSUMANDOYO",
+  "contributors": "Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 1); Limboto Limantara (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/TST/004/337; V. Ari Kusumandoyo (23492181)",
+  "subjects": "ELECTRIC POWER TRANSMISSION"
+}

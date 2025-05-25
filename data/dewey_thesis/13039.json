@@ -1,0 +1,14 @@
+{
+  "id": "13039",
+  "title": "Perancangan dan pembuatan aplikasi jigsaw image mosaic",
+  "abstract": "Nowadays, graphic technology have move so fast. Many method and algorithm can be used to generate image. With input image, some process can be made to change an image with simple contrast color to be an image with aesthetic value. Mosaic creation process aims to change some image become mosaic image. In this final assigment, an application capable to process some image become mosaic image developed. The process in the application started with split color region process, which aim to get color based region segmentation. To devide the region centroidal voronoi region is used. To choose suit replacement image geometric hashing is used. This object oriented application is developed using C# programming language and Microsoft Visual Studio 2005 compiler. Based on the experiments result, the mosaic image result depend on the amount and size of the tile image along with threshold value from centoidal voronoi region. While the suitability of result color and actual color depend on color threshold value.",
+  "creators": "HENDRA LUKMANTO",
+  "contributors": "Rudy Adipranata (Advisor 1); Kartika Gunadi (Advisor 2); Iwan Njoto Sandjaja, S.T., MSCS. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020781/INF/2009; Hendra Lukmanto (26405076)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

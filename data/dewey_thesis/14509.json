@@ -1,0 +1,14 @@
+{
+  "id": "14509",
+  "title": "Pembuatan sistim permintaan lagu pada rumah musik menggunakan mikrocontroler 8031",
+  "abstract": "In this final project a RS-485 Network Sistem designed to connect an IBM-PC Compatible as Master Unit and some 8031 Minimum System as Slave Unit. The application is as a Music Lounge Song Request System . Master and Slave connected one to another by a couple of transmision line. The communication system used is a half-duplex system, therefore the transmission line can not be used to transmitting and receiving at the same time. Slave Unit and Master Unit communicate using a specially designed protocol for this application. The protocol is designed to work in a Master-Slave Polling System where the Slave Unit would not transmit anything before it is asked (polled) by Master Unit. This system can handle 31 Slave Units. Hardware and Software test has been made. The result of the test using a Master Unit and two Slave unit each slave unit can do request to Master Unit very well.",
+  "creators": "THOMAS",
+  "contributors": "HERLIANTO TENGGARA (Examination Committee 1); Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/006/400; Thomas (23491171)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; INTEL 8031 (MICROCONTROLLER)"
+}

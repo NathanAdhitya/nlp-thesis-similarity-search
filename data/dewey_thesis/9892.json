@@ -1,0 +1,14 @@
+{
+  "id": "9892",
+  "title": "Pengembangan model botol kemasan bahan cair dengan teknik surface modeling melalui fasilitas macro pada CATIA V5R17",
+  "abstract": "Pengembangan produk tidak terlepas dari proses desain dimana banyak kali melibatkan bantuan penggunaan perangkat lunak dalam pelaksanaannya. Kemampuan pemodelan parametrik software CAD telah terbukti mampu mengembangkan ragam model dengan cara pemanfaatan fasilitas macro yang pada dasarnya adalah bahasa visual basic sebagai bahasa pemprogramannya, yang dapat mengendalikan dimensi, geometri, maupun status fitur yang dimiliki model. Adanya macro dengan basis Visual Basic Application (VBA) digunakan sebagai jembatan penghubung antara Microsoft Excel 2007 dengan software CATIA V5R17. Proses perubahan desain menjadi ragam model tidak dapat dilaksanakan dengan cepat disebabkan karena yang memiliki akses kepada model CAD hanyalah desainer. Pada Tugas Akhir ini, dibuatlah jembatan perubahan pada model yang dikembangkan dengan pemanfaatan fasilitas macro yang pada dasarnya adalah bahasa visual basic sebagai bahasa pemprogramannya. Visual Basic Application (VBA) dapat mengendalikan perubahan parameter-parameter dimensi secara interaktif pada model CAD, dimana perubahan model dilakukan dengan cara menentukan beberapa bagian MultiSection Loft sehingga diketahui tiap bagian bentuk section beserta dimensinya. Melalui pengisian data ke User Form untuk diinput keMicrosoft Excel 2007 yang nanti hasilnya akan muncul disoftware CATIA V5R17 dengan pemanfaatan fasilitas macro yang pada dasarnya adalah bahasa visual basic sebagai jembatan penghubungnya. Dalam study kasus dijelaskan untuk mendesain suatu model dibutuhkan pembagian tiap loft untuk mengetahui beberapa macam section yang ada, sebagai dasar bentuk model tersebut. Seorang desainer bisa melakukan proses pengerjaan tanpa mengoperasikan CATIA V5R17. Melalui macro ini mendesain suatu model berbagai macam dapat dilakukan secara otomatis dan waktu yang dibutuhkan singkat.",
+  "creators": "CHRIS SETIAWAN",
+  "contributors": "Willyanto (Advisor 1); Stefanus Ongkodjojo, S.T., M.Sc. (Advisor 2); Ian Hardianto Siahaan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010859/MES/2008; Chris Setiawan (24403046)",
+  "subjects": "PLASTIC BOTTLES INDUSTRY; BOTTLE INDUSTRY"
+}

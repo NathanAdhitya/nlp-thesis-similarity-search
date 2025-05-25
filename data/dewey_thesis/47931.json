@@ -1,0 +1,14 @@
+{
+  "id": "47931",
+  "title": "Penghematan inventory jenis consignment-kanban dengan meminimumkan k-max di plant Y PT X",
+  "abstract": "PT X adalah perusahaan yang bergerak di bidang manufaktur komponen-komponen elektrik. Plant Y adalah salah satu plant di PT X yang memiliki sebuah mini warehouse di dalamnya. Mini warehouse berfungsi sebagai perantara antara main warehouse (plant A) dengan lini produksi dalam pergerakan material. Permasalahan yang terdapat pada mini warehouse plant Y adalah tingginya nilai batas maksimum Kanban (K-max) untuk jenis material consignment-Kanban sebanyak 445 part number, hingga mencapai $200.073. Hal ini disebabkan oleh banyaknya part number yang memiliki kuantitas K-max terlalu tinggi dibandingkan dengan average daily usage dari tiap part number tersebut. Usulan perbaikan yang dirancang berupa perhitungan kembali terhadap kuantitas K-min dan K-max dengan menggunakan data-data terbaru yang menggambarkan kondisi aktual di lapangan. Sebanyak 339 dari 445 material jenis consignment-Kanban telah berhasil diimplementasikan usulan perbaikannya. Hasil dari implementasi usulan perbaikan adalah menurunnya kuantitas total K-max sebesar 43,96%, dan diikuti dengan penurunan nilai total K-max sebesar 43,98%.",
+  "creators": "JASON AVERELL LUMANTO",
+  "contributors": "Herri Christian Palit (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022327/IND/2020; Jason Averell Lumanto (25416046)",
+  "subjects": "INVENTORY CONTROL; MATERIALS MANAGEMENT"
+}

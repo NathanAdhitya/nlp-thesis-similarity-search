@@ -1,0 +1,14 @@
+{
+  "id": "51582",
+  "title": "Sistem pakar untuk mendiagnosa infeksi mikroorganisme pada anak menggunakan metode forward chaining",
+  "abstract": "Penyakit infeksi yang disebabkan oleh mikroorganisme seperti virus, bakteri, jamur, dan cacing sangat rentan menyerang anak-anak, hal tersebut disebabkan oleh kurangnya kesadaran diri untuk menjaga kebersihan diri dan lingkungan dan sistem imun yang ada pada tubuh anak yang belum terbangun secara sempurna. Kurangnya pengetahuan membuat kalangan orang tua juga tidak bisa mengenali gejala-gejala penyakit yang diderita anak yang timbul akibat infeksi mikroorganisme tersebut. Sistem pakar ini dibuat untuk mendiagnosa penyakit pada anak yang disebabkan oleh mikroorganisme seperti virus, bakteri, jamur, dan cacing. Dengan bantuan teknologi dalam bidang kesehatan yang semakin canggih penelitian ini diharapkan dapat membantu menggantikan peran dokter untuk mendiagnosa penyakit berdasarkan gejala yang dialami. Sistem pakar ini menggunakan metode forward chaining dan metode Certainty Factor. Kegunaan forward chaining pada sistem pakar ini yaitu untuk mengumpulkan fakta-fakta yang didapat dari user sehingga akan menghasilkan kesimpulan. Kegunaan Certainty Faktor pada penelitian ini adalah untuk memberikan tingkat keyakinan dari hasil diagnosa sistem dalam bentuk presentase. Dari sistem pakar ini dapat memberikan informasi mengenai nama penyakit, cara penanganan dan tingkat keyakinan hasil diagnosa. Hasil pengujian sistem ini menunjukkan bahwa sistem mampu menentukan penyakit, cara penanganan, dan mampu menampilkan tingkat keyakinan diagnosa sistem, berdasarkan gejala-gejala yang sebelumnya dipilih oleh user.",
+  "creators": "WILLIAM TUPAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Andreas Handojo (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Alexander Setiawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022076/INF/2021; William Tupan (26416110)",
+  "subjects": "DIAGNOSIS--DATA PROCESSING; EXPERT SYSTEMS (COMPUTER SCIENCE); MICROORGANISMS--DETECTION"
+}

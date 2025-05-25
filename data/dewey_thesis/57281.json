@@ -1,0 +1,14 @@
+{
+  "id": "57281",
+  "title": "Analisa metode n-gram dan tf-idf terhadap kasus plagiarisme skripsi",
+  "abstract": "Kemudahan akses informasi semakin efektif dengan adanya internet membuat kasus plagiarisme semakin meningkat. Permasalahan nyata ini dibuktikan dengan banyaknya perusahaan yang berlomba-lomba membuat program untuk mendeteksi plagiarisme. Namun, performa bagus yang diperoleh dari software pendeteksi plagiarisme tidaklah gratis dan membutuhkan biaya. Pada skripsi ini, penelitian dilakukan untuk dapat menemukan metode alternatif yang dapat memberikan performa serupa dengan software pendeteksi plagiarisme yang telah ada. Metode-metode yang diusulkan akan diuji dengan menggunakan data skripsi plagiat yang dibuat sendiri pada skenario yang berbeda-beda. Data skripsi plagiat yang diproses akan melewati tahap pemrosesan teks dan kalkulasi kemiripan. Pada tahap pengujian, hasil yang diperoleh dari metode-metode yang diusulkan akan dihitung mean absolute error-nya terhadap hasil yang diperoleh pada software plagiarism checker x dengan tujuan menemukan metode yang memiliki nilai mean absolute error terendah serta menemukan cara penggunaan metode agar lebih optimal. Hasil pengujian menunjukkan bahwa 3-gram memiliki nilai mean absolute error terendah pada skenario pengujian pertama dan kedua, yang menunjukkan bahwa 3-gram cocok digunakan untuk mendeteksi plagiarisme dalam pengecekan dokumen antar dokumen secara langsung.",
+  "creators": "NYOTO WIJAYA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022330/INF/2023; Nyoto Wijaya (C14190059)",
+  "subjects": "PLAGIARISM; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN--COMPUTER PROGRAMS"
+}

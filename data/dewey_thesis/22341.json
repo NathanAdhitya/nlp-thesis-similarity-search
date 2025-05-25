@@ -1,0 +1,14 @@
+{
+  "id": "22341",
+  "title": "Uninterruptible power supply 500 VA, untuk menjamin kelangsungan supply daya bagi komputer",
+  "abstract": "Pada prinsipnya suatu sistim UPS hanya terdiri dari beberapa rangkaian, yaitu : rangkaian pengisi battery,rang- kaian inverter, rangkaian saklar pemindah statik, rangkaian saklar pemindah otomatis, rangkaian start sistim generator, dan rangkaian relay dengan tundaan waktu. Sistem UPS ini juga dilengkapi dengan sistim generator dan sistim battery.Adapun fungsi rangkaian tersebut adalah sbb1. Rangkain pengisi battery, berfungsi untuk mengisi battery secara otomatis.2. Rangkaian inverter, berfungsi untuk mengubah daya arus searah dari battery menjadi daya arus bolak-ba- lik.3. Rangkaian saklar pemindah statik, berfungsi untuk mengatasi kegagalan dalam sistim UPS. Pada saat terjadi kegagalan dalam sistim UPS, maka rangkaian ini akan memindahkan beban UPS ke jala-jala,sehing- ga beban UPS tetap mendapat catu daya, yaitu langsung dari jala-jala. Dengan demikian maka tingkat relia- bilitas sistim UPS, akan sangat dinaikkan dengan ada- nya rangkaian ini. 4. Rangkaian start sistim generator, berfungsi untuk menghidupkan motor stater pada saat jala-jala mati. Setelah mesin hidup, maka secara otomatis rangkaian ini menyebabkan motor stater mati.5. Rangkaian saklar pemindah otomatis, berfungsi untuk memindahkan beban dari jala-jala ke generator pada saat terjadi kegagalan jala-jala, Pada saat jala- jala kembali hidup, rangkaian ini akan mengembalikan beban ke jala-jala. Dengan adanya rangkaian ini,ma-ka daya dari generator tidak akan masuk ke jala-jala, dan begitu juga sebaliknya daya dari jala-jala tidak akan masuk ke generator.6. Rangkaian relay dengan tundaan waktu, berfungsi agar generator tidak mendapat pembebanan secara mendadak. Dengan adanya rangkaian ini, maka generator akan dibebani secara bertahap.Pada saat jala-jala gagal dan sistim generator belum dapat memberi catu daya ke beban, maka sistim UPS memanfa- atkan energi dari battery, sehingga dengan demikian beban UPS sama sekali tidak akan mengalami pemutusan catu daya.",
+  "creators": "LIEM MENG IE",
+  "contributors": "SOEBAGIO (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.88/E/TST/013; Liem Meng Ie (482070)",
+  "subjects": "ELECTRIC GENERATORS; ELECTRIC POWER SUPPLY"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "50439",
+  "title": "Deteksi tingkat kesegaran ikan menggunakan metode Convolutional Neural Network dengan parameter mata dan warna insang",
+  "abstract": "Indonesia punya hasil laut yang sangat melimpah. Badan Pusat Statistik mencatat di tahun 2017 total produksi ikan budidaya di Indonesia yaitu 16.114.991 ton dan total produksi ikan tangkap mencapai 7.361.116 ton di tahun 2018. Namun terkadang ketika sampai di tangan konsumen, ikan sudah menurun tingkat kesegarannya. Jadi dibutuhkan alat atau aplikasi untuk mengetahui tingkat kesegaran ikan agar konsumen bisa merasakan manfaat ikan segar. Penelitian Navotas, et al., menggunakan Artificial Neural Network untuk menentukan tingkat kesegaran 3 jenis ikan. Akurasinya lebih dari 90%. Tetapi peneliti menggunakan alat bantu untuk mengambil gambar insang dan mata ikan. Selain itu, peneliti juga tidak mendeteksi jenis ikan apa yang dideteksi tingkat kesegarannya. Dalam skripsi ini, metode yang digunakan adalah Convolutional Neural Network (CNN) untuk klasifikasi 4 jenis ikan dan tingkat kesegarannya. Lalu model Detectron2 digunakan untuk mendeteksi posisi mata. Dan untuk mendeteksi posisi insang digunakan masking. Gambar yang digunakan adalah hasil foto kamera smartphone. Hasil dari penelitian ini menunjukkan bahwa model CNN sudah bisa membedakan mata ikan segar dan tidak segar tetapi untuk ikan kerapu model masih salah dalam mendeteksi, sehingga akurasinya 75%. Lalu untuk insang, model juga kadang salah mendeteksi tingkat kesegarannya disebabkan karena perbedaan insang segar, cukup segar, dan tidak segar memang sedikit. Akurasi model dalam mendeteksi tingkat kesegaran insang adalah 25%",
+  "creators": "MICHAEL CHRISTIAWAN",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022078/INF/2021; Michael Christiawan (C14170017)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

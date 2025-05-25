@@ -1,0 +1,14 @@
+{
+  "id": "53770",
+  "title": "Pencarian rute indoor terpendek dalam lingkungan Universitas Kristen Petra Surabaya menggunakan algoritma D* Lite berbasis Android",
+  "abstract": "Pada zaman sekarang ini, sebuah bangunan yang besar dan terbagi menjadi beberapa lantai seringkali membingungkan pengunjung dalam mencari sebuah tempat/ ruangan dan menghabiskan banyak waktu sia sia, salah satu contohnya adalah pada lingkungan Universitas Kristen Petra Surabaya. Aplikasi yang akan dibuat dapat mempermudah baik mahasiswa, dosen, staff maupun pengunjung Universitas Kristen Petra Surabaya dalam menemukan rute terpendek menuju tujuan mereka. Untuk menjalankan aplikasi, diperlukan server berupa database untuk menyimpan node, data ruang, data wifi, dan data geomagnetis. Pengambilan data dilakukan secara manual dan diolah agar dapat digunakan sebagai acuan. Setelah proses pengambilan data, user dapat memasukkan input berupa tujuan mereka dan sistem akan melakukan proses kalkukasi rute terpendek serta menampilkan rute tersebut kepada user. Berdasarkan hasil pengujian yang sudah dilakukan, aplikasi yang telah dibuat mampu memberikan rute terpendek dan menampilkannya kepada user. Selain itu aplikasi juga mampu memberikan kalkukasi rute terpendek dengan rata-rata waktu yang singkat, dan memberikan estimasi lokasi serta waktu yang tepat kepada user selama proses navigasi.",
+  "creators": "RICHARD HANS KRISNAJANA",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Kartika Gunadi (Examination Committee 1); Rolly Intan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022164/INF/2022; Richard Hans Krisnajana (C14180169)",
+  "subjects": "ALGORITHMS; ANDROID (ELECTRONIC RESOURCE)--PROGRAMMING; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN--COMPUTER PROGRAMS"
+}

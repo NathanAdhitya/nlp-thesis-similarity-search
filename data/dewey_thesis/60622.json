@@ -1,0 +1,14 @@
+{
+  "id": "60622",
+  "title": "War game dan tactical role playing game hybrid menggunakan multi layered command system",
+  "abstract": "Penelitian ini bertujuan untuk membuat sebuah game gabungan antara genre War Game dan Tactical Role Playing Game. Karena game yang dikembangkan menggunakan third person view, rentang tampilan pemain menjadi terbatas, sehingga pemain tidak selalu dapat melihat semua karakter mereka pada satu layar. Hal ini menyebabkan pemain mengalami kesulitan dalam memerintah karakter yang dikendalikan. Oleh karena itu, diperlukan sebuah sistem untuk memudahkan proses memerintah karakter, sehingga sebuah Multi Layered Command System dirancang untuk memenuhi fungsi tersebut. Implementasi Multi Layered Command System menggunakan Priority Queue untuk mengurutkan perintah dan Behavior Tree untuk menjalankan perintah. Setelah pengujian, game yang dikembangkan dapat disebut sebagai gabungan antara genre War Game dan Tactical Role Playing Game.",
+  "creators": "DENZEL DANIEL D'ASSANTE TANGSAPUTRA",
+  "contributors": "Liliana (Advisor 1); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022491/INF/2024; Denzel Daniel D'assante Tangsaputra (C14200160)",
+  "subjects": "VIDEO GAMES--DESIGN; WAR GAMES"
+}

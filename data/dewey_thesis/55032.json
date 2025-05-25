@@ -1,0 +1,14 @@
+{
+  "id": "55032",
+  "title": "Pemanfaatan metode berbasis morfologi untuk meningkatkan performa pengenalan tulisan cetak multi-font dengan pytesseract",
+  "abstract": "Perkembangan teknologi sekarang ini sudah semakin canggih bahkan sekarang sudah ada kecerdasan buatan untuk bisa mengenali tulisan yang ada pada gambar. Teknologi tersebut dikenal dengan OCR yang bisa mengenali tulisan baik teks yang diketik, ditulis tangan, maupun dicetak. Namun OCR saat ini masih memiliki batasan yang membuatnya tidak bisa mencapai akurasi 100% seperti latar belakang berwarna, tulisan blur, tulisan miring atau tidak berorientasi, variasi dari kata, variasi dari ukuran dan gaya tulisan, dan huruf yang mirip. Salah satu cara untuk mengatasi hal tersebut yaitu melakukan pre-processing sehingga gambar dimungkinkan untuk menjadi lebih berkualitas sehingga hasil OCR pun menjadi lebih baik. Skripsi ini meneliti pre-processing seperti color change, rescaling, binarization, noise removal, dilation, erosion, rotating/deskewing, border removal, dan transparency/alpha channel yang dibuat dalam versi website. Akurasi terbaik didapatkan dengan metode Color change dan deskew (30°) step 5° yaitu sebesar 43.73% untuk jawaban yang tidak case sensitive dan 41.96% untuk jawaban yang case sensitive.",
+  "creators": "HENDRA GUNAWAN YULIANTO",
+  "contributors": "Liliana (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022230/INF/2022; Hendra Gunawan Yulianto (C14180232)",
+  "subjects": "OPTICAL PATTERN RECOGNITION; OPTICAL CHARACTER RECOGNITION"
+}

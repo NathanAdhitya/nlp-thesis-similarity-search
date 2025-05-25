@@ -1,0 +1,14 @@
+{
+  "id": "19758",
+  "title": "Segmentasi serta ekstraksi fitur bintik matahari dengan metode edge detection dan watershed",
+  "abstract": "Selain menjadi sumber energi, matahari juga dapat memberikan `gangguan? bagi kehidupan di bumi. Sumber gangguan tersebut berasal dari bintik matahari. Untuk mengetahui tingkat, kompleksitas bintik matahari, maka digunakan klasifikasi bintik matahari Modified -Zurich untuk mengklasifikasikan jenis bintik matahari. Dari permasalahan tersebut, maka dibutuhkan sebuah aplikasi yang dapat mendeteksi, mengelompokkan bintik -bintik matahari dari sebuah citra digital dan mengekstraksi fitur -fitur bintik matahari (koor dinat tiap bintik matahari, jarak antar bintik matahari, koordinat kelompok bintik matahari, kas kelompok bintik mahatari, dan diameter kelompok bintik matahari). Pada tugas akhir ini dilakukan pembuatan aplikasi untuk mendeteksi, mengelompokkan, dan mengekstraksi fitur -fitur bintik matahari. Proses yang dilakukan pertama kali dengan melakukan pre processing terhadap gambar masukan berupa digital image ataupun scan image. Kemudian jika pre processing sudah dirasa mencukupi, dapat dilakukan proses utama berupa edge detection dengan metode laplace, prewitt, sobel, Robert, ataupun watershed. Setelah dilakukan proses edge detection, maka dilakukan ekstraksi fitur-fitur bintik matahari serta proses pengelompokan / clustering. Aplikasi ini dibuat dengan menggunakan Microsoft Visual C# 2010. Aplikasi ini dapat memberikan hasil akhir berupa gambar akhir hasil pengelompokan beserta semua fitur-fitur (luas, keliling, jarak antara bintik matahari) yang telah diekstraksi yang juga disimpan dalam database Microsoft Access. Pada perbandingan hasil akhir, disimpulkan bahwa hasil edge detection dengan metode watershed mempunyai hasil yang lebih baik daripada metode edge detection dengan metode laplace, prewitt, sobel, serta robert.",
+  "creators": "MATTHEW SUGIARTO",
+  "contributors": "Rudy Adipranata (Advisor 1); Gregorius Satiabudhi (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020937/INF/2010; Matthew Sugiarto (26407007)",
+  "subjects": "COMPUTER VISION-CONGRESSES; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "17571",
+  "title": "Aplikasi fuzzy logic pada pengontrolan kelembaban udara dengan menggunakan metoda pengukuran psikrometri pada simulasi ruang pengeringan",
+  "abstract": "Kandungan air yang berlebihan dapat menurunkan kualitas bahan baku industri. Salah satu cara untuk mengeringkan bahan adalah dengan menggunakan ruang pengeringan yang temperaturnya diatur pada suatu titik tertentu sehingga air dalam bahan dapat menguap. Selain itu, kelembaban udara dalam ruang pengeringan perlu diatur sehingga tidak jenuh dengan uap air supaya dapat menampung tambahan uap air dari bahan yang dikeringkan. Pada tugas akhir ini, dibuat sebuah ruang pengeringan yang temperatur dan kelembaban relatif udara di dalamnya dikontrol secara logika fuzzy. Ruang pengeringan ini berukuran panjang 1 m, lebar 50 cm, dan tinggi 60 cm. Pengaturan fuzzy terhadap pemanas udara dilakukan dengan mengubah-ubah sudut penundaan penyalaan TRIAC. Pengaturan fuzzy terhadap spray air dilakukan dengan mengubah-ubah lamanya penyalaan spray. Pengaturan bukaan jendela disertakan pada pengaturan pemanas. Adapun cara yang digunakan untuk mengukur kelembaban udara adalah dengan menggunakan metode psikrometri. Metode ini menggunakan dua buah transduser temperatur, sebuah transduser dibiarkan kering dan disebut dry bulb, sedang transduser yang lainnya dililiti dengan kain basah dan disebut wet bulb. Hubungan antara temperatur dry bulb, penurunan temperatur wet bulb, dan kelembaban relatif ditabelkan dalam tabel psikrometri. Dari pengujian yang telah dilakukan, ruang pengeringan ini mampu mencapai dan mempertahankan kondisi udara di dalamnya bila setting point kelembaban relatif udara rendah ( kurang dari 35 % ). Bila setting point kelembaban relatif udara tinggi ( lebih dari 40 % ), kondisi udara dalam ruang pengeringan sulit mencapai setting point temperatur yang diinginkan.",
+  "creators": "CHANDRA RUDIYONO",
+  "contributors": "IRWAN SAHLI (Advisor 1); MARTIN SETIAWAN (Advisor 2); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/032/426; Chandra Rudiyono (23494014)",
+  "subjects": "FUZZY LOGIC; AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

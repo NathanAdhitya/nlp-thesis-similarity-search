@@ -1,0 +1,14 @@
+{
+  "id": "4429",
+  "title": "Sistem multiple disk space collaboration",
+  "abstract": "Sebuah komputer memerlukan harddisk untuk menyimpan data. Ukuran harddisk dewasa ini semakin berkembang dengan pesat dan terkadang penggunaannya tidak maksimal. Dalam jaringan komputer penggunaan harddisk untuk tiap - tiap komputer bervariasi terkadang ada yang membutuhkan space yang besar ada pula yang sedikit. Dalam tugas akhir ini penulis mengembangkan sebuah aplikasi yang dapat menggabungkan sisa disk space harddisk yang berada di beberapa komputer dalam sebuah jaringan sehingga akan tampak menjadi space yang besar untuk dapat menyimpan file. Sistem menggunakan teknologi jaringan komputer yang digunakan pada sistem operasi open source Linux. Pengguna komputer dalam jaringan dapat membagikan sebagian disk space nya yang akan digabungkan menjadi satu dan nantinya dapat digunakan untuk menyimpan file, menghapus file, dan mengambilnya kembali ke komputer lokal. Sistem memiliki kemampuan untuk menambah user, mengganti password dan menghapus user. Sistem ini dikembangkan menggunakan bahasa pemrograman C dengan kompiler open source GCC dengan beberapa open source library tambahan untuk aplikasi GUI (Graphical Use Interface) di Linux. Pengujian pada sistem ini mendapatkan hasil bahwa sis tem ini dapat dikembangkan lebih lanjut dengan penambahan protokol agar sistem dapat lebih terintegrasi dengan sistem operasi agar proses pengambilan, penghapusan, peletakan file lebih terkesan transparan. Kecepatan untuk trasfer data dapat dikatakan memiliki kecepatan rata - rata dibandingkan dengan program lain yang digunakan untuk file server.",
+  "creators": "EDDY SETYAWAN",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Andreas Handojo (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000217/INF/2004; Eddy Setyawan (26499048)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

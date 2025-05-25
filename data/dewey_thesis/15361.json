@@ -1,0 +1,14 @@
+{
+  "id": "15361",
+  "title": "Pembuatan perangkat lunak untuk menganalisa potensial listrik dengan metode finite diference",
+  "abstract": "Dalam menganalisa potensial listrik, seringkali dihadapkan pada suatu persamaan yang rumit dengan syarat batas-batas yang masih banyak. Dari persamaan-persamaan tersebut masih lagi harus dihadapkan dengan perhitungan yang panjang dan seringkali terjadi kesalahan akibat dari orang yang melakukan perhitungan atau faktor human error. Pada saat ini komputer sebagai alat bantu yang dapat diandalkan dapat dimanfaatkan untuk mengurangi masalah tersebut. Dengan perangkat lunak maka perhitungan-perhitungan yang rumit akan dapat diselesaikan dengan lebih mudah dan lebih cepat dengan bantuan komputer. Pada tugas akhir ini dibuat suatu perangkat lunak yang akan membantu menyelesaikan perhitungan-perhitungan dan menampilkan hasil-hasil tersebut dalam bentuk gambar atau grafik berbentuk equipotensial sehingga lebih mudah untuk dianalisa dan diamati. Sebagai input pada perangkat lunak ini berupa tegangan, kerapatan muatan dan permitifitas, serta jarak dari satu titik ke titik berikutnya, hanya jarak tersebut diarnbil melalui pengukuran lewat perangkat lunak tersebut. Hasil perangkat lunak yang ditampilkan berupa grid, dimana hasil perhitungan akan ditampilkan pada tiap titik pada grid tersebut dan dari situ dibuat gambar grafik berbentuk equipotensial dengan menginputkan persentase yang diinginkan.",
+  "creators": "WIRA CHANDRA TEJAKUSUMA",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Rolly Intan (Advisor 2); Heri Saptono Warpindyasmoro (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/TST/036/226; Wira Chandra Tejakusuma (23491163)",
+  "subjects": "FINITE DIFFERENCES; PROGRAMMING (ELECTRONIC COMPUTERS); SOFTWARE ENGINEERING"
+}

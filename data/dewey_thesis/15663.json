@@ -1,0 +1,14 @@
+{
+  "id": "15663",
+  "title": "Transmisi data antar komputer dengan menggunakan sinar laser",
+  "abstract": "Komunikasi serial banyak digunakan dalam interface PC dan serial yang biasa dipakai adalah RS-232. Pada tugas akhir ini dibuat suatu sistem transmisi data antar komputer secara simplex yang menggunakan sinar laser sebagai pengganti kabel. Software dibuat under DOS dengan bantuan bahasa pemrograman Turbo Pascal. Software terdiri dari dua bagian yaitu transmit dan receive data. Bagian transmit data berfungsi sebagai pengirim data file ke bagian penerima sedangkan bagian receive mempunyai dua fungsi yaitu sebagai penerima data file dan pembanding bit error rate data file yang diterima. Untuk hardware dibuat dua buah peralatan yaitu transmitter dan receiver yang masing-masing dipasang pada sebuah PC. Pengujian secara hardware dilakukan dengan memberikan gangguan asap dan hujan pada saat transmisi data berlangsung, kemudian secara software dibandingkan hasil transfer data yang terjadi. Untuk pengaruh gangguan asap dibedakan menjadi dua yaitu asap tipis dan tebal. Untuk asap tebal didapat nilai rata-rata bit error rate sebesar 43.188 % dan untuk asap tipis didapat nilai rata-rata bit error rate sebesar 66.928 %. Untuk pengaruh gangguan hujan dibedakan dua yaitu untuk curah air tinggi dan rendah. Dari kedua pengaruh tersebut didapat nilai rata-rata bit error rate sebesar 0%.",
+  "creators": "DAVID KRISTIAN",
+  "contributors": "Heri Saptono Warpindyasmoro (Advisor 1); Resmana Lim (Advisor 2); IRWAN SAHLI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/024/418; David Kristian (23494092)",
+  "subjects": "COMPUTER NETWORKS; LASER COMMUNICATIONS SYSTEMS; DATA TRANSMISSION SYSTEMS"
+}

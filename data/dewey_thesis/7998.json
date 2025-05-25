@@ -1,0 +1,14 @@
+{
+  "id": "7998",
+  "title": "Pembuatan sistem informasi toko garmen UD. Subur berbasis web",
+  "abstract": "UD.Subur berdiri pada tahun 1998, UD.Subur menjual barang berupa produk kain / tekstil. Selama ini, UD.Subur menggunakan cara manual untuk menghasilkan laporan-laporan yang diperlukan mulai laporan pembelian, penjualan, stok barang, retur, penggajian, pengeluaran, absen dan gaji karyawan, sehingga sering terjadi kesalahan-kesalahan yang diakibatkan human error, dan ini menyebabkan informasi yang tidak akurat. Oleh karena itu, dalam tugas akhir ini dibuat sebuah aplikasi sistem informasi yang dapat membantu UD.Subur untuk mendapatkan informasi yang diperlukan secara tepat waktu dan akurat. Aplikasi ini menggunakan PHP sebagai bahasa pemrograman dan MySQL sebagai database server, serta Quanta Plus untuk membuat aplikasi formnya. Karena berbasis web, aplikasi ini dapat berjalan pada spesifikasi komputer yang rendah sekalipun, dimana aplikasi ini tidak perlu menggunakan memory yang terlalu besar (cukup 64 mb), sehingga untuk dapat menggunakan aplikasi ini UD.Subur tidak perlu mengeluarkan biaya tambahan di sisi penyediaan hardware, software lainnya, dan maintenance. Aplikasi ini menghasilkan menu-menu yang sesuai dengan kebutuhan setiap pengguna aplikasi masing-masing, seperti bagian pembelian, penjualan, stok barang, absen dan gaji karyawan. Dari hasil implementasi dan pengujian aplikasi ini, laporan pembelian, penjualan, dan laba rugi akan dapat dibuat otomatis setelah data pembelian, penjualan, pengeluaran, dan gaji karyawan yang diperlukan selesai dibuat, sehingga pemilik dapat mengetahui pengeluaran maupun pendapatan, dan keadaan surplus atau defisit perusahaan setiap waktu, sehingga dapat lebih mengontrol keuangan perusahaan, namun terdapat kekurangan bagi user bahwa aplikasi ini kurang user friendly.",
+  "creators": "FRANKLIN GONDOSISWANTO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Kartika Gunadi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010580/INF/2007; Franklin Gondosiswanto (26402172)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

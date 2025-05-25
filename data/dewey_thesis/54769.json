@@ -1,0 +1,14 @@
+{
+  "id": "54769",
+  "title": "Pembuatan aplikasi penyimpanan password menggunakan metode honey encryption pada Android",
+  "abstract": "Saat ini, penyimpanan data ini tentu sangat membutuhkan pengamanan untuk menghindari resiko-resiko seperti adanya serangan hacker, kebocoran data, atau kehilangan itu selalu ada. Salah satu tindakan untuk pengamanan ini adalah menggunakan password untuk melindungi informasi. Namun hal ini cukup beresiko dimana password yang memiliki kombinasi sukar, akan susah untuk diingat. Untuk membantu pengguna smartphone android dalam menyimpan dan mengamankan password ini di dalam smartphonenya, maka dibuatlah aplikasi penyimpanan password. Aplikasi ini dibuat pada smartphone android dengan menggunakan metode kriptografi yaitu metode Honey Encryption. Di mana aplikasi pada smartphone berbasis android yang bertujuan untuk menyimpan dan mengamankan password. User dapat mengatur secara manual key yang akan digunakan pada proses enkripsi. Proses enkripsi ini dilakukan secara online sehingga user dapat melakukan request dari server untuk data keynya. Langkah online ini dapat memudahkan user saat akan menghapus dan memanage data backup online berupa key dan data text username dan passwordnya. Hasil dari penelitian ini menunjukkan bahwa sistem ini diproteksi dengan Algoritma Honey Encryption yang mampu mengamankan password yang telah disimpan. Juga menunjukkan bahwa sistem ini berhasil menerapkan Algoritma Honey Encryption untuk mengelabui user yang tidak memiliki password dengan menampilkan password yang salah.",
+  "creators": "NOUCHKA INDRA DEWA",
+  "contributors": "Leo Willyanto Santoso (Examination Committee 1); Agustinus Noertjahyana (Advisor 1); Andreas Handojo (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022167/INF/2022; Nouchka Indra Dewa (C14170021)",
+  "subjects": "ANDROID (ELECTRONIC RESOURCE)--PROGRAMMING; COMPUTERS--ACCESS CONTROL--PASSWORDS; HONEY ENCRYPTION; DATABASE MANAGEMENT--COMPUTER PROGRAMS"
+}

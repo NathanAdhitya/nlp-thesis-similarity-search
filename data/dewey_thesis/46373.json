@@ -1,0 +1,14 @@
+{
+  "id": "46373",
+  "title": "Program komputer untuk model sebaran pergerakan: CD",
+  "abstract": "Banyak negara berkembang mengalami masalah transportasi yang cukup kritis. Hal ini dapat dihindari dengan perencanaan transportasi yang baik. Untuk itu, diperlukan perkiraan sebaran pergerakan. Perkiraan tersebut diperoleh dengan memodelkan sebaran pergerakan yang ada. Semakin baik pemodelannya, perkiraan sebaran pergerakan akan semakin mendekati kenyataan. Usaha untuk memperoleh model yang baik sudah lama dilakukan dan menghasilkan beberapa metode. Metode yang akan dibahas di sini hanya metode Analogi dan metode sintetis (khususnya Gravity). Metode analogi adalah metode paling sederhana. Metode ini hanya memperhitungkan faktor pertumbuhan tiap zona. Metode Gravity lebih sering digunakan karena dalam pemodelannya juga memperhitungkan alasan diadakannya pergerakan. Pemodelan Gravity dilakukan dengan dua cara, yaitu estimasi dan kalibrasi. Cara kalibrasi adalah mengkalibrasi parameter agar selisih kuadrat antara model dengan data minimum. Proses pengkalibrasian sangat sukar dilakukan secara manual. Pemrograman pemodelan ini akan sangat mempersingkat waktu dan meminimalkan galat yang mungkin teijadi. Pemrograman menggunakan bahasa pemrograman visual Delphi 6.0.",
+  "creators": "JENNY PURWONEGORO",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Rudy Setiawan (Advisor 2); Budisetyono Tedjakusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.1217/SIP/2002; Jenny Purwonegoro (21497133)",
+  "subjects": "COMPUTER PROGRAMS; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

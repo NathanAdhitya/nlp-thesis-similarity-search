@@ -1,0 +1,14 @@
+{
+  "id": "50388",
+  "title": "Kontrol traffic light jarak jauh menggunakan radio HT",
+  "abstract": "Ada beberapa cara dalam pengaturan lampu traffic light, di antaranya dengan sistem networking dan standalone. Kedua sistem tersebut sebenarnya sudah dapat berjalan dengan baik, hanya saja terdapat beberapa kendala yang dihadapi. Kendala pada sistem networking adalah pada pembangunan sistem jaringan kabel yang sangat rumit. Kendala pada sistem standalone adalah masalah pengaturannya, karena apabila setting dari traffic light akan dirubah, maka harus datang ke tempat traffic light tersebut berada. Sehingga perlu adanya solusi untuk traffic light setting dari jarak jauh. Sistem yang dimaksud adalah pengontrolan traffic light jarak jauh menggunakan media frekuensi radio sebagai perantaranya yang dikirimkan melalui radio HT. Sistem yang telah dibangun dapat diakses menggunakan PC (atau notebook) yang dihubungkan ke radio modem. Terdapat enam mode dan tiga kondisi dalam sistem traffic light ini yang masing-masing dapat digunakan sesuai dengan kondisi lalu lintas. Proses pengontrolan pada sistem dilakukan oleh mikrokontroler AT89C51 dan sekaligus sebagai pengolah data yang diterima dari PC. Software yang digunakan pada PC untuk pengontrolan adaiah bahasa pemrograman Delphi7.0 dengan hubungan serial melalui port RS232 yang ada pada PC. Dari hasil pengujian, sistem ini memiliki beberapa keuntungan, antara lain lebih praktis dan setting traffic light lebih efisien karena dapat dilakukan dari jarak jauh (300 meter).",
+  "creators": "BUDY LIE SIN LIONG",
+  "contributors": "Resmana Lim (Advisor 1); Handry Khoswanto (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010694/ELK/2004; Budy Lie Sin Liong (23400108)",
+  "subjects": "TRAFFIC FLOW--MEASUREMENT"
+}

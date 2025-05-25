@@ -1,0 +1,14 @@
+{
+  "id": "11852",
+  "title": "Analisis dan perancangan sistem informasi akuntasi terkomputerisasi atas siklus pengeluaran pada CV. Podo Joyo di Surabaya",
+  "abstract": "Penelitian ini dilakukan di CV. Podo Joyo yang masih menggunakan sistem informasi akuntansi manual atas siklus pengeluaran. Berdasarkan pengamatan penulis, sistem informasi akuntansi yang digunakan memiliki berbagai kelemahan, antara lain kesulitan mengetahui informasi mengenai pembelian, dokumentasi tidak memadai, perusahaan sering tidak bisa memanfaatkan diskon, ataupun keterlambatan pembayaran hutang yang telah jatuh tempo. Penelitian ini bertujuan untuk merancang sistem informasi akuntansi terkomputerisasi dan meningkatkan pengendalian internal atas siklus pengeluaran pada CV. Podo Joyo guna meminimalisasi kelemahan yang ada pada sistem manual. Penelitian ini merupakan penelitian deskriptif dengan rancangan penelitian berupa studi kasus dengan menggunakan jenis data kualitatif dari internal perusahaan berupa data primer. Teknik analisa data yang digunakan yaitu System Development Life Cycle (SDLC) meliputi analisa sistem, desain konseptual dan desain fisik. Perancangan ini menghasilkan output berupa Laporan Status Order Pembelian, Pembelian, Perubahan Harga Bahan Baku, Hutang, Retur Pembelian Bahan Baku, Pembelian Bahan Baku via Bilyet Giro, Pembelian Bahan Baku via Bank, Pembelian Bahan Baku via Kas, Penyesuaian Persediaan dan Status Bahan Baku. Selain itu penulis merancang input berupa master supplier, bahan baku, termin pembayaran, bank, file kartu stok bahan baku, budget pembelian, permintaan pembelian bahan baku, order pembelian bahan baku, penerimaan bahan baku, hutang, pembelian, retur pembelian bahan baku, bukti pelunasan pembelian, hasil opname.",
+  "creators": "FANTY SUTANTO",
+  "contributors": "Sri Maharsi (Advisor 1); Saarce Elsye Hatane (Advisor 2); Juniarti (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 32010003/AKT/2009; Fanty Sutanto (32405008)",
+  "subjects": "AUDITING-DATA PROCESSING; ELECTRONIC DATA PROCESSING-AUDITING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "29457",
+  "title": "Aplikasi rekonstruksi 3D menggunakan metode voting-based voxel carving",
+  "abstract": "Rekonstruksi 3D adalah teknik untuk membentuk objek 3D dari dunia nyata ke dalam komputer. Dalam melakukan proses rekonstruksi, dapat digunakan berbagai macam metode, salah satunya adalah voting-based voxel carving, yaitu metode yang melakukan pembentukan suatu objek 3D dengan mengumpulkan gambar objek dari berbagai sudut, sehingga dapat diperoleh bentuk 3D. Proses yang dilakukan adalah sebagai berikut: user meletakkan objek pada titik yang sudah ditentukan. Gambar dari objek akan diproses menjadi silhouette dari objek. Setelah diambil gambar dari satu sisi, hal yang sama akan dilakukan sampai semua sisi dari objek didapatkan. Aplikasi dibuat dengan C++ dengan Microsoft Visual Studio 2010 sebagai IDE-nya. Hasil pengujian menunjukkan bahwa proses rekonstruksi 3D menggunakan voting-based voxel carving belum dapat menghasilkan objek 3D yang menyerupai objek nyata, dikarenakan terdapat beberapa efek dari faktor pencahayaan, jarak, dan jenis permukaan benda.",
+  "creators": "RICKY TANOJO",
+  "contributors": "Liliana (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021251/INF/2013; Ricky Tanojo (26409067)",
+  "subjects": "COMPUTER GRAPHICS; THREE-DIMENSIONAL IMAGING; COMPUTER ANIMATION"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "31012",
+  "title": "Aplikasi complementary filter untuk sensor imu pada Petra robot for mobility and passenger transport (prompt) berbasis arduino",
+  "abstract": "Penelitian ini mengulas kembali robot keseimbangan beroda dua ukuran kecil, disebut prototipe PROMPT. Prototipe PROMPT dikendalikan dari jarak jauh dengan Remot Kontrol Quadcopter. Sensor IMU (ADXL-345 dan ITG-3200) memerlukan algoritma Complementary Filter memperkirakan sudut dan mengurangi noise ADXL-345. Hasil pengujiannya memiliki kehandalan sangat baik menjaga keseimbangan. Pengujian dilakukan meliputi: ADXL-345, ITG-3200, Complementary Filter, Kontrol PID, Remot Kontrol Quadcopter, dan Baterai LiPo. 0,65 jam adalah maksimum beroperasi prototipe PROMPT hingga kondisi minimumnya sedangkan 5,94 jam adalah minimum beroperasi prototipe PROMPT hingga kondisi minimumnya, Kontrol PID dengan Kp = 4,9 Kd = 0,025, dan Ki = 5 sehingga respon settling time terbaik adalah 3140 ms (314 x 10 ms) saat output data rate ADXL-345 200 Hz, sample rate ITG-3200 100 Hz, dan mampu dikendalikan dari jarak maksimal 299,9 meter dengan Remot Kontrol Quadcopter untuk aktivitas, yaitu: seimbang, maju, mundur, berbelok kanan ataupun berbelok kiri.",
+  "creators": "MARTINUS",
+  "contributors": "Hany Ferdinando (Advisor 1); Handry Khoswanto (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010934/ELK/2014; Martinus (23408002)",
+  "subjects": "ARDUINO (PROGRAMMABLE CONTROLLER); MOBILE ROBOTS; ROBOT-CONTROL SYSTEMS; ROBOTICS"
+}

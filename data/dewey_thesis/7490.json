@@ -1,0 +1,14 @@
+{
+  "id": "7490",
+  "title": "Perancangan dan pembuatan sistem informasi akuntasi pada Fuji Image Service \"Magetan Foto\"",
+  "abstract": "FIS \"Magetan Foto\" adalah sebuah perusahaan jasa yang bergerak dalam bidang fotografi. Sistem yang ada masih manual, khususnya untuk pembelian, penjualan dan bahkan tidak memiliki sistem akuntansi. Untuk meningkatkan efisiensi dan kualitas dibutuhkan sistem baru yang terintegrasi, dimana ada sistem penjurnalan yang akan generate otomatis dalam sistem informasi akuntansi ini. Sehingga dapat membantu perusahaan dalam mempercepat proses pembuatan laporan keuangan yang berguna untuk perusahaan. Perancangan sistem informasi akuntansi ini menggunakan data flow diagram untuk merancang aliran data dan entity relationship diagram untuk membuat tabel dan relasi di antara tabel digunakan Power Designer 6.1. Pembuatan sistem berdasarkan hasil perancangan menggunakan bahasa pemrograman Delphi 7.0. untuk membuat program dan MySQL 4.0.13. untuk membuat database . Hasil dari implementasi program yang akan dihasilkan adalah modul pembelian, penjualan, cuci cetak foto dan akuntansi, laporan laba rugi, perubahan modal dan neraca yang akurat. Menjamin keamanan data dengan pembatasan akses data.",
+  "creators": "IWAN PRASETYA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Alexander Setiawan (Advisor 2); Sri Maharsi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000439/INF/2005; Iwan Prasetya (26400062)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

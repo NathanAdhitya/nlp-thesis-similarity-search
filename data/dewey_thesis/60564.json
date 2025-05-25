@@ -1,0 +1,14 @@
+{
+  "id": "60564",
+  "title": "Penerapan graph database menggunakan labeled property graph model pada data warehouse PT XYZ dengan similarity analysis untuk membantu mengoptimalkan proses decision making",
+  "abstract": "Penelitian ini bertujuan untuk menerapkan graph database dengan model Labeled Property Graph pada data warehouse PT XYZ guna mengoptimalkan proses pengambilan keputusan. PT XYZ merupakan perusahaan yang bergerak di bidang manufaktur dan distribusi voucer belanja. Sebagai upaya untuk meningkatkan efektivitas pemasaran, perusahaan ini memerlukan pengelolaan data yang lebih dinamis dan efisien. Data warehouse yang digunakan saat ini masih berbasis relational data model yang memiliki keterbatasan dalam menangani data yang kompleks dan memiliki banyak relasi. Penelitian ini menggunakan Neo4j sebagai platform graph database karena kemampuannya untuk mengelola data yang sangat besar dan kompleks dengan struktur yang lebih fleksibel. Dengan menggunakan algoritma Filtered Node Similarity yang merupakan bagian dari Neo4j, penelitian ini mampu menghitung kesamaan antar node untuk mengidentifikasi hubungan yang relevan antar data produk. Hasil dari penelitian menunjukkan bahwa dibandingkan menggunakan relational database, penerapan graph database dengan model Labeled Property Graph dapat meningkatkan efisiensi dalam proses pengambilan keputusan di PT XYZ. Hasil survei menunjukkan bahwa sistem ini mampu menghasilkan data yang cukup akurat, sehingga dapat mendukung pengambilan keputusan yang lebih efektif. Kemudahan penggunaan program juga membuat staf sebagai pengguna untuk dapat dengan cepat mengakses dan menganalisis data yang dibutuhkan.",
+  "creators": "MONICA EVELYN",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Gregorius Satiabudhi (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022499/INF/2024; Monica Evelyn (C14200026)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS); WAREHOUSE MANAGEMENT SYSTEMS"
+}

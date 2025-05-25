@@ -1,0 +1,14 @@
+{
+  "id": "60868",
+  "title": "Optimasi desain velocity stack pada performa mesin yamaha aerox 155 dengan piggyback menggunakan metode genetic algorithm, particle swarm optimization, dan firefly algorithm",
+  "abstract": "Penelitian ini membahas mengenai peningkatan performa pada kendaraan roda 2, Yamaha Aerox 155. Melalui optimalisasi desain velocity stack yang dikombinasikan dengan parameter piggyback menggunakan Genetic Algorithm (GA), Particle Swarm Optimization (PSO), dan Firefly Algorithm (FA). Dari hasil penelitian yang telah dilakukan, metode yang memberikan hasil paling optimal adalah PSO dibandingkan metode GA dan FA. Dengan nilai Mean Squared Error (MSE) pada model prediksi daya sebesar 0.0034 dan pada torsi sebesar 0.7606, menunjukan bahwa tingkat akurat yang cukup baik karena berada dibawah nilai 1. Menggunakan metode PSO, daya yang dapat dihasilkan dari optimalisasi desain dengan kombinasi parameter piggyback adalah peningkatan daya sebesar 4.13% dan peningkatan pada torsi sebesar 6.24%. Pada hasil penelitian yang dilakukan, peneliti menyarankan menggunakan desain velocity stack dengan inlet diameter sebesar 80mm, outlet height sebesar 65mm, dan lip radius sebesar 18mm dengan konfigurasi piggyback low: -1, med: -2, dan high: -2. Dari penelitian yang telah dilakukan, didapatkan hasil bahwa desain velocity stack dengan kombinasi parameter piggyback dapat di optimalisasi menggunakan metode PSO untuk meningkatkan performa pada kendaraan roda 2.",
+  "creators": "ADITYA NUR TRIATMAJA",
+  "contributors": "Sutrisno S.T.,M.T. (Advisor 1); Ivan Christian Hernando, S.T., M.T. (Advisor 2); Willyanto (Examination Committee 1); Ninuk Jonoadji (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011527/MES/2024; Aditya Nur Triatmaja (C12190029)",
+  "subjects": "MOTORCYCLES--BODIES; MOTORCYCLES--DESIGN AND CONSTRUCTION; MOTORCYCLES--PERFORMANCE"
+}

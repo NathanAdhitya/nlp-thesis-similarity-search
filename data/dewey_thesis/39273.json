@@ -1,0 +1,14 @@
+{
+  "id": "39273",
+  "title": "Accelerated ray tracing dengan bounding volume hierarchy dan compute unified device architecture",
+  "abstract": "Ray tracing adalah teknik dalam grafika komputer yang menampilkan gambar atau citra dengan memancarkan sinar dari mata ke setiap pixel pada screen, dan dilakukan pengecekan apakah sinar tersebut mengenai objek. Ray tracing dapat menghasilkan gambar yang fotorealistik, namun memerlukan waktu perhitungan yang lama. Cara yang sering digunakan untuk menyingkat waktu ray tracing adalah dengan mengurangi jumlah pengecekan intersection antara ray dengan objek. Salah satu metode yang populer adalah Bounding Volume Hierarchy (BVH). Pada aplikasi yang dibuat juga digunakan Compute Unified Device Architecture (CUDA) disamping penggunaan BVH. Penggunaan CUDA bertujuan untuk mempercepat proses dengan cara melakukan perhitungan secara parallel pada GPU. Perhitungan-perhitungan yang dilakukan pada GPU adalah penentuan arah ray ke setiap pixel dan warna pada setiap pixel. Hasil dari aplikasi ini adalah akselerasi waktu render sebesar lebih dari 70% jika dibandingkan dengan aplikasi ray tracing dengan BVH. Dari 3 (tiga) bentuk bounding volume yang diuji, ellipse menghasilkan akselerasi yang tertinggi yaitu 73,85%. Selain itu, juga tidak terdapat detail loss pada hasil render. Aplikasi yang dihasilkan juga lebih responsif dalam hal pemindahan posisi kamera.",
+  "creators": "RINA SAVISTA HALIM",
+  "contributors": "Liliana (Advisor 1); Rolly Intan (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021645/INF/2017; Rina Savista Halim (26413006)",
+  "subjects": "COMPUTER GRAPHICS; PROGRAMMING (ELECTRONIC COMPUTERS); RAY TRACING"
+}

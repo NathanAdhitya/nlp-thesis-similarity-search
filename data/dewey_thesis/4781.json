@@ -1,0 +1,14 @@
+{
+  "id": "4781",
+  "title": "Aplikasi RFID pada sistem parkir untuk office building menggunakan minimum system MCS-51",
+  "abstract": "Perencanaan sistem parkir ini ditujukan untuk mengatasi sistem parkir konvensional yang kurang efektif. Pada sistem konvensional, petugas yang berjaga di pintu masuk tidak dapat mengetahui jumlah mobil yang telah masuk dan keluar, sehingga tidak mengetahui penuh apa tidaknya lahan parkir tersebut. Sistem parkir yang akan di-design ini adalah sistem parkir pasca bayar, di mana pembayaran dilakukan di pintu keluar ketika mobil hendak keluar (telah selesai parkir). Sistem parkir pasca bayar ini dibatasi hanya untuk satu pintu masuk dan satu pintu keluar, dengan asumsi kapasitas yang hanya dapat menampung 99 mobil (biasanya untuk lahan parkir office building). Selain dapat menghitung jumlah mobil, alat ini juga dapat mengkalkulasi biaya parkir sesuai dengan lamanya waktu parkir. Tentunya kalkulasi ini dilakukan secara otomatis oleh suatu piranti yang lebih dikenal dengan mikrokontroler. Dalam tugas akhir ini, karena waktu yang tidak memungkinkan dan proses pembelajaran yang cukup lama, bobot tugas akhir ini diringankan di mana memory hanya dapat menyimpan 3 data mobil. Tempat penyimpanannya adalah di internal RAM RTC.",
+  "creators": "YUDIE NOVIANTO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010696/ELK/2004; Yudie Novianto (23498105)",
+  "subjects": "MICROCONTROLLER; AUTOMATIC CONTROL"
+}

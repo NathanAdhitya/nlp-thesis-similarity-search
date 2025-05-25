@@ -1,0 +1,14 @@
+{
+  "id": "10799",
+  "title": "Analisa keseimbangan lintasan dan pengaruhnya terhadap tata letak pabrik pada pabrik kayu",
+  "abstract": "Keseimbangan lintasan dan pengaturan tata letak fasilitas produksi merupakan hal yang sangat penting di dalam perencanaan produksi. Karena apabila lintasan produksi tidak seimbang maka target produksi yang sudah direncanakan sulit tercapai. Perancangan keseimbangan lintasan produksi yang dilakukan dimaksudkan untuk meminimalkan waktu menganggur (idle time) pada lintasan produksi. Dengan adanya perancangan keseimbangan lintasan produksi, maka perlu dilakukan juga pengaturan tata letak fasilitas produksi untuk meminimalkan material handling yang terjadi. Sehingga target produksi dapat tercapai. Lintasan produksi yang dirancang adalah lintasan produksi Garden Chair dan Garden liable. Perancangan keseimbangan lintasan prroduksi ini dilakukan dengan bantuan Sofware QS ver. 3.0 dengan metode COMSOAL. Untuk pengaturan tata letak fasilitas produksi, terlebih dahulu dilakukan perhitungan kebutuhan mesin yang diperlukan. Kemudian mesin-mesin produksi ditempatkan dalam stasiun kerja yang merupakan hasil dari perancangan keseimbangan lintasan produksi yang diatur berdasarkan urutan, waktu dan karakteristik proses. Selanjutnya dilakukan perancangan ulang tata letak fasilitas produksi. Dari hasil perancangan keseimbangan lintasan produksi untuk Garden Chair didapatkan penurunan balance delay dari 77.57 % menjadi 15.14 % dan peningkatan efisiensi lintasan dari 22.43% menjadi 84.86 %. Sedangkan untuk Garden Table didapatkan penurunan balance delay dari 79.22 % menjadi 21.21 % dan peningkatan efisiensi lintasan dari 20.78 % menjadi 78.79 %. Untuk perhitungan besarnya momen perpindahan yang terjadi, pada Garden Chair terjadi penurunan momen dari 2286.765 meter {layout lama) menjadi 2076.265 meter (layout baru), pada Garden Table terjadi penurunan momen dari 1306.8019 meter (layout lama) menjadi 1035.092 meter (layout baru).",
+  "creators": "ANDY GUNAWAN",
+  "contributors": "Didik Wahjudi (Advisor 1); Jani Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 235/TI-61/1999; Andy Gunawan (25493079)",
+  "subjects": "WORK MEASUREMENT; PLANTS LAYOUT; PRODUCTION PLANNING"
+}

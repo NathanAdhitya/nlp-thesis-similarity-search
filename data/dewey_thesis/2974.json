@@ -1,0 +1,14 @@
+{
+  "id": "2974",
+  "title": "Stage beam controller by music",
+  "abstract": "Lighting memiliki banyak fungsi selain untuk penerangan, juga dibutuhkan pada dunia entertaiment (diskotik, pub, dll). Pada lighting ini dikontrol dengan sensor suara, dimana lighting ini mengikuti lagu yang sedang diputar oleh seorang disc jokey dari CD atau kaset atau piringan hitam. Pada lighting ini hanya menggunakan 1 (satu) buah lampu, dan menggunakan 2 buah piringan, dimana tiap-tiap piringan digerakkan oleh sebuah motor DC dengan gearbox yang dikontrol oleh microcontroller AT89S51. Masing-masing piringan dibuat 8 buah pola warna dan 8 buah pola bentuk, sehingga diperoleh 64 variasi pola. Lighting ini akan bereaksi (arah putaran piringan akan berubah) saat adanya peak off sebanyak 15 x dari VU meter. Pada pengujian lighting diperoleh jarak jangkau output 3 meter hingga 4 meter dengan menggunakan lampu 50 Watt. Sedangkan untuk kecepatan perubahan pola bentuk sekitar ? 116 pola/menit dan untuk perubahan pola warna ? 123 pola/menit.",
+  "creators": "FELLIX SUTARMIN",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010721/ELK/2005; Fellix Sutarmin (23499032)",
+  "subjects": "LIGHTING-SPECIAL EFFECTS"
+}

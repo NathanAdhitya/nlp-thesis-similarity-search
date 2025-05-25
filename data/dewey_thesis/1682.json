@@ -1,0 +1,14 @@
+{
+  "id": "1682",
+  "title": "Mobile robot pengejar bola",
+  "abstract": "Perkembangan teknologi saat ini banyak menggunakan aplikasi computer vision. Salah satunya menggunakan sensor berupa kamera. Kamera pada robot digunakan sebagai mata untuk mengenali obyek di sekitarnya. Pada Tugas Akhir ini dibuat sebuah mobile robot yang dapat mengenali suatu obyek berupa bola dan bergerak mendekati atau mengikuti obyek tersebut. Mobile Robot pengejar bola terdiri dari kamera, motor DC dan minimum system. Kamera berfungsi sebagai sensor untuk mengambil input berupa image. PC berfungsi untuk menjalankan proses pengenalan obyek dan melakukan pengambilan keputusan mengenai gerakan yang harus diambil oleh mobile robot. Data dari PC dikirimkan ke minimum system melalui serial port. Mobile robot digerakkan oleh dua buah motor DC berdasarkan output dari minimum system. Fungsi-fungsi yang diperlukan dalam proses pengenalan obyek diambil dari Open Source Computer Vision Library serta INTEL? Image Processing Library. Berdasarkan hasil pengujian yang telah dilakukan, dapat diketahui bahwa mobile robot dapat mengenali obyek berupa bola sejauh maksimum 70cm dan mengikuti bola tersebut dengan waktu yang bervariasi sesuai dengan posisi dan gerakan bola.",
+  "creators": "SO TJIEN LIE",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Anies Hannawati (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/593/ELK/2003; So Tjien Lie (23498007)",
+  "subjects": "MOBIL ROBOTS; ROBOTS; ROBOTICS"
+}

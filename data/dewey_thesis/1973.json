@@ -1,0 +1,14 @@
+{
+  "id": "1973",
+  "title": "Perancangan dan pembuatan audio mixer dengan menggunakan FET",
+  "abstract": "Audio mixer adalah suatu perangkat elektronik yang berfungsi sebagai pencampur dari beberapa input audio menjadi satu keluaran audio. Dari kebanyakan mixer yang beredar di pasaran rata-rata menggunakan op amp. Saat ini komponen FET mulai banyak dijumpai. Keunggulan dengan menggunakan FET ini pada noise yang rendah. Oleh karena itu, dalam tugas akhir ini dibuat audio mixer menggunakan FET. Audio mixer ini terdiri dari beberapa bagian, yaitu pre amp, tone control, dan adder. Pada bagian pre amp, digunakan common source karena sifatnya yang high gain. Pada bagian tone control dan adder juga dirancang dengan menggunakan FET. Hasil dari perhitungan dan pengujian diketahui bahwa audio mixer bekerja sesuai dengan perencanaan pada range frekuensi 20Hz-20KHz. Namun high pass filter (pada tone control) tidak sempurna (terlihat pada oscilloscope), tetapi tidak terdengar pada output speaker.",
+  "creators": "HENRY INDRA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Indar Sugiarto (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010722/ELK/2005; Henry Indra (23499046)",
+  "subjects": "OSCILATORS, AUDIO-FREQUENCY; METAL OXIDE SEMICONDUCTOR FET (MOSFET); FIELD EFFECT TRANSISTOR (FET); OSCILLATORS, ELECTRIC"
+}

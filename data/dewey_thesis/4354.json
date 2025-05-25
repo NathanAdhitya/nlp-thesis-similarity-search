@@ -1,0 +1,14 @@
+{
+  "id": "4354",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada PT. Merpati Duta Niaga",
+  "abstract": "PT. Merpati Duta Niaga adalah sebuah perusahaan yang bergerak dalam bidang pembelian dan penjualan bahan-bahan kimia. Perusahaan menggunakan sistem job-order, yaitu pembelian barang dilakukan setelah ada pelanggan yang memesan barang. Perusahaan melakukan penjualan lokal, dan kemudian perusahaan memesan barang tersebut dari luar negeri. Transaksi yang terjadi setiap harinya akan dicatat dan secara berkala staf akuntan akan membuat laporan keuangan secara manual. Pembuatan laporan keuangan secara manual ini membuat laporan keuangan yang dibutuhkan tidak dapat dihasilkan dalam kurun waktu yang singkat. Hal inilah yang melatarbelakangi pembuatan program sistem informasi akuntansi agar dapat menghasilkan laporan keuangan dengan waktu yang relatif singkat. Dalam pembuatan program ini, dilakukan tinjauan lapangan agar dapat mengetahui kebutuhan perusahaan, dan dengan menerapkan dasar-dasar akuntansi maka program sistem akuntansi ini dapat diimplementasikan. Pada pembuatan program sistem informasi akuntansi ini, sistem didesain dengan menggunakan Diagram Arus Data dan Diagram Hubungan Entitas. Sedangkan untuk implementasinya, digunakan software Borland Delphi 5.0 dan Microsoft Office XP. Setelah melakukan pengujian program berdasarkan data-data yang diperoleh dari perusahaan, terbukti bahwa laporan keuangan yang dihasilkan sama dengan laporan keuangan yang telah dibuat dengan sistem manual, yaitu laporan rugi laba, laporan perubahan modal, laporan neraca, dan laporan arus kas. Dengan demikian, sistem informasi akuntansi yang dibuat ini sudah benar.",
+  "creators": "YOHANA TIRO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Agustinus Noertjahyana (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0103/INF/2003; Yohana Tiro (26499157)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "1520",
+  "title": "Penerapan arsitektur 3-tier dalam pembangunan prototype website",
+  "abstract": "Penerapan sistem informasi menggunakan arsitektur 2-tier mempunyai banyak kelemahan, misalnya penggunaan kembali komponen, kurangnya skalabilitas dan keamanan data. Arsitektur 3-tier dikembangkan untuk memecahkan masalah ini dengan DCOM teknologi. Prototype ini dibuat menggunakan Active Server Pages, Microsoft Visual Basic 6.0 dan Microsoft SQL Server 7.0. Aplikasi 3-tier ini terbagi menjadi tiga partisi, yaitu presentation tier, business tier, dan data tier. Pada penelitian ini ditemukan bahwa pembuatan arsitektur 3-tier dengan DCOM teknologi memiliki banyak keuntungan seperti, memusatkan logika aplikasi pada middle-tier, membuat thin client aplikasi, mendistribusikan beban proses data pada beberapa mesin, meningkatkan keamanan dengan kemampuan menyembunyikan data, serta meningkatnya performance dari aplikasi, yaitu antara 97.53 sampai 145.15 kali pada sisi client dan antara 45.74 sampai 47.1 kali pada sisi server.",
+  "creators": "ERNI IRAWATI",
+  "contributors": "Kartika Gunadi (Advisor 1); Ibnu Gunawan (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010102/INF/2003; Erni Irawati (26499117)",
+  "subjects": "INTERNET(COMPUTER NETWORK); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "19736",
+  "title": "Perencanaan dan pembuatan interface untuk audio analyzer dengan bantuan IBM PC",
+  "abstract": "Karakteristik respons frekuensi merupakan salah satu indikator penting bagi peralatan audio. Ada beberapa metode pengukuran analog untuk memperoleh grafik dari respons frekuensi itu seperti pengukuran point-to-point, pengukuran dengan memanfaatkan Osilloscope dan X-Y Recorder, dan Iain-lain. Dengan hadirnya komputer yang bekerja berdasarkan prinsip-prinsip digital maka tidak menutup kemungkinan untuk melakukan pengukuran respons frekuensi tersebut. Agar komputer dapat berkomunikasi dengan peralatan audio yang akan diuji, maka perlu adanya suatu interface yang mencakup digital-to-analog converter (DAC) dan analog-to-digital converter (ADC). DAC memungkinkan kita untuk mengirim data digital dari komputer melalui port B 8255 untuk mengontrol osilasi frekuensi dari Sweep Generator. Sinyal frekuensi itu kemudian diumpankan ke Stereo Amplifier untuk melihat karakteristik respon frekuensi dari peralatan audio tersebut, yang selanjutnya direkam pada Rangkaian Detektor Punoak untuk memperoleh amplitudo tegangan maksimum. Dan sinyal tersebut kemudian diteruskan ke Log Amplifier guna memperoleh level sinyal audio dalam decibel-volt (dBV). Untuk bisa diproses oleh komputer, maka sinyal analog tersebut dikonversikan kembali ke sinyal digital oleh ADC melalui port A 8255. Sedangkan Port C dari 8255 digunakan untuk mengontrol sistem secara keseluruhan. Struktur program yang digunakan dalam bahasa Pascal versi 5.5. Dengan bantuan perangkat lunak tersebut maka peralatan dapat digunakan untuk mengukur respons frekuensi dari peralatan audio yang diuji dimana kurva karakteristik tersebut dapat ditampilkan pada monitor IBM PC dan dapat dicetak ke printer. Peralatan ini dapat dikembangkan untuk pengukuran karakteristik respons frekuensi dari peralatan audio lainnya.",
+  "creators": "LEVIN A W. LITAAY",
+  "contributors": "NAWANTO WIBOWO (Examination Committee 1); SOETIKNO (Advisor 1); HERLIANTO TENGGARA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/023/0082; Levina W. Litaay (14485075)",
+  "subjects": "AUDIO AMPLIFIERS; INTERFACING"
+}

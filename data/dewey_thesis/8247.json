@@ -1,0 +1,14 @@
+{
+  "id": "8247",
+  "title": "Aplikasi monitoring ruangan via bluetooth handphone dengan webcam",
+  "abstract": "Aplikasi Monitoring Ruangan via Bluetooth Handphone menggunakan Webcam adalah aplikasi untuk memantau keadaan suatu tempat melalui handphone atau mobile device yang mempunyai fasilitas Bluetooth dan berbasis Pocket PC. Komputer server akan menerima gambar hasil pengambilan gambar dari webcam (RemoteCamera oleh Komputer client) setiap selang waktu tertentu dengan menggunakan bahasa pemrograman Borland Delphi 7, dan menyimpannya dalam bentuk file gambar. Handphone berhubungan dengan Komputer server melalui Bluetooth. Program untuk pengiriman gambar dari komputer server ke handphone menggunakan bahasa pemrograman Visual Basic.NET. Pengujian dilakukan menggunakan handphone yang berbasis Pocket PC dengan komputer server dimana didapatkan waktu transfer gambar sekitar 3.71 detik-5.16 detik pada jarak yang berbeda-beda.",
+  "creators": "CHANDRA EKA SETIAWAN",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010040/ELK/2006; Chandra Eka Setiawan (23402124)",
+  "subjects": "WIRELESS COMMUNICATION SYSTEMS; BLUETOOTH; MOBILE COMMUNICATION SYSTEMS"
+}

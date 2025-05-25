@@ -1,0 +1,14 @@
+{
+  "id": "5522",
+  "title": "Analisa instalasi listrik plant 2 di PT. Bumi Menara Internusa Surabaya",
+  "abstract": "PT. Bumi Menara Internusa adalah perusahaan yang bergerak dibidang industri makanan laut. Perusahaan ini mempunyai 2 plant produksi, yaitu plant 1 dan plant 2. Pembahasan tugas akhir ini dikhususkan pada plant 2. Plant 2 memiliki total beban terpasang 2859,78 kW. Daya PLN total yang terpasang sebesar 1730 kVA dan digunakan untuk menyuplai plant 1 dan plant 2. Karena daya PLN kurang memadai, maka PLN diparalel dengan Genset 1755 kVA untuk menyuplai daya ke plant 2. Tujuan dari tugas akhir ini untuk menganalisa instalasi listrik pada P.T. Bumi Menara Internusa. Analisa ini meliputi analisa arus nominal, analisa arus hubung singkat, dan analisa aliran daya. Analisa dilakukan menggunakan perhitungan manual maupun perhitungan dengan ETAP PowerStation 4.0. Dari hasil analisa didapatkan kesimpulan bahwa masih ada beberapa hal yang harus diperbaiki. Contohnya pengaman pada MDP yang menyuplai SDP Proses I memiliki breaking capacity 35 kA, tetapi menurut perhitungan manual maupun ETAP PowerStation 4.0 seharusnya menggunakan breaking capacity 50 kA. Demikian juga pengaman pada SDP Dermaga yang menyuplai Container Pintu 2 dan 3 terpasang pengaman dengan arus nominal 50 A, tetapi menurut perhitungan manual maupun ETAP PowerStation seharusnya menggunakan pengaman dengan arus nominal 15 A. Selain itu kapasitor bank yang terpasang memiliki kapasitas total 1200 kVAR, sedangkan menurut perhitungan daya reaktif yang dibutuhkan mencapai 1662,62 kVAR.",
+  "creators": "HARTANTO SARIBU",
+  "contributors": "Limboto Limantara (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010546/ELK/2007; Hartanto Saribu (23402104)",
+  "subjects": "ELECTRIC POWER DISTRIBUTION; ELECTRIC POWER SYSTEMS"
+}

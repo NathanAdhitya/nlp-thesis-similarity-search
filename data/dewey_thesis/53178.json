@@ -1,0 +1,14 @@
+{
+  "id": "53178",
+  "title": "Pembuatan sistem kontrol temperatur dan humidity pada laboratorium fluida dan thermal",
+  "abstract": "Tugas akhir ini bertujuan untuk membuat sistem kontrol temperatur dan humidity pada laboratorium fluida dan thermal prodi teknik mesin pada gedung Q lantai dasar, agar pengguna ruangan laboratorium tersebut bisa selalu terasa nyaman pada saat diruangan laboratorium. Sistem kontrol ini menggunakan Raspberry Pi sebagai kontroler. Sensor Autonics THD-WD1-T digunakan untuk membaca suhu dan kelembaban pada ruangan. Modul relay digunakan sebagai sakelar otomatis untuk menghidupkan kompresor dan spray mist. Menggunakan layar monitor komputer sebagai alat pantau suhu dan kelembaban pada ruangan. Dari hasil pengujian alat sistem kontrol suhu dan kelembaban tersebut dapat berjalan dengan baik. Untuk pertama kali Raspberry Pi lamanya untuk menurunkan suhu sampai yang sudah ditentukan yaitu 24oC adalah 60 menit. Setelah itu Raspberry Pi hidup pertama kali kompresor AC yang memiliki rata rata durasi kompresor AC bekerja 24 menit. Untuk durasi rata rata matinya kompresor AC yang ditentukan pada suhu 26oC yaitu 22 menit.",
+  "creators": "CHRISTIAN ARNOLDY",
+  "contributors": "Handry Khoswanto (Advisor 1); Ekadewi Anggraini Handoyo (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011029/ELK/2022; Christian Arnoldy (C11170004)",
+  "subjects": "HUMIDITY--CONTROL; RASPBERRY PI (COMPUTER); TEMPERATURE CONTROL"
+}

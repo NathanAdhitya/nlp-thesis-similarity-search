@@ -1,0 +1,14 @@
+{
+  "id": "15312",
+  "title": "Optimasi tata letak fasilitas produksi menggunakan algoritma hybrid simulated annealing dengan algoritma 2-opt sebagai initial solution di PT. Arika Kharisma Agung (PT. Arka)",
+  "abstract": "Salah satu cara untuk memperbaiki dan mengoptimalkan kondisi dari suatu industri manufaktur adalah perancangan tata letak fasilitas produksi. Dengan adanya tata letak yang baik akan memberi dampak positif kepada perusahaan seperti meminimumkan biaya pemindahan material dari satu fasilitas produksi ke fasilitas produksi lainnya. Oleh karena itu pelaksanaan Tugas Akhir ini bertujuan untuk memberikan usulan tata letak fasilitas produksi yang lebih baik kepada perusahaan PT. Arika Kharisma Agung (PT. ARKA). Perancangan tata letak produksi yang dilakukan pada penulisan Tugas Akhir ini menggunakan algoritma Hybrid Simulated Annealing dengan algoritma 2-OPT sebagai initial solution-nya. Data-data yang diambil antara lain adalah layout awal perusahaan, data permintaan produk tahun 1999-2000 dan kapasitas angkut. Karena banyaknya produk yang diproduksi oleh perusahaan, maka diambil empat macam produk yang paling sering diproduksi. Setelah mengolah data, didapatkan layout baru hasil dari algoritma Hybrid Simulated Annealing dengan total momen perpindahan 89299 meter/tahun. Jika dibandingkan dengan layout awal perusahaan yang mempunyai total nilai momen perpindahan 120529 meter/tahun, layout hasil algoritma Hybrid Simulated Annealing menurunkan nilai momen perpindahan sebesar 31230 meter/tahun. Berdasarkan kesimpulan diatas perusahaan disarankan untuk merubah layout awal perusahaan dengan layout hasil algoritma Hybrid Simulated Annealing.",
+  "creators": "ANDI KRISTANTO",
+  "contributors": "Pauline Astari Singgih (Advisor 1); Tidak diketahui (Advisor 2); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 449/TI-040/2001; Andi Kristanto (25496102)",
+  "subjects": "PLANT LAYOUT"
+}

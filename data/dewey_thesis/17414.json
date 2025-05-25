@@ -1,0 +1,14 @@
+{
+  "id": "17414",
+  "title": "Perencanaan kebutuhan bahan baku di PT. XX",
+  "abstract": "PT. XX adalah sebuah perusahaan yang bergerak dalam pembuatan meja. Meja yang diproduksi terdiri dari empat komponen yaitu Top Rail, Bottom Rail, Leg, dan Table Top. Selama ini perusahaan sering mengalami kesalahan dalam melaksanakan perencanaan kebutuhan bahan baku, sehingga menyebabkan terjadinya kelebihan dan kekurangan baik dalam masalah produksi maupun bahan bakunya. Oleh karena itu dengan adanya sistem perencanaan kebutuhan bahan baku yang baik akan dapat mengantisipasi terjadinya fluktuasi permintaan, sehingga diharapkan masalah tersebut dapat diatasi. Peramalan dilakukan selama 12 minggu berdasarkan data permintaan di masa lalu. Metode yang dipakai dalam meramalkan kebutuhan ini adalah metode Decomposition Multiplicative (seasonal). Setelah hasil peramalan didapatkan, selanjutnya dilakukan penyusunan tabel MRP dengan bantuan software Delphi, untuk memudahkan perhitungan waktu pemesanan, waktu produksi dan jumlah komponen yang harus dipesan dalam satu periode (minggu). Kemudian dilakukan lot sizing dengan membandingkan tiga metode yaitu Lot For Lot, Silver Meal Algorithms, dan Wagner Within Algorihms untuk mendapatkan total biaya minimal yaitu meliputi biaya pemesanan dan biaya penyimpanan dari masing-masing komponen. Dari penelitian ini, dapat diketahui kapan waktu pemesanan bahan baku, waktu produksi dan jumlah bahan baku yang harus dipesan dalam satu periode (minggu), dengan total biaya pemesanan dan penyimpanan yang minimal. Sehingga tidak menyebabkan kelebihan dan kekurangan, baik dalam masalah produksi maupun bahan baku.",
+  "creators": "HENDI GUNAWAN",
+  "contributors": "Kriswanto Widiawan (Examination Committee 1); SANDY CITRO (Advisor 2); Danny Prabowo Soetanto (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 348/TI-75/2000; Hendi Gunawan (25495106)",
+  "subjects": "PRODUCTION PLANNING; MATERIALS MANAGEMENT"
+}

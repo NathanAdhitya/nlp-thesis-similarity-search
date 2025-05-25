@@ -1,0 +1,14 @@
+{
+  "id": "5080",
+  "title": "Aplikasi embedded internet untuk mengendalikan robot pemindah barang",
+  "abstract": "Robot Pemindah Barang merupakan bentuk Material Handling System, yang memiliki kegiatan mengangkat, mengangkut dan meletakkan bahan atau barang sebagai salah satu proses industri yang harus ada. Prototipe Material Handling yang ada, telah dibuat dan dikembangkan oleh Johan Stephanus Oentoro (23495061) dan Donny Nata (23496056). Dimana pengontrolan yang dilakukan masih menggunakan perangkat komputer sebagai web server dan mikroprosesor MCS-51 sebagai pusat pengontrolan. Tujuan utama Tugas Akhir ini adalah untuk mengembangkan sebuah sistem untuk mengontrol dan memonitor plant robot pemindah barang dengan menggunakan perangkat embedded internet (RCM3200) yang dapat bertindak sebagai web server dan sekaligus sebagai pusat pengontrolan. Sehingga plant robot pemindah barang menjadi lebih sederhana dan dapat dikontrol melalui web secara remote access. Plant robot pemindah barang yang dikembangkan merupakan Material Handling dengan dua buah rak bertingkat yang berseberangan dan memiliki dimensi 57 cm x 14 cm x 32 cm. Waktu yang diperlukan oleh sistem untuk melakukan pemindahan barang berkisar antara ? 18 detik sampai dengan 105 detik, dengan berat maksimum barang yang dapat dipindahkan adalah ? 0.5 kg.",
+  "creators": "ANTHONY MULIADI",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 03010004/ELK/2004; Anthony Muliadi (23400069)",
+  "subjects": "EMBEDDED COMPUTER SYSTEMS; ROBOTS"
+}

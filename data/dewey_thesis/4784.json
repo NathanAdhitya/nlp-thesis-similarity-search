@@ -1,0 +1,14 @@
+{
+  "id": "4784",
+  "title": "Aplikasi jaringan saraf tiruan pada kontrol posisi",
+  "abstract": "Tugas akhir ini bertujuan untuk mengaplikasikan metode Jaringan Saraf Tiruan pada kontrol posisi. Algoritma Propagasi Balik digunakan sebagai metode pembelajaran dari Jaringan Saraf Tiruan yang secara struktur menggunakan struktur multilayer perceptrons. Struktur jaringan yang digunakan memiliki 3 buah neuron pada layer input dan 2 buah neuron pada layer output. Untuk jumlah hidden layer maupun jumlah hidden neuron, yang mampu diproses oleh program maksimal berjumlah 65 neurons dan 65 layers. Proses pengontrolan dilakukan dengan menggunakan program pada komputer yang terhubung dengan rangkaian mikrokontroler yang berfungsi sebagai penghubung dengan plant posisi. Pengujian dilakukan dengan cara memasukkan posisi yang diinginkan dan penunjuk arah pada plant bergerak menunjuk posisi yang diinginkan tersebut. Hasil pengontrolan terbaik dengan Setting Point 90 derajat diperoleh dengan menggunakan struktur 2 hidden layer dan 30 hidden neuron dengan rise time 1,25 detik dan steady state error sebesar 3 derajat, terkecil daripada dengan struktur lainnya.",
+  "creators": "RIANTO CHANDRA",
+  "contributors": "Thiang (Advisor 1); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010700A/ELK/2004; Rianto Chandra (23499068)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

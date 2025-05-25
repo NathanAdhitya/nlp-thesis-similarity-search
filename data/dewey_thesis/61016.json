@@ -1,0 +1,14 @@
+{
+  "id": "61016",
+  "title": "Implementasi robot manipulator 6 axis untuk menyajikan minuman",
+  "abstract": "Laboratorium Elektronika Program Studi Elektro memerlukan alat demo untuk kunjungan mahasiswa. Oleh karena itu, dibuatlah sebuah proyek sistem robot UR3 penyaji minuman. Robot UR3 penyaji minuman ini berkomunikasi dengan Raspberry Pi menggunakan socket TCP/IP dimana Raspberry Pi sebagai master dan UR3 sebagai slave. Raspberry Pi mengirimkan perintah ke robot UR3 berupa pengiriman angka yang menunjukkan menu minuman. Agar robot dapat membuat minuman, dibutuhkan alat-alat seperti pompa mini yang di mana pompa ini bertujuan untuk mengisi minuman, relay yang bertujuan untuk menghidupkan pompa, Mixer, Buzzer, sensor proximity, dan holder gelas plastik. Berdasarkan hasil pengujian yang dilakukan, robot manipulator 6 axis dalam menyajikan minuman memiliki tingkat keberhasilan sebesar 85,71%. Rata-rata penggunaan delay timer dalam mengisi gelas dengan menggunakan bantuan pompa mini memiliki tingkat kesalahan sebesar 2,39%.",
+  "creators": "KELVIN SETIAWAN HARTONO",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011065/ELK/2024; Kelvin Setiawan Hartono (C11200026)",
+  "subjects": "ROBOTICS; ROBOTS--CONTROL SYSTEMS; TCP/IP (COMPUTER NETWORK PROTOCOL)"
+}

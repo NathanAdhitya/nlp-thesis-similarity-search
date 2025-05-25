@@ -1,0 +1,14 @@
+{
+  "id": "7620",
+  "title": "Perancangan dan pembuatan sistem layanan SMS untuk Biro Administrasi Akademik Universitas Kristen Petra",
+  "abstract": "Pada saat ini di Universitas Kristen Petra telah tersedia tiga metode untuk mengakses data akademik mahasiswa, yaitu terminal ASIT, web PRS-ASIT serta telepon. Kemajuan teknologi yang ada sekarang telah memungkinkan penggunaan fasilitas SMS pada handphone semakin mudah, dan penggunaan SMS untuk layanan data akademik mahasiswa akan memungkinkan penyediaan data akademik kepada mahasiswa secara cepat, kapanpun dan dimanapun mereka membutuhkannya. Oleh karena itu, akan dirancang sebuah sistem layanan data akademik mahasiswa melalui SMS yang dikembangkan dengan bekerja sama dengan Biro Administrasi Akademik Universitas Kristen Petra. Dalam pengembangan sistem, dilakukan proses importing dan filtering terhadap tabel-tabel dari Biro Administrasi Akademik untuk mengoptimalkan dan meningkatkan kinerja sistem, dimana melalui kedua proses ini ukuran dari tabel dapat dikurangi hingga mencapai 2,83% sampai dengan 52,32% dari ukuran tabel semula. Pemrograman dilakukan dengan menggunakan bahasa pemrograman PHP 4.3.8, database server MySQL 3.23.49, serta web server Apache2. Untuk SMS hardware digunakan modem GSM Itegno 3000 dan untuk SMS gateway digunakan Now SMS. Dari hasil implementasi sistem dan uji coba, disimpulkan bahwa sistem layanan data akademik melalui SMS dengan menggunakan modem GSM Itegno 3000 ini telah berhasil memberikan layanan data akademik dengan format yang jelas dan mudah dimengerti. Administrator website juga berfungsi dengan baik sehingga memudahkan administrator untuk melakukan maintenance pada sistem.",
+  "creators": "NATHAN PRIMA SUWANTO",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Alexander Setiawan (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000393/INF/2005; Nathan Prima Suwanto (26401172)",
+  "subjects": "DATABASE DESIGN; INTERNET (COMPUTER NETWORKS)"
+}

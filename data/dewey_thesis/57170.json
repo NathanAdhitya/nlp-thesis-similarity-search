@@ -1,0 +1,14 @@
+{
+  "id": "57170",
+  "title": "Predictive maintenance berbasis analisis vibrasi pada mesin kompresor dan vacuum emulsifier homogenizer PT Kosmetika Global Indonesia",
+  "abstract": "PT Kosmetika Global Indonesia merupakan perusahaan yang menyediakan jasa maklon di bidang kosmetik, perawatan kulit dan tubuh. Dalam proses produksi menggunakan mesin-mesin otomatis yang rawan mengalami kerusakan tak terduga. Mesin kompresor dan homogenizer merupakan dua mesin inti dalam proses produksi. Perusahaan hanya memiliki 1 (satu) mesin kompresor yang berfungsi untuk memasok kebutuhan angin ke semua mesin pneumatik produksi. Sementara homogenizer berfungsi untuk tahap akhir pencampuran berbagai bahan baku menjadi produk jadi. Penerapan preventif dan korektif dirasa butuh kebijakan baru karena mesin masih sering mengalami kerusakan tak terduga, serta siklus-siklus penggantian komponen yang seharusnya tidak diperlukan. Penelitian ini bertujuan untuk merancang, mempelajari dan mengaplikasikan pemeliharaan prediktif berbasis analisis vibrasi yang dapat menandakan indikasi gejala dan kondisi aktual mesin. Analisis vibrasi dilakukan dengan menggunakan 2 (dua) sensor getaran yaitu sensor akselerometer ADXL345 dan sensor piezoelektrik keramik. Masing-masing sensor memiliki kemampuan untuk merekam getaran dalam unit kecepatan (mm/s) dan percepatan (mm/s²). Hasil spektrum getaran dalam domain waktu diubah menjadi domain frekuensi menggunakan fungsi Fast Fourier Transform (FFT) pada software MatLab. Kebijakan prediktif akan dibuat berdasarkan nilai ambang batas amplitudo puncak dan Root Mean Square (RMS) sebelum dan sesudah maintenance.",
+  "creators": "IGLEON GUNAWAN",
+  "contributors": "Oegik Soegihardjo (Advisor 1); Roche Alimin (Examination Committee 1); Didik Wahjudi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011486/MES/2023; Igleon Gunawan (C12190026)",
+  "subjects": "COMPRESSORS--MAINTENANCE AND REPAIR; MACHINE DESIGN; MACHINE-TOOLS--MAINTENANCE AND REPAIR"
+}

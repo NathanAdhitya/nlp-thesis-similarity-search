@@ -1,0 +1,14 @@
+{
+  "id": "14360",
+  "title": "Studi pengaturan servomotor dengan pendekatan disain sistemn PID Robust",
+  "abstract": "Walaupun tanggapan transien dan tanggapan frekuensi merupakan hal yang penting dalam menentukan performance sebuah sistem kontrol, namun sensitivitas terhadap penolakan gangguan atau kemampuan dalam meredam gangguan merupakan pertimbangan yang juga penting dalam perancangan sebuah servomotor yang digunakan untuk pengaturan posisi maupun kecepatan. Dalam tugas akhir ini, analisa terhadap sebuah sistem kontrol P1D yang diterapkan pada servomotor yang memiliki sifat robust, yang disimulasikan dengan menggunakan software matiab dengan input unit step. Dapat ditunjukkan bahwa sistem ini mempunyai kelebihan-kelebihan seperti kemampuannya dalam meredam gangguan dan menurunkan sensitivitasnya. Parameter sistem robust dapat ditentukan melalui teknik optimasi standart menurut kriteria ITAE. Penambahan prefilter pada sistem kontrol robust ternyata dapat memperbaiki settling time dan maximum overshoot.",
+  "creators": "SINGGIH SOETANTO",
+  "contributors": "YOHANES T. D. S (Advisor 1); Resmana Lim (Examination Committee 1); Anies Hannawati (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/005/399; Singgih Soetanto (23491124)",
+  "subjects": "DIGITAL CONTROL SYSTEMS; SERVOMECHANISM"
+}

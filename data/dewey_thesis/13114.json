@@ -1,0 +1,14 @@
+{
+  "id": "13114",
+  "title": "Simulasi pengendalian motor penjelajah dengan menggunakan mikrokomputer 8749",
+  "abstract": "Dewasa ini perkembangan elektronika maju pesat baik dibidang perangkat keras maupun dibidang perangkat lunak. Hasil dari perkembangan kedua bidang tersebut, adalah munculnya bidang robotika yang akhir-akhir ini semakin banyak dipakai diberbagai bidang. Salah satu bidang robotika yang sedang berkembang adalah bidang navigasi robotika. Berkaitan dengan itu didalam tugas akhir ini dibuat suatu prototipe motor penjelajah dalam ukuran miniatur dengan kendali mikrokomputer. Untuk meminimumkan jumlah komponen yang dipakai digunakan mikrokomputer 8749 yang sudah banyak beredar dipasaran yang memiliki ROM, RAM dan I/O internal. Pada motor penjelajah ini ditempatkan sensor optik agar dapat mengetahui halangan-halangan yang ada disekitarnya. Sensor-sensor tersebut terletak pada bagian depan, samping kiri dan samping kanan motor. Sensor ini berupa diode led dan fototransistor sebagai pemancar dan penerima yang diletakkan berdampingan. Output dari fototransistor ini kemudian diproses oleh mikrokomputer 8749 dengan algoritma-algoritma tertentu yang kemudian mengeluarkan sinyal-sinyal pengontrol ke motor penggerak. Motor penggerak yang digunakan adalah permanen magnet DC motor. Agar motor penjelajah ini dapat bergerak dengan leluasa maka digunakan supply tegangan internal yaitu battery Nicad 1,2 Volt yang dapat diisi ulang dan sebagai medan uji coba motor penjelajah ini dibuatlah maket dengan warna dasar hitam dan dinding-dinding penyekat berwarna putih.",
+  "creators": "SANDI WINYOTO",
+  "contributors": "MOCHAMAD HEROE (Examination Committee 1); HANDAYANI T. (Advisor 1); Caroline Chan (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/020/0079; Sandi Winyoto (485053)",
+  "subjects": "MICROCOMPUTERS; ROBOTICS-COMPUTER PROGRAMS"
+}

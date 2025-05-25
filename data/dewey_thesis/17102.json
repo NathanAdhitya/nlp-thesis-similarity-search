@@ -1,0 +1,14 @@
+{
+  "id": "17102",
+  "title": "Sistem navigasi robot mobil dengan menggunakan sensor vector compass",
+  "abstract": "Pada saat ini, umumnya sistem navigasi yang digunakan pada kendaraan-kendaraan bermotor masih sangat bergantung pada faktor manusia walaupun belakangan ini terobosan-terobosan baru untuk menemukan sistem navigasi yang otomatis juga mulai bermunculan. Pada tugas akhir ini, dibuat sebuah alat simulasi berupa robot mobil yang dapat mencapai suatu tempat tujuan dengan memasukkan arah sudut yang dituju dan jarak yang harus ditempuh. Kemampuan ini dimungkinkan dengan digunakannya sebuah sensor yang mampu mendeteksi medan magnet bumi dan mengeluarkan output arah yang dituju dengan sensitivitas dan akurasi yang relatif baik yang bernama Vector Compass. Pembuatan robot mobil ini menggunakan sebuah mikrokontroller DT-51, sebuah rangkaian keypad 12 tombol, sebuah LCD display, sebuah H-bridge motor driver beserta 2 motor penggerak, sebuah sensor jarak infra merah dan tentu saja Vector Compass itu sendiri. Dalam menentukan hasil yang dicapai oleh penyusun dalam pembuatan model robot mobil ini dilakukan beberapa pengujian yaitu pengujian kemampuan pembacaan vector compass, pengujian arah gerak robot mobil, pengujian jarak tempuh robot mobil dan pengujian torsi motor penggerak robot mobil. Dari pengujian ini, diperoleh kesimpulan bahwa vector compass mampu memberikan pembacaan arah yang akurat dengan toleransi ? 1? (dengan error 1.13?), dan model robot mobil yang dibuat akan memiliki akurasi lebih baik dalam mencapai titik tujuan apabila digunakan sensor jarak dengan resolusi yang lebih baik dan digunakan motor penggerak dengan torsi yang seimbang (error jarak saat ini 2.55 cm).",
+  "creators": "HERMES KRESNANDAR",
+  "contributors": "Thiang (Advisor 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/023/537; Hermes Kresnandar (23495104)",
+  "subjects": "ROBOTS; ROBOTS-PROGRAMMING"
+}

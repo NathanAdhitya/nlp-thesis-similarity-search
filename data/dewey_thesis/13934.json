@@ -1,0 +1,14 @@
+{
+  "id": "13934",
+  "title": "Perencanaan dan pembuatan interface sebagai alat komunikasi antara IBM PC dan Facsimile",
+  "abstract": "Mikrokomputer telah mulai banyak digunakan sebagai alat untuk menyimpan dan mengolah data. Melihat kenyataan di atas maka dicoba untuk dibuat suatu alat bantu yang mampu mening katkan efisiensi kerja dari mikrokomputer yang telah ada. Peralatan yang dibuat ini untuk menghubungkan antara mikrokomputer dengan peralatan facsimile. Peralatan ini memungkinkan mikrokomputer berkomunikasi dengan mesin facsimile melalui saluran telepon. Dipergunakannya saluran telepon karena saluran ini merupakan media komunikasi yang umum dan paling sering dipakai. Prinsip kerja dari alat ini dapat dibagi menjadi dua bagian yaitu bagian hardware dan bagian software. Bagian hardware bertugas untuk mengubah data pada komputer yaitu data pararel ke data serial, yang kemudian dimodulasikan melewati saluran telepon dan selanjutnya akan didemodulasi oleh mesin facsimile. Rangkaian hardware ini terdiri dari komponen utama yaitu IC AM 7910 yang berfungsi sebagai IC modem. Untuk dapat menjalankan rangkaian hardware ini diperlukan suatu perangkat software. Untuk menguji alat ini dilakukan dengan mengukur frekuensi modulator yang dihasilkan yaitu untuk bit berlogika 0 memiliki frekuensi 1035 Hz, sedang bit berlogika 1 memiliki frekuensi 1256 Hz. Pengiriman data karakter dari komputer ke facsimile masih kurang sempurna, hal ini disebabkan karena kecepatan mesin facsimile yang jauh berbeda dengan alat yang dibuat disamping software yang kurang mendukung. Jadi dengan peralatan bantu tersebut, maka mikrokomputer tidak hanya berfungsi sebagai alat untuk penyimpan atau pengolah data saja, melainkan juga dapat menerima dan mengirim data ke peralatan lain khususnya facsimile.",
+  "creators": "F.S. GLENNARDY SIEMMANJAYA",
+  "contributors": "HANG SUHARTO (Examination Committee 1); AGUS MULYANTO (Advisor 1); HERLIANTO TENGGARA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. ...; F.S. Glennardy Siemmanjaya (484100)",
+  "subjects": "COMPUTER INTERFACES; IBM MICROCOMPUTERS; MICROCOMPUTERS"
+}

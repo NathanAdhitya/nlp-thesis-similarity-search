@@ -1,0 +1,14 @@
+{
+  "id": "5225",
+  "title": "Sistem pengambilan keputusan pada gerbang tol dengan menggunakan fuzzy logic control",
+  "abstract": "Fuzzy kontrol merupakan suatu usaha untuk mengatasi permasalahan kontrol system non-linear. Pada tugas akhir ini fuzzy kontrol digunakan untuk mengatur jumlah gardu tol yang akan dibuka atau yang ditutup, yang dapat dikontrol pada PC dan diimplementasikan dalam Matlab dan Borland Delphi. Tujuan dari pengontrolan ini adalah pengoperasian gardu tol untuk proses penjagaan loket. Pada program ini mempunyai empat input, yaitu: jumlah karyawan (singleton), jumlah pintu terbuka current (singleton), shift (singleton), dan jumlah kendaraan tiap menit (segitiga dan trapezium). Fuzzy yang digunakan menggunakan metode Sugeno dan menggunakan metode defuzzifikasi (Center Of Area). Respon ditampilkan pada layar sebagai penambahan atau pengurangan jumlah pintu yang dibuka. Dan setelah dilakukan percobaan, persentasi keberhasilannya mencapai 71.79% untuk percobaan 4 input, 56.41% untuk percobaan 5 input.",
+  "creators": "YANUAR EKAPUTRA HANDOKO",
+  "contributors": "Resmana Lim (Advisor 1); Thiang (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/633/ELK/2003; Yanuar Ekaputra (23498049)",
+  "subjects": "FUZZY LOGIC; AUTOMATIC CONTROL"
+}

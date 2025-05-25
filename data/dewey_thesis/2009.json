@@ -1,0 +1,14 @@
+{
+  "id": "2009",
+  "title": "Perencanaan struktur secara pseudo elastis dengan faktor pengali yang memperhitungkan daktilitas struktur dan gempa target 500 tahun",
+  "abstract": "Dalam konsep Pseudo Elastis, struktur diperkenankan mengalami keruntuhan berupa Partial Side-Sway Mechanism. Untuk mencapai mekanisme keruntuhan seperti ini, seluruh balok dan kolom interior diperkenankan mengalami leleh, sedangkan kolom eksterior direncanakan agar tetap elastis pada saat gempa besar. Dalam studi sebelumnya telah diusulkan suatu Faktor Pengali dengan memperhatikan daktilitas struktur dan menggunakan gempa target 100 tahun. Faktor Pengali ini ternyata tidak memuaskan untuk struktur daktilitas 2. Dalam studi ini diusulkan modifikasi Faktor Pengali dengan memperhitungkan overstrength factor akibat beban gempa target 500 tahun. Dalam studi ini ditinjau suatu bangunan tingkat 6 yang direncanakan mempunyai daktilitas 2, 4 dan 5,3. Struktur ini kemudian diperiksa dengan menggunakan gaya gempa dengan periode ulang 100, 200, 500 dan 1000 tahun. Analisis yang digunakan adalah Analisis Static Non-Linear Pushover dengan program ETABS v 8.11 dan Analisis Dinamik Non-Linear Riwayat Waktu dengan Ruaumoko 3D. Hasil analisis menunjukkan bahwa struktur dengan daktilitas 2, 4 dan 5,3 memberikan kinerja struktur yang cukup memuaskan dimana sebagian besar kolom interior sudah mengalami sendi plastis dan kolom eksterior tetap elastis. Peninjauan lebih lanjut menunjukkan kemungkinan melakukan perbaikan lebih lanjut untuk menghasilkan perencanaan yang lebih efisien.",
+  "creators": "YUSHENDRA SUTEJO; HANDY KUSUMA TINGKIR",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Ima Muljati Ginsar (Advisor 2); Hasan Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.11131418/SIP/2005; Yushendra Sutejo (21401067), Handy Kusuma Tingkir (21401075)",
+  "subjects": "ELASTIC ANALYSIS (THEORY OF STRUCTURES); EARTQUAKE RESISTANT DESIGN; EARTHQUAKE ENGINEERING"
+}

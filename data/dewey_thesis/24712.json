@@ -1,0 +1,14 @@
+{
+  "id": "24712",
+  "title": "Perancangan dan pembuatan sistem pencatatan data pasien dan barang pada tempat praktik dokter gigi",
+  "abstract": "Perusahaan jasa harus memberikan pelayanan yang terbaik agar dapat bersaing. Saat ini tempat praktik dokter gigi tersebut masih menggunakan pencatatan manual sehingga lebih lama dalam melayani pasien disbanding dengan tempat praktik lain yang telah terkomputerisasi. Data yang disimpan manual juga mudah hilang dan sukar untuk disimpan. Selain itu pihak manajemen akan mengalami kesulitan dalam membuat laporan dan akan memakan waktu yang lama dalam membuatnya. Untuk mengatasi hal-hal tersebut maka dirancang sistem informasi yang telah terkomputerisasi. Aplikasi yang dibuat meliputi pendataan pasien, pencatatan stok barang, pembelian barang dari supplier,dan pembuatan laporan yang berguna bagi pihak tempat praktik tersebut. Aplikasi dibuat menggunakan Power Designer untuk DFD dan ERD, Visual Basic 6.0 sebagai bahasa pemrograman, dengan database menggunakan MySQL. Hasil dari aplikasi sistem yang dibuat telah membantu pemilik dan para pekerja dari tempat praktek tersebut, dimana mereka memberikan penilaian yang baik untuk program ini. Penilain mencakup kinerja program, tampilan dan informasi yang diberikan.",
+  "creators": "SAMUEL BUDI GUNAWAN",
+  "contributors": "Alexander Setiawan (Advisor 1); Leo Willyanto Santoso (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020934/INF/2010; Samuel Budi Gunawan (26403146)",
+  "subjects": "DATABASE MANAGEMENT SYSTEMS; APPLICATION SOFTWARE"
+}

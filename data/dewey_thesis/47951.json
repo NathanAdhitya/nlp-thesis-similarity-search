@@ -1,0 +1,14 @@
+{
+  "id": "47951",
+  "title": "Pembuatan purwarupa perangkat tambahan autonomous suitcase untuk koper konvensional",
+  "abstract": "Pada awal tahun 2020, koper otomatis sudah dijual di Indonesia. Walaupun sistem pembeliannya masih dalam tahap pre-order, produk yang sebenarnya sudah mulai ditetili sejak 2018 ini banyak disenangi oleh konsumen Indonesia karena konsepnya yang belum pernah ada. Namun yang disayangkan, produk ini tertanam pada sebuah koper, sehingga konsumen yang sudah memiliki koper terpaksa membeli koper lagi demi mencari teknologi tersebut. Oleh karena itu, pada tugas akhir ini dirancang sebuah perangkat yang dapat mengubah koper konvensional menjadi koper yang dapat mengikuti pemiliknya. Tugas akhir yang dibuat berfokus pada pembuatan purwarupa yang dapat menunjukkan kinerja dari konsep yang belum ada. Perangkat ini menggunakan gelombang inframerah untuk dua fitur yang dimiliki; Pertama, beacon yang digunakan berkomunikasi dengan kopernya menggunakan inframerah, mengandalkan kekuatan gelombang dan ID unik. Kedua, koper dapat mendeteksi keberadaan obyek yang berada di depannya, sehingga perangkat ini memungkinkan koper untuk bergerak mengikuti pemiliknya dan dapat menghindari obyek yang menghalangi. Berdasarkan penelitan, pembuatan, dan pengujian yang dilakukan, gelombang inframerah dapat digunakan sebagai metode tracking dengan tingkat keberhasilan 100% dan obstacle avoiding dengan tingkat kesalahan 1,8%. Namun sebagai aktuatornya, motor BLDC tidak dapat digunakan sebagai penggerak koper secara langsung karena kecepatannya terlalu tinggi. Maka dari itu harus digunakan gearbox untuk merendahkan kecepatan dan menaikkan torsi.",
+  "creators": "LEONARDUS PUTERA SANTOSO",
+  "contributors": "Handry Khoswanto (Advisor 1); Thiang (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1); Indar Sugiarto (Examination Committee 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010997/ELK/2020; Leonardus Putera Santoso (23416038)",
+  "subjects": "AUTONOMOUS VEHICLES--INDUSTRIAL APPLICATIONS"
+}

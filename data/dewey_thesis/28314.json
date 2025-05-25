@@ -1,0 +1,14 @@
+{
+  "id": "28314",
+  "title": "Tinjauan analisa beban statik ekivalen pada struktur jenis B2",
+  "abstract": "Struktur jenis B2 merupakan portal-portal beton bertulang dengan tembok sebagai panel pengisi yang walaupun tidak dipisahkan secara nyata dari portal-portalnya tetapi ikut mempengaruhi waktu getar alami bangunan. Dalam menghitung waktu getar alami, biasanya dipakai anggapan bahwa hanya portal dengan tembok pengisi (infilled frame) yang menentukan kekakuan struktur. Perhitungan waktu getar alami infilled frame dilakukan dengan cara Rayleigh, sedangkan defleksi dihitung dengan menggunakan cara Stafford Smith yang merupakan cara perhitungan manual. Dalam penelitian ini, diselidiki cara alternatif untuk menghitung waktu getar alami sehingga dimungkinkan penggunaaan komputer. Ditinjau pula pengaruh jumlah dinding pengisi terhadap waktu getar alami bermacam-macam struktur yang memenuhi kriteria bangunan B 2. Dari hasil-hasil penyelidikan dapat diambil beberapa kesimpulan, yakni bahwa pemakaian komputer dapat diterapkan untuk menghitung waktu getar alami bangunan dengan mengambil luas batang diagonal sebesar 0.875 dari diagonal tekan mula-mula yang diusulkan oleh Stafford Smith (Ai) atau perbandingan lebar diagonal terhadap panjang diagonal (w/d) = 0.275. Hasil penyelidikan juga menunjukkan bahwa asumsi perhitungan waktu getar alami yang diterapkan akan cukup relevan dan dapat dipakai jika minimal 50% portal arah gempa yang ditinjau diisi tembok. Hasil lainnya adalah terbuktinya dugaan bahwa struktur jenis B2 yang memenuhi syarat tata letak struktur dalam buku Pedoman [2] mempunyai waktu getar alami < 1 detik. Hal ini membawa implikasi bahwa untuk struktur yang berada di atas tanah lunak, perhitungan waktu getar alami tidak perlu dilakukan dan koefisien gempa dasar (C) dapat diambil sebagai C maksimum.",
+  "creators": "HERYANTONO; TING LAN",
+  "contributors": "Takim Andriono (Examination Committee 1); Benjamin Lumantarna (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 524 S; Heryantono (14287031), Ting Lan (14287146)",
+  "subjects": "STRUCTURAL DYNAMICS"
+}

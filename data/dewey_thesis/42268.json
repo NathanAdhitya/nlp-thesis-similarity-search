@@ -1,0 +1,14 @@
+{
+  "id": "42268",
+  "title": "Simulasi dan pembelajaran routing protocol dengan metode EIGRP IPV4 untuk mahasiswa berbasis web",
+  "abstract": "Mahasiswa Informatika perlu mengerti tentang bagian-bagian dalam jaringan internet dan dalam jaringan internet sendiri memiliki metode-metode routing protocol tertentu sehingga packet data yang dikirim menjadi lebih jelas dan routing protocol dapat mencari rute tersingkat dalam pengiriman packet data ke alamat yang dituju. Routing Protocol sendiri adalah suatu proses untuk menentukan jalur tercepat dan jalur terbaik menuju alamat pencarian yang dituju. Salah satu routing protocol yang sampai saat ini digunakan adalah metode EIGRP (Enhanched Interior Gateway Routing Protocol) tetapi tidak semua mahasiswa mengerti tentang materi ini. Berdasarkan masalah tersebut penulis membuat website yang tentang Routing Protocol EIGRP. Website ini berfungsi untuk membantu pemahaman mahasiswa tentang Routing Protocol, terlebih EIGRP. Website memiliki materi, quiz, dan simulator yang bertujuan untuk membantu mahasiswa untuk memperdalam bagaimana Routing Protocol EIGRP bekerja. Hasil yang diperoleh dari Website ini adalah mahasiswa dapat lebih mengerti tentang Routing Protocol EIGRP dengan mempelajari simulator yang ada pada Website. Simulator dapat melakukan pengecekan IP, subnet, dan AS EIGRP dengan baik. Akses untuk mencetak database pada Admin dapat dalam berbagai format yaitu CSV, Excel, dan PDF.",
+  "creators": "FEBRIANTO HALIM HADINOTO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Kristo Radion Purba S.ST. (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021772/INF/2018; Febrianto Halim Hadinoto (26413060)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); WEBSITES-DESIGN"
+}

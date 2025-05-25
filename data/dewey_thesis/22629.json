@@ -1,0 +1,14 @@
+{
+  "id": "22629",
+  "title": "Perancangan dan pembuatan aplikasi cargo loading menggunakan algoritma randomized heuristics pada perusahaan logistik PT. Serasi Logistics Indonesia",
+  "abstract": "PT. Serasi Logistics Indonesia adalah salah satu perusahaan logistik di Indonesia. Pada saat ini proses pemuatan barang masih berjalan menggunakan sistem manual. Agar proses pemuatan barang berjalan lebih lancar dibutuhkan sebuah aplikasi simulasi pemuatan barang yang pada akhirnya dapat membantu perusahaan di dalam proses pemuatan barang sehari-hari. Proses dari aplikasi ini dimulai dengan memasukkan data container dan barang yang akan dipakai. Langkah selanjutnya adalah proses simulasi pemuatan barang menggunakan algoritma Randomized Heuristics, yang akan menghasilkan gambaran tata letak barang dalam sebuah container secara jelas. Aplikasi ini dibuat dengan menggunakan 3 macam program yaitu Microsoft Visual C# 2010, Microsoft Visual C++ 2010, dan Microsoft SQL Server 2008 sebagai tempat penyimpanan data. Dari hasil pengujian yang dilakukan pada aplikasi ini, dapat disimpulkan bahwa aplikasi dapat menentukan jumlah dan jenis container yang dibutuhkan dalam proses pemuatan barang. Berdasarkan hasil evaluasi yang dilakukan, 75% pengguna mengatakan fitur-fitur dalam aplikasi yang dibuat dinilai baik dan sesuai dengan yang dibutuhkan perusahaan.",
+  "creators": "ALEX CHANDRA SURYANA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Gregorius Satiabudhi (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021011/INF/2011; Alex Chandra Suryana (26407034)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

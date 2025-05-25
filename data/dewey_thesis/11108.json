@@ -1,0 +1,14 @@
+{
+  "id": "11108",
+  "title": "Perancangan dan pembuatan aplikasi perhitungan revenue sharing berbasis web pada PT. Mitra Mediamaya Kalimantan",
+  "abstract": "Saat ini teknologi informasi semakin berkembang, sehingga banyak masyarakat yang memanfaatkan fasilitas internet dalam memperoleh informasi. PT.Mitra Mediamaya Kalimantan merupakan salah satu perusahaan yang menggunakan fasilitas internet dalam mengolah data. Banyaknya SMS pada database yang dimiliki oleh PT.Mitra Mediamaya Kalimantan dan kegiatan yang sering berada diluar pulau, mengakibatkan perusahaan kesulitan dalam melakukan perhitungan perhitungan revenue sharing dan memberikan laporan hasil revenue sharing ke partner kerja yang berada diluar pulau. Oleh karena itu, diperlukan suatu aplikasi berbasis web yang dapat mempermudah perusahaan dalam menghitung revenue sharing dan memberi laporan hasil revenue sharing ke partner. Pada tugas akhir ini, penulis mengembangkan sistem perhitungan revenue sharing yang dapat diakses menggunakan aplikasi web dan layanan SMS. Layanan SMS dan web dapat diakses oleh partner yang sebelumnya telah didaftarkan oleh administrator. Proses perhitungan revenue sharing menggunakan persentase yang sebelumnya telah ditentukan perusahaan dengan berdasarkan jenis kerjasama. Tugas akhir ini dibuat dengan menggunakan Macromedia Dreamweaver MX dalam mendesain web, MySQL sebagai database engine, dan PHP sebagai scripting engine. Aplikasi sistem perhitungan revenue sharing telah selesai dibuat dengan fitur-fitur yang telah dirancang sebelumnya. Proses perhitungan revenue sharing dilakukan pada aplikasi web, yang nantinya hasil revenue sharing dapat diakses partner melalui aplikasi web dan fasilitas SMS. Selain itu pada aplikasi web, partner dapat melihat dan menyimpan laporan hasil revenue sharing dalam bentuk Excel/PDF serta melihat perkembangan hasil revenue sharing dalam bentuk grafik.",
+  "creators": "MERITA KWANRICO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Justinus Andjarwirawan (Advisor 2); BUDI BAMBANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010749/INF/2008; Meria Kwanrico (26404109)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

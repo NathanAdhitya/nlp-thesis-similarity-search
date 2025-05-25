@@ -1,0 +1,14 @@
+{
+  "id": "55713",
+  "title": "Kontrol lampu PJU yang disuplai solar cell dengan arduino",
+  "abstract": "Tenaga Surya adalah sebuah alternatif yang digunakan sebagai sumber energi listrik penerangan. Pada Penerangan Jalan Umum Tenaga Surya (PJUTS), cahaya matahari merupakan sumber energi yang digunakan panel surya untuk menghasilkan energi listrik melalui proses photovoltaic. Oleh karena itu, penulis bertujuan untuk merancang PJUTS yang dikontrol dengan menggunakan Arduino. Sistem charging/discharging baterai dan on/off lampu PJU menggunakan 2 relai yang dikendalikan oleh mikrokontroller yaitu Arduino Mega. Arduino ini menerima, mengelola, dan mengirim data dari pembacaan sensor. Hasil dari pembacaan akan ditampilkan juga pada LCD yang telah terpasang. Pengujian dilakukan dengan melakukan beberapa percobaan yaitu dengan mengambil data pengisian menggunakan panel surya untuk sistem charge/discharge. Secara keseluruhan alat yang dibuat, dapat bekerja dan berfungsi sebagaimana yang diharapkan, tetapi kekurangan menggunakan panel surya ialah daya pengisian yang kecil saat musim hujan. Dalam 1 hari baterai bisa tidak mendapatkan suplai dari panel surya dikarenakan kondisi mendung seharian.",
+  "creators": "WALDY SUCIPTO",
+  "contributors": "Julius Sentosa Setiadji (Advisor 1); Handry Khoswanto (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010671/ELK/2023; Waldy Sucipto (23416024)",
+  "subjects": "SOLAR CELLS; ARDUINO"
+}

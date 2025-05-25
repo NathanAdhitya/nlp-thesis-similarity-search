@@ -1,0 +1,14 @@
+{
+  "id": "5581",
+  "title": "Perancangan dan pembuatan aplikasi pembelian dan penjualan variasi mobil pada toko Sumber Jaya, Palangkaraya",
+  "abstract": "Toko Sumber Jaya adalah perusahaan yang bekerja di bidang penjualan variasi mobil, dimana dalam menjalankan usahanya perusahaan ini melakukan banyak transaksi baik transaksi penjualan maupun transaksi pembelian. Selama ini perusahaan memakai cara manual dalam melakukan pencatatan transaksi dengan menggunakan nota penjualan dan pembelian begitu pula dengan pencatatan stok yang dilakukan, sehingga membutuhkan waktu yang lama dan kemungkinan terjadi kesalahan penulisan atau human error juga tidak menutup kemungkinan terjadi kehilangan data yang berbentuk arsip tersebut. Pada Tugas Akhir ini, dirangkai beberapa proses atau transaksi yang terkait dengan sistem pembelian, penjualan, dan pencatatan stok . Perangkat lunak ini dibuat dengan menggunakan sistem operasi Windows XP Profesional edition. Database yang digunakan adalah Microsoft Access XP dan bahasa pemrograman yang digunakan adalah Borland Delphi 7.0. Proses desain mulai dari sistem flow, Data Flow Diagram sampai dengan Entity Relationship Diagram. Proses implementasi program dalam bahasa pemrograman dalam bahasa pemrograman Delphi yang memanfaatkan basis koneksi ke ODBC Database Source Administrator. Perangkat lunak yang dihasilkan ini dapat mengetahui hasil pembelian, penjualan dan jumlah stok yang ada di gudang maupun di toko. Proses pembayaran dapat dikontrol dengan adanya laporan hutang dan laporan piutang. Keamanan data dapat ditangani dengan mudah, dikarenakan ada pembagian level user, sehingga tidak dapat mengakses data lain yang bukan miliknya",
+  "creators": "ANDRI STEVEN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000211/INF/2004; Andri Steven (26499094)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

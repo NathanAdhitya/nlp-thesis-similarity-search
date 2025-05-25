@@ -1,0 +1,14 @@
+{
+  "id": "12211",
+  "title": "Perancangan dan pembuatan sistem informasi pengarsipan dokumen elektronik berbasis web pada Biro Administrasi Umum dan Kepegawaian Universitas Kristen Petra",
+  "abstract": "Biro Administrasi Umum dan Kepegawaian (BAUK) Universitas Kristen Petra membutuhkan suatu sistem informasi pengarsipan dokumen dalam bentuk elektronik yang dapat membantu kegiatan penyimpanan arsip-arsipnya. Pengaturan terhadap pengarsipan dokumen menjadi masalah yang dihadapi, karena pengaturan dari setiap jenis arsip belum dapat terintegrasi dengan baik dan masih berupa arsip fisik. Untuk menyelesaikan permasalahan tersebut, maka dibuat sistem informasi pengarsipan dokumen dalam bentuk elektronik. Aplikasi yang dibuat meliputi pengelolaan kategori dan arsip, pengelolaan grup user, pembagian hak akses terhadap arsip, pengaturan arsip yang memiliki keterkaitan, pencarian pada isi arsip dengan metode TF-IDF, serta pembuatan laporan history pengaksesan arsip. Aplikasi yang dibuat berbasis web dengan menggunakan bahasa pemrograman PHP, aplikasi Borland Delphi dan database MySQL. Setelah pengujian sistem dilakukan, maka diketahui bahwa aplikasi yang dibuat mengatur arsip-arsip di BAUK. Informasi mengenai arsip tercatat detail seperti nomor surat, perihal, kategori, tanggal arsip dan pihak yang terkait dengan arsip. Selain itu, keterkaitan antar arsip terlihat dan adanya fasilitas pencarian pada isi arsip digunakan untuk mendapatkan informasi lebih tentang arsip serta adanya laporan history akses digunakan untuk mengetahui intensitas pengaksesan arsip.",
+  "creators": "STEPHANIE YUANITA H",
+  "contributors": "Rolly Intan (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02020810/INF/2009; Stephanie Yuanita Hadiasali (26405019)",
+  "subjects": "DATA MINING; WEB USAGE MINING; DATABASE MANAGEMENT; DATABASE SEARCHING"
+}

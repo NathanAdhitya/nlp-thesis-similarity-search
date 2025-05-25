@@ -1,0 +1,14 @@
+{
+  "id": "10672",
+  "title": "Perencanaan dan pembuatan interface radio FM terprogram dengan bantuan IBM PC",
+  "abstract": "Radio FM Terprogram dengan IBM PC adalah penerima radio FM dimana pengaturan frekuensi penerimaan pada radio FM dilakukan oleh komputer dan stasiun pernancar FM yang diterima dapat dicatat dan disimpan dalam bentuk file oleh komputer. Sistem ini terdiri atas Modul radio FM, Modul Pengendali dan PPI Card. Modul radio FM yang dipakai untuk ineiierima sinyal FM borbasis Osilator Terkendali Tegangan ( VCO ) dengan komponen utama dioda varaktor. Modul pengendali terdiri atas rangkaian DAC 8 bit dan ADC 8 bit. DAC 8 bit dipakai untuk mengendalikan frekuensi penerimaan pada VCO dan ADC 8 bit dipakai untuk mendet.eksi sinyal FM terkuat yang diterima yang berasal dari rangkaian Detektor pada Modul radio FM. Modul PPI card dipakai untuk keperluan transfer data antara komputer dan Modul Pengendali. Hasil yang telah dicapai adalah stasiun-stasiun pernancar FM yang tersimpan dalam bentuk file FM.DAT dan pemilihan stasiun pernancar yang ingin didengar dapat dilakukan dengan memasukkan nomor urut stasiun pernancar FM sesuai dengan data yang tersimpan. Kesimpulan dari pembuatan Tugas Akhir ini adalah penalaan sinyal FM dapat dilakukan secara manual dan otomatis. Penalaan secara manual dilakukan dengan memberikan tegangan analog pada VCO melalui DAC. Data bagi DAC diperoleh dari tiap penekanan tombol keyboard komputer melalui PPI Card. Penalaan secara otomatis diperoleh dengan melakukan pembacaan data ADC dari rangkaian Demodulator FM pada sinyal FM terkuat pertama yang diterima untuk setiap penambahan data DAC. Lokasi sinyal FM disimpan melalui data DAC dan diberi iiama untuk tiap lokasi sinyal FM dalam bentuk file FM.DAT.",
+  "creators": "JONATAN",
+  "contributors": "NAWANTO WIBOWO (Examination Committee 1); HERLIANTO TENGGARA (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/033/293; Jonatan (23491008)",
+  "subjects": "COMPUTER INTERFACES; INTERFACE CIRCUITS"
+}

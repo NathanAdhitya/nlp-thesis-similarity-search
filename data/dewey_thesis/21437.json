@@ -1,0 +1,14 @@
+{
+  "id": "21437",
+  "title": "Kompas magnetik digital",
+  "abstract": "Kompas merupakan sarana yang cukup penting di dalam sistem penunjuk arah yang sering kali berhubungan dengan navigasi, pelayaran, pemetaan bumi, juga untuk keperluan robot atau mobil yang dituntut untuk berjalan secara otomatis. Untuk keperluan tersebut, maka dibuat suatu kompas magnetik digital yang dapat mengukur kuat medan magnet dan dapat menampilkan besaran yang diinginkan, baik arah maupun besar/kuat medan magnet yang diukur, serta me-miliki tambahan fungsi yaitu sebagai Gaussmeter. Komponen utama dari kompas magnetik digital ini adalah sensor magnet tipe HMC series dan menggunakan controller berbasis MCS-51 sebagai pengolah datanya, sedangkan komponen tambahannya adalah IC Op-Amp dan A/D Con-verter sebagai penerjemah data dari sensor ke microcontroller, serta sebuah dis-play LCD untuk tampilan kompas magnetik digital tersebut, yang didesain dalam suatu minimum system. Kompas magnetik digital ini dapat menunjukkan arah medan magnet bumi dengan referensi arah Kutub Utara bumi, dan memiliki sensitifitas sebesar 5 ?, sedangkan untuk fungsi sebagai gaussmeter, dapat mengukur besarnya kuat medan magnet dengan range pengukuran -1,5 sampai + l,5gauss dan memiliki sensitifitas sebesar 0,1 gauss.",
+  "creators": "SATYA PRIMADI HARIANTO",
+  "contributors": "Murtiyanto Santoso (Examination Committee 1); Heri Saptono Warpindyasmoro (Advisor 2); Lauw Lim Un Tung (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/014/528; Satya Primadi (23495102)",
+  "subjects": "COMPASS; ELECTROMAGNETISM; NAVIGATION"
+}

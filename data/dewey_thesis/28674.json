@@ -1,0 +1,14 @@
+{
+  "id": "28674",
+  "title": "Sistem scada berbasis internet untuk model otomasi bangunan",
+  "abstract": "Penggunaan PLC sebagai pengendali untuk sistem otomatis hingga saat ini tidak hanya digunakan pada industri saja, tetapi juga dapat digunakan pada sistem otomasi bangunan. Seiring dengan perkembangan teknologi, PLC juga dapat melakukan komunikasi melalui jaringan internet (Industrial Ethernet). Dengan menggunakan jaringan internet, melakukan konfigurasi, pemrograman ulang dan mendiagnosa kesalahan dapat dilakukan dengan lebih mudah dan cepat. Dengan menggunakan jaringan internet pula, pemantauan dan pengontrolan PLC melalui sistem SCADA dapat dilakukan. Tujuan dari tugas akhir ini adalah mengkonfigurasi PLC Siemens S7-200 beserta modul CP 243-1 agar dapat diintegrasikan dan diaplikasikan untuk otomasi pada model bangunan. Konfigurasi yang dilakukan meliputi kontrol suhu ruangan, penerangan/lampu, dan keamanan miniatur bangunan. Selain itu, PLC Siemens S7-200 dikonfigurasi agar dapat melakukan komunikasi antara PC dengan PLC dan PLC dengan PLC, serta dapat mengirimkan pesan informasi email untuk keamanan bangunan melalui jaringan internet. Sebagai hasilnya, PLC Siemens S7-200 dapat digunakan untuk sistem otomasi pada model bangunan. PLC Siemens S7-200 beserta modul CP 243-1 dapat melakukan komunikasi dengan PC, dengan kecepatan transfer data 113 milidetik untuk jaringan lokal dan 118,4 milidetik untuk antar jaringan. PLC Siemens S7-200 beserta modul CP 243-1 juga dapat melakukan komunikasi dengan sesama PLC dengan kecepatan transfer data 1 detik baik untuk jaringan lokal maupun antar jaringan. Dan hasil lainnya adalah dapat melakukan pengiriman pesan informasi e-mail untuk keamanan bangunan dari bahaya kebakaran dan pencurian.",
+  "creators": "YEFTA NOVENTA SANTOSO",
+  "contributors": "Handy Wicaksono (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010930/ELK/2012; Yefta Noventa Santoso (23408024)",
+  "subjects": "SOFTWARE ENGINEERING; INTERNET (COMPUTER NETWORKS)"
+}

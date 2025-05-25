@@ -1,0 +1,14 @@
+{
+  "id": "55660",
+  "title": "Optimasi durasi penjadwalan proyek perumahan x menggunakan metode line of balance dan metode metaheuristik dengan memperhatikan resource leveling",
+  "abstract": "Penjadwalan merupakan salah satu faktor penting dalam manajemen konstruksi atas pengaruhnya terhadap kesuksesan proyek. Beberapa metode penjadwalan telah dikembangkan sebagai alternatif untuk penjadwalan berulang, salah satunya Line of Balance (LOB). LOB dinilai sebagai teknik penjadwalan terbaik untuk proyek dengan aktivitas berulang karena tingkat produktivitas dapat dimodifikasi untuk menjamin alur manajemen sumber daya yang efisien. LOB diklasifikasikan sebagai resource allocation scheduling, sehingga diperlukan resource leveling untuk memastikan distribusi sumber daya yang merata dalam penjadwalan LOB. Subjek penelitian, yaitu proyek perumahan dengan aktivitas berulang, memiliki kompleksitas tinggi karena terdapat lebih banyak unit. Maka, penelitian ini menggunakan metode metaheuristik untuk melakukan optimasi penjadwalan LOB. Tujuan penelitian ini adalah mendapatkan durasi optimum dengan distribusi sumber daya yang efisien, dengan LOB sebagai teknik penjadwalan dan Symbiotic Organisms Search (SOS) sebagai algoritma metaheuristiknya. Optimasi dilakukan dengan menggunakan tiga constraint, yaitu logical dependency constraints, crew synchronization constraints, dan resource leveling constraint. Optimasi penjadwalan LOB dengan SOS menunjukkan bahwa proyek 296 unit rumah tipe 36 dapat diselesaikan dalam durasi minimum 386 hari. Berdasarkan hasil penelitian, diketahui juga bahwa resource leveling dapat mengurangi deviasi alokasi sumber daya. Melalui analisis sensitivitas, dapat disimpulkan bahwa ketersediaan sumber daya per hari memiliki hubungan eksponensial negatif dengan durasi proyek.",
+  "creators": "VANESSA NATHANIA HUSADA; AGNES CLARABELLA TANARA",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Willy Husada, ST.,MT., Msc. (Advisor 2); Sentosa Limanto (Examination Committee 1); Yudas Tadeus Teddy Susanto, S. T., M.S. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012631/SIP/2023; Vanessa Nathania Husada (B11190002), Agnes Clarabella Tanara (B11190011)",
+  "subjects": "CONSTRUCTION INDUSTRY--MANAGEMENT; PROJECT MANAGEMENT; SCHEDULING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8671",
+  "title": "Pengaksesan sistem informasi bandara dengan menggunakan teknologi WAP pada mobile device",
+  "abstract": "Untuk mendapatkan informasi penerbangan yang terkini (khususnya informasi kedatangan dan keberangkatan), biasanya dilakukan dengan menelepon bandara yang bersangkutan. Terkadang cara ini kurang efektif karena penelepon tidak dapat terhubung langsung dengan operator. Salah satu alternatif untuk memecahkan masalah tersebut adalah dengan membangun sebuah WAP-site yang berisikan informasi penerbangan pada bandara yang bersangkutan. Pada WAP-site (yang dibangun dengan WML), untuk mendapatkan informasi penerbangan kita harus mengakses ke suatu database. Karena WML tidak dapat langsung mengakses database, maka digunakan bahasa pemrograman PHP yang dapat menghubungkan WML dengan database. Pada WAP-site akan berisikan informasi penerbangan, baik kedatangan ataupun keberangkatan dan akan didukung menu untuk pencarian (search) yang didasarkan dari input user. Sistem ini telah diuji dengan menggunakan emulator dan mobile device secara langsung, informasi yang ditampilkan sama dengan informasi yang berada pada database. Dengan adanya WAP-site ini memungkinkan setiap pemilik mobile device yang telah dilengkapi dengan fasilitas WAP dan GPRS yang telah terkonfigurasi untuk mengakses situs tersebut untuk mendapatkan informasi penerbangan terkini dan detail secara mobile dalam waktu kurang dari tiga menit (tergantung operator).",
+  "creators": "ANDY DARMA WIDJAJA",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010033/ELK/2005; Andy Darma Widjaja (23401085)",
+  "subjects": "WIRELESS COMMUNICATION SYSTEMS; INTERNET (COMPUTER NETWORK); WAP (WIRELESS APPLICATION PROTOCOL)"
+}

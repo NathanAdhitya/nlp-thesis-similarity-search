@@ -1,0 +1,14 @@
+{
+  "id": "8744",
+  "title": "Analisa dan perbandingan antara metode maximum conditional expectation of the bayesian posterior distribution dengan metode information gain",
+  "abstract": "Pada Tugas Akhir ini dibahas dua metode pengukuran probabilistik, yaitu metode Information Gain dan metode Maximum Conditional Expectation of the Bayesian Posterior Distribution. Kedua metode tersebut dapat digunakan untuk mengklasifikasi informasi yang diinginkan dari data-data yang ada. Metode Maximum Conditional Expectation of the Bayesian Posterior Distribution hanya suatu pengembangan dari metode Naive Bayesian Classification. Penulis menggunakan Maximum Conditional Expectation dari Posterior Distribution sebagai ganti dari Maximum Posterior Distribution, oleh karena itu pembagi tidak dalam ruang vektor tetapi dalam angka real. Dalam Information Gain, analisa klasifikasi dengan `Pohon Keputusan? digunakan untuk menilai data yang tersimpan. Penghilangan dan pengkategorian data adalah metode persiapan untuk memperoleh informasi yang berguna. Perhitungan berdasarkan atas teori informasi untuk memperoleh `Pohon Keputusan? yang kelak akan dianalisa. Penulis juga mengimplementasikan kedua metode ini ke data yudisium Teknik Industri (TI), Universitas Kristen Petra (UKP). Di jurusan Teknik Industri (TI), Universitas Kristen Petra (UKP), ada tiga peminatan, yaitu Sistem Produksi, Sistem Kualitas, dan Perancangan & Pengembangan Produk. Penulis mengklasifikasi mata kuliah-mata kuliah mana yang penting untuk sebuah kelompok spesifik dengan menggunakan dua metode tersebut diatas dan membandingkan hasilnya. Dari hasil perbandingan maka kita dapat mengetahui metode mana yang lebih baik. Dari hasil aplikasi program, maka kita dapat mengetahui bahwa kedua metode sama-sama dapat memprediksi peminatan dari seorang mahasiswa namun kedua metode tersebut memiliki error, karena hasil kedua metode tersebut ada yang tidak sesuai dengan kenyataan. Untuk data yang bersifat diskrit maka sebaiknya metode yang digunakan adalah metode Information Gain, sedangkan untuk data yang bersifat kontinyu maka sebaiknya metode yang digunakan adalah metode Maximum Conditional Expectation of the Bayesian Posterior Distribution.",
+  "creators": "FAN DLIE PARIYANTO",
+  "contributors": "Bernardo Nugroho Yahya (Advisor 1); Siana Halim (Advisor 2); Oviliani Yenty Yuliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011120/IND/2006; Fandlie Pariyanto (25402017)",
+  "subjects": "DATA BASE DESIGN; COMPUTER PROGRAMS"
+}

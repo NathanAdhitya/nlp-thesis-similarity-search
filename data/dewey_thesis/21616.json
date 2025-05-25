@@ -1,0 +1,14 @@
+{
+  "id": "21616",
+  "title": "Pembuatan ultrasonic level transmitter untuk mendeteksi ketinggian cairan di dalam tangki terbuka",
+  "abstract": "Ultrasonic level transmitter ini merupakan alat yang digunakan untuk mendeteksi ketinggian cairan di dalam tangki yang terbuka. Alat ini dapat mengkonversi ketinggian air menjadi output arus dalam range 4 - 20 mA. Fitur yang dimiliki Ultrasonic level transmitter ini berupa tampilan monitor yang berisi jarak, ketinggian air dan suhu yang di deteksi oleh sensor suhu LM35, kompensasi suhu, batas bawah dan batas atas yang bisa dirubah. Pengujian yang dilakukan meliputi linieritas, resolusi dan repeatability. Analisa hasil pengujian dilakukan perhitungan nilai linieritas dengan regresi linier. Perhitungan nilai akurasi dengan menggunakan %reading dan nilai tersebut dinyatakan dalam persen error, sedangkan repeatability dengan menghitung %repeatability. Berdasarkan hasil analisa pengujian alat ini maka hasil pembacaannya linier karena nilai regresi linier yang terendah adalah r = 0,999883176. Untuk resolusinya ditetapkan sebesar 1 cm karena resolusi dari sensor ultrasonik Ping sebesar 1 cm. Untuk hasil nilai akurasi yang terbesar adalah 0,2% dan untuk nilai repeatability terbesar adalah 0,02%. Maka secara keseluruhan ultrasonic level transmitter ini bekerja dengan baik.",
+  "creators": "INDRA PERMADI WIDJAJA",
+  "contributors": "Thiang (Advisor 1); MULIADI TEDJOTJAHJONO, ST. (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010874/ELK/2008; Indra Permadi Widjaja (23402005)",
+  "subjects": "ULTRASONIC WAVES DETECTORS-COMPUTER PROGRAMS; DETECTORS-COMPUTER PROGRAMS"
+}

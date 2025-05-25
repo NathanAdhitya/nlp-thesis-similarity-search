@@ -1,0 +1,14 @@
+{
+  "id": "9090",
+  "title": "Stochastic judgment dalam AHP: menentukan selang kepercayaan dengan pendekatan simulasi",
+  "abstract": "Proses pemilihan alternatif dan kriteria dalam suatu metode pengambilan keputusan dengan multikriteria seperti AHP membutuhkan suatu nilai untuk membandingkan antar kriteria dan alternatifnya. Pada umumnya nilai yang diberikan pengambil keputusan adalah nilai tunggal sesuai skala fundamental yang berkisar antara 1-9. Yang menarik adalah jika terdapat pengambil keputusan yang ragu-ragu dalam memilih, maka judgment yang diberikan juga akan tidak terwakili dengan satu nilai tunggal saja. Namun demikian, pengambil keputusan akan lebih memilih nilai interval untuk mewakili keragu-raguannya. Dalam Tugas Akhir ini akan dibahas cara mengolah dan menganalisa hasil judgment interval ini dengan menggunakan pendekatan selang kepercayaan. Pembangunan selang kepercayaan akan dilakukan dengan menggunakan metode Stam dan Silva. Selain itu, kondisi inconsistency yang biasa terjadi dalam AHP diperbaiki dengan menggunakan metode Consistency Improving Method (CIM). Untuk implementasi dan perbandingan, maka pengolahan data dilakukan dalam 2 cara, yaitu dengan jalan simulasi membangkitkan bilangan random uniform dan dengan menggunakan data hasil kuesioner tentang pemilihan handphone pada mahasiwa. Sebagai kesimpulan akhir, didapatkan bahwa hasil judgment yang interval ternyata dapat diolah dengan jalan menghasilkan selang kepercayaan probabilitas preferensi.",
+  "creators": "PRISKA FELICIA",
+  "contributors": "Siana Halim (Advisor 1); Jani Rahardjo (Advisor 2); Indriati Njoto Bisono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011164/IND/2007; Priska Felicia (25403132)",
+  "subjects": "DECISION MAKING-MATHEMATICAL MODELS"
+}

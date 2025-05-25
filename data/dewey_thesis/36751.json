@@ -1,0 +1,14 @@
+{
+  "id": "36751",
+  "title": "Perancangan dan pembuatan modul data mining market basket analysis pada Odoo dengan studi kasus supermarket X",
+  "abstract": "Sistem Enterprise Resource Planning (ERP) Odoo menyimpan data-data transaksi perusahaan. Namun, Odoo belum memiliki modul untuk mengelola data tersebut. Dibutuhkan sebuah modul untuk mengelola data menjadi informasi yang berguna. Berdasarkan permasalahan di atas, maka dirancang modul data mining Market Basket Analysis. Modul ini menggunakan algoritma FP-Growth dengan memanfaatkan data transaksi penjualan. Pengujian modul ini menggunakan data dari Supermarket X. Hasil akhir modul ini berupa association rule. Rule ditampilkan dalam bentuk narasi dan grafik, sehingga lebih mudah dipahami.",
+  "creators": "STEFANI NATALIA HENDRATHA",
+  "contributors": "Yulia (Advisor 1); Gregorius Satiabudhi (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021500/INF/2016; Stefani Natalia Hendratha (26412007)",
+  "subjects": "DATA MINING; DATABASE DESIGN; ENTERPRISE RESOURCE PLANNING (ERP)"
+}

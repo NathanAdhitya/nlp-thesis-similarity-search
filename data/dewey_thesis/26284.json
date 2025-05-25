@@ -1,0 +1,14 @@
+{
+  "id": "26284",
+  "title": "Studi literatur perencanaan awal gelagar kotak",
+  "abstract": "Dengan semakin berkembangnya pemakaian gelagar kotak yang disebabkan karena dindingnya yang tipis dan penampangnya yang cukup ramping dibandingkan bentangnya serta kekakuannya terhadap torsi yang cukup besar, maka para ilmuwan berusaha menganalisa gelagar kotak sehingga timbulah beberapa macam cara, mulai dari cara perhitungan sederhana yang tidak membutuhkan komputer sampai dengan cara perhitungan analitis yang hampir tidak mungkin dikerjakan tanpa bantuan komputer. Dari beberapa macam cara yang ada dapat digolongkan menjadi dua yaitu yang pertama adalah cara-cara pendekatan yang dipakai pada perencanaan awal seperti yang dikemukakan oleh Ishac & Graves Smith, Shushkewich dan cara analogi Beam on Elstic Foundation (BEF), sedang yang kedua adalah cara Finite Element, finite strip dan cara lainnya yang dipakai sebagai penyelesaian akhir perhitungan struktur gelagar kotak, Dalam skripsi ini dianalisa cara pendekatan yang paling sesuai sebagai perencanaan awal untuk suatu macam pembebanan tertentu pada gelagar kotak satu sel dengan perletakan sederhana. Untuk mengetahui ketepatan cara pendekatan tersebut, maka hasil perhitungannya dibandingkan terhadap cara-cara yang dipakai sebagai penyelesaian akhir. Dari hasil perbandingan yang telah dilakukan, ternyata hasil perhitungan tegangan lentur arah memanjang dengan cara pendekatan sebagai perencanaan awal berbeda + 10 % dengan perhitungan perencanaan akhir. Dalam skripsi ini momen dan tegangan dalam arah melintangnya dianalisa dengan cara analogi momen dari Ishac & Graves Smith dan analogi BEF. Tegangan arah memanjangnya selain diakibatkan oleh lentur yang dapat dianalisa dengan teori balok biasa juga dipengaruhi oleh warping. Dari bermacam-macam cara pendekatan yang ada tidak semua dapat menunjukkan besarnya warping yang terjadi, oleh sebab itu dalam tugas akhir yang dibuat oleh Indra dan Nuroho dianalisa besarnya tegangan warping tersebut terhadap tegangan lentur memanjangnya . Dari hasil analisa didapatkan nilai pendekatan akibat warping berkisar antara 29-35 % dari tegangan lentur memanjangnya. Hasil analisa yang telah dilakukan oleh Indra dan Nuroho tadi ternyata sesuai dengan penulisan dari Waldron (10), dengan demikian perhitungan perencanaan awalnya menjadi lebih sederhana.",
+  "creators": "SUSAN WIDJOJO; INDA IRAWATI",
+  "contributors": "Daniel Zefania Pribadi (Advisor 1); Hurijanto Koentjoro (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 396 S; Susan Widjojo (284004), Inda Irawati (34286156)",
+  "subjects": "BRIDGES, BOX GIRDER-COMPUTER PROGRAM; CIVIL ENGINEERING-COMPUTER PROGRAMS"
+}

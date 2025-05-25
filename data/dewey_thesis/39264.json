@@ -1,0 +1,14 @@
+{
+  "id": "39264",
+  "title": "Pembuatan aplikasi sistem informasi akuntansi pada Toko JB di Mataram",
+  "abstract": "Toko JB di Mataram adalah sebuah bidang usaha yang bergerak di bidang penjualan bahan-bahan dan alat-alat yang berhubungan dalam pengerjaan bangunan. Bahan dan alat yang dijual meliputi semen, besi, paku, palu, cat, pipa dan lain sebagainya. Dalam proses bisnis Toko JB, segala pencatatan dilakukan secara manual mulai dari penjualan, pembelian, dan pembukuan. Namun, untuk stok barang hanya sebagian yang dilakukan pencatatan. Melihat adanya latar belakang permasalahan tersebut dibuat system informasi akuntansi agar dapat terkomputerisasi dan meningkatkan kontrol proses bisnis pada toko bangunan di Mataram. Sistem informasi akuntansi tersebut dibuat dengan menggunakan bahasa pemrograman PHP dengan framework yii dan database MySQL. Adapun yang dihasilkan dari aplikasi ini antara lain pencatatan master untuk customer, supplier, kategori barang, barang, COA, dan buku besar, Selain itu pencatatan transaksi meliputi pembelian dan penjualan, serta laporan keuangan berupa laporan pembelian, laporan penjualan, laporan laba rugi, ekuitas pemilik, dan neraca. Secara keseluruhan aplikasi telah sesuai dengan kebutuhan toko bangunan di Mataram. Dari hasil kuesioner yang dilakukan diketahui bahwa 100% user berpendapat desain program dinilai baik, serta kelengkapan informasi yang dibutuhkan dinilai baik, 60% user berpendapat mengenai keakuratan informasi dan data dinilai baik, 60 % user berpendapat baik mengenai manfaat aplikasi dan secara keseluruhan aplikasi dinilai baik oleh 100% user.",
+  "creators": "ANDRI HERMAWAN SUKASTO",
+  "contributors": "Alexander Setiawan (Advisor 1); Silvia Rostianingsih (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021652/INF/2017; Andri Hermawan Sukasto (26412159)",
+  "subjects": "ACCOUNTING-DATA PROCESSING; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

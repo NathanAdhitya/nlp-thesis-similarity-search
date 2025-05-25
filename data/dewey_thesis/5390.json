@@ -1,0 +1,14 @@
+{
+  "id": "5390",
+  "title": "Perancangan dan pembuatan aplikasi sistem pengendalian persediaan pada perusahaan distributor X",
+  "abstract": "Perusahaan X merupakan sebuah distributor yang berlokasi di Jember, Jawa Timur. Distributor ini menjual berbagai macam barang dari berbagai kategori meliputi barang - barang palen, mie instant, baterai, buku tulis, dan lain ?lain. Dalam menentukan jumlah persediaan barang yang dijualnya, tidak ada suatu dasar perhitungan tertentu sehingga seringkali terjadi kesalahan dalam menentukan jumlah persediaan. Tujuan dari tugas akhir ini adalah untuk membantu pengendalian jumlah persediaan di Perusahaan X dengan menggunakan aplikasi yang mudah digunakan. Aplikasi yang dibuat antara lain meliputi modul untuk input data barang, data supplier, data penjualan, dan data pembelian. Sedangkan perhitungan yang dilakukan dalam aplikasi ini meliputi peramalan penjualan menggunakan metode Moving Average, metode Weighted Moving Average, metode Exponential Smoothing, metode Exponential Smoothing with Trend Adjustment, metode Exponential Smoothing with Seasonal Adjustment, dan metode Winter, serta perhitungan penjadwalan menggunakan Periodic Review System. Aplikasi ini nantinya akan digunakan oleh user yang tidak mengerti mengenai konsep peramalan dan penjadwalan secara teoritis , oleh sebab itu pembuatan aplikasi ini sedapat mungkin meminimumkan kebutuhan inputan dari user. Aplikasi ini dibuat menggunakan software Borland Delphi 7 dan database SQL Server 2000. Hasil dari aplikasi ini adalah peramalan tingkat penjualan periode mendatang berdasarkan data historis penjualan dan hasil perhitungan penjadwalan untuk pemesanan barang ke supplier.",
+  "creators": "YENNY CANDRAWATI",
+  "contributors": "Herri Christian Palit (Advisor 1); Andreas Handojo (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010574/INF/2007; Yenny Candrawati (26403123)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

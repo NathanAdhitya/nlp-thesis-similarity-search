@@ -1,0 +1,14 @@
+{
+  "id": "5162",
+  "title": "Perencanaan dan pembuatan alat untuk proses pemungutan suara (pemilu) dengan sistem komputerisasi",
+  "abstract": "Sistem PEMILU yang digunakan saat ini sering terjadi kesalahan dalam pemilihan suara, seperti kesalahan dalam pencoblosan tanda gambar pada kertas suara yang tidak sesuai dengan ketentuan. Selain itu dalam menghitung suara yang masuk akan membutuhkan waktu yang cukup lama, mengingat perhitungannya juga dilakukan secara manual. Dengan perhitungan secara manual tersebut, kesalahan dalam perhitungan suara sering terjadi. Sistem ini menggunakan komputer sebagai sarana untuk melakukan proses pemungutan suara beserta perhitungan suara. Komputer tersebut terdiri dari komputer server dan komputer client. Komputer server untuk entry data dan perhitungan suara, sedangkan komputer client untuk pemungutan suara. Sedangkan untuk antrian menggunakan microcontroller yang dihubungkan dengan printer untuk mencetak nomor antrian dan display 7 segment untuk menampilkan nomor antrian. Dengan menggunakan komputer, proses pemilihan suara dapat terstruktur, sehingga kesalahan dalam proses pemilihan dapat dihindari. Sedangkan untuk proses perhitungan suara tidak dilakukan secara manual, tetapi sudah dilakukan oleh komputer, sehingga kesalahan dapat dihindari. Dengan sistem ini, tersedia fasilitas untuk melakukan kros cek pehitungan suara. Hal ini dengan membandingkan perhitungan suara yang ada di komputer dengan perhitungan bukti cetak pemilihan. Sehingga efisiensi dalam hal waktu perhitungan suara dapat terwujud.",
+  "creators": "FERNANDHY KUSMIAWAN S",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010680/ELK/2004; Fernandhy Kusmiawan Soetikno (23499037)",
+  "subjects": "DATA TRANSMISSION SYSTEMS-EQUIPMENT AND SYSTEMS; DATA TRANSMISSION SYSTEMS"
+}

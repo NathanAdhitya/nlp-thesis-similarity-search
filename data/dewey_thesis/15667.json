@@ -1,0 +1,14 @@
+{
+  "id": "15667",
+  "title": "Prediksi daya dukung tiang pondasi dengan menggunakan algoritma back-propagation pada jaringan saraf tiruan",
+  "abstract": "Fungsi pondasi yang demikian vital pada sebuah bangunan, diperlukan suatu ketelitian yang cukup tinggi untuk melakukan prediksi daya dukungnya serta parameter-parameter apa yang digunakan agar ketelitian dapat lebih baik. Banyaknya tes yang harus dilakukan untuk pondasi ataupun tanah serta mahalnya biaya untuk melakukannya merupakan latar belakang penelitian ini. Tujuan penelitian ini adalah untuk melihat apakah jaringan saraf tiruan mampu melakukan prediksi terhadap daya dukung pondasi dengan baik dan menawarkan alternatif cara melakukan prediksi dengan murah dan mudah. Penelitian meliputi, pengujian perangkat lunak untuk prediksi daya dukung pondasi dan analisa tingkat kesalahan (error) yang dihasilkan pada tiap pelatihan.Pada pengujian perangkat lunak meliputi pengujian sistem database dan pengujian sistem jaringan saraf tiruan dengan algorithma backpropagation . Hasil uji prediksi daya dukung pondasi menunjukkan bahwa jaringan saraf tiruan mampu untuk melakukan mapping terhadap data yang diinputkan. Pengujian dilakukan sebanyak 16 kali. Berdasarkan analisa kesalahan didapatkan bahwa kesalahan jaringan backpropagation terhadap data yang dilatihkan sebesar 24.25%, dengan kombinasi 7 unit input, 10 hidden unit, 1 output, learning rate sebesar 0.05 dan momentum sebesar 0.8. Sedangkan untuk data yang tidak dilatihkan dengan kombinasi yang sama didapat kesalahan sebesar 20.77 %.",
+  "creators": "NUGRAHA PRATAMA ADHI",
+  "contributors": "Kartika Gunadi (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/KOM/018/075; Nugraha Pratama Adhi (23495030)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); PILING (CIVIL ENGINEERING)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "53500",
+  "title": "Aplikasi penerjemah kegiatan seminar menjadi video bahasa isyarat bisindo dengan speech to text",
+  "abstract": "Informasi disaat ini merupakan hal yang sangat dibutuhkan untuk menambah wawasan kita. Tetapi, penyampaian tersebut dapat terhalang beberapa kondisi seperti ketidakmampuan mendengar masyarakat tunarungu. Berdasarkan data dari Pusat Data dan Informasi Kementerian Kesehatan Republik Indonesia pada tahun 2019, 7.09% dari penduduk Indonesia adalah penderita tunarungu. Selain itu penyampaian informasi di seminar dapat terhalang oleh adanya noise suara dan peserta yang duduknya jauh dari pembicara akan kesulitan mendengar suara pembicara. Pada penelitian ini akan menggunakan Speech-To-Text pada aplikasi Android yang bertujuan membantu menterjemahkan informasi dalam bentuk suara yang disampaikan seperti pada saat seminar kedalam bentuk teks dan akan diubah kedalam bentuk video bahasa isyarat BISINDO. Hasil dari pengujian terhadap penggunaan fitur Speech-To-Text pada aplikasi yang telah dibuat menunjukkan mampu menampung kurang lebih 100 kata dalam 1 menit pada saat sekali pembicara bicara tanpa adanya jeda. Fitur Speech-To-Text yang digunakan membutuhkan waktu kurang lebih 2 detik untuk menterjemahkan suara yang diterima dan jeda waktu yang dibutuhkan perangkat pembicara ke perangkat peserta membutuhkan kurang lebih 3-5 detik setelah menggunakan 5 kecepatan internet yang berbeda-beda. Untuk akurasi dari fitur Speech-To-Text yang diuji menggunakan 3 narasi yang dibacakan oleh 4 orang yang berbeda menunjukkan akurasi dari fitur Speech-To-Text memiliki akurasi diatas 80% secara umum meskipun terdapat akurasi yang berada dibawah 80% yang disebabkan ketidakjelasan dari pelafalan kata.",
+  "creators": "MARCEL SLAMET SUGIANTO",
+  "contributors": "Liliana (Advisor 1); ANITA NATHANIA PURBOWO, S.KOM. (Advisor 2); Kartika Gunadi (Examination Committee 1); Rolly Intan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022183/INF/2022; Marcel Slamet Sugianto (C14180033)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); ANDROID (ELECTRONIC RESOURCE)--PROGRAMMING"
+}

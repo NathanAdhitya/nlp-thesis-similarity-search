@@ -1,0 +1,14 @@
+{
+  "id": "14932",
+  "title": "Perancangan dan pembuatan modul pratikum \"perancangan sistem digital\" menggunakan IC Pal/Gal 22V10 dengan metode VHDL",
+  "abstract": "Konsep perancangan sistem sekuensial digital telah lama kita kenal dan konsep itu selalu tetap digunakan walaupun perkembangan elektronika digital semakin cepat. Tetapi penggunaan perancangan dengan cara manual untuk rangkaian yang kompleks dan dalam skala besar akan mempersulit di dalam perancangan dan memakan banyak waktu. Untuk mempermudah perancangan maka dikembangkan metode VHDL yang tidak meninggalkan konsep aslinya. Dalam tugas akhir ini penulis menggunakan metode VHDL untuk membuat perancangan dan modul pratikum dalam perancangan sistem sekuensial digital. Untuk perancangan sistem sekuensial sinkron penulis mengambil contoh lampu lalu lintas di Jl. Raya Darmo. Dan untuk sistem sekuensial Asinkron penulis mengambil contoh pulsa generator, 7474 edge flip-flop dan rangkaian cycle yang penulis ambil dari buku. Dalam perancangan ini sendiri dibagi perancangan secara manual dan perancangan dengan menggunakan software WARP2. Untuk mengamati hasil dari proses perancangan maka dibuatlah hardware untuk tiap contoh yang diberikan dan digunakan LED untuk menampakkan hasilnya. Pengujian alat dilakukan dengan mengamati langsung dari LED yang menyala dan dimasukkan dalam tabel kemudian hasil pengamatan dibandingkan dengan hasil perancangan dan hasil simulasi dari NOVA.",
+  "creators": "JOFRIE",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Advisor 1); IRWAN SAHLI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/023/417; Jofrie (23494065)",
+  "subjects": "DIGITAL ELECTRONICS; ELECTRONIC DIGITAL COMPUTERS; PROGRAMMABLE LOGIC DEVICES"
+}

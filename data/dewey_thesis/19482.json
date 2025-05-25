@@ -1,0 +1,14 @@
+{
+  "id": "19482",
+  "title": "Kontrol robot keseimbangan beroda dua dengan menggunakan pid",
+  "abstract": "Robot sebagai bentuk inovasi pada bidang teknologi industri telah mengalami perkembangan yang pesat demi mendukung kesejahteraan hidup manusia. Tugas Akhir ini mengangkat topik Robot Keseimbangan Beroda Dua. Robot Keseimbangan Beroda Dua mampu berdiri stabil dengan kedua rodanya. Dengan menggunakan metode kontrol PID yang diimplementasikan pada mikrokontroler kelas AVR dan sensor accelerometer yang merepresentasikan sudut elevasi terhadap bumi membuat robot keseimbangan beroda dua tersebut dapat mencari titik kesetimbangannya. Hasil pengujian menunjukan bahwa robot ini memiliki performa yang cukup baik dalam menjaga keseimbangannya. Pengujian dilakukan beberapa aspek meliputi pengujian sensor accelerometer, bergerak maju lurus dengan seimbang, dan diam ditempat untuk menjaga keseimbangannya. Waktu terlama dalam mempertahankan keseimbangannya selama 45 menit dan menggunakan metode kontrol PD (proportional derivative) dengan nilai Kp sebesar 4 dan Kd sebesar 6.",
+  "creators": "CAY SING",
+  "contributors": "Handry Khoswanto (Advisor 1); Hany Ferdinando (Advisor 2); Handy Wicaksono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 0201918/ELK/2010; Cay Sing (23406024)",
+  "subjects": "MICROCONTROLLER; ROBOTS"
+}

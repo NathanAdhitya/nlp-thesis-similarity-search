@@ -1,0 +1,14 @@
+{
+  "id": "51992",
+  "title": "Pemanfaatan LiDAR pada smartphone untuk pemodelan BIM 2D dan 3D pada bangunan lama (studi kasus: Hotel Inna Dibya Puri, Semarang)",
+  "abstract": "Teknologi LiDAR sudah lama digunakan pada dunia teknik sipil untuk pemetaan kota dan surveying. Teknologi LiDAR biasanya identik dengan bentuk yang besar dan harga yang relatif mahal, tetapi semenjak kemunculan LiDAR pada smartphone membuat masyarakat umum dapat secara bebas menggunakan teknologi ini. Tujuan dari penelitian ini adalah memberikan informasi cara penggunaan dan masalah-masalah yang dihadapi. Pada penelitian ini perangkat smartphone, yaitu iPhone 12 Pro Max yang memiliki LiDAR, digunakan untuk mobile surveying di lapangan, kemudian data survei diolah menjadi model 2D dan 3D dengan teknologi BIM (Building Information Modeling) yang mampu memberikan data volume kerja komponen bangunan seperti dinding dan lantai. Beberapa keterbatasan yang dihadapi selama proses penelitian diantaranya luas objek yang dipindai, jarak pindai sensor LiDAR, suhu perangkat smartphone, pencahayaan ruangan, dan tipe permukaan. Adapun solusi bagi keterbatasan tersebut masing-masing sebagai berikut, membagi objek menjadi beberapa area pindai, menggunakan monopod untuk memperpanjang jangkauan sensor, memberi jeda waktu antar pemindaian, menggunakan penerangan tambahan, dan menutup permukaan yang bersifat reflektif. Berdasarkan studi kasus dan analisa yang dilakukan, diketahui bahwa LiDAR iPhone 12 Pro Max dapat digunakan sebagai alat bantu pemodelan 2D dan 3D sehingga waktu kerja survei jadi lebih pendek dengan data yang lebih akurat dan detail yang lebih lengkap.",
+  "creators": "VALENTINO YUSMARANT; MICHAEL PUTRA HANJAYA",
+  "contributors": "Antoni (Advisor 1); Effendy Tanojo (Advisor 2); Handoko Sugiharto (Examination Committee 1); Gunawan Budi Wijaya S.T., M.T., M.Eng. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012544/SIP/2022; Valentino Yusmarant (B11170171), Michael Putra Hanjaya (B11170165)",
+  "subjects": "DIGITAL MAPPING; OPTICAL RADAR; MOBILE APPS"
+}

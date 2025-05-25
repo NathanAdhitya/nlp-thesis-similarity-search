@@ -1,0 +1,14 @@
+{
+  "id": "13770",
+  "title": "Perencanaan dan pembuatan teletext dekoder dengan tampilan ke PC dan TV",
+  "abstract": "Teletext merupakan sistem penyampaian informasi yang dikirimkan lewat kanal televisi, dengan menyisipkan informasi-informasinya pada periode blanking vertikal. Pada saat ini, umumnya pesawat televisi yang ada tidak memiliki alat teletext dekoder di dalamnya. Alat teletext dekoder yang dibuat akan memberikan fasilitas pada pesawat televisi yang ada agar dapat menampilkan informasi teletext. Alat ini membutuhkan masukan berupa sinyal video komposit yang berasal dari rangkaian tuner, yang tidak termasuk dalara alat ini. Sinyal video komposit yang masuk pada alat ini akan diolah dan dibentuk oleh dua IC utama, yaitu pengolah masukan video (SAA 5231) dan pengolah data teletext (SAA 5243) bersama IC pendukung lainnya, menjadi informasi teletext yang juga berupa sinyal video komposit, sehingga dapat ditampilkan pada pesawat televisi. Teletext dekoder ini juga dibuat untuk dapat dihubungkan dengan personal computer, dengan maksud supaya informasi teletext dapat disave dan diprint. Penghubungan antara dekoder dengan PC dilakukan dengan menggunakan PPI 8255, yang memungkinkan komunikasi data secara paralel.",
+  "creators": "STANLY DARISANG",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/007/267; Stanly Darisang (23489057)",
+  "subjects": "TELETEX SYSTEMS"
+}

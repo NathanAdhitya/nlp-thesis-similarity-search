@@ -1,0 +1,14 @@
+{
+  "id": "57331",
+  "title": "Penelusuran pengujian metamorfik pada sistem pemrosesan aliran data",
+  "abstract": "Pengujian pada sistem pemrosesan aliran data memiliki masalah oracle problem, yaitu bagaimana memverifikasi kebenaran keluaran sistem. Cara tradisional untuk memecahkan masalah ini adalah dengan menyiapkan kumpulan input dan expected output yang spesifik secara manual, dimana hal ini tidak scalable dan error-prone. Pengujian metamorfik merupakan salah satu teknik untuk memverifikasi kebenaran program dengan cara merubah input uji awalan menjadi follow-up input dengan suatu transformasi metamorfik dan memverifikasi relasi metamorfik antara kedua output yang dihasilkan. Pada skripsi ini, dihipotesakan bahwa pengujian metamorfik mampu menguji sistem pemrosesan aliran data tanpa memerlukan oracle berupa input dan expected output yang dipilih secara manual. Untuk mengeksplorasi hipotesa tersebut, diterapkan pengujian metamorfik pada 4 contoh aplikasi pemrosesan aliran data. Pengujian metamorfik pada keempat aplikasi tersebut diuji efektivitasnya menggunakan pengujian mutasi yang merubah bagian kecil dari aplikasi awalan yang benar (menyisipkan mutan) sehingga aplikasi memberikan hasil yang salah. Lalu, pengujian metamorfik yang diimplementasi dibandingkan dengan pengujian dasar yang menggunakan oracle berupa input dan expected output yang dispesifikasi secara manual. Hasilnya, ditemukan bahwa pengujian metamorfik dapat digunakan untuk menguji sistem pemrosesan aliran data dengan keefektivan yang beragam. Bila terdapat banyak kemungkinan input yang perlu diuji, maka pengujian metamorfik lebih efektif dibanding oracle yang dispesifikasi secara manual. Selain itu, ditemukan juga untuk mampu melakukan pengujian metamorfik pada sistem pemrosesan secara lebih efektif, bergantung oleh 3 hal, yaitu: pemilihan source input random yang mencukupi, pemilihan relasi metamorfik, dan kontrol pada eksekusi pemrosesan yang lebih baik.",
+  "creators": "ONG, RIO SURYA WIJAYA",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Henry Navianus Palit (Advisor 2); Hans Juwiantho S.Kom., M.Kom (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022322/INF/2023; Ong, Rio Surya Wijaya (C14190225)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); SQL/ORACLE (COMPUTER PROGRAM LANGUAGE)"
+}

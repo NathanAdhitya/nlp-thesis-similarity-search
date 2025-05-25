@@ -1,0 +1,14 @@
+{
+  "id": "2465",
+  "title": "Perancangan dan pembuatan adapter untuk mouse yang menggunakan interface PS/2 ke interface USB",
+  "abstract": "Universal Serial Bus (USB) merupakan cara interface baru pada komputer. Keunggulannya adalah pada kemudahan menghubungkan peralatan komputer pada komputer kapan saja tanpa harus mematikan komputer terlebih dahulu (hot plug). Selain itu kecepatan transfer data yang lebih tinggi daripada interface lain. Karena keunggulan ini protokol komunikasi USB menjadi rumit. Tugas Akhir ini bertujuan mempelajari cara komunikasi USB sehingga alat yang dibuat dapat dikenali sebagai alat USB. Aplikasinya adalah dengan pembuatan adapter untuk mouse yang menggunakan interface PS/2 sehingga dapat dikenali sebagai mouse USB oleh komputer. Pada adapter ini digunakan chip PDIUSBD12 produk Philips Semiconductors sebagai interface USB sedangkan komumkasinya diatur oleh mikrokontroler AT89C2051. Setelah dilakukan proses pengujian, adapter yang dirancang dapat berfungsi dengan baik sehingga dapat dikenali oleh komputer sebagai sebuah mouse USB dan berfungsi layaknya mouse biasa.",
+  "creators": "YOHAN BUYUNG WANGSA",
+  "contributors": "Anies Hannawati (Advisor 1); Resmana Lim (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/608/ELK/2003; Yohan Buyung Wangsa (23498087)",
+  "subjects": "ADAPTIVE CONTROL SYSTEMS"
+}

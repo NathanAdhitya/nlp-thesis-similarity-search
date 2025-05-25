@@ -1,0 +1,14 @@
+{
+  "id": "10424",
+  "title": "Multiple face detection and segmentation",
+  "abstract": "Dewasa ini, implementasi dari dunia biometrik, khususnya bagian wajah manusia berkembang sangat cepat. Melalui sebuah input gambar, dapat dilakukan proses pendeteksian dan segmentasi obyek wajah. Proses pendeteksian bertujuan untuk menentukan berapa obyek wajah yang terdapat di dalam sebuah gambar. Sedangkan proses segmentasi bertujuan untuk melakukan pemisahan sebuah obyek dari latar belakang gambar. Dalam Tugas Akhir ini, dikembangkan aplikasi yang mampu untuk melakukan proses pendeteksian dan segmentasi obyek wajah manusia. Proses pendeteksian obyek wajah diawali dengan proses face localization, yang bertujuan untuk mendapatkan kandidat obyek wajah berdasarkan warna kulit. Untuk memperoleh wilayah facial feature dari setiap obyek wajah, akan dilakukan proses facial feature extraction yang terdiri dari EyeMapping dan MouthMapping. Selanjutnya, proses penyeleksian wilayah facial feature dilakukan melalui proses N-Iterative Thresholding dan Selection of Facial Feature. Proses segmentasi dilakukan dengan menggunakan metode Active Contour (snake). Aplikasi berorientasi obyek ini dikembangkan dengan menggunakan bahasa pemrograman C++ yang dengan kompiler Microsoft Visual C++ 6.0. Berdasarkan hasil pengujian yang dilakukan, proses pendeteksian obyek wajah dipengaruhi oleh faktor pencahayaan yang dimiliki oleh input gambar dan parameter yang digunakan dalam proses N-Iterative Thresholding. Sedangkan untuk proses segmentasi obyek wajah, dipengaruhi oleh faktor pose dari obyek wajah tersebut.",
+  "creators": "EDDY",
+  "contributors": "Rudy Adipranata (Advisor 1); Cherry Galatia Ballangan, S.Si., M.AIT. (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010553/INF/2006; Eddy (26403002)",
+  "subjects": "COMPUTER GRAPHICS; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

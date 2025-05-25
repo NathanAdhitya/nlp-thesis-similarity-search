@@ -1,0 +1,14 @@
+{
+  "id": "23947",
+  "title": "Perencanaa dan pembuatan pengatur kecepatan motor DC dengan pll yang dapat diprogram",
+  "abstract": "Pemakaian Phaselock Loop (PLL) telah berkembang dengan pesat dalam berbagai bidang, terutama dalam bidang industri komunikasi. Tetapi PLL dapat juga dipakai untuk aplikasi lain, salah satunya adalah pengatur kecepatan motor DC. Dalam tugas akhir ini direncanakan dan dibuat pengatur kecepatan Motor DC dengan menggunakan servo PLL. Karena untuk servo kecepatan konvensional meng- hendaki adanya error antara kecepatan yang diperintah- kan dengan kecepatan yang sebenarnya, maka dengan menggunakan servo PLL error tersebut dapat dihilang- kan. Dengan servo PLL maka pengaturan kecepatan motor dilakukan dengan mengatur frekuensi referensinya. Perencanaan yang dilakukan dapat dibagi dua, yaitu: pertama adalah perencanaan servo PLL sebagai rangkaian yang akan membuat kecepatan motor DC sampai sesuai dengan yang diinginkan dan yang kedua adalah perencanaan minimum sistem 280 sebagai pembangkit frekuensi referensi. Minimum sistem ini diprogram untuk menghasilkan frekuensi tertentu sesuai dengan kecepatan yang diinginkan. Dari hasil pengujian yang dilakukan terhadap alat yang dibuat dalam tugas akhir ini didapatkan bahwa terjadi phaselock pada putaran 9-17 RPS (540-1020 RPM), dan akan tetap phaselock tidak tergantung pada beban yang dipasang. Sistem pengatur yang direncanakan tidak dapat phaselock untuk semua range, karena kestabilan sistem ditentukan oleh harga parameter tiap komponen servo. ~'imana untuk suatu harga paramater tertentu, sistem juga mempunyai range kestabilan tertentu pula.",
+  "creators": "AGUS HALIM",
+  "contributors": "SUPENO DJANALI (Advisor 1); YOHANES T. D. S (Advisor 2); AGUS MULYANTO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/019/0078; Agus Halim (485062)",
+  "subjects": "MOTORS; MOTORS-AUTOMATIC CONTROL"
+}

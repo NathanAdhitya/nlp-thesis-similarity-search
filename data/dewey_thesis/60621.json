@@ -1,0 +1,14 @@
+{
+  "id": "60621",
+  "title": "Peringkas berita Bahasa Indonesia menggunakan Pointer-Generator networks dan IndoBERT",
+  "abstract": "Penelitian ini mengkaji penerapan kombinasi antara Pointer-Generator Networks (PGN) dan IndoBERT untuk meningkatkan kualitas rangkuman otomatis teks berbahasa Indonesia. PGN dikenal karena kemampuannya dalam menangani masalah out-of-vocabulary (OOV) dan mempertahankan detail penting dari teks asli melalui pointer mechanism yang menggabungkan sifat ekstraktif dan abstraktif. Sementara itu, IndoBERT, sebuah model BERT yang dilatih khusus untuk bahasa Indonesia, menawarkan pemahaman konteks yang mendalam dan representasi kata yang lebih akurat. Dalam skripsi ini, akan dikembangkan model hybrid yang mengintegrasikan keunggulan PGN untuk memperoleh struktur rangkuman yang baik dengan kemampuan pemahaman konteks dari IndoBERT. Kami melatih dan menguji model ini menggunakan dataset Indosum, sebuah dataset berita berbahasa Indonesia. Pada pengujian kualitatif dengan menggunakan survei, hasil survei memberikan wawasan bahwa ringkasan cukup baik dari segi interpretabilitas dan relevansi. Namun, pada pengujian kuantitatif menunjukkan bahwa model hybrid PGN + IndoBERT belum berhasil mencapai peningkatan dalam metrik ROUGE ataupun BERTScore dibandingkan dengan model PGN saja. Temuan ini menyoroti tantangan integrasi dua metode yang berbeda dan menunjukkan bahwa kombinasi PGN dan IndoBERT memerlukan penyesuaian lebih lanjut untuk mencapai performa optimal.",
+  "creators": "ADRIAN WINAYA",
+  "contributors": "Rolly Intan (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Gregorius Satiabudhi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022546/INF/2024; Adrian Winaya (C14200061)",
+  "subjects": "NATURAL LANGUAGE PROCESSING (COMPUTER SCIENCE); NEURAL NETWORK (COMPUTER SCIENCE)"
+}

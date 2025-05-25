@@ -1,0 +1,14 @@
+{
+  "id": "57527",
+  "title": "Pembuatan modul principal management dan market segmentation menggunakan Odoo ERP dengan metode recency, frequency, monetary value (RFM) pada perusahaan distributor PT X",
+  "abstract": "PT X adalah perusahaan distributor produk-produk Nestle Professional dan Sunco dan telah menguasai area Surabaya, Gresik, Madura, dan sekitarnya. Proses bisnis yang dilakukan oleh PT X meliputi pengiriman barang kepada konsumen, menawarkan barang kepada konsumen, pembelian dan pemesanan barang kepada principal seperti Nestle dan juga Sunco. Dalam menjalankan proses bisnisnya, PT X yang sudah memiliki beberapa principal menggunakan sistem ERP yang berbeda beda dan PT X diwajibkan untuk menggunakan beberapa sistem ERP yang berbeda. Sistem ERP yang digunakan PT X sebelumnya adalah ND-6 dan juga sistem sederhana menggunakan Excel VBA sehingga perusahaan belum pernah menggunakan Odoo sebelumnya. Hal tersebut mengakibatkan pemrosesan data penjualan maupun pembelian yang dimiliki PT X tidak bisa dilakukan secara maksimal. Masalah tersebut dapat memberi dampak yang buruk bagi keuangan perusahaan dan menghambat pertumbuhan dari perusahaan. Selain itu masalah yang dialami PT X adalah kurang efektifnya pekerjaan sehari hari dari salesperson di mana PT X tidak dapat memantau dan memberikan tagihan dengan skala prioritas lebih tinggi kepada salesperson. Pada tugas akhir ini, akan dirancang solusi untuk permasalahan PT X dengan pembuatan modul pada Odoo ERP dalam membantu proses pendataan, perencanaan perjalanan, segmentasi konsumen, dan pemberian promo pada proses penjualan. Dengan pengujian yang telah dilakukan terlihat bahwa penggunaan RFM sudah tepat dengan kebutuhan dan permasalahan PT X. Penggunaan RFM dapat mensegmentasikan konsumen PT X dengan lebih rinci dan pemberian promo dapat menjadi lebih efisien. Penggunaan algoritma greedy dalam proses perencanaan perjalanan juga dirasa sesuai karena setelah dilakukan pengujian, ditemukan adanya perbedaan dalam jarak tempuh.",
+  "creators": "ANDREAS KEVIN NYOTO",
+  "contributors": "Yulia (Advisor 1); I Gede Agus Widyadana (Advisor 2); Kartika Gunadi (Examination Committee 1); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022339/INF/2023; Andreas Kevin Nyoto (C14190079)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN--COMPUTER PROGRAMS"
+}

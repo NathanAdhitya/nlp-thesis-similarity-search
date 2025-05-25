@@ -1,0 +1,14 @@
+{
+  "id": "13292",
+  "title": "Perancangan keseimbangan lintasan perakitan dengan algoritma genetika di PT Wijaya Indonesia Makmur Bicycle Industries Surabaya",
+  "abstract": "Masalah keseimbangan lintasan perakitan bukanlah suatu masalah yang mudah diselesaikan oleh suatu model atau algoritma tertentu secara mutlak. Untuk mendapatkan keseimbangan lintasan perakitan banyak hal yang dipertimbangkan sesuai dengan variabilitas dari lintasan perakitan yang ada. Penentuan stasiun kerja, pembagian elemen kerja, pemenuhan precedence constraint dan pemenuhan waktu siklus adalah faktor-faktor penting yang harus dirancang untuk mendapatkan keseimbangan lintasan perakitan yang memuaskan. Salah satu algoritma yang dapat diaplikasikan untuk masalah keseimbangan lintasan perakitan adalah algoritma genetika. Dalam makalah ini selanjutnya akan dibahas keseimbangan lintasan perakitan yang mengaplikasikan algoritma genetika. Lintasan perakitan yang dipakai sebagai kasus dalam makalah ini adalah lintasan perakitan di PT Wijaya Indonesia Makmur Bicycle Industries Surabaya. Dari hasil pengumpulan dan pengolahan data ternyata lintasan perakitan di PT Wijaya Indonesia Makmur Bicycle Industries Surabaya masih bisa ditingkatkan lagi kemampuannya. Sebagai penyelesaian awal dari lintasan perakitan didapatkan dengan bantuan software Quant System 3.0 dengan metode penyelesaian COMSOAL. Setelah itu dilakukan beberapa kali iterasi dengan algoritma genetika dan kemudian dibandingkan dengan keadaan awal dan penyelesaian awalnya. Ternyata kualitas penyelesaian yang didapat relatif lebih baik dari keadaan awal maupun dari hasil penyelesaian COMSOAL. Hal ini berarti terjadi penyempurnaan hasil metode COMSOAL. Metode COMSOAL yang hanya mempertimbangkan perhitungan secara determinislik diperbaiki hasilnya dengan mempertimbangkan juga perhitungan secara probabilistik. Selanjutnya, lintasan perakitan hasil dari iterasi algoritma genetika yang telah dilakukan dianalisa dan dipilih yang terbaik untuk dipakai sebagai usulan lintasan perakitan yang baru bagi perusahaan. Adapun parameter pembanding yang digunakan adalah SI (Smoothness Index) dari Moodie and Young (1965) dan persamaan Reeve (1971) untuk minimasi probabilitas lintasan terhenti (Sahu,S.,et al. Journal PPC, vol.7, 38-46, 1996).",
+  "creators": "ARIEF SOETANTO ANUGRAHWAN",
+  "contributors": "Stevanus Adrianto Tjandra (Advisor 1); Danny Prabowo Soetanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 072/TMI-02/1998; Arief Sutanto Anugrahwan (25493052)",
+  "subjects": "WORK MEASUREMENT; PRODUCTION MANAGEMENT; PRODUCTION ENGINEERING"
+}

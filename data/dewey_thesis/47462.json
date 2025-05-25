@@ -1,0 +1,14 @@
+{
+  "id": "47462",
+  "title": "异步电机智能神经元 PID 矢量控制",
+  "abstract": "三相异步电动机由于价格比较便宜，较高的可靠性和几乎免费的维护量，所以在工业应用中得到了广泛的应用。但是，异步电动机具有非线性特性，因此难以控制其转速。为了克服这些问题，提出了异步电动机的智能神经元PID矢量控制系统。该系统结合了异步电机矢量控制系统与智能神经元PID调节器来调节异步电机的转速。异步电动机矢量控制系统是将交流电动机控制为类似于直流电动机控制，将励磁电流和转矩电流可以分别控制或解耦的。若励磁电流恒定，只通过调节转矩电流就可以调节电动机的转度。智能神经元PID调节器是结合神经元结构和PID算法结构来控制异步电机转矩电流。这调节器有自学习能力较强，计算方法较简单和可靠的优点。用MATLAB/Simulink软件对该异步电机智能神经元PID矢量控制系统进行建模与仿真实验。仿真运行结果表明，异步电机智能神经元PID矢量控制具有较好的控制性能，干扰能力强和较好的鲁棒性。",
+  "creators": "HENDI PRAWIROREJOYO",
+  "contributors": "Zhou Xiao Hua (Advisor 1); Li Zhong Fu (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Chinese",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010983/ELK/2020; Hendi Prawirorejoyo (23415008)",
+  "subjects": "ELECTRIC MOTORS, INDUCTION; NEURAL COMPUTERS--CIRCUITS"
+}

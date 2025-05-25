@@ -1,0 +1,14 @@
+{
+  "id": "16835",
+  "title": "KWH meter digital berbasis microcontroller AT89C51",
+  "abstract": "Perkembangan dunia elektronika saat ini sangatlah pesat terutama dibidang semiconductor, yang ditandai dengan munculnya berbagai jenis microcontroller untuk aplikasi kontrol secara digital, sehingga membuka peluang bagi munculnya berbagai jenis alat ukur secara digital. Salah satunya adalah KWH Meter Digital yang diharapkan dapat mengganti jenis KWH Meter Analog dalam pemakaiannya untuk aplikasi sederhana misalnya untuk pemakaian pada kamar kost. KWH Meter Digital yang dimaksudkan disini adalah jenis satu fasa dengan arus maksimum 10 Ampere. Dalam mendeteksi besarnya pemakaian daya listrik, KWH Meter Digital ini menggunakan metode integral terhadap daya sesaat, yang mana oleh microcontroller penerapan teori ini dilakukan dengan cara sampling terhadap tegangan dan arus beban secara bergantian dengan kecepatan tinggi, sehingga tidak diperlukan adanya perhitungan nilai power faktor. Dari penerapan metode ini, diperoleh hasil bahwa alat KWH Meter Digital ini membenkan respon yang baik bila digunakan untuk beban yang besar (diuji dengan beban 1100 watt), hal ini ditandai dengan error yang kecil (? 13,8 %), sedangkan untuk pemakaian terhadap beban yang kecil (beban yang lebih kecil dari 500 watt) terjadi error ? 37,35 %, sehingga perlu dilakukan kalibrasi ulang sebelum digunakan terhadap beban yang dimaksud. Dari hasil ini dapat disimpulkan bahwa KWH Meter Digital ini dapat digunakan untuk menggantikan yang analog pada pemakaian untuk kamar kost.",
+  "creators": "DAVID TANDRIAN",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Limboto Limantara (Advisor 2); Anies Hannawati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/017/531; David Tandrian (23496099)",
+  "subjects": "DIGITAL CONTROL SYSTEMS; ELECTRIC FILTERS, DIGITAL; INTEL AT89C51 (MICROCONTROLLER)"
+}

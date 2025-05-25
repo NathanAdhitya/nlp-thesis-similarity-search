@@ -1,0 +1,14 @@
+{
+  "id": "23050",
+  "title": "Perencanaan dan pembuatan prototype scada",
+  "abstract": "Perencanaan dan pembuatan proto type SCADA ini didasarkan pada majunya bidang elektronik dan pentingnya kebutuhan akan suatu pengontrolan yang serba mudah dan cepat pada suatu industri dengan ketelitian yang lebih baik. Perencanaan dan pembuatan prototype SCADA ini bertujuan agar dengan alat ini semua sistem pengontrolan akan menjadi lebih nrudah, dan cukup duduk di suatu ruangan kontrol semua bagian pabrik yang besar dapat dengan mudah dikontrol dalam waktu yang singkat. Secara garis besar peralatan yang dibuat ini terdiri sebuah master dan beberapa slave yang dalam hal ini ada dua slave dan beberapa peralatan penunjang yang digunakan sebagai contoh simulasi, yang mana merupakan obyek pengontrolan dan pengambilan data sesuai dengan pengertian SCADA itu sendiri. Serta untuk kebutuhan suatu industri yang besar, maka sistem ini dibuat dengan menggunakan sistem multi-processing yang berbasis pada microcontroller 8031 dan sistem komunikasi RS-485. Sistem komunikasi RS-485 mampu mentransmisikan data sampai 4000 ft dan mempunyai output yang selalu berlawanan untuk menandakan output sudah ben&r, serta dapat melakukan komunikasi yang lebih cepat (? 10 Mb/s). Dari hasil pengujian didapatkan bahwa faktor-faktor diluar (noise) sangat mempengaruhi sistem transmisi data, bahan transmisi seperti kabel juga akan mempengaruhi sistem transmisi ini. Untuk pengukuran suhu pada ruang yang berdimensi tertentu, sensor suhu LM35 memiliki kelinieran yang baik sekali. Dalam pembacaan data motor digunakan sensor optocoupler dan sebuah piringan serta Triac untuk untuk pengontrolan motor yang pentrigerannya dilakukan oleh sebuah rangkaian counter.",
+  "creators": "DENNY SANTOSO",
+  "contributors": "HANDAYANI T. (Advisor 1); NAWANTO WIBOWO (Examination Committee 1); IRWAN SAHLI (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/050/0253; Denny Santoso (23490025)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

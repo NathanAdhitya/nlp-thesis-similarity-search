@@ -1,0 +1,14 @@
+{
+  "id": "21780",
+  "title": "Perancangan dan pembuatan aplikasi production planning and inventory control pada perusahaan balatif",
+  "abstract": "Perusahaan Balatif bergerak dibidang produksi obat-obatan. Pada perusahaan ini sering terjadi kekurangan stok barang dan stok bahan baku sehingga perusahaan tidak mendapatkan keuntungan karena terjadinya lost sales. Perusahaan memerlukan suatu aplikasi yang dapat meramalkan penjualan obat untuk beberapa bulan kedepan, dan juga jumlah kebutuhan bahan baku. Aplikasi program menggunakan program Microsoft Visual Studio .Net 2005, dan database menggunakan Oracle 10g. Aplikasi peramalan dibuat dengan metode Moving Average, Trend Linear, Winter, Exponential Smoothing, dan Double Exponential Smoothing. Aplikasi penjadwalan dibuat dengan menentukan MPS, MRP, dan lot size, dimana lot size dibuat dengan metode Lot-For-Lot, FOQ, FOP, SM, LUC, PPB, dan WW. Hasil dari aplikasi ini berupa informasi mengenai jumlah penjualan yang mungkin terjadi pada bulan-bulan kedepan dan kebutuhan bahan baku dengan waktu pemesanan bahan baku. Berdasarkan hasil pengujian secara manual dengan menggunakan Microsoft Excel didapatkan perhitungan yang dilakukan dengan program sudah valid karena sesuai dengan perhitungan manual. Berdasarkan pendapat user, interface yang diberikan sudah baik sebesar 90%, fungsi-fungsi yang diperlukan sudah memenuhi kebutuhan yang dibutuhkan oleh perusahaan.",
+  "creators": "ANDY TENDEAN",
+  "contributors": "Yulia (Advisor 1); Tanti Octavia (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Undergraduate Thesis No. 02021037/INF/2011; Andy Tendean (26407098)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

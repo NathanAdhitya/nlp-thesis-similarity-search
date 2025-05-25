@@ -1,0 +1,14 @@
+{
+  "id": "53692",
+  "title": "Sistem otomasi rute order picking pada gudang dengan metode simulated annealing",
+  "abstract": "Pergudangan adalah salah satu faktor terpenting di dalam Supply Chain .Perusahaan harus dapat melakukan proses-proses di dalam Gudang secara maksimal dan efektif agar supply chain tidak terganggu. Aktivitas utama yang terjadi dalam pergudangan adalah keluar masuknya barang serta lokasi penempatan barang dan rute untuk melakukan pengambilan dari barang atau yang biasanya disebut dengan order picking. Order Picking adalah proses untuk melakukan seleksi terhadap beberapa barang dan mengambilnya dari tempat barang tersebut disimpan kemudian dilakukan proses sorting untuk dapat memenuhi order yang dimiliki oleh pembeli. Proses Order Picking adalah proses yang paling mahal di dalam sistem pergudangan, hal ini dikarenakan order picking membutuhkan tenaga kerja yang sangat banyak, Order Picking yang dilakukan secara manual membutuhkan biaya sekitar 55% dari total biaya yang dibutuhkan di dalam pergudangan. Oleh karena itu, Order Picking merupakan bagian yang tepat untuk dioptimalkan dalam rangka peningkatan kinerja pergudangan. Pada skripsi ini telah dirancang aplikasi berbasis web yang akan memecahkan permasalahan-permasalahan di atas antara lain untuk menampilkan rute terpendek dalam melakukan order picking dengan menggunakan metode Simulated annealing. Selain itu sistem aplikasi juga akan dilengkapi dengan alat hardware yaitu RFID Reader yang berfungsi untuk melakukan deteksi terhadap barang jika ada yang diambil dan di letakkan di dalam rak. Hasil yang didapatkan adalah masalah routing dapat diselesaikan algoritma Simulated annealing dengan tingkat penurunan rata-rata sebesar 51.5 % untuk 100 data, 35.5 % untuk 500 data dan 28.1% untuk 1000 data dengan parameter yang telah ditetapkan sebelumnya. RFID reader memiliki akurasi sebesar 40% untuk melakukan pembacaan barang di dalam rak. Dikarenakan sinyal antara 1 tag bertabrakan dengan tag yang lainnya.",
+  "creators": "STIENLEY NAGATA CAHYADY",
+  "contributors": "Andreas Handojo (Advisor 1); Tanti Octavia (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022199/INF/2022; Stienley Nagata Cahyady (C14180025)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); WAREHOUSES--AUTOMATION--DATA PROCESSING; ORDER PICKING SYSTEMS"
+}

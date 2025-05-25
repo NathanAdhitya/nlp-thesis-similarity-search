@@ -1,0 +1,14 @@
+{
+  "id": "9552",
+  "title": "Perancangan dan pembuatan sistem informasi restoran beserta perhitungan food cost pada restoran Wok Noodle",
+  "abstract": "Saat ini sistem pencatatan pesanan makanan konsumen sampai data pesanan tersebut sampai ke bagian dapur, penjualan makanan, pembelian bahan makanan, dan transfer bahan makanan pada restoran Wok Noodle masih dilakukan secara manual. Begitu pula dengan penghitungan food cost, hal itu menyebabkan ada kemungkinan salah perhitungan. Nota pesanan yang dicatat pelayan masih berupa nota kertas yang mudah hilang atau rusak. Berdasarkan latar belakang permasalahan tersebut, penulis merancang sebuah aplikasi sistem informasi restoran dan penghitungan food cost secara terkomputerisasi, dimana proses pembuatannya meliputi studi literatur, pengumpulan data, perancangan dan pembuatan program, pengujian dan evaluasi program, dan pembuatan laporan. Menggunakan Borland Delphi 7 sebagai bahasa pemograman dan Microsoft SQL Server sebagai databasenya. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, aplikasi telah mampu menyimpan data nota pesanan konsumen dan langsung menampilkannya pada bagian dapur, menyimpan transaksi pembelian, penjualan, permintaan bahan baku makanan, transfer bahan baku makanan, stok bahan baku makanan tersedia, dan mampu menghitung besarnya food cost yang terjadi. Aplikasi juga dapat membuat dan menampilkan laporan pembelian, laporan penjualan, laporan food cost, dan laporan laba rugi penjualan secara otomatis.",
+  "creators": "JONATHAN ALVIN NUGROHO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Rudy Adipranata (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010693/INF/2008; Jonathan Alvin Nugroho (26403085)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "50445",
+  "title": "Pembuatan konfigurasi SSL yang aman untuk diimplementasikan pada Apache dan Nginx",
+  "abstract": "Eksploitasi terhadap web server merupakan bentuk perilaku seseorang yang mengambil keuntungan dari kerentanan suatu software atau kelemahan keamanan. Eksploitasi terhadap web server dapat berupa Zombie Poodle, Golden Doodle, Poodle, dan lain-lain. Selain serangan yang menggunakan validasi padding, juga ada serangan man–in–the–middle–attack seperti protocol downgrade attack dan cookie hijacking. Oleh karena itu, penelitian ini bertujuan untuk meneliti keamanan sebuah web server berdasarkan konfigurasi SSL dan memberikan saran konfigurasi SSL yang lebih baik dan aman. Pengujian pada penelitian ini menggunakan program yang bernama SSLyze dan penelitian ini menghasilkan sebuah laporan terperinci yang dapat membantu untuk melakukan konfigurasi SSL pada Apache web server dan Nginx web server dengan baik dan benar agar dapat mencegah terjadinya serangan. Selain meningkatkan keamanan pada web server, dengan menggunakan konfigurasi SSL yang tepat dapat membuat kinerja server menjadi lebih optimal. Hasil pengujian menunjukkan bahwa implementasi konfigurasi SSL yang diuji mempunyai tingkat keamanan yang baik sehingga dapat mencegah terjadinya masalah keamanan pada web server serta dapat membuat kinerja web server lebih optimal dan efisien.",
+  "creators": "EKA WIJAYA BUDIHARJO",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Justinus Andjarwirawan (Examination Committee 1); INDRO SETIAWAN (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022064/INF/2021; Eka Wijaya Budiharjo (C14170079)",
+  "subjects": "INTERNET (COMPUTER NETWORK); WEB SERVERS; WEB SERVERS--SECURITY MEASURES"
+}

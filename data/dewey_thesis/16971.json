@@ -1,0 +1,14 @@
+{
+  "id": "16971",
+  "title": "Aplikasi mikrokontroler AT89C2051 pada alat switching telpon",
+  "abstract": "Dalam perkembangan teknologi saat ini, teknologi komunikasi memegang peranan yang sangat penting, dimana setiap ruangan dalam gedung memerlukan telpon untuk melakukan hubungan komunikasi. Mengingat keterbatasan dana jika tiap- tiap ruangan tersebut dipasang beberapa nomor telpon sekaligus. Untuk itu dibuat suatu alat yang dapat men-switch (Exchange) satu line dari perumtel menjadi beberapa line telpon, sehingga setiap telpon dapat melakukan dan menerima sambungan telpon secara bergantian, disamping itu juga tiap-tiap telpon dapat diprogram untuk menerima pesan dari luar. Sistem telpon yang dipakai jenis tone DTMF maka digunakan IC MT8880 untuk mendeteksi tone, suara yang ditampilkan oleh IC ISD yang dapat merecord suara secara manual dan mengaktifkan secara digital. Sistem ini dikendalikan oleh mikrokontroler AT89C2051 yang merupakan produk terbaru dari ATMEL yang menggunakan teknologi PEROM. Didalam perencanaan meliputi perangkat keras dan lunak. Perencanaan perangkat lunak (software) terbagi atas Main program dan Program interrupt service routine. Main program ini pada waktu power on maka terjadi reset dan mikrokontroler melakukan inisialisasi dan mengambil data untuk dicek apa ada off-hook atau tidak untuk tiap-tiap telpon dari optocoupler. jika ada off-hook diambil data tone DTMF, telpon lain berada pada line busy. Program interrupt service routine mencek apa ada telpon dari luar yang masuk maka akan diambil data DTMFnya, kemudian mikrokontroler akan menentukan telpon ke berapa yang akan dipanggil dengan mengaktifkan IC ISD (Voice processor). Bila telpon yang dituju tidak diangkat (on-hook) maka akan dicek apa ada pesan yang dilakukan user, sehingga dapat dialihkan ke telpon yang lain. Pengujian alat dengan menggunakan software yang dicompiler oleh ALDS (Assembly languange development system) kemudian diprogram ke mikrokontroler dari hasil pengujian dapat diambil kesimpulan bahwa alat ini dapat bekerja dengan baik dengan noise yang rendah tetapi masih ada juga kekurangannya yaitu jika ada tone DTMF yang masuk juga terjadi kesalahan dan harus menekan ulang tone DTMF tersebut. Disamping efek bouncing yang ada pada relay terdapat juga ada perbedaan frekweasi pada tiap telpon sistem penerimaan tone DTMFnya.",
+  "creators": "ANDY LIVAN",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); IRWAN SAHLI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/023/322; Andy Livan (23487096)",
+  "subjects": "TELEPHONE SWITCHING SYSTEMS, ELECTRONICS-COMPUTER PROGRAMS"
+}

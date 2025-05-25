@@ -1,0 +1,14 @@
+{
+  "id": "5760",
+  "title": "Pembuatan sofware analisa steady state pada rangkaian R,L dan C",
+  "abstract": "Menghitung rangkaian yang sederhana dapat dilakukan secara manual. Tetapi menghitung dengan cara manual memerlukan ketelitian, oleh karena itu diperlukan bantuan untuk dapat membandingkan apakah perhitungan manual tersebut sudah benar atau belum. Dalam TA ini akan dibuat sebuah program dengan menggunakan komputer untuk menghitung sebuah rangkaian RLC sederhana. Metode yang digunakan program ini untuk menghitung rangkaian adalah metode nodal analysis. Dengan program ini pengguna dapat menggambar rangkaian RLC dan mengukur tegangan serta arus rangkaian. Pengujian yang dilakukan adalah dengan membandingkan program ini dengan perhitungan manual dan program yang sejenis (EWB). Dari hasil pengujian yang dilakukan maka dapat disimpulkan program ini sudah dapat menghitung rangkaian RLC sederhana dengan cukup baik, yaitu dengan tingkat kesalahan 0,0016 dibandingkan dengan program EWB.",
+  "creators": "ANDHI WIJAYA",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Handry Khoswanto (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010767/ELK/2006; Andhi Wijaya (23499101)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

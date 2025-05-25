@@ -1,0 +1,14 @@
+{
+  "id": "9701",
+  "title": "Perancangan dan pembuatan aplikasi pemantauan ruangan melalui mobile phone menggunakan kontrol webcam",
+  "abstract": "Sistem pemantauan ruangan yang selama ini digunakan pada dasarnya masih menggunakan metode konvensional dengan menggunakan kamera dan televisi ataupun komputer. Namun sistem konvensional ini mempunyai keterbatasan dimana pengguna harus tinggal di tempat yang sama dengan monitor untuk memantau keadaan ruangan. Seiring dengan berkembangnya teknologi, sistem dituntut untuk lebih fleksibel sehingga pengguna tetap dapat memantau ruangan namun tidak dibatasi oleh ruang dan tempat. Dalam Tugas Akhir ini, dikembangkan sebuah sistem yang memungkinkan pengguna untuk memantau kondisi ruangan dengan menggunakan webcam melalui sebuah mobile phone. Selain itu untuk meningkatkan fleksibilitas sistem, maka pengguna diberi kebebasan dalam mengatur sudut pandang webcam melalui kontrol dari mobile phone. Pengguna nantinya akan mengakses halaman web yang di dalamnya terdapat tampilan loading image dan aplikasi kontrol gerak webcam. Sistem akan dibangun dalam 3 bagian besar, yaitu Web Programming, Device Programming dan Hardware. Sistem ini dikembangkan dengan menggunakan bahasa PHP dan HTML sebagai bahasa pemrograman web, serta C# sebagai bahasa program device. Berdasarkan hasil pengujian yang dilakukan, sistem dapat bekerja dengan baik sesuai dengan tujuan pembuatannya untuk memungkinkan pengguna mengakses hasil capture webcam serta mengubah sudut pandang webcam. Namun dalam pengujiannya terdapat beberapa kekurangan minor dari sistem yang membutuhkan pengembangan lebih lanjut lagi.",
+  "creators": "ANDREY THUNGGAL",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Rolly Intan (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010704/INF/2008; Andrey Thunggal (26404116)",
+  "subjects": "MOBILE COMMUNICATION SYSTEMS; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

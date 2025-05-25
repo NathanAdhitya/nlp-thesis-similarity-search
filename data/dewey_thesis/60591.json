@@ -1,0 +1,14 @@
+{
+  "id": "60591",
+  "title": "Sistem peramalan penjualan produk di CV XYZ dengan metode Simple Exponential Smoothing, ARIMA dan SARIMA serta klasifikasi ABC berbasis web",
+  "abstract": "CV XYZ, sebuah toko kelontong di Solo, menghadapi kesulitan dalam memprediksi penjualan dan mengelola persediaan barang. Hal ini menyebabkan masalah stok kosong atau berlebihan, yang berdampak negatif pada pendapatan dan kepuasan pelanggan. Untuk mengatasi tantangan ini, penelitian ini menerapkan strategi klasifikasi ABC dan analisis Time Series. Klasifikasi ABC membantu mengelompokkan barang berdasarkan kontribusinya. Sementara itu, analisis Time Series memberikan prediksi tren permintaan produk di masa depan. Analisis Time Series dalam proyek ini menggunakan beberapa metode seperti ARIMA, SARIMA, dan Simple Exponential Smoothing dengan tujuan membandingkan ketiga metode tersebut dalam meramalkan penjualan CV XYZ berdasarkan tingkat akurasinya terhadap data penjualan. Dalam proyek ini, dikembangkan sebuah aplikasi berbasis web untuk mempermudah peramalan, disertai sistem POS agar proses peramalan dapat terus diperbarui. Hasil penelitian menunjukkan bahwa setiap produk memerlukan metode dan parameter prediksi yang berbeda berdasarkan tingkat error yang diuji menggunakan RMSE. Distribusi hasil menunjukkan 205 produk menggunakan ARIMA Auto ARIMA, 161 produk menggunakan ARIMA Grid Search, 22 produk menggunakan SARIMA Auto ARIMA, 16 produk menggunakan SARIMA Grid Search, 171 produk menggunakan Simple Exponential Smoothing Model Fit, dan 8 produk tidak memiliki cukup data untuk diprediksi. Metode Simple Exponential Smoothing Grid Search tidak digunakan karena model fit memberikan hasil yang lebih akurat. Sistem aplikasi yang dikembangkan mencapai nilai 70,83 dalam pengujian System Usability Scale (SUS), menunjukkan tingkat kepuasan pengguna yang cukup baik.",
+  "creators": "ALAN SATRIA JULIUS PUTRA HERMAWAN",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Andreas Handojo (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022585/INF/2024; Alan Satria Julius Putra Hermawan (C14200196)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); WEB-BASED APPLICATIONS"
+}

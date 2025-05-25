@@ -1,0 +1,14 @@
+{
+  "id": "15302",
+  "title": "Perencanaan dan pembuatan hardware sistem pewaktu untuk akses internet dengan menggunakan koin pada warung internet",
+  "abstract": "Internet merupakan hasil kerja sama antara jaringan komputer di seluruh dunia. Internet terbuka untuk semua orang. Berjuta-juta orang telah bergabung dan masih banyak lagi yang bergabung setiap harinya dengan jumlah yang semakin banyak lagi. Untuk bisa melakukan Akses Internet dari rumah, diperlukan sebuah komputer, modem dan saluran telepon. Hal ini merupakan kendala bagi mereka yang tidak memilikinya. Tetapi hal ini dapat diatasi dengan adanya Waning Internet Dalam Tugas Akhir ini, dibuat suatu alat penunjang pengoperasian Cybercafe atau Waning Internet, dimana alat tersebut adalah Hardware Sistem Pewaktu untuk Akses Internet menggunakan Koin. Hardware ini terdiri dari Detektor Koin yang menggunakan Sensor Led, Detektor Logam dengan Kumparan sebagai sensor dan Minimum Sistem 8031 yang dihubungkan menggunakan Com serial RS-232 dengan PC. Hardware Sistem Pewaktu Akses Internet digunakan untuk menentukan lamanya seseorang dapat mengakses Internet sesuai dengan jumlah uang yang telah dimasukkan ke alat pencatat koin. Mata uang yang digunakan berupa uang logam dengan nilai nominal seribu rupiah, dimana 1 koin = 4 menit. Untuk proses perhitungan waktu digunakan program aplikasi dari Visual Basic, sedangkan untuk proses Dial dan Disconnect digunakan program Trumpet Winsock. Dari hasil uji yang dilakukan, Sistem secara keseluruhan dapat bekerja dengan baik, tetapi Detektor Logam dengan kumparan sebagai sensor masih belum dapat bekerja secara sempurna, hal ini disebabkan karena tidak terjadinya perubahan induksi magnetik pada kumparan saat dilalui oleh koin. Dimana perubahan induksi magnetik tersebut digunakan sebagai pendeteksi bahwa koin yang dilewatkan itu merupakan logam.",
+  "creators": "SOEJANTO",
+  "contributors": "Resmana Lim (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/033/332; Soejanto (23491040)",
+  "subjects": "INTERNET-COMPUTER NETWORKS; VISUAL BASIC (COMPUTER PROGRAMS)"
+}

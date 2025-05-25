@@ -1,0 +1,14 @@
+{
+  "id": "23786",
+  "title": "Pengaturan kecepatan motor induksi rotor tergulung (3 phasa, 4 pole, 1/2 HP, 220/127 volt, 1500 rpm, 50 Hz) melalui tahanan luar rotor dengan mengatur pulsa arus transistor menggunakan bantuan IBM PC",
+  "abstract": "Dalam bidang industri banyak digunakan motor induksi untuk proses produksi. Kebanyakan karakteristik kecepatan yang diinginkan adalah konstan, namun ada beberapa peralatan yang memerlukan adanya pengaturan kecepatan seperti misalnya elevator, katrol, conveyor dan lain sebagainya. Ada beberapa cara untuk mengatur kecepatan motor induksi yaitu antara lain dengan mengubah jumlah kutub motor, mengubah harga suplai tegangan dari jala-jala, mengubah input frekuensi jala-jala dan juga dengan mengubah harga tahanan luar motor. Untuk metode pengaturan kecepatan dengan mengubah harga tahanan luar motor, hal ini hanya dapat dilakukan pada motor induksi rotor tergulung atau motor slip ring.Ada dua metode untuk mengatur kecepatan motor induksi dengan mengubah harga tahanan luar rotor ini yaitu secara mekanis dan secara elektronis. Dalam tugas akhir ini akan direncanakan pembuatan alat pengatur kecepatan motor induksi rotor tergulung secara elektronis dengan kontrol rotor chopper, dimana sebagai pengontrolnya maka digunakan IBM-PC. Metode elektronis ini mempunyai kelebihan dibandingkan metode secara mekanis yaitu mempunyai respon yang Iebih cepat dan pengaturan kecepatan motor yang lebih rata. Pengaturan metode elektronis ini dilakukan dengan memenggal-menggal tegangan pada tahanan luar rotor sehingga akan menghasilkan perubahan harga arus yang melewati tahanan Iuar rotor, selanjutnya akan didapatkan perubahan harga fiktif tahanan luar rotor, akibatnya kecepatan putaran motor juga akan ikut berubah. Pengaturan dengan tahanan Iuar ini mempunyai kerugian yaitu daya yang terbuang sebagai panas pada tahanan luar sehingga pengaturannya menjadi terbatas. Pengaturannya tidak bisa mencapai kecepatan yang rendah karena pada kecepatan rendah tersebut efisiensi motor menjadi jelek.",
+  "creators": "EDY HANDOKO",
+  "contributors": "SOEBAGIO (Examination Committee 1); BUNAWI GUNAWIDJAJA (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96.E/TST/016/170; Edy Handoko (23490137)",
+  "subjects": "ELECTRIC CONTROLLERS-COMPUTER PROGRAMS; ELECTRIC MOTORS; ELECTRIC MACHINERY"
+}

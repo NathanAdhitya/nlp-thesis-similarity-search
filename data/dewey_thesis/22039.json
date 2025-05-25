@@ -1,0 +1,14 @@
+{
+  "id": "22039",
+  "title": "Perancangan dan pembuatan modem sebagai alat bantu untuk hubungan komunikasi antar mikrokomputer IBM PC melalui saluran telepon",
+  "abstract": "Mikrokomputer telah mulai banyak digunakan sebagai alat untuk menyimpan dan mengolah data. Melihat kenyataan diatas maka dicoba untuk dibuat alat pembantu yang dapat meningkatkan efisiensi kerja dari mikrokomputer yang ada. Peralatan tersebut dinamakan Modem atau Modulator - Demodulator. Peralatan ini dapat memungkinkan mikrokomputer yang satu dapat berkomunikasi dengan mikrokomputer lai nya melalui saluran telepon. Dipergunakannya media telepon karena jalur telepon merupakan alat komunikasi yang umum dan paling sering digunakan. Pnnsip kerja d a n Modem dapat dibagi menjadi dua bagian, yaitu rangkaian modulator dan rangkaian demodulator. Rangkaian modulator berfungsi untuk mengubah data-data dari mikrokomputer yang berupa bit-bit berlogika 0 dan 1 menjadi suatu bentuk frekwensi tertentu yang dinamakan FSK atau Frequency Shift Keying, yang kemudian mengirimkannya melalui saluran telepon. Sedangkan rangkaian demodulator akan mengubah kembali frekwensi dalam bentuk nada-nada tersebut menjadi bit-bit berlogika 0 dan 1, yang kemudian akan dikirimkan menuju mikrokomputer yang lain. Jadi dengan bantuan Modem tersebut, maka mikrokomputer tidak hanya berfung si sebagai alat untuk penyimpan dan pengolah data saja, melainkan juga dapat mengirim dan menerima data d a n mikrokomputer lainnya. Dalam pengetesan d a n peralatan modem yang dibuat, telah dapat dilakukan pertukaran data maupun file antara satu mikrokomputer dengan mikrokomputer lainnya, yang dilakukan secara simulasi antara speaker sebagai output dari modulator dan dihubungkan dengan microphone sebagai input dari demodulator.",
+  "creators": "JOHN PAUL",
+  "contributors": "HERLIANTO TENGGARA (Advisor 2); AGUS MULYANTO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 89/E/EL/016/0037; John paul (484027)",
+  "subjects": "MODULATORS (ELECTRONICS)"
+}

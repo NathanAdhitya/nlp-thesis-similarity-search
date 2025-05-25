@@ -1,0 +1,14 @@
+{
+  "id": "24872",
+  "title": "Penjadwalan flowshop dengan mempertimbangkan batch size (studi kasus di PT X)",
+  "abstract": "Penjadwalan proses produksi diperlukan untuk mencegah terjadinya keterlambatan dalam memenuhi deadline yang diberikan oleh konsumen. Tugas Akhir ini membandingkan metode penjadwalan perusahaan dengan metode penjadwalan dengan batch size kelipatan 10 dan kelipatan 100. Hasil dari ketiga metode penjadwalan dibandingkan dengan memperhatikan tujuan meminimalkan maksimum lateness. Hasil simulasi menunjukkan bahwa metode penjadwalan perusahaan lebih baik secara signifikan dari metode penjadwalan dengan batch size kelipatan 10 dan kelipatan 100. Metode penjadwalan perusahaan memiliki perbedaan secara signifikan dari metode penjadwalan dengan batch size kelipatan 10 pada jumlah job 150. Metode penjadwalan perusahaan juga memiliki perbedaan secara signifikan dari metode penjadwalan dengan batch size kelipatan 100 pada jumlah job 100 dan 150. Metode penjadwalan dengan batch size kelipatan 10 lebih baik secara signifikan pada jumlah job 175 dan 200 dibandingkan metode penjadwalan dengan batch size kelipatan 100.",
+  "creators": "HOO SHIE LIE",
+  "contributors": "Tanti Octavia (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021639/IND/2012; Hoo Shie Lie (25408002)",
+  "subjects": "WORKFLOW-MANAGEMENT; SCHEDULING"
+}

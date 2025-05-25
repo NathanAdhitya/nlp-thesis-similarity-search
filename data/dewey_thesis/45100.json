@@ -1,0 +1,14 @@
+{
+  "id": "45100",
+  "title": "Kapasitas geser dinding stuktur beton bertulang menggunakan simplified truss model dengan memperhitungkan pengaruh rasio tinggi terhadap panjang dinding",
+  "abstract": "Building codes seperti ACI 318M-14 (2015) dan Eurocode 8 (2005) umumnya digunakan untuk menghitung kapasitas geser dinding struktur beton bertulang. Selain itu, ada juga beberapa peneliti yang telah berhasil merumuskan cara perhitungan yang lebih konsisten seperti Chandra et al. (2018) dan Abidin (2019). Namun, rumusan yang diajukan oleh Chandra et al. (2018) masih belum memperhitungkan pengaruh faktor rasio tinggi terhadap panjang (hw/lw) dalam perhitungan kapasitas gesernya. Abidin (2019) kemudian mengembangkan rumus yang diajukan Chandra et al. (2018) dengan memasukkan faktor hw/lw dalam perhitungan. Cara ini kemudian terbukti dapat memperhitungkan kekuatan geser dinding lebih konsisten dengan mengujikannya terhadap 114 spesimen dinding struktural. Namun demikian, cara Abidin (2019) tersebut masih kurang praktis karena harus melewati proses regresi. Dalam penelitian ini, telah dilakukan modifikasi rumus untuk menyederhanakan cara perhitungan tersebut agar bisa digunakan secara praktis. Hasil yang didapat dengan mengujikan pada 169 spesimen dinding struktur beton bertulang yang didapatkan dari berbagai literatur menunjukan adanya prediksi yang cukup akurat dan konsisten terhadap variasi rasio hw/lw dan kekuatan beton (fc’).",
+  "creators": "CLAUDIA SARASWATI; CLARENCE REBEKA",
+  "contributors": "Jimmy Chandra (Advisor 1); Joko Purnomo S.T., M.Sc. (Advisor 2); Pamuda Pudjisuryadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012328/SIP/2019; Claudia Saraswati (21415086)Clarence Rebeka (21415078)",
+  "subjects": "CONCRETE WALLS; CONCRETE CONSTRUCTION"
+}

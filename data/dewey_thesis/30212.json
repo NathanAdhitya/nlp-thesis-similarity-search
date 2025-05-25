@@ -1,0 +1,14 @@
+{
+  "id": "30212",
+  "title": "Pengaturan tegangan pada generator AC induksi 3 fasa 1,5 kW dengan zelio SR2B201BD",
+  "abstract": "Skripsi ini menjelaskan tentang desain dari pengaturan tegangan pada generator induksi 3 fasa. Sistem ini menggunakan mesin induksi 3 fasa 1,5 kW dengan bantuan kapasitor. Pengaturan tegangan menggunakan teknologi smart relay. Smart relay mengendalikan penggunaan kapasitor pada mesin induksi. Kapasitor yang dibutuhkan dibagi menjadi 7 step (4,8 μF/step) sehingga tidak dapat mengantisipasi perubahan tegangan yang kecil. Saat pengujian dilakukan, sistem ini mampu bekerja sebagai generator dengan range tegangan 205 V – 230 Volt dan beban 660 W. Sistem ini bertahan sampai beban 660 Watt. Frekuensi yang dihasilkan turun seiring dengan pertambahan beban.",
+  "creators": "SAMUEL HARMANTO S.",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Limboto Limantara (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010633/ELK/2014; Samuel Harmanto Sindunata (23410005)",
+  "subjects": "ELECTRIC MACHINERY; ELECTRIC GENERATORS"
+}

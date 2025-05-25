@@ -1,0 +1,14 @@
+{
+  "id": "26119",
+  "title": "Perancangan dan pembuatan aplikasi mengubah aspect ratio gambar dengan menggunakan mesh dan handle shape constrained",
+  "abstract": "Perkembangan teknologi pada saat ini berkembang dengan pesat terutama dalam perkembangan display device. Hampir semua peralatan elektronik menggunakan layar dengan berbagai macam ukuran aspect ratio yang berbeda-beda. Hal tersebut berarti dibutuhkan suatu cara untuk merubah ukuran aspect ratio dari gambar dengan meminimalkan tingkat kehilangan informasi yang ada pada gambar dan mempertahankan objek yang seharusnya tidak mengalami perubahan ukuran. Oleh karena itu, pada skripsi ini, dilakukan pembuatan aplikasi untuk merubah ukuran aspect ratio dari gambar asli menjadi ukuran aspect ratio yang diinginkan. Proses diawali dengan penyeleksian dan pemisahan antara objek dan background. Kemudian dilakukan proses pembentukan mesh dan mengkalkulasi mesh tujuan berdasarkan luas mesh. Setelah itu dilakukan proses rendering hasil akhir dari gambar dimana telah terjadi perubahan aspect ratio. Aplikasi ini dibuat menggunakan Microsoft Visual C++ 2008. Hasil pengujian menunjukkan bahwa penyeleksian objek dan penggunaan kerapatan mesh yang digunakan sangat berpengaruh terhadap hasil seperti objek yang dihasilkan akan hilang beberapa bagian apabila objek yang diseleksi kurang. Apabila kerapatan objek yang digunakan semakin tinggi dan objek utama yang diseleksi semakin besar, maka hasil warping background tidak sesuai dengan yang diharapkan. Untuk hasil gambar akhir, gambar akan menghasilkan ukuran aspect ratio yang diinginkan dan memiliki gambar objek utama yang memiliki ukuran sama dengan gambar asli.",
+  "creators": "NIKOLAUS CHRISTIANTO BUDI",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021095/INF/2012; Nikolaus Christianto Budi (26408066)",
+  "subjects": "COMPUTER GRAPHICS; IMAGE PROCESING-DIGITAL TECHNIQUES"
+}

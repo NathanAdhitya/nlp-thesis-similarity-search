@@ -1,0 +1,14 @@
+{
+  "id": "5286",
+  "title": "Studi beban harian (KWatt) pada MDP gedung P U.K. Petra dengan Artificial Neural Network Backpropagation",
+  "abstract": "Pada dunia industri terutama pada penggunaan bagian energi listrik sering kita dihadapkan dengan perhitungan-perhitungan data yang berjumlah banyak, terutama untuk Sistem Tenaga Listrik, dimana kita dituntut untuk memperhitungkan segala keperluan tentang energi listrik dengan se-efisien mungkin, maka diperlukan perhitungan-perhitungan terhadap pemakaian beban harian pada suatu industri. Studi dan pengukuran beban harian (kWatt) pada gedung P U.K. Petra ini bertujuan untuk memberikan gambaran tentang seberapa besar pemakaian beban listrik pada setiap harinya . Beban listrik ini akan diukur pada Circuit Breaker pusat pada panel M.D.P.(Main Distribution Panel) pada gedung P U.K. Petra yang merupakan pusat arus listrik yang mengalir ke seluruh gedung. Sebuah alat bantu yaitu Fluke 41B Power Harmonics Analyzer bertugas untuk mencatat beban (kWatt) harian pada tiap harinya secara nyata (real time), untuk kemudian diproses dengan program yaitu ANN Backpropagation dengan bantuan software Mathlab 6.5. dengan sistem operasi yang berbasis Microsoft Windows. Kesimpulan yang didapat, pengukuran data harian yang berjumlah besar ini sangatlah tepat bila diproses dan dianalisa dengan ANN Backpropagation karena hasil- hasil yang didapat sangat bagus dan mempunyai tingkat kesalahan yang cukup kecil dan dapat diabaikan. Hasil- hasil analisa pada grafik-grafik mapping yang didapat dapat dijadikan acuan atau pedoman untuk dijadikan referensi untuk perhitungan-perhitungan lain yang membutuhkan informasi tentang beban harian ini. Untuk mendapatkan hasil pengukuran yang lebih akurat lagi maka perlu diambil sampel data yang lebih banyak lagi agar perhitungan dan analisa lebih sempurna lagi. Bila hasil yang didapat sudah baik, maka nantinya program ini dapat digunakan untuk perhitungan-perhitungan di masa mendatang.",
+  "creators": "ANDY IRAWAN",
+  "contributors": "Limboto Limantara (Advisor 1); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 01/482/ELK/2004: Andy Irawan (23498151)",
+  "subjects": "ELECTRIC POWER TRANSMISSION-COMPUTER PROGRAMS"
+}

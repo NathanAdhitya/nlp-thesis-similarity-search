@@ -1,0 +1,14 @@
+{
+  "id": "4077",
+  "title": "Pendekatan hybrid genetic algorithm pada penjadwalan produksi di PT. Alas Petala Makmur",
+  "abstract": "PT Alas Petala Makmur adalah sebuah perusahaan yang bergerak dalam industri moulding (pembentukan profil kayu). Pembentukan profil kayu berbagai ukuran bentuk dan jumlah yang dibuat berdasarkan pesanan dari pembeli (Job Order). Proses transformasi produksinya berdasarkan flowshop. Proses pembentukan suatu produk, tidak dilakukan secara kontinu ( terputus-putus ), sehingga terjadi banyak set up mesin. Satu order dari pembeli yang terdiri dari berbagai jenis ukuran produk, dapat dikirimkan apabila keseluruhan produk telah selesai dikerjakan. Penjadwalan perusahaan mengakibatkan waktu penyelesaian order menjadi semakin lama, walaupun order dapat terpenuhi. Usulan sistem penjadwalan mempertimbangkan pengurutan jobs dengan menggunakan Hybrid Genetic Algorithm, dilakukan juga penggabungan beberapa job berdasarkan kesamaan ukuran lebar setiap produk sehingga dapat meminimasi jumlah set up mesin yang berulang-ulang. Hasil perbandingan antara metode penjadwalan usulan dengan metode penjadwalan perusahaan/kondisi perusahaan adalah dengan metode penjadwalan usulan dengan mengurangi jumlah set up mesin yang berulang-ulang, pengurangan jumlah set up untuk produk solid sebanyak 2 kali dari 10 kali menjadi 8 kali, untuk produk finger joint sebanyak 4 kali dari 6 kali menjadi 2 kali, dan mengurangi waktu penyelesaian order (makespan), untuk produk solid sebesar 2.13% dan untuk produk finger joint sebesar 13.81% dari metode penjadwalan perusahaan.",
+  "creators": "HARTONO SULISTIO",
+  "contributors": "Tessa Vanina Soetanto (Advisor 1); Iwan Halim Sahputra, S.T., M.Sc., Ph.D. (Advisor 2); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010824/IND/2004; Hartono Sulistio (25400070)",
+  "subjects": "PRODUCTION ENGINEERING; SCHEDULING (MANAGEMENT)"
+}

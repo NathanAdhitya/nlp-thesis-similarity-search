@@ -1,0 +1,14 @@
+{
+  "id": "4151",
+  "title": "Desain dan implementasi sistem informasi pengadaan barang pada perusahaan PT 'X'",
+  "abstract": "Pada suatu perusahaan, sistem informasi pengadaan barang mempunyai peranan yang sangat penting karena sebagian besar aktivitas produksi bergantung pada bagian pengadaan barang. Pada perusahaan PT `X? bagian pengadaan barang ditangani oleh departemen Purchasing. Agar sistem informasi pengadaan barang dapat lebih efisien dan teratur maka dibuat suatu aplikasi yang dapat menangani permintaan barang dari departemen yang meminta barang hingga barang diterima oleh departemen tersebut. Sebagai implementasinya, aplikasi ini dibangun berbasiskan komputer dalam bentuk interface berupa form yang menggunakan Borland Delphi 5.0 database yang menggunakan Microsoft Access 2000. Pada tiap-tiap departemen mempunyai form sesuai dengan kebutuhannya dan hanya memiliki satu database yang dapat diakses oleh seluruh departemen. Form-form yang dibuat antara lain: untuk tiap-tiap departemen menggunakan form Non Raw Material dan untuk departemen Produksi menggunakan form Raw Material, form persetujuan permintaan barang dari kepala departemen maupun Manager Operational, form pemilihan barang, form pengelompokan barang dan form pembuatan PO oleh departemen Purchasing, hingga form kedatangan barang yang ditangani oleh departemen Warehouse serta form pengecekan barang yang ditangani oleh departemen Quality Control. Hasil yang diperoleh dari sistem ini adalah : perpindahan form dari satu departemen ke departemen atau bagian lain menjadi lebih cepat, pengarsipan menjadi lebih mudah, nomor pada suatu form dibuat urut secara otomatis untuk menghindari kesalahan ketik atau penggandaan penomoran, masing-masing departemen menpunyai data sendiri tetapi tetap terintegrasi dengan bagian Purchasing sehingga departemen Purchasing dapat melakukan pemesanan barang dengan lebih mudah, dan Purchase Order untuk bagian Purchasing telah dilakukan kalkulasi secara otomatis sehingga kesalahan perhitungan dapat lebih diminimalkan.",
+  "creators": "AGUSTINUS HANDIANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010049/INF/2003; Agustinus Handianto (26498038)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN"
+}

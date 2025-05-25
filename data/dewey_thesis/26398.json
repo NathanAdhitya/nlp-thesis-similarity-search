@@ -1,0 +1,14 @@
+{
+  "id": "26398",
+  "title": "Perencanaan filling machine untuk pengisian minyak nabati dalam kaleng ikan sarden dengan kapasitas 30 kaleng/menit.",
+  "abstract": "Pengalengan adalah suatu cara pengolahan ikan dengan sistem sterilisasi. Bahan mentah yang dipakai terutama adalah ikan segar atau ikan basah. Bahan mentah untuk pengalengan harus dipilih yang betul-betul baik. Proses pengalengan meliputi: persiapan bahan mentah, pemotongan (cutting), pengisian (filling), pemasakan awal (pre-cooking), penirisan (decanting), penghampaan (exhausting), sterilisasi, pendinginan, pelabelan dan pengepakan. Ikan yang telah dikalengkan kemudian disimpan dengan baik dapat bertahan selama dua tahun. Salah satu proses yang penting adalah proses pengisian minyak. Pada perencanaan kali ini di rencanakan sebuah mesin pengisian minyak dengan menggunakan sistem gravity filling untuk mengisikan minyak sebagai bumbu sarden dalam kaleng. Proses pengisian ini dilakukan secara otomatis menggunakan micro controller agar pengisian dengan kapasitas 30 kaleng/menit dapat tercapai dengan minimnya tenaga manusia serta pengisian yang akurat. Pada perencanaan ini telah didapat sebuah mesin pengisi minyak pada kaleng yang berisi ikan sarden yang mampu mencapai kapasitas 30 kaleng/menit, dengan menggunakan 2 head pengisian, maka dalam 1 siklus 2 kaleng diisi secara bersamaan. Memiliki panjang lintasan tabletop chain sepanjang 2 meter, terdapat juga mekanisme stopper menggunakan electric actuator yang berguna untuk menahan kaleng pada saat mesin melakukan proses pengisian. Serta menggunakan solenoid valve sebagai kontrol pengisian yang direncanakan untuk melakukan pengisian minyak selama 1 detik. Sedangkan pada tangki reservoir menggunakan sistem overflow dan agar ketinggian air dalam tangki tetap sesuai dengan perencanaan. Dengan adanya mesin pengisi ini proses pengisian minyak dapat berjalan lebih tepat dan efisien.",
+  "creators": "ANDRE KWANTA WARDHANA",
+  "contributors": "Willyanto (Advisor 1); Joni Dewanto (Advisor 2); Suwandi Sugondo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010994/MES/2012; Andre Kwanta Wardhana (24407019)",
+  "subjects": "MACHINERY DESIGN"
+}

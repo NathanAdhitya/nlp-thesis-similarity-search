@@ -1,0 +1,14 @@
+{
+  "id": "14341",
+  "title": "Perancangan dan pembuatan aplikasi untuk menunjang analisa track record penyakit di RSU Dr. Soetomo dengan menggunakan metode K-Nearest Neighbors",
+  "abstract": "Saat ini RSU Dr. Soetomo telah memiliki sistem yang terkomputerisasi untuk mencatat track record penyakit pasien. Dengan banyaknya data yang harus dianalis, RSU Dr. Soetomo membutuhkan suatu sistem pendukung untuk membantu memberi informasi mengenai munculnya suatu penyakit pada suatu daerah. Berdasarkan permasalahan yang dihadapi RSU Dr. Soetomo, maka perlu dibuat suatu aplikasi berbasis data mining untuk membantu mengetahui munculnya suatu penyakit pada suatu daerah. Aplikasi dirancang untuk mengetahui pola urutan penyakit yang diderita pasien pada suatu daerah tertentu berdasarkan data historis pasien RSU Dr. Seotomo dengan menggunakan metode K-Nearest Neighbors. Melalui proses KNN dapat memberikan informasi mengenai kedekatan suatu daerah dengan daerah lain berdasarkan data yang ada pada database RSU Dr. Soetomo. Informasi yang dihasilkan dari aplikasi berupa nilai voting dari tiap daerah berdasarkan hasil perhitungan K-Nearest Neighbors, yang menggambarkan daerah mana yang memiliki kedekatan data paling tinggi dengan suatu daerah dan akan ditampilkan pada peta. Melalui informasi ini, diharapkan dapat dijadikan masukan untuk mengenali pattern penyakit pada suatu daerah di masa kini, sehingga RSU Dr. Soetomo dapat mempersiapkan pencegahan dan pengobatan penyakit pada suatu daerah.",
+  "creators": "DARMAWAN SUTANTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Oviliani Yenty Yuliana (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020853/INF/2009; Darmawan Sutanto (26406014)",
+  "subjects": "DATA MINING; DATABASE SEARCHING"
+}

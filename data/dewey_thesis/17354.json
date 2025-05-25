@@ -1,0 +1,14 @@
+{
+  "id": "17354",
+  "title": "Desain mikroprosesor dengan HDL Fondation 1.5",
+  "abstract": "Perkembangan elektronika sangat cepat Desain dan implementasi tidak memerlukan penyolderan dan pengaturan komponen. Desain dapat diimplementasikan dalam single chip, sehingga waktu realisasi dapat dikurangi. Desain berdasarkan konfigurasi secara software. Dalam realisasi desain dengan hardware tidak perlu lagi mencari kesalahan x yang terjadi. Desain dengan Hardware Description Language menghemat waktu dibandingkan menyambung beberapa komponen. Dengan memanfaatkan kemajuan teknologi ini, penulis memakai FPGA Xilinx 4005 XL sebagai target implementasi desain mikroprosesor 8 bit. Desain ini dirancang dengan perangkat lunak Xilinx Foundation 1.5. Dalam tugas akhir ini, saya mendesain Arsitektur mikroprosesor, meliputi : ALU, Register, accumulator, program counter, stack pointer, carry flag, zero flag, I/O port, dekoder instruksi, interrupt, address selector, register instruksi. Mikroprosesor dirancang untuk mampu melaksanakan 22 instruksi untuk branch, manipulasi data, seperti : load, store, in, out, xor, add, clearc, setc, jump, ret, reti. Pengalamatan dilakukan secara direct addressing, indexed addressing, indirect addressing. Mikroprosesor ini memakai memory eksternal (RAM). RAM terbagi tiga bagian, yaitu PROGRAM, DATA dan STACK. Mikroprosesor memakai clock external 12 MHz. Dari hasil simulasi dan pengujian dengan mempergunakan assembler, mikroprosesor memberikan respon yang sesuai dengan desain. Desain dapat diimplementasikan ke dalam FPGA hanya memakan ruang 55% dari CLB.",
+  "creators": "IRAWAN",
+  "contributors": "SOETIKNO (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1); Yohanes Trilaksono Dibyo S. (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/052/489; Irawan (23495075)",
+  "subjects": "MICROPROCESSOR; MICROPROCESSOR-DESIGN AND CONSTRUCTION"
+}

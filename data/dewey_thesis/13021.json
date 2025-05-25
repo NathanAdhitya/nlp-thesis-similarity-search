@@ -1,0 +1,14 @@
+{
+  "id": "13021",
+  "title": "Perancangan dan pembuatan sistem informasi pencarian buku dengan kemampuan kolaborasi pertukaran data antar situs berbasis web di Perpustakaan Universitas Kristen Petra",
+  "abstract": "Pada saat ini, Perpustakaan Universitas Kristen Petra (UKP) menyediakan fasilitas katalog online yaitu iSPEKTRA. iSPEKTRA dibuat agar mahasiswa khususnya mahasiswa di UKP dapat mencari koleksi dengan mudah. Fasilitas iSPEKTRA pada Perpustakaan UKP saat ini hanya sebatas menampilkan buku yang ada dalam perpustakaan. Untuk meningkatkan layanan di Perpustakaan UKP, ditambahkan fasilitas untuk mencari dan menawarkan buku. Agar fasilitas tersebut semakin efektif, maka buku yang ditawarkan akan dipublikasikan ke situs lain yang sejenis. Untuk itu dibutuhkan kolaborasi pertukaran data dengan situs lainnya dengan menggunakan Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH) yang didukung dengan skema metadata buku. Sistem pencarian buku dengan kemampuan kolaborasi pertukaran data dikembangkan dengan menggunakan PHP dan MySQL. Program yang dibuat meliputi daftar buku yang ditawarkan, daftar buku yang dicari, informasi pencari dan penawar buku yang direkomendasikan via email, dan kolaborasi pertukaran data antar situs. Dari hasil implementasi, ujicoba serta kuisioner dapat disimpulkan bahwa 63% responden setuju bahwa aplikasi mudah dalam menemukan pencari buku dan 60% responden setuju aplikasi mudah dalam menemukan penawar buku sesuai dengan buku yang dicari atau yang ditawarkan.",
+  "creators": "DAVID DWI KURNIAWAN K",
+  "contributors": "Oviliani Yenty Yuliana (Advisor 1); Liauw Toong Tjiek, S.T., M.S., Ph.D. (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020794/INF/2009; David Dwikurniawan Kusuma (26404122)",
+  "subjects": "WEBSITES; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

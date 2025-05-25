@@ -1,0 +1,14 @@
+{
+  "id": "3449",
+  "title": "Perancangan dan pembuatan aplikasi untuk mencari minimum jumlah mobil dan rute tercepat untuk pengiriman barang dengan metode extended transitive closure",
+  "abstract": "Pengiriman barang sering dilakukan atau dialami oleh banyak orang. Namun masih banyak terjadi pengiriman barang yang terlambat dari jadwal yang telah diperkirakan. Hal ini bergantung pada arus lalu lintas selama pengiriman tersebut. Pada sisi lain, pelanggan juga memiliki jadwal masing-masing. Ada kalanya pelanggan tersebut sibuk atau tidak dapat menerima pengiriman barang. Pengirim barang pun perlu memikirkan sisi ekonomi dimana semakin sedikit mobil pengirim barang yang digunakan maka semakin sedikit pula biaya yang dibutuhkan untuk melakukan pengiriman barang. Tujuan tugas akhir ini adalah untuk membuat perangkat lunak yang mencari rute tercepat dan jumlah mobil terkecil untuk pengiriman barang dengan memperhitungkan interval waktu pelanggan. Tugas akhir ini dibuat dengan menggunakan metode Transitive Closure untuk mencari jalur pengiriman barang. Sebagai masukan sistem digunakan image untuk memasukkan gambar peta suatu daerah. Pemrograman perangkat lunak menggunakan bahasa pemrograman Pascal, kompiler Borland Delphi 7.0, dan database Microsoft SQL Server 2000. Hasil pengujian sistem menunjukkan bahwa optimasi pengiriman barang dengan menggunakan algoritma Transitive Closure menghasilkan rute yang paling cepat dalam pengiriman barang. Peningkatan jumlah daerah, jumlah jalan dan jumlah pelanggan mengakibatkan meningkatnya waktu proses. Grafik rute pengiriman barang yang ditampilkan dapat membantu pengguna aplikasi untuk mengetahui rute perjalanan mobil pengiriman barang.",
+  "creators": "ALBERT GUNAWAN WIDHARTO",
+  "contributors": "Rolly Intan (Advisor 1); Gregorius Satiabudhi (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010531/INF/2006; Albert Gunawan Widharto (26402007)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

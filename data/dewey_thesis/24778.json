@@ -1,0 +1,14 @@
+{
+  "id": "24778",
+  "title": "Robot ular yang dapat bergerak di bidang datar",
+  "abstract": "Pada umumnya, robot didesain agar dapat bergerak menggunakan roda atau kaki. Robot beroda memiliki keunggulan pada aspek kecepatan, sedangkan robot berkaki lebih unggul ketika harus melalui daerah yang tidak rata.Seiring dengan perkembangan teknologi robot, maka ditemukan pula banyak kekurangan pada robot beroda maupun berkaki. Salah satu masalah yang ditemukan adalah dibutuhkannya ruang gerak yang cukup luas agar robot dapat bergerak dengan baik.Berdasarkan masalah tersebut, maka robot berbentuk ular mulai dikembangkan. Dengan kecepatan gerak yang cukup cepat, robot berbentuk ular hanya membutuhkan ruang gerak yang jauh lebih kecil dibandingkan robot beroda atau berkaki. Salah satu pengembangan robot berbentuk ular dengan memanfaatkan keuntungan ini adalah rescue robot.Tujuan dari tugas akhir ini adalah mengimplementasikan pergerakan seekor ular pada sebuah robot berbentuk ular. Gerakan yang akan dibahas di dalam tugas akhir ini adalah lateral undulation dan sidewinding. Robot pada tugas akhir ini dibuat menggunakan Bioloid Premium Kit. Aktuator yang digunakan adalah motor servo Dynamixel AX-12A sebanyak 18 buah. Sebagai kesimpulan, jenis gelombang yang paling cocok untuk pergerakan maju adalah 1,75 lamda, sedangkan untuk pergerakan belok adalah 1lamda. Kemudian, berdasarkan hasil chi-square test, penggunaan delapan dan sembilan buah segmen menghasilkan perbedaan yang tidak signifikan.",
+  "creators": "DANIEL EKAPUTRA",
+  "contributors": "Hany Ferdinando (Advisor 1); Handry Khoswanto (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010928/ELK/2012; Daniel Ekaputra (23408004)",
+  "subjects": "ROBOTICS"
+}

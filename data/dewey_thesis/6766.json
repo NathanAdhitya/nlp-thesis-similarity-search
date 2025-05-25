@@ -1,0 +1,14 @@
+{
+  "id": "6766",
+  "title": "Program analisa dinamis struktur tiga dimensi dengan metode constant velocity dan modal analysis",
+  "abstract": "Suatu program komputer dibuat untuk membantu para mahasiswa dalam mempelajari perilaku dinamis struktur. Program ini dibuat sebagai kelanjutan dari program gempa yang telah dibuat oleh Yohan Fangaja dan Erny Olivia (2002) di Universitas Kristen Petra. Telah dilakukan perubahan-perubahan untuk menyempurnakan program sebelumnya. Sebagai contoh : penambahaan metode analisa modal. Penggunaan program ini diusahakan sesederhana mungkin, sehingga sangat mudah pengoperasiannnya. Program dapat digunakan untuk struktur tiga dimensi dimana pusat massa semua lantai terletak pada suatu sumbu vertikal, dan pusat kekakuan semua lantai terletak pada suatu sumbu vertikal yang lain, artinya eksentrisitas ex dan ey sama untuk semua tingkat. Program ini juga mampu menampilkan animasi tampak samping yang megidealisasi struktur sebagai lumped mass dan animasi tampak atas dari response struktur akibat dibebani beban dinamis pada satu arah dan pengaruh arah tegak lurusnya. Dengan menggunakan program ini diharapkan pemakai dapat memperoleh pengertian yang lebih mendalam mengenai perilaku struktur elastis terhadap beban dinamis, antara lain pengaruh soft storey, pengaruh resonansi antara pembebanan dan struktur, serta pengaruh torsi.",
+  "creators": "BAMBANG DARMOYO GUNTORO; HENDRA SUJONO",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Sukanto Tedjokusuma (Advisor 2); Pamuda Pudjisuryadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11201442/SIP/2005; Bambang Darmoyo Guntoro (21401065), Hendra Sujono (21401093)",
+  "subjects": "STRUCTURAL DYNAMICS-DATA PROCESSING; EARTHQUAKE ENGINEERING-DATA PROCESSING"
+}

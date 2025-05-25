@@ -1,0 +1,14 @@
+{
+  "id": "43230",
+  "title": "Implementasi face recognition menggunakan raspberry ii untuk akses ruangan pribadi",
+  "abstract": "Di jaman sekarang, banyak sekali IoT dengan metode baru bermunculan dan menjadi trend di masa kini. Dari banyaknya IoT yang ada jaman sekarang yaitu dalam sistem keamanan rumah dan memudahkan dalam melakukan kegiatan sehari-hari. Di dalam kantor atau perusahaan juga sekarang membutuhkan IoT untuk menjaga file yang dimiliki agar tidak disalah gunakan oleh pegawai perusahaan untuk menjatuhkan perusahaannya sendiri. Selama ini, banyak sekali perusahaan yang tidak bisa bangkit kembali karena hal-hal yang menyalah gunakan data perusahaan untuk kepentingan pribadi. Dan dalam keamanan untuk mencegah kejadian tersebut masih dilakukan dengan cara penyimpanan dalam ruangan yang dijaga oleh security dan memerlukan kunci untuk membuka ruangan tersebut, banyak sekali kekurangannya dan mengeluarkan biaya cukup tinggi. Face recognition ini dibuat agar perusahaan atau kantor dapat lebih terjaga keamanannya dan menurunkan tingkat resiko yang akan terjadi dalam peretasan dokumen penting perusahaan, karena yang dapat membuka pintu tersebut hanyalah atasan saja dengan cara merekam wajah dan menyimpannya didalam library hak akses pintu. Aplikasi ini dibuat menggunakan bahasa pemrograman python, dan library yang digunakan adalah OpenCV. Dengan adanya face recognition ini, perusahaan atau kantor dapat lebih terjaga keamanannya dalam hal kehilangan file yang sangat penting bagi perusahaan tersebut.",
+  "creators": "CRIYUS LESMANA",
+  "contributors": "Resmana Lim (Advisor 1); Leo Willyanto Santoso (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1); Justinus Andjarwirawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021846/INF/2019; Criyus Lesmana (26414146)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); IMAGE PROCESSING--DIGITAL TECHNIQUES"
+}

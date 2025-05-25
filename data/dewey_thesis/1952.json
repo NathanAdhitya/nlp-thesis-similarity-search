@@ -1,0 +1,14 @@
+{
+  "id": "1952",
+  "title": "Standalone mobile robot pada maze menggunakan sensor kamera",
+  "abstract": "Perkembangan teknologi robotika pada saat ini sudah mencapai tahap dimana robot yang diciptakan dibuat semirip mungkin dengan manusia. Baik dari segi penampilan, kemampuan bahkan cara pikir. Salah satu kemampuan manusia yang ingin ditiru adalah penglihatan. Tujuan dari tugas akhir ini adalah dengan menggunakan kamera ( CMUcam ) sebagai sensor untuk navigasi mobile robot pada maze ( dibatasi hanya pada maze tanpa percabangan ) yang telah tersedia, sehingga mobile robot ini dapat mengikuti jalur maze yang berwarna hitam dan mendeteksi dinding yang berwarna putih untuk melakukan belok ke kanan atau ke kiri. Pada pengujian yang dilakukan pada jalur lurus sepanjang 1 meter, waktu rata-rata yang dibutuhkan mobile robot adalah 8,09 detik. Ukuran dari mobile robot yang dibuat terdiri dari dua bagian. Pertama bagian penutup cahaya memiliki panjang 21 cm, lebar 32 cm, tinggi 43 cm dan yang kedua bagian penggerak dan modul kontrolnya memiliki panjang 11,5 cm, lebar 8,5 cm, dan tinggi 13 cm. selain itu berat dari mobile robot ini ialah 1,2 kg. Dalam pengujian pada denah jalur, mobile robot ini dapat mencapai tempat tujuan dengan baik.",
+  "creators": "JERRY RUDOLF SIRAIT",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Resmana Lim (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010730/ELK/2005; Jerry Rudolf Sirait (23400049)",
+  "subjects": "ROBOTS"
+}

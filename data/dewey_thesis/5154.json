@@ -1,0 +1,14 @@
+{
+  "id": "5154",
+  "title": "Simulasi kontrol lift menggunakan PLC berbasis fuzzy logic",
+  "abstract": "Dalam perkembangan teknologi saat ini, mengakibatkan muncul bangunan-bangunan pencakar langit ataupun bangunan bertingkat yang tinggi. Untuk mendukung keberadaan bangunan-bangunan tersebut diperlukan suatu sistem transportasi vertikal yang mempunyai kecepatan tinggi, tingkat kenyamanan tinggi serta keamanan dan stabilitas yang baik. Untuk memenuhi kebutuhan ini, salah satu pengontrol yang bisa digunakan adalah PLC Omron C200HG. Dalam perencanaan sistem ini selain menggunakan digital I/O, juga menggunakan beberapa spesial unit PLC Omron seperti analog output, fuzzy logic unit, dan high speed counter. Metode fuzzy logic digunakan untuk mengontrol posisi sangkar. Berdasarkan hasil pengujian yang dilakukan dapat dilihat bahwa respon sistem yang dihasilkan cukup baik, dimana steady state error-nya lebih kecil dari 1 % dan settling time per lantainya mencapai 3.0 s/d 5.3 detik dengan jarak simulasi per lantai adalah 37 cm.",
+  "creators": "ALBERTUS DAVID KHO",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010681/ELK/2004; Albertus David Kho (23499041)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

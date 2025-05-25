@@ -1,0 +1,14 @@
+{
+  "id": "4709",
+  "title": "Aplikasi metode meshless local petrov-galerkin pada analisis problem elastisitas struktur dua dimensi",
+  "abstract": "Metode meshless merupakan alternatif yang menarik untuk mengatasi kelemahan metode elemen hingga, seperti kesulitan dalam menyelesaikan problem locking, distorsi elemen, remeshing untuk deformasi yang besar, dan lain sebagainya, dimana prosedur remeshing ini biasanya sulit dan perlu dilakukan berulangkali karena konfigurasinya yang berubah-ubah, apalagi jika berhadapan dengan bentuk geometrik struktur yang rumit. Pada metode meshless, prosedur diskretisasi maupun rediskretisasi dalam suatu domain dapat dilakukan dengan pendefinisian titik-titik nodal dan kondisi batas dari suatu domain untuk menjadi permodelan struktur sesungguhnya. Dalam makalah ini akan diuraikan tahap-tahap perhitungan dari metode meshless local Petrov-Galerkin (MLPG) sebagai salah satu dari metode-metode meshless yang cukup menonjol. Pengenalan akan metode MLPG tersebut juga akan diperjelas dengan memaparkan teori aproksimasi moving least-squares (MLS) dan hasil analisa metode MLPG terhadap struktur cantilever beam. Analisa numerik menunjukkan bahwa metode MLPG memberikan hasil dengan akurasi yang tinggi.",
+  "creators": "YULIANTI; BAMBANG JUNAIDI",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Effendy Tanojo (Advisor 2); Benjamin Lumantarna (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11131390/SIP/2004; Yulianti (21401003), Bambang Junaidi (21401118)",
+  "subjects": "STRUCTURAL ANALYSIS (ENGINEERING)"
+}

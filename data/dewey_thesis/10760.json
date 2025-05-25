@@ -1,0 +1,14 @@
+{
+  "id": "10760",
+  "title": "Sistem tampilan informasi parkir dengan menggunakan mikrokontroler",
+  "abstract": "Informasi merupakan faktor penting yang dibutuhkan bagi semua orang, khususnya di tempat parkir yang dapat membuat kenyamanan bagi pengendara, pengelola gedung, dan petugas pengaturan parkir. Namun kebanyakan lahan parkir yang ada sekarang baik di perkantoran, gedung- gedung bertingkat, dan tempat- tempat perbelanjaan tidak dilengkapi dengan sistem informasi lahan parkir otomatis sehingga dapat mengakibatkan kemacetan. Oleh karena itu dibuat sistem informasi parkir dapat ditampilkan sebelum pengendara masuk ke lahan parkir. Untuk mewujudkan sistem tersebut dibuat miniatur lahan parkir 3 lantai dengan kapasitas 10 kendaraan setiap lantainya. Pada setiap slot parkir akan dipasang sensor logam yang ditujukan untuk kendaraan saja, dan lampu yang yang diintegrasikan pada mikrokontroler slave. Setelah itu akan ditampilkan perubahan sensor pada 7-segment yang artinya akan ditampilkan jumlah slot parkir yang kosong dan data akan dikirimkan melalui RS 485 sebagai media komunikasinya. Setiap perubahan sensor yang terjadi pada setiap lantai dapat ditampilkan pada setiap lantai dan diterima oleh mikrokontroler master untuk ditampilkan pada LCD. Pemilihan mikrokontroler yang menjadi otak dari kontroler ini jatuh pada Atmel ATmega8 yang memiliki performa dan fleksibilitas yang lebih tinggi dibandingkan keluarga MCS-51. Berdasarkan pengujian data pada sistem secara keseluruhan, didapatkan hasil yang menunjukkan bahwa mikrokontroler melakukan pengiriman dan pengolahan data secara optimal. Mikrokontroler tersebut mampu berfungsi baik sebagai slave dan master sebatas simulasi sistem yang diimplemetasikan pada miniatur gedung parkir 3 lantai.",
+  "creators": "DIMAS SUTANTO",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010856/ELK/2008; Dimas Sutanto (23403030)",
+  "subjects": "AUTOMATIC CONTROL"
+}

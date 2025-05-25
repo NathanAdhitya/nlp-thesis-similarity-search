@@ -1,0 +1,14 @@
+{
+  "id": "7589",
+  "title": "Perencanaan dan pembuatan perangkat lunak text to speech dalam bahasa Indonesia dan Inggris dengan metode syllable concatenation",
+  "abstract": "Perkembangan dunia teknologi semakin pesat dan ditujukan untuk membantu kehidupan manusia. Perangkat lunak text-to-speech merupakan salah satu di antaranya, yang bertujuan untuk mengubah teks menjadi suara pengucapannya. Perangkat lunak ini dibuat dengan menggunakan metode Syllable Concatenation, yang pada dasarnya memainkan dan menggabungkan beberapa file suara dari suku kata-suku kata yang ditemukan di dalam input teks dan menggunakan bahasa pemrograman C++, dengan kompiler Microsoft Visual C++ 6.0?. Selain perangkat lunak utama tersebut, juga dibuat beberapa perangkat lunak penunjang seperti: perangkat lunak perekaman suku kata, pengaturan singkatan, akronim dan diftong, dan pengaturan suku kata. Perangkat lunak ini dapat dimanfaatkan untuk membantu mereka yang ingin belajar pengucapan kata dalam bahasa Indonesia dan Inggris serta berbagai tujuan lainnya. Perangkat lunak ini diujikan terhadap beberapa variasi input teks. Dan hasil pengujian menunjukkan bahwa proses normalisasi, pemenggalan kata dan penghasilan suara yang dilakukan sudah cukup baik. Kualitas suara yang dihasilkan oleh perangkat lunak utama ini bergantung pada kualitas suara masing-masing suku kata yang direkam sebelumnya.",
+  "creators": "WONG LUCKY WIJAYA",
+  "contributors": "Rolly Intan (Advisor 1); Kartika Gunadi (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000417/INF/2005; Wong Lucky Wijaya (26402141)",
+  "subjects": "SOFTWARE ENGINEERING; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

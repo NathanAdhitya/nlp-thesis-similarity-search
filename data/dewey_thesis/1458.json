@@ -1,0 +1,14 @@
+{
+  "id": "1458",
+  "title": "Aplikasi dan analisis beban pendinginan pada bangunan gedung kembar (twin tower) apartemen Golfhill di Jakarta",
+  "abstract": "Penelitian ini diarahkan untuk optimasi perencanaan kapasitas mesin AC, dimana sistem tata udara menggunakan 55-65% energi dari keseluruhan energi dalam gedung. Penelitian ini dilengkapi dengan pembuatan perangkat lunak CLTD INSTANT. Dengan demikian optimasi ini untuk mendukung upaya konservasi energi pada bangunan yang direncanakan. Penelitian ini dilakukan pada gedung apartemen golfhill di Jakarta yang memiliki ketinggian diatas delapan lantai. Perhitungan beban pendinginan menggunakan metode yang akurat yaitu metode CLTD (Cooling Load Temperature Difference) berdasarkan 1993 ASHRAE Handbook: Fundamentals dengan tiga kondisi (non shade, actual, fullshade) dan membandingkannya dengan hasil metode `Rule of Thumb? AC Panda. Perhitungan CLTD dilakukan dengan mengambil kondisi outdoor 34?C DBT 76% RH, indoor 25?C DBT 60% RH, dan asumsi kepadatan perkantoran 20 orang/1000 ft2. Hasil perhitungan metode CLTD memperlihatkan profil beban pendinginan baik eksternal, internal, dan beban pendinginan keseluruhan selama 24 jam pada lima hari kritis. Profil beban pendinginan total menunjukkan beban puncak AC terjadi pada bulan Maret dan Desember pukul 17.00 dengan kontribusi beban eksternal sebesar 24,91% dan internal sebesar 75,09% dari keseluruhan beban pendinginan. Konduksi dinding memberikan kontribusi beban panas terbesar pada beban eksternal (17,5% dari total beban pendinginan). Ventilasi memberikan kontribusi beban panas terbesar pada beban internal (54,0% dari total beban pendinginan). Hasil perhitungan metode CLTD pada Apartemen Golfhill menunjukkan bahwa pengaruh pembayangan yang dapat mereduksi kapasitas pendinginan sebesar 1,7% dari total beban pendinginan. Hasil perhitungan CLTD dibandingkan dengan kapasitas AC eksisting dan menghasilkan angka ketidaksesuaian rata-rata sebesar 7,69% dari beban pendinginan actual. Apabila dibandingkan dengan hasil metode `Rule of Thumb? menghasilkan ketidaksesuaian yang bervariasi bergantung kondisi yang digunakan. Penelitian ini melakukan pencarian nilai beban pendinginan kapasitas apartemen dengan rentang 10-25 orang/1000 ft2 dan suhu indoor rentang 23-27?C DBT dengan metode CLTD. Beban pendinginan maksimum akan berubah akibat orientasi bangunan yang dirotasi. Perbedaan antara beban pendinginan maksimum terbesar dan terkecil sebesar 1.7 % dari beban pendinginan terkecil.",
+  "creators": "HANDI",
+  "contributors": "Jimmy Nurdi Kusuma Priatman (Advisor 1); Oegik Soegihardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Thesis No. 01000074/MTS/2004; Handi (01500007)",
+  "subjects": "AIR CONDITIONING; COOLING LOAD"
+}

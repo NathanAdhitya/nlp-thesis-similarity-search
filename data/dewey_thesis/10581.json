@@ -1,0 +1,14 @@
+{
+  "id": "10581",
+  "title": "Pengaturan daya dengan beban maksimum sebesar 600 watt yang menggunakan teknik integral cycle controller",
+  "abstract": "Dalam Tugas Akhir ini dibahas pengaturan daya dengan teknik integral cycle controller, pengaturan daya tersebut berdasarkan banyaknya sinyal ac yang dihidup-matikan tepat pada titik persimpangan nol yang diberikan pada beban. Pengujian yang dilakukan adalah mengamati energi, temperatur dan harmonisa jika diberikan daya serta perbandingan berbeda pada beban, dan perbandingan pengujian elemen 600 Watt daya 50% dengan elemen 300 Watt daya 100% untuk mencapai temperatur 77 ?C dan volume air 800 ml. Hasil pengujian diperoleh bahwa pada kompor listrik 600 watt tanpa beban : kenaikan energi mengikuti pola linearitas dan kenaikan temperahir mengikuti pola logarithmic, pada keadaan berbeban : daya 50% pada elemen 600 Watt didapat kenaikan energi sebanding dengan kenaikan nilai cycle on dan off untuk mencapai temperatur 77 ?C dan volume air 800 ml. Besarnya energi kompor listrik 300 Watt daya 100 % sama dengan kompor listrik 600 Watt daya 50 % pada kondisi cycle on dan off bernilai 1 -2, dan banyaknya spektrum harmonisa tegangan berbanding terbalik dengan daya yang diberikan.",
+  "creators": "JOHNNY GITAWAN",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.00/E/EL/013/450; Johnny Gitawan (23493049)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAM"
+}

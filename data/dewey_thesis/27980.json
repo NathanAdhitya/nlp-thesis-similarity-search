@@ -1,0 +1,14 @@
+{
+  "id": "27980",
+  "title": "Perencanaan dan pembuatan alat pengukur pukulan dengan menggunakan mikroprocessor 8088",
+  "abstract": "Semakin pesatnya kemajuan teknologi Elektronika, maka semakin banyak diproduksi alat-alat yang dapat memudahkan hidup kita. Dalam bidang olahraga tinju digunakan karung berisi pasir untuk berlatih. Semakin keras pukulan tentunya karung pasir akan berayun semakin jauh. Pembuatan Alat Pengukur Pukulan ini untuk membantu seorang petinju/olahragawan mengetahui kemajuan latihannya. Besaran fisis berat dari pukulan diubah menjadi suatu besaran listrik analog dengan bantuan transducer. Transducer yang dipilih adalah strain gauge. Output dari transducer masih berupa tegangan differensial yang kecil. Sehingga perlu rangkaian Instrumentation Amplifier. Tegangan analog yang dihasilkan Instrumentation Amplifier akan dikonversi menjadi sinyal digital oleh Analog to Digital Converter(ADC). Keluaran Analog to Digital Converter akan diolah oleh minimum system dan hasilnya ditampilkan melalui display. Dengan menekan tombol keyboard dapat diketahui pukulan terberat, pukulan teringan, Rata-rata pukulan, jumlah pukulan. Alat Pengukur Pukulan ini dirancang untuk dapat mengukur berat antara range 0 - 100 Kg dengan ketelitian satu Kg. Kegunaan lain dapat dioperasikan sebagai timbangan digital. Hasil yang dicapai dalam pengujian, strain gauge yang digunakan cukup linier. Untuk membaca pukulan dengan akurat perlu dikembangkan suatu mekanis alat yang lebih baik. Dengan minimum sistem yang sama, dapat dipakai untuk aplikasi penggunaan yang sangat kompleks dan berbeda-beda.",
+  "creators": "ALEXANDER PRAYOGO",
+  "contributors": "Murtiyanto Santoso (Advisor 1); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/025/0182; Alexander Prayogo (23487083)",
+  "subjects": "AUTOMATIC CONTROL; INTEL 8088 (MICROPROCESSOR)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "59191",
+  "title": "Prediksi harga koin kripto Bitcoin menggunakan algoritma Facebook prophet model",
+  "abstract": "Bitcoin adalah koin kripto yang dibuat oleh seorang bernama Satoshi Nakamoto. Bitcoin merupakan salah satu koin kripto yang banyak diminati oleh para pedagang koin kripto karena keuntungan besar yang dihasilkan. Namun, bitcoin juga memiliki risiko yang besar karena perubahan pergerakannya yang cepat. Cara untuk mengecilkan risiko yang didapatkan adalah dengan mempelajari pergerakan harga dari bitcoin. Solusi yang diusulkan pada Tugas Akhir ini adalah dengan menggunakan facebook prophet model untuk mempelajari pergerakan harga bitcoin. Model ini akan mempelajari pergerakan harga dari bitcoin harian dan bulanan. Kemudian, model ini akan melakukan prediksi berdasarkan dari hasil pembelajaran sebelumnya. Selain itu, hasil dari prediksi model ini juga akan dibandingkan dengan model seasonal lainnya yaitu SARIMA model. Berdasarkan dari pengujian yang sudah dilakukan facebook prophet model bekerja tidak sebaik SARIMA model dalam memprediksi bitcoin harian. Sedangkan, untuk prediksi bitcoin bulanan, facebook prophet model bekerja lebih baik daripada SARIMA model. Perbandingan nilai MAPE facebook prophet model dan SARIMA model adalah 6.77% dan 4.45% untuk prediksi bitcoin harian. Sedangkan, Perbandingan nilai MAPE facebook prophet model dan SARIMA model ntuk prediksi bitcoin bulanan adalah 2.63% dan 8.38%.",
+  "creators": "DAVID KRISTIAN YABES",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); Justinus Andjarwirawan (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022414/INF/2024; David Kristian Yabes (C14180203)",
+  "subjects": "BITCOIN; CRYPTOCURRENCIES; FACEBOOK (ELECTRONIC RESOURCE); ALGORITHMS"
+}

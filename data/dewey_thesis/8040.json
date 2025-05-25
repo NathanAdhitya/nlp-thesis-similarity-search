@@ -1,0 +1,14 @@
+{
+  "id": "8040",
+  "title": "Perancangan dan pembuatan aplikasi sistem pakar untuk deteksi gejala dan cara pengobatan penyakit pada ikan hias air tawar",
+  "abstract": "Bagi seorang peternak atau penghobi ikan hias air tawar, kesalahan diagnosis dan pengobatan suatu penyakit akan membawa dampak yang fatal bagi ikan hias. Untuk membantu mengatasi hal tersebut, salah satu caranya adalah dengan pembuatan aplikasi sistem pakar. Aplikasi sistem pakar ini meniru cara berpikir seorang ahli peternakan dalam melakukan diagnosis suatu kasus penyakit. Aplikasi ini membantu dalam mencari kesimpulan akan penyakit yang diderita beserta pencegahan dan pengobatan yang sesuai. Program aplikasi ini menganalisa data ikan hias serta gejala-gejala dari suatu penyakit. Pengembangan sistem pakar ini menggunakan metode backward chaining, yaitu proses inferensi yang memulai pencarian dari konklusi untuk mendapatkan premis. Aplikasi sistem pakar ini menggunakan pemrograman Borland Delphi 7, dan untuk database-nya menggunakan Microsoft Access 2000. Berdasarkan hasil kuisioner yang telah dilakukan, didapatkan kenyataan bahwa presentase kelayakan program untuk digunakan oleh insinyur peternakan adalah sebesar 80%, presentase keakuratan program adalah sebesar 76%, presentase kemudahan penggunaan program adalah sebesar 80%, dan presentase desain tampilan dari sistem pakar adalah sebesar 100%.",
+  "creators": "DANIEL JAYADI",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Andreas Handojo (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010666/INF/2007; Daniel Januar Jayadi (26402137)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

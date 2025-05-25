@@ -1,0 +1,14 @@
+{
+  "id": "46229",
+  "title": "Sistem pembacaan Kode Pos yang terintegrasi dengan pencarian alamat pada OpenStreetMap",
+  "abstract": "Kode pos merupakan sekumpulan data yang merujuk pada suatu alamat dengan pembagian wilayahnya secara rinci (tingkat provinsi, kota/kabupaten, kecamatan, desa/kelurahan) bahkan hingga tingkat blok RT/RW yang terdapat pada setiap digit nya kecuali tingkatan RT/RW. Namun data ini cukup sulit untuk diolah pada map database karena pembagian tingkatannya yang cukup dalam dan terpilah-pilah sementara pada umumnya digital maps hanya mampu mengolah data longitude, latitude serta informasi alamat hingga tingkat kota dalam bentuk plain text. Untuk mengatasi masalah kurangnya korelasi dan potensinya untuk saling melengkapi antara database system dengan postal data system, maka digabungkanlah keduanya menjadi satu yang utuh. Dengan perkembangan web yang semakin mumpuni dengan adanya HTTPS dan Progressive Web Apps, proses inti dari pencarian tempat yaitu geocoding, geolocation, dan reverse geocoding, dapat berfungsi lebih optimal tanpa harus mengorbankan keamanan dan kenyamanan pengunaan secara keseluruhan. Hasil pengujian menyimpulkan bahwa proses penyatuan sistem ini sudah cukup meningkatkan ketepatan dalam proses pencarian alamat, selama diatur oleh pihak yang sesuai dan kompeten. Tidak dapat dipungkiri bahwa pengetahuan dasar akan sistem pemetaan serta sistem informasi geografis diperlukan di sini untuk mengkaji seberapa jauh tingkatan pencatatan alamat pada peta yang sudah ada. Kegunaan sistem ini akan lebih sesuai apabila kodepos diterapkan secara total dalam proses query nya, kemudian dengan tambahan fitur cerdas lainnya seperti pelacakan kondisi lokasi dan penentuan rute terbaik dari daftar yang ada serta kondisi saat ini secara real-time.",
+  "creators": "ADRIAN EVAN",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Rudy Adipranata (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021924/INF/2020; Adrian Evan (26414117)",
+  "subjects": "GEOGRAPHICAL POSITIONS; MEMORY MAPS (COMPUTER SCIENCE); APPLICATION SOFTWARE--DEVELOPMENT"
+}

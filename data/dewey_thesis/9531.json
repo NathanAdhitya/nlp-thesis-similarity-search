@@ -1,0 +1,14 @@
+{
+  "id": "9531",
+  "title": "Pengaplikasian mobile ad-hoc network (manet) sebagai penunjang audience response system untuk polling system",
+  "abstract": "Perkembangan teknologi jaringan yang begitu pesat dewasa ini dikarenakan kebutuhan user akan informasi yang makin hari makin meningkat. Sekarang ini teknologi jaringan yang sedang naik daun adalah teknologi wireless atau nirkabel yang lebih bersifat fleksibel dibandingkan wired network atau teknologi kabel. Aplikasi polling system dibuat sebagai sarana untuk melakukan penelitian pada teknologi mobile ad-hoc network (MANET) dengan cara melakukan pengujian pada ad-hoc mode pada teknologi wireless. Adapun dengan adanya aplikasi ini, setiap user yang terhubung ke dalam jaringan dimungkinkan untuk mengikuti polling. Jawaban untuk polling system dibuat dalam bentuk multiple choices. Adapun software pendukung yang digunakan disini adalah Olsrd untuk mendukung metode OLSR dan Dnsmasq sebagai DHCP server. Selain itu juga digunakan software NS2 untuk mensimulasikan jaringan MANET ini. Pengujian dilakukan dengan melakukan perhitungan response time dari tiap user yang mengikuti polling. Berdasarkan hasil pengujian, response time dari tiap node pada jaringan MANET tidak bergantung pada ukuran besar kecilnya halaman web yang diakses, akan tetapi pada jarak antar node, spesifikasi hardware node , dan juga ada tidaknya penghalang antar node.",
+  "creators": "ERIC ANTHONY",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Andreas Handojo (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010675/INF/2007; Eric Anthony (26403059)",
+  "subjects": "SOFTWARE ENGINEERING"
+}

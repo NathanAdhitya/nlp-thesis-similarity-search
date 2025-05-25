@@ -1,0 +1,14 @@
+{
+  "id": "8045",
+  "title": "Pembuatan semantic object model editor untuk desain database",
+  "abstract": "Pengembangan suatu sistem memerlukan beberapa tahapan penyelesaian, salah satu tahapan penting yang cukup berperan adalah tahap desain database. Desain database merupakan tahap penting yang menentukan struktur fisik tabel suatu program. Desain database yang paling banyak digunakan saat ini adalah desain tabel yang berjenis relasional database. ERD (Entity Relationship Diagram) adalah salah satu Pemodelan database yang mendukung relasional database. SOM (Semantic Object Model) merupakan teknik pemodelan database yang berguna dalam desain database. SOM lebih mudah digunakan dan menghasilkan transformasi yang lebih normal jika dibandingkan dengan entity relationship model yang umum digunakan. Dengan memanfaatkan tool atau editor dalam desain database akan memudahkan user untuk membuat script output daripada hasil desain. SOM editor dibuat dan ditujukan untuk menjawab permasalahan tersebut yakni memudahkan pemodelan database dengan teknik Semantik Object.",
+  "creators": "YUWINATA CHENOVY",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Oviliani Yenty Yuliana (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010660/INF/2008; Yuwinata Chenovy (26402191)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "16201",
+  "title": "Penerapan petri nets dalam penjadualan dan optimasi dengan simulated annealing di PT 'X'",
+  "abstract": "PT Kerta Rajasa Raya adalah perusahaan yang bergerak dalam pembuatan karung plastik, dengan produk utamanya adalah Woven Bag dan Jumbo Bag. Sifat produksi dari perusahaan ini adalah job order. Selama ini permintaan dari konsumen tidak pasti dan seringkali perusahaan kurang dapat memenuhi permintaan secara cepat akibat hambatan dari proses di departemen circular loom. Departemen ini merupakan departemen perajutan benang dan selama ini merupakan penentu dalam kemampuan perusahaan dalam memenuhi permintaan konsumen. Petri Nets merupakan salah satu metode yang digunakan untuk menganalisa proses produksi yang ada pada suatu perusahaan manufakturing. Dengan menggunakan Petri Nets , diharapkan dapat mengetahui pola proses permesinan di departemen circular loom sendiri. Hasil dari output Petri Nets digunakan untuk melakukan perencanaan produksi dalam periode tertentu dengan bantuan pemrograman linear bulat dan untuk melakukan inisialisasi penjadualan di departemen circular loom dengan tujuan meminimumkan jumlah job yang terlambat. Hasil dari penjadualan awal yang ada dioptimasi dengan algoritma simulated annealing. Algoritma ini digunakan untuk proses pencarian daerah sekitar dari penjadualan awal agar didapatkan hasil penjadualan yang lebih baik.",
+  "creators": "HARRY TJAHJONO",
+  "contributors": "Stevanus Adrianto Tjandra (Advisor 1); I Gede Agus Widyadana (Advisor 2); Sujono Poetrodjojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 146/TI-76/1998; Harry Tjahjono (25494056)",
+  "subjects": "MANUFACTURING PROCESSES; SCHEDULING"
+}

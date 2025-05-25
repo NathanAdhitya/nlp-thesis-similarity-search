@@ -1,0 +1,14 @@
+{
+  "id": "41228",
+  "title": "Implementasi fuzzy logic dan ellie: Buddy Ai pada companion dalam game survival horror",
+  "abstract": "Perkembangan game saat ini sudah sangat berkembang dengan pesat. Seiring berkembangnya pembuatan game, pembuatan AI (Artificial Inteligence) dalam game pun semakin maju. Terdapat banyak jenis AI yang biasanya digunakan dalam game di antaranya yaitu AI NPC Companion yaitu AI yang akan menemani pemain selama berada dalam game. Game akan dikembangkan menggunakan Aplikasi Unity dan menggunakan bahasa pemrograman bahasa C#. Dalam permainan, pemain akan ditemani oleh NPC yang menggunakan penggabungan Fuzzy Logic dan Ellie : Buddy AI sebagai pengontrol AI. Dalam game juga pemain akan menghadapi zombie dan bandit sebagai lawannya yang akan menggunakan rulebase sebagai AI nya. Adapun hasil akhir dari game ini adalah sebuah game bergenre survival horror dengan fitur NPC Companion. Adapun pengujian yang dilakukan pada akhir segmen yaitu pengujian terhadap aplikasi, pengujian terhadap NPC, pengujian terhadap Enemies, pengujian terhadap pemain dan Pembandingan antara NPC Companion dan AI bandit. Adapun hasil akhir dari pengujian yaitu permainan dapat berjalan lancar, AI NPC dan Enemy dapat berjalan dengan baik, dan Control pemain dapat digunakan dengan baik. Pada hasil akhir pembandingan NPC ditemukan dapat melakukan pengambilan tindakan yang lebih variatif dibandingkan dengan AI bandit.",
+  "creators": "WINSEN WONADY",
+  "contributors": "Kristo Radion Purba S.ST. (Advisor 1); Rudy Adipranata (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021704/INF/2017; Winsen Wonady (26413152)",
+  "subjects": "COMPUTER GAMES-DESIGN; ARTIFICIAL INTELLIGENCE; FUZZY LOGIC"
+}

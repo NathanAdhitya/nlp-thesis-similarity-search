@@ -1,0 +1,14 @@
+{
+  "id": "16691",
+  "title": "Perencanaan dan pembuatan sistem pendaftaran rencana studi di Universitas Kristen Petra melalui modem dan komputer IBM PC",
+  "abstract": "Suatu alternatif untuk melakukan pendaftaran rencana studi, khusus bagi mahasiswa dari luar kota atau luar pulau tidak perlu datang ke kampus untuk mendaftarkan mata kuliah yang akan diambilnya, namun cukup mengisi form scanner dari rumah masing-masing dengan bantuan seperangkat komputer, modem dan saluran telepon. Untuk menjalankan proses tersebut diatas masing-masing pihak dibekali perangkat lunak yang berfungsi sebagai pengatur proses pendaftaran rencana studi. Melalui perangkat lunak, mahasiswa cukup menghubungi U.K. PETRA, mengisi login NRP dan PASSWORD, meminta formulir kosongan, mengisi dengan format yang sama dengan form scanner yang dipakai selama ini, kemudian mengirimkan kembali hasil isiannya. Perangkat lunak di BAA melakukan pengiriman formulir kosongan atau menerima hasil isian lalu mengkonversikan ke basis data milik BAA. Jadi format basis data di BAA tetap yang lama. Sistem ini dapat bekerja pada jenis komputer yang berbeda kelas, sedangkan baud rate- yang digunakan paling tidak harus sama, agar transfer formulir lewat saluran telepon berjalan lancar. Dengan adanya alternatif baru ini diharapkan mahasiswa dapat melakukan aktivitas pendaftaran rencana studi dengan lebih efektif dan efisien.",
+  "creators": "IVAN SURYADI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Oviliani Yenty Yuliana (Advisor 2); ESTHER HANAYA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/Kom/004/008; Ivan Suryadi (23491076)",
+  "subjects": "COMPUTER INTERFACES; INTERFACE CIRCUITS"
+}

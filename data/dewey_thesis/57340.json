@@ -1,0 +1,14 @@
+{
+  "id": "57340",
+  "title": "Aplikasi point of sales menggunakan cross channel strategy pada resto X",
+  "abstract": "Resto X menerapkan sistem cloud kitchen dalam operasionalnya. Sehingga terdapat 2 jenis transaksi yaitu online dan offline. Karena berfokus pada sistem cloud kitchen, maka lebih banyak pesanan online yang masuk dibandingkan dengan pesanan offline setiap harinya. Dalam proses bisnis yang ada, resto X menggunakan 2 sistem berbeda untuk mengelola pesanan. Yaitu sistem untuk mencatat transaksi dan sistem Gobiz untuk menerima pesanan online. Proses input pesanan baik online dilakukan secara manual sehingga sering kali terjadi kesalahan data pada 2 sistem berbeda karena tidak terintegrasi. Kemudian, status ketersediaan menu tidak update sehingga menu pada Gobiz tetap aktif walau stok sebenarnya sudah habis. Untuk mengatasi permasalahan yang ada, dibuat sebuah aplikasi point of sales dengan menerapkan cross channel management. Sistem ini akan memudahkan pencatatan transaksi agar penjualan online dan offline dapat terintegrasi dalam satu sistem. Dengan begitu, resiko terjadinya kesalahan penginputan data dapat diminimalkan serta proses bisnis yang ada menjadi lebih efisien. Aplikasi ini juga akan membantu mengontrol stok dan status ketersediaan menu agar resto mampu mendapatkan keuntungan maksimal. Dengan adanya aplikasi point of sales cross channel, maka proses menerima pesanan, mencatat transaksi, kontrol stok, melakukan refund dan pendapatan dapat diakses dengan lebih mudah tanpa perlu berpindah-pindah aplikasi. Hasil akhir dari penelitian ini adalah aplikasi point of sales dapat mengintegrasikan dan mengelola data, termasuk data pesanan baik online maupun offline dari dua sistem berbeda. Berdasarkan hasil kuisioner, 80% pengguna menilai penggunaan sistem mempermudah proses bisnis resto.",
+  "creators": "SHERLYN CHRISTINE TANIWIJAYA",
+  "contributors": "Yulia (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Hans Juwiantho S.Kom., M.Kom (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022388/INF/2023; Sherlyn Christine Taniwijaya (C14190164)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; ELECTRONIC COMMERCE--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); WEB APPLICATIONS--COMPUTER PROGRAMS"
+}

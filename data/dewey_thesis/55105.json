@@ -1,0 +1,14 @@
+{
+  "id": "55105",
+  "title": "Aplikasi pembuatan objek polihedron dengan constructive solid geometry",
+  "abstract": "Pemodelan objek tiga dimensi merupakan salah satu bidang yang banyak digunakan dalam berbagai media visual sehingga sering menggunakan objek tiga dimensi dalam berbagai bentuk. Namun dalam pembuatannya seringkali terdapat kerumitan, baik dalam proses penggambaran maupun proses penampilannya. Oleh karena itu, pada skripsi ini, dilakukan pembuatan aplikasi untuk membuat objek tiga dimensi polihedron dengan bentuk yang kompieks dari objekobjek tiga dimensi primitif yang diproses dengan operasi-operasi himpunan sederhana, seperti union, intersection, dan subtraction. Proses dimuiai dengan melakukan pengecekan posisi pada objek input, yaitu pengecekan posisi sisi dan titik-titiknya. Kemudian, dilanjutkan dengan proses pemotongan sisi berdasarkan proses yang digunakan dan posisi sisi terhadap acuannya. Apikasi ini dibuat menggunakan Microsoft Visual 2005 dengan bahasa pemrograman C#.NET. Hasil pengujian menunjukkan bahwa operasi union, intersection, dan subtraction mampu menghasilkan out/mt dengan bentuk yang sama dengan yang dihasilkan Autodesk AutoCAD 2013, namun pencahayaan yang digunakan oleh aplikasi yang dibuat belum bisa menghasilkan efek tiga dimensi sebaik yang digunakan Autodesk AutoCAD 2013. Ketiga operasi tersebut mampu menghasilkan output dari sepuluh proses berurutan dengan operasi yang sama yang menggunakan output dari satu proses sebagai input proses berikutnya. Selain itu, ketiga proses tersebut juga mampu melakukan proses dengan input objek primitif ataupun objek polihedron.",
+  "creators": "WILLY DARMAWAN UTOMO",
+  "contributors": "Liliana (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 1021178/INF/2012; Willy Darmawan Utomo (26408138)",
+  "subjects": "COMPUTER GRAPHICS; PROGRAMMING (ELECTRONIC COMPUTERS); THREE-DIMENSIONAL MODELING"
+}

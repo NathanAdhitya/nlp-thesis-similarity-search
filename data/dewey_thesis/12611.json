@@ -1,0 +1,14 @@
+{
+  "id": "12611",
+  "title": "Perencanaan dan pembuatan alat validasi uang logam dengan mikrokontroler 80C32",
+  "abstract": "Dewasa ini hampir d segala bidang aplikasi digunakan uang logam sebagai koin untuk menjalankan peralalan tanpa bantuan orang lain. Dengan cara yang serba cepat dan otomatis ini, waktu yang dibutuhkan lebih efisien. Pada tugas akhir ini dibuat sebuah alat validasi uang logam dengan menggunakan bantuan mikrokontroler 80C32 dan rangkaian deteksi bahan/tebal dan dimensi. Prinsip dasar dari alat validasi ini adalah pertama kali mengenalkan masing-masing uang logam yang akan dipakai terlebih dahulu. Dalam proses pengenalan ini digunakan dua metode deteksi yaitu metode deteksi bahan/tebal uang logam dan metode deteksi dimensi uang logam. Proses selanjutnya adalah membaca sinyal yang dihasilkan dari kedua metode deteksi tersebut. Untuk metode deteksi bahan/ tebal, sinyal keluaran yang dihasilkan sangat kecil atau tidak terdeteksi sehingga diperlukan suatu rangkaian penguat untuk mendapatkan sinyal keluaran yang mudah terbaca. Sedangkan untuk metode deteksi dimensi, sinyal keluran yang dihasilkan langsung dibaca oleh mikrokontroller. Untuk membaca hasil dari pengenalan dan pengujian uang logam digunakan suatu modul yang sudah jadi yang dinamakan Liquid Crystal Display (LCD). Pada pengujian yang dilakukan, terdapat kendala pada saat dilakukan pengujian dengan nilai uang logam Rp. 100 (br), Rp 50 (br), dan Rp. 25 (br). Hal ini disebabkan ringannya berat dari uang logam tersebut di atas, sehingga mempengaruhi alat validasi tidak dapat bekerja dengan sempurna. Hal tersebut terjadi karena pengaruh menggelindingnya uang logam tersebut tidak sempurna.",
+  "creators": "SUNARYO SUTJIOPRAWIRO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); IRWAN SAHLI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/024/369; Sunaryo Sutjioprawiro (23485015)",
+  "subjects": "COMPUTERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "61290",
+  "title": "Optimasi struktur bangunan rangka beton bertulang tidak beraturan menggunakan metode metaheuristik",
+  "abstract": "Negara Indonesia merupakan negara yang rawan gempa, di mana kebanyakan dari wilayah negara merupakan bagian dari Cincin Api Pasifik. Dalam mendesain struktur gedung, material yang umumnya dipilih adalah beton karena ketangguhannya. Proses optimasi biaya struktur beton merupakan hal yang sulit karena banyaknya variabel dan batasan-batasan yang diatur oleh peraturan SNI. Meskipun terdapat banyak penelitian mengenai optimasi struktur beton, sedikit penelitian yang membahas optimasi struktur beton yang memiliki ketidakberaturan gempa. Untuk mencapai desain yang optimal, penelitian ini menggunakan algoritma metaheuristik Symbiotic Organisms Search (SOS) dengan program analisa struktur dan desain ETABS untuk menyelesaikan masalah optimasi pada struktur beton dengan ketidakberaturan. Penelitian ini menggunakan studi kasus gedung 6 lantai dengan ketidakberaturan horizontal 1 dan 2. Penelitian menunjukkan bahwa Algoritma dan ETABS mengalami kesulitan untuk memperoleh hasil struktur dengan harga yang rendah dengan cepat. Hal ini diakibatkan oleh program yang menggunakan waktu cukup lama untuk melakukan analisa struktur dan desain sehingga proses optimasi dengan metode metaheuristik kurang efisien untuk digunakan dalam bangunan gedung nyata.",
+  "creators": "ELDON WIJAYA; KEVIN SATIADARMA",
+  "contributors": "Jimmy Chandra (Advisor 1); Doddy Prayogo S.T. (Advisor 2); Benjamin Lumantarna (Examination Committee 1); Ruben Adicahya, S.T., M.T. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012767/SIP/2024; Eldon Wijaya (B11200120), Kevin Satiadarma (B11200093)",
+  "subjects": "CONCRETE CONSTRUCTION; CONSTRUCTION INDUSTRY--MANAGEMENT; METAHEURISTICS; SEISMIC DESIGN"
+}

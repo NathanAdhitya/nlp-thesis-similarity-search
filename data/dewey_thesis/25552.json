@@ -1,0 +1,14 @@
+{
+  "id": "25552",
+  "title": "Pengaman motor tiga phasa 0,75 PK, 220 Volt dengan pengendali mikrokontroler mcs 51",
+  "abstract": "Pengaman motor merupakan alat yang cukup penting untuk mencegah kerugian yang disebabkan karena kesalahan dari operator, beban berlebih serta perubahan yang tidak diijinkan terhadap kondisi kerja motor. Untuk perubahan parameter kerja motor yang dideteksi adalah: urutan phasa tegangan catu daya, tegangan catu daya, arus beban lebih, suhu motor dan kecepatan putar motor. Karakteristik pengaman motor ini didasarkan pada kondisi kerja motor secara normal, ketahanan isolasi motor sesuai kelasnya dan batas kecepatan yang diinginkan. Di mana kontrol kerja karakteristiknya dikendalikan dengan sistem mikrokontroler MCS51. Transduser akan mengubah parameter yang diukur menjadi parameter elektris, yang kemudian diolah menjadi tegangan analog yang sesuai untuk diubah oleh ADC menjadi sinyal digital yang dapat dibaca pleh mikrokontroler. Dari data hasil percobaan untuk pengukuran tegangan, arus, dan suhu cukup linier sedangkan untuk kecepatan tidak linier, yang mana untuk mendapatkan hasil yang bagus dalam program mikrokontroler ditabelkan. Karakteristik alat dibuat untuk kemampuan pengamanan motor untuk daya 0,75 PK, pada tegangan motor yang terhubung delta 220 V.",
+  "creators": "TAN KHONG AN",
+  "contributors": "SUPENO DJANALI (Advisor 1); Emmy Hosea (Advisor 2); MOCHAMAD HEROE (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/029/0119; Tan Khong An (14487058)",
+  "subjects": "ELECTRIC MOTORS-SAFETY APPLIANCES; MICROCONTROLLERS"
+}

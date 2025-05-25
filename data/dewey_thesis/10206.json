@@ -1,0 +1,14 @@
+{
+  "id": "10206",
+  "title": "Studi perancangan kompensator menggunakan metode respon frekuensi",
+  "abstract": "Perancangan kompensator selalu melalui 2 tahap yaitu tahap simulasi dan implementasi. Hasil yang diberikan oleh kedua tahap itu pasti akan berbeda, sehingga perlu di lakukan studi untuk mempelajari penyebab terjadinya perbedaan tersebut. Studi dilakukan terhadap plant orde 1 dan sistem orde 2. Kompensator yang digunakan ialah kompensator lead. Metode respon frekuensi yang dipakai ialah Bode Diagram. Tahap simulasi dilakukan dengan menggunakan MATLAB dan Multisim. Tahap implementasi dilakukan dengan menggunakan piranti ELVIS. Plant orde 1 dan orde 2 disusun dari rangkaian resistor, kapasitor dan op-amp. Tegangan input yang digunakan ialah 2 Vpp. Hasil pengujian menunjukan bahwa memang terdapat perbedaan antara tahap simulasi dan implementasi. Untuk plant orde 1, perbedaan ini disebabkan oleh pengaruh impedansi plant dan ELVIS. Untuk plant orde 2, perbedaan ini disebabkan karena semua op-amp selalu mempunyai input bias current yang cenderung menyebabkan drift pada outputnya, sehingga rangkaian integrator pada plant orde 2 bekerja kurang optimal.",
+  "creators": "EDWIN DWIANTO TEDJOKUSUMA",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010831/ELK/2007; Edwin Dwianto (23401026)",
+  "subjects": "AUTOMATIC CONTROL-MATHEMATICAL MODELS"
+}

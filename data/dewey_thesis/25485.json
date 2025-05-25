@@ -1,0 +1,14 @@
+{
+  "id": "25485",
+  "title": "Perencanaan dan pembuatan alat pengukur energi pada solar cell menggunakan micro computer IBM PC",
+  "abstract": "Banyaknya jumlah penduduk mengakibatkan kebutuhan energi, khususnya tenaga listrik semakin besar. Sampai pada saat ini kebutuhan akan energi masih dapat terpenuhi karena masih banyak kekayaan alam yang dapat digunakan. Karena kekayaan alam terbatas maka perlu dipikirkan sumber energi lain sebagai pengganti. Matahari merupakan salah satu alternatif pengganti karena jumlahnya tidak terbatas dan tidak mempunyai efek negatif lainnya, solar cell adalah transducer yang mengubah energi matahari menjadi energi listrik. Alat pengukur energi yang direncanakan digunakan untuk mengukur besarnya energi yang dihasilkan solar cell. Untuk mendapatkan besaran energi keluaran solar cell diperlukan 2 parameter, yaitu Voc (tegangan open circuit) dan Isc (arus short circuit). Piranti-piranti yang mendukung alat tersebut a.l: ADC, Ram, Rangkaian Counter, serta komunikasi paralel. Prinsip kerja alat pengukur energi ini adalah mengambil tegangan dan arus keluaran solar cell dengan menggunakan rangkaian pengkondisi arus dan rangkaian pengkondisi tegangan. Besaran-besaran analog tersebut dikonversikan menjadi besaran-besaran digital melalui ADC (Analog Digital to Converter). Hasil pengkonversian tersebut disimpan pada Ram (Random Acces Memori). Jika data-data tersebut dibutuhkan, Ram dapat mengirimkan data-data tersebut ke Microcomputer melalui komunikasi paralel. Data-data tersebut dapat ditampilkan dalam bentuk grafik dengan bantuan software. Dari hasil pengamatan yang telah dilakukan didapatkan bahwa solar cell menerima energi maximum antara pukul 10 sampai pukul 2. Karena pengamatan dilakukan dalam waktu tidak terlalu lama dan pada keadaan cuaca yang hampir sama. Maka untuk keadaan cuaca yang lain. Misalnya pada saat musim penghujan, energi maximum yang didapat tidak pada pukul 10 sampai pukul 2.",
+  "creators": "FANNY SETIALIM",
+  "contributors": "AGUS MULYANTO (Advisor 1); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/025/0115; Fanny Setialim (14486081)",
+  "subjects": "MICROCOMPUTERS; SOLAR ENERGY-MEASUREMENT"
+}

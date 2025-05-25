@@ -1,0 +1,14 @@
+{
+  "id": "1281",
+  "title": "Programmable ozone generator",
+  "abstract": "Ozone adalah gas yang sangat reaktif, oleh karena itu ozone banyak digunakan dalam berbagai bidang terutama dalam bidang yang membutuhkan sterilisasi. Dengan diaplikasikan ozone dalam banyak hal, dimana kebutuhan dari konsentrasi ozone tersebut bervariasi dan waktu pemakaian yang juga bervariasi, maka dibutuhkan sebuah alat ozone genarator yang fleksible. Tugas akhir ini merancang sebuah unit ozone generator, yang dapat terprogram sehingga dapat digunakan dalam berbagai aplikasi. Salah satu cara untuk membentuk ozone adalah dengan metode Corona Discharge, yaitu membentuk tegangan tinggi diantara dua buah elektroda dan melewatkan udara di antara dua elektroda tersebut. Ozone generator ini memiliki kemampuan untuk terprogram pada output ozone dan adanya fasilitas timer sehingga dapat diatur lama pelarutan ozone di dalam air. Perancangan unit ozone generator ini memakai controller tipe AT89C52 dan untuk pembangkit tegangan tinggi digunakan sebuah transformator flyback dari televisi. Dengan output ozone yang kurang mencukupi (0,01 ppm), maka alat yang dirancang ini tidak dapat bekerja secara optimal. Sehingga sebagai pengembangan, diharapkan unit ini dapat menghasilkan output ozone yang lebih besar (min 0,04 ppm). sehingga dapat diaplikasikan pada suatu proses pembersihan kuman dan zat-zat pengotor lainnya. Dan dengan menambahkan fasilitas-fasilitas yang lain akan didapatkan sebuah unit ozone generator yang dapat bekerja secara optimal (pendeknya waktu yang dibutuhkan dalam membunuh kuman).",
+  "creators": "VICKY CAHYA SUSANTO",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Examination Committee 1); Lauw Lim Un Tung (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/632/ELK/2003; Vicky Cahya Susanto (23498048)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

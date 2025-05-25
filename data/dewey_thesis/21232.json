@@ -1,0 +1,14 @@
+{
+  "id": "21232",
+  "title": "Penjadualan flowshop dengan mempertimbangkan buffer yang terbatas dan waktu setup yang bergantung pada urutan proses",
+  "abstract": "Penjadwalan adalah sesuatu yang penting untuk dilakukan dalam dunia manufacturing, di mana pelaksanaannya harus sesuai dengan kondisi pabrik yang bersangkutan. Sistem produksi jlowshop adalah salah satu kondisi pabrik yang sangat menarik untuk dianalisis karena memiliki faktor - faktor seperti jumlah buffer, variasi waktu setup, dan algoritma-algoritma yang akan mempengaruhi makespan. Dalam penelitian ini akan dianalisis pengaruh waktu setup yang bergantung pada urutan proses dan penambahan buffer terhadap penurunan makespan dari beberapa algoritma penjadwalan, yaitu NEH, profile, greedy NEH, greedy profile, dan tabu search melalui simulasi komputer. Digunakan 2 uji statistik yaitu Friedman test untuk menentukan algoritma penjadwalan yang terbaik dan Tukey test untuk membandingkan buffer dan waktu setup yang bergantung pada urutan proses. Hasil yang diperoleh menunjukkan bahwa algoritma tabu search memiliki makespan yang lebih baik dibandingkan dengan empat algoritma yang lain. Penambahan buffer yang dilakukan sangat berpengaruh terhadap jumlah job ukuran besar dan tidak mempunyai dampak yang cukup signifikan terhadap jumlah job ukuran kecil, sekalipun penambahan buffer itu membuat makespan menjadi lebih kecil.",
+  "creators": "HADI GUNAWAN",
+  "contributors": "SANDY CITRO (Advisor 1); Siana Halim (Advisor 2); Maja Indahwati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 398/TI-125/2000; Hadi gunawan (25497009)",
+  "subjects": "PRODUCTION SCHEDULING"
+}

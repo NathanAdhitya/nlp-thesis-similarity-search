@@ -1,0 +1,14 @@
+{
+  "id": "16296",
+  "title": "Pembuatan simulator jaringan saraf tiruan dengan algoritma supervised dan unsuprvised untuk tutorial dalam mata kuliah jaringan saraf tiruan",
+  "abstract": "Nowadays, rising the students progresses in understanding their lesson are very important. Because with the understanding can make the students study more comfortable. So, for this purpose 1 make a simulator specially for Neural Network lesson. The main goal of this final exam is making a Neural Network Simulator which can be a tool for the studying process. There're two algorithms can be used for the simulator, Supervised Learning and Unsupervised Learning. In supervised used BPN method which need a target for compare it with the output, the compare will produce an error. While for unsupervised, SOM method's used. This method doesn't need a target. With the both of the algorithm can make aplication for pattern recognition. Testing of the system is the research about neural parameter influence to training process. And also about neural topology influence to the performance of the neural. The result that we can get after doing the functional test are the simulator can be used as we want, that is to recognize characters pattern or numbers pattern.",
+  "creators": "SRI WAHYU NINGSIH",
+  "contributors": "YOHANES T. D. S (Advisor 1); Hany Ferdinando (Advisor 2); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/053/490; Sri Wahyu Ningsih (23496003)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "11243",
+  "title": "Studi literatur metode principal components analysis dan clustering analysis",
+  "abstract": "Penelitian ini bertujuan untuk menerapkan metode principal components dan clustering analysis dalam sebuah studi kasus untuk mengelompokkan 15 sungai di wilayah Southwest dengan menggunakan empat variabel, yaitu variabel jumlah kandungan bakteri (FC), jumlah kandungan oksigen (O2), derajat keasaman (PH), dan suhu (temperatur). Metode pengelompokan yang digunakan adalah metode Median, Centroid, Complete Linkage, Ward, dan K-Means. Principal components scores yang didapatkan dari metode principal components analysis digunakan sebagai inputan metode clustering analysis. Hasil pengelompokan menunjukkan bahwa terdapat empat kelompok untuk setiap bulannya. Berdasarkan nilai homogenitas untuk jumlah kelompok sama dengan empat, ternyata metode Centroid, Median, dan K-Means merupakan metode yang paling baik dalam hal mengelompokkan data.",
+  "creators": "DEVI RATNASARI",
+  "contributors": "Indriati Njoto Bisono (Advisor 1); Siana Halim (Advisor 2); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02011271/IND/2008; Devi Ratnasari (25403062)",
+  "subjects": "ELECTRONIC DATA PROCESSING"
+}

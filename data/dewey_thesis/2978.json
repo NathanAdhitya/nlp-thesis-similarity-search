@@ -1,0 +1,14 @@
+{
+  "id": "2978",
+  "title": "Sistem parkir prabayar menggunakan RFID untuk pusat perbelanjaan",
+  "abstract": "Sistem parkir konvensional menggunakan sistem pembayaran dengan uang tunai dan biayanya dihitung secara manual. Kurangnya efisiensi waktu transaksi, rawan akan kecurangan (petugas parkir) dan tindak kejahatan pencurian mobil menjadi kelemahan dari sistem ini. Timbul gagasan untuk membuat sistem parkir yang lebih baik, yakni sistem prabayar dengan teknologi RFID supaya diperoleh waktu transaksi yang cepat, efisien dan keamanan yang lebih baik. Dengan Borland Delphi 7 dan Microsoft Access 2000 telah dibangun suatu sistem parkir prabayar yang mempunyai faktor keamanan tinggin dan efisien serta cepat. Karena sistem dapat bekerja secara otomatis dan laporan keuangan yang jelas. Sistem ini menggunakan tag RFID sebagai kartu parkir dan webcam untuk mengambil gambar mobil dan pengemudinya (saat sensor RFID mendeteksi tag di pintu masuk). Informasi tersebut akan diambil dan dikirimkan ke komputer server. Bila informasi tersebut berbeda saat kendaraan akan keluar, maka kendaraan tidak diperbolehkan keluar tanpa suatu prosedur administrasi dan keamanan. Perhitungan biaya parkir dan pemotongan kredit pelanggan dilakukan oleh komputer di loket pintu keluar. Sistem parkir prabayar ini memiliki kelebihan yaitu faktor keamanan yang tinggi, efisien dan waktu transaksi yang cepat. Proses transaksi kendaraan masuk atau keluar rata-rata 10 detik. Sistem dapat bekerja secara otomatis dan pengelola dapat memeriksa laporan keuangan dengan mudah karena penerimaan uang terkomputerisasi. Syarat mobil diijinkan keluar adalah mobil tersebut sama dengan gambar yang ditampilkan. Untuk kondisi pengemudi beda, diminta menunjukan STNK kendaraan dan dilakukan pengambilan gambar pengemudi.",
+  "creators": "ROYNALD LEONARDO SITANAYA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010726/ELK/2005; Roynald Leonardo Sitanaya (23499145)",
+  "subjects": "AUTOMATIC CONTROL (COMPUTER PROGRAMS); DIGITAL CONTROL SYSTEMS; ELECTRONIC DIGITAL COMPUTERS"
+}

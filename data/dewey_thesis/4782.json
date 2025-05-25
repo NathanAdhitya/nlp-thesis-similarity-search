@@ -1,0 +1,14 @@
+{
+  "id": "4782",
+  "title": "Digital kwh meter dengan sistem prabayar",
+  "abstract": "Sebuah KWH meter analog yang biasa digunakan oleh PLN pada rumah tinggal. Mempunyai beberapa kelemahan, diantaranya pengaruh usia dan cuaca membuat penunjuk angka buram dan kurang bisa dilihat, berakibat kesalahan baca pada penggunaan daya listrik dan pencatatan rekening listrik yang bisa merugikan pengguna listrik. Untuk mengatasi permasalahan tersebut dibuatlah sebuah digital KWH meter dengan sistem prabayar, dengan kelebihan tampilan digital yang menyala dan berukuran cukup besar, dengan sistem prabayar menggantikan cara pembayaran umumnya, dengan menggunakan kartu prabayar elektronik pengganti tagihan bulanan. Digital KWH meter ini dikontrol oleh sebuah mikrokontroler dengan tipe AVR90S8515 dan menggunakan sebuah sensor digital tipe ADE7757 yang berfungsi untuk membaca tegangan dan arus (dengan beban mencapai 500 Watt) untuk mengetahui besar energi yang digunakan pada instalasi rumah. Seven Segment sebagai penampil data besaran energi listrik yang digunakan di rumah. Dari komponen-komponen tersebut dihasilkan sebuah KWH meter moderen dengan tampilan digital yang dapat mengukur besaran penggunaan energi, dengan batasan maksimal beban 500 watt. Dengan sebuah sistem pembayaran moderen membeli sebuah voucher elektronik, berisi besaran digital (berfungsi sebagai pulsa) sebagai pembanding besaran energi yang digunakan. Secara otomatis sistem ini memutuskan tegangan rumah bila besaran tersebut mencapai nilai 0. Seluruh rangkaian membutuhkan daya 446,5mW diharapkan tidak merugikan PLN.",
+  "creators": "TOTO SEPUTRO BUDIMAN",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010697/ELK/2004; Toto Seputro (23498142)",
+  "subjects": "MICROCONTROLLER; ELECTRIC METERS"
+}

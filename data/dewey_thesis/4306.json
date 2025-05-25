@@ -1,0 +1,14 @@
+{
+  "id": "4306",
+  "title": "Pembuatan sistem pakar untuk mendeteksi kerusakan komputer dengan metode backward chaining",
+  "abstract": "Tujuan Tugas Akhir ini adalah untuk membangun sebuah program sistem pakar berbasis rule dengan kemampuan learning. Sistem pakar dibuat dengan menggunakan Borland Delphi 6.0 dengan metode backward chaining. Backward chaining adalah suatu proses yang memulai pencarian solusi dari kesimpulan, kemudian menelusuri fakta-fakta yang ada hingga menemukan solusi yang sesuai dengan fakta-fakta yang diberikan oleh user. Program yang dibuat memiliki lima unsur dasar sistem pakar, yaitu basis pengetahuan, editor basis pengetahuan, mesin inferensi, antar muka pengguna, dan subsistem penjelasan. Selain lima unsur dasar sistem pakar, program yang dibuat memiliki fasilitas tambahan, yaitu kemampuan learning. Kemampuan learning membuat sistem pakar dapat menambah dan mengembangkan basis pengetahuan dengan sendirinya berdasar pengalaman konsultasi dengan user. Program dapat melakukan deteksi atas kerusakan komponen-komponen seperti Printer, CDROM, Modem, Monitor, Mouse, Hard Disk dan Disk Drive. Dari hasil pengujian yang dilakukan sebanyak lima kali, didapatkan data-data yang sesuai, sementara apabila terjadi sistem tidak menemukan jawaban, hal itu dapat diatasi dengan menambah basis pengetahuan (learning). Dari hasil kuisioner didapatkan fakta bahwa program telah mencapai tingkat baik, hal tersebut dibuktikan melalui prosentase yang dicapai, yaitu sebesar 48.16%. Sebesar 13.16% menyatakan baik sekali dan 38.42% menyatakan cukup. Hal ini berarti bahwa program secara keseluruhan telah mendapatkan hasil yang memuaskan seperti yang diharapkan.",
+  "creators": "ERNI",
+  "contributors": "Andreas Handojo (Advisor 1); Kartika Gunadi (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0075/INF/2003; Erni (26499039)",
+  "subjects": "DIAGNOSIS-DTA PROCESSING; EXPERT SYSTEM(COMPUTER SCIENCE); ARTIFICIAL INTELLIGENCE"
+}

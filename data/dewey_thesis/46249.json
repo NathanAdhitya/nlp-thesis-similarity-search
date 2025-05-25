@@ -1,0 +1,14 @@
+{
+  "id": "46249",
+  "title": "Sistem informasi administrasi dan computerized maintenance management system pada perusahaan persewaan truk X",
+  "abstract": "PT X merupakan perusahaan jasa persewaan truk di Surabaya. Saat ini, PT X masih manual menggunakan pencatatan kertas dalam mengelola proses administrasi dan manajemen truk sehingga diperlukan adanya sistem informasi administrasi yang berbasis website agar pemilik dapat mengecek dan melakukan secara transaksi order sewa secara real time, dan dapat menghasilkan laporan order, pembelian, stok barang, riwayat perbaikan truk yang dibutuhkan untuk pemilik PT X dalam mengambil keputusan usahanya. Program ini dibuat dengan menggunakan bahasa pemrograman HTML, PHP, CSS, JavaScript, database MySQL, dan Bootstrap. Program yang dibuat memakai metode harga pokok rata-rata untuk menghitung harga pokok suku cadang pada saat pembelian dan perbaikan. Berdasarkan hasil dari penelitian skripsi ini dapat disimpulkan bahwa secara keseluruhan program ini sudah memenuhi kebutuhan PT X terutama pada fungsi perhitungan biaya order, pembaruan harga suku cadang pada kartu stok ketika pembelian suku cadang, perhitungan biaya perbaikan truk berdasarkan total harga suku cadang yang digunakan, notifikasi perbaikan ganti oli berkala berdasarkan kilometer melebihi kilometer periode berikutnya.",
+  "creators": "VINCENTIUS TANDY PRASETYO",
+  "contributors": "Alexander Setiawan (Advisor 1); Yulia (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1); I Gede Agus Widyadana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021940/INF/2020; Vincentius Tandy Prasetyo (26415021)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); WEB SITES-DESIGN; MANAGEMENT INFORMATION SYSTEM-COMPUTER PROGRAMS"
+}

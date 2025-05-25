@@ -1,0 +1,14 @@
+{
+  "id": "19748",
+  "title": "Studi tegangan dalam tanah akibat beban luar dengan menggunakan program axsym",
+  "abstract": "Di dalam mekanika tanah distribusi tegangan dalam tanah memainkan peranan penting untuk mengetahui daya dukung tanah akibat beban luar. Dari sekian banyak metode analisa tegangan dalam tanah yang paling umum digunakan ialah metode Boussinesq, metode Westergard, metode penyebaran beban 2v:lh, metode terzaghi. Di mana masing-masing metode mempunyai asumsi-asumsi yang berbeda dalam hal kondisi lapisan tanah, masa tanah, sifat bahan tanah. Asumsi-asumsi yang berbeda ini menghasilkan perbedaan hasil perhitungan tegangan dalam tanah, walaupun dengan memakai material tanah yang sama. Perhitungan tegangan dalam tanah dengan cara manual ini telah dikembangkan dan dicoba diaplikasikan di dalam \"Program Komputer Axsym\". Program ini didesain untuk pembebanan pondasi lingkaran, Dimana didalam pembahasannya akan dicoba suatu nilai Modulus Elastisitas (E) yang berbeda-beda pada tiap-tiap elemen lapisan tanah yang masih berada pada daerah \"Bulb of Pressure\". Didalam satu kasus pembebanan akan dicoba dihitung dengan perhitungan manual dengan memakai teori perhitungan tegangan seperti di atas dan juga akan dihitung dengan mengunakan program komputer Axsym, perhitungan ini akan disajikan untuk mengetahui seberapa besar selisih perbedaan hasil perhitungan Axsym dan hitungan manual. Satu kasus yang paling sederhana dihitung kembali dengan menggunakan tangan dan dibandingkan hasilnya dengan hasil perhitungan komputer. Dengan mengunakan program Axsym ini tanah liat lunak yang dibebani oleh beban sebesar (q) akan dicoba untuk diganti dengan material tanah yang lebih baik (Sand Column), hal ini bertujuan untuk mengetahui berapa besar penurunan tegangan dan berapa besar penurunan tanah dapat dikuranggi bila tanah liat yang ada di bawah pondasi diganti dengan pasir.",
+  "creators": "YOPPY WIJAYA; DECKY ROBOT",
+  "contributors": "Indarto, Dr. Ir. (Advisor 1); Benjamin Lumantarna (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 925 S; Yoppy Wijaya (21492060), Decky Robot (21494191)",
+  "subjects": "SOIL MECHANICS; SOILS-TESTING"
+}

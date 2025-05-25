@@ -1,0 +1,14 @@
+{
+  "id": "46296",
+  "title": "Klasifikasi artikel berita bahasa Indonesia dengan Naive Bayes Classifier",
+  "abstract": "Akses manusia untuk berita terbaru sekarang semakin mudah dan semakin banyak, disebabkan oleh perkembangan teknologi yang sudah maju pada masa ini. Tetapi karena pengisian kategori dari berita masih dilakukan secara manual, maka terkadang terjadi kesalahan pemilihan kategori yang tepat untuk berita yang dimasukkan, atau malah terkadang ada pihak yang dengan sengaja memasukkan berita tersebut ke kategori yang popular walaupun sebenarnya berita tersebut tidak berhubungan dengan kategori tersebut, dikarenakan kategori yang dipilih sedang popular dan pihak yang curang tersebut ingin beritanya dibaca oleh banyak orang. Oleh karena itu dibuatlah aplikasi berupa website yang dapat mengkategorikan berita secara otomatis sesuai dengan isi artikel. Aplikasi ini menggunakan fitur N-Gram dan metode Naïve Bayes Classifier untuk mengklasifikasikan isi artikel. Fitur N-Gram merupakan suatu fitur yang digunakan untuk mengkelompokkan suatu kumpulan kata sesuai dengan jumlah N yang diinginkan, seperti unigram dan bigram. Naïve Bayes Classifier merupakan suatu metode yang menggunakan teori probabilitas untuk menyelesaikan sebuah masalah. Menurut hasil pengujian terhadap metode Naïve Bayes Classifier, pada perbandingan dataset training dan test 50 : 50, pada unigram didapatkan akurasi ketepatan sebesar 0.901, sedangkan pada bigram didapat sekitar 0.508. Pada perbandingan dataset sebesar 60 : 40, pada unigram didapatkan akurasi ketepatan rata-rata sebesar 0.904, sedangkan pada bigram didapat sekitar 0.498. Pada perbandingan dataset sebesar 70 : 30, pada unigram didapatkan akurasi ketepatan rata-rata sebesar 0.947, sedangkan pada bigram didapat sekitar 0.519. Pada perbandingan dataset sebesar 80 : 20, pada unigram didapatkan akurasi ketepatan rata-rata sebesar 0.887, sedangkan pada bigram didapat sekitar 0.507. Sehingga bisa diambil kesimpulan bahwa perbandingan dataset training dan test sebesar 70 : 30 memiliki akurasi ketepatan yang paling besar baik pada unigram maupun bigram.",
+  "creators": "ANTHONY",
+  "contributors": "Rudy Adipranata (Advisor 1); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021965/INF/2020; Anthony (26415096)",
+  "subjects": "WEB SITES; DATA SETS"
+}

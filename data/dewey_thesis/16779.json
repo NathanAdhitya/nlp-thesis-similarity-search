@@ -1,0 +1,14 @@
+{
+  "id": "16779",
+  "title": "Perencanaan dan pembuatan software untuk mengkonversi dan mengirimkan data dari e-mail ke fax",
+  "abstract": "Penggunaan e-mail sebagai salah satu komponen dari internet sudah sangat luas, bahkan bisa dikatakan mempakan sarana komunikasi yang paling utama digunakan dan reliable. Tetapi belum semua media komunikasi dapat dimanfaatkan dengan melalui jaringan internet, salah satunya adalah facsimile, bagaimana bila suatu perusahaan ingin mengirimkan suatu perintah pada perusahaan cabang, tetapi dicabang hanya mempunyai mesin facsimile, sedangkan di perusahaan pusat sudah ada fasilitas internet. Perangkat Lunak E-mail to Fax berguna untuk sedikit memanfaatkan sarana komunikasi yang belum dimanfaatkan dengan memanfaatkan sebuah komputer yang berbasis WINDOWS 95 untuk menjadi Server yang bertugas untuk mengambil E-mail dari POP 3 server untuk kemudian dikirimkan ke mesin Fax. Implementasi dari perangkat lunak ini adalah dengan memanfaatkan POP3 server pada mesin UNIX disuatu ISP ( Internet Service Provider ), dengan cara subject dari E-mail diisikan dengan nomor telepon dari mesin facsimile tujuan. Kemudian E-mail di-download dan diconvert ke format fax setelah itu langsung dikirimkan. Walaupun begitu yang bisa dikirimkan hanyalah mail yang berupa text saja. Konversi ke format fax dengan menggunakan Group 3 Facsimile format dengan metode One-Dimentional Coding Scheme maupun dengan Two-Dimentional Coding Scheme dan hasil pengujian secara kuantitatif sangat tergantung pada modem dan saluran telepon, sedangkan secara kualitatif hasilnya baik. Dengan demikian diharapkan hasil Tugas Akhir ini dapat mengembangkan penggunaan internet untuk digabungkan dengan media komunikasi yang lain.",
+  "creators": "DAVID WIBISONO TRITANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/KOM/006/028; David Wibisono Tritanto (23492120)",
+  "subjects": "COMPUTER INTERFACES; COMPUTER NETWORKS; SOFTWARE ENGINEERING"
+}

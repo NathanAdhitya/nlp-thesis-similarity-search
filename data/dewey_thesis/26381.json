@@ -1,0 +1,14 @@
+{
+  "id": "26381",
+  "title": "Perencanaan dan pembuatan negative sequence protection untuk generator tegangan 127/220V, 3 phasa, 550VA, 50Hz",
+  "abstract": "Generator adalah alat yang berfungsi untuk merubah energi mekanik menjadi energi listrik. Bila generator tegangannya simetris akan bekerja secara normal. Apabila generator dibebani dengan beban yang tidak seimbang, tegangan generator menjadi tidak simetris sehingga akan menimbulkan tegangan urutan negatif ketidak simetrisan yang lain bisa ditimbulkan pada saat terjadi gangguan yang tidak simetris, misalnya: gangguan satu phasa ke tanah, dua phasa ke tanah dan antar phasa. Tegangan urutan negatif akan menimbulkan panas pada rotor akibat adanya torsi lawan. Bila panas ini dibiarkan berlarut-larut akan menyebabkan hancurnya isolasi-isolasi belitan pada generator dan generator akan terbakar. Berdasarkan pada keadaan tegangan yang tidak simetris akibat gangguan yang tidak simetris maupun pembebanan yang tidak seimbang, suatu pengaman didesain untuk memutuskan supply tegangan dari generator dengan batas toleransi 5% yang diijinkan dari tegangan normal untuk keamanan generator sehingga generator terhindar dari bahaya terbakar. Rangkaian pengaman terdiri dari rangkaian filter tegangan urutan negatif dan rangkaian sensor tegangan yang berfungsi sebagai penggerak relay. Relay digunakan untuk memutuskan supply tegangan dari generator, sehingga berhindar dari bahaya terbakar.",
+  "creators": "HENDRAWATI",
+  "contributors": "HADI SUTRISNO (Advisor 1); Riny Medyaningtyas (Advisor 2); SUSILO MATAIR (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 90/E/TST/014/0050; Hendrawati (484089)",
+  "subjects": "DYNAMOS-ALTERNATING CURRENT; ELECTRIC APPARATUS AND APPLIANCES-PROTECTION"
+}

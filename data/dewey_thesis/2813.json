@@ -1,0 +1,14 @@
+{
+  "id": "2813",
+  "title": "Pembuatan sistem informasi akuntansi pada Denny Textil",
+  "abstract": "Denny Textile adalah sebuah toko yang bergerak dalam bidang usaha dagang kain dan jasa pembuatan korden. Sistem yang ada masih manual khususnya untuk pembelian, penjualan, inventori dan akuntansi. Untuk meningkatkan efisiensi dan efektifitas dibutuhkan sistem baru yang terkomputerisasi dan terintegrasi, agar dapat menghasilkan informasi yang dibutuhkan secara cepat, tepat dan akurat. Perancangan desain sistem yang baru menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk membuat desain struktur tabel dan relasi antar tabel. Database dibuat dengan menggunakan Microsoft Access 2003. Aplikasi dibuat dan dikembangkan dengan menggunakan bahasa pemrograman Borland Delphi 7.0. Program yang dibuat meliputi: modul pembelian, penjualan, inventori dan akuntansi. Dari hasil pengujian program menunjukkan bahwa program ini mampu memproses data akuntansi yang berhubungan dengan pembelian dan penjualan secara otomatis dan menghasilkan informasi berupa laporan manajerial (laporan pembelian, penjualan, retur, hutang, pergerakan inventori) dan laporan keuangan (arus kas, laba rugi, ekuitas pemilik dan neraca) yang akurat (sesuai dengan proses manualnya) .",
+  "creators": "EFFIE KRISTANTY",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000327/INF/2005; Effie Kristanty (26401078)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

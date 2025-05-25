@@ -1,0 +1,14 @@
+{
+  "id": "14892",
+  "title": "Perencanaan dan pembuatan pengatur lalu-lintas yang disinkronkan dengan palang pintu kereta api Wonokromo dengan mikrocontroller 8031",
+  "abstract": "Penggunaan traffic-light (lampu lalu lintas) dalam pengaturan kepadatan transportasi lalu lintas sangat dibutuhkan; terutama mengatasi masalah kemacetan lalu lintas yang sering terjadi pada lokasi-lokasi yang dilalui banyak kendaraan bermotor dan juga pada persimpangan-persimpangan jalan. Dan kemacetan ini akan bertambah bila ada kereta api yang melewati sistem traffic-light yang sudah diprogram sesuai dengan kepadatan lalu lintas. Akibatnya kerja dari traffic-light kur-ang effisein. Pembuatan lampu lalu lintas (traffic-light) ini mengunakan mikrokontroler 8031 yang merupakan minimum sistem mikrokontroler 8031; dengan tujuan men-sinkronkan traffic-light dengan palang pintu kereta api. Prinsip kerja dari traffic-light ini, waktu-waktu penyalaan maupun lamanya penyalaan akan sesuai dengan format jam kepadatan. Contohnya antara jam 10 malam sampai 5 pagi, kepadatan transportasi cukup jarang, sehingga penyalaan traffic-light diberi kuning-padam, kuning-padam. Antara jam 5 sampai 7 pagi kepadatan lalu lintas mulai padat, kuning-padam dimatikan dan mulai ke format penyalaan merah-hijau-kuning. Sedangkan antara jam 7 sampai 9 pagi kepadatan lalu lintas sangat padat, sehingga untuk mengatasi masalah ini dengan memberi waktu penyalaan hijau untuk jalur padat ditambah sedangkan waktu penyalaan merah dikurangi. Taffic-light yang dibuat ini, selain mengatur kepadatan transportasi lalu lintas juga mengontrol palang pintu kereta api. Sehingga saat akan ada kereta api, maka dengan switch yang merupakan pengontrol palang pintu kereta api untuk turun ditekan, menyebabkan minimum sistem mikrokontroler 8031 terinterrupt sehingga sistem traffic-light bekerja sesuai dengan program yang diinginkan saat kereta api melewati traffic-light. Dan bila switch untuk mengangkat palang'di tekan, maka sistem traffic-light akan bekerja sesuai dengan format jam yang ada.",
+  "creators": "HARAPAN HANS I.P",
+  "contributors": "BENJAMIN FLEMING INTAN (Advisor 2); SOETIKNO (Examination Committee 1); NAWANTO WIBOWO (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/002/0092; Harapan Hans I.P. (485074)",
+  "subjects": "ELECTRONIC TRAFFIC CONTROLS-MICROCONTROLLERS; MICROCONTROLLERS"
+}

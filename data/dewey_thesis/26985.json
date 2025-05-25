@@ -1,0 +1,14 @@
+{
+  "id": "26985",
+  "title": "Pembuatan prototype hotel information system",
+  "abstract": "Bidang usaha perhotelan dan catering sudah lama menjadi bidang usaha yang penting dalam berbagai negara. Bidang usaha ini berusaha mendapatkan keuntungan utama dari penyewaan kamar dan penjualan makanan. Tujuan dari tugas akhir ini adalah untuk membuat sistem informasi perhotelan mengenai kegiatan dan fasilitas dasar perhotelan. Pembuatan sistem informasi ini menguraikan hotel sebagai model badan usaha yang terdiri dari lima komponen resources yang akan diuraikan secara rinci dan akan digambarkan secara visual. Pembuatan sistem informasi ini menggunakan pola sistem life cycle yang terdiri dari lima bagian yaitu kebijakan sistem, analisa sistem, desain sistem, implementasi sistem dan terakhir adalah perawatan sistem. Dalam tahap kebijakan sistem akan diuraikan perencanaan sistem dan pandangan sistem informasi hotel ini secara umum. Dalam tahap analisa sistem akan diuraikan mengenai analisa-analisa distribusi pekerjaan, analisa pengukuran pekerjaan, analisa keandalan, analisa dokumen dan analisa teknologi sistem usaha hotel. Dalam tahap desain sistem akan digunakan dua model, sebagai model logika akan digunakan data flow diagram dan untuk model fisiknya akan digunakan document flowchart dan system flowchart. Adapun data flow diagram akan diuraikan menjadi dua bagian yaitu kamus data (kemudian diproses dengan normalisasi) dan bagan terstruktur (yang akan diuraikan lagi menjadi structured english). Sedang pada tahap implementasi dan perawatan akan diuraikan mengenai modul - modul program yang dibuat, pengujian sistem informasi hotel ini dan terakhir adalah masalah security untuk sistem informasi hotel ini. Sistem informasi hotel sederhana yang dibuat mencakup tiga alur pokok utama yaitu alur pemesanan kamar, alur pemesanan makanan dan alur pemesanan supplies dan supplier. Metodologi benar - benar sangat membantu dalam merubah bidang usaha hotel pada dunia nyata ke dalam bentuk model yang dapat dipahami secara teknis sehingga dapat didesain dan dibuat sistem informasinya. Sistem yang dibuat berjalan dengan baik pada IBM PC Compatible Intel Based Pentium 100 Mhz. Adapun sedikit kekurangan pada sistem ini adalah pada security yang dapat diperbaiki dengan menggunakan appletviewer sebagai lingkungan sistem.",
+  "creators": "JOAN NUGROHO",
+  "contributors": "Kartika Gunadi (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. OO/E/KOM/016/073; Joan Nugroho (23496009)",
+  "subjects": "HOTELS; HOTELS, TAVERNS, ETC.-DECORATION; HOTELS, TAVERNS, ETC.-DESIGNS AND PLANS"
+}

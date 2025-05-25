@@ -1,0 +1,14 @@
+{
+  "id": "10722",
+  "title": "Robot serpentronic menggunakan mikrokontroler basic stamp",
+  "abstract": "Saat ini perkembangan teknologi khususnya robot begitu pesat perubahannya. Dari desain robot yang sangat sederhana sampai bentuk dan kecanggihan robot yang dapat membantu manusia dalam melakukan aktifitas sehari-hari. Robot ? robot yang dapat bergerak dengan menggunakan ruas ? ruas perutnya belum banyak dikembangkan. Robot ular merupakan salah satu robot yang dapat memanfaatkan atau menggerakkan ruas ? ruas badannya. Gerakan robot ular dibuat secara bertranslasi tujuannya agar didapatkan pergerakan maju maupun berbelok ke kiri dan juga berbelok ke kanan untuk menghindari halangan. Sistem kerja dari Robot Serpentronic ini menggunakan Mikrokontroler Basic Stamp sebagai pengontrol sistem. Agar dapat bergerak maka digunakan RC servo, RC servo dipakai sebanyak enam buah yang digunakan untuk menggerakkan persendian pada robot, untuk mengindari halangan maka dipakai sensor ultrasonic dan sensor cahaya untuk menentukan arah pergerakan robot. Kemampuan robot untuk bergerak maupun menghindari halangan, semua diatur oleh mikrokontroler yang berfungsi sebagai otak robot yang akan mengatur pola gerak robot. Pola gerak robot tergantung pada kondisi di sekitarnya. Robot ular akan bergerak maju lalu saat mendeteksi adanya halangan maka akan berbelok ke kanan, jika tidak memungkinkan untuk berbelok ke kanan maka berbelok ke kiri, namun jika berbelok ke kiri maupun ke kanan tidak memungkinkan maka robot ular tidak melakukan pergerakan. Hasil yang dicapai dari tugas akhir ini adalah robot ular dapat bergerak untuk melakukan gerakan maju, belok kanan, belok kiri dan menyamping. Penggunaan LDR pada robot ular dapat mendeteksi perubahan intensitas cahaya sekitar, tetapi pengukuran jarak ultrasonik tidak bekerja secara normal.",
+  "creators": "SEMY PHAN",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010864/ELK/2008; Semy Phan (23401066)",
+  "subjects": "ROBOTS-CONTROL SYSTEMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "50734",
+  "title": "Sistem kontrol stop kontak pada rumah berbasis Arduino dan Android",
+  "abstract": "Penggunaan Rumah pintar merupakan sebuah salah satu dari sistem pengendali rumah yang memberikan kenyamanan kepada pemilik rumah untuk mengendalikan peralatan elektronik menggunakan internet. Konsep ini berlandasan memperluas penggunaan dan manfaat dari internet of things dengan menanamkan sebuah kontroler dan sensor yang dapat terhubung dan berbagi data secara terus menerus. oleh sebab itu , hadir sebuah prototype smart home yang dapat mengendalikan lampu dan jalur listrik dengan akses pengendalian yang mudah. dalam rancangan ini, perangkat yang digunakan adalah sebuah kontroler berbasis Arduino uno yang terhubung dengan wemos d1 mini, Ac light dimmer, Sensor pzem-004t, PCB,dan LCD. Metode yang digunakan adalah dengan melakukan login pada aplikasi android dan sistem akan merespon perintah dari aplikasi tersebut dan mengubahnya menjadi sebuah aski yaitu meredupkan dan menyalakan lampu, ataupun menyalakan dan mematikan peralatan elektronik. Hasil akhir dari jurnal ini adalah sebuah alat yang telah dirancang dan aplikasi yang digunakan untuk mempermudah pengguna dalam melakukan pengontrolan alat elektronik dan pengecekan daya listrik yang digunakan.",
+  "creators": "TANU WIJAYA SARIDIN",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Handry Khoswanto (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022066/INF/2021; Tanu Wijaya Saridin (26415008)",
+  "subjects": "HOME AUTOMATION-DATA PROCESSING; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); INTERNET OF THINGS"
+}

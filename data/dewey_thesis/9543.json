@@ -1,0 +1,14 @@
+{
+  "id": "9543",
+  "title": "Perancangan dan pembuatan aplikasi untuk mengoptimasi penyusunan iklan gambar dengan metode algoritma genetik",
+  "abstract": "Dewasa ini, perkembangan dunia teknologi akhir-akhir sangat pesat, terutama dalam bidang artificial intelligent. Perangkat lunak yang dibuat dalam tugas akhir ini merupakan salah satu bagian dari aplikasi artificial intelligent yang mereplikasikan analisan dan pemikiran manusia untuk dapat mengambil keputusan dalam menyusun beberapa objek dengan seefisien mungkin. Perangkat lunak ini dibuat dengan menggunakan metode Algoritma Genetika, yaitu dengan melakukan beberapa proses terhadap hasil suatu populasi atau generasi awal, yang dapat menentukan apakah suatu generasi atau populasi tersebut benar-benar memiliki fitness cost terbaik atau tidak. Hasil dari Algoritma Genetika tersebut berupa populasi atau generasi yang memiliki fitness cost terbaik setelah dilakukan proses iterasi beberapa kali. Pemrograman perangkat lunak menggunakan bahasa pemrograman Delphi dan juga menggunakan media penyimpanan Microsoft Access. Perangkat lunak ini diujikan terhadap beberapa iklan di media cetak, di mana iklan-iklan tersebut adalah media yang paling dapat merepresentatifkan implementasi dari perangkat lunak ini sendiri. Hasil pengujian menunjukkan tingkat nilai kebugaran yang dicapai perangkat lunak ini dalam menyusun beberapa iklan gambar yang ada ke dalam satu halaman media cetak berkisar antara 55,48 % sampai dengan 79,29 % dengan rata-rata tingkat keberhasilan untuk keseluruhan pengujian adalah 70,80 %. Tingkat nilai kebugaran tersebut dipengaruhi oleh jumlah iklan yang diproses dalam perangkat lunak ini beserta dengan nilai parameter-parameter yang digunakan dalam penentuan fitness cost.",
+  "creators": "JOHAN SAPUTRA",
+  "contributors": "Rolly Intan (Advisor 1); Leo Willyanto Santoso (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010688/INF/2008; Johan Saputra (26403026)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

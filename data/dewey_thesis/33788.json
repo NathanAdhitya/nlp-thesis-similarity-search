@@ -1,0 +1,14 @@
+{
+  "id": "33788",
+  "title": "Implementasi pengenalan multiple marker untuk sistem augmented reality",
+  "abstract": "Pembuatan maket untuk pencontohan kepada para investor terkadang memerlukan biaya yang sangat besar, pembuatan maket sering berganti-ganti jika dirasa ada yang kurang cocok dalam pembuatannya. Untuk mengatasi ketidakcocokan antara user dan investor, para desainer akan membuat ulang maket-maket tersebut jika ternyata tidak sesuai dengan keinginan oleh investor. Akan tetapi masalah yang timbul adalah pembelian alat contoh peraga yang mahal, sehingga tidak efisien dalam menghasilkan pembuatan biaya maket. Untuk mengatasi hal ini, dibuatlah aplikasi visualisasi maket taman kota dengan menggunakan marker yang terbuat dari kertas, sehingga biaya pembuatan maket tersebut murah, dibandingkan dengan uang yang harus dikeluarkan untuk membeli alat-alat seperti, pohon, bangku taman, dll. User juga dapat menambahkan maket sesuai dengan keingginannya, dapat menambahkan object yang terdapat free di internet, lalu memilih marker sesuai dengan keinginannya, bahkan user dapat memprint sendiri maket yang akan digunakannya. Untuk membuat visualisasi maket tersebut dilakukan proses-proses yang cukup panjang mulai dari merubah warna menjadi keabuan, merubah warna menjadi hitam dan putih, deteksi tepi, mendeteksi persegi, mencocokkan template hingga mencetak object dimensi yang diinginkan. Melalui hasil pengujian, telah didapatkan hasil yaitu object yang tercetak pada layar sudah sesuai posisinya dengan marker. Kelemahan dalam proses ini adalah proses rendering yang memakan cukup lama dan juga proses pencetakan object 3D yang masih belum memiliki texture dan marker yang dikenali harus berbentuk persegi.",
+  "creators": "STEVEN FEBRIAN H",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021367/INF/2015; Steven Febrian H. (26411029)",
+  "subjects": "AUGMENTED REALITY; COMPUTER GRAPHICS; IMAGE PROCESING-DIGITAL TECHNIQUES; THREE-DIMENSIONAL GRAPHICS"
+}

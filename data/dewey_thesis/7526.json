@@ -1,0 +1,14 @@
+{
+  "id": "7526",
+  "title": "Perancangan dan pembuatan sistem administrasi dengan forecasting kebutuhan kendaraan perusahaan persewaan mobil CV. Asri Taksi",
+  "abstract": "Perusahaan yang bergerak di bidang jasa persewaan mobil CV. Asri Taksi mengalami masalah dalam menentukan kebutuhan tiap-tiap kendaraan yang di miliki. Selama ini perusahaan menggunakan intuisi dan manual checking dalam menentukan kebutuhan kendaraan serta proses administrasi yang masih bersifat manual. Aplikasi sistem pendukung keputusan yang dibuat dalam Tugas Akhir ini diharapkan dapat membantu dalam mengambil keputusan mengenai kebutuhan setiap kendaraan. Dengan adanya permasalahan tersebut maka dilakukan pengaplikasian sistem administasi perusahaan secara komputerisasi yang meliputi proses peramalan untuk mendapatkan kebutuhan-kebutuhan kendaraan untuk periode mendatang yang optimal. Metode peramalan yang digunakan adalah moving average models dan exponential smoothing models. Pembuatan sistem pendukung keputusan ini menggunakan software Borland Delphi 7.0 dan MySQL sebagai databasenya. Dari hasil pengujan dalam aplikasi sistem pendukung keputusan ini maka akan dihasilkan nilai peramalan kebutuhan kendaraan. Seluruh metode peramalan yang tersedia pada aplikasi dapat digunakan dan akan dihasilkan nilai MAD terkecil yang menunjukkan efektivitas suatu model peramalan.",
+  "creators": "WIRAHADI PRASTIJO",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000433/INF/2005; Wirahadi Prastijo (26401054)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

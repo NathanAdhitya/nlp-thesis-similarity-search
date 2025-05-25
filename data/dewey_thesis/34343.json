@@ -1,0 +1,14 @@
+{
+  "id": "34343",
+  "title": "Pembuatan aplikasi mobile sebagai tools pendukung desain panel listrik tegangan rendah",
+  "abstract": "Pengembangan aplikasi mobile di bidang kelistrikan masih sangat minim. Berbeda dengan adanya program di PC yang dapat digunakan untuk melakukan perancangan panel listrik dengan kompleks namun dinilai tidak praktis. Oleh karena itu diperlukan inovasi berupa pengembangan aplikasi mobile yang dapat digunakan untuk melakukan perancangan panel listrik secara praktis. Aplikasi ini dibuat untuk platform tablet ukuran 10.1” dengan sistem operasi android API 16 menggunakan software “Eclipse”. Desain panel listrik yang dilakukan melingkupi Panel Hubung Bagi, Motor Control Center, dan Capacitor Bank dengan standar PUIL, SPLN, IEC, dan IEEE. Aplikasi yang telah dibuat dapat digunakan untuk melakukan perancangan panel listrik dan dapat dibandingkan dengan perhitungan manual ataupun aplikasi “MyEcodial L 3.4”. Terjadi beberapa perbedaan data hasil perancangan menggunakan aplikasi ini dengan aplikasi “MyEcodial L 3.4”. Perbedaan tersebut berupa hasil perhitungan arus short circuit dan spesifikasi circuit breaker. Hal ini dikarenakan database yang digunakan aplikasi ini berdasarkan ketersediaan komponen di pasar Indonesia pada tahun 2015 sedangkan aplikasi “MyEcodial L 3.4” menggunakan database tahun 2008. Perbedaan yang terjadi dapat ditolerir karena masih sesuai dengan standar yang berlaku.",
+  "creators": "KEVIN BUDIHARGONO",
+  "contributors": "Julius Sentosa Setiadji (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010639/ELK/2015; Kevin Budihargono (23411007)",
+  "subjects": "ELECTRIC POWER INSTALLATION; DATABASE DESIGN; COMPUTER-PROGRAMMING"
+}

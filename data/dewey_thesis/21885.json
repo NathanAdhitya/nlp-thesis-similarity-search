@@ -1,0 +1,14 @@
+{
+  "id": "21885",
+  "title": "Analisis sistem produksi menggunakan simulasi untuk meminimumkan idel time di PT \"X\"",
+  "abstract": "PT\"X\" adalah sebuah perusahaan yang bergerak di bidang furniture. Sifat produksi perusahaan ini adalah job order untuk memenuhi permintaan ekspor. Permasalahan yang dihadapi saat ini ialah terjadinya penumpukan terhadap barang setengah jadi di beberapa lantai produksi yang menyebabkan terjadinya waktu idle. Tugas Akhir ini mencoba melakukan dan mengetahui penyebab terjadinya permasalahan yang terjadi di PT\"X\" tersebut dengan melakukan suatu langkah perbaikan dari keadaan sesungguhnya. Simulasi merupakan alat bantu dalam menyelesaikan permasalahan di PT\"X\" tersebut. Keadaan awal di dalam perusahaan dibuat suatu model simulasi dengan menggunakan Software Promodel 3.0, keadaan sistem awal tersebut dianalisa dan kemudian dibuat beberapa usulan yang mungkin terjadi untuk mendapatkan jumlah mesin yang optimal untuk meminimumkan waktu idle. Alternatif yang dilakukan dalam memperbaiki permasalahan pada model awal tersebut, harus dapat menurunkan prosentase idle pada mesin. Perbaikan yang dilakukan adalah dengan mengurangi jumlah mesin dibeberapa lokasi. Analisa simulasi usulan yang paling baik diterapkan sesuai dengan kondisi perusahaan adalah model usulan 5 dengan pengurangan mesin sebanyak 13 unit, yaitu 2 mesin cross cut, 3 mesin boring, 3 mesin router, 3 mesin brush sander, 1 mesin sponge sander dan 1 mesin horizontal boring, dengan hasil akhir sebesar 610 dosperbulan.",
+  "creators": "JULITA",
+  "contributors": "Tanti Octavia (Advisor 1); Jani Rahardjo (Examination Committee 1); Tidak diketahui (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 518/TI-109/2001; Julita (25497048)",
+  "subjects": "PRODUCTION PLANNING-SIMULATION METHODS; WORK MEASUREMENT"
+}

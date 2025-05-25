@@ -1,0 +1,14 @@
+{
+  "id": "21434",
+  "title": "Sistem sekuriti dalam transceiver FM",
+  "abstract": "Pada bidang telekomunikasi penggunaan- sistem wireless sangat banyak dijumpai, karena sistem ini sangat praktis dan fleksibel. Salah satu alternatif yaitu menggunakan sistem frekuensi FM. Karena banyaknya pengguna sistem frekuensi FM, maka sering terjadi interferensi. Tujuan tugas akhir ini adalah membuat suatu sistem sekuriti transceiver FM untuk mengirim dan menerima data sehingga data tersebut tidak terpengaruh oleh interferensi dari frekuensi. Pada perencanaan perangkat keras terdiri dari pembuatan rangkaian modem FSK, keypad, lampu beban dan pada perencanaan perangkat lunak terdiri dari program komunikasi, dan program mengubah password. Pada pengujian sistem dengan menggunakan kabel serial tidak terjadi gangguan. Sedangkan pada pengujian sistem pengiriman data dalam jarak yang jauh terjadi beberapa gangguan yang disebabkan oleh sistem komunikasi yang kurang sinkron antara pengiriman dan penerimaan melalui media frekuensi. Dengan melihat hasil yang diperoleh dari percobaan yang dilakukan masing-masing 10 kali percobaan (pada 8 bit dan 16 bit) didapatkan prosentasi error 20% pada sistem random 8 bit dan pada sistem random 16 bit didapatkan prosentasi error 35%.",
+  "creators": "NIKI KRISTIANTO LEMAN",
+  "contributors": "Hany Ferdinando (Advisor 2); YOHANES T. D. S (Examination Committee 1); HERLIANTO TENGGARA (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/006/520; Niki Kristianto Leman (23495111)",
+  "subjects": "ELECTRONIC SECURITY SYSTEMS; WIRELESS COMMUNICATION SYSTEMS"
+}

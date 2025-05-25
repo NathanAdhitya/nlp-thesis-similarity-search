@@ -1,0 +1,14 @@
+{
+  "id": "21014",
+  "title": "Pembuatan software pengenaan huruf dan angka dengan menggunakan jaringan saraf tiruan algoritma supervised",
+  "abstract": "Perkembangan teknologi image processing saat ini terus berkembang. Banyak aplikasi pengenalan dalam dunia elektronika dipakai untuk membantu atau mempermudah kerja manusia. Dengan mengacu pada penelitian sebelumnya yang menggunakan Jaringan Saraf Tiruan dengan algoritma Supervised dapat mengenali pola huruf dan angka, maka penelitian kali ini bertujuan untuk membuat software pengenalan huruf dan angka dengan algoritma yang sama untuk mengenali huruf dan angka yang tersusun dalam plat nomor kendaraan yang di-scan. Metode yang digunakan adalah BPN {BackPropagation Network) dimana diperlukan suatu target berupa pola untuk perbandingan dengan output yang dihasilkan sehingga terjadi error. Gambar riil sebelum masuk ke dalam pengujian mengalami pemrosesan, yaitu threshold dan feature extraction. Pengujian sistem yang dilakukan adalah penelitian pengaruh parameter jaringan terhadap proses training dan juga pengaruh topologi jaringan terhadap performance. Hasil yang didapat setelah melakukan pengujian secara fungsional adalah bahwa program yang dibuat dapat berjalan sesuai dengan yang diinginkan yaitu dapat mengenali pola huruf maupun angka. Sedangkan hasil setelah dilakukan pengujian performance, software mampu mendapatkan keberhasilan terbaik sebesar 95% dari pengujian pada pola yang sudah dilatih dengan jumlah unit dalam hidden layer = 100, nilai learning rate = 0.7 dan 87% dari pengujian terhadap pola yang tidak terlatih pada kombinasi jumlah unit dalam hidden layer = 100, nilai learning rate = 0.5.",
+  "creators": "METTASARI BUDIKARTONO",
+  "contributors": "Thiang (Examination Committee 1); Yohanes Trilaksono Dibyo S. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/018/532; Mettasari Budikartono (23497020)",
+  "subjects": "COMPUTER ALGORITHMS; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

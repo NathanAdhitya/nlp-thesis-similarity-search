@@ -1,0 +1,14 @@
+{
+  "id": "13136",
+  "title": "Aplikasi perhitungan profil aliran berubah beraturan pada saluran terbuka",
+  "abstract": "Aliran Berubah Beraturan ialah suatu aliran yang mempunyai perubahan debit yang tetap, AQ = tetap, baik berupa penambahan maupun pengurangan debit. Aliran Berubah Beraturan ini terdiri atas dua jenis yaitu : Aliran Berubah Beraturan dengan penambahan debit yang tetap dan Aliran Berubah Beraturan dengan pengurangan debit yang tetap. Dalam skripsi ini yang dibahas hanyalah Aliran Berubah Beraturan akibat Penambahan ataupun Pengurangan Debit . hanya dalam arah yang Lateral saja (dari arah samping). Aliran Berubah Beraturan dengan penambahan debit lateral yang tetap terdapat misalnya pada Side Channel Spillway dan Saluran Drainase. Aliran Berubah Beraturan dengan pengurangan debit lateral yang tetap terdapat pada saluran dengan pelimpah samping (Side Weir). Aliran Berubah Beraturan dengan perubahan debit yang tetap termasuk aliran tetap yang berubah lambat laun (Steady Gradually Varied Flow), yang mana profil aliran berubah secara lambat laun dari penampang yang satu ke penampang yang lain, tetapi bentuk profil alirannya selalu tetap dari waktu ke waktu. Disebabkan adanya turbulensi aliran yang cukup besar sehingga rnengakibatkan terjadinya kehilangan energi yang cukup besar dan tidak menentu, maka Hukum Bernouli tidak bisa digunakan untuk menghitung profil aliran berubairi beraturan, terutama sekali pada aliran berubah beraturan dengan penambahan debit yang tetap, sebab turbulensinya sangat besar. Sehingga penyelesaian perhitungan untuk mendapatkan profil aliran berubah beraturan ini digunakan persamaan Momentum. Persamaan Momentum tersebut di atas yang setelah diturunkan dengan Metode Integrasi Numeric maka akan didapatkan Perumusan untuk menghitung profil Aliran Berubah Beraturan. Perumusan tersebut di atas digunakan dengan cara coba-mencoba {Trial and Error) dari satu penampang (Cross Section) ke penampang yang lain. Dengan menggunakan program dalam Basica dan dengan bantuan komputer maka perhitungan profil Aliran dapat diselesaikan.",
+  "creators": "YOHANES SARJONO WIJAYA",
+  "contributors": "Ruslan Djajadi (Advisor 1); Frederik Jones Syaramual (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 424.S; Yohanes Sarjono Wijaya ( 14281017)",
+  "subjects": "CHANNELS (HYDRAULIC ENGINEERING)-COMPUTER PROGRAMS; FLUID MECHANICS (COMPUTER PROGRAM)"
+}

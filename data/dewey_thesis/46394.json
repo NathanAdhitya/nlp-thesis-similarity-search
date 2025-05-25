@@ -1,0 +1,14 @@
+{
+  "id": "46394",
+  "title": "Pengenalan gambar tempat wisata dengan Deep Local Feature dan Support Vector Machine",
+  "abstract": "Pengabadian momen pada suatu tempat biasa dilakukan dengan foto. Akan tetapi, karena banyaknya foto, pengorganisasian foto menjadi sulit. Wisatawan mungkin tidak mengetahui nama tempat wisata yang ia kunjungi, tidak sempat memberi nama foto atau lupa nama tempat foto itu diambil. Pencarian tempat melalui foto secara manual akan membutuhkan waktu yang cenderung lama. Penelitian ini akan melakukan uji coba dengan implementasi metode Deep Local Feature (DELF) serta Support Vector Machine (SVM) untuk mengenali foto tempat wisata secara otomatis. Metode DELF merupakan metode yang efektif dalam pengambilan fitur gambar, khususnya gambar tempat. Setelah pengambilan fitur gambar dilakukan, gambar akan dikelompokan berdasarkan fitur dengan SVM. Pengujian dilakukan untuk mendapatkan nilai parameter pengambilan fitur dengan DELF dan klasifikasi dengan SVM agar pengenalan gambar tempat wisata memiliki tingkat akurasi yang tinggi. Untuk 153 class gambar, dilakukan DELF dengan image threshold 50 dan max feature 1000. Sedangkan klasifikasi menggunakan SVM ber-kernel RBF dengan cost 10 dan gamma 0,01. Dengan menggunakan DELF dan SVM tersebut didapatkan akurasi dengan data test sebesar 0.6178.",
+  "creators": "ANGELIKA DIBIJO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Leo Willyanto Santoso (Examination Committee 1); Alvin Nathaniel Tjondrowiguno (Advisor 2); Hans Juwiantho (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021949/INF/2020; Angelika Dibijo (26416060)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); PROGRAMMING LANGUAGES (COMPUTERS)"
+}

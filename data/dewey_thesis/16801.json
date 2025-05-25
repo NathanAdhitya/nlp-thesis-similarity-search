@@ -1,0 +1,14 @@
+{
+  "id": "16801",
+  "title": "Pembuatan robot artikulasi menggunakan pendekatan inverse kinematik berbasis PC",
+  "abstract": "Dalam tugas akhir ini dibuat Iengan robot artikulasi yang menyerupai tiga sendi Iengan manusia yaitu sendi base (dasar), shoulder (bahu), dan elbow (siku). Robot ini menggunakan inverse kinematik penggerak jenis siku dengan tiga derajat kebebasan yang mana tidak merailiki ofset sendi dan jari penjepit. Karena titik target yang hams dicapai adalah dalam koordinat kartesian maka dibutuhkan bantuan komputer (PC) untuk melakukan perhitungan geometris. Sehingga untuk memerintahkan Iengan bergerak ke suatu posisi target dibutuhkan perhitungan geometris inverse kinematik. Besar sudut 9 yang harus dibentuk setiap sendi bertujuan untuk membentuk koordinat (x,y,z) diujung Iengan paling akhir. Jadi sudut 9i, 92, 93 diberikan masing-masing ke sendi base, shoulder, dan elbow. Bahan mekaniknya dibuat dari kayu untuk memudahkan pembuatannya. Motor DC kecil ditempatkan pada tiap sendi. Lewat pengendalian dengan pulsa-pulsa PWM dan kontrol jenis proporsional maka respon yang dilakukan motor dapat lebih baik dan cepat dibandingkan dengan motor stepper. Karena menggunakan sistem tertutup maka setiap saat pergerakan Iengan akan dibaca oleh mikrokontroler 8031 melalui ADC dan menggerakkan setiap motor Iengan sesuai dengan besar error yang terjadi melalui DAC. Semakin kecil tegangan error yang masuk ke suatu sendi rangkaian PWM maka lebar pulsa high yang akan menggerakkan motor driver juga semakin pendek, yang berarti tegangan rata-ratanya kecil. Bila tidak ada tegangan error yang terjadi maka motor dalam keadaan berhenti, yang berarti sendi tersebut telah mencapai besar sudut yang harus dibentuk. Kemungkinan terdapat dua macam penyelesaian bagi Iengan untuk mencapai posisi target, yaitu konfigurasi siku atas dan siku bawah, atau terdapat hanya salah satunya saja bila Iengan diinstruksikan mencapai posisi yang jauh. Bisa pula tidak ada solusi oleh karena posisi target terlalu jauh untuk dicapai oleh Iengan. Dari hasil pengujian menunjukkan bahwa error yang terjadi cukup kecil walaupun hanya menggunakan sensor posisi potensiometer. Karena potensiometer hanya efektif pada pemakaian 240 derajat maka pada ujung putaran paling kin dan paling kanan terjadi error yang besar. Dan jangkauan sendi terjauh hanya 128 derajat ke kin dan ke kanan dikarenakan jumlah step dari ADC hanya sebesar 256 step.",
+  "creators": "KWEE CAHYADI",
+  "contributors": "Resmana Lim (Lecturer); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/031/425; Kwee Cahyadi (23493129)",
+  "subjects": "ROBOTS-MOTION"
+}

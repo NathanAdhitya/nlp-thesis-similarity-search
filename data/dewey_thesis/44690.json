@@ -1,0 +1,14 @@
+{
+  "id": "44690",
+  "title": "Implementasi naive bayes classifier dalam analisa rekrutmen di PT Mitra Pinasthika Mulia",
+  "abstract": "PT. Mitra Pinasthika Mulia adalah perusahaan yang bergerak di bidang distribusi motor, sparepart, dan aksesoris yang membutuhkan aplikasi untuk analisa atau prediksi applicant. Saat ini PT. Mitra Pinasthika Mulia mendapatkan applicant dengan beberapa cara, yaitu dari surat pelamar, website, job fair, dan yang terakhir job street. Terdapat banyak data applicant yang masuk dan data tersebut masih diseleksi secara manual. Namun hal ini tidak efektif karena akan memerlukan waktu dan tenaga, oleh karena itu dibuatlah aplikasi ini untuk membantu mempercepat proses seleksi applicant dengan cara memberikan nilai prediksi terhadap masing-masing applicant. Metode yang digunakan adalah salah satu metode data mining yaitu Naive Bayes Classifier. Metode Naive Bayes Classifier adalah salah satu metode klasifikasi atau prediksi dengan model untuk menghitung peluang dari suatu kategori yang memiliki parameter atribut yang ada, dan menentukan kategori mana yang paling optimal. Parameter atribut yang digunakan untuk mengukur applicant adalah usia, jenis kelamin, pengalaman, pendidikan, kemampuan berbahasa, identitas, dan pekerjaan yang dipilih. Dari hasil penelitian ini didapatkan tingkat f-score terbaik sebesar 45,9% dan akurasi 97,25% untuk prediksi penerimaan, serta tingkat akurasi terbaik sebesar 96,87% untuk prediksi pekerjaan.",
+  "creators": "ARDIAN TEJA",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021889/INF/2019; Ardian Teja (26415076)",
+  "subjects": "DATABASE MANAGEMENT; DATA MINING"
+}

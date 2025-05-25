@@ -1,0 +1,14 @@
+{
+  "id": "16032",
+  "title": "Perancangan tata letak pabrik dengan algoritma simulated annealing di PT. Hartono Istana Electronics Kudus",
+  "abstract": "Salah satu faktor yang turut menentukan efektif atau tidaknya suatu proses produksi adalah tata letak pabrik. Oleh karena itu diperlukan rancangan layout yang baik. Salah satu cara untuk memperoleh layout yang baik adalah dengan meminimalkan jarak perpindahan material yang ditempuh. Hal ini dapat diperoleh dengan menghitung momen perpindahan yang terjadi. Algoritma simulated annealing adalah algoritma yang mengacu pada minimal momen. Semakin kecil nilai momen yang dihasilkan, semakin baik pula layout tersebut. Dalam algoritma ini, langkah yang harus dilakukan yaitu memasukkan desain layout awal yang sudah ada, kemudian komputer secara random akan mengacak posisi dari fasilitas-fasilitas yang ada dan menghitung momermy&.Bila diperoleh nilai momen yang lebih kecil dari layout awal, maka layout lama tidak dipergunakan lagi. Pengacakan layout ini terus dilakukan dengan batasan dan iterasi yang telah ditetapkan sehingga diperoleh layout hasil akhir dengan nilai momen terkecil. Setelah dilakukan proses penghitungan momen dengan program algoritma simulated annealing, diperoleh hasil akhir dengan nilai momen yang lebih kecil daripada layout awal. Penurunan nilai momen yang dihasilkan setelah layout hasil akhir disesuaikan dengan kondisi perusahaan adalah 3.38 %.",
+  "creators": "IRMA POERWANTO",
+  "contributors": "Kristiana Asih Damayanti (Advisor 2); Julianingsih (Examination Committee 1); Tidak diketahui (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 405/TI-132/200; Irma Poerwanto (25496036)",
+  "subjects": "PLANT LAYOUT"
+}

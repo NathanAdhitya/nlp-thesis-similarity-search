@@ -1,0 +1,14 @@
+{
+  "id": "50406",
+  "title": "Sistem rekomendasi tempat makan wilayah Solo Raya berbasis web dengan user based collaborative filtering menggunakan fuzzy conditional probability relation",
+  "abstract": "Sistem rekomendasi merupakan sistem yang digunakan untuk memprediksi suatu objek dan menyampaikan kepada pengguna dalam bentuk informasi yang berguna berdasarkan nilai rating. Sistem rekomendasi dapat diterapkan dalam rekomendasi tempat makanan. Metode yang umum digunakan dalam sistem rekomendasi ini adalah User-Based Collaborative Filtering. Metode ini merupakan teknik yang digunakan untuk memprediksi sebuah item yang disukai user berdasarkan rating yang sama dengan cara user to user. Penelitian ini menggunakan metode User-Based Collaborative Filtering ¬dengan menggunakan Fuzzy Conditional Probability Relation untuk melakukan perhitungan antar user. Pengujian dilakukan dengan menghitung akurasi dari hasil rekomendasi yang dihasilkan oleh sistem terhadap user. Survei akan digunakan untuk mengetahui jumlah rekomendasi yang valid supaya ditemukan nilai akurasi dari metode. Hasil dari penelitian ini adalah nilai akurasi rata – rata yang didapatkan dari penggunaan metode User-Based Collaborative Filtering menggunakan Fuzzy Conditional Probability Relation. Berdasarkan hasil survei, hasil akurasi yang didapatkan bernilai 62,78%, hasil akurasi dengan menggunakan batasan rating 2 didapatkan 47%, hasil akurasi dengan batasan rating 3 didapatkan 69%, dan hasil akurasi dengan batasan 4 didapatkan 83%. Dari hasil akurasi ini dapat didapatkan bahwa User-Based Collaborative Filtering menggunakan Fuzzy Conditional Probability Relation dapat menghasilkan hasil yang cukup baik dan memuaskan untuk memberikan rekomendasi.",
+  "creators": "CHRISTIAN SURYADI",
+  "contributors": "Rolly Intan (Advisor 1); Andreas Handojo (Examination Committee 1); Hans Juwiantho, M.Kom (Advisor 2); Alvin Nathaniel Tjondrowiguno, S.Kom. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022059/INF/2021; Christian Suryadi (C14170088)",
+  "subjects": "FUZZY LOGIC; WEB SITES--DESIGN; WORLD WIDE WEB"
+}

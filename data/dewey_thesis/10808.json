@@ -1,0 +1,14 @@
+{
+  "id": "10808",
+  "title": "Sistem kendali akses dengan kunci hardware pada jaringan RS-485 yang dapat dikontrol melalui WEB",
+  "abstract": "Dalam tugas akhir ini dibuat suatu jaringan RS-485 dan CGI program dimana sistem RS-485 dapat berhubungan secara one to many yang menggunakan sistem multidrop network. Aplikasi penggunaan converter ini adalah pengendalian akses pada jaringan RS-485, jadi kepada sebuah komputer, beberapa minimum system bisa bertanya mengenai diperbolehkan atau tidaknya seseorang melakukan akses. Sedangkan CGI program digunakan untuk melakukan perubahan-perubahan pada database yang dijadikan acuan untuk mengambil keputusan boleh atau tidaknya seseorang melakukan suatu akses melalui Web Browser. CGI program ini sangat banyak dipakai saat ini oleh server suatu Web Site karena CGI program ini yang membuat suatu Web Site bisa melayani permintaan informasi atau mengirim informasi ke Web Server.. Software pada PC ada 2, keduanya dibuat dengan bantuan Delphi 3.0 dari Borland International, Inc Software. Software yang pertama yang menangani komunikasi pada jaringan RS-485 yang selalu memulai adanya sebuah komunikasi pada jaringan dengan mengirim address dari minimum system yang ditunjuk. Software yang kedua yang menangani komunikasi pada jaringan internet, melayani permintaan informasi dan pemberian informasi dari dan ke client. Software pada minimum system dibuat dengan bantuan compiler ALDS. Software ini membalas pertanyaan-pertanyaan yang diajukan oleh PC serta menangani adanya akses dari card dan keypad untuk kemudian memberikan output kepada pengakses berupa jawaban ya atau tidak. Untuk hardware dibuat 3 buah RS-232 to RS-485 Converter, 2 buah keypad 10 tombol, 2 buah card, dan 2 buah card reader. Setiap minimum system mendapatkan 1 buah converter, 1 buah keypad dan 1 buah card reader. PC menerima sebuah Converter. Pengujian dilakukan secara software dengan mendapatkan semua hasil-hasil yang diinginkan secara benar.",
+  "creators": "NYOTO WIJAYA",
+  "contributors": "IRWAN SAHLI (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/012/449; Nyoto Wijaya (23495108)",
+  "subjects": "INTERNET (COMPUTER NETWORKS)"
+}

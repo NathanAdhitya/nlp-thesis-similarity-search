@@ -1,0 +1,14 @@
+{
+  "id": "60877",
+  "title": "Desain dan analisa sistem kontrol torque vectoring dan steering angle dengan metode pid pada kendaraan listrik roda empat",
+  "abstract": "Infrastruktur serta teknologi untuk kendaraan listrik perlu untuk terus ditingkatkan seiring dengan pertumbuhan penggunaan kendaraan listrik. Hal ini bertujuan untuk meningkatkan keamanan dan kenyamanan pengemudi saat berkendara. Telah banyak teknologi yang telah dikembangkan dalam hal keamanan dan kenyamanan, contohnya adalah mengontrol torsi keluaran dari masing-masing roda atau sering disebut sistem torque vectoring dan mengontrol sudut kemudi dari kendaraan. Pada penelitian ini akan berfokus pada kontrol dengan menggunakan PID. PID dipilih karena konstruksi yang sederhana dan tidak memberatkan perangkat keras. Jurnal yang diterbitkan akan menjadi sarana untuk memvalidasi hasil simulasi. Pengujian dilakukan dengan manuver step steering dan double lane change. Parameter feedback yang digunakan adalah yaw rate dan sideslip kendaraan. TV dan sudut kemudi dengan kontrol PID memberikan hasil yang cukup baik dalam mengontrol kestabilan kendaraan.",
+  "creators": "YUTAKA MATTHEW TANDIONO",
+  "contributors": "Ian Hardianto Siahaan (Advisor 1); Ivan Christian Hernando, S.T., M.T. (Advisor 2); Joni Dewanto (Examination Committee 1); Ninuk Jonoadji (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03011541/MES/2024; Yutaka Matthew Tandiono (C12200042)",
+  "subjects": "ELECTRIC VEHICLES; ELECTRIC VEHICLES--MOTORS; ELECTRIC VEHICLES--AUTOMATIC CONTROL"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "46302",
+  "title": "Sistem rekomendasi film menggunakan user-based collaborative filtering dan K-modes clustering",
+  "abstract": "Film adalah salah satu media hiburan yang populer di masyarakat. Banyaknya judul-judul yang telah rilis membuat masyarakat kesulitan untuk menemukan film mana yang mereka ingin tonton. Untuk mengatasi masalah tersebut, perlu adanya informasi mengenai film yang akan memudahkan masyarakat untuk menemukan film yang cocok dengan preferensi user, oleh sebab itu user perlu sebuah sistem yang dapat memberikan rekomendasi film. Sistem rekomendasi film menggunakan user-based collaborative filtering adalah salah satu metode yang mampu memberikan rekomendasi. Kmodes Clustering juga dapat digunakan sebagai penambah ketepatan dari rekomendasi dengan mengelompokkan riwayat preferensi user. Menurut hasil pengujian terhadap metode k-modes clustering, jumlah cluster terbaik untuk K-Modes Clustering untuk rekomendasi film yang didapatkan dengan menggunakan Elbow Method dan Silhouette Coefficient adalah sebesar k = 3. Dari hasil pengujian ketepatan rekomendasi dengan Mean Reciprocal Rank (MRR) dihasilkan rata-rata MRR sebesar 0.17092270381865 untuk rekomendasi film dengan rasio data train dan test sebesar 80% : 20% dan rata-rata MRR sebesar 0.15072658511145 untuk rekomendasi film dengan rasio data train dan test sebesar 60% : 40%. Dari hasil dua pengujian diatas dapat disimpulkan bahwa tingkat ketepatan dari rekomendasi film menurut MRR cukup karena MRR-nya mendekati 0.",
+  "creators": "ICHWANTO",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021928/INF/2020; Ichwanto (26415016)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING"
+}

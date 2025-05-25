@@ -1,0 +1,14 @@
+{
+  "id": "4616",
+  "title": "Alat perekam pembicaraan telepon dengan menggunakan sound card pc",
+  "abstract": "Komputer dan telepon merupakan teknologi yang tidak dapat dipisahkan dari kehidupan manusia. Salah satu aplikasi komputer dapat digabungkan dengan telepon menjadi sebuah Alat Perekam Pembicaraan Telepon. Prinsip kerja alat perekam ini adalah suara dari jaringan telepon akan diterima melalui jalur microphone dari sound card komputer dan kemudian direkam menjadi suatu file untuk selanjutnya dapat didengarkan kembali Alat Perekam Pembicaraan Telepon ini terdiri dari dua bagian yaitu perangkat keras yang terhubung langsung dengan jaringan telepon, dan komputer yang berfungsi untuk memproses sinyal-sinyal yang masuk dari perangkat keras. Perangkat lunak pada komputer dibuat dengan Delphi 7.0. Semua sinyal selain sinyal suara akan di-input-kan ke komputer melalui parallel port dan sinyal suara dari jaringan telepon akan masuk melalui line in sound card. Sound card yang digunakan yaitu onboard sound card dari motherboard GA-8IPE100 yang memiliki satu buah line in, sebuah line out dan satu mic in. Dari hasil pengujian diketahui bahwa, perangkat keras dapat mendeteksi dengan baik sinyal dari jaringan telepon dan komputer dan perangkat lunak dapat bekerja dengan baik dalam memproses sinyal masukan dari perangkat keras serta dalam memainkan suara. Hasil rekaman suara akan disimpan menjadi file dengan format ?wav? dengan frekuensi 32KHz dan kualitas suaranya mono. Sehingga dapat disimpulkan bahwa Alat Perekam Pembicaraan Telepon ini dapat dipakai sebagai alternatif yang lebih baik daripada Alat Perekam Pembicaraan Telepon lain.",
+  "creators": "I MADE DWI SANJAYA",
+  "contributors": "Resmana Lim (Advisor 1); Handry Khoswanto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010818/ELK/2006; I Made Dwi Sanjaya (23401143)",
+  "subjects": "TELEPHONE ANSWERING AND RECORDING APPARATUS; TELEPHONE-SOUND CARD SYSTEMS"
+}

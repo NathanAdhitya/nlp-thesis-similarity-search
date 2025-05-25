@@ -1,0 +1,14 @@
+{
+  "id": "15880",
+  "title": "Merancang sebuah peta kendali EWMA untuk data multivariate",
+  "abstract": "Di dalam kehidupan kita ada begjtu banyak masalah yang harus kita hadapi. Ada masalah yang hanya dipengaruhi oleh satu faktor dan ada juga masalah yang terjadi karena dipengaruhi oleh beberapa faktor yang satu sama lain saling berkorelasi. Untuk menyelesaikan masalah tersebut tentu kita memerlukan suatu analisa multivariate karena dalam analisa ini suatu masalah dapat diselesaikan secara bersamaan. Pada umumnya kita menganalisanya dengan menggunakan Hotteling biasa. Hotteling tersebut tidak dapat digunakan untuk mendeteksi perubahan yang kecil yang dapat terjadi di dalam proses. Oleh karena itu pembobotan diberikan dalam menganalisa masalah tersebut untuk mendeteksi perubahan yang kecil sehingga kita perlu menganalisanya dalam Multivariate EWMA. Didalam tugas akhir ini dilakukan simulasi yang merupakan suatu rancangan peta EWMA untuk data multivariabeL Program yang dipakai dalam simulasi ini adalah program S-PLUS dimana data didapat dari membangkitkan bilangan random normal yang kemudian ditransformasikan dalam EWMA Pentransformasian ini dilakukan dengan pemberian bobot tertentu di dalam data. Bobot yang dipakai disini adalah 0.2; 0.4; 0.6 dan 0.8. Setelah data ditransformasikan maka data tersebut dimasukkan dalam perhitungan Hotteling, yang pada akhimya dibandingkan dengan H yaitu batas kendali atas dari peta kendali EWMA dengan data multivariate. Apabila nilai Hotteling lebih dari H maka program akan melakukan looping sampai 6000 kali untuk tiap bobot dengan nilai batas kendali tertentu. Pada akhimya apabila simulasi telah selesai hingga 6000 kali akan didapatkan ARL, yaitu jumlah rata-rata tittik yang harus diplot sebelum sebuah titik menunjukkan kondisi tidak terkendali pada saat proses terkendali dan ARL, yaitu jumlah rata-rata titik yang harus diplot sebelum sebuah titik menunjukkan kondisi tidak terkendali pada saat proses tidak terkendali.",
+  "creators": "TANTI OCTAVIA",
+  "contributors": "Sujono Poetrodjojo (Advisor 1); Daniel Indarto Prajogo (Advisor 2); Jani Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 159/TI-89/1998; Tanti Octavia (25494061)",
+  "subjects": "MANUFACTURING PROCESSES-RESEARCH; PRODUCTION ENGINEERING-RESEARCH"
+}

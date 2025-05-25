@@ -1,0 +1,14 @@
+{
+  "id": "23907",
+  "title": "Perencanaan dan pembuatan total dissolved solid (T.D.S) meter dengan Microcontroller 80C31 dengan daerah ukur 0 - 5 0 0 mg/liter",
+  "abstract": "T.D.S meter merupakan salah satu penentu mutu air, yang berguna untuk mengukur banyaknya padatan-padatan yang terlarut dalam air. Karena harga T.D.S sangat bergantung dari perubahan temperatur, maka diperlukan sebuah kompensasi temperatur agar pembaoaan harga T.D.S tetap sesuai dengan temperatur ruang. Penggunaan T.D.S meter dengan kompensasi temperatur secara manual dirasakan kurang efisien, karena ada kemungkinan terjadinya ketidaktepatan atau kesalahan dalam pengaturan kompensasi temperaturnya sehingga menyebabkan hasil pembacaan kurang tepat Dalam tugas akhir ini direncanakan dan dibuat T.D.S meter digital dengan menggunakan sistem minimum microcon- ttroller 80C31. Microcontroller ini digunakan untuk mengolah dan melakukan proses aritmatik dari dua buah data yang dyang diperoleh dari pengubah analog ke digital agar diperoleh harga T.D.S yangtelah terkompensasi. T.D.S meter yang dibuat ini mempunyai spesifikasi daerah ukur dari 0 - 500 m g/liter. Display dari T.D.S meter ini dapat menampilkan secara bergantian T.D.S yang belum terkompensasi,temperatur dan T.D.S yang telah terkompensasi untuk temperatur 25?C.",
+  "creators": "JOHANNES HANDHOKO NURSALIM",
+  "contributors": "SOETIKNO (Advisor 1); Heri Saptono Warpindyasmoro (Advisor 2); HANDAYANI T. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/025/0084; Johannes Handhoko Nursalim (14485105)",
+  "subjects": "MICROCONTROLLER 8031; TEMPERATURE CONTROL"
+}

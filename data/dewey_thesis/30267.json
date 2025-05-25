@@ -1,0 +1,14 @@
+{
+  "id": "30267",
+  "title": "Perencanaan dan pembuatan sistem pengaman telepon dengan menggunakan password dan sistem memori nomer telepon dengan bantuan microcontroller 8031",
+  "abstract": "Perkembangan sistem telekomunikasi di Indonesia menjadikan pesawat telepon merupakan sebuah alat komunikasi yang sangat penting. Komunikasi menggunakan pesawat telepon merupakan salah satu faktor penunjang bagi kelancaran bisnis seseorang dalam dunia perdagangan. Dalam Tugas Akhir ini akan direncanakan dan dibuat suatu alat untuk membantu seseorang mengatasi gangguan deringan telepon pada masa istirahat dari orang yang tidak dikenal. Di samping itu juga membantu pemakai pesawat telepon agar lebih mudah untuk menghubungi relasinya dengan menambahkan suatu sistem memori nomer telepon. Pembatasan masalah pada tugas akhir ini sebagai berikut: alat ini hanya mampu mendeteksi sinyal DTMF dari telkom, hanya dipergunakan untuk satu pesawat telepon dan tidak mampu merubah instruksi dari tombol tekan telepon melainkan harus merubah perangkat lunaknya (software). Secara garis besar peralatan ini terdiri dari rangkaian pengolah sinyal telepon sebagai pengubah sinyal-sinyal DTMF kebesaran digital dan sebaliknya, tone detektor yang berfungsi untuk mendeteksi sinyal dering dari saluran telkom, rangkaian pengontrol (minimum sistem) 8031, detektor off/on hook, rangkaian pencatu tegangan dalam, rangkaian pengaktif relay dan rangkaian tampilan. Setelah melalui proses pengujian, diperoleh hasil bahwa rangkaian pengolah sinyal telepon mempunyai ketepatan yang cukup tinggi. Sistem memori nomer telepon mampu menyimpan 100 nomer telepon, dan juga tersedia fasilitas redial.",
+  "creators": "KUNCORO HARTONO",
+  "contributors": "SUPENO DJANALI (Advisor 1); Caroline Chan (Advisor 2); AGUS MULYANTO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/023/0113; Kuncoro Hartono (14486040)",
+  "subjects": "INTEL 8031 (MICROCONTROLLERS); TELEPHONE-EQUIPMENT AND SUPPLIES"
+}

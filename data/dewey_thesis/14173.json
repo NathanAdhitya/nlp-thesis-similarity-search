@@ -1,0 +1,14 @@
+{
+  "id": "14173",
+  "title": "Perencanaam dan pembuatan pengamanan pada bank yang dapat melaporkan secara langsung terjadinya pencurian ke pusat komputer keamanan",
+  "abstract": "Dibuat sistem pengaman untuk bank yang secara otomatis akan melaporkan terjadinya pencurian ke pusat komputer keamanan. Untuk saluran komunikasi antara bank dan pusat komputer keamanan dipakai saluran telepon, sehingga tidak diperlukan kabel tersendiri yang akan panjang dan rumit. Sistem pengaman ini dikontrol dengan menggunakan mikroprosessor Z-80, Z80 ini lah yang menjadi pusat pengendali sehingga sistem pengaman ini dapat berfungsi. Data yang dihasilkan dari sistem prosessor ini adalah data paralel sedangkan komunikasi melalui saluran telepon menggunakan data serial, untuk itu sebagai perantara keduanya dibuat interface data serial dengan menggunakan USART 8251. Sinyal yang dihasilkan oleh sistem prosessor adalah sinyal digital sedangkan saluran telepon adalah sinyal analog, untuk mengkonversikan kedua sinyal ini dibuat modem. Modem yang dibuat menggunakan komponen utama single chip modem MT-3530 yang mempunyai kecepatan transmit dan receive data 300 bps. Dari hasil pengujian alat diperoleh kecepatan transmit dan receive data (baud rate) 297,62 bps, hasil ini sudah cukup sesuai dengan yang diharapkan sehingga alat dapat dioperasikan dengan baik. Sistem pengaman ini dapat langsung dihubungkan ke saluran telepon tanpa melalui pesawat telepon, jadi tidak bergantung pada jenis telepon yang digunakan. Dengan dibuatnya sistem pengaman ini diharapkan dapat membantu pihak keamanan mengetahui lebih dini terjadinya pencurian pada suatu bank.",
+  "creators": "SETIA WIBAWA",
+  "contributors": "SUPENO DJANALI (Advisor 1); HERLIANTO TENGGARA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/029/O088; Setia Wibawa (14485129)",
+  "subjects": "MICROPROCESSOR; TELEPHONE-EQUIPMENT AND SUPPLIES"
+}

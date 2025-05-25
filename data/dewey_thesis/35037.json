@@ -1,0 +1,14 @@
+{
+  "id": "35037",
+  "title": "Perumusan dan penyelesaian persamaan kesetimbangan dalam analisis dinamis pada bangunan tinggi berbasis website",
+  "abstract": "Aplikasi yang umum digunakan untuk menyelesaikan persamaan analisis dinamis menghasilkan output yang kurang akurat karena penggunaan implementasi massa yang kurang tepat. Aplikasi tersebut juga merupakan aplikasi komersial dan memerlukan proses instalasi sebelum dapat digunakan. Penulis membuat aplikasi menggunakan media website sehingga mudah diakses dan tidak memerlukan proses instalasi. Website dibuat dengan menggunakan implementasi massa yang lebih tepat sehingga output menjadi lebih akurat dan dilengkapi dengan simulasi deformasi dan defleksi struktur. Penulis merancang website sehingga user dapat memiliki akun untuk membuat project yang bersifat public atau private, serta admin untuk mengolah data member. Proses input dibuat dengan tabel dengan tab-tab yaitu node, properties, element, joint mass, joint loads, ground acceleration, process sehingga user mudah untuk melakukan input data. Proses perhitungan analisis dinamis dilakukan dengan mengolah data input menggunakan metode Newmark seperti pembuatan matriks kekakuan, massa dan redaman, inisialisasi perpindahan awal, kecepatan dan percepatan, perhitungan konstanta integrasi, pembuatan matriks kekakuan element, perhitungan perpindahan waktu, perhitungan perpindahan, kecepatan dan percepatan. Pembuatan website analisis dinamis menghasilkan output seperti matriks pada setiap element, matriks kekakuan struktur, matriks massa struktur, dan vektor perpindahan yang sesuai dengan solusi eksak. Hasil vektor perpindahan digunakan untuk menampilkan simulasi deformasi dan defleksi struktur pada setiap interval waktu sehingga terlihat perubahan struktur yang terjadi dari awal hingga akhir.",
+  "creators": "HANS CHRISTIAN H",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021474/INF/2015; Hans Christian Herjanto (26411027)",
+  "subjects": "MYSQL (COMPUTER PROGRAM LANGUAGE); DATABASE DESIGN; APPLICATION SOFTWARE-DEVELOPMENT"
+}

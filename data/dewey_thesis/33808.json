@@ -1,0 +1,14 @@
+{
+  "id": "33808",
+  "title": "Aplikasi ekstraksi fitur citra huruf Jawa berdasarkan morfologinya",
+  "abstract": "Ekstraksi fitur merupakan topik penting dalam klasifikasi, karena fitur-fitur yang baik akan dapat meningkatkan tingkat akurasi untuk pengenalan suatu objek. Bahasa Jawa adalah bahasa yang sering digunakan oleh masyarakat di Pulau Jawa, Indonesia. Ekstraksi fitur huruf Jawa memiliki tingkat kesulitan sendiri karena huruf Jawa terdiri dari banyak jenis huruf dan kombinasinya. Dalam skripsi ini dikembangkan aplikasi yang dapat mengekstrak fitur tulisan tangan huruf Jawa. Adapun proses yang dilakukan adalah sebagai berikut: gambar huruf Jawa yang sudah disegmentasi sebelumnya, di-skeleton dengan menggunakan metode Zhang Suen. Hasil skeleton ini nantinya akan digunakan untuk mengekstrak fitur gambar huruf Jawa, yang terdiri dari fitur loop, garis lurus dan kurva lengkung. Deteksi fitur loop menggunakan metode flood fill, garis dengan metode hough transform, dan kurva menggunakan metode Hough Transform dengan algoritma untuk deteksi kurva. Input berupa gambar huruf Jawa yang sudah disegmentasi sebelumnya. Output berupa jenis dan jumlah fitur yang dikenali dan dapat disimpan dalam format .csv. Aplikasi ini dibuat dengan bahasa pemrograman C# dengan Microsoft Visual Studio 2010 sebagai IDE-nya.",
+  "creators": "MEILIANA INDRAWIJAYA",
+  "contributors": "Liliana (Advisor 1); Rudy Adipranata (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021378/INF/2015; Meiliana Indrawijaya (26411073)",
+  "subjects": "IMAGE PROCESSING; IMAGE PROCESING-DIGITAL TECHNIQUES"
+}

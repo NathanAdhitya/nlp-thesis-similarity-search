@@ -1,0 +1,14 @@
+{
+  "id": "43213",
+  "title": "Aplikasi pencarian jurnal ilmiah dengan term frequency-inverse document frequency",
+  "abstract": "Kebutuhan seorang peneliti untuk mencari artikel ilmiah untuk dipelajari maupun sebagai pendukung penelitiannya tidak dapat dihindari. Artikel ilmiah yang kemunculannya pesat membuat jurnal ilmiah yang dicetak lebih lambat penerbitannya dibandingkan dengan website. Oleh karena itu, para peneliti dapat mencari referensi di website agar lebih mudah dan dapat melihat artikel yang terbaru. Namun, hasil pencarian dari artikel ilmiah juga bervariasi di setiap website dan urutan hasilnya terkadang tidak sesuai dengan yang ingin dicari. Penelitian ini mencoba menghasilkan hasil pencarian yang sesuai dengan keinginan pengguna berdasarkan kata kunci yang dimasukkan. Penelitian akan dicoba menggunakan metode Term Frequency-Inverse Document Frequency (TF-IDF). Pengurutan hasil pencarian mulai dari relevansi terbesar yang didapat dari perhitungan TF-IDF. Aplikasi dapat menampilkan hasil pencarian yang cenderung relevan dengan satu term kata kunci, tetapi bila kata kunci merupakan phrase, maka hasil pencarian cenderung tidak relevan. Aplikasi pencarian jurnal ilmiah dengan metode term frequency-inverse document frequency ini dapat menjawab kebutuhan mahasiswa maupun dosen dalam mencari jurnal.",
+  "creators": "AMANDA TANARI",
+  "contributors": "Andreas Handojo (Advisor 1); Justinus Andjarwirawan (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021841/INF/2019; Amanda Tanari (26415180)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING ( ELECTRONIC COMPUTER )"
+}

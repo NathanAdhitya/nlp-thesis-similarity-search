@@ -1,0 +1,14 @@
+{
+  "id": "29816",
+  "title": "Perancangan dan pembuatan aplikasi peta interaktif Universitas Kristen Petra berbasis android",
+  "abstract": "Seiring dengan berkembangnya Universitas Kristen Petra, semakin banyak pula jumlah mahasiswa serta tamu-tamu yang mengunjungi universitas ini. Universitas Kristen Petra mempunyai gedung-gedung yang tidak sedikit dan tidak menutup kemungkinan bahwa akan dibangun gedung-gedung baru. Maka, Universitas Kristen Petra akan memerlukan peta lokasi dan petunjuk arah untuk membantu pengunjung-pengunjung universitas mencari tempat-tempat tertentu di dalam area kampus. Telah ada peta fisik dan digital pada Universitas Kristen Petra, serta Tugas Akhir yang mengandung denah beberapa lantai di Universitas Kristen Petra (Permana, 2013). Namun belum ada aplikasi yang dikhususkan untuk membuat peta interaktif untuk Universitas Kristen Petra. Dilakukan pembuatan sebuah sistem yang terdiri dari dua buah aplikasi. Aplikasi pertama adalah aplikasi berbasis Android bernama Petra PanoraMap yang menyajikan peta interaktif untuk Universitas Kristen Petra. Aplikasi ini juga menyajikan virtual tour untuk pengguna dengan menampilkan citra panoramik pada lokasi-lokasi tertentu di Universitas Kristen Petra. Aplikasi kedua adalah aplikasi berbasis web yang bernama PanoraMap Editor, bertujuan untuk menyediakan semua data dan gambar yang nantinya dipakai oleh Petra PanoraMap. Dibuatlah sebuah struktur data yang dapat merepresentasikan keseluruhan instansi Universitas Kristen Petra sesuai dengan pendekatan berbasis objek. Telah dilakukan pengujian pada aplikasi Petra PanoraMap dan PanoraMap Editor. Aplikasi Petra PanoraMap dapat menampilkan citra-citra panoramik sehingga pengguna dapat seolah-solah berada didalam Universitas Kristen Petra. Selain itu, aplikasi PanoraMap Editor dapat menghasilkan suatu bentuk data yang dapat dimasukkan dan dibaca oleh Petra PanoraMap pada Android, sehingga konten dan foto-foto panoramik pada aplikasi Petra PanoraMap dapat bersifat dinamis.",
+  "creators": "CHRISTOPHER IMANTAKA H.",
+  "contributors": "Rolly Intan (Advisor 1); Liliana (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021296/INF/2014; Christopher I. Halim (26410038)",
+  "subjects": "ANDROID (ELECTRONIC RESOURCE); PROGRAMMING (ELECTRONIC COMPUTERS); ANDROID (ELECTRONIC RESOURCE)-PROGRAMMING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "19479",
+  "title": "Simulasi RFID aktif untuk pembayaran jalan tol (drive thru)",
+  "abstract": "Permasalahan yang sering terjadi di jalan tol adalah terjadinya kemacetan yang panjang akibat antrian dalam mengambil tiket masuk pada pintu masuk dan saat pembayaran pada pintu keluar. Dengan RFID aktif maka kemacetan karena antrian dalam mengambil tiket masuk pada pintu masuk dan saat pembayaran pada pintu keluar dapat dapat dihindari. Dan pada sistem ini juga dapat memantau kendaraan yang memasuki jalan tol. Simulasi RFID aktif ini dirancang dalam 2 modul utama, yaitu: modul RFID yang dipasang pada mobil (modul RFID, microcontroller, dan LCD ) dan modul yang kedua diletakan pada gerbang tol masuk yang terhubung dengan komputer. Dari komputer ini petugas jalan tol dapat mengakses data pelanggan (menghapus, mengedit, menambah saldo, dan setting serial) Pada hasil pengujian diperoleh kecepatan maksimum untuk memasuki gerbang tol adalah sekitar 30 km / jam, sehingga sistem RFID aktif ini dapat digunakan sebagai alternatif pembayaran pada jalan tol untuk solusi kemacetan pada gerbang tol.",
+  "creators": "RIKY SETIAWAN",
+  "contributors": "Resmana Lim (Advisor 1); Indar Sugiarto (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010919/ELK/2010; Riky Setiawan (23406029)",
+  "subjects": "MICROCONTROLLER; AUTOMATIC CONTROL"
+}

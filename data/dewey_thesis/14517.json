@@ -1,0 +1,14 @@
+{
+  "id": "14517",
+  "title": "Studi banding algoritma pembuatan garis",
+  "abstract": "Perkembangan teknologi raster display membawa pengaruh yang sangat besar dalam bidang komputer grafik. Hal ini memdorong berbagai pihak untuk memanfaatkan teknik-teknik komputer grafik semaksimal mungkin. Pembuatan garis adalah aplikasi dasar pada komputer grafik yang dapat dikembangkan menjadi aplikasi grafik lain yang lebih kompleks. Tidak semua algoritma pembuatan garis mempunyai kecepatan dan kualitas yang sama baiknya. Sehingga perlu dipilih mana yang terbaik dari algoritma-algoritma tersebut. Ada tiga algoritma pembuatan garis yang akan dibuat yaitu Bresenham's Algorithm, Digital Differential Analyzer (DDA) Algorithm dan Fast Line Scan-Conversion Algorithm. Pengujian dilakukan dengan menampilkan gambar-gambar garis dari beberapa posisi dengan pembesaran 4X sehingga terlihat jelas hasilnya. Untuk pengujian waktu pembuatan garis dan kecepatan garis dilakukan dengan mengulang proses sebanyak 20X pada koordinat yang sama. Data yang diperoleh kemudian diambil rata-ratanya. Hasil yang telah dicapai dari ketiga algoritma pembuatan garis mempunyai kelebihan dan kelemahan masing-masing. Untuk kualitas gambar garis yang terbaik dapat dipakai algoritma DDA. Waktu tercepat untuk pembuatan garis dapat menggunakan algoritma Bresenham. Sedang untuk kecepatan pixel per detik yang paling cepat adalah algoritma Fast Line Scan-Conversion.",
+  "creators": "PAULUS BUDISETIAWAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/KOM/004/043; Paulus Budisetiawan (23491161)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); COMPUTER GRAPHICS"
+}

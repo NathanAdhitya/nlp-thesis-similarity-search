@@ -1,0 +1,14 @@
+{
+  "id": "57635",
+  "title": "Otomatisasi penjadwalan dan pemanfaatan openlayers untuk menampilkan rute shuttle bus Universitas Kristen Petra",
+  "abstract": "Pada semester Genap 2021/2022, Universitas Kristen meluncurkan aplikasi shuttle bus untuk digunakan oleh civitas akademika Universitas Kristen Petra. Proses pelaporan kegiatan shuttle bus masih dilakukan secara manual oleh Biro Administrasi Kemahasiswaan (BAKA) yang mengelola shuttle bus. Proses manual ini rentan terhadap kesalahan manusia dan penggunaan Google Maps yang menghabiskan biaya. Untuk menyelesaikan permasalahan yang ada, diperlukan penambahan fitur baru untuk membantu melakukan reporting secara otomatis, dan menambahkan fitur save jadwal untuk mengurangi kesalahan saat membuat jadwal. dan menerapkan Openlayers dan OSRM Valhalla untuk menggantikan fitur Google maps yang digunakan. Design sistem yang baru sudah disetujui oleh BAKA, dan akan digunakan setelah diimplemantasikan pada server utama. Semua fitur yang dibuat sudah diuji dan dapat berjalan dengan baik. Dan berjalan sesuai dengan ekspektasi. Dan admin yang menggunakan juga memberikan input langsung dalam pembuatan sistem.",
+  "creators": "YEHEZKIEL KRISTANTO WIDJAJA",
+  "contributors": "Liliana (Advisor 1); Rolly Intan (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022370/INF/2023; Yehezkiel Kristanto Widjaja (C14190007)",
+  "subjects": "GEOGRAPHIC INFORMATION SYSTEMS--COMPUTER PROGRAMS; SCHEDULING--COMPUTER PROGRAMS; MOBILE GEOGRAPHIC INFORMATION SYSTEMS"
+}

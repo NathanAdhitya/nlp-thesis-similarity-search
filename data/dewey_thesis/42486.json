@@ -1,0 +1,14 @@
+{
+  "id": "42486",
+  "title": "Optimasi multi-objective desain struktur rangka batang dengan metode metaheuristik",
+  "abstract": "Studi ini dilakukan untuk membandingkan kemampuan optimasi dari empat algoritma metaheuristic yaitu Particle Swarm Optimization (PSO), Differential Evolution (DE), Teaching Learning Based Optimization (TLBO) dan Symbiotic Organisms Search (SOS) dalam optimasi multi-objective terhadap berat dan perpindahan maksimum setiap batang. Digunakan tiga struktur rangka batang dengan Profil Struktur Berongga (PSB) dan akan dioptimasi agar memenuhi persyaratan SNI 1729:2015. Tujuan penelitian ini adalah mengevaluasi algoritma metaheuristik yang memiliki performa paling baik dalam mendesain struktur rangka batang yang optimum dalam ranah multi-objective. Karena algoritma metaheuristik selalu memilih profil secara acak, maka pengujian untuk setiap algoritma dilakukan sebanyak tiga puluh kali untuk mendapatkan data sampel yang kemudian akan diolah menggunakan analisa statistik berupa rata-rata dan standar deviasi. Data yang telah diolah akan dibandingkan untuk melihat performa dari masing-masing metode yang digunakan. Performa algoritma terbaik akan dilihat dari analisa hypervolume. Hasil penelitian menunjukkan bahwa algoritma SOS memiliki performa terbaik pada ketiga struktur dengan profil yang didapat dari penelitian sebelumnya dan struktur planar-10 dengan profil PSB bulat. Pada struktur spasial-25 dan spasial-72 dengan profil PSB bulat algoritma TLBO memiliki performa terbaik dibanding tiga algoritma lainnya.",
+  "creators": "KURNIAWAN SUSANTO; SELI NOVIODORE BALLO",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Doddy Prayogo S.T. (Advisor 2); Jimmy Chandra (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012204/SIP/2018; Kurniawan Susanto (21414051), Seli Noviodore Ballo (21414089)",
+  "subjects": "BUILDING, IRON AND STEEL; STEEL, STRUCTURAL"
+}

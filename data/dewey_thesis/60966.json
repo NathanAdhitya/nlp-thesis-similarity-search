@@ -1,0 +1,14 @@
+{
+  "id": "60966",
+  "title": "Pengembangan sistem otomasi dan keselamatan pada mesin press paving VM-11 dengan sensor deteksi benda asing untuk mencegah kecelakaan kerja berbasis PLC di PT X",
+  "abstract": "Mesin press paving merk MultiBlock tipe VM-11 adalah mesin yang mencetak paving 15 buah per siklus. Mesin ini memiliki sistem semi otomasi menggunakan PLC CJ2M-CPU11. Penelitian ini berfokus pada pengembangan sistem semi otomasi untuk penambahan sistem safety dan pengurangan cycle time berbasis Programmable Logic Controller. Pengurangan cycle time dilakukan dengan mengubah urutan kerja dari proses produksi mesin VM-11 melalui program PLC. Pengurangan cycle time mesin berpengaruh pada meningkatnya kapasitas produksi paving. Cycle time akan diukur sebelum dan sesudah program otomasi dikembangkan. Selain itu, sistem safety perlu diimplementasi ke mesin VM-11 agar menciptakan lingkungan kerja yang aman. Sistem safety menggunakan sensor, yang menjadi input ke PLC, untuk mendeteksi benda asing.",
+  "creators": "NICOLAUS CALVIN ADHITAMA",
+  "contributors": "Roche Alimin (Advisor 1); Amelia (Advisor 2); Didik Wahjudi (Examination Committee 1); Oegik Soegihardjo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011539/MES/2024; Nicolaus Calvin Adhitama (C12200030)",
+  "subjects": "INDUSTRIAL PRODUCTIVITY--MEASUREMENT; PROGRAMMABLE CONTROLLERS; SCHEDULING (MANAGEMENT)"
+}

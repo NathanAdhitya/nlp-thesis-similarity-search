@@ -1,0 +1,14 @@
+{
+  "id": "28168",
+  "title": "Sistem pengamanan kunci pada kamar-kamar hotel dengan kartu kombinasi yang dikontrol oleh microprocessor Z-80",
+  "abstract": "Sistem pengamanan kunci merupakan suatu sistem untuk membuat peralatan yang mampu membaca data dari kartu khusus (kartu kunci) kemudian mengirimkan data tersebut ke komparator untuk dibandingkan dengan data yang ada dalam lokasi memori, apabila hasil yang dibandingkan tersebut sama maka pintu akan terbuka. Di mana lokasi memori yang disediakan tersebut telah berisi data kamar dan nomor kombinasi kode masing-masing kamar yang dapat diubah-ubah sewaktu-waktu apabila dikehendaki. Rangkaian perangkat luar dari sistem ini terdiri dari : -Rangkaian dekoder berisi NOT gate, NAND gate dan NOR gate yang berfungsi untuk memilih kamar/mengaktifkan kamar sesuai dengan nomor kamar yang dikehendaki. -Rangkaian komparator berisi IC Latch dan IC komparator, sinyal dari rangkaian dekoder mengaktifkan IC Latch sehingga data kode yang dikirim oleh Paralel Input/output Z-80 PIO bisa langsung ditahan dan akan selalu siap untuk dibandingkan. -Transducer Opto Coupler, suatu bentuk paket elektronik yang berfungsi untuk merubah besaran cahaya menjadi besaran listrik, delapan buah Opto Coupler dipasang pada masing-masing pintu kamar yang bertugas untuk membaca data kombinasi kode dari kartu kunci. -Rangkaian penggerak relai terdiri dari sebuah transistor yang dikerjakan sebagai saklar untuk menggerakkan relai dan selanjutnya meng-ON-kan selenoid. Mikrokomputer GMS-I yang dihubungkan dengan perangkat luar. Sistem ini digunakan untuk mengatur fungsi-fungsi tombol tekan, mengatur kedudukan posisi LED Seven segmen indikator dan terakhir untuk memerintahkan Peripheral Input/Output Z-80 PIO bekerja untuk mengirimkan data yang telah ditentukan dari LED indikator menuju masing-masing kamar melalui media kabel.",
+  "creators": "Han Guo Xiong",
+  "contributors": "SUPENO DJANALI (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skeripsi No. 88/E/EL/011; Han Guo Xiong (482032)",
+  "subjects": "MICROPROCESSORS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "60568",
+  "title": "Analisis sentimen dengan deteksi sarkasme terhadap review merek skincare lokal pada Twitter/X menggunakan metode Lexicon-based, Support Vector Machine dan Random Forest",
+  "abstract": "Industri kecantikan yang terus berkembang di Indonesia membuat banyak merek produk kecantikan yang muncul. Hal ini menjadikan adanya persaingan antar merek dan dilema bagi konsumen dalam menentukan merek yang akan dibeli. Dalam hal ini, review dari konsumen menjadi salah satu peran penting dalam persaingan antar merek dan penentuan pembelian dari konsumen. Namun, jumlah review sangat banyak setiap harinya sehingga diperlukan sistem yang dapat mengefisiensi pembacaan sentimen review. Analisis sentimen menjadi teknik yang dapat digunakan untuk pengolahan review untuk menghasilkan sentimen dari teks review tersebut. Namun, deteksi sarkasme pada analisis sentimen juga harus diperhatikan untuk mempertahankan akurasi review. Pada penelitian ini, dibangun sistem analisis sentimen dengan deteksi sarkasme untuk pengolahan review merek skincare lokal pada Twitter/X. Analisis sentimen dibangun menggunakan metode Lexicon-based dan deteksi sarkasme menggunakan metode Support Vector Machine dan Random Forest. Untuk kedua metode deteksi sarkasme, dilakukan perbandingan mana metode terbaik yang akan digunakan untuk deteksi sarkasme sistem analisis sentimen. Pengujian untuk analisis sentimen dengan Lexicon-based didapatkan akurasi 60.80% untuk 250 data sample yang diambil dari dataset. Pengujian untuk model deteksi sarkasme untuk SVM dan RF didapatkan hasil SVM lebih baik dari RF dengan hasil pengujian model SVM yaitu akurasi 99.72% dengan presisi 96.49%, recall 93.22% dan f1-score 94.83%.",
+  "creators": "FELLEN WENNESA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022464/INF/2024; Fellen Wennesa (C14200172)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; DEEP LEARNING (MACHINE LEARNING); PROGRAMMING (ELECTRONIC COMPUTERS); SUPPORT VECTOR MACHINES"
+}

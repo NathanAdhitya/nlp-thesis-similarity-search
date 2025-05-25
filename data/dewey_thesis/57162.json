@@ -1,0 +1,14 @@
+{
+  "id": "57162",
+  "title": "Aplikasi pendaftaran rencana studi (prs) online berbasis microservices pada PT X",
+  "abstract": "Penelitian ini bertujuan untuk mengevaluasi implementasi arsitektur microservices guna mengatasi masalah server overload pada proses Pendaftaran Rencana Studi (PRS) Online. Masalah tersebut disebabkan oleh berlebihnya jumlah Concurrent User yang dapat ditanggung oleh server. Skripsi ini mengusulkan penerapan arsitektur microservices sehingga aplikasi PRS Online dapat dipecah menjadi beberapa bagian service kecil yang dapat dikelola secara independen. Selain itu, penerapan arsitektur microservices akan dimanfaatkan lebih lanjut dengan cara mengimplementasi Load Balancing dan menerapkan Command Query Responsibility Segregation (CQRS) Pattern. Hasil dari skripsi ini menunjukkan bahwa implementasi arsitektur microservices dengan CQRS Pattern dan Load Balancing dapat meningkatkan reliabilitas sistem PRS Online. Pengujian menunjukkan bahwa PRS Online yang dikembangkan dengan arsitektur microservices memiliki konsistensi error percentage 0.00% dan kemampuan untuk menangani request (throughput) yang lebih baik jika dibandingkan dengan arsitektur monolitik dalam setiap test case. Meskipun terjadi error setelah jumlah request tertentu, namun error tersebut tidak signifikan sehingga tidak mempengaruhi persentase error secara keseluruhan. Skripsi ini juga mengimplementasikan Load Balancing untuk meningkatkan skalabilitas sistem PRS Online sehingga jika digabungkan dengan implementasi arsitektur microservices dan CQRS Pattern dapat menjadi solusi yang efektif dan efisien dalam meningkatkan reliabilitas sistem PRS Online serta meningkatkan kualitas proses akademik secara keseluruhan.",
+  "creators": "LEONARDO CHRISTOFER",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022304/INF/2023; Leonardo Christofer (C14190125)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; COMPUTER SOFTWARE--DEVELOPMENT; STUDENT REGISTRATION"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5369",
+  "title": "Sistem pengendalian perangkat rumah tangga dengan menggunakan sistem S.M.S dari rumah tangga",
+  "abstract": "Sistem pengendalian perangkat rumah jarak jauh dirancang dengan tujuan memudahkan hidup manusia. Sistem ini merupakan bagian dari smart home system . Sistem pengendalian dengan memanfaatkan teknologi SMS adalah salah satunya, dimana SMS merupakan media pengiriman data yang fleksibel, dapat dikirim hampir dari seluruh dunia, dengan perangkat pengirim yang semakin bervariasi. Tugas akhir ini menggunakan handphone Nokia 6150 yang dihubungkan ke mikrokontroler, dimana fungsi mikrokontroler di sini adalah sebagai pengolah data utama. Mikrokontroler akan mengatur aktif tidaknya perangkat rumah melalui I/O port -nya berdasarkan SMS yang didapat oleh handphone. Data SMS tersebut diolah sesuai standar ETSI GSM 03.38, dengan bahasa assembler yang diaplikasikan ke mikrokontroler dimana ditulis dengan prinsip OOP (Object-Oriented Programming) sederhana untuk mempermudah upgrade software. Sistem ini dirancang dengan mengaplikasikan fungsi- fungsi seperti sistem pengenalan perintah, pewaktu, dan penggabungan perintah dengan berita. Data yang digunakan untuk mengendalikan handphone Nokia 6150 didapat dari pemantauan program serta hasil penelitian pihak ketiga. Data tersebut diujikan, sehingga mendapatkan format data yang valid. Pengujian dilakukan bertahap, mulai dari pemantauan program dengan computer sampai dengan pengujian keseluruhan sistem. Dari pengujian didapat bahwa sistem telah dapat membuat komunikasi dengan handphone Nokia 6150, mengenali SMS, mengenali perintah tunggal, perintah ke berbagai device, dan perintah dengan fungsi pewaktu. Sistem juga telah dapat mengaplikasikan fungsi pengaturan tersebut ke media dengan listrik AC 220 volt. Dari pengujian ditemukan masih adanya kemungkinan kesalahan dibidang pengenalan perintah. Sebagai pengembangannya diharapkan sistem ini dapat dikembangkan lebih lanjut dibidang pengenalan perintah, user interface, serta dapat memanfaatkan teknologi baru seperti long message dan MMS.",
+  "creators": "CHRISTIAN SUSANTO WIBOWO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 2058/ELK/2002; Christian Susanto Wibowo (23498056)",
+  "subjects": "PROGRAMMABLE CONTROLLER; AUTOMATIC CONTROL"
+}

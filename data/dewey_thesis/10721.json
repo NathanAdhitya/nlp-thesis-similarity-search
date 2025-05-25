@@ -1,0 +1,14 @@
+{
+  "id": "10721",
+  "title": "Perencanaan dan pembuatan programming console plc omron dengan level otorisasi yang berbasis mikrokontroler mcs-51",
+  "abstract": "Programming console adalah salah satu alat yang digunakan untuk memrogram PLC OMRON. Namun kelemahan programming console milik Omron ini ialah sistem keamanan yang tidak terjamin yaitu dengan menggunakan password yang bersifat umum. Kelemahan yang lain adalah penggunaan kunci dalam pemilihan mode selector sehingga membuat pengaksesan program PLC menjadi tidak praktis. Oleh karena itu, dalam tugas akhir ini dibuatlah programming console yang dapat membuka dan mengubah program dalam PLC dengan memasukkan nomor identitas dan password pengakses sebagai sistem keamanannya yang berbasis mikrokontroler MCS-51. Alat tugas akhir ini dilengkapi 39 keypad yang terdiri dari instruction keys, operational keys, dan numerical keys yang digunakan untuk memberi input ke mikrokontroler; Mikrokontroler tipe AT89C55WD digunakan sebagai tempat penyimpanan program; LCD sebagai sarana tampilan data; serial EEPROM AT24C08A untuk menyimpan data pengakses dan data instruksi yang didapat dari PLC; dan MAX232 sebagai sarana transfer data. Sedangkan alat pendukungnya adalah PLC OMRON sebagai tempat menyimpan dan menjalankan program; serta Host Link Communication sebagai sarana komunikasi antara mikrokontroler dengan PLC. Alat tugas akhir ini memiliki 3 mode pilihan. Mode pertama ialah monitor, mode kedua ialah program dan mode ketiga ialah database; yang terbagi dalam 5 level pengaksesan. Berdasarkan pengujian, semua mode tersebut dapat berfungsi dengan baik dan rata-rata waktu yang dibutuhkan untuk melakukan transfer data antara mikroprosesor dengan PLC pada proses monitor area memori yaitu di bawah 20ms.",
+  "creators": "EKA CHRISTA HERYANTO",
+  "contributors": "Thiang (Advisor 1); Felix Pasila (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010865/ELK/2008; Eka Christa Heryanto (23402147)",
+  "subjects": "MICROCONTROLLER MCS-51; AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

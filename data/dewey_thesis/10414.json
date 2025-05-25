@@ -1,0 +1,14 @@
+{
+  "id": "10414",
+  "title": "Perancangan dan pembuatan aplikasi profil kota Surabaya pada mobile phone untuk sarana promosi pariwisata dengan menggunakan java me",
+  "abstract": "Visit Indonesia Year 2008 merupakan program pemerintah untuk mempromosikan pariwisata di Indonesia. Perlunya sarana promosi di setiap daerah melalui berbagai media sangat diperlukan untuk mencapai kesuksesan acara tersebut termasuk kota Surabaya di dalamnya, dimana kota Surabaya bertindak sebagai ibukota Jawa Timur yang akan menjadi contoh panutan kota-kota di sekitarnya. Pada tugas akhir ini, dikembangkan aplikasi promosi pariwisata kota Surabaya. Aplikasi promosi pariwisata kota Surabaya dibuat dengan menggunakan Java 2 Micro Edition (Java ME) pada sisi handphone dan PHP Hypertext Preprocessor (PHP) pada sisi server. Untuk dapat menjalankan aplikasi, diperlukan menginstal aplikasi Java tersebut pada handphone. Setelah aplikasi dijalankan maka setiap request yang dilakukan client dikirim ke server yang telah dihosting menggunakan koneksi GPRS. Kemudian server akan membalas dengan respon sesuai request dari client. Berdasarkan pengujian, aplikasi dapat digunakan untuk mengetahui lebih banyak informasi tentang pariwisata kota Surabaya melalui detail objek wisata beserta peta lokasi objek wisata tersebut, pencarian objek wisata terdekat, komentar terhadap objek wisata tersebut, berita terbaru dan informasi-informasi penting lainnya. Pengujian telah dilakukan pada Nokia N70, Nokia N73, Nokia 6600, dan Sony Ericsson K800i dengan menggunakan operator ProXL, Simpati, dan Mentari.",
+  "creators": "KARTRYONO",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Alexander Setiawan (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010729/INF/2008; Kartryono (26404033)",
+  "subjects": "WEBSITES; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

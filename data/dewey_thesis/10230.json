@@ -1,0 +1,14 @@
+{
+  "id": "10230",
+  "title": "Studi penggunaan NI ELVIS dalam perancangan filter butterworth orde 1 dan II",
+  "abstract": "NI ELVIS (NI Educational Laboratory Virtual Instrumentation Suite) adalah salah satu alat bantu yang digunakan untuk merancang sebuah rangkaian elektronika. Alat ini berfungsi untuk membantu mengurangi persentase kesalahan seseorang dalam melakukan perancangan sebuah rangkaian elektronika. Alat ini sendiri memiliki sebuah Prototype Board yang berfungsi sebagai tempat perancangan dan pengujian sebuah rangkaian elektronika. Filter Butterworth adalah salah satu contoh aplikasi yang dapat dirancang dan diuji dengan menggunakan NI ELVIS. Perancangan filter Butterworth menggunakan IC lm741. Dalam pengujian filter butterworth, NI ELVIS (NI Educational Laboratory Virtual Instrumentation Suite) digunakan untuk menampilkan respon dari filter tersebut. Pengujian dilakukan langsung pada Prototype Board dan ditampilkan pada layar komputer. Didapatkan hasil bahwa respon yang terbentuk dari fiter yang dirancang memiliki error ? 30.4746 % dengan asumsi filter tersebut tanpa penguatan.",
+  "creators": "YUNRIFAI HENDRY LUKMANTO",
+  "contributors": "Felix Pasila (Advisor 1); Handry Khoswanto (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010845/ELK/2007; Yun Rifai (23401047)",
+  "subjects": "ELECTRONIC CIRCUIT DESIGN-COMPUTER PROGRAMS"
+}

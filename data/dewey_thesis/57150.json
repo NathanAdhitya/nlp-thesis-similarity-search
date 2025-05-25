@@ -1,0 +1,14 @@
+{
+  "id": "57150",
+  "title": "Arsitektur microservices pada enterprise resource planning untuk scalability studi kasus promo",
+  "abstract": "Di era pertumbuhan ekonomi yang pesat ini, pembangunan negara akan berlangsung dengan cepat. Dengan demikian, permintaan terhadap sumber daya untuk pembangunan akan terus meningkat khususnya di bidang bahan bangunan. Teknologi yang tersedia pada masa ini dapat membantu digitalisasi pembelian bahan bangunan harus dimanfaatkan dengan baik seperti adanya konsep microservice dalam arsitektur sebuah aplikasi. Penelitian ini bertujuan untuk mengetahui perbedaan dari aplikasi dengan arsitektur monolitik dengan arsitektur microservice yang menggunakan desain CQRS dalam hal performa dan skalabilitas. Berdasarkan hasil dari pengujian dapat disimpulkan bahwa aplikasi dengan arsitektur microservice dapat menangani request yang jauh lebih besar dibandingkan dengan aplikasi berarsitektur monolithic. Penggunaan arsitektur microservice dalam sebuah aplikasi dapat menjadi solusi dari aplikasi berarsitektur monolitik dalam hal skalabilitas.",
+  "creators": "KEVIN WILLIAM WIBISONO",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Justinus Andjarwirawan (Examination Committee 1); Agustinus Noertjahyana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022369/INF/2023; Kevin William Wibisono (C14190081)",
+  "subjects": "APPLICATION SOFTWARE; ARCHITECTURE AND TECHNOLOGY; ARCHITECTURE"
+}

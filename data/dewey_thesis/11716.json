@@ -1,0 +1,14 @@
+{
+  "id": "11716",
+  "title": "Perbandingan metode hamid, simulated annealing, dan metode heuristik FRB pada penjadwalan flowshop dengan kriteria makespan",
+  "abstract": "Masalah penjadwalan yang sering kali dijumpai pada lantai produksi ada dua macam, yaitu penjadwalan flowshop dan penjadwalan jobshop. Penelitian ini ini membahas masalah penjadwalan flowshop dengan tujuan minimasi makespan dan computational time pencapaian solusi. Perbandingan dilakukan dengan melakukan simulasi sepuluh kali replikasi pada kombinasi jumlah job 5, 10,20, dan 30 dengan jumlah mesin 5,10,15,20, dan 25. Pengujian dari hasil simulasi dilakukan dengan menggunakan software MINITAB, di mana dilakukan analisa faktor, pengujian varians, dan pengujian mean. Berdasarkan eksperimen dan simulasi maka diperoleh hasil bahwa makespan yang diperoleh tidak berbeda secara significant, sedangkan computational time untuk metode Hamid dan Simulated Annealing dengan faktor reduksi 0,88 (SA-6) lebih baik dibandingkan dengan metode lainnya. Computational time metode heuristik Hamid lebih baik untuk jumlah job 5, 10, dan 20, sedangkan Simulated Annealing dengan faktor reduksi suhu 0,88 lebih baik untuk jumlah job 30.",
+  "creators": "MARIANI",
+  "contributors": "Herri Christian Palit (Advisor 1); Tanti Octavia (Advisor 2); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011321/IND/2009; Mariani (25405003)",
+  "subjects": "SCHEDULING (MANAGEMENT)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4295",
+  "title": "Perancangan dan pembuatan sistem perhitungan harga pokok produksi pada PT. \"X\" dengan metode activity based costing",
+  "abstract": "PT. \"X\" adalah sebuah perusahaan yang memproduksi minuman markisa. Selama ini, perusahaan membebanan biaya overhead hanya berdasarkan kuantitas produk yang diproduksi. Akibatnya, harga pokok produksi tidak akurat karena biaya yang dibebankan pada tiap produk tidak sesuai dengan aktivitas yang dikonsumsi oleh produk tersebut. Oleh karena itu, dalam tugas akhir ini dirancang sebuah program aplikasi untuk menghitung harga pokok produksi dengan metode Activity-based Costing sehingga perusahaan dapat menghitung harga pokok produksi tiap produk dengan lebih cepat, mudah dan menghasilkan harga pokok produksi yang akurat. Dengan metode Activity-based Costing, biaya overhead dialokasikan menggunakan beberapa dasar alokasi berdasarkan pemacu biaya dari aktivitas yang dikonsumsi oleh tiap produk sehingga tiap produk tidak mengalami undercosting atau overcosting. Pada pembuatan program aplikasi perhitungan ini, sistem didesain dengan menggunakan Data Flow Diagram (DFD) dan Entity Relationship Diagram (ERD). Sedangkan untuk implementasinya, digunakan software Borland Delphi 5.0 dan Microsoft SQL Server 7.0. Setelah melakukan pengujian program berdasarkan data-data dari perusahaan, terbukti bahwa harga pokok produksi dengan metode Activity-based Costing yang diperoleh dengan perhitungan manual sudah sama dengan harga pokok produksi dengan metode Activity-based Costing yang diperoleh dari program aplikasi untuk tiap kemasan yaitu Rp.3.298.73 untuk Sari Markisa Murni, Rp. 6.977.46 untuk Jenever Keranjang, Rp. 6.897.93 untuk Jenever Dos Isi 2, Rp. 3.868.07 untuk Jenever Dos Isi 1, Rp. 6.452.62 untuk Tree Top, dan Rp. 8.617.66 untuk Jumbo.",
+  "creators": "LINDA LIANDY",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); LESLY TANIZAR (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0067/INF/2003; Linda Liandy (26499158)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

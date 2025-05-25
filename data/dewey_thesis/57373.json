@@ -1,0 +1,14 @@
+{
+  "id": "57373",
+  "title": "Penerapan metode hierarchical deep convolutional neural networks untuk pengenalan karakter optik pada aksara Jawa",
+  "abstract": "Aksara Jawa merupakan salah satu aksara tradisional yang digunakan sebagai sarana penulisan dan penyebaran informasi. Pembelajaran mengenai Aksara Jawa wajib diberikan di sekolah mulai kelas 3 SD, akan tetapi kenyataannya banyak anak-anak di bangku SMP yang tidak memahami Aksara Jawa. Selain itu juga banyak dokumen-dokumen bersejarah yang masih ditulis dalam Aksara Jawa. Oleh sebab itu dibutuhkan sebuah sistem yang dapat membantu pelajar maupun masyarakat umum untuk mengetahui huruf alfabet dari sebuah Aksara Jawa. Penelitian ini mengajukan penggunaan metode Hierarchical Deep Convolutional Neural Networks untuk melakukan klasifikasi terhadap sebuah gambar Aksara Jawa. Hasil dari metode yang diajukan memperoleh accuracy sebesar 99.62%, lebih baik jika dibandingkan dengan model CNN seperti VGG16 atau VGG19.",
+  "creators": "JANSEN FREDERICK MINGARDI",
+  "contributors": "Liliana (Advisor 1); Rudy Adipranata (Advisor 2); Gregorius Satiabudhi (Examination Committee 1); Rolly Intan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022361/INF/2023; Jansen Frederick Mingardi (C14190011)",
+  "subjects": "DEEP LEARNING (MACHINE LEARNING); NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

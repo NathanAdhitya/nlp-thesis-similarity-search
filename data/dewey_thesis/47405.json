@@ -1,0 +1,14 @@
+{
+  "id": "47405",
+  "title": "Perancangan modul praktikum remapping ECU",
+  "abstract": "Remapping ECU adalah proses merubah peta (map) ECU agar daya, torsi, dan kehematan bahan bakar meningkat. Proses remapping ECU meliputi reading, editing, dan writing data. Pada tahap editing data, peta (map) diubah agar dapat meningkatkan performa mesin. Peta (map) dalam ECU disebut sebagai parameter di mana terdapat dua buah parameter yang menjadi fokus utama pada Tugas Akhir ini. Parameter pertama adalah waktu pengapian (spark advance) dengan perubahan waktu pengapian maju dan mundur sebesar 2o, 4o, dan 6o. Kemudian parameter sifat campuran udara-bahan bakar (target lambda) yang akan diubah sebesar -0,3 dan +0,3. Perubahan kedua parameter tersebut akan diuji terhadap hasil emisi gas buang (nilai HC, CO, dan lambda), konsumsi bahan bakar, dan indikator check engine. Hasil yang diperoleh menunjukkan konsumsi bahan bakar semakin boros pada derajat pengapian yang semakin mundur dan pada -0,3 target lambda. Sedangkan pada waktu pengapian yang semakin maju dan parameter +0,3 target lambda tidak memiliki dampak yang signifikan terhadap konsumsi bahan bakar serta nilai HC dan CO. Perubahan nilai lambda berbanding lurus dengan perubahan konsumsi bahan bakar yang dihasilkan. Di samping itu, perubahan kedua parameter tidak memberikan dampak pada indikator check engine, di mana sensor tidak menganalisa adanya kejanggalan dari perubahan parameter yang dilakukan. Hal ini terjadi karena sensor dan ECU terhubung pada sistem kendali close loop.",
+  "creators": "WILLIAM HARTANTO",
+  "contributors": "Sutrisno S.T.,M.T. (Advisor 1); Ian Hardianto Siahaan (Examination Committee 1); Joni Dewanto (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011359/MES/2020; William Hartanto (24416101)",
+  "subjects": "AUTOMOBILES--MOTORS--COMPUTER CONTROL SYSTEMS; AUTOMOBILES-MOTORS-FUEL INJECTION SYSTEMS"
+}

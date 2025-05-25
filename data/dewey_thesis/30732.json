@@ -1,0 +1,14 @@
+{
+  "id": "30732",
+  "title": "Optimasi cranking ampere aki di PT Gramitrama Battery Industry",
+  "abstract": "Produk aki di PT Gramitrama Battery Industry memiliki cranking ampere 221 CA sehingga tidak bisa memenuhi permintaan pasar Jepang, Eropa dan Amerika yang mempersyaratkan cranking ampere minimal 275 CA. Dengan menggunakan diagram tulang ikan didapat faktor-faktor yang diduga berpengaruh terhadap cranking ampere aki. Perusahaan memilih faktor-faktor bisa dieksperimentasikan. Faktor-faktor yang dipilih berjumlah 4 faktor dan masing-masing faktor memiliki 3 level, yaitu: interval waktu charging (30 menit, 60 menit, 90 menit), tebal plat sel (1,2 mm, 1,4 mm, 1,6 mm), persentase kemurnian bahan (96%, 97%, 98%), dan besar kuat arus charging (160 A, 170 A, 180 A). Dari data tersebut, dilakukan kombinasi percobaan dengan menggunakan matriks ortogonal yang merupakan salah satu langkah dari metode Taguchi. Dari hasil analisa didapatkan hasil kombinasi terbaik ialah interval waktu charging 60 menit, tebal plat sel 1,4 mm, persentase kemurnian bahan 98%, dan besar kuat arus charging 180 A yang dapat meningkatkan cranking ampere hingga mencapai 278 CA. Uji verifikasi membuktikan bahwa cranking ampere sebesar 278 tersebut dapat dicapai.",
+  "creators": "ANDY SOEGIARTO",
+  "contributors": "Didik Wahjudi (Advisor and Examination Committee)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01.54.445; Andy Soegiarto (24495008)",
+  "subjects": "TAGUCHI METHODS; BATTERY CHARGERS-COMPUTER PROGRAMS"
+}

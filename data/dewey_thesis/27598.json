@@ -1,0 +1,14 @@
+{
+  "id": "27598",
+  "title": "Program komputer untuk perhitungan kebutuhan material dan dana",
+  "abstract": "Skripsi ini berisikan program komputer yang dapat dipakai untuk memenuhi kebutuhan proses persiapan suatu proyek bangunan, mulai dari proses persiapan pelelangan sampai dengan proses perencanaan kebutuhan material dan dana proyek yang akan dilaksanakan. Pada dasarnya skripsi ini merupakan studi lanjut dari dua skripsi terdahulu yang berjudul \"Pemakaian Lotus 1-2-3 untuk Anggaran Biaya Proyek\" dan \"Perhitungan Pengadaan Bahan Untuk Bangunan Gedung Dengan Spreadsheet\". Pengembangan kemampuan yang dilakukan antara lain: - dapat melakukan perhitungan dan membuat laporan kebutuhan dana per-minggu - dapat menganalisa upah tenaga kerja dengan sistem BOW maupun borongan - dapat mencari data dengan lebih cepat - dapat membuat jadwal rencana kerja secara otomatis - dapat dioperasikan dengan lebih cepat - dapat dijalankan oleh pemakai yang awam terhadap komputer. Sebagai sarana pengolah data pada program skripsi ini dipakai \"data base\", sedangkan untuk pembuatan kurva-S dipakai \"bahasa C\". Supaya program ini dapat langsung dioperasikan dari DOS, maka dipakai program \"Clipper Compiler\". Dengan demikian pengoperasiannya menjadi lebih cepat dan mudah. Adapun ruang lingkup program yang disusun pada skripsi ini meliputi: - perhitungan rencana anggaran biaya - penyusunan rencana kerja (bar chart) - pembuatan kurva S - perhitungan kebutuhan material per-minggu - perhitungan kebutuhan tenaga kerja per-minggu - perhitungan kebutuhan alat per-minggu - perhitungan kebutuhan dana per-minggu Beberapa kelemahan yang ditemukan pada program skripsi ini adalah: - perbaikan kesalahan pemasukan data tidak dapat langsung dilakukan tanpa keluar terlebih dahulu dari proses pemasukan data yang sedang dijalankan - program ini belum menyediakan fasilitas untuk mencetak kurva S. Untuk mengatasi masalah ini dapat dilakukan \"Print Screen\" - jika disket yang dipakai untuk menyimpan program hanya berkapasitas 360 kilo bytes, maka dibutuhkan satu disket lagi untuk menyimpan data.",
+  "creators": "L. A. Lokanto; Agus Handoko Kartadinata",
+  "contributors": "Sukanto Tedjokusuma (Advisor 2); Mutyadewi Subagio (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No 452 S; L. A. Lokanto (34287154); Agus Handoko Kartadinata (34287161)",
+  "subjects": "BUILDING ESTIMATES; BUILDINGS MATERIALS"
+}

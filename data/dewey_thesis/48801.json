@@ -1,0 +1,14 @@
+{
+  "id": "48801",
+  "title": "Perbandingan dan analisis Metode Artificial Neural Network dan SIRD pada kasus Covid-19 di Surabaya",
+  "abstract": "Pada 2 Maret 2020 masyarakat Indonesia menghadapi virus Covid-19 melalui pengumuman Presiden Joko Widodo. Penyebaran Covid-19 ini terus berkembang dan menyebar ke kota – kota. Salah satu kota yang ada Indonesia yaitu Surabaya. Pada 2 Juni 2020, Surabaya memasuki zona merah tua karena memiliki penambahan kasus positif Covid-19 sebanyak 2748 orang. Penyebaran Covid-19 yang tinggi dapat menyebabkan tingginya angka kematian. Penelitian ini mencoba untuk mencegah korban kematian yang tinggi dengan melakukan prediksi terhadap keperluan peralatan, ruang isolasi, tenaga medis, dan kebutuhan alat pelindung diri (APD) pasien Covid-19. Dalam melakukan prediksi ada 2 metode yang digunakan yaitu metode Artificial Neural Network (ANN) dan Susceptible Infectious Recovered Decease (SIRD). 2 Metode ini akan diukur akurasinya dengan pengukuran error yaitu Mean Absolute Deviation (MAD), Mean Square Error (MSE), dan Mean Absolute Percentage Error (MAPE). Setelah diukur, hasil prediksi dari 2 metode ini akan digunakan untuk mengukur keperluan peralatan, ruang isolasi, tenaga medis, dan kebutuhan APD berdasarkan pola pengaturan yang dimiliki oleh rumah sakit S, N, dan X. Berdasarkan hasil analisis pengimplementasian website, metode ANN memiliki error dengan metode MAD rata – rata sebesar 53,1733 untuk training dan 89,73 untuk testing, MSE rata – rata sebesar 6581,09 untuk training dan 22953,9067 untuk testing, dan MAPE rata – rata sebesar 17,7367% untuk training dan 16,3067% untuk testing. Metode SIRD dapat memberikan tingkat error dengan metode pengukuran error MAD rata – rata sebesar 309,81, MSE rata – rata sebesar 150496,08, dan MAPE rata – rata sebesar 30,2%.",
+  "creators": "JUAN FELIX NYOTO SANTOSO",
+  "contributors": "Alexander Setiawan (Advisor 1); Silvia Rostianingsih (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1); Leo Willyanto Santoso (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022033/INF/2021; Juan Felix Nyoto Santoso (C14170051)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4724",
+  "title": "Program simulasi perhitungan kinerja Backhoe-dump truck pada pemindahan tanah mekanis",
+  "abstract": "Dalam pekerjaan galian bawah tanah yang berukuran besar, excavator terutama backhoe sering digunakan, dan pada pelaksanaannya dibantu oleh alat pengangkut, seperti dump truck yang berfungsi untuk mengangkut tanah hasil galian dan membuangnya ke tempat pembuangan (dump site). Agar backhoe dan dump truck menghasilkan kinerja gabungan yang optimal, perlu dilakukan perhitungan terhadap produktivitas dan waktu siklus dari kedua alat tersebut, dimana biasanya digunakan metode Ideal Output (Peurifoy, 1979) atau General Output Formula (Rochmanhadi, 1985) yang juga memperhitungkan kelas material, sudut putar, kondisi galian, kondisi pekerjaan, kondisi manajemen, serta kemampuan backhoe dan dump truck. Banyaknya faktor tersebut akan membutuhkan waktu perhitungan yang cukup lama dan hasil yang didapatkan akan kurang optimal terutama bila dihitung dengan cara manual. Untuk mengatasi hal itu dibuatlah program komputer bernama B-D Simulator. B-D Simulator adalah program untuk membantu kontraktor mempercepat perhitungan kinerja gabungan backhoe-dump truck menggunakan General Output Formula dengan tetap memperhitungkan faktor - faktor yang ada di atas.",
+  "creators": "DANIEL RENATAN; IRFON WAHANA PUTRA",
+  "contributors": "Ratna S. Alifen (Advisor 1); Sukanto Tedjokusuma (Advisor 2); Herry Pintardi Chandra (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20201366/SIP/2004; Daniel Renatan (21400080), Irfon Wahana Putra (21400096)",
+  "subjects": "SOIL MECHANICS"
+}

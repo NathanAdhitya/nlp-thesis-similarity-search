@@ -1,0 +1,14 @@
+{
+  "id": "19487",
+  "title": "Catu daya dc variabel yang dapat diprogram",
+  "abstract": "Catu daya merupakan rangkaian terpenting dalam sebuah instrumentasi elektronika. Pada tugas akhir ini akan dibuat sebuah catu daya yang dapat diprogram yang mempunyai standar laboratorium. Agar catu daya yang dihasilkan dapat diprogram melalui PC maka pada catu daya ini dilengkapi dengan sebuah rangkaian DAC yang berfungsi untuk mengubah data digital menjadi tegangan analog serta rangkaian overload protection yang berfungsi untuk membatasi arus yang dihasilkan oleh catu daya dalam tugas akhir ini arus yang dihasilkan oleh catu daya hanya sebesar 4Ampere. Pada catu daya tersebut dilakukan beberapa pengukuran yaitu pengukuran beban resistif, dan pengukuran beban induktif. Dari data percobaan dan pengukuran didapatkan hasil bahwa arus maksimal yang dapat dihasilkan oleh catu daya sebesar 4Ampere dengan tegangan ripple sebesar 48mV dengan tegangan kerja minimum sebesar 1,7V. Catu daya tersebut mempunyai ketelitian hingga satu angka dibelakang koma, akan tetapi terdapat beberapa level tegangan yang hilang dari catu daya tersebut hal ini dikarenakan kurangnya tingkat resolusi dari rangkaian DAC yang digunakan (dalam tugas ini menggunakan DAC 8-bit). Untuk adjustable dari PC menggunakan trackbar terdapat selisih antara setting point dengan hasil yang sebenarnya hal ini dikarenakan adanya level tegangan pada catu daya yang hilang sehinga level tegangan yang dihasilkan oleh catu daya menjadi tidak linier.",
+  "creators": "PRASETYO GUNAWAN",
+  "contributors": "Indar Sugiarto (Advisor 1); Handry Khoswanto (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010914/ELK/2010; Prasetyo Gunawan (23406003)",
+  "subjects": "ELECTRIC POWER SUPPLY; POWER SUPPLY-COMPUTER PROGRAMS"
+}

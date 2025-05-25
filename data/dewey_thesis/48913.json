@@ -1,0 +1,14 @@
+{
+  "id": "48913",
+  "title": "Analisis operasional pengecoran plat lantai dengan model cyclone (studi kasus: proyek bangunan apartemen)",
+  "abstract": "Pada proyek konstruksi diperlukan pengaplikasian berbagai jenis sumber daya untuk merealisasikan suatu bangunan. Dalam pekerjaan struktural ada berbagai macam operation, salah satunya adalah pekerjaan pengecoran. Dalam operation pengecoran banyak sumber daya yang terlibat, karena kinerja antara sumber daya dan faktor ketidak-pastian di lapangan, akan sering terjadi idle time pada proses masing-masing sumber daya tersebut. Di dalam operation berbagai proses sumber daya yang terus berulang, maka dapat dilakukan pengamatan dan riset dengan pemodelannya agar dapat dianalisis, dan dioptimasi untuk mendapatkan kinerja sumber daya yang efisien. Dalam penelitian ini konsep pemodelan yang digunakan adalah CYCLONE yang memiliki kegunaan untuk mengetahui produktivitas operation dan idle time setiap proses sumber daya dalam operation pengecoran. Software yang digunakan dalam konsep pemodelan CYCLONE adalah Simphony.NET. Operation untuk simulasi model pengecoran plat lantai yang akan ditinjau adalah Proyek Apartemen Jagir, Surabaya. Dari hasil observasi lapangan akan didapatkan kinerja sumber daya dan urutan proses pekerjaan yang terdapat dalam operation pengecoran plat lantai tersebut. Analisis sensitivitas dilakukan untuk mengetahui sumber daya yang sensitif terhadap produktivitas dan idle time dari operation pengecoran plat lantai. Dari hasil simulasi operasi pengecoran plat lantai, hasil produktivitas kondisi existing untuk zona 1, zona 3 dan zona 4 adalah 24,57 m3/jam, 18,9 m3/jam dan 18,9 m3/jam. Berdasarkan analisa sensitivitas sumber daya yang sensitif dan masih dapat diubah jumlahnya adalah truck mixer, trailer pump, dan placing boom. Dari hasil optimasi didapatkan hasil kombinasi yang paling optimal dengan kombinasi 3 truck mixer 2 trailer pump dan 2 placing boom. Dengan kombinasi tersebut Idle time dari proses pekerjaan truck mixer dan worker berkurang dibandingkan dengan kondisi existing, produktivitas untuk zona 1, zona 3 dan zona 4 sebesar 58,59 m3/jam, 49,14 m3/jam, dan 51,03 m3/jam.",
+  "creators": "VICTOR SURYA HALIM; ELKANA RETIKA",
+  "contributors": "Ratna S. Alifen (Advisor 1); Sentosa Limanto (Examination Committee 1); Sandra Loekita (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 21012473/SIP/2021; Victor Surya Halim (21416174), Elkana Retika (21416213)",
+  "subjects": "CONSTRUCTION INDUSTRY--MANAGEMENT; CONSTRUCTION INDUSTRY--MANAGEMENT--DATA PROCESSING"
+}

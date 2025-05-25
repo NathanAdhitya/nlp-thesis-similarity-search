@@ -1,0 +1,14 @@
+{
+  "id": "43526",
+  "title": "Perbandingan pengaruh metode penempatan VSL gensui damper terhadap kinerja seismik struktur beton bertulang (gempa wilayah Kendari)",
+  "abstract": "Salah satu metode perkuatan struktur adalah dengan pengaplikasian damper. Salah satu pertanyaan yang timbul saat mengaplikasikan damper adalah di mana damper akan diletakkan. Cara yang umum digunakan adalah meletakkan damper di seluruh lantai dengan jumlah yang sama, selanjutnya akan disebut dengan metode Uniform. Namun, dengan metode tersebut sangat dipertanyakan efisiensinya dalam mengurangi kerusakan bangunan. Untungnya, ada metode-metode penempatan damper lain yang dapat digunakan. Salah satu metode yang paling aplikatif adalah metode SSSA. Pada penelitian sebelumnya oleh Angkasaputra dan Sebastiano (2018), metode SSSA dibandingkan dengan metode modifikasi dari metode SSSA itu sendiri (Modified SSSA) dan metode Uniform. Dari penelitian itu, dapat dilihat bahwa metode SSSA maupun Modified SSSA masih memiliki kekurangan, yaitu tidak diperhatikannya efek kekuatan kolom. Selain itu, kesimpulan mengenai metode mana yang paling efektif dalam mengurangi kerusakan bangunan juga masih belum jelas. Hal ini diakibatkan oleh terlalu parahnya kerusakan bangunan akibat tidak didesain terhadap gempa. Penelitian ini akan mengkaji metode SSSA dan membandingkannya dengan metode SSSA modified, dan metode Uniform. Ketiga metode akan diterapkan pada 5 bangunan 10 lantai yang memiliki desain yang berbeda. Performa dari masing-masing metode akan dievaluasi melalui interstory drift dan damage index. Selain itu, akan dicoba juga suatu indikator metode baru yang diharapkan dapat mengatasi kelemahan dari metode SSSA. Analisa menggunakan non-linear direct integration time history dengan program SAP2000 v.18.2. Damper viscoelastic menggunakan VSL Gensui Damper. Beban gempa 2500 tahun yang diterapkan diperhitungkan pada kota Kendari. Hasil yang didapatkan dari penelitian ini adalah metode Modified SSSA adalah metode yang memiliki performa terbaik dalam mengurangi kerusakan dan interstory drift bangunan. Selain itu, Proposed Method memiliki performa yang buruk dalam mengatasi kerusakan bangunan.",
+  "creators": "IVAN WIDJAJA; DANIEL, MULYONO KRESNADI",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Benjamin Lumantarna (Advisor 2); Jimmy Chandra (Examination Committee 1); Gunawan Budi Wijaya S.T., M.T., M.Eng. (Examination Committee 2)",
+  "publisher": "Fakultas Ekonomi Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Undergraduate Thesis No. 11012282/SIP/2019; Ivan Widjaja (21415009), Daniel Mulyono Kresnadi (21415061)",
+  "subjects": "REINFORCED CONCRETE CONSTRUCTION; BUILDINGS--EARTHQUAKE EFFECTS; STRUCTURAL DYNAMICS"
+}

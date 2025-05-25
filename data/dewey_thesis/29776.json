@@ -1,0 +1,14 @@
+{
+  "id": "29776",
+  "title": "Pemanfaatan dan pengujian aplikasi varnish web cache untuk mempercepat akses website",
+  "abstract": "Teknologi Website saat ini berkembang dengan sangat cepat. Suatu Website mulai dilengkapi dengan berbagai animasi agar lebih menarik tetapi animasi ini kadang-kadang memperlambat akses dari sebuah Website. Orang akan meninggalkan Website tersebut karena loading-nya yang lama. Salah satu cara mempercepat akses Website adalah dengan memanfaatkan aplikasi Web cache Varnish. Varnish akan menyimpan data statis dari sebuah Website dalam sebuah memory. Data statis ini adalah data yang jarang berubah atau jarang di-update. Suatu front end bagi Web administrator akan dibangun untuk aplikasi Varnish sehingga konfigurasinya dapat dengan mudah diganti sesuai kebutuhan. Konfigurasi yang akan disederhanakan melalui front end aplikasi Varnish ini adalah mendeteksi SQL injection dan Cross Site Scripting (XSS), blokir file dan folder, manipulasi HTTP header, mendeteksi file asli dihapus atau diblokir, dan konfigurasi error handling. Aplikasi front end ini diimplementasikan dalam sebuah virtual machine dengan VirtualBox sebagai virtual manager-nya dan Linux Ubuntu server sebagai sistem operasinya. Aplikasi Varnish diuji menggunakan ApacheBench dimana jumlah request dari client dan response time menjadi parameter utama pengujian.",
+  "creators": "EKO BAYU KUSUMO",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Ibnu Gunawan (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021340/INF/2014; Eko Bayu Kusumo (26410006)",
+  "subjects": "APPLICATION SOFTWARE; WEBSITES-DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); INTERNET (COMPUTER NETWORK)"
+}

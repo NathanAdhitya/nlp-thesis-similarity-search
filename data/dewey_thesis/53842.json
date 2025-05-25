@@ -1,0 +1,14 @@
+{
+  "id": "53842",
+  "title": "Sistem informasi dan rekomendasi kegiatan kemahasiswaan universitas menggunakan content-based filtering pada web app RE*ACH sebagai pusat informasi kegiatan kemahasiswaan universitas untuk mahasiswa",
+  "abstract": "Dalam menjalani kehidupan perkuliahan di Universitas Kristen Petra, masing-masing mahasiswa memiliki masalahnya tersendiri. Salah satunya adalah masalah dalam memenuhi poin Satuan Kredit Kegiatan Kemahasiswaan (SKKK). Alasan dari masalah tersebut dari masing-masing mahasiswa beragam. Namun, yang paling banyak dikeluhkan oleh mahasiswa adalah mendapatkan peluang atau kesempatan untuk lolos penyeleksian sebagai anggota kepanitiaan atau peserta dalam suatu kegiatan kemahasiswaan. Maka dari itu, dibuatlah sistem informasi dan sistem rekomendasi kegiatan kemahasiswaan dalam suatu platform yang terpusat dan bisa diakses oleh semua mahasiswa Universitas Kristen Petra. Dalam membantu sistem informasi agar lebih tepat lagi dalam memberikan informasi, sistem rekomendasi ditambahkan ke dalam sistem informasi tersebut agar informasi yang berkaitan dengan pengguna dapat ditujukan kepada pengguna yang benar-benar membutuhkan. Dalam pembuatan sistem rekomendasi, metode Content-Based dengan cosine similarity digunakan karena metode tersebut cenderung merekomendasikan produk yang benar-benar berhubungan dengan masing-masing preferensi individu pengguna. Pengguna dari aplikasi RE*ACH ini adalah seluruh mahasiswa Universitas Kristen Petra, sehingga dataset juga terdiri dari data diri dari seluruh mahasiswa Universitas Kristen Petra yang terdaftar di dalam aplikasi.",
+  "creators": "MISAEL RITHE SETIO",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022173/INF/2022; Misael Rithe Setio (C14180001)",
+  "subjects": "MANAGEMENT INFORMATION SYSTEMS--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); RECOMMENDER SYSTEMS (INFORMATION FILTERING); DATABASE DESIGN--COMPUTER PROGRAMS"
+}

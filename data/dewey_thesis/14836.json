@@ -1,0 +1,14 @@
+{
+  "id": "14836",
+  "title": "Pengaturan kecepatan motor induksi rotor tergulung 220/380 v, 1 pk, 1400rpm, dengan menggunakan bridge rectifier 3 fasa",
+  "abstract": "Masalah pada motor induksi yang diatur oleh resistor geser 3 fasa adalah sinkronisasi antar ke-3 harga R dan A V pada kontak bergeser.Oleh karena itu perlu dievaluasi penggunaan bridge rectifier 3 fasa untuk pengaturan kecepatan motor induksi rotor tergulung. Saat percobaan mula-mula dibuat rangkaian kontrol yang menghasilkan gelombang PWM. Rangkaian kontrol ini digunakan sebagai pengganti pengatur kecepatan motor yang sebelumnya menggunakan tahanan geser. Rangkaian kontrol ini mula-mula dihubungkan dengan transistor. Transistor ini diparalel dengan tahanan yang telah ditetapkan harganya dan diparalel dengan rectifier. Output dari rectifier ini yang dihubungkan ke motor. Pada saat pengujian dilakukan dua kali percobaan yaitu tanpa beban dan berbeban dengan mengubah lebar pulsa gelombang (PWM) dari 0% sampai 100%. Dari hasil percobaan terlihat bahwa kecepatan motor akan naik bersamaan dengan kenaikan lebar pulsa sedangkan tegangan VDC akan turun. Pada percobaan terlihat bahwa pada keadaan tidak berbeban kecepatan maksimumnya adalah 1476 Rpm dengan range 56 Rpm dan VDC maksimumnya 11,8 V dengan range 11,72 V sedangkan pada keadaan berbeban kecepatan maksimumnya adalah 1428 dengan range 178 Rpm dan VDC maksimumnya 38,8 V dengan range 38,45 V. Tegangan Vdc yang bervariabel merupakan penunjukan dari harga R yang berubah-ubah dari 0 sampai 50 Q. Jadi pengaturan motor dengan metode ini lebih cocok untuk kondisi berbeban karena range kecepatannya lebih besar.",
+  "creators": "JOHNSON",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); Nanik Linawati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/TST/050/383; Johnson (23496025)",
+  "subjects": "ELECTRIC MOTORS, INDUCTION"
+}

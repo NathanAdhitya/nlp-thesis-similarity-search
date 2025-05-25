@@ -1,0 +1,14 @@
+{
+  "id": "45190",
+  "title": "Implementasi internet of things untuk menjaga kelembaban udara pada budidaya jamur",
+  "abstract": "Internet of things dalam pengertian secara luas membuat semua yang ada di dunia terkoneksi ke dalam internet yang tersambung secara terus menerus. Internet of things bisa mengontrol, mengirim data, dan sebagainya yang memanfaatkan internet sehingga bisa dilakukan dengan jarak jauh tanpa mengenal jarak. Implementasi saat ini pengendalian kelembaban udara masih dilakukan dengan merasakan langsung melalui kulit manusia kemudian akan melakukan pengkabutan apabila kelembaban dirasa kurang. Dengan adanya internet of things dapat diimplementasikan pengendali kelembaban udara dari jarak jauh melalui website. Untuk melakukan pembuatan pengendali kelembaban udara diperlukan alat seperti sensor kelembaban dan temperatur udara SHT11, mikrokontroler, relay, sprayer. Untuk hubungan interaksi sensor kelembaban dan temperatur udara, mikrokontroler, ataupun alat bantu lainnya melalui internet digunakan website. Website ini digunakan untuk mempermudah pengguna untuk mengakses internet dimanapun dan menggunakan device yang mampu membuka website. Website dibuat dengan menggunakan php. Mikrokontroler yang digunakan adalah WeMos D1 R2 yang terdapat ESP8266 di dalamnya. Hasil akhir dari pengembangan pengendali kelembaban udara ini adalah mikrokontroler dapat mengirimkan data dari sensor ke web server, kelembaban udara yang sesuai dengan setpoint. Pengguna dapat melihat grafik kelembaban dan temperatur udara per-hari.",
+  "creators": "ALIGIA RICKY AGUSTA",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Resmana Lim (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021894/INF/2019; Aligia Ricky Agusta (26415120)",
+  "subjects": "ELECTRONIC DATA PROCESSING; INTERNET OF THINGS"
+}

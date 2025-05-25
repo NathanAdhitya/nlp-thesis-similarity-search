@@ -1,0 +1,14 @@
+{
+  "id": "22230",
+  "title": "Mesin filling dan capping otomatis untuk botol kemasan essens menggunakan sistem scada",
+  "abstract": "Seiring berkembangnya teknologi otomasi industri, suatu sistem otomasi industri membutuhkan teknologi PLC (Programmable Logic Controller) untuk memenuhi tuntutan adanya fleksibilitas dan programabilitas. Kebutuhan untuk pengawasan kendali proses dan mesin oleh PLC dan pengelolahan data selama proses berlangsung, membawa lahirnya konsep SCADA (Supervisory Control and Data Acquisition). Tugas akhir ini dirancang untuk mengatur sistem pengisian cairan ke dalam botol kemasan essens. Metode pengisian cairan ini menggunakan sebuah piston. Fungsi dari piston tersebut untuk mengatur volume cairan yang akan diisikan. Perangkat lain yang digunakan adalah katup solenoid on-off 3/2 yang memiliki fungsi sebagai aktuator silinder pneumatic. Algoritma kontrol yang digunakan pada mesin ini adalah kontrol On/Off. Semua penerapan ini dilakukan dengan menggunakan PLC Omron CPM1. Semua sistem dapat dikontrol secara otomatis melalui PC dengan menggunakan Wonderware InTouch10 sebagai SCADA software. Pengujian dilakukan dengan membandingkan jalannya plant dengan tampilan pada komputer serta jalanya fitur yang lainnya seperti alarm, security dan database. Mesin ini memiliki kapasitas mengisi serta memasang tutup botol hingga 20 botol per menit untuk botol dengan volume 12ml dan daya total yang diperlukan adalah 36,2352Watt.",
+  "creators": "JEFRI J ANGGRIAWAN",
+  "contributors": "Thiang (Advisor 1); Handy Wicaksono (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010921/ELK/2011; Jefri Jacky Anggriawan (23407028)",
+  "subjects": "AUTOMATIC MACHINERY; PNEUMATIC MACHINERY"
+}

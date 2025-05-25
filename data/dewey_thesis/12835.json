@@ -1,0 +1,14 @@
+{
+  "id": "12835",
+  "title": "Perancangan dan pembuatan search engine koleksi digital tugas akhir Universitas Kristen Petra dengan menggunakan TF-IDF dan conditional probability relations",
+  "abstract": "Universitas Kristen Petra memiliki perpustakaan yang telah dilengkapi dengan sistem pencarian koleksi digital. Sistem pencarian yang ada saat ini hanya mampu menampilkan hasil pencarian berdasarkan kata kunci, tanpa mempertimbangkan relasi antar kata kunci dalam kumpulan koleksi digital. Sistem pencarian yang digunakan saat ini perlu dikembangkan agar memberikan lebih banyak manfaat bagi penggunanya. Pengembangan sistem pencarian akan meningkatkan kemampuan sistem dalam pencarian koleksi digital berdasarkan kata kunci, relasi antar kata kunci dan hubungan antar koleksi digital. Metode yang digunakan adalah TF-IDF(Term Frequency Inverse Document Frequency) dan CPR(Conditional Probability Relations). Metode TF-IDF akan membantu sistem dalam menentukan pembobotan terhadap kata-kata yang penting dalam kumpulan koleksi digital. Hasil pembobotan dari TF-IDF kemudian diproses menggunakan metode CPR untuk menghasilkan extended keyword. Pengembangan sistem pencarian koleksi digital menggunakan metode di atas akan memberikan hasil pencarian yang lebih kompleks kepada pengguna, karena sistem pencarian mempertimbangkan relasi antar kata kunci. Penentuan bobot untuk judul adalah 10, abstrak 5, dan isi 1 sesuai dengan hasil kuesioner sebesar 80%.",
+  "creators": "ANGGA PRAMANA JAYA",
+  "contributors": "Rolly Intan (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020818/INF/2009; Angga Pramana Jaya (26405002)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT"
+}

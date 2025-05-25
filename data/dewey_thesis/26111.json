@@ -1,0 +1,14 @@
+{
+  "id": "26111",
+  "title": "Perancangan dan pembuatan sistem informasi akademik SMU Cita Hati",
+  "abstract": "Sekolah merupakan suatu lembaga pendidikan yang bertugas untuk mendidik anak memiliki tugas untuk memberikan pendidikan yang bermutu dan berkualitas kepada murid-muridnya. Guru yang bertugas memiliki tugas untuk memberi pendidikan kepada murid, memiliki wewenang untuk memberi nilai kepada murid dan seringkali disalahgunakan oleh guru, sehingga diperlukan suatu sistem untuk membantu kepala sekolah dalam mengurangi kesulitan untuk memberikan hukuman dan penghargaan karena kurangnya bukti-bukti. Sistem dibuat dengan berbasis web. Setiap proses yang terjadi dalam sistem digambarkan dengan DFD dan ERD. Setelah tiap proses sudah dibentuk maka dilakukan implementasi menggunakan bahasa pemrograman PHP dan database MySQL. User memiliki modul yang berbeda yang terdiri dari admin, kepala sekolah, tata usaha, guru, orang tua dan murid. Sistem informasi yang telah dibuat dapat digunakan untuk menyampaikan informasi dari sekolah kepada orang tua siswa baik informasi akademik menyangkut nilai, jadwal pelajaran, juga informasi lainnya seperti keuangan, pelanggaran, absensi dan juga membantu kepala sekolah dalam memantau performa guru. Dari hasil pengujian terhadap sistem, menunjukkan bahwa sistem ini dapat membantu orang tua, murid, kepala sekolah, tata usaha, admin dan guru dalam menyediakan informasi yang diperlukan. Berdasarkan hasil survei yang sudah dilakukan oleh 8 orang peserta, menyatakan bahwa fitur-fitur yang disediakan di dalam sistem sudah sesuai yang dibutuhkan oleh SMU Cita Hati",
+  "creators": "ARIF TIMOTHY BUDIMAN",
+  "contributors": "Yulia (Advisor 1); Justinus Andjarwirawan (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021066/INF/2011; Arif Timothy Budiman (26407134)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMANT; PROGRAMMING (ELCTRONIC COMPUTERS)"
+}

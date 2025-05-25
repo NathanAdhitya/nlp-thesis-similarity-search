@@ -1,0 +1,14 @@
+{
+  "id": "25741",
+  "title": "Perencanaan dan pembuatan alat pencatat pulsa telepon jenis tone dengan menggunakan mikrokontroller 8052",
+  "abstract": "Dalam era pembangunan ini peranan komunikasi menjadi sangat penting terutama dalam hal pemakaian jasa telepon. Pada lapangan banyak ditemui permasalahan yang berhubungan dengan melonjaknya biaya yang harus dibayar oleh para pelanggan sehingga pelanggan merasa dirugikan, apalagi jika biaya yang harus dibayar bukan hanya berasal dari satu jalur/sambungan telepon saja. Karena itu timbul ide untuk membuat alat yang dapat menghitung pemakaian pulsa telepon dari beberapa jalur telepon sehingga pelanggan dapat mempersiapkan besarnya biaya yang harus dibayarkan. Alat yang dibuat ini mencatat nomor telepon tujuan, perkiraan waktu awal dan akhir pembicaraan, tanggal dan hari pembicaraan dan banyaknya pulsa yang digunakan, sedangkan untuk biaya telepon per pulsanya harus diinputkan sendiri oleh pemakai dan disesuaikan dengan harga yang berlaku. Untuk mencatat nomor telepon tujuan digunakan MT8870 yang akan mengkonversikan setiap pasangan frekwensi yang masuk menjadi kode biner dari tombol yang ditekan. Hari, tanggal dan waktu pembicaraan diperoleh dari RTC MC146818A. Waktu awal pembicaraan adalah ketika diperoleh sinyal chasing 16 KHz yang pertama untuk tiap nomor sambungan, sedangkan perkiraan waktu akhir pembicaraan diperoleh ketika penelpon menutup gagang telepon. Pendeteksian kondisi gagang telepon menggunakan opto isolator 2N35 sedangkan pendeteksian sinyal 16 KHz menggunakan LM 567. Data-data ini akan disimpan di dalam RAM minimum sistem dan dapat dipindahkan ke harddisk komputer secara paralel untuk dilihat datanya pada layar monitor atau dicetak melalui printer.",
+  "creators": "OLGA SUTJIATI",
+  "contributors": "HANDAYANI T. (Advisor 1); Daniel Indarto Prajogo (Advisor 2); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/036/0193; Olga Sutjiati (23489040)",
+  "subjects": "MICROCONTROLLERS; PULSE TECHNIQUES (ELECTRONICS)"
+}

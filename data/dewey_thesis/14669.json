@@ -1,0 +1,14 @@
+{
+  "id": "14669",
+  "title": "Perencanaan dan pembuatan filter pasif untuk meredam gangguan harmonisa yang diakibatkan beban elektronika daya dalam jaringan 380/220 volt",
+  "abstract": "Beban-beban eiektronika daya seperti rectifier, cycloconverter, inverter, dan Iain-lain merupakan sumber gangguan harmonisa di suplai tenaga listrik. Gangguan harmonisa ini menyebabkan power faktor raenurun dan mengakibatkan distorsi pada tegangan dan arus suplai yang akan mengganggu beban-beban lainnya. Karena adanya gangguan harmonisa tersebut, maka dalam Tugas Akhir ini dibahas cara merancang filter pasif untuk meredam gangguan harmonisa dan menaikkan power faktor. Filter pasif ini merupakan filter penalaan tunggal yang terdiri dari rangkaian L dan C. Pemasanqan filter pasif ini pada level tegangan yang sama dan secara paralel pada input suplai inverter. Konstruksi pemasangan filter ialah Induktor terpasang serial dengan Kapasitor yang terkoneksi Delta. Filter pasif ini dirancang untuk mengeliminasi harmonisa-harmonisa tingkat ke-5 dan tingkat ke-7 yang ditimbulkan oleh inverter. Peredaman dan sekaligus pengkompensasian daya reaktif oleh filter pasif dapat mencapai sekitar 30 sampai 40 % dan dapat menaikkan power faktor hingga mencapai 0,9 dari keadaan semula.",
+  "creators": "JOHANNES ARIES MARYANTO",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); BUNAWI GUNAWIDJAJA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/TST/011/248; Johannes Aries Maryanto (23491026)",
+  "subjects": "ELECTRIC FILTERS"
+}

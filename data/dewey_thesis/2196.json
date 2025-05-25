@@ -1,0 +1,14 @@
+{
+  "id": "2196",
+  "title": "Perancangan dan pembuatan software pengembangan fuzzy VHDL berbasis visual dengan menggunakan Borland Delphi",
+  "abstract": "Tren dunia elektronika di masa mendatang adalah solderless, semua yang berhubungan dengan solder diminimasikan jadi semua serba instan. Salah satunya adalah dedicated chip, teknologi ini menawarkan keuntungan waktu desain yang relatif singkat, kecepatan eksekusi yang tinggi dan bahasa pemrograman tingkat tinggi yang relatif mudah dimengerti dan hasil desain dapat ditampilkan secara grafis oleh perangkat lunak pendukungnya. Dalam tugas akhir ini dibuat desain lengkap Fuzzy VHDL berbasis Visual yang merupakan lanjutan dari penelitian sebelumnya yaitu Desain Arsitektur Fuzzy Logic berbasis kompiler Xilinx Foundation 2.1. Secara singkat langkah kerja Fuzzy VHDL dapat diterangkan berikut ini pertama pemodelan inisialisasi chip, pemodelan proses fuzzifikasi, pemodelan fuzzy logic reasoning, pemodelan proses defuzzifikasi, pemodelan pembuatan kompiler file ekstension VHD.Untuk tahap kompilasi dan sintesa dikerjakan oleh kompiler VHDL Xilinx Foundation 2.1. Pengujian Fuzzy VHDL dilakukan dengan menggunakan simulasi dan sintesa dari Xilinx Foundation 2.1 yang meliputi: check syntak format bahasa VHDL, timing diagram dilanjutkan hingga tipikal dedicated chip. Hasil pengujian menunjukkan pemakaian 72 % CLB yang tersedia pada 2 input 1 output dengan 3 mf I/O. Pada max 2 input 2 output dengan 2 mf I/O menunjukkan pemakaian 45 % CLB. Hasil pengujian max 2 input 2 output dengan 3 mf input 2 mf output menunjukkan pemakaian 108 % CLB yang melebihi kapasitas maksimum.",
+  "creators": "JEMMY KRISTANTO LIMAN",
+  "contributors": "YOHANES T. D. S (Advisor 1); Thiang (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.-02/E/EL/009/555; Jemmy Kristanto Liman (23495079)",
+  "subjects": "PROGRAMMING (COMPUTER ELECTRONICS); COMPUTERS; COMPUTER ENGINEERING"
+}

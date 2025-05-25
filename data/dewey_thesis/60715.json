@@ -1,0 +1,14 @@
+{
+  "id": "60715",
+  "title": "Redesign 3d printer ender 3 bowden tube extruder menjadi direct extruder",
+  "abstract": "Dalam proses pencetakan 3D menggunakan Ender 3 Pro penggunaan filamen fleksibel TPU, banyak yang mengalami masalah saat mencoba mencetak suatu produk atau komponen karena adanya buckling (filamen tertekuk pada aliran selang) pada area ekstruder dan hotend nozzle yang sering kali membuat extruder macet sehingga filamen fleksibel tidak terdorong keluar dari nozzle dan hasilnya produk tidak dapat dicetak. Penyebab macetnya yang terjadi terhadap filamen fleksibel dikarenakan motor extruder yang berjarak cukup jauh dari hotend nozzle dan masih menggunakan penghubung seperti selang panjang yang membuat aliran filamen tidak stabil saat didorong kedalam hotend nozzle. Memahami permasalahan ini, pembuatan direct extruder merupakan jenis mekanisme ekstrusi di mana motor extruder diposisikan tepat di atas hotend nozzle. Pada sistem ini, filamen fleksibel tertarik secara langsung oleh motor extruder masuk langsung ke dalam nozzle untuk dilelehkan dan mendapatkan hasil cetak 3D sesuai rancangan produk. Dan juga mengupgrade program firmware pada 3D Printer Ender 3 Pro menggunakan klipper yang dapat membantu percetakan pada kecepatan tinggi yang lebih akurat dan lebih presisi dari sebelumnya. Pada analisa dan perbandingan hasil cetakan spesimen penggunaan klipper pada kecepatan tinggi 60mm/s mendapatkan hasil paling sempurna dan lebih menghemat waktu dan energi Listrik yang dihasilkan dari proses percetakan.",
+  "creators": "RONALDY CALVIN ANGGREK",
+  "contributors": "Ian Hardianto Siahaan (Advisor 1); Ninuk Jonoadji (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03011532/MES/2024; Ronaldy calvin anggrek (C12190054)",
+  "subjects": "MACHINE DESIGN; THREE-DIMENSIONAL PRINTING"
+}

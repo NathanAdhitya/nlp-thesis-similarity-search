@@ -1,0 +1,14 @@
+{
+  "id": "50610",
+  "title": "Analisa kinerja apache dan nginx dalam arsitektur mikriservis menggunakan siege",
+  "abstract": "Dari permasalahan yang ada yaitu bagaimana cara memastikan bahwa permintaan API melalui jaringan internal tidak akan memperlambat keseluruhan waktu respon dan bagaimana hasil menggunakan load balancer tanpa memikirkan scalability. Skripsi ini bertujuan untuk menganalisa kinerja web service pada arsitektur mikroservis antara Apache dan Nginx dengan menggunakan siege pada IP versi 4. Metode yang dipakai adalah kualitatif yaitu berdasarkan hasil data dan dianalisis dengan teori-teori yang sudah ada, yang membedakan dengan penelitian lainnya adalah penelitian ini menggunakan web server Apache dan Nginx sebagai objek percobaan, aplikasi yang diuji adalah website e-commerce pada bagian login, produk, keranjang dan pembayaran, dengan menggunakan arsitektur mikroservis dan menggunakan Siege sebagai alat untuk menjalankan skenario-skenario yang diuji serta parameter pengetesan adalah jumlah conccurent user dan waktu pengetesan. Hasil dari percobaan ini adalah web server Apache lebih unggul pada response time dan throughput tetapi untuk transaksi yaitu jumlah hit yang dihitung berdasarkan jumlah hit dibagi dengan waktu pengujian yang didapat pada web server Nginx lebih unggul. Kesimpulan sesuai dengan penekanan dalam rumusan masalah jadi kinerja web server Apache lebih baik.",
+  "creators": "HOWARD CHRISTOPHER YOEL UNSONG",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022048/INF/2021; Howard Christopher Yoel Unsong (26415082)",
+  "subjects": "APACHE (COMPUTER FILE); INTERNET (COMPUTER NETWORK); WEB SERVICES"
+}

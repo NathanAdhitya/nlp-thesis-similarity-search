@@ -1,0 +1,14 @@
+{
+  "id": "5433",
+  "title": "Perancangan dan pembuatan sistem pendukung keputusan untuk optimalisasi kuantitas produksi sesuai dengan permintaan customer di Cake Shop \"X\"",
+  "abstract": "Cake Shop di Hotel Shangri-la Surabaya mengalami masalah dalam menentukan jumlah produksi tiap-tiap item. Selama ini service manager pastry/bakery menggunakan intuisi dan pengalaman dalam menentukan jumlah tiap jenis item yang akan dibuat. Aplikasi sistem pendukung keputusan yang dibuat dalam Tugas Akhir ini diharapkan dapat membantu service manager pastry/bakery dalam mengambil keputusan mengenai jumlah produksi. Dengan adanya permasalahan tersebut maka akan dilakukan peramalan penjualan untuk mendapatkan jumlah produksi per hari yang optimal dan tepat bagi tiap-tiap jenis item. Metode peramalan yang digunakan adalah moving average models dan exponential smoothing models. Pembuatan sistem pendukung keputusan ini menggunakan software Borland Delphi 5.0 dan Microsoft Access 2000 sebagai databasenya. Lewat peramalan yang dilakukan dalam aplikasi sistem pendukung keputusan ini maka akan dihasilkan nilai peramalan penjualan suatu item pada hari tertentu sesuai input dari user. Seluruh metode peramalan yang tersedia pada aplikasi dapat digunakan dan akan dihasilkan nilai forecast error, nilai MAD, MSE, dan tracking signal yang menunjukkan efektivitas suatu model peramalan. Metode yang sebaiknya dipilih untuk aplikasi ini adalah winters? method karena metode ini menyediakan 3 parameter untuk memperhalus nilai base, trend, dan musiman. Dari hasil pengujian ditunjukkan pula bahwa forecast error terkecil, yaitu bernilai 0, diraih sebanyak 2 kali ketika user memilih winters? method sebagai forecasting modelnya.",
+  "creators": "CHRISTINE SETIAWATI",
+  "contributors": "M. ISA IRAWAN (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000170/INF/2004; Christine Setiawati (26400162)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTER); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

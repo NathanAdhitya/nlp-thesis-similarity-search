@@ -1,0 +1,14 @@
+{
+  "id": "14474",
+  "title": "Modul optimalisasi pencahayaan ruangan dengan tetap mempertahankan standard iluminasinya",
+  "abstract": "Pembuatan alat Tugas Akhir ini bertujuan untuk memberikan solusi penyalaan lampu secara tepat dan hemat energi. Lampu akan menyala dengan iluminasi sesuai dengan standard kuat penerangan SNI, jenis ruangan yang ada dan tambahan pencahayaan yang diterima dari luar misal cahaya matahari. Alat yang dibuat terdiri dari sensor cahaya menggunakan solar cell, lampu LED yang dikontrol secara PWM oleh mikrokontroller AVR ATmega8. Alat ini diterapkan pada sebuah model miniatur ruangan dengan ukuran panjang 45 cm x lebar 30 cm x tinggi 30 cm. Rancangan sensor cahaya menggunakan solar cell yang dikalibrasi dengan Lightmeter Standard Digital Instrument. Pada range pengukuran kurang dari 150 lux, error pengukuran dapat mencapai 30%, tetapi mulai range 200 sampai dengan 900 lux error pengukuran hanya 0,86%. Range 200 sampai dengan 900 lux sudah mencakup standard pencahayaan ruangan-ruangan kerja sesuai SNI. Pengaturan penyalaan lampu LED diatur secara PWM pada frekuensi 7,8 KHz, dengan mengubah duty cycle pulsa PWM. Kecepatan respon alat untuk menambah atau mengurangi pencahayaan adalah 1,2 detik/100 lux. Percobaan pada tanggal 12 November 2009 pukul 7:23 sampai dengan 16:21 di Ruang Baca Bebas Perpustakaan menunjukkan adanya kelebihan pencahayaan yang setara dengan 5264 Wh. Oleh karena itu apabila alat ini diterapkan untuk pengaturan pencahayaan pada Ruang Baca Bebas, maka akan terjadi penghematan listrik sebesar 5264 Wh.",
+  "creators": "TOMMY WIDIANTO",
+  "contributors": "Murtiyanto Santoso (Advisor 1); Handry Khoswanto (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010906/ELK/2009; Tommy Widianto (23405032)",
+  "subjects": "MICROCONTROLLER; ELECTRIC LIGHTING-MICROCONTROLLER"
+}

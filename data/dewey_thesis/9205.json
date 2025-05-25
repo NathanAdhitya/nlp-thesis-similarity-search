@@ -1,0 +1,14 @@
+{
+  "id": "9205",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada Toccata music and creative studio",
+  "abstract": "Toccata adalah lembaga kursus musik dan vokal. Sistem yang ada masih manual sehingga banyak kesalahan dan kelemahan terutama dalam menangani penjadwalan mengajar guru dan transaksi kas. Untuk meningkatkan efisiensi dan efektifitas dibutuhkan sistem baru yang terkomputerisasi dan terintegrasi, agar dapat menghasilkan informasi yang dibutuhkan secara cepat, tepat dan akurat. Perancangan desain sistem yang baru menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk membuat desain struktur tabel dan relasi antar tabel. Database dibuat dengan menggunakan Microsoft Access 2002. Aplikasi dibuat dan dikembangkan dengan menggunakan bahasa pemrograman Borland Delphi 7.0. Program yang dibuat meliputi: penjadwalan mengajar guru, pendaftaran kursus, pendaftaran ujian, pendaftaran lomba, pemasukan kas dan pengeluaran kas. Dari hasil pengujian program menunjukkan bahwa program ini mampu memproses data yang berhubungan dengan penjadwalan mengajar guru secara otomatis dan menghasilkan informasi berupa laporan-laporan secara lengkap dan akurat dengan menyesuaikan kebutuhan dan desain yang diinginkan. Keamanan juga akan lebih terjamin karena pengguna telah diberi wewenang khusus sehingga tidak dapat mengakses data yang bukan menjadi wewenangnya.",
+  "creators": "SISCA BELLINA ARIFIANTI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000507/INF/2006; Sisca Bellina Arifianti (26402063)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

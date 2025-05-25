@@ -1,0 +1,14 @@
+{
+  "id": "21604",
+  "title": "Kontrol posisi robot lengan menggunakan jaringan saraf tiruan",
+  "abstract": "Di jaman sekarang yang semakin modern ini, manusia menginginkan segala pekerjaan dapat dilakukan dengan mudah dan cepat. Hasil dari kerja manusia sendiri terkadang masih kurang memuaskan karena keterbatasan kemampuan yang dimiliki oleh manusia. Di lain sisi, perkembangan teknologi di bidang elektronika semakin lama semakin mengarah ke otomatisasi. Oleh karena itu, timbul salah satu solusinya adalah dengan menghadirkan sebuah robot otomatis yang dapat bekerja dengan cepat, dan tepat. Robot ini memiliki 3 (tiga) derajat kebebasan yang dibuat menyerupai lengan manusia. Pada ujung lengan dipasang sebuah bor PCB agar robot lengan mampu melakukan mekanisme pengeboran PCB. Metode yang digunakan untuk kontrol posisi adalah Jaringan Saraf Tiruan dengan struktur Multi Layer Perceptron. Training menggunakan backpropagation dengan metode online terhadap struktur jaringan dengan variasi hidden layer, neuron, dan learning rate. Jaringan Saraf Tiruan digunakan untuk mengendalikan kecepatan motor agar lengan robot dapat mencapai titik tujuan dengan cepat, dan tepat. Untuk dapat menyelesaikan permasalahan itu, dibutuhkannya bantuan PC untuk melakukan perhitungan dengan Jaringan Saraf Tiruan serta mikrokontroler sebagai interface antara PC dan robot. Secara umum, hasil pengujian Jaringan Saraf Tiruan menunjukkan bahwa respon robot lengan sudah cukup baik, meskipun terkadang masih terjadi ketidak-stabilan dan adanya error. Arsitektur jaringan terbaik untuk lengan pertama adalah 1 hidden layer, 20 neuron, dan LR = 0.5. Sedangkan untuk lengan kedua adalah 2 hidden layer, 40 neuron, dan LR = 0.5.",
+  "creators": "TAN HENDRA SUTANTO",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010880/ELK/2008; Tan Hendra Sutanto (23404021)",
+  "subjects": "ROBOTS; ROBOTS-CONTROL SYSTEMS"
+}

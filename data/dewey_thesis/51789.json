@@ -1,0 +1,14 @@
+{
+  "id": "51789",
+  "title": "Analisis non-linear geometri balok Timoshenko dengan elemen balok berbagai derajat interpolasi",
+  "abstract": "Analisis yang paling akurat dalam mendesain bangunan adalah non-linear. Salah satu non-linearitas yang pada analisis struktur adalah non-linear geometri, di mana kesetimbangan dianalisis dengan struktur yang telah berdeformasi. Hal ini cocok untuk menghilangkan limitasi dari analisis linear yaitu defleksi dan rotasi yang kecil. Dalam metode elemen hingga, shape function digunakan untuk menginterpolasi hasil perhitungan dari node-node yang ada. Lagrangian polynomial pada umumnya digunakan sebagai shape function karena derajat shape function dapat disesuaikan dengan keperluan komputasi. Penelitian ini bertujuan untuk mengevaluasi kinerja dari lagrangian polynomial sebagai shape function pada elemen balok Timoshenko dalam metode elemen hingga dengan analisis non-linear geometri. Struktur diuji terhadap locking test, pure bending test, serta akurasi dan konvergensi. Terdapat 3 derajat interpolasi yang diteliti, yaitu linear, kuadratik, dan kubik. Asumsi non-linear geometri yang digunakan adalah defleksi besar dan rotasi kecil. Hasil perhitungan dibandingkan dengan solusi acuan dan model SAP2000. Hasil penelitian membuktikan bahwa lagrangian polynomial dengan asumsi defleksi besar dan rotasi kecil akurat dalam menganalisis secara non-linear geometri ketika rotasi yang terjadi kurang dari 30o. Analisis non-linear geometri menggunakan lagrangian polynomial dengan asumsi defleksi besar dan rotasi memiliki error yang semakin besar seiring membesarnya rotasi yang terjadi.",
+  "creators": "WILSON LAKSMONO",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Effendy Tanojo (Examination Committee 1); Jimmy Chandra (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012556/SIP/2022; Wilson Laksmono (B11180044)",
+  "subjects": "BEAMS; BEAM DYNAMICS"
+}

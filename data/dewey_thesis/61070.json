@@ -1,0 +1,14 @@
+{
+  "id": "61070",
+  "title": "Pengembangan Bot Whatsapp untuk transaksi otomatis produk digital dengan integrasi Digiflazz API dan LinkQu API pada toko Crowdbytehbotol",
+  "abstract": "Di era digital, layanan pelanggan yang cepat dan responsif menjadi kunci utama dalam meningkatkan kepuasan pelanggan dan mendorong penjualan. Toko Crowdbothebotol memanfaatkan Whatsapp sebagai platform utama untuk berinteraksi dengan pelanggan. Penelitian ini bertujuan untuk mengembangkan Bot Whatsapp yang terintegrasi dengan Payment Gateway LinkQu API dan Digiflazz API untuk mengotomatiskan layanan pelanggan 24 jam. Bot ini memungkinkan pelanggan untuk memesan dan melakukan pembayaran secara otomatis tanpa harus menunggu interaksi dengan karyawan atau admin. Penelitian ini menggunakan Node.js dan Library @whiskeysocket/baileys untuk membangun Bot Whatsapp. Integrasi dengan Payment Gateway LinkQu API memungkinkan Bot untuk menerima dan memverifikasi pembayaran secara otomatis. Integrasi dengan Digiflazz API memungkinkan Bot untuk memproses dan menyelesaikan transaksi secara otomatis dalam hitungan detik. Hasil penelitian menunjukkan bahwa Bot Whatsapp yang dikembangkan dapat bekerja dengan baik dalam melayani pelanggan 24 jam. Bot dapat menjawab pertanyaan pelanggan, menerima pesanan, memproses pembayaran, dan menyelesaikan transaksi secara otomatis. Kemampuan ini memungkinkan toko Crowdbothebotol untuk meningkatkan efisiensi layanan pelanggan dan meningkatkan kepuasan pelanggan.",
+  "creators": "MATIUS ANSELL YANANTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Kartika Gunadi (Examination Committee 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022489/INF/2024; Matius Ansell Yananto (C14200064)",
+  "subjects": "CUSTOMER SATISFACTION; TRANSACTION SYSTEMS (COMPUTER SYSTEMS); WHATSAPP (APPLICATION SOFTWARE)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "55741",
+  "title": "Sistem pembaruan stok barang pada toko pakaian menggunakan teknologi RFID",
+  "abstract": "Dalam pencatatan stok barang masuk, hal yang biasanya didata adalah kode barang, jenis barang, tanggal masuk, jumlah barang, dan harga jual. Pendataan barang keluar juga penting untuk mengetahui status ketersediaan barang. Dengan adanya data stok barang yang terbarui secara real time, maka mencari barang untuk dijual lebih mudah. Pencatatan keluar juga perlu dilakukan dengan cepat agar tidak mengganggu kegiatan jual beli, sehingga dibutuhkan sistem dengan pengelolaan stok barang yang dapat diakses dengan mudah, dan sistem pencatatan barang yang dapat dilakukan dengan cepat. Tujuan project tugas akhir ini yaitu membuat sebuah sistem pembaruan stok barang pada toko pakaian menggunakan teknologi RFID sebagai tag pada barang dan MySQL sebagai database. Pengujian dilakukan dengan menguji keberhasilan komunikasi Node js dengan MySQL menggunakan aplikasi postman, dan menguji keberhasilan komunikasi website dengan database. Dari hasil pengujian tersebut, RFID dapat dibaca oleh USB RFID reader, lalu data barang dapat dibaca, ditulis, diedit dan dihapus melalui web.",
+  "creators": "ELYSIA LEVINA",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Handy Wicaksono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011044/ELK/2023; Elysia Levina (C11180011)",
+  "subjects": "RADIO FREQUENCY IDENTIFICATION SYSTEMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "59974",
+  "title": "Klasifikasi ikan mas, ikan nila, dan ikan gurame menggunakan metode you only look once",
+  "abstract": "Indonesia merupakan negara maritim yang memiliki daerah perairan lebih luas dibandingkan daratan. Maka dari itu, tidak aneh jika terdapat banyak sekali jenis ikan. Di antaranya terdapat ikan-ikan air tawar seperti ikan mas, ikan nila, dan ikan gurame memiliki banyak persamaan dalam segi fisiknya sehingga sulit bagi orang awam untuk membedakan ketiga jenis ikan tersebut. Terdapat penelitian yang menggunakan model fuzzy local binary pattern dan convolutional neural network untuk mendeteksi ikan air tawar yang mencakup lebih banyak jenis ikan. Namun, model tersebut belum mencapai akurasi yang optimal untuk mendeteksi objek karena sedikitnya data yang digunakan untuk melatih sistem permodelan. Adapun tujuan dari skripsi ini adalah membuat permodelan Yolov3 untuk dapat mendeteksi jenis ikan mas, ikan nila dan ikan gurame, serta menganalisis akurasi permodelan. Solusi yang digunakan pada skripsi ini adalah memanfaatkan permodelan deteksi objek yang lebih baru yaitu model Yolov3 untuk melatih model agar performa yang lebih baik. Selain itu memanfaatkan dataset yang lebih berfokus terhadap ketiga kelas ikan dan menggunakan data latih yang lebih banyak untuk mendapatkan akurasi yang lebih baik. Hasil pengujian yang didapat diawali dengan menggunakan 240 data latih, permodelan Yolov3 menghasilkan rata-rata presisi yang didapat sebesar 42%. Model berhasil mendeteksi objek dengan akurasi rata-rata 65%. Namun setelah dilakukan pelatihan ulang menggunakan 300 data, permodelan Yolov3 menghasilkan rata-rata presisi yang didapat sebesar 92%. Model berhasil mendeteksi objek dengan akurasi rata-rata 98%.",
+  "creators": "DHARMA YUDHA PUTRA WIJAYA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022458/INF/2024; Dharma Yudha Putra Wijaya (C14190121)",
+  "subjects": "DIGITAL IMAGE PROCESSING; IMAGE PROCESSING--DIGITAL TECHNIQUES; NEURAL COMPUTERS--DESIGN AND CONSTRUCTION"
+}

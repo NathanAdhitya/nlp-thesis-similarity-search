@@ -1,0 +1,14 @@
+{
+  "id": "45701",
+  "title": "Web-based weather station menggunakan raspberry untuk daerah pegunungan",
+  "abstract": "Sistem weather station di indonesia hanya berada di kota-kota besar yang memiliki bandara yang peruntukannya untuk menyediakan data cuaca di bandara lokal. Cuaca di daerah pegunungan sangat berbeda dengan daerah yang datar karena kontur pegunungan mengakibatkan perbedaan cuaca yang signifikan di daerah pegunungan, dengan dibuatnya web based weather station menggunakan raspberry untuk wilayah pegunungan ini maka informasi cuaca di gunung yang belum tercakup bisa didapatkan. Dalam TA ini akan dibuat web based weather station menggunakan raspberry untuk wilayah pegunungan. Dalam pembuatan web based weather station akan menggunakan Sensor DHT22 untuk mendeteksi Temperatur dan kelembapan, BMP180 untuk mendeteksi tekanan udara dan ketinggian, anemometer untuk mengukur kecepatan angin dan udometer untuk mengukur curah hujan. Hasil dari pembuatan web based weather station menggunakan raspberry untuk wilayah pegunungan akan ditempilkan melalui website mountainweather.web.id sehingga bisa diakses semua orang dan diharapkan dapat meningkatkan tingkat keselamatan pendaki gunung. Web based weather station menggunakan raspberry untuk wilayah pegunungan telah berhasil mengumpulkan dan menampilkan data cuaca faktual dan terkini.",
+  "creators": "RICARDO HARYUNARENDRA",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010140/ELK/2019; Ricardo Haryunarendra (23413008)",
+  "subjects": "RASPBERRY PI (COMPUTER); RASPBERRY PI (COMPUTER)--PROGRAMMING; WEB SITE DEVELOPMENT--COMPUTER PROGRAMS; WEB SITES--DESIGN"
+}

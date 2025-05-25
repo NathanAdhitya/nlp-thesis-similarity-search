@@ -1,0 +1,14 @@
+{
+  "id": "5227",
+  "title": "Simulation for train scheduling system",
+  "abstract": "Program simulasi untuk sistem penjadwalan kereta ini dibuat dengan tujuan untuk mempermudah tugas penjadwalan kereta api konvensional yang digunakan saat ini. Penyusunan jadwal berkenaan dengan adanya kereta baru dapat dilakukan melalui simulasi untuk mendapatkan penjadwalan kereta yang paling optimal. Program simulasi ini dibuat dengan menggunakan bahasa pemrograman Java dengan metode pemrograman berorientasi pada obyek. Sebagai bahan referensi digunakan 34 kereta penumpang kelas 1, 52 kereta penumpang kelas 2 dan 50 kereta barang yang dibagi menjadi 3 pembagian waktu. Data-data referensi didapatkan dari Grafik Perjalanan Kereta Api (GAPEKA). Metode pengambilan keputusan didasarkan pada prioritas kereta dengan sistem pengecekan terhadap jalur rel yang menuju dua stasiun kereta berikutnya dan jalur rel yang menuju stasiun kereta di belakang. Untuk mendapatkan sebuah jadwal kereta yang paling optimal dilakukan 7 kali simulasi penyusunan jadwal baru. Hasil dari penjadwalan baru ini didapatkan prosentase jumlah kereta yang mengalami perbaikan waktu tempuh untuk kereta penumpang kelas 1 sebesar 23,53 %, kereta penumpang kelas 2 sebesar 48,07 % dan kereta barang 46 %. Perubahan waktu tempuh memberikan rata-rata selisih waktu tempuh berkurang untuk kereta penumpang kelas 1 sekitar 5,125 menit, untuk kereta penumpang kelas 2 sekitar 6,769 menit dan kereta barang sekitar 10,652 menit.",
+  "creators": "INDRA BUDIONO",
+  "contributors": "Felix Pasila (Advisor 1); Aditya Umbu Tana Amah (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/634/ELK/2003; Indra Budiono (23498062)",
+  "subjects": "SIMULATION METHODS; TRAIN (COMPUTER SYSTEM)"
+}

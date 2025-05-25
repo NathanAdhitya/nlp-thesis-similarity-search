@@ -1,0 +1,14 @@
+{
+  "id": "41382",
+  "title": "Perbandingan algoritma simulated annealing dengan algoritma harmony search dalam penerapan picking order sequence di mobile rack warehouse",
+  "abstract": "Penerapan mobile rack warehouse umum digunakan dalam industri manufaktur karena dapat meminimalkan area gudang yang digunakan. Penerapan picking order dalam pengambilan SKU pada mobile rack warehouse dapat memberi urutan pengambilan dengan waktu yang cepat. Terdapat beberapa algoritma yang dapat digunakan dalam penerapan picking order. Penelitian ini bertujuan untuk membandingkan algoritma Simulated Annealing (SA), Harmony Search (HS), metode Shortest Path (SP), dan metode Modified Shortest Path (MSP) dalam penerapan picking order sequence yang optimal. Metode SP dan MSP digunakan karena metode ini mampu mendapatkan hasil yang minimum ketika picking order berjalan secara continuous (tidak kembali ke depo). Hasil dari simulasi didapatkan bahwa algoritma HS mampu menyelesaikan kasus yang dikembangkan dengan hasil yang lebih baik daripada metode SP sebanyak 10 dari 15 kasus. HS juga mampu memiliki hasil yang lebih baik daripada metode MSP sebanyak 10 dari 15 kasus. Algoritma SA hanya mampu menyelesaikan 8 kasus dengan hasil yang lebih baik dari metode SP dan 7 kasus dari metode MSP. Hal ini berarti algoritma HS lebih baik daripada algoritma SA. Algoritma HS mampu lebih baik daripada metode MSP untuk kasus dengan jumlah rak yang sedikit. Metode MSP memiliki hasil yang lebih baik pada jumlah rak yang banyak. Kondisi ini berarti bahwa algoritma HS dapat diterapkan pada kasus dengan jumlah rak yang sedikit, sedangkan metode MSP dapat diterapkan pada kasus dengan jumlah rak yang banyak.",
+  "creators": "SEPTIANDA ANGELICA",
+  "contributors": "Tanti Octavia (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01012102/IND/2018; Septianda Angelica (25414060)",
+  "subjects": "WAREHOUSES; ALGORITHMS; SIMULATED ANNEALING (MATHEMATICS)"
+}

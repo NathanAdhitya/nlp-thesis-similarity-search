@@ -1,0 +1,14 @@
+{
+  "id": "46422",
+  "title": "Implementasi Tesseract OCR untuk pembuatan aplikasi pengenalan nota pada android",
+  "abstract": "Perkembangan jaman yang serba praktis membuat manusia lebih condong mencari jalan cepat untuk melakukan sesuatu. Sama halnya saat ingin mencatat pengeluaran yang sudah dikeluarkan sehari-hari, tentu memakan waktu untuk melakukannya. Untuk meneyelesaikan masalah tersebut, dapat menggunakan aplikasi untuk membaca nota dengan menggunakan android, lalu aplikasi tersebut akan mencatat pengeluaran beserta pengkategorian pengeluarannya. Untuk mencapai hal tersebut, maka perlu melakukan Optical Character Recognition yang dapat dilakukan dengan menggunakan Tesseract-OCR. Hasilnya akan diolah untuk mendapatkan pengeluaran, kategori, beserta nama item-nya. Untuk mendapatkan hasil yang maksimal maka diperlukan beberapa tahap pre-processing seperti image edge detection, perspective transformation, image skewing, morphological transformation pada gambar. Hasil pengujian menunujukkan bahwa hasil OCR dari Tesseract sangat bergantung pada tahap pre-processing yang dilakukkan. Tesseract berperforma buruk pada dotted fonts. Nota yang memiliki banyak garis juga mengurangi performa dari tesseract. HCR menggunakan tesseract berperforma buruk pada tulisan tangan menyambung ataupun tidak rapi.",
+  "creators": "YOEL ANDREAS",
+  "contributors": "Kartika Gunadi (Advisor 1); Anita Nathania Purbowo (Advisor 2); Andreas Handojo (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021964/INF/2020; Yoel Andreas (26416031)",
+  "subjects": "OPTICAL CHARACTER RECOGNITION; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE)"
+}

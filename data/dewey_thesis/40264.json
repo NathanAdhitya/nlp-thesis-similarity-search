@@ -1,0 +1,14 @@
+{
+  "id": "40264",
+  "title": "Sistem parkir berbasis internet of things dengan menggunakan mikrokontroler dan raspberry PI",
+  "abstract": "Teknologi berbasis Internet of Things sudah banyak berkembang dan membantu kebutuhan masyarakat umum. Penerapan IoT pada tempat parkir dapat membantu pengguna kendaraan mengetahui ketersediaan lokasi parkir melalui smartphone. Sistem parkir berbasis IoT ini dibuat dengan menggunakan kontroler, sensor, server, dan Cloud. Kontroler dan sensor akan diletakkan di setiap langit-langit slot parkir yang ada di tempat parkir untuk mendeteksi keberadaan mobil. Server akan menampung hasil deteksi sensor dan menyimpan data tempat parkir di Cloud. Pengujian sistem dilakukan dengan memasang tiga rangkaian sensor dan server di tempat parkir. Pengujian yang dilakukan adalah pengujian waktu pengiriman data dan pengujian keberhasilan pengiriman data tempat parkir menuju Cloud. Berdasarkan hasil pengujian dapat diketahui bahwa rangkaian sensor dan RFID dapat mengirim data tempat parkir tanpa ada kesalahan data. Sistem ini memerlukan maksimal 1 menit untuk memperbarui data tempat parkir. Proses penerimaan data sampai dengan penyimpanan data menuju cloud memerlukan waktu 12 detik dan proses pengambilan data kondisi parkir dari cloud menuju smartphone memerlukan waktu 30 detik. Tingkat keakuratan proses pengiriman data tempat parkir adalah 100% dengan interval update data adalah maksimal 1 menit.",
+  "creators": "ALBERTUS EGA DWIPUTRA",
+  "contributors": "Handry Khoswanto (Advisor 1); Resmana Lim (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010962/ELK/2017; Albertus Ega Dwiputra (23413026)",
+  "subjects": "MICROCONTROLLERS; INTERNET (COMPUTER NETWORK); ARDUINO (PROGRAMMABLE CONTROLLER)"
+}

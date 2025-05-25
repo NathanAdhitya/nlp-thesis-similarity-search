@@ -1,0 +1,14 @@
+{
+  "id": "29796",
+  "title": "Perancangan dan pembuatan aplikasi data mining multidimensional market basket analysis menggunakan algoritma FP-Tree untuk toko X",
+  "abstract": "Toko X adalah sebuah toko retail yang menggunakan sistem komputerisasi dalam menjalankan proses bisnisnya. Dalam menjalankan bisnisnya, Toko X mengalami kendala dalam menentukan peletakan barang di dalam toko, membuat promo bundling untuk meningkatkan penjualannya, serta mengetahui barang-barang apa saja yang laku terjual pada periode waktu tertentu. Dengan banyaknya data yang harus dianalisis maka dibutuhkan suatu sistem pendukung yang melibatkan data transaksi penjualan, data barang, data departemen, dan data kategori Toko X. Berdasarkan permasalahan yang dihadapi, maka dilakukan pembuatan perangkat lunak berbasis data mining. Data mining merupakan teknik menggali data berskala besar untuk melakukan ektraksi informasi di dalamnya. Aplikasi dibuat dengan menggunakan metode market basket analysis di mana metode tersebut akan menganalisa barang berdasarkan level barang pada dimensi barang dan terhadap dimensi waktu pada waktu transaksi penjualan. Software dibuat dengan menggunakan algoritma FP-Tree dan menggunakan bahasa pemograman java dan Firebird database. Dengan menggunakan output dari software, berupa association rule dan grafik, pengambil keputusan dapat mengetahui relasi antar barang untuk menentukan peletakan barang dan promo bundling, serta mengetahui barang apa yang sering terjual pada suatu periode waktu tertentu. Berdasarkan pengujian, aplikasi dapat berjalan dengan baik, Hasil kuisioner dari user menujukkan 88% informasi yang diberikan akurat, 80% desain tampilan, 88% kemudahan penggunaan aplikasi, 84% penggunaan bahasa dalam menyampaikan informasi, dan 88% bagi petunjuk yang diberikan dalam membantu user menggunakan aplikasi.",
+  "creators": "TIMOTIUS JAYADI PRANOTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Silvia Rostianingsih (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021318/INF/2014; Timotius Jayadi Pranoto (26410016)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATA MINING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "29143",
+  "title": "Perancangan sistem informasi enterprise architecture di PT ABC",
+  "abstract": "PT ABC merupakan perusahaan yang bergerak di bidang food industry dan memiliki tiga unit bisnis yaitu X Swalayan, Restoran Y dan Z Bakery. Untuk mendukung proses bisnisnya, saat ini PT ABC telah memiliki sistem informasi yang menangani ketiga unit bisnis yang ada. Sistem Informasi di PT ABC memiliki beberapa kekurangan karena sistem informasinya belum terintegrasi secara keseluruhan. Untuk X Swalayan proses pembelian hingga penjualannya menggunakan sistem informasi yang ada, namun untuk Restoran Y dan Z Bakery lebih banyak menggunakan sistem pencatatan manual. Oleh karena itu, pada skripsi ini, dilakukan analisa dan pembuatan desain sistem informasi enterprise architecture bagi perusahaan. Kerangka kerja yang digunakan yaitu Enterprise Architecture Planning. Proses diawali dengan melakukan analisa model bisnis dan strategi bisnis perusahaan. Kemudian melihat kondisi information technology di perusahaan saat ini, permasalahan yang dihadapi dan kebutuhan information technology di masa depan. Setelah itu dilakukan pembuatan desain arsitektur data, arsitektur aplikasi dan arsitektur teknologi yang sesuai dengan tujuan, strategi bisnis dan proses bisnis perusahaan. Arsitektur Data yang dihasilkan untuk perusahaan terdiri dari beberapa sub sistem yaitu Sub Sistem Pembelian, Sub Sistem Gudang dan Distribusi, Sub Sistem Penjualan, Sub Sistem Accounting and Finance, Sub Sistem Personalia, Sub Sistem Restoran, Sub Sistem Bakery. Arsitektur Aplikasi terdiri dari beberapa aplikasi utama dan aplikasi pendukung. Aplikasi utama terdiri dari Sistem Informasi Pembelian, Sistem Informasi Gudang dan Distribusi, Sistem Informasi Penjualan Swalayan, Sistem Informasi Accounting and Finance, Sistem Informasi Personalia, Sistem Informasi Restoran dan Sistem Informasi Bakery. Aplikasi-aplikasi tersebut merupakan aplikasi berbasis web, kecuali aplikasi Sistem Informasi Penjualan yang menggunakan aplikasi berbasis Visual Basic dengan Embedded Database. Aplikasi yang mendukung aplikasi-aplikasi tersebut adalah aplikasi Data Provider di mana aplikasi tersebut membantu aplikasi utama dalam berkomunikasi untuk melakukan permintaan data antar aplikasi. Arsitektur Tekonologi menggunakan Client/Server Architecture Pattern dan Service Oriented Architecture.",
+  "creators": "ESTER SETIAWATI",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Yulia (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021259/INF/2013; Ester Setiawati (26409071)",
+  "subjects": "INFORMATION SYSTEM; INFORMATION TECHNOLOGY; DATABASE MANAGEMENT"
+}

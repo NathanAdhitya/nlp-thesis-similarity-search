@@ -1,0 +1,14 @@
+{
+  "id": "30244",
+  "title": "Pengujian elemen cangkang yang terdapat dalam program komersial dengan analisis geometri linier dan nonlinier",
+  "abstract": "Penelitian ini bertujuan menguji keakuratan dan konvergensi elemen shell dalam analisa linier dan nonlinier geometri dengan program komersial dengan berbagai benchmark problem linier dan nonlinier geometri yang biasa di pakai oleh para pengembang elemen shell. Benchmark problems tersebut dimodelkan dengan menggunakan elemen shell S4, S4R, S4R5, S8R dan S8R5 yang berdasarkan teori cangkang tipis (thin shell theory) dan teori cangkang tebal (thick shell theory). Output yang diukur dalam pengujian ini adalah displacement, tegangan permukaan dan gaya dalam yang terjadi. Hasil penelitian dengan analisa linier secara umum menunjukkan bahwa elemen cangkang S4 dan S8R5 menghasilkan nilai yang mendekati solusi referensi dibandingkan elemen cangkang yang lain. Sedangkan hasil penelitian dengan analisa non linier secara umum menunjukkan bahwa semua elemen cangkang menghasilkan nilai yang mendekati solusi referensi, tetapi elemen cangkang S4 dan S4R yang paling mudah mencapai konvergensi. Hal ini merupakan suatu usulan untuk melakukan pengetesan menggunakan program lain dalam penelitian ini, untuk mendapatkan hasil yang lebih akurat mengenai kinerja elemen.",
+  "creators": "ANDRIANS JUNIAWAN; MICHAEL ANDRIAN",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Pamuda Pudjisuryadi (Advisor 2); Ir. Soehendro Ratnawidjaja, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11011950/SIP/2014; Andrians Juniawan (21410075), Michael Andrian (21410118)",
+  "subjects": "CONSTRUCTION INDUSTRY-MANAGEMENT"
+}

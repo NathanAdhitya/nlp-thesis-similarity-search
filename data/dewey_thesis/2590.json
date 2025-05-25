@@ -1,0 +1,14 @@
+{
+  "id": "2590",
+  "title": "Perancangan dan pembuatan sistem berbasis komputer untuk English Proficiency Test pada jurusan Sastra Inggris Universitas Kristen Petra",
+  "abstract": "Dalam mengembangkan kemampuan berbahasa Inggris, Universitas Kristen Petra khususnya Jurusan Sastra Inggris telah membuat sebuah tes yang dapat mengukur tingkat kemampuan berbahasa Inggris para mahasiswanya. Tes ini dikenal dengan nama Tes keahlian berbahasa Inggris. Selama ini tes yang dilakukan masih menggunakan lembar soal dan lembar jawaban, dan dalam hal penilaian, hasil tes ini sangat bergantung pada kesibukan departemen yang lain. Program ini dikembangkan dengan menggunakan sistem client-server yang diimplementasikan pada Borland Delphi 7 untuk pembuatan interface dan Microsoft SQL Server 2000 untuk pembuatan database. Sistem pemberian soal menggunakan sistem acak berdasarkan kemampuan setiap peserta, dan penilaian setiap soal diukur dari tingkat kesulitan soal yang dapat dilalui. Dari hasil pengujian, setiap peserta dapat mengetahui jumlah nilai yang dicapainya beserta dengan analisa kelemahan terhadap setiap section yang diuji. Selain nilai dan hasil analisa, peserta juga dapat melihat grafik penilaian terhadap setiap soal yang dikerjakan. Bagi administrator, dengan adanya peralihan ke sistem yang baru, waktu yang dibutuhkan dalam mempersiapkan sebuah tes akan lebih sedikit bila dibandingkan dengan sistem yang lama, karena soal dapat dimasukkan setiap saat.",
+  "creators": "JEFFREY STEVON TUPAMAHU",
+  "contributors": "Rolly Intan (Advisor 1); Liliana (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000364/INF/2005; Jeffrey S. Tupamahu (26400153)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

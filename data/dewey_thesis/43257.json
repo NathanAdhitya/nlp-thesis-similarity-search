@@ -1,0 +1,14 @@
+{
+  "id": "43257",
+  "title": "Pengenalan aksara Jawa dengan menggunakan metode convolutional neural Network",
+  "abstract": "Skripsi ini bertujuan untuk melatih komputer untuk dapat mengenali Aksara Jawa. Sebelum skripsi ini, telah ada beberapa skripsi yang bertujuan serupa dengan metode pengenalan lain. Pada skripsi ini dicoba dengan menggunakan metode Convolutional Neural Network (CNN). Proses untuk mengenali Aksara Jawa memiliki tingkat kesulitan sendiri dalam hal mengumpulkan data-data yang akan digunakan untuk proses pelatihan pengenalan Aksara Jawa. Secara garis besar, proses pengenalan huruf Jawa dapat dibagi menjadi 3 bagian, yaitu : segmentasi gambar dari dokumen beraksara Jawa, ekstraksi fitur -fitur dari setiap aksara Jawa, dan pengenalan aksara Jawa dari fitur-fitur yang telah di ekstraksi. Gambar yang telah disegmentasi akan menjadi input untuk di fitur ekstraksi dan diklasifikasi. Setelah gambar telah disegmentasi, gambar tersebut akan di-training-kan menggunakan CNN model tertentu yang telah dibuat. Proses fitur ekstraksi pada deep learning (CNN) tergabung di dalam proses convolution yang dilakukan. Aplikasi pengenalan aksara Jawa ini dibuat menggunakan bahasa pemrograman Python. Hasil pengujian dengan menggunakan metode Convolutional Neural Network (CNN) terhadap data testing Aksara Jawa yang telah disiapkan mencapai hasil akurasi 95,04%.",
+  "creators": "CHRISTOPHER ALBERT LORENTIUS",
+  "contributors": "Rudy Adipranata (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021851/INF/2019; Christopher Albert Lorentius (26415027)",
+  "subjects": "COMPUTER INTERFACES; NEURAL NETWORKS; PROGRAMMING (COMPUTERS)"
+}

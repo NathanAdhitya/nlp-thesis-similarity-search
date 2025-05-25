@@ -1,0 +1,14 @@
+{
+  "id": "30981",
+  "title": "Penjadwalan pada permasalahan job shop dengan algoritma disjunctive programming (studi kasus di UD Pari Jaya Makmur)",
+  "abstract": "Jadwal yang baik dan teratur dapat meningkatkan produktivitas dari suatu proses produksi. Pada Tugas Akhir ini dua algoritma, yaitu Algoritma Disjunctive Programming dan Algoritma Rescheduling Procedure, akan dibandingkan dengan meminimumkan makespan untuk studi kasus di UD Pari Jaya Makmur. Hasil analisa data yang telah dilakukan menunjukkan bahwa penjadwalan dengan Algoritma Rescheduling Procedure menghasilkan makespan yang lebih minimum dengan waktu 260934,097 detik. Penyebab perbedaan waktu makespan dari kedua algoritma adalah waktu idle yang dialami. Waktu idle yang dialami pada jadwal dengan Algoritma Rescheduling Procedure terdapat pada mesin 3 dengan total waktu idle sebesar 13451,06 detik, sedangkan pada jadwal dengan Algoritma Disjunctive Programming total waktu idle sebesar 16701,556 detik pada mesin 2.",
+  "creators": "GARRY TJONDROKUSUMO",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Tanti Octavia (Advisor 2); Herri Christian Palit (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011730/IND/2014; Garry Tjondrokusumo (25410069)",
+  "subjects": "PRODUCTION MANAGEMENT; PRODUCTION SCHEDULING"
+}

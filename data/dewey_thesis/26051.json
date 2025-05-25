@@ -1,0 +1,14 @@
+{
+  "id": "26051",
+  "title": "Perencanaan dan pembuatan sistem alat bantu komunikasi penderita tunawicara dengan mikroprosesor Z-80",
+  "abstract": "Sintesa suara manusia merupakan dasar dari pembuatan berbagai macam peralatan yang dapat menghasilkan suara manusia. Dan dengan adanya kemampuan untuk menghasilkan suara manusia ini, maka banyak dibuat sistem peralatan yang dapat membantu pekerjaan manusia. Salah satu sistem peralatan yang dibuat adalah untuk membantu komunikasi penderita tunawicara. Dibuatnya sistem peralatan ini, ditunjang dengan adanya komponen rangkaian terpadu (IC) sintesa suara (speech synthesizer). Dan juga kemampuan mikroprosesor yang makin lama makin meningkat. Sistem peralatan untuk membantu komunikasi penderita tunawicara ini, dapat mengucapkan huruf dan kata apa saja. sehingga dengan demikian sistem peralatan ini diharapkan dapat digunakan sebagai pembantu komunikasi bagi penderita tunawicara. Dalam pembuatan sistem peralatan ini, suara yang dihasilkan dalam bahasa Indonesia. Sedangkan IC Speech Synthesizer yang digunakan adalah IC yang menghasilkan suara berdasarkan fonem dalam bahasa Inggris. Sehingga agar dapat menghasilkan suara fonem dalam bahasa Indonesia harus diadakan penyesuaian suara fonem. Setelah didapatkan suara fonem yang sesuai dengan suara fonem bahasa Indonesia, maka dibuat perangkat lunak yang menggunakan bahasa Assembly Z-80. Dengan adanya perangkat lunak ini, sistem peralatan bisa dioperasikan.",
+  "creators": "RAHMA T SUSIANDI",
+  "contributors": "Caroline Chan (Advisor 2); MOCHAMAD HEROE (Examination Committee 1); NAWANTO WIBOWO (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/003/0062; Rahmat Susiandi (483065)",
+  "subjects": "COMMUNICATION DEVICES FOR THE DISABLED"
+}

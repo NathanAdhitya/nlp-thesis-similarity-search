@@ -1,0 +1,14 @@
+{
+  "id": "8010",
+  "title": "Perancangan dan pembuatan aplikasi penulisan notasi balok dari musik polifonik sederhana dengan metode blackboard system",
+  "abstract": "Perkembangan dunia teknologi akhir-akhir sangat pesat, terutama dalam bidang artificial intelligent. Perangkat lunak yang dibuat dalam tugas akhir ini merupakan salah satu bagian dari aplikasi artificial intelligent yang mereplikasikan organ pendengaran manusia untuk dapat mengenali nada lagu berdasarkan lagu yang direkam. Perangkat lunak ini dibuat dengan menggunakan Blackboard System. Blackboard system melakukan proses terhadap hasil analisa fourier, yang dapat menentukan apakah suatu nada benar-benar ada atau tidak. Hasil dari blackboard system tersebut berupa nada-nada beserta dengan waktu onset-nya, sehingga dapat dituliskan kembali dalam bentuk notasi balok. Pemrograman perangkat lunak menggunakan prinsip pemrograman berorientasi objek (OOP) dengan menggunakan bahasa pemrograman C++, kompiler Microsoft Visual C++ 6.0 ? Perangkat lunak ini diujikan terhadap 10 lagu, dengan komposisi 5 lagu ber-irama 4/4, 5 lagu ber-irama 3/4, 5 lagu bertipe monofonik dan 5 lagu bertipe polifonik. Hasil pengujian menunjukkan tingkat akurasi perangkat lunak ini dalam mengenali nada-nada yang ada dalam lagu berkisar antara 56,25% sampai dengan 100% dengan rata-rata tingkat keberhasilan untuk keseluruhan pengujian adalah 82,29%. Tingkat akurasi tersebut dipengaruhi oleh nilai parameter-parameter yang digunakan dalam analisa fourier, penggunaan blackboard system untuk proses selanjutnya, serta penggunaan range nada yang akan dikenali.",
+  "creators": "DWI BUDIMAN",
+  "contributors": "Kartika Gunadi (Advisor 1); Resmana Lim (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000515/INF/2006; Dwi Budiman (26402042)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

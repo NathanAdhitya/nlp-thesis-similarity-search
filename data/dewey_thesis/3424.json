@@ -1,0 +1,14 @@
+{
+  "id": "3424",
+  "title": "Analisa perbandingan algoritma kombinasi genetic & tabu search dengan metode Ant Colony pada permasalahan penjadwalan flowshop",
+  "abstract": "Tugas Akhir ini bertujuan ingin membandingkan performa antara Algoritma kombinasi Genetic & Tabu Search dengan Algoritma Ant Colony, Tugas Akhir karya Ong Lina Pranata. Data-data yang digunakan berasal dari Tugas Akhir karya Ong Lina Pranata. Hasil demand program Algoritma Ant Colony diinputkan dalam program Algoritma kombinasi Genetic & Tabu Search. Hasil makespan dari program Ong Lina Pranata dibandingkan dengan hasil makespan dari program Algoritma kombinasi Genetic & Tabu Search. Algoritma kombinasi Genetic & Tabu Search diimplementasikan dalam bahasa pemrograman Visual Basic dengan kombinasi parameter berdasarkan kriteria makespan. Kombinasi parameter yang digunakan dalam Algoritma kombinasi Genetic & Tabu Search adalah 50 iterasi, tabu list = 9, dan probabilitas mutasi sebesar 0,3. Penjadwalan produksi dengan penerapan Algoritma kombinasi Genetic & Tabu Search dapat meminimumkan makespan sebesar 1,3696%.",
+  "creators": "FENA YUANITA",
+  "contributors": "Tanti Octavia (Advisor 1); Tessa Vanina Soetanto (Advisor 2); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011147/IND/2006; Fena Yuanita (25402131)",
+  "subjects": "PRODUCTION SCHEDULING"
+}

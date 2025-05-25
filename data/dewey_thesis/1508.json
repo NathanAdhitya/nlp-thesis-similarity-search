@@ -1,0 +1,14 @@
+{
+  "id": "1508",
+  "title": "Aplikasi GPS untuk melacak lokasi mobil via SMS",
+  "abstract": "Dengan pesatnya perkembangan teknologi komunikasi, diperlukan suatu alat komunikasi yang sangat fungsional yang dapat digunakan untuk komunikasi sekaligus juga sebagai alat untuk melacak lokasi. Tetapi handphone yang beredar di Indonesia masih tidak mempunyai fungsi tersebut. Karena itu, diperlukan suatu software yang dapat menggabungkan kedua fungsi tersebut. Software tersebut akan menggabungkan fungsi dari Global Position Systems (GPS) sebagai alat untuk mengetahui lokasi dan fungsi handphone sebagai alat komunikasi, selanjutnya diaplikasikan untuk melacak lokasi mobil via SMS. Software dibangun pada notebook dengan menggunakan Borland Delphi 6.0 yang dihubungkan secara serial dengan GPS dan sebuah handphone Nokia 6110, juga dilengkapi dengan peta (yang dapat dilihat pada monitor) dengan icon yang menunjukkan lokasi mobil. GPS memberikan data lokasi mobil dengan format $GPRMC kepada sistem, yang kemudian diproses dan dikirimkan kepada handphone receiver melalui handphone sistem berupa SMS response yang isinya data nama jalan lokasi mobil. Handphone receiver juga dapat memberikan perintah kepada sistem dengan mengirimkan SMS request, kemudian sistem akan merespon sesuai dengan format SMS request-nya. Hasil pengujian software pada beberapa posisi di Surabaya menunjukkan sistem dapat memberikan data lokasi mobil secara akurat dan mengirimkan informasi tersebut kepada handphone receiver dalam bentuk SMS. Selain itu, sistem juga dapat merespon dengan baik SMS request yang dikirimkan oleh handphone receiver. Adanya ketergantungan sistem pada operator GSM, menyebabkan adanya kemungkinan terjadi kegagalan dalam pengiriman dan penerimaan SMS.",
+  "creators": "FENNY HENDRAWATI",
+  "contributors": "Resmana Lim (Advisor 1); Andreas Handojo (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0087/INF/2003; Fenny Hendrawati (26499041)",
+  "subjects": "DIGITAL COMMUNICATIONS; DATA TRANSMISSION SYSTEMS"
+}

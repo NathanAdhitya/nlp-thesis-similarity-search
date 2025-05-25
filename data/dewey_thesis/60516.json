@@ -1,0 +1,14 @@
+{
+  "id": "60516",
+  "title": "Prediksi genre dan rating penonton terhadap sinopsis film menggunakan Bidirectional Encoder Representations from Transformers (BERT)",
+  "abstract": "Proses penulisan dan pengembangan sinopsis film membutuhkan evaluasi yang mendalam agar dapat sesuai dengan minat pasar. Penelitian ini bertujuan untuk membandingkan akurasi dua model kecerdasan buatan, yaitu IndoBERT dan Indonesian RoBERTa, dalam memprediksi genre dan rating penonton terhadap sinopsis film. Model ini diimplementasikan dalam sebuah aplikasi web yang dikembangkan menggunakan bahasa pemrograman Python dan framework Flask. Dataset yang digunakan dalam penelitian ini terdiri dari 1.824 sinopsis film berbahasa Indonesia yang diambil dari API The Movie Database (TMDb) dan Kaggle. Setiap film memiliki atribut seperti judul, rating, genre, dan sinopsis. Data diolah menggunakan Auto Tokenizer dari huggingface. Hasil pengujian menunjukkan bahwa kedua model mampu memprediksi genre dan rating dengan akurasi yang tinggi. Untuk prediksi rating, model IndoBERT menunjukkan sedikit keunggulan dengan rata-rata perbedaan sebesar 0.4 dari rating asli. Untuk prediksi genre, kedua model menunjukkan hasil yang hampir identik dengan genre sebenarnya. Aplikasi ini diuji oleh produser, sutradara, dan penulis naskah film indie melalui survei yang menunjukkan bahwa mereka menemukan aplikasi ini bermanfaat dan akurat dalam membantu evaluasi sinopsis film. Dengan nilai rata-rata 4.333 untuk akurasi prediksi genre dan 4.5 untuk prediksi rating menggunakan model IndoBERT, aplikasi ini terbukti dapat memberikan rekomendasi yang relevan dan berguna bagi para profesional di industri film.",
+  "creators": "JOSHUA YORDANA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Liliana (Examination Committee 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022508/INF/2024; Joshua Yordana (C14200020)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--DATA PROCESSING; MOTION PICTURES--REVIEWS; WEB APPLICATIONS"
+}

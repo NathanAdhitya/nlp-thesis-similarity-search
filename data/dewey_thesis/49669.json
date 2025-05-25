@@ -1,0 +1,14 @@
+{
+  "id": "49669",
+  "title": "Desain dan simulasi chiller sequencing control dengan metode chilled water return temperature based (T-Based) control",
+  "abstract": "Chiller sequencing control adalah sistem kontrol yang digunakan pada sebuah multiple chiller-plant untuk mengontrol kapan sebuah chiller plant mati atau menyala berdasarkan beban pendinginan instan yang ditanggung oleh multiple- chiller-plant tersebut. Pada tugas akhir ini, akan dibahas mengenai pembuatan program chiller sequencing control dengan metode chilled water return temperature (T-Based) control beserta HMI-nya dengan menggunakan kontroler OPEN EMS 600 I32 pada PT. XYZ yang memiliki sebuah multiple chiller plant yang terdiri dari 4 chiller plant. Selain itu, akan dibahas juga pembuatan simulator chiller plant dengan Arduino Mega 2560 untuk mewakili perilaku chiller plant yang nantinya dapat berkomunikasi dengan kontroler OPEN EMS 600 I32 melalui komunikasi Modbus RTU. Berdasarkan hasil pengujian, program chiller sequencing control berhasil mengontrol 4 buah chiller plant dengan metode chilled water return temperature (t-based) control , di mana urutan sequencing tiap komponen-komponen utamanya (chiller, chilled water pump, condenser water pump, dan cooling tower) berdasarkan running time per 8 jam dari tiap-tiap komponen tersebut, HMI mampu menampilkan keadaan chiller plant dengan benar, dan Arduino mega 2560 mampu mengirimkan data dengan benar ke kontroler OPEN EMS 600 I32 melalui komunikasi Modbus RTU.",
+  "creators": "ALEXANDER IRVAN KAWARE",
+  "contributors": "Handry Khoswanto (Advisor 1); Roche Alimin (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011012/ELK/2021; Alexander Irvan Kaware (C11170011)",
+  "subjects": "PROGRAMMABLE CONTROLLERS--PROGRAMMING"
+}

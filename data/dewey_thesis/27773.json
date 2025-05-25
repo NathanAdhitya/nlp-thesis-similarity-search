@@ -1,0 +1,14 @@
+{
+  "id": "27773",
+  "title": "Perencanaan dan pembuatan dynamic debugging tool 8051/8031 dengan bantuan IBM-PC/XT",
+  "abstract": "Dalam perencanaan aplikasi sistem dengan basis mikrokontroller sering terjadi kesalahan-kesalahan pada program yang disimpan dalam ROM/EPROM yang menyebabkan sistem tidak bisa beroperasi dengan benar. Walaupun data yang sudah diisikan ke dalam EPROM dapat dihapus lagi oleh user, tetapi proses yang berulang-ulang ini sangat tidak efisien karena membutuhkan waktu yang tidak sedikit disamping dapat memperpendek usia komponen itu sendiri karena adanya keterbatasan hapus tulis pada EPROM. Untuk mengatasi permasalahan ini diperlukan suatu sistem yang mampu melakukan proses debugging terhadap program yang akan mengendalikan hardware rangkaian antara lain harus bisa meload dan menjalankan program, melakukan disasembler, melakukan trace, berhenti pada breakpoint sambil mengamati status dari mikrokontroller tersebut. Hal ini jugalah yang menjadi sasaran pembuatan dari Dynamic Debugging Tool 8051/8031 (DDT-51) Selama melakukan proses debugging kedudukan Eprom eksternal pada sistem target 8031 diganti dengan RAM statis yang kompatibel sehingga tidak perlu terjadi lagi proses hapus tulis yang berulang-ulang seperti pada EPROM setiap kali programnya berubah. Program dievaluasi dengan cara menginterupsi mikrokontroller 8031 melalui hardware DDT-51 untuk menghentikan eksekusi program pada instruksi tertentu. Setiap kali diinterupsi,interrupt service routine akan menangani fungsi-fungsi yang dikehendaki IBM-PC dengan membaca debug RAM (Ram statis biasa) yang disediakan pada interface DDT-51. Juga karena register-register dan internal RAM 8031 tidak bisa diakses secara langsung melalui interface DDT-51, oleh program assembly tersebut dikopi dulu ke debug RAM sebelum bisa dibaca program PC. Agar interaksi antara IBM-PC dengan DDT-51 dapat berlangsung cepat maka DDT-51 dihubungkan ke bidirectional Parallel port yang akan disediakan pada slot IBM-PC. Dalam segala keterbatasannya,dengan kemampuannya untuk membaca maupun mengubah isi register, melakukan single-step ataupun meletakkan breakpoint pada bagian tertentu dari program sambil mengevaluasi status dari sistem, DDT-51 ini akan sangat membantu sekali dalam mengedit dan mendebug software yang akan mengendalikan target sistem 8031 tersebut.",
+  "creators": "Rustam Effendi",
+  "contributors": "SUPENO DJANALI (Advisor 1); SOETIKNO (Examination Committee 1); Yohanes Trilaksono Dibyo S. (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 90/E/EL/013/0053; Rustam Effendi (485023)",
+  "subjects": "ELECTRONIC DIGITAL COMPUTERS; MICROCONTROLLERS"
+}

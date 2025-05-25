@@ -1,0 +1,14 @@
+{
+  "id": "46344",
+  "title": "Implementasi Enkripsi AES Cipher dan Discrete Wavelet Transform dalam metode Steganografi",
+  "abstract": "Ilmu steganografi mengarah pada cabang ilmu komputer tentang penyembunyian informasi data dalam media yang tidak bisa dengan mudah dapat dideteksi. Terdapat berbagai macam jenis media steganografi, tetapi yang paling populer adalah steganografi gambar. Seiring berkembangnya ilmu steganalysis, semakin diperlukan juga cara untuk mengamankan data yang terkandung. Dengan steganalysis kita dapat dengan mudah mendeteksi adanya data yang tersembunyi dalam sebuah media. Oleh karena itu, penelitian ini berusaha untuk menjawab kebutuhan terhadap pengamanan data tersebut. Program berupa aplikasi yang berguna untuk mengamankan data yang disembunyikan. Fungsi dari program ini adalah untuk mengenkripsi data yang akan disembunyikan menggunakan metode AES cipher. Dengan mengubah data yang tersembunyi menjadi ciphertext, meskipun data yang tersembunyi dapat diambil bentuknya masih berupa teks yang tidak dapat dibaca tanpa menggunakan kunci yang digunakan untuk mengenkripsi. Proses ini melibatkan data yang akan disembunyikan diubah terlebih dahulu menjadi ciphertext dan akhirnya di steganografi menggunakan least significant bit. Tidak hanya itu, program juga akan melakukan kompresi terhadap stego image. Dari hasil uji coba enkripsi, steganografi dan kompresi yang dilakukan, data gambar yang disembunyikan dapat diambil kembali dengan menggunakan kunci yang digunakan saat enkripsi. Data yang disembunyikan tidak mengalami kehilangan informasi karena proses yang dilakukan lossless. Data yang disembunyikan telah dibandingkan dengan data hasil ekstraksi dan menghasilkan nilai PSNR tak terbatas.",
+  "creators": "DAVID CHRIST ANTONO",
+  "contributors": "Henry Navianus Palit (Advisor 1); Rudy Adipranata (Advisor 2); Andreas Handojo (Examination Committee 1); Leo Willyanto Santoso (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021962/INF/2020; David Christ Antono (26414046)",
+  "subjects": "COMPUTER PROGRAMMING; CRYPTOGRAPHY; AES WORD PROCESSORS"
+}

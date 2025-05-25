@@ -1,0 +1,14 @@
+{
+  "id": "17592",
+  "title": "Pengaturan sudut reflektor ganda pada solar cell",
+  "abstract": "Dengan menggunakan kaca reflektor, cahaya matahari dipantulkan agar jatuh pada permukaan solar cell. Hal ini bertujuan agar menambah intensitas cahaya matahari yang jatuh pada permukaan solar cell yang diikuti dengan meningkatnya effisiensi solar cell tersebut. Karena posisi matahari selalu berubah-ubah baik pada sisi tumur-barat (pagi-sore) maupun utara-selatan (juni-maret), maka sudut cermin refleckor juga harus disesuaikan dengan perubahan ini. Alat pengaturan sudut reflektor ganda pada solar cell membahas sistem mekanik untuk mengatur sudut reflektor agar dapat mengikuti/menyesuaikan gerak matahari pada perubahan posisi utara-selatan, agar sinar matahari dapat dipantulkan tepat di atas solar cell. Input pada alat ini adalah besar derajat yang dikirim melalui komunikasi serial. Alat ini dikontrol menggunakan micro controller ATMega8 dan 2 buah motor sebagai penggeraknya yaitu motor wiper dengan tegangan 12VDC. Frekuensi kerja PWM yang digunakan 122Hz dengan dutycycle antara 15.65%-58.71%. Dalam operasi normal kedua motor wiper membutuhkan daya 87,21 Watt. Terlihat bahwa alat ini dapat menggerakkan kaca reflektor sesuai keinginan. Alat ini mendeteksi sudut menggunakan rotary encoder dengan sekala 0-45 untuk sudut 0 o -90 o . Pengaturan derajat kaca reflektor memiliki ketelitian sebesar 2?.",
+  "creators": "RONAL SARI OSI",
+  "contributors": "Murtiyanto Santoso (Advisor 1); Handry Khoswanto (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010911/ELK/2010; Ronal Sari Osi (23405037)",
+  "subjects": "SOLAR CELLS"
+}

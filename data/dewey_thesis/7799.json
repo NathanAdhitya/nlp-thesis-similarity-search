@@ -1,0 +1,14 @@
+{
+  "id": "7799",
+  "title": "Perancangan dan pembuatan perangkat surround dengan konfigurasi hall surround",
+  "abstract": "Produksi rekaman sekarang ini banyak yang mempunyai kualitassurround sound. Sebuah efek suara yang hanya dapat dinikmati secara maksimalbila kita menggunakan tata suara surround.Tujuan dari pembuatan pengolah tata suara surround ini adalah untukmengembalikan suara surround yang terdapat pada rekaman stereo. Efek suaratiga dimensi surround sound dapat diperoleh dengan mencampur sinyal kiri dankanan serta memberikan sedikit delay (perlambatan) sinyal kemudian diumpankanke speaker yang letaknya dibelakang pendengar. Untuk membuat perlambatansinyal pada decoder digunakan IC MN3008 dengan IC MN3101 sebagai clockpemicu setting delay-nya sedangkan untuk mencampur sinyal kiri dan kanandigunakan rangkaian non-inverting adder dua input.Sistem hall surround yang telah dibuat memiliki kemampuan untukmendelay sinyal input dengan baik sampai frekuensi 10 kHz pada frekuensi clock34.5 kHz.",
+  "creators": "ANTONIUS DJUNAEDI",
+  "contributors": "YOHANES T. D. S (Advisor 1); Handry Khoswanto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010742/ELK/2005; Antonius Djunaedi (23401054)",
+  "subjects": "SOUND-RECORDING AND REPRODUCING; LOUDSPEAKERS"
+}

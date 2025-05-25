@@ -1,0 +1,14 @@
+{
+  "id": "51694",
+  "title": "Implementasi locally adaptive k-nearest neighbor algorithm based on discrimination class (DC-LAKNN) pada kasus deteksi fake account Instagram",
+  "abstract": "Instagram merupakan salah satu media sosial yang memiliki banyak pengguna. Karena kemudahan dalam membuat akun, banyak orang membuat aku palsu untuk stalk, percobaan spam, modus penipuan, pencurian foto, password bahkan serangan virus. Oleh karena itu, pengguna perlu waspada terhadap follower yang tidak dikenal. Dengan mendeteksi apakah akun tersebut asli atau palsu dapat membantu pengguna untuk berhati-hati menerima follower yang tidak dikenal. Selain itu pengguna dapat melaporkan pada pihak instagram sehingga akun tersebut dapat dinonaktifkan. Pada skripsi ini, dirancang suatu aplikasi berbasis website yang dapat mendeteksi kemungkinan suatu akun Instagram merupakan akun asli atau palsu. Deteksi tersebut dilakukan dengan menggunakan metode klasifikasi Locally Adaptive K-Nearest Neighbor algorithm based on Discrimination Class (DC-LAKNN) yang merupakan algoritma adaptif dari algoritma K-Nearest Neighbor. Algoritma ini memperhatikan kelas diskriminasi sebagai dasar untuk klasifikasi. Atribut yang digunakan dalam klasifikasi berupa user follower count, following count, biography length, media count, username digit count, username length, user has profile picture, user is private yang didapat dari akun yang akan dideteksi. Hasil akhirnya adalah dengan algoritma Locally Adaptive K-Nearest Neighbor algorithm based on Discrimination Class (DC-LAKNN) dapat digunakan untuk klasifikasi akun Instagram dengan hasil akurasi yang didapatkan sebanyak 96.23%.",
+  "creators": "YOSEFANI KURNIAWAN",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Silvia Rostianingsih (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022115/INF/2022; Yosefani Kurniawan (C14170154)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT--COMPUTER PROGRAMS; INSTAGRAM (ELECTRONIC RESOURCE)"
+}

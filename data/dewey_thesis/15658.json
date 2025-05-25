@@ -1,0 +1,14 @@
+{
+  "id": "15658",
+  "title": "Otomatisasi penyampaian pesan kepada pelanggan hotel melalui telepon manggunakan sound card pada PC",
+  "abstract": "Automation becomes more significant on increasing effectiveness and efficiency. Therefore, to provide better facilities, hotels take a turn for automation. For that reason, an automation system on giving service by hotels for receiving and sending a certain message in a certain moment to the guest, has been designed. The guest will be in charge with the Interactive Voice Response system through the telephone line to receive messages. The recorded voice messages will guide the guest to enter necessary data to form the message such as room number, date, time and kind of message. The automation system is designed in Delphi 3.0 using Sound Card. The guidance voice is pre-recorded messages. The services provided are Wake Up Call and Personal Reminder. The hardware involved in the system are on/off hook, ring detector, tone detector and DTMF decoder, while the software are DTMF encoder and the controller system. The conclusion shows that system enables computer functions as the receiver and message deliverer automatically without operator interference. Unfortunately, the telephone voice recording has a noise that is caused by the sidetone effect of the line. Furthermore, this interactive voice system can be equipped with voice recognition and speech synthesizer instead of using stored speech, as done in this final project.",
+  "creators": "KARDY ANTOLIS",
+  "contributors": "Resmana Lim (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/KOM/017/056; Kardy Antolis (23494021)",
+  "subjects": "TELEPHONE-SOUND CARD SYSTEMS; INTERFACE CIRCUITS"
+}

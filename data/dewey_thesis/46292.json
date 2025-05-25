@@ -1,0 +1,14 @@
+{
+  "id": "46292",
+  "title": "Pengenalan gambar botol plastik dan kaleng minuman menggunakan metode Convolutional Neural Network",
+  "abstract": "Sampah botol plastik dan kaleng merupakan sampah anorganik yang tidak dapat diuraikan oleh bakteri secara alami dan membutuhkan waktu lama untuk penguraiannya. Hingga saat ini kesadaran masyarakat untuk peduli terhadap lingkungan masih rendah, padahal pemilahan sampah sangatlah penting dilakukan sebelum sampah didaur ulang. Menurut Dinas Lingkungan Hidup, Kebersihan dan Pertamanan Kota Kediri, sampah seperti plastik dan kaleng membutuhkan perlakuan khusus dalam proses daur ulangnya. Proses pemilahan sampah hingga saat ini masih dilakukan secara manual oleh manusia. Proses ini membutuhkan tenaga yang cukup besar, waktu yang lama dan belum dapat mengatasi banyaknya sampah yang ada. Pada penelitian ini digunakan metode Convolutional Neural Network (CNN) untuk pengenalan objek. Telah terdapat beberapa penelitian mengenai pengklasifikasian sampah, tetapi dalam kedua penelitian tersebut objek yang digunakan hanyalah sampah berbahan plastik. Penelitian mengenai pengenalan terhadap sampah berbahan kaleng masih belum dilakukan. Maka dari itu, pada penelitian ini dilakukan pengenalan terhadap sampah botol plastik dan kaleng minuman. Berdasarkan hasil penelitian, activation function yang paling sesuai dengan penelitian adalah ELU. Sedangkan jumlah layer yang digunakan adalah empat layer konvolusi, empat layer max pooling, dan tiga fully connected layer. Sedangkan tingkat learning rate yang digunakan adalah 0.00001, tingkat dropout 0.8, dan jumlah epoch training 50 kali. Dengan menggunakan arsitektur CNN model tersebut, didapatkan tingkat akurasi sebesar 86%.",
+  "creators": "REGINA VALENTINA",
+  "contributors": "SILVIA ROSTIANINGSIH (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021920/INF/2020; Regina Valentina (26416029)",
+  "subjects": "COMPUTER NETWORKS; NEURAL NETWORKS"
+}

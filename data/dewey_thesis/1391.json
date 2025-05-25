@@ -1,0 +1,14 @@
+{
+  "id": "1391",
+  "title": "Sistem pemetaan posisi buruh dengan RFID yang diperlengkapi pengolahan presensi",
+  "abstract": "Dewasa ini dengan banyaknya pabrik dan perusahaan besar, diperlukan suatu sistem pengawasan dan sistem presensi yang baik. Dengan pengawasan ini, maka kinerja buruh dapat ditingkatkan. Salah satu dari sistem pengawasan adalah pemetaan posisi buruh. Selain pengawasan, sistem pemetaan posisi buruh juga dapat melakukan sistem presensi. Untuk memetakan posisi buruh ini, setiap ruangan gedung dipasang sensor RFID. Tugas sensor RFID ini adalah membaca identitas buruh yang masuk atau keluar ruangan. Informasi ini akan dikirim oleh mikrokontroler yang dilengkapi dengan komunikasi multipoint RS-485 ke komputer. Kemudian disimpan dalam bentuk database. Komputer akan mengolah database ini menjadi informasi yang dibutuhkan. Informasi ini dapat diakses melalui jaringan komputer di perusahaan. Dari percobaan yang dilakukan, didapatkan bahwa sistem dapat mencatat mobilitas dan presensi buruh. Dari data mobilitas tersebut, komputer dapat menampilkan keberadaan buruh pada setiap komputer perusahaan. Prototype unit dipergunakan sensor RFID (ID-10) yang mempunyai jangkauan sekitar 8 cm, sehingga buruh harus melintasi sensor (dalam jarak dekat) dengan kecepatan maksimum 1,7 m/s.",
+  "creators": "WAHYU HARTANTO DEWANTORO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); David Sundoro (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/653/ELK/2003; Wahyu Hartanto Dewantoro (23499074)",
+  "subjects": "REMOTE CONTROL"
+}

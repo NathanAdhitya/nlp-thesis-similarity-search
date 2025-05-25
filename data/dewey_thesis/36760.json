@@ -1,0 +1,14 @@
+{
+  "id": "36760",
+  "title": "Pemodelan enterprise architecture pada perusahaan palet PT X menggunakan enterprise architecture planning",
+  "abstract": "PT X merupakan perusahaan yang bergerak di bidang palet, seperti produksi palet kayu, distribusi palet plastik, jasa ISPM#15, dan jasa container checker. Pada saat ini belum semua proses bisnis telah didukung oleh sistem informasi karena masih banyak proses bisnis yang dilakukan secara manual dan sistem informasi yang ada belum terintegrasi. Sistem informasi yang telah ada dalam perusahaan hanya mendukung proses bisnis bagian keuangan dan akuntansi saja. Berdasarkan hal tersebut, maka dilakukan analisis dan pemodelan desain enterprise architecture untuk perusahaan PT X dengan metode Enterprise Architecture Planning. Tahapan pertama yang dilakukan adalah pemodelan bisnis dan analisa strategi bisnis perusahaan. Setelah itu, tahapan selanjutnya adalah melihat kondisi teknologi informasi perusahaan pada saat ini, permasalahan yang ada dalam perusahaan, dan kebutuhan teknologi informasi di masa mendatang. Kemudian dari hasil tersebut akan dilakukan pembuatan desain arsitektur data, arsitektur aplikasi, dan arsitektur teknologi. Arsitektur data menghasilkan beberapa subsistem pada perusahaan, yaitu sub sistem penjualan, sub sistem pembelian, sub sistem produksi, sub sistem ISPM#15, sub sistem container checker, sub sistem IT, sub sistem HRD, dan sub sistem keuangan dan akuntansi. Arsitektur aplikasi terdiri dari beberapa aplikasi utama dan pendukung, semua aplikasi yang ada berbasis web. Aplikasi utama terdiri dari sistem informasi penjualan, sistem informasi pembelian, sistem informasi produksi, sistem informasi ISPM#15, sistem informasi container checker, sistem informasi IT, sistem informasi HRD, dan sistem informasi keuangan dan akuntansi. Arstitektur teknologi menggunakan client/server architecture pattern dengan layanan data Service Oriented Architecture (SOA).",
+  "creators": "FANNY FEBRIANI SANTOSO",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021504/INF/2016; Fanny Febriani Santoso (26413173)",
+  "subjects": "BALANCED SCORECARD; INFORMATION SYSTEM; INFORMATION TECHNOLOGY"
+}

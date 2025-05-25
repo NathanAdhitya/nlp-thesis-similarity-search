@@ -1,0 +1,14 @@
+{
+  "id": "13804",
+  "title": "Perencanaan dan pembuatan alat penyimpan barang produksi otomatis menggunakan metode sistem stacker yang dikontrol melalui IBM-PC dengan interface PC-TIO-10 (data acquisition board)",
+  "abstract": "Pada teknologi yang semakin berkembang, efesiensi produksi yang tinggi semakin dituntut. Pengaturan-pengaturan di dalam setiap prosespun dilakukan guna meningkatkan efisiensi waktu produksi. Untuk penyimpanan fixture yang mempunyai karakteristik berat, presisi dan banyak, perlu adanya penanganan khusus. Maka direncanakan penyimpan dan pengeluar fixture dengan sistem stacker menggunakan rak yang diharapkan dapat memudahkan proses penyimpanan, menghubungkan mesin dengan tempat penyimpanan dan meningkatkan efektifitas waktu kerja mesin. Tugas Akhir ini merencanakan dan membuat prototype alat penyimpan barang dengan sistem stacker yang menggunakan rak 3x3. Sebagai pengontrol digunakan PC-TIO-10 (Data Acquitition Board). PC-TIO- 10 adalah suatu timing I/O board untuk PC (personal computer). PC-TIO-10 ini mempunyai kemampuan antara lain untuk pembangkitan pulsa, counter, dan digital I/O. Kemampuan inilah yang akan dimanfaatkan untuk membangun suatu sistem pengontrolan posisi motor DC. Untuk dapat menggunakan PC-TIO-10 tersebut diperlukan suatu program yang dapat mengakses peralatan tersebut. National Instruments menyediakan paket program yang disebut Lab VIEW untuk membangun aplikasi kontrol dan akusisi data. Namun program tersebut sangat mahal. Oleh sebab itu National Instruments memproduksi NI-DAQ software driver untuk membantu penggunaan peralatan-peralatan tersebut. Dengan bantuan NI-DAQ software driver ini akan dibuat suatu aplikasi pengontrolan posisi motor DC dengan bahasa pemrograman Visual Basic. Program aplikasi ini akan mengontrol dan memonitor posisi plant melalui PC-TIO- 10 sebagai interface card. Pengontrolan posisi motor DC ini mempunyai derajat kebebasan 3 dimensi, yaitu sumbu a, sumbu b dan sumbu c. Dari hasil pengujian dapat diketahui bahwa faktor mekanis dan resolusi rotary encoder sangat mempengaruhi ketelitian plant. Hasil pengujian sistem menunjukkan bahwa rata-rata kesalahan per cm untuk sumbu A = 1.89 %, untuk sumbu B=2.38 %, dan untuk sumbu C=0.82 %.",
+  "creators": "MULIADI",
+  "contributors": "Murtiyanto Santoso (Examination Committee 1); Andojo Ongkodjojo (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/040/385; Muliadi (23493111)",
+  "subjects": "AUTOMATIC CONTROL; STORAGE RACKS-COMPUTER PROGRAMS; IBM-PC (COMPUTER)"
+}

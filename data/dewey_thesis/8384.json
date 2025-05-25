@@ -1,0 +1,14 @@
+{
+  "id": "8384",
+  "title": "Implementasi spam filter pada windows SMTP service",
+  "abstract": "Perkembangan Email yang pesat menjadikan E-mail merupakan salah satu media komunikasi utama dalam lingkungan internet. Seiiring dengan perkembangan tersebut, muncul juga penyalahgunaan dari fungsi E-mail yang ada. Beberapa pihak mulai menggunakan media ini untuk mengirimkan Spam Email yang merugikan dan tidak dikehendaki oleh penerima. Hal tersebut menimbulkan banyak kerugian di kalangan komunitas internet. Beberapa teknik mulai dikembangkan untuk mengatasi Spam Email tersebut. Beberapa teknik yang dapat digunakan adalah BlackList, WhiteList, RBL dan Bayes. Dengan teknik-teknik tersebut diharapkan bahwa penyebaran Spam Email tersebut dapat dikurangi. Aplikasi dalam Tugas Akhir ini digunakan pada Operating System Windows, dimana terletak pada Server SMTP. Dengan diletakkan pada Server SMTP, maka semua Email yang masuk akan dilakukan analisa terlebih dahulu sebelum diteruskan ke User. Berdasarkan hasil pengujian dengan melakukan analisa terhadap Header dan Body Text dari E-mail yang masuk, didapatkan hasil bahwa penggunaan dari teknik-teknik tersebut mempunyai keakuratan cukup bagus (lebih dari 60% dari E-mail yang diproses). Selain itu juga didapatkan nilai False Positive yang cukup rendah (kurang dari 10% dari E-mail yang diproses).",
+  "creators": "ONGKO WIDJAJA",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Leo Willyanto Santoso (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000314/INF/2005; Ongko Widjaja (26401177)",
+  "subjects": "INTERNET (COMPUTER NETWORKS); PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

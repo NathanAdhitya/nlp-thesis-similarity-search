@@ -1,0 +1,14 @@
+{
+  "id": "13760",
+  "title": "Perancangan sistem pengendalian bahan baku sepatu di CV Sinar Terang",
+  "abstract": "Dalam mengembangkan usahanya CV. Sinar Terang masih mengalami banyak permasalahan. Salah satu permasalahannya yaitu kurang baiknya sistem yang ada di perusahaan. Hal ini telah disadari dan diakui oleh pihak perusahaan, namun sampai sekarang masih belum dapat memperbaikinya. Adapun sistem yang ada sekarang ini dijalankan secara manual, dan yang seringkali menghambat yaitu kurang cepat dan tepatnya informasi yang diberikan dari satu departemen ke departemen lainnya, dan juga khususnya berhubungan dengan persediaan bahan baku yang seringkali menghambat jalannya produksi. Tujuan dari pada penulisan ini adalah merancang suatu sistem informasi yang baru, dengan memperhatikan karakteristik persediaan bahan baku khususnya dihubungkan dengan variasi produk upper sepatu yang memiliki perbedaan kebutuhan bahan baku. Selain itu dilakukan juga penjadualan produksi terhadap order upper sepatu yang masuk ke perusahaan. Perancangan sistem informasi tersebut dimulai dengan mengumpulkan data mengenai kebutuhan material dari tiap tipe upper sepatu, kemudian dari tiap order yang masuk dilakukan penjadualan produksi dan pengecekan bahan baku yang dibutuhkan dari order yang masuk tersebut. Dan dilakukan juga rancangan sistem alur informasi untuk alur pemesanan bahan baku dan alur penerimaan bahan baku serta produksi. Untuk menunjang realisasi dari hasil rancangan, maka telah dibuat program basis data dengan menggunakan software Visual Foxpro ver 5.0 yang mencakup keseluruhan rancangan.",
+  "creators": "SETIJADI",
+  "contributors": "Danny Prabowo Soetanto (Advisor 1); Jani Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 173/TI-103/1998; Setijadi (25494093)",
+  "subjects": "SCHEDULING; PRODUCTION MANAGEMENT; MATERIALS HANDLING"
+}

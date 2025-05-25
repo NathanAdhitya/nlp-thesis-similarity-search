@@ -1,0 +1,14 @@
+{
+  "id": "26152",
+  "title": "Perancangan dan pembuatan aplikasi perhitungan harga pokok produksi dengan metode job order costing pada kontraktor interior, CV. Cahaya Mulya",
+  "abstract": "Sistem perhitungan harga pokok produksi dilakukan secara sederhana oleh CV. Cahaya Mulya. Semua perhitungan biaya bahan baku, overhead pabrik dan biaya tenaga kerja langsung serta pembuatan laporan yang berkaitan dengan perhitungan Harga Pokok Produksi suatu produk masih dibuat dalam bentuk perkiraan saja sehingga proses produksi akan sulit ditelusuri. Berdasarkan latar belakang permasalahan itu, penulis merancang aplikasi perhitungan Harga Pokok Produksi yang dapat mengatasi permasalahan tersebut. Proses pembuatannya menggunakan Microsoft Visual Studio .Net 2005 sebagai bahasa pemogramannya dan MySQLsebagai database. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, dapat menyimpan pemakaian bahan baku baik yang sesuai Bill of Material ataupun tambahan pada aktualnya, pemakaian tenaga kerja, dan sebagainya yang berkaitan dengan proses produksi tersebut. Selain itu aplikasi yang telah dibuat dapat digunakan untuk mengalokasikan biaya-biaya yang terjadi pada saat proses produksi, dan dapat digunakan untuk mengolah data yang akan dapat menghasilkan laporan-laporan yang berkaitan dengan perhitungan Harga Pokok Produksi suatu produk secara otomatis.",
+  "creators": "STEVEN TANDA PUTRA",
+  "contributors": "Andreas Handojo (Advisor 1); Gregorius Satiabudhi (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021124/INF/2012; Steven Tanda Putra (26408005)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMANT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

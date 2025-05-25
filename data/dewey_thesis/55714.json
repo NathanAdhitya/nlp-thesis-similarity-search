@@ -1,0 +1,14 @@
+{
+  "id": "55714",
+  "title": "Pengembangan aplikasi mobile untuk pembacaan simulasi penggunaan listrik rumah kost",
+  "abstract": "Rumah kost merupakan tempat yang menyediakan kamar untuk disewa. Tempat ini dihuni oleh orang-orang yang ingin belajar atau bekerja dekat dengan tempat kerja atau belajarnya. Pengembangan aplikasi mobile untuk pembacaan simulasi power meter rumah kost, memasukan data ke server menggunakan simulasi penggunaan listrik dengan tombol yang dapat menghasilkan data dummy pada aplikasi yang digunakan oleh admin. Aplikasi yang dibuat menggunakan framework flutter untuk membantu dalam pembuatan aplikasi. Pada bagian back-end untuk server menggunakan Node.js dan untuk database menggunakan MySQL. Projek ini ingin mengembangkan sedikit fitur agar dapat mengambil data power meter melalui aplikasi smartphone, sehingga pengecekan power meter dapat dilakukan secara online.",
+  "creators": "EVAN ALFREDO GOZALI",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1); Indar Sugiarto (Examination Committee 2); Handy Wicaksono (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010149/ELK/2023; Evan Alfredo Gozali (C11180012)",
+  "subjects": "ELECTRICAL ENGINEERING; APPLICATION SOFTWARE--DEVELOPMENT"
+}

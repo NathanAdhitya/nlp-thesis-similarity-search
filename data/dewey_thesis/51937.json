@@ -1,0 +1,14 @@
+{
+  "id": "51937",
+  "title": "Implementasi dan analisa snort dan suricata sebagai ids dan ips untuk mencegah serangan DOS dan DDos",
+  "abstract": "DOS dan DDoS merupakan salah satu serangan yang paling banyak digunakan oleh hacker. DDOS adalah serangan dengan beberapa penyerang untuk menghabiskan resource dari target hingga target tidak bisa menghandle request. Untuk mencegah serangan di atas bisa menggunakan firewall, fungsi dari firewall adalah pertahanan pertama dari komputer yang memfilter paket yang masuk atau keluar dengan rules di jaringan tersebut. Firewall memfilter data berdasarkan IP Address, protokol, dan port, sehingga jika menggunakan firewall maka tidak bisa menganalisis serangan lebih lanjut. Di penelitian ini, untuk mencegah serangan ini menggunakan sebuah sistem yaitu Intrusion Detection System (IDS) dan Intrusion Prevention System (IPS). Fungsi IDS yaitu tindakan mendeteksi lalu lintas yang tidak diinginkan pada jaringan atau perangkat, sedangkan IPS bisa mendeteksi dan langsung memperbaiki masalah tersebut.Dengan menggunakan IDS dan IPS serangan lebih bisa dianalisis, IDS dan IPS merupakan tools yang lebih handal dibanding firewall. Pengujian dilakukan dalam beberapa skenario DOS dan DDoS menggunakan tool Hping3 dan Slowloris, hasil pengujian menunjukkan dari 10 skenario serangan dan bukan serangan, snort dan suricata seimbang dalam mengeluarkan alert True Positive dengan masing-masing menang 3 skenario, untuk penggunaan CPU Suricata unggul di 7 skenario, dan dalam serangan HTTP Flood Suricata menghilangkan serangan lebih cepat.",
+  "creators": "DARRYL SANTOSO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Justinus Andjarwirawan (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022124/INF/2022; Darryl Santoso (C14170068)",
+  "subjects": "COMPUTER SECURITY; FIREWALLS (COMPUTER SECURITY); INTRUSION DETECTION SYSTEMS (COMPUTER SECURITY)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "19817",
+  "title": "Perancangan sistem pengambilan keputusan dengan metode goal programming",
+  "abstract": "Pengambilan keputusan merupakan tindakan yang membutuhkan pemikiran. Untuk membuat keputusan diperlukan pertimbangan rasionil dengan berbagai bahan pertimbangan yang biasanya berupa kendala maupun tujuan yang hendak dicapai. Dalam Tugas Akhir ini akan dibahas mengenai pengambilan keputusan pemilihan komponen komputer dengan berpegang pada beberapa kondisi yang menjadi tujuan dan kendalanya. Proses penyusunan formulasi masalah berdasarkan metode Goal Programming yang nantinya akan dilanjutkan dengan pembuatan program komputer. Program komputer yang dibuat memakai bantuan software Borland Delphi for Windows ver 2.0. Setelah dicoba ternyata metode goal programming memungkinkan 2 atau lebih komponen yang sama dipilih secara bersamaan mengacu pada kendala yang ada padahal pada pemilihan jenis komponen hanya akan dipilih salah satu maka dilakukan post processing yang berftingsi mengoptimalkan lebih lanjut hasil iterasi goal programming. Perlu diketahui bahwa setelah dilakukan proses ini maka hasil yang diperoleh bukan merupakan solusi optimum namun berupa batas atas daerah solusi namun dapat digunakan sebagai bahan pertimbangan pemilihan jenis komponen komputer.",
+  "creators": "TONI HARTONO",
+  "contributors": "Danny Prabowo Soetanto (Advisor 1); Siana Halim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 215/TI-41/1999; Toni Hartono (25494080)",
+  "subjects": "DECISION MAKING (COMPUTER PROGRAMS); BORLAND DELPHI 7 (COMPUTER PROGRAM LANGUAGE)"
+}

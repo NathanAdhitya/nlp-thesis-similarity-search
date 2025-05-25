@@ -1,0 +1,14 @@
+{
+  "id": "5242",
+  "title": "Transformerless tv power supply",
+  "abstract": "Berkembangnya teknologi computer vision dan image processing di dunia dewasa ini menyediakan kemungkinan baru untuk membuat suatu sistem yang dapat membantu manusia dalam pengenalan suatu citra digital. Face Recognition Menggunakan Metode Linear Discriminant Analysis (LDA) ini dibuat untuk mengenali wajah seseorang berdasarkan beberapa image dari orang tersebut yang sudah dimasukkan ke sebuah sistem database.Tugas akhir ini juga sekaligus ingin membandingkan antara 2 metode yang sering digunakan, yaitu PCA (Principal Component Analysis) dan LDA (Linear Discriminant Analysis). Selain itu, dalam tugas akhir ini akan digabungkan kedua metode tersebut untuk mendapatkan hasil yang lebih maksimal dengan waktu proses yang lebih singkat. Program face recognition ini dibuat dengan menggunakan bahasa pemrograman Borland Delphi 6.0. Pada akhir program, dibuat sebuah sub-program untuk melakukan testing mengenali wajah seseorang dengan menggunakan jumlah image training dan image test yang berbeda-beda. Dari data tersebut akan dilihat recognition percentage dari masing-masing algoritma. Recognition percentage maksimum didapat sebesar ? 80 %. Nilai ini akan berubah sesuai dengan jumlah image training yang dimiliki. Sistem ini dapat dikembangkan dengan menggabungkan program ini dengan program pelacak wajah (face tracking ) untuk sistem keamanan di bandara sebagai sistem keamanan dari teroris atau pembajak.",
+  "creators": "DANAN EKO CAHYONO",
+  "contributors": "YOHANES T. D. S (Advisor 1); Anies Hannawati (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/619/ELK/2003; Danan Eko Cahyono (23497041)",
+  "subjects": "ELECTRIC CURRENT CONVERTER"
+}

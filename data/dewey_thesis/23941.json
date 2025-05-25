@@ -1,0 +1,14 @@
+{
+  "id": "23941",
+  "title": "Perencanaan dan pembuatan pengatur temperatur dengan AC voltage controller pada suhu 200 C - 300 C",
+  "abstract": "Pengatur tenperatur nerupakan suatu konponen yang sangat penting dan banyak dipergunakan didalan industri- industri. Salah satu penakaiannya antara lain adalah nengatur temperatur pada proses heat plating yaitu pada peristiwa proses peleburan tinah untuk penyolderan perangkat-perangkat elektronika. Sedangkan tujuan utana dari pengaturan tenperatur ini adslah nenjaga agar temperatur tetap konstan pada suatu harga (\"C) tertentu yang dikehendaki dengan cara menbstasi kenaikan dan penurunan ternperatur sekecil rnungiiin . Juga dengan nempertinbangkan keadaan tenperatur ruangan, t ingkat kebocoran panas serta perencanaan daya elenen pemanas (heater). Penggunaan a.c voltage controller pada sistern pengaturan tenperatur sangat menguntungkan khususnya dengan nenggunakan metode switch titik no1 (zero point switch). Keuntungan dari sistin ini adalah tidak meninbulkan electro magnetic interference (EMI) pada saat pengaturan temperatur bekerja secara on/off. Pengatur temperatur dengan a.c voltage controller ini memiliki dua rangkaian utama yaitu rangkaian pengatur/control yang berfungsi untuk nenerina dan nengolah data yang diberikan oleh thermistor dan nengendalikan rangkaian zero point switch. Rangkaian zero point switch bekerja untuk nenghantarkan dan menutus arus supply pada beban (heater) untuk beberapa cycle dan kemudian nenyala lagi untuk junlah cycle yang sama. Dengan demikian, arus rns pada heater dapat diatur sehingga temperatur heater dapat diatur. Dari hasil pengujian dan penganatan yang dilakukan naka dapat disinpulkan bahwa pengaturan tenperatur dengan a.c voltage controller dapat diterapkan pada peristiwa peleburan timah yang nemerlukan tenperatur konstan 250 \"C dengan toleransi + 1%. Dengan demikian pengatur temperatur dapat berfungsi sebagaimana nestinya.",
+  "creators": "YUSUF SETIAWAN",
+  "contributors": "SOEBAGIO (Advisor 1); SUSILO MATAIR (Examination Committee 1); HERLIANTO TENGGARA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 90/E/TST/005/0041; Yusuf Setiawan (482052)",
+  "subjects": "TEMPERATURE CONTROL"
+}

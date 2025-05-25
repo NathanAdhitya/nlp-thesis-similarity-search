@@ -1,0 +1,14 @@
+{
+  "id": "60493",
+  "title": "Monitoring pergerakan botol di seluruh cabang dan pelanggan di PT X dengan perancangan dashboard dan fast, slow and non moving analysis (analisa FSN)",
+  "abstract": "Penelitian ini dilakukan untuk merancang dashboard yang dapat memonitoring pergerakan botol di seluruh cabang dan pelanggan PT X serta melakukan analisa FSN pada cabang Y. Proses dalam pembuatan dashboard ini memiliki sumber data yang beragam sehingga dibutuhkan pengolahan data terlebih dahulu agar data yang akan divisualisasikan sesuai dengan yang diharapkan. Sebelum adanya dashboard perusahaan membutuhkan waktu yang lama untuk melihat posisi botol di perusahaan karena membutuhkan banyak langkah untuk mendapatkan informasi tersebut. Masalah ini dapat diatasi dengan perancangan dashboard yang bertujuan untuk mempercepat pengolahan dan analisa data yang dikemas dengan visualisasi yang menarik. Dashboard dirancang berdasarkan laporan posisi botol dan data persediaan. Pengolahan data menggunakan Google Colab dan Google Sheet untuk mempercepat proses pengerjaan. Hasil dari olahan data akan divisualisasikan ke dalam dashboard Google Data Studio. Secara keseluruhan dashboard yang dirancang dapat memberikan informasi mengenai lokasi botol yang di supply dari Cabang Y ke seluruh lokasi cabang dan pelanggan PT X dan analisa FSN cabang Y.",
+  "creators": "HIKARI KIKUCHI",
+  "contributors": "Indriati Njoto Bisono (Advisor 1); Nikko Gunawan (Advisor 2); I Nyoman Sutapa (Examination Committee 1); Dede Setyawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022673/IND/2024; Hikari Kikuchi (C13200068)",
+  "subjects": "DASHBOARDS (MANAGEMENT INFORMATION SYSTEMS); INVENTORY CONTROL; SUPPLY CHAIN MANAGEMENT SYSTEM"
+}

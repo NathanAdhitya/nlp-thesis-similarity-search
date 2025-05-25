@@ -1,0 +1,14 @@
+{
+  "id": "60758",
+  "title": "Aplikasi penjualan (saler retail) untuk PT ABC",
+  "abstract": "PT ABC merupakan badan usaha distributor rokok yang berpusat di Jakarta, Indonesia. PT ABC ini menggunakan beberapa cara untuk memasarkan produknya, salah satunya adalah dengan cara penjualan kanvas, di mana sales akan berkeliling untuk memasarkan produk. Namun sistem yang digunakan oleh PT ABC masih manual di mana sales harus mencatat secara manual di nota penjualan yang mereka lakukan, serta mereka harus membuat rekap penjualan masing-masing. Selain itu di sisi penjualan, admin penjualan harus menginput penjualan yang dilakukan oleh sales ke sistem di mana per hari ada kurang lebih 180 transaksi sehingga memakan waktu kurang lebih 360 menit/6 jam. Hal itu sangat tidak efisien. Selain itu saat manajemen ingin meminta laporan penjualan/omzet maka admin harus membuat rekap di excel karena tidak ada fitur untuk membuat laporan, sehingga laporan tidak bisa langsung didapatkan karena harus menunggu hasil rekap. Pembuatan aplikasi ini bertujuan untuk migrasi sistem lama PT ABC yang masih menggunakan Bahasa delphi ke Laravel, serta membuatkan aplikasi flutter baru untuk sales melakukan penjualan kanvas. Tujuan dari penelitian ini untuk membuatkan sistem baru untuk PT ABC agar pencatatan penjualan sales tidak dilakukan secara manual lagi. Selain itu pada aplikasi juga ada map dari google map api yang berfungsi untuk membantu sales dalam menunjukkan lokasi tujuan. Pengujian sistem ini menggunakan uji kelancaran aplikasi, dan pengujian waktu akan dilakukan perbandingan waktu sebelum dan sesudah menggunakan aplikasi di mana untuk input penjualan kanvas sudah menghemat waktu 6 jam karena admin penjualan tidak perlu input penjualan lagi. Selain itu juga dilakukan pengujian dengan kuesioner kepada sales dan admin untuk mengetahui feedback mengenai aplikasi. Untuk kuesioner sales mendapatkan hasil 3,73 dari 5 sedangkan untuk admin mendapatkan hasil 3,615 dari 5.",
+  "creators": "HANS JEREMY RAFFAELLO",
+  "contributors": "Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 1); ANITA NATHANIA PURBOWO, S.KOM. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022497/INF/2024; Hans Jeremy Raffaello (C14200034)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT--COMPUTER PROGRAMS; SALES MANAGEMENT"
+}

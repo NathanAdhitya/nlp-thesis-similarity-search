@@ -1,0 +1,14 @@
+{
+  "id": "57995",
+  "title": "Perhitungan dan visualisasi desain alinyemen horizontal",
+  "abstract": "Perancangan geometrik jalan adalah sebuah proses desain pada perencanaan bentuk fisik dari perkerasan jalan yang nantinya akan digunakan sebagai patokan ketika proses konstruksi berlangsung. Desain yang dimaksud salah satunya adalah desain alinyemen horizontal. Dalam skripsi ini, akan dibahas sebuah aplikasi yang dibuat menggunakan bahasa pemrograman python yang dapat menghitung azimuth dan alinyemen horizontal, serta menampilkan visual dari perhitungan alinyemen horizontal, yang kemudian data tersebut akan disajikan ke dalam file Microsoft Excel. Selain menyajikan perhitungan, terdapat titik-titik koordinat yang kemudian dapat dibuat menjadi grafik membentuk tikungan yang telah di desain. Aplikasi memberi opsi save file lain berupa file \".txt\" yang kemudian dapat dibaca oleh Unity untuk menampilkan visual garis lengkung tikungan yang didapat dari perhitungan. Selain dapat menghitung, aplikasi dapat berperan sebagai preliminary design. Tujuannya adalah untuk memperbesar peluang hasil yang bisa digunakan dengan memberi rentang minimum hingga maksimum pada radius desain dan kecepatan desain dengan opsi jenis tikungan yang dapat dipilih. Tingkat keakurasian pada perhitungan azimuth menunjukkan tidak adanya selisih yang signifikan terhadap perhitungan manual. Pada pengujian alinyemen horizontal, terdapat selisih angka desimal diakibatkan karena kecenderungan pembulatan pada perhitungan manual. Pada hasil visual, Unity telah berhasil menampilkan garis lengkung tikungan dan garis PI dengan membaca dua file, yaitu \"coordinate.txt\" dan \"coordinate_pi.txt\".",
+  "creators": "HANSEL DAVIN SUGIARTO",
+  "contributors": "Rudy Setiawan (Advisor 1); Gregorius Satiabudhi (Advisor 2); Ir. Kardi Teknomo (Examination Committee 1); Johanes Indrojono Suwono (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012669/SIP/2023; Hansel Davin Sugiarto (B11190007)",
+  "subjects": "MATLAB (COMPUTER PROGRAM); PYTHON (COMPUTER PROGRAM LANGUAGE); ROAD CONSTRUCTION; ROADS--DESIGN AND CONSTRUCTION --COMPUTER PROGRAMS"
+}

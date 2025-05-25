@@ -1,0 +1,14 @@
+{
+  "id": "25781",
+  "title": "Perhitungan pengadaan bahan untuk bangunan gedung dengan spread sheet",
+  "abstract": "Kontraktor yang memenangkan tender berkewajiban melaksanakan proyek yang di dalam pelaksanaannya membutuhkan Rencana Jadwal Waktu untuk mengatur penyediaan bahan yang diperlukan selama proyek berlangsung, sehubungan dengan penyediaan sumber-sumber daya yang lain. Selama ini perhitungan pengadaan bahan umumnya dilaksanakan secara manual karena belum ada program yang berfungsi untuk itu. Dalam skripsi ini dilakukan perhitungan pengadaan bahan secara otomatis dengan menggunakan fasilitas-fasilitas yang terdapat dalam paket program Lotus 1-2-3. Skripsi dan program ini secara khusus dipergunakan untuk proyek bangunan gedung yang disesuaikan dengan keadaan di Indonesia. Perhitungan ini terdiri dari beberapa tabel yang tujuan akhirnya adalah menghasilkan jumlah kebutuhan setiap jenis bahan untuk setiap minggu selama proyek berlangsung. Secara lengkap program ini terdiri dari: 1. Daftar Analisa Satuan Pekerjaan 2. Tabel Hubungan Kebutuhan Bahan/hari untuk tiap jenis pekerjaan dengan Rencana Jadwal Waktu 3. Tabel kebutuhan bahan/minggu dalam tiap jenis pekerjaan sesuai dengan rencana jadwal waktu (bahan-bahan yang sama belum dijumlahkan) 4. Tabel kebutuhan bahan/minggu sesuai dengan Rencana Jadwal Waktu Tabel-tabel tersebut merupakan suatu kesatuan yang saling berhubungan satu dengan yang lain. Apabila dalam tabel-tabel tersebut dimasukkan suatu data proyek pada bagian-bagian tertentu, maka analisa akan berlangsung secara otomatis sampai diperoleh kebutuhan tiap jenis bahan setiap minggu. Besaran-besaran di atas didapat dengan memasukkan formula-formula yang berlaku dalam sel-sel tabel yang bersangkutan.",
+  "creators": "NINIEK SUWANDA; DEDIK SOEGIANTO",
+  "contributors": "Mutyadewi Subagio (Advisor 1); Ir. Soehendro Ratnawidjaja, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 383 S; Niniek Suwanda (283066), Dedik Soegianto (283078)",
+  "subjects": "BUILDING MATERIALS-INDUSTRY; BUILDING-ESTIMATES AND COSTS-COMPUTER PROGRAMS"
+}

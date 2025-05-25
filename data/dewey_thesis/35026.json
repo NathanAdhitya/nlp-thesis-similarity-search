@@ -1,0 +1,14 @@
+{
+  "id": "35026",
+  "title": "Implementasi aplikasi penjadwalan dan reservasi untuk penggunaan private cloud computing",
+  "abstract": "Cloud computing adalah teknologi baru yang sedang hangat dibahas oleh pakar teknologi informasi. Teknologi cloud computing hadir untuk menjawab tantangan akan kebutuhan teknologi komputasi yang semakin efisien. Sehingga terciptalah ide untuk membangun sebuah sistem cloud di lab Universitas Kristen Petra. Namun implementsi cloud yang ada dapat mengganggu pemakaian lab yang ada. Program ini bertujuan untuk membantu user mengelola sistem cloud yang ada agar berjalan sesuai dengan jadwal yang diinginkan. Dalam pembuatan program dilakukan pengujian terhadap sistem scheduling yang telah tersedia, dan melakukan pengembangan terhadap sistem filter scheduler pada scheduler yang telah ada, serta membuat user interface berupa web dengan bentuk tampilan kalender, dengan fitur-fitur yang dibutuhkan. Hasil pada program ini, berupa sebuah sistem scheduler yang dapat membatasi penggunaan instance pada OpenStack agar berjalan sesuai dengan jadwal yang dibuat oleh sistem administrator. Sistem scheduler yang dibuat mempunyai latency (overhead) yang relative kecil sehingga tidak begitu memberatkan sistem scheduler yang ada pada OpenStack. Sistem scheduler yang dibuat juga menggunakan jaringan private network dari Universitas Kristen Petra, serta membutuhkan internet yang stabil agar berjalan lancar.",
+  "creators": "ALBERT HALIM",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021448/INF/2015; Albert Halim (26411009)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

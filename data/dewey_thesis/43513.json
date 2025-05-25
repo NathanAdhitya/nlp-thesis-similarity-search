@@ -1,0 +1,14 @@
+{
+  "id": "43513",
+  "title": "Perancangan sistem kontrol dan mekanik self balancing reaction wheel inverted pendulum sebagai alat peraga mata kuliah otomasi",
+  "abstract": "Dalam mempelajari otomasi sulit untuk membayangkan cara kerja atau prinsip kontroler, maka itu diperlukan suatu alat peraga untuk mempermudah hal ini. Reaction wheel inverted pendulum adalah suatu alat yang underactuation, dan karena sifat inilah alat ini cocok untuk digunakan sebagai benchmark kontroler. Aplikasi dari Reaction wheel inverted pendulum yang saat ini ada adalah sistem keseimbangan robot humanoid. Dalam perancangan ini dilakukan perancangan fisik alat peraga dan juga perancangan kontroler. Perancangan dimulai dari merancang benda fisik terlebih dahulu, mulai dari dimensi dan bentuk alat sampai kebutuhan motor. Selanjutnya didesain kontroler yang dapat menyeimbangkan alat secara otomatis, dan mengimplementasikan pada program arduino. Terakhir melakukan pengujian untuk melihat apakah alat bisa bekerja atau memerlukan modifikasi.",
+  "creators": "JOSHUA HUTAMA TANDIO",
+  "contributors": "Roche Alimin (Advisor 1); Handry Khoswanto (Advisor 2); Joni Dewanto (Examination Committee 1); Ninuk Jonoadji (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03011268/MES/2019; Joshua Hutama Tandio (24415042)",
+  "subjects": "ROBOTS--CONTROL SYSTEMS--DESIGN AND CONSTRUCTION"
+}

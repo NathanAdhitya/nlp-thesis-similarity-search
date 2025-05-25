@@ -1,0 +1,14 @@
+{
+  "id": "14728",
+  "title": "Penggunaan prosesor sinyal digital keluarga TMS320 sebagai adaptive digital filter untuk aplikasi background noise canceller pada sinyal pembicaraan",
+  "abstract": "Seiring dengan perkembangan teknologi digital, lama telah diimplementasikan filter digital untuk mengolah sinyal digital dalam berbagai aplikasi. Filter digital konvensional yang telah dikembangkan pada masa ini, kiranya belum tcrlalu memadai untuk melakukan proses filterisasi yang optimum dalam kondisi masukan yang berubah-ubah, maka dalam Pengolahan Sinyal Digital telah ditemukan aplikasi filter adaptif yang mampu mengikuti perubahan besar atau kecilnya sinyal masukan. Kemudian dari proses tersebut dihasilkan sinyal yang dikehendaki dengan menekan interferensi noise terhadap sinyal utama. Dalam merencanakan dan membuat alat ini, maka digunakan Prosesor Sinyal Digital TMS320C50, yaitu produk Texas Instrument yang cukup handal untuk mengimplementasikan aplikasi filter adaptif. Dua sinyal analog melalui dua mikrofon menjadi masukan bagi TMS320C50. Sinyal pertama adalah sinyal percakapan yang terinterferensi oleh noise sekitar, sinyal kedua adalah referensi noise yang digunakan untuk menindas interferensi noise pada sinyal pertama. Sinyal analog yang masuk dikonversi oleh Analog Interface Circuit (AIC) yang ada pada papan TMS320C50 menjadi sinyal digital. Sinyal referensi diproses dalam blok filter Finite Impulse Response (FIR). Output filter kemudian dikurangkan dengan sinyal pertama dan algoritma Least Mean Square (LMS) berfungsi untuk menghitung parameter adaptasi untuk data berikutnya. Hasil olahan dikirim secara serial ke mikrokomputer untuk diketahui hasilnya. Di lain pihak hasil olahan berupa sinyal pembicaraan yang telah ditindas noise yang menyertainya dikeluarkan ke osiloskop. Dari hasil pengujian simulasi terlihat bahwa respon frekuensi yang dihasilkan mengindikasikan sinyal pembicaraan yang sesungguhnya.",
+  "creators": "LIANTO",
+  "contributors": "Resmana Lim (Advisor 1); Vivi Anggraini (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/007/306; Lianto (23490061)",
+  "subjects": "SIGNAL PROCESSING-DIGITAL TECHNIQUES"
+}

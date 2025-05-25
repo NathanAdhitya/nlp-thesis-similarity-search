@@ -1,0 +1,14 @@
+{
+  "id": "1371",
+  "title": "Face recognition dengan menggunakan webcam",
+  "abstract": "Seiring dengan perkembangan teknologi elektronika dan komputer, kemajuan dibidang pemrograman juga mengalami peningkatan kerumitan dan fungsi. Salah satu bidang yang sekarang ini sudah mulai dikembangkan adalah biometris. Yang diproses pada biometris adalah ciri-ciri khusus fisik seseorang. Contoh biometris misalnya adalah finger recognition, voice recognition, iris recognition, face recognition, dan lain- lain. Teknologi untuk memproses gambar yang telah dikenal antara lain teknologi computer vision dan image processing yang memungkinkan komputer dapat mengenali suatu citra (gambar) digital. Face recognition dengan menggunakan webcam merupakan pengembangan dari tugas akhir yang dibuat oleh saudara Raymond (23496066) dengan judul Face Recognition Menggunakan Metode Linear Discriminant Analysis (LDA). Pengembangan yang hendak dicapai adalah pengenalan wajah seseorang yang berdiri di depan sebuah webcam; yang berfungsi sebagai input data untuk diolah oleh program face recognition. Pada tugas akhir ini, program dibuat sedemikian rupa sehingga untuk menginputkan data ke database dan proses recognition dapat dilakukan secepat mungkin dengan adanya webcam. Program Face Recognation dengan Menggunakan Webcam ini dibuat dengan menggunakan bahasa pemrograman Borland Delphi 5.0. Pengujian yang dilakukan meliputi test tata letak sumber cahaya, jarak antara webcam ke wajah, banyak wajah orang yang akan dikenali. Program ini dapat dikembangkan untuk menjadi mesin absensi dan sistem keamanan pada tempat-tempat penyimpanan benda-benda penting atau rahasia. Dari hasil percobaan yang dilakukan, tingkat keberhasilan program ini mencapai 80%. Kegagalan yang terjadi, disebabkan oleh perbedaan jarak wajah ke webcam pada saat training dan pada saat recognition.",
+  "creators": "VILAS YANG KUSUMAHARDJA",
+  "contributors": "Resmana Lim (Advisor 1); Aditya Umbu Tana Amah (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/627/ELK/2003; Vilas Yang (23497039)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

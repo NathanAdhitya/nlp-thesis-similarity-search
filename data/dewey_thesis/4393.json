@@ -1,0 +1,14 @@
+{
+  "id": "4393",
+  "title": "Morphing citra dengan berbagai teknik morphing",
+  "abstract": "Dalam pembuatan sebuah film, ada banyak spesial efek yang ditambahkan ke dalam sebuah film untuk menghasilkan suatu film yang lebih bagus. Salah satu spesial efek yang sering digunakan adalah morphing, yaitu suatu efek dimana suatu objek diubah perlahan-lahan menjadi objek lain. Sebelum digunakannya komputer, efek ini dilakukan dengan cara tradisional yang sulit dan memakan waktu lama dalam pembuatannya dengan hasil yang kurang memuaskan, dengan menggunakan komputer selain waktu pembuatannya jauh lebih cepat, hasilnya pun jauh lebih bagus. Tugas Akhir ini membahas tentang pembuatan efek morphing dengan menggunakan beberapa algoritma. Ada banyak algoritma yang dapat digunakan untuk membuat efek morphing, di antaranya adalah cross dissolve, feature morph, mesh morph, liquid morph dan selection morph. Aplikasi yang dibuat diharapkan dapat menunjukkan kelebihan dan kekurangan dari masing-masing algoritma yang digunakan. Aplikasi dibuat dengan menggunakan bahasa pemgrograman Borland Delphi 6. Hasil pengujian aplikasi ini menunjukkann bahwa dari algoritma-algoritma di atas yang memiliki waktu proses tercepat adalah teknik cross dissolve tetapi memiliki hasil yang paling jelek. Sedangkan yang memiliki hasil yang bagus dan waktu proses yang tidak terlalu lama adalah teknik mesh morph.",
+  "creators": "STEPHAN YOS",
+  "contributors": "Kartika Gunadi (Advisor 1); Resmana Lim (Advisor 2); RULLY SOELAIMAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0154/INF/2004; Adrian Soetanto (26499085)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUE; IMAGE MORPHING (COMPUTER PROGRAM)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8842",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada tiga putra handphone center",
+  "abstract": "Tiga Putra Handphone Center adalah toko yang menjual barang-barang yang berhubungan dengan handphone. Pada saat ini Tiga Putra Handphone Center masih menjalankan sistem administrasinya secara manual. Hal ini menyebabkan sering terjadinya kesalahan saat pencatatan data yang menyebabkan data tidak akurat. Karena itu toko bermaksud menata ulang sistemnya agar menjadi lebih baik. Sistem informasi yang baru meliputi pencatatan transaksi penjualan, pembelian, stok barang, dan laporan yang berguna seperti laporan laba, penjualan, hutang, dan piutang. Proses pembuatan program dimulai dengan menganalisa sistem kerja administrasi di toko tersebut, seperti cara melakukan transaksi penjualan, transaksi pembelian, pembayaran hutang, pencatatan stok. Karena Tiga Putra Handphone Center merupakan gabungan dari banyak counter maka dibutuhkan sistem yang bisa mengatur pendistribusian barang. Setelah itu digambarkan terlebih dahulu DFD dan ERD kemudian diterapkan menjadi tabel yang dibuat pada database menggunakan Microsoft SQL server 2000, dengan menggunakan bahasa pemrograman Borland Delphi 7 dan sistem operasi Microsoft Windows XP. Dengan adanya program yang dapat menangani sistem administrasi pada Tiga Putra Handphone Center, maka pencatatan menjadi lebih detail karena mencatat 16 digit dari kode barang (IMEI), dengan aplikasi ini mencatat pendistribusian barang tiap-tiap counter.",
+  "creators": "ERIC EDIPUTRA SUCIPTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010608/INF/2007; Eric Ediputra Sucipto (26403149)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

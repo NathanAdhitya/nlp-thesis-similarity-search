@@ -1,0 +1,14 @@
+{
+  "id": "30004",
+  "title": "Aplikasi game yang menerapkan metode autonomous NPC untuk mengkoordinasi AI dari enemy",
+  "abstract": "Dalam action game belakangan ini, biasanya player akan dihadapkan dengan banyak AI secara bersamaan. Agar dapat memberikan tantangan terhadap player akan dibutuhkan kelakuan yang kompleks. Untuk menciptakan kesan ini, AI tersebut harus dapat berkoordinasi dengan yang lain dalam menyerang player tanpa menghilangkan gameplay yang baik dan seimbang. Untuk dapat membuat AI tersebut, maka akan ditambahkan mekanisme attack slot, exclusion zone, trigger system, enemy event, player mutex, allowed zone, dan blackboard untuk membantu AI saling berkomunikasi dan mengatur sikap dari AI dalam menghadapi sebuah situasi. Dari hasil pengujian, bisa dilihat bahwa player dapat melawan sejumlah AI sekaligus dan memiliki kesempatan untuk menang. AI tersebut juga bisa terlihat berkoordinasi dalam perlawanan mereka terhadap player.",
+  "creators": "EVAN SANJAYA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021309/INF/2014; Evan Sanjaya (26410076)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); COMPUTER GAMES"
+}

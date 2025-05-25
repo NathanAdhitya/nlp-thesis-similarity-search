@@ -1,0 +1,14 @@
+{
+  "id": "60970",
+  "title": "Optimasi formula pakan ayam petelur dengan kriteria nutrisi dan efisiensi biaya menggunakan metode linear programming",
+  "abstract": "Dalam pemeliharaan ayam petelur, ada 3 faktor penting yang memegang peranan yang sama pentingnya, yaitu faktor bibit (breeding), pakan (feeding), dan pengelolaan (management). Pakan (feed) adalah bahan pakan tunggal atau campuran dari beberapa bahan pakan yang siap diberikan pada ayam petelur. Bahan makanan ayam harus memenuhi kebutuhan hidup ternak (maintenance) dan produksinya (productivity), tanpa mengganggu kesehatan ayam. Oleh karena itu, diperlukan formulasi pakan ayam yang memenuhi kebutuhan nutrisi agar kesehatan ayam terjaga dan kualitas telur meningkat. Dalam penelitian ini, dirancang suatu program berbasis website yang dapat memformulasikan pakan ayam sesuai dengan kebutuhan nutrisi dari setiap umur ayam petelur. Program ini menggunakan metode Linear Programming untuk memilih komposisi pakan ayam terbaik dari semua kombinasi yang ada dari bahan-bahan makanan yang memenuhi kriteria nutrisi dari pakan ayam tertentu. Selain untuk menghitung nutrisi yang dikandung oleh komposisi pakan ayam tersebut, program ini juga mencari komposisi bahan makanan yang paling murah. Program ini juga bisa memasukkan bahan makanan sesuai stok kandang dan membatasi jumlah penggunaan bahan makanan. Hasil pengujian yang dilakukan, program ini berhasil mencari komposisi bahan makanan yang paling murah dengan menggunakan bahan-bahan makanan yang sudah ditentukan. Walaupun harganya lebih murah, namun nutrisi yang dikandung sesuai dengan kriteria nutrisi yang diminta. Hasil pengujian yang dilakukan, program ini berhasil mencari komposisi bahan makanan yang paling murah dengan menggunakan bahan-bahan makanan yang sudah ditentukan. Walaupun harganya lebih murah, namun nutrisi yang dikandung sesuai dengan kriteria nutrisi yang diminta. Dilakukan juga pengujian terhadap kandang X, yaitu membandingkan apakah formulasi pakan ayam yang dimiliki oleh kandang X sudah memenuhi semua kriteria yang diperlukan dan sudah merupakan komposisi makanan yang paling murah atau tidak. Terdapat juga hasil pengujian yang menguji apakah program sudah menghasilkan kombinasi makanan ayam paling murah atau belum. Pengujian tersebut dilakukan dengan membalik harga jagung dan gandum untuk mengecek apakah hasil yang diberikan sudah sesuai atau belum.",
+  "creators": "STEVEN ALEXANDRO DJUNAEDY",
+  "contributors": "Rolly Intan (Advisor 1); Kartika Gunadi (Advisor 2); Liliana (Examination Committee 1); Gregorius Satiabudhi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022507/INF/2024; Steven Alexandro Djunaedy (C14200044)",
+  "subjects": "CHICKENS; LINEAR PROGRAMMING; MACHINE LEARNING"
+}

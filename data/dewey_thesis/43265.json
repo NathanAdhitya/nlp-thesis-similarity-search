@@ -1,0 +1,14 @@
+{
+  "id": "43265",
+  "title": "Sistem informasi administrasi berbasis web untuk toko X",
+  "abstract": "Toko Remaja merupakan sebuah toko yang bergerak di bidang penjualan alat kebutuhan sehari-hari. Toko Remaja menjalankan proses bisnisnya secara manual. Tidak ada pencatatan penjualan dan pembelian setiap harinya. Hal ini mengakibatkan keuntungan tidak dapat terakumulasi. Tidak ada pencatatan mengenai sisa stok barang pada gudang. Hal ini mengakibatkan sisa stok barang tidak dapat diketahui secara langsung. Tujuan penulisan skripsi ini adalah menghasilkan sistem informasi administrasi yang dapat membantu kegiatan administrasi Toko Remaja. Proses pembuatan sistem informasi ini mencakup data stok barang yang berfungsi untuk menyimpan data barang. Transaksi penjualan berfungsi untuk membantu transaksi penjualan ke customer dan pembelian barang ke supplier. Laporan barang dan transaksi berfungsi memudahkan owner dalam melihat data. Sistem informasi ini dibangun dengan menggunakan bahasa pemrograman PHP, sedangkan penyimpanan database toko menggunakan MySQL. Hasil yang diperoleh dari sistem antara lain, sistem informasi administrasi yang dapat membuat dan menampilkan berbagai macam laporan. Laporan ini berguna untuk membantu melihat transaksi-transaksi yang terjadi pada periode tertentu. Berdasarkan hasil pengujian yang dilakukan, 60% pengguna menyatakan fitur-fitur yang ada pada sistem informasi administrasi sudah berjalan dengan baik dan menjawab kebutuhan toko, sedangkan 40% pengguna menilai cukup. Secara keseluruhan sistem informasi administrasi ini sudah baik dan menjawab kebutuhan toko.",
+  "creators": "TIMOTIUS ALVIN TANUSEPUTERO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Yulia (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021836/INF/2019; Timotius Alvin Tanuseputero (26414080)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING"
+}

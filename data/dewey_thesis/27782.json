@@ -1,0 +1,14 @@
+{
+  "id": "27782",
+  "title": "Perencanaan dan pembuatan monitor splitter untuk pengajar di laboratorium komputer",
+  "abstract": "Dalam proses belajar-mengajar di dalam laboratorium komputer, sering kali seorang pengajar (tutor) harus bejalan berkeliling, melihat dan mengawasi apa yang sedang dikerjakan oleh para siswanya, dimana hal ini dirasa kurang efisien. Dalam tugas akhir ini dibuat sebuah alat Monitor Splitter yaitu sebuah alat yang memungkinkan sebuah komputer dapat melihat tampilan monitor komputer-komputer lainnya. Alat ini bersama-sama dengan komputer-komputer yang dipakai membentuk suatu jaringan bintang, dimana semua monitor pada jaringan tersebut harus mempunyai jenis yang sama. Komputer yang dapat dihubungkan dengan alat ini adalah jenis IBM-PC dengan Color Graphic Monitor Adapter. Alat Monitor Splitter ini mempunyai dua bagian, electronic switch dan multiplexer. Bagian multiplexer dihubungkan dengan IBM-PC melalui rangkaian decoder alamat dan buffer data. Alat ini dikendalikan oleh sebuah software yang dijalankan dari sebuah komputer IBM-PC yang merupakan pusat dari jaringan bintang tersebut. Software ini akan mengirimkan bit-bit data yang berfungsi untuk mengatur kerja rangkaian electronic switch dan rangkaian multiplexer pada alat ini. Dari perencanaan dan pembuatan peralatan pada tugas akhir ini dapat disimpulkan bahwa prinsip kerja monitor splitter ini adalah mengumpulkan sinyalsinyal CGA dari beberapa komputer tetapi hanya sebuah yang diteniskan, sebaliknya dapat pula menerima sinyal CGA dari sebuah komputer dan dikirimkan pada sebuah atau beberapa komputer.",
+  "creators": "Budhi Hartono",
+  "contributors": "AGUS MULYANTO (Examination Committee 1); Rolly Intan (Advisor 2); MOCHAMMAD HEROE (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.94/E/EL/021/0178; Budhi Hartono (23485062)",
+  "subjects": "MONITOR COMMAND SYSTEM (COMPUTER PROGRAM); MONITOR SPLITTER"
+}

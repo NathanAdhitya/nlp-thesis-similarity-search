@@ -1,0 +1,14 @@
+{
+  "id": "50160",
+  "title": "Implementasi optical character recognition untuk pembacaan mileage mobil",
+  "abstract": "Perawatan mobil yang diperlukan secara berkala dapat ditentukan oleh faktor salah satunya adalah mileage mobil. Penginputan data mileage mobil masih dilakukan secara manual, dengan berkembangnya teknologi saat ini dapat digunakan optical character recognition untuk menginput data mileage mobil secara otomatis. Tugas akhir ini bertujuan untuk membuat aplikasi pemindaian data odometer dengan menggunakan SDK MLKit beserta API CameraX. Kinerja aplikasi tersebut akan diuji dengan kriteria: Pengujian menggunakan flash kamera, pengujian menggunakan filter pengolahan citra, pengujian pada variasi jarak serta pengujian dengan kemiringan. Hasil pengujian menunjukkan bahwa aplikasi memiliki tingkat keberhasilan lebih tinggi apabila menggunakan flash kamera dan pengambilan dilakukan pada posisi tegak dengan jarak kurang dari 10 cm dari odometer, serta tanpa menggunakan filter.",
+  "creators": "ALEXANDER THEO WILLIAM CHRIS PURMATA",
+  "contributors": "Indar Sugiarto (Advisor 1); Resmana Lim (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011025/ELK/2021; Alexander Theo William Chris Purmata (C11170043)",
+  "subjects": "AUTOMOTIVE SENSORS; DIGITAL CAMERAS; ANDROID (ELECTRONIC RESOURCE); IMAGE PROCESSING; OPTICAL CHARACTER RECOGNITION"
+}

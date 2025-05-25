@@ -1,0 +1,14 @@
+{
+  "id": "11417",
+  "title": "Identifikasi sistem orde 1 dan 2 dengan bode diagram",
+  "abstract": "Identifikasi sistem ini dipelajari untuk mempermudah pengidentifikasian rangkaian dari bentuk fisik (rangkaian elektronika) menjadi persamaan matematika. Cara-cara lama seperti penurunan rangkaian menjadi persamaan matematika secara fisik untuk rangkaian orde tinggi kurang efektif walaupun terkadang penurunan secara fisik lebih mudah dari pada secara Bode diagram. Penurunan secara bode diagram merupakan sebuah pendekatan, dimana hasil yang didapat akan sulit untuk mendapatkan nilai tepatnya. Hal ini disebabkan oleh pendekatan yang di lakukan adalah pendekatan grafik. Tugas akhir ini dibuat untuk mengatasi kesulitan dari penurunan secara fisik. Dimana kita mempelajari empat pembentuk rangkaian utama. Pengujian telah dilakukan pada beberapa macam rangkaian seperti rangkaian penguat (Gain K), turunan, integral, dan lain-lain. Dimana dalam pengidentifikasian ini tidak melakukan pengujian pada rangkaian nyata. Pengujian rangkaian pada EWB (Electronic Work Bench) akan menghasilkan grafik, dari grafik ini akan kita analisis agar kita mendapatkan magnitude dan sudut fase. Hasil magnitude dan fase dari analisa akan kita bandingkan dengan hasil MATLAB (Matrix Laboratory). Hasil dari pengujian antara EWB dan MATLAB akan dibandingkan, hasil dengan Bode diagram didapat pendekatan yang mendekati dengan persamaan penurunan fisik. Dari hasil ini didapatkan analisa akhir. Dalam pengujian Bode diagram pada rangkaian op-amp didapati adanya frekuensi cutoff dari sini perlu dilihat kembali karakteristik dari op-amp sehingga didapat menyelesaikan perbedaan antara hasil dari grafik EWB dan grafik MATLAB. Setelah diuji, didapatkan pada magnitude terdapat sedikit perbedaan hasil grafik, hal ini disebabkan karena penggunaan grafik sebagai penurunan. Sedangkan pada sudut fase didapatkan adanya pembalikan nilai tanda (positif dan negatif) pada hasil grafik rangkaian inverting. Pada pengujian ini juga menyertakan pengujian rangkaian tanpa op-amp untuk menunjukkan bahwa rangkaian op-amp benar-benar terdapat frekuensi cutoff.",
+  "creators": "ANDY BAGUS NATALIMA",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010784/ELK/2006; Andy Bagus Natalima (23499054)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; MATLAB"
+}

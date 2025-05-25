@@ -1,0 +1,14 @@
+{
+  "id": "60640",
+  "title": "Pembuatan aplikasi chatbot kerohanian berbasis retrieval augmented generation Berbahasa Indonesia",
+  "abstract": "Kecerdasan buatan chatbot seperti ChatGPT dimanfaatkan untuk berbagai bidang, termasuk dalam kekristenan. Chatbot dapat digunakan untuk membantu dalam pembuatan materi Kekristenan, mengolah ulang khotbah, membantu kegiatan atau aktivitas Kekristenan, serta pendalaman Alkitab. Namun, chatbot terkadang memberi informasi yang kurang akurat dan kurang mendalam. Oleh karena itu, penelitian ini menggunakan Retrieval Augmented Generation, yang menggabungkan metode retrieval (mengambil dokumen terkait) dengan generation (menulis jawaban), untuk mengembangkan aplikasi chatbot yang dapat menjawab pertanyaan mengenai Alkitab dan kekristenan dengan lebih akurat dan mendalam. Penelitian ini menggunakan model DPR(Dense Passage Retriever) untuk retrieval dan LLM(Large Language Models) seperti Llama2 dan Mistral dalam generation. Hasil penelitian menunjukkan bahwa model chatbot dapat mengambil dokumen dan menghasilkan jawaban yang cukup terkait dengan pertanyaan pengguna. Model menghasilkan nilai Context Relevance 0.830, Groundedness 0.444, dan Answer Relevance 0.803. Selain itu, model juga diuji berdasarkan kesesuaian jawabannya dengan Alkitab atau Kekristenan serta aspek kedalaman jawaban. Dalam pengujian yang jawabannya diverifikasi oleh ahli pakar, hanya 40% jawaban sesuai dengan Alkitab. Dengan 60% jawaban model masih mengandung hal-hal yang tidak alkitabiah. Sebanyak 47% jawaban model juga kurang mendalam dalam Alkitab atau Kekristenan.",
+  "creators": "SEBASTIAN JONATHAN",
+  "contributors": "Liliana (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022567/INF/2024; Sebastian Jonathan (C14200157)",
+  "subjects": "CHATBOTS--COMPUTER PROGRAMS; DEEP LEARNING (MACHINE LEARNING); QUESTION ANSWERING SYSTEMS"
+}

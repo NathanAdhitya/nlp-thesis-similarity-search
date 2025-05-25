@@ -1,0 +1,14 @@
+{
+  "id": "1111",
+  "title": "Studi XML dan microsoft SQL Server 2000 serta penerapannya pada aplikasi e-commerce",
+  "abstract": "Perkembangan kebutuhan akan pengolahan dokumen terdistribusi di internet yang tidak dapat dilakukan dengan HTML (Hypertext Markup Language) telah mendorong dikembangkannya XML (Extensible Markup Language). XML tidak menspesifikasikan tag sehingga memungkinkan siapapun membuat tag sendiri. Dengan tag tersebut pengguna dapat memberikan deskripsi dan informasi mengenai data serta menstrukturkan data dalam dokumen XML. Microsoft SQL Server 2000 memampukan pengaksesan data melalui internet dan menghasilkan data dalam format XML. Juga terdapat fitur untuk memanipulasi data dari suatu dokumen XML ataupun memanipulasi data dengan teknologi XML. XML merupakan suatu format data yang dapat berjalan pada berbagai platform (sistem operasi, aplikasi, database bahkan hardware) yang berbeda sehingga memungkinkan pertukaran data antar sistem melalui internet. Dalam studi kasus ditunjukkan penggunaan XML dalam e-commerce business-to-business yang menangani penjualan komputer dari suatu distributor ke pelanggannya yang memiliki toko komputer. Jika menggunakan web database yang menggunakan ASP/ADO maka proses pembelian barang akan selesai sampai proses pembelian saja sehingga pemesan harus memasukkan lagi data barang yang telah dibelinya ke database. Namun jika terdapat dokumen XML yang merupakan hasil dari proses pembelian barang maka pemesan dapat mengotomasi proses entry data ke database sehingga proses ini dapat berjalan lebih cepat dan efektif. Untuk aplikasi yang memiliki data dalam jumlah kecil, execution time dan refresh rate yang dihasilkan olah aplikasi yang memanfaatkan XML memberikan hasil yang kurang lebih sama cepat dengan aplikasi ASP/ADO namun untuk data yang besar misalnya sekitar 50.000 data aplikasi yang memanfaatkan XML kalah cepat dibanding aplikasi ASP/ADO. Perbedaan ini dikarenakan bahwa XML bukan suatu mekanisme pengakses database melainkan suatu format data. Keamanan untuk web yang memanfaatkan XML sama dengan web HTML atau ASP. Apabila menggunakan database Microsoft SQL Server 2000 harus diatur pula keamanan pada IIS for SQL Server. XML memisahkan antara data dan presentasi, dimana presentasi dibuat dalam suatu file XSL dan file XSL ini lebih modular dibandingkan HTML.",
+  "creators": "SETIAWAN WIWEKO LOPITO",
+  "contributors": "Kartika Gunadi (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010010/INF/2002; Setiawan Wiweko Lopito (26498138)",
+  "subjects": "ELECTRIC MAIL, SYSTEMS; E-COMERCE (COMPUTER PROGRAM); INTERNET (COMPUTER NETWORKS)"
+}

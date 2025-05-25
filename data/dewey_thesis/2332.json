@@ -1,0 +1,14 @@
+{
+  "id": "2332",
+  "title": "Face recognition menggunakan metode Linear Discriminant Analysis (LDA)",
+  "abstract": "Berkembangnya teknologi computer vision dan image processing di dunia dewasa ini menyediakan kemungkinan bam untuk membuat suatu sistem yang dapat membantu manusia dalam pengenalan suatu citra digital. Face Recognition Menggunakan Metode Linear Discriminant Analysis (LDA) lni dibuat untuk mengenali wajah seseorang berdasarkan beberapa image dari orang tersebut yang sudah dimasukkan ke sebuah sistem database.Tugas akhir ini juga sekaligus ingin membandingkan antara 2 metode yang sering digunakan, yaitu PCA (Principal Component Anctlysis) dan LDA (Linear Discriminant Analysis). Selain itu, dalam tugas akhir ini akan digabungkan kedua metode tersebut untuk mendapatkan hasil yang lebih maksimal dengan waktu proses yang lebih singkat. Program face recogmtion ini dibuat dengan menggunakan bahasa pemrograman Borland Delphi 6.0. Pada akhir program, dibuat sebuah sub-program untuk melakukan testing mengenali wajah seseorang dengan menggunakan jumlah image training dan image test yang berbeda-beda. Dari data tersebut akan dilihat recognition percentage dari masing-masing algoritma. Recognition percentage yang didapatkan dari hasil pengujian bervariasi, tergantung pada jumlah image training dan database yang dipakai. Dari hasil pengujian, didapatkan hasil maksimum 78 % untuk database dengan 12 orang masing-masing 8 image training, dan hasil maksimum 100 % untuk pengujian dengan yale faces database. Sistem ini dapat dikembangkan dengan menggabungkan program ini dengan program pelacak wajah (face tracking) untuk sistem keamanan di bandara sebagai sistem keamanan dari teroris atau pembajak.",
+  "creators": "RAYMOND",
+  "contributors": "Resmana Lim (Advisor 1); Kartika Gunadi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/E/KOM/003/095; Raymond (23496066)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

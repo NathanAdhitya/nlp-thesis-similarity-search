@@ -1,0 +1,14 @@
+{
+  "id": "11387",
+  "title": "Perencanaan dan pembuatan pengenal suara manusia sebagai password menggunakan hubungan antar muka dengan IBM PC AT",
+  "abstract": "Pada Tugas Akhir ini dibuat suatu alat untuk Pengenalan Suara Pembicaraan (Speech recognition) yang digunakan sebagai Password. Permasalahan dibatasi pada Pengenalan Suara Pembicaraan yang merupakan sepatah kata (Isolated Word) yang berasal dari orang tertentu saja (Speaker dependence ). Untuk pemrosesan sinyal digunakan komputer IBM PC/AT sehingga mempermudah pembuatan perangkat lunak yang direncanakan. Adapun untuk perangkat keras yang digunakan direncanakan suatu kartu hubungan antar muka yang berfungsi untuk memperoleh data sampel suara dalam bentuk digital. Metode yang digunakan untuk proses pengenalan adalah algoritma Yule-Walker, yaitu menghitung fungsi autokorelasi dari data sampel, kemudian mengekstrak parameter-parameter yang dikenal sebagai Linear Predictive Code (LPC) dari fungsi autokorelasi tersebut. Dilanjutkan dengan proses perbandingan dengan menggunakan Algoritma Dynamic Time Warping. Pada akhirnya diambil suatu keputusan yang menyatakan sampel suara tersebut dikenal atau tidak. Selain untuk aplikasi password, suatu sistem pengenalan suara dapat digunakan untuk aplikasi Speech to text (perkataan menjadi teks). Tetapi pada tugas akhir ini aplikasi Speech to text tidak dapat diterapkan karena performa sistem pengenalan yang kurang baik, karena lambatnya proses pengenalan. Kemampuan sistem yang dibuat pada Tugas Akhir ini, memberikan hasil yang cukup baik. Sistem ini mampu untuk membedakan dan mengenali kata yang diucapkan seseorang. Tetapi sistem ini kurang mampu untuk membedakan ucapan yang terdengar hampir sama.",
+  "creators": "JOSEPH",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/029/0196; Joseph (23489045)",
+  "subjects": "IBM PC AT (COMPUTER); AUTOMATIC CONTROL"
+}

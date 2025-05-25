@@ -1,0 +1,14 @@
+{
+  "id": "27977",
+  "title": "Perencanaan dan pembuatan kontrol lengan jenis scara sebagai pemindah material paca cell manufacturing dengan mikrokontroler 80C52",
+  "abstract": "Robot SCARA ini merupakan salah satu komponen dari industri perakitan yang bertugas sebagai pemindah material dari meja yang satu ke meja yang lain sejauh dalam jangkauan lengan robot tersebut, yang dapat dijalankan secara manual atau dengan cara memasukkan arah gerakan kekanan atau kekiri dan sejauh mana akan digerakkan. Sistem pengendalian gerakkan dilakukan dengan papan tuts dan tampilan LCD untuk mengendalikan gerakan pada masing-masing lengan, dan LCD digunakan untuk menampilkan lengan mana dan sejauh mana lengan tersebut akan digerakkan. Sebagai pengaman dari gerakkan lengan-lengan robot maka diletakkan saklar mikro pada masing-masing lengan untuk membatasi gerakkan lengan robot jika berada diluar kendali sistem elektronik yang normal. Untuk mengetahui posisi atau sejauh mana lengan itu digerakan maka digunakan sensor posisi dan sensor slip untuk mengetahui keadaan benda yang dijepit. Motor yang digunakan ada 5 buah: Motor 1 digunakan untuk menggerakkan lengan 1, Motor 2 digunakan untuk menggerakkan lengan 2, Motor 3 digunakan untuk menggerakkan naik-turun penjepit, Motor 4 untuk menggerakkan atau memutar penjepit dan Motor 5 digunakan untuk menjepit material. Direncanakan robot SCARA ini dapat bergerak dengan jalan diprogram melalui papan tuts dan kemudian robot tersebut dapat melakukan sesuatu hal secara berulang-ulang seperti yang biasa dilakukan pada pabrik-pabrik. Maka pekerjaan rutin yang biasa dilakukan oleh manusia dan bisa menimbulkan kebosanan dapat digantikan dengan robot yang tidak mengenal kebosanan dalam melakukan rutinitas kerja. Kemampuan robot ini dapat mengangkat benda dan memindahkan dari satu meja kerja atau mesin ke meja kerja atau mesin yang lain untuk dilakukan proses lanjut.",
+  "creators": "ALEXIUS JEMMY HARTONO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); MOCHAMAD HEROE (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/023/0180; Alexius Jemmy Hartono (23487021)",
+  "subjects": "INTEL 80C52 (MICROCONTROLLER); ROBOTICS"
+}

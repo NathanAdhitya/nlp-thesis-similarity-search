@@ -1,0 +1,14 @@
+{
+  "id": "50279",
+  "title": "Otomasi pencatatan kehadiran kuliah mahasiswa",
+  "abstract": "Dengan adanya teknologi yang semakin maju maka komputer mempunyai peranan yang penting terutama untuk mengerjakan berbagai hal yang sulit dilakukan oleh manusia. Seperti. yang telah diketahui bahwa pada suatu lembaga pendidikan terutama perkuliahan diperlukan adanya pencatatan kehadiran mahasiswanya. Pencatatan ini akan menjadi suatu dokumen yang berguna untuk memantau partisipasi dari mahasiswa dalam mengikuti perkuliahan yang ada. pencatatan kuliah yang dilakukan secara periodik dalam satu minggu selama satu semester jika dilakukan secara otomatis dengan bantuan komputer tentunya akan sangat menghemat waktu serta akan membantu mengurangi faktor kesalahan manusia dalam melakukan pencatatan Data yang akan di-input-kan pada program untuk menunjang otomasi pencatatan adalah, jadwal dari mata kuliah yang memerlukan pencatatan kehadiran kuliah mahasiswanya. Dengan data tersebut serta ditambahkan data peserta perkuliahan maka program otomasi pencatatan kehadiran kuliah mahasiswa ini akan memberikan output berupa data kehadiran mahasiswa. Input, pada minimum system dari mahasiswa peserta kuliah yang berupa barcode yang tercetak pada KTM akan diterima oleh minimum system yang terhubung dengan menggunakan komunikasi serial RS-485, yang bersifat komunikasi mitltipoinl. Proses yang diperlukan untuk mendapatkan input data yang ben'ar adalah adanya input mahasiswa sebanyak' dua kali dengan adanya ‘ACC’ dari dosen pengajar diantaranya. Proses otomasi ini telah disimulasikan dengan menggunakan input, dari barcode pada KTM mahasiswa UK Petra (yang menggunakan standar kode 39) pada minimum system, dan data dapat diolah dengan baik dari minimum system sampai dengan pencatatan di-client dengan melalui server. Hasil akhir dari otomasi pencatatan kehadiran kuliah mahasiswa ini berupa tabel presensi yang dapat dicetak pada client.",
+  "creators": "BAMBANG CAHYONO",
+  "contributors": "Kartika Gunadi (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Lauw Lim Un Tung (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01 /E/KOM/016/Ó92; Bambang Cahyono (23497052)",
+  "subjects": "AUTOMATIC MACHINERY; COLLEGE ATTENDANCE"
+}

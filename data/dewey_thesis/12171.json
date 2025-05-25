@@ -1,0 +1,14 @@
+{
+  "id": "12171",
+  "title": "Pembuatan aplikasi data mining market basket analysis pada minimarket Sembilan dengan metode hybrid-dimension association rules",
+  "abstract": "Dengan perkembangan yang sangat pesat terhadap teknologi pengoleksian dan penyimpanan data memungkinkan pengumpulan data dengan lebih cepat, kapasitas yang lebih besar, dan harga yang lebih murah sehingga menimbulkan penumpukan koleksi data. Tetapi kecepatan bertambah banyaknya data tersebut tidak diimbangi dengan banyaknya penarikan informasi dari data tersebut, akibatnya akan memberikan nilai yang kecil terhadap pemanfaatan teknologi. Minimarket Sembilan telah menggunakan sistem komputerisasi dalam setiap transaksi penjualannya sehingga dibutuhkan suatu aplikasi yang dapat memberikan informasi bagi pengambil keputusan dengan menggunakan data transaksi minimarket. Salah satu aplikasi yang dapat membantu dalam pengambilan keputusan adalah data mining. Penulis menerapkan data mining dengan metode market basket analysis dimana metode tersebut akan menganalisa kebiasaan pembeli dengan menemukan hubungan antara barang yang berbeda pada keranjang belanja (market basket) dengan waktu pembelian. Software yang dibuat akan menggunakan algoritma apriori. Data-data yang sudah dipersiapkan akan diolah sesuai algoritma untuk menghasilkan frequent itemsets yang pada akhirnya akan menghasilkan Hybrid-dimension association rules dan ditampilkan dalam bentuk grafik dan tabel. Penulis menggunakan software Borland Delphi 7 dan Microsoft Access 2007 dalam pembuatan software. Dengan menggunakan output dari software ini, yang berupa association rules dan grafik, pengambil keputusan dapat mengetahui barang-barang apa saja yang sering dibeli bersamaan oleh konsumen di minimarket Sembilan.",
+  "creators": "I WAYAN JATU WIRA PURNAMA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Agustinus Noertjahyana (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02020830/INF/2009; I Wayan Jatu Wira Purnama (26405140)",
+  "subjects": "DATA MINING; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

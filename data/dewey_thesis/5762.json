@@ -1,0 +1,14 @@
+{
+  "id": "5762",
+  "title": "Antena RFID external",
+  "abstract": "Saat ini, teknologi RFID sudah banyak dikenal masyarakat di dunia. Banyak aplikasi yang sudah menggunakan teknologi RFID ini. Di wilayah Asia (khususnya di Indonesia), frekuensi rendah (LF) paling banyak digunakan dalam teknologi RFID ini. Dengan memanfaatkan frekuensi rendah, jarak pembacaan dari reader RFID tidak dapat jauh. Untuk memperpanjang jarak baca, maka diperlukan sebuah antena tambahan pada reader (antena external) Antena external ini dihubungkan dengan port yang terdapat pada reader, sebagian besar reader selalu menyediakan port untuk antena external ini. Antena external ini dibuat dengan menggunakan sebuah kawat tembaga yang dibentuk menjadi sebuah kumparan berintikan udara. Banyak faktor yang perlu diperhatikan dalam pembuatan antenna reader (agar dapat memperoleh hasil yang maksimal), yaitu pemilihan kawat tembaga, bentuk antenna, pengaruh logam di sekitar kumparan. Pengujian dilakukan menggunakan ID-10 RFID reader. Tanpa adanya tambahan external antenna, diperoleh jarak baca terjauh 4cm. Dengan antenna berbentuk persegi panjang ukuran 30,3x25,3cm diperoleh jarak baca sekitar 27cm (tanpa adanya perubahan data RFID). Dari pengujian terbaik diperoleh nilai induktansi antenna antara 1,5-1,7mH dengan faktor Q lebih dari 3, yang dibentuk dengan melilitkan kawat tembaga berdiameter 0,5mm sebanyak 41 lilitan.",
+  "creators": "BUDIONO WIJAYA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010766/ELK/2005; Budiono Wijaya (23401123)",
+  "subjects": "RADIO FREQUENCY IDENTIFICATION SYSTEMS; RADIO CONTROL"
+}

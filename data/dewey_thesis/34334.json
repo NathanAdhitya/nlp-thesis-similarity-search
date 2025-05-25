@@ -1,0 +1,14 @@
+{
+  "id": "34334",
+  "title": "Sistem kendali dan pemantauan kursi roda elektrik",
+  "abstract": "Banyak manula dan orang difabel tidak mampu untuk berjalan dengan kakinya sendiri. Kursi roda merupakan alat yang biasa digunakan untuk menolong mereka. Saat pihak keluarga ingin membantu mendorong kursi roda tersebut, beberapa dari mereka akan merasa kesulitan karena bobot yang tidak ringan. Khusus untuk para manula, mereka juga memiliki kelemahan tubuh yang lain, yaitu penurunan daya ingat, bahkan beberapa dari mereka tidak ingat jalan pulang. Kursi roda yang biasanya dikendalikan secara manual, akan lebih ringan bila dikendalikan dengan motor elektrik. Namun, masih diperlukan adanya fasilitas pengendali khusus untuk pihak keluarga yang membantu pengguna. Oleh karena itu, kursi roda elektrik akan diberi tambahan alat pengendali khusus yang dapat digunakan oleh pengguna kursi roda dan pihak keluarga. Alat pengendali yang ditambahkan berupa PS2 wireless controller, Arduino, dan EMS 30A HBridge. Alat pemantauan juga akan ditambahkan ke kursi roda elektrik, agar pihak keluarga bisa memantau posisi pengguna kursi roda elektrik dan dapat menolong pengguna kursi roda elektrik yang tidak ingat jalan pulang. Alat pemantauan ini berupa sebuah Arduino, GPRS/GSM/GPS module V3.0, dan android. Kursi roda elektrik yang dimodifikasi dengan tambahan alat pengendali dan pemantauan dapat membantu pengguna kursi roda elektrik dan pihak keluarga, tetapi masih ada kelemahan pada alat pemantauan. Posisi yang ditampilkan oleh alat pemantauan masih bergeser sekitar 12 meter dari posisi sebenarnya.",
+  "creators": "DANIEL CHRISTIAN Y",
+  "contributors": "Handry Khoswanto (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010943/ELK/2015; Daniel Christian Yunanto (23411004)",
+  "subjects": "ELECTRIC MOTORS; WIRELESS COMMUNICATION SYSTEMS"
+}

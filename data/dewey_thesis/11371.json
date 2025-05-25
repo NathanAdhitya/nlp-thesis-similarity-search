@@ -1,0 +1,14 @@
+{
+  "id": "11371",
+  "title": "Sms gateway sistem informasi laboratorium telematika jurusan teknik elektro Universitas Kristen Petra",
+  "abstract": "Teknologi informasi, media pengiriman dan penerimaan informasi telah memungkinkan mahasiswa untuk mengakses informasi tentang perkuliahan. Seperti halnya pada Universitas Kristen Petra, mahasiswa dapat mengakses tentang informasi perkuliahan dengan ASIT melalui internet. Untuk memenuhi kebutuhan mahasiswa yang saat ini semakin mobile, maka diperlukannya suatu sistem yang dapat memenuhi kebutuhan tersebut. Sistem yang dapat mendukung kebutuhan secara mobile tentunya memerlukan peralatan yang mobile juga, dalam hal ini tentu saja peralatan yang dibutuhkan adalah handphone. Oleh karena itu untuk membuat sistem bekerja pada handphone adalah dengan menggunakan SMS Gateway. Sistem SMS Gateway dibangun dengan tiga hal utama yaitu Gammu sebagai tools server khusus SMS Gateway, PHP sebagai bahasa pemrograman untuk membuat SMS web application, dan MySQL sebagai database server. Dimana Gammu ini berfungsi menghubungkan komputer dengan handphone sebagai server SMS Gateway yang memproses pengiriman dan penerimaan SMS. Sedangkan database MySQL berfungsi untuk menyimpan data-data bawaan dari Gammu dan data-data informasi dari web application, dengan kata lain MySQL disini berperan sebagai penghubung antara Gammu dengan PHP. Sedangkan PHP sendiri berfungsi untuk membuat SMS web application yang memproses datadata perkuliahan, dan memproses SMS masuk yang kemudian secara otomatis melakukan SMS balasan atau auto reply. Hasil dari pengujian provider yang paling optimal sebagai server adalah Simpati Telkomsel dengan kecepatan kirim rata-rata 16,55 detik, tetapi kecepatan ini juga tergantung pada keadaan jaringan dan kualitas handphone. Sistem SMS Gateway ini akan memproses SMS dengan metode FIFO (First In First Out) dimana SMS yang masuk pertama kali akan langsung diproses dan dikirimkan pertama kali juga. Untuk memudahkan admin dalam mengelola SMS Gateway ini dibuat SMS web application dengan menggunakan browser yang paling optimal menampilkan web application ini adalah Mozilla Firefox. Oleh karena itu, sistem informasi dengan SMS Gateway ini akan memberikan tingkat aksesbilitas yang tinggi untuk mahasiswa dengan informasi yang efektif dan efesien.",
+  "creators": "HENDRA SETIA PERMANA",
+  "contributors": "Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 1); Indar Sugiarto (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010085/ELK/2009; Hendra Setia Permana (23405036)",
+  "subjects": "DATABASE MANAGEMENT; ONLINE DATABASES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "50249",
+  "title": "Optimasi resource constrained project scheduling problem menggunakan metode genetic algorithm dan symbiotic organisms search",
+  "abstract": "Resource constrained project scheduling problem (RCPSP) merupakan gabungan dari permasalahan sumber daya yang terbatas dan juga permasalahan perencanaan penjadwalan proyek. Penting untuk mengatur atau mengalokasikan sumber daya yang terbatas guna menghasilkan waktu yang optimal. Untuk itu dilakukan penelitian lebih mendalam untuk mengetahui metode mana yang baik dalam menyelesaikan RCPSP. Ada lima jenis proyek dengan karakteristik berbeda-beda serta jumlah item pekerjaan beragam yang digunakan sebagai study case. Penelitian ini membandingkan symbiotic organisms search (SOS) dan genetic algorithm (GA) untuk melihat mana yang memberikan waktu yang optimal dengan sumber daya yang terbatas. Kelima proyek menggunakan parameter yang sama yaitu populasi 50 dan iterasi 500 kali untuk SOS dan GA. Hasil dari penelitian ini menyimpulkan bahwa SOS memberikan waktu yang lebih optimal dibandingkan dengan GA. Dari hasil optimasi, SOS menghasilkan rata-rata penurunan waktu sebanyak 30.35% sedangkan GA menghasilkan rata-rata penurunan waktu sebanyak 25.39%.",
+  "creators": "Evan Filbert Sikomena",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Doddy Prayogo S.T. (Advisor 2); Januar Budiman (Examination Committee 1); Willy Husada, ST.,MT., Msc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000301/MTS/2021; Evan Filbert Sikomena (B21180008)",
+  "subjects": "CONSTRUCTION INDUSTRY--MANAGEMENT; PROJECT MANAGEMENT--COMPUTER PROGRAMS"
+}

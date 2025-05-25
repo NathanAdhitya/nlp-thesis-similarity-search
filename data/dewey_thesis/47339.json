@@ -1,0 +1,14 @@
+{
+  "id": "47339",
+  "title": "Prediksi retensi customer berdasarkan support vector machine dengan preprocessing menggunakan hadoop",
+  "abstract": "Saat ini, banyak sekali perusahaan yang sering memberikan penawaran berupa diskon atau promo kepada customer. Tujuannya adalah agar perusahaan dapat menarik customer baru. Namun penawaran yang diberikan tidak dapat dilakukan secara acak, melainkan harus tertuju kepada customer yang sesuai. Hal ini agar perusahaan tidak perlu mengeluarkan terlalu banyak biaya. Penelitian ini akan melakukan prediksi retensi customer dengan menggunakan metode SVM (Support Vector Machine). Data yang digunakan yaitu Acquire Valued Shopper Challenge yang diambil dari website Kaggle. Sebagaimana program yang digunakan yaitu java dengan framework Hadoop untuk proses preprocessing dan pembuatan feature serta python untuk implementasi SVM. Pengujian dilakukan sebanyak dua kali dengan menggunakan data yang berbeda. Objektif yang ingin dicapai dari pengujian adalah agar model yang dibuat dapat memprediksi customer yang akan melakukan retensi apabila mendapatkan offer. Dengan pengujian yang dilakukan, hasil terbaik untuk menjawab objektif adalah menggunakan data pada percobaan kedua dengan rasio data training terhadap data testing adalah 7:3 dan gamma 0.1 dengan akurasi yang diperoleh adalah 58,21%.",
+  "creators": "GIOVANNI GABRIELA GUNADI",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Hans Juwiantho (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021971/INF/2020; Giovanni Gabriela Gunadi (26416074)",
+  "subjects": "APACHE HADOOP; SUPPORT VECTOR MACHINE"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "54086",
+  "title": "Pengoptimalan pengaturan dual injector dengan memanfaatkan Variable Valve Actuation pada Yamaha Matic 155",
+  "abstract": "Variable Valve adalah teknologi yang mengatur Timing, Duration dan Lift dari sebuah operasional Camshaft. Dual Port Injection adalah suatu konfigurasi injector pada Port Injection dimana pengoperasiannya menggunakan 2 injektor. Pada penelitian ini, penulis mengaplikasikan pengaturan dual injector pada sistem EFI dari Mesin Yamaha Matic 155 yang dilengkapi dengan teknologi VVA (Variable Valve Actuation) yang merupakan Variable Valve Lift yang mengatur Lift dari pengoperasian camshaft Pemasangan Dual injector pada Yamaha Matic 155 didukung dengan ECU BRT JUKEN 5+ Racing Turbo yang mendukung pemasangan Turbo Injector dan dapat diprogram parameter pengoperasianya. Adapun parameter yang diubah dalam penelitian ini adalah RPM saat Turbo Injector diaktifkan, RPM saat VVA diaktifkan, Base Map penyemprotan bahan bakar dan Ignition Timing. Hasil pengujian menunjukan bahwa melakukan Tuning AFR dan Ignition Timing pada Single Injection terdapat kenaikan horsepower sebesar 13.5%. Dengan Lambda yang serupa, pengaturan dual injector terdapat kenaikan Horsepower sebesar 18% dan Pengoptimasian lebih lanjut pada pengaturan dual injector menghasilkan kenaikan Horsepower sebesar 23%. Perubahan RPM Engagement Turbo injector tidak memiliki perubahan yang berarti. Perubahan RPM Engagement VVA membuktikan bahwa RPM Engagement terbaik untuk Camshaft Standart adalah 6000 RPM dimana pada rpm tersebut menghasilkan kompromi terbaik pada torsi putaran bawah dan torsi putaran atas.",
+  "creators": "MICHAEL KENNY",
+  "contributors": "Ian Hardianto Siahaan (Advisor 1); Sutrisno S.T.,M.T. (Advisor 2); Fandi Dwiputra Suprianto, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011457/MES/2022; Michael Kenny (C12180025)",
+  "subjects": "AUTOMOBILES--MOTORS--FUEL INJECTION SYSTEMS; MOTORCYCLES--PERFORMANCE"
+}

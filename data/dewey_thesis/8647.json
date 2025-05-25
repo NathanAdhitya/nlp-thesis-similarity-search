@@ -1,0 +1,14 @@
+{
+  "id": "8647",
+  "title": "Sistem absensi yang dilengkapi webcam untuk verifikasi wajah",
+  "abstract": "Sistem absensi yang menggunakan verfifikasi wajah diharapkan dapat merekam data absensi dengan lebih valid. Metode yang digunakan dalam verifikasi wajah dalam sistem absensi ini adalah Principal ComponentAnalisys (PCA), sedangkan untuk fungsi-fungsi pendukung digunakan Intel Image Processing Library (IPL). Dengan menggunakan metode PCA yang didukung dengan library IPL, maka input data berupa image akan diolah menjadi suatu informasi yang berguna. Program yang digunakan untuk sistem absensi dan verifikasi wajah adalah Microsoft Visual C++ dan untuk database digunakan Microsoft Access. Input yang diberikan untuk sistem ini adalah image wajah dari masing-masing individu untuk database wajah maupun sebagai image pembanding. Dengan metode PCA akan dilakukan verifikasi wajah dengan database wajah sebagai pembanding dan hasilnya akan terekam dalam database, dengan parameter-parameter seperti jumlah features yang digunakan, jumlah image database, jumlah individu yang ada. Hasil pengujian menunjukkan bahwa dengan naik dan turunnya nilai threshold maka akan berpengaruh pada tingkat kebenaran dalam proses verifikasi. Nilai threshold sendiri diambil dari rata-rata nilai distance yang diambil batas atasnya. Nilai distance sendiri merupakan hasil perhitungan dari algoritma PCA. Dari pengujian yang dilakukan dengan latar belakang gambar yang beragam maka sistem akan memiliki tingkat verifikasi yang rendah, karena latar belakang sangat berpengaruh dalam pengolahan gambar itu sendiri. Diharapkan sistem ini dapat dikembangkan lebih jauh dengan adanya suatu nilai standard untuk parameter-parameternya, seperti harus digunakan background seperti apa, nilai threshold, jumlah features dan lain-lain.",
+  "creators": "DANIEL SOEMARTONO",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010025/ELK/2005; Daniel Soemartono (23400033)",
+  "subjects": "NEURAL NETWORK (COMPUTER SCIENCE); IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

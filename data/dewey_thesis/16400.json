@@ -1,0 +1,14 @@
+{
+  "id": "16400",
+  "title": "Perencanaan dan pembuatan pengaman tegangan lebih, tegangan kurang, fasa terbuka, arus lebih, arus hubung singkat, arah putar, kecepataan lebih, kecepatan kurang dan suhu pada motor asinkron 0,37 KW..",
+  "abstract": "Pengaman motor merupakan alat yang cukup penting untuk mencegah kerugian yang disebabkan karena kesalahan dari operator, beban berlebih serta perubahan yang tidak diijinkan terhadap kondisi kerja motor. Untuk perubahan karakter kerja motor yang dideteksi adalah urutan fasa, tegangan catu daya, arus beban lebih, suhu motor dan kecepatan putaran motor. Karakteristik pengaman motor ini didasarkan pada kondisi kerja motor secara normal, ketahanan isolasi motor sesuai kelasnya dan batas kecepatan yang diinginkan. Dimana kontrol kerja karakteristiknya dikendalikan dengan Programmable Logic Controller (PLC). Sensor akan mendeteksi parameter-parameter yang akan diukur. Parameter tadi akan diubah menjadi parameter elektris yang kemudian diolah menjadi tegangan analog untuk selanjutnya menjadi input bagi masing-masing rangkaian detektor. Dari data hasil percobaan untuk pengukuran arah putar, pengukuran tegangan, kecepatan menunjukkan hasil yang cukup linier, sedangkan untuk arus pada beban yang cukup tinggi hasilnya tidak linier karena adanya kejenuhan pada trafo arus. Karakteristik alat yang dibuat untuk kemampuan pengamanan motor induksi tiga fasa daya 0.37 KW, 220 V/380 V.",
+  "creators": "BENG FANDRIANTO",
+  "contributors": "BUNAWI GUNAWIDJAJA (Advisor 1); Andojo Ongkodjojo (Advisor 2); HADI SOETRISNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/TST/010/200; Beng Fandrianto (23491129)",
+  "subjects": "ELECTRIC POWER DISTRIBUTION; ELECTRIC POWER DISTRIBUTION-SAFETY APPLIANCES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "61071",
+  "title": "Sistem pendeteksi serbuk gerinda pada tisu berbasis kecerdasan buatan dengan menggunakan kamera RGB",
+  "abstract": "Tisu merupakan salah satu produk yang sering kita gunakan dalam kehidupan kita sehari-hari. Tisu diproduksi secara tradisional pada jaman dahulu, tetapi dengan seiring berkembangnya jaman maka tisu sudah diproduksi dengan menggunakan mesin modern. Mesin modern juga mempunyai kekurangan di mana terkadang terdapat serbuk gerinda yang dihasilkan oleh mesin dan tidak terlihat oleh mata petugas QC. Oleh karena itu penelitian ini dilaksanakan untuk mempelajari dan mengimplementasikan Artificial Intelligence dalam melakukan deteksi objek berupa serbuk gerinda. Penelitian ini akan menggunakan Seeed Studio reComputer J2021 dengan modul Nvidia Jetson Xavier NX 8GB dengan kamera RGB NYK Nemesis A90 Everest. Hasil pendeteksian akan dikirimkan melalui GPIO Jetson. Berdasarkan hasil pengujian, sistem pendeteksi dapat melakukan pendeteksian kelas Clear, Centralized Contamination, dan Spread Contamination dengan tingkat akurasi 100% dengan kecepatan motor <= 800 rpm dan jarak antar tisu yang efektif >= 20 cm. Nilai confidence threshold yang digunakan adalah 0.5 dengan nilai Precission 0.933, nilai Recall 0.895, dan nilai F1-Score 0.914, kecepatan sistem deteksi ini adalah 37 tisu/menit.",
+  "creators": "KANAKA ARDJASA WIJAYA",
+  "contributors": "Handy Wicaksono (Advisor 1); Felix Pasila (Examination Committee 1); Indar Sugiarto (Examination Committee 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011067/ELK/2024; Kanaka Ardjasa Wijaya (C11200031)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; DEEP LEARNING (MACHINE LEARNING)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "51894",
+  "title": "Studi kasus pemanfaatan Ideal Flow Network untuk mengetahui tingkat kemacetan jalan berdasarkan data GPS: kota Surabaya",
+  "abstract": "Kemacetan lalu lintas merupakan permasalahan yang sudah lama terjadi di kota-kota besar Indonesia. Untuk mengatasi masalah kemacetan ini, diperlukan perencanaan sistem transportasi yang tepat. Perencanaan lalu lintas biasanya menggunakan metode tradisional yang membutuhkan biaya mahal. Pada penelitian ini diusulkan untuk menggunakan pemodelan Ideal Flow Network untuk menganalisa tingkat kemacetan jalan. Penelitian dilakukan pada jalan-jalan di kota Surabaya menggunakan data Global Positioning System (GPS). Tujuan dari penelitian ini adalah membuat sistem yang mampu mendapatkan data GPS, mendesain sistem yang mampu membersihkan dan mengolah dari ponsel, memberikan analisa kemacetan lalu lintas berdasarkan data yang sudah diolah dan dibersihkan. Penelitian dilakukan dengan merancang aplikasi dan program pendukung, mengumpulkan data dari sukarelawan, dan mengolah data yang telah dikumpulkan. Aplikasi yang digunakan adalah aplikasi pelacak GPS pada ponsel. Pengolahan data yang dilakukan antara lain pembersihan data, pencocokan peta, proyeksi data GPS, serta analisa kemacetan menggunakan Ideal Flow Network. Hasil dari penelitian tersebut adalah aplikasi berbasis Android yang mampu mendapatkan titik koordinat melalui sensor GPS pada ponsel pintar, program yang mampu dapat membersihkan, mencocokan, mengolah, dan memproyeksi data GPS, dan tingkat kemacetan yang didapat menggunakan pemodelan Ideal Flow Network.",
+  "creators": "FELIX GIOVANNI; WENDY CAHYADI",
+  "contributors": "Ir. Kardi Teknomo (Advisor 1); Rudy Setiawan (Examination Committee 1); Joko Purnomo S.T., M.Sc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012533/SIP/2022; Felix Giovanni (B11170151), Wendy Cahyadi (B11170176)",
+  "subjects": "TRAFFIC CONGESTION; TRAFFIC ENGINEERING; TRAFFIC FLOW-DATA PROCESSING"
+}

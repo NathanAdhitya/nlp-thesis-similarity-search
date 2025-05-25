@@ -1,0 +1,14 @@
+{
+  "id": "14933",
+  "title": "Kompresi data file gambar menggunakan jaringan saraf tiruan",
+  "abstract": "Neural Network dapat digunakan untuk kompresi image. Salah satu dari pendekatan neural secara umum tentang kompresi image adalah melatih sebuah network untuk encoding dan decoding input data sehingga perbedaan yang dihasilkan antara input image dan output image dapat diminimalisasi. Untuk proses kompresi, network terdiri dari input layer dan output layer yang memiliki ukuran sama, dan intermediate layer yang memiliki ukuran lebih kecil terletak di antara kedua layer disimpan sebagai file kompresi. Perbandingan antara ukuran image asli terhadap file hasil kompresi merupakan compression ratio. Pada proses dekompresi, network biasanya digunakan untuk melatih beberapa image sekaligus sehingga dapat meminimalisasi ukuran//7<2 masukan proses dekompresi. Sebagai bahan evaluasi untuk kompresi image neural network, telah dilakukan pengujian compression ratio dan performa grayscale image hasil dekompresi . Compression ratio yang berhasil dicapai untuk monochrome image adalah 11:1 dan untuk grayscale image adalah 30:1 dengan tingkat kemiripan terendah 81.64 % .Keuntungan dari kompresi menggunakan neural network adalah ukuran file kompresi yang ditentukan oleh arsitektur jaringan.",
+  "creators": "CICILIA",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/027/541; Cicilia (23497017)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

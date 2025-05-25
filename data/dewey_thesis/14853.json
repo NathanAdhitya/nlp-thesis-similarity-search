@@ -1,0 +1,14 @@
+{
+  "id": "14853",
+  "title": "Perencanaan dan pembuatan animasi 3D",
+  "abstract": "Dunia pemrograman makin berkembang dengan pesatnya, dengan dukungan prosessor yang semakin canggih. Perkembangan ini memunculkan perangkat keras baru yang mendukung program grafik tiga dimensi, sehingga muncul program animasi tiga dimensi. Animasi 3D ini bisa digunakan sebagai alat bantu untuk memvisualkan sesuatu sesuai keadaan sebenarnya, tanpa perlu menuju lokasi sebenarnya ataupun membuat model sesungguhnya. Pada saat ini, animasi 3D sudah sering dipakai dalam video klip 3D, games 3D maupun simulator 3D sebagai bentuk sederhana dari Virtual Reality. Untuk itu penulis merencanakan dan membuat tugas akhir Animasi 3D. Program animasi 3D dibuat dengan Delphi Client/Server Suite Version 2.0, under Window 95, pada mode resolusi 800x600 pixel. Struktur data yang dipakai, array dua dimensi 1x4 dan 4x4, array ini dipakai untuk menyimpan koordinat 3D dan matrik transformasi. Prosedur-prosedur yang dibuat dibedakan berdasarkan fungsinya, yaitu fungsi matematika, proyeksi dan transformasi. Objek yang dianimasikan berupa tiga buah balok dalam bentuk Wireframe. Jenis-jenis animasi yang dilakukan berupa, rotasi, Scaling, dilatasi, pencerminan dan Shear. Proses animasi dikontrol dengan menekan tombol-tombol yang tampak pada layar monitor. Dari hasil percobaan, hasil proyeksi yang paling realistis, saat View Distance = 800. Pengunaan Local Coordinate System, sebagai penyempurnaan dari Global Coordinate System, menghasilkan proses animasi yang lebih realistis. Karena bentuk objek yang dianimasikan masih berupa Wireframe, bukan Solid Model, proses animasi yang terjadi kelihatan jauh dari sempurna.",
+  "creators": "ORNANDO GOENAWAN",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/Kom/017/039; Ornando Goenawan (23491166)",
+  "subjects": "COMPUTER ANIMATION; COMPUTER GRAPHICS--COMPUTER PROGRAMS"
+}

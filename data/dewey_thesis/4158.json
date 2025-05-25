@@ -1,0 +1,14 @@
+{
+  "id": "4158",
+  "title": "Sistem perencanaan produksi dan kebutuhan material di PT X",
+  "abstract": "PT X merupakan sebuah perusahaan yang bergerak di bidang produksi bahan baku untuk sabun dan sampo. Secara keseluruhan, terdapat 18 produk yang dihasilkan oleh perusahaan ini. Penulis melakukan perancangan sistem perencanaan kebutuhan material di perusahaan ini, karena adanya permasalahan perencanaan dan penyediaan material. Sistem ini diawali dengan peramalan yang dilakukan terhadap produk make to stock dan make to demand. Pada produk make to stock, peramalan dilakukan untuk merencanakan produksi. Pada produk make to demand, peramalan dilakukan untuk mengetahui safety stock produk. Langkah ini dilanjutkan dengan penyusunan MPS dan MRP. Analisa dilakukan dengan membandingkan antara sistem awal dan sistem usulan. Perbandingan yang dilakukan meliputi perbandingan akurasi peramalan dan biaya inventori. Sistem yang lebih baik adalah sistem dengan error yang rendah, dan biaya inventori lebih kecil. Setelah dilakukan perbandingan, didapatkan bahwa sistem usulan lebih baik dibanding sistem awal, baik dalam akurasi peramalan, maupun biaya inventori yang lebih rendah. Salah satu hasil, MAD produk A minggu 4 Mei 2004 pada sistem usulan adalah 38.25, sementara pada sistem awal, MAD produk A minggu 4 Mei 2004 adalah 41.75.",
+  "creators": "IMELDA POERNOMO",
+  "contributors": "Tanti Octavia (Advisor 1); Herri Christian Palit (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010852/IND/2004; Imelda Poernomo (25400033)",
+  "subjects": "INVENTORY CONTROL; PRODUCTION MANAGEMENT; PRODUCTION PLANNING"
+}

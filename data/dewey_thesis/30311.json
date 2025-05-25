@@ -1,0 +1,14 @@
+{
+  "id": "30311",
+  "title": "Perancangan dan pembuatan aplikasi data mining dengan Konsep fuzzy c- covering untuk membantu analisis market basket pada Swalayan X",
+  "abstract": "Sebagai salah satu aplikasi data mining, market basket analysis umumnya dilakukan dengan memakai metode Apriori. Namun, metode ini cenderung mencari tingkat asosiasi item itemnya dengan hanya menghitung berapa kali item item tersebut muncul dalam keseluruhan transaksi tanpa memperhatikan jumlah item dalam transaksi. Oleh karena itu, dalam tugas akhir ini, penulis akan mengajukan suatu konsep baru yang didasarkan pada persepsi bahwa semakin banyak item yang dibeli dalam suatu transaksi, maka hubungan antar item dalam transaksi tersebut semakin lemah. Dalam pembuatan program data mining untuk merealisasikan konsep tersebut, penulis mengumpulkan data data yang diperlukan dari swalayan X, berupa data transaksi penjualan yang terjadi selama satu bulan. Data yang didapat diubah ke bentuk yang dapat diolah oleh program dan dimasukkan ke dalam sebuah database. Kemudian sebuah algoritma dibuat untuk mengolah data tersebut dengan tujuan menghasilkan association rules dari item item di dalam transaksi. Rule dapat ditampilkan dalam bentuk tabel ataupun grafik. Dalam pembuatan program ini digunakan software Borland Delphi 7 dan MS Access 2003. Dengan menggunakan output dari program ini, yang berupa association rule, dapat diketahui tingkat asosiasi antar item yang berguna untuk membantu manajer selaku user dalam menentukan kebijakan pemasaran. Dari hasil pengujian, dapat disimpulkan bahwa semakin kecil minimum support dan confidence yang ditentukan, semakin banyak rule yang dapat dihasilkan dan waktu yang diperlukan semakin banyak. Selain itu, semakin tinggi jumlah kombinasi yang dicari, semakin sedikit waktu yang dibutuhkan.",
+  "creators": "OSMAND PRAYITNO",
+  "contributors": "Resmana Lim (Advisor 1); Gregorius Satiabudhi (Advisor 2); M. ISA IRAWAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000171/INF/2004; Osmand Prayitno (26400011)",
+  "subjects": "DATA BASE DESIGN; DATA BASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

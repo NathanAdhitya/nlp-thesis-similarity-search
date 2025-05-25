@@ -1,0 +1,14 @@
+{
+  "id": "9177",
+  "title": "Perancangan dan pembuatan kursus online dan pemesanan online pada Toko Lotus Hobbyland",
+  "abstract": "Lotus Hobbyland merupakan sebuah toko yang memberi kursus kerajinan tangan dari Paper Clay dan juga menjual bahan-bahan, alat-alat, hasil kreasi, serta perlengkapan-perlengkapan lain. Selama ini sistemnya dilakukan secara manual sehingga terdapat banyak keterbatasan. Dalam rangka penyusunan tugas akhir, maka dibuat website pemesanan online dan kursus online untuk mengatasi mengurangi keterbatasan-keterbatasan yang ada contohnya keterbatasan tempat kursus, tenaga pengajar, waktu kursus yang aktif pada jam-jam sibuk. Sistem ini menggunakan jaringan internet yang telah di-upload dan dipublikasikan menggunakan www.lotuspaperclay.com sebagai alamat url. Sistem ini dibagi menjadi 2 bagian yaitu bagian Member dan bagian Administrator. Member dapat mengakses bagian forum, news, faqs, polling dan bagian produk untuk melakukan pembelian akan tetapi akses dibatasi pada bagian collection & o-courses yang untuk mengaksesnya diperlukan tiket khusus yang dapat dibeli di toko ataupun di website. Administrator dapat melakukan peng-update-an pada hampir setiap bagian dari website seperti menambah produk baru, mata pelajaran baru, dan koleksi baru. Administrator dapat juga melihat laporan penjualan yang sudah terjadi. Sistem ini dikembangkan dengan menggunakan bahasa pemrograman utama yaitu Personal Homepage (PHP) yang diletakan pada sebuah web server. Halaman-halaman web diletakkan dalam sebuah web server yang terhubung ke sebuah Database server MySql. Database server digunakan untuk menyimpan data-data penting seperti data member, produk, koleksi, laporan penjualan, history dan data-data penting lainnya.",
+  "creators": "BEZALIEL EDWIN SUTRISNO",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Ibnu Gunawan (Advisor 2); Arlinah Imam Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000494/INF/2006; Bezaliel Edwin Sutresno (26402105)",
+  "subjects": "WEBSITE; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

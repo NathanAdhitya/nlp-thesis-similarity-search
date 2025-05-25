@@ -1,0 +1,14 @@
+{
+  "id": "9803",
+  "title": "Fitur akses google scholar untuk melihat jumlah citation pada e-journal pusat penelitian Universitas Kristen Petra",
+  "abstract": "Jumlah cendekiawan semakin bertambah pada jaman teknologi yang semakin pesat belakangan ini. Artikel-artikel atau journal hasil pemikiran para cendekiawan juga semakin bertambah dari hari ke hari. Dampaknya mesin pencari yang ada semakin kesulitan mencari data akurat untuk menampilkan hasil pencarian dari para cendekiawan. Tetapi dengan adanya google scholar pencarian data untuk menampilkan journal buatan para cendekiawan bukanlah suatu masalah yang besar. Selain itu, kita juga dapat melihat jumlah citation pada judul-judul yang dibuat oleh para cendekia. Jumlah citation adalah banyaknya refrensi dari para cendekiawan lain yang mencantumkan refrensi terhadap judul yang ada. Program yang dibuat memanfaatkan fasilitas yang dimiliki oleh google scholar, yaitu mengambil jumlah citation yang sesuai dengan judul artikel journal yang dipunyai oleh Pusat Penelitian Universitas Kristen Petra. Pengambilan jumlah citation dilakukan oleh kode program PHP dengan memanfaatkan regex sebagai bantuan untuk pemfilteran string. Angka citation yang telah diambil tersebut akan dimasukkan ke dalam database. Pengujian dilakukan dengan membandingkan hasil tangkapan program yang ada pada database dengan query judul journal secara manual ke google scholar. Hasilnya angka citation yang terdapat pada database sama dengan manual query yang dilakukan dengan google scholar.",
+  "creators": "IRWAN MARWANTO",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010075/ELK/2008; Irwan Marwanto (23403074)",
+  "subjects": "WEB SITES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "15154",
+  "title": "Robot penjaga gawang",
+  "abstract": "Football has it's own fans. A goalkeeper, although not important, gives a good advantage of defense. This condition gives an idea to make a goalkeeper robot. The robot system planning refer to the goal keeper movement. The construction using AT89C2051 microcontroller as a robot's brain, InfraRed sensor detector, and CANON DC motor. Infra Red sensor transmit a signal simultaneously from the right and left side of the robot. There are four conditions of the robot's movement, based on the signal reflection. If signal reflection comes from left side, robot move to the left. If signal reflection comes from right side, robot move to the right. If none or both signal reflections receive, robot is in steady condition. Experiment show that maximum speed for better achievement is 2 m/s.",
+  "creators": "HENGKY SUDARGO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/008/522; Hengky Sudargo (:23496011)",
+  "subjects": "ROBOTICS; ROBOTS"
+}

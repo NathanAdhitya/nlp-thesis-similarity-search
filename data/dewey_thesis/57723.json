@@ -1,0 +1,14 @@
+{
+  "id": "57723",
+  "title": "Procedural content generation untuk 3D map menggunakan perlin noise pada unity 3D",
+  "abstract": "Dalam Game terdapat banyak sekali elemen seperti contohnya Map, Asset, Script, dan masih banyak lagi. Salah satu elemen terpenting dalam pembuatan sebuah game adalah Map, sebab ketika permainan berlangsung maka haruslah ada peletakan karakter game, peletakan musuh game, peletakan resources game dan lainnya pada Map. Variasi pada map dapat menambah variasi permainan, membuat permainan tidak repetitif dan lebih menyenangkan. Untuk membuat atau mendesain map bisa dengan dua cara yaitu yang pertama adalah dengan kreasi sendiri atau bisa disebut Handmade dan yang kedua adalah bisa dengan menggunakan algoritma komputer atau disebut Procedural Content Generation. Perlin noise adalah suatu teknik yang dipakai untuk melakukan Procedural Content Generation. Perlin Noise adalah algoritma yang digunakan untuk menciptakan pola acak dan natural dalam pembuatan map. Pada penelitian ini akan meneliti penerapan Perlin Noise dengan parameter yang disesuaikan untuk menciptakan 3D map dengan berbagai landscape seperti Plains, Swamp, Hills, Mountain, Islands, Plateau dan Snow. Hasilnya berupa Map 3D yang di-generate menggunakan Perlin Noise dengan parameter Octave, Persistence dan lacunarity yang sesuai dengan tiga kriteria yaitu memiliki tingkat kecuraman, dapat dieksplorasi oleh pemain dan bentuk daratan yang runcing-runcing atau tidak sesuai dengan tema masing-masing.",
+  "creators": "WILLIAM LAYADI",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Liliana (Advisor 2); Hans Juwiantho S.Kom., M.Kom (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022349/INF/2023; William Layadi (C14180054)",
+  "subjects": "VIDEO GAMES-PROGRAMMING; VIDEO GAMES--DESIGN"
+}

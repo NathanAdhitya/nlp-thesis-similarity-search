@@ -1,0 +1,14 @@
+{
+  "id": "57241",
+  "title": "Sistem rekomendasi produk dan promo penjualan dengan algoritma fp-growth pada perusahaan elektronika di Surabaya",
+  "abstract": "Seiring dengan perkembangan teknologi, perlahan ranah pemasaran atau marketing juga terdampak dengan perkembangan tersebut. Dampak tersebut dapat dilihat dengan adanya website, aplikasi atau teknologi sejenis lainnya yang dapat meningkatkan efektifitas atau membantu perusahaan dalam melakukan penjualan produknya. Peningkatan penjualan tersebut dapat dilakukan dengan berbagai cara, salah satunya adalah dengan menggunakan sistem rekomendasi produk tambahan untuk menjalankan strategi pemasaran cross-selling. Pembuatan sistem rekomendasi pada penelitian ini menggunakan metode Market Basket Analysis dengan algoritma FP-Growth. Metode ini dapat mencari kombinasi produk yang sering dibeli bersama oleh pelanggan dan menghasilkan tabel association rule yang digunakan sebagai dasar rekomendasi. Pengujian dibagi menjadi dua, pertama dilakukan untuk menguji angka support dan confidence yang cocok dengan data yang diberikan untuk menghasilkan jumlah rekomendasi yang sesuai. Selanjutnya dilakukan dengan membuat kuesioner penilaian program yang diberikan kepada 7 karyawan perusahaan elektronika. Hasil pengujian pertama didapatkan angka support dan confidence yang cocok yaitu 0.003 dan 0.2. Lalu untuk pengujian kedua, berdasarkan hasil kuesioner pengujian sistem, website sudah cukup baik dengan range nilai atau rating 3 hingga 5.Dilihat dari hasil pengujian, dapat disimpulkan website yang dibuat pada penelitian ini mendapatkan hasil yang cukup baik karena cukup sesuai dengan keinginan dan dapat menjawab kebutuhan perusahaan.",
+  "creators": "CHRISTOPHER LOUIS",
+  "contributors": "Alexander Setiawan (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Yulia (Examination Committee 1); Justinus Andjarwirawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022362/INF/2023; Christopher Louis (C14190088)",
+  "subjects": "RECOMMENDER SYSTEMS (INFORMATION FILTERING)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8847",
+  "title": "Studi literatur tentang model peramalan arma (p,q) dan selang kepercayaan parameter model peramalan dengan menggunakan bootstrap",
+  "abstract": "Suatu data time series dapat dimodelkan dengan berbagai macam metode. Akan tetapi, hanya satu metode yang dapat memberikan hasil peramalan yang terbaik. Untuk mendapatkan metode tersebut biasanya digunakan Mean Square Error, Akaike?s Information Criterion (AIC), Bayesian?s Information Criterion (BIC). Oleh karena itu, tujuan dari Tugas Akhir ini adalah mendesain suatu software yang user friendly dengan menggunakan R yang dapat diaplikasikan untuk time series yang stasioner. Dan dalam pengerjaan Tugas Akhir ini, penulis menggunakan AIC sebagai tolak ukur yang digunakan untuk memberikan informasi dan saran mengenai model peramalan yang terbaik dengan cara mencari model yang menghasilkan bias paling minimum. Selain itu, penulis menggunakan Bootstrap untuk mendapatkan selang kepercayaan parameter peramalan yang baru. Tujuannya adalah meningkatkan akurasi selang kepercayaan parameter yang dihasilkan software peramalan.",
+  "creators": "HERMAN MALLIAN",
+  "contributors": "Siana Halim (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011112/IND/2006; Herman Mallian (25403149)",
+  "subjects": "BOOTSTRAP (STATISTICS)"
+}

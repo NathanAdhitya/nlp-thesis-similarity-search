@@ -1,0 +1,14 @@
+{
+  "id": "23250",
+  "title": "Perencanaan dan pembuatan pengendali motor DC 1/8 HP 180 V, berbasis jaringan saraf tiruan propagasi balik",
+  "abstract": "Perkembangan teknologi industri telah membawa teknologi pengendalian atau pengaturan pada suatu sistim yang mempunyai kemampuan dalam ha1 kecerdasan. Kemampuan dalam ha1 kecerdasan ini dapat diimplementasikan dengan beberapa cara antara lain dengan kecerdasan buatan (Artificial Inteligence), Jaringan Saraf Tiruan (Artificial Neural Network), Fuzzy Logic dan Neuro Fuzzy (gabungan antara Neural Network dengan Fuzzy Logic). Dalam tugas akhir ini direncanakan dan dibuat sistim pengendali adaptif untuk motor DC, dengan menggunakan Jaringan Saraf Tiruan. Jaringan saraf tiruan atau JST akan memperkecil galat (error) dari output putaran motor yang tejadi terhadap input putaran motor yang diinginkan. Hal ini dilakukan dengan melatih JST tersebut dengan data untuk pengendalian yang diinginkan. Pelatihan JST tersebut dilakukan dengan mengatur parameter-parameter pelatihan seperti konstanta belajar, banyaknya lapis hidden, banyaknya sel dan lain-lain. Pengaturan kecepatan motor dimaksudkan agar apabila motor mendapat beban, maka JST akan mempertahankan kecepatan putarnya pada putaran optimalnya. Perencanaan yang dilakukan terdiri dari dua macam yaitu perangkat keras dan perangkat lunak. Perangkat keras terdiri dari perangkat komputer, rangkaian interface ADCAIAC, rangkaian driver motor dan motor DC. Sedangkan perangkat Iunak terdiri dari arsitektur JST, pelatihan JST, perangkat lunak emulasi JST pada IBM-PC. Pada awalnya motor berputar sesuai dengan kecepatan yang diinginkan. Kecepatan putaran motor tersebut diinputkan melalui keyboard. Data kecepatan putaran tersebut dibandingkan dengan hasil putaran motor yang sesungguhnya melalui tachometer. Jika tejadi selisih antara output data kecepatan motor yang tejadi dengan data yang diinginkan, maka pelatihan diulang, sampai kesalahan antara output yang diinginkan dan output yang te jadi adalah minimum.",
+  "creators": "RADEN MAWAN ANTONO",
+  "contributors": "SOETIKNO (Examination Committee 1); Vivi Anggraini (Advisor 2); Resmana Lim (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/021/0281; Raden Mawan Antono (23489133)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; ELECTRIC MOTORS, DIRECT CURRENT"
+}

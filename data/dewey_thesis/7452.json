@@ -1,0 +1,14 @@
+{
+  "id": "7452",
+  "title": "Perancangan dan pembuatan search engine dengan mengambil informasi dari world wide web dengan metode conceptual fuzzy sets",
+  "abstract": "Nowadays, information are collected through a search engine. The examples of popular search engines are GoogleTM, Yahoo! Search, and MSN Search. Some of them have excellent capability in serving information for their users using keywords matching method. This method uses keyword that is inserted by user to gain information from the internet related to the keyword. In other words, there are relations between information gathered from the internet and keywords inserted by the user through its syntax. For example, if user inserts \"sports\" as a keyword then user will have all information contains that keyword. In this final project, conceptual matching search engine is developed instead of keyword matching search engine. Conceptual matching is a method of gaining information which are related to the inserted keyword through its context (related in meaning). If user uses the example before then user will get not only information contains that keyword, but also other information having relation with the keyword. This search engine is developed using Borland Delphi 7.0 as the programming language and Firebird 1.5 as the database server to store all data used by the search engine. The evaluation of the search engine shows that the search engine can have more variation in its result in order to give more advantages for the user in finding information needed by user.",
+  "creators": "RICKY SETIAWAN",
+  "contributors": "Rolly Intan (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); M. ISA IRAWAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000446/INF/2005; Ricky Setiawan (26401090)",
+  "subjects": "WEB SITES-DESIGN; INTERNET(COMPUTER NETWORK)"
+}

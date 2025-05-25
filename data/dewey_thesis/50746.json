@@ -1,0 +1,14 @@
+{
+  "id": "50746",
+  "title": "Sistem Web untuk monitoring dan pengaturan tegangan listrik power supply DC",
+  "abstract": "Energi listrik merupakan hal esensi dalam kehidupan sehari-hari manusia yang dipakai di berbagai tempat seperti di tempat kerja, sekolah, perguruan tinggi, dan bahkan di dalam rumah tangga. Penggunaan listrik sudah menjadi bagian dari peradaban manusia. Di mana pun di dunia, sudah hampir pasti ada penggunaan listrik. Salah satu sumber energi listrik adalah power supply (DC). Power supply (DC) adalah rangkaian yang digunakan untuk menghidupkan peralatan yang membutuhkan listrik namun dapat diatur tegangan dan arus listrik yang mengalir sesuai keinginan pengguna. Akan tetapi, monitor pada power supply (DC) memiliki fitur yang cenderung terbatas. Sehingga dibuatlah aplikasi web di mana pengguna dapat mengatur dan melakukan monitoring pada power supply (DC). Hasil yang didapat adalah sistem web yang dapat mengatur dan monitor power supply (DC) yang menggunakan Node-RED dan MySQL, di mana data yang tersimpan dari web ke database akan langsung dikirim ke Node-RED sehingga mengubah data pada power supply (DC) dan sebaliknya, di mana data dari power supply (DC) yang tersimpan di database dengan menggunakan Node-RED akan langsung ditampilkan pada web. Selain itu, sistem web juga dapat menyimpan history perubahan daya dan tegangan listrik pada power supply (DC) dan menyalakan atau mematikan aliran listrik ke beban pada power supply (DC).",
+  "creators": "EFREN WILSON TANAMAL",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Indar Sugiarto (Advisor 2); Justinus Andjarwirawan (Examination Committee 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022100/INF/2021; Efren Wilson Tanamal (26416020)",
+  "subjects": "POWER RESOURCES; ELECTRIC POWER"
+}

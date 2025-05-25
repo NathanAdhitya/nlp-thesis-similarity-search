@@ -1,0 +1,14 @@
+{
+  "id": "10713",
+  "title": "Evolutionary algorithm pada fuzzy clustering system dengan metode gustafson-kessel untuk forecasting electrical load data time-series",
+  "abstract": "Dalam long time forecasting (LTF) data electrical load Jatim-Bali (2005-2007) dengan menggunakan Gustafson-Kessel fuzzy clustering dan Takagi-Sugeno inference system didapatkan hasil Mean Square Error (MSE) yang kecil. Namun hasil pemodelan fuzzy clustering ini dirasa masih belum optimum. Oleh karena itu parameter hasil pemodelan ini dioptimasi dengan menggunakan Evolutionary Algorithm. Dalam prosesnya, tipe Evolutionary Algorithm yang digunakan adalah Real Code Genetic Algorithm. Tipe ini digunakan karena parameter mean dan variance Gaussian Membership Function 9 input dan 4 cluster berupa bilangan real. Parameter mean dan variance ini dioptimasi secara serentak dengan tipe seleksi yang digunakan adalah roulette wheel dan elitist, Heuristic untuk tipe crossover-nya, serta Multiple Uniform Mutation untuk tipe mutasinya. Proses optimasi ini akan berhenti pada generasi ke 1000. Hasil mean dan variance dengan MSE LTF tekecil yang diperoleh dari proses Genetic Algorithm inilah yang akan digunakan untuk long time forecasting. Parameter Genetic Algorithm untuk mendapat mean dan variance terbaik adalah pc=0.6, pm=0.1, dan 20 chromosome dalam satu populasi. MSE LTF terbaik yang didapatkan adalah 2.4594x10-3. Rata-rata forecast error untuk tiap data adalah 4.959%.",
+  "creators": "DHARMA GUNAWAN",
+  "contributors": "Felix Pasila (Advisor 1); Hany Ferdinando (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010868/ELK/2008; Dharma Gunawan (23404020)",
+  "subjects": "ELECTRIC ENGINEERING-MATHEMATICS"
+}

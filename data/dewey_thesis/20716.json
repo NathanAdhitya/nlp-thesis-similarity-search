@@ -1,0 +1,14 @@
+{
+  "id": "20716",
+  "title": "Perancangan dan pembuatan aplikasi inpainting dengan metode interpolation",
+  "abstract": "Teknologi telah memungkinkan untuk membawa media gambar atau image dari media fisik menuju media digital. Dengan membawa gambar dari media fisik menuju media digital, gambar dapat disimpan dengan kondisi seperti ketika gambar tersebut masih dalam fisik. Hal ini berarti, gambar fisik yang menjadi digital akan memiliki kondisi fisik yang terakhir dimiliki gambar tersebut. Termasuk diantaranya adalah bagian cacat pada gambar yang seringkali didapat karena faktor usia dan lingkungan tempat gambar fisik disimpan. Inpainting, adalah teknik untuk memodifikasi gambar sedemikian rupa sehingga modifikasi pada gambar dapat menyamarkan daerah yang dianggap rusak pada gambar. Dalam Skripsi ini, dikembangkan aplikasi yang mampu untuk melakukan proses Inpainting dengan tujuan untuk menghilangkan adanya daerah yang tidak diinginkan pada sebuah gambar digital. Jalannya aplikasi dimulai dengan proses penandaan daerah yang menjadi target untuk proses Inpainting. Proses Inpainting itu sendiri melibatkan penghitungan Interpolation pada pixel-pixel yang menjadi daerah input sehingga dapat menghasilkan pixel-pixel baru sebagai daerah baru. Aplikasi berorientasi obyek ini dikembangkan dengan menggunakan bahasa pemrograman C# dengan kompiler Microsoft Visual Studio 2005. Berdasarkan hasil pengujian yang dilakukan, gambar output ditentukan oleh luasnya daerah input dan karakter dari masing-masing metode. Perlu diingat bahwa hasil Interpolasi tidak dapat mempertahankan edge dan konsistensi tekstur gambar.",
+  "creators": "JOHAN KARTAHADI KUSUMA",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020994/INF/2011; Johan Kartahadikusuma (26407055)",
+  "subjects": "INTERPOLATION-COMPUTER PROGRAMS; COMPUTER GRAPHICS"
+}

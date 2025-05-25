@@ -1,0 +1,14 @@
+{
+  "id": "4787",
+  "title": "Komunikasi antar ruangan suatu gedung menggunakan handy talky (selective call)",
+  "abstract": "Ada beberapa cara yang dapat dilakukan untuk berkomunikasi antar ruangan dalam suatu gedung, di antaranya dengan sistem PABX dan komunikasi via radio HT. Pada sistem PABX menggunakan line telepon sebagai perantaranya, dimana terdapat kendala jika terjadi perubahan tata ruang. Sistem yang kedua yaitu dengan menggunakan radio HT. Namun penggunaan HT juga memiliki kelemahan. Di antaranya adalah suara dapat didengar oleh semua pengguna HT pada frekuensi yang sama. Sehingga orang yang tidak berkepentingan akan terganggu. Oleh karena itu perlu adanya suatu sistem komunikasi dalam suatu gedung yang dapat mengatasi masalah tersebut. Sistem Komunikasi Antar Ruangan Suatu Gedung dengan Menggunakan Handy Talky (Selective Call) dibuat untuk mengatasi masalah tersebut. Sistem ini dikendalikan oleh mikrokontroler yang dihubungkan ke sebuah radio modem yang menggunakan HT sebagai media perantaranya. Mikrokontroler yang digunakan adalah AT90S2313, dan untuk modemnya digunakan IC XR2206 dan IC XR2211. Dari hasil pengujian sistem, didapatkan bahwa hanya HT yang dihubungi yang dapat mendengarkan suara yang masuk, sehingga tidak mengganggu pemilik HT lain dengan frekuensi yang sama pada gedung itu. Berdasarkan pengujian yang telah dilakukan, peluang sukses dalam pengiriman data agar dapat berjalan sesuai yang diharapkan sebesar 86 %.",
+  "creators": "SURYA PUTRA DWITIYA",
+  "contributors": "Murtiyanto Santoso (Advisor 1); Handry Khoswanto (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010703/ELK/2004; Surya Putra Dwitiya (23400111)",
+  "subjects": "MOBILE COMMUNICATION SYSTEMS"
+}

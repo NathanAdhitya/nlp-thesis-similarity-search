@@ -1,0 +1,14 @@
+{
+  "id": "60671",
+  "title": "Pengembangan aplikasi penyewaan dan inventori untuk PT Papua Putra Mandiri",
+  "abstract": "Perusahaan Papua Putra Mandiri adalah perusahaan yang bergerak di bidang persewaan alat berat. Perusahaan ini berdomisili di Kota Sorong, Papua Barat. Dalam pelaksanaannya untuk menyewakan alat berat, perusahaan Papua Putra Mandiri melakukan pencatatan penyewaan alat berat dan stok suku cadang alat berat dengan menggunakan software excel, sehingga menghambat pekerjaan pegawai perusahaan karena adanya kendala human error dan kurangnya efisiensi dalam menyimpan data-data yang esensial untuk perusahaan. Penelitian ini bertujuan mengembangkan Sistem Informasi Inventaris untuk meningkatkan efisiensi operasional di perusahaan persewaan perusahaan Papua Putra Mandiri. Sistem ini dikembangkan menggunakan bahasa pemrograman Golang untuk backend, HTML dan Javascript untuk frontend, serta MySQL sebagai basis data. Fitur-fitur yang disediakan mencakup pencatatan inventaris, pemantauan stok, pelacakan barang masuk dan keluar, serta laporan inventaris yang terstruktur. Pengujian dilakukan untuk memastikan kinerja dan keandalan sistem. Hasil pengujian skenario dan uji kuesioner pengguna dari sistem inventaris dan penyewaan alat berat untuk perusahaan Papua Putra Mandiri menunjukkan bahwa implementasi sistem ini mampu meningkatkan efisiensi operasional dengan mengurangi kesalahan manusia, meningkatkan akurasi stok barang mempercepat pencarian dan pemantauan inventaris, serta membantu pegawai dalam melakukan pencatatan transaksi penyewaan untuk penyewa alat berat. Hal ini menunjukkan potensi sistem informasi ini sebagai alat efektif bagi penyewaan alat berat dalam meningkatkan efisiensi operasional dan manajemen inventaris.",
+  "creators": "CHRISTOPHER JONATHAN",
+  "contributors": "Yulia (Advisor 1); Leo Willyanto Santoso (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022527/INF/2024; Christopher Jonathan (C14200089)",
+  "subjects": "DATABASE DESIGN; INVENTORY CONTROL; MANAGEMENT INFORMATION SYSTEMS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

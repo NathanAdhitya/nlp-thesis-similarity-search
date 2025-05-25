@@ -1,0 +1,14 @@
+{
+  "id": "8791",
+  "title": "Perancangan dan pembuatan data warehouse dan olap tools pada hotel \"X\"",
+  "abstract": "Sistem informasi yang diterapkan oleh Hotel \"X\" merupakan perpaduan antara sistem manual dan aplikasi basis data sederhana yang belum terintegrasi satu sama lain. Hal ini dapat dilihat dari sistem reservasi dan sistem transaksi penjualan pada restaurant, bar, dan laundry yang belum terhubung. Transaksi penjualan untuk tamu yang menginap harus dipindah secara manual ke dalam sistem reservasi. Selain itu, pembuatan laporan masih dilakukan secara manual dengan menggunakan Microsoft Excel dan sulit untuk dianalisis. Hal inilah yang memperlambat dalam proses pengambilan keputusan dan memperbesar resiko kesalahan manusia. Berdasarkan latar belakang yang dihadapi oleh Hotel \"X\", maka dilakukan pembuatan perangkat lunak pendukung pengambilan keputusan dengan menggunakan data warehouse dan OLAP Tools. Aplikasi yang dibuat meliputi proses transformasi dari database FOXPRO milik hotel ke dalam database star schema, analisis data dalam bentuk tabel, grafik, dan laporan. Pembuatan aplikasi dengan menggunakan Borland Delphi 7 sebagai bahasa pemrograman dan desain interface dan Microsoft SQL Server 2000 sebagai tempat penyimpanan database. Informasi yang dihasilkan dari sistem tersebut adalah pengukuran data reservasi check-in dan reservasi check-out dari dimensi tamu, dimensi kamar, dan dimensi waktu, pengukuran data penjualan restaurant dan bar dari dimensi menu, dimensi tamu, dan dimensi waktu, pengukuran data penjualan laundry dari dimensi laundry, dimensi tamu, dan dimensi waktu. Data-data tersebut dapat ditampilkan dari berbagai sudut pandang yang berbeda sehingga lebih mudah dalam melakukan analisis data yang diinginkan dan untuk kemudian dapat membantu pengguna terutama pemilik dan manajer dalam pengambilan keputusan.",
+  "creators": "ANDY SETIAWAN",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Silvia Rostianingsih (Advisor 2); M. ISA IRAWAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010626/INF/2007; Andy Setiawan (26403102)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

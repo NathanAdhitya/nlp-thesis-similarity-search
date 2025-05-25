@@ -1,0 +1,14 @@
+{
+  "id": "15672",
+  "title": "Penggunaan algoritma tabu search dalam penyelesaian layout problem di PT \"X\"",
+  "abstract": "Dalam setiap proses produksi, layout dari departemen-departemen produksi yang ada sangat berpengaruh. Dari pertimbangan tersebut maka disusunlah sistem layout pada lantai produksi yang lebih efisien, tolak ukur dari efisiensi ini terletak pada total momen dari satu departemen ke departemen lainnya. Lalu digunakan suatu metode pemecahan facilities layout problem tersebut dengan menggunakan algoritma yang penyelesaiannya dilakukan secara tahap demi tahap dalam iterasi-iterasi sehingga mendapatkan solusi yang optimal. Pada tugas akhir ini penulis menggunakan Tabu Search Algorithm untuk mendapatkan solusi optimal dengan menggunakan hasil algoritma Modified Spanning Tree sebagai initial solution untuk memecahkan single row layout problem. Algoritma Tabu Search yang digunakan untuk mencari hasil optimal disebut dengan Tabu Navigation Algorithm.",
+  "creators": "RONNY KINARTO",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Tessa Vanina Soetanto (Advisor 2); Siana Halim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 262/TI-88/1999; Ronny Kinarto (25495061)",
+  "subjects": "PLANT LAY OUT-MATHEMATICAL MODELS"
+}

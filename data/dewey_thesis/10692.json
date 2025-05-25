@@ -1,0 +1,14 @@
+{
+  "id": "10692",
+  "title": "Perencanaan dan pembuatan sistem jaringan pengaksesan informasi melalui TV",
+  "abstract": "Dalam tugas akhir ini dibuat suatu sistem jaringan pengaksesan informasi yang ditampilkan melalui tv dimana dimungkinkan banyak sistem dapat tergabung dalam jaringan yang terhubung ke komputer pusat. Aplikasi pemakaiannya dapat dipakai pada gedung-gedung yang berukuran besar misalnya hotel, universitas, pabrik dan lain sebagainya. Aksesnya dapat bermacam-macam seperti mengakses bill atau tagihan pada hotel, mengakses nilai mahasiswa di universitas. Hal ini dimaksudkan agar mempermudah proses penerimaan berita dengan cepat pada tempat yang cukup jauh, keuntungan inilah yang didapatkan pada latar belakang pembuatan tugas akhir ini selain keinginan mendayagunakan pesawat TV untuk media komunikasi. Sistem yang dibuat terdiri atas dua bagian besar yakni minimum sistem dan video dekoder yang mempunyai output video komposit untuk diumpankan ke video input dari televisi kita. Rangkaian minimum sistem ini terdiri dari mikrokontroler 8031 sebagai pengatur kerja keseluruhan, EPROM, RAM serta 8279 untuk pengontrol keypad. Sedangkan untuk rangkaian video dekoder dipakai IC OSD kontroler M35060-XXXSP buatan Mitsubishi yang memiliki internal sync separator serta output berupa sinyal video komposit. Sistem berkomunikasi dengan komputer pusat melalui jaringan multipoint RS485. Untuk bagian komputer pusat dibutuhkan rangkaian konverter RS232 to RS485, yang dimaksudkan agar sistem-sistem yang terhubung tersebut dapat dikendalikan dari jarak jauh. Kesemua rangkaian inilah yang membentuk suatu sistem jaringan pengaksesan informasi melalui televisi, dimana setiap televisi mempunyai saluran video input dan dapat menerima sinyal televisi mode NTSC. Pengujian menunjukkan bahwa alat-alat yang dibuat dan terhubung ke jaringan itu telah bekerja dengan baik walaupun dalam segi pemakaian dirasa kurang leluasa karena hanya diberikan contoh pemakaian pada hotel berupa akses makanan/minuman yang dilakukan melalui kamar hotel, namun secara umum alat ini memiliki prospek untuk pengembangan di masa mendatang.",
+  "creators": "KUSUMA WIDJAJA",
+  "contributors": "Resmana Lim (Advisor 1); Anies Hannawati (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/038/383; Kusuma Widjaja (23493090)",
+  "subjects": "COMPUTER NETWORKS; DATA TRANSMISSION SYSTEMS"
+}

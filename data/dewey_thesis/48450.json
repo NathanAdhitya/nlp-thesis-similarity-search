@@ -1,0 +1,14 @@
+{
+  "id": "48450",
+  "title": "Penerapan Finite State Machine dan Atreus AI Behavior pada AI Musuh dalam Fighting game",
+  "abstract": "Artificial Intelligence (AI) sudah menjadi bagian penting dalam pengembangan game. AI pada game memiliki tugas yang beragam dalam meberikan pengalaman langsung kepada pemain. Kekurangan ragam strategi pada AI musuh dalam fighting game bisa saja membuat motivasi pemain menjadi berkurang ketika bermain. Untuk menyelesaikan permasalahan tersebut, dibuatlah AI yang memiliki ragam strategi bekerjasama yang dapat menarik motivasi pemain. Game akan dikembangkan menggunakan aplikasi Unity3D dan menggunakan bahasa pemrograman C#. Metode Finite State Machine digunakan untuk mengembangkan AI yang menjadi musuh dari pemain dan diberikan Atreus AI Behavior agar dapat memiliki ragam strategi. Probability juga ditambahkan pada pengambilan keputusan AI agar menjadi lebih tidak mudah ditebak. Hasil pengujian menunjukkan bahwa AI dapat berjalan dengan baik menggunakan penggabungan FSM dan behavior Atreus. Pengujian juga dilakukan kepada 15 pemain yang memiliki background pemain casual atau diatasnya. Lima belas pemain ini bertugas untuk mencoba permainan. Hasilnya pengujian tersebut menunjukkan bahwa AI menjadi lebih sulit untuk dikalahkan dan memberikan motivasi kepada pemain untuk mengalahkannya.",
+  "creators": "JONG, JEFFREY WICAKSONO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Liliana (Examination Committee 1); Rolly Intan (Examination Committee 2); Hans Juwiantho (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022004/INF/2020; Jong, Jeffrey Wicaksono (26416085)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; COMPUTER GAMES--PROGRAMMING"
+}

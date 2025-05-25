@@ -1,0 +1,14 @@
+{
+  "id": "43236",
+  "title": "Pengenalan karakter pada plat nomor Indonesia dengan tilt correction dan metode faster R-CNN",
+  "abstract": "Pertumbuhan jumlah kendaraan di Negara Indonesia sangat pesat dan hal tersebut menyebabkan timbulnya banyak masalah, diantaranya adalah masalah sistem keamanan parkir dan kontrol akses kendaraan bermotor. Dengan berkembangnya teknologi, plat nomor yang merupakan identitas dari suatu kendaraan dapat dideteksi secara otomatis oleh sistem dengan bantuan Digital Image Processing dan Artificial Neural Network. Penelitian ini menggunakan metode Canny Edge Detection untuk mendeteksi objek plat nomor dalam gambar. Sebelum melakukan klasifikasi karakter pada plat nomor, distorsi perspektif yang ada pada gambar dapat dihilangkan menggunakan metode Planar Homography. Faster R-CNN digunakan untuk mendeteksi posisi mobil pada gambar dan mengklasifikasi karakter yang ada pada plat nomor. Program hasil dari penelitian ini akan mendeteksi karakter plat nomor dan warna mobil pada gambar. Hasil pengujian dari dataset peneliti, akurasi deteksi karakter pada plat nomor mencapai 82,14% dan akurasi deteksi warna mobil mencapai 78,54%.",
+  "creators": "KEVIN NYOTO SUSANTO",
+  "contributors": "Kartika Gunadi (Advisor 1); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021812/INF/2019; Kevin Nyoto Susanto (26415039)",
+  "subjects": "IMAGE PROCESSING--DIGITAL TECHNIQUES; NEURAL NETWORKS (COMPUTER SCIENCE); PATTERN RECOGNITION SYSTEMS"
+}

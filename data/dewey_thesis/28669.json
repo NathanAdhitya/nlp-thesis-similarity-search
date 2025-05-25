@@ -1,0 +1,14 @@
+{
+  "id": "28669",
+  "title": "Programmable circuit breaker menggunakan hall effect sensor",
+  "abstract": "Dalam instalasi listrik sistem proteksi Circuit Breaker merupakan bagian yang sangat penting. Pada tugas akhir ini akan dibuat sebuah Programmable Circuit Breaker dengan menggunakan Hall Effect Sensor yang memiliki overload protection yang dapat diprogram. Hasil pembacaan oleh Hall Effect Sensor akan melalui rangkaian amplifier, kemudian diolah pada chip mikrokontroler melalui ADC internal, serta rangkaian overload protection yang berfungsi untuk membatasi arus yang dikonsumsi oleh beban. Dalam tugas akhir ini, Programmable Circuit Breaker yang dibuat memiliki range maksimal sebesar 10 Ampere. Nilai overload protection pada programmable circuit breaker di masukkan dengan menggunakan tombol set, up 1, up 2, dan enter. Pada Programmable Circuit Breaker dilakukan pengukuran beban lampu dan beban air conditioner. Dari hasil percobaan, arus beban terbaca hingga 1 angka di belakang koma. Programmable Circuit Breaker yang dibuat memiliki error pembacaan 5%.",
+  "creators": "ADRIANUS TAKNDARE",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010924/ELK/2011; Adrianus Takndare (23406062)",
+  "subjects": "ELECTRIC CIRCUIT-BREAKERS"
+}

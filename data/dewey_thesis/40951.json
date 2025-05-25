@@ -1,0 +1,14 @@
+{
+  "id": "40951",
+  "title": "Optimasi masalah pemuatan peti kemas dengan pertimbangan distribusi berat peti kemas pada PT Trias Sentosa",
+  "abstract": "PT Trias Sentosa adalah perusahaan manufaktur flexible packaging film. Pelanggan yang membeli dari PT Trias Sentosa memberi permintaan berupa tipe film, panjang, lebar, tebal, dan jumlah gulungan untuk masing-masing tipe dan dimensi film. Dalam pemuatan permintaan kedalam peti kemas, ada beberapa langkah-langkah yang harus dikerjakan. Langkah pertama adalah untuk menghitung dimensi setiap gulungan dari panjang, lebar, dan tebal film yang diminta pelanggan. Gulungan-gulungan tersebut kemudian ditata ke dalam palet sesuai dengan kententuan dari perusahaan, serta mencari pasangan tumpukan tiap palet yang tidak melebihi dimensi tinggi peti kemas dengan menggunakan prinsip Greedy Algorithm. Langkah kedua adalah mendistibusikan setiap kelompok palet kedalam peti kemas secara merata. Langkah ketiga adalah mengatur urutan pemuatan peti kemas dengan menggunakan metode Simulated Annealing serta menghitung distribusi berat dari setiap peti kemas. Contoh kasus yang dikerjakan dalam skripsi ini ada 2. Contoh kasus pertama adalah untuk masalah pemuatan peti kemas 40 feet. Contoh kasus pertama diselesaikan dengan menggunakan 7 peti kemas 40 feet dalam waktu rata-rata 6 menit 23 detik, dengan perbandingan berat setiap bagian depan, tengah dan belakang antara 0,28 hingga 0,38. Contoh kasus kedua adalah untuk masalah pemuatan peti kemas 20 feet. Contoh kasus kedua diselesaikan dengan menggunakan 2 peti kemas 20 feet dalam rata-rata waktu 1 menit 23 detik dengan distribusi berat setiap bagian peti kemas antara 0,29 hinggan 0,37.",
+  "creators": "HANS MARSHA",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Benedictus Rahardjo S.T. M.B.A. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022097/IND/2017; Hans Marsha (25413045)",
+  "subjects": "SIMULATED ANNEALING (MATHEMATICS); LINEAR PROGRAMMING; CONTAINERS; ALGORITHMS"
+}

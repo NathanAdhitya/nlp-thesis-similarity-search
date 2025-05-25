@@ -1,0 +1,14 @@
+{
+  "id": "5247",
+  "title": "Antene positioner untuk handy talky",
+  "abstract": "Saat ini para pengguna pesawat handy talky umumnya menggunakan antene directional, dikarenakan antene ini memiliki kemampuan jangkauan yang jauh untuk mendapatkan sinyal, namun dengan har us searah dengan antene, sehingga di perlukan sebuah alat, yaitu rotator untuk mengarahkan antene, namun kesulitannya, rotator yang umum di pasaran masih dikendalikan secara manual, dan ini cukup merepotkan, untuk mengatasi masalah ini dibuatlah yang otoma tis dalam mencari arah, sehingga lebih praktis dan mudah dalam mengarahkan antene. Secara umum antene positioner ini menggunakan pesawat handy talky merk ALINCO dengan type DJ-195, ADC0804, mikrokontroller AT89C51, LCD display dan rangkaian h-bridge. Pada sistem ini dibuat program yang menampilkan instruksi dan laporan pada LCD display dan mengatur pergerakan rotator yang mengarahkan antene. Hasil yang diperoleh adalah kemudahan dalam mengarahkan antene sampai 360 0 dibandingkan rotator antene biasa , dan juga mengetahui kuat sinyal yang diterima yang ditampilkan pada LCD display",
+  "creators": "HERRY MEILIANDO",
+  "contributors": "Felix Pasila (Advisor 1); Handry Khoswanto (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/629/ELK/2003; Herry Meiliando (23497110)",
+  "subjects": "ANTENNAS (ELECTRONICS); RADIOWAVE PROPAGATION"
+}

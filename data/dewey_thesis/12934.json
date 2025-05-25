@@ -1,0 +1,14 @@
+{
+  "id": "12934",
+  "title": "Perencanaan dan pembuatan fuzzy kontroler berbasis mikrokontroler 8031",
+  "abstract": "Dalam industri banyak dibutuhkan peralatan kontrol untuk proses produksi. Kontrol modern menggunakan rumus presisi untuk menggambarkan input output sebuah sistem, sehingga diperlukan perhitungan matematis yang banyak dan rumit, Hal ini menyebabkan respon kontroler menjadi lam-ban. Karena itu diperlukan metode lain untuk penanganan sistem kontrol yang kompleks dan membutuhkan respon cepat. Perkembangan teori fuzzy logic dan penerapannya yang luas telah menunjukkan kinerja yang baik. Fuzzy logic merumuskan hubungan input output sistem dalam sebuah kelompok pernyataan 'jika/maka' yang berdasarkan pengeta-huan dan pengalaman manusia sebagai ganti perhitungan matematis yang rumit. Hal ini memungkinkan perangkat 1unak yang lebih sederhana dan respon kontroler yang cepat. Kontroler yang dibuat mengimplementasikan fuzzy logic dengan menggunakan mikrokontroler 8031. Sistem yang akan dikontrol ada dua macam yaitu sistem yang disimulasikan oleh komputer dan sistem motor DC yang diberi gangguan dari luar. Kontroler akan berusaha mencapai set point yang diinginkan oleh operator. Respon output dari sistem akan ditampilkan oleh komputer sebagai fungsi waktu. Kontroler dilengkapi dengan pengubah analog ke digital (ADC) dan pengubah digital ke analog (DAC) sehingga dapat dihubung-kan pada sistem analog.",
+  "creators": "EDYYANTO WIRATAMA",
+  "contributors": "HANDAYANI T. (Advisor 1); IRWAN SAHLI (Advisor 2); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 9S/E/EL/052/0255; Edyyanto Wiratama (23490030)",
+  "subjects": "FUZZY LOGIC; MICROCONTROLLER 8031"
+}

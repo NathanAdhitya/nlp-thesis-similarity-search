@@ -1,0 +1,14 @@
+{
+  "id": "6704",
+  "title": "Studi tentang vehicle routing problem with time windows (VRPTW) dengan menggunakan metode simulated annealing",
+  "abstract": "Banyak metode yang telah digunakan untuk menyelesaikan VRPTW baik heuristik maupun optimasi. Penelitian yang dilakukan ini adalah untuk merumuskan, mensimulasikan dan membandingkan penyelesaian VRPTW dengan menggunakan metode Simulated Annealing (SA) dan metode Steepest Descent (SD). Dalam pembuatan Model SA, solusi awal dicari dengan metode Push-Forward Insertion Heuristic (PFIH) yang telah dimodifikasi sesuai kebutuhan penelitian. Neighborhood Solution Search yang digunakan sebanyak 3 metode, sedangkan Cooling Schedule yang digunakan sebanyak 2 schedule. Dari 6 Model SA yang dibuat, diperoleh solusi terbaik dengan prosentase perbaikan sebesar 26% sampai 32% dari solusi awalnya. Dilain pihak solusi terbaik Model SD hanya 8% lebih baik dari model awalnya. Hal ini membuktikan bahwa kemampuan Model SA untuk menemukan Global Optima jauh lebih besar daripada Model SD.",
+  "creators": "DONALD HUN",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010989/IND/2005; Donald Hun (25401209)",
+  "subjects": "PRODUCTION SCHEDULING; PRODUCTION MANAGEMENT"
+}

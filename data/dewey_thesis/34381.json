@@ -1,0 +1,14 @@
+{
+  "id": "34381",
+  "title": "Pembuatan sistem headlamp adaptif pada mobil dengan teknologi image processing dan kontrol sudut pencahayaan",
+  "abstract": "Pembuatan prototipe sistem headlamp adaptif pada mobil bertujuan memberikan solusi untuk mengurangi angka kecelakaan yang terjadi di Indonesia. Selain itu, pembuatan prototipe ini dapat memberikan inspirasi dan kemajuan dalam bidang otomasi khususnya otomasi pada mobil. Desain dan perhitungan dari sistem headlamp adaptif mengacu pada mobil keluaran Toyota dengan merk avanza tahun 2009. Sistem headlamp adaptif yang dikerjakan dalam skripsi ini adalah kontrol otomatis pengaturan cahaya low beam dari headlamp yang digeser lintasan cahayanya secara horisontal. Kontrol otomatis pada headlamp bekerja berdasarkan data yang diterima dari image processing. Komputer yang digunakan sebagai ‘otak’ dari image processing adalah komputer portabel raspberry pi dan kontroler yang dipakai untuk menggerakkan aktuator pada headlamp adalah arduino. Aktuator yang dipakai adalah dua motor stepper yang masing-masing dipasang pada headlamp kiri dan kanan. Hasil dari pengujian prototipe sistem headlamp adaptif pada mobil dapat mengenali sebagian besar jenis mobil. Sistem masih belum dapat mendeteksi mobil lawan apabila intensitas cahaya yang ditangkap pada kamera terlalu berlebihan seperti cahaya lampu mobil lawan saat menginjak rem, dan cahaya yang dihasilkan dari lampu depan mobil. Kontrol sudut pencahayaan dari headlamp dapat mengurangi efek silau dan menambah jangkauan penglihatan pengemudi berdasarkan survei yang dilakukan baik dari sisi pengemudi maupun dari sisi lawan. Pengujian dilakukan pada jalan yang sudah ‘terkondisi’ untuk menghindari hal-hal yang tidak diinginkan.",
+  "creators": "WILLIAM TANDY PRASETYO",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010944/ELK/2015; William Tandy Prasetyo (23411011)",
+  "subjects": "IMAGE PROCESSING; AUTOMOBILES-LIGHTING"
+}

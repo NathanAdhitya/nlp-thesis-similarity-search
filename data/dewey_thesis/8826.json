@@ -1,0 +1,14 @@
+{
+  "id": "8826",
+  "title": "Pemetaan menggunakan dua dimensi dengan menggunakan sensor ultrasonik",
+  "abstract": "Teknologi robotika dewasa ini telah mendorong dibutuhkannya kemampuan robot untuk dapat memetakan ruangan sekitarnya. Sensor ultrasonik memberikan alternatif yang murah dan efektif untuk dapat memetakan suatu ruangan. Untuk memetakan ruangan dipergunakan metode vector sensor yang terdiri dari lima buah sensor ultrasonik piezzoelectric ceramic. Vector sensor yang digunakan untuk mengenali bentuk ruangan tersebut dapat diputar hingga 180 o oleh motor stepper. Hasil pembacaan vector sensor tersebut diolah oleh personal computer (PC) dan ditampilkan hasilnya di layar monitor. Dari percobaan yang dilakukan dengan menggunakan sensor piezzoelectric ceramic, metode vector sensor dapat mengukur jarak dengan ketelitian hingga 99,96% dan berhasil dengan baik mengenali bidang pantul berbentuk plane, tetapi kurang berhasil mengenali bentuk-bentuk corner (sudut 90 derajat) dan edge (sudut 90 derajat ).",
+  "creators": "DANNY SETIAWAN",
+  "contributors": "Anies Hannawati (Advisor 1); Lauw Lim Un Tung (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/590/ELK/2003; Danny Setiawan (23498001)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; DETECTORS-COMPUTER PROGRAMS; ROBOTS; ROBOTICS"
+}

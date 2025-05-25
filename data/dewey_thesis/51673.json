@@ -1,0 +1,14 @@
+{
+  "id": "51673",
+  "title": "Aplikasi sistem pakar rekomendasi makanan untuk memenuhi kecukupan gizi",
+  "abstract": "Masalah gizi merupakan salah satu masalah yang umum di Indonesia. Kurangnya pengetahuan akan kebutuhan gizi menjadi salah satu penyebab utama terjadinya masalah gizi. Untuk menghindari masalah gizi setiap orang perlu mengetahui kebutuhan kalori hariannya agar tidak mengonsumsi makanan melebihi atau kurang dari kalori yang dibutuhkan. Mengonsumsi makanan melebihi kalori yang dibutuhkan dapat menyebabkan obesitas sedangkan mengonsumsi makanan kurang dari kalori yang dibutuhkan dapat menyebabkan kurang gizi. Penelitian ini dibuat untuk membantu mengurangi permasalahan gizi dengan membuat aplikasi yang dapat membantu user untuk mengetahui kebutuhan kalori hariannya serta memberikan rekomendasi makanan yang sesuai dengan kebutuhan kalorinya. Dengan menggunakan metode forward chaining untuk mengumpulkan data diri dari user dan metode genetic algorithm untuk memfilter makanan untuk direkomendasikan. Berdasarkan hasil pengujian program yang dilakukan, metode genetic algorithm yang digunakan berhasil memfilter makanan dan merekomendasikannya di mana total kalori dari makanan yang direkomendasikan mendekati total kebutuhan kalori user walaupun belum sempurna dan kadang masih melebihi kalori yang dibutuhkan namun tidak dalam jumlah yang besar. Daftar menu makanan yang digunakan sebagai referensi merupakan diet seimbang menurut kemenkes, namun peneliti selanjutnya dapat menggunakan referensi lain.",
+  "creators": "WILLIAM",
+  "contributors": "Kartika Gunadi (Advisor 1); ANITA NATHANIA PURBOWO, S.KOM. (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022121/INF/2022; William (26416109)",
+  "subjects": "EXPERT SYSTEMS (COMPUTER SCIENCE); GENETIC PROGRAMMING (COMPUTER SCIENCE); APPLICATION SOFTWARE"
+}

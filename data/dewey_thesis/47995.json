@@ -1,0 +1,14 @@
+{
+  "id": "47995",
+  "title": "Sistem notifikasi dan monitoring penggunaan energi pada kWh 1 Fasa",
+  "abstract": "Setiap akhir bulan PLN akan menugaskan petugasnya untuk melakukan pengecekan penggunaan energi penggunanya. Namun, saat petugas melakukan pengecekan terkadang rumah dari pengguna kosong sehingga pengecekan tidak dapat dilakukan.Sehingga dibutuhkan kWh meter digital yang dapat mengirimkan data akumulasi energi penggunanya ke server untuk dicatat. Sistem akan dibuat menggunakan dua perangkat, dimana perangkat pertama adalah kWh Meter Digital, dan perangkat kedua adalah Server. kWh Meter Digital nantinya melakukan pembacaan total penggunaan energi listrik, mengirimkan hasil pembacaan ke server, dan menampilkan data hasil akumulasi energi. Pada sisi server akan mencatat hasil pembacaan ke database, menampilkan grafik realtime hasil akumulasi, dan mengirimkan notifikasi hasil penggunaan energi setiap akhir bulan melalui Telegram. Sistem yang telah dibuat akan menghasilkan kWh Meter Digital yang memiliki error pembacaan sebesar 15%, dan minimal pembacaan daya sebesar 12 Watt. Server akan melakukan pencatatan data akumulasi energi kedalam database tiap detik, jam, dan hari, menampilkan grafik realtime pada dashboard Node - Red, mengirimkan 2 notifikasi melalui aplikasi Telegram setiap akhir bulan.",
+  "creators": "ALVIN SUSENO WIDJAJA",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Examination Committee 1); Indar Sugiarto (Examination Committee 2); Handy Wicaksono (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010992/ELK/2020; Alvin Suseno Widjaja (23416014)",
+  "subjects": "RASPBERRY PI (COMPUTER)--PROGRAMMING; RECORDING ELECTRIC METERS; ELECTRIC METERS"
+}

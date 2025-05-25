@@ -1,0 +1,14 @@
+{
+  "id": "57053",
+  "title": "Sistem pemantauan pasien berbasis IoT menggunakan ESP8266 dan Arduino",
+  "abstract": "Pemantauan kesehatan adalah masalah utama di dunia saat ini. Karena kurangnya pemantauan kesehatan yang tepat, pasien dapat menderita masalah kesehatan yang serius. Ada banyak perangkat jaman sekarang untuk memantau kesehatan pasien yang dimanfaatkan oleh pakar kesehatan untuk mengawasi pasien. namun karena tidak terintegrasi dengan IoT maka metode ini dapat menambah beban tenaga medis untuk melakukan pemeriksaan dan tidak bisa dilakukan kapanpun dan di manapun. Penelitian ini dilakukan untuk memudahkan seorang dokter maupun kerabat dari seorang penderita gangguan jantung untuk melakukan pengawasan secara real Time. Perangkat Arduino akan melakukan pembacaan pada tiap sensor dan dengan menggunakan layanan dari ThingSpeak dan IFTTT, pembacaan data dapat diterima dan divisualisasikan, kemudian secara otomatis dapat dicatat dalam Google Sheets sehingga dapat di akses baik melalui internet maupun aplikasi mobile. Kombinasi antara IoT dan Arduino adalah salah satu cara untuk mengenalkan metode IoT dalam dunia kesehatan. Dengan memanfaatkan IoT, pemantauan dapat lebih dipermudah karena tidak terbatas ruang. Penyampaian informasi yang real-time juga memudahkan pengambilan keputusan bila terjadi keadaan kritis.",
+  "creators": "STEFANUS ADI PUTRA PRATAMA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Justinus Andjarwirawan (Examination Committee 1); Handry Khoswanto (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021939/INF/2020; Stefanus Adi Putra Pratama (26414041)",
+  "subjects": "HEART RATE MONITORING; ARDUINO (PROGRAMMABLE CONTROLLER); PATIENT MONITORING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

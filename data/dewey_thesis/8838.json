@@ -1,0 +1,14 @@
+{
+  "id": "8838",
+  "title": "Perancangan dan pembuatan sistem informasi beban tugas dosen dan administrasi tenaga paruh waktu di universitas x berbasis web",
+  "abstract": "Biro Administrasi Umum dan Kepegawaian (BAUK) yang ada di Universitas X merupakan suatu unit yang menangani masalah administrasi umum dan kepegawaian. Selama ini, data yang ada di BAUK masih disimpan menggunakan sistem lama, yaitu Clipper. Dimana data-data yang disimpan tidak terintegrasi antara satu dengan yang lainnya karena tidak adanya relasi antar tabel-tabel yang ada di Clipper. Selain itu, sks beban tugas pada sistem yang lama tidak dapat menghitung secara otomatis, perhitungan dilakukan secara manual dan pengajuan beban tugas ini hanya dapat dilakukan pada awal semester dan diubah pada akhir semester saja. Tujuan dari Tugas Akhir ini adalah membuat web untuk sistem pengajuan beban tugas dosen, vakasi, dan administrasi Tenaga Paruh Waktu (TPW) yang terintegrasi sehingga memudahkan kegiatan administrasi di BAUK. Proses pembuatan awal adalah dengan menganalisis kegiatan pengajuan beban tugas dosen tetap dan administrasi dosen luar biasa (LB), dosen tetap khusus (DTK), asisten, dan TPW yang berjalan di BAUK. Kemudian dibuat desain sistem meliputi Data Flow Diagram, Entity Relationship Diagram, serta desain tabel sampai pada pemrograman. Web dibuat dengan menggunakan Microsoft Visual Studio 2005, ASP.NET 2.0. dan pembuatan database pada Microsoft SQL Server 2000. Dengan adanya web ini, pengajuan beban tugas dosen dapat dilakukan sewaktu-waktu, pencatatan vakasi dan administrasi dosen LB, DTK, asisten, dan TPW serta pencetakan laporan-laporan yang dibutuhkan dapat dilakukan melalui web.",
+  "creators": "BETA WIDIANTI SISWANTO",
+  "contributors": "Rolly Intan (Advisor 1); Setiawan Wiweko Lopito (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010611/INF/2007; Beta Widianti Siswanto (26403031)",
+  "subjects": "WEBSITES-DESIGN; INTERNET (COMPUTER NETWORK); PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

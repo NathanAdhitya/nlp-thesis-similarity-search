@@ -1,0 +1,14 @@
+{
+  "id": "23198",
+  "title": "Aplikasi mikroprosesor Z-80 untuk mengendalikan alat bor yang dapat bergerak pada sumbu x-y-z",
+  "abstract": "Kemaluan dibidang teknologl digital telah berkembang dengan cepat. Banyak penemuan-penemuan baru yang sangat berguna bagi kesejahteraan manusia. Mikroprosesor adalah salah satu kemajuan yang telah dicapai. Dengan adanya mikroprosesor semua sistem kendali dapat dilakukan dengan mudah dan tepat. Dibidang industri seringkali diperlukan suatu sistem kendali yang dapat bergerak secara otomatis, ha1 ini mengingat kemampuan tenaga manusia yang terbatas. Tentunya dengan adanya sistem kendali tersebut pekerjaan manusia menjadi lebih mudah. Ada berbagai macam mikroprosesor yang ada, penilihan mikroprosesor yang digunakan harus didasarkan pada fungsi dari alat yang akan dikendalikan. Untuk sistem kendali yang sederhana penggunaan mikroprosesor 280 adalah sudah memada i . Mikroprosesor nantinya akan dikendalikan oleh program utama yang diletakkan dalam EPROM. 280 akan mengambil data dari RAM untuk dilakukan pengeboran. Pengisian data koordinat pada RAM dilakukan melalui keyboard. Agar lebih mudah pengisiannya adalah dalam desimal bukan dalam hexadesimal.280 nantfnya akan mengontrol tiga buah motor stepper, yang masing-masing untuk sumbu x,y dan z. Untuk pengontrolan ini dilakukan oleh ,perangkat lunak yang dibantu dengan suatu perangkat keras. Sistem umpan balik yang dfgunakan adalah secara simpal terbuka (open loop). Pengontrolan dilakukan dengan cara menghitung jumlah pulsa yang dikirimkan ke motor stepper. Jumlah pulsa tersebut disesuaikan dengan besarnya koordinat yang akan dibor. Dengan demikian jumlah perputaran yang diperlukan untuk bergerak pada satu koordinat tertentu dapat dilakukan dengan cermat",
+  "creators": "PO KIU LIONG",
+  "contributors": "MOCHAMAD HEROE (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); SOETIKNO (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 89/E/EL/017/0038; Po Kiu Liong (484037)",
+  "subjects": "MICROPROCESSORS-BOKING MACHINERY"
+}

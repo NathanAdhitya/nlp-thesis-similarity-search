@@ -1,0 +1,14 @@
+{
+  "id": "4760",
+  "title": "Prototipe aplikasi multiplayer game pada handphone menggunakan teknologi Java 2 Micro dition",
+  "abstract": "Aplikasi game atau permainan di handphone merupakan aplikasi yang masih terus berkembang dan diminati pengguna sebagai salah satu fitur entertainment pada handphone. Menggunakan Java 2 Micro Edition, dimungkinkan untuk membuat suatu game yang dapat dimainkan melalui handphone yang berbeda baik merek dan tipenya. Selain itu, banyak operator selular di Indonesia telah mendukung fasilitas GPRS (General Packet Radio Service), memungkinkan handphone dan suatu komputer server yang terhubung dengan internet dapat saling berkomunikasi. Desain sistem melibatkan sisi client dan sisi server, sisi client akan memanfaatkan handphone sebagai perangkat tempat memainkan aplikasi game atau permainan yang dibuat dengan dukungan perangkat lunak Java 2 Micro Edition. Sisi server memanfaatkan sebuah web server dengan dukungan utama script language PHP dan juga database MySQL sebagai tempat pengatur informasi yang digunakan dalam permainan. Model dari game multiplayer yang diimplementasikan berupa permainan dadu. Masing- masing pemain diberi kesempatan mencetak nilai dengan melemparkan dadu sebanyak tiga kali setiap satu putaran permainan. Nilai dari masing- masing pemain tersebut selanjutnya akan dibandingkan dan pemain dengan nilai tertinggi akan keluar sebagai pemenang. Hasil pengujian yang dilakukan menunjukkan bahwa sistem sudah berjalan dengan baik walaupun memiliki ketergantungan terhadap dukungan koneksi GPRS, yang mana digunakan dalam pengiriman data antara client-server. Waktu request dan respon antara handphone dan server yang memakan waktu yang relatif lama menyebabkan sistem rentan terhadap gangguan yang berakibat sistem tidak dapat berjalan sesuai dengan yang diharapkan.",
+  "creators": "MADE YUDISTIRA",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010015/ELK/2004; Made Yudistira (23400113)",
+  "subjects": "INTERNET (COMPUTER NETWORK)"
+}

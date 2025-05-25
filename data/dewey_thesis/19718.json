@@ -1,0 +1,14 @@
+{
+  "id": "19718",
+  "title": "Perencanaan dan pembuatan layar sentuh pada IBM PC dengan mikrokontroler 80C31",
+  "abstract": "Sejalan dengan perkembangan perangkat lunak, operator komputer dewasa ini tidak perlu bersusah payah mengendalikan program dengan keyboard, karena 'mouse' telah memegang peranan. Dengan adanya mouse, maka penunjukkan pada layar dan kendali program dapat lebih fleksibel, karena terdapat pointer indikator dari mouBe itu sendiri. Pada Tugas Akhir ini dibuat suatu alternatif input device untuk IBM PC, yakni Layar Sentuh. Dimana untuk kendali program atau program menu, operator hanya menunjuk daerah tertentu pada layar dengan jari. Prinsip dasar dari alat ini adalah mendeteksi daerah sentuhan pada layar dengan sinar infra merah. Pada bawah-atas dan kiri-kanan layar dipasang pemancar dan penerima infra merah yang bersesuaian, sehingga lokasi sentuhan dapat dideteksi. Penerima infra merah yang digunakan adalah photodioda. Adapun pengendalian sensor maupun pendeteksian sentuhan dilakukan oleh mikrokontroler 80C31. Hasil pendeteksian yang berupa data baris dan kolom akan dikirimkan ke IBM PC dengan komunikasi serial. Data ini akan dipergunakan oleh PC sebagai input kendali program. Perangkat layar sentuh ini mampu mendeteksi 24x16 daerah sentuhan, untuk penerapan serta penggunaannya pada PC dibuat perangkat lunak tersendiri.",
+  "creators": "DENNY CHARLIE",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/017/0174; Denny Charlie (23489008)",
+  "subjects": "COMPUTERS; MICROCONTROLLER 80C31"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "43798",
+  "title": "Smart power outlet dengan fitur pemantauan daya",
+  "abstract": "Smart power outlet yang sebelumnya dibuat oleh Felix Thamrin mempunyai fitur pemantauan daya yang belum optimal, dimana proses penghitungan daya yang dilakukan hanya memanfaatkan sensor arus. Pembuatan tugas akhir ini dimaksudkan untuk membuat smart power outlet dengan fitur pemantauan daya yang sudah memanfaatkan sensor tegangan dan sensor arus, serta penambahan fitur penghitungan biaya. Smart power outlet terdiri dari beberapa komponen utama seperti mikrokontroler NodeMCU, modul sensor tegangan ZMPT101B, modul sensor arus ACS712. Dari beban yang terpasang, data berupa tegangan dan arus akan dibaca oleh sensor dan dikirimkan menuju mikrokontroler untuk dilakukan penghitungan. Hasil pengitungan akan dikirimkan melalui jaringan internet dan ditampilkan pada aplikasi Blynk pada smartphone pengguna. Smart power outlet juga dilengkapi dengan fitur lain seperti timer, alarm, dan penghitungan biaya. Berdasarkan hasil pengujian, seluruh fitur pada smart power outlet dapat berjalan dengan baik. Kontrol secara manual, fitur timer dan alarm berjalan dengan baik dan responsif. Fitur pemantauan daya masih belum akurat dengan eror terbesar mencapai 80%, sedangkan pada fitur penghitungan biaya terdapat eror terbesar mencapai 8%.",
+  "creators": "Nadua Joelmettu",
+  "contributors": "Handry Khoswanto (Advisor 1); Resmana Lim (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010971/ELK/2018; Nadua Joelmettu (23413029)",
+  "subjects": "ARDUINO; SOFTWARE"
+}

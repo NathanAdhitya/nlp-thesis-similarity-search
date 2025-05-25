@@ -1,0 +1,14 @@
+{
+  "id": "37119",
+  "title": "Perencanaan enterprise architecture pada perusahaan manufaktur plastik PT X dengan metode enterprise architecture planning",
+  "abstract": "Perusahaan manufaktur plastik PT X merupakan perusahaan yang bergerak di bidang produksi barang berbahan plastik, menghasilkan produk seperti dvd case atau cutlery. Hampir seluruh proses bisnis yang dikerjakan oleh perusahaan menggunakan pendataan secara manual dan hanya sedikit yang terintegrasi. Perusahaan menggunakan Microsoft Office dan Accurate namun Microsoft Office tidak terintegrasi dengan baik dan bagian program Accurate tidak mencakup semua keperluan proses bisnis yang ada di perusahaan saat ini. Oleh sebab itu, dibentuklah analisa dan pembuatan desain enterprise architecture dengan metode enterprise architecture planning untuk perusahaan manufaktur plastik PT X. Pertama yang akan dikerjakan adalah melakukan analisa model bisnis perusahaan beserta strategi yang dimiliki. Kemudian melakukan observasi teknologi informasi yang ada di perusahaan saat ini dan melihat kebutuhan yang di masa yang akan datang. Setelah hal-hal tersebut dilakukan, maka dapat dimulai membuat desain arsitektur data, aplikasi dan teknologi. Desain arsitektur data yang dikerjakan menghasilkan beberapa sub sistem di perusahaan seperti sub sistem penjualan, sub sistem pembelian, sub sistem produksi, sub sistem keuangan, dan sub sistem personalia. Desain arsitektur aplikasi akan memilih aplikasi mana saja yang cocok dan sesuai dengan desain arsitektur data. Aplikasi yang dipilih adalah sistem informasi penjualan, sistem informasi pembelian, sistem informasi keuangan, sistem informasi produksi, sistem informasi gudang bahan baku, sistem informasi gudang barang jadi, sistem informasi personalia, dan customer relationship management. Desain arsitektur teknologi, menggunakan client/server architecture pattern yang menggunakan service oriented architecture untuk melakukan perturakan data antar aplikasi yang ada di desain arsitektur aplikasi.",
+  "creators": "WILSON SURYA NYOTO",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021578/INF/2016; Wilson Surya Nyoto (26412112)",
+  "subjects": "BALANCED SCORECARD; INFORMATION SYSTEM; INFORMATION TECHNOLOGY"
+}

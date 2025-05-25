@@ -1,0 +1,14 @@
+{
+  "id": "14834",
+  "title": "Simulasi pengaturan jarak jauh traffic light dengan menggunakan program scada dan plc via modem",
+  "abstract": "Sistem automatic traffic light yang banyak dipakai saat ini menggunakan rangkaian Mikroprosessor dan PLC (Programmable Logic Controller), dimana pengaturan lampu lalu lintasnya dapat di sesuaikan dengan tingkat kepadatan lalu lintas di daerah tersebut pada waktu dan hari yang berbeda. Akan tetapi hal tersebut masih memiliki beberapa kekurangan, yaitu sulitnya melakukan perubahan setting traffic light secara cepat, terlebih lagi bila menggunakan rangkaian Mikroprosessor dimana operator harus betul-betul menguasai bahasa program yang digunakan untuk dapat mengubah setting traffic light tersebut. Tujuan dari penelitian ini yaitu untuk memperkenalkan suatu sistem simulasi pengaturan traffic light dari jarak jauh via modem dengan menggunakan program SCADA Intellution dan SSS serta PLC. Pada simulasi pengaturan jarak jauh traffic light ini, data settingnya mengambil data setting yang terdapat pada perempatan traffic light Nginden/Panjang Jiwo. Setting modem untuk jalur komunikasinya dibuat melalui program Hyperterminal, sedangkan tampilan setting untuk mengontrol kondisi simulasi traffic light dibuat melalui program SCADA Intellution. Pengujian dilakukan dengan cara menghubungkan simulasi traffic light dengan PLC Omron C200HS dan modem serta menghubungkan Computer dengan modem. Perubahan data pada setting melalui program SCADA dapat mempengaruhi kondisi simulasi traffic light. Pada akhir penelitian ini, simulasi pengaturan jarak jauh traffic light dengan menggunakan program SCADA dan PLC via modem telah berjalan dengan baik, hanya terdapat masalah pada tampilan SCADA Intellution yaitu adanya scan time yang ditimbulkan karena banyaknya database yang digunakan.",
+  "creators": "MAYA INDRAWATI SOENYOTO",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); Felix Pasila (Advisor 2); Heri Saptono Warpindyasmoro (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/068/505; Maya Indrawati Soenyoto (23496022)",
+  "subjects": "ELECTRONIC TRAFFIC CONTROLS-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS; AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

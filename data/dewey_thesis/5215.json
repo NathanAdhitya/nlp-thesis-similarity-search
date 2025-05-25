@@ -1,0 +1,14 @@
+{
+  "id": "5215",
+  "title": "Estimasi penghematan energi listrik dengan memperbaiki power quality sistem kelistrikan di Pabrik Semen Gresik, Tuban III",
+  "abstract": "Pabrik Semen Gresik, Tuban III memiliki banyak peralatan yang merupakan beban induktif yang dapat mengakibatkan beban daya reaktif menjadi naik. Hal ini menyebabkan pemborosan energi listrik, peningkatan konsumsi daya (MVA) dan penurunan faktor daya. Pada motor-motor yang terpasang di Pabrik Semen Gresik, Tuban III banyak dipasang variable speed drive yang merupakan beban non linear yang dapat menimbulkan harmonisa. Beban induktif dan harmonisa yang ditimbulkan beban non linear akan menyebabkan power quality yang buruk. Maka dari itu dipasanglah filter harmonisa untuk mengurangi harmonisa dan juga berfungsi sebagai kompensator daya reaktif. Hasil pengukuran dan simulasi menggunakan ETAP Power Station Versi 4.00C menunjukan bahwa pemasangan filter harmonisa high pass damped mampu mengatasi permasalahan harmonisa yang timbul, kecuali pada ITHD busbar EDR 17B kegagalan ini disebabkan ITHD busbar 17B masih lebih besar dari standar yang diijinkan (ITHD= 8) yaitu 8,44. Dengan pemasangan filter harmonisa losses akibat harmonisa berkurang sebesar 83.53467 kW. Selain digunakan sebagai filter harmonisa, filter tersebut juga dimanfaatkan untuk mengkompensasi daya reaktif dari 0,6674 menjadi 0,9828, dapat menghemat konsumsi energi listrik sebesar 7.454 MVA dan menghindari denda kelebihan kVar dan biaya penambahan beban yang totalnya mencapai Rp 5.226.025.276/bulan.",
+  "creators": "HERY BUDIYANTO",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Limboto Limantara (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No.01010560/ELK/2007; Hery Budiyanto (23403070)",
+  "subjects": "ELECTRIC POWER SYSTEM-QUALITY CONTROL"
+}

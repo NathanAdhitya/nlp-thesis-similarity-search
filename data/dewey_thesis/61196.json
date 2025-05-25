@@ -1,0 +1,14 @@
+{
+  "id": "61196",
+  "title": "Simulasi coastal flooding di Pasuruan Jawa Timur",
+  "abstract": "Pasang surut banjir menjadi masalah yang semakin umum di daerah pesisir di seluruh dunia. Salah satu penyebab utamanya adalah kenaikan permukaan air laut akibat pemanasan global. Kabupaten Pasuruan di Jawa Timur, Indonesia, sebagai salah satu daerah pesisir yang terkena dampak, dipilih sebagai lokasi penelitian. Penelitian ini bertujuan untuk membuat model hidrodinamika yang andal serta memberikan data yang bisa digunakan untuk mengantisipasi banjir rob di tengah pemanasan global. Metodologi penelitian mencakup pengukuran data lapangan langsung dan penggunaan perangkat lunak untuk menghasilkan model hidrodinamika di wilayah pesisir Kabupaten Pasuruan. Analisis Root Mean Square Error (RMSE) digunakan sebagai metode validasi dan verifikasi model agar sesuai dengan kondisi nyata. Hasil penelitian menunjukkan bahwa model hidrodinamika Delft3D yang dihasilkan memiliki keakuratan RMSE sebesar 0,240, menunjukkan validasi dan verifikasi yang baik. Hasil dari Permodelan Delft 3D di masukan ke dalam apliksi HEC-RAS. Hasil dari HEC-RAS menunjukkan bahwa Delft 3D mencatat luas area 142,910 hektar. Ketika ditambahkan data hujan, luasnya menjadi 183,890 hektar. Prediksi masa depan menggunakan data debit limpasan SCS (Soil Conservation Services) untuk 20, 50, dan 100 tahun mendatang menunjukkan bahwa luas area tergenang diperkirakan sebagai berikut: 149,901 hektar untuk SCS 20 tahun, 150,701 hektar untuk SCS 50 tahun, dan 151,155 hektar untuk SCS 100 tahun.",
+  "creators": "HANSEL CHRISTOPHER; RICHARD ALVIN WIJAYA",
+  "contributors": "Dr. rer.nat. Surya Hermawan S.T., M.T. (Advisor 1); Cilcia Kusumastuti, S.T., M.Eng. (Examination Committee 1); Benjamin Lumantarna (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012763/SIP/2024; Hansel Christopher (B11190074), Richard Avin Wijaya (B11200026)",
+  "subjects": "HYDRODYNAMICS; LITTORAL; TIDAL CURRENTS"
+}

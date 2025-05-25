@@ -1,0 +1,14 @@
+{
+  "id": "29804",
+  "title": "Perancangan dan pembuatan aplikasi perhitungan harga pokok produksi dengan metode job order costing pada PT X",
+  "abstract": "PT X adalah sebuah perusahaan yang bergerak dalam bidang produksi dan pendistribusian sandal. Pada saat ini pencatatan yang ada pada PT X masih bersifat manual. Perhitungan harga pokok produksi juga dilakukan secara manual, dalam perhitungan harga pokok produksi, yang dihitung hanyalah biaya bahan baku saja. Dari permasalahan harga pokok produksi tersebut, akan menyebabkan kesulitan dalam menghitung keuntungan dan kerugian perusahaan. Berdasarkan permasalahan tersebut, maka dirancang sebuah sistem yang dapat membantu perhitungan harga pokok produksi. Proses perancangan sistem dimulai dari beberapa tahap, dimulai dengan survei ke perusahaan untuk menganalisa proses produksi sandal, analisa data yang ada dan merancang Data Flow Diagram dan Entity Relationship Diagram dari aplikasi yang akan dibuat. Proses pembuatan menggunakan Microsoft Visual Studio .NET 2010 dan Database SQLServer 2012. Hasil dari aplikasi ini adalah pencatatan seluruh data yang berkaitan dengan proses produksi, pembelian bahan baku, penjualan sandal, perhitungan harga pokok produksi secara otomatis dan juga kartu stok yang terupdate secara otomatis.",
+  "creators": "CHANDRA KUSUMA PUTRA H.",
+  "contributors": "Alexander Setiawan (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Kristo Radion Purba S.ST. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021346/INF/2014; Chandra Kusuma Putra Harijono (26410017)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

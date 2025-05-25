@@ -1,0 +1,14 @@
+{
+  "id": "57261",
+  "title": "Platform aplikasi pemesanan makanan di tempat untuk mempermudah interaksi pembeli-penjual di pujasera",
+  "abstract": "Food court atau pusat jajanan serba ada (pujasera) merupakan tempat makan yang terdiri dari gerai-gerai makanan atau minuman yang menjual berbagai menu. Pujasera sering menjadi pilihan banyak orang dalam membeli makanan karena tersedianya menu yang beragam dari berbagai gerai. Pada skripsi ini, beberapa masalah yang ditemui pada pujasera seperti: antrian pada pujasera, sistem pengambilan makanan di pujasera, kebisingan pada pujasera, dan pencatatan pesanan yang masih manual di pujasera. Berdasarkan masalah yang dijumpai di pujasera yang telah disebutkan, pada skripsi ini akan dibuat aplikasi untuk membantu memecahkan masalah yang ditemukan pada pujasera. Melalui aplikasi, proses pemesanan di pujasera dapat dilakukan dan penjual-pembeli dapat berinteraksi dalam aplikasi. Aplikasi yang dibuat merupakan aplikasi berbasis Android dengan bahasa pemrograman Kotlin. Terdapat tiga sisi aplikasi yang akan dibuat: penjual, pengunjung, dan admin di mana tiap sisi aplikasi akan memiliki fitur yang berbeda. Pada aplikasi ini juga akan digunakan location-based services untuk dapat menunjukkan pujasera dengan lokasi terdekat dari pengguna dan firebase cloud messaging untuk fitur push notification. Pengujian aplikasi dilakukan pada 11 gerai makanan pada 3 pujasera berbeda dan 23 pengunjung pujasera. Hasil penelitian menunjukkan respon positif dari partisipan mengenai aplikasi sebanyak 91%.",
+  "creators": "JENNIFER ANGELINA",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Agustinus Noertjahyana (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022373/INF/2023; Jennifer Angelina (C14190099)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELCTRONIC COMPUTERS); ANDROID (COMPUTER PROGRAM); KOTLIN (COMPUTER PROGRAM LANGUAGE)"
+}

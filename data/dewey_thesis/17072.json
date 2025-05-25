@@ -1,0 +1,14 @@
+{
+  "id": "17072",
+  "title": "Diskriminasi struktur proses produksi dalam domain sekuensi dengan menggunakan transformasi Fast Walsh-Fourier dan pengujian statistik Kolmogorov-Smirnov",
+  "abstract": "Dalam tugas akhir ini akan digunakan transformasi Fast Walsh - Fourier untuk mendeteksi perubahan struktur pada proses produksi khususnya data atribut. Dan difokuskan pada perubahan struktur yang mempengaruhi struktur kovarian data. Peta kendali Shewhart yang mendasarkan pada uji hipotesis konvensional sering gagal mendeteksi adanya perubahan struktur kovarian data karena data proses produksi pada umumnya terkorelasi dan tidak berdistribusi normal. Struktur suatu proses dapat dimodelkan oleh fungsi kovarian, sedangkan fungsi kovarian identik dengan distribusi spektralnya. Sehingga agar dapat mendeteksi perubahan struktur, data perlu ditransformasikan ke dalam distribusi spektralnya dengan menggunakan transformasi Fast Walsh - Fourier (domain sekuensi berbasis fungsi kotak) sehingga data menjadi tidak terkorelasi dan dapat dianalisis secara statistik. Dengan asumsi bahwa distribusi data proses produksi tidak diketahui maka akan digunakan uji statistik nonparametrik untuk mendeteksi perubahan struktur. Data yang telah ditransformasikan, akan diuji dengan menggunakan pengujian statistik Kolmogorov-Smirnov untuk mengetahui apakah metode ini dapat mendeteksi dan menentukan titik perubahannya. Data yang dipakai dalam tugas akhir ini berupa data time series simulasi atribut gabungan yang dibangkitkan dengan model INAR (Integer Valued Auto Regression) dimana mempunyai struktur berbeda dan stationer. Pada tugas akhir ini disertakan juga perangkat lunak interaktif dari model yang dibangun.",
+  "creators": "HANDOKO EDY TAMTAMA",
+  "contributors": "Dr. Dra. Gan Shu San, M.Sc. (Advisor 1); Sujono Poetrodjojo (Advisor 2); BENJAMIN HADISURYA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 073/TMI-03/1998; Handoko Edy Tamtama (25493082)",
+  "subjects": "MANUFACTURING PROCESSES-STATISTICAL METHODS; PRODUCTION MANAGEMENT-STATISTICAL METHODS"
+}

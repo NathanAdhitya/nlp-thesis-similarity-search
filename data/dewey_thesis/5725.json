@@ -1,0 +1,14 @@
+{
+  "id": "5725",
+  "title": "Implementasi remote radio frekuensi (RF) pada sistem alarm kendaraan bermotor",
+  "abstract": "Tingkat kriminalitas curanmor di negara ini semakin tinggi saja. Khususnya angka kriminalitas untuk pencurian kendaraan bermotor roda dua. Hal ini disebabkan karena alarm security sepeda motor masih kurang aman terhadap kondisi sekarang ini. Oleh karena itu melihat dari beberapa fakta dan masih tingginya tingkat pencurian sepeda motor, perlu adanya perbaikan terhadap sistem alarm security sepeda motor yang telah ada saat ini. Sistem Alarm security sepeda motor ini dilengkapi dengan sistem password serta dapat melakukan cut ignition mode dari jarak jauh melalui modul remote RF. Selain itu sistem alarm security sepeda motor ini dilengkapi dengan battery-backup. Sistem ini menggunakan mikrokontroler AT89C2051 sebagai pengolah data dan controller dari alarm security system sepeda motor. Digunakan shock sensor pada bodi sepeda motor dan sensor posisi kunci kontak sepeda motor. Dari hasil pengujian, alarm security system sepeda motor ini mampu memonitoring kondisi sepeda motor dari jarak 43,3m (pada area yang tidak terdapat halangan) sedangkan pada area yang terdapat halangan dapat memonitoring kondisi sepeda motor pada jarak 33,5m. Sistem alarm sepeda motor dapat berjalan sesuai dengan yang diinginkan dan diharapkan dapat menekan angka kriminalitas khususnya angka pencurian sepeda motor.",
+  "creators": "PUNGKAS APRIANTO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010778/ELK/2006; Pungkas Aprianto (23401103)",
+  "subjects": "RADIO CONTROL; ELECTRIC ALARMS; REMOTE CONTROL"
+}

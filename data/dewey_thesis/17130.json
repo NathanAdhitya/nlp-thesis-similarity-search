@@ -1,0 +1,14 @@
+{
+  "id": "17130",
+  "title": "Perancangan dan pembuatan sistem informasi pembelian dan penjualan hasil bumi pada CV. Sinar Witama",
+  "abstract": "CV. Sinar Witama adalah perusahaan yang bergerak dalam pembelian dan penjualan hasil bumi (komoditi). Pembelian dan penjualan dilakukan dalam jumlah partai. Sistem dalam perusahaan saat ini masih memiliki banyak kekurangan (pencatatan transaksi pembelian dan penjualan yang tidak konsisten dengan pembelian dan penjualan aslinya) dalam pembuatan laporan laba rugi dan oleh karena itu diperlukan perancangan untuk sistem yang baru. Perancangan desain untuk sistem yang baru menggunakan Data Flow Diagram untuk menggambarkan aliran data dalam perusahaan dan Entity Relationship Diagram untuk mendesain struktur tabel database dan relasi antar tabel. Database dibuat dengan menggunakan Microsoft SQL Server 2000 dan aplikasi dibuat dengan menggunakan bahasa pemrograman Microsoft Visual Basic 6.0. Program yang dibuat, meliputi: modul pembelian barang, penjualan barang, retur pembelian, retur penjualan, dan laporan. Dari hasil pengujian, program dapat menghasilkan informasi yang berhubungan dengan pembelian, perhitungan harga pokok penjualan dan penjualan serta menghasilkan laporan-laporan, seperti laporan pembelian, laporan penjualan, laporan retur pembelian, laporan retur penjualan, laporan pengiriman, dan laporan laba rugi.",
+  "creators": "WITANTO HALIM",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020884/INF/2010; Witanto Halim (26406134)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

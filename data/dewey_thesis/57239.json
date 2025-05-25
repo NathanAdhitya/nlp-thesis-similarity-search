@@ -1,0 +1,14 @@
+{
+  "id": "57239",
+  "title": "Metode ARIMA, SARIMA, dan ARIMAX untuk memprediksi temporal hourly-based solar photovoltaics output di Jawa-Bali",
+  "abstract": "Solar Photovoltaics (PV) merupakan salah satu teknologi pembangkit listrik yang dapat dimanfaatkan untuk menggantikan penggunaan sumber energi fosil yang semakin hari semakin menipis. Indonesia sebagai negara yang memiliki potensi energi surya yang sangat baik, masih belum dapat menggunakan solar photovoltaics secara optimal. Masalah cuaca dan iklim yang tidak menentu dan beberapa faktor minor seperti temperatur, dan kelembapan juga dapat mempengaruhi output yang dihasilkan oleh solar PV menjadi tidak menentu. Untuk menjawab permasalahan tersebut, akan dibuat sebuah sistem prediksi output solar PV yang dapat memberikan gambaran yang lebih jelas tentang keadaan dan potensi penggunaan solar PV di Indonesia, yang berguna sebagai pembantu pengambilan keputusan penting dan menentukan regulasi penggunaan solar PV di Indonesia secara berkepanjangan dan dapat menguntungkan semua pihak. Dalam Skripsi ini digunakan metode time series yaitu ARIMA, SARIMA, dan ARIMAX untuk memprediksi output dari solar photovoltaics. Data time series yang digunakan dibagi menjadi tiga frekuensi yaitu harian, mingguan, dan bulanan untuk mengetahui jenis data apa yang paling optimal untuk metode yang digunakan. Hasil pengujian menunjukkan bahwa metode time series yang digunakan paling cocok ketika memprediksi data dengan frekuensi bulanan. Metode ARIMAX memiliki performa yang paling baik ketika dicoba untuk memprediksi semua kabupaten/ kota pada provinsi Jawa Tengah, dengan menghasilkan nilai RMSE 10,74 untuk frekuensi data bulanan, nilai RMSE 25,36 untuk frekuensi data mingguan, dan nilai RMSE 60,27 untuk frekuensi data harian. Untuk aplikasi dashboard berbasis website dibuat dengan menggunakan framework Dash dengan python versi 3.10.9. Aplikasi dashboard berbasis website yang dibuat mampu untuk memberikan gambaran tentang pengaplikasian solar PV di pulau Jawa - Bali dengan analisa karaketristik time series nya. Aplikasi dashboard juga mampu untuk melakukan prediksi dengan parameter yang sudah didapat dari hasil pengujian.",
+  "creators": "JIMLEE CHRISTANTO WIDJAYA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Andreas Handojo (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022287/INF/2023; Jimlee Christanto Widjaya (C14190050)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; SOLAR POWER PLANTS--RESEARCH; TIME SERIES ANALYSIS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "34385",
+  "title": "Robot ekspresi ucapan dan mimik wajah manusia",
+  "abstract": "Robot ekspresi ucapan dan mimik wajah manusia ini adalah robot yang dapat menghasilkan ekspresi dan mimik wajah manusia seperti manusia pada umumnya. Eskpresi dan mimik wajah robot akan difokuskan pada gerakan alis, mata, dan juga mulut. Pergerakan alis, mata dan mulut robot akan disesuaikan dengan database yang dimiliki oleh sistem. Alis robot akan membentuk ekspresi wajah manusia ketika mengalami kondisi tertentu. Mata robot akan dapat bergerak sesuai gerakan mata pada umumnya. Mulut robot akan dapat bergerak sesuai gerakan manusia ketika berbicara suku kata sebanyak 2 huruf. Sistem ini menggunakan text file sebagai input dari sistem. Text file akan kemudian dibaca oleh platform Processing. Selagi platform Processing membaca data, ia juga akan membagi data tersebut menjadi array dan akan mengirimkan data berurutan sesuai urutan array. Processing akan mengirimkan data ke platform Arduino. Data akan dikirimkan melalui kabel serial Arduino. Setelah menerima data, Arduino akan membandingkan data dengan database yang dimiliki lalu menggerakkan bagian yang dimaksud. Robot ini diuji dengan membandingkan bentuk alis robot dengan bentuk alis referensi, membandingkan gerakan mata robot dengan gerakan mata manusia pada umumnya, dan membandingkan ukuran pergerakan mulut robot dengan ukuran pergerakan mulut referensi. Saat pengujian, diperoleh tingkat keberhasilan robot untuk menghasilkan gerakan alis yang sesuai adalah 60%, dan tingkat keberhasilan robot untuk menghasilkan gerakan mata yang sesuai adalah 100%. Sedangkan mayoritas gerakan mulut robot memiliki error rate tidak lebih dari ±10%.",
+  "creators": "STEVEN KIMSHA",
+  "contributors": "Handry Khoswanto (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010954/ELK/2015; Steven Kimsha (23411027)",
+  "subjects": "ROBOTICS-COMPUTER PROGRAMS; ROBOTICS"
+}

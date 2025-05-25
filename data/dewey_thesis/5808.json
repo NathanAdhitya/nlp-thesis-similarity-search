@@ -1,0 +1,14 @@
+{
+  "id": "5808",
+  "title": "Pembuatan program man machine interface dengan simple database untuk plc omron",
+  "abstract": "Tugas akhir ini dibuat dengan tujuan untuk membuat Man Machine Interface yang ber database dari suatu plan sederhana yang dikontrol oleh PLC dari vendor OMRON dengan menggunakan kabel serial RS-232 sebagai media komunikasi antara PC dengan PLC. Plant dibuat dalam bentuk miniatur rumah yang sederhana. Plan ini dikontrol oleh sebuah PLC OMRON CPM1 dan proses kerjanya ditampilkan pada sebuah software SCADA yang memakai Microsoft Visual Basic 6.0. Program PLC menggunakan ladder diagram yang dibuat melalui software Syswin 3.0. Hasil pengujian menunjukkan bahwa sistem ini sudah dapat menyalakan 3 LED, sebuah fan dan sebuah lampu dimmer dan juga mampu memonitor apabila dinyalakan dengan tombol dari luar. Adapun konsumsi daya total adalah 2.744 Watt. Kerusakan pada hardware di luar PLC tidak akan terdeteksi dikarenakan software hanya akan membaca kondisi PLC.",
+  "creators": "RUDY TJAHYONO",
+  "contributors": "Resmana Lim (Advisor 1); Handy Wicaksono (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010758/ELK/2005; Rudy Tjahyono (23401018)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

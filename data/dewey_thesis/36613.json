@@ -1,0 +1,14 @@
+{
+  "id": "36613",
+  "title": "Pengurangan waktu pengambilan barang dengan menggunakan simulasi pada gudang sepeda di UD X",
+  "abstract": "UD X merupakan sebuah perusahaan yang bergerak dalam bidang distribusi dan penjualan sepeda. Gudang yang dimiliki UD X mengalami permasalahan di antaranya waktu pengambilan yang lama. Masalah lainnya adalah tidak bisa berjalannya sistem FIFO dikarenakan layout gudang sekarang hanya berupa tumpukan. Penelitian ini dilakukan dengan membuat simulasi pada kondisi awal untuk mengetahui waktu yang dibutuhkan untuk pengambilan barang. Usulan dibuat dengan mengelompokkan barang berdasarkan throughput-to-storage dari barang untuk mengetahui kecepatan keluar masuk barang. Alternatif usulan juga dibuat berdasarkan sistem single racking with front end depot dan sistem single aisle with front end depot dan diuji menggunakan simulasi. Hasil yang didapatkan adalah usulan terbaik adalah usulan dengan single racking with front end depot dengan penurunan waktu pengambilan sebesar 22,017 detik dibandingkan kondisi awal. Biaya investasi yang dilakukan sebesar Rp128.200.000,- dan breakeven selama 21,6 tahun. Investasi dikatakan belum layak karena pengeluaran tidak sepadan dengan penghematan.",
+  "creators": "HENDRA SOESATYO",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021867/IND/2016; Hendra Soesatyo (25412074)",
+  "subjects": "INVENTORIES--MANAGEMENT; TRANSPORTATION-INDUSTRY; WAREHOUSE--MANAGEMENT"
+}

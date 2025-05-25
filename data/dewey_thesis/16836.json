@@ -1,0 +1,14 @@
+{
+  "id": "16836",
+  "title": "Perencanaan dan pembuatan modul bi-lingual untuk televisi dengan menggunakan nicam decoder tipe SAA7283ZP",
+  "abstract": "Sistem NICAM yang ditemukan oleh para ahli dari BBC Research Centre, Kingswood Warren merupakan salah satu sistem audio selain German A2. Sistem ini menggunakan sinyal digital sebagai hasil sampling sinyal analog pada frekuensi 32 kHz. Sinyal digital ini akan melalui proses-proses : companding (pengompresan data), pemberian parity (even parity), interleaving, scrambling. Setelah sinyal siap maka akan dimodulasikan secara DQPSK. SAA7283ZP merupakan single chip NICAM Decoder yang di dalamnya sudah terdapat bagian-bagian seperti demodulator, digital filter dengan karakteristik CCITT J.17 Curve, RAM, sistem de-scrambling, sistem de-interleaving, dan auto mute. Chip ini dapat dikontrol oleh suatu microprocessor atau microcontroller via I2C. Sistem I2C menggunakan SDA (jalur data) dan SCL (jalur dock) untuk melakukan trans-misi data. Karena microcontroller dengan fasilitas ini sulit didapatkan maka dipakai 80C31 yang akan dilengkapi dengan sub-rut in supaya dapat melakukan proses seperti I2C walaupun tidak semuanya bisa ditangani. Pembuatan sistem dibatasi pada tuner dengan kemampuan 38,9 MHz, dan menggu-nakan SAA7283ZP sebagai NICAM Decodernya. Data yang diambil akan dikirimkan ke komputer melalui sistem serial yang ada pada 80C31 supaya dapat ditampilkan ke layar monitor. Jadi data diambil oleh 80C31 melalui I2C kemudian barulah dikirimkan ke komputer. Sistem yang dibuat dapat membedakan jenis sinyal yang diterimanya. Ada sebuah indikator yang akan menyala j ika sinyal yang diterimanya bukanlah sinyal NICAM. Selain itu juga dapat dilihat pada layar komputer jika dihubungkan dengan serial portnya. Dari apa yang sudah dibuat ini dapat ditarik suatu kesimpulan bahwa sistem NICAM adalah sistem audio yang cukup peka terhadap noise. Sehingga dalam desain PCB harus benar-benar memperhatikan hal ini. Selain itu implementasi I2C untuk sistem yang sederhana (hanya READ dan WRITE) dapat dilakukan dengan menuliskan sub-rutin yang diperlu-kan untuk memanipulasi port. Selain itu sistem NICAM merupakan sistem yang sangat peka terhadap noise. Dalam desain PCB sistem grounding memegang peranan sangat pent-ing.",
+  "creators": "HANY FERDINANDO",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); SOETIKNO (Examination Committee 1); Resmana Lim (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/035/0295; Hany Ferdinando (23491059)",
+  "subjects": "MICROCONTROLLER 8031; EDUCATION BILINGUAL"
+}

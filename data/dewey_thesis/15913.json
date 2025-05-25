@@ -1,0 +1,14 @@
+{
+  "id": "15913",
+  "title": "Simulasi program CNC milling pada PC (Personal Computer)",
+  "abstract": "Dewasa ini terlihat bahwa perkembangan industri di Indonesia cenderung menuju otomatisasi. Salah satu perkembangannya adalah dalam penggunaan mesin perkakas kontrol numerik. Kelebihan mesin ini mampu menghasilkan produk dengan ketelitian dimensi dan ketepatan geometri yang baik serta kecepatan produksi yang tinggi. Hal ini dimungkinkan karena informasi dan perintah yang diperlukan untuk membuat suatu produk yang dilakukan oleh operator pada perkakas konvensional, dialihkan ke sistem kontrol yang kerjanya diatur oleh masukan data numerik berupa suatu program. Pemrograman pembuatan benda kerja pada mesin perkakas NC/CNC tidaklah mudah. Oleh sebab itu diperlukan pengecekan program pada perangkat simulasi sebelum diterapkan pada mesin perkakas NC/CNC yang sebenarnya. Melihat hal tersebut, maka dicoba untuk membuat simulasi NC/CNC khusus Mikking dengan mempergunakan acuan simulator FAPT TRACER, sehingga dapat dioperasikan dalam komputer jenis IBM PCXT/AT. Hasil yang diperoleh diharapkan dapat membantu untuk mempelajari NC/CNC programming dengan mudah dan cukup murah karena tidak membutuhkan peralatan simulator khusus. Simulasi program digunakan untuk mengecek kebenaran suatu program CNC dan disamping itu juga digunakan untuk belajar pemrograman CNC. Perangkat simulasi program CNC menjadi sarana penunjang, agar mahasiswa dapat lebih mengerti dan memahami tentang pemrograman CNC. Simulasi pada tugas akhir ini hanya membahas tertang G (G Code) antara lain: G00, GO1, GO2, GO3, G40, G41 dan G42.",
+  "creators": "ADI SAPUTERA",
+  "contributors": "HENDRATA SUHADA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94.54.132; Adi Saputera (24487036)",
+  "subjects": "CNC MILLING; MACHINE TOOLS-COMPUTER PROGRAM"
+}

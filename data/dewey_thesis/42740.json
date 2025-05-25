@@ -1,0 +1,14 @@
+{
+  "id": "42740",
+  "title": "Game battleship menggunakan metode BFS dan database firebase dengan unity pada android",
+  "abstract": "Game sudah merupakan kegiatan sehari hari masyarakat. Terdapat beberapa jenis game namun jenis game yang paling banyak dimainkan sekarang ini adalah mobile game di mana dapat dimainkan dimanapun dan kapanpun. Skripsi ini bertujuan untuk melakukan pembuatan dan penelitian yang sejenis pada mobile game battleship yang sebelumnya pernah dilakukan. Penelitian yang sah yang telah dilakukan tentang game battleship pada pada platform PC dengan menggunakan jaringan LAN. Pada skripsi ini akan meneliti tentang mobile game battleship menggunakan metode BFS dan database firebase pada platform mobile phone. Masalah yang dari penelitian ini adalah untuk mengukur seberapa berhasilnya penerapan metode BFS dan penerapan database firebase yang digunakan untuk multiplayer. Pada Penelitian game battleship ini telah dilakukan proses penerapan yaitu penerapan metode BFS, dan penerapan database firebase. Proses. Dimana proses penerapan pada metode BFS hanya dilakukan pada bahasa pemrograman saja. Namun pada penerapan database firebase dilakukan dengan menyambungkan program Unity dengan firebase SDK yang dibantu dengan pemanggilan database pada program. Melalui pengujian dapat dibuktikan bahwa penggunaan metode BFS untuk mencari rute yang sangat jauh akan memakan waktu yang lumayan lama. Dan firebase database kurang cocok digunakan untuk game battleship ini di mana jika terjadi 2 orang yang memasukkan data kedalam database secara bersamaan maka database tersebut tidak dapat menerima masukkan yang diberikan.",
+  "creators": "YOSEP MIKIE PRASETYO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); ANITA NATHANIA (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021803/INF/2018; Yosep Mikie Prasetiyo (26413103)",
+  "subjects": "VIDEO GAMES-PROGRAMMING; ANDROID (ELECTRONIC RESOURCE)"
+}

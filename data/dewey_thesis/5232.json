@@ -1,0 +1,14 @@
+{
+  "id": "5232",
+  "title": "Mobile robot penjejak bau dengan menggunakan Taguchi Gas Sensor (TGS)",
+  "abstract": "Robot penjelajah merupakan mobile robot kecil yang mampu mengikuti jejak bau yang ditinggalkan oleh zat-zat tertentu. Perkembangan sensor yang semakin maju menghasilkan adanya suatu sensor yang memiliki kemampuan seperti indera penciuman pada manusia. Dalam tugas akhir ini akan dibuat sebuah robot berdasarkan ide untuk membantu manusia dalam menjelajahi medan-medan beradiasi tinggi guna mencari kebocoran gas. Perencanaan perilaku robot mengacu pada pergerakan semut (zig-zag). Konstruksi dari robot menggunakan microcontroller AT89C2051 sebagai pusat kontrol dan menggunakan roda sebagai sistem gerak yang dihasilkan oleh stepper motor. Adapun sensor gas yang digunakan adalah model Taguchi Gas Sensor (TGS) tipe 2620 yang merupakan produk dari Figaro Inc. Dari hasil pengujian didapatkan bahwa sensor ini memiliki respon terhadap keberadaan suatu zat yang relatif cepat yaitu sekitar 5 detik dan memiliki respon terhadap penurunan konsentrasi yang relatif lamban yaitu sekitar 1 menit. Penggunaan sensor ini untuk aplikasi mobile robot dirasa kurang efektif mengingat sensor memiliki respon yang lambat sedangkan mobile robot membutuhkan gerak yang cepat.",
+  "creators": "ANTONIUS BUNTORO",
+  "contributors": "Resmana Lim (Advisor 1); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/639/ELK/2003; Antonius Buntoro (23498100)",
+  "subjects": "ROBOTS; MOBILE ROBOTS; ROBOTS-CONTROL SYSTEMS"
+}

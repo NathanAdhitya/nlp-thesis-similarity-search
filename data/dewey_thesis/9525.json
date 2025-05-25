@@ -1,0 +1,14 @@
+{
+  "id": "9525",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada toko UD. Karya Rahardja",
+  "abstract": "UD. Karya Rahardja adalah Suatu badan usaha yang bergerak di penjualan bahan bangunan. Segala kegiatan transaksi dan pencatatan yang dilakukan UD. Karya Rahardja masih dilakukan secara manual. Transaksi tersebut meliputi transaksi pembelian dan penjualan. Selama ini, UD. Karya Rahardja selalu mengalami kesulitan dalam menghasilkan laporan keuangan dengan tingkat human error yang tinggi dan tidak dapat memberikan informasi yang akurat. Oleh sebab itu, dalam tugas akhir dibuatlah sebuah sistem informasi akuntansi yang terkomputerisasi dengan harapan dapat membantu serta mempermudah UD. Karya Rahardja dalam melakukan aktifitas transaksinya dan dapat memperoleh hasil yang maksimal. Dalam tugas akhir ini akan dibuat aplikasi yang akan menghasilkan menu-menu untuk mempermudahkan user dalam menjalankan aplikasi ini. Perancangan aplikasi sistem yang baru menggunakan Data Flow Diagram untuk menggambarkan pemrosesan data dan Entity Relationship Diagram untuk pembuatan struktur tabel serta relasi antar tabel. Database dalam aplikasi ini menggunakan SQL Server 2000 dan menggunakan bahasa pemrogaman Borland Delphi 7.0. pembuatan program ini meliputi ruang lingkup pembelian, penjualan, harga pokok penjualan, inventori dan akuntansi. Aplikasi ini dapat memproses sistem informasi akuntansi secara terintegrasi yang meliputi pembelian dan penjualan serta dapat menghasilkan laporan akuntansi baik laporan keuangan maupun laporan manajerial yang dibutuhkan secara tepat waktudan akurat.",
+  "creators": "ERICSSON OETOMO",
+  "contributors": "Rudy Adipranata (Advisor 1); Oviliani Yenty Yuliana (Advisor 2); Sri Maharsi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010685/INF/2008; Ericsson Oetomo (26402130)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

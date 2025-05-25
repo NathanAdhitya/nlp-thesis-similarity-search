@@ -1,0 +1,14 @@
+{
+  "id": "13185",
+  "title": "Pembuatan sidebar gadget untuk sensor cuaca pada windows vista dan google gadget",
+  "abstract": "Gadget pada dewasa ini menjadi salah satu komponen penting dalam pengembangan sebuah sistem operasi. Sementara sensor cuaca AAG Wire Weather yang juga digunakan oleh Live E! (organisasi yang telah mengembangkan sensor cuaca ke beberapa daerah) memiliki standar bekerja pada sistem operasi Linux dan belum memiliki Database, serta belum memiliki desain Interface. Oleh karena itu, dirancang suatu aplikasi yang dapat mengakses data Output dari sensor cuaca, dan menyimpan data tersebut ke dalam sebuah Database sehingga kapan saja dapat diakses oleh User untuk melihat data-data tersebut. Aplikasi ini dikembangkan dengan menggunakan SSH, PHP, MySQL di sisi server, dan XML, HTML, CSS, JavaScript di sisi client. Aplikasi yang dibuat meliputi menampilkan Output dari sensor cuaca AAG Wire yang dipakai universitas kristen petra surabaya serta digunakan oleh Live E! pada wilayah-wilayah lain. Output yang ditampilkan adalah suhu, kecepatan angin dan arah angin. Selain itu, dibuat juga history yang mencatat suhu, kecepatan angin, dan arah angin dari lokasi-lokasi yang disediakan oleh aplikasi. Dari hasil implementasi dan uji coba, dapat disimpulkan bahwa aplikasi berjalan dengan baik, dengan beberapa animasi dan tampilan, sehingga mempermudah user dalam melihat dan memantau suhu, kecepatan angin, dan arah angin dari beberapa wilayah. Wilayah yang telah disediakan oleh aplikasi ini dapat dikembangkan sehingga lebih banyak wilayah yang dapat ditampilkan oleh aplikasi.",
+  "creators": "EDOARD PUTRO SUKANTIO",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020778/INF/2009; Edoard Putro Sukantio (26404137)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); COMPILERS (COMPUTER PROGRAM)"
+}

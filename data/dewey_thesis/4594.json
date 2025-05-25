@@ -1,0 +1,14 @@
+{
+  "id": "4594",
+  "title": "Sistem online cinema dengan teknik streaming video",
+  "abstract": "Seiring dengan perkembangan jaman yang menuntut orang untuk bekerja keras. Hal ini menyebabkan orang semakin sibuk, sehingga tidak bisa meluangkan waktu untuk pergi ke gedung bioskop untuk menyaksikan tayangan film. Selain itu, orang yang tinggal di daerah dimana jarak antara rumah dengan gedung bioskop cukup jauh menjadi malas untuk pergi ke gedung bioskop. Muncullah sebuah ide yang sangat menarik yaitu menonton film-film bioskop melalui jaringan internet. Namun keterbatasan kecepatan menjadi salah satu faktor yang membuat orang malas untuk men-download film. Oleh karena itu, muncullah sebuah pemikiran untuk mempersingkat waktu download dengan menggunakan teknik streaming video. Sistem online cinema dengan teknik streaming video ini akan mengakomodasi calon pelanggan yang ingin menyaksikan film dimana saja selama daerah tersebut memiliki jaringan internet dengan koneksi yang memiliki bandwidth minimal sebesar film yang akan di-broadcast. Sistem ini memberikan layanan berupa informasi deposit, pemilihan film, perubahan password, dan menayangkan film. Berdasarkan hasil pengujian sistem online cinema dengan teknik streaming video dapat diketahui bahwa sistem berhasil menambah film di server, mengubah deposit pelanggan, mem-broadcast film, mengubah password, dan melakukan pemilihan film berjalan lancar. Sistem juga dapat menayangkan film dengan format Windows Media Video berukuran 320 x 240 dan 30 fps yang di-broadcast oleh server dengan baik tanpa terputus hingga mencapai 15 client pada jaringan Local Area Network dengan bandwidth sebesar 100 Mbit.",
+  "creators": "HERU YURI RORI",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 03010048/ELK/2006; Heru Yuri Rori (23402065)",
+  "subjects": "INTERNET (COMPUTER NETWORK); DATA BASE DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2627",
+  "title": "Kontrol posisi kamera mengikuti pergerakan obyek",
+  "abstract": "Saat ini kebutuhan akan aplikasi computer vision semakin meningkat. Hal ini didukung oleh munculnya prosesor berkecepatan tinggi dengan harga terjangkau serta kinerja kamera yang prima. Computer vision dipakai sebagai pengganti mata bagi komputer sehingga dapat menyelesaikan tugas yang sebelumnya tak dapat dilakukan. Kontrol Posisi Kamera Mengikuti Pergerakan Obyek dibuat untuk menggerakkan kamera mengikuti obyek sederhana yang ada di depannya. Proses pengenalan obyek ini dilakukan dengan mengimplementasikan metode shape factor pada salah satu filter Microsoft? DirectShow? dengan bahasa pemrograman Microsoft Visual C++ 6.0?. Untuk menggerakkan posisi kamera digunakan dua buah penggerak motor DC yang dikontrol melalui parallel port dari sbuah PC dengan sistem kontrol fuzzy. Sistem kontrol/uzzy ini mempunyai empat buah masukan (input), empat buah keluaran (output) dan 45 buah fuzzy rules. Pengujian yang dilakukan terhadap sistem ini yaitu pengujian pengenalan bentuk, pengujian kontrol motor On / Off, pengujian kontrol motor fuzzy, pengujian kepekaan terhadap gangguan, dan pengujian kemampuan pengenalan obyek berdasarkan jarak. Pengujian kepekaan terhadap gangguan (noise) dilakukan dengan cara menambahkan pixel-pixel berwarna putih secara acak sebanyak 5%. Pelacak obyek ini mampu mengenali obyek sederhana walaupun ukuran obyek diubah-ubah dan posisi obyek diputar, tetapi tidak mampu mengenali obyek apabila ada noise. Motor dengan kontrol On / Off membutuhkan waktu sampai 4 detik untuk mencapai setting point tetapi tidak stabil di setting point sedangkan dengan kontrol fuzzy motor membutuhkan waktu 3,5 detik dan stabil pada setting point.",
+  "creators": "ANTONY TJONGI",
+  "contributors": "Thiang (Advisor 1); Anies Hannawati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02/E/EL/0 16/562; Antony Tjongi (23497011)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

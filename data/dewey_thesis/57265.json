@@ -1,0 +1,14 @@
+{
+  "id": "57265",
+  "title": "Aplikasi transaksi depot makanan xyz dengan sistem omnichannel berintegrasi menggunakan Go-Biz API",
+  "abstract": "GoBiz merupakan aplikasi khusus merchant yaitu pengelola toko online pada aplikasi GoJek kategori GoFood. Pemilik depot XYZ mengelola 2 aplikasi GoBiz pada 2 gadget berbeda. Saat mengelola depot di GoBiz, penjual harus melakukan klik pesanan yang masuk, lalu melakukan pencatatan nota secara manual, dan melakukan proses pembuatan pesanan. Ketika ada pesanan yang memerlukan bahan yang harus dibuat terlebih dahulu oleh bagian dapur, penjual perlu memintanya ke bagian dapur, sehingga proses penerimaan pesanan, pencatatan nota dan pembuatan pesanan lama dan kurang teratur, terlebih ketika banyak pesanan masuk. Aplikasi dibuat untuk memudahkan penjual memproses pesanan dengan menggunakan sistem omnichannel. Satu aplikasi dapat digunakan untuk melakukan penerimaan pesanan, penulisan nota, pencatatan pendapatan harian, dan melihat urutan pesanan dari penjualan offline maupun dari beberapa aplikasi penjualan online (GoBiz), serta membantu memudahkan proses permintaan kebutuhan bahan pada bagian dapur, sehingga proses penjualan lebih teratur. Kesimpulan hasil penelitian adalah data pesanan terbatas pada penggunaan simulator pesanan pada GoBiz API yang dikirimkan pada webhook, setelah dilakukan pengujian, perbandingan data tersebut dengan data yang ditampilkan pada aplikasi memiliki akurasi kesamaan data 100%. Rata-rata kecepatan pengambilan data dan proses pengolahan data hingga penampilannya 123.696 ms/data, disimpulkan jumlah data pesanan yang sudah ada pada list pesanan tidak memengaruhi kecepatan pengolahan dan penampilan data baru.",
+  "creators": "LEVINA CHARIN",
+  "contributors": "Andreas Handojo (Advisor 1); ANITA NATHANIA (Advisor 2); Justinus Andjarwirawan (Examination Committee 1); Leo Willyanto Santoso (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022303/INF/2023; Levina Charin (C14190145)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); WEB SITES--DESIGN; INTERNET MARKETING"
+}

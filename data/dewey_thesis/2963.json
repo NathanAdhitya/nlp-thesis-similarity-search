@@ -1,0 +1,14 @@
+{
+  "id": "2963",
+  "title": "Evaluasi pengaruh voltage sag pada perancangan sistem proteksi studi kasus pada sistem kelistrikan di Pabrik Semen Gresik, Tuban",
+  "abstract": "Dalam dunia industri, suplai listrik haruslah memiliki kualitas yang bagus. Sebab gangguan suplai listrik seperti penurunan tegangan (voltage sag) dapat mengganggu peralatan pabrik, bahkan dapat mengganggu jalannya proses industri khususnya aktivitas mesin motor-motor listrik. Oleh karena itu diperlukan suatu sistem proteksi untuk melindungi peralatan tersebut terhadap gangguan voltage sag. Dalam Karya Tugas Akhir ini akan dibahas dan dievaluasi pengaruh voltage sag pada perancangan sistem proteksi. Evaluasi dan pembahasan mengacu pada studi kasus pada sistem kelistrikan di Pabrik Semen Gresik, Tuban. Analisa yang dilakukan adalah simulasi starting motor besar dengan menggunakan program Power Station. Dari hasil simulasi menunjukkan bahwa terjadi penurunan tegangan (voltage sag) yang cukup besar bahkan lebih dari 10% dari tegangan normalnya. Oleh karena itu diperlukan suatu pengaturan atau setting dari relay tegangan kurang (undervoltage relay) supaya motor penting akan tetap berkerja meski menerima tegangan kurang (selama masih dalam batas-batas spesifikasi relay undervoltage yang digunakan). Setting relay yang diatur adalah batasan tegangannya yaitu 0.90 dan delay operasinya yaitu 35 detik.",
+  "creators": "BENNY KURNIAWAN",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Limboto Limantara (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010520/ELK/2005; Benny Kurniawan (23400105)",
+  "subjects": "ELECTRIC POWER TRANSMISSION"
+}

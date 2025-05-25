@@ -1,0 +1,14 @@
+{
+  "id": "50673",
+  "title": "Kecerdasan buatan dengan metode ID3 finite state machine dalam turn-based strategy game",
+  "abstract": "Seiring dengan perkembangan dunia video game maka bertambah pula pemain yang bergantung kepada video game. Salah satu cara untuk meningkatkan immersi pemain dalam sebuah permainan adalah melalui AI (Kecerdasan buatan). AI singkat cerita adalah sebuah kemampuan di dalam sebuah mesin yang dapat memberikan kemampuan kepada mesin untuk dapat “berpikir” sehingga dapat melakukan sesuatu kegiatan tanpa input langsung dari manusia. Dan AI telah berkembang secara pesat dan konstan dari masa ditemukan pertama kali. Namun kelemahan terbesar dari AI adalah apabila penerapan struktur didalam pembuatan permainan terlalu sederhana, maka apabila pola AI telah diketahui, maka pola tersebut dapat dimanfaatkan oleh pemain sehingga mengakibatkan hilangnya immersi dikarenakan permainan dimanfaatkan untuk menjadi lebih mudah atau dimainkan dengan cara yang tidak seharusnya. Untuk menyelesaikan masalah tersebut, maka dibutuhkan sebuah AI fleksibel yang dapat mengganti pola bermain mereka selama permainan berjalan. Dengan menggunakan ID3 decision tree, AI dapat memutuskan untuk menggunakan berbagai variasi cara berpikir yang dapat digunakan di dalam sebuah Turn-Based Strategy Game. Dan diharapkan dengan sedikit berkembangan, AI tersebut dapat digunakan untuk jenis permainan yang berbeda. Hasil pengujian membuktikan bahwa ID3 memberikan pengaruh kepada kemampuan AI dalam mengambil keputusan, dan setelah tes percobaan program untuk jenis permainan Turn-Based Game, AI jenis adaptif yang menggunakan ID3 menunjukkan keunggulan daripada AI statik dan AI acak karena AI ini memilih nilai secara dinamik menggunakan data permainan menunjukkan hasil rasio dengan pemain 1:2:0, AI statik yang selalu memilih hasil terbaik dengan rasio 1:1:1 dan AI acak selalu di dalam kondisi yang merugikan dengan rasio 0:0:3. Pengaruh dari ID3 tidak ada pada sesi awal permainan dan akan meningkat seiring dengan meningkatnya nilai nilai pada tabel data yang digunakan.",
+  "creators": "ADAM PUTRA SULAIMAN",
+  "contributors": "Liliana (Advisor 1); Leo Willyanto Santoso (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022050/INF/2021; Adam Putra Sulaiman (26415024)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; SEQUENTIAL MACHINE THEORY"
+}

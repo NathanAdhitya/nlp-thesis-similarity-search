@@ -1,0 +1,14 @@
+{
+  "id": "7632",
+  "title": "Kontrol kecepatan motor dengan fuzzIPC menggunakan PLC festo dengan frekuensi multiplier eksternal",
+  "abstract": "Tugas akhir ini bertujuan untuk membuat suatu kontrol kecepatan motor DC dengan FuzzIPC (Software Fuzzy logic) menggunakan PLC Festo yang dilengkapi dengan alat pengali frekuensi eksternal. Mengontrol kecepatan motor DC dengan teknik PWM berfrekuensi rendah dapat menyebabkan motor tersendat-sendat (tidak halus), terutama pada duty cycle rendah karena pulsa yang dihasilkan pada frekuensi rendah lebih sedikit dibanding pada frekuensi tinggi. PLC yang ada sekarang hanya dapat mengeluarkan frekuensi maksimal 1kHz dengan duty cycle hanya 50%, sehingga dibutuhkan suatu alat yang dapat menghasilkan frekuensi tinggi dengan duty cycle yang bervariasi, yaitu pengali frekuensi. Pengali frekuensi ini dapat bekerja pada faktor pengali 1-255. Semakin besar faktor pengali yang digunakan maka MSE (Mean Square Error) duty cycle-nya cenderung semakin besar pula. MSE terbesar ada pada faktor pengali 250, yaitu sebesar 11.22 % FuzzIPC merupakan program untuk fuzzy logic yang kompatibel dengan PLC Festo yang dapat digunakan untuk mengontrol kecepatan motor. Mengontrol kecepatan motor dengan FuzzIPC menghasilkan respon yang cukup baik walaupun terdapat gangguan akibat dari kurang sempurnanya alat pengali frekuensi yang menyebabkan terkadang motor lepas kendali.. Alat pengali frekuensi ini menggunakan mikrokontroler keluarga MCS , yaitu AT89C2051 (20 kaki). Pengaturan faktor pengali menggunakan dip switch 8 bit dengan faktor pengali 1 sampai 255 yang akan menghasilkan frekuensi berkisar antara 20 ? 4545 Hz.",
+  "creators": "JULIANTO SENO PUTRA",
+  "contributors": "Thiang (Advisor 1); HENDRIK THIEHUNAN (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No.02010752/ELK/2005; Julianto Seno Putra (23400032)",
+  "subjects": "FUZZY LOGIC; AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "6187",
+  "title": "Pembuatan perangkat lunak pengenalan tanda tangan berdasarkan arah gerakan tangan menggunakan metode diminant point",
+  "abstract": "Tingkat kriminalitas yang terjadi di masyarakat semakin meningkat seiring dengan meningkatnya kebutuhan hidup yang harus dipenuhi, segala cara dilakukan untuk dapat memuaskan keinginan pribadi. Termasuk dengan pemalsuan identitas orang lain, salah satunya adalah pemalsuan tanda tangan. Dilatarbelakangi kondisi tersebut di atas, pada penelitian ini dibuat sistem untuk melakukan pengenalan tanda tangan berdasarkan arah gerakan tangan, jadi sebuah tanda tangan dapat dikenali presentase tingkat keasliannya. Untuk mengenali arah goresan yang di-input-kan digunakan metode dominant point. Penelitian ini juga membandingkan akurasi hasil pengujian antara menggunakan metode stroke histogram dan menggunakan metode dominant point. Metode ini merupakan salah satu metode yang bisa digunakan untuk mengenali garis kurva. Dari semua titik yang diterima program sebagai input akan dipilih titik-titik yang merupakan local extrema kurva. Titik-titik yang terpilih itulah yang disebut sebagai dominant points. Berdasarkan dominant points yang ada, ditentukan arah gerakan pena. Arah gerakan yang didapat akan dicocokkan dengan reference yang sudah diinputkan terlebih dahulu, dari proses ini akan didapatkan hasil pengenalannya. Rata-rata score (tingkat kemiripan) yang dicapai dalam pengujian adalah 75,7%.",
+  "creators": "LUKAS DWI KRISTIANTO",
+  "contributors": "Rudy Adipranata (Advisor 1); Felicia Soedjianto (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010560/INF/2006; Lukas Dwi Kristianto (26402114)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

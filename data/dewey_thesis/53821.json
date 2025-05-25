@@ -1,0 +1,14 @@
+{
+  "id": "53821",
+  "title": "Pengembangan SCADA untuk simulator waste water treatment plant dengan menggunakan protokol MQTT",
+  "abstract": "Tugas akhir ini bertujuan untuk mengembangkan SCADA dari sistem Waste Water Treatment Plant pada PT Sarihusada Generasi Mahardika (SGM) dengan menggunakan protokol MQTT. Diharapkan juga dapat menjadi solusi untuk memudahkan operator dalam mengontrol dan monitoring sistem WWTP tanpa harus berada di ruangan operator dan juga untuk memudahkan operator dalam identifikasi data parameter sistem WWTP dengan bantuan database. Sistem ini menggunakan PLC M221 sebagai controller dari sistem WWTP. ECU-1051 digunakan sebagagi iot gateway yang mengambil data dari PLC, mengirim data ke database, dan mengirim data MQTT ke MQTT Broker. Digunakan juga WebAccess sebagai SCADA dari sistem WWTP dan juga sebagai MQTT Broker. Kemudian untuk Training Kit PLC digunakan untuk simulator dari sistem WWTP. Untuk parameter yang akan dipantau menggunakan MQTT yaitu pH sensor, pressure sensor, dan flow sensor. Di mana parameter tersebut akan dilihat melalui MQTT dashboard pada software HINET Live Panel dan database MySQL. Untuk parameter yang akan dikontrol menggunakan MQTT yaitu valve konsumen. Di mana parameter tersebut akan dikontrol melalui software MQTT.fx dengan memasukkan topic dan juga perintah untuk melakukan publish. Berdasarkan pengujian yang telah dilakukan penulis, SCADA pada WebAccess dapat berjalan dengan baik. Di mana SCADA telah membaca data dari ECU-1051 menggunakan protokol MQTT. Parameter yang dipantau melalui MQTT dashboard dan database MySQL dapat berjalan dengan baik, dan juga parameter yang dikontrol menggunakan MQTT juga dapat berjalan dengan baik.",
+  "creators": "ANDRYAN GEOVANNY MALINO",
+  "contributors": "Handy Wicaksono (Advisor 1); TONNY LEONARD (Advisor 2); Felix Pasila (Examination Committee 1); Indar Sugiarto (Examination Committee 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011031/ELK/2022; Andryan Geovanny Malino (C11170036)",
+  "subjects": "MYSQL (ELECTRONIC RESOURCE); PROCESS CONTROL-AUTOMATION; SEWAGE"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "59182",
+  "title": "Implementasi aplikasi penyimpanan dan pengamanan password menggunakan penggabungan enkripsi Rijndael dan Hashing Argon2 untuk menghindari password fatigue",
+  "abstract": "Pada Era Digital sekarang di mana timbulnya berbagai macam digital platform, menimbulkan masalah baru yang bernama Password Fatigue di mana user menjadi kewalahan jika harus mengingat setiap password yang digunakan pada tiap digital platform yang berbeda beda. Pada penelitian ini, akan dibuat sebuah sistem atau aplikasi yang bertujuan bukan hanya membantu pengguna digital platform untuk menghindari Password Fatigue tapi juga bertujuan untuk mengamankan data digital platform pengguna dengan algoritma yang lebih kuat, yaitu dengan menggunakan penggabungan hashing Argon2 dan enkripsi Rijndael. Dalam penelitian yang dilakukan proses penggabungan hashing Argon2 dan enkripsi Rijndael berjalan dengan lancar, dengan kata lain Argon2 dan Rijndael dapat digunakan bersamaan atau dapat digabungkan dalam sebuah sistem, berbeda dengan algoritma lain yang bertugas untuk mengamankan data seperti Pbkdf2 Algoritma Argon2 sendiri masih lebih unggul.",
+  "creators": "THOMAS NIKIJULUW",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Gregorius Satiabudhi (Examination Committee 2); Agustinus Noertjahyana (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022413/INF/2024; Thomas (C14180198)",
+  "subjects": "COMPUTER SECURITY; COMPUTERS--ACCESS CONTROL--PASSWORDS; MOBILE APPS--DESIGN"
+}

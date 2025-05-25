@@ -1,0 +1,14 @@
+{
+  "id": "57687",
+  "title": "Simulasi purwarupa e-paper shelf labeling (ESPL) berbasis kabel",
+  "abstract": "Zaman sekarang ini, Convinience store dan Minimarket memiliki banyak sekali barang di toko-tokonya yang memiliki nama dan harga yang berbeda-beda. Hal ini menyebabkan peng-update-an harga lebih susah. Tugas Akhir ini dibuat untuk menyelesaikan masalah ini dengan menyediakan peng-update-an otomatis untuk price tag tersebut. Ketika terjadi pengupdatean harga, Server mengirim detail barang terbaru seperti harga, Nama Barang, dan lain-lain ke TagMaster (Raspberry Pi). Kemudian TagMaster memproses informasi yang didapatkan dari Server untuk ditampilkan pada TagSlave. TagSlave Menggunakan EPD (Electronic Paper Display) sebagai layar penampil dikarenakan teknologi ini menggunakan sedikit daya ketika menampilkan konten dan Viewing Angle yang lebar membuat konsumen dapat melihat dari segala sisi. TagSlave Menggunakan Attiny 826 sebagai mikrokontroler-nya. Kegunaan Mikrokontroller ini adalah untuk mengubah serial RS-485 ke SPI dan Control sinyal yang dapat dimengerti oleh EPD. Setelah menyelesaikan proyek ini dapat diambil kesimpulan bahwa proyeknya tidaklah berhasil. Kesimpulan gagal ini diambil dikarenakan kerusakan modul EPD ketika melakukan pengujian sistem. Selain dari ketidakmampuan TagSlave untuk menampilkan informasi barang, bagian sistem yang lain dapat bekerja sesuai dengan desain.",
+  "creators": "RAYVALDO CHRISTOPER",
+  "contributors": "Resmana Lim (Advisor 1); Thiang (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1); Handry Khoswanto (Examination Committee 2); Julius Sentosa Setiadji (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010152/ELK/2023; Rayvaldo Christoper (C11180024)",
+  "subjects": "MICROCONTROLLERS; RASPBERRY PI (COMPUTER)--PROGRAMMING; PRICE TAGS"
+}

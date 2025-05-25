@@ -1,0 +1,14 @@
+{
+  "id": "2986",
+  "title": "Perancangan power supply DC mode switching maksimum 100 watt bertegangan 24V",
+  "abstract": "Dalam tugas akhir ini dirancang rangkaian catu daya model switching dengan tegangan keluaran 24 V, Daya maksimum 100 watt dan dapat bekerja pada tegangan masukan AC antara 200V sampai 240V. Catu daya ini didesain dengan memakai metode forward converter. Untuk kontrol switching dipakai IC TL 494 yang memang didesain untuk aplikasi pada catu daya tipe switching. Pada transformator pulsa yang dipakai adalah transformator pulsa inti ferrit dengan bentuk toroida. Hasil yang diperoleh adalah sebuah tegangan yang stabil pada 24V yang dapat bekerja pada tegangan masukan 200V-240V dengan posisi tanpa beban. Setelah diberikan beban maksimal catu daya ini mengalami penurunan tegangan keluaran sebesar 0,6 V.",
+  "creators": "HANDOYO WIJAYA",
+  "contributors": "YOHANES T. D. S (Advisor 1); Hany Ferdinando (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010723/ELK/2005; Handoyo Wijaya (23499106)",
+  "subjects": "SWITCHING POWER SUPPLIES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8042",
+  "title": "Perancangan dan pembuatan software pemesanan makanan yang terintegrasi untuk meningkatkan kualitas layanan restoran Calvados",
+  "abstract": "Restoran Calvados adalah sebuah restoran yang hadir untuk memenuhi kebutuhan para eksekutif dan pecinta makanan yang selama ini sistem pemesanan makanannya masih dilakukan secara manual. Pemilihan menu oleh pelanggan masih menggunakan buku menu dan kemudian proses pemesanan dibantu oleh pelayan. Demikian pula untuk proses koordinasi antara dapur dan kasir, juga masih dilakukan secara manual. Hal ini dapat menimbulkan ketidakefisienan serta kesalahan. Dalam Tugas Akhir ini, didesain sebuah software pemesanan makanan terintegrasi yang dapat membantu Restoran Calvados untuk meningkatkan kualitas layanannya. Perancangan sistem yang mengacu pada pemesanan makanan ini dimulai dari pembuatan desain sistem berupa desain system flowchart, entity relationship diagram, dan data flow diagram, serta desain interface sampai implementasi dan pengujian sistem. Pembuatan program aplikasi ini menggunakan Borland Delphi 7.0 dan SQL Server 2000. Software ini didesain sedemikian rupa, sehingga para pelanggan restoran yang bervariasi dapat menggunakannya dengan mudah tanpa membutuhkan keahlian khusus. Hasil dari software ini memungkinkan pelanggan restoran dapat melihat semua menu, lengkap dengan gambar dan penjelasan tentang menu yang bersangkutan. Para pelanggan dapat melakukan pemesanan secara langsung melalui komputer yang telah disediakan di setiap meja. Data pesanan tersebut akan langsung dikirim ke dapur. Setelah diproses di dapur, maka akan langsung dikirim ke bagian kasir. Setiap ada pesanan yang diproses di dapur, akan mengurangi persediaan stok di dapur. Dari hasil pengujian dengan kuisioner yang telah dilakukan, program ini sudah berjalan sesuai dengan yang diharapkan. Sebanyak 10% pelanggan merasa program aplikasi ini baik sekali dan sesuai dengan kebutuhan, sedangkan sebanyak 90% pelanggan merasa bahwa program ini sudah cukup baik. Program aplikasi ini dapat menyimpan data yang berhubungan dengan pemesanan menu oleh pelanggan, penyimpanan stok di gudang dan di dapur.",
+  "creators": "YOVITA TANDRY",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Gregorius Satiabudhi (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010663/INF/2007; Yovita Tandry (26403048)",
+  "subjects": "BORLAND DELPHI 7 (COMPUTER PROGRAM LANGUAGE); DATABASE DESIGN; DATABASE MANAGEMENT"
+}

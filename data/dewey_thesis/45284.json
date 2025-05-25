@@ -1,0 +1,14 @@
+{
+  "id": "45284",
+  "title": "Aplikasi timing kejuraan nasional rally dan sprint rally berbasis Web",
+  "abstract": "Selama ini, proses pelaksanaan kegiatan-kegiatan di Kejuaraan Nasional (Kejurnas) Rally dan Sprint Rally – termasuk proses pencatatan waktu masih dilakukan secara manual, dan hal tersebut membuat para organizer harus bekerja lebih keras untuk memproses data-data hasil tersebut. Salah satu akibat dari masalah tersebut adalah masyarakat umum kesulitan untuk mengikuti perkembangan suatu event karena tidak adanya sarana yang konkrit untuk menyalurkan hasil tersebut. Oleh karena itu, pembuatan sistem informasi berbasis website sangatlah dibutuhkan. Sistem ini secara garis besar dibagi menjadi dua – halaman admin dan website untuk kalangan umum. Panitia rally sektor administratif, media officer dan timekeeper memiliki halaman admin masing-masing. Yang kedua adalah website, yang menampilkan data-data tersebut untuk konsumsi publik. Secara keseluruhan, sistem ini menggunakan PHP, MySQL dan Laravel untuk melakukan seluruh operasi data tersebut. Pengelolaan data dilakukan dengan menggunakan controller sebagai jalan akses antara program dan database, dan juga berguna untuk menyimpan fungsi-fungsi agar tidak memenuhi halaman web. Sistem timing sendiri dilakukan secara manual, dimana seorang petugas akan stand by di ujung setiap SS untuk mengisi data waktu peserta. Secara keseluruhan, sistem timing masih memiliki beberapa kekurangan, dimana salah satunya adalah data tersebut belum dapat dijumlahkan mengingat tipe data yang digunakan berbeda dengan yang biasanya digunakan secara umum. Selebihnya, sistem dapat berjalan tanpa masalah, meskipun ada beberapa area yang dapat ditingkatkan seperti layout tampilan halaman web. Di sisi lain, secara keseluruhan para responden survei puas dengan sistem ini.",
+  "creators": "MARVIL DONDOKANBEY",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Justinus Andjarwirawan (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021898/INF/2019; Marvil Dondokanbey (26414133)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (COMPUTERS); WEB SITES--DESIGN"
+}

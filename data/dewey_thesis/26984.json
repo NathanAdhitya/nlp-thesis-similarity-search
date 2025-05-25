@@ -1,0 +1,14 @@
+{
+  "id": "26984",
+  "title": "Studi mengenai pemodelan sistem kontrol pada servomotor DC dengan menggunakan bondgraph dan disimulasikan pada program matlab-simulink .",
+  "abstract": "Secara umum, pemodelan sistem dan simulasi, biasanya menggunakan perhitungan matematika yang rumit dan tinggi, selain itu metode tersebut memerlukan waktu yang lama untuk mendapatkan persamaan (model) matematika dan transfer function. Dan jika sistem yang akan dimodelkan merupakan sistem yang kompleks, maka para perancang sukar untuk mendapatkan persamaan (model) matematika dan transfer function-nya. Dengan menggunakan metode bondgraph, persamaan (model) matematika dan transfer function tidak perlu dicari, karena metode bondgraph hanya perlu konstruksi dari sistem tersebut. Pemodelan menggunakan bondgraph, merupakan teknik pemodelan sistem, baik sistem yang kompleks maupun sistem yang sederhana dengan cara menggambar tiap bagian (komponen) dari sistem sesuai dengan simbol-simbol dari teknik bondgraphnyz. Dari konstruksi sistem, kemudian diubah menjadi bondgraph model, lalu menjadi bondgraph blok diagram model dan untuk simulasi menggunakan Matlab-Simulink harus diubah lagi menjadi blok diagram Simulink setelah itu dapat disimulasikan. Implementasi simulasi ini pada dc servomotor, di mana sistem dc servomotor ini menggunakan kontrol/pengaturan jangkar dengan input tegangan dan tanpa beban. Selain Matlab-Simulink, dapat juga menggunakan software 20- Sim, di mana para perancang dapat langsung mensimulasikan bondgraph model untuk memperoleh grafik respon sistem. Dan hasil grafik respon baik menggunakan Matlab-Simulink, software 20-Sim, atau langsung dari state space maupun langsung menggunakan transfer function, diperoleh hasil grafik respon yang sama. Selain itu, perancang dapat mengontrol torsi dan kecepatan dc servomotor dengan memberi input tegangan ataupun arus sesuai keinginan masing-masing.",
+  "creators": "STANLEY KARDINAL JUSUF",
+  "contributors": "Heri Saptono Warpindyasmoro (Advisor 1); Hany Ferdinando (Advisor 2); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/041/478; Stanley Kardinal Jusuf (23496019)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; SERVOMECHANISMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "50418",
+  "title": "Sistem pakar pendiagnosa Infeksi Saluran Pernafasan Akut (ISPA) dengan metode forward chaining dan certainty factor",
+  "abstract": "Infeksi Saluran Pernafasan Akut (ISPA) merupakan salah satu kelompok penyakit yang cukup banyak ditemukan di negara-negara berkembang, termasuk Indonesia. ISPA terdiri dari berbagai macam penyakit dan memiliki kemungkinan gejala yang sangat bervariasi. Jika tidak segera dideteksi dan ditangani, ISPA dapat bertambah parah dan merujuk pada kematian. Dengan sistem pakar, pengguna dapat secara cepat melakukan diagnosa mandiri tanpa perlu khawatir dengan biaya maupun waktu yang diperlukan. Pengetahuan yang dimiliki sistem pakar juga berasal dari dokter-dokter yang ada di bidangnya. Sistem pakar akan di bangun dengan bantuan 2 (dua) metode yaitu metode forward chaining sebagai metode inferensi dan juga metode certainty factor sebagai metode kalkulasi. Dengan metode forward chaining, sistem dapat memberikan informasi seperti penyakit apa yang diderita oleh pengguna secara langsung setelah pengguna mengisi seluruh pertanyaan yang akan ditanyakan oleh sistem. Selain itu, dengan metode certainty factor, sistem dapat memberikan informasi berupa seberapa yakin sistem dalam memberikan hasil diagnosa dan ditujukan berupa persentase, pengguna pun dalam menjawab pertanyaan-pertanyaan akan disuguhi dengan beberapa pilihan jawaban sehingga setiap pilihan jawaban pengguna akan berdampak pada hasil diagnosa akhir oleh sistem pakar. Sistem akan diuji oleh 3 pakar terkait dan didapatkan akurasi kebenaran diagnosa sistem sebesar 75%.",
+  "creators": "SAMUEL NJOO",
+  "contributors": "Kartika Gunadi (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Agustinus Noertjahyana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022096/INF/2021; Samuel Njoo (C14170078)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DIAGNOSIS--DATA PROCESSING; PLANT DISEASES--DIAGNOSIS"
+}

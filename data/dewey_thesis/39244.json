@@ -1,0 +1,14 @@
+{
+  "id": "39244",
+  "title": "Pembuatan web application untuk mendukung pelayanan asisten tutor di Universitas Kristen Petra",
+  "abstract": "Asisten tutor adalah sebutan bagi mahasiswa yang melayani mahasiswa baru dalam kelompok-kelompok kecil, dalam sebuah program pembinaan mahasiswa baru yang dikenal sebagai Ethics Enrichment. Pada saat ini, setiap alat pembantu yang dipakai asisten tutor dicetak dengan menggunakan kertas. Dibandingkan dengan jumlah asisten tutor, pencetakan dengan kertas ini adalah pemborosan dan tidak terlalu praktis, khususnya bila melihat perkembangan teknologi yang sebenarnya dapat memudahkan pelayanan asisten tutor. Web application dibuat dengan tujuan untuk membantu pelayanan asisten tutor melalui sebuah sistem yang dapat diakses di berbagai perangkat dan dapat memenuhi kebutuhan-kebutuhan dari asisten tutor dalam melakukan pelayanan. Beberapa fitur yang terdapat di dalam web application antara lain akses materi, penilaian, absensi online, dan interaksi dengan mahasiswa baru seperti perjanjian pertemuan dan sharing. Web application juga menggunakan teknologi JSON Web Token untuk melakukan login, dan ada juga notifikasi melalui email jika ada penambahan konten tertentu di dalam web application. Pengujian yang dilakukan menghasilkan kesimpulan bahwa web application yang dibuat dapat diakses dan dijalankan dengan baik pada berbagai jenis perangkat. Survei yang dilakukan juga menunjukkan bahwa web application menjawab kebutuhan di dalam menyediakan sistem yang mendukung pelayanan asisten tutor di Universitas Kristen Petra, dengan 59% responden menyatakan bahwa web application bermanfaat dan 53% responden menyatakan bahwa web application secara keseluruhan baik.",
+  "creators": "KEVIN FIDELIS",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Justinus Andjarwirawan (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021633/INF/2017; Kevin Fidelis (26412014)",
+  "subjects": "ANDROID (COMPUTER PROGRAM); ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); APPLICATION SOFTWARE-DEVELOPMENT"
+}

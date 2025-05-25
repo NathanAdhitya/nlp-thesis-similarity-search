@@ -1,0 +1,14 @@
+{
+  "id": "48437",
+  "title": "Aplikasi monitoring kesuburan tanaman hias mawar menggunakan Arduino",
+  "abstract": "Masyarakat pada umumnya menggunakan tanaman sebagai dekorasi untuk segala jenis tempat seperti hotel, restoran, hingga rumah tempat tinggal. Tapi setiap tanaman membutuhkan perawatan tersendiri agar tanaman bisa tahan lama. Salah satu tanaman yang biasa digunakan sebagai dekorasi adalah tanaman mawar. Terkadang orang kewalahan dalam memelihara mawar seperti lupa menyiram tanaman, penyiraman untuk tanaman bunga mawar kurang atau berlebihan. Banyak penelitian yang sudah menggunakan arduino untuk melakukan monitoring tanaman mawar tetapi tidak dapat dikontrol secara mobile. Penggunaan smartphone kini juga semakin meningkat di masyarakat, maka akan sangat mempermudah user jika monitoring tanaman bisa dilakukan di smartphone. Sistem penyiraman tanaman menggunakan Arduino yang terhubung dengan internet dan server Blynk. Dengan menggunakan server Blynk dapat menghubungkan Arduino dengan smartphone, sehingga dapat mempermudah user untuk bisa mengontrol dan memonitor tanaman mawar seperti penyiraman air dan penyiraman pupuk serta melihat kondisi bunga mawar dari jarak jauh dan dapat membantu pertumbuhan mawar. Hasil pengujian menunjukan bahwa alat bisa merawat dan memonitor bunga mawar sesuai parameter yaitu kelembaban tanah 70% - 80%, pemupukan, memonitor suhu yaitu 18 ºC - 26ºC dan pH yaitu 5.5 - 7.0.",
+  "creators": "VALERIE CAROLINE ALVERINA",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Handry Khoswanto (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022001/INF/2020; Valerie Caroline Alverina (26416079)",
+  "subjects": "ARDUINO (PROGRAMMABLE CONTROLLER)"
+}

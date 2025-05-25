@@ -1,0 +1,14 @@
+{
+  "id": "33967",
+  "title": "Perbandingan karakteristik intercooler satu dan dua laluan dengan variasi kubah",
+  "abstract": "Intercooler adalah jenis dari Heat Exchanger yang sering digunakan dalam kendaraan bermotor khususnya dalam mobil dengan turbocharger atau supercharger. Intercooler terdiri dari banyak ragam jika dilihat dari segi proses pendinginannya serta dari segi tipe laluan fluidanya. Tugas akhir ini berfokus pada penelitian mengenai perbandingan karakteristik Intercooler satu dan dua laluan dengan variasi kubah. Parameter fisis yang akan dibandingkan pada tugas akhir ini adalah efisiensi termal, perpindahan panas dan pressure drop (rugi tekanan). Untuk intercooler dengan tipe satu laluan, parameter fisis tersebut dihitung berdasarkan data eksperimen dan perhitungan matematis, namun untuk intercooler dengan tipe dua laluan, dihitung berdasarkan simulasi Computational Fluid Dynamic (CFD) menggunakan program ANSYS Fluent 6.3 dan variasi kubah dimulai dari nilai 𝑟𝑅=0,75, 1 dan 1,25. Intercooler dengan tipe satu laluan memiliki efektivitas, laju perpindahan panas dan pressure drop berturut turut 72,215%, 2832,064 W, dan 2214,988 Pa, sedangkan intercooler dua laluan dengan variasi pertama yakni 𝑟𝑅=0,75 memiliki hasil 86,950 %, laju perpindahan panas sebesar 3449,295 W, dan 5023,982 Pa, untuk dua laluan variasi kedua yakni 𝑟𝑅=1 memiliki hasil 86,843 %, 3445,201 W, dan pressure drop sebesar 1840,063 Pa serta bagi dua laluan variasi tiga yakni 𝑟𝑅=1,25 memiliki hasil 86,843%, 3446,216 W, dan 1700,922 Pa. Berdasarkan penelitian ini, intercooler dua laluan dengan variasi tiga lebih optimal karena pressure drop yang dimiliki lebih kecil dibandingkan dengan variasi lainnya namun perpindahan panasnya lebih tinggi dibandingkan satu laluan.",
+  "creators": "ANDRIAN HARTANTO YOEWONO",
+  "contributors": "Sutrisno S.T.,M.T. (Advisor 1); Philip Kristanto Tedjasaputra (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011108/MES/2015; Andrian Hartanto Yoewono (24411016)",
+  "subjects": "HEAT EXCHANGER; HEAT TRANSFER; DIESEL MOTOR"
+}

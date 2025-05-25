@@ -1,0 +1,14 @@
+{
+  "id": "12989",
+  "title": "Perancangan dan pembuatan search engine berbasis web untuk jurnal ilmiah dengan metode latent semantic indexing",
+  "abstract": "Seiring dengan bertambahnya jumlah dokumen yang disimpan dalam database maka semakin sulit bagi user untuk mencari dokumen yang ia butuhkan. Oleh karena itu, maka diperlukan sebuah metode untuk dapat mencari dokumen yang diinginkan dari suatu koleksi dokumen dengan mudah dan cepat Saat ini masih banyak sistem pencari masih menggunakan pencarian dengan metode keyword matching. Hasil pencarian dengan metode ini hanya akan menghasilkan dokumen-dokumen dimana terdapat keyword/kata kunci yang dicari, namun sesungguhnya masih terdapat dokumen-dokumen lain yang relevan meskipun tidak terdapat keywords yang dicari didalamnya. Dalam skripsi ini akan dibahas perancangan dan pembuatan sebuah sistem pencari dengan menggunakan metode latent semantic indexing, dimana struktur semantik yang terdapat secara implisit dalam suatu set dokumen berdasarkan jumlah dan keberadaan kata-kata tertentu di dalam tiap dokumen digunakan untuk merancang sebuah vektor model yang dapat menggambarkan letak tiap-tiap dokumen yang ada beserta kata-kata yang menyusun dokumen tersebut. Dengan metode ini dapat diperoleh hasil pencarian berupa dokumen-dokumen yang tidak mengandung keyword yang dicari di dalamnya. Karena koordinat vektor dari dokumen tersebut terletak lebih dekat dengan koordinat vektor dari keywords yang diberikan.",
+  "creators": "JULIAN RAMLI",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020813/INF/2009; Julian Ramli (26404050)",
+  "subjects": "INTERNET PROGRAMMING; INTERNET (COMPUTER NETWORK); WEBSITE DESIGN"
+}

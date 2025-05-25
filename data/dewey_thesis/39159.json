@@ -1,0 +1,14 @@
+{
+  "id": "39159",
+  "title": "Penggunaan electromyography untuk kendali robot lengan eksoskeleton",
+  "abstract": "Robotika adalah salah satu bidang teknologi yang cukup berkembang hingga saat ini. Perkembangan tersebut salah satunya dalam bidang industri kesehatan dan biomedis. Industri kesehatan sudah mulai untuk menggunakan robot lengan untuk membantu pekerjaan manusia. Robot lengan tersebut diperintahkan untuk melakukan hal yang sama dengan yang dilakukan oleh manusia. Dalam sistem ini, sensor otot atau Electromyograph menjadi acuan bagi robot lengan Exo-Arm saat melakukan suatu gerakan. Electromyograph membaca nilai tegangan otot saat berkontraksi lewat permukaan kulit, lalu memproses nilai tegangan tersebut hingga menjadi suatu satuan waktu delay. Data satuan waktu tersebut kemudian akan dikirimkan menuju pneumatic valve yang mengatur debit udara yang masuk pada penggerak robot lengan Exo-Arm yaitu air muscle, dan robot lengan akan bergerak sesuai dengan debit udara yang menentukan kontraksi dari air muscle. Exo-Arm didesain sedemikian rupa agar mampu menopang lengan manusia. Exo-Arm terdiri dari delapan buah air muscle dengan kemampuan angkat beban efektif masing-masing sebesar 4 kg. Dari hasil pengujian dapat diketahui bahwa Electromyograph terkadang melakukan pembacaan nilai tegangan yang berbeda-beda. Jenis aktifitas pengguna, posisi elektroda, dan jenis kelamin menjadi beberapa faktor pengaruh untuk proses pembacaan nilai tegangan.",
+  "creators": "KEVIN SONFIRST CHRISTOPHER SIAR",
+  "contributors": "Resmana Lim (Advisor 1); Handry Khoswanto (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010958/ELK/2017; Kevin Sonfirst Ch. Siar (23412032)",
+  "subjects": "ELECTRICAL ENGINEERING; ROBOTICS; ROBOTS"
+}

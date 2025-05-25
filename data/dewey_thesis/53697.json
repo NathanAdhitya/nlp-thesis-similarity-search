@@ -1,0 +1,14 @@
+{
+  "id": "53697",
+  "title": "Aplikasi sistem pendukung keputusan metode TOPSIS dan AHP-TOPSIS untuk pemilihan proyek pada perusahaan kontraktor CV X",
+  "abstract": "Perusahaan kontraktor merupakan salah satu contoh perusahaan yang bergerak dalam bidang konstruksi. Perusahaan kontraktor CV X perlu mempertimbangkan tawaran proyek dengan mempertimbangkan seluruh aspek perusahaan dan tepat. Pemilihan proyek yang kurang efisien dapat berakibat fatal. Kesalahan pemilihan proyek uga dapat terjadi karena pengambil keputusan hanya mengandalkan perasaan dan pengalaman. Oleh karena itu sistem pendukung keputusan dapat membantu proses pengambilan keputusan pada perusahaan kontraktor CV X. Metode TOPSIS dan AHP-TOPSIS digunakan untuk mengetahui metode mana yang lebih baik untuk diterapkan ke dalam sistem pendukung keputusan dan melakukan perbaikan bobot setelah mengetahui metode terbaik untuk setiap kategori proyek yang dikerjakan perusahaan kontraktor CV X. Berdasarkan hasil pengujian, pada kategori proyek pembangunan/rehabilitasi, hasil perankingan alternatif proyek metode AHP-TOPSIS memiliki nilai koefisien korelasi kendall 0.8 dan spearman 0.9, sedangkan metode TOPSIS memiliki nilai koefisien korelasi kendall 0.4 dan spearman 0.6. Kategori proyek peningkatan jalan, metode TOPSIS dan AHP-TOPSIS memiliki kesamaan nilai koefisien korelasi kendall 1 dan spearman 1. Untuk kategori proyek perijinan, metode TOPSIS sedikit unggul dengan nilai koefisien korelasi kendall 0.33333 dan spearman 0.464286, sedangkan metode AHP-TOPSIS dengan nilai koefisien kendall 0.238095 dan spearman 0.428571. Perbaikan bobot TOPSIS dilakukan dengan brute force ntuk menemukan kombinasi bobot dengan nilai korelasi terbaik. Perbaikan bobot kriteria tidak dilakukan pada kategori proyek pembangunan/rehabilitasi karena hasil perankingan yang dihasilkan telah memiliki sedikit perbedaan sehingga digunakan sebagai referensi pengambilan keputusan. Perbaikan bobot kriteria untuk kategori proyek peningkatan jalan tidak dilakukan pada metode TOPSIS dan AHP-TOPSIS kedua metode memiliki ranking dengan nilai korelasi kendall dan spearman 1. Perbaikan bobot kriteria untuk kategori proyek perijinan metode TOPSIS telah dilakukan terjadi peningkatan nilai korelasi kendall dan spearman yang dihasilkan oleh ranking TOPSIS dari 0.33333 dan 0.464286 menjadi 0.714286 dan 0.821429.",
+  "creators": "ALDO KURNIA CHRISTIANTO",
+  "contributors": "Alexander Setiawan (Advisor 1); Andreas Handojo (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022196/INF/2022; Aldo Kurnia Christianto (C14180081)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); DECISION SUPPORT SYSTEMS--COMPUTER PROGRAMS"
+}

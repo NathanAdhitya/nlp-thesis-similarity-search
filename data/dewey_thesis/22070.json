@@ -1,0 +1,14 @@
+{
+  "id": "22070",
+  "title": "Pembuatan sistem pencatatan kecepatan angin, arah angin, kelembaban, temperatur dan curah hujan menggunakan embedded controller board",
+  "abstract": "Kebutuhan akan informasi cuaca merupakan salah satu bagian yang penting bagi masyarakat luas khususnya petani untuk menentukan masa bercocok tanam. Pencatat cuaca harian pada daerah-daerah masih dilakukan secara manual dan pada daerah yang mudah dijangkau oleh manusia. Oleh karena itu perlu adanya alat pencatatan cuaca otomatis yang dapat diletakkan pada daerah yang sulit dijangkau oleh manusia dan dalam jumlah yang banyak agar kondisi setiap wilayah dapat terwakili. Pencatatan cuaca otomatis yang dibuat pada tugas akhir ini dalam skala kecil sehingga dapat dengan mudah dipindahkan. Informasi yang didapatkan dari alat tersebut berupa kecepatan angin, arah angin, suhu, kelembaban dan curah hujan. Informasi yang dikirim tersebut dapat menggunakan SMS yang akan diolah oleh gammu pada sisi server atau WiFi dengan koneksi socket yang kemudian datanya disimpan pada database server. Prototype unit dapat mengukur curah hujan dari 0,2 mm/jam ? 807 mm/jam, kecepatan angin hingga 40 km / jam dari 8 arah mata angin, suhu antara -300C ? 550C dan kelembaban antara 5 %RH ? 95 %RH dengan total daya listrik 2,1 Wh. Sehingga alat ini bisa dioperasikan dengan aki dan sel surya untuk dipasang di berbagai tempat dengan dikoneksikan ke server melalui WiFi / SMS.",
+  "creators": "DAVID PRAMONO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010102/ELK/2011; David Pramono (23407002)",
+  "subjects": "SOFTWARE ENGINEERING; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

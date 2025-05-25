@@ -1,0 +1,14 @@
+{
+  "id": "5646",
+  "title": "Pembuatan peta di PC dengan menggunakan GPS",
+  "abstract": "Peta yang sering dijumpai ada dua macam, yaitu peta kertas dan peta digital. Pada peta kertas hanya ada informasi tentang posisi, dan nama-nama jalan/tempat tertentu dari suatu wilayah. Sedangkan pada peta digital dapat ditemukan informasi yang lain, seperti: alamat, nomor telephone, dan informasi penting lainnya. Informasi-informasi ini diharapkan ada dalam peta yang akan dibuat. Proses pengubahan data peta diharapkan dapat dilakukan dengan memanfaatkan GPS data logger atau juga GPS receiver secara langsung. Sistem pembuatan peta ini diharapkan juga dapat berfungsi sebagai travelling guide, yaitu menunjukkan posisi obyek pada gambar peta yang telah dibuat. GPS yang dipakai adalah TFAG10 GPS receiver, dan PC berperan sebagai controller tunggal dalam sistem ini. PC bertugas menerima, mengolah, dan menyimpan data yang diterima dari GPS receiver. TFAG10 GPS receiver bekerja pada level tegangan TTL, untuk itu dipakai konverter TTL-RS232 (ICL232) agar dapat berkomunikasi dengan PC. Pada program di PC dibuat menu-menu yang berfungsi untuk mempermudah pemakaian peta digital ini. Dari hasil pengujian didapatkan bahwa data peta yang tersimpan dalam database dapat diubah dengan data baru yang berasal dari GPS data logger, ataupun GPS receiver. Gambar tempat, nama dan lebar jalan dapat ditambahkan pada gambar peta dengan cukup mudah. Dan sistem travelling guide telah dapat menunjukkan posisi GPS receiver berada. Dengan demikian, fungsi peta kertas dapat digantikan oleh peta digital yang merupakan hasil pengolahan data GPS receiver. TFAG10 GPS receiver berfungsi kurang sempurna pada saat cuaca berawan.",
+  "creators": "GONDO SUTIEKNO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010811/ELK/2006; Gondo Sutiekno (23402146)",
+  "subjects": "DIGITAL COMMUNICATION; GLOBAL POSITIONING SYSTEM-COMPUTER PROGRAMS"
+}

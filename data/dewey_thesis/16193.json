@@ -1,0 +1,14 @@
+{
+  "id": "16193",
+  "title": "Study on the application of step software tools in industrial engineering field",
+  "abstract": "Recently as the development of the computer technology is moving very fast, the using of the computer technology is increasing very fast too. Computer become one of the main necessaries of human being. Human being use computer in every sector such as in industry, business, defense, communication, etc. In the industrial field, computer can increase the capability of the production process and make the production speed increase. Moreover, finally it reduces the human involvement to become full computer control, because there is no human error when using the computer. The problem appear when there are so many kind of computer system and machine which are applied in the industry. One of the problem is about documenting the data. Each computer system has its own format to storage of database or the format of computer-readable form. It makes the data from one computer system cannot be used for the other computer system, and if the data from the other system used in certain computer system, it cannot to be written again in certain system. For example in industrial field, this problem will not build a relation between one department to the other department. This problem occurs because between departments usually use different system or machine. To solve this, some people think of generating a new data format that can used in any computer system and machine. There are some national standards of data exchange like IGES and EDIT- from USA, SET from French and VDA-FS, VDA-PS, VDA-IS from Germany. But these standards can be used only in a national scope. It cannot use to exchange the data from one country to another country which have a different standard if there is a trade between the two countries. To overcome this, an international standard for data exchange is needed. Then International Standard Organization make a standard called STEP or STandard for the Exchange of Product model data and also recognized as ISO 10303. The software tools that used in this research are EC-CO Tool Kit, SECS/CE, EXPV and EXPOS. From these softwares, some simple application in the industrial engineering field will be developed.",
+  "creators": "CHITRAWAN KUSUMOHARDJO",
+  "contributors": "Murtiyanto Santoso (Advisor 1); Stevanus Adrianto Tjandra (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 056/TMI-44/1997; Chitrawan Kusumohardjo (25493018)",
+  "subjects": "MANUFACTURING PROCESSES-AUTOMATION; PRODUCTION ENGINEERING-DATA PROCESSING"
+}

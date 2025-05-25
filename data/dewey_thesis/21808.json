@@ -1,0 +1,14 @@
+{
+  "id": "21808",
+  "title": "Perancangan dan pembuatan aplikasi painterly rendering dengan media cat minyak, cat air, pensil, pensil warna, krayon, dan tinta cina",
+  "abstract": "Non-photorealistic rendering (NPR) adalah teknik untuk memanipulasi gambar foto realis menjadi gambar tidak realis. Salah satu bentuk NPR adalah artistic rendering atau disebut juga painterly rendering yaitu teknik untuk memanipulasi gambar foto menjadi tampak seperti lukisan. Dalam skripsi ini, media lukisan yang disimulasikan adalah cat minyak, cat air, pensil, pensil warna, krayon, dan tinta cina. Adapun proses yang dilakukan adalah sebagai berikut: user memasukkan gambar input dan memilih jenis lukisan yang ingin disimulasikan. Kemudian user menentukan parameter-parameter untuk proses. Aplikasi dibuat denganC# dengan Microsoft Visual Studio 2005 sebagai IDE-nya. Hasil pengujian menunjukkan bahwa proses painterly rendering telah mampu menirukan karakteristik dari media yang disimulasikan dengan cukup baik. Kekurangan dari aplikasi ini adalah efek yang dapat disimulasikan sangat terbatas.",
+  "creators": "AMANDA",
+  "contributors": "Kartika Gunadi (Advisor 1); Rudy Adipranata (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021000/INF/2011; Amanda (26407054)",
+  "subjects": "COMPUTER GRAPHICS RENDERING; COMPUTER GRAPHICS"
+}

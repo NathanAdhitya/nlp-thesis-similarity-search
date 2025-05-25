@@ -1,0 +1,14 @@
+{
+  "id": "2203",
+  "title": "Music light indicator",
+  "abstract": "Pencahayaan memegang peranan yang penting dalam dunia entertainment. Menarik atau tidaknya suatu acara yang ditampilkan di atas panggung sedikit banyak dipengarahi oleh tata lampu yang digunakan. Dengan semakin berkembangnya teknologi, maka otomatisasi diperlukan dalam segala bidang. Tujuan dari tugas akhir ini adalah merencanakan dan membuat sebuah alat pengatur lampu secara otomatis yang dikontrol melalui musik. Alat ini akan menunjukkan nyala lampu sesuai dengan frekuensi yang ada. Dengan menggunakan bandpass filter, frekuensi musik yang masuk dipisahkan menurut frekuensi yang ditentukan yaitu 64 Hz, 125 Hz, 250 Hz, 500 Hz. 1 KHz, 2 KHz, 4 KHz, 8 KHz. Hasilnya akan dikeluarkan melalui keluaran 8 channel pada lampu, driver digunakan untuk menghidupkan 8 lampu dengan driver sebesar 5 W. Dari percobaan yang ada didapati bahwa lampu dapat menunjukkan indicator frekuensi musik yang masuk dalam 8 channel, yaitu 64 Hz, 125 Hz, 250 Hz, 500 Hz, 1 KHz, 2 KHz, 4 KHz, dan 8 KHz.",
+  "creators": "DEBBY CHRISTIANTI",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/010/556; Debby Christianti (23495107)",
+  "subjects": "LIGHTING-SPECIAL EFFECTS; AUTOMATIC CONTROL; ELECTRIC CONTROLLERS; LIGHTING"
+}

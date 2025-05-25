@@ -1,0 +1,14 @@
+{
+  "id": "13628",
+  "title": "Perencanaan dan pembuatan ballast elektronik trainer dengan programable cos Q dengan menggunakan micro-controller 8031",
+  "abstract": "Di pabrik-pabrik dan gedung bertingkat pada umumnya dipakai lampu fluoresence untuk penerangan. Ballast yang dipakai pada lampu ini umumnya mempunyai cos Q yang rendah. Hal ini tentunya akan mengakibatkan kerugian sebab bila cos Q lebih rendah dari 0.85 maka perusahaan tersebut akan dikenai denda oleh PLN. Dengan menggunakan ballast elektronik trainer dengan programable cos Q yang menggunakan mikrokontroller 8031 akan dapat diukur beda fase antara tegangan dan arus pada ballast. Dari besarnya beda fase yang diukur mikrokontroller melakukan perhitungan untuk mendapatkan nilai cos Q yang kemudian ditampilkan pada LCD. Dengan alat ini dapat juga diatur besarnya cos Q yang diinginkan yang diinputkan melalui keypad. Ballast elektronik trainer dengan programable cos Q ini dapat mengatur besarnya cos Q antara 0.40 sampai dengan 0.90. Hal ini tentunya akan sangat membantu untuk mengatasi kerugian yang terjadi karena denda dari PLN yang disebabkan rendahnya nilai cos Q ballast pada lampu fluoresence yang digunakan.",
+  "creators": "TITUS HANDOKO",
+  "contributors": "IRWAN SAHLI (Advisor 1); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/026/371; Titus Handoko (23490057)",
+  "subjects": "INTEL 8031 (MICROCONTROLLERS); ELECTRIC POWER-MEASUREMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "13973",
+  "title": "Perencanaan dan pembuatan interface pada IBM PC sebagai frekuensi meter 100 mhz",
+  "abstract": "Dewasa ini alat ukur frekwensi semakin banyak diguna-kan dalam industri-industri, 1aboratorium-1aboratorium eletronika maupun dalam pemakaian sehari-hari para prak-tisi eletronika. Hal ini karena semakin banyaknya peralatan eletronika yang berhubungan dengan frekuensi. Untuk membuat alat ukur frekuensi ini tidak tertutup kemungkinan untuk menggunakan komputer IBM PC. Agar dapat melakukan fungsi tersebut, maka komputer harus dapat berkomunikasi dengan peralatan elektronika yang akan diukur frekuensinya, dalam hal ini mempunyai karakteristik besaran digital. Komunikasi ini dilakukan dengan membuat interface yang merupakan alat ukur frekuen-si itu sendiri dengan bantuan dari komputer IBM PC sebagai pemroses data dan kemudian ditampilkan di layar monitor. Secara keseluruhan, interface tersebut merupakan satu kesatuan dari beberapa counter dan clock oscilator. Signal output dari oscilator block dihubungkan pada rangkaian pembagi yang terdiri dari cascade counter IC. Pulsa output dari counter terakhir dihubungan ke NOR gate, sedang input kedua dari NDR gate dihubungkan dengan signal yang akan diukur. Signal output dari NOR gate akan mengclock cascade counter 2 selama.durasi waktu gerbang.Ketika waktu gerbang sudah terlewati keadaan counter 2 yang proporsional dengan signal frekuensi yang diukur, akan diambil alih oleh port-port PPI dan dipindahkan ke CPU. Program Pascal akan memindahkan keadaan counter 2 ke CPU dan ditampilkan pada monitor. Peralatan ini dirancang untuk menghasilkan pengukuran yang teliti, karena sampling pengukuran diambil dengan cepat dan digunakannya IC HCMOS dan IC CMOS sebagai coun-ternya yang sangat membantu dalam pengukuran frekuensi tinggi dengan ketelitian yang presisi.",
+  "creators": "ROBERT ONGKOWIBOWO",
+  "contributors": "AGUS MULYANTO (Advisor 1); HERLIANTO TENGGARA (Advisor 2); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/004/0125; Robert Ongkowibowo (23485100)",
+  "subjects": "COMPUTER INTERFACES; MICROCOMPUTERS"
+}

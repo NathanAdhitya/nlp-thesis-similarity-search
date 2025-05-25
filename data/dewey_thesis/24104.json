@@ -1,0 +1,14 @@
+{
+  "id": "24104",
+  "title": "Aplikasi mikrokontroler 8748 sebagai pengatur kecepatan motor DC 0,5 HP, 1600 PM, 24 Volt",
+  "abstract": "Pada pengaturan kecepatan ini, blotor DC-Shunt dioperasikan sebagai Motor DC dengan penguatan terpisah, pengaturan kecepatan putaran motor ini dilakukan dengan cara mengatur sudut penyalaan pada kumparan medan. Pengaturan sudut penyalaan ini dilakukan melalui thyristor dalam hal ini digunakan SCR. Sudut penyalaan pada SCR ini dikendalikan oleh mikrokontroler 8748. Untuk menentukan besarnya sudut penyalaan SCR ini dilakukan dengan cara membuat terlebih dahulu suatu tabel pengukuran yang dilakukan dengan percobaan. Dengan demikian apabila diinginkan suatu kecepatan tertentu, maka mikrokontroler terlebih dahulu akan mencari harga tersebut pada tabel. Harga ini tidak tepat sama dengan harga pada tabel akan tetapi merupakan suatu pendekatan saja. Setelah itu mikrokontroler akan mentrigger SCR pada sudut penyalaan seperti pada tabel, sehingga motor akan berputar, Putaran motor dideteksi oleh mikrokontroler dengan menggunakan sebuah piringan yang pada tepinya diberi lubang sebanyak 30 buah, dan menggunakan photo-transistor sebagai detektornya. Photo-transistor ini akan mengubahnya kedalam bentuk sinyal-sinyal digital untuk kemudian dikirimkan ke mikrokontroler. Oleh mikrokontroler data ini akan dicounter, untuk kemudian akan didisplaykan dan juga digunakan untuk proses perbandingan dengan kecepatan yang telah ditetapkan. Apabila putaran motor yang terjadi lebih besar dari yang telah ditentukan, maka mikrokontroler akan mengurangi besarnya sudut penyalaan pada SCR, demikian sebaliknya. Jadi mikrokontroler akan mendeteksi terus menerus kecepatan motor serta menggeser letak sudut penyalaan. Sebagai pusat pengendalian pengatur kecepatan motor DC mikrokontroler 8748 memberikan hasil yang kurang memuaskan karena mikrokontroler 8748 memiliki frekwensi operasi yang rendah, sehingga jarak pembagian daerah sudut penyalaan menjadi lebar yang mengakibatkan putaran motor berubah cukup besar apabila mikrokontroler menggeser posisi sudut penyalaan tiap-tiap bagian.",
+  "creators": "HARSONA WIDJAJA",
+  "contributors": "AGUS MULYANTO (Examination Committee 1); YOHANES T. D. S (Advisor 2); SUPENO DJANALI (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/004/0063; Harsona Widjaja (484014)",
+  "subjects": "PROGRAMMABLE CONTROLLERS"
+}

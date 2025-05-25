@@ -1,0 +1,14 @@
+{
+  "id": "5181",
+  "title": "Perancangan dan pembuatan sistem informasi penjadwalan produksi permen pada UD \"X\"",
+  "abstract": "Pada UD \"X\" ini bergerak pada bidang industri makanan khususnya pada pembuatan permen. Tidak adanya sistem informasi produksi serta penjadwalan produksi yang terkontrol dengan baik menyebabkan terjadinya banyak maslaah yang timbul, seperti untuk mengetahui stok yang ada pada produk dan bahan baku, kebutuhan bahan baku yang sesuai untuk memproduksi permen dalam jumlah tertentu, waktu perkiraan pada penjadwalan produksi, serta laporan-laporan yang diperlukan untuk perusahaan. Dari sebab itu, maka tujuan pembuatan tugas akhir ini adalah untuk membuat program yang mampu membantu perusahaan dalam mengambil keputusan dari permasalahan yang ada. Pembuatan perangkat lunak untuk sistem yang baru pada perusahaan menggunakan bahasa pemrograman Borland Delphi 7.0, penyimpanan database-nya menggunakan Microsoft Access 2003, dan sistem operasinya menggunakan Microsoft Windows XP. Untuk mendesain sistem dilakukan dengan merancang Data Flow Diagram (DFD) serta Entity Relationship Diagram (ERD). DFD dan ERD dibuat dengan menggunakan Power Designer 6.1. Perangkat lunak yang dihasilkan dapat menangani input data master seperti data mesin, pegawai, bahan baku, produk; setting hari dan jam kerja, hari libur; mencatat data penjualan aktual, produksi; meng-update jumlah produk jika terjadi pengeluaran maupun produk masuk; melakukan peramalan perkiraan jumlah yang harus diproduksi dan memberikan perencanaan penjadwalan produksi dalam bentuk laporan yang dibutuhkan oleh perusahaan. Dari aplikasi yang telah dibuat, diperoleh bahwa aplikasi tersebut memberikan kemudahan secara keseluruhan pada melakukan perencanaan dan penjadwalan produksi. Dengan adanya laporan-laporan yang dihasilkan serta perkiraan data-data kebutuhan bahan baku yang dapat diperoleh dari peramalan serta perencanaan penjadwalan yang dapat diolah akan membantu dalam mengambil keputusan untuk perusahaan.",
+  "creators": "SONNY TRIYONO SAPUTRA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Yulia (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010613/INF/2007; Sonny Triyono (26402207)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

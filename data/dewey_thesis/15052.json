@@ -1,0 +1,14 @@
+{
+  "id": "15052",
+  "title": "Penjadualan flowshop dengan algoritma genetika",
+  "abstract": "Di dalam menentukan suatu penjadualan pengerjaan produk-produk khususnya untuk perusahaan yang memproduksi berbagai macam produk bukanlah hal yang mudah. Suatu penjadualan yang kurang tepat dapat mengakibatkan waktu yang dibutuhkan untuk memproduksi suatu permintaan (demand) relatif lama sehingga menimbulkan penumpukan barang belum jadi (Work In Process) serta adanya waktu idle mesin yang besar. Hal ini yang dialami oleh PT. 'X' sebagai perusahaan yang bergerak dibidang manufakturing dengan memproduksi kosmetik beserta kemasannya. Selain itu di dalam memproduksi produk-produknya, PT 'X' menggunakan fasilitas-fasilitas dan aliran produksi yang sama, proses produksi yang berpola seperti ini disebut flowshop. Oleh karena itu penelitian dilakukan untuk mendapatkan sistem penjadualan yang lebih baik dengan meminimumkan waktu penyelesaian job terakhir yang meninggalkan sistem (makespari), lamanya waktu yang dihabiskan seluruh job pada lantai produksi (total flowtime), dan waktu idle mesin (machine idletime) secara bersama-sama. Metode optimasi yang dipilih untuk diterapkan adalah Algoritma Genetika yang bekerja dengan cara memproses suatu populasi solusi yang potensial serta memperhitungkan multiple objectives. Penelitian ini dilanjutkan pula untuk mengetahui seberapa jauh kelebihan Algoritma Genetika, dengan membandingkan apabila sistem penjadualan dikerjakan dengan algoritma lain secara heuristic yaitu Algoritma Heuristic HC.",
+  "creators": "TESSA VANINA SOETANTO",
+  "contributors": "Stevanus Adrianto Tjandra (Advisor 1); Danny Prabowo Soetanto (Advisor 2); Sujono Poetrodjojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 140/TI-70/1998; Tessa Vanina Soetanto (25494073)",
+  "subjects": "SALES PROMOTION; MARKETING CHANNELS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "34964",
+  "title": "Pembuatan aplikasi sistem portal skripsi di Program Studi Teknik Informatika Universitas Kristen Petra berbasis website",
+  "abstract": "Sistem pendaftaran skripsi pada program studi Informatika masih belum sepenuhnya dijalankan secara terkomputerisasi, ada beberapa proses-proses yang masih menggunakan cara manual. Oleh karena itu dibutuhkan aplikasi yang dapat membantu proses pendaftaran yaitu khususnya dalam penjadwalan sidang. Dengan menggunakan aplikasi akan mengurangi tingkat kesalahan. Aplikasi ini menyediakan layanan pencarian dengan menggunakan SOLR untuk judul skripsi lama yang memiliki kesamaan. Layanan lainnya adalah pendaftaran skripsi kemudian penjadwalan untuk sidang yang akan mengecek secara otomatis. Aplikasi ini menggunakan Yii framework. Berdasarkan hasil pengujian, aplikasi ini dapat berjalan dengan baik dengan browser.",
+  "creators": "MAHARDHIKA PERMANA PUTERA",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Leo Willyanto Santoso (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021398/INF/2015; Mahardhika Permana Putera (26410052)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); WEB PORTALS"
+}

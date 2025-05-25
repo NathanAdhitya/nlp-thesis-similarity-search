@@ -1,0 +1,14 @@
+{
+  "id": "35044",
+  "title": "Analisa manajemen risiko pada Perusahaan Real Estate X",
+  "abstract": "Perusahaan real estate X memiliki divisi IT yang memberikan support dan layanan kepada divisi-divisi lain yang menjadi customer bagi divisi IT. Divisi IT memberikan layanan seperti pengadaan software, perakitan hardware, dan layanan helpdesc bagi divisi yang membutuhkan. Permasalahan yang pernah terjadi pada perusahaan adalah jaringan terputus, yang diakibatkan adanya titik jenuh pada kabel yang mengakibatkan data yang dimasukkan ke dalam komputer tidak bisa ditransfer ke server, server full, karena setiap data yang ada di dalam perusahaan akan dimasukkan kedalam memory pada server, dan seringkali kapasitas memory pada server sudah tidak cukup lagi untuk menampung data yang ada, dan kerusakan-kerusakan hardware yang diakibatkan oleh kelalaian user. Pada skripsi ini, dilakukan proses risk assessment terhadap manajemen kualitas dan manajemen risiko dalam layanan IT. Penulis menggunakan beberapa sumber untuk membantu memahami dan melakukan penilaian terhadap faktor-faktor risiko yang ada, yaitu COBIT 4.1, ISO 31000, dan Risk Rating Metodhology by OWASP. Berdasarkan penelitian dan wawancara yang dilakukan, ditemukan beberapa faktor risiko seperti tidak adanya Quality Management System yang digunakan untuk pedoman divisi IT, tidak adanya manajemen risiko yang terstruktur pada perusahaan, dan tidak adanya kriteria untuk menentukan likelihood dan impact bagi risiko-risiko yang ditemukan. Respon yang seharusnya dilakukan oleh perusahaan adalah membuat suatu Quality Management System yang dapat digunakan untuk memberikan panduan dan pedoman bagi divisi IT untuk melaksanakan tugas dan kewajiban, serta menerapkan suatu manajemen risiko yang digunakan untuk mengetahui, menganalisa, dan mengidentifikasi cara-cara mencegah dan menghindari risiko-risiko terjadi.",
+  "creators": "ANTHONY LOANA WEOL",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021435/INF/2015; Anthony Loana Weol (26411050)",
+  "subjects": "INFORMATION TECHNOLOGY-MANAGEMENT; RISK ASSESSMENT; RISK MANAGEMENT-INFORMATION TECHNOLOGY"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "53754",
+  "title": "Pengamatan IP cycling pada VPN menggunakan GRC fingerprints dan DNSLeakTest",
+  "abstract": "Semakin berkembangnya teknologi informasi pada era modern saat ini, maka kebutuhan akan informasi semakin meningkat pula. Di mana setiap individu membutuhkan informasi dalam waktu yang cepat dan akurat oleh sebab itu dibutuhkan suatu sarana yang dapat mendukung hal tersebut. Salah satunya adalah koneksi internet yang cepat. Banyak orang paranoid pada ide pemerintahan mencuri data pribadi mereka dan menggunakannya untuk kewenangan sendiri. Tujuan dari penelitian ini adalah untuk menentukan kelayakan dan kestabilan dari layanan VPN tertentu. Data akan diambil bada basis setiap jam selama 30(tiga-puluh) hari dari www.dnsleaktest.com dan www.grc.com/fingerprints.htm. Hasilnya akan dilanjutkan ke Website Google Sheets yang telah diprogram untuk menerima IP, Hostname, ISP dan Country dari kode HTML halaman tersebut. VPN komersial adalah jaringan pribadi yang memungkinkan pengguna tampil seolah-olah mereka berada di jaringan lain. Namun bukan tanpa risiko, karena layanan tersebut mungkin tidak aman. Dari percobaan ini, kami menyimpulkan bahwa beberapa VPN memang tidak stabil untuk digunakan pada waktu tertentu.",
+  "creators": "R. AGASTYA ARDHITAPUTERA RAMADHAN",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Agustinus Noertjahyana (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022212/INF/2022; R. Agastya Ardhitaputera Ramadhan (26416077)",
+  "subjects": "DATA MINING--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); INTERNET (COMPUTER NETWORKS)"
+}

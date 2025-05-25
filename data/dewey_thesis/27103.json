@@ -1,0 +1,14 @@
+{
+  "id": "27103",
+  "title": "Perancangan elemen beton dengan komputer",
+  "abstract": "Program ini dibuat untuk membantu semua yang berkecimpung dalam bidang teknik sipil dalam merancang detail dari portal beton bertulang. Elemen dari portal beton bertulang yang dibahas dalam program ini terdiri atas balok persegi dengan banyak bentang baik balok biasa maupun konsol, kolom uniaksial dengan memperhatikan pengaruh kelangsingan di mana pengaruh kelangsingan ini dicari dengan 2 cara yaitu menurut PBI'71 dan menurut PB'89, kolom biaksial yang juga memperhatikan pengaruh kelangsingan berdasarkan PBI'71, dan elemen plat baik yang sederhana maupun yang menerus. Sebagai input dari program adalah gaya-gaya yang terjadi pada setiap elemen, dimensi serta tegangan dari materialnya sendiri. Output dari program selain hasil berupa angka hasil perhitungan, juga terdapat gambar-gambar setiap detail penampang maupun seluruh elemen. Sebenarnya program ini merupakan penggabungan dari program- program yang sudah pernah dibuat, namun diperlukan adanya perbaikan-perbaikan dan penambahan-penambahan. Dengan program ini diharapkan dapat mempersingkat waktu perancangan detail dari portal beton bertulang.",
+  "creators": "Harrijanto T.; Andry Djunaidi",
+  "contributors": "Sukanto Tedjokusuma (Advisor 2); Hurijanto Koentjoro (Advisor 1); Ir. Soehendro Ratnawidjaja, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.431 S; Harrijanto T. (285006), Andry Djunaidi (285013)",
+  "subjects": "REINFORCED CONCRETE CONSTRUCTION; REINFORCED CONCRETE CONSTRUCTION-COMPUTER PROGRAMS"
+}

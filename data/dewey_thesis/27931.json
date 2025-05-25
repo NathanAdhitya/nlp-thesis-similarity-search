@@ -1,0 +1,14 @@
+{
+  "id": "27931",
+  "title": "Catu daya switching yang dapat diprogram dengan microprocessor Z-80 sebagai catu daya rangkaian pratikum di laboratorium listrik",
+  "abstract": "Peralatan elektronik pada saat ini bekerja dengan tegangan yang rendah. Untuk mendapatkan tegangan yang kecil ini, digunakan transformator penurun tegangan yang dilengkapi dengan regulator. Regulator yang digunakan ini berfungsi untuk mendapatkan tegangan yang stabil. Regulator yang dikembangkan pada saat ini meliputi regu lator linear dan regulator switcliing-mode. Regulator linear memiliki kestabilan yang sangat tinggi, tetapi kerugiannya adalah disipasi daya yang terbuang cukup besar. Pada regulator switching-mode ini diperoleh Kestabilan yang cukup baiK, dan Juga disipasi daya yang terbuang sangat kecil. Hal ini disebabkan regulator switching-mode memanfaatkan karakteristik transistor yang bekerja tidak pada daerah aktif, tetapi pada daerah Cutoff dan saturasi. Kerugian regulator switching ini adalah menimbulkan RFI (Radio Frequency Interference), yang dihasilkan oleh frekuensi switching. Perkembangan digital yang cukup pesat pada saat ini, dan juga berbagai macam mikroprosessor yang ada di pasaran sekarang menimbulkan minat untuk memanfaatkan komponen-komponen tersebut di dalam mendisain rgulator switching ini. Pada kesempatan ini, didisain regulator switchingmode dengan konfigurasi \"buck regulator\", dengan menggunakan filter LC. Mikroprosessor yang digunakan yakni CPU Z-80 digunakan sebagai rangkaian umpan-balik sehingga tegangan output yang dihasilkan stabil, Di samping itu, mikroprosessor ini berfungsi juga untuk menghasilkan tegangan output yang besarnya variabel.",
+  "creators": "ANDREAS PANGESTU LUMINTANG",
+  "contributors": "SOETIKNO (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 88/E/EL/010; Andreas Pangestu Lumintang (482030)",
+  "subjects": "COMPUTER PROGRAMS; SWITCHING THEORY"
+}

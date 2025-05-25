@@ -1,0 +1,14 @@
+{
+  "id": "20636",
+  "title": "Perancangan dan pembuatan aplikasi digital matting dengan menggunakan metode bayesian approach",
+  "abstract": "Penggunaan aplikasi image processing semakin diminati oleh banyak orang untuk berbagai keperluan. Dari sebuah gambar yang sederhana dapat dibuat gambar yang menarik. Proses matting bertujuan untuk mengambil sebuah atau beberapa bagian dalam gambar yang akan digabungkan dengan gambar lainnya. Dalam Skripsi ini dikembangkan aplikasi untuk melakukan proses matting. Proses awal pada aplikasi adalah color quantization untuk membentuk kelompok-kelompok warna yang kemudian akan diproses dengan metode Bayesian dan akan menghasilkan alpha matte dari gambar. Alpha matte ini yang kemudian dipakai untuk menggabungkan gambar asal dengan gambar yang baru. Aplikasi berorientasi objek ini dikembangkan dengan menggunakan bahasa pemrograman C# pada kompiler Microsoft Visual Studio 2005. Dari hasil pengujian yang dilakukan, hasil gambar composite sangat dipengaruhi oleh trimap yang dibuat. Kecepatan proses bergantung pada banyaknya unknown region dan juga neighborhood. Untuk ketegasan gambar hasil dipengaruhi oleh camera variance dan minimum variance.",
+  "creators": "NOVITA HALIM",
+  "contributors": "Kartika Gunadi (Advisor 1); Rudy Adipranata (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021032/INF/2011; Novita Halim (26407056)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

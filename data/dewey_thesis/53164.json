@@ -1,0 +1,14 @@
+{
+  "id": "53164",
+  "title": "Penerapan machine learning untuk mendeteksi kerusakan dan memprediksi sisa umur bearing pada simulasi motor ac",
+  "abstract": "Kerusakan motor induksi akibat keterlambatan maintenance dapat berdampak pada kerugian perusahaan. Melalui tugas akhir ini, penulis bertujuan untuk merancang sistem Predictive Maintenance dengan memanfaatkan algoritma Machine Learning untuk diagnosis jenis kerusakan bearing dan prediksi Remaining Useful Life bearing. Sistem ini menggunakan dataset vibrasi dari CWRU (Case Western Reserve University) untuk klasifikasi tipe kerusakan dan XJTU (Xi’an Jiaotong University) untuk menentukan sisa umur pakai bearing. Algoritma klasifikasi yang penulis gunakan adalah Support Vector Classifier, Adaptive Boosting, dan Naïve Bayes. Sedangkan untuk regresi penulis menggunakan Random Forest Regressor, Support Vector Regression, dan Multi-layer Preceptron Regressor. Berdasarkan hasil pengujian, didapatkan hasil performa model menggunakan algoritma berbeda. Algoritma terbaik untuk model diagnosis adalah SVC dengan skor akurasi 98,57%. Untuk model prediksi RUL, SVR menjadi algoritma terbaik dengan rata-rata error MAE 64.418 dan RMSE 9.055.",
+  "creators": "VINSENSIUS EDWIN PURNAWAN",
+  "contributors": "Handy Wicaksono (Advisor 1); Indar Sugiarto (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011039/ELK/2022; Vinsensius Edwin Purnawan (C11180020)",
+  "subjects": "ALGORITHMS; MACHINE LEARNING; CASE WESTERN RESERVE UNIVERSITY"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "27581",
+  "title": "Pembuatan sistem administrasi pada PT. Unggul Fista Omega",
+  "abstract": "PT. Unggul Fista Omega adalah sebuah perusahaan yang bergerak di transportasi udara yang lebih fokus dalam impor dan ekspor. Jangkauan pengiriman meliputi seluruh dunia dibagi menjadi 9 wilayah. Daerah menentukan harga dari setiap pengiriman dikirim. Selain daerah, jenis barang yang dikirim, jenis paket, dan berat barang yang dikirim oleh klien adalah faktor lain dalam menentukan harga. Selain pencatatan barang yang dikirim, juga terdapat pencatatan data agent., semuanya dilakukan secara manual (dicatat dalam buku), itu adalah kendala dalam membuat laporan laba rugi, hutang dan piutang, dan untuk mengetahui laporan status disampaikan barang. Untuk membantu hal-hal ini, maka diperlukan suatu sistem informasi administrasi untuk memfasilitasi pembuatan laporan laba-rugi, hutang dan piutang, serta melaporkan status dari barang yang dikirim. Sistem informasi yang dibuat menggunakan Microsoft Visual Studio 2005.Net dan Microsoft SQL Server 2005 sebagai database-nya. Aplikasi ini memiliki fitur klasifikasi nilai barang (berat atau volume) secara otomatis, menghitung total harga secara otomatis dan menghasilkan laporan yang berguna untuk pemilik. Kesimpulan dari aplikasi ini, dan hasil dari sistem administrasi tes adalah untuk membantu pemilik membuat lebih mudah untuk mengontrol setiap transaksi di sana dan dapat memperoleh laporan yang diperlukan dengan cepat dan tepat.",
+  "creators": "ANTHONY TIONO",
+  "contributors": "Ibnu Gunawan (Advisor 1); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021201/INF/2012; Anthony Tiono (26407093)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMANT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "15058",
+  "title": "Perancangan fasilitas produksi dengan simulated annealing alogarithm di PT. Ometraco Arya Samanta",
+  "abstract": "Pengaturan tata letak pabrik merupakan suatu hal yang sangat penting dan perlu lnendapat perhatian yang serius dalam dunia industri khususnya bagi perusahaan. PengatLiran tata letak pabrik yang tidak terencana dengan baik akan menunbulkan penurunan efektifitas maupun efisiensi sumber daya yang berakibat pada tidak maksimalnya output yang dihasilkan karena input yang ada tidak dikelola secara baik. Untuk mendapatkan tata letak pabrik yang baik tentunya didahului dulu dengan pengaturan tata letak fasilitas-fasilitas produksi yang digunakan. Untuk tujuan tersebut dalam tugas akhir ini dilakukan perancangan fasilitas produksi PT. Ometraco Arya Samanta yang digunakan di Hall III dengan menggunakan konsep (iroiip of Technology. Penelitian ini dilakukan dalam 3 tahapan. Tahapan pertama menggunakan metode /clustering Bond Energy Algorithm (BEA) untuk mendapatkan pengelompokan sel-sel manufakturing. Pengelompokan dengan BEA ini berdasarkan persamaan routing tiap produk dan menghasilkan 4 sel manufakturing dari 40 produk dan 20 mesin. Pada tahap kedua dilakukan pengaturan tata letak mesin-mesin tiap sel yang telah diperoleh dari BEA dengan menggunakan metoda Simulated Annealing Algorithm (SAAJ. Berdasarkan output dari BEA, keempat sel tersebut merupakan sel yang tidak independent karena terjadi sharing mesin di semua sel. Ada 7 mesin yang harus digunakan bersama. Dengan SAA dilakukan pengaturan tata letak mesin tiap sel sehingga meminimalkan aliran material yang terjadi dan pada akhirnya didapatkan suatu tata letak yang optimal yang mampu mengakomodasi permasalahan di perusahaan.",
+  "creators": "LILY",
+  "contributors": "Tessa Vanina Soetanto (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 337/TI-64/2000; Lily (25496130)",
+  "subjects": "PLANT LAYOUT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8709",
+  "title": "Pengembangan situs web untuk klaim deklarasi online naskah ilmiah di pusat penelitian Universitas Kristen Petra",
+  "abstract": "Pusat Penelitian (Puslit) Universitas Kristen Petra menampung proses klaim deklarasi menulis naskah ilmiah. Dosen atau pegawai universitas yang ingin melakukan klaim deklarasi naskah ilmiah harus mengambil form pengajuan deklarasi, mengisi form, dan menyerahkan form ke penilai(Kepala Jurusan atau Kepala Pusat Penelitian). Penilai menilai form dan menyerahkan form ke pusat penelitian. Pusat penelitian menilai, kemudian melakukan proses pencairan dana atas klaim deklarasi tersebut. Proses ini akan menjadi semakin lama apabila penilai belum sempat menilai form pengajuan deklarasi naskah. Maka diperlukan suatu sistem yang memungkinkan proses penilaian dapat dilakukan kapan saja dan dimana saja. Sistem ini dibangun pada komputer server dengan sistem operasi Linux, database MySQL, HTML sebagai bahasa mark-up, dan PHP sebagai scripting engine-nya. Dari hasil pengujian yang telah dilakukan, proses klaim deklarasi naskah ilmiah telah dapat berjalan secara online yang dapat diakses pada alamat http://puslit2.petra.ac.id/~deklarasi.",
+  "creators": "TOMMY SUMAWI",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Aditya Umbu Tana Amah (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010013/ELK/2004; Tommy Sumawi (23400066)",
+  "subjects": "WEB SITES; COMPUTER NETWORKS; DATABASE DESIGN; DATABASE MANAGEMENT; INTERNET (COMPUTER NETWORKS)"
+}

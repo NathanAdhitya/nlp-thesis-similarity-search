@@ -1,0 +1,14 @@
+{
+  "id": "14651",
+  "title": "Perencanaan dan pembuatan alat penyeleksi ukuran benda pada konveyor",
+  "abstract": "Salah satu realisasi dari proses otomatisasi yaitu sedapat mungkin menggantikan tenaga manusia dengan sebuah Alat Control yang mempunyai faktor kesalahan yang lebih kecil dari manusia, tetapi mempunyai kecepatan produksi yang lebih cepat. Alat Penyeleksi Ukuran Benda Pada Konveyor adalah salah satu pilihan dari sekian banyak bentuk alat control yang ada. Dan Alat ini yang dibuat pada tugas akhir berikut. Alat Penyeleksi Ukuran Benda Pada Konveyor disini yang diseleksi adalah ukuran panjangnya. Jadi benda yang lewat pada konveyor dideteksi dan dihitung berapa panjangnya, setelah diketahui panjang bendanya kemudian dipisah-pisahkan kedalam gate masing-masing. Pemisah didepan pintu gate dikontrol dengan sebuah motor stepper. Alat sensor yang digunakan adalah sensor infra merah, dan metode yang digunakan dalam perhitungan panjang benda adalah lamanya waktu sensor infra merah terhalang oleh benda dibandingkan dengan kecepatan konveyor. Sedangkan kontrol kecepatan konveyor menggunakan PID kontroller. Hasil dari pengujian alat ini yaitu dapat memisah-misahkan ukuran benda pada konveyor kedalam gate-gate yang diinginkan.",
+  "creators": "HERU KHRISNA AJIE",
+  "contributors": "Murtiyanto Santoso (Advisor 1); IRWAN SAHLI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/013/358; Heru Khrisna Ajie (23490170)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "15141",
+  "title": "Sistem komunikasi minimum sistem 8031 dengan PC menggunakan dial-up modem",
+  "abstract": "The communication world has been developing fast lately. Modem was successfully taken a vital role in digital communication using telephone line, the most used communication channel people use for internet connection, via dial-up modem. As DTE, people commonly used the PC. To think about this, using only PC its feel so narrow and not efficient enough, because using the micro controller, the communication for digital data should be as good as communicate using the PC. Not only more economic, but the transmitted data should be more secure, because user can develop his/her own used protocol for this data. After a few tests, this final project was able to prove that micro controller such as 8031 which have basic capabilities of serial communication, can function properly to transmitt digital data using standard modem 56Kflex, with 0,000441 per mil error rate for stream data transmit. This particular error can be cancelled approach zero with error correcting protocol provided.",
+  "creators": "FELIX ANDHY WINATA",
+  "contributors": "Murtiyanto Santoso (Advisor 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/023/460; Felix Andhy Winata (23493031)",
+  "subjects": "DIGITAL COMMUNICATIONS; INTEL 8031 (MICROCONTROLLER); MODEMS"
+}

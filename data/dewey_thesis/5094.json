@@ -1,0 +1,14 @@
+{
+  "id": "5094",
+  "title": "Sistem pengubah tinggi nada pada sistem karaoke",
+  "abstract": "Pada saat berkaraoke, tinggi nada musik tidak selalu sesuai dengan tinggi nada suara penyanyi. Agar tinggi nada musik dapat disesuaikan dengan tinggi nada suara penyanyi, dirancang sistem pengubah tinggi nada, untuk mengubah tinggi nada musik. Metode yang digunakan untuk mengubah tinggi nada musik, adalah dengan mengubah kecepatan sampling musik. Media konversi dari analog ke digital maupun digital ke analog, menggunakan ADC 0804 dan DAC 0808. RAM 6264 digunakan sebagai media penyimpanan data digital. Sedangkan untuk mengontrol kerja sistem digunakan mikroprosesor AT89S51. Hasil dari rancangan, sistem pengubah tinggi nada dapat mengubah tinggi nada dari musik, dengan input frekuensi musik sampai dengan 5 kHz.",
+  "creators": "HADI SUTANTO",
+  "contributors": "YOHANES T. D. S (Advisor 1); Indar Sugiarto (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010698/ELK/2004; Hadi Sutanto (23499047)",
+  "subjects": "SOUND-RECORDING AND REPRODUCING"
+}

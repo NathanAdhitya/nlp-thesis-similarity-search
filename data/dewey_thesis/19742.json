@@ -1,0 +1,14 @@
+{
+  "id": "19742",
+  "title": "Perancangan dan pembuatan search engine dokumen menggunakan metode term similarity vector space model",
+  "abstract": "Sesuai dengan perkembangan jaman, teknologi juga berkembang dengan pesat. Jumlah dokumen digital bertambah dengan signifikan, sehingga membuat pencarian dokumen menjadi suatu kendala baru. Oleh karena itu peran search engine menjadi semakin penting. Umumnya search engine melakukan pencarian keyword hanya dengan melihat kesamaan antara keyword dan term pada dokumen. Dalam skripsi ini, dikembangkan sebuah metode yang juga melihat relasi antar term pada dokumen. Relasi antar term dalam dokumen dihitung berdasarkan frekuensi kemunculan dalam sebuah paragraf. Jadi dimungkinkan sebuah pencarian menghasilkan dokumen yang tidak mengandung keyword yang dicari, tetapi memiliki term yang berelasi dengan keyword tersebut. Aplikasi ini dibuat menggunakan Microsoft Visual Basic.Net 2005 dan PHP. Berdasarkan pengujian yang dilakukan, metode ini dapat membentuk relasi-relasi antar term yang berhubungan sehingga dapat menemukan dokumen yang tidak mengandung keyword tetapi mengandung term yang berelasi dengan keyword. Sehingga recall dari hasil pencarian dapat meningkat.",
+  "creators": "YOVITA RIA",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Andreas Handojo (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020968/INF/2010; Yovita Ria (26407067)",
+  "subjects": "WEBSITES; INTERNET (COMPUTER NETWORK)"
+}

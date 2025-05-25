@@ -1,0 +1,14 @@
+{
+  "id": "7608",
+  "title": "Perancangan dan pembuatan perangkat lunak pengenalan suara untuk mengoperasikan suatu program dalam windows",
+  "abstract": "Perkembangan dunia teknologi akhir-akhir ini sangat pesat, terutama dalam bidang kecerdasan buatan. Perangkat lunak yang dibuat dalam tugas akhir ini merupakan salah satu bagian dari aplikasi kecerdasan buatan yang mereplikasikan organ pendengaran manusia untuk dapat mengenali seorang pembicara dan kata-kata berdasarkan suara yang di-input-kan. Perangkat lunak ini dibuat dengan menggunakan MFCC (Mel Frequency Cepstrum Coefficients) feature extraction dan didukung dengan K-Means clustering. MFCC feature extraction mengkonversikan signal suara kedalam beberapa vektor data yang berguna bagi proses pengenalan pembicara dan katakata. Hasil dari MFCC feature extraction berukuran sangat besar, sehingga membutuhkan waktu proses yang lama bila langsung digunakan untuk proses pengenalan suara. Oleh karena itu, dibutuhkan peranan dari metode K-Means clustering untuk membuat beberapa vektor pusat sebagai wakil dari keseluruhan vektor data yang ada. Pemrograman perangkat lunak menggunakan prinsip pemrograman berorientasi objek (OOP) dengan menggunakan bahasa pemrograman C++, kompiler Microsoft Visual C++ 6.0?. Tingkat akurasi perangkat lunak ini dipengaruhi proses input sample yang dilakukan baik.",
+  "creators": "GONAWAN DJIANGNARTO",
+  "contributors": "Rolly Intan (Advisor 1); Kartika Gunadi (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000411/INF/2005; Gonawan Djiangnarto (26402028)",
+  "subjects": "SOFTWARE ENGINEERING; DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

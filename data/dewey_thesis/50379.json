@@ -1,0 +1,14 @@
+{
+  "id": "50379",
+  "title": "Kontrol robot mobil dengan sensor kamera pencari obyek berwarna",
+  "abstract": "Perkembangan teknologi robotika pada saat ini sudah mencapai tahap di mana robot yang diciptakan dibuat semirip mungkin dengan manusia, baik dari segi penampilan, kemampuan bahkan cara berpikir. Salah satu kemampuan manusia yang ingin ditiru adalah penglihatan. Tujuan dari tugas akhir ini adalah membuat sebuah robot yang dapat menuju ke target berwarna. Metode yang digunakan adalah segmentasi vvarna pada target dan robot mobil. Dari hasil segmentasi dapat dicari titik berat dari target dan robot mobil. Dari titik berat ini diketahui letak target dan letak robot mobil. Sehingga robot mobil dapat diperintahkan untuk menuju ke target. Fungsi-fungsi yang diperlukan diambil dari Open Source Computer Vision Library serta INTEL® Image Processing Library. Dari hasil pengujian didapatkan bahwa untuk dapat melakukan proses segmentasi dibutuhkan pencahayaan ruangan yang sedang dan background yang tidak memantulkan cahaya yang berlebihan.",
+  "creators": "HENKIE LUKAS",
+  "contributors": "Resmana Lim (Advisor 1); Thiang (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/625/EL.K/2003; Henkie Lukas (23496086)",
+  "subjects": "ROBOTS--CONTROL SYSTEMS; ROBOTS"
+}

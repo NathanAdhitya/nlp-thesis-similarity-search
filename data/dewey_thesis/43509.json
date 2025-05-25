@@ -1,0 +1,14 @@
+{
+  "id": "43509",
+  "title": "Pembuatan sistem informasi administrasi pada CV Sinar Anugrah Perkasa",
+  "abstract": "Pada masa ini perkembangan sistem informasi sangatlah pesat dan tak dihindarkan. Dan pada kasus ini pencatatan dan pembukuan pada perusahaan dilakukan dengan cara manual sehingga keakuratan dan penyimpanan dengan menggunakan tulisan tangan sehingga akan menyulitkan perusahaan untuk melakukan pendataan dan pembuatan laporan untuk perusahaan. Berdasarkan latar belakang permasalahan itu, penulis merancang sistem informasi administrasi yang dapat mengatasi permasalahan tersebut. Proses pembuatan program ini dilengkapi dengan PHP sebagai bahasa pemrograman, bootstrap template sebagai tampilan dari program ini, Mysql Phpmyadmin sebagai database, sublime text 3 yang digunakan untuk menampilkan source code bahasa pemrograman dan web browser sebagai media untuk menampilkan hasil dari website yang telah dibuat oleh sublime text 3. Hasil yang dihasilkan antara lain adalah penambahan, pengubahan dan juga penghapusan untuk data master, proses pembelian, purchase order, proses retur pembelian, proses penjualan, retur penjualan, proses servis, dan juga pembuatan kartu stok digunakan untuk menyimpan setiap proses transaksi yang terjadi pada perusahaan. Dan juga disertakan laporan akhir untuk perusahaan menghitung laba-rugi dan mengetahui lajur pembelian-penjualan pada perusahaan.",
+  "creators": "STEFANUS CHRISTIAN GUNAWAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Rudy Adipranata (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021817/INF/2019; Stefanus Christian Gunawan (26413065)",
+  "subjects": "PROGRAMMING (ELECTRONICS COMPUTERS); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

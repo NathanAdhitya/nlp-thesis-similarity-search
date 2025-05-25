@@ -1,0 +1,14 @@
+{
+  "id": "9708",
+  "title": "Perancangan dan pembuatan sistem segmentasi teks dalam bahasa mandarin dengan metode rule-based dan metode statistical",
+  "abstract": "Pada jaman ini, perkembangan Bahasa Mandarin di dunia sangatlah pesat. Banyak aplikasi yang dapat membantu penggunaan Bahasa Mandarin dalam dunia Informatika. Satu tahap yang tidak dapat dilewatkan dalam pembuatan aplikasi-aplikasi tersebut adalah tahap segmentasi. Dalam suatu kalimat dalam Bahasa Mandarin, tidak terdapat pemisah antara satu kata dengan kata lain. Pada tahap ini suatu kalimat dalam Bahasa Mandarin dipecah-pecah agar menjadi kata-kata dalam Bahasa Mandarin. Oleh karena itu, pada Tugas Akhir ini dibuat suatu aplikasi yang dapat melakukan proses segmentasi dari suatu kalimat dalam Bahasa Mandarin menjadi kata-kata dalam Bahasa Mandarin. Proses segmentasi dibuat dengan metode rule-based, metode statistical dan penggabungan antara metode rule-based dan metode statistical. Kata-kata yang dapat disegmentasi hanyalah kata-kata unigram dan bigram. Tugas Akhir ini dibuat menggunakan Borland Delphi 7 dengan tambahan komponen TntWare Delphi Unicode Controls, komponen TntWare Delphi LX Controls dan Microsoft SQL Server 2000 sebagai media penyimpanan data. Hasil pengujian menunjukkan bahwa segmentasi yang menggunakan penggabungan antara metode rule-based dan metode statistical memiliki hasil yang lebih baik daripada hanya menggunakan salah satu metode saja. Hal ini dapat dilihat bahwa metode ini memiliki precision 2.47% dan recall 4.26% lebih baik terhadap metode rule-based untuk artikel dari buku pengujian dan precision 7.07% dan recall 1.27% untuk artikel dari luar buku pengujian. Sedangkan terhadap metode statistical, precision 41.23% dan recall 53.73% untuk artikel dari buku pengujian dan precision 10.93% dan recall 24.84% untuk artikel dari luar buku pengujian.",
+  "creators": "MELIANA ONGKOWINOTO",
+  "contributors": "Rolly Intan (Advisor 1); Rudy Adipranata (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010707/INF/2008; Meliana Ongkowinoto (26404047)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

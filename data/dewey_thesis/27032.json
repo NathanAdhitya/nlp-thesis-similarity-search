@@ -1,0 +1,14 @@
+{
+  "id": "27032",
+  "title": "Program komputer untuk analisa portal baja dengan sambungan end plate sebagai sambungan semi rigid",
+  "abstract": "Pada umumnya dipergunakan asumsi hubungan balok-kolom rigid mutlak dalam analisa struktur portal baja. Pada kenyataannya asumsi tersebut sulit untuk dipenuhi. Karena bagaimanapun sambungan balok-kolom direncanakan, maka rotsi relativ balok terhadap kolom akan selalu terjadi. Adapun perilaku interaktif momen-rotasi dari suatu sambungan selalu non linear. Derajad non linear perilaku interaktif tersebut tergantung pada jenis sambungan dan dimensi elemen sambungan end plate. Untuk melakukan analisa pendekatan terhadap perilaku non linear M-8 sambungan, maka dilakukan iterasi, di mana pada tiap iterasi dilakukan linearisasi kurva M-8 yang kemudian dikontrol perbedaan sudut antara rotasi yang ditimbulkan kurva M-8 dan linearisasi kurva tersebut. Apabila perbedaan sudut yang terjadi masih lebih besar dari batas yang ditentukan, maka dilakukan linearisasi kurva yang baru untuk mendapatkan kekakuan sambungan baru. Kekakuan sambungan yang baru ini digunakan untuk memodifikasi matriks kekakuan struktur. Dari matriks kekakuan yang telah dimodifikasi ini kemudian dapat dianalisa gaya-gaya dalam struktur akibat pembebanan yang ada. Kemudian dilakukan kontrol terhadap perbedaan sudut yang terjadi. Demikian seterusnya iterasi dilakukan, sehingga perbedaan sudut yang terjadi pada seluruh sambungan yang ada pada struktur yang dianalisa lebih kecil dari batas yang ditentukan. Gaya-gaya dalam hasil analisa adalah gaya-gaya dalam dari iterasi terakhir. Karena analisa portal baja dengan sambungan end plate sebagai sambungan semi rigid tersebut tidak efektif jika dianalisa secara manual, maka da1am skripsi ini kami menyajikan program komputer untuk analisa tersebut.",
+  "creators": "WIDJOTO CHANDRA; MAKNO BASOEKI",
+  "contributors": "Ir. Soehendro Ratnawidjaja, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 274 S; Widjoto Chandra (281073), Makno Basoeki (281083)",
+  "subjects": "COLUMNS-FOUNDATIONS; COMPUTERS PROGRAMS"
+}

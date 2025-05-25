@@ -1,0 +1,14 @@
+{
+  "id": "39248",
+  "title": "Kontrol diskrit hexapod dengan metode elman recurrent neural network dengan studi kasus driving simulator game sederhana",
+  "abstract": "Permainan adalah salah satu cara untuk mendapatkan hiburan dan untuk menghilangkan rasa jenuh. Salah satu kategori dari permainan adalah permainan simulasi di mana pemain dapat seolah-olah merasakan efek dari jalannya permainan. Salah satu alat yang dapat digunakan untuk membantu memperoleh efek simulasi adalah Diskrit Hexapod. Desain Diskrit Hexapod dapat digunakan untuk Driving Simulator dengan Arduino sebagai pengontrol untuk Diskrit Hexapod. Diskrit Hexapod dapat bergerak sesuai dengan tampilan visual dari gerakkan mobil pada Driving Simulator. Diskrit Hexapod akan memiliki waktu aktivasi yang tidak banyak perubahan apabila menggunakan metode Elman Recurrent Neural Network. Pasangan data yang digunakan sebagai masukkan program berjumlah 161 pasang dengan hasil RMSE 0,0632.",
+  "creators": "LUCKY LEONARDO SALIM",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Felix Pasila (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021632/INF/2017; Lucky Leonardo Salim (26412031)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; FUZZY SETS; IMAGE PROCESSING-DIGITAL TECHNIQUE"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "23448",
+  "title": "Perancangan scada software menggunakan wonderware intouch 10 pada jaringan PLC omron CPM1",
+  "abstract": "Perkembangan teknologi di bidang elektronika ini memberikan dampak yang luar biasa terhadap kehidupan manusia. Melalui Programmable Logic Controller (PLC) dan juga SCADA, proses otomatisasi dan pemantauan terhadap kinerja suatu sistem dapat berjalan dengan efektif dan efisien. Seiring dengan semakin banyaknya tingkat kriminalitas, saat ini PLC dan SCADA juga banyak dipergunakan di kompleks-kompleks perumahan untuk menggantikan peran sistem keamanan konvensional. Tugas akhir ini dibuat dengan tujuan untuk membuat software SCADA dengan menggunakan Wonderware InTouch 10 pada Jaringan PLC Omron CPM1. Sistem SCADA ini diaplikasikan pada miniatur sistem keamanan kompleks perumahan yang terdiri dari perangkat tombol emergency, motor stepper sebagai portal, dan LED sebagai lampu jalan. Sistem ini menggunakan konverter RS-232 to RS-485 dari Innovative Electronic sebagai media komunikasi antara PC dan 4 buah PLC. Program PLC dibuat menggunakan Syswin 3.3. Pengujian dilakukan untuk mengetahui apakah SCADA dapat berjalan dengan baik dan mengetahui waktu respon komunikasi antara PC dan PLC. Pengujian untuk menyalakan lampu pada 1 PLC berkisar 1,0354 detik dan untuk menyalakan lampu pada 4 PLC bersamaan berkisar 1,4364 detik.",
+  "creators": "YOHANES MARGONO",
+  "contributors": "Handy Wicaksono (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010921/ELK/2011; Yohanes Margono (23405005)",
+  "subjects": "SCADA (SOFTWARE SUPERVISOR CONTROL AND DATA ACQUISITION); SOFTWARE ENGINEERING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5804",
+  "title": "Studi komunikasi antar plc schneider tsx micro 37-21 pada automasi proses produksi minuman",
+  "abstract": "Komunikasi antar PLC menjadi sesuatu yang sangat penting dalam dunia industri, oleh karena dengan menggunakan komunikasi, jumlah output device yang dapat dikontrol oleh dua atau lebih PLC menjadi banyak. Studi komunikasi antar PLC ini dilakukan pada automasi proses produksi minuman. Plant yang dibuat merupakan pengembangan dari Tugas Akhir yang telah dibuat oleh sdr. Nelson Kusuma Rahardja dengan judul Perencanaan Dan Pembuatan Sistem Automasi Proses Produksi Minuman Dengan Sistem SCADA Menggunakan PLC (Tugas Akhir : No. 01/468/Elk/2003).Untuk mengontrol miniatur plant ini digunakanlah dua buah PLC Schneider TSX Micro 37-21 yang berkomunikasi. Untuk melakukan pemrograman pada PLC Schneider TSX Micro 37-21 software digunakan PL7 Pro V 4.0. Komunikasi antar PLC menggunakan TER atau AUX port secara belum dapat dilakukan oleh karena pengalamatan yang dilakukan kurang tepat dan komunikasi dari PC (RS 232) ke PLC (Multipoint) memerlukan sebuah converter, yaitu TSX PCX 1031.",
+  "creators": "CHANDRA UDAYANA",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010761/ELK/2005; Chandra Udayana (23401034)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

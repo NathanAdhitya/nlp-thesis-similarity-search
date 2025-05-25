@@ -1,0 +1,14 @@
+{
+  "id": "10670",
+  "title": "Penggunaan prosesor sinyal digital keluarga TMS320 sebagai alat pengenalan suara manusia dengan algoritma DTW (Dynamic Time Warping)",
+  "abstract": "Pada tugas akhir ini dibuat suatu alat pengenalan suara manusia {speech recognition) dengan bantuan prosesor sinyal digital keluaran Texas Instruments keluar TMS320. Permasalahaan dibatasi pada pengenalan suara pembicaraan yang merupakan sepatah kata {isolated word) yang berasal dari orang tertentu saja {speaker dependence) dan memiliki perbendaharaan kata kecil {small vocabulary). Pemrosesan ekstrasi ciri-ciri {feature) pada sistem dilakukan dengan TMS320C50 DSK (digital signal processing starter kit) untuk mendapatkan pengolahan yang real time, sedangkan proses pengenalan pola digunakan komputer IBM PC/AT untuk kemudahannya. Metode yang digunakan untuk proses ekstrasi ciri-ciri adalah metode ,. analisa LPC (linear prediction code) dimana perhitungan cuplikan data menuju ke vektor autokorelasi memakai algoritma Durbin, yang mana selanjutnya diturunkan dari vektor autokorelasi tersebut vektor ciri-ciri yaitu koefisien prediksi, koefisien PARCOR, dan kesalahan prediksi. Dilanjutkan dengan proses perbandingan dengan menggunakan Algoritma Dynamic Time Warping. Pada akhirnya diambil suatu keputusan yang menyatakan sampel suara tersebut dikenal atau tidak. Pengenalan suara ini dapat diaplikasikan untuk bermacam keperluan mulai dari sistem keamananan, sistem telekomunikasi, komputer multimedia, dan sebagainya tergantung dari performasi yang dapat dicapai oleh sistem. Kemampuan sistem pada tugas akhir ini terbatas pada kemampuan TMS320C50 yang merupakan prosesor fixed point sehingga dilakukan emulasi floating point secara perangkat lunak, dan ini mempengaruhi performasi pengenalan sistem. Sistem yang didapat memberikan hasil yang cukup baik. Sistem ini mampu untuk membedakan dan mengenali kata yang diucapkan seseorang pun membedakan ucapan yang terdengar hampir sama hanya saja pada situasi sekitar yang cukup bebas noise.",
+  "creators": "FREDERIKUS DAVID B.S.",
+  "contributors": "Resmana Lim (Advisor 1); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/023/283; Frederikus David B.S. (23490005)",
+  "subjects": "SIGNAL PROCESSING-DIGITAL TECHNIQUES; COMPUTERS"
+}

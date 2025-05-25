@@ -1,0 +1,14 @@
+{
+  "id": "13647",
+  "title": "Penerapan algoritma simulated annealing pada sistem produksi flow shop di PT. \"X\"",
+  "abstract": "PT. \"X\" merupakan salah satu perusahaan perhiasan emas yang terbesar di Asia Tenggara. Saat ini divisi bahan, yang merupakan salah satu divisi produksi di PT. \"X\" belum memiliki suatu metode penjadwalan terbaik yang dapat meminimumkan makespan (waktu penyelesaian). Akibatnya adalah proses produksi tidak dapat berjalan dengan optimal, antrian barang untuk diproses masih panjang {bottleneck) dan akibat yang paling besar adalah terjadinya keterlambatan setoran barang jadi divisi bahan ke divisi pengorder. Oleh sebab itulah dalam tugas akhir ini akan dicoba untuk menerapkan metode Simulated Annealing dalam usaha untuk meminimumkan makespan produksi di divisi bahan. Metode Simulated Annealing merupakan salah satu metode heuristic di dalam pencarian solusi optimal. Solusi optimal diperoleh dengan cara menukarkan jobs yang ada dengan beberapa aturan, misalnya insertion, RIPS {Random Insertion Perturbation Scheme) dan paimise exchange. Tugas akhir ini membandingkan makespan mana yang terbaik antara solusi awal SPT {Shortest Processing Time) dan LPT {Longest Processing Time) dengan menggunakan pairM'ise exchange untuk pertukaran jobs yang akan dijadwalkan. Untuk perhitungannva dibantu dengan menggunakan software Pascal yang telah diprogram untuk menyelesaikan masalah penjadwalan di PT. \"X\" dengan menggunakan metode Simulated Annealing. Hasil yang diperoleh dari pengolahan data menunjukkan bahwa solusi awal yang terbaik adalah LPT {Longest Processing Time) karena memberikan nilai makespan yang lebih kecil bila dibandingkan dengan SPT {Shortest Processing Time). Adapun nilai makespan solusi awal LPT adalah sebesar 1007.80 menit sedangkan nilai makespan solusi awal SPT adalah sebesar 1280.60 menit. Jadi dengan nilai makespan yang lebih kecil ini, LPT lebih cepat memperoleh hasil optimal yaitu nilai makespan sebesar 999.30 menit.",
+  "creators": "FRENGKY GUNADI",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 512/TI-103/2001; Frengky Gunadi (25497081)",
+  "subjects": "PRODUCTION PLANNING-SIMULATION METHODS"
+}

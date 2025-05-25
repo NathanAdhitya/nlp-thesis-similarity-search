@@ -1,0 +1,14 @@
+{
+  "id": "29397",
+  "title": "Penggunaan linear programming dan genetic algorithms dalam menyelesaikan time-cost trade-off problem",
+  "abstract": "Pada proyek konstruksi, hubungan schedule dan biaya proyek memiliki peranan yang sangat penting dalam menentukan kesuksesan proyek karena dari kedua faktor tersebut terjadi hubungan time-cost trade-off dari direct cost dan indirect cost. Dalam hal ini jika hubungan tersebut dapat dioptimalkan dengan meminimalkan project's total cost saat mereduksi durasi aktivitas maka biaya proyek akan berkurang secara signifikan. Alasan ini yang membuat schedule compression menjadi penting untuk dikembangkan, beberapa metode diantaranya yang dapat digunakan adalah Linear Programming dan Genetic Algorithm. Dalam penelitian ini scheduling compression diselesaikan dengan spreadsheet dimana perhitungan metode Linear Programming dibantu dengan program add-in Jensen LP/IP sedangkan Genetic Algorithm dibantu dengan Evolver. Dari proses dan hasil penelitian yang dilakukan diperoleh perbandingan kelemahan dan kelebihan kedua metode tersebut. Linear Programming relatif susah untuk digunakan karena harus mengubah AOA menjadi persamaan matematika dan untuk hubungan selain Finish-Start tanpa lag/lead diperlukan modifikasi AOA yang rumit. Selain itu juga LP hanya terbatas pada linear activity time cost relation saja. Meskipun demikian hasil yang diberikan oleh LP sangat memuaskan dan optimal. Sedangkan Genetic Algorithm jauh lebih mudah digunakan karena dasarnya yang sederhana dan juga logika scheduling telah diterjemahkan menjadi formula spreadsheet yang berlaku untuk segala kondisi predecessors. Namun hasil yang diberikan oleh GA tidak sebaik LP karena hanya menghasilkan approximate result.",
+  "creators": "ANDY SEPTIANUS; DANNY LAORENT",
+  "contributors": "Paulus Nugraha (Advisor 1); Ratna S. Alifen (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 21011943/SIP/2013; Andy Septianus (21410002), Danny Laorent (21410014)",
+  "subjects": "CONSTRUCTION INDUSTRY MANAGEMENT; PROJECT MANAGEMENT"
+}

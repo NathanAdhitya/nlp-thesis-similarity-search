@@ -1,0 +1,14 @@
+{
+  "id": "26015",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi dan aplikasi perhitungan harga pokok produksi pada PT. 'X'",
+  "abstract": "PT. “X” adalah sebuah perusahaan di Makassar yang bekerja dalam bidang servis dan produksi pintu harmonika. Pada saat ini pencatatan data yang ada pada PT. “X” masih menggunakan sistem manual. Penghitungan harga pokok produksi juga masih dihitung secara manual dan perhitungan hanya mencakup biaya bahan baku yang dipakai dalam produksi, sedangkan biaya overhead dan tenaga kerja belum dimasukkan ke dalam perhitungan. Hal itu menyebabkan kendala dalam memutuskan apakah akan menerima sebuah tawaran kerja atau menolaknya. Berdasarkan permasalahan itu, perancangan sistem yang dapat mengurus proses bisnis perusahaan seperti dalam pembelian, penjualan, gaji karyawan dan melakukan perhitungan harga pokok produksi ini dibuat dengan menggunakan bahasa PHP yang memanfaatkan framework Yii dan database MySQL. Perhitungan harga pokok produksi dilakukan dengan metode Job Order Costing. Harga rata-rata bahan baku dihitung dengan menggunakan metode Moving Average. Hasil dari implementasi sistem ini adalah dapat menyimpan seluruh data yang berkaitan dengan produksi, pembelian bahan baku, penjualan produk, perhitungan harga pokok produksi yang dihitung secara otomatis, serta perhitungan sisa bahan hasil produksi baik yang dapat dipakai kembali maupun yang sudah tidak terpakai lagi.",
+  "creators": "ROBIN ANTHONY",
+  "contributors": "Alexander Setiawan (Advisor 1); Yulia (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021159/INF/2012; Robin Anthony (26408080)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

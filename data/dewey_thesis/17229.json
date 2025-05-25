@@ -1,0 +1,14 @@
+{
+  "id": "17229",
+  "title": "Perbandingan metode counterpropagation dengan backpropagation dalam mengenali tulisan tangan dalam bentuk angka",
+  "abstract": "Pengenalan karakter atau yang biasa disebut Character Recognition merupakan cabang dari computer vision dan artificial intelligent. Dalam topik tugas akhir ini menggunakan angka sebagai objek pengenalan dan menggunakan dua metode neural network sebagai pembanding yaitu counterpropagation dan backpropagation. Jaringan syaraf tiruan merupakan cabang dari Artificial Intelligence yang bertujuan untuk mengenali objek yang dijadikan sebagai input. Pada tugas akhir ini, yang digunakan sebagai input adalah tulisan tangan dalam bentuk angka. Menggunakan angular partition and moment description sebagai feature extraction. Metode yang digunakan sebagai neural network adalah counterpropagation dan backpropagation. Hasil dari keluaran jaringan syaraf tiruan adalah tingkat akurasi sistem dalam mengenali angka-angka yang digunakan sebagai media tes, sehingga dari hasil ini dapat dibandingkan kedua metode neural network tersebut, Metode backpropagation memiliki pengenalan lebih akurat, namun memakan waktu lebih lama dibandingkan counterpropagation. Tingkat pengenalan backpropagation dapat mencapai lebih dari 90%, sedangkan counterpropagation hanya mencapai 77%.",
+  "creators": "YUSAK HERMAWAN",
+  "contributors": "Rudy Adipranata (Advisor 1); Gregorius Satiabudhi (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020864/INF/2010; Yusak Hermawan Sindhunata (26404101)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

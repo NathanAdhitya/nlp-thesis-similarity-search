@@ -1,0 +1,14 @@
+{
+  "id": "46511",
+  "title": "Kinerja seismik rumah sederhana dengan fitur element removal pada dinding bata pengisi yang rusak",
+  "abstract": "Pada analisis struktur, sering kali peran dinding bata sebagai komponen struktur diabaikan. Sebagai komponen struktur, dinding bata pengisi mempunyai kekuatan pada bidangnya atau in-plane (IP) maupun tegak lurus bidangnya atau out-of-plane (OOP). Dalam analisis nonlinear time history, tantangan yang dihadapi adalah membuang dinding bata yang mengalami kerusakan. Pada penelitian ini, difokuskan untuk meneliti pemodelan dinding pada fase pasca elastis dengan menggunakan fitur element removal yang diimplementasikan pada program OpenSees. Penelitian dilakukan pada struktur rumah sederhana dengan beban gempa yang dianalisis menggunakan time history nonlinear direct integration. Perbandingan antara struktur bare frame dan struktur infill frame, dilakukan untuk mengetahui pengaruh dinding bata pengisi terhadap kinerja seismik struktur rumah sederhana. Kedua struktur bangunan diberi beban gempa, dua arah (sejajar dan tegak lurus dinding) dan satu arah (sejajar dinding). Hasil dari penelitian ini menunjukkan bahwa, momen yang terjadi pada balok dan kolom struktur infill frame, cenderung lebih kecil dibandingkan struktur bare frame. Hal ini menyebabkan balok dan kolom struktur infill frame dapat bertahan lebih lama.",
+  "creators": "DAVID IMMANUEL SANTOSO; JONATHAN SUSANTO",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Benjamin Lumantarna (Advisor 2); Antoni (Examination Committee 1); Jimmy Chandra (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012379/SIP/2020; David Immanuel Santoso (21416088), Jonathan Susanto (21416093)",
+  "subjects": "BUILDINGS-EARTHQUAKE EFFECTS; CONCRETE CONSTRUCTION"
+}

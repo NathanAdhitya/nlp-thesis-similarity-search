@@ -1,0 +1,14 @@
+{
+  "id": "57667",
+  "title": "Domestic violence detection pada kamera dalam ruangan untuk mendeteksi kekerasan fisik menggunakan 3D convolutional neural network",
+  "abstract": "Kekerasan dalam rumah tangga (KDRT) di Indonesia masih tinggi, terutama setelah pandemi Covid-19. Jumlah kasus KDRT melibatkan hubungan personal seperti pasangan, orang tua-anak, paman-keponakan, dan kakek-cucu. Peningkatan kasus KDRT ini memerlukan solusi yang efektif seperti yang di ajukan pada penelitian ini bertujuan untuk menggunakan teknologi computer vision yang disebut 3D-CNN untuk mendeteksi kekerasan fisik yang dapat digunakan untuk record video secara otomatis sehingga pada saat kejadian dapat diberikan peringatan kepada orang sekitar dan memiliki bukti untuk tindakan kekerasan. Convolutional 3D layer bertanggung jawab untuk melakukan operasi konvolusi pada input 3D, seperti video atau data spasial-temporal. Layer ini memungkinkan pengenalan pola yang kompleks dalam data melalui ekstraksi fitur hierarkis. Dalam konteks pemrosesan video, convolutional 3D layer dapat menangkap informasi spasial dan temporal dari setiap frame dan kumpulan frame dalam video. Hasil konfigurasi terbaik pada 3D-CNN di penelitian ini adalah menggunakan frame size 64x64x20, learning rate 0,0001, random rotate 20 derajat, random shift sebanyak 10%, horizontal flip, normalisasi min-max scaling dengan jumlah layer sebanyak 4 convolutional 3D layer, 4 dropout Layer sebanyak 0,2 yang dilakukan setiap convolutional layer, yang setelah itu masuk ke max-pooling 3D layer dan akhirnya output layer/dense layer. Dengan precision 72,8% yang berarti sekitar 7 dari 10 video dapat dideteksi dengan benar.",
+  "creators": "DANNY YURISTA",
+  "contributors": "Liliana (Advisor 1); Gregorius Satiabudhi (Advisor 2); Kartika Gunadi (Examination Committee 1); Hans Juwiantho S.Kom., M.Kom (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022357/INF/2023; Danny Yurista (C14180122)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)--COMPUTER PROGRAMS; THREE-DIMENSIONAL DISPLAY SYSTEMS--COMPUTER PROGRAMS; THREE-DIMENSIONAL IMAGING"
+}

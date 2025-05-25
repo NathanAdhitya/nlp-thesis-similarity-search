@@ -1,0 +1,14 @@
+{
+  "id": "26314",
+  "title": "Optimasi tulangan pada struktur beton bertulang",
+  "abstract": "Pada tugas akhir ini kami membahas persoalan \" Optimasi Tulangan Pada Struktur Beton Bertulang \" dengan menggunakan analisa Limit State dan kami hanya membahas untuk balok menerus. Penyelesaian optimasinya dikerjakan dengan metode simplex dan dalam tugas akhir ini kami buatkan program komputernya, di mana hasil akhirnya akan didapatkan luas tulangan di mana berdasarkan luas tulangan tersebut akan menghasilkan volume tulangan yang optimal. Dalam program komputer ini waktu yang lama terjadi pada perhitungan optimasinya, hal ini disebabkan adanya interaksi yang berulang-ulang untuk mendapatkan harga yang minimum dari variabel-variabelnya. Untuk mendapatkan nilai yang minimum dari optlmasi ini tergantung dari beberapa batasan (constraint). Di slni sebagai batasan diambil dari persamaan usaha virtuil dari \"mechanism-mechanism\" yang terjadi dan batasan \"yield safety \" parameter (tj). Selain penyelesaian dengan optimasi ini kami juga menyertakan beberapa metode perhitungan dengan harapan dapat dijadikan sebagai pembanding. Pada penyelesaian optimasi yang dibahas ini tidak memasukkan lendutan dan kapasitas rotasi sebagai batasan, sehingga hasil yang didapat harus dilakukan pengontrolan terhadap lendutan dan kapasitas rotasinya.",
+  "creators": "SUDJONO PURNOMO; MARIANUS HARDJAMULIA",
+  "contributors": "Daniel Zefania Pribadi (Advisor 1); Januar Buntoro (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 286 S; Sudjono Purnomo (281004), Marianus Hardjamulia (281081)",
+  "subjects": "REINFORCED CONCRETE CONTRUCTION"
+}

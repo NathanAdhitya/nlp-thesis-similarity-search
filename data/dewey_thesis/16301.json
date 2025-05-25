@@ -1,0 +1,14 @@
+{
+  "id": "16301",
+  "title": "Genetic alogorithms dalam learning speech recognition berbasis neuro fuzzy untuk pengendalian kecepatan motor universal",
+  "abstract": "In this final project, speech recognition system is used to control the speed of universal motor. To control motor it used 5 words in Indonesian Language. There are nol, satu, dua, tiga, and empat. Those words will be used to control motor in 4-speed level and stop. The system uses Neuro Fuzzy as learning medium to recognize every word that is gave into the system. Because Neuro Fuzzy has a few parameter, such as numbers of hidden layer, numbers of node in every hidden layer, value of momentum term, value of learning rate, and membership function in this system will use Genetic Algorithms to obtain the optimal architecture of Neuro Fuzzy. Genetic Algorithms is a search algorithm used as optimizing method. With the optimal architecture of Neuro Fuzzy, this system can learn very well and efficiently so that this system can recognize every speech that has been learned. In this research, the training of Genetic Algorithms has not finished yet, but the software of Genetic Algorithms can be used.",
+  "creators": "DANIEL",
+  "contributors": "YOHANES T. D. S (Advisor 1); Hany Ferdinando (Advisor 2); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/069/506; Daniel (23496023)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; NEURAL NETWORKS (COMPUTER SCIENCE); ROBOTICS"
+}

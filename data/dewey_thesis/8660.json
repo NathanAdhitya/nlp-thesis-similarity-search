@@ -1,0 +1,14 @@
+{
+  "id": "8660",
+  "title": "Pembuatan program group chatting menggunakan bluetooth",
+  "abstract": "Teknologi Bluetooth sedang berkembang saat ini. Banyak aplikasi yang bisa dibuat dengan Bluetooth. Salah satu aplikasi tersebut adalah chatting. Aplikasi chatting yang dibuat dengan Bluetooth sampai saat ini hanya bisa dilakukan komunikasi peer to peer. Oleh karena itu dalam Tugas Akhir ini, penulis membuat program group chatting dengan menggunakan Bluetooth. Bluetooth dipilih karena memiliki kelebihan yaitu dapat mengadakan koneksi dengan Bluetooth lain tanpa melalui jaringan provider dan tanpa kabel, Bluetooth mampu mengirimkan data dengan kecepatan rata-rata ? 1 Mbps, Bluetooth tidak tergantung dari LOS (Line Of Sight), dan jangkauan jaraknya cukup jauh ? 100 meter (Bluetooth class 1). Program group chatting ini dibuat dengan menggunakan bahasa pemrograman Microsoft Visual Basic .NET dan ditunjang dengan Bluetooth library OpenNETCF.Net.Bluetooth. Koneksi yang dibuat pada program group chatting ini adalah koneksi antara server dan beberapa client. Server yang menyediakan service untuk chatting dan client yang mengadakan koneksi ke server. Protokol komunikasi yang dipakai untuk pertukaran data pada program group chatting ini adalah protokol komunikasi Bluetooth, yaitu protokol RFCOMM. Pengujian program group chatting dengan menggunakan Bluetooth dilakukan pada 4 buah Personal Computer (PC). 1 buah PC berperan sebagai server dan 3 buah PC berperan sebagai client. Pengujian tersebut berjalan dengan baik, yaitu server dapat melakukan proses listening untuk menerima koneksi dari client, client dapat melakukan koneksi ke server dan data dapat dipertukarkan di antara client dan server. Kesimpulan yang dicapai adalah bahwa pembuatan program group chatting dengan menggunakan Bluetooth dapat diwujudkan.",
+  "creators": "SETIYONO",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010030/ELK/2005; Setiyono (23401042)",
+  "subjects": "WIRELESS COMMUNICATION SYSTEMS; MOBILE COMMUNICATION SYSTEMS; BLUETOOTH"
+}

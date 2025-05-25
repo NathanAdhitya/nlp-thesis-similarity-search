@@ -1,0 +1,14 @@
+{
+  "id": "60542",
+  "title": "Pengembangan behavior tree menggunakan algoritma evolusi untuk NPC di permainan real time strategy",
+  "abstract": "Permainan Real Time Strategy (RTS) merupakan genre permainan yang populer dengan perancangan strategi dan taktik yang cepat dalam menghadapi situasi dan lingkungan yang selalu berubah. Namun permainan RTS ini seringkali bersifat stagnan setiap kali dimainkan karena NPC dalam permainan ini hanya memiliki 1 variasi behavior. Hal ini dikarenakan AI NPC yang merupakan bagian dari permainan RTS ini masih harus dirancang secara manual oleh pengembang. Di mana kondisi ini menjadi tantangan bagi pengembang ketika perlu menghasilkan behavior yang bervariasi. Penelitian ini bertujuan untuk mengembangkan behavior tree yang bervariasi untuk NPC di permainan RTS non-turn-based setiap kali permainan dimainkan. Metode yang digunakan dalam perancangan behavior tree adalah algoritma evolusi dan teknik Procedural Content Generation (PCG). Terdapat 3 jenis behavior agent yang akan dikembangkan dalam penelitian ini yaitu swordsman, shooter, dan staff-fighter. Selain itu, proses perancangan behavior akan menggunakan 2 jenis training yaitu training terpisah dan training cluster. Behavior hasil training kemudian akan digunakan sebagai koleksi behavior yang digunakan untuk perancangan behavior baru untuk setiap agent setiap kali permainan dimainkan. Berdasarkan hasil pengujian behavior tree yang dihasilkan menunjukkan perilaku yang bervariasi dengan karakteristik yang beragam seperti: swordsman yang dapat melindungi anggota tim dan menyerang, shooter yang dapat menyerang dari jarak yang aman dan juga berkorban untuk kemenangan tim, dan staff-fighter yang dapat mengumpulkan item sebelum menyerang. Selain itu, terdapat juga variasi perilaku mengalah sesaat sebelum lanjut menyerang dan memenangkan pertandingan. Selain itu, juga dilakukan survei kepada 37 orang yang memainkan simulasi pertandingan sebanyak 3 kali menggunakan behavior kedua jenis training. Hasil yang diperoleh mengindikasikan bahwa performa behavior NPC dari kedua jenis training mendapatkan respon yang sangat positif terutama untuk perilaku agent swordsman.",
+  "creators": "FELIX LIEM",
+  "contributors": "Hans Juwiantho S.Kom., M.Kom (Advisor 1); Liliana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Gregorius Satiabudhi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022581/INF/2024; Felix Liem (C14200165)",
+  "subjects": "GAMES; VIDEO GAMES; ALGORITHMS"
+}

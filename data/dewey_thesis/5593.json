@@ -1,0 +1,14 @@
+{
+  "id": "5593",
+  "title": "Pembuatan sistem inventory dengan pengaturan peletakan dan visualisasi posisi barang pada UD Aneka Mainan",
+  "abstract": "Sistem inventory pada UD Aneka Mainan saat ini masih bersifat manual. Jenis dan jumlah barang yang terus bertambah dengan arus keluar dan masuk barang yang semakin meningkat menyebabkan kontrol terhadap inventory semakin sulit dilakukan. Selain itu keterbatasan ruang dan adanya aturan peletakan juga membutuhkan efisiensi dalam penentuan lokasi barang. Untuk meningkatkan kemampuan dalam melakukan kontrol terhadap persediaan dan untuk meningkatkan efisiensi penggunaan lokasi diperlukan pengembangan sistem baru. Sistem yang baru dikembangkan dengan menggunakan Borland Delphi 6 dan MySQL sebagai database sistem. Untuk pengaturan peletakan barang dipergunakan backtracking. Untuk melengkapi sistem, diberikan visualisasi posisi barang dengan menggunakan OpenGL. Hasil dari dari Tugas Akhir ini adalah suatu program yang dapat melakukan kontrol terhadap persediaan dan memberikan laporan persediaan terbaru. Program juga mendukung pengaturan peletakan dan mampu memvisualisasikan lokasi persediaan dalam bentuk tiga dimensi. Pengujian sistem dilakukan dengan dua cara, oleh programmer dan user. Dari hasil pengujian oleh user diperoleh nilai 4,611 untuk manfaat, 3,83 untuk interface dan kinerja sebesar 3,875 dari nilai maksimum sebesar 5. Secara keseluruhan sistem memiliki nilai rata-rata sebesar 3,95 yang berarti cukup baik. Dari hasil pengujian tersebut dapat dikatakan bahwa sistem layak untuk dipergunakan.",
+  "creators": "ARIEF ABADI",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000213/INF/2004; Arief Abadi (26400137)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTER); DATA BASE DESIGN; DATA BASE MANAGEMENT"
+}

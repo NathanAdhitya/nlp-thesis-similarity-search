@@ -1,0 +1,14 @@
+{
+  "id": "8250",
+  "title": "Aplikasi voice modem sebagai perekam pembicaraan telepon",
+  "abstract": "Aplikasi Voice Modem Sebagai Perekam Pembicaraan Telepon ini dibuat untuk bisa merekam pembicaraan telepon agar dapat didengarkan kembali sewaktu - waktu. Perekam pembicaraan telepon ini merupakan aplikasi yang dibangun dengan menggunakan fungsi - fungsi TAPI (Telephony Application Programming Interface) untuk bisa melakukan proses yang diinginkan. Perekam pembicaraan telepon ini melibatkan komputer sebagai alat menjalankan program sekaligus berkomunikasi dengan modem, dan voice modem yang berfungsi menjalankan fungsi - fungsi TAPI dan sekaligus berkomunikasi dengan line telepon. Line telepon memberikan input ke voice modem yang kemudian diteruskan ke komputer untuk diproses dan kemudian komputer mengirimkan perintah kepada voice modem untuk melakukan suatu proses. Dari hasil pengujian dapat diketahui bahwa program dapat bekerja dengan baik. Kendala yang muncul adalah pada saat pemutusan hubungan telepon oleh modem. Kendala tersebut timbul disebabkan karena keterbatasan komponen (TAPIEx) yang digunakan dan juga respon yang berbeda - beda dari tiap - tiap modem meskipun dijalankan dengan aplikasi yang sama. Jadi dapat disimpulkan bahwa program dapat bekerja dengan baik.",
+  "creators": "FX ANDRIANTO RAHARDJO",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010039/ELK/2006; F. X. Andrianto Raharjo (23402044)",
+  "subjects": "TELEPHONE ANSWERING AND RECORDING APPARATUS"
+}

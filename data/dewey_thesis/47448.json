@@ -1,0 +1,14 @@
+{
+  "id": "47448",
+  "title": "Implementasi web service integrasi data penelitian dan pengabdian masyarakat dengan SISTER Ristekdikti dengan metode REST",
+  "abstract": "Setiap perguruan tinggi berkewajiban untuk menerapkan Penelitian dan Pengabdian kepada Masyarakat. Berdasarkan data dari website resmi Ristekdikti, jumlah dosen di universitas yang ada di Indonesia sangat banyak, sehingga dibutuhkan suatu sistem untuk melakukan pendataan dan pengelolaan data dosen. Dengan banyaknya data yang dimiliki oleh dosen, pendataan menjadi tidak efektif apabila harus melakukan pengetikan ulang. Oleh karena itu, dibuatlah program yang dapat membantu dosen untuk melakukan pendataan P2M melalui data yang sudah ada di sistem informasi universitas. Penelitian ini menggunakan web service yang telah disediakan oleh SISTER Ristekdikti. Metode yang digunakan adalah Representational State Transfer (REST). Data dari universitas adalah seputar Penelitian dan Pengabdian Masyarakat. Data yang akan di masukkan ke SISTER harus dipetakan terlebih dahulu agar sesuai dengan data yang dibutuhkan. Program dari penelitian ini membuktikan kerberhasilan penambahan data ke SISTER Ristekdikti dan melihat data yang sudah ada di SISTER Ristekdikti. Hasil pengujian dari program peneliti menunjukkan bahwa data berhasil di masukkan ke database mirror SISTER Ristekdikti. Dari hasil kuisioner didapatkan hasil bahwa keseluruhan aplikasi sudah baik dengan rata-rata nilai 2,7. Selain itu, aplikasi membantu dosen untuk melengkapi data P2M dan data yang ditampilkan sesuai dengan kebutuhan dengan rata-rata nilai 3.",
+  "creators": "LETTISIA APRIOLITA HARJONO",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Justinus Andjarwirawan (Advisor 2); Alexander Setiawan (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021972/INF/2020; Lettisia Apriolita Harjono (26416039)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); WEB SITES--DESIGN"
+}

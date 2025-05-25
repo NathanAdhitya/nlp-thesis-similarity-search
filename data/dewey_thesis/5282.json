@@ -1,0 +1,14 @@
+{
+  "id": "5282",
+  "title": "Remote infra merah universal menggunakan PC",
+  "abstract": "Remote Infra Merah Universal Menggunakan PC ini merupakan suatu sistem interface yang berbasis PC yang dapat merekam sinyal IR remote kontrol yang kemudian dapat dipakai untuk mempelajari sinyal IR remote kontrol itu sendiri tanpa memerlukan instrument tertentu seperti oscilloscope. Data dari remote kontrol dapat disimpan di media penyimpan, kemudian dapat dipanggil untuk menjalankan peralatan elektronik. Receiver sinyal data menggunakan frekuensi sampling 100 KHz yang menjadi acuan untuk merekam dan mengeluarkan sinyal data. Frekuensi pembawa pada bagian transmitter sebesar 40 KHz. Bagian receiver dan transmitter dihubungkan ke PC melalui parallel port. Hasil pengujian, sistem ini dapat merekam dan memainkan ulang sinyal data dari remote kontrol Sony, Panasonic, Philips, serta dapat menampilkan grafik sinyal datanya pada layar monitor.",
+  "creators": "IMANUEL ALLFRED TOISLAKA",
+  "contributors": "Felix Pasila (Advisor 1); Handry Khoswanto (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/624/ELK/2003; Imanuel Allfred Toislaka (23496069)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS; REMOTE CONTROL"
+}

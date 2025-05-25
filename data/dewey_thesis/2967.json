@@ -1,0 +1,14 @@
+{
+  "id": "2967",
+  "title": "Keandalan sistem distribusi dan upaya perbaikannya. Studi kasus: sistem distribusi Jawa Timur penyulang GI Waru",
+  "abstract": "Tingkat keandalan merupakan faktor yang penting dalam suatu sistem distribusi tenaga listrik. Adanya pertumbuhan beban listrik yang meningkat dengan pesat, menuntut PLN sebagai supplier tenaga listrik untuk dapat memasok energi listrik secara kontinu. Semakin tinggi tingkat kontinuitas maka semakin baik pula keandalan suatu sistem distribusi. Adapun indeks-indeks yang digunakan untuk mengetahui tingkat keandalan suatu sistem distribusi adalah SAIFI (System Average Interruption Frequency Index), SAIDI (System Average Interruption Duration Index), CAIDI (Customer Average Interruption Duration Index) dan AENS (Average Energy Not Supplied). Untuk menjaga kontinuitas tersebut, diimplementasikan peralatan-peralatan tambahan berupa sectionalizer atau SSO (saklar seksi otomatis) dengan switching time 0.03 hours dan sectionalizer bekerja sempurna. Hal ini bertujuan untuk melokalisir gangguan-gangguan yang terjadi pada suatu sistem distribusi sehingga hanya lokasi yang terkena gangguan saja yang padam. Hal ini dimaksudkan agar sistem distribusi yang tidak mengalami gangguan tidak ikut padam sehingga kontinuitas penyaluran energi listrik bagi konsumen tetap dapat dilaksanakan dengan baik. Pada saluran distribusi dari gardu induk (GI) Waru bertegangan 20 kV pada Penyulang A. Yani, keandalan sistem pada keadaan existing adalah : SAIFI (2.4879 fault/yr), SAIDI (5.3778 hours), CAIDI (2.162 hours), AENS (613.1574 kVA). Adapun perbaikan optimal dalam rangka peningkatan keandalan sistem dapat dicapai dengan dua cara, yaitu dengan merelokasi posisi sectionalizer dari keadaan existing (memberikan perbaikan/peningkatan sebesar 32.933% untuk nilai SAIDI dan CAIDI, 17.4213% untuk nilai AENS), atau penambahan sebuah sectionalizer dari keadaan existing (memberikan perbaikan/peningkatan sebesar 33.779% untuk nilai SAIDI dan CAIDI, 15.804% untuk nilai AENS).",
+  "creators": "TAMARA CAKRA SANTOSA",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Emmy Hosea (Advisor 2); Julius Sentosa Setiadji (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010524/ELK/2005; Tamara Cakra Santosa (23401072)",
+  "subjects": "ELECTRIC POWER DISTRIBUTION; ELECTRIC POWER SYSTEMS"
+}

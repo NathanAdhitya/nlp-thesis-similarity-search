@@ -1,0 +1,14 @@
+{
+  "id": "4668",
+  "title": "Aplikasi digital temperature-humidity sensor pada mesin penetas telur",
+  "abstract": "Temperatur dan kelembaban merupakan 2 faktor utama (selain sirkulasi udara dan pemutaran telur) yang menentukan keberhasilan penetasan telur. Berdasarkan referensi, temperatur optimal dalam mesin tetas yaitu 37,6 C dan kelembaban yang optimal yaitu 52%RH ? 55%RH. Namun kebanyakan mesin penetas telur konvensional yang berada di pasaran hanya memperhitungkan satu faktor saja yaitu temperatur. Dengan memperhatikan lebih banyak faktor seharusnya akan menghasilkan daya tetas telur yang lebih besar. Untuk alasan tersebut dibuat mesin tetas yang dilengkapi alat kontrol temperatur dan kelembaban yang akurat. Untuk mewujudkan sistem tersebut diperlukan pemilihan sensor dan microcontroller yang tepat karena 2 hal tersebut memberi dampak yang besar terhadap kualitas mesin ini. Sensor kelembaban & temperatur SHTxx memiliki banyak kelebihan yang membuatnya menjadi pilihan tepat untuk aplikasi ini. Pemilihan microcontroller yang menjadi otak dari kontroler ini jatuh pada Atmel ATmega8 yang memiliki performa dan fleksibilitas yang lebih tinggi dibandingkan keluarga MCS-51. Untuk pemanas inkubator digunakan 8 buah lampu 40 Watt dan pelembabnya menggunakan ultrasonic water mister. Ruangan inkubator juga dilengkapi dengan 2 buah fan untuk sirkulasi udara. Desain layout kontroler yang kompak dan ruang inkubator modern yang dilengkapi mekanisme pembalik telur secara manual memberi kemudahan dalam pengoperasian mesin penetas ini. Mesin tetas yang memiliki kapasitas maksimal 576 butir ini telah diuji coba untuk menetaskan telur ayam dan memiliki prosentase keberhasilan sebesar 78,88%, sedangkan mesin tetas konvensional yang digunakan sebagai pembanding memiliki prosentase keberhasilan sebesar 76,22%.",
+  "creators": "OENTOENG SUGIARTO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010841/ELK/2007; Oentoeng Sugiarto (23403024)",
+  "subjects": "CHICKENS-BREEDING; INCUBATORS"
+}

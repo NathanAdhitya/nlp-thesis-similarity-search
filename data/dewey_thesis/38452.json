@@ -1,0 +1,14 @@
+{
+  "id": "38452",
+  "title": "Perancangan audio delay module untuk menciptakan efek staging dan imaging",
+  "abstract": "Manusia memiliki kemampuan untuk menentukan lokasi dari suatu sumber suara dengan menggunakan 2 telinga sebagai pembanding yang disebut sound localization, sama seperti mata ketika melihat film 3D. Di dalam mobil, terdapat dua sumber bunyi yaitu speaker kanan dan kiri. Kedua sumber bunyi ini dapat menyebabkan terciptanya efek staging dan imaging. Akan tetapi, tidak seperti sistem multimedia rumahan yang dapat diletakkan secara simetris dengan pendengar. Oleh karena itu, diperlukan perangkat yang dapat mengatur waktu penyampaian bunyi oleh speaker. Penilitian ini dilakukan dengan merancang suatu modul untuk mengetahui keakuratan dari modul ini dilakukan percobaan dengan menggunakan 2 power supply yang berbeda. Power supply tersebut adalah adaptor yang terdapat pada laboratorium sistem kontrol dan baterai 9 V. Dari hasil penelitian yang dilakukan, didapatkan bahwa terjadi perbedaan delay yang dihasilkan IC PT2399 ketika mendapat sumber listrik dari power supply yang berbeda-beda. Pada penelitian ini juga didapatkan bahwa perbedaan waktu datangnya suara masingmasing speaker kepada telinga mempengaruhi kualitas efek staging dan imaging, sistem audio yang menggunakan delay memiliki letak staging di depan pengemudi.",
+  "creators": "HANS KRISTANTO",
+  "contributors": "Sutrisno S.T.,M.T. (Advisor 1); Roche Alimin (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011148/MES/2016; Hans Kristanto (24412052)",
+  "subjects": "AUDIOTAPES; AUTOMOBILES-AUDIO EQUIPMENT"
+}

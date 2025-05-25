@@ -1,0 +1,14 @@
+{
+  "id": "10326",
+  "title": "Studi pengoperasian sistem proteksi generator dan transformator pada PLTG 2x20 MW di PT. PJB unit pembangkit Gresik",
+  "abstract": "PLTG Gresik merupakan salah satu jenis pembangkit listrik yang berbahan bakar gas alam dan HSD. Untuk PLTG unit 1 dan unit 2 hanya beroperasi pada saat terjadi beban puncak yaitu pada waktu sore hari sampai malam hari atau pada saat unit lain sedang dilakukan perawatan. Pihak P3B (Penyalur dan Pusat Pengatur Beban) mengatur agar PLTG ini bekerja apabila terjadi kekurangan listrik khususnya di daerah Surabaya dan sekitarnya. Pada saat PLTG bekerja pasti memerlukan suatu peralatan pengaman untuk mencegah terjadinya gangguan yang menganggu sistem. Oleh sebab itu digunakanlah relay-relay pengaman yang bekerja untuk mendeteksi gangguan dan memerintahkan circuit breaker 52G untuk trip. Ada beberapa relay di generator yang saling koordinasi agar bisa menjadi relay cadangan apabila relay utama gagal bekerja. Antara relay generator dan transformator tidak ada koordinasinya sehingga relay generator dan transfomator bekerja sendiri di daerahnya masing-masing. Dari hasil analisa ditentukan relay yang saling koordinasi yaitu generator differential relay, stator ground relay dan over current relay. Dengan setting slope 10% di generator differential relay maka selisih arus antara I1 dan I2 untuk membuat relay bekerja yaitu 0,5 A. Untuk setting arus stator ground relay sebesar 0,494 A sesuai perhitungan dan waktu yang digunakan 0,22 detik. Untuk over current relay ini menggunakan setting tap arus 3,96 A dan waktu 5 detik sesuai perhitungan.",
+  "creators": "CHRISTMA YUDHA NUSWANTORO",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010594/ELK/2008; Chrisma Yudha (23404028)",
+  "subjects": "ELECTRIC POWER SYSTEMS-PROTECTION; PROTECTIVE RELAYS"
+}

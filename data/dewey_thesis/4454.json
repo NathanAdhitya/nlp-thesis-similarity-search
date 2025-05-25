@@ -1,0 +1,14 @@
+{
+  "id": "4454",
+  "title": "Perancangan dan pembuatan situs WAP pencarian informasi angkutan umum",
+  "abstract": "Informasi angkutan umum cukup diperlukan untuk dapat bertransportasi dengan baik. Mengingat banyaknya jenis angkutan umum yang ada di Surabaya maka diperlukan informasi yang cepat dan tepat akan informasi angkutan umum di Surabaya. Oleh karena itu dibuat situs untuk mendapatkan informasi tersebut. Situs WAP dibuat dengan WML dan dengan menggunakan PHP untuk dapat mengakses ke dalam database. Database server MySQL digunakan untuk menyimpan data informasi angkutan umum. Untuk menjadikan komputer sebagai server, maka menggunakan Apache sebagai web server. Situs ini telah diuji dengan berbagai macam telepon seluler dengan kemampuan WAP/GPRS. Hasil uji menunjukkan pengunjung dapat mendapatkan informasi angkutan umum yang cepat dan tepat .",
+  "creators": "EDDY SUGIANTO",
+  "contributors": "Resmana Lim (Advisor 1); Ibnu Gunawan (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000226/INF/2004; Eddy Sugianto (26400078)",
+  "subjects": "WEB SITES; DATA TRANSMISSION SYSTEMS; DATABASE DESIGN; WEB SERVERS"
+}

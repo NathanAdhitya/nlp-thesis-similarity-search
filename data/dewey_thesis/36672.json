@@ -1,0 +1,14 @@
+{
+  "id": "36672",
+  "title": "Pembuatan aplikasi sistem informasi akuntansi pada CV X di Surabaya",
+  "abstract": "CV X merupakan sebuah perusahaan di Surabaya yang bergerak di bidang distribusi alat tulis kantor dan atap gelombang berbahan plastik. Dalam melakukan proses bisnisnya, segala pencatatan transaksi penjualan dan konsinyasi telah dilakukan menggunakan software, namun software yang ada masih kurang sesuai dengan kebutuhan CV X. Masalah yang dihadapi antara lain laporan konsinyasi yang tidak fleksibel, PPn yang tidak muncul, serta perbedaan harga antara transfer-in dan transfer-out. Melihat latar belakang permasalahan tersebut, dirancang sistem informasi akuntansi yang terstruktur. Aplikasi yang dibuat antara lain adalah pencatatan master untuk supplier, customer, sales, dan barang. Transaksi meliputi transaksi pembelian, retur pembelian, penjualan, retur penjualan, dan konsinyasi. Seluruh pencatatan transaksi sudah terintegrasi dengan kartu stok dan jurnal. Aplikasi juga menghasilkan laporan keuangan seperti laporan laba rugi, laporan perubahan ekuitas, serta neraca. Sistem informasi akuntansi tersebut dibuat dengan menggunakan bahasa pemrograman PHP dan database MySQL. Secara keseluruhan aplikasi ini telah sesuai dengan kebutuhan perusahaan. Hal ini dibuktikan dari 100% menyatakan cukup puas terhadap kelengkapan informasi yang dibutuhkan dan 67% user menyatakan puas terhadap laporan yang dihasilkan.",
+  "creators": "JENNIFER GIOVANNI SUMARGO",
+  "contributors": "Alexander Setiawan (Advisor 1); Silvia Rostianingsih (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021527/INF/2016; Jennifer Giovanni Sumargo (26412143)",
+  "subjects": "ACCOUNTING-DATA PROCESSING; DATABASE DESIGN; INFORMATION STORAGE AND INFORMATION SYSTEMS-ACCOUNTING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

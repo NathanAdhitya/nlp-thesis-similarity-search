@@ -1,0 +1,14 @@
+{
+  "id": "57409",
+  "title": "Pengaruh strategi resiliensi jaringan rantai pasok dalam menghadapi gangguan untuk tipe pelanggan cumulative dan critical dengan metode agent based modeling",
+  "abstract": "Gangguan yang terjadi pada rantai pasok akan berpengaruh pada tingkat kepuasan konsumen. Konsumen dibedakan menjadi dua tipe yaitu cumulative customer dan critical customer. Kerugian cost dapat berbeda untuk kedua tipe tersebut, kerugian berasal dari biaya penyimpanan, biaya produksi, biaya produksi cadangan, biaya pemesanan, biaya backorder. Untuk tipe cumulative customer akan ada biaya tambahan berupa biaya penalti, sedangkan untuk tipe critical customer akan ada biaya lost sales. Performa resiliensi yang baik akan mengurangi kerugian biaya akibat gangguan. Simulasi dilakukan dengan tiga tahapan jaringan rantai pasok dan akan menggunakan aplikasi anylogic untuk melihat performa strategi nya. Metode yang digunakan adalah agent-based modeling dan discrete event simulation. Strategi yang diusulkan anatara lain standart redundancy, redundant structure, redundant capacity, backup plant, dan backup supply chain. Perilaku konsumen akan memberikan dampak yang berbeda pada strategi tersebut sehingga penerapan strategi bergantung pada tipe pelanggan yang ada. Masing-masing tipe akan disimulasikan dengan skenario gangguan selama lima hari secara acak pada struktur jaringan rantai pasok. Hasil simulasi menunjukkan tipe critical customer sangat terpengaruh dengan lamanya waktu pemulihan. Semakin lama waktu yang diperlukan untuk pulih maka kerugian biaya semakin besar. Penerapan strategi dengan jumlah plant atau kapasitas plant lebih banyak akan lebih baik untuk tipe critical customer. Waktu pemulihan untuk tipe cumulative customer relatif lebih lama dari critical customer karena jumlah backorder yang lebih banyak.",
+  "creators": "David Oboe Kristiawan",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); I Nyoman Sutapa (Examination Committee 1); Zeplin Jiwa Husada Tarigan (Examination Committee 2); Herri Christian Palit (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01010023/MTI/2023; David Oboe Kristiawan (C23210002)",
+  "subjects": "CONSUMER SATISFACTION; RESILIENCE (PERSONALITY TRAIT); SUPPLY CHAIN, LOGISTICS AND OPERATIONS MANAGEMENT"
+}

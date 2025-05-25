@@ -1,0 +1,14 @@
+{
+  "id": "5694",
+  "title": "Robot amphibi",
+  "abstract": "Amphibi merupakan hewan yang mampu hidup pada kondisi daratan dan perairan. Sesuai dengan namanya, robot amphibi ini dibuat agar dapat menghadapi beberapa medan, yakni medan darat atau medan perairan. Robot ini dapat dilengkapi dengan sensor penunjang untuk tujuan pengukuran dan pengenalan kondisi suatu medan tertentu. Robot amphibi menggunakan penggerak motor DC 24 Volt dengan mikrokontroler AT89S51 yang dikombinasikan dengan modul RF Linx 433 MHz untuk pengendalian jarak jauh. Robot ini dilengkapi dengan sensor ultrasonik Ping))) dan sensor suhu LM35. Terdapat 2 sistem pada robot ini, yakni sistem remote control untuk pengendali dan sistem driver pada robot amphibi. Pada sistem remote control dipergunakan joystick untuk mengendalikan arah gerak robot. Robot amphibi dengan berat ? 5 kg berukuran 56cm ? 26cm ? 10cm telah teruji di berbagai medan (pasir, air, paving, ubin keramik, rumput dan berbatuan) dan mampu dikontrol pada jarak ? 30 meter. Sensor ultrasonik yang digunakan mampu mendeteksi 4 cm sampai dengan 200 cm dengan ketelitian ? 16,04%.",
+  "creators": "CHRISTIAN TANUJAYA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010803/ELK/2006; Christian Tanujaya (23402043)",
+  "subjects": "ROBOTICS; ROBOTS"
+}

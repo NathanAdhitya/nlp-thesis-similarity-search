@@ -1,0 +1,14 @@
+{
+  "id": "51994",
+  "title": "Optimasi penampang dan topologi sambungan struktur rangka baja dengan metode metaheuristik",
+  "abstract": "Struktur rangka baja merupakan salah satu jenis struktur yang sering digunakan. Struktur didesain untuk mampu menerima beban tanpa mengalami deformasi berlebih dengan biaya konstruksi yang ekonomis. Pemilihan profil baja yang semakin ringan memberi dampak biaya struktur menjadi lebih ekonomis. Namun, profil yang ringan umumnya menggunakan jenis sambungan kaku yang cenderung lebih mahal. Pada sambungan fleksibel, harga sambungan yang digunakan lebih ekonomis namun membutuhkan profil yang lebih berat. Diperlukan optimasi pada struktur agar menghasilkan kombinasi profil dan sambungan yang ekonomis. Pencarian kombinasi kedua faktor ini menjadikan permasalahan semakin kompleks dan sukar dikarenakan banyaknya constraint dan variabel. Maka dari itu, metode metaheuristik digunakan untuk menyelesaikan permasalahan. Penelitian ini bertujuan untuk mengoptimasi biaya struktur rangka baja dengan mempertimbangkan jenis sambungan. Penelitian menggunakan dua algoritma metaheuristik, yaitu Differential Evolution (DE) dan Symbiotic Organisms Search (SOS). Penelitian diuji menggunakan dua studi kasus, yaitu portal dengan lima bentang dan lima lantai serta portal dengan lima bentang dan sepuluh lantai. Setiap studi kasus dijalankan dengan empat batasan. Batasan pertama hingga ketiga menggunakan batasan sesuai penelitian-penelitian sebelumnya yaitu kapasitas profil, drift antar tingkat, dan constructability. Batasan keempat menggunakan persyaratan defleksi ijin berdasarkan SNI 1729:2002. Hasil menunjukkan bahwa DE memiliki performa terbaik dari hasil dan konvergensi pada penelitian ini.",
+  "creators": "EVELYN JANE WIJAYANTI; ANSHEILLA",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 2); Hasan Santoso (Examination Committee 1); Willy Husada, ST.,MT., Msc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012547/SIP/2022; Evelyn Jane Wijayanti (B11180010), Ansheilla (B11180019)",
+  "subjects": "BUILDING, IRON AND STEEL; STEEL, STRUCTURAL"
+}

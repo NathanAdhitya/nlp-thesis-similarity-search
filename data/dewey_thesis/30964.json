@@ -1,0 +1,14 @@
+{
+  "id": "30964",
+  "title": "Pengendalian persediaan di distributor hasil",
+  "abstract": "Distributor Hasil adalah sebuah distributor yang bergerak dalam bidang perlengkapan produk bangunan. Perusahaan ini dalam melayani permintaan retailer menggunakan sistem make to order. Dalam penjualan di distributor Hasil terdapat kendala dalam memenuhi permintaan retailer, sehingga terkadang terdapat beberapa permintaan yang tidak dapat terpenuhi. Berdasarkan permasalahan yang dihadapi oleh distributor Hasil, maka dilakukan sebuah analisa terhadap permasalahan yang ada. Analisa tersebut menggunakan metode forecasting, sehingga dapat memprediksi permintaan retailer kepada distributor. Hasil pada periode yang akan datang. Metode forecasting yang digunakan dalam menunjang analisa tersebut adalah time series dengan metode moving average, single ex smoothing, double ex smoothing, dan winter method. Hasil dari forecasting yang didapat, kemudian dipakai untuk menghitung metode EOQ (Economic Order Quantity) multi item yang berguna untuk pengendalian persediaan di distributor hasil dan meminimalkan biaya persediaan. Berdasarkan hasil dari perbandingan demand actual selama 3 bulan dengan Q hasil EOQ multi item selama 3 bulan dengan metode perusahaan. Hasil yang diperoleh dengan menggunakan metode perusahaan yaitu 28% permintaan yang terpenuhi dan 72% permintaan tidak dapat dipenuhi dengan lost sale Rp 14.593.936, sedangkan hasil dari metode EOQ multi item 56% permintaan yang terpenuhi dan 44% yang tidak dapat terpenuhi dengan biaya stock sebesar Rp.56.507. Hal ini menunjukkan bahwa permintaan dengan menggunakan metode EOQ multi item dapat bekerja dengan lebih baik daripada metode perusahaan dalam memenuhi permintaan.",
+  "creators": "DANIEL KURNIAWAN",
+  "contributors": "Herri Christian Palit (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021716/IND/2013; Daniel Kurniawan (25408053)",
+  "subjects": "INVENTORY CONTROL; PRODUCTION PLANNING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "16827",
+  "title": "Sistem navigasi robot mobil pada suatu lokal area dengan berbasis fuzzy logic",
+  "abstract": "Seiring dengan kemajuan teknologi dalam bidang robot mobil, berbagai upaya dilakukan guna meningkatkan kualitas dari robot mobil yang dibuat. Mulai dari menambah kecanggihan sistem mekaniknya sampai pada komputerisasi secara otomatis pada sistem kendalinya. Pada perancangan robot mobil ini digunakan sistem kendali Fuzzy Logic yang juga masih merupakan hal yang baru bagi dunia sistem kendali elektronika di Indonesia. Tujuan dari perencanaan ini adalah untuk mengetahui bagaimana respon dari robot mobil jika menggunakan sistem kendali Fuzzy Logic terhadap suatu lintasan yang akan dilaluinya. Robot mobil hams dapat menganalisa halangan atau belokan yang ada didepannya dan dapat mengambil sebuah keputusan mengenai apa yang hams dilakukan selanjutnya terhadap halangan atau belokan tersebut. Tujuan lebih lanjut yang hendak dicapai adalah agar kualitas robot mobil dapat lebih baik dengan dikembangkan kearah pemakaian sistem kendali yang mengarah pada sistem kendali intelegensia. Perancangan robot mobil ini terdiri dari dua tahap, yaitu perancangan hardware yang meliputi pembuatan minimum sistem, rangkaian ADC-DAC, sistem sensor ultrasonic, rangkaian rotary encoder dan perancangan software yang meliputi proses fuzzyfication, rules evaluation, sistem navigasi dan sistem odometer. Dari hasil yang percobaan yang dilakukan, robot mobil dengan berbasis pada fuzzy logic ini menunjukan respon yang cukup baik terhadap halangan-belokan yang ada didepannya. Ini sudah cukup untuk dapat dipakai sebagai landasan teori untuk mengatakan bahwa sistem kendali fuzzy logic mampu dan cukup baik untuk dipakai sebagai sistem kendali pada robot mobil. Walaupun demikian masih memerlukan tambahan beberapa penelitian dibidang ini untuk dapat lebih meningkatkan lagi kualitasnya.",
+  "creators": "SONY SAHLI",
+  "contributors": "Resmana Lim (Advisor 1); MARTIN SETIAWAN (Advisor 2); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/026/420; Sony Sahli (23494114)",
+  "subjects": "FUZZY LOGIC; ROBOTS-CONTROL SYSTEMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "7604",
+  "title": "Rekonstruksi obyek 3D dari gambar 2D dengan metode generalized voxel coloring",
+  "abstract": "Pada saat ini hampir semua games, animasi dan iklan sudah berbasis 3D, sehingga diperlukan suatu perangkat lunak yang mampu membuat obyek 3D dengan cepat dan mudah. Tujuan dari tugas akhir ini adalah membuat sebuah perangkat lunak yang dapat merekonstruksi obyek dalam tiga dimensi dari kumpulan gambar 2D dengan menggunakan metode generalized voxel coloring. Metode ini sering disingkat dengan nama GVC-IB yaitu rekonstruksi obyek dengan bantuan item-buffer untuk mencari voxel-voxel yang berkoresponden berdasarkan warna. Cara kerja dari perangkat lunak ini adalah memproses voxel-voxel yang berkoresponden antar gambar kemudian menghitung standar deviasi warna voxel tersebut, apabila standar deviasi warna-warna tersebut kecil maka dapat diasumsikan voxel tersebut adalah obyek. Proses dilakukan secara berulang untuk semua voxel hingga didapatkan semua voxel yang membentuk obyek 3D. Hasil dari proses rekonstruksi dapat membentuk obyek 3D dengan baik, semakin banyak gambar referensi semakin bagus hasil obyek 3D yang dibentuk. Pengembangan dari perangkat lunak adalah pembuatan virtual reality atau augment reality.",
+  "creators": "ANTON SETIAWAN",
+  "contributors": "Rudy Adipranata (Advisor 1); Resmana Lim (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000404/INF/2005; Anton Setiawan (26401153)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

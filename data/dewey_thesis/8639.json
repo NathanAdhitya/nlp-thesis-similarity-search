@@ -1,0 +1,14 @@
+{
+  "id": "8639",
+  "title": "Analisa gangguan satu fasa ke tanah yang mengakibatkan sympathetic trip pada penyulang yang tidak terganggu di PLN APJ Surabaya Selatan",
+  "abstract": "Sistem distribusi tenaga listrik 20 kV di Jawa Timur menggunakan sistem pentanahan dengan tahanan tinggi 500 Ohm sehingga arus gangguan satu fasa ke tanah maksimum adalah sebesar 25 Ampere. Arus gangguan yang relatif kecil ini menyebabkan digunakannya DGR (Directional Ground Relay) yang lebih sensitif. DGR bekerja berdasarkan komponen arus urutan nol (Io) dan tegangan urutan nol (Vo). Dimana untuk DGR yang digunakan pada penyulang menggunakan tap setting arus pada Io = 2 Ampere dan tap setting tegangan pada Vo = 10 Volt. Apabila pada penyulang Semolo terjadi gangguan satu fasa ke tanah, maka penyulang Gebanglor dan Srikana yang dicatu dari bus yang sama dengan penyulang Semolo (bus Nissin) juga ikut trip (sympathetic trip). Penyebab terjadinya sympathetic trip adalah Arus total kebocoran arrester, body trafo dan body panel TR GTT pada penyulang Gebanglor dan Srikana yang melebihi tap setting arus DGR sebesar 2 Ampere Setelah perbaikan, arus total kebocoran arrester pada penyulang Gebanglor sebesar 0.046 Ampere dan penyulang Srikana sebesar 0.026 Ampere. Apabila terjadi gangguan satu fasa ke tanah pada penyulang Semolo maka penyulang Gebanglor dan Srikana tidak akan trip.",
+  "creators": "RUSLI KONGDORO",
+  "contributors": "Ir. M.TABRANI MACHMUDSYAH (Advisor 1); Julius Sentosa Setiadji (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010534/ELK/2005; Rusli Kongdoro (23401086)",
+  "subjects": "ELECTRIC POWER SYSTEMS; ELECTRIC POWER TRANSMISSION; ELECTRIC POWER DISTRIBUTION"
+}

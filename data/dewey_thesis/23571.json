@@ -1,0 +1,14 @@
+{
+  "id": "23571",
+  "title": "Perencanaan dan pembuatan sistem pengukuran efek saluran transmisi pada sinyal digital yang diinterfacekan ke IBM PC",
+  "abstract": "Bersamaan dengan perkembangan mikroelektronik, maka diperlukan komunikasi dan pengirirnan data digital serta suara mamakai Kabel sa luran transmisi. Saluran transmisi kabel yang kurang baik mengakibatkan kerugian sinyal kerena adanya efek distorsi dan refleksi. Efek distorsi dan refleksi merupakan salah satu masalah mengapa penguatan sinyal-sinyal diperlukan untuk sinyal-sinyal yang akan dikirimkan untuk jarak yang relatif jauh dari suatu peralatan elektronik. Untuk mengetahui efek saluran transmisi Kabel yang berupa sinyal analog ini digunakan interface yang dapat menampilkan pada layar monitor komputer. Untuk dapat mendeteksi sinyal yang mengalami distorsi dan mempunyai orde nano detik perlu diubah? dulu menjadi sinyal aigltalsebelum dllakukan pemrosesan. Untuk konversi yang membutuhkan kecepatan tinggi digunakan analog to digital flash converter MCI0319. Hasil konversi dari ADC yang berupa data digital disimpan untuk sementara dalam random access memory MCM6206. Dengan bantuan komputer IBM PC data digital yang berada di dalam memori dibaca untuk diproses dan ditampilkan pada monitor komputer. Pembacaan dan pemrosesan data dilakukan dengan bantuan perangkat lunak. Pada pengukuran untuk input sinyal gelombang persegi, setelah dilevatkan Kabel koaksial RG 59/U mengalami osilasi karena adanya efek transien dari level tinggi ke level rendah. Untuk tahanan beban yang besar sinyal output rnengalami redaman kurang, bila tahanan beban kecil sinyal output rnengalami redaman lebih.",
+  "creators": "NYATA HERMANTA",
+  "contributors": "HANDAYANI T. (Advisor 1); VINCENT PRASETYO (Advisor 2); ISKANDAR ZULKARNAIN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/016/0075; Nyata Hermanta (484024)",
+  "subjects": "ELECTRONIC DIGITAL COMPUTERS; IBM COMPUTERS"
+}

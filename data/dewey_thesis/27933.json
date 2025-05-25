@@ -1,0 +1,14 @@
+{
+  "id": "27933",
+  "title": "Pengaturan posisi motor DC dengan menggunakan micro processor 6502 Jawa",
+  "abstract": "Pemakaian mikroprosesor dalam bidang pengaturan telah berkembang dengan pesat. Dalam tugas akhir ini dirancang, direalisasikan, diamati dan dianalisa rangkaian pengatur digital pada sistem pengaturan otomatik. Sistem yang direalisasikan ini berbentuk sistem pengaturan ikal tertutup, dengan besaran yang diatur adalah posisi atau jumlah putaran motor dc. Sebagai pengatur digunakan komputer APPLE II, dengan prosesor jenis 6502. Sedangkan perangkat hubung antara APPLE II dengan motor digunakan komponen VIA 6522, pengubah A/D dan D/A serta beberapa komponen penunjang. Dipilih mikroprosesor karena membutuhkan sistem perancangan yang lebih sederhana serta mempunyai rangkaian dasar yang sudah standar, artinya untuk mengubah kerja sistem hanya program pengendali saja yang perlu diubah. Program pengendali dituliskan dalam bahasa Assembly dan telah diubah dalam bahasa mesin, digabungkan dengan bahasa BASIC sehingga mudah digunakan serta nampak lebih luwes. Program pengendali ini bersifat sebagai proporsional, integral dan derivatif, yang telah dimodifikasi sedemikian rupa, sehingga pengatur tersebut mempunyai ketepatan pengaturan serta respon waktu yang baik.",
+  "creators": "LIEM SHYONG",
+  "contributors": "SUPENO DJANALI (Advisor 1); HANG SUHARTO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 88/E/EL/013; Liem Shyong (482038)",
+  "subjects": "ELECTRONIC DIGITAL COMPUTERS"
+}

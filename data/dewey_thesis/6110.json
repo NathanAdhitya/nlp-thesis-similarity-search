@@ -1,0 +1,14 @@
+{
+  "id": "6110",
+  "title": "Pemanfaatan logika fuzzy dengan metode sugeno untuk menghitung pemakaian bahan material pada suatu proyek pembangunan rumah",
+  "abstract": "Sistem yang dipakai untuk penghitungan bahan material saat ini dilakukan secara manual dengan mengukur luas per meter. Selain itu ada alternatif penghitungan yang lain yaitu dengan menggunakan lo gika fuzzy dengan metode Sugeno. Tujuan dari penggunaan metode Sugeno adalah mengefisienkan penggunaan bahan material untuk pembangunan sebuah rumah. Perancangan sistem memiliki komponen seperti panjang dan lebar bangunan, panjang dan lebar ruang, panjang dan tinggi penyekat untuk memperoleh data rumah yang diperlukan dalam penghitungan bahan material yang dibutuhkan untuk pembangunan sebuah rumah. Dari masing- masing komponen tersebut dihitung derajat keanggotaan dan predikatnya, kemudian dicocokkan dengan rule yang ada sehingga didapatkan jumlah bahan material yang dibutuhkan. Aplikasi yang digunakan adalah Borland Delphi 7.0 sebagai bahasa pemrograman dan desain interfacenya. Hasil dari pembuatan program ini adalah jumlah kebutuhan bahan-bahan material untuk pembangunan sebuah rumah. Melalui sistem ini, dapat dibuktikan bahwa logika fuzzy dengan metode Sugeno dapat dimanfaatkan untuk mengefisienkan penggunaan bahan material pada pembangunan sebuah rumah.",
+  "creators": "CYLVIA",
+  "contributors": "M. ISA IRAWAN (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000462/INF/2006; Cylvia (26402118)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

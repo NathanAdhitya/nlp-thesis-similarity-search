@@ -1,0 +1,14 @@
+{
+  "id": "14824",
+  "title": "Membandingkan Huffman Coding dengan Arithmetic Coding",
+  "abstract": "Dalam tugas akhir ini dibuat pemampatan data dengan menggunakan metode Huffman dan Arithmetic, yang berorientasi pada bit. Metode Huffman mengubah tabel kode ASCII yang digunakan dalam komputer menjadi tabel kode tersendiri yang disebut tabel kode Huffman. Demikian juga dengan Metode Arithmetic dinamakan kode Arithmetic. Karakter-karakter yang frekuensinya banyak akan dirubah mengunakan bit yang lebih sedikit dan sebaliknya. Oleh karena itu dapat menghemat pada karakter-karakter yang sering digunakan. Dengan tujuan agar dapat menghemat ruang penyimpanan yang telah ada. Karena kode Huffman dan Arithmetic berorientasi pada bit maka implementasinya menggunakan bahasa C , yang dapat mengakses secara langsung operasi bit. Dalam tugas akhir ini dijelaskan pemrograman mengunakan bahasa C dan sekaligus fungsi-fungsi yang digunakan. Dalam tugas akhir ini dijelaskan struktur data, struktur file dan algoritma-algoritma yang digunakan untuk mengimplementasikan metode Huffman dan Arithmetic ke dalam bahasa pemrograman. Disini juga dijelaskan secara rinci cara untuk mengubah data yang menjadi kode Huffman atau Arithmetic, dan cara untuk mengembalikan data yang telah dimampatkan menjadi data semula. Serta dijelaskan pula mengenai hasil pengujian dari masing-masing metode dengan kelebihan-kelebihan yang ada serta kelemahan dari masing-masing metode. Dimana metode Huffman lebih unggul dibandingkan dengan metode Arithmetic dengan tingkat kompresi rata-rata sekitar 40% - 50% lebih kecil untuk file teks, sekitar 140% - 150 % untuk file bitmap, sekitar 40%-50% untuk file grafik jpg dan 80%-90% untuk file binary, hal ini dikarenakan dalam metode Arithmetic nilai probabilitasnya telah ditetapkan secara pasti. Kesimpulan yang didapat bahwa kompresi Huffman lebih baik dibandingkan dengan system kompresi Arithmetic. Tetapi keduanya tidak cocok untuk pemampatan",
+  "creators": "UFUK SOETIRTO WIEJOYO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Petrus Santoso, S.T., M.Sc. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/KOM/002/059; Ufuk Soetirto Wiejoyo (23492063)",
+  "subjects": "DATABASE-MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

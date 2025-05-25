@@ -1,0 +1,14 @@
+{
+  "id": "24865",
+  "title": "Penentuan rute efektif truk pengangkutan sampah di Surabaya",
+  "abstract": "Sampah diproduksi setiap hari di Surabaya. Tujuan penelitian ini adalah menemukan rute pengangkutan sampah yang efektif agar Surabaya bebas dari tumpukan sampah yang menggunung. Beberapa faktor yang diteliti adalah sistem pengangkutan sampah yang ada dan waktu angkut sampah dengan mempertimbangkan kondisi kemacetan. Menggunakan informasi tersebut, didapatkan model Vehicle Routing Problem yang sesuai dengan sistem pengangkutan sampah kota Surabaya, yaitu Time-Dependent Vehicle Routing Problem with Multiple Trips and Intermediate Facility (TDVRPMTIF). Rute dilakukan oleh 70 truk mencakup 97 TPS yang ada di Surabaya, meliputi 19 lokasi di Surabaya Pusat, 15 lokasi di Surabaya Barat, 15 lokasi di Surabaya Utara, 36 lokasi di Surabaya Timur, dan 12 lokasi di Surabaya Selatan. Penyelesaian rute pengangkutan sampah TDVRPMTIF menggunakan sequential insertion algorithm dengan 3 variasi jam kerja, 8 jam, 9 jam, dan 10 jam. Ketiga variasi jam kerja menghasilkan jumlah rute yang tetap. Hal ini menunjukkan bahwa pengangkutan sampah kota Surabaya sebenarnya mengalami kekurangan armada truk untuk melakukan rute dalam jam kerja yang ada. Beberapa alternatif diberikan untuk mengatasi masalah tersebut. Alternatif pertama adalah mempertahankan jam kerja selama 8 jam dan menambah 11 truk untuk menyelesaikan rute pengangkutan sampah. Alternatif kedua adalah menyesuaikan jam kerja menjadi 9 jam dengan penambahan 7 truk. Alternatif ketiga adalah menggunakan truk yang ada sekarang dengan jam kerja 10 jam.",
+  "creators": "FELIX SOESANTO",
+  "contributors": "Siana Halim (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021607/IND/2012; Felix Soesanto (25408024)",
+  "subjects": "BUSINESS LOGISTICS; PHYSICAL DISTRIBUTION OF GOODS"
+}

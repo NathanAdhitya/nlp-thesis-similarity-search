@@ -1,0 +1,14 @@
+{
+  "id": "4663",
+  "title": "Analisa kualitas kompresi sinyal monotonic",
+  "abstract": "Perkembangan software digital audio sangat cepat, terutama dalam sistem kompresi digital audio. Banyak pilihan format audio dapat digunakan untuk menyimpan rekaman audio. Masing-masing format menyatakan bahwa format mereka yang terbaik. Untuk itu, diperlukan sebuah analisa untuk mengetahui jenis format kompresi yang terbaik. Tugas akhir ini membandingkan 6 jenis format audio, format tersebut adalah AIFF, FLAC, OGG, MP3, WMA, dan MP4. Proses pembandingan tersebut menggunakan format CDA sebagai referensi untuk mendapatkan kualitas format yang terbaik. Analisa tersebut terdiri dari analisa spektrum, analisa phase, dan ukuran file. Analisa ini menggunakan 325 sample yang terdiri 20 sinyal musik dan 300 sinyal monotonic dengan sinyal utama 1 KHz 0 dB, 20 Hz 0 dB, 100 Hz 0 dB, 10K 0 dB, 20 KHz 0 dB, 100 Hz -20 dB, 1 KHz -20 dB 10 KHz -20 dB, 1 KHz -60 dB dan gabungan sinyal-sinyal tersebut. Format kompresi terbaik dari analisa secara overall dari 6 jenis kompresi adalah MP3.",
+  "creators": "IWAN PRASETYO WIBOWO",
+  "contributors": "Hany Ferdinando (Advisor 1); Jani Rahardjo (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010836/ELK/2007; Iwan Prasetyo Wibowo (23402129)",
+  "subjects": "SOUND-RECORDING AND REPRODUCING-DIGITAL TECHNIQUES; DIGITAL AUDIO"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "14845",
+  "title": "Pembuatan display kurs mata uang asing secara online dengan menggunakan CS8900A",
+  "abstract": "In this millenium internet has been used in vast area. The application varies from such simple tasks like sending e-mail, sending file, selling goods to a sophisticated applications like Internet phone and video conference. The amazing information exchange is one internet has offered to us, for example currency rate. So far, we knew that we need a computer at least a PC to join the internet. The question arises here is how to connect a minimum system into internet so that minimum system can get currency rate? This final project, a device will be made to enable us to display currency rate which mainly has been retrieved from four different web sites, they are Bloomberg (http//www. bloomberg.com), MitraNet (httrjV/wwwjnitrajietid), Yahoo! (http://www.yahoo.com) and Kompas (http://www.k.ompas.com) to four different display which is connected to the minimum system. In order to make this sistem come true, an ethernet controller will be used. Here are the procedures : There will be a computer which has access to internet. The computer will retrieve currency rate from a web site then send it to the ethernet controller (CS8900). Protocol used here is User Datagram Protocol or UDP for short. The Minimum system will take the data from ethernet controller and display it in 7 segment. This Ethernet Controller Board uses I/O Mode operation so that the hardware design is simple. The project includes hardware and software design also the theory of that ethernet controller. From the test's result, it can be concluded that the system goes as it should to be, mean that the currency rate from the web site can be displayed to 7 segment properly. Beside that, because the protocol used here is UDP, there's a trade off for that. There's no connection established between the computer and the ethernet controller. However we can cover that disadvantage by sending the data continuously until the computer receive the valid reply.",
+  "creators": "TEGUH LUNTORO; TEGUH LUNTORO; TEGUH LUNTORO; TEGUH LUNTORO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Lauw Lim Un Tung (Advisor 1); Lauw Lim Un Tung (Advisor 1); Lauw Lim Un Tung (Advisor 1); Hany Ferdinando (Advisor 2); Hany Ferdinando (Advisor 2); Hany Ferdinando (Advisor 2); Yohanes Trilaksono Dibyo S. (Examination Committee 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1); Hany Ferdinando (Advisor 2); Yohanes Trilaksono Dibyo S. (Examination Committee 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/043/480; Teguh Luntoro (23496054)",
+  "subjects": "INTERNET (COMPUTER NETWORKS)"
+}

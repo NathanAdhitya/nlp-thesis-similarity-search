@@ -1,0 +1,14 @@
+{
+  "id": "27371",
+  "title": "Perancangan dan pembuatan sistem informasi pengiriman barang berbasis web pada P.T Rajawali Imantaka Sempurna",
+  "abstract": "PT. Rajawali Imantaka Sempurna (RISE) adalah salah satu perusahaan yang bergerak di bidang jasa pengiriman barang. PT. RISE mempunyai dua kantor operasional, yaitu Mataram dan Surabaya. Saat ini, perusahaan masih menggunakan sistem pencatatan manual dalam menangani proses pengiriman pesanan barang dan administrasinya. Dengan sistem manual, pegawai kantor sering mendapatkan kesulitan untuk memperoleh informasi mengenai pengiriman barang, dan pemilik kesulitan memantau kedua kantor operasionalnya. Proses pembuatan sistem informasi pengiriman barang ini dimulai dari menganalisis sistem yang lama, pembuatan DFD, dataflow, ERD, dan tabel-tabel yang diperlukan. Sistem ini mencakup pencatatan master barang, pelanggan, pegawai, dan truk. Pembuatan transaksi meliputi transaksi pesanan, pembayaran, penjadwalan, retur barang, dan laporan. Program ini dibuat dengan menggunakan bahasa pemrograman PHP dan HTML dengan database MySQL. Hasil akhir program ini meliputi sistem penerimaan pesanan, penjadwalan pengiriman barang, pembuatan dokumen pengiriman, dan mampu mencatat piutang dan pembayaran pelanggan. Selain itu, sistem ini memproses absensi dan penggajian pegawai. Hasil output-nya berupa berbagai laporan, yaitu laporan pengiriman barang, laporan pemasukan pengeluaran, laporan status truk dan sopir, dan laporan laba rugi. Dari hasil kuisioner didapatkan rata-rata bahwa 82,5% memberi penilaian baik, yang menunjukkan program sudah dapat memenuhi kebutuhan dan memberikan informasi yang dibutuhkan.",
+  "creators": "WINDA NATALIA",
+  "contributors": "Yulia (Advisor 1); INDRO SETIAWAN (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021061/INF/2011; Winda Natalia (26407010)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; WEBSITES; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

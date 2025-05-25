@@ -1,0 +1,14 @@
+{
+  "id": "1693",
+  "title": "Sistem informasi toko ban menggunakan Paradox dan Borland Delphi",
+  "abstract": "Perkembangan teknologi yang begitu pesat dewasa ini telah membawa manusia ke dalam suatu paradigma, yaitu kebutuhan untuk mendapatkan informasi dengan cepat dan akurat. Era komputerisasi informasi yang semakin maju saat ini mendukung terpenuhinya kebutuhan tersebut. Tidak tertinggal juga di dalam dunia bisnis dimana informasi merupakan salah satu elemen penting, termasuk juga dalam bisnis ban, dimana diperlukan suatu sistem yang handal dalam mengolah segala informasi secara cepat dan akurat sehingga efisiensi kerja dapat mencapai ditingkatkan semaksimal mungkin. Pada tugas akhir ini akan dibuat suatu program database yang dapat menangani data stok, data transaksi jual beli, data hutang dan piutang, dan data rugi laba dari sebuah Toko Ban. Dalam penyusunan tugas akhir ini digunakan teori-teori manajemen database dan Structured Query Language. Sedangkan aplikasi yang digunakan dalam pembuatan program adalah Borland Delphi dan Paradox. Perancangan sistem komputer yang akan dibuat, dibagi dalam empat tahap yaitu pengumpulan data, pemodelan sistem database, pembuatan program dan pengujian program. Bagian penting dalam perancangan sistem komputer ini adalah perancangan sistem database dan perancangan program interface. Pada tahap pengujian, program yang telah dibuat disimulasikan dengan memasukkan data-data (input) dan melihat keluaran (output) yang dihasilkan oleh program. Beberapa fasilitas tambahan yang tersedia pada program seperti pencarian data dan lain-lain juga disimulasikan. Dari sini didapat bahwa program sudah dapat menangani proses bisnis toko ban yang meliputi proses jual beli, proses stok barang, perhitungan hutang piutang dan rangkuman rugi laba. Setelah pengujian dilakukan, hasil yang didapat adalah kecepatan pengaturan dan pencarian data serta pengolahan data, dan keamanan pada akses data, sehingga waktu yang digunakan menjadi lebih singkat dan biaya lebih rendah.",
+  "creators": "CHARLIE CAHYADI",
+  "contributors": "Kartika Gunadi (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 03/101/ELK/2003; Charlie Cahyadi (23497046)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN"
+}

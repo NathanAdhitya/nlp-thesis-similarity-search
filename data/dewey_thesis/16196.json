@@ -1,0 +1,14 @@
+{
+  "id": "16196",
+  "title": "Perancangan pengendalian persediaan bahan baku di PT Romos Inti Cosmetic Industries",
+  "abstract": "PT. Romos Inti Cosmetic Industries merupakan industri kosmetik yang memproduksi parfum dan deodorant sebagai produk utama, selain itu juga memproduksi shampoo dan body lotion sebagai produk sampingan. Persediaan bahan baku merupakan salah satu aspek penting dalam fungsi manajemen. Kelebihan maupun kekurangan bahan baku selalu menimbulkan dampak yang merugikan dan dapat mempengaruhi total biaya produksi. Hal inilah yang mendorong pentingnya penerapan pengendalian persediaan sehingga dapat meminimumkan biaya total. Peramalan permintaan untuk masa mendatang merupakan langkah awal dalam perancangan ini. Sesuai dengan karakteristik data yang ada maka peramalan permintaan ini menggunakan metode Winter, Double Exponential Smoothing, dan Dekomposisi. Metode diatas disesuaikan dengan data permintaan yang ada. Dengan diketahuinya permintaan pasar yang akan datang, maka akan diketahui perkiraan jumlah kebutuhan masing-masing bahan baku. Perancangan pengendalian persediaan menggunakan model persediaan Economic Order Quantity Probabilistik dengan mempertimbangkan adanya backorders, untuk mengetahui waktu dan jumlah pemesanan yang optimal serta persediaan pengaman yang memungkinkan total biaya minimum. Untuk bahan baku yang berasal dari pemasok yang sama dilakukan pemesanan secara bersamaan (multi items order). Sedangkan untuk bahan baku yang jumlah pemesanan tidak optimal diberikan alternatif lain yaitu dengan kebijakan Periodic Review Model. Dengan mempertimbangkan juga adanya karakteristik dari bahan bakunya. Hasil dari perancangan ini akan dibandingkan dengan milik perusahaan, kemudian akan dipilih perancangan yang dapat memberikan total biaya yang minimum sehingga perusahaan dapat melihat bahwa jumlah pemesanan untuk persediaan yang dilakukannya kurang optimal karena total biayanya tinggi. Hal ini juga dikarenakan perusahaan dalam melakukan penyimpanan persediaan terlalu banyak, sehingga menimbulkan biaya penyimpanan yang besar.",
+  "creators": "JENNY SULIANTI DEWI",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Maja Indahwati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 086/TMI-16/1998; Jenny Sulianti Dewi (25493127)",
+  "subjects": "MATERIALS MANAGEMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "36610",
+  "title": "Prediksi penyebaran dan tingkat ketahanan hidup penderita Tuberculosis di Surabaya",
+  "abstract": "Tingginya jumlah penderita tuberculosis dan jumlah kematian penderita tuberculosis menunjukkan perlu adanya tindakan preventive. Oleh karena itu akan dilakukan penelitian mengenai prediksi penyebaran dan tingkat ketahanan hidup penderita tuberculosis di Surabaya. Pada penelitian ini akan digunakan database pasien salah satu rumah sakit di Surabaya. Prediksi penyebaran tuberculosis dilakukan dengan menggunakan spatial data analysis, yaitu dengan metode kriging. Penelitian ini menunjukkan bahwa pusat penyebaran penderita tuberculosis berada di kelurahan Sukomanunggal, Tambak Langon and Karang Poh. Selain itu digunakan spatial survival analysis dan cox proportional-hazard regression untuk mengetahui tingkat ketahanan hidup dari penderita tuberculosis. Hasil dari spatial survival analysis menunjukkan daerah yang memiliki tingkat ketahanan hidup yang rendah, daerah tersebut berada pada kelurahan Bibis, Keputran dan Pucang Sewu. Hasil dari cox proportional-hazard regression adalah faktor-faktor yang menyebabkan ketahanan hidup seorang penderita. Faktor-faktor yang mempengaruhi tingkat ketahanan hidup penderita tuberculosis adalah jenis kelamin, jenis pekerjaan, kelurahan domisili, kondisi keluarga, dan jenis jaminan. Perhitungan untuk semua metode tersebut dilakukan dengan menggunakan software R.",
+  "creators": "ANDREAS NATHANAEL SOEDARNO KUARNO",
+  "contributors": "Siana Halim (Advisor 1); Jani Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021859/IND/2016; Andreas Nathanael Soedarno Kuarno (25412048)",
+  "subjects": "DATA MINING; SPATIAL ANALYSIS (STATISTICS); TUBERCULOSIS"
+}

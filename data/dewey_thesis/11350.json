@@ -1,0 +1,14 @@
+{
+  "id": "11350",
+  "title": "Perencanaan dan pembuatan simulasi pengoperasian pabrik es dengan bantuan IBM PC",
+  "abstract": "Dalam Tugas Akhir ini direncanakan dan dibuat simulasi pabrik es yang prosesnya dikontrol lewat komputer. Untuk itu perlu dibuat interface yang berfungsi sebagai penghubung antara komputer dan motor-motor yang digunakan dalam simulasi tersebut. Interface ini terdiri dari rangkaian decoder yang dihubungkan dengan PPI 8255 dan ADC 0808. PPI 8255 digunakan sebagai penghubung antara komputer dan motor-motor, sedangkan ADC 0808 untuk mengubah data analog dari sensor suhu evaporator menjadi data digital. Selain untuk menghidupkan dan mematikan motor-motor, interface ini juga berfungsi untuk mengecek kerusakan motor. Jika terjadi kerusakan motor maka motor tersebut akan langsung dimatikan. Proses pengontrolan simulasi ini ada 3 macam yaitu kontrol manual, dimana tidak digunakan komputer sebagai pengontrol, kontrol semi otomatis, yaitu motor-motor dihidupkan melalui komputer tetapi dengan menekan tombol- tombol pada keyboard dan hanya dilakukan pengukuran suhu pada evaporator. Sedangkan pada kontrol otomatis tidak perlu menekan tombol keyboard untuk menghidupkan motor dan dilakukan pengontrolan suhu pada evaporator, jika suhu sudah sesuai dengan yang diset maka kompresor akan mati secara otomatis. Kontrol kerusakan motor tetap dilakukan untuk kontrol semi otomatis dan kontrol otomatis. Bahasa Pascal dipakai sebagai perangkat lunak dari peralatan ini. Pengunaan bahasa Pascal adalah untuk niemanf aatkan fasilitas grafik pada Turbo Pascal sehingga menghasilkan tampilan yang lebih menarik di layar. Selain itu juga mudah dalam input dan output data. Dari simulasi ini maka dapat dicapai suhu -12?C dalam bak evaporator sehingga dapat membekukan air dalam cetakan-cetakan menjadi es.",
+  "creators": "DANIEL EKAWARDHANA SUHARDY",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Limboto Limantara (Advisor 2); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No 94/E/EL/034/0191; Daniel Ekawardhana Suhardy (23489015)",
+  "subjects": "COMPUTER INTERFACES"
+}

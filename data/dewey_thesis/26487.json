@@ -1,0 +1,14 @@
+{
+  "id": "26487",
+  "title": "Perencanaan dan pembuatan alat pencatat Kwh meter dengan menggunakan sistem mikro kontroler 8031",
+  "abstract": "Biasanya pada pabrik terdapat sub station atau sub unit yang tiap-tiap sub biasanya ada KwH meter untuk mengetahui pemakaian dayanya. Bisa juga pada plaza-plaza atau pertokoan, di mana setiap stan terdapat KwH meter dan pemakaian daya tiap-tiap stan dapat diketahui oleh pengelola pertokoan tersebut. Pada tugas akhir ini dibuat suatu alat pencatat KwH meter untuk beberapa line atau jalur, sehingga tidak perlu pengecek keliling satu persatu tiap-tiap sub unit. Digunakan microcontroller 8031 karena mempunyai fasilitas I/O port 8 buah jalur, sehingga dapat dipakai sebagai input untuk KwH meter sebanyak delapan jalur. Angka yang tertera pada tiap meter akan ditampilkan oleh display 7 segmen sebanyak 8 digit, di mana 2 digit merupakan channel KwH mana yang didisplaykan, yang 6 digit merupakan harga pembacaan yang sesuai pada meter. Dengan melihat hasil print out nya saja maka akan tahu hasil pemakaian daya yang dipakai per jam dalam satu hari, dan juga dapat melihat pemakaian daya pada hari-hari yang lalu.",
+  "creators": "WARNI SUMIATUN",
+  "contributors": "HANDAYANI T. (Advisor 1); Resmana Lim (Advisor 2); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/026/0085; Warni Sumiatun (485109)",
+  "subjects": "ELECTRIC POWER CONSUMPTION; MICROCONTROLLERS 8031"
+}

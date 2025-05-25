@@ -1,0 +1,14 @@
+{
+  "id": "48452",
+  "title": "Implementasi distributed database pada learning management system menggunakan platform redhat openshift",
+  "abstract": "Penggunaan teknologi saat ini sudah mulai merambah ke dunia pendidikan, salah satunya adalah penggunaan E-Learning. Dalam learning management system, tenaga pengajar dapat memberikan assignment, materi, tes maupun kuis kepada muridnya. Tetapi jika banyak orang yang mengakses dapat menyebabkan masalah pada server. Jika server down saat sedang ujian maka akan menjadi masalah yang serius karena para murid tidak akan bisa mengakses server. Untuk mengatasi hal ini maka dibutuhkan beberapa web server yang siap untuk melayani user agar komputasi tidak hanya berfokus pada sebuah web server. Penelitian ini akan melakukan uji coba dengan implementai distributed database pada learning management system. Aplikasi akan dijalankan pada Openshift. Distributed database akan menggunakan MySQL Cluster dengan menggunakan metode sharding horizontal partitioning yang dapat membuat data menjadi beberapa partisi dan disimpan di beberapa database server. Dengan implementasi distributed database, diharapkan dapat meningkatkan ketersediaan akan aplikasi. Sehingga ketika terdapat database server down, aplikasi tetap dapat dijalankan dengan baik. Selain itu hal ini juga dapat meminimalisir database server menjadi overload karena diakses oleh banyak user.",
+  "creators": "BRYANT PLAUDO SANTOSO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Justinus Andjarwirawan (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021982/INF/2020; Bryant Plaudo Santoso (26416065)",
+  "subjects": "MYSQL (COMPUTER PROGRAM); COMPUTER NETWORK RESOURCES"
+}

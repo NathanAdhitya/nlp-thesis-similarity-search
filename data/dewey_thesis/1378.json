@@ -1,0 +1,14 @@
+{
+  "id": "1378",
+  "title": "Perancangan dan pembuatan aplikasi web grabber untuk mengambil halaman web sesuai dengan keyword yang diinputkan",
+  "abstract": "Saat ini penggunaan search engine pada internet masih belum memperoleh hasil yang maksimal. Pengguna masih harus browsing halaman-halaman web hasil pencarian untuk mencari topik yang diinginkan satu-persatu. Untuk itu perlu dibuatkan aplikasi yang dapat mencari dan menyimpan halaman-halaman web dengan link-link-nya sesuai topik tanpa harus melalui proses browsing, dimana topik dicari terlebih dahulu melalui search engine. Aplikasi ini biasa disebut Web Grabber. Program aplikasi Web Grabber ini mendapatkan inputan berupa keyword dan kedalaman. Inputan ini akan diproses untuk memperoleh hasil berupa halaman web yang disimpan secara otomatis sesuai dengan keyword yang diberikan dan tingkat kedalamannya. Proses didahului dengan pencarian keyword pada search engine yang tersedia untuk kemudian hasilnya dipilih oleh pengguna. Hasil berupa simpanan halaman web yang mengandung keyword. Aplikasi juga menyediakan fasilitas untuk browsing halaman web yang terambil. Program aplikasi ini dibuat dengan menggunakan bahasa pemrograman Borland Delphi 5.0. Program yang dibuat berhasil melakukan penyimpanan halaman-halaman web sesuai dengan keyword yang diberikan dengan tingkat kedalaman tertentu, dimana keyword terlebih dahulu dicari melalui search engine yang tersedia, yaitu Altavista atau Google, yang hasilnya dipilih oleh pengguna. Halaman-halaman web yang mengandung keyword dapat terambil dan tersimpan pada komputer dan dapat di-browse secara offline.",
+  "creators": "BUDI RAHARJO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Gregorius Satiabudhi (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0060/INF/2003; Budi Raharjo (26498029)",
+  "subjects": "INTERNET (COMPUTER NETWORK); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

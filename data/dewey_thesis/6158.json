@@ -1,0 +1,14 @@
+{
+  "id": "6158",
+  "title": "Perancangan dan pembuatan aplikasi penjadwalan pengiriman barang pada PT. 'X' dengan metode stepping stone",
+  "abstract": "PT. `X? adalah salah satu perusahaan yang bergerak dibidang logistik dan transportasi yang menangani pendistribusian barang PT. ?Y?. Saat ini, perusahaan masih menggunakan sistem manual dalam pembuatan Rencana Pengiriman Harian, perhitungan stock, dan jumlah permintaan yang belum dipenuhi, sehingga banyak terjadi kesalahan. Untuk mengatasinya maka dibuat sebuah aplikasi penjadwalan pengiriman barang dengan metode steppingstone.. Proses perancangan sistem menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk pembuatan struktur tabel dan relasinya. Pembuatan program aplikasinya menggunakan Borland Delphi 7 dan SQL Server 2000 untuk pembuatan basis data.Hasil dari program aplikasi yang dibuat berupa proses pencatatan data permintaan, produksi, brand, MPS (Mitra Produksi Sigaret), kendaraan, jadwal pelabuhan, dan rute kendaraan. Program ini dapat mengalokasikan order dalam truk tetapi tidak secara optimal. Laporan-laporan yang dihasilkan oleh program berupa laporan Rencana Pengiriman Harian, laporan stock, laporan draft, laporan rute perjalanan. Berdasarkan hasil kuisioner 77% sesuai dengan perusahaan, 70% laporan yang dihasilkan tepat, 86% mudah dipahami, 85% mudah digunakan. Sedangkan berdasrkan hasil keseluruhan 82% aplikasi berjalan dengan baik.",
+  "creators": "MIRA KARINA SOESETIO",
+  "contributors": "Yulia (Advisor 1); Andreas Handojo (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02000521/INF/2006; Mira Karina Soesetio (26402009)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

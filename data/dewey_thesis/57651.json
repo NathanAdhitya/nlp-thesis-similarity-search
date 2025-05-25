@@ -1,0 +1,14 @@
+{
+  "id": "57651",
+  "title": "Pembuatan desain sistem pendingin untuk multiprocessor dengan metode computational fluid dynamics",
+  "abstract": "Sistem pendingin dalam suatu processor memiliki komponen utama sebagai sumber panasnya yaitu CPU dan GPU. Pendinginan pada suatu server case bergantung pada pendingin komponen dan sirkulasi udara dalam server case. Computational fluid dynamics merupakan cara untuk mengetahui panas dan sirkulasi udara pada server case. Melalui eksperimen diukur suhu CPU adalah 71.4oC, sedangkan GPU 1 dan GPU 2 memiliki suhu 81.8oC dan 90.7oC, sehingga alternatif desain difokuskan untuk menurunkan suhu GPU. Permasalahan sirkulasi udara diselesaikan dengan memberi perubahan pada bagian GPU. Dalam penelitian ini dibuat 3 alternatif desain utama, yaitu pembuatan lubang yang menambah flow rate, pemunduran inlet untuk mengurangi aliran balik, dan pertukaran dari GPU ukuran kecil dengan ukuran besar. Hasil simulasi desain pembuatan lubang paling baik dengan penurunan suhu sebesar 30% untuk GPU 1 dan 7% untuk GPU 2. Eksperimen akhir menunjukkan penurunan suhu pada CPU dan GPU 1 menjadi 65.7oC dan 62.6oC, serta GPU 2 menjadi 83.2oC.",
+  "creators": "JACKSON ALEXANDER GUNAWAN",
+  "contributors": "Ekadewi Anggraini Handoyo (Advisor 1); Sutrisno S.T.,M.T. (Advisor 2); Hariyo Priambudi Setyo Pratomo, S.T., M.Phil. (Examination Committee 1); Amelia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011494/MES/2023; Jackson Alexander Gunawan (C12190077)",
+  "subjects": "COMPUTATIONAL FLUID DYNAMICS; VENTILATION--CONTROL; COOLING SYSTEMS"
+}

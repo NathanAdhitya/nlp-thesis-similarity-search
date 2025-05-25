@@ -1,0 +1,14 @@
+{
+  "id": "16698",
+  "title": "Perencanaan dan pembuatan digital protection relay pada motor induksi 3 phasa, 5 KW, 380 volt, 10 amphere, 1.500 RPM, rotor sangkar bajing dengan menggunakan mikrokontroler 8031",
+  "abstract": "Digital protection relay merupakan alat pengaman motor listrik, yang mengamankan motor terhadap gangguan-gangguan overcurrent, unbalanced current, undervoltage, dan overvoltage. Salah satu bagian yang penting pada relay pengaman ini adalah bagian elemen pembanding, yaitu suatu elemen yang bertugas untuk membandingkan nilai yang diamati atau harga yang dideteksi terhadap suatu nilai referensi; dimana digunakan mikrokontroler 8031 sebagai elemen pembandingnya, Dalam hal ini ke tepat an nilai referensi sangat diutamakan. Aplikasi dari mikrokontroler memiliki peranan yang sangat penting dalam perkembangan relay pengaman sistem tenaga listrik. Keunggulannya adalah harga referensinya lebih tepat dibanding dengan yang menggunakan pegas. Karena kemampuannya untuk melakukan tugas-tugas yang rumit namun desainnya sederhana, mikrokontroler dapat menggantikan tugas dari bermacam-macam relay antara lain overcurrent relay, unbalanced current relay, undervoltage relay, overvoltage relay, dan time relay. Keuntungan lainnya yaitu pengaman yang menggunakan sistem digital membutuhkan konsumsi daya listrik yang kecil.",
+  "creators": "STEFANUS JUNAEDI",
+  "contributors": "Limboto Limantara (Advisor 1); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/TST/032/269; Stefanus Junaedi (23492101)",
+  "subjects": "INTEL 8031 (MICROCONTROLLER); AUTOMATIC CONTROL-COMPUTER PROGRAMS; ELECTRIC MOTORS, INDUCTION"
+}

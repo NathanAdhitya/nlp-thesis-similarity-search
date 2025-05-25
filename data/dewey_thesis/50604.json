@@ -1,0 +1,14 @@
+{
+  "id": "50604",
+  "title": "Pengenalan jenis masakan melalui gambar menggunakan YOLO",
+  "abstract": "Kebanyakan sistem input pada aplikasi informasi kalori masakan masih menggunakan input secara manual, di mana user perlu menuliskan nama makanannya. Hal ini dapat menyebabkan kesulitan untuk user apabila user tidak mengetahui nama masakan yang ingin diketahui informasi kalorinya. Tetapi dengan berkembangnya teknologi terutama di bidang object detection, hal ini dapat dipermudah. Jenis masakan dapat dikenali secara otomatis melalui gambar, sehingga mempermudah user dan juga mempercepat proses input-nya. Penelitian ini menggunakan metode You Only Look Once (YOLO) untuk mengenali jenis masakan dari gambar yang di-inputkan. Jenis model YOLO yang digunakan adalah model YOLOv3 yang telah dimodifikasi convolution layer-nya dengan model Convolution Neural Network (CNN) Xception yang memiliki akurasi dan kecepatan deteksi tinggi. Hasil penelitian yang diperoleh adalah model YOLO yang telah dimodifikasi memiliki akurasi lebih tinggi dan kecepatan deteksi yang lebih cepat dibandingkan model YOLOv3 standar. Hasil mean average precission (mAP) tertinggi yang dicapai adalah 85.13% dengan rata-rata waktu deteksi 0.088742 detik.",
+  "creators": "ALEXANDER WILLIAM SUTJIADI",
+  "contributors": "Kartika Gunadi (Advisor 1); Leo Willyanto Santoso (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022067/INF/2021; Alexander William Sutjiadi (26416143)",
+  "subjects": "PROGRAMMING (COMPUTER ELECTRONICS); NEURAL NETWORK (COMPUTER SCIENCE); NEURAL NETWORKS (COMPUTER SCIENCE)--COMPUTER PROGRAMS"
+}

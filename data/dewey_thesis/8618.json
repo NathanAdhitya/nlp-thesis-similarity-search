@@ -1,0 +1,14 @@
+{
+  "id": "8618",
+  "title": "Perencanaan dan pembuatan programmable nimh battery charger",
+  "abstract": "Tidak semua peralatan elektronik portabel yang menggunakan sumber daya baterai isi ulang menyediakan rangkaian pengisi baterai di dalamnya, untuk itu diperlukan suatu alat pengisi secara terpisah. Sementara banyak alat pengisi yang beredar di pasaran tidak menyertakan suatu pendeteksi akhir pengisian, kalaupun ada hanya menghentikan proses pengisian dan kurang memberikan gambaran tentang kondisi baterai yang sesungguhnya. Sistem ini dibuat berbasis MAX712 sebagai kontroler untuk mengisi baterai yang menggunakan bahan kimiawi Nickel Metal Hydride (NiMH) dengan jumlah sel yang dapat di program. Metode Pengisian yang digunakan adalah arus konstan, mode linier. Sistem mendeteksi batas akhir pengisian dengan metoda deteksi dV/dt=0 dan timeout timer. Sistem juga di hubungkan dengan mikrokontroler AT89S52 agar dapat menghitung lama waktu pengisian, mendeteksi tegangan serta kapasitas baterai. Pengujian sistem dilakukan dengan menghitung lama waktu pengisian berbagai merk dan kapasitas baterai dengan dV/dt=0 aktif maupun tidak aktif dan dibandingkan dengan waktu pengosongannya. Waktu pengisian tercepat dengan dV/dt=0 aktif didapatkan selama 28 menit untuk jenis AAA (2 sel - 900mAh) dan 1 jam 23 menit untuk jenis AA (2 sel - 2300mAh), sedangkan waktu pengosongan terlama didapatkan selama 1 jam 46 menit untuk jenis AAA (1 sel - 900mAh @ 2.8 W ) dan 8 jam 58 menit untuk jenis AA (1sel - 2300mAh @ 2.8 W ). Pengujian monitoring waktu, tegangan dan kapasitas dilakukan dengan metode penghentian dV/dt=0 aktif dan tidak aktif, waktu timeout yang dipilih adalah 45, 90,132 dan 180 menit. Hasil monitoring waktu yang didapat untuk metode penghentian pengisian dV/dt=0 aktif selalu bervariasi dan untuk dV/dt=0 tidak aktif akan selalu tetap.",
+  "creators": "SENTOSA WIBISONO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010750/ELK/2005; Sentosa Wibisono (23499122)",
+  "subjects": "ELECTRIC BATTERIES; AUTOMATIC CONTROL"
+}

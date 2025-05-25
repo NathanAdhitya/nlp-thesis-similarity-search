@@ -1,0 +1,14 @@
+{
+  "id": "35031",
+  "title": "Penggunaan jaringan syaraf tiruan probabilistic neural network dan ID3 Algorithm untuk mengenali dokumen beraksara Jawa",
+  "abstract": "Skripsi ini bertujuan untuk mengenali huruf Jawa menggunakan komputer. Sebelum skripsi ini, telah ada skripsi bertujuan serupa dengan metode pengenalan lain namun hasil tidak dapat mencapai harapan. Karena itu sekarang dicoba dengan metode pengenalan lain yang akan dijelaskan setelah ini. Sebelum komputer dapat mengenali huruf Jawa, diperlukan proses segmentasi dan ekstraksi fitur dari gambar dokumen beraksara Jawa. Setelah fitur dari huruf Jawa yang telah tersegmentasi didapatkan, maka data fitur tersebut diolah dengan menggunakan computer learning method agar komputer dapat mengenali huruf-huruf tersebut. Input berupa file .CSV yang berisi fitur-fitur dari gambar huruf Jawa yang sudah disegmentasi sebelumnya. Output file text yang berisi representasi unicode huruf Jawa dari font Hanacaraka dan sebuah file .CSV yang berisi hasil pengujian dan klasifikasi data. Aplikasi ini dibuat dengan bahasa pemrograman C# dengan Microsoft Visual Studio 2013 sebagai IDE-nya. Adapun proses yang dilakukan adalah sebagai berikut: memproses file .CSV yang dihasilkan dari aplikasi ekstraksi fitur agar siap digunakan sebagai bahan pembelajaran atau trainer bagi computer learning network. Setelah file trainer siap, maka network akan di-training. Setelah proses training selesai, network dapat menerima input data lain, dan kemudian mengklasifikasikannya sesuai dengan apa yang telah dipelajari. Computer learning network yang digunakan adalah probabilistic neural network dan ID, dimana setelah diuji diketahui bahwa untuk pengklasifikasian huruf Jawa, metode PNN mencapai hasil akurasi yang 10% lebih tinggi daripada ID3",
+  "creators": "BONDAN SEBASTIAN",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Rudy Adipranata (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021429/INF/2015; Bondan Sebastian (26411018)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); ARTIFICIAL INTELLIGENCE"
+}

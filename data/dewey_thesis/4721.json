@@ -1,0 +1,14 @@
+{
+  "id": "4721",
+  "title": "Usulan metode pseudo elastis berdasarkan tingkat daktilitas dengan menggunakan kolom kuat yang diatur simetris terhadap sumbu X dan sumbu Y",
+  "abstract": "Konsep Pseudo Elastis memperkenankan struktur bangunan mengalami keruntuhan berupa Partial Beam Side-Sway Mechanism. Untuk mencapai mekanisme keruntuhan seperti ini, kolom kuat yang diatur simetris terhadap sumbu X dan sumbu Y direncanakan agar tetap elastis pada saat gempa besar, sedangkan kolom lemah dan balok diperkenankan terjadi sendi plastis. Dalam studi ini kolom kuat direncanakan dengan suatu faktor pengali yang besarnya ditentukan berdasarkan daktilitas struktur yang akan dicapai. Untuk keperluan tersebut dipakai satu bangunan 6 tingkat pada wilayah gempa 2 Indonesia yang direncanakan mempunyai daktilitas 5.3, 4, dan 2. Struktur kemudian diperiksa dengan menggunakan gaya gempa dengan periode ulang 100, 200, 500 dan 1000 tahun. Analisa yang digunakan adalah Analisa Static Non-Linear Pushover dengan program ETABS v 7.2 dan Analisa Dinamik Non-Linear Riwayat Waktu dengan Ruaumoko 3D. Hasil analisa menunjukkan bahwa struktur yang direncanakan berdasarkan daktilitas 5.3 dan 4, menunjukkan kinerja seismik yang memuaskan pada semua tingkat seismik. Berbeda dengan struktur yang direncanakan dengan daktilitas 2, hasil yang diperoleh menunjukkan kinerja seismik kurang memuaskan saat gempa di atas 500 tahun.",
+  "creators": "HONGKY PRABOWO; WILLY",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Takim Andriono (Advisor 2); Effendy Tanojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11131373/SIP/2004; Hongky Prabowo (21400073), Willy (21400121)",
+  "subjects": "BUILDING-EARTHQUAKE EFFECTS"
+}

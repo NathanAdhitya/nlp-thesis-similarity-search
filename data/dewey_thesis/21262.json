@@ -1,0 +1,14 @@
+{
+  "id": "21262",
+  "title": "Pengeboran pcb otomatis menggunakan kamera sebagai sensor pendeteksi koordinat pengeboran",
+  "abstract": "Penggunaan PCB (Printed Circuit Board) merupakan hal yang wajib jika ingin membangun suatu rangkaian elektronika yang baik. Pada PCB terdapat pad dan via dimana keduanya harus dibor agar komponen dapat dipasang pada PCB. Untuk suatu rangkaian yang kompleks jumlah pad dan v/a-nya sangat banyak sehingga waktu kadang-kadang ada beberapapat/ maupun via yang tidak ter-bor. Pengeboran PCB otomatis merupakan suatu sistem pengeboran yang memungkinkan dilakukan pengeboran pada pad maupun via pada suatu PCB secara otomatis. Pengeboran PCB otomatis ini menggunakan kamera sebagai sensor yang dapat mendeteksi koordinat pad dan via. Kamera berfungsi menangkap gambar print out sebuah PCB kemudian dengan metode pemrosesan gambar {image processing) dapat diketahui dan diambil koordinat pengeborannya. Metode image processing untuk pendeteksian koordinat antara lain adalah threshold, gray scale danfillrect. Hasil pengambilan koordinat berupa pixel yang akan dikonversikan ke satuan milimiter agar dapat dilakukan pengeboran. Mesin bor yang dibuat menggunakan motor stepper sebagai pergerakan lengan X dan Y dan motor DC sebagai lengan Z dan motor bor. Pergerakan setiap lengan dirancang menggunakan sistim ulir, yang memungkinkan pergerakan yang tepat dan presisi. Limit switch digunakan untuk menunjuk koordinat nol setiap lengan. Hasil pengujian diperoleh error pergerakan lengan antara koordinat terdeteksi (kamera) dan koordinat ter-bor berkisar antara 0,1 sampai 0,8 mm. Pendeteksian koordinat yang sesungguhnya dengan jumlah koordinat yang dapat ditangkap oleh kamera menunjukkan jumlah yang tepat dari setiap sampel PCB yang diambil.",
+  "creators": "SHERWIN R.U.D.ALDO SOMPIE",
+  "contributors": "Thiang (Advisor 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/020/534; Sherwin R.U. Sompie (23497070)",
+  "subjects": "DRILLING AND BORING MACHINERY"
+}

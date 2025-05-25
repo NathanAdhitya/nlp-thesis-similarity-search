@@ -1,0 +1,14 @@
+{
+  "id": "27983",
+  "title": "Perencanaan dan pembuatan alat pencacah berbagai jenis kendaraan dengan menggunakan mikroprosesor 8088",
+  "abstract": "Melihat kepada kemajuan jaman, di mana transportasi manjadi sangat penting maka tidaklah mungkin lalu lintas berjalan tanpa ada pengaturan yang baik, apalagi di kota-kota besar. Akibat dari pengaturan lalu-lintas yang kurang baik adalah kemacetan yang berdampak negatif bagi suatu kehidupan. Oleh karena itu dibuat suatu sistem pengaturan lalu lintas dengan menggunakan pengaturan jalur dan arah serta penggunaan lampu lalu lintas. Untuk dapat mengatur lalu lintas dengan lebih baik, khusunya di jalan yang padat tidak dapat dipakai pengaturan lampu lalu lintas dengan menggunakan timer. Sebagai salah satu alternatif pemecahannya adalah dengan menggunakan counter, yang menghitung jumlah kendaraan yang lewat, sebagai pengatur lampu lalu lintas. Dari jumlah kendaraan ini dapat kita ketahui kepadatan lalu lintas pada jalan tertentu. Alat pencacah berbagai jenis kendaraan dengan menggunakan mikroprosesor 8088 inilah yang dibuat dalam tugas akhir ini, dengan menggunakan metode studi literatur, dan studi lapangan dalam pengujian alat. Selain menggunakan 8088 sebagai CPU, alat ini didukung pula dengan beberapa piranti pembantu yaitu: PIT 8253, PIC 8259A, RTC 146818, PPI 8255 serta sensor photoswitch. Dari pengujian alat dapat disimpulkan bahwa alat dapat berjalan dengan baik dalam menghitung jumlah kendaraan yang dibedakan dalam tiga jenis. Pembagian jenis kendaraan disarkan kepada panjang dari kendaraan. Untuk menghitung panjang kendaraan ini terlebih dulu kita menghitung kecepatannya. Alat ini hanya dapat dipakai untuk jalan searah dan tidak terlalu lebar. Alat ini dapat dikembangkan lebih lanjut untuk keperluan-keperluan yang lain.",
+  "creators": "ANDREAS JONATHAN",
+  "contributors": "Murtiyanto Santoso (Advisor 1); SUPENO DJANALI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/010/0167; Andreas Jonathan (23488046)",
+  "subjects": "ELECTRONIC TRAFFIC CONTROL-COMPUTER PROGRAMS"
+}

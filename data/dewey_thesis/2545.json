@@ -1,0 +1,14 @@
+{
+  "id": "2545",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi terkomputerisasi atas siklus penjualan dan pembelian pada toko mebel Selalu Jaya",
+  "abstract": "Sistem akuntansi di Toko Mebel Selalu Jaya masih menggunakan cara manual. Perhitungan total penjualan dan keuntungan dilakukan manual. Sehingga membutuhkan waktu yang lama untuk mendapatkan informasi yang diinginkan. Oleh karena itu dibutuhkan sistem informasi akuntansi yang memadai, untuk memproses pencatatan secara otomatis dan menghasilkan infomasi yang cepat dan tepat. Pembuatan sistem infomasi akuntansi dimulai dari analisa dan pengamatan terhadap sistem perusahaan. Kemudian dari data yang ada, dilakukan perancangan sistem informasi akuntansi yang disesuaikan dengan kebutuhan perusahaan. Sistem infomasi akuntansi yang dibangun merupakan integrasi dari modul penjualan, modul pembelian dan akuntansi. Penjualan meliputi pembuatan invoice dan laporan penjualan. Pembelian meliputi pembuatan purchase order dan laporan pembelian. Pencatatan meliputi penjurnalan, posting dan pembuatan laporan laba rugi. Software ini dibuat dengan menggunakan SQL server 2000 untuk databasenya dan menggunakan Borland Delphi 7.0 sebagai compilernya. Kepuasan pengguna terhadap keseluruhan aplikasi sebesar 80%, sehingga dapat disimpulkan bahwa aplikasi sudah memenuhi dan sesuai dengan kebutuhan sistem, tapi masih ada beberapa kelemahan yang perlu untuk diperbaiki. Aplikasi ini membantu proses pencatatan dengan melakukan otomatisasi penjurnalan dan posting serta membantu mempercepat proses pembuatan laporan keuangan perusahaan.",
+  "creators": "NEXON SUSENIO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Alexander Setiawan (Advisor 2); Sri Maharsi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000372/INF/2005; Nexon Susenio (26400042)",
+  "subjects": "DATABASE DESIGN"
+}

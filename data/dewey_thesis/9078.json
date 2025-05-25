@@ -1,0 +1,14 @@
+{
+  "id": "9078",
+  "title": "Penjadwalan produksi dengan menggunakan pendekatan algoritma genetika, algoritma heuristic rajendran, dan algoritma heuristic ho dan chang di PT. Bintang Adyapastikaglass",
+  "abstract": "PT. Bintang Adyapastikaglass adalah perusahaan yang bergerak dibidang pengolahan kaca yang memiliki aliran produksi yang bersifat flow shop, dimana setiap pekerjaan mempunyai lintasan operasi yang searah dari satu mesin ke mesin yang lainnya. Selama ini perusahaan tidak memiliki penjadwalan yang baik, dimana pesanan yang diterima dijadwalkan berdasarkan intuisi dan aturan yang paling sederhana yaitu First Come First Serve (FCFS) untuk mengerjakan pesanan. Selain itu, Pihak marketing dalam memberikan batas waktu pengiriman tidak disertai dengan perhitungan yang matang dan hanya berdasarkan pada intuisi saja dan bila terdapat keterlambatan dalam penyelesaian pesanan tidak terdapat denda bagi perusahaan. Hal tersebut membuat perusahaan memusatkan perhatian pada perbaikan penjadwalan produksi untuk meminimasi waktu penyelesaian pesanan pelanggan. Berdasarkan hal- hal diatas, penelitian dilakukan untuk mendapatkan suatu penjadwalan yang lebih baik dengan meminimumkan waktu penyelesaian job terakhir yang meninggalkan sistem (makespan). Metode yang digunakan adalah Algoritma Genetika dimana metode ini juga dibandingkan dengan dengan metode penjadwalan lainnya yang bersifat heuristic yaitu Algoritma Heuristic Rajendran dan Algoritma Heuristic Ho dan Chang.",
+  "creators": "YOKO NJOTOWIDJOJO",
+  "contributors": "Tessa Vanina Soetanto (Advisor 1); Herri Christian Palit (Advisor 2); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0698/IND/2003; Yoko Njotowidjojo (25499087)",
+  "subjects": "PRODUCTION SCHEDULING"
+}

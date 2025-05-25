@@ -1,0 +1,14 @@
+{
+  "id": "45919",
+  "title": "Sistem rekomendasi film menggunakan integrated Kohonen K-Means Clustering",
+  "abstract": "Dengan seiring berkembangnya industri film semakin banyak pula film yang bisa untuk ditonton. Tetapi karena terlalu banyaknya film yang bisa untuk ditonton itu menyebabkan user bingung dalam mencari film yang sesuai dengan apa yang mereka suka. Sehingga ada sistem rekomendasi film yang dibuat untuk membantu user. Sistem rekomendasi film sendiri punya berbagai cara agar dapat menghasilkan rekomendasi film yang user mungkin suka. Sistem rekomendasi film menggunakan Integrated Kohonen K-Means Clustering merupakan salah satu metode Data Mining yang dapat digunakan dalam merekomendasikan film. Integrated Kohonen K-Means Clustering dibandingkan dengan Kohonen Self Organizing Maps, dan juga K-Means Clustering dalam merekomendasikan film. Menurut hasil pengujian terhadap metode Integrated Kohonen K-Means Clustering, jumlah K cluster yang optimal untuk K-Mean Clustering didapatkan dengan menggunakan Elbow Method. Untuk mengetahui seberapa bagus cluster yang dihasilkan menggunakan metode Silhouette Coefficient sebesar -0.389. Mean Reciprocal Rank yang dihasilkan adalah sebesar 0.362 menggunakan Integrated Kohonen K-Means Clustering, dimana hasil tersebut lebih baik dibandingkan K-Means Clustering dengan nilai sebesar 0.003 dan Kohonen Self Organizing Maps dengan nilai sebesar 0.002 . Kata Kunci: KSOM, K-Means Clustering, Data Mining, Movie Recommendation, Kohonen K-Means, Elbow Method, Silhouette Coefficient, MRR",
+  "creators": "JOSHUA MAXIMILLIAN",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021911/INF/2019; Joshua Maximillian (26415012)",
+  "subjects": "ELECTRONIC DATA PROCESSING--DISTRIBUTED PROCESSING"
+}

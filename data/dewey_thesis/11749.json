@@ -1,0 +1,14 @@
+{
+  "id": "11749",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada CV. Intiguna Pratama",
+  "abstract": "CV. Intiguna Pratama merupakan sebuah perusahaan trading yang menyediakan berbagai macam barang sesuai dengan order yang diminta oleh pembeli. Pembuatan laporan akuntansi dan pencatatan transaksi masih menggunakan sistem manual hanya menggunakan Microsoft Excel untuk menyimpan data. Pada sistem ini masih terdapat banyak kelemahan, yaitu waktu yang dibutuhkan dalam pembuatan laporan keuangan dan laporan akuntansi masih terdapat kesalahan dalam account balance hal tersebut yang menyebabkan pembuatan laporan menjadi semakin lambat. Maka pada Tugas Akhir ini akan dilakukan pembuatan perangkat lunak untuk system Informasi Akuntansi. Dari pembuatan Tugas Akhir ini diharapkan dapat lebih mempercepat pembuatan laporan dan lebih meminimalkan kesalahan pada account balance. Pembuatan Tugas Akhir ini dengan menggunakan perangkat lunak Borland Delphi 7. Pembuatan Tugas Akhir ini dimulai dengan melakukan desain Sistem Informasi Akuntansi pada CV. Intiguna Pratama. Kemudian dilanjutkan dengan membuat desain Entity Relationship Diagram untuk mendesain table-tabel database yang akan digunakan. Setelah desain sistem selesai maka dilanjutkan dengan desain interface program. Pada pembuatan program, dimulai dengan Master Data hingga pencatatan transaksi serta pembuatan laporan keuangan. Hasil dari pembuatan Tugas Akhir ini berupa sebuah perangkat lunak yang dapat menghasilkan laporan keuangan yang berupa laporan pembelian dan penjualan, laporan penerimaan dan pengeluaran kas, laporan perubahan modal, neraca, dan laporan laba rugi dalam periode tertentu secara otomatis dan akurat tanpa memerlukan perhitungan-perhitungan yang panjang terlebih dahulu.",
+  "creators": "SUTANTO",
+  "contributors": "Yulia (Advisor 1); Silvia Rostianingsih (Advisor 2); Oviliani Yenty Yuliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02020772/INF/2009; Sutanto (26403011)",
+  "subjects": "DATA BASE DESIGN; DATA BASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

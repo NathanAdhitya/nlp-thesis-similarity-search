@@ -1,0 +1,14 @@
+{
+  "id": "43836",
+  "title": "Efek drive analog untuk gitar elektrik dengan kontrol berbasis arduino",
+  "abstract": "Efek drive merupakan efek yang sering digunakan oleh para gitaris dalam berkarya, dan sering mengalami keterbatasan setting namun tetap membutuhkan suara dari rangkaian analog yang beragam. Sistem ini terdiri dari 5 jenis efek drive yang terhubung dengan potensiometer digital sehingga setting dapat tersimpan dengan cara memasukkan dan mengeluarkan nilai potensiometer analog ke dalam potensiometer digital. Arduino menjadi pusat kontrol untuk pembacaan nilai potensiometer analog, untuk menyimpan nilai yang masuk ke potensiometer digital dengan menggunakan EEPROM, serta mengirim nilai tersebut pada potensiometer digital. Selain itu sistem ini juga dapat mengirim pesan MIDI pada efek eksternal untuk perpindahan preset. Berdasarkan hasil pengujian, nilai potensiometer analog dapat dibaca, disimpan pada EEPROM dan dikeluarkan dengan tepat pada potensiometer digital, sehingga suara yang dihasilkan pada suatu setting tetap sama. Selain itu pengiriman pesan MIDI juga dapat dikirimkan dengan tepat pada tiap preset sehingga memungkinkan untuk berpindah preset secara bersama-sama dengan efek eksternal.",
+  "creators": "JONATHAN LIMANTARA",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010968/ELK/2018; Jonathan Limantara (23414016)",
+  "subjects": "ARDUINO (PROGRAMMABLE CONTROLLER); ELECTRIC GUITAR AND COMPUTER MUSIC"
+}

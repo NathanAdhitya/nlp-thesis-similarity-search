@@ -1,0 +1,14 @@
+{
+  "id": "22837",
+  "title": "Building third party integration in betavine chronicle",
+  "abstract": "Betavine Chronicle is one of the Vodafone R&D's projects to experiment with the concept of lifestreaming. Betavine Chronicle was built upon Storytlr, an open-source lifestreaming and micro blogging platform. However, before this project was started, there is no possibility for third party application to use the Chronicle service. This graduation assignment is focusing on enabling the interaction between Betavine Chronicle and third party applications. The main task of this assignment is building a REST API for Betavine Chronicle that will expose methods to create, edit and delete any resources stored in Betavine Chronicle such as status updates, blogs, images, audio files, links, and videos. API documentation should also be provided along with the API. An Agile methodology with iterative development was used in this project because of the following reason: ? The client was taking part in the development team; ? Requirements might change during the development period; ? The results are delivered gradually based on the priorities. The project are divided into 5 phases, initiation phase, design phase, implementation phase, transfer phase, and graduation finalization phase. There are 3 iterations during implementation and transfer phase where each of iteration focusing on specific requirements based on the priority. Although this project hasn't finished yet, the progress has shown a significant result. The results so far are practically met the goal. The client application built by the other trainee can now communicate with the Betavine Chronicle through the API. The API documentation will also help other developers to build similar applications for their own need. It is highly possible to finish the project (second and third iteration) before the end of June without problems. The use of Oauth and OpenID to improve the API's authentication, Betavine Chronicle's support for media resources and implementation of PubSubHubbub protocol for real time notification updates are recommended for future development of this project.",
+  "creators": "EKO ADI PRASETYO GUNAWAN",
+  "contributors": "LAURENT ESCHENAUER (Advisor 1); ERIK H J D VAN DER SCHRIEK (Advisor 2); ARNOLD WIELAND (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Undergraduate Thesis No. 01020922/INF/2010; Eko Adi Prasetyo Gunawan (26406103)",
+  "subjects": "WEB SITES; BETAVINE CHRONICLE; WEB SITE DEVELOPMENT"
+}

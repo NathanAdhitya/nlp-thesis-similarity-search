@@ -1,0 +1,14 @@
+{
+  "id": "14738",
+  "title": "Pendeteksian kegagalan sensor on/off yang diatur oleh komputer dengan menggunakan teknik modulasi",
+  "abstract": "Dalam suatu sistem kontrol dengan menggunakan sensor-sensor yang outputnya terhubung kembali ke sistem kontrol, selain keandalan dari sensor dan kontrollemya, yang juga tidak kalah pentingnya adalah kondisi kabel dari sensor tersebut. Kerusakan akibat kabel yang temubung ke sensor terputus, akan bisa berakibat fatal bagi pemanfaatan sensor tersebut Pembuatan Tugas Akhir ini adalah bertujuan untuk mendeteksi kegagalan mngsi kerja dari sensor-sensor on-off, dimana kegagalan disebabkan akibat dari putusnya kabel yang terhubung ke sensor, baik itu kabel supply, maupun kabel output dari sensor. Untuk itu pada saluran supply sensor tersebut diinjeksikan sinyal modulasi FSK. Sinyal FSK ini akan diterimakan ke demodulatomya melalui kabel output dari sensor. Untuk pengatuian pemberian dan penerimaan sinyal modulasi, serta hasil dari pendeteksian digunakan komputer. Dari hasil ekperimen yang telah dilakukan, diketahui bahwa sinyal FSK dengan output Amphtudo sebesar 0,5 Vpp dapat digunakan untuk kabel sensor dengan panjang 500 m. Pada kabel supply utama, pendeteksian dapat dilakukan untuk putusnya kabel positip ataupuu kabel negatip. Pada sensor-sensor dengan kabel output yang banyak, dapat dideteksi kabel output mana yang putus. Apabila lebih dari dua kabel output yang putus, maka pendeteksian dilakukan secara bergiliran.",
+  "creators": "HENDRI LAMIDJAN",
+  "contributors": "Murtiyanto Santoso (Examination Committee 1); IRWAN SAHLI (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/008/402; Hendri Lamidjan (23492049)",
+  "subjects": "DETECTORS-COMPUTER PROGRAMS"
+}

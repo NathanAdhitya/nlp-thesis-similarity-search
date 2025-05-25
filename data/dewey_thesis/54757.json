@@ -1,0 +1,14 @@
+{
+  "id": "54757",
+  "title": "Deteksi masker wajah dengan metode convolutional neural wetwork",
+  "abstract": "Komputer harus mampu mengenali area yang merupakan objek wajah pada citra agar dapat mempermudah deteksi masker wajah yang digunakan manusia. Deep learning adalah kecerdasan buatan dengan representasi sederhana yang memiliki lapisan tersembunyi untuk memproses data yang dapat membangun konsep yang kompleks. Deep learning dapat dilatih untuk mendeteksi suatu objek serta klasifikasi objek. Terdapat banyak algoritma deep learning yang dapat digunakan untuk proses pengenalan model misalnya untuk klasifikasi objek menggunakan MobileNet, VGGNet, DenseNet, GoogLeNet, AlexNet, dan lain-lain sedangkan untuk deteksi objek dapat menggunakan You Only Look Once, SSD Resnet, Multi-task Cascaded Convolutional Neural Network (MTCNN), HyperFace dan lain-lain. Sistem pendeteksi objek dapat menggunakan dua kombinasi algoritma yaitu melakukan dengan metode klasifikasi objek dan metode deteksi objek. Metode untuk pengenalan objek masker pada wajah manusia adalah CNN (Convolutional Neural Network). Metode CNN adalah pengembangan dari Multilayer Perceptron yang didesain untuk mengolah data dua dimensi. Metode CNN yang sangat baik dalam memproses data spasial dan mengklasifikasi objek (Chen et al., 2016). Setelah pelatihan model dengan VGGNet dilakukan maka metode selanjutnya adalah mendeteksi suatu objek dengan menggunakan modul SSD ResNet",
+  "creators": "IVAN HARTONO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Leo Willyanto Santoso (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022134/INF/2022; Ivan Hartono (26416078)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); HUMAN FACE RECOGNITION (COMPUTER SCIENCE); PROGRAMMING (COMPUTERS)"
+}

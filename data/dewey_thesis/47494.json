@@ -1,0 +1,14 @@
+{
+  "id": "47494",
+  "title": "Perencanaan dan pembuatan Android Smartkey 3 in 1 guna pengendalian jarak jauh sistem kelistrikan sepeda motor",
+  "abstract": "Sepeda motor non ecu pada umumnya tidak memiliki fitur smartkey yang digunakan untuk menyambungkan kunci kontak, menstater, dan lain-lain yang dimana ditujukan untuk memudahkan pengguna dan menggantikan kunci mekan-ik. Untuk smartkey custom yang dijual di pasaran dapat dipasangkan di sepeda motor non ecu tetapi memiliki 2-3 fitur saja dan masih menggunakan sistem re-ceiver dan transmitter sehingga tidak dapat digunakan pada jarak jauh, Maka dari itu solusinya adalah mengembangkan sistem smartkey yang sudah ada dan menerapkannya pada motor non ecu sehingga didapatkan sebuah kunci sepeda motor yang ada di dalam perangkat smartphone android sehingga pengguna dapat mengkontrol sistem kelistrikan sepeda motor dan memonitor keadaan sepeda motor dari jarak jauh. Proses awal perancangan adalah menganalisa keku-rangan pada pengembangan smartkey yang sudah ada, kemudian membuat kon-sep (mulai dari micro controller yang di pakai, cara kerja, komponen yang di bu-tuhkan, dll), lalu dilanjutkan dengan pemrogaman sistem kontrol, sistem moni-toring, dan sistem keamanan, kemudian merakit dan memasang pada sepeda mo-tor sesuai dengan urutan sistem dan melakukan serangkaian ujicoba guna menge-tahui fungsi dan ketahanan dari perangkat. Hasil dari pembuatan android smart-key 3 in 1 ini adalah dapat mengontrol, memonitor dan mengamankan sepeda motor dari jarak yang tidak terbatas.",
+  "creators": "ROMARIO RULANDO PUTRA IRAWAN",
+  "contributors": "IAN HARDIANTO (Advisor 1); Roche Alimin (Advisor 2); Yopi Yusuf Tanoto, S.T., M.T. (Examination Committee 1); Ninuk Jonoadji (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011358/MES/2020; Romario Rulando Putra Irawan (24415031)",
+  "subjects": "MOTORCYCLES--ELECTRIC EQUIPMENT; APPLICATION SOFTWARE-DEVELOPMENT"
+}

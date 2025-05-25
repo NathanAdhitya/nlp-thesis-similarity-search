@@ -1,0 +1,14 @@
+{
+  "id": "3838",
+  "title": "Pengendalian pc melalui infrared memanfaatkan software open source winlirc",
+  "abstract": "Dengan teknologi infrared, pengendalian perangkat elektronik dapat dilakukan melalui jarak yang cukup jauh. Perangkat elektronik yang dapat dikontrol melalui infrared tidak hanya player VCD atau TV tetapi juga komputer. Pada Tugas Akhir ini dibuat sistem untuk mengendalikan aplikasi komputer berbasiskan remote kontrol infrared. Perancangan sistem melibatkan receiver infrared dan sebuah software client untuk mengendalikan aplikasi komputer. Software server open source WinLIRC digunakan untuk menerjemahkan sinyal infrared dari receiver ke dalam bentuk teks dan mengirimnya ke software client. Client kemudian menerjemahkannya menjadi perintah penekanan tombol keyboard atau mouse untuk mengendalikan aplikasi komputer yang diinginkan. Berdasarkan hasil pengujian, receiver yang dibuat mampu menerima sinyal infrared sampai dengan jarak 10 meter, sehingga layak untuk dipakai. Sedangkan software client yang dibuat sudah diuji di atas dua platform, yaitu Windows 98 dan Windows XP Pro SP2. Pengujian membuktikan bahwa software client dapat mengendalikan aplikasi komputer walaupun masih terdapat beberapa bug, seperti tampilan yang tidak dikehendaki, dan terjadinya crash, terutama saat dijalankan di Windows 98.",
+  "creators": "DONNY NUGROHO",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Resmana Lim (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010045/ELK/2006; Donny Nugroho (23401019)",
+  "subjects": "REMOTE CONTROL; INFRARED TECHNOLOGY"
+}

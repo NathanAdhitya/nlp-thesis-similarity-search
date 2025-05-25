@@ -1,0 +1,14 @@
+{
+  "id": "2129",
+  "title": "Aplikasi bird view untuk pemetaan objek pada ruangan",
+  "abstract": "Tujuan dari Tugas Akhir ini adalah memanfaatkan fungsi sebuah kamera untuk memperoleh gambar suatu objek, yang nantinya dapat ditampilkan dalam bentuk 2D di layar monitor. Kamera yang dipakai berjumlah 1 buah dengan tujuan untuk menghemat biaya. Diharapkan dengan jumlah kamera yang 1 buah tersebut dapat diperoleh informasi posisi objek untuk kepentingan pengamatan. Hal ini dilakukan dengan menggunakan metode kalibrasi kamera, yaitu hanya dengan mengambil beberapa gambar dari suatu pola papan catur dengan posisi kamera yang bebas dimanapun sesuai dengan prinsip bird view, akan didapatkan beberapa parameter yang dibutuhkan guna merubah hasil tampilan menjadi tampak 2D. Metode tersebut ditunjang dengan menggunakan metode titik berat berdasarkan warna kulit benda dan memetakan titik-titik 2D menjadi nilai pixel kemudian menampilkannya dengan skala nilai 2D, dimana ketinggian objek dianggap bernilai nol. Metode dan fungsi-fungsi yang diperlukan diambil dari Open Source Computer Vision Library dan beberapa sumber?sumber penelitian yang ada. Pemilihan metode mana yang terbaik untuk dipakai ditentukan oleh pemakai itu sendiri. Dengan software yang dihasilkan ini komputer mampu menunjukkan posisi suatu obyek dalam gambar yang ditangkap oleh kamera, dimana hasil perhitungan disimpan dalam file teks untuk dapat diteliti lebih lanjut. Ketepatan penghitungan posisi 2D dari nilai titik berat memiliki selisih sekitar 0-0,3 cm. Hasil ini dapat diterima dengan asumsi objek berada dalam keadaan cahaya yang cukup terang dan pola papan catur berada di permukaan yang benar-benar datar.",
+  "creators": "DHARMA JUWANA SETIO",
+  "contributors": "Resmana Lim (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01000303/INF/2005; Dharma Yuwana (26400021)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

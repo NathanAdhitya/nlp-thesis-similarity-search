@@ -1,0 +1,14 @@
+{
+  "id": "4785",
+  "title": "Perancangan dan pembuatan sistem peminjaman buku di perpustakaan dengan menggunakan sms",
+  "abstract": "Perpustakaan sangat dibutuhkan oleh masyarakat sebagai tempat untuk mendapatkan berbagai informasi dan pengetahuan. Sistem peminjaman buku Perpustakaan Universitas Kristen Petra (yang ada saat ini) mengharuskan mahasiswa datang langsung ke perpustakaan apabila ingin memesan atau memperpanjang buku perpustakaan. Hal ini dirasa menyulitkan peminjam buku perpustakaan, terutama bagi mereka yang bertempat tinggal jauh. Dari permasalahan diatas timbul gagasan untuk menambah fasilitas perpustakaan dengan layanan untuk memesan, memperpanjang atau melihat daftar pinjaman buku perpustakaan melalui SMS. Sistem ini melakukan proses pengambilan data SMS (melalui telepon selular yang dihubungkan dengan komputer server) secara berkala dan memproses data pada database perpustakaan sesuai dengan kode request SMS. Database yang digunakan adalah database Perpustakaan Universitas Kristen Petra (dengan penambahan beberapa tabel untuk menampung data-data SMS). Kode request terdiri dari request untuk memesan, memperpanjang, dan melihat daftar pinjaman buku. Sistem akan mengirimkan SMS balasan kepada anggota perpustakaan apabila proses telah selesai dilakukan. Secara umum sistem yang dibuat telah berhasil mengambil data SMS request (dari telepon selular), melakukan proses data pada database perpustakaan (sesuai dengan SMS request) dan mengirimkan SMS Balasan pada anggota perpustakaan (sesuai hasil pemrosesan request pada database).",
+  "creators": "RUDY GUNAWAN",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Lauw Lim Un Tung (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010700B/ELK/2004; Rudy Gunawan (223499120)",
+  "subjects": "DIGITAL COMMUNICATION; GLOBAL POSITIONING SYSTEM-COMPUTER PROGRAMS"
+}

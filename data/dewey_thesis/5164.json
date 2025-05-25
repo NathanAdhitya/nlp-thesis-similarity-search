@@ -1,0 +1,14 @@
+{
+  "id": "5164",
+  "title": "Instrumentasi pendeteksi alkohol melalui bau mulut manusia",
+  "abstract": "Pengoperasian sebuah kendaraan otomatis atau sebuah bis atau sebuah mesin pabrik ketika seseorang dalam kondisi mabuk, akan membahayakan orang itu sendiri, para penumpang dan kesehatannya serta keselamatan dan kesejahteraan orang lain. Telah banyak orang yang tidak bersalah meninggal atau terluka karena seorang sopir yang mabuk. Oleh karena itu, untuk membantu para polisi dalam menjaga keamanan negara dari para pemabuk, maka timbul suatu ide untuk membuat alat pendeteksi alkohol melalui bau mulut manusia yang mudah dibawa dan dioperasikan. Alat ini lebih efektif jika dibandingkan dengan cara konvensional yaitu dengan pengambilan contoh darah dan urin. Cara konvensional ini menghabiskan banyak waktu dan biaya. Tugas akhir ini menggunakan sensor gas TGS2620 sebagai sensor utama dan dibantu dengan sensor suhu NTC (Negative Temperature of Coefficient resistance) untuk mendeteksi suhu pemanas pada sensor gas. Perubahan resistansi kedua sensor tersebut akan diubah oleh rangkaian astable menjadi lebar pulsa. Besar lebar pulsa akan dihitung dan diproses oleh rangkaian pengontrol mikro (AT89C2051) untuk menjadi kode ASCII sehingga dapat ditampilkan pada LCD (Liquid Crystal Display). Data yang ditampilkan berupa kategori level BAC (Blood Alcohol Concentration) dalam tubuh seseorang. Nilai level ini terbatas pada level yang diperbolehkan oleh hukum negara yaitu 0.1%. Sebagai referensi diambil contoh bau mulut dari beberapa responden yang berbeda jenis kelamin, berat badan, kondisi lambung dan jumlah minuman beralkohol yang dikonsumsi. Dengan beberapa pengujian yang telah dilakukan maka alat ini dapat digunakan untuk mendeteksi alkohol dalam tubuh manusia.",
+  "creators": "DWIYANA SEPTAFIANTI",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010690/ELK/2004; Dwiyana Septafianti (23400027)",
+  "subjects": "MICRO CONTROLLERS; GAS-DETECTORS"
+}

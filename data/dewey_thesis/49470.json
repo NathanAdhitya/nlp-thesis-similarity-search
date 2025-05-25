@@ -1,0 +1,14 @@
+{
+  "id": "49470",
+  "title": "Peningkatan elemen MITC3+ untuk pelat reissner-mindlin dengan interpolasi kriging",
+  "abstract": "Suatu pengembangan metode elemen hingga (MEH) untuk analisis pelat segitiga Reissner-Mindlin (RM) diajukan dalam penelitian ini. Penerapan MEH konvensional dengan elemen segitiga sederhana untuk analisis pelat RM terjebak dengan fenomena shear-locking. Dalam usaha mengatasi masalah tersebut, penelitian ini menggunakan elemen pelat MITC3+ sebagai permodelan dasar struktur pelat, diperkaya dengan penerapan MEH berbasis interpolasi Kriging (MEH-K). Elemen MITC3+ dirumuskan dalam MEH-K dengan mengubah shape function standar yang digunakan untuk perumusan matriks kekakuan lentur untuk 3 node di sudut elemen, dengan Kriging shape function hasil dari interpolasi Kriging. Elemen ini dinamakan elemen K-MITC3+. Perumusan interpolasi dari rotational displacement tambahan milik MITC3+ di tengah elemen dilakukan secara standar sehingga tidak terpengaruh oleh Kriging shape function. Berbagai macam benchmark problem kemudian digunakan untuk menguji kinerja elemen dan membandingkannya dengan hasil metode dari penelitian sebelumnya. Hasil penelitian menunjukkan elemen K-MITC3+ mampu menghindari fenomena shear-locking dan berperforma cukup memuaskan. Perbaikan lebih lanjut perlu dilakukan untuk meneliti pola konvergensi yang cenderung tidak konsisten pada kasus-kasus tertentu.",
+  "creators": "Sebastian",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Pamuda Pudjisuryadi (Examination Committee 1); Ir. JANUAR BUDIMAN, M.S.,Ph.D. (Examination Committee 2); Effendy Tanojo (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000294/MTS/2021; Sebastian (B21200003)",
+  "subjects": "ELASTIC PLATES AND SHELLS; KRIGING; PLATES (ENGINEERING)"
+}

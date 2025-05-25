@@ -1,0 +1,14 @@
+{
+  "id": "27756",
+  "title": "Sistem informasi akuntansi pada Toko Sinar Baru",
+  "abstract": "Toko sinar baru adalah unit usaha yang bergerak di bidang penjualan yang terletak di kota Atambua Provinsi Nusa Tenggara Timur. Barang atau produk yang dijual meliputi barang kebutuhan sehari-hari dan barang kebutuhan sampingan lainnya. Dalam kegiatannya sehari-hari Toko Sinar Baru masih menerapkan sistem manual dan belum sama sekali terdapat proses akuntansi di dalamnya. Hal ini menyebabkan proses transaksinya berjalan lambat dan kurang akurat jika dibandingkan dengan menggunakan sistem yang terkomputerisasi. Oleh karena itu Toko Sinar Baru membutuhkan sistem informasi akuntansi yang terkomputerisasi, dengan harapan dapat mengatasi masalah yang dihadapi. Sistem informasi akuntansi yang dimaksud diharapkan dapat membantu pemilik toko dalam mencatat semua transaksi yang dilakukan dan mengolahnya menjadi laporan yang berguna bagi pemilik untuk pengembangan toko ke depannya. Perancangan desain sistem menggunakan Data Flow Diagram dan Entity Relationship Diagram. Program menggunakan Microsoft SQL Server 2005 sebagai database, dan menggunakan bahasa pemrograman Microsoft Visual Studio 2005 .NET. Ruang lingkup program yang dibuat meliputi pembuatan database master untuk supplier, customer, barang, harga, dan satuan. Transaksi meliputi transaksi pembelian dan penjualan, serta pembuatan jurnal secara otomatis. Dari hasil pengujian, program, hasil dari proses transaksi dan penjurnalan yang dilakukan valid dan sesuai dengan kebutuhan perusahaan. Laporan yang dihasilkan telah dapat bermanfaat dan memenuhi kebutuhan perusahaan.",
+  "creators": "SELVIANY YEYEN SULAYMAN",
+  "contributors": "Andreas Handojo (Advisor 1); CHRISTIAN, SE, AK (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021074/INF/2011; Selviany Yeyen Sulayman (26408067)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMANT; PROGRAMMING (ELECRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "19914",
+  "title": "Studi tentang baterai nickel-metal hydride dan pembuatan alat pengisi baterai cepat nickel-metal hydride 1,2v 700mAh",
+  "abstract": "Baterai Nickel Metal Hydride (NiMH) merupakan salah satu baterai rechargeable yaitu baterai yang penggunaannya dapat digunakan berulang kali. Siklus normal pemakaian baterai NiMH ini dapat digunakan sampai 500 kali dan pemakaian ini dapat menjadi pendek jika cara pengisiannya tidak sesuai dengan karakteristik baterai. Untuk itu diperlukan peralatan pengisi baterai yang sesuai dengan karkateristik baterai dan metode pengisian yang direkomendasikan oleh pabrik pembuat baterai jenis ini. Dalam tugas akhir ini dibuat peralatan pengisi baterai menggunakan metoda pengisian arus konstan malalui tiga tahap pengisian yaitu fast charge, topping charge.dan maintenance charge yang dikontrol oleh rangkaian mikrokontroler AT89C51 untuk mengisi baterai NiMH ukuran AAA, 1,2V 700mAh. Program yang dibuat untuk mengontrol tiga tahap pengisian ini menggunakan bahasa assembler MCS51. Peralatan pengisi baterai yang dibuat ini pada tahap fast charge dapat memberikan arus pengisian sebesar 700mA dengan nilai tahanan Ri = 2,2Q dan waktu pengisian selama 1 jam, pada tahap pengisian topping charge dapat memberikan arus pengisian sebesar 70mA dengan nilai tahanan R2 = 47Q dan waktu pengisian selama 2 jam, lalu pada tahap pengisian terakhir yaitu maintenance charge dapat memberikan arus pengisian sebesar 17,5 mA dengan nilai tahanan R3 = 220Q dan waktu pengisian selama 3 jam.",
+  "creators": "ARIE EKA AGRIANANDA",
+  "contributors": "Resmana Lim (Examination Committee 1); Murtiyanto Santoso (Advisor 2); Yohanes Trilaksono Dibyo S. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/E/022/536; Arie Eka Agriananda (23495064)",
+  "subjects": "BATTERY CHARGERS-COMPUTER PROGRAMS; INTEL AT89C51 (MICROCONTROLLER)"
+}

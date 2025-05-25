@@ -1,0 +1,14 @@
+{
+  "id": "4786",
+  "title": "Mobile robot yang mengikuti garis dengan menggunakan kamera",
+  "abstract": "Di jaman modern seperti saat ini, automasi merupakan hal penting yang mendukung kegiatan manusia. Salah satu contohnya adalah pengangkut barang. Secara konvensional, conveyor sering digunakan untuk memindahkan barang. Namun conveyor ini kurang efektif karena menyita banyak ruangan. Selain itu, konstruksinya tidak efisien dan tidak fleksibel sehingga sulit untuk melakukan perubahan pada jalurnya. Salah satu solusinya adalah dengan menggunakan mobile robot yang dapat bergerak mengikuti garis berwarna. Karena hanya memerlukan garis berwarna, maka mobile robot ini tidak menyita banyak ruangan serta sangat fleksibel ( karena hanya memerlukan garis berwarna ). Untuk mendeteksi garis berwarna tersebut, mobile robot ini dilengkapi kamera ( CMUcam ) yang berfungsi sebagai sensor. Mobile robot ini dapat mengikuti 4 jalur berwarna yaitu merah, kuning, biru dan hijau. Pada pengujian yang dilakukan pada jalur lurus sepanjang 3 meter, waktu rata-rata yang dibutuhkan mobile robot adalah 10,09 detik. Ukuran dari mobile robot yang dibuat adalah panjang 50 cm, lebar 30 cm, tinggi 31 cm dan berat 10 kg ini adalah 10,09 detik. Beban maksimum yang dapat diangkut mobile robot untuk menjalankan perintah dengan baik adalah 4 kg. Selain itu, dalam pengujian pada denah jalur, mobile robot ini dapat mencapai tempat tujuan dengan baik.",
+  "creators": "INDRA RAMA ANGKIRIWANG",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Thiang (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010702/ELK/2004; Indra Rama Angkiriwang (23400109)",
+  "subjects": "MOBILE ROBOTS; ROBOTS-CONTROL SYSTEM; ROBOTS"
+}

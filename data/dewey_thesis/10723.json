@@ -1,0 +1,14 @@
+{
+  "id": "10723",
+  "title": "Simulasi PID visual tuning dengan metode ziegler-nichols untuk pengontrolan kecepatan motor dc",
+  "abstract": "Kontroler PID adalah kontroler yang sampai sekarang masih banyak digunakan di dunia industri. Hal terpenting pada desain kontroler PID ini ialah menentukan nilai parameter kontroler PID atau tuning. Tidak semua jenis motor DC cocok dikontrol dengan PID visual tuning metode Ziegler Nichols. Sebagai perbandingan akan dianalisa enam jenis motor DC, diantaranya adalah : motor DC tipe shunt, motor DC speed modeling, motor DC armature control, motor DC dengan sensor kecepatan tachometer, motor DC hasil pemodelan dengan identifikasi Strejc, serta motor DC with inertia disk. Metode visual tuning yang akan dibahas di sini ialah Ziegler-Nichols. Dengan mengimplementasikan kontroler PID pada motor DC, akan dianalisa karakteristik sistem dari plant tersebut. Setelah dilakukan eksperimen terhadap enam plant motor DC yang berbeda, dapat diketahui bahwa motor DC dengan sensor kecepatan tachometer cocok untuk dikontrol oleh PID visual tuning metode Ziegler Nichols dengan nilai total standardized value (X) untuk analisa tanpa maximum overshoot dan steady state error= -1.242744817 sedangkan untuk analisa tanpa motor DC tipe shunt, identifikasi strejc serta error steady state motor DC with inertia disk lebih cocok untuk dikontrol menggunakan PID visual tuning metode Ziegler Nichols dengan nilai standardized value (X) sebesar = -2.219986467.",
+  "creators": "IMAN SANTOSO PRASTYO",
+  "contributors": "Felix Pasila (Advisor 1); Handy Wicaksono (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010863/ELK/2008; Iman Santoso Prastyo (23401005)",
+  "subjects": "ELECTRIC MOTORS, DIRECT CURRENT; ELECTRIC MOTORS-ELECTRONIC CONTROL"
+}

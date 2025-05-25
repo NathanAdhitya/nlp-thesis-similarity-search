@@ -1,0 +1,14 @@
+{
+  "id": "51908",
+  "title": "Sistem pakar diagnosa penyakit sistem saraf pusat dengan metode backward chaining dan certainty factor",
+  "abstract": "Sistem atau susunan saraf merupakan salah satu bagian terkecil dari organ dalam tubuh, tetapi merupakan bagian yang paling kompleks. Sistem Saraf Pusat yaitu otak (ensefalon) dan medula spinalis merupakan pusat integrasi dan kontrol seluruh aktifitas tubuh sehingga sangat berbahaya jika sistem saraf kita mengalami masalah, mengingat bahwa kematian bisa terjadi disebabkan oleh masalah sistem saraf. Pengetahuan dan informasi yang minim, mustahil untuk bisa mengetahui penyakit sistem saraf yang diderita seseorang. Oleh karena itu, dibutuhkan seorang pakar yang ahli tentang penyakit sistem saraf dan pencegahannya. Bedasarkan fakta diatas, tugas akhir ini dapat membantu kita untuk mendiagnosa penyakit sistem saraf pusat dan mengantisipasinya jika mempunyai penyakit tersebut. Aplikasi ini dibuat berbasis web base (PHP) dengan menggunakan XAMPP sebagai server database MYSQL. Pada sistem pakar ini user akan memilih penyakit yang mau didiagnosa terlebih dahulu. Kemudian user menjawab beberapa pertanyaan terkait gejala yang dialami. Setelah user menjawab semua pertanyaan yang diberikan maka akan tampak hasil diagnosa beserta tingkat keyakinan dan solusi yang dapat membantu mengantisipasi penyakit tersebut.",
+  "creators": "FELIX",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Kartika Gunadi (Examination Committee 1); Agustinus Noertjahyana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022125/INF/2022; Felix (26416047)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--MEDICAL APPLICATIONS; EXPERT SYSTEMS (COMPUTER SCIENCE)"
+}

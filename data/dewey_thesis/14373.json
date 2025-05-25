@@ -1,0 +1,14 @@
+{
+  "id": "14373",
+  "title": "Alat ukur variabel-variabel listrik dengan display LCD sekaligus untuk memonitor variabel listrik",
+  "abstract": "Pada dewasa ini informasi merupakan salah satu bahan yang penting dalam segala bidang, antara lain bidang listrik. Untuk memperoleh suatu informasi yang tepat dan akurat maka diperlukan suatu alat ukur yang dapat menampilkan semua variabel listrik secara bersamaan dan secara digital sehingga dapat mengurangi kesalahan dalam proses pembacaan karena selama ini alat ukur yang ada tidak bisa menampilkan variabel listrik secara bersamaan. Alat ukur ini terdiri dari beberapa rangkaian yaitu rangkaian amperemeter, rangkaian voltmeter, rangkaian cos q> meter, rangkaian frekuensi meter dan rangkaian ADC. Alat ukur ini dihubungkan langsung dengan beban sehingga semua variabel listrik dapat dicatat. Harga tegangan dan arus yang diukur kemudian dihubungkan ke AC to DC Conversion untuk didapatkan nilai efektif arus dan tegangan yang kemudian masuk ke ADC sehingga dapat diolah menjadi sinyal digital selanjutnya dimasukkan ke minimum sistem untuk diolah lagi agar dapat ditampilkan pada LCD. Setelah dilakukan pengetesan maka didapatkan hasil untuk voltmeter sebesar 221V yang seharusnya mempunyai harga 220V sedangkan untuk amperemeter didapatkan hasil 0.23A pada beban 60W yang seharusnya 0.29A. Untuk pengetesan cos (p meter didapatkan harga cos beban diganti harga cos (p tetap sama hal ini berarti cos cp meter tidak berfungsi dengan baik. Kemudian dilakukan pengetesan untuk frekuensi meter, didapatkan hasil antara 50-58Hz hal ini juga berarti rangkaian frekusensi meter tidak berfungsi dengan baik.",
+  "creators": "PITRA OKTAVIAN",
+  "contributors": "Limboto Limantara (Advisor 1); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/TST/019/352; Pitra Oktavia (23492044)",
+  "subjects": "ELECTRONIC MEASUREMENTS"
+}

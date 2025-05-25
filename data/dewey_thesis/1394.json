@@ -1,0 +1,14 @@
+{
+  "id": "1394",
+  "title": "Pembuatan perangkat lunak penunjuk jalan antar ruang di gedung P Universitas Kristen Petra",
+  "abstract": "Universitas Kristen Petra adalah kampus yang telah menjalin hubungan dengan pihak-pihak luar kampus. Seringkali dijumpai banyak pihak luar yang bingung akan ruang dalam kampus, oleh karena itu diperlukan suatu sarana untuk membantu pihak-pihak luar ini. Salah satu sarana itu dengan dibuatnya perangkat lunak penunjuk jalan antar ruang. Perangkat lunak ini dibuat untuk menunjukkan jalan antara ruang yang satu dengan yang lain di gedung P Universitas Kristen Petra. Perangkat lunak penunjuk jalan antar ruang pada gedung P Universitas Kristen Petra ini adalah perangkat lunak yang menghasilkan output berupa denah beserta dengan hasil path dalam bentuk dua dimensi. Dimana denah beserta dengan hasil path ini dapat dicetak oleh user bila diperlukan. Secara garis besar perangkat lunak penunjuk jalan antar ruang di gedung P Universitas Kristen Petra ini terdapat dua tahap yaitu preprocessing dan processing. Tahap Preprocessing adalah tahap dimana dilakukan penggambaran denah. Tahap ini dilakukan dengan menggunakan Mapinfo Professional 7.0, Mapinfo Spatialware V4.5., Mapinfo MapX 5.0. Dan denah yang telah digambar disimpan dalam Microsoft SQL Server 2000 dalam bentuk spatial data. Tahap processing adalah proses-proses yang dilakukan oleh perangkat lunak ini antara lain proses pengolahan jarak terpendek dari semua titik ke semua titik yang ada dengan Floyd?s Algorithms dengan cara mengambil data titik pada database, proses mengolah input dari user menjadi koordinat-koordinat titik, proses mencari path dengan jarak terpendek dari satu ruang ke ruang yang lain, proses menampilkan hasil path ke dalam denah yang ada dengan menambahkan layer baru pada denah dengan jalan membuat OleObject, dan proses pencetakan denah beserta dengan hasil path dengan menggunakan komponen quickrep dari Delphi 6.0. Setelah melakukan uji coba akan perangkat lunak ini, maka didapatkan hasil yang cukup memuaskan karena perangkat lunak ini dapat menunjukkan jalan antara ruang yang satu dengan yang lain di gedung P Universitas Kristen Petra seperti tujuan dibuatnya perangkat lunak ini.",
+  "creators": "ANDRE MARTIN INDRASUTANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0073/INF/2003; Andre Martin Indrasutanto (26499007)",
+  "subjects": "SOFTWARE ENGINEERING"
+}

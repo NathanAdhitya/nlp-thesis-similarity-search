@@ -1,0 +1,14 @@
+{
+  "id": "15235",
+  "title": "Penjadwalan hybrid flow shop dengan fungsi tujuan meminimumkan maximum lateness di PT. UBM",
+  "abstract": "Dalam dunia produksi terdapat berbagai raasalah yang dapat mcmpcngaruhi jalannya proses tersebut. Salah satu hal yang mempengaruhi yaitu bagaimana menjadwalkan pekerjaan-pekerjaan yang ada dengan berbagai kendala sehingga pekerjaan tersebut dapat dikerjakan dengan tepat waktu dan memenuhi permintaan yang ada. Tujuan dari Tugas Akhir ini adalah melakukan penjadwalan bagi sistem produksi hybrid flow shop untuk menentukan urutan/oZ> yang dikerjakan sehingga dapat diselesaikan tanpa mengalami keterlambatan atau meminimumkan keterlambatan bila terjadi. Penjadwalan dilakukan dengan menggunakan tiga heuristik yaitu heuristik NEHB, VBA, dan VBB dengan memperhatikan beberapa kendala penting seperti precedence constraint dan time lags. Untuk itu data-data yang dibutuhkan diperoleh dari hasil pengamatan langsung di lantai produksi yang kemudian diolah dan digunakan dalam melakukan penjadwalan. Kemudian dari hasil penjadwalan ketiga heuristik tersebut dilakukan perbandingan untuk menentukan heuristik yang terbaik yang dapat memberikan urutan pengerjaan job yang dapat meminimumkan keterlambatan maksimum. Hasil penjadwalan dengan ketiga heuristik tersebut menunjukkan bahwa heuristik NEHB dan VBA memberikan hasil yang sama dalam meminimumkan keterlambatan maksimum. Hanya saja urutan pengerjaan job yang dihasilkan berbeda. Sementara heuristik VBB memberikan hasil keterlambatan maksimum yang lebih besar dibandingkan dengan kedua heuristik lainnya Penjadwalan dengan sistem produksi hybrid flow shop sebaiknya dilakukan dengan menggunakan heuristik NEHB dan VBA yang dapat memberikan pendekatan hasil optimum.",
+  "creators": "TJIANG VONNY",
+  "contributors": "Pauline Astari Singgih (Advisor 2); I Gede Agus Widyadana (Examination Committee 1); Didik Wahjudi (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 429/TI-020/2001; Vonny Tjiang (25496061)",
+  "subjects": "SCHEDULING; PRODUCTION PLANNING; PRODUCTION MANAGEMENT QUALITY CONTROL"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "9068",
+  "title": "Penentuan parameter menggunakan kernel estimator untuk menghitung capability index",
+  "abstract": "Keragaman dalam proses manufaktur adalah normal selama berada dalam batas spesifikasi. Indek kemampuan proses (process capability index) adalah alat yang digunakan untuk mengukur kemampuan proses dengan membandingkan spesifikasi dan variabilitas proses. Kebanyakan indek kemampuan proses selalu mengasumsikan data berdistribusi normal. Sedangkan dalam industri, data yang ada belum tentu normal. Bila dipaksakan tanpa mengindahkan distribusi suatu data maka hasil perhitungan indek kemampuan proses menjadi tidak sesuai dengan kenyataan. Alat bantu yang digunakan, agar data dengan distribusi yang bermacammacam tersebut dapat dihitung kemampuan prosesnya, adalah kernel density estimation. Kernel density estimation digunakan untuk mendapatkan parameter yang dibutuhkan untuk menghitung indek kemampuan proses. Percobaan dilakukan terhadap data yang berdistribusi normal, eksponensial, gamma, dan Weibull dengan jumlah data 100, 250, 500, dan 1000 dengan bantuan R program. Hasil yang diperoleh adalah sebaiknya menggunakan jumlah data lebih dari 100 untuk menghasilkan nilai yang sesuai dengan kenyataan. Selain itu dilakukan pengujian untuk studi kasus yang tidak diketahui parameternya. Program ini dapat memberikan estimasi parameter yang dapat digunakan untuk menghitung nilai indek kemampuan proses.",
+  "creators": "YUANITA GUNAWAN",
+  "contributors": "Felecia, S.T., M.Sc. (Advisor 1); Siana Halim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011191/IND/2007; Yuanita Gunawan (25403018)",
+  "subjects": "MANUFACTURING PROCESS; QUALITY CONTROL-STATISTICAL METHOD"
+}

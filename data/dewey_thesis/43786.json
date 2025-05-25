@@ -1,0 +1,14 @@
+{
+  "id": "43786",
+  "title": "Sistem pengendali stabilitas 1-AXIS untuk video kamera dengan menggunakan arduino",
+  "abstract": "Adanya guncangan akibat pergerakan tangan pengguna kamera DSLR saat merekam video, dapat menyebabkan hasil perekaman video tidak stabil atau banyak gerakan didalamnya. Untuk dapat mengurangi masalah tersebut, digunakan sebuah alat penstabil untuk kamera DSLR seperti stabiliser kamera atau biasa disebut gimbal. Alat ini dapat dibuat menggunakan sebuah modul Arduino dengan penerapan sistem kontrol pada programnya. Sistem kontrol tersebut dapat berupa sistem PID. Sistem ini akan menggerakkan motor brushless untuk mempertahankan posisi awal kamera sesuai yang dikehendaki. Dengan menggunakan alat penstabil ini, guncangan akibat pergerakan tangan pengguna kamera DSLR dapat diminimalkan. Sehingga hasil perekaman video menggunakan alat ini akan lebih stabil dan tidak banyak getaran didalam videonya",
+  "creators": "KEVIN CHRISTIAN HERJANTO",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010974/ELK/2018; Kevin Christian Herjanto (23413010)",
+  "subjects": "CAMERAS; ARDUINO (PROGRAMMABLE CONTROLLER)"
+}

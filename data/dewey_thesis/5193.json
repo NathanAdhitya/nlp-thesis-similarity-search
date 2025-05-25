@@ -1,0 +1,14 @@
+{
+  "id": "5193",
+  "title": "Perencanaan dan pembuatan robot otomatis dengan spesifikasi KRI 2003",
+  "abstract": "Pembuatan tugas akhir ini didasarkan dari keinginan untuk berpartisipasi mengikuti Kontes Robot Indonesia 2003 (KRI 2003) yang diadakan di Universitas Indonesia pada tanggal 3 Mei 2003 dan diikuti oleh 32 tim dari berbagai universitas yang ada di Indonesia. Dalam mendesain robot dibagi dalam 3 bagian yaitu mekanik, hardware, software. Pembuatan pada bagian mekanik dimulai dari pembentukan kerangka robot, pemasangan motor, sampai dengan pemasangan hardware secara keseluruhan. Pembuatan pada bagian hardware dimulai dari perancangan desain hardware, pembuatan sensor garis, perancangan penggerak motor, dan yang paling penting adalah desain dari mikrokontroler sebagai kontrol gerak robot. Sedang pembuatan pada bagian software dimulai dari pengecekan sensor, pembuatan kontrol kecepatan roda, sampai dengan penggerak motor katrol. Software yang digunakan adalah bahasa pemrograman MCS51. Robot Otomatis yang dibuat pada tugas akhir ini dapat bergerak secara otomatis mengikuti garis lurus dan lingkaran, kemudian memasukan bola ke dalam keranjang . Robot otomatis ini juga memiliki kelemahan, yaitu labil dalam memasukan bola ke dalam keranjang. Hal ini disebabkan karena kondisi keranjang bola yang bisa bergerak, sehingga sulit untuk memasukan bola.",
+  "creators": "TEGUH HARTONO SANTOSA",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/650/ELK/2003; Teguh Hartono Santosa (23499035)",
+  "subjects": "ROBOTS-MOVEMENT; ROBOTICS"
+}

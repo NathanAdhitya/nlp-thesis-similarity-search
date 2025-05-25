@@ -1,0 +1,14 @@
+{
+  "id": "14830",
+  "title": "Robot mobil dengan kendali jarak jauh",
+  "abstract": "Perencanaan robot mobil ini dilatar belakangi oleh keinginan manusia untuk dapat mengendalikan robot mobil pada suatu jalur atau maze sehingga operator tahu keadaan pada maze tersebut. Pengendalian robot mobil ini dilakukan secara wireless yaitu dengan menggunakan frekuensi radio sebagai sarana komunikasinya. Robot mobil ini terdiri dari empat sistem utama yaitu: drive system dalam hal ini differential drive motor, sensor system berupa sensor jarak infra merah, control system yaitu microcontroller AT89C52, dan transmitting data system yang terdiri dari IC modem TCM 3105, transmitter, dan receiver. Pengujian robot mobil ini dilakukan pada sebuah maze yang sesuai dengan aturan yang ditetapkan IEEE \"Micromouse Contest Rules\". Robot mobil dapat menjalankan perintah yang diinginkan oleh operator tanpa membentur dinding maze selain itu operator juga memperoleh sejumlah informasi maze yang dikirimkan oleh robot mobil dan ditampilkan pada PC. Sedangkan pada pengujian modul komunikasi terjadi 2 kali gangguan komunikasi dari 10 kali percobaan di siang hari.",
+  "creators": "IWAN SUHARTONO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Unknown",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/034/471; Iwan Suhartono (23495080)",
+  "subjects": "ROBOTS; ROBOTICS"
+}

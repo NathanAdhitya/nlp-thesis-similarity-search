@@ -1,0 +1,14 @@
+{
+  "id": "42635",
+  "title": "Pemantauan kualitas udara polutan CO DAN CO2 berbasis IoT",
+  "abstract": "Sebagian besar sistem pemantauan udara yang ada belum dapat terkoneksi melalui jaringan internet, oleh karenanya alat pemantau udara tersebut hanya dapat dipantau dan dikendalikan secara lokal. Dalam TA ini akan dibuat alat pemantau kualitas udara polutan CO dan CO2 berbasis IoT (Internet of Things). Dalam pembuatan alat pemantau polutan udara menggunakan sensor MQ-7 untuk mendeteksi gas CO dan menggunakan sensor MH-Z19 untuk memantau gas CO2. Perbedaan dengan alat-alat yang telah dibuat sebelumnya yang sebagian besar menggunakan sensor tipe TGS yaitu harga yang lebih murah. Dengan adanya alat pemantau kualitas udara yang dibuat dalam TA ini dapat diakses melalui website ataupun handphone dengan aplikasi Blynk. Hasil dalam pembuatan sistem pemantau polutan udara berbasi IoT adalah mudahnya pemantauan gas polutan udara khususnya gas CO dan CO2. Dalam pembacaan besaran gas CO dan CO2 alat pemantantau polutan udara berbasis IoT memiliki tingkat kesalahan pembacaan gas CO sebesar 0% dan gas CO2 sebesar 97%-98 %. Besar error pembacaan sensor gas CO2 dikarenakan sensor untuk kalibrasi tidak memiliki spesifikasi yang sama dengan sensor yang digunakan. Pemantauan polutan udara terdiri dalam tiga tampilan yaitu tampilan berupa website, aplikasi Blynk dan perangkat LCD 20x4.",
+  "creators": "HARDIAN SETYA DHARMA PUTRA",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010135/ELK/2018; Hardian Setya Dharma P. (23413022)",
+  "subjects": "AIR-POLLUTION-RESEARCH; MOTOR VEHICLES-POLUTION CONTROL DEVICES; SENSOR NETWORK-DESIGN"
+}

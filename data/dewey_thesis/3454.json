@@ -1,0 +1,14 @@
+{
+  "id": "3454",
+  "title": "Perencanaan dan pembuatan aplikasi animasi tangan virtual tiga dimensi dengan menggunakan alat 5DT data glove 5 ultra",
+  "abstract": "Semakin berkembangnya teknologi perangkat lunak dan teknologi informasi di era globalisasi ini, komputer bisa memenuhi kebutuhan manusia untuk belajar, bermain, bekerja dan berpikir. Perkembangan teknologi yang terakhir sudah mencapai tahap virtual reality (VR) yang bisa menjadi sebuah simulasi sebuah kegiatan di dunia virtual. Namun perkembangan VR di negara Indonesia sangat jauh tertinggal dari negara lain seperti Amerika Serikat dan Jepang yang sudah memproduksi alat simulasi VR. Untuk memajukan perkembangan VR di Indonesia, diperlukan aplikasi VR yang bisa dijadikan pelopor VR di Indonesia. Tujuan Tugas Akhir ini adalah untuk membuat aplikasi yang dapat menerima animasi gerakan tangan dengan menggunakan 5DT Data Glove 5 Ultra dan mengeluarkan output animasi yang dapat digunakan untuk desain dan permainan tiga dimensi. Pada aplikasi yang dibuat akan memakai bahasa pemrograman Microsoft Visual C++ 6.0 dan alat 5DT Data Glove 5 Ultra untuk menampilkan animasi tiga dimensi pada layar dengan menggunakan OpenGL dan animasi tersebut akan ditampilkan dalam empat sudut pandang. Dalam data glove tersebut terdapat lima sensor yang mengirimkan sinyal ke komputer dan diterima oleh aplikasi yang dibuat. Dari lima sensor tersebut akan mengirimkan sinyal ke aplikasi untuk dipakai dalam penggambaran sudut semua jari sehingga bisa menghasilkan animasi gambar tangan tiga dimensi yang bisa digunakan di empat window OpenGL pada aplikasi utama dan window OpenGL permainan. Dengan menggunakan alat tersebut, aplikasi bisa menampilkan animasi gerakan tangan virtual yang sealami dan seakurat mungkin untuk gerakan tangan membuka dan menutup dan gaya tangan yang bermacam-macam. Namun dari semua gaya ada beberapa gaya yang berbeda secara fisik tetapi diinterpretasikan sama oleh aplikasi yang dikarenakan keterbatasan sensor pada data glove yang digunakan.",
+  "creators": "WIRADINATA EDDY",
+  "contributors": "Rudy Adipranata (Advisor 1); Yulia (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010529/INF/2006; Wiradinata Eddy (26402064)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

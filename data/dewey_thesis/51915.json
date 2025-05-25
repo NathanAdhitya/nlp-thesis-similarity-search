@@ -1,0 +1,14 @@
+{
+  "id": "51915",
+  "title": "Sistem rekomendasi rumah berbasis mobile app dengan metode collaborative filtering dan slope one",
+  "abstract": "Permintaan akan properti, khususnya rumah saat ini mengalami peningkatan yang pesat di Indonesia, meski sempat merosot tajam sebelumnya di tengah pandemi Covid-19. Selain di perjual-belikan untuk tempat tinggal maupun tempat bisnis, rumah saat ini menjadi salah satu investasi yang paling menguntungkan, yang dari segi harga selalu menguat dari tahun ke tahun. Ketika pandemi Covid-19 resmi masuk ke Indonesia, penjualan properti termasuk rumah mendalami dampak yang signifikan, termasuk diantaranya dikarenakan oleh terhambatnya pertemuan antara pemilik properti dan calon pembeli. Pemberlakuan social distancing, kesulitan mengadakan Open House otomatis sempat terhambat bahkan berhenti mengingat akses jalan dan waktu yang kian dibatasi karena pencegahan Covid-19. Dengan sistem rekomendasi rumah, user dapat melakukan survey awal melalui informasi yang sudah tersedia, termasuk gambar detail rumah yang diminati sehingga dapat mempersempit pilihan dan survey langsung nantinya lebih efisien. Penelitian ini menggunakan metode Collaborative Filtering dan Slope One untuk menghasilkan rekomendasi rumah. Tujuan metode ini adalah agar user yang sama dan rumah-rumah yang serupa dapat disukai oleh user sebagai rekomendasi pilihan. Sedangkan Slope One bekerja untuk dapat meningkatkan akurasi dari metode Collaborative Filtering. Berdasarkan pengujian yang telah dilakukan, aplikasi yang dibuat sudah dapat merekomendasi rumah dengan baik berdasarkan perhitungan Kendall Rank Correlation dengan mengeluarkan hasil rata-rata 0.87475, dimana hasil ini dapat dikategorikan cukup baik.",
+  "creators": "NABELLA NOVANIA",
+  "contributors": "Alexander Setiawan (Advisor 1); Andreas Handojo (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022133/IF/2022; Nabella Novania (C14170041)",
+  "subjects": "ANDROID (ELECTRONIC RESOURCE)--PROGRAMMING; RECOMMENDER SYSTEMS (INFORMATION FILTERING)"
+}

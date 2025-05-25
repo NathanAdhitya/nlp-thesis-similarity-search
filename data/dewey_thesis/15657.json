@@ -1,0 +1,14 @@
+{
+  "id": "15657",
+  "title": "Perencanaan anti feedback positif dari karakteristik microphone dengan menggunakan fuzzy controller NLX 220 ES",
+  "abstract": "Fenomena Feedback Positif adalah suatu keadaan dimana hasil penguatan amplifier yang dikeluarkan dari loudspeaker masuk lagi kedalam microphopne untuk dikuatkan kembali, dan hal tersebut terjadi berulang-ulang sehingga terjadi bunyi denging yang sering disebut dengan feedback. Feedback tersebut sangat mengganggu kelangsungan acara. Selama ini feedback diatasi oleh sound operator dengan menjaga atau mengatur gain sedemikian rupa supaya tidak terjadi feedback. Selain masih manual juga bila sang operator kurang tanggap atau kurang berpengalaman maka feedback tetap tidak dapat diatasi, sehingga timbul vonis bahwa sound system yang digunakan jelek. Diharapkan dengan rangkaian anti feedback positif ini dapat mengatasi fenomena feedback tersebut sehingga memperingan tugas operator dan meningkatkan kualitas dari sound system. Cara kerja rangkaian anti feedback positif ini adalah sebagai berikut: pertama-tama masukan kami hubungkan dengan rangkaian penggeser fase selain itu masukan juga dihubungkan dengan rangkaian pendeteksi amplitudo dan rangkaian pengubah frekuensi ke tegangan yang berfungsi sebagai masukan dari kontroller Fuzzy Logic selanjutnya diatur dalam rule-rule dalam Fuzzy Logic yang menentukan besar-kecil pergeseran fasenya, semakin besar pergerseran fasenya semakin kecil kemungkinan timbulnya feedback. Dari hasil pengujian terlihat bahwa rangkaian dapat mengurangi timbulnya feedback positif khususnya untuk frekuensi-frekuensi tinggi antara 1,7 Kilo Hertz sampai dengan 7 Kilo Hertz dengan menggeser fase input.",
+  "creators": "STEPHANUS NUGROHO",
+  "contributors": "SOETIKNO (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/010/404; Stephanus Nugroho (23493047)",
+  "subjects": "FUZZY LOGIC; INTEL FUZZY NLX 220ES (MICROCONTROLLER)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10607",
+  "title": "Perancangan modul akuisisi data dengan input output digital dan analog",
+  "abstract": "Teknologi instrumentasi yang semakin berkembang sangat membantu manusia dalam mengerjakan tugas-tugasnya. Salah satu teknologi instrumentasi yang ada adalah Data Acquisition System (DAS). Tugas Akhir ini mengambil topik untuk merancang suatu sistem akuisisi data yang dapat digunakan untuk berbagai macam aplikasi. Sistem ini dapat digunakan untuk mengakuisisi delapan digital input, delapan digital output, delapan analog input dan juga dua analog output dengan menggunakan program LabVIEW dari National Instruments. Digital input dapat digunakan untuk tegangan 0-5V hingga 0-24V. Sistem ini juga mempunyai open collector digital output dengan tegangan \"low\" sebesar 0,276V. Untuk analog input maupun analog output dari sistem ini mempunyai rata-rata error sebesar 14,47mV untuk input range 1-5V, 72,34mV untuk input range 0-10V, 0,037mA untuk input range 4-20mA dan 16,2mV untuk output range 0-10V. Sistem ini tidak dirancang untuk digunakan pada aplikasi yang membutuhkan ketelitian waktu yang tinggi.",
+  "creators": "TIMOTHY JOY SISWANTO",
+  "contributors": "Thiang (Advisor 1); Indar Sugiarto (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010878/ELK/2008; Timothy Joy Siswanto (23404009)",
+  "subjects": "MICROCONTROLLERS"
+}

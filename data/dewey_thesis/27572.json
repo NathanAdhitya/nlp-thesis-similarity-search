@@ -1,0 +1,14 @@
+{
+  "id": "27572",
+  "title": "Aplikasi web based UML diagram designer",
+  "abstract": "Perancangan model suatu aplikasi kompleks dengan Unified Modeling Language (UML) umumnya dilakukan dengan aplikasi desktop tetapi membutuhkan disk space yang besar dan kurang mendukung permodelan project yang dikerjakan banyak pihak. Untuk mengatasinya, diciptakan aplikasi online yang berbasis flash. Tetapi flash saat ini sudah mulai ditinggalkan oleh para pengembang. Maka aplikasi ini dikembangkan dengan teknologi baru tanpa flash. Aplikasi ini dikembangkan dengan bahasa PHP, Javascript, JQuery, HTML5, dan CSS3. Fitur-fitur yang utama yaitu: Maintain Project (New, Save, Load, Remove), Maintain 9 jenis Diagram UML (New, Edit, Rename, Delete, Print), Modifikasi Komponen dan Relasi Diagram, Kolaborasi Diagram, dan fasilitas komentar. Pembuatan aplikasi ini diawali dengan mendesain sitem melalui diagram alur, desain menu, desain database MySQL, dan desain interface. Berdasarkan pengujian, aplikasi ini berhasil dibuat dengan platform yang lebih ringan (on server) dan terbuka karena tidak dipengaruhi plugin dan dapat dijalankan pada berbagai browser. Aplikasi ini telah dibandingkan dengan Gliffy dan Cacoo (aplikasi sejenis) dan mempunyai keunggulan dalam hal kelengkapan tools, penggolongan jenis diagram, komponen dan relasi yang fleksibel, penamaan spesifikasi yang terstruktur, dan kolaborasi untuk komunikasi tim pengembang.",
+  "creators": "RISKA APRILIA",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021182/INF/2012; Riska Aprilia (26408042)",
+  "subjects": "INTERNET (COMPUTER NETWORK); PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

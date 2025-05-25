@@ -1,0 +1,14 @@
+{
+  "id": "5217",
+  "title": "Aplikasi sistem proteksi generator 3 fasa 0.55 kva, 127/220v menggunakan zelio logic",
+  "abstract": "Untuk menjamin kualitas penyediaan daya oleh generator, maka diperlukan adanya sistem proteksi yang berfungsi untuk memproteksi generator, sehingga apabila terjadi gangguan, generator dan peralatan yang terdapat dalam jaringan terhindar dari kerusakan. Dalam merancang sistem proteksi yang baik, perlu suatu perencanaan matang mengenai jenis gangguan yang mungkin timbul, batas nilai setting dari setiap proteksi terhadap gangguan yang terjadi, rating dari kontaktor, dan lain sebagainya. Perencanaan proteksi generator ini menggunakan program Zelio Zoft 2 yang berfungsi untuk memprogram zelio logic sehingga dapat mengatur kerja sistem serta menginputkan nilai setting dari setiap proteksi terhadap gangguan yang terjadi antara lain: overcurrent, overvoltage, undervoltage, overfrequency, dan loss of excitation. Hasil yang didapat dari pengujian adalah nilai konversi error rata-rata rangkaian pendeteksi gangguan tegangan adalah sebesar 4.5%, koefisien korelasi 0.9999, error delay sebesar 11.7%. Untuk rangkaian pendeteksi gangguan arus memiliki nilai konversi error sebesar 12%, koefisien korelasi 0.9995, dan error delay sebesar 3.7%. Untuk rangkaian pendeteksi overfrequency, didapat error delay antara 0-4 detik. Tetapi pada rangkaian pendeteksi loss of excitation, error delay hampir tidak ada.",
+  "creators": "HEROE SUSANTO CAHYA",
+  "contributors": "Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 1); Handy Wicaksono (Advisor 2); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No.01010558/ELK/2007; Heroe Susanto Cahya (23403042)",
+  "subjects": "HYDROELECTRIC GENERATORS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "57334",
+  "title": "Deteksi mimik wajah pembicara publik pada video menggunakan metode CNN-LSTM",
+  "abstract": "Pelatihan public speaking memiliki proses pembelajaran yang memerlukan banyak pendampingan dari mentor dan memerlukan waktu yang cukup panjang sehingga seseorang pembicara itu mahir dalam public speaking. Akan tetapi masalah yang ditemui adalah jumlah pelatih yang kurang mencukupi untuk mengatasi jumlah mahasiswa yang banyak dan belum adanya alat yang membantu proses pembelajaran public speaking. Oleh karena itu diusulkan solusi sebuah alat yang dapat memudahkan pembelajaran public speaking dengan mendeteksi kesalahan umum pada mimik wajah yang sering diulangi oleh pembicara. Untuk mencapai tujuan tersebut maka diusulkan metode CNN-LSTM yang dilatih dari dataset rekaman mahasiswa public speaking untuk mendeteksi mimik wajah dari sebuah video panjang. Input dari sistem akan berupa video rekaman mahasiswa public speaking. Diterapkan lokalisasi wajah untuk memotong area wajah dari mahasiswa. Model CNN-LSTM akan mendeteksi mimik wajah dari rekaman mahasiswa tersebut. Label akan dibagi menjadi dua jenis yaitu label klasifikasi biner dan label klasifikasi multikelas. Hasil pengujian model CNN-LSTM pada dataset mencapai akurasi 96% untuk model klasifikasi biner dan 94% untuk model klasifikasi multikelas. Model yang mencapai akurasi terbaik pada dataset diterapkan pada aplikasi",
+  "creators": "VINCENT DARMAWAN",
+  "contributors": "Liliana (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Kartika Gunadi (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022376/INF/2023; Vincent Darmawan (C14190162)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); HUMAN FACE RECOGNITION (COMPUTER SCIENCE); PUBLIC SPEAKING"
+}

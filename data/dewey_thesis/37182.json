@@ -1,0 +1,14 @@
+{
+  "id": "37182",
+  "title": "Implementasi elemen tetrahedron linier dan kuadratik untuk analisis tegangan tiga dimensi menggunakan Program MATLAB dan GiD",
+  "abstract": "Metode elemen hingga (MEH) saat ini telah populer digunakan untuk memecahkan masalah-masalah yang sulit diselesaikan dengan metode analitik. Salah satu permasalahan yang sulit adalah objek tiga dimensi yang dapat ataupun tidak dapat dimodelkan dalam satu ataupun dua dimensi dimana permodelan tiga dimensi yang paling representatif. Dengan demikian dalam studi ini dibuat program untuk menyelesaikan permasalahan permodelan tiga dimensi dengan mengunakan elemen tetrahedron linier dan kuadratik. Analisis statik linier 3D solid diimplementasikan dalam program MATLAB, sedangkan pre-process dan post-process dengan program GiD. Keakuratan dan konvergensi MEH 3D solids ini diuji dengan menyelesaikan berbagai benchmark problems. Hasil-hasil pengujian menunjukkan bahwa MEH 3D solids mampu untuk mencapai hasil diharapkan dengan material isotropik maupun orthotropik. Penggunaan elemen kuadratik mampu mencapai hasil yang diharapkan lebih cepat dari elemen linier, sehingga penggunaan elemen kuadratik lebih efisien. Hasil yang didapat dengan elemen kuadratik cenderung konvergen di atas hasil referensi. Program yang dibuat diharapkan menjadi alternatif dalam analsis permodelan tiga dimensi.",
+  "creators": "BRYAN LINGGO SATRIA; LEVIN SERGIO TANAYA",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Benjamin Lumantarna (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012089/SIP/2016; Bryan LinggoSatria (21412034), in Sergio Tanaya (21412046)",
+  "subjects": "FINITE ELEMENT METHODS; MATLAB (COMPUTER PROGRAM)"
+}

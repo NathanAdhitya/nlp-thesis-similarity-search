@@ -1,0 +1,14 @@
+{
+  "id": "7450",
+  "title": "Pembuatan aplikasi untuk melatih dan menguji kecepatan dan ketepatan dalam mengetik dengan sistem score yang menggunakan fuzzy system",
+  "abstract": "Saat ini komputer bukanlah peralatan yang sulit dicari, hampir semua kalangan dapat mengunakannya baik itu di milik pribadi maupun organisasi. Tetapi meski semua orang dapat mengunakannya tetapi tidak semua orang dapat mengetik pada keyboard secara tepat. Masih banyak dijumpai orang yang mengetik dengan dua jari telunjuk. Alasan mengapa mereka mengetik dengan dua jari, adalah tidak mengerti bagaimana mengetik dengan sepuluh jari. Sedangkan jika ada pelatihan mengetik terasa mubasir karena untuk belajar mengetik dengan benar saja harus membayar. Oleh karena itu diperlukan pelatihan yang sederhana dan dapat digunakan oleh semua orang tanpa harus mengeluarkan uang. Dengan mengetahui posisi jari yang benar diatas keyboard dan bisa mengetik dengan jari yang tepat diharapkan user dapat menghilangkan kebiasaan mengetik yang salah. Setelah terbiasa mengetik user dapat mencoba soal yang disediakan dan mendapat score dari pengetikan yang user lakukan sehingga muncul keinginan bersaing mengetik dengan baik. Untuk menentukan score akhir digunakan penilaian secara absolut dan relatif untuk kecepatan dan ketepatan mengetik. Penilaian absolut merupakan penilaian yang dilihat dari posisi dasar jari saat mengetik. Sedangkan penilaian relatif melihat dari kesalahan mengetik yang pernah terjadi saat mengetik soal. Dari penilaian absolut dan relatif user dapat melihat berapa score ketepatan dan kecepatan miliknya. Untuk menggabungkan score absolut dan relatif digunakan over weighted averanging operation. Setelah score ketepatan dan kecepatan didapatkan digunakan generalized means utnuk menggabungkan kedua score tersebut. Penilaian score dari program telah diuji dan sesuai dengan sistem yang digunakan untuk menilai.",
+  "creators": "YONATHAN SUSANTO",
+  "contributors": "Rolly Intan (Advisor 1); Rudy Adipranata (Advisor 2); M. ISA IRAWAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000447/INF/2005; Yonathan Susanto (26401075)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

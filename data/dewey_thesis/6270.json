@@ -1,0 +1,14 @@
+{
+  "id": "6270",
+  "title": "Pembuatan software scada pada proses produksi minuman berbasis wonderware intouch 9.0",
+  "abstract": "Tugas akhir ini dibuat sebagai salah satu bentuk simulasi dari proses produksi minuman yang terjadi dalam dunia industri. Tugas akhir ini juga dilengkapi dengan SCADA sistem, yang akan memberikan gambaran lebih nyata tentang proses yang dimaksud. Untuk lebih memudahkan proses kontrol dan monitoring, maka bentuk dan ukurannya-pun dibuat menyerupai plant yang ada di dalam dunia industri. Plant produksi minuman yang digunakan adalah pengembangan dari tugas akhir Sdr. Ricky Subagio (Tugas akhir No.0201076/ELK/2005). PLC yang digunakan sebelumnya adalah dua buah PLC Schneider TSX Micro 37-21. Sekarang digunakan satu buah PLC Omron Sysmac C-40H. Software SCADA yang digunakan dalam plant tersebut adalah Wonderware Intouch 9.0. Untuk membuat ladder diagram digunakan software SSS (Sysmac Support Software). Plant tersebut mengalami perbaikan di Valve A (Valve ini untuk mengalirkan air dari tangki A ke tangki C), Valve B (Valve ini untuk mengalirkan air dari tangki B ke tangki C) dan Valve filler (Valve ini mengisi air dari tangki D ke dalam gelas). Serta ada penambahan satu limit switch. Dari pengujian yang dilakukan, dengan penggantian Valve A dan Valve B debit air yang keluar dari tangki A dan tangki B lebih banyak. Sedangkan dengan penggantian Valve filler dan dengan adanya penambahan limit switch, air yang keluar lebih merata. Dengan menggunakan software Wonderware Intouch 9.0. kita dapat lebih mudah untuk memonitor keadaan plant sebenarnya serta dapat mengontrol plant.",
+  "creators": "HENDRI WIJAYA",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010814/ELK/2006; Hendri Wijaya (23401032)",
+  "subjects": "SCADA (SOFTWARE SUPERVISOR CONTROL AND DATA ACQUISITION); AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

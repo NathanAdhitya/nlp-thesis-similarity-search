@@ -1,0 +1,14 @@
+{
+  "id": "36513",
+  "title": "Studi elemen discrete-kirchhoff mindlin triangle (DKMT) untuk analisis statik pelat lentur dan pengembangan untuk analisis dinamik getaran bebas",
+  "abstract": "Pengembangan analisis pelat lentur berbasis teori Reissner-Mindlin dengan menggunakan metode elemen hingga telah berkembang sejak lama. Salah satunya adalah elemen Discrete-Kirchhoff Mindlin Triangle (DKMT) yang dikemukakan oleh Katili (1993). Adapun kesimpulan yang diberikan mengatakan bahwa elemen ini lolos patch test, bebas shear locking, tidak sensitif terhadap distorsi geometri, tidak ada extra zero-energy modes, dan memiliki konvergensi yang baik. Berdasarkan hasil tersebut, maka penelitian kali ini ditujukan untuk melakukan re-evaluasi terhadap performa elemen DKMT dalam analisis statik serta mengembangkannya untuk analisis dinamik getaran bebas. Batasan yang diberikan berupa analisis linear dan material yang bersifat isotropik. Dari hasil penelitian didapatkan bahwa kesimpulan yang dinyatakan oleh peneliti sebelumnya benar adanya. Akan tetapi terdapat hasil yang kurang tepat pada permasalahan rhombic plate di mana displacement titik tengah dan nilai momen berada di bawah solusi eksaknya. Sedangkan untuk analisis dinamik getaran bebas, hasil yang didapat cukup memuaskan karena dapat memberikan nilai frekuensi natural dan mode shape yang cukup akurat. Akan tetapi elemen DKMT membutuhkan banyak titik yang salah satunya 32x32 mesh pada pelat bujursangkar untuk mendapatkan hasil yang akurat.",
+  "creators": "ERWIN TIRTA WINATA; CHARLES JULIUS SALIM",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Pamuda Pudjisuryadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012061/SIP/2015; Erwin Tirta Winata (21412028), Charles Julius Salim (21412029)",
+  "subjects": "ELASTIC PLATES AND SHELLS; PLATES (ENGINEERING)"
+}

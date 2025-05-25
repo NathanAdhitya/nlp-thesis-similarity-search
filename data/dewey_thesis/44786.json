@@ -1,0 +1,14 @@
+{
+  "id": "44786",
+  "title": "Deteksi rumus matematika pada halaman dokumen digital dengan metode Convolutional Neural Network",
+  "abstract": "Rumus matematika dalam scientific paper yang tersedia secara daring seringkali tidak bisa dikenali dengan baik oleh proses Optical Character Recognition (OCR). Sulitnya pengenalan ini dikarenakan adanya perbedaan-perbedaan yang dimiliki rumus matematika dibandingkan dengan baris teks biasa. Oleh karena itu, deteksi rumus matematika pada halaman dokumen digital diharapkan dapat membantu proses OCR. Deteksi rumus matematika pada halaman dokumen digital dilakukan dengan mengubah dokumen menjadi image, kemudian memisahkan setiap baris teks dan kata-kata yang ada di dalamnya dan mengklasifikasi baris teks dan kata-kata tersebut menggunakan Convolutional Neural Network (CNN). Arsitektur CNN yang digunakan untuk melakukan klasifikasi memiliki 64 filter di setiap convolutional layer-nya. Untuk rumus displayed (tidak bercampur dengan teks), digunakan 10 kumpulan layer Convolutional-ReLU-Max Pooling, sedangkan untuk rumus inline (bercampur dengan teks) digunakan 12 kumpulan layer. Dengan menggunakan arsitektur-arsitektur CNN yang telah disebutkan, didapat F1 score sebesar 0,980 untuk klasifikasi rumus displayed pada dokumen dengan layout 1 kolom; F1 score sebesar 0,940 untuk klasifikasi rumus displayed pada dokumen dengan 2 kolom; dan F1 score sebesar 0,916 untuk rumus inline.",
+  "creators": "MARTINA MARCELLINE TASLIM",
+  "contributors": "Kartika Gunadi (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021881/INF/2019; Martina Marcelline Taslim (26415031)",
+  "subjects": "NEURAL NETWORKS; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

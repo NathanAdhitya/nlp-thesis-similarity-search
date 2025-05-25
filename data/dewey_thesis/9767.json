@@ -1,0 +1,14 @@
+{
+  "id": "9767",
+  "title": "Analisa perbandingan algoritma ant colony dengan algoritma scatter search pada flowshop scheduling",
+  "abstract": "Penjadwalan merupakan salah satu bagian dalam perencanaan dan pengendalian produksi. Sistem penjadwalan yang tepat dapat menghasilkan proses produksi yang sesuai dengan jadwal yang ditentukan. Dalam masalah penjadwalan terdapat berbagai macam algoritma. Salah satunya adalah algoritma ant colony. Dalam jurnal yang ditulis oleh Rajendran terdapat pengembangan terhadap algoritma ini. Pengembangan algoritma tersebut adalah algoritma PACO. Algoritma PACO dan modifikasinya akan dibandingkan dengan algortima scatter search dengan menggunakan 10,15, 20, job dan 10, 15, 20 mesin sedangkan 30, 50 job dengan mesin yang sama akan digunakan untuk perbandingan antara algoritma PACO dan modifikasinya. Hasil pengujian menunjukkan bahwa makespan yang dihasilkan oleh algoritma scatter search lebih unggul untuk 10 dan 15 job, sedangkan untuk 20 job algoritma PACO lebih unggul. Secara statistik, makespan yang dihasilkan dalam semua permasalahan tidak berbeda secara significant. Modifikasi algoritma PACO melalui metode updating of trail intensities tidak dapat menurunkan makespan yang dihasilkan secara significant.",
+  "creators": "NATALIA DEWI PUSPITA",
+  "contributors": "Tanti Octavia (Advisor 1); Iwan Halim Sahputra, S.T., M.Sc., Ph.D. (Advisor 2); Siana Halim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011266/IND/2008; Natalia Dewi Puspita (25404116)",
+  "subjects": "SCHEDULING (MANAGEMENT); PRODUCTION PLANNING"
+}

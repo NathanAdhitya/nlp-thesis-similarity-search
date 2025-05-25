@@ -1,0 +1,14 @@
+{
+  "id": "5745",
+  "title": "Alat uji kekuatan benang jahit dengan menggunakan plc tsx micro 3721",
+  "abstract": "Era pasar bebas sekarang ini menimbulkan persaingan yang ketat antar pabrik benang. Hal ini disebabkan banyaknya benang jahit yang telah beredar di pasaran. Oleh karena itu setiap pabrik penghasil benang jahit harus memproduksi benang jahit yang mutunya benar-benar terjamin dan juga harga yang tidak mahal. Tujuan dari pembuatan alat uji kekuatan benang ini adalah untuk mengetahui kualitas benang jahit yang ditinjau berdasarkan gaya tarik yang diberikan Alat uji kekuatan benang jahit difungsikan sebagai plant dari sistem yang dikontrol oleh PLC MODICON TSX Micro 3721. Sistem ini menggunakan discreate input output (TSX DMZ 28 DR), analog input module (TSX AEZ 801), bahasa pemograman yang digunakan Ladder diagram. Dalam hal ini komputer akan menampilkan sebuah nilai gaya tarik yang diberikan untuk mengetahui kekuatan benang jahit tersebut dengan bantuan PL7 software (Runtime Screen). Sensor massa yang digunakan adalah strain gages coding sistem. Perancangan sistem ini menggunakan dua buah sensor strain gages yang diletakkan di atas dan di bawah permukaan pelat. Berdasarkan hasil pengujian yang dilakukan sistem dapat berjalan tetapi tidak sesuai dengan yang diharapkan, yaitu dalam hal mempertahankan kestabilan dari sensor strain gages. Untuk mempertahankan kestabilan tergantung dari ?R pengukur strain gages itu sendiri. Alat uji ini mempunyai batas range pengukuran yang diijinkan (dengan pelat p=18cm, l=3cm, t=3mm) yaitu dengan memberikan beban berat timbal maksimal sebesar 4 kg atau pada saat pelat mendapatkan tarikan yang setara dengan beban berat timbal maksimal sebesar 4 kg. Pengujian penarikan benang yang dilakukan menggunakan 3 merk benang jahit (A, B, C). Hasil dari pengujian didapat bahwa kekuatan tarik benang untuk merk A (5.10929 Newton), merk B (4.08396 Newton), merk C (3.4589 Newton).",
+  "creators": "SAMUEL DENY KURNIAWAN",
+  "contributors": "Hany Ferdinando (Advisor 1); Handry Khoswanto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010782/ELK/2006; Samuel Deny Kurniawan (23401118)",
+  "subjects": "AUTOMATIC CONTROL; ELECTRONIC DIGITAL COMPUTERS; PROGRAMMABLE LOGIC CONTROLLER"
+}

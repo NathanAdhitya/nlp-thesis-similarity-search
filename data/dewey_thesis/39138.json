@@ -1,0 +1,14 @@
+{
+  "id": "39138",
+  "title": "Optimasi sistem pendingin wire drawing dies pada proses produksi kawat di PT Surabaya Wire",
+  "abstract": "Keausan dies penarikan kawat dilihat berdasarkan pelebaran diegap yang terjadi. Banyak hal yang mempengaruhi keausan dies salah satunya adalah faktor temperatur. Oleh karena itu sistem pendinginan dies merupakan hal yang krusial untuk memperlambat keausan dies. PT Surabaya Wire menggunakan air yang didinginkan oleh cooling tower untuk mendinginkan dies. Cooling tower yang ada sekarang diketahui mampu mendinginkan air hingga temperatur 350C dengan efektifitas 33.8% pada putaran pompa 900 RPM, selain itu diketahui juga debit air yang masuk ke diebox adalah 0.125 L/s dengan temperatur air 350C. Temperatur diegap dapat dicari melalui simulasi ANSYS Workbench dan ANSYS Fluent, setelah dibuat mesh dan ditentukan domain serta melakukan mesh test, simulasi dijalankan dan divalidasi dengan temperatur permukaan die yang diukur dengan termokopel. Diketahui temperatur diegap saat ini adalah 159.30C, nilai ini masih jauh dari rekomendasi ASM International yaitu 1370C, sehingga perlu dilakukan optimasi. Optimasi dilakukan melalui bantuan simulasi ANSYS Fluent dengan mengubah besaran temperatur dan/atau debit air yang masuk ke die-box. Berdasarkan penelitian ini, direkomendasikan agar geometri diebox diubah menjadi bentuk silindris agar perpindahan panasnya lebih baik kemudian dilakukan juga instalasi cooling tower baru karena harganya lebih murah daripada chiller namun dapat memenuhi kriteria pendinginan yang diminta.",
+  "creators": "ANTONIO HAZMAN",
+  "contributors": "Ekadewi Anggraini Handoyo (Advisor 1); DHARMA SETYO NUGROHO (Advisor 2); Sutrisno S.T.,M.T. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011155/MES/2016; Antonio Hazman (24412074)",
+  "subjects": "MECHANICAL ENGINEERING; BICYCLES"
+}

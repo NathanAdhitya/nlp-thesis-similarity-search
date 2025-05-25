@@ -1,0 +1,14 @@
+{
+  "id": "41111",
+  "title": "Real-time measurement for wiring diagram",
+  "abstract": "This graduation internship was accomplished at Robert Bosch, a worldwide company that has many types of products. The particular division the student worked on was the Automotive After sales division, which produces solution for after sales vehicle service like components’ schematic. The current solution of viewing schematic was in the need of improvements. One of the needed improvements was to display real-time measurement and diagnostic steps alongside the schematic diagram. The current problem was the technician needed to do a lot of application switching to view the real-time measurement, diagnostic steps, and the schematic. This created inefficiencies and made the diagnosing process prone to errors. The requirements were defined by the product owner of this project because he knew the most about the diagnosing step in automotive solution. The problem was that the diagnostic device was a new device and nobody has tried to create an application for it in Bosch. In addition, the device took some time to arrive at the student’s office because of delay in production. The application was built and demoed to the product owner after it was done being developed. After getting the feedback from him, the student created a new revision based on the feedback. These were repeated until the product owner satisfied with the product. The application was written in Java, JavaScript, HTML, and CSS languages. The user interface part was written using HTML and CSS languages and the logic part was written using Java and JavaScript. The result was the student could show diagnostic measurements and steps in an interface along with the schematic in one area. In the future, more research and work can be done to improve the user interface and adding more features to the software like auto-detection of probes and automating the measurement using internal car’s mechanism.",
+  "creators": "ANDRE CHRISTANTO",
+  "contributors": "VLADIMIR KABZAR (Advisor 1); Hans Hollebrandse (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Undergraduate Thesis No. 01021725/INF/2017; Andre Christanto (26413057)",
+  "subjects": "ACCOUNTING; FINANCIAL STATEMENTS; STOCKS-PRICES"
+}

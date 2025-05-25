@@ -1,0 +1,14 @@
+{
+  "id": "11546",
+  "title": "Floating point coprocessor dengan microcontroller",
+  "abstract": "Ada sistem-sistem berbasis microcontroller yang membutuhkan fungsi-fungsi matematika dalam mendukung proses kerjanya. Agar kebutuhan tersebut tidak membebani kerja dari sistem, maka diperlukan sistem pendukung untuk menanganinya. Oleh karena itu, dalam tugas akhir ini dibuat sebuah floating point coprocessor yang dapat mengerjakan fungsi-fungsi matematika untuk bilangan bulat dan bilangan riil. Floating point coprocessor menggunakan microcontroller AT89S52 dan dapat berkomunikasi secara serial dengan standar UART (Universal Asynchronous Receiver Transmitter). Tester yang berupa sebuah komputer, digunakan untuk memberikan input dan mengambil output dari floating point coprocessor. Pada komputer tersebut dibuat sebuah software dengan bahasa pemograman Borland Delphi 7. Agar floating point coprocessor dan tester dapat berkomunikasi, digunakan IC MAX232 sebagai converter level tegangan. Dari hasil pengujian, 32 bit floating point coprocessor ini mampu melakukan 35 operasi bilangan riil, 24 operasi bilangan bulat, dan 4 operasi konversi dengan nilai kesalahan relatif mutlak (pada operasi bilangan riil) dibatasi kurang dari 0,01%.",
+  "creators": "ANANDA ALDRIN TOALU",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010777/ELK/2006; Ananda Aldrin Toalu (23401089)",
+  "subjects": "MICROCONTROLLER"
+}

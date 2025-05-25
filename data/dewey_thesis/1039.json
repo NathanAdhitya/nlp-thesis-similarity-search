@@ -1,0 +1,14 @@
+{
+  "id": "1039",
+  "title": "Evaluasi \"gempa rencana\" yang dihasilkan program resmat untuk analisa respons riwayat waktu",
+  "abstract": "Kesulitan utama dalam perhitungan analisa respons riwayat waktu adalah tidak adanya riwayat waktu gempa rencana yang telah ditentukan di Indonesia. Dengan tidak adanya kepastian tersebut, proses perhitungan analisa riwayat waktu memerlukan waktu yang lama karena pada peraturan gempa di Indonesia disyaratkan untuk menggunakan minimal 4 riwayat waktu gempa yang berbeda. Salah satu solusi adalah digunakannya suatu riwayat waktu gempa rencana yang dibuat dengan program RESMAT. Program RESMAT menggunakan time domain method yang dapat memodifikasi suatu riwayat waktu gempa sedemikian rupa sehingga respon spektrum modifikasinya setara dengan target respon spektrum rencana yang ditentukan tanpa mempengaruhi karakteristik gempa tersebut. Untuk mengetahui apakah riwayat waktu gempa yang dihasiikan oleh program RESMAT dapat digunakan sebagai gempa rencana dilakukan perbandingan antara gaya geser tingkat yang dihasilkan oleh gempa rencana dengan gaya geser tingkat yang dihasilkan oleh envelope gaya geser tingkat dari gempa Elcentro 15 Mei 1940 N-S, Denpasar 1981, Pacoima 9 Pebruari 1971 S16E dan Park Field 27 Juni 1966 N-E terhadap suatu model struktur yang terdiri dari 5, 10, 15,20,25 dan 30 lantai. Dari evaluasi yang dilakukan untuk model struktur bangunan yang teratur dan simetris, didapatkan kesimpulan bahwa gempa rencana yang didapat dari modifikasi gempa Pacoima 9 Pebruari 1971 S16E merupakan gempa rencana yang secara konsisten menghasilkan pembagian gaya geser yang selalu lebih aman dibandingkan pembagian gaya geser yang dihasilkan envelope dari gempa-gempa sesungguhnya..",
+  "creators": "KURNIAWAN SUTANTO; ANDRI ZACHARIA",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Takim Andriono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi no. 792 S; Kurniawan Sutanto (21491101), Andri Zacharia (21491111)",
+  "subjects": "BUILDINGS-EARTHQUAKE EFFECTS; EARTHQUAKE ENGINEERING"
+}

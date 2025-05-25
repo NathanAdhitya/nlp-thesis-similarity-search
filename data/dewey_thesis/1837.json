@@ -1,0 +1,14 @@
+{
+  "id": "1837",
+  "title": "Modul editor dan parameter monitor PLC FESTO berbasis mikrokontroler MCS51",
+  "abstract": "Operator alat kontrol industri seringkali harus mengubah parameter program alat kontrol mereka. Umumnya operator akan menghubungi programmer, yang biasanya akan menggunakan laptop untuk mengubah parameter program tersebut. Modul Editor dapat mengatasi masalah tersebut. Operator dapat mengubah parameter program mereka langsung dari Modul Editor. Modul Editor ini juga dapat difungsikan sebagai display, yang secara aktif akan membaca kondisi parameter-parameter penting dari alat kontrol industri. Modul Editor mempunyai empat mode, yaitu User Mode, Command Interpreter Mode, Monitor Mode dan User Monitor Mode. Pengujian dilakukan dengan tiga kategori uji, yaitu Error Handling, Modes Switching dan Editing. Tiap kategori uji akan dibagi lagi dalam beberapa sub-kategori uji dimana masing-masing pengujian akan dilakukan dalam empat mode, yaitu User Mode, Command Interpreter Mode, Monitor Mode dan User Monitor Mode. Untuk kompatibilitas, masing-masing pengujian dilakukan pada tiga tipe PLC FESTO, yaitu FC30, FC34 dan FC640. Hasil pengujian menunjukkan bahwa Modul Editor cukup layak operasi.",
+  "creators": "HENDRA",
+  "contributors": "Thiang (Advisor 1); HENDRIK THIEHUNAN (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010678/ELK/2004; Hendra (23497048)",
+  "subjects": "MICROCONTROLLERS MCS51"
+}

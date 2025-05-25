@@ -1,0 +1,14 @@
+{
+  "id": "41239",
+  "title": "Sistem informasi distribusi PT Sulung Ekspedisi",
+  "abstract": "PT Sulung Ekspedisi merupakan salah satu perusahaan yang bergerak dalam bidang jasa yaitu ekspedisi. Pelayanan yang diberikan berupa pengiriman barang melalui jasa darat dengan rute Surabaya menuju Babat, Probolinggo, Tuban, dan sekitarnya. Perusahaan ini juga bekerjasama dengan PT Heinz ABC dalam membantu pendistribusian barang-barang yang berasal dari pabrik menuju pabrik lainnya ataupun menuju gudang penyimpanan. Banyaknya jenis barang dan rute yang dituju mendorong PT Sulung Ekspedisi membutuhkan sistem yang dapat menunjang pekerjaan mereka. Pada saat ini sistem yang digunakan oleh perusahaan tersebut menggunakan sistem manual, dalam hal ini pencatatan baik perpindahan informasi antara kasir dan divisi lain masih menggunakan pencatatan melalui media kertas. PT Sulung Ekspedisi saat ini tidak memiliki sistem yang dapat digunakan customer mereka untuk melakukan pengecekan apakah barang yang mereka kirim sedang dalam tahap penerimaan, perjalanan, ataupun telah diterima oleh penerima. Saat ini untuk melakukan hal tersebut customer hanya dapat menggunakan telepon sebagai media. Apilkasi Sistem Informasi Distribusi PT Sulung Ekspedisi dibuat untuk memenuhi kebutuhan dari perusahaan. Fitur yang dimiliki oleh aplikasi antara lain manage data master perusahaan seperti data karyawan, data agen, data tarif, mencatat dan membuat nota pengiriman sebagi bukti sah pengiriman, mencatat dan membuat surat jalan sebagi dokumen pendukung, hingga mencatat secara sederhana keuangan yang terjadi perusahaan seperti pencatatan pemasukan dan pengeluaran perusahaan. Aplikasi ini juga dilengkapi dengan fitur tracking yang dapat mengetahui status pengiriman dan lokasi armada selama proses pengiriman. Posisi armada didapatkan melalui GPS system yang berasal aplikasi mobile device yang dibawa supir selama proses perjalanan pengiriman barang. Hasil yang diperoleh berdasarkan pengujian dan kuisioner yang dibagikan didapatkan bahwa aplikasi secara keseluruhan telah mampu berjalan dengan baik dan mampu memenuhi kebutuhan perusahaan dalam pencatatan data perusahaan secara komputerisasi. Namun terdapat eror kecil seperti GPS System yang kurang akurat sehingga belum mampu memberikan lokasi armada secara maksimal.",
+  "creators": "STEVEN JONATHAN HANS",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Yulia (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021709/INF/2017; Steven Jonathan Hans (26413033)",
+  "subjects": "DATABASE MANAGEMENT; MANAGEMENT INFORMATION SYSTEMS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "39247",
+  "title": "Aplikasi pengenalan pola batik dengan menggunakan metode gray-level cooccurrence matrix",
+  "abstract": "Indonesia adalah negara yang kaya budaya. Sejak 2 Oktober 2009 batik telah resmi diakui UNESCO sebagai warisan budaya asli Indonesia. Selain coraknya yang unik, batik memiliki makna filosofis yang mendalam. Meskipun begitu belum ada aplikasi yang dapat mengenalkan berbagai jenis kain batik kepada masyarakat. Diharapkan aplikasi ini dapat menjawab permasalahan tersebut. Aplikasi ini menggunakan gray-level cooccurrence matrix untuk mengekstrak fitur tekstur dari sebuah gambar batik. Fitur tekstur yang dihasilkan membentuk suatu dataset yang dimanfaatkan untuk membentuk decision tree. Keputusan yang dibuat oleh decision tree adalah jenis isen atau isian yang terdapat pada gambar batik. Hasil pengujian pengenalan batik tulis adalah akurasi maksimal yang dianggap rendah sebesar 47.62% saja. Penyebabnya diperkirakan adalah jenis batik tulis yang tidak memiliki pola tekstur.",
+  "creators": "RONALD KURNIAWAN TJONDROWIGUNO",
+  "contributors": "Rolly Intan (Advisor 1); Kartika Gunadi (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021632/INF/2017; Ronald Kurniawan Tjondrowiguno (26412027)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; FUZZY SETS; IMAGE PROCESSING-DIGITAL TECHNIQUE"
+}

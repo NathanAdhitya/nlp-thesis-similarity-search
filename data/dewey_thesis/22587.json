@@ -1,0 +1,14 @@
+{
+  "id": "22587",
+  "title": "Penentuan harga pokok penjualan dan harga pokok produksi dengan menggunakan metode job order costing di garmen PT. X",
+  "abstract": "Perusahaan Garmen PT. X adalah perusahaan yang berjalan untuk membuat seragam perusahaan lainnya. Perusahaan ini cukup berkembang, tetapi sistemnya masih bersifat manual dan lisan yang membuat proses produksinya berjalan cukup lama. Cara perhitungan harga barang jadi masih bersifat manual. Perancangan desain sistem menggunakan Data Flow Diagram dan Entity Relationship Diagram. Database dibuat dengan menggunakan Microsoft SQL Server 2005. Aplikasi dibuat dengan bahasa pemrograman Microsoft Visual Studio 2005 .NET. Program yang dibuat meliputi pembuatan database master untuk customer, barang, supplier, pegawai, jasa, transaksi untuk proses penjualan dan pembelian, serta proses proses produksi dan perhitungan harga pokok penjualan, harga pokok produksi dan varians. Dari hasil pengujian, program yang dibuat dapat memproses data proses produksi pada Garmen PT X. Data yang dihasilkan telah dapat memenuhi kebutuhan perusahaan.",
+  "creators": "DEWI KUMALA",
+  "contributors": "Rudy Adipranata (Advisor 1); CHRISTIAN, SE, AK (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020984/INF/2011; Dewi Kumala (26406101)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN; DATABASE MANAGEMENT"
+}

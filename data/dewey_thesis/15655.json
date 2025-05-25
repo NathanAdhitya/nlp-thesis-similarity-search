@@ -1,0 +1,14 @@
+{
+  "id": "15655",
+  "title": "Pengaturan intensitas cahaya lampu TL yang dikontrol dengan remote infra red menggunakan mikrokontroller AT89C2051",
+  "abstract": "Seiring dengan semakin pesatnya perkembangan teknologi maka tuntutan manusia akan efisiensipun semakin tinggi termasuk kebutuhan akan lampu TL.Lampu TL atau lampu fluorecensi merupakan lampu yang dapat mengubah energi listrik menjadi energi cahaya dengan bantuan ballast. Pemakaian ballast ini merugikan karena pada lampu yang menggunakan ballast akan timbul rugi-rugi daya yang cukup besar karena ballast yang digunakan adalah ballast induktor. Untuk mengatasi masalah ini maka digunakan ballast elektronik yang dihubungkan dengan mikrokontroler AT89C2051 sehingga cahaya lampu dapat diatur dengan menggunakan remote infra merah yang mengakibatkan rugi-rugi daya dapat dikurangi dan kita tidak perlu berpindah tempat apabila hendak mengatur intensitas cahaya lampu TL tersebut. Metode yang digunakan dalam pembuatan alat ini adalah menggunakan metode pergeseran fasa yaitu pergeseran antara sinyal output DAC dan output rangkaian full-wave rectifier. Output dari pergeseran ini digunakan sebagai input driver lampu TL. Walaupun demikian alat ini masih memiliki beberapa kelemahan yaitu hanya dapat digunakan secara optimal pada lampu TL 20 W dan cahaya yang dihasilkan bersifat linier pada daerah tertentu. Kelebihannya adalah daya yang diperlukan lebih hemat daripada menggunakan lampu berballast induktor.",
+  "creators": "LIYANTO YAQIN",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/028/422; Liyanto Yaqin (23493023)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; INTEL AT89C2051 (MICROCONTROLLER)"
+}

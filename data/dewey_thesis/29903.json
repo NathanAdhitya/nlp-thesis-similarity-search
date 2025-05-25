@@ -1,0 +1,14 @@
+{
+  "id": "29903",
+  "title": "Pengoptimalan distribusi barang pada dua depo PT X dengan dua tipe kendaraan yang berbeda",
+  "abstract": "Penelitian ini merupakan penelitian lanjutan dari penelitian terdahulu, yaitu penelitian yang dilakukan Lydia Yoanita pada tahun 2014 dengan judul Optimasi Distribusi Satu Jenis Barang dengan N Kendaraan dengan Dua Depo. Permasalahan diselesaikan dengan empat metode alternatif yang berbeda, dan hasil penelitian menyatakan salah satu metode terpilih karena paling optimal dalam hal jarak dan waktu perhitungan. Kelebihan dari metode ini adalah menghasilkan jarak dan waktu perhitungan yang optimal. Kelemahan dari empat metode yang dilakukan adlah menggunakan asumsi kapasitas kendaraan dianggap sama yaitu 130 galon. Penelitian ini menitikberatkan pada perbedaan dua tipe kapasitas kendaraan yang berbeda, yaitu 130 galon dan 108 galon. Perancangan dilakukan dengan mengelompokkan alamat customer sesuai menggunakan metode clustering dan Clarke and Wright Algorithm. Pengelompokan dibatasi dengan kapasitas kendaraan yang telah tersedia pada masing-masing depo. Hasil dari perancangan ini adalah 12 rute pengiriman yang terbagi dengan dua tipe kendaraan dan dua depo yang berbeda. Rute-rute yang terbentuk dikatakan optimal bila kapasitas kendaraan mencapai maksimum dan jarak relatif dekat dengan depo yang menangani.",
+  "creators": "YOSEPHINE TIFFANI GONDO",
+  "contributors": "Siana Halim (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021870/IND/2016; Yosephine Tiffani (25412001)",
+  "subjects": "DISTRIBUTION OF GOODS-MANAGEMENT"
+}

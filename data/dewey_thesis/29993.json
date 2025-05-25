@@ -1,0 +1,14 @@
+{
+  "id": "29993",
+  "title": "Perancangan keseimbangan lintasan untuk proses perakitan timbangan dengan menggunakan algoritma genetik pada perusahaan timbangan SSS di Surakarta",
+  "abstract": "Dalam perkembangan dunia usaha saat ini sering kali mengalami pasang surut dan bahkan banyak perusahaan yang gulung tikar, di mana hal ini tentunya akan mendorong setiap perusahaan untuk dapat beroperasi dengan lebih praktis dan ekonomis. Salah satunya dengan mengoptimumkan kebutuhan tenaga kerja agar jangan terlalu banyak jam menganggur. Dalam usaha untuk mengurangi jam menganggur salah satu cara yang dapat ditempuh oleh perusahaan timbangan tersebut adalah dengan menentukan kembali tugas atau pekerjaan yang akan dilakukan pada setiap stasiun kerja. Tujuan penelitian ini adalah merancang suatu lintasan perakitan timbangan dacin yang optimum dengan menggunakan algoritma genetika. Penelitian ini dikhususkan pada timbangan dacin 25 kg yang memang pada saat ini sedang diproduksi oleh perusahaan tersebut. Proses pembuatan timbangan dacin ini dapat dilakukan melalui beberapa tahap misalnya pemotongan pipa, pengeboran dan masih banyak yang lainnya. Waktu siklus yang digunakan dalam perhitungan adalah 630 detik. Dari hasil perhitungan secara keseluruhan didapatkan nilai F terkecil pada hasil penyilangan antara populasi PO dan populasi Rl, jadi dapat disimpulkan bahwa metode algoritma Genetik lebih baik dibandingkan dengan metode COMSOAL karena memiliki probabilitas lintasan terhenti lebih kecil. Hasil dari perancangan keseimbangan lintasan yang diusulkan adalah 18 stasiun kerja dan 18 orang operator.",
+  "creators": "SETIA JULIANTO",
+  "contributors": "Tessa Vanina Soetanto (Advisor 1); Maja Indahwati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 294/TI-21/2000; Setia Julianto (25495108)",
+  "subjects": "PRODUCTION PLANNING; WORK MEASUREMENT"
+}

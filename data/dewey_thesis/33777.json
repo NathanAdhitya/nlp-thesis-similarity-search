@@ -1,0 +1,14 @@
+{
+  "id": "33777",
+  "title": "Perancangan dan pembuatan hybrid mobile e-learning application di Universitas Kristen Petra",
+  "abstract": "Universitas Kristen Petra telah menggunakan e-learning dalam proses belajar-mengajar. Akan tetapi, e-learning yang digunakan belum ada yang berupa aplikasi mobile. Penelitian ini dilakukan untuk membantu proses belajar-mengajar di Universitas Kristen Petra dengan mengembangkan model aplikasi mobile e-learning yang dapat dijalankan pada lintas platform, yaitu pada platform Android dan BlackBerry. Aplikasi dibuat menggunakan PhoneGap yang menggunakan teknologi HTML5, CSS3, dan JavaScript. Sistem pada aplikasi mengikuti sistem e-learning Lentera yang berbasis Moodle. Pada sisi server, dibutuhkan modifikasi source code Moodle yang berbasis PHP supaya aplikasi dapat berjalan sesuai dengan sistem. Hasil penelitian menunjukkan bahwa aplikasi ini dapat berjalan pada lintas platform. Aplikasi yang dibuat memiliki interface yang berbeda dengan versi website. Aplikasi yang dibuat juga berjalan online bersama dengan sistem Lentera. Fitur-fitur dasar di Lentera sudah berhasil diimplementasikan pada aplikasi. Penilaian terhadap aplikasi secara keseluruhan yaitu sebesar 55,56% responden menjawab sangat baik, sedangkan 44,44% responden lainnya menjawab baik.",
+  "creators": "WINSEN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Lady Joanne Tjahyana, S.Kom., MMM. (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02021187/INF/2012; Winsen (26408079)",
+  "subjects": "MOBILE COMMUNICATION SYSTEM IN EDUCATION; INTERNET PROGRAMMING; INTERNET (COMPUTER NETWORK); DATABASE DESIGN"
+}

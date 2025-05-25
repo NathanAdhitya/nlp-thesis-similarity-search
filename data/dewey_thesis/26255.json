@@ -1,0 +1,14 @@
+{
+  "id": "26255",
+  "title": "Perancangan dan pembuatan aplikasi sistem informasi akuntansi pada Toko Wijaya Kosmetik di Mataram Lombok",
+  "abstract": "Toko Wijaya Kosmetik merupakan toko yang menjual barang-barang kosmetik yang terletak di Mataram Lombok. Toko Wijaya memiliki banyak transaksi penjualan maupun pembelian setiap harinya. Seluruh sistem transaksi dan sistem akuntansi yang dipakai toko ini masih manual. Perhitungan stok barang juga masih dilakukan secara manual dan hal ini menyebabkan sering terjadi kesalahan dalam melakukan transaksi. Dengan adanya perubahan sistem yang dulunya manual menjadi sistem yang terkomputerisasi maka kesalahan-kesalahan tersebut dapat diselesaikan. Karena itu dibutuhkan suatu sistem informasi yang terkomputerisasi untuk membantu Toko Wijaya dalam melakukan pencatatan aktivitas yang terjadi setiap harinya dan mengolah data tersebut menjadi suatu informasi yang berguna bagi perusahaan. Program ini dibuat dengan menggunakan Microsoft Visual Studio 2005 .Net dan Microsoft SQL Server 2005 sebagai tempat penyimpanan database. Program yang dibuat meliputi database master, transaksi pembelian dan penjualan, transaksi retur, dan proses akuntansi dari pembuatan jurnal hingga pembuatan laporan. Hasil pengujian terhadap aplikasi menunjukan bahwa program sudah dapat melakukan perhitungan keuangan secara otomatis dan menghasilkan data-data akuntansi secara otomatis. Keakuratan hasil perhitungan program termasuk baik karena 80% responden mengatakan perhitungan program sudah baik dan 20% responden mengatakan perhitungan program sudah sangat baik. Kesesuaian Program dengan sistem perusahaan termasuk cukup baik. Hal ini dapat dilihat dari 60% responden menjawab kesesuaian program yang dibuat dengan sistem perusahaan adalah cukup baik.",
+  "creators": "ANDREE WIDJAJA",
+  "contributors": "Rolly Intan (Advisor 1); Silvia Rostianingsih (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021107/INF/2012; Andree Widjaja (26408091)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

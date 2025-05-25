@@ -1,0 +1,14 @@
+{
+  "id": "60520",
+  "title": "Pengembangan elemen balok lengkung dengan pedekatan degenerated solid",
+  "abstract": "Salah satu teori untuk menganalisis balok lengkung dalam metode elemen hingga adalah degenerated solid beam. Fenomena yang umum terjadi pada elemen balok lengkung yaitu shear locking dan membrane locking. Koziey dan Mirza (1994) membuat perumusan baru yaitu consistent beam element yang digunakan untuk mengatasi shear locking dengan menerapkan third order shear deformation theory (TOSD). Pada perumusan degenerated solid beam element umumnya menerapkan first order shear deformation theory (FOSD) yang membutuhkan koefisien koreksi geser. Pada penelitian ini akan dikembangkan degenerated solid beam element dengan modifikasi metode least square smoothed assumed strain (LSSAS) untuk eleminasi locking. Selain itu, akan diteliti perbedaan elemen yang menggunakan FOSD dengan menggunakan TOSD. Hasil pengujian diperoleh bahwa metode LSSAS tidak efektif dalam membebaskan degenerated solid beam element dari locking dan consistent beam merupakan elemen yang belum stabil. Penggunaan perumusan TOSD memiliki performa yang sama dengan penggunaan perumusan FOSD.",
+  "creators": "SANJAYA HALIM",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Pamuda Pudjisuryadi (Examination Committee 1); Benjamin Lumantarna (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000375/MTS/2024; Sanjaya Halim (B21200016)",
+  "subjects": "FINITE ELEMENT METHOD; GIRDERS; GIRDERS--TESTING"
+}

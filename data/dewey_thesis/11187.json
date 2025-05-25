@@ -1,0 +1,14 @@
+{
+  "id": "11187",
+  "title": "Perancangan dan pembuatan sistem informasi pembelian, penjualan dan peramalan kebutuhan barang untuk distributor motto \"Curah\" Surabaya berbasis web",
+  "abstract": "MOTTO \"Curah\" merupakan sebuah inovasi baru dari PT.Songo Geni Maju di Jakarta untuk memenuhi kebutuhan pasar akan produk kebersihan rumah tangga dengan kualitas tinggi tetapi tetap dengan harga yang sangat terjangkau. Solusi yang dipakai adalah dengan memangkas jalur distribusi barang, tanpa iklan dan yang terutama adalah tanpa menggunakan kemasan individual seperti yang digunakan oleh kebanyakan produk-produk kebersihan rumah tangga yang lainnya. Distributor MOTTO \"Curah\" Surabaya merupakan distributor tunggal yang dipercaya oleh PT.Songo Geni Maju untuk mendistribusikan produk-produk MOTTO \"Curah\" di wilayah Surabaya dan Jawa Timur pada umumnya. Selama ini, distributor MOTTO \"Curah\" Surabaya masih menggunakan cara manual dalam pencatatan setiap transaksinya seperti pencatatan stok barang di gudang, pembuatan nota pesan, pembuatan nota pembelian (purchasing order) ke supplier, pembuatan nota penjualan ke pelanggan, pembuatan nota retur jual dari pelanggan, dan pembuatan nota retur beli ke supplier sehingga sering terjadi kesalahan - kesalahan yang diakibatkan oleh faktor manusia, yang dapat menyebabkan informasi yang tidak akurat. Oleh karena itu, dalam tugas akhir ini dibuat sebuah aplikasi sistem informasi yang dapat membantu distributor MOTTO \"Curah\" Surabaya untuk mendapatkan informasi yang diperlukan secara tepat waktu dan akurat. Aplikasi dibuat menggunakan PHP sebagai bahasa pemrograman dan MySQL sebagai database server, serta Macromedia Dreamweaver untuk membuat aplikasi formnya. Aplikasi ini diharapkan dapat menghasilkan menu - menu yang sesuai dengan kebutuhan setiap pengguna aplikasi, seperti bagian pembelian, penjualan, gudang dan owner. Dari hasil implementasi dan pengujian aplikasi ini, dapat disimpulkan bahwa aplikasi yang dibuat dapat membantu owner, bagian gudang, pembelian dan penjualan dalam melakukan pencatatan, dapat menghasilkan laporan untuk barang masuk dan keluar serta barang yang ada di gudang, nota penjualan, retur penjualan, nota pemesanan, nota pembelian barang ke supplier dan retur pembelian, serta adanya fungsi peramalan yang dapat membantu bagian pembelian dalam membuat nota pemesanan pembelian barang ke supplier.",
+  "creators": "OH HWIE HONG",
+  "contributors": "Arlinah Imam Rahardjo (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010769/INF/2008; OH Hwie Hong (26402186)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

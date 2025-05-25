@@ -1,0 +1,14 @@
+{
+  "id": "44651",
+  "title": "Sistem keamanan bangunan multi lokasi berbasis IoT menggunakan Siemens LOGO! dan Raspberry Pi",
+  "abstract": "Sistem keamanan bangunan ini dapat mengontrol solenoid, memonitor reed switch, sensor passive infrared (PIR), sensor api, sensor gas, dan sensor suhu. Dengan adanya sistem ini maka beberapa kejadian-kejadian yang tidak diinginkan dapat ditangani lebih cepat karena sistem ini dapat mengirimkan notifikasi kepada pemilik. Sistem ini dapat diaplikasikan pada beberapa bangunan sekaligus yang tidak dibatasi oleh jarak karena dapat menggunakan jaringan internet. Pemilik hanya perlu menggunakan smartphone, komputer, atau laptop apa saja yang memiliki browser dan koneksi internet. Kontroler yang digunakan yaitu Siemens LOGO!, sedangkan server yang digunakan yaitu Raspberry Pi 3. Interface untuk mengendalikan sistem menggunakan Node-RED. Berdasarkan hasil pengujian yang diterima, interface yang dibuat sudah sesuai dengan keadaan yang ada pada LOGO!. Notifikasi berhasil dikirimkan menuju smartphone pemilik dengan waktu rata-rata 4.15 detik. Penerapan sistem keamanan di dua lokasi pada jaringan lokal berhasil dengan waktu rata-rata 70.7 mili detik, sedangkan pada jaringan internet berhasil dengan waktu rata-rata 66.85 mili detik.",
+  "creators": "PRICILLIA ALVINA",
+  "contributors": "Handy Wicaksono (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Handry Khoswanto (Examination Committee 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 2); Thiang (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010985/ELK/2019; Pricillia Alvina (23415010)",
+  "subjects": "SECURITY SYSTEMS--PLANNING"
+}

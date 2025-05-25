@@ -1,0 +1,14 @@
+{
+  "id": "15363",
+  "title": "Perencanaan dan pembuatan switching amplifier (amplifier kelas D) dalam jangkauan frekuensi hi-fi (50 Hz - 15 kHz) dengan menggunakan metoda pulse width modulation",
+  "abstract": "Perkembangan teknologi dalam dunia audio khususnya power amplifier (penguat daya) sangat diminati oleh masyarakat. Berbagai ide rancangan power amplifier bermunculan menawarkan berbagai keunggulan. Banyak ide rancangan amplifier tersebut berdasarkan pembagian struktur kelas. Pembagian kelas ini berdasarkan pada cara kerja sistem amplifier tersebut. Penulisan tugas akhir ini merupakan studi sekaligus penelitian salah satu sistem amplifier tersebut yaitu amplifier kelas D. Amplifier kelas D ini didasarkan atas sistem switching pada power transistornya. Sinyal audio diubah dalam bentuk sinyal PWM (Pulse Width Modulation). Sinyal PWM terbentuk dari pemodulasian sinyal audio pada sinyal segitiga. Hasil sinyal PWM inilah yang digunakan untuk mendrive power transistor. Output dari power transistor dilewatkan pada low-pass filter untuk mendapatkan kembali sinyal sinus yang telah diperkuat. Sebagai pelengkap sebuah power amplifier maka dalam perencanaan tugas akhir ini juga disertakan rangkaian pre amplifier untuk pengontrolan volume, bass, treble dan balance. Secara keseluruhan sistem ini dapat berjalan meskipun tidak seluruhnya berhasil 100%, namun dapat dikembangkan untuk perbaikan-perbaikan, khususnya pada modul switching amplifier. Perbaikan pada modul pendukung seperti pre-amplifier juga akan menambah kualitas suara dari switching amplifier.",
+  "creators": "HARI JUNANTO SLAMET",
+  "contributors": "IRWAN SAHLI (Advisor 1); HERLIANTO TENGGARA (Advisor 2); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/039/338; Hari Junanto Slamet (23492013)",
+  "subjects": "AUDIO-VISUAL EQUIPMENT-SWITCHING SYSTEMS; ELECTRONIC CONTROL-SWITCHING SYSTEMS; PULSE MODULATION (ELECTRONICS)"
+}

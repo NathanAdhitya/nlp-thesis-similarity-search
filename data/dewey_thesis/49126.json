@@ -1,0 +1,14 @@
+{
+  "id": "49126",
+  "title": "Penerapan metode resource loaded scheduling untuk aplikasi manajemen proyek pada perusahaan kontraktor “X”",
+  "abstract": "Saat ini PT Liberty Persada Sakti Sakti menyusun penjadwalan menggunakan metode CPM, karena CPM tidak menghitung faktor sumber daya jadwal yang dihasilkan masih kurang akurat dalam hal memperkirakan jangka waktu pengerjaan sebuah proyek. Serta sistem pencatatan transaksi dan perhitungan RAB untuk sebuah proyek masih dilakukan secara manual dengan menggunakan microsoft excel atau pada kertas yang menyebabkan PT Liberty Persada Sakti rentan akan kesalahan melakukan perhitungan keuangan. Melihat latar belakang permasalahan itu, dirancang sebuah aplikasi untuk membantu kinerja pada PT Liberty Persada Sakti. Aplikasi akan menggunakan metode Resource Loaded Scheduling untuk mengatasi masalah penjadwalan, serta dapat mencatat keuangan perusahaan dan mengatur manajemen proyek yang dilakukan oleh PT Liberty Persada Sakti. Aplikasi akan dibuat dengan menggunakan bahasa pemrograman PHP dan MySQL sebagai database. Hasil yang diperoleh yaitu sistem memudahkan pembuatan beserta pencatatan RAB pada perusahaan, dan berdasarkan pembandingan data antara metode CPM dan Resource Loaded Scheduling dapat disimpulkan bahwa kedua metode tersebut memiliki kelebihan dan kelemahan masing-masing.",
+  "creators": "DAVID FILIGON LIE",
+  "contributors": "Alexander Setiawan (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Andreas Handojo (Examination Committee 1); Yulia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022029/INF/2021; David Filigon Lie (26415152)",
+  "subjects": "DATABASE MANAGEMENT--COMPUTER PROGRAMS; APPLICATION SOFTWARE"
+}

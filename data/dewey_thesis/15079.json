@@ -1,0 +1,14 @@
+{
+  "id": "15079",
+  "title": "Prediksi nilai mata uang asing dengan metode neural network backpropagation",
+  "abstract": "Teknologi Artificial Neural Networks adalah teknologi yang menirukan cara kerja otak manusia dalam berpikir. Teknologi ini mampu memecahkan masalah-masalah yang sulit dipecahkan dengan perhitungan matematik. Pada tugas akhir ini dibuat suatu sistem Jaringan Syaraf Tiruan Backpropagation untuk memprediksi nilai mata uang asing dengan tujuan membantu para pialang atau investor dalam mengambil keputusan. Valuta asing yang dipakai adalah Mark Denmark terhadap US Dolar. Pada Tugas akhir ini dilakukan penelitian untuk mencari struktur dari jaringan. Penelitian yang dilakukan meliputi penelitian untuk mencari struktur time delay dari input jaringan, mencari jumlah Hidden Layer, mencari jumlah node pada tiap-tiap Hidden Layer dan mencari konstanta Learning Rate serta mencari konstanta Momentum yang sesuai. Setelah melalui penelitian didapatkan jaringan dengan struktur 56 node pada Input Layer, 56 node pada Hidden Layer pertama, 50 node pada Hidden Layer kedua, 20 node pada Hidden Layer ketiga dan 4 node pada Output Layer. Untuk konstanta Learning Rate dan Momentum masing-masing didapatkan 0,25 dan 0,1. Kemampuan dari sistem yang dibuat ciikup baik, dimana sistem mampu memprediksi trend dari fluktuasi harga valuta asing sampai 4 hari kedepan.",
+  "creators": "DWI WIYANTO",
+  "contributors": "Kartika Gunadi (Examination Committee 1); Resmana Lim (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/KOM/008/012; Dwi Wiyanto (23491062)",
+  "subjects": "FOREIGN EXCHANGE; ARTIFICIAL NEURAL NETWORKS"
+}

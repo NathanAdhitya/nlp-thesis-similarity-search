@@ -1,0 +1,14 @@
+{
+  "id": "53773",
+  "title": "Sistem pakar untuk mendiagnosa kerusakan pada sepeda motor Kawasaki KLX 150 menggunakan metode forward chaining dan certainty factor",
+  "abstract": "Kawasaki KLX 150 merupakan sepeda motor all-road atau dual sport, yang berarti bisa digunakan di jalan raya maupun off-road. Penunggang motor trail sekarang tidak hanya crosser saja, orang awam pun mulai menggemari motor trail untuk dijadikan kendaraan harian. Motor trail memiliki mesin dan berbagai macam perangkat atau bagian yang tidak bisa lepas dari kata rusak maupun bermasalah. Seringnya, kerusakan yang sering terjadi pada motor trail dianggap sepele dan tidak dipahami. Oleh karena itu dibuat sebuah sistem pakar yang dapat mendeteksi kerusakan sepeda motor Kawasaki KLX 150, dengan harapan penelitian ini dapat membantu menggantikan peran mekanik untuk mendiagnosa kerusakan berdasarkan gejala yang dialami. Terdapat penelitian serupa sebelumnya namun hanya dapat mendeteksi 6 kerusakan dengan akurasi sebesar 80%. Sistem pakar untuk mendiagnosa kerusakan sepeda motor Kawasaki KLX 150 akan menggunakan metode Forward Chaining dan metode Certainty Factor. Kegunaan forward chaining pada sistem pakar ini untuk mengumpulkan fakta-fakta yang didapat dari user sehingga akan menghasilkan kesimpulan. Kegunaan Certainty Factor pada penelitian ini adalah untuk memberikan tingkat keyakinan dari hasil diagnosa sistem dalam berbentuk metric. Dari sistem pakar ini dapat memberikan informasi mengenai nama kerusakan, cara penanganan dan tingkat keyakinan hasil diagnosa. Pengujian aplikasi untuk mediagnosa kerusakan sepeda motor Kawasaki KLX 150, menggunakan data real bersama pakar, membuahkan hasil akurasi sistem sebesar 90%. Aplikasi untuk mediagnosa kerusakan sepeda motor Kawasaki KLX 150, juga dinilai lengkap, akurat, sesuai dan mudah digunakan (user friendly) oleh pengguna.",
+  "creators": "MARIA EVE ANGELINE",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Kartika Gunadi (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Rolly Intan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022172/INF/2022; Maria Eve Angeline (C14180119)",
+  "subjects": "EXPERT SYSTEMS (COMPUTER SCIENCE)--APPLICATION; PROGRAMMING (ELECTRONIC COMPUTERS); DIAGNOSIS--DATA PROCESSING"
+}

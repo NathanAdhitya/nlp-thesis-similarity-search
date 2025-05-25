@@ -1,0 +1,14 @@
+{
+  "id": "17184",
+  "title": "Perencanaan dan pembuatan alat pengkondisi rumah kaca untuk mencapai temperatur 18-22 C dan kelembaban minimum 70% menggunakan adaptive fuzzy controller",
+  "abstract": "Untuk pertumbuhan yang ideal bagi beberapa jenis tanaman buah-buahan, sayur-sayuran, dan tanaman hias diperlukan iklim tertentu khususnya suhu dan kelembaban. Melalui rumah kaca yang telah dikontrol suhu dan kelembabannya diharapkan pertumbuhan dapat ideal. Penggunaan kontrol dengan logika fuzzy sesuai untuk sistem yang dinamis, non linier , dan adaptif. Sehingga sesuai untuk pengontrolan suhu dan kelembaban. Kontrol fuzzy dalam tugas akhir ini dilakukan oleh sebuah sirkit terintegrasi NLX220 melalui suatu software khusus dan suatu development sistem. Hasil pengujian menunjukkan bahwa performansi sistem dapat tercapai dengan kerjasamanya kontroler, AC buatan, dan fogger (pengkabut). Pada tugas akhir ini setting point minimum yang dapat dicapai adalah 22?C dan kelembaban minimum 70%, kontroler akan selalu menjaga kestabilannya. Untuk setting point di bawah 22?C belum dapat dicapai oleh sistem ini sebab dalam perancangan tidak diperhitungkan efek-efek termodinamika untuk AC buatan dan rumah kaca. Secara kualitatif kemampuan kontroler dapat mencapai setting point berapapun yang diberikan karena kemampuan floating membership function pada perangkat lunak yang dibuat.",
+  "creators": "ROMY BUDHI",
+  "contributors": "SOETIKNO (Advisor 1); YOHANES T. D. S (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/023/368; Romy Budhi (23495147)",
+  "subjects": "AIR CONDITIONING; LOW TEMPERATURE ENGINEERING"
+}

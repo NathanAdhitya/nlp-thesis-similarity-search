@@ -1,0 +1,14 @@
+{
+  "id": "43313",
+  "title": "Penerapan screen mirroring android pada projector menggunakan Raspberry PI",
+  "abstract": "Dulu, cara untuk menggunakan projector hanya bisa dilakukan dengan menggunakan kabel VGA yang kemudian dihubungkan dengan laptop atau desktop pc yang memiliki VGA connector, ketika projector dan laptop atau desktop pc sudah terhubung, proyektor akan menduplikasi layar desktop pc atau laptop yang kemudian akan ditampilkan di layar proyektor Pada skripsi ini dilakukan pembuatan aplikasi untuk memanfaatkan framework Gstreamer untuk membuat aplikasi yang dapat melakukan screen mirroring dan menggunakan Raspberry Pi untuk menampilkan hasil mirroring di projector, sehingga user dapat melakukan presentasi dengan menggunakan smartphone dan tidak memerlukan kabel. Hasil pengujian aplikasi menunjukkan bahwa terjadi delay dalam mirroring menyebabkan layar smartphone yang di mirroring dan ditampilkan di Raspberry Pi mengalami update frame yang sangat lambat, disebabkan oleh hardware Raspberry Pi yang kurang mendukung Raspberry Pi untuk melakukan mirroring dengan lancar.",
+  "creators": "DWIJAYA KONGKY SALIM",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021829/INF/2019; Dwijaya Kongky Salim (26414100)",
+  "subjects": "ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); COMPUTER AND IT; RASPBERRY PI (COMPUTER)"
+}

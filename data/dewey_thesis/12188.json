@@ -1,0 +1,14 @@
+{
+  "id": "12188",
+  "title": "Perancangan dan pembuatan sistem informasi perhotelan pada Hotel Sulawesi di Jember",
+  "abstract": "Perusahaan jasa harus memberikan pelayanan yang terbaik agar dapat bersaing. Saat ini Hotel Sulawesi masih memakai pencatatan secara manual sehingga lebih lama dalam melayani konsumen dibanding hotel lain yang sudah terkomputerisasi. Data yang disimpan secara manual juga mudah hilang dan sukar untuk disimpan. Selain itu tidak ada pembuatan laporan yang dapat membantu pihak manajemen hotel untuk mengevaluasi kinerja dari hotel. Untuk mengatasi permasalahan tersebut, maka dirancang sistem informasi perhotelan secara terkomputerisasi. Aplikasi yang dibuat meliputi reservasi, check in, servis hotel seperti food beverage dan laundry, check out, yang menghasilkan laporan-laporan yang berguna buat pihak hotel. Aplikasi dibuat menggunakan Power Designer untuk DFD dan ERD, Borland Delphi 7 dan PHP sebagai bahasa pemograman, dengan database menggunakan MySQL-Front. Hasil dari aplikasi sistem yang diperoleh antara lain hak akses terhadap data hotel dibatasi sehingga tidak semua user dapat mengakses dan merubah datahotel. Pencatatan transaksi juga dibuat lebih sistematis dan tersimpan dalam database sehingga mengurangi kemungkinan terjadinya kehilangan data. Selain itu sistem juga menghasilkan laporan pemakaian kamar, laporan data tamu, laporan pendapatan, laporan pengeluaran dari aplikasi program.",
+  "creators": "YUDHI LIANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Alexander Setiawan (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02020823/INF/2009; Yudhi Lianto (26403103)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

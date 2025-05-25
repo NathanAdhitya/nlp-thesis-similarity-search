@@ -1,0 +1,14 @@
+{
+  "id": "41104",
+  "title": "Rebuilding autolux website with phalconphp",
+  "abstract": "The graduation project was initiated in DTT Multimedia B.V. with Autolux Website as the project. Autolux is a platform for car lovers sharing their information about favorite or latest cars. The website was built in MODx (CMS framework) which considered being old and heavy by the company. With that very reason, a project to migrate the website from MODx into PhalconPHP (pure PHP framework) was started. MODx and PhalconPHP run in entirely different environment. While MODx will only require to “drag and drop”, PhalconPHP has to be typed (hardcoded). There are also several demands from the company to develop the website even further, such as adding a “user-generated content” feature and push notification. During the building of the website, the developer was always faced with the question “How to develop the website even further”, which triggered many ideas to be implemented in the website. Even the “user-generated content” feature was upgraded into a plugin for flexibility and reusability reason. The research was held for 1 month before the building process. In that research, the developer found a way about how to migrate from MODx to PhalconPHP, also how to realizing the company demand’s for gaining popularity in search engine. The research also covered about the reason for choosing PhalconPHP instead of other pure PHP frameworks. Some small researches were conducted during the SCRUM sprint, because of the sudden idea to improve the website. Migrating website from MODx to PhalconPHP was a success, even though there are many files removal. And to boost the website popularity, the first thing to do is to implement the SEO standards. Another demand by the company was for the website to be responsive, maintainable, reusable, and extendable. Responsive website can be reached by using the help of libraries such as Bootstrap, DataTable, and MorrisChart. Maintainable, reusable, and extendable are the key values of OOP. Because PhalconPHP itself already implemented OOP, the developer will follow the pattern given (MVC pattern) and refine it by doing more separation of concerns. Later on, the developer also put more refinements on the website to boost the speed of page loading, support multilingual, and management system.",
+  "creators": "HANA",
+  "contributors": "BERT VAN GESTEL (Advisor 1); JEFFREY VAN DIJK (Advisor 2); M.G.J. FRANSSEN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Undergraduate Thesis No. 03021733/INF/2017; Hana (26413034)",
+  "subjects": "PHP (COMPUTER PROGRAM LANGUAGE); SEARCH ENGINES--PROGRAMMING; WEBSITE"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "54071",
+  "title": "Penerapan SVM untuk klasifikasi sentimen pada review comment berbahasa Indonesia di online shop",
+  "abstract": "Dengan banyaknya kebutuhan manusia muncul inovasi yang memungkinkan pengguna dapat mengakses toko secara online, dan komentar merupakan aspek penting saat berbelanja di toko online. Pembeli dapat memberikan komentar mengenai barang yang telah dibeli, baik negative comment maupun positive comment. Dengan mengumpulkan berbagai macam komentar, data tersebut dapat digunakan untuk mengklasifikasikan komentar. Penelitian ini akan menggunakan algoritma Support Vector Machine (SVM) yang dianggap sebagai metode yang tepat untuk text classification. Metode tersebut akan diuji kinerjanya, dilihat dari seberapa akurat metode yang digunakan dalam mengklasifikasikan komentar. Selain itu penelitian ini juga menggunakan kernel yaitu kernel Linear, kernel Radial Basis Function (RBF), dan kernel Polynomial sebagai skenario pengujian. Berdasarkan hasil pengujian menunjukkan, SVM merupakan metode yang baik dalam mengklasifikasikan teks. SVM mengklasifikasikan teks yang telah melalui tahap preprocessing dengan nilai akurasi 88% pada kernel RBF, 87% pada kernel Linear dan 87% pada kernel Polynomial untuk klasifikasi sentimen. Nilai akurasi pada aspect classification sendiri sebesar 78% pada kernel RBF, 78% pada kernel Linear dan 74% pada kernel Polynomial.",
+  "creators": "YOSHUA REFO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Liliana (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022155/INF/2022; Yoshua Refo (C14180211)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; SUPPORT VECTOR MACHINES; PROGRAMMING (ELECTRONIC COMPUTERS); TELESHOPPING--COMPUTER PROGRAMS"
+}

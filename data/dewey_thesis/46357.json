@@ -1,0 +1,14 @@
+{
+  "id": "46357",
+  "title": "Deteksi helm pada pengguna sepeda motor dengan metode Convolutional Neural Network",
+  "abstract": "Dalam rangka memastikan langkah-langkah keamanan, pelanggaran lalu lintas adalah suatu hal yang penting. Salah satu pelanggaran lalu lintas terbanyak adalah penggunaan helm pada pengendara sepeda motor. Oleh karena itu dibuatlah program yang dapat membantu dalam mengidentifikasi pengguna helm pada pengendara sepeda motor. Pada proses identifikasi data masalah yang sering dialami adalah pengenalan karakteristik helm. Dalam penelitian ini akan dilakukan percobaan filter agar dapat mengenali karakteristik dari helm. Pada penelitian yang pernah dilakukan oleh silva, aires, dan veras menggunakan metode circular hough transform (CHT) dan histogram of oriented gradient (HOG) dan menghasilkan akurasi 91%. Penelitian ini menggunakan 2 metode yaitu You Only Look Once (YOLO) dan Convolutional Neural Network (CNN). Metode YOLO digunakan untuk mencari region dari sepeda motor dan pengendara sepeda motor. Metode CNN digunakan untuk mengklasifikasi pengguna helm pada pengendara sepeda motor. Hasil dari klasifikasi CNN akan dihitung menggunakan confusion matrix agar mendapatkan akurasi dari prediksi yang benar. Hasil program dari penelitian ini mengidentifikasi pengguna helm pada pengendara motor dalam video. Akurasi yang didapatkan antara pengendara sepeda motor yang mengemudi dengan helm dan tanpa helm adalah 70.49%.",
+  "creators": "ALBERT",
+  "contributors": "Kartika Gunadi (Advisor 1); Endang Styati (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021936/INF/2020; Albert (26416040)",
+  "subjects": "NEURAL NETWORK (COMPUTER SCIENCE)"
+}

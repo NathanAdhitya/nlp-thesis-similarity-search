@@ -1,0 +1,14 @@
+{
+  "id": "26059",
+  "title": "Aplikasi e-commerce untuk Departement Literatur Perkantas Jawa Timur",
+  "abstract": "Departemen Literatur Perkantas Jawa Timur masih menerapkan sistem offiline dalam kegiatannya menjual buku kepada customer. Tentunya hal ini membuat proses penjualan menjadi lebih terbatas dibandingkan dengan memakai sistem penjualan secara online. Dengan adanya website e-commerce ini diharapkan akan memberikan perubahan dari sistem penjualan offline menjadi sistem penjualan online yang lebih terkomputerisasi maka masalah-masalah seperti promosi buku dan pemberian informasi tentang buku-buku yang dijual dapat disampaikan lebih baik. Aplikasi e-commerce ini diharapkan dapat membuat proses penjualan menjadi lebih baik dan tentu diharapkan juga dapat meningkatkan penjualan dan memberikan banyak keuntungan bagi Departement Literatur Perkantas. Perancangan desain sistem menggunakan Data Flow Diagram dan Entity Relationship Diagram. Database dibuat dengan menggunakan phpmyadmin. Program yang dibuat meliputi pembuatan database master untuk member, buku, kategory buku, publisher, transaksi untuk proses penjualan,dan laporan perwaktu. Dari hasil pengujian, program yang dibuat dapat memproses data penjualan yang berhubungan dengan transaksi pada Departement Literatur Perkantas.",
+  "creators": "FERRY",
+  "contributors": "Andreas Handojo (Advisor 1); Kartika Gunadi (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021169/INF/2012; Ferry (26408148)",
+  "subjects": "DATABASE DESIGN; ELECTRONIC COMMERCE--COMPUTER PROGRAMS; WEBSITES-DESIGN"
+}

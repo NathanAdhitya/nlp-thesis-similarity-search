@@ -1,0 +1,14 @@
+{
+  "id": "13840",
+  "title": "IBM PC sebagai IC tester CMOS seri 4000",
+  "abstract": "Dewasa ini kemajuan teknologi elektronika tampak semakin pesat khususnya dibidang teknik digital. Hal ini dapat dilihat dengan makin banyaknya peralatan-peralatan yang dahulu menggunakan sistem analog diganti dengan menggunakan sistem digital. Keadaan ini ditunjang pula dengan kehadiran mikroprosessor dan komputer sebagai pengolah data. Pada peralatan yang menggunakan sistem digital biasanya IC-IC yang dipasangkan tidak disolder langsung ke papan cetak (pcb), tetapi IC tersebut dihubungkan dengan menggunakan soket IC. Adanya alat penguji IC digital akan sangat membantu dalam melacak kerusakan pada IC digital tanpa harus menguji satu per satu kaki-kaki IC tersebut. Dalam tugas akhir ini akan dibuat sebuah alat tambahan bagi komputer IBM PC/XT sehingga komputer ini dapat dipakai untuk menguji IC digital khususnya untuk IC keluarga CMOS seri 4000. Alat ini terdiri dari dua bagian yaitu perangkat keras dan perangkat lunak. Prinsip dasar pengujian IC ini adalan dengan memberikan kombinasi masukan sesuai dengan tabel kebenaran pada IC yang diujikan, kemudian respon IC yang diuji diambil untuk kemudian dibandingkan dengan tabel data yang telah disusun. Apabila dari hasil pembandingan didapatkan kesamaan berarti IC yang diuji baik, apabila sebaliknya berarti IC yang diuji rusak.",
+  "creators": "LUKMAN TANDIONO",
+  "contributors": "SOETIKNO (Advisor 1); HERLIANTO TENGGARA (Advisor 2); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 90/E/EL/005/0045; Lukman Tandiono (484029)",
+  "subjects": "INTEGRATED CIRCUITS-TESTING"
+}

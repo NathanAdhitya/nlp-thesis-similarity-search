@@ -1,0 +1,14 @@
+{
+  "id": "36576",
+  "title": "Pembuatan aplikasi messenger berbasis android",
+  "abstract": "Perkembangan teknologi informasi sekarang ini berkembang dengan sangat pesat. Salah satunya adalah penggunaan aplikasi messenger pada mobile device. Saat ini messenger merupakan salah satu aplikasi yang digunakan untuk berkomunikasi oleh masyarakat luas. Pembuatan skripsi ini, bertujuan untuk membuat aplikasi messenger yang dapat berkomunikasi antar mobile device khususnya device dengan sistem operasi Android. Dalam pembuatan aplikasi messenger, terdapat server side yang terdiri dari server Openfire yang berfungsi sebagai protocol di dalam pertukaran pesan dan Apache server yang berfungsi untuk menampung data-data pengguna. Serta client side yang terdiri dari tampilan user interface pada aplikasi. Aplikasi ini menyediakan fitur login, registrasi, chatting, create group dan invite friends or group. Dari hasil pengujian terhadap beberapa Android device dengan versi dan merek yang berbeda-beda antara lain, LG G4, LG G2, Samsung Galaxy S2, Sony Xperia SP, Sony Xperia Z3 compact, aplikasi berjalan dengan baik pada semua device. Namun untuk tampilan, posisi dari layout seperti text view, image view, video view dan juga list view tidak berjalan dengan baik karena menggunakan satuan density pixel (DP). Sehingga ukuran untuk setiap layar device yang memiliki pixel per inch (PPI) yang berbeda akan menampilkan hasil yang berbeda. Serta pada device Samsung Galaxy S2 dengan Android versi 4.1.2 tidak ditemukan pop up menu button yang berada pada menu friends.",
+  "creators": "ALDY RENALDI GUNAWAN",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Yulia (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021495/INF/2016; Aldi Renaldi Gunawan (26411097)",
+  "subjects": "ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); APPLICATION SOFTWARE-DEVELOPMENT; MESSENGERS (COMPUTER PROGRAMS)"
+}

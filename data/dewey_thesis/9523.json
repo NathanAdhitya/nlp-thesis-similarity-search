@@ -1,0 +1,14 @@
+{
+  "id": "9523",
+  "title": "Perancangan dan pembuatan sistem informasi forecasting pada PD. Maha Jaya",
+  "abstract": "PD. Maha Jaya adalah perusahaan yang bergerak dalam bidang hasil bumi. Selama ini sistem penjualan dan pembelian pada PD. Maha Jaya masih menggunakan sistem manual sehingga muncul permasalahan misalnya tidak dapat memprediksi jumlah bahan baku yang harus dibeli dari supplier dan proses yang memakan waktu lama untuk mendapatkan informasi yang diinginkan. Oleh karena itu dibutuhkan sistem informasi yang memadai, untuk memproses pencatatan secara otomatis dan menghasilkan informasi yang cepat dan tepat. Berdasarkan latar belakang permasalahan itu, penulis merancang sistem informasi forecasting guna pemenuhan customer order secara komputerisasi, dimana proses pembuatannya menggunakan Borland Delphi 7 sebagai bahasa pemograman dan SQL server sebagai database-nya. Sistem didesain dengan merancang Data Flow Diagram (DFD), Entity Relationship Diagram (ERD), dan flowchart. Flowchart digunakan untuk menggambarkan alur perhitungan peramalan metode Moving Average, Single Exponential Smoothing, dan Winter. Perhitungan forecasting yang dihasilkan berupa nilai forecast, Mean Absolute Percentage Error, dan grafik. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, dapat mengetahui jumlah bahan baku dan bahan penolong yang harus dibeli, menyimpan transaksi pembelian, penjualan. Selain itu dapat menampilkan laporan forecasting, laporan pembelian, laporan penjualan, dan laporan stok secara otomatis.",
+  "creators": "ANDI IRAWAN",
+  "contributors": "Rudy Adipranata (Advisor 1); Tanti Octavia (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010683/INF/2008; Andi Irawan (26404149)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

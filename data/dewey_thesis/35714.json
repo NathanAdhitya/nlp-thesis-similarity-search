@@ -1,0 +1,14 @@
+{
+  "id": "35714",
+  "title": "Aplikasi perhitungan harga pokok produksi dengan metode harga pokok proses pada UD Barito Bakery",
+  "abstract": "UD Barito Bakery adalah sebuah perusahaan yang bergerak dalam industri roti. Pencatatan data yang ada pada UD. Barito Bakery saat ini dilakukan secara manual, sehingga akan menimbulkan banyak kendala. Perhitungan harga pokok produksi juga dilakukan secara manual dengan memperhitungkan bahan baku yang digunakan, tanpa memperhitungkan biaya overhead dan tenaga kerja. Perhitungan harga pokok produksi secara manual akan menimbulkan banyak kendala dan mempengaruhi keuntungan yang akan didapatkan oleh perusahaan. Berdasarkan latar belakang permasalahan tersebut, maka dirancang sistem perhitungan Harga Pokok Produksi. Proses perancangan sistem dari aplikasi ini melalui beberapa tahap, yaitu dimulai dengan melakukan survey sistem produksi roti, analisa data, dan merancang Data Flow Diagram dan Entity Relationship Diagram dari aplikasi yang akan dibuat. Proses pembuatannya menggunakan Microsoft Visual Studio .Net 2012 sebagai bahasa pemrogramannya dan PostgreSQL sebagai database. Perhitungan harga pokok produksi dilakukan dengan menggunakan metode Harga Pokok Pesanan. Hasil yang diperoleh dari aplikasi ini, yaitu dapat menyimpan seluruh data yang berkaitan dengan proses produksi, pembelian, penjualan, perhitungan harga pokok produksi secara otomatis, serta kartu stok yang dapat terupdate secara otomatis.",
+  "creators": "IVAN KURNIAWAN YOEWONO",
+  "contributors": "Yulia (Advisor 1); Alexander Setiawan (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021358/INF/2014; Ivan Kurniawan Yoewono (26410026)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

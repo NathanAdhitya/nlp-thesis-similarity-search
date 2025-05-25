@@ -1,0 +1,14 @@
+{
+  "id": "9548",
+  "title": "Pengujian quantitative performance antara protokol optimized link state routing (OLSR) dan protokol ad-hoc on-demand distance vector (AODV) dengan menggunakan aplikasi file download request",
+  "abstract": "Salah satu dari pengembangan terkini teknologi untuk melakukan transfer informasi tersebut adalah teknologi routing MANET (Mobile Ad-hoc Network) yang dipakai sebagai salah satu standar routing pada dunia wireless. Untuk teknologi MANET ini sendiri terbagi ke dalam dua metode, yaitu metode proactive routing yang diwakili oleh Optimized Link State Routing (OLSR) dan metode reactive routing yang diwakili oleh Ad-hoc On-demand Distance Vector (AODV). Dalam Tugas Akhir ini dilakukan tiga macam metode, yaitu metode perhitungan model matematis, metode simulasi jaringan, serta metode pengujian lapangan. Masing-masing metode tersebut juga menggunakan tiga jenis jaringan pengujian, yaitu jaringan tipe A (3 node), jaringan tipe B (4 node) dan jaringan tipe C (5 node) selain itu pada metode simulasi jaringan juga ditambahkan jaringan kompleks (lebih dari 10 node). Pada metode model matematis pengujian dilakukan secara manual kemudian dibandingkan. Pada metode simulasi jaringan akan digunakan QualNet dimana kondisi pengujian akan di-scripting terlebih dahulu lalu akan di-generate tampilan grafiknya. Metode pengujian lapangan menggunakan aplikasi file download request dimana aplikasi tersebut akan diujicobakan pada protokol OLSR. Berdasarkan hasil pengujian yang dilakukan, dapat ditarik kesimpulan bahwa terdapat kecenderungan quantitative performance protokol routing AODV lebih baik dibandingkan dengan protokol routing OLSR, hal ini khususnya berlaku pada jaringan yang kurang kompleks sesuai dengan kondisi jaringan yang diuji (kurang dari 10 node).",
+  "creators": "HIEM HOK",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Andreas Handojo (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010690/INF/2008; Hiem Hok (26404108)",
+  "subjects": "DATA TRANSMISSION SYSTEMS"
+}

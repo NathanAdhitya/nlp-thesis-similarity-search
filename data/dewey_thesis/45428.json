@@ -1,0 +1,14 @@
+{
+  "id": "45428",
+  "title": "Penentuan stok optimal dan peletakan bahan baku kemas tube di gudang PT X",
+  "abstract": "PT X merupakan perusahaan manufaktur yang memproduksi produk-produk dermatologis. Persediaan bahan baku menjadi faktor yang penting dalam kegiatan produksi. Penelitian ini berfokus pada persediaan dan penataan bahan baku kemas yang berbentuk tube di gudang. Perusahaan saat ini melakukan pembelian barang dengan melakukan perkiraan jumlah permintaan dari data masa lalu dan ROP. Penentuan ROP dan EOQ dilakukan dengan menggunakan metode simulasi. Hasil simulasi persediaan bahan baku menunjukkan total biaya persediaan usulan dan persentase shortage yang dihasilkan lebih baik. Biaya total persediaan kondisi awal Rp 3.616.786.638 dan kondisi usulan Rp 1.736.032.454. Hasil simulasi persediaan akan digunakan untuk membuat layout penataan bahan baku usulan. Usulan peletakan bahan baku tube dilakukan dengan memilah produk fast moving dan produk slow moving. Produk fast moving ditata dengan dedicated storage policy, sedangkan untuk produk slow moving ditata dengan class based storage policy. Urutan penempatan setiap jenis tube dilakukan berdasarkan jumlah stok terbanyak. Usulan peletakan bahan baku tube lebih baik dari kondisi awal berdasarkan utilitas gudang dan momen. Utilitas rata-rata gudang mengalami peningkatan sebesar 1,82% dan terjadi pengurangan momen layout awal sebesar 64,55%.",
+  "creators": "FELITA JOHANNA",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Tanti Octavia (Advisor 2); Herri Christian Palit (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022219/IND/2019; Felita Johanna (25415038)",
+  "subjects": "INVENTORY CONTROL; WAREHOUSES--MANAGEMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4104",
+  "title": "Pengoptimalan rute dan jadwal kendaraan di PT. X",
+  "abstract": "Dalam tugas akhir ini dibahas permasalahan perutean dan penjadwalan pengiriman barang di PT.X, yang merupakan suatu perusahaan yang bergerak di bidang logistic. PT. X bertugas untuk mendistribusikan produk-produk dari Panasonic kepada toko-toko yang merupakan pelanggan dari PT. National Panasonic Gobel. Penjadwalan dan penyusunan rute kendaraan yang baik dapat meminimalkan total jarak tempuh kendaraan dan jumlah kendaraan yang digunakan. Dimana pada akhirnya ini akan menyebabkan jumlah total biaya transportasi akan dapat berkurang. Penelitian ini dititikberatkan pada perancangan rute dan jadwal secara harian pada PT. X. Dalam sistem ini, toko-toko tersebut melakukan pemesanan kepada PT. National Panasonic Gobel, dan pesanan-pesanan tersebut akan dikirimkan pada PT. X untuk kemudian diolah lebih lanjut sehingga barang-barang pesanan tersebut akan dikirimkan Metode yang digunakan untuk menyelesaikan permasalahan perutean dan penjadwalan kendaraan (Vehicle Routing and Scheduling Problem) adalah metode penghematan Clarke -Wright (Clarke-Wright Savings Method). Hasil dari penyelesaian masalah ini adalah tersusunnya rencana jadwal kendaraan dan rute yang harus dilalui kendaraan yang akan mengirimkan pesanan ke masing-masing toko dalam satu hari selama satu minggu. Dalam menggunakan metode penghematan dalam penyusunan rute dan jadwal kendaraan diperoleh hasil bahwa total jarak tempuh kendaraan menjadi 11,11 % le bih pendek, utilitas volume kendaraan menjadi 11,8 % lebih besar, utilitas berat kendaraan menjadi 15,37 % lebih kecil, dan jumlah kendaraan yang dipakai menjadi 11,58 % lebih sedikit daripada kondisi PT. X sebelumnya . Hasil perbandingan tersebut telah diuji signifikasi dengan menggunakan a sebesar 10%, dan didapatkan bahwa hasil tersebut signifikan.",
+  "creators": "CYNTHIA DEWI",
+  "contributors": "Tanti Octavia (Advisor 1); Iwan Halim Sahputra, S.T., M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010834/IND/2004; Cynthia Dewi (25400037)",
+  "subjects": "MATERIALS HANDLING; MATERIALS MANAGEMENT"
+}

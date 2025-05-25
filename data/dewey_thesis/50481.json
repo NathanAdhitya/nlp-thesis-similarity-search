@@ -1,0 +1,14 @@
+{
+  "id": "50481",
+  "title": "Aplikasi human resource information system dengan fitur sistem pendukung keputusan (studi kasus PT Industri Kreatif Digital)",
+  "abstract": "PT Industri Kreatif Digital merupakan sebuah perusahaan jasa yang berfokus pada layanan cloud hosting dan VPS serta pembuatan website. Saat ini, pengolahan data SDM masih memiliki kekurangan di mana pencatatan data karyawan, penggajian, absensi, dan proses perekrutan masih dilakukan secara manual sehingga memungkinkan terjadinya kesalahan pencatatan yang menyebabkan informasi yang dihasilkan tidak akurat. Perusahaan membutuhkan Human Resource Information System yang dapat memudahkan akses pengolahan data karyawan secara langsung sehingga informasi yang dihasilkan lebih akurat dan tidak memakan waktu. HRIS dilengkapi dengan fitur Sistem Pendukung Keputusan yang dapat menghasilkan rekomendasi untuk calon karyawan, kenaikan jabatan, dan peserta pelatihan mikrotik. Pada skripsi ini dirancang sebuah HRIS yang memiliki beberapa modul yaitu modul personalia, modul perekrutan, modul penggajian, modul presensi, modul penilaian, dan modul laporan. Untuk Sistem Pendukung Keputusan menggunakan metode PIPRECIA dalam perhitungan bobot kriteria dan EDAS dalam proses perangkingan. Sistem yang dibuat berbasis website dengan menggunakan PHP framework Laravel, Javascript, HTML, dan database MySQL. Hasil dari penelitian ini adalah sebuah sistem yang dapat membantu HRD dalam pengolahan data SDM seperti proses lembur dan cuti, proses perekrutan, proses penggajian, import file presensi, penilaian karyawan, dan pembuatan laporan. Adapun fitur Sistem Pendukung Keputusan dapat menampilkan rekomendasi karyawan sesuai dengan hasil perhitungan.",
+  "creators": "CYNTHIA STEFANIE SURIADY",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Alexander Setiawan (Advisor 2); Yulia (Examination Committee 1); Leo Willyanto Santoso (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022065/INF/2021; Cynthia Stefanie Suriady (C14170094)",
+  "subjects": "APPLICATION SOFTWARE; PROGRAMMING (ELECTRONIC COMPUTERS); MANAGEMENT INFORMATION SYSTEMS--DATA PROCESSING; MANAGEMENT INFORMATION SYSTEMS-CASES"
+}

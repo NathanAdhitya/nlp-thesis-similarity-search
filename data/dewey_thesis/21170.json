@@ -1,0 +1,14 @@
+{
+  "id": "21170",
+  "title": "Perencanaan tata letak di PT. Sentralwana Albasia Woodworking",
+  "abstract": "PT Sentralwana Albasia Woodworking adalah sebuah perusahaan yang bergerak dibidang pengerjaan kayu ( wood working) dan berproduksi berdasarkan pesanan/order. Diantara produk produk yang dihasilkan berasal dari kayu albasia, kayu pinus, kayu jati, dll. Masalah perencanaan tata letak merupakan salah satu masalah yang sering dihadapi oleh perusahaan ini, maka timbullah ide dari penulis untuk mencoba memberikan suatu model layout ( tata letak ) yang lebih meminimalkan jarak perpindahan material. Hal ini disebabkan karena salah satu kriteria dari layout dikatakan baik bila layout tersebut mempunyai jarak perpindahan material yang seminimal mungkin. Perancangan model layout yang dilakukan dalam tugas akhir ini berdasarkan aliran material, dalam hal ini yang dinilai adalah frekuensi perpindahan material. Frekuensi perpindahan material dapat diukur secara kuantitatif ( From-To Chart) maupun secara kualitatif ( Activity Relationship Chart). Layout algoritma yang digunakan dalam tugas akhir ini adalah CRAFT ( untuk data kuantitatif ), CORELAP dan BLOCPLAN( untuk data kualitatif). Dari hasil pengolahan data yang dilakukan ternyata layout dari CRAFT adalah model layout yang lebih meminimalkan jarak perpindahan material, karena Momen total dari layout CRAFT paling kecil jika dibandingkan dengan Momen total dari model layout lainnya ( Momen total dari layout CRAFT adalah 15.650,8 meter ). Dan bila hasil tersebut dibandingkan dengan initial layout selisihnya sebesar 2.386,4 meter (Momen total initial layout adalah 18.037,2 meter).",
+  "creators": "BUDI TJAHYADI ALAN",
+  "contributors": "Maja Indahwati (Examination Committee 1); Tessa Vanina Soetanto (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 333/TI-60/2000; Budi Tjahyadi Alan (25495071)",
+  "subjects": "PLANT LAYOUT"
+}

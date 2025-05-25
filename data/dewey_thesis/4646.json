@@ -1,0 +1,14 @@
+{
+  "id": "4646",
+  "title": "Programmable metronome",
+  "abstract": "Musik merupakan suatu hal yang penting bagi kehidupan manusia. Dalam musik terdapat unsur sebagai berikut: birama, tempo, serta ketuk atau hitungan. Untuk menentukan tempo dalam sebuah lagu diperlukan alat bantu berupa metronome. Keberadaan metronome analog yang ada saat ini memiliki beberapa kelemahan, diantaranya adalah tidak dapat menghasilkan sebuah tempo yang presisi, hal ini terjadi karena komponen pembentuknya berupa roda-roda gigi yang jika dipakai dalam jangka waktu terlalu lama dapat menimbulkan keausan. Oleh karena itu timbul gagasan untuk membuat Programmable Metronome, sebuah metronome digital yang mampu menyimpan lebih dari 200 macam setting-an birama dan tempo. Pada Programmable Metronome tugas akhir ini menggunakan mikrokontroler AT89S8252, yang berfungsi sebagai proses penghitungan timer. Untuk menampilkan birama, tempo, serta jumlah hitungan (count bar) digunakan display LCD. Proses pengujian dilakukan dengan membandingkan Programmable Metronome dengan stopwatch dan metronome analog. Dari pengujian didapat perbedaan (keterlambatan) perhitungan tempo, yang disebabkan karena pengaturan timer yang kurang tepat (pada tempo lambat). Programmable Metronome ini dapat di-set birama 2/4, 3/4, 4/4, 6/4, 6/8. dan 12/4. Serta dapat diprogram tempo-nya antara 25 sampai 250.",
+  "creators": "YUSAK KURNIAWAN MUHALIM",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010817/ELK/2006; Yusak Kurniawan Muhalim (23400110)",
+  "subjects": "PROGRAMMABLE CONTROLLERS"
+}

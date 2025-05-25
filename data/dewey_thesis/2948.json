@@ -1,0 +1,14 @@
+{
+  "id": "2948",
+  "title": "Program komputer untuk perhitungan respons balok akibat pengaruh beban dinamis",
+  "abstract": "Penentuan respons pada balok akibat beban dinamis yang bekerja sepanjang bentangnya menarik minat untuk diteliti dengan alasan bahwa tegangan-tegangan dinamis maksimum yang terjadi dapat lebih tinggi daripada yang disebabkan oleh penggunaan beban statis. Penentuan respons balok akibat beban dinamis membutuhkan perhitungan yang banyak dan waktu yang lama jika dikerjakan secara manual. Oleh karena itu untuk menyelesaikannya dibutuhkan bantuan program komputer untuk menyelesaikan persamaan-persamaan diferensial dalam masalah tersebut dan untuk membuat simulasi respons dinamis balok. Dalam tugas akhir ini dibuat sebuah program dalam bahasa pemrograman MATLAB yang dapat dimanfaatkan untuk menyelesaikan permasalahan beban dinamis pada balok dengan metode elemen hingga. Dalam metode ini balok didiskretisasi menjadi bagian-bagian elemen balok yang lebih kecil. Program ini telah diverifikasi dengan hasil eksak dan program yang telah ada di pasaran. Hasil-hasil dari program ini mendekati hasil pembandingnya untuk periode, ragam getar dan perpindahan.",
+  "creators": "ADRIANUS MOEDAK",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Pamuda Pudjisuryadi (Advisor 2); Januar Buntoro (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 1224/SIP/2002; Adrianus Moedak (21492199)",
+  "subjects": "STRUCTURAL ANALYSIS (ENGINEERING)-COMPUTER PROGRAMS; GIRDERS"
+}

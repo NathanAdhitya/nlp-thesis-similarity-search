@@ -1,0 +1,14 @@
+{
+  "id": "59199",
+  "title": "Penerapan depth estimation untuk deteksi keadaan sekitar forklift pada PT Henkel Adhesive Technologies Pasuruan",
+  "abstract": "Seorang pengemudi forklift bertugas untuk mengoperasikan forklift untuk memindahkan barang dari satu tempat ke tempat lain dalam jumlah yang banyak. Oleh karena itu, operator forklift harus tetap fokus kepada barang yang ada di depan saat menjalankan forklift sembari waspada dengan keadaan di sekitar forklift yang kebanyakan ada barang-barang yang tidak terletak pada tempatnya. Oleh karena itu, deteksi keadaan sekitar forklift diperlukan untuk mendeteksi bahaya di sekitar forklift saat sedang beroperasi, untuk menghindari terjadinya near miss atau bahkan kecelakaan yang melibatkan forklift. Terdapat penelitian yang menggunakan model Resnet untuk mendeteksi apakah ada objek yang terdeteksi dalam suatu ruangan atau point of view kamera secara real-time. Model tersebut belum mencapai akurasi yang optimal untuk mendeteksi objek menggunakan kamera monokular. Solusi yang diusulkan adalah memanfaatkan model Yolov3 untuk melatih model agar mendapatkan akurasi yang baik. Selain itu memanfaatkan dataset yang berisi objek-objek pada pabrik industri yang cukup beragam untuk dilatih dalam mendeteksi objek serta menghitung estimasi jarak antar objek dengan kamera. Di mana hasil bounding box dari hasil deteksi objek akan dijadikan acuan untuk perhitungan estimasi jarak. Hasil pengujian yang didapat setelah memanfaatkan Yolov3 adalah rata-rata presisi yang didapat sebesar 90%. Model berhasil mendeteksi objek dengan akurasi rata-rata 90% dan berhasil mengeluarkan alarm yang tepat sesuai dengan jarak kamera dengan objek yang terdeteksi. Ketika model diuji pada kasus nyata, model berhasil mendeteksi secara real time dan mengeluarkan notifikasi suara sesuai jarak objek pada waktu rata-rata 2 detik setelah objek terdeteksi.",
+  "creators": "CHRISTIAN SANTOSO",
+  "contributors": "Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Kartika Gunadi (Examination Committee 1); Yulia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022441/INF/2024; Christian santoso (C14190141)",
+  "subjects": "FORKLIFT TRUCKS; NEURAL NETWORKS (COMPUTER SCIENCE)--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "27791",
+  "title": "Perencanaan dan pembuatan sistem pompa infus yang dikendalikan oleh mikrokontroler 8031",
+  "abstract": "Pompa infus adalah suatu alat yang memindahkan obat/cairan infus dari tabung infus (syringe) ke dalam tubuh pasien melalui pembuluh infus dengan menggunakan peralatan elektro-mekanis yang digerakkan oleh motor. Dalam pembuatan tugas akhir ini, pompa infus menggunakan torsi motor stepper untuk menggerakkan secara translasi penekan pada alat suntik sehingga cairan infus dapat masuk ke tubuh pasien. Pengaturan kecepatan aliran cairan dan volume yang diinfuskan dilakukan oleh sistem mikrokontroler berbasis 8031 dengan mengatur delay interrupt untuk internal timer yang ada pada mikrokontroler 8031. Delay ini akan menentukan kecepatan pemberian pulsa pada motor stepper sehingga merupakan pengaturan kecepatan motor stepper. Sistem mikrokontroler 8031 terdiri atas: mikrokontroler 8031 selaku pengolah data utama, 8 kilobytes EPROM 2784 yang menyimpan progam pengontrol, programmable keyboard/display interface 8279 yang akan menangani scan display dan matrik keyboard, rangkaian driver motor stepper dan driver buzzer, dan rangkaian detektor. Pompa infus ini akan berhenti secara otomatis apabila mendeteksi suatu kegagalan/kelainan dalam penginfusan dan alarm akan diaktifkan sebagai tanda peringatan. Sistem perangkat lunak yang dipakai untuk mengendalikan sistem pompa infus adalah bahasa tingkat rendah yaitu bahasa assembly 8031. Pengujian sistem pompa infus yang dibuat meliputi pengujian ketelitian volume yang diinfuskan dan waktu pemompaan memberikan hasil yang sangat baik. Dan untuk pengujian detektor kegagalan penginfusan juga memberikan hasil yang sangat baik. Dari data pengujian yang diperoleh dapat ditarik kesimpulan bahwa mikrokontroler 8031 menghasilkan sistem kontrol yang teliti dan aman untuk sistem pompa infus yang dibuat.",
+  "creators": "Antonius Tony Surya Kusuma",
+  "contributors": "HERLIANTO TENGGARA (Examination Committee 1); SUPENO DJANALI (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/012/0169; Antonius Tony Surya Kusuma (23488056)",
+  "subjects": "AUTOMATIC CONTROL; MICROCONTROLLER 8031; DRUG INFUSION PUMPS-COMPUTER PROGRAM"
+}

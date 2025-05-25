@@ -1,0 +1,14 @@
+{
+  "id": "50565",
+  "title": "Pemetaan penyebaran tingkat kepatuhan masyarakat dalam menggunakan masker di pasar tradisional Kota Surabaya dengan metode hot spot analysis (Getis-Ord Gi*)",
+  "abstract": "Pengunaan masker yang benar membawa dampak yang positif bagi hasil transmisi yang dihasilkan. Sebuah penelitian dilakukan melibatkan masker kain, masker bedah dan masker Filtering Face Piece 2 (FFFP2), dengan hasil ketiga jenis masker tetap memperlihatkan hasil yang stabil untuk melindungi sepanjang waktu dan tidak bergantung pada aktivitas seseorang. Pada masa sekarang ini, CoronaVirus Disease 2019 (COVID-19) merupakan salah satu penyebaran penyakit yang menyebabkan pandemi global serta membuat beberapa klaster baru tercipta terkhususnya klaster pasar, dimana pasar merupakan salah satu median dalam menggerakan ekonomi. Sehingga perlu adanya perhatian serius dalam menjaga diri dengan menggunakan alat pelindung sekurang-kurangnya masker. Pemetaan penyebaran tingkat penggunaan masker oleh masyarakat ini menggabungkan aspek visualisasi peta, sistem informasi website dan pemrosesan gambar untuk deteksi masker. Penggunaan image processing berperan penting dalam sistem pemetaan, dikarenakan proses penghitungan orang tidak menggunakan masker apabila dilakukan secara manual akan memakan banyak tenaga kerja dalam implementasinya. Image processing yang digunakan adalah face mask detector dan people counter dengan rata-rata akurasi pada proses implementasinya adalah 82%. Metode pemetaan hot spot analysis tidak bisa digunakan dalam tipe data statis seperti pasar, karena akan berakibat kepadatan lokasi pasar yang sama dari hari ke hari. Metode yang sesuai untuk tipe data yang membandingkan value tidak menggunakan masker terhadap keseluruhan pasar adalah metode interpolasi Inverse Distance Weighted (IDW). Hasil pengujian menggunakan metode baru menunjukkan adanya perubahan warna tinggi rendahnya penggunaan masker oleh masyarakat sehari-hari, dan hanya menghitung value saja tidak menghitung jarak.",
+  "creators": "STEFANUS BENHARD",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Resmana Lim (Advisor 2); Yulia (Examination Committee 1); ANDRE GUNAWAN, S.Kom. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022063/INF/2021; Stefanus Benhard (C14170096)",
+  "subjects": "GEOGRAPHIC INFORMATION SYSTEMS; MARKETS, TRADITIONAL; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

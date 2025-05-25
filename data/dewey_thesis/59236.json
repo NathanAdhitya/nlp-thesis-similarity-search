@@ -1,0 +1,14 @@
+{
+  "id": "59236",
+  "title": "Sistem rekomendasi anime menggunakan metode user-based collaborative filtering berbasis k-means clustering",
+  "abstract": "Sistem Rekomendasi Anime telah menjadi topik penelitian yang signifikan dalam bidang kecerdasan buatan dan ilmu komputer. Penelitian ini menghadirkan sebuah pendekatan inovatif dengan mengintegrasikan metode User-Based Collaborative Filtering (UBCF) dan K-Means Clustering untuk meningkatkan kualitas rekomendasi. UBCF digunakan untuk memprediksi preferensi pengguna berdasarkan kesamaan dengan pengguna lain, sementara K-Means Clustering digunakan untuk mengelompokkan pengguna dengan preferensi serupa ke dalam cluster. Proses pengembangan dimulai dengan mengumpulkan data rating anime sejumlah pengguna dari halaman review pada MyAnimeList. Kemudian, matriks kesamaan antar pengguna dibangun menggunakan metode UBCF. Berbeda dengan pendekatan konvensional, kami menerapkan K-Means Clustering untuk membentuk kelompok pengguna dengan preferensi serupa. Ini membantu meningkatkan akurasi rekomendasi dengan mempertimbangkan lebih banyak konteks kesamaan. Evaluasi sistem dilakukan melalui uji coba pada dataset yang luas, dan hasilnya menunjukkan peningkatan signifikan dalam precision @k dan keberagaman rekomendasi dibandingkan dengan metode konvensional. Precision @k diukur dengan mempertimbangkan sejauh mana rekomendasi yang diberikan sistem sesuai dengan preferensi pengguna pada k-item pertama. Selain itu, eksperimen sensitivitas terhadap parameter K-Means menunjukkan bahwa konfigurasi tertentu memberikan keseimbangan optimal antara akurasi precision @k dan efisiensi komputasional. Penelitian ini memberikan kontribusi pada pengembangan sistem rekomendasi anime dengan memadukan keunggulan UBCF dan K-Means Clustering. Hasil eksperimen mendukung efektivitas pendekatan ini dalam memberikan rekomendasi yang lebih personal dan relevan kepada pengguna, membuka peluang untuk peningkatan pengalaman pengguna dalam menemukan anime yang sesuai dengan preferensi mereka.",
+  "creators": "KEVIN BENEDICT DAVID",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022416/INF/2024; Kevin Benedict David (C14180218)",
+  "subjects": "ANIMATION (CINEMATOGRAPHY)--COMPUTER PROGRAMS"
+}

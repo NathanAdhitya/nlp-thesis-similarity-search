@@ -1,0 +1,14 @@
+{
+  "id": "27986",
+  "title": "Pelacakan dan pengenalan wajah menggunakan metode gabor filter",
+  "abstract": "Pelacakan dan pengenalan wajah manusia merupakan salah satu bidang penelitian yang penting, dan dewasa ini banyak aplikasi yang dapat menerapkannya, baik di bidang komersial maupun bidang penegakan hukum. Teknik pengenalan wajah pada saat ini telah mengalami kemajuan yang sangat berarti. Melalui pengembangan suatu teknik seperti Gabor Filter, komputer sekarang dapat menyerupai kemampuan otak manusia daiam berbagai tugas pengenalan wajah, terutama tugas-tugas yang membutuhkan pencarian pada database wajah yang besar. Tujuan tugas akhir ini adalah untuk membuat suatu perangkat lunak yang menggabungkan pelacakan wajah manusia dengan menggunakan algoritma CamShift dan pengenalan wajah dengan menggunakan Gabor Filter. Dalam tugas akhir ini, perangkat lunak yang dibuat menggunakan gambar bergerak sebagai inputnya, yaitu dari video kamera {webcam). Bahasa pemrograman yang dipakai adalah Microsoft Visual C++ 6.0® dan dibantu dengan berbagai library dari Intel Performance Library dan Open Source Computer Vision Library. Hasil pengujian sistem menunjukkan bahwa pelacakan berdasarkan wama kulit dengan algoritma CamShift cukup baik. Respon sistem terhadap obyek wama kulit yang melintas juga cukup baik. Sistem pengenalan wajah manusia menggunakan metode Gabor Filter mencapai tingkat keakuratan sebesar 79.31% dengan database wajah sejumlah 341 citra yang terdiri dari 31 citra individu dengan 11 pose, dan dengan citra penguji sebanyak 29 citra wajah. Sistem pengenalan tersebut juga tetap akurat terhadap adanya noise hingga 50%",
+  "creators": "ROY OTNIEL PANTOUW",
+  "contributors": "Resmana Lim (Advisor 1); Yulia (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010012/INF/2002; Roy Otniel Pantouw (26498120)",
+  "subjects": "COMPUTER GRAPHICS"
+}

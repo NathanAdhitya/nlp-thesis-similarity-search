@@ -1,0 +1,14 @@
+{
+  "id": "16871",
+  "title": "Perencanaan dan pembuatan pengenalan berbagai obyek sederhana dengan metode jaringan saraf tiruan self-organizing maps",
+  "abstract": "Sejalan dengan perkembangan teknologi yang makin semarak, maka komputer didayagunakan agar dapat memecahkan masalah-masalah yang ada seperti analisa manusia dimana kemampuan tersebut adalah jaringan saraf tiruan. Untuk keperluan mendapalkan algoritma yang sesuai untuk diterapkan dalam berbagai aplikasi, maka dalam tugas akhir ini dilakukan percobaan penerapan dua algoritma jaringan saraf tiruan yaitu : Self-Organizing Maps/Kohonen dan Backpropagation, untuk diuji kemampuannya dalam menyelesaikan pengenalan pola Prinsip kerja sistem-sistem ini adalah dengan melatihnya sampai mencapai error 0.000001, sehingga diperoleh bobot-bobot yang merupakan suatu penyelesaian yang kemudian disimpan dalam file. Penambahan noise setelah pelatihan sangat diperlukan untuk menguji kemampuannya yaitu antara level sepuluh sampai seratus dengan software Corel 5. Pola-pola yang diuji adalah sebanyak limabelas macam yang meliputi tiga bentuk (kubus, tabung, dan kerucut) dengan lima posisi. Setelah pelatihan terdapat beberapa parameter yang optimal, pada jaringan Kohonen map, tetangga, dan alpha yang optimal adalah 90, 10, 0.9, sedangkan pada jaringan Backpropagation node hidden layer dan parameter learning/alpha yang optimal adaiah 130 dan 0,075 yang masing-masing mempunyai tingkat kebenaran 100%. Untuk pengenalan pada pola bemoise dengan memakai bobot-bobot optimal maka jaringan Kohonen mempunyai tingkat kebenaran 100% untuk semua level noise.",
+  "creators": "ANG WIE SIONG",
+  "contributors": "Resmana Lim (Advisor 1); Vivi Anggraini (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/Kom/005/009; Ang Wie Siong (23491092)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; COMPUTERS"
+}

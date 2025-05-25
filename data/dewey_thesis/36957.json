@@ -1,0 +1,14 @@
+{
+  "id": "36957",
+  "title": "Aplikasi enterprise resource planning bagian modul penjualan di lima perusahaan distributor dan dealer",
+  "abstract": "Pada saat ini belum ada aplikasi ERP yang dibuat khusus untuk kebutuhan perusahaan distribusi secara spefisik. Sistem pada aplikasi ERP yang ada saat ini hanya untuk menjawab kebutuhan perusahaan secara umum. Sangat penting untuk menjawab kebutuhan modul penjualan perusahaan distribusi. Perusahaan distribusi yang diteliti adalah distributor hasil bumi, distributor buah, dealer sepeda motor, distributor barang elektronik dan distributor komponen panel. Dari latar belakang permasalahan tersebut, dirancanglah sebuah modul penjualan yang terstruktur untuk lima perusahaan distributor dan dealer. Aplikasi tersebut dibuat dengan menggunakan CodeIgniter dengan bahasa pemrograman PHP dan MySQL untuk database. Hasil yang diperoleh dari aplikasi ini antara lain adanya pencatatan master, transaksi penjualan, transaksi pelunasan hutang, transaksi pengiriman barang, transaksi retur penjualan, laporan retur penjualan, laporan penjualan, laporan kartu stok, laporan piutang, laporan kartu piutang dan laporan laba rugi bagi lima perusahaan. Skripsi ini dapat mengakomodasi proses penjualan lima perusahaan distributor dan dealer yang sudah ditentukan.",
+  "creators": "RAYMOND WIJAYA",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Rudy Adipranata (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021539/INF/2016; Raymond Wijaya (26412049)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN; APPLICATION SOFTWARE-DEVELOPMENT"
+}

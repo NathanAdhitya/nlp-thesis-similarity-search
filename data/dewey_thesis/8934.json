@@ -1,0 +1,14 @@
+{
+  "id": "8934",
+  "title": "Perancangan dan pembuatan aplikasi texture systhesis dengan menggunakan metode image quilting",
+  "abstract": "Dalam memanipulasi atau membuat sebuah image ber-texture dari komputer dibutuhkan waktu yang cukup lama terutama apabila seseorang ingin membuat image ber-texture dengan menggunakan potongan texture yang berukuran lebih kecil dari ukuran image. Sehingga dibutuhkan perangkat lunak untuk membuat image ber-texture dengan ukuran besar dari image ber-texture berukuran kecil. Pembuatan perangkat lunak dimulai dari pembacaan file image yang diberikan pengguna dilanjutkan dengan proses texture synthesis dengan metode image quilting hingga menghasilkan image ber-texture dengan pola texture yang sama dengan image input yang dapat disimpan dalam format BMP atau JPG. Hasil pembuatan Tugas Akhir ini berupa sebuah perangkat lunak yang dapat menghasilkan sebuah image ber-texture sesuai dengan pola pada image input yang diberikan pengguna perangkat lunak. Image output yang dihasilkan dapat dibuka kembali melalui perangkat lunak lain yang mempunyai fasilitas membaca file BMP dan JPG, contoh : MSPaint, ACDsee, Adobe Photoshop, dan lain-lain.",
+  "creators": "HERY KURNIAWAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Rudy Adipranata (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010672/INF/2007; Hery Kurniawan (26403144)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

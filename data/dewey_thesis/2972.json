@@ -1,0 +1,14 @@
+{
+  "id": "2972",
+  "title": "Stabilisator tegangan AC elektronik 1 fasa",
+  "abstract": "Kondisi tegangan jala-jala yang tidak stabil seringkali menyebabkan kerusakan pada peralatan rumah tangga. Dampak negatif tersebut dapat ditekan dengan stabilisator tegangan AC elektronik, yang bekerja responsif dalam mengatasi perubahan tegangan. Dalam tugas akhir ini dirancang rangkaian stabilisator tegangan AC elektronik 1 fasa menghasilkan tegangan output stabil sebesar 220V AC dengan frekuensi 23 KHz yang berdaya maksimum 300 watt menggunakan Inverter. Kestabilan sistem di atas dapat terwujud oleh rangkaian kontrol yang membandingkan tegangan output tersebut dengan tegangan referensi dimana ada nilai beda (error). Nilai beda ini akan mengontrol suplai arus pada bagian inverter dimana suplai daya dapat dinaikkan atau diturunkan. Hasil yang didapatkan adalah target sinyal keluaran berupa AC 23 KHz, tegangan output Inverter stabil 622 Vpp dalam kondisi tidak terbebani, tetapi belum dapat terkunci pada tegangan 622 Vpp pada kondisi terbebani. Output stabilisator ini masih belum dapat diaplikasikan untuk peralatan rumah tangga dengan frekuensi 50 Hz.",
+  "creators": "SANG AJI CHANDRA",
+  "contributors": "YOHANES T. D. S (Advisor 1); Hany Ferdinando (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010707/ELK/2005; Sang Aji Chandra (23498131)",
+  "subjects": "ELECTRIC TRANSFORMERS"
+}

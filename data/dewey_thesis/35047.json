@@ -1,0 +1,14 @@
+{
+  "id": "35047",
+  "title": "Pengamatan ekspresi wajah secara adaptif dengan presentasi pemutaran musik",
+  "abstract": "Tuntutan kehidupan yang tinggi di jaman sekarang ini membuat seorang individu mengalami perubahan kondisi emosional dengan mudah. Musik adalah salah satu media yang digunakan untuk menstabilkan kondisi emosional. Akan tetapi penggunaan musik yang salah dapat memperburuk kondisi emosional seseorang, seperti yang banyak terjadi di jaman ini. Untuk mencegah hal tersebut, dibuatlah sebuah aplikasi yang mampu mendeteksi ekspresi pada wajah untuk menstabilkan kondisi emosional user melalui musik. Ekspresi pada wajah ditentukan melalui posisi fitur alis, mata, mulut, dan kerutan pada bagian tertentu. Posisi fitur yang terdeteksi akan dibandingkan perubahannya dengan posisi fitur pada wajah netral yang telah dikalibrasi sebelumnya. Perbandingan kedua posisi fitur akan dimasukkan ke dalam neural network (backpropagation) yang telah di-training sebelumnya untuk menentukan ekspresi pada wajah yang terdeteksi. Melalui hasil pengujian, telah didapatkan akurasi pendeteksian fitur wajah dan ekspresi wajah yang terdeteksi. Ekspresi yang terdeteksi akan memicu pemutaran musik untuk menstabilisasi kondisi emosional user. Kelemahan dari aplikasi ini adalah library musik yang harus diatur secara manual oleh user.",
+  "creators": "AGAM PAMUNGKAS LUMINTAN",
+  "contributors": "Liliana (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021410/INF/2015; Agam Pamungkas L. (26411056)",
+  "subjects": "APPLICATION PROGRAM INTERFACES (COMPUTER SOFTWARE); NEURAL NETWORKS (COMPUTER PROGRAMS); COMPUTER INTERFACES"
+}

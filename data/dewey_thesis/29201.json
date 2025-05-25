@@ -1,0 +1,14 @@
+{
+  "id": "29201",
+  "title": "Pembuatan visualisasi bentuk ruang dari gambar",
+  "abstract": "Merencanakan struktur ruangan rumah yang diinginkan tidak semudah yang dapat dibayangkan. Untuk mengatasinya, kebanyakan orang mencari referensi melalui struktur rumah yang sudah ada. Akan tetapi masalah belum dapat teratasi oleh karena keterbatasan manusia dalam menentukan struktur suatu ruangan dengan tepat hanya dengan berada di dalam ruang tersebut, sehingga pada akhirnya terlanjur salah dalam perencanaan struktur rumah. Untuk mengatasi hal ini, dibuatlah sebuah aplikasi yang dapat memberi visualisasi 360° terhadap suatu ruangan sehingga user dapat melihat isi ruangan tanpa harus berada dalam ruangan tersebut. Selain itu, user juga dapat membuat denah dengan hanya menandai north, corner dan door yang ada pada tiap ruangan. Untuk membuat visualisasi isi ruangan dilakukan proses 360 Panorama Stitching. Sedangkan untuk membuat denah rumah, setiap ruangan akan dibentuk terlebih dahulu dengan menggunakan algoritma rekonstruksi ruang kemudian disatukan menggunakan transformasi matriks 2D. Melalui hasil pengujian, telah didapatkan contoh panorama dari ruangan dalam rumah yang sudah berbentuk 360° dan denah yang dihasilkan hanya berdasarkan data north, corner, dan door pada tiap ruangan. Denah yang dihasilkan dapat membuat user menyadari struktur suatu ruangan sehingga memberikan visualisasi ruangan kepada user. Kelemahan dari aplikasi ini adalah user harus menandai north, corner, dan door dengan tepat untuk menghasilkan denah yang sesuai.",
+  "creators": "ANTHONY WIBISONO",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021337/INF/2013; Anthony Wibisono (26409013)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

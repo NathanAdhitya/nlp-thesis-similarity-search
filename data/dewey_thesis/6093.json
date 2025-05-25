@@ -1,0 +1,14 @@
+{
+  "id": "6093",
+  "title": "Pembuatan aplikasi mining sequential pattern terhadap data sekuensial sirkulasi peminjaman buku di perpustakaan Universitas Kristen Petra",
+  "abstract": "Dewasa ini muncul tuntutan bagi seorang pengambil keputusan, untuk dapat melihat peluang-peluang yang dapat menguntungkan bagi perusahaannya, berdasarkan informasi yang relevan. Knowledge atas suatu buku, dapat berguna bagi perpustakaan untuk memperoleh informasi buku apa yang sekiranya dipinjam bersamaan dan buku apa yang biasanya dipinjam secara berurutan sehingga dapat memberikan informasi mengenai relasi antar item buku. Dalam pembuatan aplikasi dilakukan analisa terhadap data dari perpustakaan Universitas Kristen Petra, dimana data berupa transaksi yang peminjaman buku yang terjadi selama periode tertentu. Data tersebut di transformasi ke dalam bentuk yang dapat diolah oleh software. Kemudian dimasukkan ke dalam sebuah database dan diolah sesuai algoritma mining sequential pattern sehingga menghasilkan association rules serta sequential association rules dari buku-buku yang dipinjam. Aplikasi ini menggunakan software Borland Delphi 7 dan Microsoft Access 2000 untuk database nya. Dengan adanya data mining terhadap data sekuensial transaksi peminjaman buku, maka software dapat memberikan informasi bagi perpustakaan Universitas Kristen Petra mengenai relasi antar item buku yang dipinjam secara bersamaan maupun berurutan oleh user. Dimana, software juga menampilkan rules dalam bentuk grafik dan teks serta diagram tree, sehingga mempermudah pemimpin perpustakaan untuk melakukan analisa lebih lanjut. Dari penilaian hasil kuisioner secara keseluruhan terhadap kelayakan program maka dapat disimpulkan bahwa program dapat digunakan untuk perpustakaan Universitas Kristen Petra.",
+  "creators": "CHRISTINE OKTAVINA W",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Andreas Handojo (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000480/INF/2006; Christine Oktavina Wirawan (26402053)",
+  "subjects": "DATA MINING"
+}

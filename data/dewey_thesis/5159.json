@@ -1,0 +1,14 @@
+{
+  "id": "5159",
+  "title": "Pembuatan robot penjaga gawang dengan indera kamera",
+  "abstract": "Pelacakan dan pengenalan objek merupakan salah satu bidang yang cukup berkembang dewasa ini, dimana aplikasi dapat diterapkan dalam bidang olahraga, salah satunya adalah olahraga sepakbola, khususnya sebagai penjaga gawang. Karena diterapkan dalam keadaan yang sangat dinamis dan rentan terhadap pengaruh dari lingkungan, maka dibutuhkan sistem yang handal terhadap beberapa kondisi, seperti: pengaruh latar belakang atau objek lain, intensitas cahaya dan perubahan jarak serta kecepatan bola. Tujuan tugas akhir ini adalah untuk membuat sistem yang menggabungkan sistem pelacakan objek dengan menggunakan algoritma CamShift dan sistem pergerakan robot dalam permainan sepakbola sebagai penjaga gawang. Sebagai input sistem digunakan video kamera (webcam) untuk input bersifat real-time. Pemrograman perangkat lunak menggunakan prinsip pemrograman berorientasi objek (OOP) dengan menggunakan bahasa pemrograman C++, kompiler Microsoft Visual C++ 6.0 ? , dan dibantu dengan library dari Intel Image Processing Library (IPL) dan Intel Open Source Computer Vision (OpenCV). Hasil pengujian sistem menunjukkan bahwa pelacakan objek bola dengan menggunakan algoritma CamShift dapat berjalan baik dalam batas jarak tertentu (dalam pengujian sejauh 3 meter). Walaupun sudah ditunjang oleh mekanisme pergerakan lengan penangkis secara horizontal sliding-arms, namun tingkat keberhasilan robot Penjaga Gawang masih sangat rendah, terbatas pada jarak 3 meter dan kecepatan bola 1,432 meter per detik.",
+  "creators": "MEIJI MAMONDOL",
+  "contributors": "Thiang (Advisor 1); Resmana Lim (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010685/ELK/2004; Meiji Mamondol (23499123)",
+  "subjects": "ROBOTS"
+}

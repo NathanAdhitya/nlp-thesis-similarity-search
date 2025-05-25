@@ -1,0 +1,14 @@
+{
+  "id": "43224",
+  "title": "Penggunaan convolutional recurrent neural network dan RLSA untuk mengambil data pada akta kelahiran",
+  "abstract": "Akta kelahiran merupakan salah satu dokumen yang wajib untuk dimiliki oleh seorang warga negara. Dokumen ini berisikan informasi seputar kelahiran seseorang dan merupakan pencatatan resmi bukti pengakuan negara akan keberadaan orang tersebut. Akta kelahiran banyak digunakan sebagai dasar penetapan identitas dalam dokumen lainnya di mana salah satunya adalah ijazah. Universitas Kristen Petra sebagai salah satu lembaga pendidikan di Indonesia membutuhkan data akta kelahiran mahasiswanya sebagai bukti nyata merupakan warga negara yang sah dan sebagai dasar dalam penerbitan ijazah. Selama ini pengambilan informasi dilakukan secara manual namun dengan berkembangnya teknologi, kini memungkinkan untuk mengambil informasi-informasi yang terdapat pada akta kelahiran secara otomatis. Penelitian akan pengambilan informasi terhadap akta kelahiran belum pernah dilakukan sebelumnya tetapi penelitian serupa telah dilakukan terhadap Kartu Tanda Penduduk menggunakan metode Template Matching dengan akurasi 17-39%. Penelitian ini menggunakan metode Run Length Smoothing Algorithm dan Convolutional Recurrent Neural Network. Run Length Smoothing Algorithm digunakan untuk mensegmentasi setiap kata yang ada pada akta kelahiran menjadi sebuah gambar tersendiri. Kata yang terdapat pada gambar akan kemudian diubah menjadi teks dalam bentuk string menggunakan Convolutional Recurrent Neural Network. Penentuan kata mana yang adalah informasi yang diinginkan menggunakan bantuan urutan kata dan kata kunci-kata kunci tertentu. Hasil akhir yang akan ditampilkan adalah informasi berupa nama lengkap, tanggal lahir, tempat dan jenis kelamin dari pemilik akta dalam bentuk string. Berdasarkan pengujian yang dilakukan, didapatkan nilai akurasi sebesar 12.936% untuk pengambilan informasi dan 60.068% untuk prediksi kata oleh CRNN.",
+  "creators": "STEPHANIE LIEM",
+  "contributors": "Kartika Gunadi (Advisor 1); Leo Willyanto Santoso (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021843/INF/2019; Stephanie Liem (26415183)",
+  "subjects": "COMPUTER INTERFACES; NEURAL NETWORKS; PROGRAMMING (COMPUTERS)"
+}

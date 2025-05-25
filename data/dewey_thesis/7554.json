@@ -1,0 +1,14 @@
+{
+  "id": "7554",
+  "title": "Perancangan dan pembuatan sistem informasi akutansi untuk siklus penjualan dan pembelian pada toko Sentral Makmur",
+  "abstract": "Sebelum proyek Tugas Akhir ini dibuat, Toko Sentral Makmur masih menggunakan sistem akuntansi secara manual sehingga untuk mendapatkan informasi keuangan membutuhkan waktu yang cukup lama. Selain itu, informasi yang dihasilkanpun seringkali tidak akurat sehingga pemilik Toko merasa sulit untuk mengambil keputusan yang baik. Oleh karena itu dibutuhkan suatu sistem informasi akuntansi yang terkomputerisasi untuk melakukan pencatatan secara otomatis dan dapat menghasilkan informasi yang lebih cepat dan akurat. Pembuatan sistem informasi akuntansi diawali dengan menganalisa dan meneliti sistem perusahaan selama ini. Setelah itu dilanjutkan dengan merancang sebuah sistem informasi baru yang berdasarkan hasil analisa dan penelitian. Selain itu, sistem penjualan dan pembelian juga digabungkan bersama dengan sistem informasi akuntansi yang baru dalam satu modul. Sistem penjualan meliputi penjualan tunai, penjualan kredit, retur dan pelunasan piutang. Sistem pembelian meliputi pembuatan pemesanan barang, pembelian tunai, pembelian kredit, retur, dan pembayaran hutang. Pencatatan meliputi penjurnalan, posting ke dalam buku besar, dan pembuatan laporan laba/rugi. Aplikasi sistem informasi akuntansi ini dibuat dengan menggunakan Microsoft Access 2003 sebagai databasenya dan Borland Delphi 7.0 sebagai interfacenya. Hasil akhir dari proyek perancangan dan pembuatan sistem informasi akuntansi ini adalah semua pencatatan jurnal dan buku besar dapat dilakukan secara otomatis sehingga mengurangi human error. Dengan aplikasi ini, pemilik toko juga dapat menyimpan seluruh data dan informasi ke dalam komputer sehingga menghemat kertas. Melalui metode penyimpanan dan pengolahan data secara otomatis, aplikasi ini juga dapat menghasilkan laporan manajerial dan laporan keuangan yang dibutuhkan oleh pemilik toko setiap akhir periode.",
+  "creators": "WIYANTO TEJO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Sri Maharsi (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000422/INF/2005; Wiyanto Tejo (26400070)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

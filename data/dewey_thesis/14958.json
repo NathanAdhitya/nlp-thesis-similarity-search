@@ -1,0 +1,14 @@
+{
+  "id": "14958",
+  "title": "Optimsi fungsi objektif majemuk untuk kasus pendistribusian barang dengan goal programming",
+  "abstract": "Sebagai distributor tunggal perhiasan emas di Jawa Tengah, perusahaan harus mendistribusikan barang kepada pelanggan dengan cermat supaya dapat mencapai profit maksimum dan memenuhi permintaan pelanggan. Dalam mendistribusikan barang, salesman tidak diperkenankan menginap. Sebuah model Linear Programming dibentuk untuk memilih rate pendistribusian. Kemudian dibentuk model Goal Programming untuk menentukan jumlah barang yang akan didistribusikan pada setiap toko dengan meminimumkan variabel-variabel simpangan yang ada. Model yang terbentuk dianalisa dengan menciptakan empat buah kasus berbeda, dimana jumlah permintaan dan persediaan tiap kasus dibuat bervariasi. Rute pendistribusian yang dapat ditempuh dalam satu hari dibagi menjadi 13 jenis rate. Dalam memilih rate, hanya dipilih satu rate dari rate-rate yang ada, yaitu rate yang melalui kota-kota dengan jumlah permintaan terbanyak. Jika jumlah permintaan melebihi persediaan, maka permintaan toko dalam rate terpilih dipenuhi dahulu sehingga jumlah permintaan yang tidak terpenuhi untuk toko yang memberikan profit besar adalah minimum dan jumlah barang yang didistribusikan tidak melebihi persediaan saat itu. Jika jumlah persediaan melebihi permintaan, maka permintaan toko dalam rate terpilih dipenuhi dahulu sehingga tidak ada jumlah permintaan yang tidak terpenuhi dan terdapat sisa persediaan.",
+  "creators": "KRISTIN WIDJAJA",
+  "contributors": "Siana Halim (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 346/TI-73/2000; Kristin Widjaja (25496011)",
+  "subjects": "OPERATIONS RESEARCH-MATHEMATICAL MODELS; DECISION-MAKING-MATHEMATICAL MODELS"
+}

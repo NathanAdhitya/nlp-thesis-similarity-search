@@ -1,0 +1,14 @@
+{
+  "id": "46360",
+  "title": "Implementasi Web Scraping untuk pengumpulan informasi promo makanan menggunakan klasifikasi Naive Bayes",
+  "abstract": "Pada zaman sekarang, penyampaian informasi promo kepada orang-orang dapat dilakukan dengan mudah. Banyak sekali situs yang menyediakan informasi mengenai promo makanan. Tentu situs tersebut dapat membantu orang-orang untuk mencari promo yang paling menguntungkan. Namun, beberapa situs masih tidak menyediakan fitur pencarian yang lengkap. Selain itu, mungkin saja terdapat promo pada usaha penyedia makanan yang sama, hanya saja dengan harga yang berbeda. Tentu saja orang-orang akan berusaha mencari promo makanan dengan harga yang terbaik, sehingga mereka akan memeriksa situs penyedia promo untuk mencari penawaran terbaik. Hal tersebut memakan waktu yang tidak sedikit, dan juga kurang efisien untuk dilakukan. Proses Naïve Bayes juga digunakan untuk menentukan apakah promo tersebut di kategori makanan atau tidak. Aplikasi yang dibuat melakukan pengumpulan semua informasi promo dari situs-situs penyedia promo. Untuk melakukannya, diperlukan sebuah server yang dapat mengambil data promo pada setiap situs penyedia promo. Setelah proses pengambilan, dilakukan proses pengolahan data serta proses klasifikasi apakah promo tersebut di kategori makanan atau tidak. Data yang sudah diproses akan ditampilkan pada aplikasi yang dibuat. Berdasarkan hasil pengujian yang sudah dilakukan, program yang dibuat berhasil untuk mengumpulkan, mengolah dan menampilkan data tentang sebuah promo dari situs-situs penyedia promo. Proses klasifikasi Naïve Bayes juga berhasil diterapkan untuk membedakan promo sesuai kategori, meskipun masih ada kekurangan dalam proses tersebut.",
+  "creators": "DAVE JULIANNO TANDRA",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Alexander Setiawan (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2); Anita Nathania Purbowo (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021966/INF/2020; Dave Julianno Tandra (26416071)",
+  "subjects": "WEB SITES--DESIGN; APPLICATION SOFTWARE"
+}

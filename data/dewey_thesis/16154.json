@@ -1,0 +1,14 @@
+{
+  "id": "16154",
+  "title": "Analisa flux vector pada inverter 3 phasa saat transien berbeban motor induksi 3 phasa 1.5 hp",
+  "abstract": "Pada saat ini, kebutuhan akan pemakaian motor induksi dalam sektor perindustrian mengalami peningkatan. Seiring dengan peningkatan motor induksi dalam dunia perindustrian maka inverter yang berfungsi sebagai pengontrolan kecepatan pada motor induksi juga sangat dibutuhkan. Dengan permintaan akan motor drive(inverter) yang semakin meningkat maka banyak bermunculan perusahaan-perusahaan yang memproduksi inverter. Permasalahannya adalah apakah produk-produk inverter tersebut benar-benar dapat optimal dipakai pada kondisi transien berbeban dan sebuah motor induksi. Dalam tugas akhir ini diteliti bagaimana flux vector inverter saat transien dimana inverter tersebut dibebani oleh beban motor induksi 1.5 HP. Dengan pentransformasian koordinat ABC ke koordinat DQ maka analisa flux vector ini dapat dikerjakan. Selain iru digunakan pula software matlab yang berfungsi sebagai alat bantu perhitungan matrix imaginer maupun sebagai simulasi kondisi ideal analisa flux vector pada inverter yang dibebani oleh motor induksi. Dan analisa ini diperoleh hasil bahwa inverter dengan tipe Omron 3G31V-A4015- Evl. 1.5 Kw memiliki kemampuan pada saat dibebani oleh motor type PEM AC 3 PH 220-380 V, 50 Hz 1,5 HP / 1,1 KW, hanya saja pada saat kondisi transien berbeban ini, kurva V/f tidak didapatkan linear. Kondisi ini merupakan kondisi penyesuaian dimana inverter pada saat awal bekerja langsung diberi beban yang besar.",
+  "creators": "BAYU KRISNAWAN",
+  "contributors": "Limboto Limantara (Advisor 1); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/TST/026/409; Bayu Krisnawan (23496016)",
+  "subjects": "ELECTRIC MACHINERY, INDUCTION"
+}

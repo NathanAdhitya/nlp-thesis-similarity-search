@@ -1,0 +1,14 @@
+{
+  "id": "10205",
+  "title": "Perencanaan filter pasif untuk mesin PP1 winder extruder 2 di PT Yanaprima Hastapersada Sidoarjo",
+  "abstract": "PT. Yanaprima Hastapersada adalah perusahaan yang bergerak pada bidang produksi karung plastik. Peralatan-peralatan elektronika seperti inverter yang merupakan beban non-linier, banyak digunakan dalam proses produksi di PT. Yanaprima Hastapersada. Pembuatan Tugas Akhir ini dimaksudkan untuk mempelajari desain mengenai filter pasif yang digunakan untuk meredam arus harmonisa yang timbul pada mesin PP1 Winder Extruder 2 di PT. Yanaprima Hastapersada, Sidoarjo. Dari pengukuran pada mesin PP1 winder extruder 2 terdapat harmonisa ke-5 dan ke-7 yang paling dominan. % ITHD dari pengukuran sebesar 29,68 % dan yang diperbolehkan oleh standar IEEE 519-1992 sebesar 20 %. Peredaman harmonisa dapat dilakukan dengan memasang shunt filter merupakan pilihan yang tepat untuk mengurangi harmonisa tegangan dan arus, nilai komponen shunt filter yang diperlukan untuk meredam harmonisa ke-5 dan ke-7, yaitu untuk kapasitor 274 F dan 281 F, sedangkan untuk reaktor 1,675 mH (22,95 A) dan 0,805 mH (19,96 A). Melalui simulasi rangkaian menggunakan program Psim 6.1. % ITHD menunjukkan hasil yang baik, yaitu dari 29,68 % tanpa menggunakan filter menjadi 10,07 % dengan filter, dan memenuhi standar IEEE 519-1992 (ITHD and VTHD) tentang limit tegangan dan arus harmonisa yang diperbolehkan.",
+  "creators": "HANDOKO",
+  "contributors": "Limboto Limantara (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010563/ELK/2007; Handoko (23402095)",
+  "subjects": "ELECTRIC FILTERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "35713",
+  "title": "Pembuatan aplikasi perhitungan harga pokok produksi di PT Arcon Perdana Globalindo",
+  "abstract": "PT Arcon Perdana Globalindo adalah perusahaan yang bergerak di bidang manufaktur mebel. Perusahaan akan memproduksi mebel sesuai dengan permintaan customer. Pesanan yang bersifat custom order mengakibatkan harga jual yang berbeda untuk setiap pesanan. Harga material yang fluktuatif dan jenisnya yang beragam serta banyaknya elemen biaya adalah permasalahan yang dihadapi oleh perusahaan dalam menghitung harga pokok produksi. Untuk mengatasi permasalahan tersebut, pada skripsi ini dibuat aplikasi perhitungan Harga Pokok Produksi. Aplikasi dibuat berbasis web dengan menggunakan bahasa pemrograman PHP dan HTML5, front-end framework Bootstrap, serta PostgreSQL untuk database. Metode perhitungan costing yang digunakan adalah average costing dan job order costing. Aplikasi dibuat untuk dapat mencatat Bill of Material produk, menjadwalkan produksi, mengakomodasi inventory control dan menghitung harga pokok produksi. Hasil pengujian aplikasi ini menghasilkan kesimpulan bahwa perhitungan yang dilakukan dengan aplikasi ini sudah akurat untuk perhitungan harga pokok produksi. Untuk memperoleh perhitungan harga jual yang efektif, aplikasi harus digunakan secara terus menerus dalam jangka waktu cukup panjang. Untuk pengembangannya, aplikasi dapat ditambahkan sistem informasi akuntasi.",
+  "creators": "FREDERICK ALEXANDER T.",
+  "contributors": "Rudy Adipranata (Advisor 1); Silvia Rostianingsih (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021360/INF/2014; Frederick Alexander Tedjokumolo (26410011)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10617",
+  "title": "Kontrol posisi lengan robot manipulator 3 derajat kebebasan dengan menggunakan kontroller PID",
+  "abstract": "Saat ini kemajuan teknologi khususnya di bidang teknik elektro banyak memberikan kemudahan bagi masyarakat untuk melakukan berbagai aktivitas mulai dari hal yang mudah sampai yang kompleks seperti proses pengeboran. Untuk melakukan hal-hal yang kompleks tersebut, sekarang ini manusia mulai menggunakan robot sebagai alat bantu. Oleh karena itu, pada tugas akhir ini dirancang sebuah robot lengan untuk melakukan proses pengeboran tersebut. Lengan robot yang dibuat pada tugas akhir ini memiliki 3 derajat kebebasan dan menggunakan metode PID dalam mengontrol kecepatan motor untuk mencapai posisi yang diinginkan. Respons terbaik untuk lengan pertama robot pada set point 0-45? didapat dengan parameter KP = 1, KI = 0.04, KD = 0. Respon yang dihasilkan memiliki rise time sebesar 2 detik, settling time sebesar 2 detik, maximum overshoot = 0 %, dan steady state error = 0 degrees. Respon terbaik untuk lengan kedua robot pada set point 0-60? didapat dengan parameter KP = 1, KI = 0.04, KD = 0. Respon yang dihasilkan memiliki rise time sebesar 2 detik, settling time sebesar 2 detik, maximum overshoot = 0%, dan steady state error = 0. Semakin besar set point, semakin sulit untuk mendapatkan respon yang baik, sehingga semakin dibutuhkan ketiga komponen gain.",
+  "creators": "EDWIN PANGALDUS",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Handy Wicaksono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010876/ELK/2008; Edwin Pangaldus (23402137)",
+  "subjects": "AUTOMATIC CONTROL; ROBOTICS"
+}

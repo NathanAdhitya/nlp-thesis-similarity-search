@@ -1,0 +1,14 @@
+{
+  "id": "46356",
+  "title": "Prediksi skor pertandingan sepak bola menggunakan neuroevolution of augmenting topologies dan backpropagation",
+  "abstract": "Sepak bola merupakan olahraga yang memiliki penggemar paling banyak di dunia. Hal yang membuat sepak pola menjadi sangat populer adalah hasil yang tidak pasti dan sulit ditebak. Ada banyak faktor yang mempengaruhi hasil dari sebuah pertandingan sepak bola, diantaranya strategy, skill, bahkan sampai keberuntungan. Karena itu, menebak hasil pertandingan sepak bola merupakan masalah yang menarik. Penelitian dimulai dengan neuroevolution of augmenting topologies, yang berfungsi untuk melakukan pencarian struktur dari sebuah neural network. Lalu, network yang dihasilkan oleh NEAT akan dioptimasi menggunakan backpropagation. Rating pemain, rating team, dan posisi pemain akan digunakan sebagai features. Tingkat akurasi terbaik yang didapat sebesar 81.5% pada akurasi hasil pertandingan, dan 48% pada akurasi skor pertandingan diperoleh melalui proses NEAT yang telah dioptimasi oleh backpropagation menggunakan rating pemain, rating team, dan jumlah masing-masing posisi pada setiap sektor sebagai features. Pada pengujian real life, rating pemain dan team tidak diketahui, sehingga digunakan metode rata-rata untuk menghitung rating dari pemain dan team. Namun, akurasi yang didapat pada pengujian ini sangat rendah, inkonsistensi dari pemain menyebabkan metode rata-rata yang digunakan tidak mampu bekerja dengan baik.",
+  "creators": "WELLY WINATA",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Kartika Gunadi (Examination Committee 1); Alvin Nathaniel Tjondrowiguno (Advisor 2); Hans Juwiantho (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021952/INF/2020; Welly Winata (26415181)",
+  "subjects": "DATA SETS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

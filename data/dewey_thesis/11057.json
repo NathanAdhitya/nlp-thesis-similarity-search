@@ -1,0 +1,14 @@
+{
+  "id": "11057",
+  "title": "Pembuatan aplikasi akses informasi karir oleh mahasiswa dan jobseeker melalui sms dan aplikasi penjadualan kegiatan pusat karir pada Universitas Kristen Petra Surabaya",
+  "abstract": "Pusat Karir adalah sebuah unit pendukung di dalam Universitas Kristen Petra (UK Petra) Surabaya yang bertugas menangani masalah yang berhubungan dengan karir. Untuk meningkatkan pelayanan Pusat Karir kepada mahasiswa dan jobseeker perlu dikembangkan sebuah sistem yang dapat mengoptimalkan pelayanan dan untuk memudahkan mahasiswa dan jobseeeker mengakses informasi karir. Dikembangkannya aplikasi tersebut juga dapat membantu dalam hal promosi Pusat Karir, agar lebih dikenal khususnya oleh mahasiswa UK Petra. Pada tugas akhir ini, dikembangkan sebuah aplikasi untuk membantu meningkatkan pelayanan di Pusat Karir UK Petra, yatiu aplikasi penjadualan kegiatan dan SMS karir. Aplikasi ini dapat mengurangi terjadinya keterlambatan dalam melaksanakan kegiatan-kegiatan yang diadakan oleh Pusat Karir dan mempermudah mahasiswa dan jobseeker untuk mengakses informasi karir melalui SMS. Aplikasi tersebut dibuat dengan menggunakan PHP dan MySQL, kemudian didukung oleh sebuah SMS gateway dan aplikasi cron. Berdasarkan hasil pengujian, aplikasi penjadualan kegiatan dan SMS karir dapat berjalan dengan baik. Aplikasi penjadualan kegiatan dapat digunakan oleh kepala Pusat Karir untuk mengontrol semua kegiatan yang diadakan oleh staf Pusat Karir. Aplikasi SMS dapat mengirimkan informasi kegiatan kepada mahasiswa, dan informasi lowongan pekerjaan kepada jobseeker. Untuk mendapatkan informasi tersebut, mahasiswa dan jobseeker harus mendaftar terlebih dahulu untuk menjadi member.",
+  "creators": "PRADANA GUNAWAN",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); INDRO SETIAWAN (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010742/INF/2008; Pradana Gunawan (26404133)",
+  "subjects": "DIGITAL COMMUNICATION; DATA TRANSMISSION SYSTEMS"
+}

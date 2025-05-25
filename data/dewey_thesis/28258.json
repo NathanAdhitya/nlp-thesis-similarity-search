@@ -1,0 +1,14 @@
+{
+  "id": "28258",
+  "title": "Metode sparse inverse dan penerapannya pada analisa hubung singkat pada sistem 150KV di Jawa Timur",
+  "abstract": "Salah satu cara untuk menambah kestabilan suatu sistem tenaga listrik adalah dengan menganalisa gangguan hubung singkat secara cepat. Metode penyelesaian analisa gangguan hubung singkat ada bermacam-macam, salah satu diantaranya adalah metode Sparse Inverse. Metode Sparse Inverse merupakan metode baru yang sederhana dan mudah dipahami, namun belum dipergunakan secara luas dalam penyelesaian masalah-masalah gangguan hubung singkat. Metode ini hanya menggunakan elemen-elemen yang mempunyai harga yang tidak sama dengan nol dari susunan matriks Y bus. Sehingga proses perhitungannya memerlukan waktu yang lebih cepat dari pada metode lainnya. Sedangkan susunan matriks Sparse bus, dapat dibentuk melalui beberapa proses penurunan persamaan matriks. Selanjutnya matriks Sparse bus tersebut dipergunakan untuk menentukan besarnya arus gangguan, tegangan selama gangguan serta arus pada cabang-cabang yang menuju gangguan. Penggunaan komputer dalam perhitungan analisa gangguan hubung singkat, dimaksudkan untuk mempercepat proses perhitungan.",
+  "creators": "SUTRISNO SUTEDJO",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); BENYAMIN H. (Advisor 2); HADI SUTRISNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 88/E/TST/006; Sutrisno Sutedjo (483008)",
+  "subjects": "ELECTRIC POWER SYSTEMS; ELECTRIC POWER SYSTEMS-COMPUTER PROGRAMS"
+}

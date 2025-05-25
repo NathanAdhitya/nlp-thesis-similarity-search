@@ -1,0 +1,14 @@
+{
+  "id": "55839",
+  "title": "Menentukan kondisi kartu koleksi Pokemon menggunakan computer vision",
+  "abstract": "Pokemon Trading Card Game merupakan permainan kartu koleksi dari The Pokemon Company. Dalam dunia koleksi kartu Pokemon, para kolektor biasanya mengirimkan kartu yang dimilikinya kepada lembaga grading, seperti Professional Sports Authenticator (PSA) dan Beckett Grading Services (BGS), untuk diverifikasi. Kartu koleksi yang telah melewati proses grading memiliki beberapa kelebihan bila dibandingkan dengan kartu yang belum. Beberapa keuntungan tersebut diantaranya adalah jaminan bahwa kartu itu asli, serta kepastian bahwa kondisi fisik kartu tersebut telah sesuai dengan standar grading yang ada. Seiring dengan perkembangan waktu, dunia koleksi kartu Pokemon Trading Card Game semakin populer. Hal ini menimbulkan masalah berupa proses grading yang lebih lama, dikarenakan banyaknya orang yang berlomba-lomba untuk mengirimkan kartu yang dimilikinya. Pada penelitian sebelumnya, program masih belum dapat mengklasifikasikan perbedaan kartu dengan akurat. Tingkat akurasi pada program hanya mencapai 68.5% saja. Pada penelitian ini, aplikasi berbasis computer vision akan digunakan untuk membantu para grader dalam proses pengerjaan grading kartu. Dengan menggunakan computer vision, aplikasi dapat mengurangi waktu pengerjaan grading secara signifikan, serta meningkatkan akurasi hasil grading. Kekurangan dari aplikasi ini adalah ketidakmampuan aplikasi untuk mengecek kondisi permukaan (surface) dari kartu, sehingga proses pengecekan permukaan harus dilakukan secara manual oleh grader. Hasil yang dapat diambil dari penelitian ini adalah bahwa program dapat mendeteksi ketidaksempurnaan suatu kartu dari sisi centering, corner, dan border, sehingga waktu pengerjaan proses grading dapat berkurang secara signifikan, serta meningkatkan tingkat akurasi hasil grading. Untuk mendapatkan hasil yang lebih optimal, gambar dari kartu yang akan melalui proses grading harus diambil dengan background hitam, tanpa terkena pantulan langsung dari sumber cahaya, serta menggunakan kamera berkualitas tinggi.",
+  "creators": "WINSTON CHAMORA",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Andreas Handojo (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022240/INF/2023; Winston Chamora (C14170140)",
+  "subjects": "CARD GAMES; COMPUTER VISION; VIDEO GAMES--DESIGN"
+}

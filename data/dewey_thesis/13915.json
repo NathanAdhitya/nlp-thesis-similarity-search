@@ -1,0 +1,14 @@
+{
+  "id": "13915",
+  "title": "Perencanaan dan pembuatan interface untuk mematikan komputer secara otomatis",
+  "abstract": "Dalam pemakaian perangkat lunak ada program-program tertentu yang membutuhkan waktu yang relatif lama untuk menyelesaikannya. Bahkan untuk komputer dengan kemampuan proses yang cepat seperti halnya komputer AT. Contoh dari program-program tersebut adalah : program untuk sorting routine, PCB auto routers. Untuk program-program tersebut di atas maka tidak efisien apabila pemakai komputer harus menunggu komputer dalam keadaan bekerja (ON) tanpa bisa melakukan pekerjaan yang lain atau meninggalkan komputer dalam keadaan bekerja (ON). Dalam Tugas Akhir ini akan direncanakan dan dibuat Interface yang berfungsi mematikan komputer (OFF) secara otomatis setelah menjalankan program tertentu yang membutuhkan waktu yang relatif lama. Sehingga pemakai komputer dapat melakukan pekerjaan yang lain atau meninggalkan komputer dalam keadaan bekerja. Untuk menghidupkan kembali komputer (ON) dapat dilakukan dengan jalan menekan salah satu tombol pada keyboard. Interface ini terdiri dari rangkaian decoder yang kemudian dihubungkan dengan rangkaian kontrol logika untuk menentukan waktu tunda/delay, dan rangkaian relay yang berfungsi memutuskan aliran listrik/power supply dari komputer. Bahasa Pascal dipakai sebagai perangkat lunak dari peralatan Interface ini. Interface ini bekerja setelah perangkat lunak dijalankan dan sekitar 15 detik kemudian komputer akan mati. Waktu tunda sekitar 15 detik ini didapat dari rangkaian RC yang dihubungkan ke IC 74LS74 untuk menjadikannya sebagai multivibrator monostabil. Dengan C=100 pF dan R=220 KC5 diperoleh waktu tunda yang sesuai dengan 0.7 RC.",
+  "creators": "RUKY WIRAWAN",
+  "contributors": "MOCHAMAD HEROE (Examination Committee 1); VINCENT PRASETYO (Advisor 2); AGUS MULYANTO (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/005/0126; Ruky Wirawan (234 85101)",
+  "subjects": "COMPUTER INTERFACES; INTERFACE CIRCUITS"
+}

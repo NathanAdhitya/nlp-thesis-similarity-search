@@ -1,0 +1,14 @@
+{
+  "id": "29197",
+  "title": "Memvisualisasikan traffic jaringan dengan menggunakan Library SharpPcap",
+  "abstract": "Tak dapat dipungkiri bahwa teknologi jaringan berkembang sangat pesat di masa sekarang ini. Hampir semua komputer terhubung ke jaringan. Oleh karena itu, seorang administrator jaringan dituntut untuk selalu memantau aktivitas jaringan sehingga dapat mendeteksi adanya kejanggalan dalam jaringan sedini mungkin. Dengan menggunakan library untuk packet capture (library yang digunakan oleh packet sniffer untuk menangkap paket di jaringan), dapat dibuat sebuah aplikasi yang dapat menangkap paket yang kemudian akan divisualisasikan untuk menampilkan data yang mudah untuk dimengerti. Tujuan dari Skripsi ini adalah membuat aplikasi yang dapat memonitor paket-paket data baik masuk dan keluar jaringan, menginterpretasikannya, menampilkan data tersebut dalam bentuk yang lebih mudah dimengerti (memvisualisasikannya), dan juga sekaligus memonitor paket-paket tersebut sehingga dapat mendeteksi adanya kejanggalan (virus). Pemrograman dilakukan dengan menggunakan bahasa pemrograman VB.Net, Library SharpPcap, database SQL Server, ClamAV, dan Snort. Hasil pengujian sistem memperlihatkan bahwa aplikasi dapat mendeteksi virus dan intrusi, dapat menangkap paket yang masuk dan keluar pada suatu interface secara real time, dan dapat memvisualisasikannya menggunakan line chart, pie chart, column chart, dan juga timeline.",
+  "creators": "HARYANTO TUNGGARY",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Agustinus Noertjahyana (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020977/INF/2011; Haryanto Tunggary (26406155)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); COMPUTER NETWORK; DATABASE DESIGN"
+}

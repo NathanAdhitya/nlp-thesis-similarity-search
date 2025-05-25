@@ -1,0 +1,14 @@
+{
+  "id": "4511",
+  "title": "Pengujian sistem pengkondisian udara yang dikendalikan komputer",
+  "abstract": "Kondisi udara dalam ruangan menjadi faktor kenyamanan bagi penghuni ruangan tersebut. Oleh karena itu agar penghuni selalu merasa nyaman, maka diperlukan sistem pengkondisian udara yang dapat dimonitor dan dikontrol melalui sistem kontrol PLC (Programmable Logic Controller) yang dapat dihubungkan ke komputer. Parameter-parameter yang dapat diatur adalah temperatur, relative humidity (RH) dan tekanan udara ruangan. Sedangkan parameter yang dimonitor adalah temperatur dan tekanan refrigerant pada suction dan discharge. Komponen yang digunakan untuk mengatur parameter diatas adalah sistem pengkondisi udara/air conditioning (AC), pemanas (heater), sprayer, dan damper fresh air. Unit AC digunakan untuk mengatur temperatur, heater dan sprayer untuk mengatur RH, sedangkan damper fresh air untuk mengatur tekanan udara dalam ruangan. Percobaan yang telah dilakukan yaitu kinerja heater dan AC dimana udara yang disirkulasikan dalam ruangan berasal dari udara balik dan udara segar. Percobaan tersebut bertujuan untuk mengetahui pengaruh heater dan AC serta udara segar terhadap kondisi udara (temperatur, RH dan tekanan) dalam ruangan. Hasil percobaan menunjukkan peningkatan temperatur dan penurunan RH udara untuk kinerja heater, sedangkan untuk percobaan kinerja AC menunjukkan penurunan temperatur dan RH udara dalam ruangan. Sistem kontrol PLC mampu menjaga kondisi udara dalam ruangan sesuai dengan setting yang diinginkan.",
+  "creators": "SONNY IRAWAN",
+  "contributors": "Ekadewi Anggraini Handoyo (Advisor 1); Hariyo Priambudi Setyo Pratomo, S.T., M.Phil. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0742/MES/2006; Sonny Irawan (24401110)",
+  "subjects": "CONTROL THEORY-COMPUTER PROGRAMS; AIR CONDITIONING"
+}

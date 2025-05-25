@@ -1,0 +1,14 @@
+{
+  "id": "57257",
+  "title": "Sistem optimalisasi rute menggunakan metode clarke and wright saving heuristic dan cheapest insertion heuristic pada jasa pengiriman X",
+  "abstract": "Jasa Pengiriman X merupakan salah satu jasa pengiriman di Surabaya yang memerlukan suatu cara untuk mencari rute yang optimal bagi pengiriman dalam satu hari. Pencarian rute ini dibutuhkan sekaligus untuk membantu perusahaan dalam menentukan jarak minimum yang harus dilalui oleh driver dan pembagian kapasitas barang yang harus dibawa oleh driver karena selama ini pembagian alamat yang tidak seimbang antar driver. Berdasarkan permasalahan yang terjadi, maka dalam penelitian ini dilakukan penerapan metode Clarke and Wright Saving Heuristic dan Cheapest Insertion Heuristic dalam melakukan pencarian rute Jasa Pengiriman X sehingga user perusahaan dapat lebih mudah dalam menentukan pengiriman yang harus dilakukan. Hasil penelitian menunjukkan bahwa penentuan rute menggunakan metode Clarke and Wright Saving Heuristic dan Cheapest Insertion Heuristic mampu menghasilkan jarak minimum dan waktu pengiriman lebih kecil dibandingkan dengan cara manual perusahaan. Dalam pengujian 10 data, Metode Clarke and Wright Saving Heuristic mampu menghasilkan jarak minimum sebesar 67,8 km dan waktu pengiriman 166 menit, Sedangkan Metode Cheapest Insertion Heuristic mampu menghasilkan jarak minimum 64,3 km dan 158 menit. Dalam pengujian 25 data, Metode Clarke and Wright Saving Heuristic mampu menghasilkan 92,9 km dan 263 menit, sedangkan Metode Cheapest Insertion Heuristic mampu menghasilkan 118,8 km dan 318 menit.",
+  "creators": "RYAN KURNIA TEJAWIJAYA",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); I Gede Agus Widyadana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022351/INF/2023; Ryan Kurnia Tejawijaya (C14180128)",
+  "subjects": "DELIVERY OF GOODS--MANAGEMENT; INFORMATION SYSTEMS DEVELOPMENT (FIRM)"
+}

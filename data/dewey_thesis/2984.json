@@ -1,0 +1,14 @@
+{
+  "id": "2984",
+  "title": "Pembuatan kontrol alat bor otomatis dengan menggunakan mikrokontroler MCS 51",
+  "abstract": "Alat bor otomatis ini diatur pergerakannya oleh mikrokontroler MCS-51 berdasarkan informasi koordinat letak pad yang diperoleh dari fasilitas CAMtastic pada software PROTEL DXP. Informasi tersebut diolah (diurutkan) dengan menggunakan software BORLAND DELPHI 7.0. Hasil dari proses pengolahan input ini dikirimkan dari PC ke mikrokontroler MCS-51 dengan menggunakan komponen serial COMPORT 2.2. Pengujian dilakukan pada 4 buah PCB dengan jumlah dan posisi hole yang berbeda. Dari hasil pengujian didapat bahwa waktu yang dibutuhkan pada sistem baru cukup singkat yaitu kurang lebih 2 menit untuk PCB 16 hole, 3 menit untuk PCB 21 hole, 4 menit untuk PCB 34 hole, dan 11 menit untuk PCB 90 hole. Dibandingkan dengan sistem yang sebelumnya telah dibuat pada Tugas Akhir No. 01/E/EL/020/534 (sistem A), No. 02/610/ELK/2003 (sistem B), dan No. 02010706/ELK/2004 (sistem C), sistem yang baru mempunyai nilai ketelitian yang lebih baik. Dari ketiga sistem yang lama, sistem A mempunyai nilai error rata-rata terkecil untuk motor stepper sumbu X yaitu sebesar 0.331 mm (2.2214%). Sedangkan sistem yang baru mempunyai nilai error rata-rata.terkecil untuk motor stepper sumbu X sebesar 0.3288 mm (2.2066%). Untuk motor stepper sumbu Y, ketiga sistem yang lama mempunyai nilai error rata-rata terkecil pada sistem B yaitu sebesar 0.221 mm (1.904%). Sedangkan sistem yang baru mempunyai error rata-rata terkecil sebesar 0.168 mm (1.702%). Jadi, dapat disimpulkan bahwa perbaikan yang dilakukan untuk alat bor otomatis ini sudah berhasil.",
+  "creators": "GIOVANNI SANJAYA",
+  "contributors": "Hany Ferdinando (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010741/ELK/2005; Giovanni Sanjaya (23401044)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; ELECTRIC CONTROLLERS; BORING MACHINERY-AUTOMATIC CONTROL"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4675",
+  "title": "Optimasi produksi di Fajar Bakery dengan penerapan pemrogaman linier menggunakan metode simpleks primal",
+  "abstract": "Fajar Bakery merupakan sebuah perusahaan roti yang berlokasi di Blitar, Jawa Timur. Perusahaan roti ini memproduksi setiap jenis roti tanpa suatu dasar perhitungan tertentu sehingga hasil yang didapatkan kurang maksimal. Tujuan dari tugas akhir ini adalah untuk mengoptimalkan produksi di Fajar Bakery dengan menggunakan aplikasi komputer yang mudah digunakan. Aplikasi yang dibuat antara lain meliputi modul untuk input data bahan baku, data mesin, data komposisi bahan baku, serta data penjualan. Sedangkan perhitungan yang dilakukan dalam aplikasi ini meliputi peramalan penjualan menggunakan metode Double Moving Average dan metode Winter, serta perhitungan optimasi menggunakan metode Simpleks Primal. Hasil dari perhitungan-perhitungan tersebut akan ditampilkan dalam bentuk laporan. Aplikasi ini nantinya akan digunakan oleh orang awam yang tidak mengerti mengenai konsep pemrograman linier maupun peramalan, oleh sebab itu pembuatan aplikasi ini sedapat mungkin meminimumkan kebutuhan inputan dari user. Aplikasi ini dibuat menggunakan software Borland Delphi 6 dan database Microsoft Access. Hasil dari aplikasi ini adalah peramalan tingkat penjualan periode mendatang berdasarkan data-data historis penjualan dan hasil perhitungan jumlah produksi roti optimal untuk periode mendatang.",
+  "creators": "FANNY SETIAWATI CHANDRA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Herri Christian Palit (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000229/INF/2004; Fanny Setiawati Chandra (26400059)",
+  "subjects": "DATABASE MANAGEMENT"
+}

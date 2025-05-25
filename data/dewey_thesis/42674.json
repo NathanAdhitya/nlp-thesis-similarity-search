@@ -1,0 +1,14 @@
+{
+  "id": "42674",
+  "title": "Pembuatan aplikasi student reminder berbasis android",
+  "abstract": "Student Reminder adalah aplikasi berbasis android. Tidak seperti reminder pada umumnya. Dan student reminder mempunyai pemakai yang khusus yaitu mahasiswa sebagai user utamanya. Banyak mahasiswa yang kesulitan dalam mengatur jadwal kuliahnya dan juga jadwal pengumpulan tugas hal itu dikarenakan ketidaktahuan mahasiswa akan jadwal pengumpulan tugas Kebanyakan aplikasi reminder harus mengisi jadwal kegiatan user secara manual dikarenakan belum ada fitur khusus untuk bisa melakukan update otomatis ke smartphone google kalender dari database Universitas Kristen Petra. Selama ini mahasiswa menggunakan cara manual untuk mencatat jadwalnya dengan menggunakan buku agenda atau dicatat di smartphone dengan manual. Proses pembuatan aplikasi ini menggunakan android studio developer dan menggunakan bahasa pemrograman java. Software android digunakan untuk membuat tampilan pada aplikasi, membuat fungsi untuk mengambil data dari PHP Dan membuat auto synchronize ke google kalender. PHP digunakan untuk mengambil nilai dari database dan menampilkan nilai tersebut di tampilan web. Json digunakan untuk membaca data dari php ke java di android. SQL digunakan untuk membuat tabel database dan relasinya dengan table lainnya. Dari Hasil perancangan dan pembuatan Aplikasi Student Reminder dan dapat diambil kesimpulan antara lain aplikasi simpel dan mudah digunakan, mempermudah mahasiswa untuk melihat jadwal kuliah, jadwal kuliah otomatis masuk ke google kalender di smartphone masing-masing.",
+  "creators": "ROBERTUS PAMBUDI",
+  "contributors": "Kristo Radion Purba S.ST. (Advisor 1); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021781/INF/2018; Robertus Pambudi (26412097)",
+  "subjects": "ANDROID (ELECTRONIC RESOURCE); APPLICATION SOFTWARE--DEVELOPMENT"
+}

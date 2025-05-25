@@ -1,0 +1,14 @@
+{
+  "id": "19834",
+  "title": "Perencanaan dan pembuatan sistem pengontrolan gerak pada kursi roda yang dilengkapi sensor ultrasonik dengan menggunakan mikroprosesor 8088",
+  "abstract": "Dalam hidup bermasyarakat kita tidak dapat menutup mata akan keberadaan anggota masyarakat yang mengalami kekurangan-kekurangaan fisik, seperti: lumpuh, buta, bisu, tuli dan kekurangan-kekurangan lainnya. Hal ini sungguh merupakan suatu kendala yang tidak dapat mereka hilangkan, banyak kesulitan-kesulitan timbul karenanya. Sementara itu fasilitas yang tersedia bagi mereka masih sangat sedikit jika dibandingkan dengan apa yang diperoleh anggota masyarakat lainnya. Keterbatasan fasilitas ini menyebabkan mereka lebih banyak bergantung pada pihak lain. Berkaitan dengan keadaan tersebut diatas, maka dalam tugas akhir ini dicari alternatif jalan keluar terhadap salah satu dari ketergantungan ini, dengan mencoba untuk mendisain serta membuat sebuah kursi roda elektris, yang dimaksud yaitu kursi roda yang dilengkapi alat bantu kontrol gerak yang digunakan sebagai pengontrol arah gerak dari kursi roda. Dengan memasang alat pengontrol gerak ini pada kursi roda, memudahkan pemakai kursi roda dalam geraknya dan juga mengurangi ketergantungan pemakai kursi roda terhadap pihak lain. Adapun dalam proyek ini direncanakan pendisainan perangkat mekanik, dimana dalam pendisainan ini akan lebih ditekankan pada penyusunan komponen pentransmisi daya dari motor ke roda. Sedangkan pada perencanaan elektrisnya digunakan mikroprosesor 8088 sebagai pengatur yang dibantu dengan EPROM 2764, RAM 6116 , PPI 8255, sensor ultrasonik dan relay sebagai penghubung antara prosesor dengan motor dc. Kesemuanya itu didukung oleh perangkat lunak yang berupa program untuk mengatur gerak dari kursi roda. Pemberian perintah untuk menggerakkan kursi roda dilakukan pada tombol, begitu tombol perintah ditekan maka input dari tombol akan dikirim ke mikroprosesor melalui port A dari PPI, setelah diproses mikroprosesor mengirimkan perintah untuk melakukan gerak yang diminta melalui PPI, yang diteruskan melalui port B dari PPI ke relay untuk mengatur gerak dari kursi roda. Sedangkan sensor ultrasonik digunakan untuk pengaturan jarak dari kursi roda agar kursi roda tidak sampai menabrak tembok/bidang-bidang datar lainnya.",
+  "creators": "SUGIONO",
+  "contributors": "HANDAYANI T. (Advisor 1); Limboto Limantara (Advisor 2); ISKANDAR ZULKARNAIN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. ...; Sugiono (23485102)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; INTEL 8088 (MICROPROCESSOR)"
+}

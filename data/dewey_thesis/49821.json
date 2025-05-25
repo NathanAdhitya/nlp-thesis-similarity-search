@@ -1,0 +1,14 @@
+{
+  "id": "49821",
+  "title": "Sistem monitoring suhu dan ph pada model kolam limbah menggunakan Raspberry Pi",
+  "abstract": "Cairan limbah yang berasal dari industri berbahaya pada lingkungan jika pengolahannya tidak benar. Tugas akhir ini bertujuan untuk membuat sistem monitoring untuk kolam limbah sehingga parameter dari kolam limbah dapat termonitor dengan baik. Sistem dibuat pada sebuah model kolam limbah untuk mensimulasikan cara kerja sistem. Sistem ini berfungsi untuk me-monitoring pH dan suhu pada model kolam secara online dan juga mampu menetralisir pH pada kolam secara otomatis. Sistem monitoring ini dikontrol oleh mikrokontroller Raspberry Pi 4 dengan bantuan software Node RED untuk mengolah data dari sensor, mengurus bagian IoT dan menjalankan program untuk sistem otomasi. Sensor suhu yang digunakan adalah sensor suhu RTD PT100 yang dilewatkan kabel sepanjang 500 m, untuk sensor pH digunakan PH4502-C. untuk sistem otomasi penetralan pH digunakan selenoid valve. Sistem kemudian diuji dalam model kolam limbah. Pengujian yang dilakukan adalah pengujian ke akurat-an sensor PT100 yang telah melewati kabel sepanjang 500 m, kemampuan sistem otomatis pada penetralan pH, dan kemampuan IoT dari sistem. Dari hasil pengujian didapatkan bila akurasi sensor PT100 tidak terganggu meskipun melewati kabel 500m, sistem otomatis pada penetralan pH mampu menetralkan pH (pH 7) pada model kolam limbah dan sistem IoT pada sistem dapat berjalan dengan lancar.",
+  "creators": "STEPHEN STANLEY HARIANTO",
+  "contributors": "Handry Khoswanto (Advisor 1); Handy Wicaksono (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011016/ELK/2021; Stephen Stanley Harianto (C11170016)",
+  "subjects": "LAND TREATMENT OF WASTEWATER"
+}

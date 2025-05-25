@@ -1,0 +1,14 @@
+{
+  "id": "8661",
+  "title": "Pemisahan sinyal audio tercampur secara off-line dengan metode independent component analysis",
+  "abstract": "Suara tercampur yang diterima oleh indera pendengaran sering terjadi dalam kehidupan sehari-hari. Indera pendengaran menerima suara yang tercampur secara langsung dan tidak dapat disaring. Oleh karena itu algoritma Independent Componen Analysis (ICA) mampu mengatasi masalah tersebut. Algoritma ICA mampu memisahkan sinyal suara yang tercampur menjadi sinyal suara yang terpisah. Program yang digunakan untuk simulasi pemisahan sinyal suara adalah Matlab programing. Input yang diberikan untuk simulasi pemisahan sinyal suara dengan program Matlab berupa hasil rekaman suara yang tercampur. Dengan metode ICA akan dilakukan pemisahan sinyal suara yang tercampur. Hasil pengujian menunjukan bahwa nilai MSE yang rendah memiliki kualitas hasil estimasi lebih baik, karena menyerupai dengan sumber asli. Program pemisahan sinyal suara secara real tidak dapat menghasilkan sinyal estimasi yang bagus, karena adanya parameter peralatan yang tidak sama dan kondisi matriks pencampur, yang tergantung pada lingkungan pengukuran. Amplitudo dari sinyal hasil estimasi akan diperbesar dari sinyal sumber aslinya, sehingga secara persepsi pendengaran menghasilkan suara lebih keras daripada sinyal sumber asli. Program ini nantinya dapat dikembangkan untuk menghilangkan noise rekaman secara langsung pada saat menghasilkan sinyal estimasi.",
+  "creators": "SONNY CHRESIANTO GUNAWAN",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010031/ELK/2005; Sonny Chresianto Gunawan (23401056)",
+  "subjects": "NUMERICAL ANALYSIS-DATA PROCESSING; ENGINEERING MATHEMATICS-DATA PROCESSING; MATLAB"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "19501",
+  "title": "Pengendalian miniatur lift 5 lantai dengan plc menggunakan kontrol pi",
+  "abstract": "gedung-gedung bertingkat, maka untuk mendukung keberadaan gedung-gedung tersebut diperlukan suatu sistem transportasi vertikal yang mempunyai kecepatan tinggi, tingkat kenyamanan tinggi serta keamanan dan stabilitas yang baik. Salah satu pengontrol yang bisa digunakan untuk mengendalikan miniatur lift ini adalah PLC Schneider TSX Micro 37/21. Komponen ? komponen sistem lift ialah inverter tipe ATV16U54N4 sebagai pengatur kecepatan motor, motor AC 380V sebagai penggerak sangkar naik dan turun, motor DC sebagai penggerak pintu miniatur lift. Sensor dari sistem ini menggunakan rotary encoder sebagai sensor posisi dan pengatur kecepatan. Sistem dikontrol dengan menggunakan kontrol PI untuk mendapatkan rise time yang baik, settling time dan peak time yang cepat. Metode yang dipakai untuk menentukan nilai Kp dan Ki yang baik dalam sistem ini yaitu trial and error. Kontrol PI dapat diprogram dengan menggunakan software PL7 yang sudah tersedia blok kontroler PI di dalamnya. Dengan mengatur nilai Kp dan Ki diharapkan miniatur dapat berjalan dengan smooth seperti lift pada umumnya. Dari hasil percobaan yang dilakukan kombinasi yang didapatkan yaitu Kp = 25 dan Ki = 0,25. Dengan nilai Kp = 25 dan Ki = 0,25 sistem mempunyai rise time selama 4,3 detik, settling time selama 5,3 detik dan peak time selama 5,8 detik yang menunjukkan sistem berjalan dengan smooth dan stabil.",
+  "creators": "FEBY DHARMAWAN",
+  "contributors": "Thiang (Advisor 1); Handy Wicaksono (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010912/ELK/2010; Feby Dharmawan (23405055)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

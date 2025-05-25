@@ -1,0 +1,14 @@
+{
+  "id": "10758",
+  "title": "Pemisah buah tomat berdasarkan ukuran dan warna menggunakan webcam sebagai sensor",
+  "abstract": "Dengan semakin meningkatnya teknologi dalam bidang pengotomasian perangkat keras (mesin-mesin), maka diperlukan adanya sensor untuk membantu pengotomasian perangkat keras tersebut. Dalam bidang industri, sensor-sensor sering digunakan sebagai pendeteksian adanya benda, pengukuran sebuah benda, penentuan warna dari sebuah benda, dan lain-lain. Tugas Akhir ini dibuat dengan tujuan untuk menyederhanakan banyaknya sensor yang digunakan untuk berbagai macam keperluan, dengan menggunakan webcam. Webcam digunakan untuk mengambil sebuah gambar dari benda yang melewatinya yang kemudian dilakukan pengolahan gambar untuk mengenali benda tersebut berdasarkan ukuran dan warnanya. Pada pendeteksian benda diberikan suatu nilai threshold untuk mengetahui ada atau tidaknya benda yang lewat. Selanjutnya benda diukur dari gambar dengan menggunakan metode edge detection. Sedangkan penentuan warna pada benda dilakukan dengan menggunakan threshold yang berfungsi untuk menentukan nilai dari perbedaan warna. Fungsi-fungsi tersebut diaplikasian pada buah tomat. Pengujian sistem telah dilakukan dengan tiga kondisi yang bervariasi. Pertama, kondisi cahaya ruangan dengan hasil pada pendeteksian tomat adalah 100%, pengukuran adalah 20% dan pendeteksian warna adalah 100%. Kedua, kondisi penambahan cahaya lampu dengan hasil pada pendeteksian tomat adalah 100%, pengukuran adalah 56% dan pendeteksian warna adalah 96%. Ketiga, kondisi disekitar kamera tidak ada cahaya dari luar dengan tambahan lampu dari kanan dan kiri dengan hasil pada pendeteksian tomat adalah 100%, pengukuran adalah 100% dan pendeteksian warna adalah 100%.",
+  "creators": "LEONARDUS INDROTANOTO",
+  "contributors": "Thiang (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010857/ELK/2008; Leonardus Indrotanoto (23403059)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

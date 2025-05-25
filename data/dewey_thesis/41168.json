@@ -1,0 +1,14 @@
+{
+  "id": "41168",
+  "title": "Prototype penggunaan IoT untuk monitoring level pada penampung air berbasis ESP8266",
+  "abstract": "Saat ini, hampir semua media komunikasi menggunakan internet. Orang antar benua dapat berkomunikasi dapat berkomunikasi dengan mudah dan cepat. Tetapi komunikasi tidak hanya mencakup komunikasi antar manusia dengan manusia. Objek pun saat ini dapat berkomunikasi antara satu dengan yang lain. Konsep tersebut merupakan konsep Internet of Things (IoT). Things di dalam konsep Internet of Things bisa berarti barang-barang yang sering digunakan setiap hari. Untuk mencoba mewujudkan konsep dari IoT, Things yang digunakan pada penelitian ini adalah penampung air atau “bak mandi” karena pada penampung air setelah digunakan maka level air akan berkurang dan harus diisi kembali penampung air tersebut untuk orang yang akan memakainya. Pada proses mengisi seringkali lupa untuk menutup pump/valve kembali karena proses untuk mengisi penampungan air agak lama. Ketika penampung air sudah mencapai batas maksimal nya maka air meluber dan terbuang percuma. Aplikasi ini dibuat dengan menggunakan pemrograman HTML, PHP, JavaScript, database MySQL, dan framework Laravel. Tampilan aplikasi menggunakan Template AdminBSB. Untuk perangkat keras menggunakan Wemos D1_R2 sebagai microcontroller, relay module, pompa, dan sensor ultrasonic. Hasil akhir dari pengembangan aplikasi ini adalah dapat melakukan monitoring level penampung air dan dapat melakukan controlling terhadap sistem perangkat keras seperti tinggi penampung, batas maksimal penampung, batas minimal penampung, dan mode dari sistem perangkat keras. Sistem perangkat keras dapat mengisi secara otomatis dan dapat berhenti ketika sudah mencapai batas maksimal dan dapat menerima konfigurasi dari aplikasi.",
+  "creators": "STEVEN SACHIO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Resmana Lim (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021669/INF/2017; Steven Sachio (26413104)",
+  "subjects": "MICROCONTROLLER ESP8266; INTERNET PROGRAMMING; INTERNET (COMPUTER NETWORK)"
+}

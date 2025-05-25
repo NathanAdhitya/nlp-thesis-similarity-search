@@ -1,0 +1,14 @@
+{
+  "id": "53877",
+  "title": "Perancangan ulang lintasan produksi cell assembly connector 3P di PT Schneider Electric Manufacturing Batam menggunakan metode line architecture design methodology",
+  "abstract": "PT Schneider Electric Manufacturing Batam akan mendesain ulang lintasan produksi cell assembly connector 3P dengan efisien untuk produk Everlink 3P, Everlink 4P dan produk baru GZ3. Desain ulang dilakukan dengan metode Line Architecture Design Methodology. Dengan Customer Demand untuk ketiga produk sebesar 346,63 Pcs/Hr, dihasilkan desain arsitektur dengan jumlah 3 cell, 2 operator setiap cell dan 3 operasi setiap cell dan penambahan bench untuk mengatasi permasalahan kapasitas produksi. Desain baru tersebut dapat menghasilkan 384 Pcs/Hrs sehingga dapat memenuhi Customer Demand sampai tahun 2025. Pada pengaplikasian actualnya, perusahaan membuat desain arsitektur dengan jumlah 1 cell, 6 operator setiap cell dan 8 operasi setiap cell. Desain aktual belum sesuai ditinjau dari segi beban kerja dan elastisitas, namun masih dapat berjalan untuk memenuhi jumlah permintaan konsumen. Sedangkan ditinjau dari segi ergonomi masih tergolong pada tingkat medium, yang artinya masih diperbolehkan untuk beroperasi.",
+  "creators": "JULIUS OSCAR",
+  "contributors": "Herri Christian Palit (Advisor 1); Karina Agustin, S.T., M.B.A. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022494/IND/2022; Julius Oscar (C13180148)",
+  "subjects": "MANUFACTURING CELLS; PRODUCTION CONTROL; PRODUCTION MANAGEMENT"
+}

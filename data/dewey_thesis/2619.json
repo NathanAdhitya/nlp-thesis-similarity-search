@@ -1,0 +1,14 @@
+{
+  "id": "2619",
+  "title": "Pembuatan aplikasi data mining untuk clustering item dengan menggunakan metode CLARANS pada perusahaan X",
+  "abstract": "Memasuki era perdagangan bebas atau yang sering disebut dengan globalisasi ini, muncul tuntutan bagi seorang pengambil keputusan, untuk dapat melihat secara jeli peluang-peluang yang dapat meningkatkan keuntungan bagi perusahaannya, berdasarkan informasi yang relevan sehingga mampu terus bersaing dengan perusahaan lain. Pengambil keputusan perlu memakai suatu sistem yang dapat mendukungnya dalam mengambil keputusan secara cepat dan juga tepat. Knowledge atas suatu data, dapat digunakan oleh perusahaan untuk meningkatkan efisiensi dan efektivitas. Salah satu cara untuk mendapatkan knowledge adalah dengan melakukan data mining. Software ini akan menggunakan metode clustering yaitu CLARANS untuk melakukan pengelompokkan data. Dalam pembuatan software, penulis mengumpulan data-data yang diperlukan dari perusahaan X, data berupa transaksi yang terjadi selama periode tertentu. Data dipersiapkan dengan melalui proses cleaning dan di transformasi ke bentuk yang dapat diolah oleh software melalui tahap yang disebut data preprocessing. Data tersebut dimasukan ke dalam sebuah database. Data, diolah sesuai algoritma sehingga menghasilkan cluster-cluster yang telah mengelompok. Hasil cluster-cluster ini ditampilkan dalam bentuk tabel, grafik dan dapat disimpan juga kedalam bentuk file teks. Penulis menggunakan software Borland Delphi 7 dan Microsoft SQL Server 2000 dalam pembuatan software ini. Dengan menggunakan output dari software ini, yang berupa item-item yang telah ter-cluster (terkelompok), pengambil keputusan kemungkinan dapat mengetahui informasi \"tersembunyi\" yang ada pada cluster-cluster tersebut, misalnya suatu cluster dapat menunjukkan bahwa data-data item dengan ciri tertentu lebih banyak dibeli oleh konsumen yang tinggal di suatu daerah tertentu pula. Informasi ini akan memberikan pertimbangan tambahan bagi pengambil keputusan dalam pengambilan keputusan.",
+  "creators": "KAREL RUDYANTO H",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Leo Willyanto Santoso (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000386//INF/2005; Karel Rudyanto Harisaputra (26401096)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

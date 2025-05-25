@@ -1,0 +1,14 @@
+{
+  "id": "7495",
+  "title": "Perancangan dan pembuatan perangkat lunak personal assistant",
+  "abstract": "Personal Digital Assistant (PDA) adalah sebuah organizer untuk mencatat dan mengingatkan mengenai seluruh aktivitas yang ada agar dapat dilaksanakan tepat waktu dan terencana Dalam perangkat lunak standar PDA memang telah tersedia banyak fungsi seperti address book, task, dan alarm, tetapi fungsi tersebut belum menjadi satu kesatuan aplikasi yang dapat diatur menjadi satu. Pengaturan tehadap perangkat lunak bawaan ini dilakukan secara terpisah, dimana fitur task yang ada hanya untuk mencatat dan menampilkan peringatan, sedangkan untuk mencatat dan menampilkan peringatan yang disertai dengan alarm, harus menjalankan aplikasi yang lain. Pada perangkat lunak ini dilakukan pembuatan sebuah Personal Assistant yang merupakan suatu kesatuan fungsi berupa address book, password manager, dan task schedule yang dapat dijalankan pada PDA. Task schedule ini bukan hanya untuk mencatat aktivitas saja melainkan juga dapat mengingatkan mengenai aktivitas yang akan dilakukan di kemudian hari berupa alarm peringatan. Penyimpanan data menggunakan proses binary dan disimpan dalam bentuk file berekstensi \"dat\". Data yang tersimpan sudah diurutkan secara teratur dengan metode sorting insertion sort. Perangkat lunak yang dikembangkan dapat berjalan pada PDA dengan sistem operasi Windows Pocket PC. Fitur yang ada sudah merupakan satu kesatuan, tetapi dalam organizer ini masih memiliki kekurangan yaitu fitur kalender yang belum ada dan fitur task schedule pada perangkat lunak yang secara otomatis dapat memanggil aplikasi pengecekan task (TaskCheck.exe) melalui tombol yang disediakan, belum dapat diimplementasikan karena keterbatasan kemampuan .Net Compact Framework.",
+  "creators": "JULIUS LINGGA WIBISONO",
+  "contributors": "Rudy Adipranata (Advisor 1); Liliana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000436/INF/2005; Julius Lingga Wibisono (26401033)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

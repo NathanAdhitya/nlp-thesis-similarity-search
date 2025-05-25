@@ -1,0 +1,14 @@
+{
+  "id": "19745",
+  "title": "Perencanaan dan pembuatan sistem pendeteksi gangguan keamanan jarak jauh dengan menggunakan mikrokontroler 80C31 dan radio FM",
+  "abstract": "Seiring dengan perkembangan jaman, saat ini gangguan keamanan meningkat dengan pesatnya. Karena itu dalam Tugas Akhir ini, penulis mencoba membuat suatu sistem yang dapat mendeteksi secara dini terhadap gangguan tersebut, dan diharapkan dengan sistem ini akan memudahkan untuk menanggulanginya Sistem ini merupakan perpaduan antara sistem kontroler yang mengontrol suatu sistem sensor (yang terdiri dari sensor asap, sensor suhu, dan sensor Infra Merah), rekaman pesan dan radio FM . Dimana bila sistem sensor mendeteksi suatu gangguan keamanan maka sistem kontroler (menggunakan minimum sistem 80C31) akan memancarkan pesan gangguan melalui gelombang FM kepada pengawas tentang gangguan yang terjadi. Pesan-pesan gangguan (berupa suara) yang mungkin terdeteksi sudah direkam dalam IC EPROM. Dan pesan itulah yang akan dikirimkan melalui gelombang FM. Adapun macam pesan yang dikirim, dikontrol oleh mikrokontroler 80C31 , dimana mikrokontroler tersebut dapat mendeteksi jenis gangguan yang terdeteksi melalui sensor dan kemudian menyesuaikan jenis gangguan dan terjadi di sektor mana, dan kemudian mengirimkan pesan (pesan tersebut rencananya berisi tentang jenis dan tempat kejadian) melalui radio gelombang FM kepada yang berwenang (pos keamanan terdekat maupun pemilik). Setelah diadakan pengujian, sistem ini dapat berjalan cukup baik, tetapi jika ingin mencapai jangkauan pemancar yang lebih baik, pemancar dapat diganti dengan sistem radio lainnya (misal : dengan pesawat HT). Juga perlu memperhatikan letak sensor infra merah, agar tidak diletakkan pada tempat-tempat yang dapat dilalui hewan agar tidak terjadi kesalahan deteksi, karena sensor infra merah ini tidak dapat membedakan benda apa yang menutupi jalannya sinar. Pada sistem ini juga belum dilengkapi reset secara otomatis, sehingga setiap kali mendeteksi suatu gangguan harus dilakukan reset secara manual. Pada sistem ini dapat disimpulkan bahwa alat ini cukup memudahkan pengawasan terhadap suatu gedung. Untuk pengembangannya sistem ini dapat diperlengkapi dengan bermacam-macam sensor. > in",
+  "creators": "LINGGA SANTOSO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); IRWAN SAHLI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/KOM/001/058; Lingga Santoso (23491046)",
+  "subjects": "MICROCONTROLLERS 8031; AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

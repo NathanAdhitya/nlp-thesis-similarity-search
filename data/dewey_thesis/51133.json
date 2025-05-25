@@ -1,0 +1,14 @@
+{
+  "id": "51133",
+  "title": "Perancangan dan pembuatan sistem informasi geografi simulasi banjir pada Wilayah Surabaya Barat",
+  "abstract": "Sehubungan dengan sering terjadinya genangan atau banjir pada musim hujan di kota Surabaya Barat, informasi yang cepat mengenai lokasi genangan sangatlah penting khususnya bagi masyarakat luas. Pada saat ini pemerintah masih belum dapat maksimal dalam menghadapi persoalan banjir tersebut karena masih menggunakan cara-cara manual dalam menghitung ketinggian genangan di suatu daerah. Melihat permasalahan yang ada, maka dibuat suatu perancangan dan pembuatan sistem informasi geografis simulasi banjir pada wilayah Surabaya Barat. Sistem ini menggunakan data kontur tanah, data koefisien resapan air pada suatu permukaan yang telah di input terlebih dahulu, serta data curah hujan untuk membuat suatu simulasi ketinggian genangan di suatu daerah. Sistem informasi geografi ini dibuat menggunakan aplikasi ArcView GIS 3.3. Dari hasil simulasi dan implementasi yang ada, maka dapat disimpulkan bahwa sistem ini mampu untuk melakukan simulasi banjir, selain itu aplikasi ini juga cukup mudah dioperasikan dan dimengerti. Namun tingkat keakuratan aplikasi ini juga tidak terlalu bagus-mengingat banyaknya faktor-faktor lain yang diabaikan, seperti faktor angin, kapasitas sungai, penguapan dan lain-lain.",
+  "creators": "ADITYA TEJA LAKSANA",
+  "contributors": "M. ISA IRAWAN (Advisor 1); Silvia Rostianingsih (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000468/INF/2006; Aditya Teja Laksana (26402198)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

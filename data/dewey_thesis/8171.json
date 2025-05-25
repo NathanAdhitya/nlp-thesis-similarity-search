@@ -1,0 +1,14 @@
+{
+  "id": "8171",
+  "title": "Aplikasi server content provider untuk mobile device menggunakan wireless LAN",
+  "abstract": "Kebutuhan masyarakat untuk mengakses content terutama pada kategori multimedia content sangat meningkat pesat seiring dengan perkembangan teknologi yang semakin cepat. Teknologi yang makin canggih ini semakin menuju ke era wireless dimana user dapat melakukan akses tanpa terhubung secara fisik dengan kabel. Hal ini juga direspon oleh pengembang hardware dengan banyaknya mobile device baru yang dilengkapi dengan konektifitas Wireless LAN. Melihat fakta ini muncul suatu ide untuk membuat sebuah sistem yang dapat menyediakan layanan terhadap permintaan content dari user yang terhubung secara wireless melalui jaringan wireless LAN. Tugas akhir ini bertujuan membangun sebuah sistem yang dapat melayani permintaan content melalui PDA. Sistem dibangun dengan teknologi ?ASP .NET? yang dipadu dengan Content Management System dari DotNetNuke. Ini akan memudahkan administrator untuk melakukan pengaturan seperti penambahan content, penerbitan voucher, melihat billing user dan melihat statistik download. Sistem juga menggunakan teknologi database dari SQL Server yang diharapkan akan memiliki kompatibilitas terhadap PDA (yang sebagian besar menggunakan Operating System Windows Mobile). Sistem telah diuji dengan menggunakan PDA untuk mengakses content yang ada di server dengan wireless LAN. Hasil yang didapat adalah server dapat melayani permintaan content dengan baik.",
+  "creators": "STEFANUS ROCKY FABRIANO",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010063/ELK/2007; Stefanus Rocky Fabriano (23403021)",
+  "subjects": "WIRELESS LOCAL AREA NETWORKS"
+}

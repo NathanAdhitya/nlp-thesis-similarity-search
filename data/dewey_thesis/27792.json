@@ -1,0 +1,14 @@
+{
+  "id": "27792",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada Toko Optik Royal",
+  "abstract": "Toko Optik Royal adalah toko yang menjual berbagai macam jenis dan merk kacamata. Kacamata itu meliputi frame dan juga lensanya, selain itu juga menjual soflens. Dalam menjalankan usahanya saat ini masih menggunakan sistem manual, semua pencatatan transaksi maupun data-datanya menggunakan kertas atau buku. Hal tersebut menyebabkan banyak terjadi kesalahan dalam pencatatan data-data transaksi sehingga data-data yang dihasilkan tidak akurat. Kesalahan data-data tersebut terjadi karena human error. Selain masih rawannya terjadi kesalahan dalam pencatatan data, sistem yang manual sangat merepotkan bila ingin melakukan pencarian data tertentu dan membutuhkan waktu yang lama. Karena menggunakan media kertas, sistem manual tersebut mempunyai kekurangan yang datanya mudah hilang. Oleh karena itu dibutuhkan suatu perancangan dan pembuatan sistem informasi yang dapat mengelola data sehingga dapat menghasilkan informasi berupa laporan dalam waktu yang cepat dan terorganisir dengan baik. Pada Skripsi ini, proses perancangan dan pembuatan program dimulai dengan mempelajari dan menganalisis sistem perusahaan saat ini, kemudian menyusun dan membuat document flow, DFD, ERD, dan tabel-tabel yang dibutuhkan serta mendesain form-form yang akan digunakan. Setelah itu, membuat program yang terdiri dari pencatatan master database, sistem pembelian, penjualan, mutasi stok, dan laporan-laporan yang diperlukan. Aplikasi yang digunakan dalam pembuatan database adalah Microsoft SQL Server 2005, untuk bahasa pemrograman menggunakan Visual Basic 6.0, dan untuk laporannya menggunakan crystal report versi 8.5. Aplikasi yang sudah dibuat meliputi master data, sistem penjualan, pembelian, mutasi stok, kartu stok, penghitungan hpp dan laba rugi, serta pembuatan laporan-laporan.",
+  "creators": "ANDY SETIAWAN",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021202/INF/2012; Andy Setiawan (26405062)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2490",
+  "title": "Robot berkaki enam yang dapat berjalan naik tangga",
+  "abstract": "Robot berkaki enam mempakan salah satu bentuk robot dari berbagai robot yang ada di dunia industri, permainan, dan ilmu pengetahuan. Pada umumnya robot berkaki enam hanya untuk bergerak pada bidang datar jadi aplikasi robot berkaki enam ini untuk bergerak di bidang yang tidak datar masih jarang dijumpai. Robot berkaki enatn ini diprogram untuk dapat berjalan maju, mundur, belok kiri, belok kanan, dan naik tangga. Tangga yang digunakan disesuaikan dengan ukuran robot baik ukuran badan robot maupun ukuran tungkai kaki robot. Setiap kaki robot ini bersifat independen, dimana instruksi diberikan melalui remote yang dihubungkan dengan kabel. Robot berkaki enam ini terdiri dari dua sistem utama, yaitu remote kontrol yang terhubung dengan kabel dan badan robot yang menggunakan 12 motor servo. Untuk mengontrol kedua sistem ini digunakan mikrokontroler AT89C2051. Berdasarkan hasil pengujian diperoleh kecepatan rata-rata robot berjalan maju adalah 5,4 cm/s. Kecepatan rata-rata berjalan mundur 4,7 cm/s. Kecepatan robot untuk menaiki 1 anak tangga adalah sekitar 0,5 menit, dimana respon dan keseimbangan robot berkaki enam cukup baik.",
+  "creators": "MEILDY JEFFIANTO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/668/ELK/2003; Meildy Jeffianto (23499024)",
+  "subjects": "ROBOTS-CONTROL SYSTEM; ROBOTS; ROBOTICS"
+}

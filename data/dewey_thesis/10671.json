@@ -1,0 +1,14 @@
+{
+  "id": "10671",
+  "title": "Sistim pengenalan abjad bahasa isyarat dengan jari/tangan melalui sensor yang dihubungkan ke IBM PC",
+  "abstract": "Manusia sesuai dengan kodratnya sebagai mahkluk sosial, perlu untuk berinteraksi dengan iingkungan dan sesamanya. Salah satu proses interaksi tersebut adalah berkomunikasi. Ada sebagian saudara kita yang dilahirkan didunia ini mengalami kekurangan, misalnya tuna wicara, tuna rungu, tuna netra dan sebagainya. Masalah di atas menimbulkan gagasan untuk membuat suatu sistem/alat yang mempermudah proses komunikasi terutama memperkenalkan abjad bahasa isyarat baik bagi penderita tuna rungu maupun bagi masyarakat awairi yang ingin mengetahui atau mempelajarinya. Dengan alat/sistem tersebut setiap kode dari tangan yang berupa abjad bahasa isyarat dapat langsung ditampilkan pada monitor komputer dan diolah sesuai dengan kebutuhan. Prinsip dasar dari alat ini yaitu menggunakan sensor yang ditempatkan dengan posisi tertentu pada sarung tangan, sehingga keadaan tangan yang bersentuhan akan terdeteksi. Dengan menggunakan PPI 8255 data digital dari sensor sarung tangan diambil, kemudian mikrokontroller 80C31 mengirim data tersebut secara serial ke IBM PC melalui port serial yang tersedia pada komputer PC. Hasil pengolahan data tersebut kemudian dapat ditampilkan pada monitor berupa gambar huruf yang sama dengan kode dari abjad bahasa isyarat.",
+  "creators": "ARLIANTO ANGGAWIRAWAN",
+  "contributors": "NAWANTO WIBOWO (Examination Committee 1); HANDAYANI T. (Advisor 1); Rolly Intan (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/056/0259; Arlianto Anggawirawan (23490143)",
+  "subjects": "INTEL 8031 (MICROCONTROLLER); DETECTORS-COMPUTER PROGRAMS"
+}

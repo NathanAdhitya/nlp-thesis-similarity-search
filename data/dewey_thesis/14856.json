@@ -1,0 +1,14 @@
+{
+  "id": "14856",
+  "title": "Perencanaan dan pembuatan alat sterilisasi untuk dokter gigi dengan mempergunakan uap air bersuhu maksimum 135 derajat C dan tekanan maksimum 2,16 Bar berbasis mikrokontroller 8031",
+  "abstract": "Penularan suatu penyakit dapat terjadi karena penggunaan dari alat-alat kedokteran yang kurang steril. Hal ini terjadi karena alat tersebut yang sebelumnya pernah dipakai pada pasien yang terdahulu, kemudian alat tersebut dipergunakan lagi untuk pasien selanjutnya tetapi tanpa mempergunakan alat sterilisasi yang memadai. Pada tugas akhir ini dibuat suatu alat sterilisasi dengan mempergunakan uap air yang bertekanan bersuhu maksimum 135?C dan tekanan maksimum 2,16 bar yang dikendalikan oleh mikrokontroller 8031. Dimana proses kerja alat dimulai dari saat memasukkan air ke dalam chamber, kemudian air tersebut dipanaskan sampai menjadi uap dengan temperatur tertentu, dan temperatur tersebut akan dipertahankan selama waktu tertentu tergantung setting awal. Suhu dan larnanya proses sterilisasi dapat diatur antara 121?C sampai 135?C dan antara 1 menit sampai 15 menit, tergantung setting awal. Dari hasil pembuatan alat sterilisasi ini dapat disimpulkan bahwa mikrokontroller 8031 sangat membantu proses pengontrolan alat yaitu sebagai otak sistem kontrol dari alat sterilisasi tersebut.",
+  "creators": "SOEJONO",
+  "contributors": "VINCENT PRASETYO (Examination Committee 1); HERLIANTO TENGGARA (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/035/334; Soejono (23491150)",
+  "subjects": "HEAT ENGINEERING; WATER HEATERS"
+}

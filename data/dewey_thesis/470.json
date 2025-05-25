@@ -1,0 +1,14 @@
+{
+  "id": "470",
+  "title": "Sistem pengenalan plat nomor kendaraan bermotor dengan metode principal components analysis",
+  "abstract": "Pendeteksian dan pengenalan plat nomor kendaraan bermotor ini merupakan salah satu bidang penelitian yang penting, dan dewasa ini banyak aplikasi yang dapat menerapkannya. Melalui pengembangan suatu teknik seperti (PCA), komputer sekarang dapat berperan seperti layaknya manusia dalam berbagai tugas pengenalan karakter, terutama tugas-tugas yang membutuhkan pencarian pada karakter yang besar. Principal Components Analysis digunakan untuk mereduksi dimensi gambar karakter sehingga menghasilkan variabel yang lebih sedikit yang Iebih mudah untuk diobsevasi dan ditangani. Hasil yang diperoleh kemudian akan dimasukkan ke dalam metode Nearest Neighbour Classifier untuk mengenali gambar karakter yang telah ke dalam sistem. Aplikasi ini dibangun menggunakan Microsoft Visual C++ 6.0(R), Microsoft(R) DirectShow(R), Intel(R) Image Processing Library dan Open Source Computer Vision Library. Aplikasi ini telah diimplementasikan dan dapat mendeteksi letak plat nomor serta mengenalinya pada PC Pentium II/400 MHz. Sistem cukup prospektif digunakan sebagai salah satu sistem kontrol dan sekuriti pada area parkir.",
+  "creators": "LUKMAN VENDY WIRAWAN",
+  "contributors": "JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1); Resmana Lim (Advisor 1); Kartika Gunadi (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.010013/INF/2002; Lukman Vendy Wirawan (26498011)",
+  "subjects": "COMPUTER VISION; PATTERN RECOGNITION SYSTEMS"
+}

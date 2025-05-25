@@ -1,0 +1,14 @@
+{
+  "id": "2818",
+  "title": "Perbandingan antara penggunaan two parent crossover dengan multi parent crossover pada algoritma evolusioner",
+  "abstract": "Dalam Algoritma Evolusioner dikenal adanya crossover operator, mutation operator, dan reproduction plan. Dalam penelitian ini difokuskan pada pembandingan metode Two Parent Crossover dengan Multi Parent Crossover pada Algoritma Evolusioner berdasarkan performa dan waktu perhitungan. Mutation operator yang digunakan yaitu exchange. Terdapat empat Reproduction Plan yaitu Reproduction Plan 1, Reproduction Plan 2, Reproduction Plan 3, dan Reproduction Plan 4. Dalam penelitian ini digunakan dua Reproduction Plan yaitu Reproduction Plan 3 yang menggunakan metode Two Parent Crossover dan Reproduction Plan 4 menggunakan metode Multi Parent Crossover. Tujuan dari penelitian ini adalah untuk mengetahui mana yang lebih baik antara kedua metode crossover tersebut untuk menyelesaikan problem-problem penjadwalan flow shop yang disimulasikan dengan fungsi tujuan meminimumkan makespan. Hasil yang didapatkan adalah program penjadwalan untuk melakukan simulasi pembandingan kedua metode crossover serta simulasi yang dilakukan dengan kombinasi-kombinasi job dan stage yang berbeda-beda. Dari simulasi yang dilakukan dapat diketatahui bahwa lebih baik menggunakan metode Two Parent Crossover untuk melakukan penjadwalan daripada metode Multi Parent Crossover karena dari segi waktu komputasinya yang jauh lebih cepat daripada metode Multi Parent Crossover yaitu sebesar 10,435 kali lebih cepat meskipun performa metode Two Parent Crossover masih kalah bila dibandingkan dengan metode Multi Parent Crossover tetapi hanya beda sedikit dan tidak signifikan yaitu sebesar 0,396%.",
+  "creators": "ROBBY",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010615/IND/2002; Robby (25497074)",
+  "subjects": "SCHEDULING (MANAGEMENT)"
+}

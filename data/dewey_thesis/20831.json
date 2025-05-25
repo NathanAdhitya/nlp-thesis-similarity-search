@@ -1,0 +1,14 @@
+{
+  "id": "20831",
+  "title": "Algoritma heuristik HFC untuk penjadwalan flowshop tanpa mempertahankan karakteristik permutation",
+  "abstract": "Masalah penjadwalan sering kali ditemui dalam lantai produksi baik dalam hal pennesinan ataupun job serta sumber daya manusia yang ada dalam lingkungan produksi tersebut. Hal ini membuat adanya berbagai macam solusi yang diberikan dalam algoritma-algoritma penjadwalan baik yang bersifat heuristik seperti NEH, CDS dan lainnya maupun bukan bersifat heuristik untuk mengatasi masalah penjadwalan yang ada. Selama ini banyak algoritma-algoritma heuristik dalam penjadwalan flowshop dengan tujuan meminimumkan makespan hanya berkaraktenstik permutation . Jadi, sebenarnya karakteristik non-permutasi yang berarti setiap job yang diproses pada mesin tertentu dapat mengalami pertukaran urutanya belum pernah dibahas. Tugas Akhir ini, memperkenalkan suatu algoritma heuristik baru dalam penjadwalan flowshop yang tujuannya meminimumkan makespan tanpa mempertahankan karakteristik permutation yaitu algoritma HFC. Algoritma HFC memberikan suatu solusi yang sama baiknya dengan algoritma NEH yang saat ini merupakan algoritma yang sering digunakan dalam masalah penjadwalan flowshop dengan karakteristik permutation, tetapi juga dapat memberikan solusi yang lebih baik dari NEH pada penjadwalan yang berkarakteristik non-permutation jika diperlukan. Pada simulasi yang dilakukan dalam Tugas Akhir ini ternyata dengan jumlah mesin yang sedikit, persentase keunggulan Algoritma HFC lebih besar daripada Algoritma NEH.",
+  "creators": "EDWARD TANDOYO",
+  "contributors": "Tessa Vanina Soetanto (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 334/TI-61/2000; Edwar Tandoyo (25496112)",
+  "subjects": "SCHEDULING; PRODUCTION PLANNING"
+}

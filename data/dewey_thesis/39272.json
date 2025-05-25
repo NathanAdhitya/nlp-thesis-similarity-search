@@ -1,0 +1,14 @@
+{
+  "id": "39272",
+  "title": "Sistem informasi manajemen pekerjaan panel listrik berbasis WEB di PT Yoel Tricitra",
+  "abstract": "Saat ini, PT Yoel Tricitra menggunakan pencatatan dalam bentuk Microsoft Excel dan buku catatan (jurnal) untuk setiap pekerjaan yang dilakukan. Hal ini menyebabkan seringnya pertemuan (meeting) untuk membahas progress pekerjaan panel listrik. Selain itu, tanpa menggunakan sistem informasi, akurasi proses data pada PT Yoel Tricitra juga kurang baik karena faktor tertentu seperti human error. Aplikasi ini dibuat dengan menggunakan bahasa pemrograman HTML, PHP, JavaScript, dan database MySQL. Tampilan aplikasi menggunakan template SBAdmin dengan Bootstrap. Fitur export file PDF menggunakan template fpdf181. Hasil akhir dari pengembangan aplikasi ini adalah dapat terintegrasinya informasi perusahaan seperti catatan order proyek, desain engineer, jadwal pekerjaan, informasi resource perusahaan, dan laporan perusahaan. Pengguna juga dapat melihat beberapa informasi penting perusahaan melalui notifikasi pada halaman utama hak akses seperti job order dan deadline pekerjaan.",
+  "creators": "KRISNA WAHYUDI",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021625/INF/2017; Krisna Wahyudi (26413005)",
+  "subjects": "JAVASCRIPT (COMPUTER PROGRAM LANGUAGE); MANAGEMENT INFORMATION SYSTEM; MYSQL (COMPUTER PROGRAM LANGUAGE); WEB SITES-DESIGN-COMPUTER PROGRAMS"
+}

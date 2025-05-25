@@ -1,0 +1,14 @@
+{
+  "id": "3156",
+  "title": "Pembuatan prototipe alat pencampur cat berbasis MCS-51",
+  "abstract": "Pada industri cat, mencampurkan dua warna cat atau lebih dengan perbandingan tertentu, bukanlah hal yang mudah. Karena hal ini menuntut ke-presisi- an perbandingan warna cat yang dicampur serta performasi kerja sistem yang baik. Sistem mencampurkan dua warna cat atau lebih secara konvensional, yaitu mencampur secara manual sudah tidak efisien lagi baik dari segi waktu maupun ekonomis. Dari permasalahan di atas timbul suatu ide untuk melakukan sistem pencampuran dua warna cat atau lebih dengan perbandingan tertentu secara otomatis. Untuk merealisasikan ide tersebut, dibuat suatu simulasi yang berupa prototipe alat pencampur cat otomatis. Prototipe ini terdiri atas sebuah konveyor untuk menggerakkan kontainer, solenoida untuk membuka dan menutup valve pada tangki, sensor infrared LED sebagai proximity switch, dan motor DC untuk mengangkat dan menurunkan timbangan A dan timbangan B, menggerakkan lengan Z, dan mengaduk cat. Sistem kerja dari protipe ini adalah mengisi kontainer dengan cat yang terdapat pada tangki A dan tangki B. Metode yang dipakai untuk mendapatkan perbandingan warna cat tertentu itu, yaitu dengan menimbang berat masing-masing warna cat dengan suatu transduser LVDT, sesuai dengan settingpoint yang di-input-kan. Dari hasil pengujian yang telah dilakukan, sistem dapat mencampurkan dua warna cat sesuai dengan setting point yang di-input-kan meskipun warna cat hasil pencampuran kurang bagus, hal ini disebabkan karena error berat rata-rata sebesar 7.42 %.",
+  "creators": "RONALD INDRAJAYA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/022/568; Ronald Indrajaya (23497076)",
+  "subjects": "DETECTORS-COMPUTER PROGRAMS; INTEL MCS-51 (MICROCONTROLLER)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "36527",
+  "title": "Pembuatan website e-commerce penjualan barang untuk Perusahaan PT X dengan fitur data mining generalize sequential pattern",
+  "abstract": "PT X adalah toko yang menjual mobil dan spare parts mobil secara retail yang berbasis pada metode brick and mortar. PT X ingin membuat website e-commerce yang diharapkan dapat memperluas daerah pemasaran untuk menghadapi pesaingan dengan perusahaan sejenis. Website memiliki fitur pemesanan secara online untuk memudahkan user dalam melakukan pembelian dan user juga dapat melacak transaksi apa saja yang telah dilakukan, user dari website terbagi menjadi dua macam, yaitu admin dan user di mana admin adalah PT X yang melakukan penjualan online melalui website, sedangkan user adalah yang membeli barang melalui website. Web ini dikembangkan dan dibuat dengan menggunakan bahasa pemrograman PHP, Ajax, dan JavaScript untuk fungsi-fungsi dan tampilan dari website, sedangkan database menggunakan MySQL. Pembuatan coding program menggunakan sarana software notepad++. Pembuatan fitur data mining dengan menggunakan metode generalize sequential pattern di mana metode digunakan untuk menganalisa kebiasaan pembeli dengan menemukan hubungan antar barang yang berbeda berdasarkan waktu pembelian. Data diolah sesuai algoritma untuk menghasilkan frequent item sets yang pada akhirnya menghasilkan association rules dalam bentuk tabel generalize sequential pattern.",
+  "creators": "DAVIN ARDIAN TANSIL",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Silvia Rostianingsih (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021483/INF/2015; Davin Ardian Tansil (26411079)",
+  "subjects": "WEBSITES-DESIGN; ELECTRONIC COMMERCE--COMPUTER PROGRAMS; DATABASE DESIGN; DATA MINING"
+}

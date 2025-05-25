@@ -1,0 +1,14 @@
+{
+  "id": "21016",
+  "title": "Penerapan metode fuzzy pada pemesanan kertas foto di laboratorium kodak ekspress",
+  "abstract": "Tugas Akhir ini membahas pemesanan kertas Roll 6\" per minggu di Laboratorium Kodak Ekspress, dengan menerapkan model fuzzy. Selama ini pihak pegelola laboratorium belum memiliki suatu sistem yang mengatur pemesanan kertas foto yang optimal. Untuk dapat menerapkan model fuzzy tersebut maka diperlukan beberapa prosedur yaitu: - Mengumpulkan data-data yang diperlukan sebagai variabel input, yaitu jumlah cetakan, harga dan prosentase potongan. - Menentukan fungsi keanggotan dari variabel input itu dengan menentukan derajat keanggotaannya terlebih dahulu. - Menentukan aturan-aturan fuzzy yang berlaku dalam kondisi operasional laboratorium. - Melakukan perhitungan dengan bantuan komputer dan software Mat lab 5.3 Dari hasil metode fuzzy tersebut juga dilakukan analisa biaya untuk lebih dapat melihat perbedaan yang teijadi. Hasil perhitungan total biaya pembelian berdasarkan data perusahaan adalah sebesar Rp 41.442.625,00, sedangkan total biaya pembelian berdasarkan hasil FIS adalah sebesar Rp 40.007.800,00 Dengan melakukan prosedur-prosedur diatas maka pihak pengelola Laboratorium juga dapat menerapkan metode ini dalam operasionalnya.",
+  "creators": "ERI SUSANTO",
+  "contributors": "I Nyoman Sutapa (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 523/TI-004/2002; Eri Susanto (25493100)",
+  "subjects": "FUZZY LOGIC; DATA BASE MANAGEMENT"
+}

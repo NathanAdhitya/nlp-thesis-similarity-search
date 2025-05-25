@@ -1,0 +1,14 @@
+{
+  "id": "50331",
+  "title": "Optimasi eccentrically-braced frames (EBF) dengan metode metaheuristik",
+  "abstract": "Dalam menahan beban lateral gempa, terdapat beberapa sistem struktur bangunan yang dapat digunakan. Eccentrically-braced frames (EBF) adalah sistem penahan beban lateral yang terdiri atas struktur portal dan bracing baja. EBF memiliki kelebihan berupa kekakuan elastis dan daktilitas yang baik. Namun, mendesain EBF memiliki tantangan tersendiri karena banyaknya opsi profil baja dan konfigurasi bracing yang dapat digunakan. Oleh karena itu, metode metaheuristik dapat menjadi solusi dalam melakukan optimasi desain. Dalam penelitian ini, 3 algoritma metaheuristik yaitu particle swarm optimization (PSO), symbiotic organisms search (SOS) dan differential evolution (DE) digunakan untuk mengoptimasi desain EBF dalam 3 studi kasus, yaitu bangunan kantor 3, 6 dan 12 lantai. Optimasi ini dilakukan dengan batasan-batasan berdasarkan SNI 1726:2019, SNI 1729:2020, AISC 341-16 dan SNI 1727:2020, dan bertujuan untuk mendapatkan desain EBF yang paling ringan. Hasil penelitian menunjukkan bahwa algoritma PSO tidak dapat menyelesaikan permasalahan optimasi EBF, sedangkan SOS dan DE dapat menemukan desain EBF yang optimal untuk setiap studi kasus dengan memenuhi persyaratan yang ada. Selain itu, SOS menjadi algoritma dengan performa terbaik di antara ketiga algoritma yang digunakan.",
+  "creators": "DENALYN TANIST ISTIANTO; CHRISTIANA",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Hasan Santoso (Advisor 2); Wong Foek Tjong, S.T., M.T., Ph.D. (Examination Committee 1); Willy Husada, ST.,MT., Msc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012483/SIP/2021; Denalyn Tanist Istianto (B11170107), Christiana (B11170159)",
+  "subjects": "BUILDINGS--EARTHQUAKE EFFECTS; STEEL, STRUCTURAL--EARTHQUAKE EFFECTS"
+}

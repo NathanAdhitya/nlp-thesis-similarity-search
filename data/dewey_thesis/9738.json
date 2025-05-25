@@ -1,0 +1,14 @@
+{
+  "id": "9738",
+  "title": "Perancangan dan pembuatan access point management system berbasis web",
+  "abstract": "Dewasa ini perkembangan teknologi jaringan komputer telah mencapai tahap penggunaan wireless device. Dalam teknologi wireless tentu dikenal alat bernama access point. Dengan makin banyak pemakaian access point tentu diperlukan aplikasi untuk membantu administrator dalam melakukan tugasnya. Dalam Tugas Akhir ini dibuat aplikasi yang memiliki fitur untuk mengetahui user yang terhubung dengan sebuah access point dan juga mengetahui halaman halaman web yang diakses oleh user tersebut. Dalam aplikasi ini laporan tersebut dibuat dalam bentuk log dan juga grafik dengan bantuan software Round Robin Database (RRD) tool. Aplikasi ini juga memiliki fitur alert system untuk mengetahui keadaan masing masing access point. Berdasarkan hasil pengujian yang dilakukan, dengan aplikasi ini dapat diketahui user yang terhubung dengan masing masing access point, halaman-halaman web yang diakses oleh user, grafik penggunaan access point, grafik lalu lintas jaringan, history, pemberitahuan apabila terdapat access point yang mati serta dapat berinteraksi dengan user dalam hal pemberian informasi.",
+  "creators": "STEINLY SUWANTO PUTRA",
+  "contributors": "Kartika Gunadi (Advisor 1); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010710/INF/2008; Steinly Suwanto Putra (26404072)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); WEB SITES-DESIGN"
+}

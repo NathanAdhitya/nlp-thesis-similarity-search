@@ -1,0 +1,14 @@
+{
+  "id": "11527",
+  "title": "Simulasi shunt active power filter tiga fasa dengan metode instantaneous reactive power",
+  "abstract": "Pengoperasian peralatan beban non linear yang semakin banyak digunakan akan menimbulkan harmonisa pada sistem tenaga yang akhirnya akan berpengaruh pada kualitas daya listrik. Harmonisa pada sistem tenaga ini dapat diatasi dengan menggunakan shunt active power filter. Shunt active power filter adalah current controlled voltage source inverter ( CC-VSI ) tiga fasa yang dipasang paralel pada Point of Common Coupling (PCC). Arus referensi diperoleh dengan mendeteksi arus beban dan diproses dengan menggunakan metode instantaneous reactive power yang dimodifikasi dari instantaneous reactive power oleh Akagi. Hasil yang diinginkan adalah arus grid yang sinusoidal. Dalam tugas akhir ini, dilakukan pembuatan simulasi Shunt Active Power Filter Tiga Fasa dengan metode Instantaneous Reactive Power menggunakan PSIM 6.1. Dari hasil perhitungan manual, % arus THD dapat diturunkan dari sekitar 26,69 % - 111.2% menjadi sekitar 0.413% - 3.46%. Sedangkan dengan perhitungan simulasi blok THD, % arus THD dapat diturunkan dari sekitar 28.756% - 110.949% menjadi sekitar 9.489% - 11.597%. Hasil dari arus % THD setelah kompensasi ini berada dibawah standart IEEE dimana % arus THD yaitu 15%.",
+  "creators": "JESSLYN VERINA",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Limboto Limantara (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010606/ELK/2009; Jesslyn Verina (23405044)",
+  "subjects": "HARMONICS (ELECTRIC WAVES); ELECTRIC CIRCUITS; ELECTRIC NETWORKS; HARMONIC ANALYZERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "14975",
+  "title": "Simulasi control fotocopy dengan menggunakan komputer IBM PC",
+  "abstract": "Mesin fotocopy merupakan salah satu peralatan yang berkembang sangat cepat sekali dan mempunyai kemampuan dan keandalan semakin tinggi karena ditunjang oleh kemampuan mikroprosesor yang semakin bertambah. Tetapi pembuatan mesin fotocopy belurn dilakukan di dalam negeri karena belum ada orang yang dapat menciptakan mesin fotocopy yang mempunyai kemampuan lebih tinggi dari yang ada dalam pasaran. Hal ini mungkin disebabkan orang mengalami kesulitan mempelajari cara kerja dari mesin fotocopy. Oleh karena itu dalam tugas akhir ini dibuat simulasi kontrol fotocopy dan hasil proses kerja dari mesin fotcopy ini akan disimulasikan sehingga dapat mengerti dasar dari cara kerja mesin fotocopy dan diharapkan mesin fotocopy dapat dibuat di dalam negeri dengan kemampuan yang lebih baik. Bagian utama dari simulasi kontrol fotocopy ini menggunakan mikroprosesor 8088 yang terdapat di dalam komputer IBM PC. Selanjutnya untuk mensimulasikan proses kerja dari mesin fotocopy digunakan interface card yang menggunakan IC 8255 untuk menghubungkan komputer dengan tampilan LED. Tampilan LED tersebut digunakan untuk mensimulasikan urutan proses kerja dari mesin fotocopy dan berguna agar dapat mengetahui bagian mana dari mesin fotocopy yang sedang bekerja pada saat itu. Untuk menyalakan tampilan LED digunakan IC 555 sebagai clock, IC counter dan IC dekoder. Agar simulasi. ini dapat dijalankan diperlukan perangkat lunak untuk mengoperasikannya. Perangkat lunak yang dibuat dalam tugas akhir ini menjadi lebih mudah karena tampilan LED diatur oleh perangkat kerasnya. Simulasi kontrol fotocopy yang dibuat ini dapat menunjukkan urutan proses pemanasan dan proses copy. Proses copy yang disimulasikan meliputi proses copy untuk berbagai mode copy, jumlah copy lebih dari satu, ukuran kertas kecil, sedang dan besar. Pada pengujian simulasi kontrol fotocopy yang telah dibuat dapat dilihat urutan proses kerja dari mesin fotocopy yang meliputi proses pemanasan dan proses copy. Jadi simulasi kontrol fotocopy ini telah dapat berjalan dengan baik. Dengan adanya simulasi kontrol fotocopy ini diharapkan orang yang sebelumnya tidak mengerti proses kerja dari mesin fotocopy menjadi mengerti dasar dan cara kerja mesin fotocopy.",
+  "creators": "ANDREAS POENTOADJI",
+  "contributors": "SOETIKNO (Advisor 1); MOCHAMAD HEROE (Examination Committee 1); Yohanes Trilaksono Dibyo S. (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No 90/E/EL/007/0047; Andreas Poentoadji (484005)",
+  "subjects": "DIGITAL COMPUTER SIMULATION"
+}

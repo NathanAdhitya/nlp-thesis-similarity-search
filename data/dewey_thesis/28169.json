@@ -1,0 +1,14 @@
+{
+  "id": "28169",
+  "title": "Pembuatan Inverter untuk mengatur kecepatan motor asinkrun 1 phasa 1/3 HP,127 Volt",
+  "abstract": "Pengaturan kecepatan motor induksi dengan merubah frekwensi suplai ahkir-akhir ini mulai dikembangkan sejalan dengan ditemukannya komponen-komponen elektronika yang semakin murah dan praktis serta semakin banyak fungsifungsi yang dapat diimplementasikan dalam satu chip, khususnya komponen-komponen digital, serta komponenkomponen power electronic dengan daya yang semakin besar, mengingat pengoperasian dan perawatan motor induksi relatif lebih mudah serta ratio berat/daya yang lebih kecil dibandingkan dengan motor dc yang banyak digunakan sebelumnya. Secara teori, kecepatan motor induksi ditentukan oleh frekwensi suplainya. Tetapi untuk memperoleh karakteristik torsi yang baik, diperlukan pengaturan tegangan suplai yang mengikuti perubahan frekwensinya, yang relatif lebih sulit bila dibandingkan dengan pengaturan motor dc yang hanya mengatur arus eksitasinya saja.M etode yang digunakan untuk merubah frekwensi adalah membentuk tegangan arus bolak-balik dari tegangan arus searah dengan sistem Pulse Width Modulation dengan frekwensi yang berbeda-beda. Pola dari sinyal PWH ditentukan sebelumnya dan disimpan dalam memori (EPROM). Sedangkan variable frekwensi diperoleh dari rangkaian oscilator.",
+  "creators": "Ferry Arifin",
+  "contributors": "SUSILO MATAIR (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 88/E/TST/003; Ferry Arifin (482043)",
+  "subjects": "ELECTRIC INVERTERS; ELECTRIC MOTORS, INDUCTION"
+}

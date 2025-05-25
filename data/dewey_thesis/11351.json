@@ -1,0 +1,14 @@
+{
+  "id": "11351",
+  "title": "Perencanaan dan pembuatan soft start motor asinkron (3 HP, 3 PH, 220/380 V, 50 HZ, 1500 RPM) dengan menggunakan microcontroller MCS-51",
+  "abstract": "Seiring dengan semakin berkembangnya industri di Indonesia, kebutuhan akan adanya peralatan penunjang industri juga akan meningkat. Salah satunya adalah penggunaan motor-motor listrik, terutama motor asinkron. Penggunaan motor asinkron secara meluas antara lain disebabkan harganya relatif murah dan tidak memerlukan banyak pemeliharaan. Pada saat motor asinkron distart akan mengalir arus yang relatif sangat besar dibandingkan dengan arus nominalnya. Arus start dapat mencapai 6-7 kali arus nominal. Arus start yang besar ini dapat mengakibatkan turunnya tegangan jala-jala. Keadaan ini dapat diatasi dengan cara meredam arus start. Peredaman arus start ini dapat dilakukan dengan cara hubungan start-delta dan cara kedua dengan menggunakan transformer. Sehubungan dengan telah ditemukannya komponen-komponen seperti TRIAC dan SCR, maka starting yang halus dapat dilakukan dengan cara mentrigger TRIAC. Dalam hal ini digunakan Microcontroller MCS-51 sebagai pengendali sudut pentriggeran.",
+  "creators": "AGOES KOSWADI",
+  "contributors": "BUNAWI GUNAWIDJAJA (Advisor 1); IRWAN SAHLI (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/TST/017/0144; Agoes Koswadi (23489018)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; MICROCONTROLLER MCS-51"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "43216",
+  "title": "Aplikasi mobile pemetaan pengunjung Museum Trowulan berbasis bluetooth indoor positioning system menggunakan metode trilateration",
+  "abstract": "Indoor Positioning System (IPS) merupakan metode alternatif dari Global Positioning System (GPS) dalam navigasi dan pelacakan pengguna ketika di dalam gedung atau tempat tertutup. Dengan IPS dapat tercipta aplikasi yang berfungsi sebagai tour guide untuk “Museum Trowulan”, di mana pengunjung museum selaku pengguna mampu diberi informasi multimedia dari objek terdekat. Metode kalkulasi yang digunakan adalah dengan menggunakan trilateration serta menggunakan kalman filter untuk smoothing sinyal. Dengan penelitian ini diharapkan peningkatan pengalaman berkunjung museum yang lebih interaktif. Untuk mewujudkan IPS pada museum digunakan Bluetooth Low Energy (BLE) Beacon untuk memancarkan sinyal yang dapat diterima pengguna museum lewat smartphone. Dari sinyal yang diterima dapat dikalkulasi posisi pengguna, yang kemudian sistem dapat menunjukkan barang terdekat dengan menurunkan jarak dari posisi pengguna dengan tiap barang. Setelah itu data posisi pengguna dapat dianalisa oleh pengelola museum. Hasil pengujian menunjukkan peletakan beacon dan waktu untuk kalman filter mempengaruhi kekuatan hasil kalkulasi. Semakin kecil zona yang tercipta dengan menggunakan 3 beacon dapat tercipta kalkulasi dengan jarak error yang makin rendah. Hasil dari kalkulasi beacon juga dapat dilihat pada aplikasi web dalam bentuk heatmap dan grafik volume yang dikategorikan dalam jenis kelamin dan usia. Penelitian ini dapat dikembangkan dengan peningkatan akurasi kalman filter dengan pengukuran noise.",
+  "creators": "JONATHAN KURNIA ANGGITA",
+  "contributors": "Andreas Handojo (Advisor 1); Resmana Lim (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021854/INF/2019; Jonathan Kurnia Anggita (26415009)",
+  "subjects": "WIRELESS COMMUNICATION SYSTEMS; KALMAN FILTERING; BLUETOOTH TECHNOLOGY"
+}

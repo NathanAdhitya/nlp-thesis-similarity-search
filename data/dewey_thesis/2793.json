@@ -1,0 +1,14 @@
+{
+  "id": "2793",
+  "title": "Perancangan mobile robot pencari sumber bau dengan menggunakan Taguchi Gas Sensor (TGS)",
+  "abstract": "Perkembangan sensor yang semakin maju menghasilkan adanya suatu sensor yang memiliki kemampuan seperti indera penciuman (hidung) pada manusia. Dengan adanya kemampuan ini membuka peluang dunia robotik untuk dapat menggunakan dan mengaplikasikannya khususnya untuk kepentingan keuntungan umat manusia. Sebuah robot dapat mengetahui adanya suatu bau dan dapat mencari sumber bau tersebut melalui perbedaan gradien konsentrasi bau. Hal iini merupakan tujuan pembuatan Tugas Akhir ini. Dalam perancangannya, Tugas Akhir ini berupa mobile robot menggunakan roda sebagai sistem gerak, mikrokontroler sebagai pengontrol dari sistem ini dan juga digunakan sensor gas dengan model Taguchi Gas Sensor (TGS) tipe TGS 2600 produk dari Figaro Inc. Dari hasil pengujian didapatkan bahwa sensor ini memiliki respon terhadap keberadaan suatu zat yang relatif cepat yaitu sekitar 4-6 detik dan memiliki respon terhadap penurunan konsentrasi yang relatif lamban yaitu sekitar 7 0 -81 detik. Oleh karena itu, penggunaan sensor ini untuk keperluan suatu mobile robot untuk mencari suatu sumber bau yang memerlukan adanya respon yang cepat terhadap perubahan konsentrasi kurang begitu efektif.",
+  "creators": "PETER YOHANSON",
+  "contributors": "Anies Hannawati (Advisor 1); Lauw Lim Un Tung (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/613/ELK/2003; Peter Yohanson (23498112)",
+  "subjects": "ROBOTS; ROBOTICS"
+}

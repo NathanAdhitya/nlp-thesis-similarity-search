@@ -1,0 +1,14 @@
+{
+  "id": "33728",
+  "title": "Perancangan aplikasi client server untuk sistem informasi inventori studi kasus di toko bangunan Santoso",
+  "abstract": "Toko Bangunan Santoso dan cabangnya adalah toko yang menjual berbagai macam kebutuhan bahan bangunan. Pada saat ini pencatatan order kepada supplier sering tidak tercatat sehingga menyulitkan pemilik untuk mengetahui apa yang dipesan saat barang datang. Berdasarkan latar belakang permasalahan itu, penulis merancang sistem informasi inventori untuk perusahaan tersebut, yang bisa diakses dari toko cabang. Sistem yang dirancang penulis yaitu sistem penjualan, pembelian, pencatatan stok, dan menampilkan laporan. Pembuatan aplikasi ini menggunakan Visual Basic 2010 sebagai bahasa pemrograman, SQL Server 2008 R2 sebagai databasenya, Mikrotik RouterOs sebagai server virtual private network. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, sistem informasi inventori yang dapat membuat dan menampilkan berbagai macam laporan. Laporan ini berguna untuk membantu melihat transaksi-transaksi yang terjadi dalam periode tertentu, toko cabang dapat terhubung dengan jaringan toko pusat dan dapat menggunakan aplikasi tersebut. Dari beberapa hal tersebut dapat disimpulkan bahwa aplikasi ini sudah dapat menghasilkan laporan yang diinginkan, dan dapat melakukan pencatatan data secara baik sehingga berguna dalam menangani permasalahan pencatatan pada Toko bangunan Santoso.",
+  "creators": "YONGKY HERMAWAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Ibnu Gunawan (Advisor 2); Herri Christian Palit (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021371/INF/2015; Yongky Hermawan (26410030)",
+  "subjects": "INFORMATION SYSTEM; DATABASE DESIGN; CLIENT / SERVER COMPUTING; DATABASE MANAGEMENT"
+}

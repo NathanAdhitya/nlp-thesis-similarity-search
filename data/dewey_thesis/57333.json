@@ -1,0 +1,14 @@
+{
+  "id": "57333",
+  "title": "Sistem rekomendasi wisata di Indonesia dengan menggunakan metode LightFM pada agen travel ABC",
+  "abstract": "Seiring berkembangnya zaman yang serba digital, masyarakat menggunakan internet atau sosial media untuk mencari informasi. Demikian juga dengan informasi mengenai objek pariwisata. Umumnya, informasi yang muncul lebih dulu adalah objek wisata terbaru atau sedang tren. Hal ini menyebabkan banyak orang berkunjung ke tempat tersebut meskipun belum tentu sesuai dengan preferensi masing-masing. Oleh karena itu, diusulkan sebuah sistem rekomendasi wisata yang dapat mendukung pengalaman para wisatawan. Sama seperti Agen Travel ABC, sistem ini juga berusaha memberikan rekomendasi tempat wisata sesuai dengan preferensi tamu. Sistem rekomendasi ini dibuat menggunakan metode LightFM. Data yang digunakan berasal dari website Kaggle dan juga hasil scrapping website Tripadvisor. Pengujian dilakukan dengan menggunakan metode Precision@k dan MRR. Hasil pengujian Collaborative filtering dengan metode Precision@k menghasilkan angka 0.9 untuk train dan 0.02 untuk test, sedangkan metode MRR menghasilkan angka 0.9 untuk train dan 0.08 untuk test. Berikutnya, metode pengujian hybrid filtering dengan menambahkan features untuk model dengan metode precision@k menghasilkan angka 0.05 untuk train dan 0.01 untuk test. Pada pengujian MRR diperoleh hasil 0.12 untuk train dan 0.05 untuk test.",
+  "creators": "EUNIKE JEANNYFER CAROLINE",
+  "contributors": "Andreas Handojo (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Silvia Rostianingsih (Examination Committee 1); Yulia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022344/INF/2023; Eunike Jeannyfer Caroline (C14190082)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; RECOMMENDER SYSTEMS (INFORMATION FILTERING); PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

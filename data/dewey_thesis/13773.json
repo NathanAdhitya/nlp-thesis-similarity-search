@@ -1,0 +1,14 @@
+{
+  "id": "13773",
+  "title": "Perencanaan dan pembuatan programmable timer multi channel dengan menggunakan mikroprosesor 8088",
+  "abstract": "Salah satu bentuk pemanfaatan dari kemajuan teknologi mikroprosesor adalah untuk otomatisasi dan mengontrol suatu sistem yang memerlukan ketepatan. Pada tugas akhir ini dibuat minimum sistem dengan menggunakan mikroprosesor 8088 yang dihubungkan dengan optocopler (relay) untuk menggerakkan beban. Beban disini berupa peralatan elektronik. Jadi peralatan elektronik tersebut waktu on-off nya dapat diatur dengan mengeset waktunya. Untuk mengeset waktu yang diinginkan digunakan keypad dan display sebagai perantara. Peralatan kontrol waktu kerja dengan prosesor 8088 yang dibuat pada tugas akhir ini mempunyai empat saluran yang masing-masing dapat diprogram sendiri-sendiri. Dari hasil studi ini dapat disimpulkan bahwa dengan mengisi data waktu pada Ram, maka ketepatan waktu tiap saluran yang diinginkan benar-benar tepat. Untuk tiap saluran beban maksimum yang dapat diterima adalah sebesar 2640 Watt.",
+  "creators": "BUDIONO MARGONO",
+  "contributors": "AGUS MULYANTO (Advisor 1); Daniel Indarto Prajogo (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.93/E/EL/020/0141; Budiono Margono (23484077)",
+  "subjects": "MICROPROSSESORS-PROGRAMMING"
+}

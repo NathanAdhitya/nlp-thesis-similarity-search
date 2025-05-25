@@ -1,0 +1,14 @@
+{
+  "id": "55855",
+  "title": "Penerapan metode modified-partial capacity design (M-PCD) pada bangunan persegi 6 lantai dan 10 lantai dengan variasi penempatan kolom elastis 50% dan faktor modifikasi R = 1",
+  "abstract": "Modified-Partial Capacity Design merupakan sebuah alternatif metode desain untuk mendesain struktur tahan gempa. Pada metode ini, mekanisme keruntuhan terburuk yang diperbolehkan terjadi adalah partial side sway mechanism. Proses desain balok dan kolom dapat didesain secara bersamaan untuk efisiensi waktu. Metode M-PCD ini membagi kolom menjadi dua tipe, yaitu kolom elastis yang didesain mampu bertahan ketika gempa besar datang dan kolom plastis yang didesain mampu bertahan ketika gempa kecil datang sehingga proses desain menggunakan dua model. Model pertama merupakan model saat gempa kecil datang menggunakan Faktor modifikasi respons R = 8, sedangkan model kedua merupakan model saat terjadi gempa besar dengan selisih faktor modifikasi R=1 dan R=8. Dalam proses desain, balok dan kolom plastis didesain menggunakan model pertama, sedangkan kolom elastis didesain menggunakan model pertama dan kedua. Pengujian struktur menggunakan analisis non-linear static procedure (NSP) atau pushover dan analisis nonlinear dynamic procedure (NDP) atau time history pada dua level gempa (EDRS dan MCER). Dengan menggunakan metode M-PCD ini ditemukan bahwa metode ini menghasilkan performa yang cukup baik pada gempa EDRS, sedangkan pada gempa MCER lantai performa yang dihasilkan kurang memuaskan, terutama pada pengujian non-linear static procedure (NSP) di mana performance point beberapa bangunan tidak dapat diidentifikasi yang diduga akibat kolom yang didesain memiliki capacity ratio mendekati batas izin.",
+  "creators": "KARINA FIOLA ANGGARA; FELICIA LIEM",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Benjamin Lumantarna (Advisor 2); Jimmy Chandra (Examination Committee 1); Joko Purnomo S.T., M.Sc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012648/SIP/2023; Karina Fiola Anggara (B11190051), Felicia Liem (B11190176)",
+  "subjects": "BUILDINGS, REINFORCED CONCRETE; COLUMS, CONCRETE; CONCRETE CONSTRUCTION; BUILDINGS, REINFORCED CONCRETE-EARTHQUAKE EFFECTS"
+}

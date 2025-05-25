@@ -1,0 +1,14 @@
+{
+  "id": "49840",
+  "title": "Efisiensi alokasi material dan notifikasi vendor dengan shipping notification: studi kasus",
+  "abstract": "Keterlambatan pengiriman material pada sebuah perusahaan manufaktur menyebabkan masalah di lini produksi. Akibatnya perusahaan perlu untuk menyesuaikan penjadwalan pada lini produksi, hingga material yang dibutuhkan tersedia. Departemen Purchasing harus menotifikasi vendor yang pengirimannya terlambat berdasarkan notifikasi pengiriman untuk meminimalkan biaya. Penelitian ini bertujuan untuk menyusun metode alokasi material dan pengelompokan vendor, untuk menotifikasi vendor tentang pengiriman material. Penulis memulai dengan mengambil data dari SAP dan membersihkan data, lalu membangun algoritme menggunakan Python untuk membuat sebuah shipping notification. Terakhir, penulis menampilkan hasilnya dalam dashboard yang dibuat menggunakan Power BI. Sebagai hasil dari penelitian ini, penulis memiliki dua kelompok alokasi material: metode high quantity dan high values. Selain itu, penulis juga mengelompokkan purchase order (PO) sebagai PO yang bebas masalah dan PO yang bermasalah. Berdasarkan kedua pengelompokan dalam alokasi material dan PO; penulis mengklasifikasikan job sebagai job dengan material yang dibutuhkan lengkap (Job OK), job dengan material yang dibutuhkan tidak lengkap (Job Not OK), dan job yang materialnya dalam perjalanan dan vendor dapat dinotifikasi untuk mempercepat pengirimannya (Job Maybe OK). Klasifikasi ini membantu Departemen Purchasing dalam mengirimkan notifikasi pembelian ke vendor yang berpotensi mengalami keterlambatan pengiriman material.",
+  "creators": "RIYYAN ADIPUTRA SABAR KRISTIANTO",
+  "contributors": "Siana Halim (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022392/IND/2021; Riyyan Adiputra Sabar Kristianto (C13170073)",
+  "subjects": "PRODUCTION MANAGEMENT; PRODUCTION PLANNING; INDUSTRIAL PROCUREMENT--MANAGEMENT; INDUSTRIAL PROCUREMENT"
+}

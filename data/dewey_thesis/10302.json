@@ -1,0 +1,14 @@
+{
+  "id": "10302",
+  "title": "Simulasi dan analisa penggunaan induktor pembatas arus pada aplikasi kapasitor bank",
+  "abstract": "Semakin berkembangnya jumlah konsumen yang menggunakan listrik, maka perlu adanya peningkatan kualitas tegangan listrik agar tegangan listrik yang tersalur ke konsumen bisa terjaga. Namun pada kenyataannya jika jarak penyaluran listrik terlalu jauh maka tegangannya akan menjadi turun, untuk itu dibutuhkan kapasitor untuk menaikkan tegangan. Untuk melindungi kapasitor dari arus yang tinggi digunakan induktor pembatas arus yang berfungsi membatasi arus jika terjadi fault pada kapasitor. Pada gardu induk di Tuban terjadi penurunan tegangan 3 kV akibat jauhnya lokasi gardu dengan sumber yaitu gardu induk Babat. Untuk mengatasi hal tersebut maka di gardu induk Tuban dipasang 4 unit kapasitor seri yang per unitnya terpasang 48 kapasitor dengan satu kapasitor 14.5 ?f. Untuk melindungi kapasitornya dipasang induktor (reaktor) pada masing-masing unit kapasitor dengan kapasitas rated impedance 0.104 \u0001. Dari hasil simulasi dengan menggunakan Matlab Simulink 7.1 Simpowersystem didapatkan bahwa penambahan kapasitor dapat menaikkan tegangan pada gardu induk di Tuban per unitnya 2 kV, penggunaan induktor sebagai pembatas arus pada kapasitor yang terkena single line to ground fault dapat mengurangi arus gangguan di kapasitor dan circuit breaker sebesar 70,71 Ampere, serta dapat mengurangi arus transient pada kapasitor akibat gangguan satu fasa ke tanah dari nilai negatif dengan peak 4,2 x 1010 Ampere menjadi 6.200 Ampere.",
+  "creators": "SANDY NURDI",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010589/ELK/2008; Sandy Nurdi (23402015)",
+  "subjects": "CAPACITOR BANKS"
+}

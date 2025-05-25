@@ -1,0 +1,14 @@
+{
+  "id": "57272",
+  "title": "Mendeteksi hate speech pada dataset media sosial Woilo dengan menggunakan penerapan metode lexicon based dan machine learning",
+  "abstract": "Dalam era globalisasi saat ini, social media memiliki pengaruh yang sangat besar bagi banyak orang. Social media memberikan dampak positif yang signifikan, namun juga menyebabkan dampak negatif seperti ujaran kebencian. Penelitian ini bertujuan untuk mendeteksi adanya ujaran kebencian di platform social media Indonesia yang disebut Woilo. Metode yang digunakan dalam penelitian ini meliputi sentimen analisis berbasis lexicon, PU-learning, dan machine learning. Data yang ada akan melalui proses klasifikasi menggunakan algoritma Support Vector Machine dan Random Forest untuk membangun model terbaik. Model ini akan disimpan dan diimplementasikan dalam aplikasi Woilo. Tujuan utama penelitian ini adalah untuk memberikan solusi dalam mengidentifikasi dan mengatasi ujaran kebencian di platform social media Woilo dengan menggunakan pendekatan analisis sentimen dan teknik pembelajaran mesin. Dalam penelitian ini didapatkan algoritma terbaik untuk model Hate Speech yaitu Support Vector Machine dengan hasil akurasi sebesar 98.6%, presisi sebesar 92.9%, dan recall sebesar 60.2% dibandingkan dengan algoritma Random Forest yang memiliki hasil akurasi sebesar 98.5%, presisi sebesar 96.0%, dan recall sebesar 55.6%.",
+  "creators": "MICHAEL FRANCESCO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Hans Juwiantho S.Kom., M.Kom (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022319/INF/2023; Michael Francesco (C14190140)",
+  "subjects": "MACHINE LEARNING; PROGRAMMING (ELECTRONIC COMPUTERS); SUPPORT VECTOR MACHINES"
+}

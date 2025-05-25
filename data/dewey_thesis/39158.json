@@ -1,0 +1,14 @@
+{
+  "id": "39158",
+  "title": "Pembuatan prototype sistem otomasi rumah memanfaatkan beaglebone black dan perangkat mobile",
+  "abstract": "Otomasi dan perangkat mobile adalah salah satu bidang teknologi yang cukup berkembang hingga saat ini. Salah satu perkembangan tersebut adalah dalam bidang otomasi rumah tangga yang dapat dikontrol melalui perangkat mobile untuk membantu manusia dalam melakukan pekerjaan rumah tangga sehari-hari. Dalam sistem ini, BeagleBone Black dikonfigurasi menjadi server yang melakukan komunikasi dengan perangkat mobile. Perangkat mobile ini bertindak sebagai interface kepada pengguna melalui koneksi Internet. BeagleBone Black juga menjadi kontroler dari aktuator-aktuator dan sensor-sensor yang ada di dalam sistem, dan berfungsi sebagai server dari XiaoYi IP camera. Semua sensor dan aktuator terhubung kepada BeagleBone Black, yang tediri dari 3 buah sensor proximity, 2 buah motor DC, 3 buah lampu, dan 3 buah universal relay. Dari hasil pengujian, diperlukan adanya rangkaian voltage level converter untuk menyesuaikan daya BeagleBone Black dengan perangkat keras lainnnya dan didapatkan delay pada streaming video yang di broadcast oleh BeagleBone Black dikarenakan proses pengolahan video dan untuk pesan perintah didapatkan delay kurang dari 0.5s.",
+  "creators": "BRIANTONO PRYANA",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010132/ELK/2017; Briantono Pryana (23412026)",
+  "subjects": "PROTOTYPES, ENGINEERING; HOME AUTOMATION"
+}

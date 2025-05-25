@@ -1,0 +1,14 @@
+{
+  "id": "57344",
+  "title": "Perancangan dan pembuatan aplikasi chatting berbasis android pada PT XYZ",
+  "abstract": "Seiring dengan perkembangan teknologi, penerimaan dan penyebaran informasi juga mengalami kemajuan yang pesat. Perkembangan ini memungkinkan manusia untuk mengakses, menyimpan, mengorganisasi, dan memanipulasi informasi dalam jumlah yang besar apabila dibandingkan dengan teknologi yang ada pada zaman dahulu. Untuk memanfaatkan perkembangan ini, banyak pihak/organisasi yang membuat aplikasi berbasis komputer untuk mengelola, membagikan, dan memfilter informasi. Salah satu pemanfaatan dari teknologi ini adalah melalui pembuatan aplikasi yang dapat memberikan atau menyediakan servis untuk mengirim pesan, menerima atau menarik informasi dari suatu pusat/server dengan relatif mudah, dan melakukan penyimpanan data di perangkat pengguna. Tujuan dari skripsi ini adalah menghasilkan aplikasi yang mampu memberikan/menyediakan service chatting, pembuatan dan penyebaran broadcast, pembuatan laporan digital, serta kemampuan bagi pengelolah aplikasi untuk memanipulasi plugin dan atau konten apa saja yang ada di dalam ranah aplikasi yang bersangkutan. Untuk mencapai tujuan tersebut, aplikasi akan dibagi menjadi 3 bagian, dimana bagian Frontend akan dibuat menggunakan Flutter, bagian backend akan dibuat menggunakan Go, bagian penyimpanan data di server akan menggunakan MariaDB sebagai Database Engine. Lalu untuk hosting API sendiri akan dilakukan dalam server Linux Debian Bullseye. Hasil akhir yang diperoleh dari pengerjaan Skripsi ini adalah aplikasi yang mampu memberikan/menyediakan service chatting, pembuatan dan penyebaran broadcast, pembuatan laporan digital, serta kemampuan bagi pengelolah aplikasi untuk memanipulasi plugin dan atau konten apa saja yang ada di dalam ranah aplikasi yang bersangkutan. Berdasarkan kuisioner yang dilakukan, didapat hasil yang menunjukkan kecenderungan netral hingga positif terhadap aplikasi secara keseluruhan.",
+  "creators": "ANDY",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Agustinus Noertjahyana (Advisor 2); Kartika Gunadi (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022299/INF/2023; Andy (C14190103)",
+  "subjects": "ANDROID (ELECTRONIC RESOURCE)--PROGRAMMING; INTERNET (COMPUTER NETWORKS); DATABASE DESIGN--COMPUTER PROGRAMS"
+}

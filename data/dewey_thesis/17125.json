@@ -1,0 +1,14 @@
+{
+  "id": "17125",
+  "title": "Perancangan dan pembuatan sistem aplikasi community building pada perpustakaan kota Surabaya",
+  "abstract": "Sistem informasi yang dimiliki oleh Perpustakaan Kota Surabaya masih berbasis lokal, dalam tingkat perpustakaan kota saja, tidak berbasis web sehingga tidak dapat diakses dari luar. Penyampaian info dan news masih dengan sistem sms broadcast message ke anggota ? anggota perpustakaan. Untuk itu perlu dibuatkan suatu sistem aplikasi Community Building. Sistem aplikasi Community Building ini dibuat dengan menggunakan PHP dan MySQL. Coding program menggunakan sarana software notepad++. Program yang dibuat meliputi katalog online untuk menampilkan semua koleksi buku-buku, proses registrasi anggota secara online, menampilkan daftar buku baru, forum sebagai tempat untuk saling berkomunikasi antar anggota. Sistem aplikasi Community Building ini berbasis web, yang memiliki dua bagian, halaman admin dan halaman user. Halaman admin adalah halaman khusus bagi admin web untuk mengelola segala bagian dalam web. Halaman user adalah halaman web yang dapat diakses oleh semua pengguna internet. Dari hasil implementasi yang didapat serta uji coba dalam bentuk kuisioner disimpulkan bahwa penggunaan website di Perpustakaan Kota Surabaya sangat bermanfaat.",
+  "creators": "MELINDA HARIS",
+  "contributors": "Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020904/INF/2010; Melinda Haris (26406012)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

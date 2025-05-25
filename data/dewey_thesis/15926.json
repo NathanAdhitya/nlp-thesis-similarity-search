@@ -1,0 +1,14 @@
+{
+  "id": "15926",
+  "title": "Penjadualan mesin paralel dengan metode dinamis fun (fuzzy-neuro) di PT Supra Aspindo Jaya",
+  "abstract": "Penjadualan produksi mempunyai peranan yang penting di dalam industri manufaktur karena pemenuhan permintaan pasar haruslah tepat waktu, jika tidak ingin digeser oleh merk lain. Penjadualan bertujuan meningkatkan keuntungan perusahaan. Selama ini pihak perusahaan tidak menggunakan salah satu dari teori penjadualan, hanya berdasarkan pengalaman yang tidak dipengaruhi oleh banyak input. Jadi untuk pemecahan masalah ditawarkan metode penjadualan yang cocok menghadapi masalah diatas, yaitu metode FUN (Fuzzy-Neuro) yang merupakan gabungan dari dua Computational Intellegence Fuzzy Inference System dan Neural Network. Fuzzy Inference System dipakai sebagai kontrol karena dapat mengemulsikan cara berpikir manusia dalam mengambil keputusan dengan bantuan parameter-parameter seperti fungsi keanggotaan dan aturan-aturannya. Dan bagian yang lain yaitu neural-network yang mengadopsikan jaringan saraf manusia yang dapat melakukan proses belajar , bagian inilah yang menyebabkan fuzzy inference system menjadi lebih dinamis karena lebih beradaptasi dengan kenyataan lapangan dengan kemungkinan breakdown mesin, setup ulang, human error, dll. Gabungan dari fuzzy neuro ini dikenal dengan metode ANFIS (Adaptive Neuro-Fuzzy Inference System). Penggunaan metode dinamis FUN untuk penjadualan produksi adalah cocok karena hasil yang diharapkan tidak memerlukan kepresisian yang tinggi dan batasan-batasan keanggotaan input dan output juga tidak tegas, ini yang menjadi keunggulan metode FUN terutama Fuzz}- Inference System. Hasil output jumlah produksi yang didapat dari metode ANFIS yang diterapkan pada penjadualan produksi di P.T Supra Aspindo Java cukup mendekati kenyataan lapangan, hal ini terlihat dari perbandingan antara data nyata dengan hasil prediksi yang sudah mendekati.",
+  "creators": "JENZ GHAN",
+  "contributors": "I Nyoman Sutapa (Advisor 1); Siana Halim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 253/TI-79/1999; Jenz Ghan (25495012)",
+  "subjects": "PRODUCTION PLANNING; SCHEDULING"
+}

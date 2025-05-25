@@ -1,0 +1,14 @@
+{
+  "id": "22344",
+  "title": "Interface untuk motor penggerak simulator matahari di Lab. Sains dan Lingkungan UK Petra",
+  "abstract": "Salah satu fungsi dari Laboratorium Sains dan Lingkungan di Universitas Kristen Petra adalah untuk me1ihat dan menguji hasil perencanaan suatu bangunan terhadap pengaruh sudut datang dari matahari. Untuk itu diperlukan sebuah alat yang dapat menirukan gerak semu matahari yang dapat diprogram. Komponen elektronik yang saat ini paling banyak digunakan untuk sistem kontrol yang dapat diprogram adalah mikroproccessor. Untuk dapat berhubungan dengan dunia luarnya, maka mikroproccessor membutuhkan sebuah interface.Sistem kontrol Simulator Matahari ini adalah sistem kontrol posisi tiga buah motor induksi 3-phase dengan umpan balik rotary encoder. Motor induksi 3-phase yang digunakan ini harus dapat diatur kecepatannya, dibalik arah putarannya serta dapat dihentikan secara mendadak oleh sistem kontro1.interface ini meliputi pembuatan Inverter PWM dimana pola sinyal PWM ini disimpan dalam memori (EPROM) dan frekwensi keluaran dari sinyal ini dikendalikan oleh sistem kontrol dengan jalan memberi kombinasi bit-bit untuk mengendalikan frekwensi rangkaian oscilator. Interface ini juga menerima bit-bit untuk mengaktifkan relay-relay ON/OFF motor, select motor dan brake motor. Rangkaian umpan balik ini akan mendekodekan pulsa-pulsa rotary encoder menjadi kombinasi pulsa digital 8-bit. Dan ini akan diberikan ke sistem kontrol pada saat motor berhenti untuk dibandingkan dengan input program.",
+  "creators": "TJANDRA LIBRAWAN",
+  "contributors": "HERLIANTO TENGGARA (Advisor 2); AGUS MULYANTO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 89/E/EL/019/0040; Tjandra Librawan (484098)",
+  "subjects": "ELECTRONIC DIGITAL COMPUTERS"
+}

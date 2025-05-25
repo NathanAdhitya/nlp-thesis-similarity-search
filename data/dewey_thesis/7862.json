@@ -1,0 +1,14 @@
+{
+  "id": "7862",
+  "title": "Perancangan dan penerapan question-answering system pada Alkitab digital berbahasa Indonesia dengan menggunakan natural language processing",
+  "abstract": "Dalam kehidupan umat kristiani, terkadang muncul pertanyaan mengenai Alkitab dan umat mengalami kesulitan untuk mencari jawaban secara cepat dan tepat, sehingga menghambat umat untuk mencari informasi yang dibutuhkan. Karena itu, dibutuhkan suatu perangkat lunak yang dapat membantu umat kristiani untuk mencari informasi yang dibutuhkan mengenai Alkitab. Perangkat lunak yang dibuat dalam Tugas Akhir ini merupakan salah satu bentuk Question-Answering System yang khusus dibuat untuk Alkitab digital berbahasa Indonesia. Algoritma perangkat lunak ini terdiri dari tiga proses, yaitu proses pembuatan pattern pertanyaan, proses pencarian kandidat jawaban, dan proses pembuatan pattern kandidat jawaban. Perangkat lunak ini didesain untuk menjawab pertanyaan seputar nama orang, lokasi, dan waktu. Perangkat lunak ini menampilkan ayat-ayat sebagai jawaban atas pertanyaan yang menjadi input. Perangkat lunak ini dibuat dengan mengambil sebagian besar metode Surface Text Patterns dan menggunakan Borland Delphi 7.0 dan Microsoft Access 2003. Hasil pengujian menunjukkan bahwa perangkat lunak dapat berjalan dengan baik hanya bila pattern pertanyaan dan jawaban sudah ada. Dari pengujian terhadap 15 pertanyaan yang berbeda, diketahui bahwa waktu proses bervariasi bergantung pada banyaknya pattern dan kandidat jawaban yang harus dianalisa.",
+  "creators": "STELLA AUGUST",
+  "contributors": "Rolly Intan (Advisor 1); Kartika Gunadi (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010567/INF/2006; Stella August (26403013)",
+  "subjects": "NATURAL LANGUAGE PROCESSING (COMPUTER SCIENCE)"
+}

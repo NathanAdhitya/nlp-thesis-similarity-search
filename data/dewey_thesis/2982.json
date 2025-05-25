@@ -1,0 +1,14 @@
+{
+  "id": "2982",
+  "title": "Aplikasi RFID pada sistem parkir prabayar dengan menggunakan MCS 51",
+  "abstract": "Sistem parkir yang berlaku saat ini masih bersifat manual dengan menggunakan karcis parkir sebagai bukti parkir kendaraan dan pembayaran biaya parkir kendaraan dilakukan secara tunai. Sistem parkir yang demikian memiliki kelemahan antara lain, kurangnya tingkat keamanan dan dapat menimbulkan praktek korupsi pada petugas parkir. Dari permasalahan tersebut, maka timbul ide untuk membuat suatu sistem parkir prabayar yang dapat mengidentifikasikan identitas pemilik kendaraan berupa nama, alamat, nomor pelat kendaraan dan jumlah uang. Metode yang digunakan adalah menggunakan RFID reader pada modul pintu masuk atau keluar untuk membaca tag yang terdapat pada kartu parkir, hasil pembacaan akan dikirimkan secara serial oleh mikrokontroler pada modul pintu masuk atau keluar untuk diidentifikasi oleh mikrokontroler pada modul server. Hasil identifikasi akan dikirimkan ke modul pintu masuk atau keluar untuk ditampilkan pada LCD. Bila tampilan pada LCD sesuai dengan STNK, maka kendaraan dapat memasuki atau keluar dari area parkir. Prototype sistem parkir prabayar ini menggunakan mikrokontroler AT89S52, mampu menyimpan 512 kartu parkir dan identitas pemilik kendaraan dengan menggunakan EEPROM 2864 dan 28256 dan dapat dikomunikasikan pada jarak sejauh 80 meter dengan menggunakan RS485. Sistem telah berjalan dengan baik, terbukti dengan dapat mengidentifikasi identitas pemilik kendaraan berupa nama, alamat, nomor pelat kendaraan dan jumlah uang.",
+  "creators": "KARTONO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010725/ELK/2005; Kartono (23499131)",
+  "subjects": "ELECTRONIC DIGITAL COMPUTERS; AUTOMATIC CONTROL; DIGITAL CONTROL SYSTEMS"
+}

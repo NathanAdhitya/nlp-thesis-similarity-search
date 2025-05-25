@@ -1,0 +1,14 @@
+{
+  "id": "19541",
+  "title": "Aplikasi maximum power point tracking (MPPT) tipe hill climbing untuk konversi energi photovoltaic",
+  "abstract": "Fluktuasi tingkat penyinaran matahari menyebabkan daya keluaran dari photovoltaic bervariasi. Karena itu di antara Photovoltaic dan beban dipasang suatu dc-dc konveter (Cuk Converter) yang didukung oleh pengatur Maximum Power Point Tracking (MPPT) agar terjadi transfer daya maksimum. Metode hill climbing digunakan sebagai rangkaian kontrol MPPT untuk menghasilkan tegangan referensi dari photovoltaic. Tugas akhir ini dikerjakan dengan simulasi komputer menggunakan program PSIM 6.1_network untuk rangkaian photovoltaic kemudian Simulink dan m-file Matlab 6.5.1 untuk rangkaian kontrol MPPT tipe Hill Climbing. Berdasarkan hasil simulasi sistem PV berhasil bekerja pada titik kerja yang menghasilkan daya maksimum. Perbandingan antara simulasi Hill Climbing dengan perhitungan manual hanya selisih 0.62%. Dengan demikian metode simulasi Hill Climbing dapat dipertanggungjawabkan tingkat akurasinya.",
+  "creators": "VALENDRO PUTRA PATANDUK",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Murtiyanto Santoso (Advisor 2); Julius Sentosa Setiadji (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010617/ELK/2010; Valendro Putra Patanduk (23406032)",
+  "subjects": "PHOTOVOLTAIC POWER SYSTEMS; SOLAR RADIATION; PHOTOVOLTAIC CELLS; SOLAR CELLS"
+}

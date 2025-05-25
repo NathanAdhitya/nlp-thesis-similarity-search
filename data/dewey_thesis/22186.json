@@ -1,0 +1,14 @@
+{
+  "id": "22186",
+  "title": "Pemrogram eprom dengan fasilitas fast mode programming hingga kapasitas 64K Byte",
+  "abstract": "Berkenbangnya penggunaan komputer pada segala bidang menuntut unjuk kerja dari komputer yang lebih tinggi antara lain memori yang lebih besar dan kecepatan access data yang tinggi pula. Ada dua jenis memori yaitu RAH (Random Access Memory) yang bersifat volatile, artinya data yang tersimpan padanya akan hilang, jika catu dayanya dilepas. Jenis yang kedua yaitu ROM (Read Only Memory) yang bersifat nonvolatile, artinya data yang ada padanya tidak akan hilang meskipun catu dayanya dilepas. Ada bermacam-macam ROM, salah satu diantaranya adalah EPROM (Erasable Programmable Read Only Memory) yang dapat diprogram sendiri oleh sipemakai dan bila sudah tidak diperlukan lagi datanya dapat dihapus dengan cara disinari dengan sinar ultraviolet yang memiliki panjang gelombang tertentu pada jendela transparannya. Alat untuk memrogram EPROM ini disebut EPROM programmer yang bila menggunakan cara pemrograman standard dibutuhkan waktu 50 ms untuk pemrograman satu lokasi alamat. Bila EPROM yang akan diprogram memiliki kapasitas yang besar, maka dibutuhkan waktu yang lama. Dengan fasilitas Fast Mode Programming pada EPROM programmer ini waktu pemrogramannya dapat dipercepat, yaitu dengan cara menaikkan sedikit tegangan catunya. Alat ini didisain untuk dapat bekerja sendiri dan dapat pula dihubungkan dengan komputer.",
+  "creators": "TJITROSUTARDJAN AGUNG",
+  "contributors": "HANDAYANI T. (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); MOCHAMAD HEROE (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 89/E/EL/009/0030; Tjitrosutardjan Agung (483016)",
+  "subjects": "ELECTRONIC DIGITAL COMPUTERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "50488",
+  "title": "Sistem rekomendasi game menggunakan metode item-based collaborative filtering berbasis website",
+  "abstract": "Item-based Collaborative Filtering merupakan metode yang biasa dipakai untuk sebuah Recommendation System yang didasari oleh item yang user kebanyakan pilih, karena dengan metode ini dapat merekomendasikan sesuai selera kebanyakan user yang memilih, dengan itu metode ini sangatlah efektif dalam waktu untuk merekomendasikan sebuah item berupa apapun. Penelitian ini menggabungkan antara Fuzzy Similarity, Item-based Collaborative Filtering, dan User-based untuk menghasilkan sebuah rekomendasi, dengan menghitung nilai similarity menggunakan Fuzzy Similarity dan User-based akan mempermudah mencari nilai kemiripan antar user yang ada untuk di proses lagi menggunakan metode Item-based Collaborative Filtering untuk rekomendasi yang cocok untuk user yang sedang menggunakan Website. Hasil dari penelitian ini adalah 10 Rekomendasi Game yang sesuai dengan implementasi dari Item-based Collaborative Filtering, Fuzzy Similarity, dan User-based yang mengambil dari orang yang paling mirip dengan menghitung nilai similarity antar user dan diambil game yang paling banyak dipilih oleh user-user ¬lain sehingga sistem rekomendasi nya bekerja, dan dari hasil survei mendapatkan bahwa orang yang mencoba masuk ke dalam website ini tidak merasa kebingungan akan User Interface yang ada, juga banyak user yang suka bermain game, dan menurut survei yang ada tingkat keakuratannya lumayan besar.",
+  "creators": "FERNANDO FEBRIANTO",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Rolly Intan (Advisor 2); Yulia (Examination Committee 1); Hans Juwiantho (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022053/INF/2021; Fernando Febrianto (C14170084)",
+  "subjects": "FUZZY ALGORITHMS; USER INTERFACES (COMPUTER SYSTEMS); GAMES--RESEARCH"
+}

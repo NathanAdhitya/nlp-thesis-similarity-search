@@ -1,0 +1,14 @@
+{
+  "id": "60906",
+  "title": "Robot lengan 4-axis penyortir warna menggunakan vision camera",
+  "abstract": "Program Making Indonesia 4.0 yang dibuat demi meningkatkan daya saing Indonesia di bidang industri berfokus pada peningkatan kualitas pendidikan sumber daya manusia. Oleh karena itu, laboratorium Elektronika Universitas Kristen Petra mempersiapkan sebuah modul pembelajaran bagi peserta didik. Pembelajaran ini berupa modul praktikum yang terkait dengan penggunaan Dobot Magician. Sistem yang akan dibuat berkaitan dengan pemanfaatan Dobot Magician dalam fungsi pemilahan objek berdasarkan warna dengan menggunakan Pixy2 sebagai vision camera. Sistem ini juga akan menggunakan Arduino Mega yang berfungsi untuk memproses informasi dari Pixy2 dan mengendalikan Dobot Magician. Pengujian dilakukan dengan beberapa bagian seperti pengujian pencahayaan, tuning, dan offset yang terjadi pada saat sistem dijalankan. Berdasarkan pengujian pencahayaan, cahaya yang paling efektif adalah warm white dengan nilai iluminasi 490 hingga 765 lux. Pada pengujian tuning didapati range yang dapat digunakan sangat dipengaruhi oleh jenis warna objek serta pencahayaan pada saat itu. Pengujian offset dilakukan dengan mengambil data perbedaan jarak dari end-effector ketika melakukan pengambilan objek dengan titik tengah objek berdasarkan lokasi objek. Berdasarkan hasil pengujian offset, sistem memiliki keberhasilan pengambilan benda sebesar 66.67%.",
+  "creators": "VIVIAN AURELIA",
+  "contributors": "Handry Khoswanto (Advisor 1); Thiang (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011063/ELK/2024; Vivian aurelia (C11200020)",
+  "subjects": "ARDUINO (PROGRAMMABLE CONTROLLER); ROBOT VISION; ROBOTICS"
+}

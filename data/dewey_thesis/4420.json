@@ -1,0 +1,14 @@
+{
+  "id": "4420",
+  "title": "Perancangan dan pembuatan prototype aplikasi sms untuk akses informasi anggota perusahaan multilevel",
+  "abstract": "Sistem perdagangan multilevel telah mengalami perkembangan pesat dan tidak dapat dipungkiri bahwa perdagangan multilevel menjadi sebuah alternatif pekerjaan tetap bagi sebagian orang untuk tetap bertahan dalam tingkat persaingan hidup yang ketat ini. Dengan memadukan teknologi telepon selular dan Short Message Service (SMS) dengan sistem perdagangan multilevel, maka dalam tugas akhir ini dibuat aplikasi untuk mengakses informasi-informasi keanggotaan sebuah perusahaan multilevel melalui SMS. Informasi-informasi yang dapat diakses antara lain informasi mengenai jumlah bonus, downline level pertama, harga produk, dan daftar produk. Sistem ini dibuat pada sebuah personal computer (PC) yang dihubungkan dengan sebuah telepon selular melalui kabel data serial. Setiap SMS yang masuk ke telepon selular diproses oleh sistem, dimana SMS yang diproses harus sesuai dengan format yang sudah distandartkan. Kemudian sistem akan mengirimkan SMS balasan kepada pengguna. Pengguna yang dapat menggunakan sistem ini harus terdaftar sebagai anggota. Sistem ini dibuat dengan menggunakan Borland Delphi 5.0. Format data yang mengalir antara sistem dan telepon selular dalam bentuk PDU (Protocol Data Unit). Program berjalan di bawah sistem operasi Windows XP Edition, dan sebuah telepon selular tipe Siemens C35 sebagai sarana penerima dan pengirim SMS. Dalam pengujian, sistem ini berhasil digunakan untuk mengirimkan permintaan pengguna dalam bentuk SMS secara otomatis.",
+  "creators": "HERYANTO",
+  "contributors": "Resmana Lim (Advisor 1); Silvia Rostianingsih (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000165/INF/2004; Heryanto (26499049)",
+  "subjects": "DIGITAL COMMUNICATION; DATA TRANSMISSION SYSTEMS"
+}

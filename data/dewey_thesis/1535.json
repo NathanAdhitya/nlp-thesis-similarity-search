@@ -1,0 +1,14 @@
+{
+  "id": "1535",
+  "title": "Perancangan peta kendali EWMV di PT Indo Acidatama",
+  "abstract": "Pengendalian kualitas proses produksi suatu produk merupakan bagian terpenting dari proses produksi. Hal ini berkaitan dengan usaha untuk meningkatkan efisiensi perusahaan. Salah satu cara pengendalian kualitas adalah mendeteksi pergeseran kualitas suatu produk sedini mungkin sebelum berakibat yang lebih fatal. Untuk perusahaan kimia dengan proses produksi yang kontinu, seperti PT. Indo Acidatama, pengendalian produksi dilakukan dengan peta kendali yang sesuai untuk proses produksi yang kontinu pula karena adanya data yang terautokorelasi. Peta kendali yang sesuai untuk data yang terautokorelasi adalah peta kendali Exponentially Weighted Moving Variance (EWMV). Pencarian batas-batas kendali EWMV diawali dengan peramalan data hasil pengujian kualitas dengan metode peramalan time series Box Jenkins. Selanjutnya dilakukan penghitungan nilai Exponentially Weighted Moving Average (EWMA). Nilai residual antara hasil peramalan dan hasil EWMA digunakan untuk menghitung nilai EWMV yang akan digunakan untuk mencari batas-batas kendali. Peta kendali EWMV yang telah diperoleh dicoba untuk diterapkan terhadap data-data baru dan dianalisa untuk mengetahui apakah proses produksi pada waktu itu sudah terkendali atau belum.",
+  "creators": "GM ANNO SAPTO HASTANTO",
+  "contributors": "Tanti Octavia (Advisor 1); Julianingsih (Advisor 2); I Gede Agus Widyadana (Examination Committee 1); Herri Christian Palit (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0659/IND/2003; GM Anno Sapto Hastanto (25497067)",
+  "subjects": "MANUFACTURING PROCESS-QUALITY CONTROL-STATISTICAL METHODS; QUALITY CONTROL-STATISTICAL METHODS"
+}

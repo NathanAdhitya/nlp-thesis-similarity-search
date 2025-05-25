@@ -1,0 +1,14 @@
+{
+  "id": "57855",
+  "title": "Optimasi penjadwalan proyek kantor PT X menggunakan konsep finance-based scheduling dan metode metaheuristik symbiotic organisms search",
+  "abstract": "Penjadwalan dan kesehatan kondisi keuangan sebuah perusahaan kontraktor merupakan dua faktor penting penentu keberhasilan sebuah proyek konstruksi. Konsep finance based scheduling memadukan antara penjadwalan proyek dan pendanaan yang diatur agar tidak terjadi pembengkakan biaya dan keterlambatan. Metode metaheuristik digunakan untuk membantu proses optimasi finance-based scheduling. Algoritma Symbiotic Organisms Search adalah metode metaheuristik yang digunakan untuk meminimalkan besarnya beban bunga pinjaman yang harus dibayarkan oleh kontraktor, sedangkan untuk tipe fungsi objektif yang digunakan adalah single objective. Studi kasus yang digunakan dalam penelitian ini adalah proyek gedung kantor PT X di Surabaya dengan 79 aktivitas proyek. Hasil dari proses optimasi adalah solusi-solusi skenario pembayaran berdasarkan dari 3 skenario yang diteliti, yaitu skenario pembayaran tanpa down payment, skenario pembayaran dengan down payment sebesar 5%, dan skenario pembayaran dengan down payment sebesar 10%. Setiap skenario akan dilakukan optimasi dengan melakukan pergeseran waktu mulai pada aktivitas-aktivitas yang bukan merupakan jalur kritis. Solusi paling optimal ditentukan berdasarkan kondisi dan skenario dengan penjumlahan bunga pinjaman terkecil yang harus dibayarkan oleh kontraktor.",
+  "creators": "IMANNUEL MICHRAGA FREANDO; RICHARD CHRISTIAN THENDEAN",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Ambrosius Matthew Junius Reynaldo, S.T., M.T. (Advisor 2); Effendy Tanojo (Examination Committee 1); Budiman Proboyo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012688/SIP/2023; Imannuel Michraga Freando (B11190070), Richard Christian Thendean (B11190037)",
+  "subjects": "PRODUCTION SCHEDULING; PROJECT MANAGEMENT"
+}

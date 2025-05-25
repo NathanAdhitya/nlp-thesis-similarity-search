@@ -1,0 +1,14 @@
+{
+  "id": "59273",
+  "title": "Pengembangan model prediksi durasi rencana proyek konstruksi dengan metode artificial intelligence",
+  "abstract": "Estimasi durasi proyek konstruksi merupakan salah satu unsur penting yang mengisi skenario dinamis pada setiap proyek konstruksi. Ketidaktepatan dalam perhitungan estimasi durasi proyek dapat mengakibatkan keterlambatan proyek konstruksi yang dapat merugikan pihak kontraktor dan pemilik. Studi akan estimasi durasi proyek konstruksi tentu perlu dikembangkan lebih lanjut. Dewasa ini, prediksi durasi konstruksi proyek sudah dapat dilakukan dengan bantuan artificial intelligence (AI) untuk memecahkan permasalahan yang ada. Namun, bagaimana mengembangkan metode prediksi yang paling baik masih menjadi pertanyaan. Pada penelitian ini dilakukan evaluasi mengenai pemodelan metode prediksi yang paling akurat untuk memprediksi durasi proyek konstruksi. Terdapat tiga metode AI dan satu metode tradisional yang digunakan yaitu artificial neural network (ANN), support vector machine (SVM), classification and regression tree (CART), dan linear regression (LR). Selanjutnya, keempat metode ini dijalankan dengan beberapa parameter dan dilakukan pengujian untuk dataset proyek konstruksi yang telah didapatkan. Empat indikator error dan satu indikator normalisasi digunakan untuk mengevaluasi dan menentukan metode prediksi yang terbaik. Dari hasil penelitian yang telah dilakukan, ANN menghasilkan pemodelan yang terbaik. Hal ini dapat dilihat dari nilai error ANN yang lebih kecil bila dibandingkan dengan ketiga metode prediksi lainnya.",
+  "creators": "LOWIG CAESAR SINAGA",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000368/MTS/2023; Lowig Caesar Sinaga (B21220026)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--ENGINEERING APPLICATIONS; CONSTRUCTION INDUSTRY--MANAGEMENT"
+}

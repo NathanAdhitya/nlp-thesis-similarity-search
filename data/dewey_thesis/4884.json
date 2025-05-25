@@ -1,0 +1,14 @@
+{
+  "id": "4884",
+  "title": "Perancangan dan pembuatan aplikasi untuk menunjang manajemen persediaan bahan baku pada perusahaan aki 'X' menggunakan sistem material requirement planning (MRP)",
+  "abstract": "Perusahaan aki `X? mengalami masalah dalam menentukan jumlah bahan baku yang dibutuhkan dan waktu pembelian dari bahan baku agar biaya yang dikeluarkan minimal. Selama ini Kepala bagian produksi hanya menggunakan perkiraan dan pengalaman dalam menentukan jumlahnya. Aplikasi Tugas Akhir ini diharapkan dapat membantu mengatasinya. Pada aplikasi ini dilakukan perhitungan komposisi bahan baku tiap item. Peramalan penjualan untuk mendapatkan jumlah produksi tiap group item yang optimal. Metode peramalan yang digunakan adalah Moving Average, Weighted Moving Average, Exponential Smoothing and Linear Trend. Untuk mencari biaya pembelian bahan baku yang minimal digunakan metode lot sizing yaitu Lot for Lot, Economic Order Quantity, Period Order Quantity, Part Period Balancing. Pembuatan aplikasi ini menggunakan software Borland Delphi 7.0 dan Microsoft Access 2000 sebagai database. Hasil dari program aplikasi ini adalah jumlah bahan baku yang harus dipesan serta waktu pemesanan untuk tiap bahan baku. Bahan baku yang dipesan sesuai dengan jumlah perkiraan permintaan aki untuk masa yang akan datang berdasarkan metode peramalan yang dipilih. Diharapkan informasi ini akan memberikan pertimbangan tambahan untuk mengatur persediaan bahan baku.",
+  "creators": "YOUNGKY GUNAWAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000388/INF/2005; Youngky Gunawan (26401067)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

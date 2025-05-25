@@ -1,0 +1,14 @@
+{
+  "id": "4921",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada perusahaan jasa angkutan PT. 'X'",
+  "abstract": "PT. ?X? adalah perusahaan yang bergerak di bidang jasa angkutan peti kemas. Selama ini sistem administrasi yang dilakukan masih secara manual, sehingga seringkali mengalami kesalahan kerja dan waktu yang lama. Masalah lain yang didapati perusahaan ini adalah perusahaan ini masih belum memiliki sistem untuk mencatat jadwal pengangkutan, sehingga seringkali mengalami keterlabatan dalam pengambilan muatan. Dengan adanya masalah itu, pada Tugas Akhir ini dibangun sistem administrasi yang dapat memenuhi dan dapat membantu kegiatan yang terjadi di perusahaan. Dengan adanya permasalahan tersebut, maka dilakukan pengaplikasian sistem administasi perusahaan secara komputerisasi yang dimulai dari pencatatan pesanan pengangkutan, pencatatan biaya tambahan pengangkutan, Pembuatan faktur pengangkutan, perhitungan aset kendaraan serta proses pembuatan laporan laba rugi. Pembuatan sistem administrasi ini menggunakan software Borland Delphi 7.0 dan MySQL sebagai penyimpanan database. Untuk mendesain sistem dimulai dengan merancang Data Flow Diagram (DFD) dan Entity Relationship Diagram (ERD) digunakan untuk menggambarkan alur sistem administrasi, dibuat dengan menggunakan Power Designer 6.1. Dari hasil uji coba, perangkat lunak ini dapat membuat pemesanan pengangkutan, melihat, menambah, mengolah dan meng-update inventory; melihat, menambah dan mengolah data, dan membuat laporan laba rugi dan menghitung nilai aset kendaraan yang dimiliki oleh perusahaan.",
+  "creators": "ANDY LUKITO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Natalia Tangke (Advisor 2); Oviliani Yenty Yuliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010591/INF/2007; Andy Lukito (26401059)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

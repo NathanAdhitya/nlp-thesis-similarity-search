@@ -1,0 +1,14 @@
+{
+  "id": "60875",
+  "title": "Analisis getaran dan arus listrik motor listrik menggunakan node-red untuk monitor kerusakan bearing dalam penerapan condition-based maintenance",
+  "abstract": "Preventive maintenance yang banyak digunakan pada saat ini memiliki kelemahan di mana perawatan harus dilakukan meskipun tidak terdapat kerusakan. Condition-based maintenance menjadi solusi kelemahan tersebut di mana kondisi mesin dipantau melalui sensor dan perawatan hanya dilakukan ketika kondisi mesin mencapai batas kerusakan yang ditetapkan. Penelitian ini bertujuan untuk membuat sebuah sistem yang dapat mengambil data getaran pada mesin untuk dilakukan pemantauan secara real time selama mesin berjalan. Pengambilan data dilakukan menggunakan Node-Red karena pemrograman tersebut memiliki kelebihan dalam aksesibilitas seperti dapat diakses melalui browser dari berbagai macam perangkat, serta dapat diakses secara wireless. Nilai getaran dari penelitian ini dipengaruhi oleh jenis bearing yang digunakan di mana terdapat bearing dengan kondisi sehat dan rusak. Data getaran kemudian dianalisa lebih detail dalam domain frekuensi untuk melihat kerusakan pada bagian-bagian bearing. Perbedaan bearing dengan kondisi sehat dan rusak terlihat pada nilai getaran yang mencapai nilai kerusakan parah menurut ISO-10816 dan grafik domain frekuensi menunjukkan adanya lonjakan signifikan pada frekuensi kerusakan bearing. Kenaikan arus listrik kurang berpengaruh terhadap kenaikan nilai getaran pada motor listrik yang dijalankan tanpa beban. Pada akhirnya, pemrograman pada Node-Red berhasil digunakan untuk memonitor nilai getaran dan arus listrik pada motor listrik serta melakukan pengambilan data untuk analisa domain frekuensi.",
+  "creators": "WILLIAM WIJAYA",
+  "contributors": "Roche Alimin (Advisor 1); Oegik Soegihardjo (Advisor 2); Prof. Dr. Juliana Anggono, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011556/MES/2024; William Wijaya (C12200048)",
+  "subjects": "MACHINE-TOOLS--MAINTENANCE AND REPAIR; MAINTENANCE--MANAGEMENT; PLANT MAINTENANCE"
+}

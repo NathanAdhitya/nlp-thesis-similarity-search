@@ -1,0 +1,14 @@
+{
+  "id": "5313",
+  "title": "Studi perbandingan penggunaan Directional Ground Relay (67 G) dengan Ground Fault Relay (51 N) PLN distribusi Jatim",
+  "abstract": "Penyulang Pondok Chandra merupakan salah satu penyulang 20 kV yang dicatu dari Gardu Induk (GI) Rungkut menggunakan transformator daya 50 MVA. Panjang penyulang Pondok Chandra 15,158 kms, dengan panjang Saluran Kabel Tegangan Menengah (SKTM) 0,313 kms dan Saluran Udara Tegangan Menengah (SUTM) 14,845 kms. Gangguan yang paling banyak terjadi pada saluran udara adalah gangguan hubung singkat 1 fasa ke tanah yang disebabkan pohon dan petir. Dengan penerapan metode pentanahan netral transformator daya melalui tahanan tinggi 500 ohm, didapatkan arus gangguan maksimum pada penyulang Pondok Chandra sebesar 25 A. Directional Ground Relay (DGR) bekerja berdasarkan komponen tegangan, komponen arus dan sudut fasa gangguan yang timbul akibat ketidakseimbangan arus dan tegangan gangguan pada saat terjadinya gangguan hubung singkat 1 fasa ke tanah, sedangkan Ground Fault Relay (GFR) bekerja berdasarkan arus (Io) gangguan yang timbul pada saat terjadi gangguan hubung singkat 1 fasa ke tanah. Setting DGR pada penyulang Pondok Chandra adalah Vo = 5 Volt, Io = 2 A dan waktu = 0,35 detik. Penggunaan DGR (67 G) dan GFR (51 N) terletak dari penerapan disistem pola pentanahan, sesuai SPLN 52 - 3 : 1983 tentang Pola Pengamanan Sistem bagian III Sistem Distribusi 6 kV dan 20 kV, ditetapkan rele pengaman 1 fasa ke tanah pada penyulang harus menggunakan DGR untuk high resistance dan GFR dianjurkan tidak dipakai.",
+  "creators": "YUDIYONO",
+  "contributors": "Ir. M.TABRANI MACHMUDSYAH (Advisor 1); Emmy Hosea (Advisor 2); Julius Sentosa Setiadji (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 01010506/ELK/2004; Yudiyono (23499040)",
+  "subjects": "ELECTRIC POWER SYSTEMS-PROTECTION; PROTECTIVE RELAYS"
+}

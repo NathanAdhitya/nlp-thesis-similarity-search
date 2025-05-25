@@ -1,0 +1,14 @@
+{
+  "id": "43219",
+  "title": "Identifikasi buah-buahan menggunakan metode convolutional neural network",
+  "abstract": "Buah-buahan memiliki jenis yang cukup banyak sehingga terkadang sulit untuk dibedakan oleh manusia. Dengan perkembangan teknologi yang pesat terutama dalam bidang artificial neural network, maka dikembangkanlah sebuah program untuk melakukan identifikasi buah-buahan dari gambar dengan bantuan Tensorflow dalam membuat sebuah model artificial neural network. Metode yang digunakan adalah convolutional neural network untuk melakukan training pada model. Terdapat 4 proses utama dalam convolutional neural network yaitu convolution layer, activation layer, pooling layer, dan fully connected layer. Dalam pembuatan model convolutional neural network dapat dilakukan tuning dalam berbagai macam hal, beberapa diantaranya yaitu jumlah epoch, activation function yang digunakan, dan juga ukuran learning rate. Penelitian ini menunjukkan bahwa jumlah epoch mempengaruhi akurasi pada model yang dibuat. Dalam hal activation function, ditunjukkan bahwa rectified linear unit (RELU) lebih baik dalam hal waktu yang dibutuhkan dalam membuat neural network model yang paling optimal dibandingkan dengan exponential linear unit (ELU). Besar kecilnya learning rate juga mempengaruhi seberapa baik model yang dihasilkan. Dari berbagai pengujian yang dilakukan didapatkan akurasi terbaik yang dapat dicapai sebesar 99,31%.",
+  "creators": "VERRELL",
+  "contributors": "Kartika Gunadi (Advisor 1); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021834/INF/2019; Verrell (26415079)",
+  "subjects": "COMPUTER INTERFACES; NEURAL NETWORKS; PROGRAMMING (COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "29672",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada perusahaan ekspedisi Sulawesi Jaya Raya",
+  "abstract": "Perusahaan Sulawesi Jaya Raya adalah perusahaan yang bergerak di bidang jasa. Perusahaan ini melayani jasa pengiriman barang dengan menggunakan transportasi kapal laut. Selama ini Perusahaan Sulawesi Jaya Raya mengerjakan proses order pengiriman secara manual seperti mencatat pesanan order, memesan kapal dan kontainer, menyewa tempat di pelabuhan, menyewa truk dan supir, menagih tagihan pembayaran. Komunikasi data antar kantor pusat dan kantor cabang masih menggunakan telepon dan fax. Data yang tidak terintegrasi menyebabkan seringkali terjadi miskomunikasi atau kesalahan tagihan, keterlambatan penanganan order pengiriman barang, dan kesalahan rekapan data barang yang sudah dikirim atau belum. Untuk menghasilkan informasi yang cepat dan akurat, suatu perusahaan harus didukung dengan sistem informasi yang terkomputerisasi, namun konteks terkomputerisasi tersebut memiliki cakupan yang sangat luas, penanganan yang baik terhadap sistem informasi dapat memberikan keuntungan lebih terhadap pelayanan yang diberikan kepada pelanggan sehingga menciptakan hubungan jangka panjang yang baik. Perancangan desain sistem menggunakan Data Flow Diagram dan Entity Relationship Diagram. Program menggunakan MySQL Server sebagai database, dan menggunakan bahasa pemrograman PHP. Ruang lingkup program yang dibuat meliputi pembuatan database master untuk kota, customer, kapal, jadwal kapal, user dan harga. Transaksi meliputi transaksi pengirman dan penerimaan, tranksaksi pengiriman meliputi order pengiriman, daftar isi, daftar muat, berita acara dan tagihan, surat jalan dan claim, tranksaksi penerimaan meliputi daftar muat dan berita acara serta tagihan lalu yang terakhir adalah pembuatan laporan secara otomatis. Dari hasil kuisioner, secara keseluruhan aplikasi yang telah mendapatkan nilai kompeten yang berarti aplikasi ini sesuai dengan kebutuhan perusahaan. Laporan yang dihasilkan akurat sesuai dengan perhitungan manual. Selain itu desain interface program dan kemudahan penggunaan antar menu dianggap sudah baik oleh user.",
+  "creators": "DANDY D B RUNGKAT",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Liliana (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021327/INF/2014; Dandy Rungkat (26409003)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

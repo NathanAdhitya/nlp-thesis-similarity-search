@@ -1,0 +1,14 @@
+{
+  "id": "55942",
+  "title": "Analisa transportasi & susut pengiriman bahan baku dengan menggunakan data mining dan perancangan sistem data transportasi pada PT XYZ",
+  "abstract": "Efisiensi menjadi salah satu tujuan utama dalam logistik dikarenakan biaya transportasi yang cukup tinggi. Biaya tinggi dapat terjadi karena waktu pengiriman yang lama ataupun kehilangan barang selama perjalanan, hal tersebut juga dialami pada PT XYZ. Untuk itu penelitian ini dilakukan dengan tujuan untuk mengetahui apakah sistem yang dibuat yaitu Raw Material Tracking (RMT) sudah berjalan dengan baik dalam mengendalikan kerugian bahan baku saat proses transportasi, dan untuk mengetahui lama waktu siklus pengiriman serta untuk menentukan rumusan total kebutuhan armada yang dibutuhkan dalam setiap partai pengangkutan. Data yang digunakan adalah data yang tersimpan pada database RMT yang didapat mulai tahun 2020 sampai dengan 2022. Sedangkan fungsi-fungsi dalam pengolahan data mining yang digunakan adalah clustering, classification and association rules. Dalam membantu pengolahan data mining pada penelitian ini menggunakan aplikasi program orange, dimana ketika workflow sudah selesai dibuat maka ketika ada pembaharuan data tinggal melakukan refresh import data yang ada di data file program orange. Dari hasil pengolahan data mining didapatkan bahwa untuk pembagian cluster dibagi menjadi 2 kelompok cluster. Atribut antri bongkar mempunyai peran penting dalam pembagian cluster tersebut, dimana pada musim penghujan menyebabkan proses antri bongkar lama. Untuk lama waktu siklus didapatkan hasil 5,4 jam dan dengan formulasi perhitungan diperoleh 121 truk yang dibutuhkan pada musim hujan dan 4,28 jam dengan formulasi perhitungan hasil 91 truk pada musim kemarau.",
+  "creators": "Edyq Setijaro",
+  "contributors": "Prof. BERNARDO NUGROHO YAHYA, Ph.D. (Advisor 1); Siana Halim (Advisor 2); I Gede Agus Widyadana (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01010019/MTI/2023; Edyq Setijaro (C23190003)",
+  "subjects": "DATA MINING--COMPUTER PROGRAMS; INVENTORY CONTROL; MATERIALS MANAGEMENT"
+}

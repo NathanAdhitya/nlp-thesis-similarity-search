@@ -1,0 +1,14 @@
+{
+  "id": "53581",
+  "title": "Sistem pendukung keputusan pemberian kredit berdasarkan klasifikasi kelancaran pembayaran kredit menggunakan metode VIKOR pada Bank XYZ",
+  "abstract": "Bank harus melakukan penilaian yang kompleks sebelum dapat menentukan siapa calon debitur yang paling layak yang dapat diberikan pinjaman. Hal tersebut dikarenakan adanya faktor keterbatasan dana dan resiko terjadinya kasus kredit macet. Keterbatasan tenaga kerja dan proses yang masih manual menyebabkan keseluruhan proses pemberian pinjaman pada Bank XYZ rawan terhadap human error dan menjadi tidak efisien. Sebagai solusi bagi Bank XYZ untuk mengatasi permasalahan yang ada, diperlukan sebuah sistem pendukung keputusan pemberian kredit yang dapat membantu Bank XYZ dalam memilih dan menentukan calon debitur yang dapat diberikan pinjaman. Oleh karena itu, pada penelitian ini digunakan metode K-Nearest Neighbor untuk membantu Bank XYZ dalam memprediksi kelancaran pembayaran kredit seorang calon debitur. Kemudian, pada penelitian ini dilanjutkan dengan perankingan menggunakan metode VIKOR untuk menentukan siapa calon debitur yang paling ideal untuk diberikan pinjaman. Berdasarkan hasil pengujian klasifikasi baik dengan menggunakan data training maupun data baru, diperoleh akurasi tertinggi sebesar 100% pada setiap jenis pinjaman. Berdasarkan hasil pengujian ranking diperoleh akurasi perankingan pinjaman usaha sebesar 83,33%, akurasi perankingan pinjaman konsumtif sebesar 80,33%, dan akurasi perankingan pinjaman aneka guna sebesar 70%. Hasil evaluasi kuesioner dalam pengujian sistem yang dilakukan oleh 6 responden menilai desain aplikasi 76,67% baik, fungsionalitas aplikasi 86,67% baik, kemudahan penggunaan aplikasi 83,33% baik, aplikasi menjawab kebutuhan 86,67% baik, dan keseluruhan aplikasi 90% baik.",
+  "creators": "DANIEL HARTONO",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Silvia Rostianingsih (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022166/INF/2022; Daniel Hartono (C14180059)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; DECISION SUPPORT SYSTEMS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

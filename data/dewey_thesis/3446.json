@@ -1,0 +1,14 @@
+{
+  "id": "3446",
+  "title": "Pembuatan perangkat lunak untuk pemilihan dan peletakan barang dalam kendaraan pengangkutan berdasarkan rute terpendek menggunakan genetic algorithm",
+  "abstract": "Dewasa ini, persaingan antara perusahaan yang menyediakan jasa pengiriman barang semakin ketat. Oleh karena itu, perusahaan pengiriman selalu dituntut untuk dapat memberikan pelayanan terbaik agar bisa tetap bertahan ditengah persaingan. Salah satunya adalah dengan mengirim barang agar sampai pada tujuan sesuai dengan waktu yang diinginkan pelanggan. Hal ini bukanlah masalah yang mudah mengingat barang yang harus dikirim memiliki jumlah yang besar dan memiliki kode prioritas yang berbeda-beda. Metode yang digunakan dalam program ini adalah Genetic Algorithm. Genetic Algorithm digunakan untuk proses pencarian rute terpendek dan proses peletakan barang dalam kendaraan pengangkutan. Program ini dibuat dengan menggunakan compiler Borland Delphi 7 dan Microsoft Office Access 2002 sebagai software database. Program ini dapat menjalankan proses pemilihan barang berdasarkan waktu datang dan prioritas pengiriman barang. Selain itu, program akan melakukan proses peletakan barang dalam kendaraan pengangkutan berdasarkan rute terpendek yang telah ditentukan dimana program dapat menampilkan simulasi pengiriman dan pengeluaran barang secara visual. Dengan program ini, diharapkan dapat membantu perusahaan penyedia jasa pengiriman untuk dapat melakukan proses pengiriman barang dengan lebih cepat agar barang dapat sampai ke alamat tujuan tanpa mengalami keterlambatan.",
+  "creators": "SUTEKNO SOENJOYO",
+  "contributors": "Rolly Intan (Advisor 1); SAMUEL GUNAWAN (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000522/INF/2006; Sutekno Soenjoyo (26402107)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

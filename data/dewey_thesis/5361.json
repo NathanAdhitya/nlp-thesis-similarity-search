@@ -1,0 +1,14 @@
+{
+  "id": "5361",
+  "title": "Reservasi kamar hotel menggunakan web",
+  "abstract": "Pada umumnya, sebuah travel agent menggunakan fasilitas telepon untuk mendapatkan infomasi kamar hotel dan melakukan pemesanan. Karena adanya pemesanan kamar hotel pada hotel- hotel yang terletak di luar kota, maka travel agent terbebani biaya SLJJ. Maka melalui tugas akhir ini, dibuat sebuah perangkat lunak untuk melakukan reservasi dengan menggunakan web. Program ini didesain untuk memudahkan travel agent dalam mencari informasi kamar dari hotel yang mengaplikasikan perangkat lunak ini. Perangkat lunak ini menggunakan script ASP sebagai pembangun web dan Microsoft Access sebangai pembangun database. Perangkat lunak menggunakan Internet Information Service yang terintegrasi pada server Windows2000 yang dimiliki oleh hotel. Dan untuk dapat mengaksesnya, dibutuhkan login dan password. Login dan password didapatkan setelah administrator memasukkan data travel agent dalam database. Selain itu administrator bertugas untuk memasukkan data kamar yang tersedia. Travel agent dapat mengakses web site dengan menggunakan sambungan internet. Hal ini dapat menurunkan biaya komunikasi karena tidak memerlukan SLJJ. Travel agent dapat melihat persediaan kamar dan melakukan pemesanan. Travel agent juga dapat melihat transaksi yang pernah dilakukannya. Hasil dari pembuatan perangkat lunak ini yaitu user dapat memantau tarif kamar hotel terkini. User juga dapat melakukan pemesanan kamar melalui perangkat lunak ini. Transaksi yang telah dilakukan dapat dipantau melalui web.",
+  "creators": "DICKY IVAN HARYANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 03/100/ELK/2003; Dicky Ivan Haryanto (23496077)",
+  "subjects": "INTERNET (COMPUTER NETWORK)"
+}

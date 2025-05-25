@@ -1,0 +1,14 @@
+{
+  "id": "2495",
+  "title": "Perbandingan kinerja algoritma genetika dan simulated annealing untuk masalah multiple objective pada penjadwalan flowshop",
+  "abstract": "Penelitian difokuskan pada pembandingan algoritma genetika dan simulated annealing pada performa, waktu proses dan keunggulannya satu sama lain. Tujuan penelitian adalah untuk melihat mana yang lebih baik antara dua algoritma penjadwalan tersebut, untuk menyelesaikan problem-problem penjadwalan flowshop yang disimulasikan pada kriteria minimasi makespan dan total flowtime. Tujuan lain adalah untuk mendapatan suatu sistem penjadwalan terkomputerisasi yang dapat dilakukan untuk melakukan penelitian dan dapat pula dilakukan untuk menyelesaikan problem-problem yang sesungguhnya. Hasil yang didapatkan adalah program penjadwalan untuk melakukan simulasi pembandingan algoritma tersebut serta simulasi yang dilakukan pada kombinasi-kombinasi job dan mesin yang berbeda-beda. Didapatkan algoritma simulated annealing lebih unggul dari algoritma genetika hingga 90%, algoritma genetika hanya unggul pada waktu proses saja, namun dengan tren waktu proses yang terbentuk, diyakini pada problem dengan kombinasi job dan mesin yang banyak, algoritma simulated annealing dapat lebih cepat daripada algoritma genetika.",
+  "creators": "ANDREE PAMUNGKAS",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 573/TI-054/2002; Andree Pamungkas (25497068)",
+  "subjects": "PRODUCTION MANAGEMENT"
+}

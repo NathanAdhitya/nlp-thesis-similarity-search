@@ -1,0 +1,14 @@
+{
+  "id": "8949",
+  "title": "Perancangan dan pembuatan aplikasi pengujian kelayakan calon debitur pada Bank Perkreditan Rakyat Ambon dengan menggunakan metode data mining multidimensional association rules",
+  "abstract": "Informasi sekarang ini merupakan hal yang sangat berharga. Banyak perusahaan yang melakukan komputerisasi dengan salah satu tujuan adalah agar data dari perusahaan tidak mudah hilang dan proses analisa dapat berjalan dengan cepat. Hasilnya data yang tertumpuk dalam rentang waktu tertentu akan semakin banyak. Untuk melakukan analisa dengan query biasa akan membutuhkan waktu yang lama Dalam pembuatan aplikasi ini data master kredit dan data nasabah diubah ke dalam bentuk data yang dapat diolah oleh aplikasi dan dimasukkan ke dalam sebuah database dengan tujuan menghasilkan multidimensional association rules dari data di dalam data master kredit dan data nasabah. Aplikasi ini menggunakan algoritma multidimensional association rule mining yang sudah dimodifikasi agar dapat diterapkan pada data master kredit dan data nasabah. Dalam pembuatan aplikasi ini digunakan software Borland Delphi 7 dan Microsoft Access XP. Hasil akhir dari pembuatan tugas akhir ini berupa sebuah aplikasi yang dapat melakukan proses penghitungan association rules sehingga menghasilkan data berupa persentase kelayakan calon debitur.",
+  "creators": "MIERCOLADI PIETRO R",
+  "contributors": "Rolly Intan (Advisor 1); Gregorius Satiabudhi (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010650/INF/2007; Miercoladi Pietro Raydolinsky Pattiwael (26402177)",
+  "subjects": "DATA MINING; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

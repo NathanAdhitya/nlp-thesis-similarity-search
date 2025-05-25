@@ -1,0 +1,14 @@
+{
+  "id": "57267",
+  "title": "Sistem rekomendasi hairstyle d'kapster dalam penentuan kesesuaian model rambut pria dengan menggunakan metode convolutional neural network",
+  "abstract": "Dalam kehidupan sehari-hari, semua orang tentu memperhatikan apa yang dinamakan dengan rambut, tidak terkecuali pria. Namun, tidak sedikit juga pria yang kesulitan mencari referensi model rambut apa yang cocok dengannya, sehingga muncullah masalah bagaimana pria mencari dan menentukan model rambut terbaik untuknya. Selain masalah penentuan model rambut pria, mendengar masalah tentang rambut, pria pasti akan berkomunikasi dengan seorang barber untuk menentukan model rambut apa yang cocok untuk pelanggannya. Pada tahap ini terkadang muncul masalah dimana rekomendasi yang diberikan seorang barber tidak sesuai dengan ekspektasi pelanggan. Kedua masalah yang disampaikan diatas tersebut bisa jadi membuat proses penentuan kesesuaian model rambut tidak berjalan dengan lancar. Penelitian ini mengatasi masalah yang dihadapi pelanggan D’Kapster yang akan menggunakan metode CNN. Metode CNN ini digunakan karena metode ini dibuat atau diciptakan untuk memproses data berupa foto hingga video. Oleh karena itu, untuk mengatasi masalah yang terdapat pada aplikasi D’Kapster, maka dilakukan pengembangan fitur aplikasi dengan menambahkan fitur tambahan yang berupa sistem rekomendasi. Pengembangan pada aplikasi D’Kapster ini akan dilakukan desain UI UX dan proses neural network. Proses neural network ini dilakukan untuk mengetahui model rambut apa yang memiliki ciri-ciri yang paling mirip dengan foto yang diambil langsung oleh pengguna aplikasi. Hasil yang diharapkan adalah output dapat menampilkan 5 model rambut yang paling cocok dengan bentuk muka pengguna aplikasi disertai juga dengan persentase kecocokan. Dari persentase kecocokan itulah yang akan menjadi tingkat keberhasilan dari penelitian ini.",
+  "creators": "JOSEPH ANGELUS LUKIANTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Ir. ENDANG SETYATI, M.T., DR. (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor and Examination Committee)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022383/INF/2023; Joseph Angelus Lukianto (C14190187)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); ARTIFICIAL INTELLIGENCE--COMPUTER PROGRAMS; ARTIFICIAL NEURAL NETWORKS"
+}

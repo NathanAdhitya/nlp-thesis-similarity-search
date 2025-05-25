@@ -1,0 +1,14 @@
+{
+  "id": "42938",
+  "title": "Primary processing yield improvement pada PT A",
+  "abstract": "Salah satu Key Performance Indicator (KPI) di Departemen Primary Processing 1 adalah Yield. Pencapaian Yield di Departemen Primary Processing 1 tidak stabil sehingga dilakukan improvement untuk menstabilkan dan meningkatkan Yield di departemen Primary Processing 1. Kondisi di Departemen Primary Processing saat ini jika terjadi Yield Loss, Team Leader akan meminta data produksi dari admin. Data produksi ini adalah data sehari yang lalu, artinya Team Leader dapat mengakses data produksi hari ini keesokan hari. Hal ini menandakan adanya time loss sebesar 24 jam (16 batch produksi). Setelah mendapatkan data dari admin, Team Leader melakukan kalkulasi nilai Yield secara manual, kalkulasi memakan waktu 1 shift produksi atau 8 jam (5 batch produksi). Total time loss sebesar 32 jam setara dengan 21 batch produksi. Masalah selanjutnya, Prodtech (Production Technician) tidak paham yang harus dilakukan jika terjadi Yield Loss, salah satu penyebab Yield Loss adalah waste berupa tobacco loss. Dari permasalahan yang ada dilakukan propose countermeasurement sebagai solusi dari masalah. Propose countermeasurement yang pertama untuk mengatasi lambatnya perhitungan Yield adalah Online Yield Analysis Tool. Propose countermeasurement yang kedua untuk mengatasi lambatnya respon Prodtech ketika terjadi Yield Loss adalah membuat modul training “Yield for Prodtech Align with Yield Governance”.",
+  "creators": "ANDREAS SAMUEL SIVANANDA",
+  "contributors": "Roche Alimin (Advisor 1); Dr. Dra. Gan Shu San, M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011240/MES/2018; Andreas Samuel Sivananda (24414022)",
+  "subjects": "MACHINERY INDUSTRY; PRODUCTION PLANNING"
+}

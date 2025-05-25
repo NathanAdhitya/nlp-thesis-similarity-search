@@ -1,0 +1,14 @@
+{
+  "id": "16298",
+  "title": "Penerapan konsep fuzzy dalam algoritma genetika untuk penjadualan produksi flowshop",
+  "abstract": "Dalam kenyataan sehari-hari, waktu proses setiap job adalah tidak pasti sehingga apabila waktu baku dari setiap job dianggap sebagai waktu proses terasa kurang mewakili kondisi sesungguhnya. Oleh karena itu, maka penulis ingin mencoba memasukkan konsep/unsur fuzzy di waktu proses setiap job. Tujuan dari Tugas Akhir ini adalah untuk memasukkan konsep/unsur fuzzy pada metode-metode penjadualan dengan proses produksi yang bersifat flowshop. Di dalam Tugas Akhir ini ada 2 perbandingan metode penjadualan, yaitu metode penjadualan fuzzy CDS dengan fuzzy NEH dan metode penjadualan Algoritma Genetika fuzzy CDS-RC dengan Algoritma Genetika fuzzy NEH-RC. Untuk mempermudah penyelesaian kedua perbandingan di atas digunakan bantuan program komputer yang memakai software Turbo Pascal. Adanya pernyataan yang mengatakan bahwa metode penjadualan Algoritma NEH lebih baik dari Algoritma CDS (Nawaz et al, 1983), membuat penulis untuk mencoba membandingkan keduanya dengan memasukkan konsep/unsur fuzzy di dalamnya dengan tujuan untuk meminimumkan makespan. Dan penelitian yang telah dilakukan sebelumnya, telah disimpulkan bahwa Algoritma Genetika NEH-RC lebih baik daripada Algoritma HC dan Algoritma Rajendran (Soetanto, 1998; Medianti, 1999). Oleh karena itu penulis memilih untuk mencoba menerapkan konsep/unsur fuzzy di dalam Algoritma Genetika NEH-RC untuk dibandingkan dengan Algoritma Genetika fuzzy CDS-RC dengan tujuan untuk meminimumkan makespan, total flow time dan machine idletime (multiple objectives) secara bersama-sama. Dalam kasus ini, data waktu proses berasal dari penelitian sebelumnya yang menggunakan 12 job dan 12 mesin (Astutik, 1999). Kemudian setelah dilakukan perhitungan didapatkan bahwa dalam kasus ini metode penjadualan fuzzy NEH mempunyai makespan yang lebih kecil dari fuzzy CDS sehingga dapat disimpulkan bahwa dalam kasus ini perhitungan dengan fuzzy NEH temyata lebih baik. Begitu juga dengan perhitungan Algoritma Genetika fuzzy CDS-RC, yang pada kasus ini memberikan hasil jadual yang lebih baik dari pada Algoritma Genetika fuzzy NEH-RC.",
+  "creators": "ALAN ALPHONSO",
+  "contributors": "Didik Wahjudi (Advisor 1); Tessa Vanina Soetanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 297/TI-24/2000; Alan Alphonso (25496035)",
+  "subjects": "PRODUCTION SCHEDULING; GENETIC ALGORITHMS"
+}

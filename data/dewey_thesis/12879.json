@@ -1,0 +1,14 @@
+{
+  "id": "12879",
+  "title": "Model bobot aktivitas sebagai dasar pendistribusian float",
+  "abstract": "Float merupakan rentang waktu yang dapat digunakan untuk menunda suatu pekerjaan tanpa mengakibatkan terlambatnya keseluruhan proyek. Meski demikian, penggunaan float aktivitas nonkritis akan mempengaruhi float aktivitas nonkritis lainnya dalam suatu penjadwalan CPM, sehingga jika ingin menggunakan float suatu aktivitas nonkritis harus memperhatikan float aktivitas nonkritis lainnya, terutama jika aktivitas-aktivitas tersebut berada dalam satu jalur nonkritis. Oleh karena itu penelitian ini bertujuan untuk membuat model bobot aktivitas berdasarkan faktor-faktor keterlambatan. Model tersebut dapat membantu project manager dalam menentukan bobot aktivitas yang digunakan dalam pendistribusian float aktivitas nonkritis, sehingga aktivitas yang memiliki bobot aktivitas lebih besar akan memperoleh float yang lebih besar pula, begitu juga sebaliknya. Dengan begitu diharapkan project manager dapat menggunakan float semaksimal mungkin tanpa menyebabkan keterlambatan proyek secara keseluruhan.",
+  "creators": "AMELIA ONGKOWIJOYO; ANDRE SISWANTO",
+  "contributors": "Ratna S. Alifen (Advisor 1); Sandra Loekita (Advisor 2); Andi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 21011672/SIP/2009; Amelia Ongkowijoyo (21405019), Andre Siswanto (21405051)",
+  "subjects": "CONSTRUCTION INDUSTRY-MANAGEMENT"
+}

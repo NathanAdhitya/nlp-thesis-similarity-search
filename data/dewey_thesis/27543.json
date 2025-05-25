@@ -1,0 +1,14 @@
+{
+  "id": "27543",
+  "title": "Perancangan dan pembuatan program analisis laporan keuangan di PT. Miwon Indonesia Tbk",
+  "abstract": "Kebutuhan atas sistem informasi yang cepat, tepat dan akurat menjadi bagian yang sangat penting bagi perusahaan. Demikian pula dengan kebutuhan informasi atas hasil analisis keuangan yang sangat diperlukan oleh beberapa pihak untuk mengetahui kinerja dan kondisi perusahaan. Dalam analisis laporan keuangan, sebelumnya dibutuhkan suatu perhitungan untuk menghasilkan angka-angka rasio penting, yang mana dalam perhitungannya melibatkan banyak formula yang tentunya cukup rumit dan memakan waktu. Tujuan dari tugas akhir ini adalah membuat program analisis laporan keuangan yang sekiranya dapat membantu Financial Analyst, agar lebih cepat dan lebih mudah melakukan analisis. Pembuatan program ini terdiri dari empat tahap. Tahap pertama adalah pengumpulan data dengan menggunakan metode library research dan dokumenter yang diperoleh dari internal perusahaan. Tahap kedua adalah merancang basis data dan struktur data dengan menggunakan Database Paradox. Database ini diperlukan untuk menyimpan data-data dan hasil perhitungan dari masing-masing rasio. Setelah itu dilakukan perancangan program, baik itu struktur program, struktur proses maupun interface program, dengan memanfaatkan software Borland Delphi 6. Tahap yang ketiga adalah uji coba sistem, dan yang terakhir adalah melakukan analisis baik itu analisis kuantitatif maupun analisis kualitatif. Hasil dari pembuatan program ini adalah dengan program analisis laporan keuangan Financial Analyst tidak perlu lagi melakukan perhitungan secara manual, dan dapat melakukan analisis dengan lebih mudah lewat tabel atau grafik. Hasil perhitungan rasio dari tahun ke tahun akan tersimpan dalam database. Sedangkan dari hasil analisis yang dilakukan di PT. Miwon Indonesia Tbk mulai tahun 1997 sampai tahun 2001, terlihat ada beberapa nilai rasio yang bernilai negatif dan mengalami penurunan, misal dari beberapa rasio profitabilitas yang menunjukkan kalau perusahaan mengalami kerugian (kecuali pada tahun 1999); namun secara garis besar dapat disimpulkan bahwa kinerja dan kondisi keseluruhan perusahaan menunjukkan peningkatan yang baik dari tahun ke tahun. Hal ini terbukti dari adanya peningkatan rasio-rasio dari beberapa segi lainnya, misalnya pada rasio aktivitas, rasio stabilitas dan rasio utilisasi aktiva.",
+  "creators": "DEWI YULINDA HANDOKO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Agustinus Noertjahyana (Advisor 2); M. ISA IRAWAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 020008/INF/2002; Dewi Yulinda Handoko (26498121)",
+  "subjects": "PROGAMMING (ELECTRIC COMPUTERS)"
+}

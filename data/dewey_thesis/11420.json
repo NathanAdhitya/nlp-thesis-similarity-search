@@ -1,0 +1,14 @@
+{
+  "id": "11420",
+  "title": "Aplikasi scada system pada miniatur alat pencampur tiga cairan dengan komposisi tertentu",
+  "abstract": "Proses pencampuran pada industri sangat sering dilakukan. Alat ini berupa miniatur yang mengadopsi proses pencampuran. Alat ini terdiri dari tiga bejana dan solenoid valve yang dipasang pada tiap-tiap bejana. Solenoid valve berfungsi untuk mengatur banyak air yang dikeluarkan dari bejana sesuai dengan komposisi yang telah ditentukan. Perencanaan alat ini adalah sebagai berikut, untuk sensor ketinggian air digunakan parallel elektroda yang dihubungkan dengan ADC 0809. PLC yang digunakan untuk alat ini adalah PLC OMRON CPM-1. software SCADA yang digunakan adalah Wonderware InTouch yang didukung dengan Wonderware Recipe Manager . Pengujian alat ini terdiri dari dua bagian. Pertama diuji bagaimana respon tiap-tiap bejana terhadap nilai set point, yaitu dengan cara mengeluarkan cairan sebanyak 50% dan 75% dari kondisi penuh (2000ml) untuk tiap-tiap bejana. Dari hasil pengujian, alat ini memiliki error ? 4%. Pengujian yang kedua adalah dengan memasukkan volume total cairan yang akan dihasilkan dan perbandingan untuk masing-masing bejana. Dari pengujian ini, alat ini memiliki error yang cukup besar (lebih dari 17,5 %) bila volume yang dikeluarkan sedikit (< 600 mL), sedangkan untuk volume lebih dari 600mL, error yang dihasilkan kecil (kurang dari 17,5 %).",
+  "creators": "MARIO PRAYOGO",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010804/ELK/2006; Mario Prayogo (23402045)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTERS PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

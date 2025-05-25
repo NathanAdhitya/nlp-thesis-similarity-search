@@ -1,0 +1,14 @@
+{
+  "id": "7009",
+  "title": "Rancang sistem informasi akuntasi terkomputerisasi atas siklus pengeluaran pada PT. XYZ",
+  "abstract": "Penelitian ini dilakukan di PT.\"XYZ\" yang masih menggunakan sistem informasi akuntansi manual atas siklus pengeluaran. Berdasarkan pengamatan penulis, sistem informasi akuntansi yang digunakan memiliki berbagai kelemahan, antara lain lamanya proses pembuatan laporan yang mengakibatkan tertundanya pengambilan keputusan oleh pihak manajemen, kesalahan staf dalam mengisi data pada dokumen, perangkapan nomor dokumen yang menyebabkan jejak audit menjadi kacau dan tidak memiliki budget pembelian. Penelitian ini bertujuan untuk merancang sistem informasi akuntansi terkomputerisasi atas siklus pengeluaran pada PT.\"XYZ\" guna meminimalisasi kelemahan yang ada pada sistem manual. Penelitian ini merupakan penelitian deskriptif dengan rancangan penelitian berupa studi kasus dengan menggunakan data kualitatif. Unit analisis data dalam penelitian ini adalah sistem informasi akuntansi manual atas siklus pengeluaran pada PT \"XYZ\". Penelitian ini menghasilkan desain pada output, database dan input dengan mengikuti beberapa tahap dari System Development Life Cycle (SDLC). Pada tahap System Analysis, penulis mengumpulkan data dan menganalisa kebutuhan sistem informasi atas siklus pengeluaran. Pada tahap Conseptual Design penulis merancang dokumentasi sistem dengan menggunakan Data Flow Diagram (DFD) dan membuat pemodelan data dengan menggunakan Resources Event Agent (REA) Data Model. Pada tahap Physical Design penulis mendesain output, database, input dan control. Output yang terancang berupa 4 laporan yang ditampilkan dalam bentuk display pada komputer dan dicetak, antara lain adalah Laporan Pembelian dan Laporan Hutang. Input yang terancang berupa 7 format form, antara lain form bahan baku dan form supplier. Database yang terancang berupa 14 tabel metadata, antara lain adalah tabel bahan baku dan tabel supplier. Control yang diterapkan adalah General control yang menggunakan password, Access Control Matrix dan Appllication Control yang menggunakan Input Validation Control.",
+  "creators": "IDAWATI",
+  "contributors": "Sri Maharsi (Advisor 1); Setyarini Santosa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010509/AKT/2005; Idawati (32499093)",
+  "subjects": "AUDITING-DATA PROCESSING; ACCOUNTING-COMPUTER PROGRAMS; ACCOUNTING-DATA PROCESSING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "48547",
+  "title": "Penerapan random forest dalam email filtering untuk mendeteksi spam",
+  "abstract": "Email sudah menjadi komponen integral bagi pengalaman menjelajah internet. Seiring meningkatnya pengguna pemasaran lewat email juga semakin populer. Email sejenis ini sering kali dianggap mengganggu oleh pengguna, oleh karenanya dipanggil “spam”. Karena jumlahnya yang eksesif, muncul kebutuhan untuk memisahkan email yang tidak penting dari yang penting. Hingga seakrang, belum ada solusi optimal bagi masalah ini. Dari berbagai metode, solusi berbasis machine learning menunjukkan hasil yang paling menjanjikan. Metode yang diujikan adalah Random Forest yang seringkali dianggap superior dibanding Naïve Bayesian, salah satu metode populer untuk email filtering. Kedua algoritma akan dibandingkan lewat akurasi, recall dan presisi-nya. Efek preprocessing dan stemming terhadap dataset juga akan diujikan. Hasil penelitian menunjukkan bahwa kedua model dapat menghasilkan akurasi, recall dan presisi yang mencapai sekitar 96%. Pengujian juga menunjukkan bahwa model Random Forest membutuhkan waktu training sekitar 80 kali lebih lama dari Naïve Bayes sehingga kurang sesuai untuk digunakan dalam email filtering.",
+  "creators": "BILLY CHRISTANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Indro Setiawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021994/INF/2020; Billy Christanto (26416007)",
+  "subjects": "MACHINE LEARNING; COMPUTER SECURITY"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "28163",
+  "title": "Perencanaan dan pembuatan interface untuk penganalisa respone frekuensi peralatan audio dengan batuan IBM PC",
+  "abstract": "Respon frekuensi dari suatu peralatan audio adalah faktor yang penting untuk menentukan kualitas dari peralatan audio tersebut. Untuk mendapatkan respon frekuensi dari peralatan audio yang bersifat analog ini, tidak tertutup kemungkinan dilakukan dengan menggunakan peralatan digital, yang dalam hal ini adalah komputer IBM PC. Untuk dapat melakukan fungsi tersebut, maka komputer harus dapat berkomunikasi dengan peralatan audio yang akan diuji yang dalam hal ini mempunyai karakteristik besaran analog. Komunikasi ini dilakukan dengan menambahkan interface pada komputer, dimana interface tersebut berfungsi sebagai sarana komunikasi antara komputer dengan peralatan yang akan diatur. Secara keseluruhan, interface tersebut merupakan satu kesatuan dari beberapa unit pengatur dan pengubah besaran analog ke digital dan sebaliknya. Data yang dikirim oleh komputer dikeluarkan pada address tertentu yang di dekode oleh rangkaian decoder, dan dimasukkan pada PPI 8255 yang akan dikeluarkan melalui PORT A dari PPI 8255 dan masih berbentuk sinyal digital. Sedangkan sinyal yang diperlukan berbentuk sinyal frekwensi. Untuk hal tersebut, maka sinyal output dari PPI 8255 akan dirubah ke besaran analog dengan menggunakan rangkaian Digital to Analog Converter. Setelah berbentuk sinyal analog, maka dengan melalui rangkaian VCO sinyal tersebut akan diubah ke bentuk frekwensi, yang selanjutnya diumpankan ke peralatan audio. Sinyal output dari peralatan audio akan dideteksi sebagai umpan balik untuk komputer. Sinyal yang berbentuk sinusoidal ini, diubah menjadi sinyal searah dengan menggunakan rangkaian Rectifier. Untuk dapat dimengerti oleh komputer, maka sinyal tersebut harus diubah kembali ke besaran digital. Hal ini dilakukan dengan menggunakan rangkaian Analog to Digital Converter, yang selanjutnya diumpankan pada PORT C dari PPI 8255. Keluaran dari PPI 8255 ini merupakan data bagi komputer IBM PC dan selanjutnya diproses oleh komputer dan digunakan untuk menampilkan respon frekwensi dari peralatan audio yang diuji. Sedangkan PORT B dari PPI 8255 digunakan untuk menentukan frekwensi sinyal yang dihasilkan oleh rangkaian VCO dan pengaturan keluaran data dari ADC.",
+  "creators": "Setio Husen",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); AGUS MULYANTO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 88/E/EL/006; Setio Husen (482006)",
+  "subjects": "FREQUENCY RESPONE (DINAMICS); COMPUTERS"
+}

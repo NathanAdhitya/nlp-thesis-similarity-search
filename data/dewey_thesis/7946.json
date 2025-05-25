@@ -1,0 +1,14 @@
+{
+  "id": "7946",
+  "title": "Pembuatan aplikasi video chat via LAN dengan menggunakan webcam dan microphone",
+  "abstract": "Seringkali ketika berkomunikasi dengan menggunakan telephone suara yang terdengar kurang jelas sehingga kita salah menangkap arti perkataan dari orang tersebut dan mengalami kesulitan ketika ingin menunjukkan wujud dari suatu barang atau melihat wajah dari orang tersebut. Berdasarkan permasalahan diatas maka dibuatlah aplikasi untuk melakukan teks chat dan video chat. Perencanaan dan pembuatan aplikasi ini dibuat dengan menggunakan pemrograman socket untuk teks chat , dan untuk video chat menggunakan library dari DirectShow dan DirectSound untuk melakukan pengambilan frame video dari webcam dan frame audio dari microphone yang kemudian akan diencode dan dikirim ke penerima menggunakan library dari MPEG4IP. Melalui proses pengujian aplikasi dapat disimpulkan bahwa untuk melakukan teks chat koneksi harus terjalin, dan untuk melakukan video chat penerima memerlukan quicktime player untuk membuka file SDP yang diterima",
+  "creators": "FRANKY ARYANTO GOENAWAN",
+  "contributors": "Resmana Lim (Advisor 1); Kartika Gunadi (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010534/INF/2006; Franky Aryanto Goenawan (26402160)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

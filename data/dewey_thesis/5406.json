@@ -1,0 +1,14 @@
+{
+  "id": "5406",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi dan keuangan di Pelangi Kristus International Seminary",
+  "abstract": "Informasi yang akurat dan tepat merupakan salah satu sarana pendukung proses belajar mengajar dewasa ini. PK INRY mengalami kesulitan untuk mengetahui atau mencari data-data sehubungan dengan proses administrasi dan keuangan secara tepat dan tepat. Sehubungan dengan administrasi, jumlah siswa yang mengalami peningkatan per tahunnya merupakan tantangan tersendiri bagi penyediaan informasi yang tepat dan akurat. Untuk ini penulis mencoba mendesain dan membuat suatu sistem informasi yang dapat mengatasi persoalan di bagian administrasi dan keuangan. Perancangan sistem komputer yang akan dibuat, dibagi dalam empat tahap yaitu pengumpulan data, pemodelan sistem database, pembuatan program dan pengujian program. Bagian penting dalam perancangan sistem komputer ini adalah perancangan sistem database dan perancangan program interface. Pada tahap pengujian, program yang telah dibuat disimulasikan dengan memasukkan data-data (input) dan melihat keluaran (output) yang dihasilkan oleh program. Beberapa fasilitas tambahan yang tersedia pada program seperti pencarian data dan lain- lain juga disimulasikan. Terdapat empat entitas utama yang mempengaruhi sistem ini secara umum, yaitu siswa, guru, karyawan, dan presiden direktur. Aliran data pertama bermula dari siswa dan berakhir pada presiden direktur. Setelah pengujian dilakukan, hasil yang didapat adalah kecepatan pengaturan dan pencarian data serta pengolahan data, dan keamanan pada akses data, sehingga waktu yang digunakan menjadi lebih singkat dan biaya lebih rendah.",
+  "creators": "DAVID DERMAWAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Sri Maharsi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0145/INF/2004; David Dermawan (26498097)",
+  "subjects": "DATA BASE MANAGEMENT; DATABASE DESIGN"
+}

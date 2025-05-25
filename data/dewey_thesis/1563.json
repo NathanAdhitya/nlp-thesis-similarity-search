@@ -1,0 +1,14 @@
+{
+  "id": "1563",
+  "title": "Pembuatan perangkat lunak pengenalan huruf cetak menggunakan metode jaringan saraf tiruan",
+  "abstract": "Pengenalan huruf merupakan salah satu bidang dalam ilmu komputer yang dapat membantu proses pengolahan data. Salah satu teknik pengenalan karakter adalah metode jaringan saraf tiruan, dimana metode ini menggunakan prinsip dari otak manusia yang terdiri dari neuron sebagai pemrosesan input untuk menghasilkan output berdasarkan bobot yang ada. Tujuan dari tugas akhir ini adalah membuat perangkat lunak yang dapat melakukan pengenalan huruf dengan menggunakan metode jaringan saraf tiruan. Arsitektur jaringan saraf tiruan yang digunakan adalah multilayer neural network, dengan algoritma pembelajaran backpropagation. Untuk membantu pengenalan huruf, dilakukan proses pemotongan gambar menggunakan metode pemetaan. Hasil pengujian menunjukkan bahwa untuk setiap jenis karakter yang dilatihkan pengenalannya adalah sebesar 81,74% untuk pemotongan yang sukses dan 67,53% untuk yang gagal. Pengenalan dengan karakter yang tidak sejenis dengan yang dilatihkan menghasilkan pengenalan sebesar 55,47% untuk pemotongan yang sukses dan 46,65% untuk yang gagal.",
+  "creators": "STEVEN JAOWRY",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Ibnu Gunawan (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010119/INF/2003; Steven Jaowry (26499163)",
+  "subjects": "ARTIFICIAL INTELLIGENCE-COMPUTER PROGRAMS; IMAGE PROCESSING-DIGITAL TECHNIQUES; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

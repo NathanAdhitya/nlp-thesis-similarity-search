@@ -1,0 +1,14 @@
+{
+  "id": "27387",
+  "title": "Perancangan dan pembuatan aplikasi perhitungan harga pokok produksi dengan metode process costing pada Peternakan Ayam Petelur Lawu Farm",
+  "abstract": "Saat ini sistem perhitungan harga pokok produksi yang dimiliki Peternakan Ayam Petelur Lawu Farm hanya bisa mencakup perhitungan biaya pakan dan obat yang dikeluarkan secara keseluruhan, sedangkan pencatatan biaya harga pokok produksi per kandang serta pembuatan laporan yang berkaitan dengan perhitungan Harga Pokok Produksi telur ayam masih belum bisa ditangani oleh sistem sehingga arus biaya yang terjadi dalam proses perawatan ayam petelur per kandang akan sulit ditelusuri. Berdasarkan latar belakang permasalahan itu, maka dirancang sistem perhitungan Harga Pokok Produksi yang dapat mengatasi permasalahan tersebut. Proses perancangan sistem dari aplikasi ini melalui beberapa tahap, dimulai dengan melakukan survey sistem peternakan, analisa data dan merancang Data Flow Diagram dan Entity Relationship Diagram dari aplikasi yang akan dibuat. Proses pembuatannya menggunakan Microsoft Visual Studio .Net 2005 sebagai bahasa pemrogramannya dan Microsoft SQL Server sebagai database. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, dapat menyimpan pemakaian pakan, pemakaian obat sesuai dengan pemakaian per hari dan sebagainya yang berkaitan dengan proses produksi tersebut. Selain itu, aplikasi yang telah dibuat dapat digunakan untuk mengalokasikan biaya-biaya yang terjadi pada saat produksi setiap kandang dan dapat digunakan untuk menghasilkan laporan-laporan yang berkaitan dengan perhitungan Harga Pokok Produksi telur ayam secara otomatis. Sistem yang diterapkan dan laporan yang dihasilkan telah sesuai dengan kebutuhan perusahaan menurut 80% dari total user. Keakuratan informasi yang diberikan aplikasi dinilai sangat baik menurut 80% user. Secara keseluruhan, 80% dari total user menilai program ini sudah memberikan manfaat kepada perusahaan.",
+  "creators": "MAGDALENA",
+  "contributors": "Andreas Handojo (Advisor 1); CHRISTIAN, SE, AK (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021085/INF/2011; Magdalena (26408075)",
+  "subjects": "APPLICATION SOFTWARE; DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "7587",
+  "title": "Implementasi hard dengan nenggunakan TF-IDF dan jaccard's coefficient pada aplikasi mesin pencari website berbasis web",
+  "abstract": "Kebutuhan masyarakat akan mesin pencari untuk mencari webpage pada saat ini sangatlah tinggi. Masyarakat berusaha untuk mendapatkan webpage yang dibutuhkan dengan menggunakan keyword yang nantinya dapat digunakan sebagai input pada mesin pencari. Perangkat lunak yang dibuat dalam Tugas Akhir ini merupakan salah satu upaya untuk mendapatkan webpage yang sesuai dengan keinginan user. Perangkat lunak ini dibuat menggunakan ide dari HARD (High Accuracy Retrieval from Documents) untuk melakukan pengelompokkan webpage dengan tujuan memperkecil area pencarian, serta didukung dengan beberapa metode seperti Tf-Idf (Term Frequency - Inverse Document Frequency) dan Jaccard?s coefficient. Pada perangkat lunak ini dikembangkan tiga buah aplikasi, yang pertama adalah spider yang digunakan untuk mendapatkan webpage yang tersebar di internet. Aplikasi kedua digunakan untuk melakukan perhitungan relasi antara keywords, subyek dan webpage. Aplikasi terakhir adalah mesin pencari yang berinteraksi secara langsung dengan user. Pemrograman perangkat lunak menggunakan prinsip pemrograman berorientasi objek (OOP) dengan menggunakan bahasa pemrograman PHP dan pascal. Kompiler pascal yang digunakan adalah Borland Delphi 7.0. Perangkat lunak ini diujikan terhadap 5 webpage dan 5 subyek yang dibuat secara manual. Hasil pengujian menunjukkan bahwa dengan dilakukan pengelompokkan webpage kedalam subyek-subyek akan didapatkan hasil pencarian yang lebih tepat.",
+  "creators": "ANDREW CANDRADITYA DEFENG",
+  "contributors": "Rolly Intan (Advisor 1); Sukanto Tedjokusuma (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000419/INF/2005; Andrew Candraditya Defeng (26402062)",
+  "subjects": "WEB SITES; INTERNET (COMPUTER NETWORK)"
+}

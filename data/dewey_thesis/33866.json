@@ -1,0 +1,14 @@
+{
+  "id": "33866",
+  "title": "Robot kesetimbangan 2 roda dengan 2 sumbu",
+  "abstract": "Dalam sistem ini, robot bekerja secara otomatis untuk menyeimbangkan hardwarenya. Seluruh pemrograman menggunakan matlab simulink dengan bantuan kontrol PID. Program dibagi menjadi 2 bagian besar, yaitu penggerak roda depan dan penggerak roda belakang. Kontrol PID diletakkan pada penggerak roda depan yang berfungsi sebagai kemudi dan roda belakang untuk mengatur kecepatan roda pada saat terjadi kemiringan. Pengujian dilakukan pada robot dengan mengubah metode PID yang digunakan. Pengujian ini dilakukan untuk memilih metode mana yang paling cocok dengan robot kesetimbangan ini. Untuk pengujian pada gyro sensor bertujuan untuk kalibrasi sensor. Pengujian yang lain, yaitu pengujian sudut roda depan. Pengujian in bertujuan untuk mengetahui seberapa besar sudut yang diperlukan robot saat berbelok Hasil dari pengujian menunjukkan bahwa robot dapat bekerja dengan baik. Robot dapat menyeimbangkan hardwarenya pada saat awal dan tetap mempertahankan keseimbangannya. Jarak terjauh yang dapat ditempuh oleh robot dalam mempertahankan keseimbangannya adalah 11.4 meter dengan waktu 17.6 detik",
+  "creators": "FERRY SANJAYA",
+  "contributors": "Handry Khoswanto (Advisor 1); Felix Pasila (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010940/ELK/2015; Ferry Sanjaya (23410010)",
+  "subjects": "MATLAB SIMULINK; PID CONTROLLER; ROBOTICS"
+}

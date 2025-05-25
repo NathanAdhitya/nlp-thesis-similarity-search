@@ -1,0 +1,14 @@
+{
+  "id": "60608",
+  "title": "Segmentasi dengan metode k-prototype clustering pada alumni Universitas Kristen Petra untuk mengetahui calon mahasiswa potensial",
+  "abstract": "Segmentasi pasar banyak digunakan pada saat ini oleh para pelaku bisnis. Segmentasi pasar dapat meningkatkan keuntungan bagi usaha yang sedang dijalankan. Selain digunakan dalam kebutuhan bisnis, segmentasi juga dapat dilakukan pada bidang pendidikan. Di Indonesia, persentase mahasiswa yang putus kuliah cukup besar. Pada tahun 2020, pendidikan swasta menyumbang 79.5% dari mahasiswa yang putus kuliah. Perguruan tinggi swasta dapat menerapkan segmentasi untuk mengetahui calon-calon mahasiswa yang berpotensi menyelesaikan perkuliahan dengan baik. Dengan menerapkan segmentasi, perguruan tinggi swasta diharapkan dapat mengurangi angka mahasiswa putus kuliah pada tahun-tahun berikutnya serta perguruan tinggi swasta diharapkan dapat mengurangi peluang untuk terjadinya putus kuliah pada mahasiswa. Algoritma yang akan digunakan untuk melakukan segmentasi adalah K-Prototype Clustering. Algoritma ini digunakan karena terdapat fitur-fitur numerik dan fitur-fitur kategori yang akan digunakan untuk proses segmentasi. Algoritma ini dapat bekerja dengan baik pada fitur-fitur numerik dan fitur-fitur kategori sekaligus. Metode yang akan dipakai untuk proses segmentasi adalah segmentasi bertahap. Setelah segmentasi pertama, hasil dari segmentasi yang berupa cluster akan disegmentasi lagi menjadi subcluster. Hasil dari penelitian ini adalah cluster maupun subcluster yang berisi data lulusan mahasiswa Universitas Kristen Petra. Dari berbagai pengujian, hasil cluster yang terbentuk antara tiga sampai empat cluster, sedangkan hasil subcluster yang terbentuk antara tiga sampai empat subcluster. Masing-masing cluster dan subcluster dapat dianalisis dengan baik sehingga mampu memberikan gambaran atau karakteristik dari tiap-tiap cluster ataupun subcluster. Kata kunci: segmentasi alumni, analisis data akademik, probabilitas potensial.",
+  "creators": "WILLIAM",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Alexander Setiawan (Examination Committee 1); Yulia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022517/INF/2024; William (C14190051)",
+  "subjects": "ALGORITHM; COMPUTER PROGRAMMING; UNIVERSITIES AND COLLEGE-STUDENTS"
+}

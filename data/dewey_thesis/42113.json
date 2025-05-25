@@ -1,0 +1,14 @@
+{
+  "id": "42113",
+  "title": "Pembuatan sistem informasi administrasi dan computer maintenance management system berbasis web pada perusahaan ekpedisi X di Surabaya",
+  "abstract": "PT X merupakan perusahaan ekspedisi di Surabaya. Sistem pengiriman yang ditawarkan perusahaan adalah sistem sewa per aset. Perusahaan memiliki aset berupa truk trailer, forklift, dan dump truck. Saat ini, PT X masih manual menggunakan pencatatan kertas dalam mengelola proses administrasi dan manajemen aset. Sebelum pengembangan aplikasi dimulai, dilakukan analisa dan desain dengan data flow diagram dan entity relation diagram. Aplikasi ini dibuat dengan menggunakan bahasa pemrograman HTML, PHP, JavaScript, AJAX, Framework Laravel 5.0 database MySQL, dan Bootstrap. Aplikasi yang dibuat memuat fitur order truk trailer dan forklift serta Computerized Maintenance Management System. Hasil akhir dari pengembangan aplikasi adalah perhitungan biaya order, pembaruan harga suku cadang pada kartu stok ketika pembelian suku cadang, perhitungan biaya perbaikan aset berdasarkan total harga suku cadang yang digunakan, reminder perbaikan berkala berdasarkan periode dan interval. Hasil kuesioner menunjukkan untuk tampilan aplikasi, 25% responden menjawab cukup, 25% responden menjawab baik, dan 50% responden menjawab sangat baik. Untuk kemudahan penggunaan aplikasi, 25% responden menjawab cukup, 25% responden menjawab baik, dan 50% responden menjawab sangat baik. Untuk kesesuaian aplikasi dengan kebutuhan, 75% responden menjawab baik dan 25% responden menjawab sangat baik. Untuk keseluruhan aplikasi, 25% responden menjawab cukup, 50% responden menjawab baik, dan 25% responden menjawab sangat baik.",
+  "creators": "LEVINA NATHANIA GUNAWAN",
+  "contributors": "Yulia (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021744/INF/2018; Levina Nathania Gunawan (26414016)",
+  "subjects": "WEBSITES-DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); PLANT MAINTENANCE-MANAGEMENT-COMPUTER PROGRAMS"
+}

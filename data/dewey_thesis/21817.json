@@ -1,0 +1,14 @@
+{
+  "id": "21817",
+  "title": "Perancangan dan pembuatan game simulasi pertanian dan peternakan",
+  "abstract": "Perkembangan industri game pada saat ini sangat pesat dengan berbagai macam jenis genre. Jenis game yang saat ini salah satunya yang digemari adalah game bergenre life simulation, dimana jenis game ini berusaha untuk mensimulasikan kehidupan sehari. Proses perancangan dan pembuatan game dimulai dengan mempelajari teori actionscript, teori tentang AI, teori tentang Flash, dilanjutkan dengan mendesain Finite State Machine untuk AI, dan mendesain alur cerita. Kemudian membuat program sesuai dengan desain yang telah dibuat. Game ini dikembangkan dengan menggunakan bahasa pemrogaman actionscript 2.0 dengan memanfaatkan local shared object Flash sebagai media penyimpanan. Hasil akhir dari game ini adalah sebuah permainan berbasis simulasi pertanian dan juga peternakan, yang dilengkapi dengan fitur penambahan tumbuhan oleh user, save dan load game, dan juga 2 saingan dari karakter utama yang dikendalikan oleh AI. Perangkat lunak ini juga diujikan pada beberapa tipe komputer yang berbeda. Dengan perbandingan ini maka dapat dilihat bahwa perangkat lunak ini hanya dapat dijalankan dengan baik jika spesifikasi komputer tersebut memenuhi kebutuhan standar dari aplikasi ini. Apabila spesifikasi komputer tidak memenuhi kebutuhan standar, maka game akan berjalan lambat dan terendat-sendat.",
+  "creators": "HANS KRISTIAN WIJAYA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Silvia Rostianingsih (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021021/INF/2011; Hans Kristian Wijaya (26407113)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

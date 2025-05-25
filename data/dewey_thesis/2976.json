@@ -1,0 +1,14 @@
+{
+  "id": "2976",
+  "title": "Power amplifier menggunakan vacuum tube dengan system cascade",
+  "abstract": "Tugas Akhir ini mempelajari cara kerja vacuum tube dan karakteristiknya dengan tujuan supaya dapat mendesain rangkaian power amplifier dengan system cascade yang mempunyai frekuensi respon 15Hz-20kHz dengan daya output sebesar 10 Wrms. Power amplifier ini menggunakan trioda ECC82 sebagai driver, pentoda EL 34 sebagai final dan menggunakan common cathode sebagai desain rangkaiannya. Penguat akhir adalah penguat tunggal dengan kopling transformator output sebagai penyesuai impedansi. Pada desain rangkaian diharapkan power amplifier ini mempunyai frekuensi respon 15Hz-20kHz dengan daya output sebesar 10 Wrms. Dari hasil pengujian power amplifier ini mempunyai frekuensi respon 15Hz-20kHz dengan daya output sebesar 3,95 Wrms. Dari analisa hasil percobaan diketahui ketidak sesuaian hasil rancangan yang seharusnya mempunyai daya output sebesar 10 Wms, sedangkan realisasinya mempunyai daya output sebesar 3,95 Wms. Hal ini disebabkan oleh kurang sesuainya transformator output yang seharusnya memiliki impedansi sebesar 8 ?, akan tetapi pada pengukuran didapatkan impedansi sebesar 35 ?.",
+  "creators": "JIMMY",
+  "contributors": "YOHANES T. D. S (Advisor 1); Handry Khoswanto (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010709/ELK/2005; Jimmy (23499063)",
+  "subjects": "AMPLIFIERS (ELECTRONICS); ELECTRONIC CIRCUITS-LINEAR"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2817",
+  "title": "Perancangan dan pembuatan peta fasilitas kota Surabaya berbasis web",
+  "abstract": "Dengan semakin banyaknya tempat-tempat baru maka dibutuhkan sarana yang dapat merangkum informasi dari tempat-tempat tersebut. Sarana yang ada sekarang adalah peta kartografi atau peta manual. Terdapat beberapa keterbatasan dalam menggunakan peta jenis ini, diantaranya adalah ukuran peta yang relatif sangat besar sehingga menyulitkan dalam pencarian lokasi tertentu. Keterbatasan yang lain adalah data peta yang kurang up to date. Hal ini disebabkan peta tersebut sudah dicetak di atas kertas sehingga informasi tersebut bersifat statis. Pada tugas akhir ini dikembangkan dua buah aplikasi, yang pertama ditujukan kepada user yang disebut dengan Map Online. Aplikasi kedua ditujukan kepada user sekaligus administrator disebut dengan Map Editor. Kedua aplikasi ini diharapkan dapat mengatasi beberapa keterbatasan dari peta manual. Peta yang digunakan sebagai inputan adalah peta digital yang mengikuti format ESRI shapefile. Map Online dibuat dengan bahasa pemograman PHP dan MapScript, Dan Map Editor dibuat dengan menggunakan program Delphi 7 dan komponen Map Objects dari ESRI. Dalam penggunaanya, user akan memasukkan keyword tertentu (wilayah, jalan, gereja, mall). Kemudian inputan tersebut akan diolah menjadi informasi dalam bentuk peta yang telah di-zoom sesuai hasil pencarian. User juga dapat menambahkan fasilitasfasilitas baru pada peta yang sudah ada. Berdasarkan hasil pengujian software, dapat disimpulkan bahwa aplikasi ini mampu membantu user dalam mencari tempat tertentu atau lokasi tertentu berserta informasi yang bersangkutan. Selain itu, Map Editor juga terbukti mampu memanipulasi peta yang ada sesuai dengan kebutuhan user.",
+  "creators": "HURAMA",
+  "contributors": "Resmana Lim (Advisor 1); Andreas Handojo (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01000330/INF/2005; Hurama Arifin (26401046)",
+  "subjects": "WEBSITES; INTERNET (COMPUTER NETWORK)"
+}

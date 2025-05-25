@@ -1,0 +1,14 @@
+{
+  "id": "46291",
+  "title": "Aplikasi penyaluran sampah anorganik non-residu berbasis android",
+  "abstract": "Pencemaran lingkungan setiap hari semakin meningkat seiring dengan bertambahnya jumlah produk dan pola konsumsi masyarakat pada umumnya. Hal ini yang harus dilakukan untuk mengatasi peningkatan volume sampah tersebut adalah dengan cara mengurangi produksi sampah khususnya jenis anorganik karena sulit untuk terurai serta meningkatkan kesadaran masyarakat untuk membuang sampahnya. Dilihat dari kedua aspek ini, masyarakat membutuhkan sebuah sistem yang mampu memberikan dorongan untuk membuang sampah. Aplikasi penyaluran sampah anorganik non-residu ini bertujuan membantu pemilik dalam meningkatkan kesadaran masyarakat untuk membuang sampah khususnya berjenis anorganik non-residu. Aplikasi ini akan dibuat menggunakan bahasa pemrograman Java dengan menggunakan Android Studio. Aplikasi berbasis android ini membantu admin untuk menambah drop post yang ada sehingga dapat menjangkau masyarakat yang ada di kota Surabaya secara merata. Selain itu, aplikasi ini juga melakukan pencatatan proses penyetoran sampah yang sudah dikonfirmasi oleh konfirmator serta pengambilan sampah oleh kurir sehingga admin bisa mendapatkan data perolehan sampah yang terkumpul. Hasil pengujian menunjukkan bahwa aplikasi ini berjalan dengan baik pada device dengan Android 7.1.1 (Nougat) namun tidak berjalan dengan baik untuk Android 4.4.3 (Kitkat) dikarenakan beberapa vitur hanya dapat berjalan pada Android 7.0.0 (Nougat) keatas. Aplikasi ini menjalankan fitur penyetoran sampah, penambahan drop post, fitur notifikasi, menampilkan informasi penyetoran, fitur obrolan, dan fitur navigasi yang memudahkan masyarakat dalam penggunaan aplikasi sehingga diharapkan dapat mendorong masyarakat untuk membuang sampah anorganiknya.",
+  "creators": "DANIEL CHRISTIAN TEDJA",
+  "contributors": "Alexander Setiawan (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021947/INF/2020; Daniel Christian Tedja (26415178)",
+  "subjects": "ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); APPLICATION SOFTWARE-DEVELOPMENT"
+}

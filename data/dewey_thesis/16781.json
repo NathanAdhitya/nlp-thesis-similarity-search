@@ -1,0 +1,14 @@
+{
+  "id": "16781",
+  "title": "Perencanaan dan pembuatan program generator denah 3-D dengan menggunakan virtual reality modelling language (VRML)",
+  "abstract": "Pada era informasi ini, transfer informasi atau data yang cepat dan tepat sangat diperlukan sekali. Tidak terkecuali juga tampilan atau biasa disebut user interface yang bagus dan familiar ke user sangat dibutuhkan. Oleh karena itu pada Tugas akhir ini dibuat suatu program untuk memudahkan user atau pengguna program tersebut membuat suatu denah 2-D tampak atas dari suatu ruang yang nantinya akan digenerate ke dalam bentuk file teks dengan format VRML (Virtual Reality Modelling Language). Adapun latar belakang dibuatnya program ini adalah kurangnya program akses data yang lebih dekat ke user, kurang efisiennya transformasi data atau informasi, tampilan 3-D yang sangat familiar, semakin berkembangnya teknologi Virtual Reality dan masih banyak latar belakang lainnya yang mendukung. File teks dengan format VRML didahului dengan sebaris teks header yaitu: #VRML VI.0 ascii, di mana file teks ini akan mempunyai extension .wrl setiap kali dibentuk. Header tersebut berguna sebagai identitas file teks tersebut saat dibaca oleh browser (Netscape Navigator Ver. 3.01 Gold). Juga terdapat 4 bentuk dasar yaitu kubus (cube), tabung (cylinder), bola (sphere) dan kerucut (cone) yang dimana dari kombinasi keempatnya didapat bentuk objek yang diinginkan. Sampai dengan penyelesaian akhir dari program didapatkan program generator denah 3-D dari peletakkan objek 2-D ke bidang gambar sampai pengeneratean ke file teks VRML. Dalam pembuatan dan pengujian ini disediakan objek yang dapat link ke file teks VRML yang lain yaitu pintu, papan pengumuman, tangga dan komputer. Dimana setiap peletakan objek tersebut dalam bidang gambar akan memunculkan window dialog masing-masing sebagai tempat penginputan properti teks yang akan digenerate ke file teks VRML. Disediakan juga window dialog untuk mengubah besar bidang gambar dengan menset nilai width dan height, dan juga window dialog untuk menentukan di direktori mana kita akan menyimpan file-file (Working Directory).",
+  "creators": "AGUNG WARDHANA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/KOM/008/030; Agung Wardhana (23492126)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); VIRTUAL REALITY MODELING LANGUAGE (VRML) (COMPUTER PROGRAM LANGUAGE)"
+}

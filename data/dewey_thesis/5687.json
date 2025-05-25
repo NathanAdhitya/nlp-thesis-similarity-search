@@ -1,0 +1,14 @@
+{
+  "id": "5687",
+  "title": "Alat ukur pertambahan panjang benang plastik berbasis PLC",
+  "abstract": "Tugas Akhir yang dibuat ini mengacu pada Tugas Akhir NO: 02010780/ELK/2006 karya Rizah Purbo Antoro dengan judul \"Alat Ukur Pertambahan Panjang Benang Plastik untuk Karung Berbasis Mikrokontroler MCS51\". Alat ukur tersebut telah dapat diimplementasikan dengan baik tetapi terdapat beberapa kelemahan pada desain mekanik, yaitu pada desain konfigurasi gear dan penggulung benang yang dapat mempengaruhi hasil pengukuran. Tugas Akhir ini bertujuan untuk memperbaiki desain mekanik sistem alat ukur tersebut agar dapat berfungsi dengan maksimal. Tugas Akhir ini memakai PLC OMRON CPM1 sebagai pengontrol utama menggantikan mikrokontroller yang telah dipakai sebelumnya dengan tidak mengurangi sistem dan fitur tampilan yang telah dibuat. Fitur tampilan pada tugas akhir ini memakai PC dengan sistem SCADA Wonderware menggantikan tampilan pada LCD grafis yang telah dipakai. Sistem SCADA Wonderware menggunakan InTouch untuk kontrol dan monitoring, MS-SQL Server dan InSQL Server untuk menyimpan data pada database, dan menggunakan Active Factory dan tabel database SQL Server untuk menampilkan data yang telah disimpan pada database. Berdasarkan hasil pengujian secara keseluruhan, perbaikan desain mekanik memberikan hasil yang lebih baik dari sistem sebelumnya. Hasil pengukuran yang telah dilakukan dengan menggunakan alat ukur ini menunjukkan hasil yang sesuai dengan standart sebesar 23%-30% yang ditetapkan perusahaan. Desain SCADA sistem dapat berfungsi dengan baik dan mampu melakukan pengontrolan, penyimpanan data dan menampilkan data yang telah disimpan.",
+  "creators": "ACHMAD RIDWAN",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010795/ELK/2006; Achmad Ridwan (23401111)",
+  "subjects": "MICRO CONTROLLERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "53126",
+  "title": "Sistem deteksi cacat kain berbasis deep learning menggunakan Arduino Portenta H7",
+  "abstract": "Tujuan dari tugas akhir ini adalah untuk membuat sebuah sistem deteksi kecacatan pada kain untuk sebuah pabrik garmen. Kami menggunakan Arduino Portenta H7 sebagai mikrokontroller utama, dilengkapi dengan sebuah algoritma deep learning, terutama FOMO (Faster Objects, More Objects), untuk melakukan deteksi objek. TensorFlow Lite digunakan dengan bantuan platform Edge Impulse untuk tugas akhir ini. Hasil deteksi ini dikirim ke PLC Siemens S7-1200 menggunakan protokol Modbus TCP. Dari ekperimen kami, sistem ini dapat mendeteksi tiga kecacatan secara bersamaan. Kecepatan maksimal dari konveyor, yang membawa kain, adalah 0,13 m/s dengan akurasi deteksi sebesar 97,80%.",
+  "creators": "MIGUEL LODEWIJK JONAS LUHULIMA",
+  "contributors": "Handy Wicaksono (Advisor 1); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011033/ELK/2022; Miguel Lodewijk Jonas Luhulima (C11180001)",
+  "subjects": "ARDUINO (PROGRAMMABLE CONTROLLER)--PROGRAMMING; AUTOMATIC CONTROL-COMPUTER PROGRAMS; INDUSTRIAL MANAGEMENT--TECHNOLOGICAL INNOVATIONS"
+}

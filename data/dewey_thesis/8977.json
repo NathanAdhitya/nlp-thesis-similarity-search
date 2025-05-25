@@ -1,0 +1,14 @@
+{
+  "id": "8977",
+  "title": "Perancangan dan pembuatan optimasi penjadwalan pengiriman pada PT. Indosipa Beton menggunakan messy genetic algorithm",
+  "abstract": "Perusahaan yang menyediakan jasa pengiriman selalu dituntut untuk memberikan pelayanan yang terbaik sehingga dapat memberikan kepuasan kepada pelanggan. Pelayanan tersebut berupa penjadwalan pengiriman yang tepat dan sesuai dengan keinginan pelanggan. PT. Indosipa Beton adalah perusahaan yang bergerak di bidang produksi dan penjualan beton siap pakai (ready-mix). Perusahaan ini membutuhkan penjadwalan pengiriman ready-mix yang cepat dan tepat. Algoritma yang digunakan untuk aplikasi ini adalah Messy Genetic Algorithm. Aplikasi dibuat dengan menggunakan bahasa pemrograman Delphi 7.0 dan database MySQL 5.0.2. Aplikasi ini dirancang untuk mengolah data pemesanan proyek pada PT. Indosipa Beton berdasarkan jumlah proyek, jumlah truk yang tersedia, dan waktu tempuh pengiriman tiap proyek pada satu hari tertentu sehingga menghasilkan jadwal pengiriman dan jumlah truk yang digunakan pada masing-masing proyek.",
+  "creators": "CHRISTIAN KOENCORO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); David Sundoro (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010656/INF/2007; Christian Koencoro (26403097)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

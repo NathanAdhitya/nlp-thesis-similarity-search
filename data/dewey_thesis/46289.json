@@ -1,0 +1,14 @@
+{
+  "id": "46289",
+  "title": "Pengenalan intent pada natural language understanding berbahasa Indonesia dengan menggunakan metode Convolutional Neural Network",
+  "abstract": "Untuk mengikuti perkembangan teknologi dan kebiasaan masyarakat, intelligent bot sudah menjadi bagian dari dunia bisnis yang membantu pelaku bisnis menjaga relasi dengan customer. Namun sayangnya resource untuk pembuatan intelligent bot berbahasa Indonesia masih sangat sedikit apabila dibandingkan dengan High Resource Language seperti English. Untuk itu perlu diadakan penelitian mengenai Natural Language Understanding Bahasa Indonesia, yang merupakan salah satu bagian penting dari intelligent bot. Metode yang digunakan adalah Convolutional Neural Network untuk melakukan training pada model. Model terdiri dari embedding layer, convolutional layer, max pooling, flatten, dropout, dan softmax layer. Dalam pembuatan model ada banyak variabel yang bisa diuji coba seperti dropout, jumlah filter, ukuran filter, dan sebagainya. Penelitian ini menunjukkan bahwa jumlah dan kualitas data untuk setiap kategori bisa mempengaruhi bagaimana suatu model memahami fitur dari kategori tersebut sehingga berdampak pada akurasi. Kualitas dari word2vec, salah satu resource penting yang digunakan di dalam model bisa memberikan dampak yang signifikan terhadap akurasi. Besar kecilnya dropout mempengaruhi bagaimana model menangkap fitur penting dari data. Dari berbagai pengujian, precision terbaik yang dihasilkan adalah 93 %.",
+  "creators": "DANIEL ADI",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021946/INF/2020; Daniel Adi (26416050)",
+  "subjects": "NATURAL LANGUAGE PROCESSING (COMPUTER SCIENCE)"
+}

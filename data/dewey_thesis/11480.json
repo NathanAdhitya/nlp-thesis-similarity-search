@@ -1,0 +1,14 @@
+{
+  "id": "11480",
+  "title": "Aplikasi scada sistem pada parkir mobil otomatis dengan menggunakan labview",
+  "abstract": "Semakin berkembangannya dunia otomasi dan sistem kontrol jarak jauh pada plant, menimbulkan kebutuhan akan aplikasi SCADA. Dengan penggunaan SCADA sistem diharapkan suatu plant akan dapat dikontrol dengan lebih mudah oleh operatornya. Pada tugas akhir ini telah dirancang sebuah SCADA sistem pada plant parkir mobil otomatis menggunakan program LabVIEW. Sistem kontrol pada plant yang digunakan untuk menggerakkan semua hardware pada plant secara otomatis maupun secara manual adalah Programmable Logic Controller (PLC) OMRON CPM1. Komunikasi antara PLC dengan PC menggunakan Host Link Protocol Communication pada Serial Port RS-232. SCADA sistem ini dilengkapi dengan indikator posisi lantai pada saat proses mobil parkir atau keluar, indikator posisi pallet mobil pada setiap slot parkir, indikator mobil parkir atau keluar, indikator pallet sedang turun atau naik, dan indikator pada proses peletakan atau pengambilan pallet mobil. Pengujian pada tugas akhir ini dilakukan dengan mengoperasikan SCADA sistem yang dibuat menggunakan program LabVIEW terhadap plant parkir mobil otomatis tersebut, dapat beroperasi dengan baik untuk mengontrol dan memonitor plant tersebut.",
+  "creators": "EDDY WIJAYANTO",
+  "contributors": "Thiang (Advisor 1); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010891/ELK/2009; Eddy WIjayanto (23405001)",
+  "subjects": "LABVIEW (COMPUTER PROGRAM); AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

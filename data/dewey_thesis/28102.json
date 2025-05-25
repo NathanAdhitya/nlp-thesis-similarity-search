@@ -1,0 +1,14 @@
+{
+  "id": "28102",
+  "title": "Perancangan dan pembuatan sisten informasi adminsitrasi pada Jaya Karya berbasis web",
+  "abstract": "Toko Jaya Karya adalah sebuah toko yang bergerak di bidang pembelian dan penjualan barang seperti beras, gula, indomie, dan rokok. Pada saat ini sistem pembelian dan penjualan pada Toko Jaya Karya masih menggunakan sistem manual. Hal ini menyulitkan pemilik Toko untuk mengetahui keuntungan atau kerugian yang didapatkan. Berdasarkan analisis permasalahan yang dihadapi oleh toko Jaya Karya, maka dilakukan pembuatan aplikasi untuk mendukung kinerja toko. Aplikasi diimplementasikan dapat memproses transaksi pembelian, retur pembelian, penjualan, retur penjualan, stock opname, pembayaran hutang dan piutang. Untuk mendesain sistem baru DFD digunakan aplikasi Power Designer 6, dan ERD digunakan aplikasi Power Designer 15.3. Aplikasi dibuat dengan menggunakan PHP dan MySQL sebagai penyimpan database. Aplikasi dapat melakukan penyimpanan data master dan transaksi, serta memberikan informasi berupa laporan yang diperlukan termasuk perhitungan laba rugi dengan menggunakan metode First In First Out (FIFO) yang mampu menghasilkan hasil yang akurat.",
+  "creators": "JUERGEN KLINSMAN WIBOWO",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021230/INF/2013; Juergen Klinsman Wibowo (26407133)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); WEBSITES"
+}

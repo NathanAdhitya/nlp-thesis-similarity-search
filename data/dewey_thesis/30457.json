@@ -1,0 +1,14 @@
+{
+  "id": "30457",
+  "title": "Perencanaan dan pembuatan alat monitor kondisi mesin-mesin listrik menggunakan mikroprosesor Z-80",
+  "abstract": "Peralatan pengontrol adalah peralatan yang sangat banyak dijumpai dalam industri terutama yang menggunakan mesin-mesin. Pada umumnya peralatan pengontrol itu mempunyai fungsi-fungsi khusus untuk satu jenis pengaman saja. Dengan demikian dalam perencanaan pembuatan alat monitor ini hendak dimanfaatkan teknologi mikroprosesor untuk digunakan sebagai alat kontrol yang dapat menggantikan beberapa jenis pengaman dalam satu peralatan. Sistem ini menggunakan Z80 CPU sebagai mikro­prosesor yang mengatur seluruh proses pengontrolan. Untuk dapat mengukur beberapa parameter dalam bentuk sinyal listrik digunakan transduser seperti; optocoupler dan IC detektor suhu. Transduser ini ditambah dengan sedikit rangkaian elektronik akan menghasilkan perubahan sinyal listrik yang sebanding dengan perubahan dari parameter yang hendak diukur. Sinyal analog yang diperoleh kemudian akan dikonversikan ke sinyal digital dengan ADC (Analog to Digital Converter). Dengan demikian CPU dapat memproses data yang masuk dan mengontrol besarannya. Data yang diperoleh dapat ditampilkan pula dengan menggunakan seven-segment. Batasan untuk masing-masing parameter yang ditentukan oleh operator dapat diprogram melalui sistim keyboard. Beberapa parameter yang dapat dideteksi dengan peralatan monitor ini adalah: - Tegangan - Arus - Kecepatan Putaran - Suhu - Level cairan - Jam Operasi. Dari parameter-parameter tersebut operator dapat memasukkan harga-harga maksimum yang tak boleh dilampaui selama proses berlangsung. Selain itu terdapat pula batasan dalam pengukuran ini di mana peralatan monitor tak sanggup untuk mendeteksinya lagi. Dengan sistem pengontrolan yang terprogram maka peralatan ini dapat digunakan untuk pengontrolan berbagai jenis mesin listrik maupun peralatan kerja lainnya dalam industri.",
+  "creators": "JOHN CANFI GOZAL",
+  "contributors": "SOETIKNO (Advisor 1); SUPENO DJANALI (Examination Committee 1); VINCENT PRASETYO (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 89/E/EL/014/0035; John Canfi Gozal (484021)",
+  "subjects": "DETECTORS; ELECTRIC CONTROLLER; INTEL Z-80 (MICROPROCESSOR)"
+}

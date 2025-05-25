@@ -1,0 +1,14 @@
+{
+  "id": "14842",
+  "title": "Arsitektur neuro fuzzy dalam learning speech recognition untuk pengendalian kecepatan motor universal",
+  "abstract": "Tugas akhir ini membahas tentang sistem \" Speech Recognition \" yang digunakan untuk mngendalikan kecepatan motor universal. Dalam pengontrolan kecepatan motor, perintah kata yang digunakan ada 5 buah kata dalam bahasa Indonesia. Kata tersebut adalah kata \"nol\", \"satu\", \"dua\", \"tiga\", dan \"empat\". Kata tersebut digunakan untuk mengendalikan motor dengan 4 tingkat kecepatan dan berhenti. Sistem ini menggunakan arsitektur Neuro Fuzzy sebagai sarana belajar dan dalam melakukan pengenalan. Hasil akhir yang dicapai sesuai dengan yang diharapkan, bahwa dengan sistem Neuro Fuzzy diperoleh hasil yang jauh lebih maksimal dibandingkan dengan sistem Neural Network saja. Dengan metode hybrid antara Neural Network dan Fuzzy Logic, maka sistem dapat mengenali ciri-ciri dasar dari karakteristik suara yang digunakan untuk perintah pengendalian kecepatan motor universal. Dari segi waktu belajar (learning), sistem Neuro Fuzzy memerlukan waktu jauh lebih cepat, yaitu sekitar pada interasi ke 160.000 sistem sudah dapat mengenali untuk 270 sampel suara, sedangkan dengan sistem Neural Network untuk 270 sampel suara sampai pada interasi ke 500.000 masih banyak yang belum dapat dikenali. Nilai persentase kebenaran Neuro Fuzzy lebih besar dibandingkan dengan sistem Neural Network saja, dengan sistem Neuro Fuzzy persentase kebenaran yang diperoleh mencapai 90 % sedangkan dengan sistem Neural Network saja hanya mencapai persentase 43,64 %, sehingga dengan menggunakan metode Neuro Fuzzy, sistem Speech Recognition menjadi lebih bersifat independent.",
+  "creators": "SUNTONO CHANDRA",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Advisor 1); Thiang (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/071/508; Suntono Chandra (23496048)",
+  "subjects": "FUZZY LOGIC; AUTOMATIC CONTROL-COMPUTER PROGRAM; NEURAL NETWORK (COMPUTER SERVICE)"
+}

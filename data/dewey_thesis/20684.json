@@ -1,0 +1,14 @@
+{
+  "id": "20684",
+  "title": "Perancangan dan pembuatan aplikasi validasi website sesuai dengan standart xhtml 1.0 strict",
+  "abstract": "Perkembangan internet tidak pernah berhenti pada masa kini. Makin banyak orang yang membutuhkan website, baik untuk website pribadi ataupun website untuk berjualan. Halaman - halaman website ini tentunya memiliki elemen - elemen HTML yang akan di render oleh browser sehingga dapat dibaca dengan mudah. Halaman website yang indah biasanya ditulis secara terstruktur dan juga memakai Cascading Style Sheet (CSS) untuk mempercantik tampilan website. Tentu saja, untuk mengecek kebenaran dari struktur elemen HTML diperlukan sebuah aplikasi validasi halaman website dan CSS. Oleh karena itu, dibuatlah aplikasi validasi yang dapat membantu web designer membuat sebuah website dengan elemen HTML dan CSS yang valid. Proses sistem validasi ini dimulai dengan lexical analysis, parsing, dan kemudian analisa token. Token yang dimaksud adalah nama elemen dan nama atribut. Token - token ini diperiksa kesesuaiannya dengan standar Document Type Definition (DTD). Selain token, pemeriksaan juga dilakukan terhadap struktur dari halaman website. Aplikasi ini juga dapat melakukan validasi terhadap CSS yang ada di sebuah halaman website. Pada aplikasi ini pengguna bisa langsung membetulkan halaman website yang tidak valid, sehingga mempersingkat waktu pembetulan. Aplikasi ini dibuat menggunakan Microsoft Visual Basic .NET 2008 sebagai framework pemrograman dan juga database Microsoft SQL Server 2008 Express. Berdasarkan hasil pengujian yang dilakukan pada aplikasi ini, dapat disimpulkan bahwa aplikasi ini dapat menemukan kesalahan baik untuk validasi kode HTML ataupun validasi CSS. Selain itu, aplikasi juga dapat memperbaiki halaman website sesuai dengan standar DTD XHTML 1.0 Strict.",
+  "creators": "YOHANES EDWIN SP",
+  "contributors": "Ibnu Gunawan (Advisor 1); Arlinah Imam Rahardjo (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021018/INF/2011; Yohanes Edwin SP (26407106)",
+  "subjects": "WEBSITES-DESIGN; INTERNET (COMPUTER NETWORK); PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

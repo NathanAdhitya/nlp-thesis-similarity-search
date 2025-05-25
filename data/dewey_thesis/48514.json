@@ -1,0 +1,14 @@
+{
+  "id": "48514",
+  "title": "Identifikasi jenis anjing berdasarkan gambar menggunakan convolutional neural network berbasis Android",
+  "abstract": "Anjing banyak dipelihara oleh masyarakat akan tetapi, untuk memelihara seekor anjing, terdapat beberapa faktor yang harus diperhatikan seperti pakan yang dikonsumsi, intensitas perawatan, serta kebersihan kandang atau lingkungan yang sesuai. Oleh karena itu, diperlukan sebuah aplikasi android untuk mengidentifikasi jenis anjing dan memberikan informasi yang berkaitan dengan jenis anjing tersebut. Metode yang digunakan adalah You Only Look Once untuk mendeteksi objek anjing pada gambar kemudian gambar anjing tersebut dipotong, hasilnya akan diolah oleh Convolutional Neural Network untuk mengidentifikasi jenis anjing berdasarkan gambar yang diberikan setelah itu menampilkan hasil identifikasinya pada android. Hasil pengujian menunjukkan bahwa hasil identifikasi dari CNN sangat bergantung pada hasil prediksi dari YOLO dikarenakan input dari CNN merupakan hasil prediksi dari YOLO. YOLO mempunyai kekurangan dimana akan mendeksi boneka anjing dan bulu anjing sebagai objek anjing. Hasil pengujian menunjukkan akurasi dari YOLO untuk mendeteksi anjing sebesar 94,242%, akurasi CNN model I sebesar 56,400%, akurasi CNN model II sebesar 40,000% dan akurasi CNN model III 50,400%.",
+  "creators": "KEVIN OKTOVIO LAUW",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Rolly Intan (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021979/INF/2020; Kevin Oktovio Lauw (26416104)",
+  "subjects": "ANDROID (ELECTRONIC RESOURCE)--PROGRAMMING; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

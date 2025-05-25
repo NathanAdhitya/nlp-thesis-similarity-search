@@ -1,0 +1,14 @@
+{
+  "id": "4926",
+  "title": "Perancangan dan pembuatan software artificial intelligence untuk game bomb fighter dengan fasilitas multiplayer",
+  "abstract": "Bermain game merupakan salah satu kegiatan yang disukai orang untuk menghilangkan kejenuhan di saat kita merasa jenuh dalam mengerjakan suatu pekerjaan ataupun pada saat waktu luang. Dengan adanya aplikasi ini, maka diharapkan dapat memenuhi keinginan para gamers untuk dapat bermain game secara bersama-sama (multiplayer). Dengan adanya bantuan dari Non Playable Character (NPC) yang memakai kecerdasan buatan (Artificial Intelligence atau A.I.) diharapkan supaya para gamers dapat tetap bermain walaupun tidak ada teman yang menemani bermain. Proses pembuatan software dimulai dengan pemilihan metode yang didasarkan pada pemenuhan kriteria-kriteria yang dibutuhkan dalam pembuatan Artificial Intelligence (A.I.). Metode yang dipakai adalah Steepest Ascent Hill Climbing, Production System dan Constraint Satisfaction. Setelah metode ditentukan, kemudian dilakukan proses analisis dan merancang kebutuhan yang dimulai dengan pembuatan flowchart system dengan menggunakan \"Microsoft Visio 2003\". Dalam pembuatan program ini digunakan software Borland Delphi 7 dengan bantuan Notepad untuk pembuatan file tambahan. Setelah melakukan percobaan, dengan melihat hasil dari pola jalan A.I. dapat disimpulkan bahwa proses pencarian jalan dengan memakai metode-metode yang ada sudah dapat menemukan jalan terbaik menuju target. Namun dalam proses menyerang target masih kurang baik dan diperlukan rule-rule yang lebih baik agar dapat membuat A.I. lebih pintar, supaya tidak hanya pintar mencari jalan menuju target tetapi juga pintar dalam proses penyerangan.",
+  "creators": "HENRY RAHARJO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010570/INF/2007; Henry Raharjo (26402180)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

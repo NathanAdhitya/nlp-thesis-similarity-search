@@ -1,0 +1,14 @@
+{
+  "id": "36669",
+  "title": "Aplikasi game life simulation peternakan domba menggunakan metode fuzzy",
+  "abstract": "Banyak orang yang berkeinginan untuk mempelajari dunia peternakan dengan lebih dalam, bukan hanya sekedar mengetahui nama dan bentuk hewan tersebut. Akan tetapi, tidak semua orang bisa bepergian setiap hari ke tempat peternakan untuk belajar mengenai siklus hidup hewan tersebut. Salah satu cara yang dapat digunakan untuk memberikan pengalaman belajar mengenai siklus hidup makhluk hidup dengan cara yang paling cepat adalah melalui game. Salah satu genre game yang dapat digunakan untuk memberikan aspek hiburan dan edukasi pada pemainnya adalah life simulation. Sebagai game life simulation, data yang digunakan asli dari penelitian terhadap domba. Untuk memberikan nuansa yang lebih nyata, game ini memiliki fuzzy state machine untuk menentukan perilaku yang akan dilakukan oleh hewan ketika sedang didekati lawan jenisnya. Dengan membuat simulasi domba dengan interface tiga dimensi, maka player akan merasakan pengalaman bermain yang lebih mirip dengan dunia nyata. Hal ini akan memberikan kesenangan lebih kepada para player. Game ini dibuat menggunakan Unity Engine dan scripting menggunakan C# dengan MonoDevelop. Dari hasil pengujian, sebagian kinerja AI domba dipengaruhi oleh perubahan input-an yang diperlukan untuk perhitungan fuzzy dan sebagian besar dipengaruhi oleh interaksi player di dalam game.",
+  "creators": "EVELYN NJOTO",
+  "contributors": "Liliana (Advisor 1); Rolly Intan (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021512/INF/2016; Evelyn Njoto (26412028)",
+  "subjects": "FUZZY LOGIC; ARTIFICIAL INTELLIGENCE-COMPUTER PROGRAMS; SIMULATION GAMES"
+}

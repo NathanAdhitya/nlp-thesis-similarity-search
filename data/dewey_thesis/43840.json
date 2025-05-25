@@ -1,0 +1,14 @@
+{
+  "id": "43840",
+  "title": "Perancangan modul pembelajaran sistem photovoltaic mandiri 90 watt di Universitas Kristen Petra",
+  "abstract": "Pada Program Studi Teknik Elektro Universitas Kristen Petra terdapat mata kuliah Konversi Energi Terbarui yang mempelajari tentang Sistem Photovoltaic yang membutuhkan modul pembelajaran untuk menunjang proses belajar mengajar. Modul pembelajaran ini dirancang dengan menggunakan 2 modul PV masing-masing 45 W dengan tipe RSM45, charger controller, aki, inverter dan Raspberry Pi 3 untuk merekam data V, I, P DC maupun AC dan faktor daya pada sisi AC. Parameter listrik yang diukur dikonversi ke nilai digital dengan menggunakan rangkaian ADC untuk diproses pada Raspberry Pi 3 yang cukup untuk merekam data selama 630 jam. Output hasil pengukuran dapat dieskpor ke program aplikasi semacam Microsoft Excel sehingga dapat dubuatkan grafik. Modul pembelajaran telah diuji coba selama 3 hari selama 9 jam setiap harinya dan menghasilkan output data pengukuran sesuai yang direncanakan. Error rata-rata setiap sensor dibawah sepuluh 10% dan error modul pembelajran secara keseluruhan adalah 4%.",
+  "creators": "GELFANTRI MANGALIK",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Murtiyanto Santoso (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010653/ELK/2018; Gelfantri Mangalik (23414024)",
+  "subjects": "PHOTOVOLTAIC CELLS--HANDBOOKS, MANUALS, ETC.; PHOTOVOLTAIC CELLS"
+}

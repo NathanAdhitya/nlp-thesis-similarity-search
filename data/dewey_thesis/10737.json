@@ -1,0 +1,14 @@
+{
+  "id": "10737",
+  "title": "Kontrol posisi motor dc dengan kontroler pid analog",
+  "abstract": "Pengontrolan suatu posisi dengan tepat memerlukan suatu kontroler yang dapat memberikan aksi pengontrolan yang baik. Kontrol posisi dengan tepat sangat dibutuhkan dalam berbagai bidang misal di bidang industri. Kontroler analog adalah suatu jenis kontroler yang sederhana yang dapat digunakan untuk mendapatkan aksi pengontrolan pada sistem kontrol yang tidak terlalu rumit. Kontroler PID analog akan dibuat dari suatu rangkaian elektronika analog mengunakan IC op amp. Kontroler PID tersebut akan mengatur lengan sehingga dapat berputar dari 0? sampai 180?. Pengaturan pada masing-masing parameter kontroler dari kontroler PID akan dilakukan dengan mencari besaran nilai Kp, Ki, dan Kd yang dapat memberikan pengontrolan yang paling baik pada sistem yang dibuat. Juga akan dilakukan pengontrolan dengan kombinasi dari parameter kontroler yang ada, sehingga dapat digunakan sebagai kontroler dengan aksi pengontrolan yang terbaik. Plant yang digunakan untuk kontrol posisi adalah suatu bentuk lengan yang dapat berputar sesuai dengan nilai set point yang diberikan. Lengan tersebut akan digerakkan oleh motor DC. Berdasarkan hasil pengujian dengan menggunakan kontroler proportional integral derivative (kontroler PID) akan didapatkan aksi kontrol yang paling baik. Sistem dapat mencapai nilai set point yang diinginkan sehingga tidak terdapat error steady state dan pada sistem tidak terdapat osilasi. Respon sistem dengan menggunakan kontroler PID akan lebih cepat untuk mencapai nilai set point yang diinginkan dengan nilai rise time 1,24s dengan menggunakan nilai Kp=10, Ki=1, dan Kd=10.",
+  "creators": "WILLIAM SIDYANTO",
+  "contributors": "Thiang (Advisor 1); Handy Wicaksono (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010859/ELK/2008; William Sidyanto (23401035)",
+  "subjects": "AUTOMATIC CONTROL; MOTORS-AUTOMATIC CONTROL"
+}

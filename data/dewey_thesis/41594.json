@@ -1,0 +1,14 @@
+{
+  "id": "41594",
+  "title": "Cara pendekatan perhitungan kuantitas pembesian pada kolom struktur beton bertulang",
+  "abstract": "Besi, beton, dan bekisting merupakan material utama beton bertulang. Estimasi kuantitas besi dilakukan seoptimal mungkin karena harga besi yang lebih mahal dibandingkan dengan material lain. Penelitian ini bertujuan untuk mengetahui kuantitas pembesian kolom struktur beton bertulang dengan menggunakan dua metode, yaitu metode definitif (Bar Bending Schedule) dan metode pendekatan. Data yang digunakan antara lain denah struktur, denah pondasi, dan detail struktur. Metode pendekatan menghitung volume besi per meter panjang, hasilnya dikalikan dengan tinggi kolom sehingga menghasilkan kebutuhan volume tulangan yang disebut Wpendekatan. Selain itu, kebutuhan besi juga dihitung menggunakan metode Bar Bending Schedule dan menghasilkan WBBS. Kemudian dicari nilai hasil bagi dari WBBS dan Wpendekatan. Dari penelitian, didapatkan 2 nilai α, yaitu 1.393 untuk tulangan utama dan 1.485 untuk sengkang. Selanjutnya, WBQ ditentukan dengan menggunakan nilai α dikalikan Wpendekatan dan panjang kolom. Penggunaan metode pendekatan dapat mempersingkat waktu perhitungan dan mendapatkan hasil yang mendekati perhitungan Bar Bending Schedule.",
+  "creators": "IVANA TANJUNG; RONALD ARISTOTELIN",
+  "contributors": "Budiman Proboyo (Advisor 1); Indriani Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 21012231/SIP/2018; Ivana Tanjung (21414011), Ronald Aristotelin (21414098)",
+  "subjects": "BUILDING ESTIMATES; CONSTRUCTION INDUSTRY-MANAGEMENT; REINFORCED CONCRETE"
+}

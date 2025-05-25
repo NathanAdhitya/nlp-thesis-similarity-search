@@ -1,0 +1,14 @@
+{
+  "id": "5747",
+  "title": "Stage beam controller",
+  "abstract": "Stage beam controller yang banyak dipakai saat ini masih menggunakan kabel power yang panjang dan masih menggunakan banyak saklar untuk mengontrol seluruh lampu panggungnya, hal ini kurang efektif sehingga operator rawan membuat kesalahan dalam mengontrol permainan lampu panggung. Sedangkan kabel power besar yang berserakan apabila terkelupas mudah menimbulkan kebakaran, dan setiap saat mengancam keselamatan jiwa operator yang bersangkutan. Oleh karena itu diperlukan suatu stage beam controller yang mudah dalam pengoperasiannya, dan aman. Sistem ini dibuat menjadi 2 buah bagian yang dapat diprogram. Sistem I terletak pada ruang kontrol menggunakan keypad matriks 4x4, mikrokontroler AT89S52 dan memori AT24C16, sedangkan sistem II terletak pada bagian panggung juga menggunakan mikrokontroler AT89S52 dan Triac Q4004L4 sebagai driver lampunya. Untuk keperluan komunikasi kedua sistem dengan jarak tidak lebih dari 50m digunakan komunikasi secara serial menggunakan MAX232. Pengujian dilakukan dengan mencoba menu-menu yang disediakan stage beam controller untuk melakukan pengontrolan permainan lampu panggung. Pengujian tersebut yaitu pengujian pemrograman sistem, pengujian me-load program per langkah atau per tampilan (satu per satu tampilan lampunya), dan yang terakhir pengujian me-load program secara otomatis. Dari pengujian yang dilakukan, stage beam controller sudah dapat berjalan dengan baik.",
+  "creators": "ALBERTUS WIDYANTO SUSILO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010771/ELK/2006; Albertus Widyanto. S (23499096)",
+  "subjects": "LIGHTING-SPECIAL EFFECTS; PROGRAMMABLE CONTROLLER"
+}

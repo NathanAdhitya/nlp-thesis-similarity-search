@@ -1,0 +1,14 @@
+{
+  "id": "8809",
+  "title": "Teknik reduksi data menggunakan principal component analysis pada odour recognition",
+  "abstract": "Sebagai teknologi baru, teknologi sensor gas membawa manfaat besar dalam perkembangan dunia industri. Aplikasi dari teknologi ini biasanya menggunakan lebih dari sebuah sensor gas, biasanya menggunakan kombinasi beberapa sensor gas yang mempunyai karakteristik berbeda-beda. Data 15 zat yang akan digunakan dalam Tugas Akhir ini sudah tersedia dalam bank data. Dimana untuk database telah dipilih 20 macam konsentrasi yang dianggap mewakili tiap zat. Sedangkan sisanya akan digunakan untuk data pengujian. Pengambilan data dilakukan dengan menggunakan 4 macam gas sensor yaitu TGS 2600, TGS 2610, TGS 2611 dan TGS 2620. Tugas akhir ini sebenarnya adalah pengembangan dari Tugas Akhir Billy yang berjudul \"Simulasi Odour dengan Menggunakan Fuzzy Logic\". Karena jumlah dimensi data yang besar, maka dalam Tugas Akhir Billy data direduksi dengan menggunakan rata-rata. Teknik reduksi ini dianggap kurang mewakili data aslinya. Oleh sebab itu, dalam Tugas Akhir ini akan digunakan metode Principal Component Analysis (PCA) untuk mereduksi data. Setelah data direduksi dilanjutkan dengan tahap recognition. Ada 2 macam metode yang digunakan dalam tugas akhir ini yaitu me tode fuzzy matching dan nearest neighbour. Langkah yang terakhir, program yang telah dibuat diuji untuk menghitung prosentase keberhasilan pengenalannya. Dari pengujian didapat bahwa dengan menggunakan PCA, data dapat direduksi reduksi sebesar 93,75% dengan tingkat keberhasilan untuk mengenali zat sebesar 99,53% jika menggunakan fuzzy matching dan 99,56% jika menggunakan nearest neighbour.",
+  "creators": "YUDI PRASETYO",
+  "contributors": "Anies Hannawati (Advisor 1); Thiang (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/615/ELK/2003; Yudi Prasetyo (23498119)",
+  "subjects": "AUTOMATIC CONTROL"
+}

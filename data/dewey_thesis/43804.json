@@ -1,0 +1,14 @@
+{
+  "id": "43804",
+  "title": "Implementasi pengenalan traffic light duckiebot pada duckietown",
+  "abstract": "Duckietown adalah sebuah proyek penelitian yang berfokus pada selfdriving vehicle dan high-level autonomy. Tugas akhir ini bertujuan untuk mengendalikan duckiebot saat menemukan adanya traffic light. Duckiebot terdiri dari Raspberry Pi 3 sebagai controller, fisheye lens camera sebagai sensor, dan motor dc sebagai aktuator. Raspberry Pi 3 menerima dan memproses gambar yang didapat oleh kamera menggunakan library OpenCV. Dalam pemrosesan gambar, pertama adalah penentuan lokasi traffic light. Kemudian pengambilan range warna traffic light yang akan diproses untuk menghasilkan aksi kontrol aktuator agar berjalan atau berhenti. Aksi kontrol aktuator dilakukan dengan menggunakan Robot Operating System (ROS). Pengujian dilakukan dengan cara melihat hasil deteksi, menjalankan mode lane following, mengubah-ubah pencahayaan, dan memberi gangguan berupa spanduk yang sewarna. Berdasarkan hasil pengujian, kamera dapat digunakan sebagai sensor duckiebot untuk mengenali traffic light, tapi kamera sangat sensitif terhadap perbedaan pencahayaan sehingga untuk kondisi terang, gelap, dan backlight akan memiliki hasil yang berbeda.",
+  "creators": "ERWIN SANJAYA",
+  "contributors": "Handry Khoswanto (Advisor 1); Resmana Lim (Advisor 2); Dewana Noeswantara (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010973/ELK/2018; Erwin Sanjaya Loeminto (23414002)",
+  "subjects": "RASPBERRY PI (COMPUTER); ELECTRICAL ENGINEERING"
+}

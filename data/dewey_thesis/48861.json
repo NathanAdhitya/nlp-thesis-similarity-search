@@ -1,0 +1,14 @@
+{
+  "id": "48861",
+  "title": "Optimasi biaya pondasi dangkal dengan metode metaheuristik",
+  "abstract": "Pondasi adalah bagian dari struktur bangunan yang berfungsi meneruskan beban struktur atas ke lapisan tanah dengan aman. Sementara pondasi dangkal digunakan apabila lapisan tanah keras terletak dekat dengan permukaan tanah. Untuk mendapatkan hasil desain pondasi dangkal yang optimal, terdapat tiga kriteria penting yang harus diperhatikan yaitu Ultimate Limit State (ULS), Serviceability Limit State (SLS), dan ekonomis. Sehingga, penggunaan metode optimasi yang baik akan membantu menghasilkan dimensi pondasi yang optimal dan ekonomis namun tetap memenuhi syarat aman. Penelitian-penelitian sebelumnya mengindikasikan bahwa metode metaheuristik dapat digunakan sebagai alternatif yang mampu menyelesaikan permasalahan optimasi yang ada. Oleh karena itu, penelitian ini menggunakan metode metaheuristik Particle Swarm Optimization (PSO) dan Symbiotic Organisms Search (SOS) untuk menyelesaikan permasalahan optimasi pondasi dangkal. Pada penelitian ini, optimasi pondasi dangkal dilakukan terhadap pondasi setempat dan pondasi lajur untuk studi kasus bangunan dua lantai dan bangunan lima lantai. PSO dan SOS bekerja untuk menemukan solusi dimensi pondasi dangkal yang diharapkan dapat memiliki biaya konstruksi terendah dan dibatasi oleh constraint dari SNI 8460:2017, SNI 2847:2013, dan bearing capacity theory. Hasil penelitian menunjukkan bahwa metode metaheuristik mampu menemukan dimensi pondasi dangkal yang optimal untuk masing-masing studi kasus. Selain itu, dapat dilihat apabila algoritma SOS memiliki performa yang lebih baik dari PSO.",
+  "creators": "VANIA REGINA HUSADA; FERDIAN NATHANAEL",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Wong Foek Tjong, S.T., M.T., Ph.D. (Examination Committee 1); Daniel Tjandra (Examination Committee 2); Y.T. Teddy Susanto, S.T., M.S. (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 21012477/SIP/2021; Vania Regina Husada (B11170039)Ferdian Nathanael (B11170040)",
+  "subjects": "PILING (CIVIL ENGINEERING)-DESIGN AND CONSTRUCTION; PILING (CIVIL ENGINEERING)"
+}

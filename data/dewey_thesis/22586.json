@@ -1,0 +1,14 @@
+{
+  "id": "22586",
+  "title": "Perancangan dan pembuatan aplikasi klasifikasi citra observasi bintik matahari menggunakan metode backpropagation dan self-organized maps",
+  "abstract": "Melakukan forecasting dan memberikan informasi tentang gangguan cuaca yang disebabkan oleh bintik matahari adalah salah satu tugas dari LAPAN. Penyampaian informasi tersebut perlu dilakukan secara periodik, sehingga dibutuhkan sebuah aplikasi untuk melakukan klasifikasi bintik matahari secara otomatis. Oleh karena itu, pada skripsi ini, dibuat sebuah aplikasi untuk melakukan klasifikasi bintik matahari menggunakan jaringan syaraf tiruan backpropagation dan self-organized maps. Proses klasifikasi dimulai dengan proses training dengan data yang sudah diklasifikasi untuk menghasilkan struktur weight dari masing-masing jaringan syaraf tiruan. Kemudian, struktur weight tersebut digunakan untuk melakukan klasifikasi untuk data-data baru. Aplikasi ini dibuat menggunakan Microsoft Visual C# 2005. Hasil pengujian menunjukkan bahwa data yang digunakan dalam proses training sangat mempengaruhi akurasi dari klasifikasi. Dibutuhkan training data yang konsisten untuk mendapatkan akurasi yang tinggi. Backpropagation dengan weight belum konvergen dapat mencapai akurasi 70,69%. Self-organized maps dapat mencapai akurasi 86,21%.",
+  "creators": "ALVIN NATHANIEL T",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Rudy Adipranata (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020992/INF/2011; Alvin Nathaniel Tjondrowiguno (26407068)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

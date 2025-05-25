@@ -1,0 +1,14 @@
+{
+  "id": "7373",
+  "title": "Perancangan dan pembuatan sistem administrasi berbasis web di Wisma Musik Rhapsody",
+  "abstract": "Sistem administrasi pada W. M. Rhapsody yang bergerak dalam bidang musik, saat ini masih menggunakan sistem manual, di mana semua transaksi masih menggunakan media kertas dan kalkulator. Hal tersebut mengakibatkan banyak terjadi kekeliruan dalam pencatatan sehingga data-data yang dihasilkan tidak akurat. Untuk pengembangan usahanya, maka dibutuhkan suatu sistem baru untuk dapat memperbaiki sistem yang dipakai saat ini. Sistem administrasi ini akan digabung dengan sitem pendafaran murid baru yang sudah ada. Proses perancangan dan pembuatan program dimulai dengan mempelajari dan menganalisis sistem perusahaan yang ada saat ini, menyusun dan membuat DFD, ERD dan tabel-tabel yang dibutuhkan serta pembuatan program database dengan menu utama Master Profil, Supplier, Ujian, Lomba, Nota-nota dan Laporan. Sistem ini akan dibangun pada komputer server dengan sistem operasi Windows 98, pembuatan database dengan MySQL, HTML sebagai bahasa markup, dan PHP sebagai scripting engine-nya. Aplikasi administrasi yang sudah diimplementasikan dapat membuat proses administrasi pada W. M. Rhapsody menjadi lebih mudah dan terperinci sebab terdapat pencatatan setiap transaksi dan adanya laporan-laporan serta adanya koneksi antar cabang dengan server. Setiap kali transaksi, cabang harus melakukan koneksi ke server terlebih dahulu. Selain itu, keamanan data dengan sistem komputerisasi lebih terjamin, karena setiap user mempunyai hak akses yang berbeda sesuai dengan bidangnya.",
+  "creators": "SHANTY CHANDRA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000338/INF/2005; Shanty Chandra (26401069)",
+  "subjects": "WEBSITES; INTERNET (COMPUTER NETWORK)"
+}

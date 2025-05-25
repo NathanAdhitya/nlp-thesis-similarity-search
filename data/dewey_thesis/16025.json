@@ -1,0 +1,14 @@
+{
+  "id": "16025",
+  "title": "Perencanaan penjadualan perawatan mesin pada PT Asia Victory Industri, Ltd.",
+  "abstract": "Penjadualan perawatan mesin memegang peranan yang cukup penting dalam menunjang lancarnya proses produksi. Penulisan tugas akhir yang dilakukan di PT. Asia Victory Industri Ltd ini, bertujuan untuk merancang suatu sistem penjadualan perawatan mesin. Metode penjadualan perawatan mesin yang digunakan adalah metode deterministik single dan parallel machine dengan memperhitungkan release date, bobot, precedence dan allowance dengan prosedur Weighted shortest processing time yang bertujuan untuk meminimumkan makespan. Data yang diambil adalah data perawatan mesin-mesin dan jumlah tenaga mekanik serta listrik yang berada pada unit 7. Setelah memperoleh metode yang akan dipakai, maka dibuat Gantt chart untuk memperoleh waktu penyelesaian {makespan) yang minimum. Hasil akhir yang diperoleh adalah penjadualan perawatan dalam bentuk Gantt chart.",
+  "creators": "FANDY",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); RONALD E. STOCK (Advisor 2); Daniel Indarto Prajogo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 203/TI-29/1999; Fandy (25494055)",
+  "subjects": "PLANT MAINTENANCE; MAINTAINABILITY (ENGINEERING); RELIABILITY (ENGINEERING)"
+}

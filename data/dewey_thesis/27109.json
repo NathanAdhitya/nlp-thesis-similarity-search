@@ -1,0 +1,14 @@
+{
+  "id": "27109",
+  "title": "Analisa plane frame dengan finite element",
+  "abstract": "Methode Finite Element adalah suatu procedure secara numerik untuk menyelesaikan persamaan-persamaan differential parsiil baik dalam fisika maupun engineering. Salah satu formulasi yang dipakai dalam penyelesaian methode Finite Element adalah dengan Variational Method, yang berdasarkan pada prinsip minimum potensial energi. Bentuk element yang dipilih adalah bar element, dengan peninjauan terhadap dua nodal point per-element. Di sini ternyata hasil yang diperoleh sudah cukup baik, sehingga dengan peninjauan terhadap nodal point yang lebih banyak lagi adalah tidak ada manfaatnya, karena akan menghabiskan storage memory dalam computer saja.",
+  "creators": "RIDWAN H.; DEWI S. A.",
+  "contributors": "Ir. Soehendro Ratnawidjaja, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 115 S; Ridwan H. (275021), Dewi S.A. (275021)",
+  "subjects": "FRAMING (BUILDING); STRUCTURAL FRAME"
+}

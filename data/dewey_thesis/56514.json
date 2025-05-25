@@ -1,0 +1,14 @@
+{
+  "id": "56514",
+  "title": "Klasifikasi intent pada Chatbot sebagai pendukung pembuatan dokumen sistem jaminan produk halal dengan Siamese Network BiLSTM",
+  "abstract": "Kurangnya aksesibilitas informasi bagi Usaha Mikro Kecil dan Menengah (UMKM) dalam membuat dokumen Sistem Jaminan Produk Halal (SJPH) menyebabkan para UMKM lebih suka bertanya langsung. Paspor UMKM ingin memanfaatkan chatbot untuk menyaring pertanyaan yang dapat dijawab oleh chatbot dan menyediakan bantuan manusia untuk pertanyaan yang kompleks. Chatbot dibangun dengan perbandingan berbagai metode klasifikasi intent. Selain itu, digunakan Siamese Network Triplet Loss Bi-directional Long Short-Term Memory (BiLSTM) dengan perbandingan embedding Term Frequency – Inverse Document Frequency (TF-IDF), Word2Vec, dan FastText untuk membangun representasi vektor lebih baik dan membantu prediksi label intent lebih akurat. Flat Intent Classification dengan TF-IDF tanpa Siamese Network BiLSTM menggunakan klasifikasi Multi-layer Perceptron (MLP) mencapai akurasi test tertinggi sebesar 89,09%. Siamese Network BiLSTM mampu meningkatkan rata-rata akurasi pada Word2Vec dan FastText, namun kurang efektif pada TF-IDF. Hierarchical Intent Classification dengan TF-IDF tanpa Siamese Network BiLSTM yang berbeda pada setiap model klasifikasi MLP mencapai akurasi test tertinggi sebesar 95,46%. Pengujian chatbot yang dilakukan oleh 3 responden dari PasporUMKM sebanyak 83 pertanyaan mendapatkan akurasi prediksi intent chatbot sebesar 81%, sementara akurasi respon jawaban chatbot sebesar 76%.",
+  "creators": "YUNUS MARSETIO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Liliana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022274/INF/2023; Yunus Marsetio (C14190065)",
+  "subjects": "COMPUTER SOFTWARE--DEVELOPMENT; SCRIPTING LANGUAGES (COMPUTER SCIENCE); ARTIFICIAL INTELLIGENCE--BUSINESS APPLICATIONS"
+}

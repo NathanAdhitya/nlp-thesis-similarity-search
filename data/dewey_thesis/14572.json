@@ -1,0 +1,14 @@
+{
+  "id": "14572",
+  "title": "Pembuatan push e-mail client untuk mobile device dengan java",
+  "abstract": "Saat ini perkembangan Information Technology (IT) sangat cepat dalam hal ini adalah penggunaan e-mail. Saat ini e-mail merupakan salah satu alat komunikasi yang banyak digunakan oleh masyarakat. Biasanya aplikasi e-mail yang sudah ada digunakan pada komputer sehingga user tidak bisa mengakses aplikasi tersebut apabila sedang tidak berada di depan komputer. Serta aplikasi e-mail yang bisa dipakai secara mobile pada umumnya tidak dapat menerima e-mail secara langsung atau yang dikenal dengan istilah push mail. Pada skripsi ini, dibuat aplikasi yang mendukung pekerjaan yang dilakukan secara mobile. User dapat melakukan komunikasi e-mail melalui perangkat mobile device yang dimiliki. Hal ini sangat membantu user karena dapat dilakukan dimana saja asalkan masih dalam jangkauan jaringan telepon seluler yang digunakan oleh user. Aplikasi ini dibuat dengan protokol SMTP untuk melakukan pengiriman e-mail dan IMAP idle untuk menerima e-mail. Aplikasi ini dibuat dengan menggunakan bahasa pemrograman Java Netbeans 6.5 dan sebagai pengujian yang digunakan adalah mail server John dan perangkat mobile device menggunakan Nokia dan Sony Erricson. Berdasarkan pengujian, aplikasi ini dapat dijalankan pada perangkat mobile device yang mendukung Java dengan menggunakan mail server john, gawab dan AOL. Aplikasi yang dibuat hanya dapat berjalan pada protocol IMAP dengan port 143 dan SMTP menggunakan port 25. Pengiriman e-mail hanya dapat dilakukan pada Java emulator atau menggunakan IP yang tidak masuk dalam daftar blacklist mail server. Waktu yang dibutuhkan mail server untuk melakukan push e-mail ke client bervariasi hal ini dipengaruhi oleh kecepatan yang didapat dari jaringan yang disediakan oleh operator yang digunakan dan mail server yang digunakan.",
+  "creators": "ROBERT GUNAWAN",
+  "contributors": "MARTIN SETIAWAN (Advisor 1); Andreas Handojo (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020838/INF/2009; Robert Gunawan (26405038)",
+  "subjects": "MOBILE COMMUNICATION SYSTEMS; ELECTRONIC MAIL SYSTEMS; INTERNET (COMPUTER NETWORK)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "9192",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi atas transaksi simpan pinjam di koperasi \"X\"",
+  "abstract": "Sistem akuntansi di Koperasi \"X\" masih menggunakan cara manual yaitu pencatatan transaksi simpan pinjam pada buku koperasi, sehingga membutuhkan waktu yang lama untuk mendapatkan informasi yang diinginkan. Oleh karena itu dibutuhkan sistem informasi akuntansi yang memadai, untuk memproses pencatatan secara otomatis dan menghasilkan infomasi yang cepat dan tepat. Pembuatan sistem infomasi akuntansi dimulai dari analisa dan pengamatan terhadap sistem koperasi. Sistem infomasi akuntansi yang dibangun merupakan integrasi dari modul simpan, modul pinjam dan akuntansi (pencatatan). Software ini dibuat dengan menggunakan SQL Server 2000 untuk database-nya dan menggunakan Borland Delphi 7.0 sebagai compilernya. Dari hasil pengujian program menunjukkan bahwa program ini mampu memproses data akuntansi yang berhubungan dengan transaksi simpan pinjam secara otomatis dan menghasilkan informasi berupa laporan manajerial dan laporan keuangan. Penilaian user terhadap ketepatan sebesar 91.25 %, terhadap kecepatan proses sebesar 90 %, terhadap penampilan sebesar 62.5 % dan terhadap kemudahan penggunaan aplikasi sebesar 81.6 %. Secara keseluruhan dapat disimpulkan bahwa aplikasi sudah sesuai, dapat dimengerti oleh user serta memenuhi kebutuhan sistem sebesar 80.5 %.",
+  "creators": "EVI",
+  "contributors": "Sri Maharsi (Advisor 1); Andreas Handojo (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000501/INF/2006; Evi (26402017)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "16122",
+  "title": "Perencanaan dan pembuatan sistem pengenalan suara dengan jaringan syaraf tiruan metode back propagation menggunakan personal computer",
+  "abstract": "Pada tugas akhir ini dibuat suatu sistem pengenalan suara manusia dengan jaringan saraf tiruan metode back propagation menggunakan personal computer. Jaringan saraf tiruan yang dibuat mempunyai hidden layer minimal dua buah. Dan akan diteliti pengaruh hidden layer terhadap word error rate yang dihasilkan serta pengaruh learning rate dan momentum terhadap word error rate. Sinyal suara analog mula-mula dicuplik menjadi sinyal digital dengan kecepatan cuplik 8000 Hz. Kemudian hasil cuplik tersebut dinormalisasi. Untuk proses ekstraksi parameter suara digunakan metode Linear Predictive Coding (LPC) dimana dalam perhitungan cuplikan data menuju ke vektor autokorelasi digunakan algoritma Durbin yang kemudian dari vektor autokorelasi tersebut diturunkan menjadi koefisien cepstral. Koefisien cepstral LPC ini dimasukkan ke Fast Fourier Transform (FFT) 512 point dan hasil FFT ini diambil setengahnya (256 data) kemudian dibagi menjadi 32 blok dimana masing-masing blok berisi 8 data dan dihitung rata-ratanya. Hasil perhitungan tersebut kemudian dimasukkan ke proses jaringan saraf tiruan untuk proses pengenalan. Setelah dilakukan pengujian, didapat parameter yang optimum yaitu jumlah hidden layer jaringan saraf tiruan ialah tiga buah dengan masing-masing node berjumlah 160, 100 dan 30 data. Nilai learning rate yang optimum ialah 0,5 serta nilai momentum ialah 0,75. Hasil pengujian keakuratan sistem pengenalan suara untuk training data set mencapai 90 % dan untuk blind data set mencapai 98 %. Pengenalan suara ini diaplikasikan untuk menjalankan suatu perintah pada komputer, sehingga komputer dapat melaksanakan perintah tanpa pengguna harus menekan tombol keyboard.",
+  "creators": "RUDY ADIPRANATA",
+  "contributors": "Resmana Lim (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/KOM/015/019; Rudy Adipranata (23492155)",
+  "subjects": "NEURAL NETWORKS; NEURAL NETWORKS (COMPUTER PROGRAMS)"
+}

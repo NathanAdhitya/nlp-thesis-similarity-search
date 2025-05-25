@@ -1,0 +1,14 @@
+{
+  "id": "8304",
+  "title": "Spectrum analyzer menggunakan metode fast fourier transform dengan media soundcard",
+  "abstract": "Kebutuhan akan penggunaan spectrum analyzer masih cukup tinggi, namun kesulitan untuk memiliki, menggunakan dan membawanya juga masih tinggi. Karena itu dibuat suatu software Spectrum Analyzer yang dapat memberikan berbagai fasilitas sebagai spectrum analyzer, oscilloscope dan sound generator. Software ini dibuat dengan menggunakan Delphi programming language, WindowsXP operating system, metode Fast Fourier Transform dan media soundcard. Line-in soundcard digunakan untuk mengambil sinyal input yang kemudian ditampilkan pada layar monitor. Software ini menggunakan FFT sebesar 1024 poin dan juga frekuensi sampling sebesar 44100Hz sehingga dapat menampilkan frekuensi hingga 20KHz. Hasil pengujian menunjukan bahwa software spectrum analyzer ini memiliki kinerja yang baik hanya pada frekuensi 4KHz-16KHz (sedang). Hal ini disebabkan karena keterbatasan soundcard dan tidak adanya filter. Pengujian Spectrum analyzer menggunakan dua jenis soundcard yaitu soundcard onboard ACER dan soundcard BuffTech. Hasilnya, dengan kualitas soundcard yang lebih baik didapatkan hasil yang menyamai pengukuran dengan alat Spectrum Analyzer.",
+  "creators": "CHARLES POERWANTO",
+  "contributors": "Hany Ferdinando (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010800/ELK/2006; Charles Poerwanto (23402013)",
+  "subjects": "FOURIER TRANSFORM SPECTROSCOPY; SPECTRUM ANALYSIS-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "16896",
+  "title": "Perencanaan dan pembuatan switching otomatis supply listrik dari PLN ke emergency generator yang dikendalikan dengan komputer",
+  "abstract": "Dalam suplai tenaga listrik kadangkala terjadi gangguan listrik sehingga kekontinuitasan aliran listrik mengalami gangguan. Oleh karena itu diperlukan peralatan yang dapat mengatasi hal diatas secara otomatis. Pada dasarnya peralatan ini melakukan pemeriksaan terhadap tegangan dan frekuensi dari suplai PLN sehingga gangguan yang terjadi dapat dideteksi oleh komputer. Dengan adanya gangguan tersebut, maka komputer akan berusaha mengalihkan suplai dari PLN ke generator. Komputer akan terus mendeteksi kondisi suplai listrik PLN dan berusaha mengalihkan suplai dari generator ke PLN jika gangguan suplai dari PLN sudah teratasi. Berdasarkan hasil pengujian peralatan, gangguan tegangan yang dapat dideteksi sebesar 220 V ? 5% dan frekuensi dapat dideteksi sebesar 50 Hz ? 2% serta komputer dapat menjaga kekontinuitasan listrik secara otomatis.",
+  "creators": "RIZAL ZEFANYA S",
+  "contributors": "BUNAWI GUNAWIDJAJA (Advisor 1); Andojo Ongkodjojo (Advisor 2); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/TST/004/241; Rizal Zefanya Subrata (23489043)",
+  "subjects": "ELECTRIC GENERATORS-AUTOMATIC CONTROL; SWITCHING POWER SUPPLIES"
+}

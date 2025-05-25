@@ -1,0 +1,14 @@
+{
+  "id": "54001",
+  "title": "Order fulfilment pada taksi online dengan mempertimbangkan prioritas penumpang menggunakan metode recency, frequency dan monetary",
+  "abstract": "Seiring dengan berkembangnya teknologi di Indonesia, perusahaan taksi online menjadi salah satu bidang yang mulai dikembangkan. Untuk menjaga hubungan baik dengan penumpang dan meningkatkan pelayanan pada loyal penumpang, perusahaan taksi online tentu perlu membuat pelayanan khusus pada penumpang yang lebih loyal. Dalam penelitian ini, akan diterapkan faktor-faktor untuk meningkatkan pelayanan pada loyal penumpang seperti faktor rating pengemudi, jumlah trip, serta skor RFM pengemudi dan penumpang. Metode yang digunakan untuk memberikan ranking pada pengemudi dan pengemudi menggunakan metode RFM dan filtered RFM. Metode yang digunakan untuk memasangkan pengemudi dan penumpang dalam proyek ini menggunakan metode Hungarian. Simulasi akan dijalankan dengan dua kali percobaan, yaitu secara online (menggunakan Google Maps API dan database online) dan secara offline. Penelitian ini menunjukkan bahwa dengan menambahkan faktor-faktor tambahan seperti skor RFM pengemudi dan penumpang, rating pengemudi, dan jumlah perjalanan pengemudi disertai dengan limit waktu penjemputan penumpang tidak memberikan perbedaan pada waktu assign time, waktu tunggu penumpang, dan waktu jemput penumpang tetapi lebih mendahulukan penumpang dan pengemudi dengan faktor prioritas tersebut di atas. Selain itu, kecepatan internet juga memiliki pengaruh yang cukup besar pada simulasi order fulfilment berbasis website.",
+  "creators": "VIONA ANGELICA",
+  "contributors": "Andreas Handojo (Advisor 1); Tanti Octavia (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022192/INF/2022; Viona Angelica (C14180157)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); WEB SITES--DESIGN; APPLICATION SOFTWARE--DEVELOPMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "14945",
+  "title": "Perencanaan dan pembuatan alat pemilah barang berdasarkan klasifikasi beratnya dengan menggunakan mikroprosesor 8088",
+  "abstract": "Pada jaman industri ini, banyak perusahaan dan pabrik-pabrik yang ditunjang oleh peralatan elektronik baik hanya sebagai kontrol maupun merupakan suatu sistem mekanik yang terkontrol. Pembuatan alat pemilah barang berdasarkan beratnya ini dimaksudkan untuk membantu kelancaran proses produksi yaitu dengan cara memisahkan barang-barang, buah-buahan dan sebagainya secara otomatis. Mula-mula ditentukan klasifikasi berat (batas atas dan batas bawah) dari barang-barang yang hendak dipilahkan lewat keyboard dan ditampilkan pada display seven segment. Kemudian barang-barang yang akan dipilahkan dilewatkan conveyor untuk dikirim ke alat penimbang. Sebagai sensor berat digunakan dua buah strain gauge type FLA 10-11, yang dipasang pada bagian atas dan bawah dari cantilever spring pada mekanisme penimbang. Rangkaian strain gauge disusun secara rangkaian jembatan wheatstone. Beda tegangan yang diperoleh dari rangkaian jembatan akan dikuatkan oleh amplifier dan dilewatkan ADC 0808 untuk dikonversikan dalam bentuk data binary dari data l?erat barang yang didisplaykan pada seven segment. Setelah diperoleh data beratnya, barang tersebut akan didorong oleh mekanisme pendorong menuju ke alat pemilah untuk dipilahkan berdasarkan klasifikasi berat yang ditentukan, sebanyak tiga golongan berat dengan berat minimum 0,25 kg dan maksimum 1,5 kg, dengan ketelitian 0,01 kg. Keselurunan mekanisme alat pemilah barang ini diatur dan dikontrol dengan menggunakan minimum sistem mikroprasesor 8088.",
+  "creators": "LOUIS STEFANUS RIDWAN",
+  "contributors": "HANDAYANI T. (Advisor 1); Resmana Lim (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/014/0135; Louis Stefanus Ridwan (23487050)",
+  "subjects": "AUTOMATIC CONTROL; INTEL 8088 (MICROPROCESSOR)"
+}

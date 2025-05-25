@@ -1,0 +1,14 @@
+{
+  "id": "7585",
+  "title": "Pembuatan sistem informasi produksi dan pengendalian persediaan pada PT. Vonita Garment Semarang",
+  "abstract": "Dalam suatu perusahaan yang bergerak di bidang industri, banyak terjadi kesulitan bila pencatatan dan pengolahan data produksi tidak memakai sistem terkomputerisasi. Demikian halnya terjadi pada PT. Vonita Garment Semarang. Perusahaan ini mengalami kesulitan dalam membuat laporan-laporan produksi dan menghitung Harga Pokok Produksi (HPP) serta penjadwalan pengadaan bahan. Selama ini sistem informasi produksi pada perusahaan masih menggunakan cara manual. Jumlah Order dan proses produksi yang banyak menyebabkan kesulitan dalam pengontrolan produksi. Tujuan tugas akhir ini adalah membuat program yang mampu membantu perusahaan dalam memecahkan permasalahan. Pembuatan perangkat lunak untuk sistem yang baru menggunakan Borland Delphi 7.0 untuk bahasa pemrogramannya, Microsoft SQL Server 2000 untuk menyimpan database-nya, dan Microsoft Windows XP sebagai sistem operasinya. Untuk mendesain sistem dimulai dengan merancang Data Flow Diagram (DFD) serta Entity Relationship Diagram (ERD). DFD dan ERD dibuat dengan menggunakan Power Designer 6.1. Perangkat lunak yang dihasilkan dapat menangani input data seperti data barang, mesin, dan aktifitas; mencatat permintaan penjualan, produksi; meng-update jumlah barang jika terjadi penjualan; dan mencatat koreksi jumlah barang. Dari hasil uji coba, perangkat lunak ini dapat mengetahui jadwal pengadaan bahan, status proses produksi sebuah order, laporan-laporan biaya produksi dan laporan harga pokok produksi dengan menggunakan metode FIFO (First In First Out).",
+  "creators": "BENNY SURYADI GUNAWAN",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Felicia Soedjianto (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000415/INF/2005; Benny Suryadi Gunawan (26401243)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

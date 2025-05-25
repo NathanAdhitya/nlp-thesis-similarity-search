@@ -1,0 +1,14 @@
+{
+  "id": "12952",
+  "title": "Sistem detektor retakan pada dinding dengan metode gelombang ultrasonik: ultrasonic flaw detector",
+  "abstract": "Selama ini kita akan mengalami kesulitan untuk menentukan apakah suatu struktur ( bangunan atau jembatan ) mempunyai kecacatan / keretakan di dalamnya. Disini peranan alat pendeteksi kecacatan ( flaw detector) menjadi vital untuk mencegah hal diatas terjadi. Di dalam tugas akhir ini dibuat alat pendeteksi keretakan menggunakan gelombang ultrasonik dengan metode TOFD ( Time-Of-Flight Diffraction ) yang mempunyai cara kerja sebagai berikut: - Transmitter akan mengirimkan pulsa gelombang ultrasonik ke dalam benda uji - Receiver akan \"mendengarkan\" hasil pantulan gelombang ultrasonik dari dalam benda uji. Alat ini terdiri dari bagian - bagian yaitu unit transmitter, yang berfungsi untuk membangkitkan pulsa gelombang ultrasonik, unit receiver, yang berfungsi untuk menerima dan menguatkan sinyal pantulan, dan unit ADC serta interface PPI 8255 yang berfungsi untuk mengubah sinyal supaya bisa diterima oleh PC. Dari hasil pengujian didapatkan bahwa ketebalan dari benda uji tidak selalu dapat dideteksi, sedangkan keretakan tidak dapat dideteksi.",
+  "creators": "REINALDO",
+  "contributors": "Thiang (Advisor 1); Heri Saptono Warpindyasmoro (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/006/443; Reinaldo (23493132)",
+  "subjects": "DETECTORS"
+}

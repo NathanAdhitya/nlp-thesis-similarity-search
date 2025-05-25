@@ -1,0 +1,14 @@
+{
+  "id": "53804",
+  "title": "Perancangan model klasifikasi metode pemesanan bahan baku pada PT X",
+  "abstract": "Aktivitas splitting purchase order (PO) pada perusahaan merupakan proses pemisahan kuantitas yang dilakukan karena terdapat permintaan revisi kebutuhan dan perubahan jadwal kedatangan dari bahan baku. Aktivitas PO split memiliki dampak inefisiensi pada kegiatan administrasi pengadaan dan aktivitas pergudangan. Perusahaan telah merancang beberapa metode pemesanan yang dapat mengakomodasi permasalahan tersebut, yaitu minimum order quantity, max lot size, dan rounding value. Penelitian ini bertujuan untuk merancang sebuah model klasifikasi yang dapat mengklasifikasikan metode pemesanan bahan baku yang sesuai untuk tiap bahan baku. Penulis memulai dengan melakukan analisis terhadap pola karakteristik bahan baku, kemudian merancang tingkatan atau pengkategorian terhadap nilai karakteristik bahan baku. Penulis kemudian melakukan pendefinisian terhadap skenario yang muncul dari kombinasi karakteristik beserta tingkatannya apakah dilakukan penetapan metode pemesanan bahan baku atau tidak. Penulis merancang model bersifat otomasi dengan menghubungkan data bahan baku dengan skenario yang sudah didefinisikan. Sebagai hasil dari penelitian model dapat mengklasifikasikan bahan baku menurut data karakteristik yang diisi pada model oleh perusahaan, apakah perlu ditetapkan metode pemesanan minimum order quantity, max lot size, dan rounding value atau tidak. Model klasifikasi dapat membantu perusahaan untuk mengidentifikasi dan mengklasifikasikan metode pemesanan bahan baku dengan lebih mudah, cepat, dan pengambilan keputusan yang konsisten.",
+  "creators": "WILLIAM GIOVANNO",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Prayonne Adi S.T., M.MT. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022503/IND/2022; William Giovanno (C13180005)",
+  "subjects": "MATERIAL REQUIREMENTS PLANNING; SUPPLY CHAIN MANAGEMENT SYSTEM"
+}

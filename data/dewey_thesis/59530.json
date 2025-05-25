@@ -1,0 +1,14 @@
+{
+  "id": "59530",
+  "title": "Pemodelan piled raft foundation menggunakan Plaxis 2D",
+  "abstract": "Skripsi ini membahas pemodelan piled raft foundation dengan menggunakan Plaxis 2D untuk meningkatkan pemahaman terhadap perilaku dan desain pondasi dalam mengatasi tantangan settlement pada struktur bangunan. Latar belakang penelitian melibatkan kepentingan memahami masalah settlement yang sering dihadapi dalam desain pondasi. Metode penelitian terdiri dari memodelkan tension test pada Plaxis 2D axisymmetric dan plane strain untuk mendapatkan parameter tanah. Selanjutnya, desain piled raft foundation dilakukan dengan menganalisis pengaruh jarak dan kedalaman tiang terhadap penurunan. Rekapitulasi parameter tanah dan faktor gaya dari pemodelan memberikan dasar untuk desain raft foundation yang efektif. Hasil pemodelan menunjukkan bahwa tension test pada Plaxis 2D axisymmetric relevan dalam merepresentasikan load settlement curve dengan baik. Pada pemodelan plane strain, faktor gaya untuk tanah clay dan sand berhasil diidentifikasi. Analisis pengaruh jarak antar pile menunjukkan bahwa pengurangan jarak antar pile memiliki dampak yang lebih signifikan daripada peningkatan kedalaman pile. Kesimpulan mengindikasikan bahwa desain piled raft foundation dengan jarak antar pile kecil dan L/D tinggi menghasilkan displacement yang minimal. Verifikasi menggunakan metode Poulos menunjukkan relevansi dan ketepatan hasil analisis Plaxis 2D, terutama pada kasus pile yang dalam dan jarak antar pile yang rapat. Saran dan potensi penelitian ke depan melibatkan verifikasi lebih lanjut dengan metode lain dan ekspansi data ke jenis tanah lainnya.",
+  "creators": "ALEXANDER; ANDREAS JUNIANTO",
+  "contributors": "Daniel Tjandra (Advisor 1); Gogot Setyo Budi (Advisor 2); Wong Foek Tjong, S.T., M.T., Ph.D. (Examination Committee 1); Johanes Indrojono Suwono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012708/SIP/2024; Alexander (B11200097), Andreas Junianto (B11190093)",
+  "subjects": "FOUNDATIONS; PILING (CIVIL ENGINEERING)-DESIGN AND CONSTRUCTION"
+}

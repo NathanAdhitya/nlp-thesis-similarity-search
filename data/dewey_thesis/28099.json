@@ -1,0 +1,14 @@
+{
+  "id": "28099",
+  "title": "Peningkatan kemampuan pengenalan pola dari jaringan saraf tiruan dengan menggunakan diskritisasi Chi2",
+  "abstract": "Proses pelatihan backpropagation membutuhkan waktu yang cukup lama untuk mencapai tahap konvergen. Salah satu penyebabnya adalah dokumen dalam set data terdiri dari campuran antara bilangan kontinu dan diskrit. dalam hal klasifikasi, sebuah set data akan lebih mudah dibedakan dengan nilai atribut yang berbeda jauh. Metode Chi2 berhasil untuk menemukan pola dari set data sintetik yang memiliki pola data miring dan pararel. Penggabungan backpropagation dan Chi2 berhasil mempercepat proses pelatihan dan meningkatkan akurasi klasifikasi. Oleh karena itu, pengujian akan dilanjutkan dengan menggabungkan dua metode tersebut untuk mengklasifikasikan set data dari kasus nyata. Dari hasil pengujian didapatkan kesimpulan bahwa kedua metode tersebut berhasil mempercepat proses pelatihan dan meningkatkan akurasi klasifikasi.",
+  "creators": "JEFFRY HARTANTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021226/INF/2013; Jeffry Hartanto (26409021)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); NEURAL NETWORKS (COMPUTER PROGRAMS)"
+}

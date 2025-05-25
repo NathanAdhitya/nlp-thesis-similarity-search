@@ -1,0 +1,14 @@
+{
+  "id": "4919",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi kegiatan operasional pada perusahaan forwarding PT. Freight Express Surabaya",
+  "abstract": "PT. Freight Express Surabaya adalah salah satu perusahaan yang bergerak di bidang forwarding. Untuk melakukan kegiatan operasionalnya, perusahaan membutuhkan suatu sistem informasi yang terintegrasi untuk dapat memberikan informasi, mendapatkan informasi dan memudahkan pekerjaan operasional perusahaan. Dalam tugas akhir ini dibuat aplikasi sistem informasi administrasi untuk kegiatan operasional perusahaan PT. Freight Express Surabaya sebagai perusahaan forwarding. Perancangan desain sistem yang baru menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk membuat desain struktur tabel dan relasi antar tabel. Database dibuat dengan menggunakan Microsoft SQL Server 2000. Aplikasi dibuat dan dikembangkan dengan menggunakan bahasa pemrograman Borland Delphi 7.0. Program yang dibuat meliputi: pengiriman melalui laut, pengiriman melalui udara, pembuatan Shipping Instruction ke pihak alat angkut, Bill of Lading untuk Shipper, Shipment Advice yang ditujukan untuk Agent, Payment Request, Invoices, Komisi Marketing dan Status Pengiriman. Hasil dari pembuatan aplikasi ini menunjukkan sistem yang telah selesai dibuat meliputi perhitungan komisi marketing, laporan Shipping Instruction, laporan Bill of Lading, laporan Shipment Advice, laporan Payment Request, laporan Data Shipper, dan laporan Profit and Loss.",
+  "creators": "NOVI VANDAYATY COKRO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); Theresia Lestiowati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010587/INF/2007; Novi Vandayaty Cokro (26403057)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATA BASE MANAGEMENT"
+}

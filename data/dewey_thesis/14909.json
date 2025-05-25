@@ -1,0 +1,14 @@
+{
+  "id": "14909",
+  "title": "Perencanaan dan pembuatan SWR meter digital dengan menggunakan mikrokontroler 8031",
+  "abstract": "Alat-alat komunikasi radio pada akhir-akhir ini semakin banyak digunakan oleh masyarakat. Untuk mengukur ketidakcocokan antara saluran transmisi dengan beban antena pada komunikasi radio biasanya digunakan SWR (Standing Wave Ratio) meter. Pada umumnya SWR meter yang ada dipasaran mempergunakan sistem analog dengan jarum penunjuk. Kelemahan sistem ini adalah pembacaan yang tidak mudah karena skala pada meter penunjuk tidak memper1ihatkan posisi-posisi tiap satuan besaran, dan menambah kemungkinan terjadinya kesalahan pembacaan (kesalahan paralaks). Untuk mengatasi masalah ini. maka dibuat SWR meter dengan sistem digital yang bertujuan untuk mengatasi kelemahan-kelemahan di atas. Pada sistem ini besarnya daya yang bergerak maju dan mundur dibaca oleh suatu konverter analog ke digital melalui suatu rangkaian pencuplik. Hasil konversi daya inilah yang kemudian akan diolah oleh mikroprosesor untuk menghitung besar SWR. Sebagai rangkaian pencuplik digunakan sebuah monimatch yang akan mencuplik daya pada kedua arah hingga 100 Watt pada frekuensi kerja 144 MHz. Sedangkan untuk pengolah datanya digunakan sebuah minimum sistem yang berbasis pada mikrokontroler 80C31 dari keluarga MCS-51 dari Intel. Bertindak sebagai konverter analog ke digital dipakai IC ADC0801. Dari besarnya daya inilah kemudian dihitung perbandingan daya antara daya mundur dengan daya maju sehingga dapat ditentukan besarnya SWR. Untuk pengujian SWR meter digital ini dilakukan pengukuran dan pengamatan sinyal pada titik-titik yang tertentu pada rangkaian, hal ini bertujuan untuk melihat apakah sinyal pada titik-titik tersebut sesuai dengan yang diinginkan. Untuk pengujian unjuk kerjanya dipakai sebuah SWR meter standar DAIWA CNW-919 sebagai referensi dan membandingkan hasil pembacaan antara SWR meter digital dengan SWR meter standar. Dari pengujian ini dapat dilihat bahwa SWR meter digital mempunyai ketelitian yang niemuaskan dengan pembacaan yang langsung.",
+  "creators": "WIJOYO UTOMO",
+  "contributors": "AGUS MULYANTO (Advisor 1); SOETIKNO (Examination Committee 1); HERLIANTO TENGGARA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/El/030/0120; Wijoyo Utomo (144870623)",
+  "subjects": "INTEL 8031 (MICROPROCESSOR); RADIO-APPARATUS AND SUPPLIES; MICROCONTROLLERS"
+}

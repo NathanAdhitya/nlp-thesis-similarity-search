@@ -1,0 +1,14 @@
+{
+  "id": "61367",
+  "title": "Penggunaan machine learning dalam manajemen rantai pasokan: proyeksi jumlah muatan kapal",
+  "abstract": "Pandemi COVID-19 telah memberikan dampak besar bagi semua sektor industri, yang menyebabkan terjadinya gangguan pada rantai pasokan. Termasuk dalam industri pengiriman kontainer dan ekspedisi pengangkutan barang. Penelitian ini berfokus pada prediksi jumlah muatan kapal secara akurat dan real time, di mana saat ini metode yang digunakan perusahaan masih manual dan bergantung pada data yang tidak terkini, sehingga menyebabkan kesalahan dalam pengambilan keputusan. Pendekatan yang digunakan dalam penelitian ini meliputi metode statistik dan Machine Learning (ML). Dan Machine Learning (ML), yang digunakan adalah Long Short-Term Memory (LSTM), Random Forest (RF), XGBoost, dan Ensemble Learning yang dipilih karena kemampuannya dalam menangani data yang kompleks dan mempelajari pola jangka panjang. Hasil penelitian menunjukkan bahwa pemilihan variabel sangat mempengaruhi hasil prediksi. Dalam penelitian ini prediksi terbaik didapatkan dengan menggunakan variabel CFI, kondisi pasang surut, rute kapal, kapasitas, serta hari ke-9, -8, -7, -6, dan -5 dan menggunakan rolling horizon. Rolling horizon dilakukan dengan menggeser setiap bulan dan menggunakan data empat bulan untuk pelatihan dan satu bulan untuk pengujian yang ditunjukkan dengan MAPE 15,14% untuk model Random Forest, MAPE 14,83% untuk model 14,84%, MAPE 42,68% untuk model XGBoost, dan MAPE 14,13% untuk model Ensemble Learning. Hal ini menunjukkan bahwa model Random Forest (RF) dan XGBoost memberikan efektivitas prediksi akurat.",
+  "creators": "GRACE ANASTASYA CLAUDIA",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Andreas Handojo (Advisor 2); Siana Halim (Examination Committee 1); Doddy Prayogo S.T. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01010037/MTI/2024; Grace Anastasya Claudia (C23220011)",
+  "subjects": "MACHINE LEARNING; ENSEMBLE LEARNING (MACHINE LEARNING)--INDUSTRIAL APPLICATIONS"
+}

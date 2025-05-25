@@ -1,0 +1,14 @@
+{
+  "id": "16716",
+  "title": "Pembuatan modul praktikum pengendalian tekanan boiler dengan PLC dan program scada",
+  "abstract": "Dalam tugas akhir ini dibuat suatu sistem pengendalian tekanan boiler dengan menggunakan PLC dan program SCADA, dengan tujuan supaya dapat digunakan sebagai penunjang praktikum sistem kontrol, karena respon dari suatu \"kontroller dapat ditampilkan dalam bentuk grafik sehingga diharapkan dapat mempermudah praktikan didalam memahami respon dari suatu kontroller. Plant yang dibuat terdiri dari tangki yang dilengkapi dengan sensor-sensor yaitu pressure sensor ( merek Omron type E8AA-M10 ) , level sensor ( Paralel elektroda ) dan suhu sensor ( PtlOO ). Dimana output dari sensor-sensor ini merupakan input bagi peralatan PLC. Dimana peralatan PLC yang digunakan terdiri PID unit ( PID 03), Analog Input unit ( AD002 ), Host Link unit ( LK 202 ), dimana semuanya merek OMRON. Input bagi PID unit adalah output dari pressure sensor, dan output dari PID unit digunakan untuk mengatur daya pada heater yang digunakan untuk memanasi air untuk menghasil uap (tekanan uap). PID unit disini berfungsi untuk mengatur tekanan dalam tangki sesuai dengan setting value yang kita berikan. Sedangkan output dari suhu sensor dan level sensor dimasukkan ke input Analog Input unit untuk dimonitor melalui PLC. Dan untuk mengatur maupun memonitor data PLC melalui komputer sehingga datanya dapat ditampilkan ke monitor dalam bentuk tabel maupun grafik digunakan program SCADA ( FIX INTELLUTION ). Dimana program SCADA ini dapat mengambil dan mengirim data dari/ke PLC. Dengan demikian semua proses yang berlangsung pada PLC dapat diatur dan dimonitor melalui komputer, sehingga memudahkan kita mengontrol proses yang berlangsung di PLC",
+  "creators": "TOLIP",
+  "contributors": "MOCHAMAD HEROE (Examination Committee 1); Resmana Lim (Advisor 1); ANDOJO ONGKODJOJO (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/046/345; Tolip (23493155)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

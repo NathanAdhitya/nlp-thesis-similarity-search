@@ -1,0 +1,14 @@
+{
+  "id": "23037",
+  "title": "Program analisa struktur untuk portal dan rangka batang dua dimensi",
+  "abstract": "Penyusunan STRuctural Analysis Program ver. 1.00 ini diharapkan menjadi salah satu modul dari paket program yang nantinya akan mencakup tahapan-tahapan pengerjaan mulai dari analisa sampai dengan perencanaan spesifik elemen-elemen struktur yang bersangkutan. Sebagai salah satu modul maka program Strap yang dikemukakan kali ini hanya meliputi dua jenis struktur yaitu plane frame dan plane truss dengan batang prismatis. Analisa yang dipergunakan di dalam program ini adalah analisa matrik dengan metode direct stiffness. Program dibuat dengan dua metode pemasukan data yaitu metode klasik dan metode interaktif. Dalam metode interaktif pemakai program dibimbing untuk melakukan kegiatan pemasukan data, sedang dalam metode klasik data struktur dibuat terlebih dahulu dengan menggunakan text editor. Program STRAP ver 1.00 menyediakan 5 macam data beban yaitu beban terpusat yang bekerja pada titik kumpul (nodal load), beban terpusat yang bekerja pada elemen (element concentrated load), beban merata (uniformly distributed load), beban segitiga (triangular distributed load) dan beban trapesium (trapezoidal distributed load). Hal ini dikarenakan pada kenyataannya jenis-jenis beban tersebut diataslah yang banyak dijumpai. Adanya fasilitas load factor memungkinkan para pemakai program untuk melakukan perhitungan analisa struktur dengan menggunakan satu kasus pembebanan (single load case) atau kombinasi dari beberapa kasus pembebanan (combined load cases). Selain itu program juga menyediakan fasilitas additional section yang berfungsi untuk menghitung gaya-gaya batang yang terjadi pada begian-bagian tertentu dalam sebuah elemen. Tersedianya fasilitas gambar (graphics) bertujuan untuk menambah kejelasan mengenai keadaan geometri struktur dan gaya-gaya batang yang terjadi.",
+  "creators": "AGUSTINUS CHANDRA; RUDYANTO TJAHYADI",
+  "contributors": "Sukanto Tedjokusuma (Advisor 2); Ir. Soehendro Ratnawidjaja, M.Eng. (Advisor 1); Benjamin Lumantarna (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 631 S; Agustinus Chandra (21487063), Rudyanto Tjahyadi (21487076)",
+  "subjects": "ANALYSIS (ENGINEERING); STRUCTURES, THEORY OF-COMPUTER PROGRAMS"
+}

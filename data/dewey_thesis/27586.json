@@ -1,0 +1,14 @@
+{
+  "id": "27586",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada Toko Jamur Mas",
+  "abstract": "Toko Jamur Mas adalah toko yang bergerak di bidang penjualan, pembelian barang-barang kebutuhan sehari-hari. Toko Jamur Mas memiliki permasalahan meliputi perhitungan laba rugi, perhitungan jumlah stok, dan pencatatan hutang piutang. Permasalahan yang terjadi adalah pada pencatatannya, dimana semua pencatatan masih dilakukan secara manual, pencatatan ini memiliki resiko yang besar. Menjawab permasalahan tersebut, maka dibuat sebuah aplikasi, aplikasi ini dikembangkan dan dibuat dengan menggunakan bahasa pemrograman Microsoft Visual Studio 2005.Net dan Microsoft SQL Server 2005 sebagai tempat penyimpanan data. Aplikasi yang dibuat memiliki ruang lingkup sebagai berikut: proses pembelian, penjualan, pembayaran hutang, retur pembelian penjualan, stok barang, laporan hutang dan laporan keuangan. Laporan keuangan adalah laporan stok barang, laporan penjualan, laporan pembelian, dan laporan laba rugi. Dengan dibuatnya aplikasi ini dan dari hasil pengujian sistem diperoleh kesimpulan sistem ini dapat mengembangkan bisnis yang dijalankan oleh Toko Jamur Mas dengan baik, karena dapat mencatat transaksi yang terjadi, sehingga memudahkan owner untuk melakukan pengecekan terhadap transaksi yang terjadi dan stok barang.",
+  "creators": "YOSEP",
+  "contributors": "Alexander Setiawan (Advisor 1); Silvia Rostianingsih (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021195/INF/2012; Yosep (26408082)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

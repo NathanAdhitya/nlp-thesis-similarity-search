@@ -1,0 +1,14 @@
+{
+  "id": "23099",
+  "title": "Analisis perbandingan metode penjadwalan batch multi item dengan kombinasi algoritma tabu search dan ant colony (studi kasus pada CV Sinar Baja Electric)",
+  "abstract": "Model Penjadwalan Batch Multi Item membagi job menjadi beberapa batch sehingga masalah penjadwalan tidak hanya menentukan urutan batch tetapi juga menentukan banyaknya batch dan ukuran batch yang digunakan. Tugas akhir ini membandingkan metode penjadwalan batch multi item dengan kombinasi algoritma tabu search dan ant colony (PACO-TABU) dalam meminimumkan mean tardiness. Model penjadwalan batch multi item menggunakan dua metode untuk menentukan ukuran, urutan, dan banyak batch yang digunakan. Metode yang digunakan adalah metode slack dan algoritma PACO-TABU. Hasil dari kedua metode ini akan dibandingkan dengan kriteria performa minimum mean tardiness. Hasil simulasi menunjukkan bahwa pada jumlah job yang semakin besar, algoritma PACO-TABU memiliki performa yang lebih baik dalam meminimumkan mean tardiness dibandingkan metode slack.",
+  "creators": "DESIANNE THALI",
+  "contributors": "Tanti Octavia (Advisor 1); Herri Christian Palit (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021554/IND/2011; Desianne Thali (25407048)",
+  "subjects": "SCHEDULING; PRODUCTION PLANNING"
+}

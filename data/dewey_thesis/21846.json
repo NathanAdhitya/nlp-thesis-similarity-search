@@ -1,0 +1,14 @@
+{
+  "id": "21846",
+  "title": "Security system untuk gedung perkantoran dengan menggunakan microcontroller 8051 dan IBM PC",
+  "abstract": "Sistem pengaman elektronik, akhir-akhir ini semakin banyak digunakan untuk menjaga gedung. Pada umumnya sistem pengaman yang digunakan menggunakan metode sentralisasi. Dengan metode seratalisasi ini semua sensor dihubungkan dengan komputer induk dengan pengkabelan langsung. Secara teknis metoede sentralisasi ini sudah baik, namun untuk skala yang besar proses pengkabelan menjadi |sangat rumit. Masalah pengkabelan yang terjadi pada metode sentralisasi dapat diatasi dengan metode desentralisasi. Metoda desentralisasi ini mempunyai keunggulan dalam hal biaya yang relatif lebih murah dan perawatannya lebih mudah bila dibandingkan dengan metoda sentralisasi. Sistem pengaman dengan metoda desentralisari terdiri dari dua bagian, yaitu ?event detector? dan ?host computer? (komputer induk), kedua bagian tersebut dihubungkan oleh suatu jaringan komunikasi serial RS-485. Sebagai ?event detector? digunakan suatu ?single board computer? dengan basis microcontroller 8051. ?Event detector? tersebut berfungsi untuk memonitor keadaan dari semua sensor yang terhubung dengannya. Bertindak sebagai komputer induk adalah IBM PC/XT/AT, komputer induk ini secara aktif mengadakan lcomunikasi dengan ?event detector? yang ada dalam jaringan komunikasi. Bila ada kejadian yang terdeteksi oleh suatu sensor, maka informasi tersebut dikirimkan oleh ?event detector? ke komputer induk, kemudian komputer induk akan membandingkan informasi tersebut dengan data-data yang ada padanya. Bila informasi tersebut memenuhi semua kriteria yang telah ditetapkan, maka komputer induk akan menampilkan informasi kejadian tersebut pada layar komputer dan mencatatnya pada sebuah log file. Untuk mengetahui respon time dari komputer induk (selang waktu dari dua ?e-vent? yang dapat terdeteksi oleh komputer induk). Dilakukan pengujian terhadap komputer induk IBM PC/XT 4.77 MHz dan IBM PC/AT 16 MHz yang dilengkapai dengan media penyimpan data hard disk. Kejadian (?Event?) disimulasikan dengan pulsa aktif selama 100 ms dan dihubungkan dengan kedelapan input dari ?event detector?. Dari pengujian diperoleh hasil bahwa IBM PC/AT 16 MHz dengan media penyimpan data hard disk mempunyai respon time paling cepat",
+  "creators": "TEDJA PRANOTO KUSUMO",
+  "contributors": "NAWANTO WIBOWO (Advisor 1); Yohanes Trilaksono Dibyo S. (Advisor 2); SUPENO DJANALI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/008/0067; Tedja Pranoto Kusumo (485020)",
+  "subjects": "SECURITY SYSTEM"
+}

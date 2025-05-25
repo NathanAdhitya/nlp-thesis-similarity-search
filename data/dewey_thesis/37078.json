@@ -1,0 +1,14 @@
+{
+  "id": "37078",
+  "title": "Pembuatan aplikasi sistem informasi administrasi dan manajemen proyek pada CV Squad",
+  "abstract": "CV Squad merupakan sebuah perusahaan yang bergerak dalam bidang jasa pengendalian hama rayap. Perusahaan ingin melakukan perubahan sistem yang lama dengan komputerisasi, karena mengalami kesulitan dalam menangani masalah administrasinya yang masih manual, yaitu pada transaksi penjualan dan pengaturan jadwal kerja, pembuatan laporan dan masalah pengeluaran lainnya yang disusun pada kertas atau microsoft office. Sehingga memungkinkan terjadinya kesalahan dalam melakukan perhitungan keuangan. Dari latar belakang permasalahan tersebut, dirancanglah sebuah aplikasi untuk mendukung kinerja pada CV Squad, yaitu sebuah aplikasi yang dapat mencatat keuangan perusahaan dan mengatur manajemen proyek yang dilakukan oleh CV Squad. Aplikasi dibuat menggunakan bahasa pemrograman PHP dan MySQL untuk database. Hasil pengujian menunjukkan bahwa aplikasi dapat melakukan pencatatan transaksi pembelian dan penjualan dapat dilakukan secara terstruktur dan terkomputerisasi dan dilengkapi dengan kartu stok dengan metode First In First Out (FIFO). Pengelolaan proyek juga menjadi lebih teratur dan dengan adanya fitur untuk melihat manajemen proyek. Selain itu, dengan adanya aplikasi ini, pemilik dapat mengetahui laporan kartu stok, laporan hutang, laporan piutang, dan laporan laba rugi.",
+  "creators": "DEFTA JAYESENA VALRISANO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Rudy Adipranata (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021561/INF/2016; Defta Jayesena Valrisano (26412075)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); MYSQL (COMPUTER SYSTEM); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

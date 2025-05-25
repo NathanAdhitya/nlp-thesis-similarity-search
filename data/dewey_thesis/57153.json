@@ -1,0 +1,14 @@
+{
+  "id": "57153",
+  "title": "Perancangan transaction processing system (tps) untuk pengolaan barang pada CV XYZ",
+  "abstract": "CV XYZ adalah salah satu perusahaan supplier bahan sepatu yang berada di Surabaya. Perusahaan ini menyediakan berbagai bahan sepatu sesuai dengan kebutuhan customer. Kondisi yang terjadi saat ini CV. XYZ tidak memiliki sistem informasi dalam proses transaksi baik penjualan, pembelian dan stok barang. Hal ini menyebabkan proses transaksi pada CV XYZ membutuhkan waktu dan tenaga lebih untuk menyelesaikannya. Oleh karena itu, akan dibuat Transaction Processing System pada CV. XYZ untuk memudahkan proses bisnis pada CV XYZ. Transaction Processing System pada CV XYZ dirancang berbasis website. Front end dari website akan menggunakan ReactJS, dan back end menggunakan ExpressJS. Selain itu akan terdapat pula konfigurasi untuk membangun koneksi antara database MySQL. Proses pertama- tama sistem akan meminta melakukan penginputan pada master. Kemudian masuk pada proses pembelian barang kepada supplier. Setelah proses pembelian, masuk pada proses penjualan yang kemudian berakhir pada pembuatan laporan. Dari penjualan yang telah dilakukan, sistem dapat melakukan prediksi penjualan dengan menggunakan metode Moving Average. Hasil dari pembuatan Transaction Processing System ini menghasilkan sistem yang dapat memberikan pembuatan transaksi pembelian dan penjualan disertai dengan pengolahan stok barang berbasis website. Serta sistem juga mampu mencetak laporan keuangan dan melakukan prediksi penjualan sesuai dengan periode tertentu. Dari hasil pengujian, sistem mampu meringankan kinerja perusahaan.",
+  "creators": "KEVIN",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Leo Willyanto Santoso (Advisor 2); Agustinus Noertjahyana (Examination Committee 1); Alexander Setiawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022347/INF/2023; Kevin (C14180022)",
+  "subjects": "DATABASE MANAGEMENT; TRANSACTION SYSTEMS (COMPUTER SYSTEMS); SELLING--SHOES"
+}

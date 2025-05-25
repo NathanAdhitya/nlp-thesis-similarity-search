@@ -1,0 +1,14 @@
+{
+  "id": "14674",
+  "title": "Aplikasi fuzzy logic untuk pengaturan putaran motor universal 85 Watt, 200/220 Volt, 6.000 RPM",
+  "abstract": "Pada awal perkembangan teori kontrol kita mengenal jenis kontroler P, PI dan yang lebih baik lagi adalah PED. Kontroler konvensional ini bekerja menurut suatu model matematik yang diturunkan dari sifat fisik sistem. Sistem kontrol tersebut menunjukkan performa yang baik pada sistem yang bersifat linier. Bila sistemnya non linier maka akan ditemui kesulitan dalam menurunkan model matematiknya. Fuzzy kontrol merupakan suatu usaha untuk mengatasi permasalahan kontrol sistem non linier. Berbeda dengan kontroler konvensional, kontroler fuzzy bekerja menurut sejumlah aturan yang diturunkan oleh operator dan tidak memerlukan penurunan matematik. Aturan-aturan tersebut merupakan perumusan logika yang memuat hubungan antara input dan output sistem. Fuzzy kontroler yang dibuat pada tugas akhir ini bekerja pada PC dan diimplementasikan dalam bahasa Pascal. Tujuan dari pengontrolan ini adalah mendapatkan putaran motor universal yang stabil dalam range 500 s/d 6.000 rpm di bawah pengaruh beban. Melalui program dapat dipilih bentuk fungsi keanggotaan (segitiga atau trapezoid), jumlah zone (3 zone, 5 zone, 7 zone) dan metode defuzzifikasi (center of area atau mean of maxima). Respon pengontrolan ditampilkan dalam bentuk grafik putaran motor terhadap waktu. Hasil pengujian menunjukkan bentuk fungsi keanggotaan segitiga dan trapezoid tidak memberi pengaruh yang cukup besar terhadap respon sistem. Efek pembebanan akan menyebabkan putaran motor berkurang. Metode titik berat (center of area) mengantisipasi pengaruh beban lebih baik jika dibandingkan dengan metode rata-rata nilai maksimum (mean of maxima). Respon sistem akan lebih baik jika menggunakan jumlah zone yang lebih banyak. Hal ini terlihat lebih jelas jika dipakai metode rata-rata nilai maksimum di bawah pengaruh beban.",
+  "creators": "WAHYUDI",
+  "contributors": "Resmana Lim (Advisor 1); Thiang (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/042/341; Wahyudi (23492056)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; ELECTRIC MOTORS-WINDINGS-AUTOMATIC CONTROL"
+}

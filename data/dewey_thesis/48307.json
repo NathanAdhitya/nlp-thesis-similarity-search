@@ -1,0 +1,14 @@
+{
+  "id": "48307",
+  "title": "Aplikasi scoring system untuk penentuan keputusan kredit pada bpr drj berbasis web",
+  "abstract": "Dalam dunia perbankan, khususnya BPR, pemberian fasilitas kredit merupakan ranah bisnis yang sangat penting. BPR DRJ lebih fokus kepada fasilitas kredit pensiunan dalam bisnisnya. Untuk dapat diberi fasilitas kredit, nasabah terlebih dahulu dinilai melalui beberapa aspek untuk menentukan kelayakan pemberian fasilitas kredit. Sales maupun nasabah secara langsung, akan mengumpulkan persyaratan berkas-berkas yang diperlukan untuk pengajuan fasilitas kredit. Penilaian ini dilakukan secara manual melalui sumber daya manusia dan rawan terjadi kesalahan atau human error. Kendala jarak juga menjadi suatu alasan dalam hal ini. Penyerahan berkas akan terhambat apabila jarak antara nasabah dengan BPR cukup jauh. Hal ini yang memicu pembuatan aplikasi scoring ini. Aplikasi dibuat berbasis web dengan bahasa HTML dan PHP dengan fitur Javascript disertai dengan database MySQL. Aplikasi ini dapat melakukan perhitungan scoring sebagai dasar pemberian kredit pensiun kepada nasabah. Aplikasi juga dapat melakukan pengunggahan berkas secara langsung ke dalam database aplikasi. Hasil yang didapatkan dari skripsi ini adalah aplikasi dapat menjalankan alur dari awal peneriman kredit hingga pengeluaran hasil scoring kredit dan juga mampu mencetak berkas kredit yang sudah dibuat dalam aplikasi yang diperlukan sebagai berkas pencairan. Aplikasi juga dapat dijalankan secara responsif pada berbagai perangkat. Skripsi ini mampu menjawab rumusan masalah yang ada.",
+  "creators": "DAVID ALFREDO WIEJOYO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Yulia (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021978/INF/2020; David Alfredo Wiejoyo (26413052)",
+  "subjects": "WEB SITES--DESIGN; CREDIT SCORING SYSTEMS"
+}

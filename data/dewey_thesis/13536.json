@@ -1,0 +1,14 @@
+{
+  "id": "13536",
+  "title": "Penerapan jaringan saraf tiruan untuk peramalan",
+  "abstract": "Peramalan adalah bagian yang tidak terpisahkan dari proses perencanaan dan pengendalian dalam dunia industri. Metode peramalan yang dijumpai pada waktu lalu kebanyakan menganut asumsi stasioneritas yang dapat mengurangi akurasi peramalan saat dihadapkan pada time series yang non stasioner dan non homogen. Banyak metode telah dikembangkan demi tercapainya optimalitas peramalan. Salah satu metode baru yang diharap dapat meningkatkan optimasi dan akurasi peramalan adalah Neural Network atau Jaringan Saraf Buatan. Tujuan dari tugas akhir ini adalah membentuk suatu sistem jaringan saraf buatan yang terlatih dalam mengidentifikasi pola financial time series lalu mengeksploitasi ke masa datang. Pembahasan difokuskan pada data finansial karena pada data tersebut sering terjadi perubahan mendadak (jump) yang mengakibatkan non homogenitas maupun non stasioneritas. Secara teori, metode ini akan lebih optimal dalam meminimumkan error peramalan dan meredam jump karena memiliki kelebihan dalam kecepatan kalkulasi dan pengenalan pola. Sebagai pembanding, akan dipakai metode GARCH yang juga memiliki kelebihan dalam meramalkan data non stasioner dan non homogen. Hasil akhir memperlihatkan bahwa metode ini ada kalanya kalah dengan GARCH dalam MAR dan MSE saat curve fitting, tetapi kemampuan meredam jump telah dibuktikan saat terjadi kenaikan maupun penurunan mendadak.",
+  "creators": "ADRIAN MICHAEL WIBISONO",
+  "contributors": "Didik Wahjudi (Examination Committee 1); Siana Halim (Advisor 1); I Nyoman Sutapa (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 309/TI-36/2000; Adrian Michael Wibisono (25496008)",
+  "subjects": "BUSINESS FORECASTING; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

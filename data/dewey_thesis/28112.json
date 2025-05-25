@@ -1,0 +1,14 @@
+{
+  "id": "28112",
+  "title": "Pembuatan aplikasi pencatatan stock dengan menggunakan barcode pada android",
+  "abstract": "Stock opname merupakan penghitungan dan penyesuaian stok barang dan aset yang dimiliki oleh toko atau perusahaan di gudang atau etalase dengan data stok yang terdapat pada database sistem perusahaan. Selama stock opname dilakukan, kegiatan masuk dan keluarnya barang tidak dapat dilakukan. Hal ini menyebabkan perusahaan tidak teratur dalam melakukan stock opname. Selain itu kesalahan pencatatan yang dilakukan oleh pegawai juga rawan terjadi jika barang yang dicatat cukup banyak. Berdasarkan latar belakang masalah tersebut, maka dibuatlah aplikasi untuk melakukan pencatatan stock dengan menggunakan barcode. Aplikasi ini dibuat pada mobile device berbasis Android karena selain kegunaannya sebagai telepon genggam, mobile device juga memiliki fasilitas yang modern seperti kamera dan koneksi internet menggunakan wifi sehingga dapat pula dijadikan sebagai barcode reader yang dapat terhubung dengan server perusahaan. Hasil dari aplikasi yang telah dibuat antara lain, dapat melakukan download data stock barang dan aset dari server tergantung otorisasi, dapat memindai barcode dengan menggunakan kamera yang terdapat pada mobile device untuk melakukan pencataan barang, dapat melakukan pencatatan jumlah stok barang dan aset pada periode tertentu,dan terdapat laporan pencatatan stock barang dan aset pada periode tertentu",
+  "creators": "MICHAEL CHRISTIAN W",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Andreas Handojo (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Satya Wacana",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021241/INF/2013; Michael Christian Wibisono (26409011)",
+  "subjects": "ANDROID (COMPUTER PROGRAM); PROGRAMMING (ELECTRONIC COMPUTERS); ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE)"
+}

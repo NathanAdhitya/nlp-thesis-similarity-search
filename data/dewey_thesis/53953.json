@@ -1,0 +1,14 @@
+{
+  "id": "53953",
+  "title": "Klasifikasi kisaran harga tarif endorsement influencer Instagram dengan metode decision tree",
+  "abstract": "Digital marketing pada era globalisasi ini merupakan hal yang wajib bagi small business owner ataupun bisnis yang sudah berkembang. Marketing menggunakan Instagram Influencer merupakan salah satu cara. Sering kali influencer mematok harga mereka sesuai hanya sesuai dengan followers yang mereka miliki sedangkan belum tentu post bisa meng-engage followers mereka yang aktif dan tidak palsu. Permasalahan yang ingin diselesaikan oleh peneliti adalah klasifikasi harga endorsement yang sesuai dengan data yang mereka miliki dengan melihat selain followers seperti engagement rate, average liker, dan average comment agar harga yang ditetapkan influencer lebih sesuai dengan data yang mereka miliki. Metode yang digunakan untuk melakukan klasifikasi adalah Decision Tree dengan CART algorithm. Model yang dihasilkan ini akan digunakan untuk mengklasifikasi harga endorsement influencer. Hasil dari pengujian model yang digunakan hanya mampu mencapai akurasi 50% dengan nilai RMSE 1.12 untuk melakukan klasifikasi harga endorsement influencer.",
+  "creators": "JESHEN OKTAVIAN NATHANEL",
+  "contributors": "Alexander Setiawan (Advisor 1); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022215/INF/2022; Jeshen Oktavian Nathanel (C14180256)",
+  "subjects": "ALGORITHMS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

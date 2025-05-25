@@ -1,0 +1,14 @@
+{
+  "id": "48704",
+  "title": "CorPAS 2.0.",
+  "abstract": "Corbion Group Netherlands B.V. is a company specialized in food ingredients such as lactic acid which involves fermentation process. Thus, a system was created to monitor on real-time fermentation process in order to gain insight and control of the process. This system is called Corbion Process Analysis System, or CorPAS. CorPAS covers many projects in Corbion, and in general, it extracts data from flat files, then transforms and loads the data into Power BI for data visualization. The data extraction still needs to be manually done by the users by opening the databases and copy all the data into flat files. CorPAS 2.0. was initiated to improve the previous system and add a new feature. Automated data extraction was successfully implemented with data transformation and visualization, alongside with implementation of a new feature, such as data science predictive modeling. The solution was built with R language and data visualization tool such as Power BI.",
+  "creators": "SIE IVAN HINMAN SIEHOYONO",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022009/INF/2020; Sie Ivan Hinman Siehoyono (26416049)",
+  "subjects": "DATABASE MANAGEMENT; INFORMATION VISUALIZATION--DATA PROCESSING; INFORMATION VISUALIZATION"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "59157",
+  "title": "Komparasi algoritma machine learning dalam prediksi perkembangan harga jenis investasi berdasarkan risk profile di pasar modal",
+  "abstract": "Investasi di pasar modal dalam bentuk kepemilikan saham perusahaan atau bentuk komoditas lainnya sangat menarik karena dapat menjanjikan keuntungan yang cukup besar. Namun dalam melakukan investasi diperlukan pertimbangan yang lebih matang dari sisi risk profile di pasar modal. Terdapat 3 jenis risk profile dalam berinvestasi yaitu jenis profil investasi berisiko low, moderat, dan high. Banyaknya faktor yang dapat mempengaruhi perkembangan harga setiap jenis investasi membuat harga dari setiap jenis investasi yang berubah-ubah sehingga menyebabkan investor ragu dalam berinvestasi, karena para investor tidak dapat memprediksi harga jenis investasi, sehingga dapat menyebabkan salah langkah dalam berinvestasi dan dapat menyebabkan kerugian. Untuk menghindari resiko tersebut, diperlukan prediksi terhadap harga dari setiap jenis investasi menggunakan teknik machine learning. Proses prediksi dalam machine learning yaitu dengan memahami sifat berdasarkan objek yang tidak dikenal dengan melakukan identifikasi pola dalam himpunan data. Pada penelitian ini, algoritma machine learning yang akan digunakan dalam melakukan prediksi harga jenis investasi yaitu algoritma LSTM, BiLSTM, GRU, dan ARIMA. Hasil performa yang didapatkan yaitu pada risk profile high menggunakan dataset Grab model terbaik yaitu model GRU dengan nilai RMSE sebesar 0.092. Sedangkan pada dataset bitcoin model terbaik yaitu model GRU dengan nilai RMSE sebersar 563.813. Pada risk profile moderat menggunakan dataset reksadana model terbaik yaitu model BiLSTM dengan nilai RMSE sebesar 1.103. Sedangkan pada risk profile low menggunakan dataset gold model terbaik yaitu model GRU dengan nilai RMSE sebesar 51.329. Berdasarkan hasil pengujian tersebut, model GRU dapat melakukan prediksi lebih baik dibandingkan dengan model lainnya dengan memiliki nilai RMSE terkecil untuk 3 jenis investasi pada risk profile high dengan dataset Grab, serta dataset bitcoin dan pada risk profile low dengan dataset gold. Sedangkan nilai RMSE terkecil pada risk profile moderat dengan dataset reksadana dimiliki oleh model BiLSTM.",
+  "creators": "GEVIN EDGAR HAMDANI",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Silvia Rostianingsih (Advisor 2); Kartika Gunadi (Examination Committee 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022417/INF/2024; Gevin Edgar Hamdani (C14180219)",
+  "subjects": "CAPITAL INVESTMENTS; CAPITAL MARKET; MACHINE LEARNING; INVESTMENTS"
+}

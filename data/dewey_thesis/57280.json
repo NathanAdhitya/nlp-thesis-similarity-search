@@ -1,0 +1,14 @@
+{
+  "id": "57280",
+  "title": "Sistem pengecekan kesamaan jawaban ujian dan tugas tertulis online u\\Universitas Kristen Petra dengan algoritma term frequency inverse document frequency dan consine similarity",
+  "abstract": "Seiring dengan berkembangnya teknologi di Indonesia, banyak sekali pelajar di Indonesia terutama mahasiswa, memanfaatkan kemajuan teknologi untuk mencari informasi pembelajaran secara online atau diluar dari pembelajaran yang sudah diterima dan hal tersebut sangatlah membantu bagi pelajar. Namun, ada juga hal negatif yang dilakukan pelajar dengan adanya kemajuan teknologi, seperti memanfaatkan teknologi untuk mencontek jawaban dari teman melalui chat secara online dan sebagainya untuk mendapatkan hasil atau nilai yang bagus pada ujian online. Untuk mencegah hal tersebut, tentu perlu membuat tindakan pencegahan agar dapat menghilangkan kebiasaan mencotek tersebut. Dalam skripsi ini, akan diterapkan sistem untuk mengecek adanya tindakan pencontekkan ujian online dalam Universitas Kristen Petra seperti pengecekkan kesamaan jawaban dalam beberapa nomor dalam sebuah ujian atau tugas dari satu file dengan file lainnya. Metode yang digunakan untuk mengukur frekuensi kata dalam sebuah dokumen dan bergantung pada Panjang dokumen dan keumuman kata adalah Term Frequency Inverse Document Frequency. Metode yang digunakan untuk menghitung kesamaan teks antar dua dokumen adalah Cosine Similarity. Dalam skripsi ini dapat dilakukan pengecekkan dokumen lebih dari dua dokumen sehingga hal tersebut dapat membantu mempercepat pengecekkan dokumen dalam satu kelas dibandingkan dengan penelitian sebelumnya yang harus memasukkan satu persatu dan sebagainya. Skripsi ini menunjukkan bahwa dengan membuat sistem seperti pengecekan kesamaan jawaban dalam sebuah ujian atau tugas, dapat membantu pengecekan ujian dan tugas online pada Universitas Kristen Petra yang selama ini masih belum memiliki hal tersebut dalam melakukan pengecekan ujian online atau bahkan masih secara manual.",
+  "creators": "VERICK GOZALI",
+  "contributors": "Liliana (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Examination Committee 1); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022327/INF/2023; Verick Gozali (C14180060)",
+  "subjects": "ALGORITHMS; PROGRAMMING (ELECTRONIC COMPUTERS); RECOMMENDER SYSTEMS (INFORMATION FILTERING)"
+}

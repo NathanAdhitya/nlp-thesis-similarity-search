@@ -1,0 +1,14 @@
+{
+  "id": "43677",
+  "title": "Perancangan game engine untuk game visual novel berbasis Android dengan diagram alur cerita",
+  "abstract": "Untuk membuat sebuah game, diperlukan beberapa komponen inti seperti graphic, sound dan animation. Dalam pembuatan komponen tersebut, terkadang ditemukan beberapa kendala karena jumlah komponen yang dibuat cukup banyak dan harus dikerjakan secara manual. Game engine adalah sebuah software yang dapat mempermudah developer dalam membuat sebuah game. Fitur yang terdapat di dalam game engine termasuk graphic, sound dan animation akan membantu developer, sehingga developer tidak perlu memikirkan lagi proses tersebut secara manual. Visual Novel (VN) termasuk salah video game interaktif yang menampilkan cerita novel dalam bentuk gambar statis, audio, dan video. Sebuah VN yang menarik dibuat melalui proses narasi dan dialog antar karakter yang disajikan, dengan teks diiringi dengan gambar dan suara yang akan memberikan kesan hidup pada karakter yang ada. Game engine untuk game visual novel sudah cukup banyak jenisnya, mulai dari Om3ga VNE berbasis Android, Ren’Py berbasis Desktop yang dibuat dengan bahasa pemrograman Python, NSripter berbasis Desktop, VN Authoring Tool. Namun, dari sekian banyak Game Engine untuk visual novel yang sudah ada, hanya Om3ga VNE dan VN Authoring Tool yang dapat digunakan pada platform Android. Sedangkan, untuk tampilan pada VN Authoring Tool yang berbasis web tidak responsif dan Om3ga VNE tidak menyediakan fitur untuk mempermudah pengguna melihat garis besar video game yang dikembangkan. Pada skripsi ini dilakukan pembuatan aplikasi game engine visual novel berbasis Android yang menggunakan Story Flow Diagram (SFD) sebagai fitur utama untuk membantu pengguna dalam membuat visual novel. Pengguna dapat melihat garis besar alur cerita dengan fitur SFD ini, sehingga akan memudahkan pengguna dalam menentukan alur cerita dari visual novel yang akan dibuat.",
+  "creators": "WU ALVIN HARDY",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Justinus Andjarwirawan (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021839/INF/2019; Wu Alvin Hardy (26414099)",
+  "subjects": "COMPUTER GRAPHICS; COMPUTER GAMES; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE)"
+}

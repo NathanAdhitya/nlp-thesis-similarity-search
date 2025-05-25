@@ -1,0 +1,14 @@
+{
+  "id": "29805",
+  "title": "Skin segmentation, skull segmentation and mesh generation tool of medical image",
+  "abstract": "Saat ini telah ditemukan berbagai metode diagnose dan pengobatan yang dibutuhkan masyarakat berbasis TIK (Teknologi Informasi dan Komputer), seperti MRI dan CT Scanner. Baik MRI dan CT menghasilkan data berupa volume image yang berisi hasil scanning organ-organ internal, yang disebut juga sebagai DICOM (Digital Imaging and Communications in Medicine) Image. Untuk berbagai kebutuhan medis, pengolahan DICOM image ini sangat diperlukan. Hingga saat ini telah dikembangkan beberapa penelitian dalam hal ini, di antaranya adalah segmentasi otak, skull remover, rekonstruksi tengkorak, dan lain-lain. Fokus dalam pembuatan skripsi ini adalah membuat sebuah fitur yang dapat membaca volume image dan dapat melakukan segmentasi kulit wajah dan tulang tengkorak manusia dalam waktu yang relatif singkat, serta melakukan mesh generation dari gambar DICOM yang telah diolah. Segmentasi kulit wajah dilakukan dengan proses thresholding, ekstraksi largest connected component, dan holefilling untuk mengisi lubang-lubang yang terbentuk. Sedangkan segmentasi tengkorak dilakukan dengan menghilangkan bagian tulang leher yang tersambung dengan tengkorak dan ekstraksi largest connected component. Setelah itu dilakukan proses mesh generation untuk menghasilkan objek 3D yang dapat diproses lebih lanjut. Proses mesh generation ini dilakukan dengan menggunakan algoritma marching cubes. Hasil pengujian menunjukkan bahwa proses segmentasi kulit wajah dan segmentasi tulang tengkorak akan berjalan dengan baik bila tidak ada objek lain yang menempel pada wajah atau tengkorak. Proses segmentasi kulit wajah memakan waktu yang cukup signifikan, terutama diakibatkan oleh proses holefilling. Waktu yang dibutuhkan untuk proses mesh generation tergantung dari tingkat kompleksitas gambar. Kualitas hasil mesh generation dipengaruhi oleh resolution reduction ratio, relaxation factor dan iteration of smoothing.",
+  "creators": "ERIC YOGI TJANDRA",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021341/INF/2014; Eric Yogi Tjandra (26410018)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DIGITAL IMAGE PROCESSING; DATABASE DESIGN"
+}

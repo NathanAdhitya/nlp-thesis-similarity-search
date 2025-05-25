@@ -1,0 +1,14 @@
+{
+  "id": "44792",
+  "title": "Sistem rekomendasi untuk mahasiswa mendaftar sebagai panitia ke dalam acara menggunakan Metode Content-Based Recommendation Systems",
+  "abstract": "Di zaman sekarang ini, teknologi sangat diperlukan dalam melakukan banyak hal yang dapat memudahkan manusia melakukan kegiatannya, tetapi masih banyak hal juga yang masih dilakukan secara manual dan hal itu kurang efektif. Terutama dalam hal melakukan pendaftaran sebagai anggota ke dalam suatu acara di Universitas Krsiten Petra. Tujuan skripsi ini adalah untuk membuat suatu sistem pendaftaran ke dalam suatu acara untuk membantu mahasiswa yang membutuhkan kredit poin organisasi dan mempermudah suatu organisasi untuk penerimaan anggotanya. Metode yang akan digunakan adalah Content-based recommendation systems, yaitu suatu metode sistem rekomendasi yang menggunakan data tentang setiap produk untuk merekomendasikan produk baru. Dalam pembuatan aplikasi ini akan menggunakan data mahasiswa dan data mengenai suatu kegiatan sehingga sistem merekomendasikan divisi kepada mahasiswa sesuai dengan divisi yang penah diikuti oleh seorang mahasiswa dari acara-acara sebelumnya. Pada skripsi ini akan dibuat website dengan menggunakan framework laravel dan databasenya menggunakan MySQL. Berdasarkan hasil kuesioner dapat disimpulkan bahwa mendaftar sebagai anggota menggunakan sistem yang dibuat penulis lebih efektif daripada mendaftar secara manual. Dan juga ketika pengurus acara akan memilih mahasiswa mana yang akan diterima, hal ini akan menguntungkan mahasiswa tingkat akhir karena list pendaftar diurutkan berdasarkan tahun mahasiswa masuk.",
+  "creators": "DANIEL VALENTINO HIDAYAT",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Leo Willyanto Santoso (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021888/INF/2019; Daniel Valentino Hidayat (26415097)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; MANAGEMENT INFORMATION SYSTEMS--COMPUTER PROGRAMS"
+}

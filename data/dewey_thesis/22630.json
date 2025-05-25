@@ -1,0 +1,14 @@
+{
+  "id": "22630",
+  "title": "Perancangan dan pembuatan aplikasi penjadwalan produksi pada perusahaan x dengan menggunakan algoritma simulated annealing",
+  "abstract": "Perusahaan X adalah perusahaan yang bergerak di bidang produksi dupa. Proses produksi dari bahan setengah jadi menuju bahan jadinya menggunakan sistem pre-order. Karena semua barang yang diproduksi melewati tahapan proses yang sama, maka proses ini dapat digolongkan ke dalam flowshop. Perusahaan X masih menggunakan metode First In First Out, sehingga banyak terjadi bottleneck. Ujungnya waktu yang diperlukan untuk menyelesaikan suatu pekerjaan (makespan) nya pun ikut membengkak. Oleh karena itu penulis mencoba membuat suatu aplikasi penjadwalan dengan algoritma Simulated Annealing yang mampu meminimalisi bottleneck yang terjadi sehingga makespan pun dapat diperkecil. Algoritma Simulated Annealing merupakan salah satu metode heuristic di dalam pencarian solusi optimal. Solusi optimal diperoleh dengan cara menukarkan job yang ada dengan suatu aturan yaitu pairwise exchange. Sebelumnya dilakukan pairwise exchange akan dicari dahulu solusi awal dengan metode Shortest Processing Time (SPT), Longest Processing Time (LPT), dan First Job Smallest First (FJSF). Pencarian solusi optimal juga akan dilakukan dengan FIFO dan Brute Force sebagai pembanding. Hasil yang diperoleh menunjukkan bahwa penjadwalan dengan algoritma Simulated Annealing dengan jumlah job sebanyak 15 (rata-rata jumlah job perusahaan X dalam 1 minggu) mampu menghemat lebih dari 300 menit bila dibandingkan dengan FIFO.",
+  "creators": "JONATHAN GUNTARA",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021014/INF/2011; Jonathan Guntara (26407073)",
+  "subjects": "DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

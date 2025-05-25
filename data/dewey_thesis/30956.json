@@ -1,0 +1,14 @@
+{
+  "id": "30956",
+  "title": "Peningkatan inventory accuracy dengan meninjau ulang error-handling report secara periodik di PT Schneider Electric Manufacturing Batam",
+  "abstract": "Salah satu indikator dari inventory accuracy yang tinggi adalah nilai error-handling report (COGI) yang rendah. Penelitian ini bertujuan untuk memperbaiki kesalahan pengaturan pada sistem serta menurunkan nilai COGI. Penelitian dilakukan dengan meninjau ulang COGI dari 10 material penyumbang tertinggi secara periodik dan menganalisanya untuk mendapatkan akar permasalahan. Berbagai macam root cause yang ditemukan adalah phantom assembly, batch issue, kelebihan konsumsi material, perbedaan konversi satuan material, BOM di sistem dan aktual berbeda, backflush pada material berstatus obsolete, dan backflush pada follow-up material. Hasil review secara periodik adalah penghilangan seluruh nilai COGI per akhir Mei 2014.",
+  "creators": "DICKY RIYANTO",
+  "contributors": "Debora Anne Yang Aysia (Advisor 1); Herri Christian Palit (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021743/IND/2014; Dicky Riyanto (25410097)",
+  "subjects": "MANUFACTURING INDUSTRIES; INVENTORY CONTROL"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "23770",
+  "title": "Pembuatan sistem kontrol pengisian tangki bahan bakar cair dengan mempergunakan mikrokontroler 8031",
+  "abstract": "Dengan semakin banyak mesin-mesin yang dipergunakan di dalam proses pembuatan suatu barang industri di dalam suatu pabrik memang akan sangat banyak membantu manusia dalam meningkatkan efisiensi dan kwalitas barang hasil produksi, tetapi dengan banyaknya mesin-mesin yang dipergunakan juga akan menambah biaya operasional karena mesinmesin tersebut memerlukan pengawasan dan perawatan. Salah satu pengawasan yang diperlukan adalah dalam hal volume bahan bakar. Dalam tugas akhir ini akan direncanakan dan dibuat suatu sistim alat yang dapat mengkontrol volume bahan bakar mesin-mesin yang ada di dalam suatu pabrik dengan pembatasan masalah sebagai berikut :hanya untuk 3 buah tangki, mempergunakan 1 macam bahan bakar, proses pengisian dianggap jauh lebih cepat dari pada proses konsumsi dari mesin tersebut. Metodologi dari pembuatan sistem kontrol ini adalah dengan terlebih dahulu menentukan jumlah serta jenis parameter apa saja yang diperlukan sebagai input maupun output, dari sini baru bisa dibuat blok diagram sistim kontrol yang dipergunakan sebagai dasar untuk perencanaan rangkaian, hasil dari tahap perencanaan ini berupa orcad rangkaian yang digunakan sebagai pedoman dalam tahapan pembuatan sistem kontrol yang direncanakan. Hasil dari pembuatan ini berupa sensor ketinggian jenis floting yang memberikan informasi data secara analog berupa besaran tegangan dan sensor ketinggian jenis digital, rangkaian ADC, keyboard dan display (8279), eprom (2764), data latch (741s374), mikrokontroller 8031, dua buah relay, dua buah motor pompa. Untuk dapat menggerakkan perangkat keras diperlukan perangkat lunak yang dalam tahap perencanaan berupa flow chart baru memasuki pada program yang sebenarnya. Untuk tahap terakhir dilakukan pengukuran besar tegangan pada semua input ouput dan pengujian sistim keseluruhan untuk mengetahui apakah sudah sesuai dengan yang diinginkan. Dari hasil studi maka dapat disimpulkan yaitu alat ini dapat dipergunakan pada segala jenis bahan bakar cair dan untuk ketinggian maksimum yang dapat dikontrol oleh alat ini adalah setinggi 2,5 meter karena merupakan batas maksimum dari operasi komponen ADC 0808 yang digunakan.",
+  "creators": "PUDJI WIDODO",
+  "contributors": "AGUS MULYANTO (Advisor 1); Resmana Lim (Advisor 2); SUPENO DJANALI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/017/0107; Pudji Widodo (14485055)",
+  "subjects": "AUTOMATIC CONTROL; INTEL 8031 (MICROPROCESSORS)"
+}

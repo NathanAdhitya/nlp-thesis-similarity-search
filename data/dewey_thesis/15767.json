@@ -1,0 +1,14 @@
+{
+  "id": "15767",
+  "title": "Penggunaan koneksi CORBA dengan pemrograman midas multi-tier application dalam sistem reservasi hotel",
+  "abstract": "Dengan semakin banyaknya penggunaaan komputer pada sistem networking secara global, menyebabkan meningkat permintaan akan suatu system networking yang dapat diakses oleh banyak user pada saat yang bersamaan, system tersebut dapat mencakup databases server dan aplikasi server dari berbagai macam sumber, kemudahan manajemen dan keamanan data. Dari kebutuhan tersebut maka pada tugas akhir ini dibuatlah suatu sistem multi-tier yang menggunakan teknologi CORBA untuk program reservasi hotel baik dengan web browser maupun program client. Pada Tugas akhir ini perangkat lunak yang dipakai pada databases server adalah SQL server 7.0 kemudian melaui ODBC dihubungkan ke Aplikasi server dimana menggunakan program Delphi client server 5.0 dari aplikasi server ini dibuatkan dua buah aplikasi client yaitu yang menggunakan lokal network dan yang mengunakan global network / web browser. Pada pembuatan aplikasi client untuk web browser, digunakan teknologi activeX pada delphi dimana sistem ini dibuat seperti membuat form biasa, hanya saja adanya kekurangan pada integrasi dengan bahasa html. Sedangkan teknologi multi-tier yang dipakai adalah mengunakan Corba Connection pada Delphi. Pada tugas akhir ini keberhasilan yang dicapai dalam penggunaan corba untuk program multi-tier aplikasi adalah keberhasilan secara vertikal hubungan antara databases server, middle server, web server dan client web / local. Dalam hal ini digunakan 3 komputer yang berfungsi antara lain satu komputer untuk databases server dan middle server, satu komputer untuk web server, dan satu komputer untuk client, dalam uji coba ini digunakan sistem operasi windows server NT 4 patch 6, windows 2000 server, windows 98, dan windows NT workstation. Sedangkan kekurangan dari tugas akhir ini adalah kurang baiknya sistem dari reservasi hotel windows base, karena tugas akhir ini hanya terbatas pada level reservasi dan keterbatasan data tentang reservasi hotel yang sesungguhnya. Sedangkan untuk pembuatan progam reservasi windows base yang baik tidak bisa hanya dibatasi pada level reservasi saja karena adanya faktor - faktor teknis yang membutuhkan data - data yang tidak berkaitan secara langsung dengan reservasi itu sendiri.",
+  "creators": "HENDRA LAMIDJAN",
+  "contributors": "Irwan Kristanto Julistiono (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/KOM/017/074; Hendra Lamidjan (23494078)",
+  "subjects": "CORBA (SERVER); DATABASE MANAGEMENT"
+}

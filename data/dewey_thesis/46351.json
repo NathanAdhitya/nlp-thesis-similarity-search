@@ -1,0 +1,14 @@
+{
+  "id": "46351",
+  "title": "Aplikasi rekomendasi supplier Supermaket Greensmart dengan metode analytical network process",
+  "abstract": "Dalam menjalankan suatu usaha supplier merupakan salah satu komponen penting. Oleh sebab itu pemilihan supplier dengan tepat akan membuat proses bisnis dapat berjalan dengan lancar. Selama ini proses yang dilakukan pada supermarket greensmart masih dilakukan secara manual. Proses secara manual dapat menyebabkan pemilihan supplier yang kurang tepat untuk supermarket greensmart. Hal ini dapat berakibat buruk pada supermarket greensmart yang dapat mengalami kerugian waktu dan materi. Dengan adanya masalah tersebut maka diperlukan sistem untuk membantu pemilik supermarket greensmart dalam memilih supplier. Sistem ini akan memberikan alternatif keputusan untuk pemilik supermarket greensmart dalam memilih supplier untuk barang-barang yang ada disupermaket. Untuk metode yang akan digunakan adalah analytical network process. Metode ini dipilih karena dapat dapat mengatasi kelemahan ahp yang tidak dapat menangani permasalahan hubungan antar sub kriteria. Metode ini bekerja dengan menghitung inputan user berupa bobot perbandingan kemudian diproses untuk menghasilkan eigen vector kemudian dimasukan kedalam matriks yang disebut unweighted supermatrix kemudian akan terjadi proses perkalian unweighted supermatrix dengan cluster matrix, cluster matrix merupakan bobot perbandingan kriteria-kriteria yang ada kemudian diproses menjadi eigen vector dan proses terakhir adalah proses penghitungan limiting matrix yang merupakan hasil pemangkatan dari weighted supermatrix hingga hasil satu baris sama kemudian hasilnya akan dijadikan rekomendasi. Untuk hasil penelitian dapat disimpulkan bahwa program dapat menghasilkan hail yang efektif dan sesuai dengan kebutuhan supermaket greensmart. Selain itu metode anp dapat menghasilkan hasil yang cukup efektif tetapi memiliki kerumitan yang cukup sulit.",
+  "creators": "ALDO VALLIAN SAYOGA TANU WIJAYA",
+  "contributors": "Alexander Setiawan (Advisor 1); Agustinus Noertjahyana (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); INDRO SETIAWAN (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021927/INF/2020; Aldo Vallian Sayoga Tanu Wijaya (26415046)",
+  "subjects": "ELELECTRONIC INFORMATION RESOURCE SEARCHING; INDUSTRIAL PROCUREMENT--TECHNOLOGICAL INNOVATIONS; APPLICATION SOFTWARE-DEVELOPMENT; WEB DESIGN; DATABASE MANAGEMENT"
+}

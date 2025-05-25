@@ -1,0 +1,14 @@
+{
+  "id": "2968",
+  "title": "Simulasi dan analisa interaksi antara kapasitor dan harmonisa pada sistem kelistrikan di PT. Semen Gresik Tuban III",
+  "abstract": "Suplai listrik dari PLN secara normal mempunyai bentuk sinyal yang mendekati sinusoidal murni dan power factor 0.85. Di PT. Semen Gresik Tuban III terdapat peralatan listrik seperti motor induksi yang menyebabkan power factor turun / di bawah standart PLN. Akibatnya adalah PT. Semen Gresik Tuban harus membayar denda kepada PLN sesuai dengan ketentuan-ketentuan yang berlaku. Untuk mengatasi / mencegah denda dari PLN, maka diperlukan pemasangan Capasitor Bank, fungsinya adalah untuk menaikan faktor daya yang ada di PT. Semen Gresik. Selain itu di PT. Semen Gresik juga terdapat banyak sistem pengatur kecepatan motor induksi yang merupakan sumber utama harmonisa. Harmonisa dalam sistem tenaga listrik dapat menimbulkan pengaruh yang tidak diinginkan antara lain: peralatan menjadi panas, life time peralatan menjadi berkurang, bahkan dapat menyebabkan peralatan menjadi rusak, interferensi sinyal ( seperti noise pada saluran telepon ) dan over voltage. Dari hasil simulasi menggunakan software ETAP Power Station Versi 4.00C dan perhitungan didapat bahwa intraksi antara kapasitor dan harmonisa menyebabkan resonansi yang terjadi pada saat pemasangan kapasitor 10193 kVAR. Akibatnya total tegangan harmonisa yang terdistorsi naik 292%, arus pada capasitor naik 135% dari keadaan sebelum pemasangan kapasitor. Untuk mengatasi resonansi yang terjadi di PT. Semen Gresik Tuban III, maka dipasang Filter harmonisa, yang dimana fungsinya juga sebagai kapasitor bank. Filter yang dipasang mampu mengatasi harmonisa yang timbul. Hal ini ditunjukan dengan hasil pengukuran VTHD di lapangan telah memenuhi syarat IEEE 159 yaitu > 5%.",
+  "creators": "ARIES ONGKOWIJOYO",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Limboto Limantara (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010525/ELK/2005; Aries Ongkowijoyo (23401132)",
+  "subjects": "ELECTRIC POWER SYSTEMS"
+}

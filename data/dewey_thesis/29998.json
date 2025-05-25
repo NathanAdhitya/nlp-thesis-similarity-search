@@ -1,0 +1,14 @@
+{
+  "id": "29998",
+  "title": "Penjadwalan produksi di PT Industri Cahaya Cipta Indonesia dengan algoritma heuristik rajendran dan algoritma heuristik NEH",
+  "abstract": "Menentukan suatu penjadwalan yang tepat untuk suatu perusahaan merupakan hal yang sangat penting dan namun tidak mudah terutama untuk perusahaan yang memproduksi berbagai macam produk. Apabila menggunakan suatu metode penjadwalan yang kurang tepat dapat mengakibatkan waktu yang dibutuhkan untuk memproduksi suatu permintaan relatif lama sehingga dapat menimbulkan penumpukan barang setengah jadi pada lantai produksi. Hal ini yang dialami oleh PT Industri Cahaya Cipta Indonesia (ICCI) yang merupakan perusahan yang bergerak dalam bidang pengecoran logam. Produk yang dihasilkan berbagai macam sesuai dengan permintaan konsumen. Dalam memproduksi produk yang dihasilkan, PT ICCI menggunakan aliran proses produksi yang bersifat flowshop yang mana menggunakan aliran produksi yang sama dan mesin yang sama untuk tiap-tiap produk. Oleh karena itu penelitian dilakukan untuk mendapatkan sistem penjadwalan yang lebih baik dengan tujuan untuk meminimumkan makespan dan total flowtime secara bersama-sama. Metode penjadwalan yang dipilih adalah Algoritma Heuristik Rajendran dan Algoritma Heuristik NEH. Hasil yang dicapai dari penelitian metode penjadwalan di PT ICCI adalah Algoritma Heuristik NEH lebih cocok digunakan di PT ICCI. Hal ini berdasarkan dari perhitungan relative percentage yang menghasilkan nilai dari Algoritma NEH yang paling kecil dibandingkan dengan Algoritma Heuristik Rajendran dan metode penjadwalan dari perusahaan.",
+  "creators": "ARIF BUDIONO",
+  "contributors": "Pauline Astari Singgih (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 497/TI-088/01; Arif Budiono (25497094)",
+  "subjects": "PRODUCTION SCHEDULING; PRODUCTION MANAGEMENT"
+}

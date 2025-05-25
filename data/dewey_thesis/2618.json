@@ -1,0 +1,14 @@
+{
+  "id": "2618",
+  "title": "Perancangan dan pembuatan program untuk pengecekan validasi argumen berbahasa Inggris dengan menggunakan logika matematika",
+  "abstract": "Seringkali manusia mengalami kesulitan untuk memutuskan apakah sejumlah argumen yang dihadapkan kepadanya, baik secara tertulis maupun lisan masuk akal atau tidak. Hal ini disebabkan oleh kesukaran dalam menghubungkan logika-logika yang terkandung dalam argumen tersebut. Beranjak dari permasalahan diatas, dibuat sebuah program untuk pengecekan validasi dengan input satu argumen berbahasa Inggris. Dalam program ini terdapat fasilitas untuk meng-input-kan argumen, melakukan pengecekan validasi yaitu dengan menggunkan tabel kebenaran dalam logika matematika, meng-input-kan verb (kata kerja) baru, dan menampilkan kata yang merupakan konektif dalam logika matematika pada argumen yang di-input-kan. Program ini dibuat dengan bahasa pemrograman Borland Delphi 7.0 dan database-nya dengan Microsoft Access 2003. Diharapkan di kemudian hari program ini dapat menjadi cikal bakal untuk program pengecekan validasi argumen yang lebih rumit, misalnya yang dapat menerima input lebih dari satu argumen. Dari hasil pengujian dapat disimpulkan bahwa program dapat melakukan translasi argumen dari bentuk teks ke dalam bentuk sentencial calculus, menghitung sentencial calculus dengan tabel kebenaran, dan menghasilkan validasi argumen dengan baik apabila argumen yang di-input-kan tidak menyalahi batasan-batasan yang sudah ditetapkan sebelumnya pada ruang lingkup.",
+  "creators": "ELLEN KURNIAWATI",
+  "contributors": "Rolly Intan (Advisor 1); Andreas Handojo (Advisor 2); M. ISA IRAWAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01000370/INF/2005; Ellen Kurniawati (26401026)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "43392",
+  "title": "Aplikasi mobile untuk pemantauan simulasi ketinggian permukaan air berbasis internet of things (iot)",
+  "abstract": "Pada penelitian ini, dibuat sistem pemantauan ketinggian permukaan air berbasis Internet of Things (IoT). Sistem terdiri dari aplikasi mobile, Raspberry Pi, sensor ultrasonik, Pi Camera, dan Cloud. Diharapkan sistem dapat membantu untuk antisipasi banjir. Aplikasi mobile berfungsi sebagai antarmuka pengguna dengan sistem. Raspberry Pi dan sensor ultrasonik berfungsi untuk mengambil dan mengelola data ketinggian permukaan air. Pi Camera berfungsi untuk melihat keadaan perairan secara langsung. Cloud berfungsi untuk menyimpan data ketinggian permukaan air. Pengujian dilakukan dengan cara menggunakan plant simulasi yang diisi dengan air dan sistem dipasang di plant simulasi. Dari pengujian, didapatkan bahwa aplikasi mobile dapat melakukan komunikasi dengan Cloud untuk mengambil dan mengirim data. Raspberry Pi dapat melakukan komunikasi dengan Cloud untuk mengirim data. Pi Camera dapat diakses oleh aplikasi. Pembacaan ketinggian permukaan air dilakukan 2 pengujian, tanpa dan dengan gangguan. Pengujian dengan gangguan dilakukan dengan sensor ultrasonik ditutupi, dan plant digoyang. Pembacaan dengan sensor ultrasonik menggunakan 3 filter: tanpa filter, filter median, moving average filter. Pengujian menunjukkan hasil pembacaan terbaik dihasilkan filter median. Rata-rata kesalahan pembacaan ketinggian permukaan air menggunakan sensor ultrasonik dengan filter median dibandingkan dengan pembacaan menggunakan meter ukur tanpa gangguan sebesar 6,2%, dan dengan gangguan sebesar 6,3%.",
+  "creators": "ANDREAS SETIAWAN HIDAYAT",
+  "contributors": "Resmana Lim (Advisor 1); Felix Pasila (Examination Committee 2); Thiang (Examination Committee 3); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010138/ELK/2019; Andreas Setiawan Hidayat (23413019)",
+  "subjects": "RASPBERRY PI (COMPUTER); MOBILE APPS; WATER LEVELS"
+}

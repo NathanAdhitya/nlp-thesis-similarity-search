@@ -1,0 +1,14 @@
+{
+  "id": "55623",
+  "title": "Perbandingan dan analisis metode dalam text classification untuk topic labeling pada ulasan produk e-commerce",
+  "abstract": "Ulasan sangatlah penting dalam sebuah e-commerce karena merupakan salah satu patokan bagi pengguna e-commerce dalam mempertimbangkan suatu produk. Dalam satu produk, jumlah ulasan yang diberikan dapat berjumlah ratusan, sedangkan sebagai pengguna, terkadang, hanya ingin mengetahui review terhadap suatu topik. Untuk menemukan review yang membahas topik-topik tertentu, tentunya user perlu membaca satu per satu review yang ada untuk menemukan review mana yang membahas topik yang diinginkan oleh pengguna. Berdasarkan permasalahan tersebut, maka penelitian ini mengembangkan sebuah aplikasi yang dapat mengklasifikasikan topik-topik yang dibahas pada suatu ulasan e-commerce. Dalam melakukan klasifikasi teks, tidak semua jenis teks dapat menggunakan satu metode terbaik, karena susunan kata dalam suatu teks itu sangatlah beragam dan konteksnya juga beragam. Sedikitnya penelitian dalam melakukan perbandingan metode klasifikasi untuk ulasan e-commerce, terutama e-commerce Indonesia, di mana kebanyakan penelitian topic labeling ini objeknya merupakan teks berita di mana isi teks tersebut dapat panjang-panjang, sedangkan teks ulasan biasanya singkat-singkat. Sehingga pada penelitian ini dibandingkan metode-metode klasifikasi untuk ulasan e-commerce. Penelitian ini menggunakan metode Support Vector Machine, K-Nearest Neighbor, Random Forest dan Logistic Regression untuk melakukan topic labeling. Ke empat metode ini dibandingkan dengan menggunakan accuracy, precision, recall dan F1-Score. Dari ke empat metode ini, metode Logistic Regression adalah metode yang paling bagus untuk melakukan Topic Labeling, dengan akurasi 85.5%, precision 83.4%, recall 79.6%, F1-Score 81.4%.",
+  "creators": "YEHEZKIEL PATRICK",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Leo Willyanto Santoso (Advisor 2); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022256/INF/2023; Yehezkiel Patrick (C14180137)",
+  "subjects": "PROGRAMMING LANGUAGES (ELECTRONIC COMPUTERS)"
+}

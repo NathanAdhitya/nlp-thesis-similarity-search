@@ -1,0 +1,14 @@
+{
+  "id": "4792",
+  "title": "Kontrol mesin bor otomatis menggunakan PLC",
+  "abstract": "Mesin bor otomatis dibuat dengan tujuan agar dapat dilakukan pengeboran PCB secara otomatis. Pengeboran PCB otomatis ini menggunakan kamera sebagai sensor pendeteksi koordinat pad atau via. Kamera berfungsi menangkap gambar print out sebuah PCB kemudian dengan metode image processing dapat diketahui dan diambil koordinat pengeborannya. Tugas akhir ini dibuat untuk mengetahui bagaimana hasil pengeboran apabila mesin bor otomatis tersebut dikontrol sepenuhnya menggunakan PLC (Programmable Logic Controller). Proses pengambilan koordinat akan dilakukan pada PC (Personal Computer) dengan menggunakan tiga macam metode yaitu metode image processing, metode file text, dan metode manual. Hasil dari proses pengambilan koordinat ini akan dikirimkan oleh PC ke PLC menggunakan prosedur Host Link. Pengujian telah dilakukan pada 3 buah PCB dengan jumlah dan posisi hole yang berbeda-beda. Dari hasil pengujian didapat bahwa waktu pengeboran yang dibutuhkan pada sistem ini cukup lama yaitu kurang lebih 28 menit untuk PCB pengujian 16 hole, 19 menit untuk PCB pengujian 21 hole, dan 29 menit untuk PCB pengujian 34 hole. Ini disebabkan adanya keterbatasan pada PLC dan motor stepper yang dipakai. Sedangkan tingkat ketelitian dari sistem ini cukup baik, hal ini diketahui dari nilai rata-rata error yang didapat selalu kurang dari 1 milimeter. Jadi dapat disimpulkan bahwa PLC dapat dipakai untuk mengontrol mesin bor otomatis ini.",
+  "creators": "DAVID GUNAWAN SUGIARTO",
+  "contributors": "Thiang (Advisor 1); Handy Wicaksono (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010706/ELK/2004; David Gunawan Sugiarto (23400120)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; ELECTRIC CONTROLLERS"
+}

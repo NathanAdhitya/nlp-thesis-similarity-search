@@ -1,0 +1,14 @@
+{
+  "id": "26021",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada Koperasi Unit Desa Rungkut",
+  "abstract": "Sebagai koperasi yang cukup berkembang, KUD Rungkut masih menerapkan sistem manual dalam kegiatannya sehari-hari. Tentunya hal ini membuat proses penghitungan menjadi lebih lama dibandingkan dengan memakai komputer. Dengan adanya perubahan dari sistem manual menjadi sistem terkomputerisasi maka masalah-masalah tersebut diharapkan dapat terselesaikan. Karena itu dibutuhkan suatu sistem informasi administrasi yang membantu KUD Rungkut dalam melakukan pencatatan pada aktivitas-aktivitas yang dilakukan dan mengolahnya menjadi suatu informasi yang berguna bagi KUD tersebut. Sistem informasi administrasi ini diharapkan juga dapat menghindari atau meminimalkan terjadinya kesalahan yang timbul akibat pencatatan aktivitas KUD, serta menghasilkan laporan yang berguna untuk kemajuan KUD. Perancangan desain sistem menggunakan Data Flow Diagram dan Entity Relationship Diagram. Database dibuat dengan menggunakan Microsoft SQL Server 2005. Aplikasi dibuat dengan bahasa pemrograman Microsoft Visual Studio 2005 .NET. Program yang dibuat meliputi pembuatan database master untuk anggota, barang, supplier, pegawai, simpanan, pinjaman, pembayaran angsuran, transaksi untuk proses penjualan dan pembelian, serta proses administrasi yang berkaitan dengan pembuatan laporan keuangan secara otomatis. Dari hasil pengujian, program yang dibuat dapat memproses data administrasi yang berhubungan dengan transaksi pada KUD Rungkut. Laporan yang dihasilkan telah dapat memenuhi kebutuhan KUD.",
+  "creators": "STEVANUS SANTOSO",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Yulia (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021148/INF/2012; Stevanus Santoso (26408136)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMANT"
+}

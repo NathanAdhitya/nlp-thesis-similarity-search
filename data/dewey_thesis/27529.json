@@ -1,0 +1,14 @@
+{
+  "id": "27529",
+  "title": "Pengenalan wajah multi orientasi menggunakan metode eigenfaces",
+  "abstract": "Pengenalan wajah manusia merupakan salah satu bidang penelitian yang sangat penting dan banyak diterapkan pada bidang komersial maupun di bidang penegakan hukum. Teknik pengenalan wajah pada dewasa ini mengalami kemajuan yang sangat berarti. Dengan teknik seperti Principal Component Analisis (PCA), manusia sangat dibantu komputer dalam pengerjaan tugas pengenalan wajah, terutama tugas-tugas yang membutuhkan database yang sangat besar. Tujuan dari tugas akhir ini adalah membuat suatu perangkat lunak pengenalan wajah dengan menggunakan teknik PCA untuk mereduksi dimensi gambar wajah dan mengetahui kemampuan teknik tersebut. Dalam tugas akhir ini, perangkat lunak dibuat dengan menggunakan gambar diam sebagai inputnya kemudian membandingkannya dengan gambar yang ada di database, dan jarak terpendek yang didapat adalah gambar yang menyerupai gambar input. Bahasa pemrograman yang dipakai adalah Borland Delphi 6 yang merupakan bahasa pemrograman secara Object-Oriented. Hasil pengujian sistem menunjukkan bahwa penggunaan PCA untuk pengenalan wajah dapat memberikan tingkat akurasi yang tinggi. Untuk pengenalan gambar wajah frontal, tingkat pengenalan wajah yang dihasilkan mempunyai tingkat kebenaran 100% dibandingkan dengan tingkat kebenaran gambar multi orientasi yang hanya mencapai 74,36 % dengan jumlah feature yang sama. Untuk gambar wajah yang diikutsertakan dalam latihan, dapat diperoleh hasil 100% identifikasi yang benar.",
+  "creators": "IVAN BUDIANTO WONGSO",
+  "contributors": "Resmana Lim (Advisor 1); Kartika Gunadi (Advisor 2); BENJAMIN HADISURYA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/KOM/002/094; Ivan Budianto Wongso (23496041)",
+  "subjects": "FACE; GENETIC PROGRAMING (COMPUTER SCIENCE)"
+}

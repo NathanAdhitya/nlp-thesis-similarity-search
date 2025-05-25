@@ -1,0 +1,14 @@
+{
+  "id": "41246",
+  "title": "Sistem pendukung keputusan berbasis android untuk memberi rekomendasi jodoh dengan menggunakan metode simple additive weighting",
+  "abstract": "Selama ini perjodohan dilakukan dengan cara proses perkenalan yang dimaksudkan untuk menikah. Pada umumnya, perkenalan dilaksanakan dengan tukar menukar biodata antara lelaki dan perempuan yang didampingi oleh perantara misalnya orang tua, keluarga dekat, teman atau biro jodoh. Hal ini tentu saja mempersulit pria dan wanita yang ingin mencari jodoh karena jika pria dan wanita ingin bertemu, mereka harus bertatap muka. Selain itu tanpa menggunakan alat komunikasi pria dan wanita tidak akan bisa mengungkapkan perasaan masing-masing. Aplikasi ini dibuat dengan menggunakan bahasa pemrograman PHP, Java dan database MySQL. Tampilan aplikasi menggunakan program Android Studio 2.2. Fitur chat menggunakan firebase. Hasil akhir dari pengembangan aplikasi ini adalah dapat menampilkan rekomendasi calon pasangan sesuai dengan hasil perhitungan, mengisi nilai kriteria sesuai keinginan, menjawab pertanyaan kriteria, menambahkan pertemanan, melakukan chat antar pengguna, memberikan notifikasi kepada user, dan mengubah jawaban serta nilai kriteria. Pengguna juga dapat melihat beberapa informasi pribadi mengenai calon rekomendasi yang ditampilkan seperti nama, usia, kota dan tanggal lahir.",
+  "creators": "JOSEPH PRANATA ONGGO S",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Justinus Andjarwirawan (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021715/INF/2017; Joseph Pranata Onggo S. (26413074)",
+  "subjects": "APPLICATION SOFTWARE-DEVELOPMENT; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (ELECTRONIC RESOURCE)-PROGRAMMING"
+}

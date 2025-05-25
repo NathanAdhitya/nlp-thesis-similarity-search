@@ -1,0 +1,14 @@
+{
+  "id": "59170",
+  "title": "A comparative performance assessment of single classifier and ensemble learning for credit card default prediction",
+  "abstract": "The credit card debt crisis has become a significant concern, impacting card-issuing institutions, despite the continuous global rise in credit card customers since 2018. The rise of e-commerce platforms encourages consumerist behavior, with credit cards becoming a preferred and convenient payment method, leading to increased transactions and affecting the risk of customer default. Consequently, banks, as issuers, should avoid this behavior to prevent costly defaults. Machine learning is a recent tool used to predict credit card defaults due to its ability to handle large datasets, explored in previous research. The prevalence of imbalanced data is a common challenge in practice and can significantly impact prediction performance if the existence of imbalanced data is neglected. Hence, this study aims to investigate the impact of imbalanced data by comparing several classification algorithms and identifying features with significant contributions to predictions. Results indicate that Random Forest stands out as the most effective algorithm due to the highest F1-Score compared to others. Additionally, implementing SMOTE to address data imbalances enhances model performance across various imbalance ratios. Certain features, such as payment status in the most recent one to two months and credit card limit balances, play crucial roles in predicting default payments.",
+  "creators": "FELICIA ADELINE SETIAWAN",
+  "contributors": "Iwan Halim Sahputra, S.T., M.Sc., Ph.D. (Advisor 1); Siana Halim (Advisor 2); Togar Wiliater Soaloon Panjaitan, S.T., MBA. (Examination Committee 1); I Nyoman Sutapa (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022637/IND/2023; Felicia Adeline Setiawan (C13200023)",
+  "subjects": "MACHINE LEARNING; BIG DATA--ANALYSIS; CREDIT CARDS--RESEARCH"
+}

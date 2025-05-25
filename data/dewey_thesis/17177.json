@@ -1,0 +1,14 @@
+{
+  "id": "17177",
+  "title": "Perencanaan dan pembuatan smart digitizing signal conditioner (transmitter) dengan menggunakan mikrokontroler 68HC11",
+  "abstract": "To improve stability and precision in the process of industry production which use transmitter to convert physical parameters to electrical parameters, we need the smart transmitter. Because of that, the making of the smart digitizing signal conditioner (transmitter) with 68HC11 microcontroller is used to improve performance of sensor, its linearity and error. The AD7714 is a signal conditioner ADC that produced by Analog Devices which commonly-used in the manufactured of the transmitter. Transducer can be connected directly to iis analog input without amplifier components addition anymore, because it has programmable gain amplifier (PGA) on-chip. And then, it has digital filter with its frequency cut-off can be programmed and also has a number of calibration options if needed. In the DAC's part, is using the AD421 by Analog Devices that has its conversion output in loop-powered 4 -20 mA current, which compatible with all of universal controller in the industry standard. The AD7714 and AD421 are controlled by rmCTocontroller/microprocessor with serial asynchronuous interfacing that configured by only three-wire operation. Each IC can be known by their chip select By using this smart transmitter, we can decrease and minimize error, fix the linearization and precision of sensor that used in the process and operation of the industiy production. Because the smart digitizing transmitter with microcontroller based system has capability to fix the linearity characteristic of nonlinear sensor (especially thermocouple), capable to compensate error that caused by ambient temperature effect, capable to self diagnostic and self calibration to minimize error that caused by system and capable to check burn out to anticipate performance of sensor (thermocouple) that used in this transmitter.",
+  "creators": "TEDY",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); Andojo Ongkodjojo (Advisor 2); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/002/347; Tedy (23492133)",
+  "subjects": "SIGNAL DETECTION-COMPUTER PROGRAMS; RADIO-TRANSMITTER-RECEIVERS-COMPUTER PROGRAMS; INTEL 68HC11 (MICROCONTROLLER)"
+}

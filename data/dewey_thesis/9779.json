@@ -1,0 +1,14 @@
+{
+  "id": "9779",
+  "title": "Perancangan dan pembuatan aplikasi pencari jawaban pada customer support menggunakan information retrieval dan natural language processing",
+  "abstract": "Perkembangan dunia teknologi saat ini sangat pesat, terutama dalam bidang artificial intelligent. Perangkat lunak yang dibuat dalam tugas akhir ini merupakan bagian dari aplikasi artificial intelligent yang berusaha menggunakan pengetahuan bahasa alami bahasa indonesia untuk melakukan pencarian jawaban pada sekumpulan dokumen. Pecarian jawaban ini didesain untuk customer support dengan tujuan mempermudah user dan customer mencari informasi. Perangkat lunak ini dibuat dengan menggunakan information retrieval dan natural language processing. Metode information retrieval yang digunakan adalah xml retrieval dan vector space model. Sedangkan metode natural language processing yang digunakan adalah proses stemming menggunakan morfologi bahasa indonesia, penggunaan pattern dalam mengenali kalimat, dan pengenalan frase kata benda dalam bahasa indonesia.. Hasil dari pencarian jawaban tersebut berupa file HTML. File HTML ini dibentuk dari hasil transformasi file XML dengan XSLT. Pemrograman perangkat lunak menggunakan prinsip pemrograman berorientasi objek (OOP) dengan menggunakan bahasa pemrograman C#, kompiler Microsoft Visual C# 2005?Perangkat lunak ini diujikan terhadap file frequently asked question dengan struktur dokumen berupa tree. Tingkat akurasi pengujian dipengaruhi oleh list stopwords dan pattern. yang digunakan.",
+  "creators": "HENGKY SOETANTO CANDRA",
+  "contributors": "Rolly Intan (Advisor 1); BUDI BAMBANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010644/INF/2007; Hengky Soetanto Candra (26403122)",
+  "subjects": "COMPUTER PROGRAMMING; SOFTWARE ENGINEERING"
+}

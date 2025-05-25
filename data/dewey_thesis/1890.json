@@ -1,0 +1,14 @@
+{
+  "id": "1890",
+  "title": "Pembuatan perangkat lunak untuk mengaplikasikan metamorfosis obyek tiga dimensi",
+  "abstract": "Saat ini teknik animasi dengan melakukan perubahan bentuk pada obyek tiga dimensi telah banyak digunakan pada berbagai macam aplikasi komputer grafik. Metamorfosis atau morphing obyek tiga dimensi merupakan salah satu teknik yang digunakan untuk melakukan suatu proses perubahan bentuk dari suatu obyek asal menjadi suatu obyek tujuan. Permasalahan utama pada morphing obyek tiga dimensi adalah menentukan korespondensi vertex antara bentuk obyek asal dan bentuk obyek tujuan. Dalam Tugas Akhir ini dilakukan pembagian area obyek menjadi dua dan delapan bagian pada obyek asal dan obyek tujuan untuk mencari korespondensi antar vertex. Korespondensi vertex didapat dengan mencari jarak vertex terdekat antara obyek asal dan obyek tujuan. Proses morphing dilakukan dengan menggunakan algoritma liniear interpolation. Aplikasi ini menggunakan tampilan 3D dengan menggunakan OpenGL API. Hasil yang didapat dari pengujian program adalah proses morphing tanpa melakukan pembagian obyek hanya dapat digunakan pada obyek yang memiliki jumlah vertex yang sama dan sudah saling berkorespondensi, pembagian area obyek menjadi dua memiliki yang hampir sama dengan pembagian obyek menjadi delapan bagian tergantung dari bentuk geometri obyek asal dan obyek tujuan.",
+  "creators": "ROY HENDARTO",
+  "contributors": "Kartika Gunadi (Advisor 1); Liliana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skrpisi No.01000341/INF/2005; Roy Hendarto (26401238)",
+  "subjects": "SOFTWARE ENGINEERING"
+}

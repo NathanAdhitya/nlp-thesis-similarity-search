@@ -1,0 +1,14 @@
+{
+  "id": "2466",
+  "title": "Perancangan dan pembuatan adapter dari keyboard IBM PS/2 ke interface USB",
+  "abstract": "Universal Serial Bus (USB) sebagai suatu interface baru terutama pada Personal Computer (PC) memiliki banyak keunggulan dibandingkan inierface lain antara lain dalam hal kecepatan dan kemudahan penggunaan. Dengan kemampuan hot-plug, yang memperbolehkan sebuah alat untuk dihubungkan dengan atau dilepas dari PC kapan saja, tnembuat protokol komunikasi USB menjadi lebih rumit daripada protokol interface lain. Dalam Tugas Akhir ini dibuat sebuah alat yang mampu dikenali oleh host USB dan berkomunikasi melalui port USB dengan benar. Hal ini diimplementasikan dengan membuat adapter sehingga keyboard IBM PS/2 bisa dikenali dan dijalankan dalam lingkungan USB. Tugas Akhir ini menggunakan sebuah IC antarmuka USB PDIUSBD12 yang akan menangani protokol USB dan sebuah microcontroller yang akan menangani semua data yang keluar ataupun masuk dari dan ke PDIUSBD12 ataupun keyboard. Alat ini telah diuji dan terbukti mampu menangani proses enumerasi dan menyampaikan data yang diterima dari keyboard menuju host. Meskipun Tugas Akhir ini tidak mendukung semua tombol tetapi tombol-tombol utama bisa berjalan dengan normal pada penekanan satu tombol ataupun kombinasi tombol.",
+  "creators": "DANNY CHRISTANTO",
+  "contributors": "Resmana Lim (Advisor 1); Anies Hannawati (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/609/ELK/2003; Danny Christanto (23498098)",
+  "subjects": "ADAPTIVE CONTROL SYSTEMS"
+}

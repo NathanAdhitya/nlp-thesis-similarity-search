@@ -1,0 +1,14 @@
+{
+  "id": "4621",
+  "title": "Aplikasi komunikasi plc micro TSX 37-21 dan V5.0 dan variable speed drives ATV 31 HU15M2A 1,5 KW/2HP menggunakan protokol modbus",
+  "abstract": "Tugas akhir ini menggunakan MODBUS sebagai protokol komunikasinya karena kelebihannya dalam konfigurasi sistem yang memerlukan satu master dan beberapa slave. Koneksi dari master ke slave dengan MODBUS sangat mudah. Cukup dengan men-set address masing-masing slave yang berbeda dan dihubungkan dengan hubungan daisy chain yang sederhana. Selain itu MODBUS terdapat fasilitas error checking yang memungkinkan data yang dikirim sampai ketujuan. Juga karena MODBUS menggunakan RS-485 sebagai physical interface-nya sehingga MODBUS dapat dipakai pada tempat-tempat dengan interferensi gelombang elektromagnetik yang tinggi. Tugas akhir ini dibuat dengan tujuan untuk mengaplikasikan protokol MODBUS yang ada di terminal port TER PLC Micro TSX 37-21 untuk mengontrol dan memonitor Variable Speed Drives ATV 31, dengan menggunakan konfigurasi MODBUS master-slave, PLC sebagai master dan ATV 31 sebagai slave. Program PLC menggunakan ladder diagram yang dibuat melalui Software PL7 Pro 4.3. Kabel yang digunakan adalah serial RS-485. Hasil pengujian menunjukkan bahwa sistem ini sudah dapat berjalan dengan baik pada 5 buah ATV 31 untuk 5 buah motor AC. Hal ini ditunjukkan dengan PLC dapat memonitor kelima ATV 31 dengan perintah READ, dan dapat mengontrolnya dengan perintah WRITE.",
+  "creators": "YOHANES KURNIAWAN",
+  "contributors": "RUDYJANTO TEDJO (Advisor 1); Handy Wicaksono (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010824/ELK/2006; Yohanes Kurniawan (23402037)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

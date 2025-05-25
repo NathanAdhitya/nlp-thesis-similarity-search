@@ -1,0 +1,14 @@
+{
+  "id": "5381",
+  "title": "Pembuatan prototype sistem informasi pasien pada sebuah rumah sakit berbasis web",
+  "abstract": "Rumah sakit sebagai sarana kesehatan dituntut untuk memberikan informasi yang lengkap mengenai kesehatan termasuk informasi pasien dan dokter. Web merupakan salah satu media informasi yang dapat memecahkan masalah tersebut, sehingga seluruh informasi dokter dapat diinformasikan, demikian pula dengan data dan laporan kesehatan pasien, sehingga dokter dapat mengetahui perkembangan kesehatan pasien walaupun mereka jauh dari pasien. Sistem informasi pasien pada sebuah rumah sakit berbasis web merupakan suatu sistem dimana seluruh informasi rumah sakit dapat diinformasikan kepada masyarakat seperti profile, fasilitas penunjang, pelayanan, jadwal praktek, direksi, link, news dan media yang berhubungan dengan partisipasi masyarakat seperti polling, agenda dan buku tamu. Disamping itu juga terdapatnya bagian administrator yang diperuntukkan bagi pihak rumah sakit dan dokter. Untuk administrator pihak rumah sakit memungkinkan untuk dapat memperoleh informasi kamar dan data pasien, update untuk data pasien, data dokter, agenda acara, pelayanan, buku tamu dan polling rumah sakit sedangkan untuk pihak dokter memungkinkan untuk ubah password, edit data dokter, upload foto dan laporan harian pasien mereka. Sistem ini dikembangkan dengan bahasa skrip PHP dan sistem database MySQL. Dalam pengembangan sistem, dilakukan survey dan uji coba pada Rumah Sakit Adi Husada, Undaan Wetan. Hasil dari pembuatan program web ini adalah memberikan informasi rumah sakit yang lengkap kepada masyarakat. Dan memungkinkan pihak dokter untuk dapat mengetahui laporan perkembangan kesehatan pasien mereka tiap harinya. Sedangkan dari hasil pengujian sistem, dapat disimpulkan bahwa sistem informasi pasien dapat diterapkan pada sistem berbasis web dan dari hasil kuesioner diperoleh hasil bahwa interface sistem informasi pasien ini cukup user friendly.",
+  "creators": "FERDY KAIRUPHAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Andreas Handojo (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skrisis No. 02000130/INF/2004; Ferdy Kairuphan (26499116)",
+  "subjects": "WEB SITES-DESIGN; INTERNET (COMPUTER NETWORK); DATABASE DESIGN"
+}

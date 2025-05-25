@@ -1,0 +1,14 @@
+{
+  "id": "2592",
+  "title": "Perancangan dan pembuatan sistem informasi perhitungan HPP pada perusahaan Logam Asir",
+  "abstract": "Perusahaan Logam Asir adalah perusahaan rumah tangga (home industry) yang bergerak dibidang pemproduksian alat - alat dapur stailess steel dengan bahan baku lembaran stainless stell. Kegiatan administrasi yang ada pada perusahaan ini diantaranya pembelian, penjualan dan proses produksi. Tetapi kendala utama yang dihadapi oleh perusahaan tersebut adalah mengenai sistem administrasi didalamnya. Dengan adanya program aplikasi ini diharapkan dapat membantu kinerja perusahaan ini dalam meningkatkan sistem administrasi yang ada menjadi lebih baik dan berjalan sesuai kebutuhan. Tahapan yang dilakukan dalam pembuatan project ini yaitu analisis, desain data flow diagram, desain entity relationship diagram, desain database dan implementasi pemprogramannya. Pembuatan project ini menggunakan bahasa pemprograman Borland Delphi 7.0, Database yang digunakan Microsoft Access dan koneksi database menggunakan Data Source (ODBC). Hasil akhir dari pembuatan project ini adalah input pembelian, input penjualan, input produksi daily, input biaya daily, perhitungan harga pokok produk, perhitungan harga pokok penjualan, semua laporan yaitu laporan stock, laporan customer, laporan supplier, laporan pembelian, laporan penjualan, laporan produksi daily, dan perhitungan HPP.",
+  "creators": "DODON TURIANTO NUGRAHADI",
+  "contributors": "Kartika Gunadi (Advisor 1); Andreas Handojo (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000365/INF/2005; Dodon Turianto Nugrahadi (26498108)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

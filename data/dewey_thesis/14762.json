@@ -1,0 +1,14 @@
+{
+  "id": "14762",
+  "title": "Studi sistem eksitasi pada turbo generator dengan kapasitas besar di PLTU Paiton khususnya yang dikopel dengan turbin gas",
+  "abstract": "\\ledan magnet sebagai pembangkit tegangan generator dapat berupa magnet permanen maupun dalam bentuk kumparan yang dialiri arus searah. Untuk itu setiap generator memiliki sistem eksitasi yang menyediakan medan magnet tersebut. Salah satu dari beberapa sistem eksitasi yang dikenal adalah sistem eksitasi statis dengan thyristor. Thyristor menghasilkan arus searah yang dapat berubah besarnya, sehingga tegangan generator dapat diatur sesuai dengan perubahan beban. Arus, medan diatur dengan mengubah tegangan medan. hal ini dilakukan dengan perubahan phasa tegangan output rangkaian penyearah. Perubahan phasa maksudnya adalah menentukan sudut penyalaan thyristor atau saat konduksi dari thyristor. Thyristor akan konduksi bila diberikan arus gate, dimana arus ini merupakan pulsa yang dihasilkan oleh AVR unit. AVR membandingkan tegangan generator dengan tegangan referensi, sehingga ada perbedaan tegangan atau error signal. Error signal digunakan sebagai pembentuk pulsa untuk arus gate thyristor pada rangkaian penyearah. Jadi AVR sebagai pengatur tegangan generator yang konstan, sekaligus menentukan daya reaktif dan menjaga generator dalam keadaan sinkron. Sebab AVR juga mengetahui adanya perubahan arus generator.",
+  "creators": "STEFANUS ARYANTO WIDJAJA",
+  "contributors": "BUNAWI GUNAWIDJAJA (Advisor 1); Heri Saptono Warpindyasmoro (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/TST/028/218; Stefanus Aryanto Widjaja (23491004)",
+  "subjects": "MAGNETIC CIRCUITS; THYRISTORS; TURBO GENERATORS"
+}

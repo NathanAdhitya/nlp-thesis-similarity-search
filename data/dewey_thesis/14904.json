@@ -1,0 +1,14 @@
+{
+  "id": "14904",
+  "title": "Perencanaan daan pembuatan inverter tegangan satu phase 220 V menjadi tiga phase 220 V dengan frekuensi 40-100Hz dan daya 1/4 HP yang berbasiskan mikrokontroler MCS 51",
+  "abstract": "Dewasa ini banyak mesin-mesin industri menggunakan motor 3 phase. Dalam hal ini inverter sangat dibutuhkan oleh industri-industri kecil (home industri) karena kebanyakan jala-jala pada rumah tangga menggunakan 1 phase, untuk itu inverter dapat mengubah tegangan 1 phase menjadi tegangan 3 phase. Selain itu kegunaan inverter dapat pula digunakan untuk mengatur kecepatan putaran pada motor 3 phase. Pada tugas akhir ini dibuat sebuah inverter, dimana inverter tersebut dibuat dengan menggunakan mikrokontroler 8031 dan menggunakan metode PWM (pulse width Modulation). Prinsip dasar dari alat ini adalah mengubah arus AC dari jala-jala PLN menjadi arus searah (DC) dengan menggunakan diode penyearah, dengan menggunakan PWM maka arus DC tersebut diubah lagi menjadi arus AC 3 phase. Dalam hal ini mikrokontroler berfungsi sebagai pembangkit sinyal yang dapat diatur frekuensinya sedangkan sinyal PWM dihasilkan dari EPROM 27C16 kemudian output dari PWM digunakan untuk mengendalikan IGBT (Insulated Gate Bipolar Transistor) yang berfungsi sebagai power transistor. Pada pengujian yang dilakukan menunjukan bahwa output frekuensi yang dihasilkan berbeda sedikit dengan frekuensi dari hasil perhitungan, hal tersebut disebabkan oleh clock yang dihasilkan dikurangi dengan instruksi-instruksi pada software serta dapat pula disebabkan oleh alat ukur yang berbeda akurasinya. Perbedaan tersebut sebesar 0,899% Output yang dihasilkan bila dibebani akan menyerupai gelombang sinus.",
+  "creators": "WIBISONO",
+  "contributors": "IRWAN SAHLI (Advisor 1); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/018/317; Wibisono (23486098)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; ELECTRIC INVERTERS-AUTOMATIC CONTROL"
+}

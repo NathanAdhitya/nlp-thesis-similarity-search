@@ -1,0 +1,14 @@
+{
+  "id": "41233",
+  "title": "Pembuatan aplikasi perhitungan harga pokok produksi dengan metode job order costing pada perusahaan selotip di Sidoarjo",
+  "abstract": "PT X yang berlokasi di Sidoarjo, dan bergerak pada bidang pembuatan selotip, pada saat ini melakukan segala pencatatan dalam bentuk dokumen fisik, dan Microsoft Excel untuk setiap perkerjaan yang dilakukan. Hal ini menyebabkan pencarian data sulit dilakukan dan memakan waktu karena masih menggunakan sistem manual, kesulitan untuk melakukan perhitungan harga pokok produksi karena tidak mengetahui berapa harga biaya bahan baku yang digunakan dalam proses produksi, serta sering terjadi kesalahan dalam pencatatan. Aplikasi ini dibuat dengan menggunakan bahasa pemrograman HTML5, PHP, Javascript, CSS3, framework PHP Laravel 5, dan database MySQL. Tampilan aplikasi menggunakan template Bootstrap AdminLTE. Hasil akhir dari implementasi aplikasi ini adalah dapat terintegrasinya informasi perhitungan harga pokok produksi, diantaranya catatan sales contract, invoice, kuitansi, surat jalan, surat perintah kerja, hasil produksi, purchase order, pengeluaran kas, dan dapat melakukan perhitungan harga pokok produksi dengan metode job order costing berdasarkan penggunaan bahan baku dalam proses produksi.",
+  "creators": "STEVE EIGHA PRATAMA",
+  "contributors": "Alexander Setiawan (Advisor 1); Dedy Triyono,SE (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021710/INF/2017; Steve Eigha Pratama (26413010)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

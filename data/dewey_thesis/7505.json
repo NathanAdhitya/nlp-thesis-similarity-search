@@ -1,0 +1,14 @@
+{
+  "id": "7505",
+  "title": "Sistem pengaturan kunci hotel dengan RFID",
+  "abstract": "Sistem kunci hotel yang ada saat ini masih menggunakan metode kartu magnetik. Kelemahan yang dimiliki kartu magnetik adalah rentan terhadap gangguan gelombang magnet, sehingga para pelanggan hotel dan pihak hotel perlu berhati-hati dalam menggunakan kartu magnetik. Dari permasalahan tersebut, maka timbulah ide untuk membuat sistem pengaturan kunci hotel yang tidak mudah terpengaruh gelombang magnetik. Metode yang digunakan adalah menggunakan RFID reader pada modul pintu untuk membaca tag, sebagai kunci kamar. Hasil pembacaan akan diterima oleh mikrokontroler untuk diidentifikasi dengan data yang tersimpan pada EEPROM, data tersebut dikirim dari server melalui komunikasi RS485. Bila data pada tag sesuai dengan data yang tersimpan pada EEPROM, maka kunci pintu akan terbuka dan tamu dapat memasuki kamar. Prototype dari sistem pengaturan kunci hotel untuk 20 kamar pada hotel menggunakan mikrokontroler AT89S51, mampu menyimpan 5 data kunci untuk setiap kamar. Kemudian, identitas tamu dan staff disimpan di dalam database. Sistem telah berjalan dengan baik, terbukti dengan dapat mengidentifikasi tag yang digunakan sebagai kunci hotel dan membuka kunci pintu bila tag sesuai dengan data.",
+  "creators": "HENDRA SUNYOTO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No.02010755/ELK/2005; Hendra Sunyoto (23400103)",
+  "subjects": "ELECTRIC CONTROLLERS; MICROCONTROLLERS"
+}

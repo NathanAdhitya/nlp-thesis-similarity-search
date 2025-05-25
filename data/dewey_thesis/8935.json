@@ -1,0 +1,14 @@
+{
+  "id": "8935",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada UD. Sarinah Motor",
+  "abstract": "UD Sarinah Motor merupakan sebuah toko yang menyediakan barang ? barang spare part dan aksesoris mobil. Pada saat ini, pencatatan transaksi dan pembuatan laporan akuntansi dari UD Sarinah Motor masih dilakukan secara manual. Beberapa kekurangan yang ditemui pada sistem perusahaan yang lama seperti seringnya bukti transaksi yang rusak / hilang, tidak adanya pencatatan jumlah stok barang, seringnya terjadi kesalahan perhitungan pada pembuatan laporan ? laporan keuangan. Oleh karena itu, pada Tugas Akhir ini akan dibuat sebuah perangkat lunak untuk Sistem Informasi Akuntansi, yang diharapkan mampu meminimalisasi kesalahan ? kesalahan yang terjadi pada saat perhitungan account ? account perkiraan akuntansi. Sehingga terdapat suatu keadaan yang seimbang pada saat perhitungan account balance. Pembuatan Tugas Akhir ini menggunakan perangkat lunak Borland Delphi 7. pembuatan Tugas Akhir ini dimulai dengan membuat desain dari Sistem Informasi Akuntansi pada UD Sarinah Motor. Kemudian dilanjutkan dengan membuat desain Entity Relationship Diagram (ERD) untuk mendesain tabel ? tabel database yang akan digunakan. Setelah semua desain sistem tersebut selesai dibuat, maka dilanjutkan dengan pembuatan desain interface dari program, pembuatan master data, dilanjutkan dengan pencatatan transaksi yang kemudian dilanjutkan dengan pembuatan laporan master, transaksi, dan keuangan. Hasil dari pembuatan Tugas Akhir ini berupa sebuah sistem perangkat lunak yang dapat mencatat semua transaksi yang dilakukan UD Sarinah Motor, dan mampu menghasilkan laporan master, laporan transaksi dan laporan keuangan tanpa memerlukan dilakukan perhitungan secara manual.",
+  "creators": "ADITYA RHEZA CALLISTA",
+  "contributors": "Rudy Adipranata (Advisor 1); Silvia Rostianingsih (Advisor 2); Sri Maharsi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010647/INF/2007; Aditya Rheza Callista (26403142)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "59299",
+  "title": "Perbandingan algoritma Naive-Bayes, K-NN dan Decision Tree dalam pengklasifikasian data penyakit diabetes",
+  "abstract": "Diabetes adalah kondisi kronis yang memiliki dampak serius pada kesehatan. Kondisi ini dapat menyebabkan kerusakan pada organ tubuh seperti mata, ginjal, saraf, serta memengaruhi jantung dan pembuluh darah. Akibatnya, risiko terkena stroke, serangan jantung, gangguan penglihatan, amputasi, dan gagal ginjal meningkat secara signifikan. Tujuan dari Skripsi ini adalah mencari performa terbaik dengan membandingkan hasil performa pada matriks yang dilakukan dengan algoritma machine learning Naive-Bayes, K-NN dan Decision Tree dalam pengklasifikasian data penyakit diabetes yang nantinya metode dengan performance terbaik diimplementasikan ke dalam sebuah web untuk melakukan pendeteksian terhadap penyakit diabetes. Dalam penelitian ini didapatkan model classifier dengan performa terbaik yaitu Decision Tree dengan hasil akurasi sebesar 69,82%, presisi sebesar 69,25%, recall sebesar 75,77%, dan F1 sebesar 72,37% dibandingkan dengan model classifier Naive Bayes dengan akurasi sebesar 69,62%, presisi sebesar 70,62%, recall sebesar 71,52%, dan F1 sebesar 71,07% dan model classifier K-NN¬ dengan akurasi sebesar 68,20%, presisi sebesar 67,99%, recall sebesar 73,80%, dan F1 sebesar 70,77%.",
+  "creators": "NICOLAS OWEN",
+  "contributors": "Alexander Setiawan (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Agustinus Noertjahyana (Examination Committee 1); Rolly Intan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022428/INF/2024; Nicolas owen (C14190072)",
+  "subjects": "ALGORITHMS; DATABASE MANAGEMENT; MACHINE LEARNING"
+}

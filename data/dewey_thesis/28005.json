@@ -1,0 +1,14 @@
+{
+  "id": "28005",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada bengkel maju jaya",
+  "abstract": "Bengkel Maju Jaya adalah unit usaha yang bergerak di bidang penjualan barang dan jasa automotif. Barang yang dijual meliputi: ban, oli, spare part dan aksesoris lainnya. Bengkel Maju Jaya memiliki permasalahan administrasi seperti pencatatan transaksi pembelian dari supplier dan transaksi penjualan kepada customer yang masih dilakukan secara manual, di mana hal tersebut memiliki resiko yang besar. Dengan adanya latar belakang masalah yang ada, dibuatlah sebuah aplikasi yang dikembangkan dan dibuat dengan menggunakan bahasa pemrograman Microsoft Visual Studio 2005.Net dan Microsoft SQL Server 2005 sebagai tempat penyimpanan data. Aplikasi yang dibuat memiliki ruang lingkup sebagai berikut: pencatatan data transaksi pembelian dari supplier, pencatatan data transaksi penjualan, laporan pembelian, laporan penjualan, laporan hutang, laporan piutang, laporan stok barang, reminder hutang, reminder piutang, reminder stok barang. Dari hasil pengujian sistem diperoleh kesimpulan sistem ini dapat mengatasi permasalahan Bengkel Maju Jaya dengan baik. Aplikasi ini dapat mencatat transaksi yang terjadi, sehingga memudahkan pemilik untuk melakukan pengecekan terhadap transaksi yang terjadi dan stok barang.",
+  "creators": "YUSTINUS CHRISTIAN A S",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Alexander Setiawan (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021208/INF/2013; Yustinus Christian (26408086)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

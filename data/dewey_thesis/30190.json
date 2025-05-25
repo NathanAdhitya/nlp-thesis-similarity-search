@@ -1,0 +1,14 @@
+{
+  "id": "30190",
+  "title": "Perencanaan dan pembuatan alat penunjang praktikum mahasiswa Teknik Arsitektur UK Petra untuk mengukur kebisingan suatu tempat dengan menggunakan mikrokontroler 8031",
+  "abstract": "Pada saat ini pertambahan kendaraan bermotor yang semakin meningkat dengan daya yang semakin besar pula menimbulkan akibat sampingan yaitu kebisingan. Kebisingan ini jika sudah mencapai batas tertentu dapat mengganggu ketenangan dan kesehatan manusia. Karena alasan tersebut di atas maka pada tugas akhir ini dibuat suatu alat pendeteksi kebisingan yang dapat mempermudah pratikum mahasiswa arsitektur dalam mendeteksi kebisingan yang selama ini dilakukan dengan cara konvensional. Definisi kebisingan di sini adalah nilai rata-rata intensitas bunyi selama selang waktu tertentu. Jadi pembuatan alat ini tidak ditujukan untuk mengukur intensitas bunyi sesaat melainkan kebisingannya. Pembuatan tugas akhir ini menggunakan mikrokontroler 8031 sebagai pengolah data utama, EPROM 2764 untuk menyimpan program pengontrol, rangkaian transducer mic yang mendeteksi bunyi, serta Personal Computer untuk menampilkan grafik kebisingan.",
+  "creators": "BUDY DHARMANTO",
+  "contributors": "Murtiyanto Santoso (Advisor 1); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/032/0189; Budy Dharmanto (23488084)",
+  "subjects": "ELECTRIC VEHICLES; INTEL 8031 (MICROCONTROLLER)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "26042",
+  "title": "Aplikasi pencarian dokumen berbasis generalized vector space model dan semantic relatedness",
+  "abstract": "Dengan pesatnya perkembangan dalam penggunaan teknologi komputer baik di perusahaan maupun di bidang pendidikan, maka semakin banyak pula dokumen-dokumen yang berbentuk digital. Untuk mencari dokumen-dokumen tersebut dibutuhkan waktu yang relatif lama apabila pencariannya dilakukan secara manual. Metode yang sering dipergunakan untuk mencari dokumen adalah Vector Space Model (VSM). Kelemahan utama dari VSM adalah tidak mampu menemukan dokumen yang walaupun relevan dengan kata kunci tetapi tidak mengandung kata kunci tersebut. Oleh karena itu dibutuhkan sebuah metode search engine yang dapat memanfaatkan kemiripan makna antar kata untuk mengatasi masalah di atas. Salah satu metode yang dipergunakan dalam perancangan search engine adalah Generalized Vector Space Model (GVSM). Metode GVSM merupakan perkembangan dari metode VSM dengan menambahkan kemampuan untuk mempertimbangkan kedekatan sense antar term dalam merepresentasikan dokumen. George Tsatsaronis dan Vicky Panagiotopolou mengembangkan metode GVSM dengan melakukan pemberian nilai kedekatan antar sense didapatkan dengan metode Semantic Relatedness yang mempergunakan database leksikal “WordNet”. Dari hasil pengujian yang dilakukan maka GVSM menghasilkan hasil pencarian dokumen-dokumen yang memiliki nilai recall yang sama atau lebih tinggi yaitu 0,4 ; 1 ; 0,7778 jika dibandingkan dengan VSM (0,4 ; 0 ; 0,2222). Sedangkan nilai precision dari hasil pencarian GVSM memiliki nilai yang lebih rendah yaitu 0,0526 ; 0,0588 ; 0,1707 jika dibandingkan dengan nilai precision dari hasil pencarian VSM yaitu 0,1333 ; 0 ; 0,2857 .",
+  "creators": "CHARISTIAN WIDJAJA",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Andreas Handojo (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021146/INF/2012; Charistian Widjaja (26408061)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "25483",
+  "title": "Pengaturan tekanan kompresor motor listrik (1/4 HP) dengan mikrokontroler 8031",
+  "abstract": "Banyak sekali terjadi pemakaian kompresor sebagai pensupply dari mesin-mesin, yang mana kadang-kadang kompresor dipakai untuk mensupply beberapa mesin secara bersamaan sehingga menyebabkan tekanan dari kompresor berkurang; dengan berkurangnya tekanan tersebut dapat menyebabkan fungsi dari mesin berkurang. Pembuatan peralatan ini bertujuan agar tekanan yang diinginkan dapat diatur sesuai dengan kebutuhan dan membuat tekanan yang dihasilkan tetap stabil. Secara garis besar peralatan ini terdiri dari kompresor sebagai penghasil tekanan, transduser tekanan yang dipakai adalah Piezoresistive tipe MPX 100GP, rangkaian ADC, rangkaian pengontrol (minimum sistem) 8031, keyboard angka dan display. Bila diinginkan suatu tekanan tertentu, maka kita tinggal menekan angka yang ada pada keyboard tersebut dan akan terbaca pada display. Sedangkan tekanan yang keluar dari kompresor dapat juga dilihat pada display. Karena output dari transducer itu dalam orde milivolt, maka diperlukan suatu rangkaian penguat instrumentasi. Dari hasil pengujian alat diperoleh bahwa transduser yang dipakai mempunyai kelinieran yang cukup baik. Alat pengatur tekanan ini mempunyai ketelitian 0,1 Kg/Cm2 dan tekanan yang dihasilkan cukup stabil.",
+  "creators": "WIBOWOADI PRIHANDAJA",
+  "contributors": "HANDAYANI T. (Advisor 1); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/009/0099; Wibowoadi Prihandaja (11486078)",
+  "subjects": "COMPRESSORS-MICROCONTROLLER; MICROCONTROLLER"
+}

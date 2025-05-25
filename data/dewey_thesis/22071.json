@@ -1,0 +1,14 @@
+{
+  "id": "22071",
+  "title": "Studi mengatasi gangguan voltage sags (kedip tegangan) dengan menggunakan Dynamic Voltage Restorer (DVR)",
+  "abstract": "Dynamic Voltage Restorer (DVR) adalah salah satu peralatan untuk melindungi beban sensitif terhadap gangguan sesaat seperti kedip tegangan. DVR terhubung secara seri diantara sumber dan beban sensitif. DVR terdiri dari Voltage Source Inverter (VSI) 3 Fasa dan berfungsi untuk menginjeksikan tegangan melalui trafo injeksi ketika terjadi gangguan kedip tegangan. Simulasi pada tugas akhir ini dikerjakan dengan program PSIM 6.1 untuk melihat performa DVR dengan menggunakan kombinasi kontroller PI. Untuk mendapatkan kombinasi Gain dan Time Control yang ideal maka digunakan metode Trial and Error dengan melihat keadaan tegangan beban yang dikompensasikan. Hasil simulasi menunjukkan bahwa tegangan kompensasi yang dihasilkan oleh DVR dapat mengembalikan tegangan beban dan dijaga pada nilai tegangan rms 220 V dengan error maksimal 5 %.",
+  "creators": "ALFIN CHRIS SITANIAPESSY",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Limboto Limantara (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010619/ELK/2011; Alfin Christoffel Sitaniapessy (23406055)",
+  "subjects": "ELECTRIC POWER TRANSMISSION"
+}

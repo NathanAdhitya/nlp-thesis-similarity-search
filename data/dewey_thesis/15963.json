@@ -1,0 +1,14 @@
+{
+  "id": "15963",
+  "title": "Perencanaan dan pembuatan alat pengatur volume air dari suatu penampungan dengan ketelitian 0,1 liter dengan menggunakan mikroprosessor 8088 dengan metode proportional",
+  "abstract": "Salah satu bentuk pemanfaatan dari kemajuan teknologi mikroprosessor adalah untuk suatu proses otomatisasi dan pengaturan. Pada tugas akhir ini dirancang dan dibuat suatu minimum sistem yang berbasiskan mikroprosessor 8088 untuk pengaturan volume air. Pada tugas akhir ini 8088 berperan sebagai komponen pengontrol. Banyaknya volume air yang telah mengalir dideteksi melalui flow sensor. 8088 juga berperanan dalam proses otomatisasi dalam penutupan katup (valve) bila setting point telah terpenuhi. Untuk memasukkan setting point maka diperlukan alat berupa keypad. Proses setting ini diatur dengan menggunakan bahasa pemrograman yang dapat dibaca oleh mikroprosessor 8088. Dalam suatu proses pengaturan diperlukan metode pengontrolan, pada tugas akhir ini dipilih metode pengontrolan proportional yang mempunyai cukup keunggulan dalam memperkecil nilai error. Hasil dari pada rancang bangun alat ini dapat dikembangkan lebih lanjut dan dapat dipakai dalam dunia industri misalnya pengisian minuman dalam botol. Alat yang dibuat setelah mengalami pengujian ternyata mempunyai error +_ 50 ml terhadap setting point yang diinginkan. Pada alat ini setting point minimum yang mampu di inputkan dan mempunyai keluaran volume air yang memenuhi ketelitian +0,1 liter adalah 200 ml.",
+  "creators": "SIMON BAMBANG SUMARNO",
+  "contributors": "IRWAN SAHLI (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/018/363; Simon Bambang Sumarno (23492167)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

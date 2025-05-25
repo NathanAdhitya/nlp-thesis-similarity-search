@@ -1,0 +1,14 @@
+{
+  "id": "48845",
+  "title": "Sistem hibrid angin dan surya secara on grid",
+  "abstract": "Dalam beberapa tahun terakhir, penggunaan bahan bakar fosil seperti batubara, gas alam, dan lainnya, meningkat dengan sangat cepat sesuai kebutuhan beban pada sistem tenaga listrik. Karena masalah lingkungan dan pemanasan global, maka perlu dikembangkan penggunaan Energi terbarukan (Renewable Energy). Secara umum, tenaga surya dan tenaga angin dapat saling melengkapi karena PV bekerja pada siang hari, sedangkan pada malam hari di mana tidak ada sinar matahari, turbin angin masih dapat bekerja menghasilkan listrik. Sistem yang dirancang terdiri atas tiga buah panel surya (300Wp) dan sebuah turbin angin (200W) yang dihubungkan menuju hybrid controller sebagai pengatur daya dan sebuah on-grid inverter. Sistem ini terhubung ke jaringan listrik (grid) dan dapat menghasilkan daya listrik untuk menyuplai beban bersamaan dengan daya listrik dari jaringan utilitas. Dari percobaan lapangan, daya listrik dari sistem dan grid dapat menghasilkan daya listrik sesuai kebutuhan daya beban. Namun, dari sisi sistem hibrid, panel surya dapat bekerja dengan konsisten sesuai dengan kondisi cuaca, dengan rata-rata daya maksimum sebesar 61,92 W. Sedangkan kecepatan angin di lapangan yang cukup lemah tidak mampu memutar turbin angin secara konsisten. kecepatan angin yang dibutuhkan untuk memutar turbin angin ialah kurang lebih 3 m/s, dengan rata-rata daya sebesar 0 W.",
+  "creators": "MICHAEL KEYSON WIRAHADI",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Heri Saptono Warpindyasmoro (Advisor 2); Julius Sentosa Setiadji (Examination Committee 1); Handry Khoswanto (Examination Committee 2); Emmy Hosea (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010664/ELK/2020; Michael Keyson Wirahadi (23416028)",
+  "subjects": "RENEWABLE ENERGY SOURCES; SOLAR ENERGY; WIND POWER"
+}

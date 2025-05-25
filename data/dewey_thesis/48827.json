@@ -1,0 +1,14 @@
+{
+  "id": "48827",
+  "title": "Dynamics difficulty adjustment metode evolutionary mcts with flexible search horizon pada multi-action adversarial games untuk penyesuaian tingkat permainan",
+  "abstract": "Dynamic Difficulty Adjustment (DDA) merupakan metode yang memodifikasi perilaku AI agar menyesuaikan kemampuan pemain. Sejauh ini penelitian mengenai DDA pada Monte Carlo Tree Search mampu memberikan tingkat tantangan yang sesuai. Namun keunggulan MCTS dalam mencari solusi pada strategi jangka panjang belum terlihat. Penelitian ini bertujuan menguji DDA MCTS kedalam variant MCTS untuk multi-action adversarial games yakni Hero AIcademy. Penelitian ini menggabungkan DDA MCTS dengan evolutionary monte carlo tree search with flexible horizon (FH-EMCTS). FH-EMCTS merupakan menggabungkan vanilla MCTS dengan Evolutionary algorithm serta peningkatan pada ruang pencarian yang lebih dalam batasan tertentu. Penelitian ini melakukan pengujian AI terhadap winrate dan survei. Winrate digunakan untuk mengetahui DDA dapat melakukan adjustment. Survei digunakan untuk mengetahui jenis AI seperti apa yang disenangi oleh pemain. Hasil dari penelitian ini adalah agen AI yang menggunakan FH-EMCTS dengan DDA dapat diimplementasikan ke dalam game multi-action adversarial games dan dapat memberikan tingkat kesulitan yang seimbang terhadap agent AI lainnya maupun manusia. Berdasarkan hasil survei percobaan agen AI melawan manusia menunjukkan bahwa agen AI yang paling menyenangkan dan realistis bukanlah agent AI yang memiliki kemampuan yang paling baik dalam hal persentase kemenangan.",
+  "creators": "ANDHIKA EVANTIA IRAWAN",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2); Hans Juwiantho, S.Kom.,M.Kom. (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022016/INF/2021; Andhika Evantia Irawan (C14170085)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; COMPUTER GAMES--PROGRAMMING"
+}

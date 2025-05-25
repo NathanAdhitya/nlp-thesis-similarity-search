@@ -1,0 +1,14 @@
+{
+  "id": "2197",
+  "title": "Desain dan implementasi balance amplifier dengan penggerak op amp norton",
+  "abstract": "Pada sistem Penguat Konvensional, adanya IHM (Interval Hum Modulation) noise pada isyarat keluaran, disebabkan isyarat masukan dan isyarat keluaran menerapkan referensi tegangan terhadap ground dari pencatu daya, oleh karena itu sisa ripple tegangan jaia-jala 50Hz atau 60Hz yang lewat pada jalur ground dari pencatu daya ikut masuk ke input amplifier. Sebab lain yaitu berasal dari penggerak konus pengeras suara yang menimbulkan GGL induksi lawan pada jalur ground dari pencatu daya. Hum noise ini memenuhi bidang frekuensi audio mulai dari 20Hz sampai 20kHz. Dengan menerapkan penguat operasi (LM 3900) sebagai penggerak dan penguat depan, sehingga jalur masukan dan jalur keluaran dari sistem penguat balans ini tidak menerapkan referensi tegangan terhadap jalur ground dari pencatu daya, dengan demikian IHM nois pada isyarat keluaran dari penguat balans ini dapat ditekan menjadi sangat kecil. Dari hasil perancangan dan pengujian pada Balance Amplifier, untuk respon frekuensi 20Hz - 20kHz gain pada 23dB, saat frekuensi pada 25kHz gain menurun sebesar -3dB. Pada pengukuran Daya output dengan menerapkan Dummy Load 8Q/60 Watt diperoleh daya Output 36 Watt RMS, dan total harmonic distortion (THD), 1.98%.",
+  "creators": "TONNY RUMBEKWAN",
+  "contributors": "YOHANES T. D. S (Advisor 1); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/005/551; Tonny Rumbekwan (23494126)",
+  "subjects": "AMPLIFIERS (ELECTRONICS)"
+}

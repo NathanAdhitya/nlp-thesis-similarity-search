@@ -1,0 +1,14 @@
+{
+  "id": "2162",
+  "title": "Perencanaan rute perjalanan di Jawa Timur dengan dukungan GIS menggunakan metode Dijkstra's",
+  "abstract": "Informasi mengenai geografi semakin dibutuhkan oleh banyak pihak, misalnya informasi untuk mengetahui jarak antara satu daerah dengan daerah lain, informasi seputar daerah yang diinginkan, informasi tentang sumber daya alarn yang dicari, informasi untuk menemukan lokasi kecelakaan dengan cepat, dan banyak informasi mengenai geografi lainnya. Geographical Information Systems (GIS) merupakan salah satu solusi untuk mendapatkan informasi geografi tersebut. Pemanfaatan GIS saat ini, beberapa diantaranya dilakukan dengan menggunakan satelit, sehingga data yang diperoleh merupakan data yang up-todate. Tujuan perancangan adalah membuat suatu perangkat lunak yang dapat memberikan informasi geografi mengenai rute jalan terpendek antara kota yang satu dengan kota yang lainnya di Jawa Timur. Sedangkan informasi lainnya yang dapat diperoleh antara lain informasi mengenai pemerintahan, jumlah penduduk, tempat wisata, nama gunung, makanan khas, kerajinan, dan kesenian tradisional yang berasal dari suatu daerah. Prograrn ini dirancang tanpa menggunakan satelit namun hanya menggunakan database, sehingga penggunaannya lebih murah dibandingkan dengan menggunakan satelit. Perancangan dilakukan dengan menggunakan metode Dijkstra's yang merupakan salah satu algoritma yang berguna untuk mencari lintasan terpendek dari satu titik ke titik lain dalam gambar. Metode Dijkstra's dipilih karena metode ini hanya mengeluarkan satu nilai output yang merupakan lintasan terpendek Oleh karena itu, program ini tidak memiliki kemampuan untuk memberikan jalan alternatif. GIS dapat dimanfaatkan untuk memenuhi keingintahuan manusia terhadap segala sesuatu yang berhubungan dengan keadaan geografi. Masyarakat dapat memanfaatkan semua kemampuan yang dimiliki oleh GIS untuk menjalankan kehidupan ke arah yang lebih baik.",
+  "creators": "JEFFREY TANUHARDJA",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Kartika Gunadi (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010009/INF/2002; Jeffrey Tanuhardja (26498023)",
+  "subjects": "GEOGRAPHICAL INFORMATION SYSTEM; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

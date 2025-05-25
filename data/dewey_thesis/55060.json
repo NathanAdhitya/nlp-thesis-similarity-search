@@ -1,0 +1,14 @@
+{
+  "id": "55060",
+  "title": "Verifikasi wajah di kartu identitas menggunakan metode histogram of oriented gradients",
+  "abstract": "Pinjaman Online adalah salah satu cara untuk memperoleh dana secara cepat dengan proses yang mudah. Pinjaman online diberikan dengan syarat dan ketentuan tertentu. Masalah yang sering timbul dalam proses pencairan dana ini adalah penyalahgunaan data E-KTP oleh oknum yang tidak bertanggung jawab. Karena itu, pihak pemberi pinjaman harus mampu mendeteksi apabila hal tersebut terjadi agar tidak menimbulkan kerugian. Tujuan skripsi ini adalah untuk mengantisipasi kerugian tersebut dengan cara membandingkan foto yang ada di wajah asli dengan foto wajah yang ada di E-KTP. Metode yang dipakai untuk menyelesaikan masalah di atas adalah metode Histogram of Oriented Gradients (HoG). HoG sendiri merupakan cara komputer untuk mengenali wajah dengan cara mengecek pixel dan kondisi sekitarnya pada 1 pixel di gambar. Dengan menggunakan 12 dataset sebagai bahan pengujian, metode ini mampu memberikan hasil dengan tingkat akurasi yang 91.67% sehingga layak digunakan. Pengujian dengan variasi jarak dan penerangan, hanya 1 yang gagal, itupun karena foto dalam E-KTP sudah buram.",
+  "creators": "ERIC SAPUTRA LAYS",
+  "contributors": "Rudy Adipranata (Advisor 1); Kartika Gunadi (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022226/INFOR/2022; Eric Saputra Lays (C14180048)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--COMPUTER PROGRAMS; HUMAN FACE RECOGNITION (COMPUTER SCIENCE); IMAGE PROCESSING"
+}

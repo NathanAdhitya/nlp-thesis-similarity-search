@@ -1,0 +1,14 @@
+{
+  "id": "4217",
+  "title": "Perancangan dan pembuatan sistem informasi penjualan berbasis web di PT Casa Fiero",
+  "abstract": "Casa Fiero adalah sebuah perusahaan yang bergerak di bidang penjualan keramik. Sesuai dengan perkembangan internet saat ini, untuk menunjang pelayanan yang baik bagi customer, maka diperlukan adanya suatu sarana informasi bagi Casa Fiero dalam hal ini berupa web. Web yang dirancang pada tugas akhir ini diimplementasikan dengan menggunakan Macromedia Dreamweaver MX untuk membuat interface, MySQL sebagai database dan menggunakan skrip PHP dalam pembuatan programnya. Web ini terdiri dari beberapa menu yang diperlukan baik oleh customer maupun umum dalam mengetahui informasi tentang Casa Fiero. Hasil yang didapatkan dari pembuatan web ini berupa sistem online order disediakan untuk memudahkan customer dalam melakukan pemesanan barang. Setiap order yang dilakukan oleh customer akan masuk ke dalam database sehingga akan memudahkan dalam pengaturan order yang dilakukan secara online. Web ini juga dilengkapi dengan menu administrator yang hanya dapat diakses oleh administrator. Tujuan dari menu administrator adalah untuk melakukan pengaturan terhadap web termasuk database yang berhubungan dengan web tersebut. Melalui pembuatan web ini didapatkan kesimpulan bahwa web ini sudah sesuai dengan keinginan user yang terdiri dari guest, karyawan Casa Fiero dan administrator. Hal ini dibuktikan dengan hasil kuesioner secara keseluruhan dari guest 84,22 %, karyawan Casa Fiero 78,33 % dan administrator 82,22 %.",
+  "creators": "ARNI MANGIRI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Leo Willyanto Santoso (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000289/INF/2004; Arni Mangiri (26400147)",
+  "subjects": "WEBSITES; DATABASE MANAGEMENT; DATABASE DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "26253",
+  "title": "Aplikasi sistem informasi administrasi dan pemeliharaan kendaraan bermotor pada Bengkel Setia Motor",
+  "abstract": "Sistem informasi tentang pembelian, penjualan, dan stok data pada Bengkel Setia Motor masih dikerjakan secara manual dan hal tersebut menyebabkan kesulitan dalam perusahaan. Semua traksaksi yang ada dicatat dalam sebuah buku, seperti misalnya: informasi dan traksaksi penjualan, transaksi pembelian, informasi supplier, dan lain-lain. Masalah yang lain adalah bahwa semua data yang ada tersebut masih tertulis, hal itu menyebabkan waktu yang cukup lama dalam pembuatan laporan dan memungkinkan data sering hilang dan sering terjadi kesalahan dalam pencatatan. Berdasarakan masalah yang ada, maka sistem informasi administrasi dibuat secara komputerisasi untuk memudahkan dalam memasukkan data-data yang ada. Pertama, aliran data dibuat dengan menggunakan Data Flow Diagram dan untuk pembuatan struktur tabel dan hubungan antar tabel yang ada menggunakan Entity Relationship Diagram. Program database dibuat dengan menggunakan SQL server dan vb.net, SMS broadcast juga diterapkan dalam program yang dibuat. Program yang dibuat meliputi sistem pembelian, sistem penjualan, servis sepeda motor dan stok. Hasil dari implementasi sistem adalah program yang dibuat dapat menghasilkan laporan-laporan yang dibutuhkan dan dapat dengan mudah memasukkan data dan juga dapat memudahkan dalam menyimpan transaksi yang terjadi. Untuk penghitungan stok, program akan secara otomatis menghitung ketika data dimasukkan. Aplikasi ini juga dapat mengurangi resiko terjadinya kehilangan data dan memungkinkan untuk menyimpan semua laporan secara otomatis.",
+  "creators": "WIDY SUHAIDY WIYONO",
+  "contributors": "Yulia (Advisor 1); Rolly Intan (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021117/INF/2012; Widy Suhaidy Wiyono (26408087)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMANT"
+}

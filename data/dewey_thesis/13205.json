@@ -1,0 +1,14 @@
+{
+  "id": "13205",
+  "title": "Diskriminasi struktur proses produksi dalam domain frekuensi dengan menggunakan transformasi fast fourier dan uji F",
+  "abstract": "Dalam proses produksi dapat terjadi perubahan struktur proses produksi. Struktur suatu proses produksi dapat dimodelkan oleh fungsi covarians, sedangkan fungsi covarians identik dengan distribusi spektralnya, sehingga agar dapat mendeteksi perubahan struktur, data perlu ditransformasikan ke dalam distribusi spektralnya dengan menggunakan transformasi fast fourier ( domain frekuensi ) sehingga data menjadi tidak berkorelasi dan data dapat dianalisa secara statistis. Data yang dipakai berupa data time series yang dibangkitkan dengan model AR ( Auto Regressive ) dimana mempunyai struktur berbeda, dan berjenis variabel. Transformasi fast fourier merupakan suatu metode yang sistematis dalam memberikan sederetan perhitungan yang berurutan yang memungkinkan menganalisis spektrum frekuensi suatu sinyal dengan waktu perhitungan yang seminimal mungkin. Secara umum metode FFT menghitung N komponen frekuensi dari sample sebanyak N kali dengan: N=2 T , dimana y adalah bilangan bulat positif. Data yang telah ditransformasikan, diuji dengan menggunakan pengujian statistika F untuk mendeteksi dan menentukan titik perubahan.",
+  "creators": "PURNOMO SURYANEGARA",
+  "contributors": "Dr. Dra. Gan Shu San, M.Sc. (Advisor 1); Stevanus Adrianto Tjandra (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.084/TMI-14/1998; Purnomo Suryanegara (25493081)",
+  "subjects": "TIME MEASUREMENT; MANUFACTURING PROCESSES; TIME STUDY"
+}

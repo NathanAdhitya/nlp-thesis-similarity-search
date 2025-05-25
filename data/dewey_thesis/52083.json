@@ -1,0 +1,14 @@
+{
+  "id": "52083",
+  "title": "Perancangan layout penempatan material pada gudang PT XYZ untuk implementasi sistem FIFO",
+  "abstract": "Permasalahan yang ada pada gudang di PT XYZ adalah tidak adanya layout penempatan material pada gudang yang mendukung jalannya sistem FIFO. Usulan yang diberikan adalah membuat layout penempatan material di gudang dengan cara menghitung jumlah penggunaan pallet pada setiap material yang ada dan membuat mekanisme penyimpanan dan pengambilan barang yang mendukung sistem FIFO akan berjalan lebih baik. Hasil usulan dapat menciptakan lingkungan yang lebih ramah terhadap sistem FIFO. Metode ABC menjadi metode utama yang digunakan untuk menentukan prioritas pemetaan material di rak pada Gudang. Lalu dengan menemukan urutan prioritas yang tepat, perhitungan untuk menentukan jumlah pallet yang digunakan tiap materialnya akan lebih mudah ditemukan dan dilakukan. Perhitungan penggunaan pallet yang sudah didapatkan akan menjadi acuan letak pasti material di rak pada Gudang, dengan begitu peletakan material pada Gudang akan tertata yang menciptakan sebuah lingkungan yang memudahkan menemukan setiap material untuk ditemukan dan sistem FIFO pun akan menjadi lebih mudah untuk dijalankan.",
+  "creators": "JEZREEL WILLY ADICHANDRA",
+  "contributors": "Herri Christian Palit (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022455/IND/2022; Jezreel Willy Adichandra (C13170086)",
+  "subjects": "WAREHOUSES--MANAGEMENT"
+}

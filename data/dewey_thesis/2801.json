@@ -1,0 +1,14 @@
+{
+  "id": "2801",
+  "title": "Pembuatan aplikasi pengenalan tanda tangan menggunakan metode stroke histogram",
+  "abstract": "Pengenalan tanda tangan merupakan salah satu bidang yang cukup berkembang dewasa ini, dimana aplikasi dapat diterapkan dalam bidang keamanan (security system) seperti ijin penarikan uang di bank, validasi cek. Karena diterapkan dalam kasus keamanan, dibutuhkan sistem yang handal terhadap beberapa kondisi, seperti: ukuran, ketebalan. Tujuan tugas akhir ini adalah untuk membuat perangkat lunak dapat melakukan pengenalan tanda tangan (recognition) dengan metode Stroke Histogram . Sebagai input sistem digunakan file image. Pemrograman perangkat lunak ini menggunakan prinsip pemrograman berorientasi objek (OOP) dengan menggunakan bahasa pemrograman C++, kompiler Microsoft Visual C++ 6.0?, dan dibantu dengan library dari Intel Image Processing Library (IPL) dan Intel Open Source Computer Vision (OpenCV). Hasil pengujian sistem menunjukkan bahwa sistem pengenalan tanda tangan menggunakan metode Stroke Histogram mencapai tingkat akurasi pengenalan sebesar 70.9%, dengan database tanda tangan sebanyak 111 tanda tangan yang terdiri dari 7 individu pemilik tanda tangan yang terdiri dari 7-8 tanda tangan asli dan 8 tanda tangan palsu. Pengujian juga dilakukan terhadap variasi ukuran dan ketebalan.",
+  "creators": "ARIF WIJAYA",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Arie Wirawan Margono (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01000323//INF/2005; Arif Wijaya (26401145)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

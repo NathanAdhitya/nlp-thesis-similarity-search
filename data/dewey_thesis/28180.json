@@ -1,0 +1,14 @@
+{
+  "id": "28180",
+  "title": "Perencanaan dan pembuatan alat untuk pendataan variabel-variabel listrik (tegangan, arus, faktor daya dan frekuensi) secara multi channel dengan menggunakan personal computer sebagai alat bantu",
+  "abstract": "Dalam era informasi ini sangat dibutuhkan alat yang dapat membantu pekerjaan manusia dan sekaligus menyempurnakannya, karena informasi yang tepat sangat dibutuhkan dalam pengambilan keputusan. Adapun alat yang direncanakan pada tugas akhir ini digunakan untuk pendataan dan pemonitoran variabelvariabel listrik secara terpusat dengan personal computer sebagai alat bantu Sistem pendataan variabel listrik tersebut menggunakan transduser, rangkaian pengubah analog ke digital, interface dan perangkat komputer. Transduser yang digunakan memiliki kelebihan dalam mengubah pengukuran besaran listrik (tegangan, ams, faktor daya dan frekuensi) menjadi signal analog arus searah dalam satuan m A dan sekaligus dapat mengirimkannya dalam jarak jauh. Data analog tersebut diubah menjadi digital dengan menggunakan analog digital converter (ADC) agar dapat diproses oleh mikroprosesor IBM-PC. Adapun hubungan antara A D C dan mikroprosesor dibutuhkan interface (PPI) Setelah dilakukan pengetesan, maka didapatkan persamaan hasil pengukuran dengan peralatan yang dibuat dengan hasil pengukuran meter. Keuntungan yang lain adalah pendataan variabel-variabel tersebut dapat tepat, karena perhitungan waktu dan pencatatannya dilakukan oleh komputer sehingga kesalahan pendataan yang disebabkan oleh faktor manusia dapat dikurangi.",
+  "creators": "FRANSISCUS FERRY ANGKA",
+  "contributors": "BUNAWI GUNAWIDJAJA (Advisor 1); Limboto Limantara (Advisor 2); SOEBAGIO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/TST/006/0111; FRANSISCUS FERRY ANGKA ( 23487037)",
+  "subjects": "AUTOMATIC CONTROL; TRANSDUCERS"
+}

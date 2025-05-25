@@ -1,0 +1,14 @@
+{
+  "id": "57613",
+  "title": "Sistem otomasi untuk pengumpulan data produksi pabrik menggunakan PLC dan NodeRED",
+  "abstract": "Tugas akhir ini bertujuan untuk menginvestigasi dan mengimplementasikan sistem otomasi pada mesin CNP, menggunakan kombinasi Programmable Logic Controller (PLC) dan pemrograman NodeRED, untuk memudahkan pendataan yang efisien dalam proses produksi pabrik. PLC akan menjalin komunikasi dengan NodeRED melalui jaringan lokal TCP/IP, memanfaatkan Raspberry Pi sebagai perangkat perantara. Data produksi pabrik yang dikumpulkan akan disimpan dalam database MySQL, dikelola melalui phpMyAdmin. Penting untuk dicatat bahwa semua komunikasi dan penanganan data akan dilakukan dalam jaringan dan simulasi lokal yang terkontrol.",
+  "creators": "CHRISTOPHER GARY",
+  "contributors": "Handry Khoswanto (Advisor 1); Handy Wicaksono (Advisor 2); Felix Pasila (Examination Committee 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 2); Yusak Tanoto, S.T., M.Eng., Ph.D. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011046/ELK/2023; Christopher Gary (C11180037)",
+  "subjects": "RASPBERRY PI (COMPUTER); AUTOMATIC CONTROL--COMPUTER PROGRAMS"
+}

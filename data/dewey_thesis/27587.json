@@ -1,0 +1,14 @@
+{
+  "id": "27587",
+  "title": "Perancangan dan pembuatan sistem informasi penjualan, pembelian, dan inventori pada toko Indo Motor",
+  "abstract": "Toko Indo Motor adalah toko yang bergerak di bidang penjualan, pembelian mesin diesel, mesin lampu, mesin penggerak, dan juga spare part mesin. Toko Indo Motor memiliki permasalahan meliputi perhitungan laba rugi, perhitungan jumlah stok, dan pencatatan hutang piutang. Permasalahan yang terjadi adalah pada pencatatannya, dimana semua pencatatan masih dilakukan secara manual, pencatatan ini memiliki resiko yang besar. Menjawab permasalahan tersebut, maka dibuat sebuah aplikasi, aplikasi ini dikembangkan dan dibuat dengan menggunakan bahasa pemrograman Microsoft Visual Studio 2005.Net dan Microsoft SQL Server 2005 sebagai tempat penyimpanan data. Aplikasi yang dibuat memiliki ruang lingkup sebagai berikut : proses pembelian, penjualan, pelunasan hutang, retur pembelian penjualan, stok barang, proses dan laporan keuangan, laporan hutang, laporan stok barang, laporan penjualan, laporan pembelian, dan laporan laba rugi. Dengan dibuatnya aplikasi ini dan dari hasil pengujian sistem diperoleh kesimpulan sistem ini dapat mengembangkan bisnis yang dijalankan oleh Toko Indo Motor dengan baik, karena dapat mencatat transaksi yang terjadi, sehingga memudahkan owner untuk melakukan pengecekan terhadap transaksi yang terjadi dan stok barang.",
+  "creators": "SUGIARTO HOGITO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Ibnu Gunawan (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021170/INF/2012; Sugiarto Hogito (26408098)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); MICROSOFT SQL SERVER (COMPUTER PROGRAM); DATABASE MANAGEMENT"
+}

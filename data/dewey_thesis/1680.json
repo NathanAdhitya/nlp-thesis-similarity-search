@@ -1,0 +1,14 @@
+{
+  "id": "1680",
+  "title": "Robot mobil mengikuti sumber panas",
+  "abstract": "Kemajuan teknologi yang pesat saat ini mendorong setiap manusia untuk meningkatkan dan mengembangkan kemampuan di bidang teknologi, salah satunya dalam bidang robot. Robot mobil mengikuti sumber panas ini merupakan pengembangan dari mobile robot, dimana mobile robot ini didesain berbentuk mobil dengan dilengkapi sensor temperatur untuk mengikuti sumber panas. Untuk mewujudkan robot mobil ini, maka digunakan body mobil sebagai rangka, motor DC beserta driver-nya untuk menggerakkan robot mobil, sensor temperatur LM335 yang dilengkapi kipas untuk membedakan sumber panas, microcontroller AT89C2051 untuk kontrol robot mobil, limit switch untuk mendeteksi halangan, dan sumber panas yang berupa hair dryer. Robot mobil ini juga dilengkapi dengan beberapa fitur yaitu: dual speed yang bertujuan agar robot mobil dapat mengkuti sumber panas dengan dua kecepatan yang berbeda dan gerak mundur yang bertujuan agar robot mobil dapat bergerak mundur apabila sensor temperatur LM335 pada robot mobil terlalu panas. Dari pengujian-pengujian yang telah dilakukan, dapat disimpulkan bahwa robot mobil dapat mengikuti sumber panas dengan jarak yang relatif konstan sekitar 30-40 cm, dengan sudut sumber panas sekitar ?30? dari arah depan robot mobil.",
+  "creators": "ALI DJAJAPRANATA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Anies Hannawati (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/603/ELK/2003; Ali Djajapranata (23498057)",
+  "subjects": "MOBIL ROBOTS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5263",
+  "title": "Perencanaan dan pembuatan kompas dengan output suara",
+  "abstract": "Dewasa ini, dibutuhkan peralatan-peralatan elektronik yang dapat memudahkan / membantu manusia untuk melakukan sesuatu. Untuk itu timbullah ide untuk membuat alat yang dinamakan Kompas Dengan Output Suara. Output suara dari kompas dapat membantu seseorang untuk dapat mengetahui arah medan magnet yang ada pada kompas (tidak hanya dengan indera penglihatan namun juga dapat melalui indera pendengaran). Konsep perancangan alat ini mengacu pada sensor magnet tipe HMC series buatan Honeywell dan Microcontroller AT89C51. Selain itu rancangan ini meliputi rangkaian Instrumentasi Amplifier, Analog To Digital Converter, IC Suara dan Liquid Cristal Display, yang dikomposisikan sedemikian rupa sehingga dinamis tetapi masih memiliki satu kesatuan. Berdasarkan hasil pengujian, didapatkan error rata-rata sebesar 1,407? pada sumbu A (Utara) dan 1,391? pada sumbu B (Barat). Output suara dari kompas menghasilkan 16 arah kompas yang berbeda.",
+  "creators": "DAVID WIJAYA",
+  "contributors": "Thiang (Advisor 1); Indar Sugiarto (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/623/ELK/2003; David Wijaya (23498132)",
+  "subjects": "ELECTRONIC INSTRUMENTS, DIGITAL; MICROCONTROLLERS"
+}

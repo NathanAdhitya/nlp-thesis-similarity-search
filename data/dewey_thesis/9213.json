@@ -1,0 +1,14 @@
+{
+  "id": "9213",
+  "title": "Pembuatan perangkat lunak analisa dan sistem persetujuan kredit dengan metode scoring pada Bank 'X'",
+  "abstract": "Sistem analisis kredit pada Bank \"X\" masih menggunakan cara manual dalam menghitung analisis laporan keuangan secara manual. Selain itu, hasil survei yang dilakukan hanya sebagai pembanding dengan laporan keuangan. Oleh karena itu, dibutuhkan suatu sistem analisis kredit secara komputerisasi untuk mempermudahkan proses analisis kredit. Pembuatan sistem analisis kredit dimulai dengan melakukan analisa dan pengamatan terhadap proses analisis dan pemberian kredit pada Bank \"X\". Kredit pada Bank \"X\" ada dua jenis yaitu Kredit Modal Kerja dan kredit Kusuma Kemudian melakukan pendesainan sistem dari proses analisis kredit, persetujuan kredit, pencairan kredit dan pembayaran kredit serta pembuatan laporan kredit. Perangkat lunak yang dipakai untuk pembuatan sistem ini adalah Microsoft Access 2000 untuk penyimpanan basis data dan Borland Delphi 7.0 untuk compilernya. Sistem ini dapat menghitung analisis kredit dengan menggunakan analisis laporan keuangan dan dengan menggunakan metode Scoring untuk mendapatkan nilai analisis. Skor yang didapat dari perhitungan analisis rasio dan analisis perbandingan, akan digunakan sebagai dasar pertimbangan untuk pemberian kredit. Secara keseluruhan aplikasi yang dibuat sudah sesuai dan dapat memenuhi kebutuhan perusahaan.",
+  "creators": "CHRISTINE WIRAWATY",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Felicia Soedjianto (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000511/INF/2006; Christine Wirawaty (26402052)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

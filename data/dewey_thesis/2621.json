@@ -1,0 +1,14 @@
+{
+  "id": "2621",
+  "title": "Perancangan sistem pakar troubleshooting mesin kapal di PT. Tugas Sarana Teknik",
+  "abstract": "Bagi seorang teknisi ahli mesin kapal, kesalahan diagnosis dan perbaikan suatu masalah pada mesin kapal akan membawa dampak yang fatal bagi kapal yang ditanganinya, dalam hal ini mesin. Untuk membantu mengatasi hal tersebut, salah satu caranya adalah dengan pembuatan aplikasi sistem pakar. Aplikasi sistem pakar ini meniru cara berpikir seorang teknisi ahli mesin kapal dalam melakukan diagnosis suatu kasus kerusakan mesin. Aplikasi ini membantu dalam mencari kesimpulan akan solusi yang terjadi. Program aplikasi ini menganalisa data kapal, serta gejala-gejala dari suatu kerusakan. Pengembangan sistem pakar ini menggunakan metode inferensi forward chaining, yaitu proses inferensi yang memulai pencarian dari premis menuju pada konklusi. Aplikasi sistem pakar ini menggunakan pemrograman Borland Delphi 7, dan untuk database-nya menggunakan Microsoft Access XP.",
+  "creators": "YULIANUS LITENI",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Agustinus Noertjahyana (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000387/INF/2005; Yulianus Liteni (26499179)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; EXPERT SYSTEMS (COMPUTER SCIENCE)"
+}

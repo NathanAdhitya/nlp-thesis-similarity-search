@@ -1,0 +1,14 @@
+{
+  "id": "41162",
+  "title": "Aplikasi android untuk monitoring kelembaban tanah menggunakan Raspberry PI",
+  "abstract": "Peningkatan jumlah penduduk menyebabkan kebutuhan air bersih semakin bertambah. Hal ini berdampak pada krisis kebutuhan air karena penggunaan terus menerus dalam jumlah besar oleh manusia. Pada saat musim kemarau, keberadaan air semakin langka untuk digunakan pada lahan perkebunan. Untuk mendapatkan hasil perkebunan yang maksimal dan mengurangi penggunaan air yang sia-sia, maka pemberian air pada lahan perkebunan tidak boleh kurang atau lebih. Untuk itu, dibuatlah aplikasi yang dapat me-monitor kelembaban tanah pada Android. Aplikasi ini mengambil data dari sensor yang dihubungkan pada Raspberry Pi 3. Data ini nantinya akan dikirim ke server dan ditampilkan pada aplikasi Android dalam bentuk persentase. Terdapat juga indikator LED yang digunakan untuk mengetahui pemberian air pada tanaman kurang, cukup, atau terlalu berlebihan. Hasil akhir dari pengembangan aplikasi ini adalah sensor dengan data analog dapat diubah menjadi persentase dan ditampilkan pada aplikasi Android. Dari hasil persentase ini, user dapat mengatur indikator pada sensor untuk menyalakan LED. User juga dapat melihat grafik dari data persentase, mengelola data tanaman ke dalam database, dan mengatur aplikasi.",
+  "creators": "ROBIN PUTRA WARDOJO",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021675/INF/2017; Robin Putra Wardojo (26413047)",
+  "subjects": "APPLICATION SOFTWARE-DEVELOPMENT; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (COMPUTER PROGRAM)"
+}

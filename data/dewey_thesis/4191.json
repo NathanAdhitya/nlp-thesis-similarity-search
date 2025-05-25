@@ -1,0 +1,14 @@
+{
+  "id": "4191",
+  "title": "Perancangan dan pembuatan network traffic monitoring and management pada router",
+  "abstract": "Jaringan komputer yang besar memerlukan suatu pengaturan agar penggunaan koneksi transfer jaringan dapat dilakukan secara seefektif mungkin. Untuk itu diperlukan suatu program yang dapat mengatur pemakaian transfer data dalam jaringan. Dalam pengaturan juga diperlukan monitoring untuk menentukan langkah yang harus diambil dalam manajemen jaringan. Program ini dibuat dengan menggunakan berbagai tools dalam sistem operasi linux yang kemudian diimplementasikan pada web berbasis php, bertujuan untuk mengatur jaringan yang terdapat pada komputer router berbasis linux. Tools yang digunakan antara lain RRDtool untuk database penyimpanan dan penggambaran traffic grapher, class based queuing (CBQ) untuk pengaturan bandwidth dan network mapper untuk melakukan tracing pada jaringan. Hasil yang diperoleh dari setiap proses akan ditampilkan melalui web sehingga pengguna dapat lebih mudah dalam mengawasi dan mengatur jaringan.",
+  "creators": "PAULUS",
+  "contributors": "Resmana Lim (Advisor 1); Justinus Andjarwirawan (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000297/INF/2004; Paulus Adipranata (26400010)",
+  "subjects": "COMPUTER NETWORKS; COMPUTER NETWORK PROTOCOLS"
+}

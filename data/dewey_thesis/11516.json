@@ -1,0 +1,14 @@
+{
+  "id": "11516",
+  "title": "Pembuatan web scada software berbasis php untuk mengendalikan miniatur pintu air",
+  "abstract": "Selama ini masih banyak yang mengendalikan suatu perangkat industri secara manual, sehingga menambah beban kerja manusia. Tugas akhir ini dibuat untuk menciptakan Man Machine Interface yang berbasis Web Internet, sehingga dapat mengakses plant dari jarak jauh. PLC dihubungkan dengan PC menggunakan kabel serial RS-232. Plant yang akan dikendalikan dalam tugas akhir ini adalah sebuah Miniatur Pintu Air Jagir, yang terdiri dari 3 buah pintu, 3 buah sensor posisi pintu, dan sebuah sensor ketinggian air. Plant dikontrol PLC Omron C200HG yang diprogram menggunakan ladder diagram yang dibuat melalui software SYSMAC-CPT. Program yang digunakan adalah Microsoft Visual Basic 6.0, PHP, dan MySQL. Microsoft Visual Basic 6.0 berfungsi untuk menghubungkan PLC dengan PC. PHP berfungsi untuk menampilkan dalam bentuk web. MySQL berfungsi untuk menyimpan kondisi plant ke dalam suatu database. Berdasarkan hasil pengujian, fitur-fitur SCADA pada web dapat bekerja dengan baik. Respon plant sedikit lambat jika dikendalikan melalui jaringan yang diakses oleh beberapa user dibanding jika plant dikendalikan langsung pada localhost. Dari hasil perhitungan diperoleh perbedaan waktu sekitar 1,14 detik. Sistem ini juga dapat dikendalikan secara manual dan secara otomatis.",
+  "creators": "ABDINATA PAYUNGALLO",
+  "contributors": "Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 1); Handy Wicaksono (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010888/ELK/2009; Abdinata Payung Allo (23403060)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

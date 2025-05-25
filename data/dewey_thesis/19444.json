@@ -1,0 +1,14 @@
+{
+  "id": "19444",
+  "title": "Perancangan dan pembuatan aplikasi untuk mengenali tanda tangan dengan metode backpropagation",
+  "abstract": "Tanda tangan banyak digunakan dalam kegiatan sehari-hari, seperti penarikan uang di bank, pengesahan suatu dokumen, sebagai bentuk persetujuan suatu perjanjian. Tanda tangan dapat disebut sebagai suatu bentuk identitas dari seseorang.Oleh karena itu dibutuhkan suatu sistem yang dapat mengenali tanda tangan tersebut. Pada skripsi ini, dibuat suatu aplikasi yang dapat melakukan pengenalan tanda tangan dengan menggunakan metode backpropagation. Input yang digunakan dalam aplikasi ini adalah file image. Input image akan diproses terlebih dahulu menggunakan thresholding, noise reduction, segmentation, width normalization, thinning, dan region. Setelah itu dilatihkan pada backpropagation. Hasil pengujian sistem menunjukkan bahwa sistem pengenalan tanda tangan menggunakan backpropagation memiliki tingkat keberhasilan sebesar 94.8571% untuk data yang dilatihkan dan memiliki tingkat keberhasilan 94.2857% untuk data yang tidak dilatihkan.",
+  "creators": "RONNY HARIANTO",
+  "contributors": "Rudy Adipranata (Advisor 1); Kartika Gunadi (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020879/INF/2010; Ronny Harianto (26406037)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

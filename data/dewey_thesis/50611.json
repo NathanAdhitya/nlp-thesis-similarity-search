@@ -1,0 +1,14 @@
+{
+  "id": "50611",
+  "title": "Penerapan modified adasyn untuk meningkatkan akurasi pendeteksian pola fraud pada transaksi kartu kredit",
+  "abstract": "Salah satu faktor yang paling berpengaruh dalam akurasi adalah ketidakseimbangan class, hal ini diulas dalam penelitian yang dilakukan oleh Gameng et al. (2019). Pada penelitian Bagga et al. (2020), metode Pipelining dikombinasikan dengan ADASYN akurasinya bisa mencapai 0.99999. Masalah yang ada pada penelitian tersebut adalah akurasi belum tentu bisa mencapai 0.99999 jika menggunakan dataset di luar dataset yang mereka gunakan dan jika menggunakan algoritma klasifikasi selain Pipelining. Pada penelitian yang dilakukan Dornadula & Geetha (2019), akurasi paling tinggi hanya 0.9994. Pada penelitian yang dilakukan Makki et al. (2019), model klasifikasi yang menggunakan metode penyeimbang class justru akurasinya menjadi lebih rendah. Pada skripsi ini, Modified ADASYN digunakan karena pada penelitian Gameng et al. (2019) akurasi, presisi dan f1-scorenya berhasil melampaui ADASYN dan SMOTE. Metode Pipelining digunakan karena pada penelitian Bagga et al. (2020), Pipelining dapat membuat akurasi klasifikasi hingga mencapai 0.99999. Sebagai hasil dari pengujian, maka skripsi ini mendapatkan kesimpulan bahwa Modified ADASYN belum mampu mendapatkan akurasi 0.999999 pada dua dataset berbeda. Pada skripsi ini Modified ADASYN mampu meningkatkan akurasi K-NN hinga 0.9995148 dan 0.97617554 menggunakan dataset pertama dan kedua. Modified ADASYN dapat melebihi performa SMOTE, ADASYN, One-Class Classificationnn dan Cost Sensitive. Pada skripsi ini didapatkan bahwa nilai K yang optimal pada Modified ADASYN bisa berbeda-beda tergantung banyak parameter dan sampel datanya.",
+  "creators": "EBHEN HAEZER SITOHANG",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); Agustinus Noertjahyana (Examination Committee 1); Justinus Andjarwirawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022072/INF/2021; Ebhen Haezer Sitohang (C14170139)",
+  "subjects": "COMPUTERS, PIPELINE"
+}

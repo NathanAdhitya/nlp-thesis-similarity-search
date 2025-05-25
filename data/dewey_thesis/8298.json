@@ -1,0 +1,14 @@
+{
+  "id": "8298",
+  "title": "Prototype efisiensi sistem parkir karyawan menggunakan media bluetooth",
+  "abstract": "Prototype Efisiensi Sistem Parkir Karyawan Menggunakan Media Bluetooth adalah aplikasi untuk memantau kondisi lahan parkir dan melakukan akses lahan parkir melalui mobile device yang mempunyai fasilitas Bluetooth dan JABWT. Platform yang digunakan dalam tugas akhir ini menggunakan J2ME pada mobile device. Database MySQL dan J2SE yang diletakkan pada server dengan menggunakan metode client-server sehingga dapat diakses secara multipoint. Dengan adanya sistem parkir ini maka pengguna tempat parkir tidak perlu mencari lahan parkir yang kosong dengan mengitari lahan parkir namun langsung melihat dan mengakses lahan parkir menggunakan mobile device pribadinya. Pengujian dilakukan menggunakan mobile device yang memiliki fasilitas Bluetooth dan JABWT dengan komputer server dimana sistemnya telah diuji dengan menggunakan 3 buah handphone, penghalang tembok setebal 14 cm dan jarak antara client dan server adalah 6 meter. Berdasarkan hasil pengujian didapatkan total waktu yang dibutuhkan client dimulai dari device descovery sampai dapat mengakses lahan parkir adalah sekitar 45,17 detik?49,42 detik, dengan jarak antara client-server adalah 2 meter dan tanpa penghalang.",
+  "creators": "LUKAS SETIANTO",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010053/ELK/2006; Lukas Setianto (23402131)",
+  "subjects": "WIRELESS COMMUNICATION SYSTEMS; BLUETOOTH; MOBILE COMMUNICATION SYSTEMS"
+}

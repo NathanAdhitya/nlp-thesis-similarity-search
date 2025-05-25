@@ -1,0 +1,14 @@
+{
+  "id": "4763",
+  "title": "Studi harga satuan dengan metode probabilistic pada proyek rumah tinggal",
+  "abstract": "Estimasi biaya suatu proyek memerlukan banyak detail informasi dan kecepatan dalam penyusunannya. Detail tersebut tidak mudah didapatkan dalam waktu singkat, sehingga sering digunakan cara subyektifitas yang mana menghasilkan estimasi yang terlalu optimis atau terlalu pesimis. Salah satu cara untuk mengurangi faktor subyektifitas tersebut adalah dengan menggunakan probabilistic cost estimating, dimana data dari proyek ? proyek masa lampau digunakan kembali sebagai acuan perhitungan yang baru. Penelitian ini dibuat sebagai aplikasi metode probabilistic cost estimating tersebut. Data RAB dari 11 proyek rumah tinggal dibagi menurut kelompok pekerjaannya sesuai penelitian Tjio 2002, dikonversi terhadap waktu menggunakan gabungan acuan dari Badan Pusat Statistik dan Departemen Tenaga Kerja, kemudian disajikan dalam bentuk distribusi segitiga serta angka minimum, most likely dan maximum. Simulasi dilakukan menggunakan bantuan software @Risk. Hasil penelitian ini adalah nilai minimum, most likely dan maximum dari distribusi segitiga harga satuan yang dibagi menurut kelompok pekerjaannya. Selain itu juga didapatkan influence diagram serta diagram Pareto dari identifikasi faktor resiko.",
+  "creators": "DANIEL RENATAN",
+  "contributors": "LIE ARIJANTO (Advisor 1); JANUAR BUDIMAN (Advisor 2); Ratna S. Alifen (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Thesis No. 01000101/MTS/2007; Daniel Renatan (01505006)",
+  "subjects": "HOUSING MANAGEMENT; BUILDING-ESTIMATES"
+}

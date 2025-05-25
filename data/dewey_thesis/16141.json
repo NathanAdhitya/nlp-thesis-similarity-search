@@ -1,0 +1,14 @@
+{
+  "id": "16141",
+  "title": "Implementasi fuzzy logic pada robot penjejak cahaya",
+  "abstract": "Robot penjejak cahaya merupakan suatu sistem dinamik yang non linier, yang agak sukar untuk dikendalikan dengan menggunakan sistem kendali konvensional karena bila digunakan sistem kendali konvensional membutuhkan model persamaan matematika dari sistem. Kendala lain yang membuat sistem ini semakin sulit dikendalikan adalah cara penentuan besar simpangan sudut obyek cahaya, yang mana tidak boleh terpengaruh oleh jarak linier obyek cahaya ke robot. Tujuan tugas akhir ini adalah untuk mengetahui kemampuan kendali logika fuzzy bila digunakan untuk mengendalikan suatu sistem dinamik yang non linier, dalam hal ini diimplementasikan pada sistem penjejak cahaya pada robot dengan dua derajat kebebasan yang bersistem koordinat kutub, dengan konfigurasi forward kinematics pada sistem pergerakan mekaniknya. Kendali logika fuzzy akan diimplementasikan pada sistem ini untuk melakukan tracking dan menggerakkan titik tengah sensor sehingga tepat berada pada jarak terdekat terhadap obyek cahaya. Kendali logika fuzzy digunakan karena pada sistem kendali ini tidak membutuhkan banyak persamaan matematika dari sistem dan dapat digantikan dengan pendekatan intuitif. Dalam tugas akhir ini, perencanaan sistem yang meliputi perencanaan plant, perangkat keras, serta perangkat lunak akan dibahas secara detail. Selain itu, konstruksi membership function serta penentuan rules juga akan dibahas. Hasil pengujian sistem menunjukkan bahwa sistem tidak dapat mencapai suatu keseimbangan (kondisi stasioner) seperti yang diharapkan. Dari keseluruhan hasil pengujian, terlihat bahwa desain perangkat keras yang kurang kebal terhadap gangguan-gangguan menyebabkan unjuk kerja dari sistem tidak stabil. Selain itu kendali logika fuzzy dengan menggunakan satu buah crisp input tidaklah cukup untuk melakukan proses kendali.",
+  "creators": "HARYONO",
+  "contributors": "IRWAN SAHLI (Advisor 1); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/009/446; Haryono (23495056)",
+  "subjects": "AUTOMATIC CONTROL; ROBOTS-PROGRAMMING"
+}

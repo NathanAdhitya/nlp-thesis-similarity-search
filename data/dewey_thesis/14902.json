@@ -1,0 +1,14 @@
+{
+  "id": "14902",
+  "title": "Kendali putaran motor DC menggunakan fuzzy logic pada mesin pembuat gegabah berbasis mikrokontroler 8031",
+  "abstract": "Fuzzy Logic Controller merupakan alternatif sistem kendali modern yang mudah karena tidak perlu dicari model matematis dari suatu sistem, tetapi tetap efektif karena memiliki respon sistem yang stabil. Dalam tugas akhir ini dibuat suatu alat pembuat gerabah yang diputar oleh motor DC Servo yang dikontrol oleh mikrokontroler 8031 dan metode pengaturan yang digunakan adalah fuzzy logic. Fuzzy logic yang dirancang memiliki 2 input (Err & AErr) dan 1 output (Aoutput). Masing-masing membership function memiliki 5 label. Disini digunakan 25 fuzzy if-then rule yang terdiri atas 9 rule pokok/utama, 10 rule tambahan dan 6 rule pelengkap. Sedangkan proses fuzzy logic terdiri dari fuzzifikasi, evaluasi rule dan yang terakhir defuzzifikasi. Penggerak motor (driver motor) menggunakan sistem PWM (Pulse Width Modulation). Input setting point dilakukan melalui pedal (foot switch) yang dikonversi ke tegangan dan kemudian oleh ADC 0808 diubah ke besaran digital. Input Setting Point dibatasi antara 0 sampai dengan 255 RPM sesuai dengan yang dibutuhkan. Pengujian respon sistem dilakukan terhadap variasi setting point, variasi beban dan variasi rule. Dari data-data yang diperoleh menunjukkan bahwa respon sistem cukup cepat dalam mengejar nilai setting point baik dalam berbagai variasi yaitu setting point, beban dan rule. Fuzzy logic merupakan salah satu sistem kontrol yang redundant atau fault tolerant yang artinya fuzzy logic controller masih dapat bekerja dengan adanya pengurangan beberapa rule, maupun jika terjadi kesalahan-kesalahan kecil dalam pemrogramannya, tanpa adanya perubahan yang signifikan.",
+  "creators": "AGUS SURYO WIDAGDO",
+  "contributors": "Resmana Lim (Advisor 1); MARSELINO SUDARTO (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/048/393; Agus Suryo Widagdo ( 23494067)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAM; INTEL 8031 (MICROCONTROLLER); ELECTRIC MACHINERY-DIRECT CURRENT"
+}

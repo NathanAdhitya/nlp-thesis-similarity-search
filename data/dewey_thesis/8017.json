@@ -1,0 +1,14 @@
+{
+  "id": "8017",
+  "title": "Perancangan dan pembuatan web e-commerce pada CV Tupai A.S.H",
+  "abstract": "CV Tupai A.S.H adalah suatu perusahaan yang bergerak di bidang produksi barang dan sekaligus menjual barang tersebut. Tetapi karena kurangnya sarana untuk memberikan informasi tentang produk yang dijual, mengakibatkan produk tupai menjadi kurang dikenal oleh para customer. Tujuan dari pembuatan website CV Tupai adalah menyajikan informasi yang tidak terbatasi oleh ruang dan waktu sehingga dapat menghemat biaya dan memperoleh keuntungan sebesar mungkin. Pada Tugas Akhir ini, penulis mengimplementasikan suatu website yang yang menyediakan informasi secara lengkap tentang suatu produk, penjualan dan pemesanan produk secara online. Website ini dimulai dengan pembuatan proses pembelian barang dengan menggunakan shopping cart. Kemudian pembuatan proses pembayaran dengan kartu kredit dan terakhir proses pengiriman barang. Website ini dibuat dengan menggunakan database server MySQL 3.23 untuk pembuatan database, menggunakan PHP 4.3.10 sebagai bahasa pemrograman dan apache 1.3 sebagai webserver. Dari hasil implementasi dan pengujian sistem website e-commerce pada CV Tupai A.S.H dapat diambil kesimpulan bahwa user dapat memperoleh informasi yang lengkap, cepat dan akurat mengenai barang yang akan dibeli. Lengkap karena informasi yang ada di website Tupai disajikan secara lengkap dari detail barang maupun kelengkapan barang yang dijual. Cepat karena website tidak dibatasi oleh waktu jadi proses transaksi menjadi lebih cepat. Akurat karena data barang yang ditampilkan di website serta biaya dari transaksi yang terjadi dicantumkan dengan jelas. Website ini juga menyediakan layanan shopping cart, simulasi kartu kredit dalam melakukan proses pembayaran. Dan terdapat guest book untuk memberikan komentar terhadap website yang dibuat. Dari sisi admin, dapat dengan mudah melakukan proses peng-entry-an data product dan dapat melakukan memproses pengiriman secara online.",
+  "creators": "ANDI KRISTIAN",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000513/INF/2006; Andi Kristian (26401085)",
+  "subjects": "ELECTRONIC COMMERCE--COMPUTER PROGRAMS; WEBSITE; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

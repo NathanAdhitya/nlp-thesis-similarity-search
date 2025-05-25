@@ -1,0 +1,14 @@
+{
+  "id": "48442",
+  "title": "Aplikasi untuk monitoring jaringan IoT menggunakan algoritma address shuffling dengan HMAC",
+  "abstract": "Dengan meningkatnya pasar Internet of Things dan Wireless Sensor Network (WSN), peningkatan keamanan jaringan pada Internet of Things menjadi hal yang penting. Internet of Things dipakai mulai dari smart home, smart campuses, smart city, dan lain-lain sehingga mengamankan jaringan Internet of Things lebih penting daripada mengamankan jaringan lokal biasa. Selain itu, perangkat IoT memiliki kelemahan dalam kapabilitas komputasi dan penyimpanan data sensitif. Terdapat empat macam kelemahan utama pada jaringan yaitu address spoofing attack, false address conflict, address exhaustion attack dan negative reply attack. Metode yang digunakan adalah Address shuffling dengan HMAC. Metode ini dijalankan oleh DHCPv6 server (Dynamic Host Configuration Protocol) sebagai network coordinator dan di-monitoring oleh aplikasi Android untuk mengamankan jaringan Internet of Things. DHCPv6 server digunakan pada jaringan Internet of Things ini karena lebih cepat dan mudah untuk dikontrol melalui server, dapat digunakan pada jaringan yang besar dan perintah stop dan restart dapat dilakukan pada server. Selain itu, ketika DHCPv6 server bermasalah, hal ini tidak akan menginterupsi perangkat lainnya dalam satu jaringan. Hasil dari program ini yaitu aplikasi monitoring yang mampu memberitahukan kepada pengguna adanya serangan dan jaringan mampu meminimalisir empat kelemahan pada jaringan. Sehingga nantinya aplikasi ini dapat membantu pengguna untuk melakukan tindakan preventif terhadap serangan pada jaringan.",
+  "creators": "ELVAN ALANDI",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Justinus Andjarwirawan (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Indro Setiawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021992/INF/2020; Elvan Alandi (26416010)",
+  "subjects": "INTERNET--SECURITY MEASURES; COMPUTER NETWORKS--SECURITY MEASURES"
+}

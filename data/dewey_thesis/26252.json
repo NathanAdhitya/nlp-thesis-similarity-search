@@ -1,0 +1,14 @@
+{
+  "id": "26252",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada PT. 'X'",
+  "abstract": "PT. X adalah sebuah perusahaan yang menjual daur ulang plastik. Perusahaan ini membeli sampah-sampah plastik dan kemudian diolah menjadi biji plastik yang nantinya akan dijual ke perusahaan lain. Pada proses Administrasi, Perusahaan ini masih memakai proses pencatatan secara manual mulai dari pencatatan data supplier & customer, surat order pembelian dan penjualan, pencatatan stok barang, dan penghitungan gaji buruh masih dilakukan secara manual. Hal ini tentu saja tidak efektif & efisien karena membuang banyak waktu dan perlu menyimpan arsip-arsip manual dalam jumlah yang banyak. Selain itu bila ada laporan keuangan lama yang ingin dilihat oleh owner, bagian adminstrasi akan membutuhkan waktu lama untuk membuatnya karena harus mencari laporan tersebut terlebih dahulu. Rancangan desain sistem meliputi sistem pembelian, penjualan, pencatatan stok. Semua sistem tersebut dirancang dengan Data Flow Diagram dan Entity Relationship Diagram. Pembuatan program ini menggunakan bahasa pemrograman VB.net 2008. Program yang dibuat, menghasilkan laporan-laporan yang berguna untuk dapat melihat transaksi yang telah dilakukan pada periode tertentu. Dari hasil pengujian terhadap aplikasi, menunjukkan bahwa aplikasi ini dapat memproses data transaksi yang berhubungan langsung dengan proses pembelian dan penjualan secara otomatis, hal ini sesuai dengan apa yang dibutuhkan oleh perusahaan. Laporan manajerial yang dihasilkan akurat, karena sesuai dengan perhitungan manual. Berdasarkan hasil evaluasi yang dilakukan oleh 3 pengguna, menyatakan fitur-fitur dalam aplikasi sudah sesuai dengan yang dibutuhkan perusahaan.",
+  "creators": "DANNY SEPTIAN HALIM",
+  "contributors": "Alexander Setiawan (Advisor 1); Leo Willyanto Santoso (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021105/INF/2012; Danny Septian Halim (26407047)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

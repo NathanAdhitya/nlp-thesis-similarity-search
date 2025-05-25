@@ -1,0 +1,14 @@
+{
+  "id": "10386",
+  "title": "Perencanaan penjadualan pada PT Aneka Kayu Indah Nusantara",
+  "abstract": "PT. Aneka Kayu Indah Nusantara adalah sebuah industri manufaktur yang memproduksi door component, door frame, dan flooring. Dalam perkembangannya permintaan akan ketiga produk tersebut semakin meningkat, terutama permintaan dari luar. negeri. Hal ini menyebabkan perusahaan sering mengalami keterlambatan dalam menyelesaikan dan mengirim pesanan konsumen. Keterlambatan ini mengakibatkan perusahaan mengalami kerugian flnansial karena setiap pesanan yang terlambat dikenakan penalti. Pada tugas akhir ini akan dibuat sebuah sistem penjadualan produksi yang dapal membanlu perusahaan untuk mengatasi permasalahan tersebut. Oleh karena itu sistem penjadualan produksi yang akan dibuat ini bertujuan untuk meminimumkan jumlah penalti dari pesanan-pesanan yang terlambat (minimum weighted number of tardy job). Sistem penjadualan produksi ini dimaksudkan sebagai alternatif yang lebih baik dari sistem penjadualan produksi yang diterapkan perusahaan selama ini. Sistem penjadualan produksi yang dipakai pada perusahaan saat ini adalah mengerjakan terlebih dahulu pesanan yang waktu pengiriman lebih cepat. Hal ini menunjukkan bahwa sistem penjadualan produksi tersebut menggunakan algoritma Earliest Due Date. Sistem ini lebih optimal untuk penjadualan pesanan dengan tujuan meminimumkan waktu keterlambatan yang terbesar dari pesanan-pesanan tersebut (minimizes the maximum lateness). Sistem penjadualan produksi yang akan dibuat pada tugas akhir ini merupakan sistem penjadualan produksi yang menggunakan algoritma Mixed Integer Program (MIP). Sistem penjadualan produksi ini telah disesuaikan dengan tujuan dari penjadualan produksi itu sendiri yaitu minimum weighted number of tardy job dan juga telah disesuaikan dengan karakteristik proses produksi perusahaan. Hasil dari penjadulan produksi dengan algoritma Mixed Integer Program tersebut mampu mengurangi jumlah penalti job (pesanan) yang terlambat. Hal ini dapat dilihat pada waktu penyelesaian dari tiap-tiap job yang lebih kecil dari due date-nya masing-masing.",
+  "creators": "RIDWAN SJIARIEL",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Maja Indahwati (Advisor 2); Didik Wahjudi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 185/TI-11/1999; Ridwan Sjiariel (25493026)",
+  "subjects": "SCHEDULING (MANAGEMENT); WORK MEASUREMENT; PRODUCTION PLANNING"
+}

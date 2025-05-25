@@ -1,0 +1,14 @@
+{
+  "id": "56513",
+  "title": "Sistem pendukung keputusan pemilihan supplier dengan metode Technique for Order Performance by Similarity to Ideal Solution (TOPSIS) pada perusahaan distributor bahan pokok X",
+  "abstract": "Distributor bahan pokok X memiliki beberapa supplier untuk menyuplai barang yang ada di perusahaan. Barang tersebut disuplai oleh beberapa supplier. Perusahaan perlu melakukan pemilihan supplier untuk menentukan supplier yang tepat. Pemilihan supplier dilakukan dengan melakukan penilaian terhadap beberapa kriteria yang penting bagi perusahaan. Penilaian dilakukan dengan menggunakan metode TOPSIS, salah satu metode dalam sistem pengambilan keputusan. Tujuan dari penelitian ini adalah untuk membantu perusahaan dalam menyeleksi supplier sesuai dengan kebutuhan perusahaan. Metode yang dilakukan adalah melakukan analisis kebutuhan sistem dan pengumpulan data. Data yang digunakan merupakan data pembelian perusahaan. Di mana data akan diolah dengan metode TOPSIS dan menghasilkan urutan supplier dari ranking pertama hingga terakhir. Pengujian sistem menggunakan confusion matrix. Pengujian akurasi nilai aktual dan nilai prediksi yang dihasilkan oleh sistem. Hasil pengujian membuktikan metode TOPSIS memberikan akurasi sebesar 60%, precision 67%, sensitivity 67%, precision@k 0.67 pada kategori kedelai, akurasi 85%, precision 80%, sensitivity 80%, precision@k 0.80 pada kategori tepung terigu, akurasi 80%, precision 83%, sensitivity 83%, precision@k 0.83 pada kategori tepung tapioka.",
+  "creators": "IVONNE LIANATA",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Alexander Setiawan (Advisor 2); Yulia (Examination Committee 1); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022275/INF/2023; Ivonne Lianata (C14190221)",
+  "subjects": "INDUSTRIAL PROCUREMENT--COMPUTER PROGRAMS; MANAGEMENT INFORMATION SYSTEM-COMPUTER PROGRAMS; PHYSICAL DISTRIBUTION OF GOODS--COMPUTER PROGRAMS"
+}

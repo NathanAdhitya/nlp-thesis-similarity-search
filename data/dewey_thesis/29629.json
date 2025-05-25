@@ -1,0 +1,14 @@
+{
+  "id": "29629",
+  "title": "Analisa torsi untuk berbagai bentuk penampang dengan cara finite difference",
+  "abstract": "Suatu penampang yang dikenai torsi, dapat dianalisa dengan menggunakan Stress Function, 0. Dan umumnya untuk mendapatkan Stress Function yang tepat pada beberapa bentuk penampang secara analitis adalah cukup sulit. Cara lain untuk menyelesaikan persamaan-persamaan dalam Stress Function tersebut adalah dengan menggunakan metode numerik. Metode numerik yang dipakai disini adalah metode Finite Difference. Penampang-penampang yang dianalisa adalah penampang yang solid, homogen, dan isotropis, dengan bentuk-bentuk yang simetri pada dua arah maupun satu arah. Bentuk-bentuk penampang yang tidak simetri dapat pula dianalisa bila datadata geometris penampangnya jelas. Analisa ini berdasarkan pembebanan torsi murni, dan masih dalam batas elastis. Berdasarkan penyelesaian secara numerik tersebut, maka dapat dibuat suatu program komputer untuk analisa torsi. Program tersebut ditulis dalam bahasa BASIC. Dan dengan program ini akan dapat dihitung tegangan geser maks, r dan sudut puntir per satuan panjang, 0 . Tegangan geser maks dihitung dengan cara diferensial numerik, dan dipakai cara Interpolasi Lagrange, yang ternyata hasilnya cukup baik. Sedangkan untuk menghitung sudut puntirnya , dihitung dengan cara integral numerik dan dipakai Simpson's rule setelah penampang dimodifikasi, dan hasilnya juga cukup baik. Cara-cara tersebut akan mendapatkan hasil yang lebih mendekati nilai yang eksak berdasarkan tabel [Young, 1975, h. 290-296 dan Ugural, 1981, h.l80] bila jumlah titik nodal pada penampang yang dianalisa semakin banyak. Jadi pembagian meshnya semakin rapat. Pembagian mesh dengan perbandingan ukuran mesh yang sesuai dengan perbandingan ukuran penampang, akan memberikan hasil yang lebih teliti.",
+  "creators": "GUNARTI; V. JULI MEGAWATI",
+  "contributors": "Daniel Zefania Pribadi (Advisor 1); Ir. GIDEON HADI KUSUMA, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 333 S; Gunarti (282027), V. Juli Megawati (282097)",
+  "subjects": "TORSION; STRUCTURAL ANALYSIS (ENGINEERING)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "26046",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada toko Sinar Pendolo Tentena",
+  "abstract": "Sebagai sebuah toko yang bergerak dalam jual-beli hasil bumi, Toko Sinar Pendolo memiliki transaksi yang berkaitan dengan administrasi yang masih diterapkan secara manual dalam kegiatannya sehari-hari. Tentunya hal ini membuat proses administrasi tidak efisien dan efektif yang menyebabkan tingginya resiko data yang hilang. Setiap pengiriman yang dilakukan juga memerlukan kontrak yang mengacu pada harga pasar dunia, sehingga pihak toko harus mengira-ngira harga kontrak yang akan dipakai. Kesalahan dalam menentukan harga kontrak menyebabkan kerugian besar bagi toko. Dengan adanya perubahan dari sistem manual menjadi sistem terkomputerisasi, maka masalah-masalah tersebut diharapkan dapat terselesaikan. Karena itu dibutuhkan suatu aplikasi sistem informasi administrasi yang membantu Toko Sinar Pendolo dalam melakukan pencatatan nota dan tanda bukti pada aktivitas-aktivitas yang dilakukan dan mengolahnya menjadi suatu informasi yang berguna bagi toko tersebut. Sistem juga dapat mengkalkulasi hasil peramalan dari data harga yang disimpan sebagai acuan dalam menentukan harga kontrak yang dapat meminimalisir kerugian. Perancangan desain sistem menggunakan Data Flow Diagram dan Entity Relationship Diagram. Database dibuat dengan menggunakan Microsoft SQL Server 2005. Aplikasi dibuat dengan bahasa pemrograman Microsoft Visual Studio 2005 .NET. Program yang dibuat meliputi pembuatan database master untuk customer, barang, supplier, karyawan, hasil forecasting untuk kontrak harga transaksi untuk proses penjualan, kontrak harga, pengiriman dan pembelian, data absensi dan penggajian karyawan, transaksi untuk proses peminjaman uang dan pelunasannya, serta laporan untuk masing-masing proses. Dari hasil pengujian, program yang dibuat dapat memproses data administrasi pada Toko Sinar Pendolo sehingga menghasilkan laporan yang telah dapat memenuhi kebutuhan toko yang berjalan lebih efektif dan efisien.",
+  "creators": "VINNI ALVIONITA KULING",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Kartika Gunadi (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021123/INF/2012; Vinni Alvionita Kuling (26408123)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMANT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

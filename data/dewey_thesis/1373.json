@@ -1,0 +1,14 @@
+{
+  "id": "1373",
+  "title": "Pembuatan software penjadwalan kuliah dengan metode algorithma genetik di Jurusan Teknik Informatika Universitas Kristen Petra",
+  "abstract": "Pada saat ini proses penjadwalan kuliah di jurusan Teknik Informatika Universitas Kristen Petra masih menggunakan cara manual. Dalam membuat jadwal kuliah ini, staf Tata Usaha harus mempertimbangkan prioritas-prioritas yang banyak. Sehingga proses penjadwalan kuliah ini menghambat kinerja staf Tata Usaha. Dengan dibuatnya software ini, diharapkan dapat membantu proses penjadwalan kuliah di jurusan Teknik Informatika. Software ini dibuat dengan menggunakan metode Algoritma Genetik. Algoritma ini melakukan proses optimasi untuk mencari hasil yang terbaik. Yaitu dengan cara kombinasi perkawinan yang didasari proses random. Penerapan Algoritma Genetik dalam proses penjadwalan kuliah ini, dengan cara mengkodekan kelas-kelas kuliah yang dibuka ke dalam model angka desimal, dan merangkainya dalam bentuk string. Kemudian dilakukan proses kombinasi perkawinan, dan diseleksi untuk memperoleh gen inovatif terbaik. Gen inovatif ini ditentukan dengan mengevaluasi suatu gen. Proses evaluasi ini diawali dengan men-decode, dan melakukan penghitungan Fitness Cost dan Nilai Plus gen tersebut. Bila jadwal yang terbentuk melanggar prioritas-prioritas, maka nilai Fitness Cost-nya dikurangi. Bila jadwal tersebut penyebaran kelas kuliahnya tidak merata, dan waktu strategisnya tidak terisi, maka Nilai Plus-nya dikurangi. Fitness Cost dan Nilai Plus tertinggi dari proses tersebut, merupakan jadwal kuliah terbaik dari proses tersebut. Dan yang terakhir adalah menampilkannya dalam bentuk laporan dan bentuk cell-cell Microsoft Excell. Pengujian software ini dilakukan dengan melakukan pengujian terhadap prioritas-prioritas yang ada. Berdasarkan nilai Fitness Cost yang diperoleh dari setiap pengujian yaitu = 0, maka membuktikan bahwa software ini mampu memenuhi setiap prioritas yang ada. Dan dapat dikatakan software ini layak pakai untuk proses penjadwalan kuliah.",
+  "creators": "MICHAEL HERY TERA",
+  "contributors": "Kartika Gunadi (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 010070/INF/2003; Michael Hery Tera (26499016)",
+  "subjects": "DATABASE MANAGEMENT; SOFTWARE ENGINEERING"
+}

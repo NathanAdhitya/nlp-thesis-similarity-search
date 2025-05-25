@@ -1,0 +1,14 @@
+{
+  "id": "2988",
+  "title": "Perancangan dan pembuatan alat ukur kelenturan damper loudspeaker secara digital",
+  "abstract": "Perancangan alat ukut kelenturan damper loudspeaker menggunakan kumparan dengan inti ferrite sebagai sensor kelenturan. Tegangan DC yang merupakan output dari sensor dikonversi menjadi data digital untuk diolah oleh mikrokontroler. Hasil pengolahan dari mikrokontroler ditampilkan dalam bentuk display LCD. Dari hasil pengujian, dengan simpangan 1 mm sampai 5 mm menhasilkan tegangan DC antara 1,36 V sampai 1,60 V, yang selanjutnya digunakan sebagai perhitungan untuk mendapatkan besar kelenturan damper loudspeaker yang sementara belum dapat ditampilkan dalam LCD. Dari hasil pengukuran didapatkan bahwa tipe damper YD103-42 F95 C22 mempuntai kelenturan 0,3 mm/gr, YD100-153-F75 C23 mempunyai kelenturan 0,3 mm/gr, YD 100-17A-F105-C21B mempunyai kelenturan 0,2 mm/gr, dan tipe damper YD100-17A-F115-C21B mempunyai kelenturan 0,2 mm/gr.",
+  "creators": "NUR ARIFAH",
+  "contributors": "YOHANES T. D. S (Advisor 1); Indar Sugiarto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010732/ELK/2005; Nur Arifah (23400130)",
+  "subjects": "SOUND-RECORDING AND REPRODUCING"
+}

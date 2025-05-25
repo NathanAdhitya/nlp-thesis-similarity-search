@@ -1,0 +1,14 @@
+{
+  "id": "50546",
+  "title": "Penerapan metode goal oriented action planning untuk agent ai pada turn based tactics video game",
+  "abstract": "Kesulitan yang terdapat pada game genre turn-based tactics seringkali terletak di resources yang dimiliki musuh. Player diwajibkan untuk melakukan aktivitas yang repetitif untuk mengimbangi resources musuh. Agar player bisa menghabiskan waktu untuk menyusun strategi daripada untuk mengimbangi resource musuh, maka diimplementasikan Goal-Oriented Action Planning untuk AI. Dengan menggunakan metode GOAP, diharapkan AI GOAP meski tanpa extra resources dapat menggantikan AI FSM dengan extra resources. Goal-Oriented Action Planning adalah metode decision-making yang membuat suatu karakter tidak hanya melakukan apa yang akan dia lakukan, tetapi juga menentukan bagaimana cara ia melakukannya. A* adalah metode yang mencari path dengan exploring minimum number of nodes dengan minimum cost solution. Penelitian ini menggunakan metode gabungan Goal-Oriented Action Planning dan A* Search. GOAP di penelitian ini memiliki beberapa variasi gerakan berdasarkan health point yang dimiliki AI. Hasil penelitian menunjukkan bahwa AI GOAP tanpa extra resources memiliki winrate 33.33% terhadap AI FSM dengan extra resources, dan 83.33% terhadap AI FSM dengan extra resources tetapi power unit dikurangi. Hasil responden dari berbagai player dengan pengalaman yang berbeda menunjukkan bahwa tingkat kesulitan AI FSM dengan extra resources lebih tinggi, tingkat kepuasan pemain dan kerealistisan AI lebih tinggi ketika melawan AI GOAP tanpa extra resources.",
+  "creators": "RYAN CHANDRA KUSUMA",
+  "contributors": "Liliana (Advisor 1); Rolly Intan (Examination Committee 1); ALVIN NATHANIEL TJONDROWIGUNO, S.Kom. (Examination Committee 2); HANS JUWIANTHO, S.Kom., M.Kom. (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022094/INF/2020; Ryan Chandra Kusuma (C14170024)",
+  "subjects": "COMPUTER GAMES--PROGRAMMING; SEQUENCE CONTROLLERS, PROGRAMMABLE"
+}

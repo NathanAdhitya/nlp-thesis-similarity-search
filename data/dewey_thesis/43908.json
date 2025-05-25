@@ -1,0 +1,14 @@
+{
+  "id": "43908",
+  "title": "Perancangan aplikasi macro untuk meningkatkan efisiensi perencanaan produksi divisi PPIC",
+  "abstract": "Hapete merupakan perusahaan benang yang memiliki jenis sistem produksi make to order. Sistem produksi ini membuat divisi Production Planning and Inventory Control (PPIC), sebagai bagian yang membuat perencanaan produksi, harus memiliki strategi perencanaan yang efisien. Program yang digunakan saat ini oleh divisi PPIC kurang efisien, karena waktu pembukaan file yang lama dan sistem pengisian yang menggunakan link dan rumus. Penggunaan macro dan Visual Basic Application (VBA) akan mempermudah sistem pengisian dan menghemat waktu pembukaan file, dimana sistem pengisian berulang akan menggunakan kode. Analisa yang dilakukan adalah dengan membandingkan memori antara program lama dan program baru. Memori pada program simulasi lama adalah sebesar 4657 KB, sedangkan pada program baru adalah 558 KB. Memori pada program planning lama adalah 7969 KB, sedangkan pada program baru sebesar 297 KB. Memori pada program monitoring lama adalah sebesar 2906 KB, sedangkan pada program baru adalah 101 KB. Verifikasi dan validasi perlu dilakukan agar program benar dan sesuai dengan keadaan perusahaan Pengembangan juga perlu dilakukan untuk mempertahakan kesesuaian program dengan perusahaan. Usaha pengembangan yang sudah dilakukan adalah dengan pembuatan buku panduan, dimana dengan buku panduan tersebut proses pengembangan terhadap program menjadi lebih mudah.",
+  "creators": "MELLISA YANG",
+  "contributors": "Benedictus Rahardjo S.T. M.B.A. (Advisor 1); Jani Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022132/IND/2018; Mellisa Yang (25414039)",
+  "subjects": "INDUSTRIAL EFFICIENCY; MANUFACTURING RESOURCE PLANNING; PRODUCTION PLANNING"
+}

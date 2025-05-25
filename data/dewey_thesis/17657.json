@@ -1,0 +1,14 @@
+{
+  "id": "17657",
+  "title": "Penjadualan produksi ubin keramik single firing di PT Asia Victory Industri Ltd.",
+  "abstract": "Tujuan dari penelitian tugas akhir ini adalah membuat suatu penjadualan produksi yang bertujuan untuk meminimalkan waktu setup mesin dan makespan produksi pada pabrik unit 7 P.T. Asia Victory Industn LTD dengan menggunakan pendekatan Flexihel Flow Shop, Penelitian ini didasari atas pemikiran bahwa selama ini belum pernah dipertimbangkan secara eksplisit variabel waktu setup dan makespan produksi pada sistem penjadualan produksi yang dilakukan perusahaan. Dalam tugas akhir ini dibahas suatu masalah penjadualan dengan model : flexibel flow shop dependent setup min makespan. min setup Dalam melakukan penjadualan produksi pada pabrik unit 7 P.T. Asia Victory Industn LTD digunakan metode Traveling Salesman Problems dan Apparent Tardiness Cost with Setups yang sesuai dengan karakteristik pabrik dan karakteristik produk. Untuk kemudian dibandingkan dengan penjadualan produksi yang selama ini dilakukan oleh perusahaan Metode Traveling Salesman Problems dan Apparent Tardiness Cost with Setups sama-sama berhasil meminimalkan mukespan dan waktu setups bila dibandingkan dengan metode yang digunakan oleh perusahaan. Dari proses perhitungan, metode Apparent Tardiness cost with Setups lebih disarankan untuk digunakan dibandingkan dengan metode Traveling Salesman Problems, karena metode Apparent Tardiness Cost with Setups mampu menghasilkan makespan yang Iebih singkat sebesar 181,2 menit, walaupun waktu setups mesinnya lebih lama sebesar 120 menit. Karena dalam makespan produksi sudah tercakup setup time dan juga dengan makespan produksi yang kecil berarti memberi kesempatan perusahaan untuk memproduksi motif cadangan. Metode Appurent Turdiness Cost with Setups meminimalkan makespan dan setups time sebesar 3559.2 menit dan 360 menit bila dibandingkan dengan metode yang dipergunakan oleh perusahaan.",
+  "creators": "HENDRO GUNAWAN",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Didik Wahjudi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 182/TI-08/1999; Hendro Gunawan (25494013)",
+  "subjects": "PRODUCTION PLANNING; SCHEDULING"
+}

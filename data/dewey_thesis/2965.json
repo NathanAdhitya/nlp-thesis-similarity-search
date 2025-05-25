@@ -1,0 +1,14 @@
+{
+  "id": "2965",
+  "title": "Analisa voltage sag akibat single line to ground faults di PT. Semen Gresik Tuban III",
+  "abstract": "Dewasa ini, sistem industri berhadapan dengan gangguan peralatan industri. Gangguan listrik yang sering terjadi adalah voltage sag. Salah satu penyebab terjadinya voltage sag yaitu gangguan hubung singkat. Oleh karena itu dilakukan analisa gangguan hubung singkat baik 3 fasa ataupun 1 fasa ke tanah untuk dapat mengetahui voltage sag yang terjadi di sistem kelistrikan PT. Semen Gresik Tuban III Analisa dilakukan dengan menggunakan program ETAP Power Station untuk simulasi gangguan hubung singkat untuk 3 fasa atau 1 fasa ke tanah, bertujuan untuk mengetahui besarnya voltage sag di setiap bus.. Hasil analisa didapatkan bahwa jika terjadi gangguan hubung singkat 3 fasa, maka bus yang paling rawan terjadi voltage sag pada bus MVS 11 SS IX, EDR 16A dan EDR 16B. Besar voltage sag yang terjadi 41,08 %, tetapi pada gangguan 1 fasa ke tanah, voltage sag terjadi hanya pada satu fasa, besarnya voltage sag hampir mendekati nol. Untuk mengatasi voltage sag akibat hubung singkat digunakan over current relay.",
+  "creators": "FABIAN PRASETYO",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Limboto Limantara (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010521/ELK/2005; Fabian Prasetyo (23400107)",
+  "subjects": "ELECTRIC POWER DISTRIBUTION; ELECTRIC POWER SYSTEMS-PROTECTION; ELECTRIC POWER TRANSMISSION"
+}

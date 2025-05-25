@@ -1,0 +1,14 @@
+{
+  "id": "57205",
+  "title": "Penerapan metode behaviour tree dan logika fuzzy untuk NPC musuh di game maze dengan unity 3D",
+  "abstract": "NPC (Non Playable Character) dalam game memerlukan perilaku yang konsisten, realistis, dan reaksi yang tepat terhadap lingkungan sekitarnya. Metode Behaviour Tree digunakan untuk mengatur banyak state perilaku NPC. Namun Behaviour Tree tidak menyediakan model untuk decision making, sehingga NPC tergantung pada IF / Node kondisi yang ada di dalam tree. NPC musuh yang tidak adaptif terhadap perilaku player menyebabkan kebosanan karena strategi bertarung yang repetitif. Untuk mengatasi hal ini, diperlukan NPC yang adaptif dengan perilaku yang dapat dipahami, beradaptasi dengan strategi player, dan memahami tingkat kemampuan player. Logika Fuzzy digunakan sebagai metode decision making untuk NPC, menggantikan sistem Boolean dengan pilihan strategi dalam rentang 0 hingga 1. Metode Behaviour Tree dan Logika Fuzzy diharapkan dapat membantu NPC memilih tindakan yang adaptif dalam berbagai event dalam game.",
+  "creators": "MICHAEL SAMUEL",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022326/INF/2023; Michael Samuel (C14180035)",
+  "subjects": "FUZZY LOGIC; COMPUTER GAMES"
+}

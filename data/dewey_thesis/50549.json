@@ -1,0 +1,14 @@
+{
+  "id": "50549",
+  "title": "Rendering karakter 3D virtual secara real-time menggunakan metode light estimation pada augmented reality berbasis lokasi",
+  "abstract": "Aplikasi augmented reality sudah banyak terdapat pada perangkat mobile, tetapi kebanyakan aplikasi augmented reality masih mengasumsikan bahwa sumber cahaya yang berada pada dunia virtual selalu berasal dari atas objek dan memiliki arah yang selalu ke bawah sehingga bayangan yang dihasilkan selalu tepat di bawah objek, oleh karena itu dibutuhkan metode untuk mengestimasi cahaya agar arah bayangan yang dihasilkan lebih realistis, tetapi tetap dapat dijalakan pada perangkat mobile. Untuk menjawab masalah di atas, digunakan metode light estimation pada real-time rendering aplikasi AR di perangkat mobile agar arah bayangan dari hasil rendering objek virtual sejajar dan searah dengan arah bayangan dari objek nyata pada lingkungannya, tetapi tetap menggunakan resource yang masih dapat digunakan pada perangkat mobile. Hasil pengujian pada penelitian ini menunjukkan bahwa arah bayangan yang dihasilkan metode estimasi cahaya pada lingkungan indoor cukup akurat (sekitar 33°) dan cukup ringan untuk digunakan pada perangkat mobile, karena perbedaan FPS dan penggunaan RAM hampir sama dengan aplikasi tanpa penggunaan metode estimasi cahaya, walaupun ada peningkatan penggunaan CPU dan baterai, tetapi cukup kecil untuk tetap dapat digunakan pada perangkat mobile.",
+  "creators": "KEVIN",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Alvin Nathaniel Tjondrowiguno (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022092/INF/2021; Kevin (C14170003)",
+  "subjects": "AUGMENTED REALITY"
+}

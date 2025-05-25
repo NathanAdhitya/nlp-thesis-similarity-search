@@ -1,0 +1,14 @@
+{
+  "id": "30286",
+  "title": "Perencanaan dan pembuatan peralatan switching console PC dengan menggunakan mikrokontroler 8031",
+  "abstract": "Karena tingginya harga barang-barang elektronika, khususnya seperangkat komputer yang terdiri dari monitor, mouse, keyboard dan PC, maka dibutuhkan dana yang tidak kecil dan juga dibutuhkan tempat yang Iuas. Dengan persoalan ini perlu adanya solusi pemecahannya, yaitu dengan hanya satu keyboard, mouse sebagai input dan monitor sebagai output dapat dipakai untuk mengkontrol dua atau lebih PC secara bergantian sehingga sangat efisien dalam pemakaian ruang yang kecil dan dana yang sangat besar dapat ditekan. Hal ini dapat dilakukan dengan menggunakan peralatan switching console yang dihubungkan dengan kanal keyboard, kanal mouse dan kanal monitor yang dikontrol oleh minimum sistem 8031 dan mengambil alih PC mana yang akan dipantau. Hasil dari percobaan ternyata alat ini dapat mengendalikan mouse serial, keyboard IBM PC, dan monitor VGA.",
+  "creators": "HANARTO TEGUH",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/Kom/003/042; Hanarto Teguh (23491011)",
+  "subjects": "SWITCHING CONTROLLER; INTEL 8031 (MICROCONTROLLER)"
+}

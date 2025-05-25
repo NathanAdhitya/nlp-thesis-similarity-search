@@ -1,0 +1,14 @@
+{
+  "id": "16083",
+  "title": "Penentuan waktu penggantian jarum bordir di PT. XXX dengan menggunakan logika fuzzy",
+  "abstract": "Pada perusahaan bordir, jarum merupakan alat yang dipakai untuk membuat pola pada kain. Jarum ini sendiri memiliki batasan umur sehingga bila lewat dari itu, maka jarum akan aus dan perlu untuk diganti. Terdapat tiga faktor yang mempengaruhi keausan jarum yaitu: ketebalan kain, kecepatan putaran mesin, dan frekuensi penggunaan satu jarum. Dari sini ingin diketahui waktu penggantian jarum bordir sebelum jarum tersebut aus. Metode yang digunakan untuk menyelesaikan masalah ini adalah fuzzy Mamdani, yaitu salah satu bagian dari FIS {Fuzzy Inference System) yang merupakan metode pengambilan keputusan berdasarkan konsep teori fuzzy set, dan aturan if-then. Proses defuzzification untuk mendapatkan hasil berupa jumlah tusukan yang dikerjakan, yang dipakai untuk menentukan waktu penggantian jarum.",
+  "creators": "YONGKY HERYANTO",
+  "contributors": "I Nyoman Sutapa (Advisor 1); Siana Halim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 475/TI-066/2001; Yongky Herianto (25495070)",
+  "subjects": "OPERATIONS-RESEARCH; DECISION-MAKING-MATHEMATICAL MODELS"
+}

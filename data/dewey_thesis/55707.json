@@ -1,0 +1,14 @@
+{
+  "id": "55707",
+  "title": "Studi perbandingan metode elemen hingga dengan interpolasi kriging, continuous nodal stress, dan twice interpolated dengan triangular mesh pada model plane stress/plane strain dengan kondisi bebas getar",
+  "abstract": "Metode elemen hingga merupakan metode numerik dengan proses meshing dan dapat diaplikasikan dengan program komputer. MEH telah mengalami banyak perkembangan untuk mengatasi kelemahan-kelemahan yang dimiliki. Beberapa varian MEH adalah MEH dengan interpolasi Kriging, Continuous Nodal Stress, dan Twice Interpolated. Metode Kriging membentuk shape function dari fungsi basis polinom dan fungsi korelasi. Pada metode CNS shape function terbentuk dengan konsep Partition of Unity Method (PUM). Sedangkan metode TFEM dilakukan dengan 2 kali interpolasi dengan menggunakan average nodal gradient dan nodal displacement dari pada hasil interpolasi pertama. Pada penelitian ini disajikan aplikasi ketiga metode dalam penyelesaian pada masalah plane-stress dan plane-strain dalam kondisi bebas getar serta mengabaikan redaman pada beberapa benchmark problem. Kekonvergenan pada ketiga metode akan dibandingkan dengan MEH standar. Penerapan dilakukan dengan bantuan pemrograman MATLAB 2017b. Hasil yang didapatkan menunjukkan bahwa dengan semakin tinggi basis polinom yang digunakan, MEH dengan interpolasi Kriging dapat memberikan hasil yang makin mendekati eksak. Metode Kriging memiliki natural frequency yang semakin konvergen dan dilanjutkan dengan metode TFEM dan CNS.",
+  "creators": "CHRISTIANA",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Jimmy Chandra (Examination Committee 1); Pamuda Pudjisuryadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000329/MTS/2022; Christiana (B21220001)",
+  "subjects": "FINITE ELEMENT METHOD; SHAPES"
+}

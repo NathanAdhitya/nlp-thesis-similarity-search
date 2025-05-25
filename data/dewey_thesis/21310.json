@@ -1,0 +1,14 @@
+{
+  "id": "21310",
+  "title": "Pendjawalan flowshop dengan menggunakan algoritma genetika",
+  "abstract": "Perusahaan UD. Kurnia merupakan perusahaan yang memproduksi produk dari bahan baku utama kertas. Produk yang menjadi pengamatan penulis adalah produk kertas HVS 400.60 wama , kertas HVS 500.70 warna , kertas HVS 250.60 polos, kertas HVS 400.60 polos , kertas HVS 500.60 polos , kertas bulky 250 dan kertas bulky 500, saat ini dalam proses produksinya pihak perusahaan sering kesulitan untuk menentukan penjadwalan produksi untuk meminimumkan waktu penyelesaian. Karena adanya keterbatasan sumber daya maka diperlukan penjadwalan yang dapat pengoptimalkan waktu penyelesaian. Penjadwalan produksi yang dilakukan didalam tugas akhir ini, dimaksudkan untuk memberikan usulan metode penjadwalan pada perusahaan, supaya dapat mengoptimalkan penggunaan sumber daya yang ada. Adapun metode yang diusulkan adalah Algoritma Genetika, yang menggunakan solusi awal Algoritma Heuristic NEH dan Algoritma Heuristic Rajendran. Hasil analisa dimaksudkan untuk mendapatkan nilai makespan yang terminimum bagi perusahaan. Analisa data yang dilakukan menghasilkan makespan sebesar 58730 detik untuk Algoritma Genetika, dan untuk Algoritma Heuristic Rajendran menghasilkan makespan sebesar 58730 detik. Kesamaan nilai makespan ini disebabkan karena jumlahyoi> yang dibahas dalam tugas akhir ini relatif sedikit.",
+  "creators": "MOELYONO",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 528/TI-009/2002; Moelyono (25496163)",
+  "subjects": "PRODUCTION SCHEDULING; INVENTORY CONTROL"
+}

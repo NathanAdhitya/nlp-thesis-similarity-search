@@ -1,0 +1,14 @@
+{
+  "id": "21289",
+  "title": "Penerapan algoritma evolusioner pada penjadwalan produksi di PT Brother Silver Product Indonesia",
+  "abstract": "PT. Brother Silver Product Indonesia adalah perusahaan yang memproduksi peralatan rumah tangga yang terbuat dari logam. Perusahaan ini merupakan industri dengan sistem produksi yang bersifat job order, dengan lingkungan mesin Flow Shop dengan mesin pararel. Tujuan penelitian ini adalah untuk memberi alternatif sistem penjadwalan produksi yang baru dengan menerapkan Algoritma Evolusioner serta memperhitungkan minimum makespan. Dalam Algoritma Evolusioner dikenal adanya crossover operator, mutation operator dan reproduction plan. Teknik crossover yang digunakan adalah Edge Recombination, sedangkan teknik mutation yang digunakan adalah exchange. Untuk reproduction plan, digunakan Reproduction Plan 1 dan Reproduction Plan 2 yang penggunaannya dilakukan dengan 4 kombinasi, yaitu : penggunaan Reproduction Plan 1 saja, penggunaan Reproduction Plan 2 saja, penggunaan Reproduction Plan 1 untuk generasi ganjil - Reproduction Plan 2 untuk generasi genap dan penggunaan Reproduction Plan 1 untuk generasi ganjil -Reproduction Plan 1 untuk generasi genap. Perhitungan dilakukan untuk masing-masing rencana reproduksi hingga generasi ke-75. Penjadwalan flowshop dengan mesin paralel ini memiliki 5 variabel yang perlu dipertimbangkan. Variabel-variabel tersebut adalah jumlah job, jumlah stage, jumlah mesin pada tiap stage, waktu setup, dan waktu proses masing-masing job di tiap-tiap stage. Pada pengerjaan penelitian ini, data-data yang digunakan diambil pada periode April 2001. Hasil perhitungan dengan Algoritma Evolusioner membuktikan bahwa penggunaan Reproduction Plan I saja lebih baik dibanding kombinasi lainnya sebab makespan yang dihasilkan paling minimum.",
+  "creators": "LALA FEBRIANA SLAMET",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 478/TI-069/2001; Lala Febriana (25497039)",
+  "subjects": "PRODUCTION SCHEDULING; PRODUCTION MANAGEMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10501",
+  "title": "Perancangan dan pembuatan perangkat lunak pengaturan traffic gateway pada jaringan komputer dengan menggunakan fuzzy control",
+  "abstract": "Kebutuhan akan dunia networking seiring dengan perkembangan IT semakin besar. Penggunanyapun juga semakin banyak. Karena banyaknya pengguna, seringkali terjadi congestion network (kemacetan jaringan). Congestion network dapat menyebabkan penurunan atau degradasi kualitas dari network performance dan lain-lain. Untuk membantu menurunkan tingkat kepadatan yang ditimbulkan, maka dicoba dilakukan pengaturan traffic gateway dengan menggunakan metode fuzzy control. Dalam Tugas Akhir ini, dibuat aplikasi perangkat lunak yang membantu melakukan pengaturan traffic gateway berdasarkan fuzzy rules based. Proses pengaturan traffic gateway pada jaringan komputer diawali dengan pembacaan data traffic gateway oleh pmacct. Data yang terbaca nantinya akan di-filter agar dapat digunakan sebagai input bagi fuzzy rules based. Input bagi fuzzy rules based terdiri dari IP asal, IP tujuan, port asal, port tujuan, besar data serta lamanya waktu pembacaan data traffic gateway. Dari input-input tersebut, dilakukan perhitungan dengan melakukan fuzzification serta defuzzification. Output yang dihasilkan dari perhitungan, akan dibuat menjadi suatu file. File tersebut nantinya akan dibaca olah CBQ (Class-Based Queueing). Pengaturan yang dilakukan dapat dipisah berdasarkan IP ataupun group. Apabila berdasarkan IP, maka tiap IP akan diberikan kecepatan baru sesuai dengan hasil perhitungan. Apabila berdasarkan group, maka kecepatan baru untuk IP yang berada pada group yang sama adalah output hasil perhitungan. Berdasarkan hasil pengujian yang dilakukan, maka dapat disimpulkan bahwa metode fuzzy control dapat membantu pengaturan traffic gateway pada suatu jaringan komputer. Hal ini dapat dibuktikan dengan pengalokasian untuk bandwidth yang tidak dipakai oleh suatu IP ke IP yang lebih membutuhkan.",
+  "creators": "FRANSISCA ELSA DJOENAIDI",
+  "contributors": "Rolly Intan (Advisor 1); Justinus Andjarwirawan (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010655/INF/2007; Fransisca Elsa Djoenaidi (26404061)",
+  "subjects": "TRAFFIC ENGINEERING-COMPUTER PROGRAMS; SOFTWARE ENGINEERING; COMPUTER PROGRAMMING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "60737",
+  "title": "Rancangan perbaikan sistem manajemen pergudangan pada gudang PT X",
+  "abstract": "Pada PT X, gudang merupakan kegiatan utama perusahaan karena menjadi tempat untuk penyimpanan kebutuhan dari kapal, yang merupakan transportasi utama dalam bisnis PT X. Hal tersebut membuat gudang harus memiliki sistem manajemen pergudangan yang bagus untuk memenuhi kebutuhan permintaan kapal. Saat ini, terdapat dua permasalahan utama dalam sistem manajemen pergudangan PT X, yaitu penataan barang yang belum baik dan pencatatan stok barang yang belum terintegrasi. Dampak dari permasalahan tersebut mempuat pencarian mengalami kesusahan dan jumlah stok aktual dan sistem tidak sama. Untuk mengelola gudang dengan baik, dilakukan perhitungan kebutuhan rak untuk penyimpanan produk consumable dan sparepart. Metode reorder point (ROP) dan Economic Order Quantity (EOQ) digunakan untuk menghitung kebutuhan unit untuk menentukan jumlah rak. Dalam penyusunan produk akan menggunakan metode dedicated storage dengan mempertimbangkan rerata pemintaan dan bobot barang. Hasil dari perhitungan kebutuhan rak, didapatkan bahwa produk consumable membutuhkan 5 rak sedang produk consumable membutuhkan 33 rak. Selain itu, diusulkan penggunaan sistem barcode untuk memperbaiki sistem pencatatan stok barang agar lebih terintegrasi.",
+  "creators": "FIORELLIA LORAINE HALIM",
+  "contributors": "Tanti Octavia (Advisor 1); I Gede Agus Widyadana (Examination Committee 1); Debora Anne Yang Aysia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022676/IND/2024; Fiorellia Loraine Halim (C13200036)",
+  "subjects": "INVENTORY CONTROL; WAREHOUSES--MANAGEMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "53400",
+  "title": "Implementasi pick and place universal robot UR3 menggunakan kamera",
+  "abstract": "Dalam tugas akhir ini membahas tentang sistem kerja otomatis antara robot dengan kamera. Sistem kerja dari robot ini adalah memilih benda yang berbentuk kubus dengan kamera dan memindahkannya kepada tempat yang disediakan. Dalam sistem ini menggunakan kamera Creative Blasterx Senz3d. kamera tersebut tidak bisa terhubung secara langsung dengan papan Pengontrol UR3 sehingga dibutuhkan suatu program beserta papan pengontrol untuk membantu mengirimkan data pemrosesannya kepada papan pengontrol UR3. Berdasarkan permasalahan tersebut Board Computer yang digunakan Raspberry pi 4B dan suatu tambahan library untuk image processing bisa menggunakan opencv. Serta library konfigurasi kamera di python adalah librealsense. Data yang telah diproses menggunakan library opencv dalam bentuk file python akan diteruskan kepada sistem pengomunikasian Antara papan pengontrol UR3 dengan Raspberry pi 4 pada program python melalui komunikasi TCP/IP secara otomatis pergerakan lengan robot digerakkan melalui Board Raspberry pi 4. Dari pengujian, sistem tersebut mampu menggerakkan lengan robot melalui Raspberry pi dengan tingkat akurasi 96%, mengukur ukuran dimensi kubus dengan akurasi pengukuran 95%, dengan keberhasilan pengambilan benda kubus 77,8%, serta dapat menyalakan dan mematikan konveyor melalui Raspberry pi 4.",
+  "creators": "RIO YOAN VIRGIAN",
+  "contributors": "Handry Khoswanto (Advisor 1); Thiang (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011030/ELK/2022; Rio Yoan Virgian (C11170028)",
+  "subjects": "RASPBERRY PI (COMPUTER); ROBOTICS"
+}

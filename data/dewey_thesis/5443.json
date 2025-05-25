@@ -1,0 +1,14 @@
+{
+  "id": "5443",
+  "title": "Perancangan dan pembuatan aplikasi penyusun menu makanan untuk program diet dengan metode algoritma genetika",
+  "abstract": "Berat badan yang ideal serta tubuh yang sehat merupakan harapan semua orang. Untuk itu orang-orang yang memiliki masalah dengan kegemukan, umumnya cenderung memilih untuk berdiet dengan pengawasan pakar gizi. Selanjutnya pakar gizi akan memberikan mereka suatu program yang disesuaikan dengan kondisi masing-masing pasien termasuk menu makanan yang disarankan untuk dikonsumsi. Dalam hal ini, para ahli membutuhkan sebuah software yang dapat membantu mereka dalam menyusun menu diet bagi pasiennya. Software ini dibuat dengan menggunakan metode Algoritma Genetika. Algoritma ini melakukan proses optimasi untuk mencari hasil yang memenuhi kriteria menu sehat, yaitu dengan perkawinan silang dan mutasi yang didasari proses random. Penerapan Algoritma Genetika dalam proses penyusunan menu ini, dengan cara mengkodekan setiap jenis makanan ke dalam bentuk numerik, dan merangkainya dalam bentuk string. Kemudian dilakukan proses regenerasi, dan seleksi untuk memperoleh gen inovatif terbaik melalui perhitungan Fitness Cost. Output yang diperoleh berupa susunan menu untuk makan pagi, makan siang dan makan malam dengan komposisi bahan yang telah diperhitungkan.",
+  "creators": "YUVICO KANGSANTOSO",
+  "contributors": "Resmana Lim (Advisor 1); Kartika Gunadi (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000177/INF/2004; Yuvico Kangsantoso (26400145)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); SOFTWARE ENGINEERING"
+}

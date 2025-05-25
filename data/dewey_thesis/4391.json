@@ -1,0 +1,14 @@
+{
+  "id": "4391",
+  "title": "Optimasi pengambilan dan penataan ulang barang di gudang dengan penerapan stack menggunakan metode genetic algorithm",
+  "abstract": "Dunia industri yang semakin maju membutuhkan komputer sebagai alat bantu utama. Sistem komputerisasi di dalam dunia industri akan membuat beberapa hal menjadi lebih mudah, antara lain dalam pengambilan barang dan penataan ulang barang di gudang. Suatu perangkat lunak untuk keperluan tersebut telah dibuat oleh penulis. Perangkat lunak yang dibuat ini dikhususkan untuk gudang yang barang-barangnya disimpan dalam palet-palet pada rak di gudang. Penataan ulang barang ini menggunakan algoritma genetika, yang akan melalui proses pembuatan populasi awal, pencarian fitness cost dengan memperhitungkan luas area dan berat barang, pengurutan data, imigrasi, persilangan, dan mutasi. Melalui perangkat lunak ini, user juga dapat melihat kondisi gudang secara baik secara 2 dimensi ataupun 3 dimensi, yang dalam pengerjaannya menggunakan OpenGL. Sistem dari perangkat lunak yang dibuat ini sudah diuji coba dan memberikan nilai rata-rata fitness cost di atas 90%, ini berarti perangkat lunak ini telah sukses dalam menjalankan fungsinya.",
+  "creators": "ONG WIE GANG",
+  "contributors": "Resmana Lim (Advisor 1); Kartika Gunadi (Advisor 2); RULLY SOELAIMAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0152/INF/2004; Ong Wie Gang (26499060)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN"
+}

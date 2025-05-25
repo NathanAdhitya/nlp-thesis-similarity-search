@@ -1,0 +1,14 @@
+{
+  "id": "53698",
+  "title": "Klasifikasi benda organik dan anorganik dengan metode YOLOv3 dan ResNet50",
+  "abstract": "Pengenalan benda organik dan anorganik sejak dini sangatlah penting. Dengan mengetahui perbedaan benda organik dan anorganik, masyarakat dapat memilah sampah organik dan anorganik. Banyak masyarakat Indonesia yang masih susah dalam memilah benda organik dan anorganik. Hal ini menyebabkan banyak masyarakat Indonesia yang masih melakukan kesalahan dalam membuang sampah pada tempat sampah yang berlabelkan sampah organik dan sampah anorganik. Hal ini juga menyebabkan pemilahan sampah yang cukup lambat di TPS. Oleh karena itu sebuah program yang mampu membedakan dan mengklasifikasikan benda organik and anorganik akan sangat membantu. Metode yang digunakan adalah menggunakan You Only Look Once untuk mendapatkan benda organik dan anorganik dari sebuah gambar atau video. Objek yang dideteksi akan di potong dan hasilnya akan diolah oleh Convolutional Neural Network dengan model arsitektur ResNet50 untuk klasifikasi. Dalam proses pelatihan YOLOv3 dan ResNet50 dilakukan penyetelan untuk menemukan parameter yang mendapatkan akurasi terbaik. Penelitian ini akan melakukan klasifikasi objek pada benda dalam gambar atau video. Mean average precision yang didapatkan YOLOv3 adalah 45% dan average loss 91%. Sedangkan untuk ResNet50 terdapat rule of thumb dimana dengan menggunakan input size 416x416 dan semakin rendah angka learning rate dapat meningkatkan akurasi Ketika digabungkan, ResNet50 mampu meningkatkan akurasi jenis objek yang dideteksi oleh YOLOv3.",
+  "creators": "KEVIN REYNALDI TANJUNG",
+  "contributors": "Liliana (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022186/INF/2022; Kevin Reynaldi Tanjung (C14180078)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

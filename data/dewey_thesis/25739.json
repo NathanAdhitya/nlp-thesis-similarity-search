@@ -1,0 +1,14 @@
+{
+  "id": "25739",
+  "title": "Perencanaan dan pembuatan sistem penghitung pulsa dan pengaman dengan password dari pesawat telepon yang dikendalikan oleh mikrokontroller 8031",
+  "abstract": "Efisiensi pemakaian telepon sering kurang dapat dipantau oleh pelanggan. Sistem penghitung pulsa dan pengaman dengan password dapat membantu pelanggan untuk memantau efisiensi, keamanan dan menghemat biaya pemakaian telepon, karena hanya orang-orang tertentu (yang memiliki password) yang dapat memakai telepon dan setiap password memiliki batas pulsa tertentu. Untuk mengetahui berapa pemakaian pulsa, diperlukan parameter yang digunakan sebagai dasar perhitungan pulsa, yaitu berdasarkan sinyal sebesar 16 KHz yang dikirim oleh perum tel, untuk menyatakan pemakaian satu pulsa. Dasar prinsip inilah yang kebanyakan dipakai pada wartel untuk membuat perhitungan biaya pemakaian pulsa. Dalam Tugas Akhir ini direncanakan dan dibuat alat untuk mengetahui dan membatasi pemakaian pulsa pada telepon yang dikendalikan oleh mikrokontroller 8031. Agar perhitungan pulsa yang dihasilkan betul-betul tepat maka line telepon yang digunakan haruslah mempunyai chasing (penangkap) sinyal 16 KHz. Dari hasil yang diperoleh, maka keandalan alat yang dibuat tergantung pada kondisi line telepon yang terhubung apakah memiliki chasing sinyal atau tidak. Secara keseluruhan sistem ini merupakan sistem yang cukup baik dalam pemanfaatannya, di mana fungsi-fungsinya dapat diganti ataupun dikembangkan dengan cara menggantikan program kontrolnya. Sistem ini telah diuji keandalannya untuk berhagai fungsi-fungsi yang telah direncanakan dan telah terbukti dapat beroperasi..",
+  "creators": "SWANDAJANI",
+  "contributors": "HANDAYANI T. (Advisor 1); HERLIANTO TENGGARA (Advisor 2); ISKANDAR ZULKARNAIN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/E/035/0192; Swandajani (23489023)",
+  "subjects": "MICROCONTROLLERS; PULSE TECHNIQUES (ELECTRONICS)"
+}

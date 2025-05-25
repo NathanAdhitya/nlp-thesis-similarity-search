@@ -1,0 +1,14 @@
+{
+  "id": "13201",
+  "title": "Perencanaan dan pembuatan master controller dengan infra merah menggunakan mikrokontroler 80C52",
+  "abstract": "Dengan semakin majunya perkembangan teknologi dewasa ini, maka segala sesuatu dapat dilakukan dengan hanya melakukan usaha yang seminimal mungkin. Salah satu contoh dari akibat semakin majunya teknologi ini adalah penggunaan remote control pada alat kebutuhan sehari-hari. Remote control ini adalah suatu alat yang dapat mengontrol peralatan dari jarak tertentu tanpa harus mendekati peralatan tersebut. Dewasa ini semakin banyak peralatan yang dilengkapi dengan remote control tersebut antara lain pada video recorder, TV, Laser Disc player, dll. Dengan semakin banyaknya remote control tersebut tentu akan merepotkan juga. Oleh karena itu penulis mencoba untuk membuat suatu Master Controller yaitu suatu alat yang dapat digunakan untuk merekam data dari remote control yang lain. Beberapa masalah yang timbul antara lain tidak adanya standar yang baku pada format data remote control tersebut, timing bit yang berbeda, jumlah bit yang berbeda, dll. Karena itu prinsip yang dipakai disini adalah merekam data dengan menghitung waktu untuk masing-masing lebar pulsa ('High' dan 'Low') yang kemudian data tersebut disimpan dalam suatu lokasi memori (RAM). Dengan demikian bila sewaktu-waktu ingin melakukan suatu fungsi tertentu, maka data yang bersesuaian dapat diambil untuk menjalankan fungsi tersebut. Untuk mengendalikan sistem ini digunakan suatu mikro-kontroller MCS-51 (80C52). Secara keseluruhan sistem ini sangat ditentukan atas 3 bagian yaitu bagian penerima (receiver), bagian pemancar (transmitter) dan perangkat lunaknya (software), disamping itu juga pada bagian minimum sistemnya.",
+  "creators": "WIDIANTO TJOKROAMIDJOJO",
+  "contributors": "IRWAN SAHLI (Advisor 2); SOETIKNO (Examination Committee 1); HANDAYANI T. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/020/0177; Widianto Tjokroamidjojo (23489070)",
+  "subjects": "ELECTRONIC CONTROL; INFRARED TECHNOLOGY; MICROCONTROLLER 80C52"
+}

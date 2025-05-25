@@ -1,0 +1,14 @@
+{
+  "id": "5487",
+  "title": "Perancangan dan pembuatan sistem pakar untuk penyajian menu masakan khas Jawa Timur dan chinese food",
+  "abstract": "Sistem pakar yang akan dibuat ini berawal dari kebutuhan individu akan konsumsi makanan setiap harinya. Dalam pembuatan sistem pakar ini, diambil contoh dari kehidupan seorang ibu rumah tangga dan seorang anak indekos yang tidak jarang mengalami kesulitan dalam memasak menu masakan untuk dikonsumsi sehari-hari. Sistem pakar ini bertujuan untuk membantu kesulitan tersebut dengan cara memberikan alternatif menu masakan dengan komposisi bahan yang tersedia. Menu masakan hanya akan dibatasi untuk menu masakan Jawa Timur dan Chinese. Dalam pembuatan sistem pakar ini, terdapat tahap-tahap yang harus dilakukan, diantaranya adalah pembuatan dependency diagram, inference engine yaitu backward chaining dan forward chaining, membangun knowledge base serta rules yang bersesuaian dengan permasalahan user dan pengetahuan dari seorang pakar. Perangkat lunak yang dibuat menggunakan bahasa pemrograman Borland Delphi 6.0 serta basis data yang digunakan adalah Microsoft Access 2000. Sistem pakar ini dapat menampilkan resep yang berisi komposisi bahan dan cara pembuatan serta gambar dari menu masakan yang diinginkan oleh user dimana untuk mendapatkan output ini, diperlukan input dari user berupa bahan-bahan masakan yang dimiliki, nama dari menu masakan yang dipilih maupun gabungan dari bahan-bahan masakan serta nama menu masakan yang diinginkan.",
+  "creators": "YOHANA DESSY ROSSETA",
+  "contributors": "JOKO LIANTO B.,DR.,Ir.,M.Sc. (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000196/INF/2004; Yohana Dessy Rosseta (26400013)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; EXPERT SYSTEMS (COMPUTER SCIENCE)"
+}

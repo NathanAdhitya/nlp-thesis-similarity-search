@@ -1,0 +1,14 @@
+{
+  "id": "10772",
+  "title": "Tracking max power point solar cell dan distribusi daya dengan menggunakan microcontroller ATmega 16",
+  "abstract": "Solar cell memiliki dinamika titik kerja. Dinamika titik kerja ini disebabkan karena intensitas sinar matahari yang berubah-ubah sepanjang hari mengikuti waktu dan cuaca. Karakteristik lain dari solar cell adalah efisiensinya yang masih relative rendah, sekitar 10% saja. Oleh karena itu, dalam tugas akhir (TA) ini akan didesain sebuah peralatan yang bisa memanfaatkan daya solar cell semaksimal mungkin. Daya solar cell dapat dimanfaatkan secara maksimal dengan cara mencari titik kerja MPP (Maximum Power Point). Setelah mencapai titik kerja MPP, langkah selanjutnya adalah memanfaatkan daya yang telah diambil dari solar cell secara maksimum. Dengan adanya TA ini diharapkan efisiensi solar cell yang relative rendah, dapat dimanfaatkan sepenuhnya. Titik kerja MPP dapat dicapai dengan cara menyamakan impedansi R-load dengan impedansi sumber (dalam hal ini adalah impedansi solar cell). Setelah mendapatkan daya sel surya secara maksimum, maka daya ini dimanfaatkan semuanya untuk 2 beban. Beban pertama merupakan beban utama (beban primer), beban 2 merupakan beban sisa (beban sekunder). Sumber daya yang digunakan dalam TA ini adalah sebuah sel surya. Dari hasil pengujian titik kerja MPP ini, dapat disimpulkan bahwa untuk mencapai titik kerja MPP ini diperlukan nilai impedansi R-load yang bervariasi, antara 4,3088931 sampai dengan 10,706849 tergantung tingkat penyinaran sinar matahari. Nilai impedansi R-load sebesar 4,3088931 adalah R-load terendah yang bisa dicapai oleh rangkaian. Daya yang dihasilkan pada saat nilai impedansi R-load sebesar 4,3088931 masih belum maksimal. Daya terbesar yang dapat dihasilkan dari pengujian ini adalah 29,472 watt.",
+  "creators": "RUDY SAPUTRA TANDIJONO",
+  "contributors": "Murtiyanto Santoso (Advisor 1); Lauw Lim Un Tung (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010855/ELK/2008; Rudy Saputra Tandijono (23403026)",
+  "subjects": "SOLAR CELLS"
+}

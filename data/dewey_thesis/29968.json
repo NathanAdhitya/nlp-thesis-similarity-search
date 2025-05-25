@@ -1,0 +1,14 @@
+{
+  "id": "29968",
+  "title": "Klasifikasi citra menggunakan metode SIFT dan RANSAC",
+  "abstract": "Pengambilan gambar telah menjadi hal yang umum dilakukan untuk mengabadikan tempat-tempat tertentu. Proses pengambilan dan penyimpanan gambar yang cukup mudah mengakibatkan banyaknya gambar terambil dan tidak tertata. Hal ini berakibat pada kesulitan menemukan gambar yang dikehendaki dengan mudah. Beberapa aplikasi telah dibuat untuk memudahkan proses pengorganisasian gambar. Pada umumnya aplikasi-aplikasi yang telah dibuat memanfaatkan metada dan geotagging dari gambar. Namun metadata dan geotagging dari gambar tidak dapat dilihat secara kasat mata pada gambar. Sehingga pada skripsi ini akan dibuat aplikasi yang dapat mengklasifikasi gambar berdasarkan obyek yang tampak pada gambar. Untuk membuat aplikasi ini akan dimanfaatkan fitur SIFT dari gambar. Selain itu metode RANSAC akan digunakan untuk meningkatkan akurasi pencocokan fitur SIFT. Sebuah database juga dibentuk untuk menghindari ambiguitas pada pencocokan fitur SIFT dan mempercepat proses klasifikasi. Berdasarkan kondisi-kondisi pada saat pengujian didapatkan nilai rata-rata keberhasilan klasifikasi dengan metode SIFT dan RANSAC yang digunakan dapat mencapai 72.5%. Selain itu didapatkan bahwa fitur SIFT rentan terhadap view point, tilt, non-linear illumination dan efek pencahayaan karena texture obyek. Sehingga penyediaan pola yang dapat menutupi perubahan fitur SIFT yang terjadi sangat diperlukan. Selain itu, diperlukan preprocessing pada gambar pola untuk menghilangkan kemungkinan ambiguitas pencocokan pada fitur SIFT dikarenakan background, texture, dan pola yang terdapat pada gambar.",
+  "creators": "AGUNG PRAYOGO",
+  "contributors": "Liliana (Advisor 1); Rudy Adipranata (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021313/INF/2014; Agung Prayogo (26410073)",
+  "subjects": "COMPUTER VISIONIMAGE PROCESSING-DIGITAL TECHNIQUES; COMPUTER VISION"
+}

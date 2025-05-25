@@ -1,0 +1,14 @@
+{
+  "id": "39810",
+  "title": "Studi pengaruh kapasitansi dan induktansi crossover butterworth pada cutting frekuensi",
+  "abstract": "Pada masa sekarang ini sebagian besar orang Indonesia akan mengganti perangkat audio standar (OEM) dari mobilnya, karena kualitas audio yang kurang baik, sehingga dapat diganti dengan speaker jenis 2-way system atau 3-way system. Dengan adanya berbagai macam speaker, maka diperlukan passive crossover yang berisi komponen kapasitor dan induktor, berfungsi sebagai pembagi suara berdasarkan range frekuensi. Studi tentang pengaruh kapasitor,induktor, dan resitor dapat dilakukan terhadap cutting frekuensi yang dihasilkan pada rangkaian crossover butterworth. Passive crossover ini dibuat untuk speaker berjenis 2-way system dengan orde dua. Untuk mengetahui hasil cutting frekuensi, maka dilakukan pengujian menggunakan bantuan alat ukur RTA (Real Time Analyzer) dan software ARTA. Pada software ARTA akan didapatkan pembacaan respon suara yang dihasilkan speaker. Dari data respon suara yang dihasilkan speaker, maka dapat diketahui cutting frekuensi yang dihasilkan rangkaian passive crossover. Dari hasil pengujian dapat disimpulkan bahwa, terdapat perbedaan hasil cutting frekuensi high pass dan low pass antara realita dengan rumus. Perbedaan hasil cutting frekuensi high pass terjadi pada rentang frekuensi 1,4-3,5 KHz. Sedangkan pada low pass perbedaan cutting frekuensi terjadi pada rentang frekuensi 1,9-8,5 KHz. Konfigurasi rangkaian high pass dan low pass yang menghasilkan cutt point pada frekuensi 3 KHZ, 2,7 KHz, 1,7KHz, 1,1KHz, 500Hz dapat digunakan pada sistem 2-way. Penambahan resistor yang dirangkai secara L-pad lebih efektif karena dapat menurunkan gain hingga 10 dB. Namun resistor yang digunakan pada rangkaian L-pad nilainya tidak boleh melebihi 4 Ohm.",
+  "creators": "MICHAEL SUNARTO GORDON",
+  "contributors": "Sutrisno S.T.,M.T. (Advisor 1); Fandi Dwiputra Suprianto, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011209/MES/2017; Michael Sunarto Grodon (24413018)",
+  "subjects": "SOUND-EQUIPMENT AND SUPPLIES; LOUDSPEAKERS"
+}

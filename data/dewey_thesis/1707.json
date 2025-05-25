@@ -1,0 +1,14 @@
+{
+  "id": "1707",
+  "title": "Studi penggunaan directional ground relay (DGR) pada penyulang Kebomas gardu induk (GI) Petrokimia, PLN UPJ area Gresik",
+  "abstract": "Penyulang Kebomas merupakan salah satu penyulang 20 kV yang dicatu dari Gardu Induk (GI) Petrokimia menggunakan transformator daya 50 MVA. Panjang penyulang Kebomas 18,69 kms, dengan panjang Saluran Kabel Tegangan Menengah (SKTM) 1,883 kms dan Saluran Udara Tegangan Menengah (SUTM) 16,807 kms. Berdasarkan statistik gangguan pada saluran udara, gangguan yang paling banyak terjadi adalah gangguan hubung singkat 1 fasa ke tanah yang disebabkan pohon dan petir. Dengan penerapan metode pentanahan netral transformator daya melalui tahanan tinggi 500 ohm, didapatkan arus gangguan maksimum pada penyulang Kebomas sebesar 25 A. Karena arus gangguan yang kecil, maka digunakan Directional Ground Relay ( DGR ) sebagai rele pengaman gangguan hubung singkat 1 fasa ke tanah. DGR bekerja berdasarkan tegangan residu dan arus residu yang timbul pada saat terjadi gangguan hub ung singkat 1 fasa ke tanah. Untuk mendeteksi tegangan residu digunakan Grounding Potential Transformer (GPT) dan untuk mendeteksi arus residu digunakan Zero Current Transformer (ZCT). Pada penyulang Kebomas, setting tegangan DGR adalah pada tap Vo = 10 Volt dan setting arus pada tap Io = 2 A (pada primer ZCT).",
+  "creators": "SEPTERIADY NGUBEL",
+  "contributors": "Ir. M.TABRANI MACHMUDSYAH (Advisor 1); Emmy Hosea (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 01/472/ELK/2003; Septeriady Ngubel (23499128)",
+  "subjects": "ELCTRIC POWER SYSTEMS-PROTECTION; PROTECTIVE RELAYS"
+}

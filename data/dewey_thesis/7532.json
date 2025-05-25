@@ -1,0 +1,14 @@
+{
+  "id": "7532",
+  "title": "Perancangan dan pembuatan perangkat lunak perwarnaan obyek secara 3 dimensi",
+  "abstract": "Perkembangan dunia teknologi di bidang komputer grafis tiga dimensi yang sangat pesat, menyebabkan komputer dapat menampilkan obyek-obyek tiga dimensi dengan kecepatan tinggi. Obyek tiga dimensi ini disebut sebagai mesh yang tersusun atas beberapa face yang berbentuk segitiga. Namun masih terdapat kesulitan dalam pemodelan obyek tiga dimensi ini, yaitu saat memberikan warna, karena satu face hanya memiliki satu warna saja. Perangkat lunak yang dibuat pada tugas akhir ini berusaha untuk bisa mewarnai obyek tiga dimensi tanpa dibatasi kesulitan tersebut. Konsep pewarnaan dari perangkat lunak ini seperti menyemprotkan cat pada patung. Metode yang dipakai dibuat sendiri, dimana langkah-langkah yang dipakai adalah, pertama-tama dibuat sebuah texture yang dapat mewakili pewarnaan pada face dari obyek tersebut. Kemudian mendeteksi titik yang ingin diwarnai lalu menyimpan pewarnaan itu ke dalam texture. Setelah selesai, perangkat lunak menyimpan data itu dalam bentuk file obyek tiga dimensi dan file bitmap untuk texture-nya. Pengujian terhadap perangkat lunak ini menunjukkan bahwa perangkat lunak bisa mewarnai pada koordinat titik yang ingin diwarnai dengan tepat. Kesimpulan dari pengujian adalah perangkat lunak ini hanya dapat membaca file obyek tiga dimensi dengan jumlah face kurang dari 5000 face.",
+  "creators": "STEVEN CHRISTIANSEN M",
+  "contributors": "Kartika Gunadi (Advisor 1); Liliana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000429/INF/2005; Steven Christiansen Megaprawira (26401128)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

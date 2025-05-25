@@ -1,0 +1,14 @@
+{
+  "id": "10439",
+  "title": "Struktur neuro-fuzzy tipe mimo-ts menggunakan LMA-training untuk electrical load time series data forecasting",
+  "abstract": "Struktur jaringan neuro-fuzzy merupakan salah satu sistem yang dapat digunakan untuk meramalkan data time series. Salah satu data time series yang dapat diramalkan dengan menggunakan struktur jaringan neuro-fuzzy adalah data beban listrik suatu perusahaan atau negara. Struktur jaringan neuro-fuzzy yang digunakan untuk meramalkan beban listrik Jawa Timur-Bali ini, dibuat menggunakan Gaussian Membership Function sebagai fungsi membership dari Takagi Sugeno fuzzy logic system (FLS). Output dari sistem fuzzy ini kemudian dimasukan dalam sebuah algoritma training yaitu Levenberg-Marquardt algorithm (LMA) training untuk memperbaiki parameter-parameter yang dimiliki sehingga sistem dapat menghasilkan Output dengan error yang kecil. Data beban listrik yang digunakan untuk training adalah data beban listrik Jawa Timur-Bali dari 1 September 2005 - 31 Desember 2006. Hasil yang diperoleh dari pengujian sistem adalah untuk short term forecasting data beban listrik Jatim-Bali bulan Januari 2007 - Maret 2007, didapatkan Mean Square Error (MSE) sebesar 0,0010 dan untuk hasil long term forecasting bulan juni 2007 - Agustus 2007 didapatkan MSE sebesar 0.0011.",
+  "creators": "HENRY KUSWANTO",
+  "contributors": "Felix Pasila (Advisor 1); Hany Ferdinando (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010848/ELK/2007; Henry Kuswanto (23403076)",
+  "subjects": "TIME-SERIES ANALYSIS; FORECASTING-STATISCAL METHODS"
+}

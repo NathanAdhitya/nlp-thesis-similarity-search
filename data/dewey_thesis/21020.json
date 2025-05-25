@@ -1,0 +1,14 @@
+{
+  "id": "21020",
+  "title": "Pulse massager berbasis PC",
+  "abstract": "Dalam dunia kesehatan atau lebih dikenal dengan \"Health Care\" banyak diciptakan alat yang berguna bagi konsumen. Pulse Massager ini dihubungkan dengan tubuh melalui dua buah pad khusus (mengandung semacam gel khusus) sehingga arus listrik (arus kecil) yang dihasilkan dapat mencapai jaringan saraf dan menimbulkan efek pijatan. Data Pulse Massager ini direkam PC dalam bentuk file audio secara digital. Metode PCM {pulse code modulation) digunakan karena merupakan standar perekaman data analog secara digital. Format wave audio dipergunakan untuk memperoleh hasil perekaman yang sangat bagus. Playback dilakukan oleh PC dengan mempergunakan fasilitas sound card. Power amplifier yang dipergunakan pada proses playback ini adalah Op-Amp 741 karena dapat mengakomodasi tegangan dan arus yang dibutuhkan. Output dari pulse massager berbasis PC lebih rendah daripada output OMRON HV-F125 (selisih sebesar 25,91%) menjadikan alat ini sebagai suatu pilihan yang aman dalam pemakaian.",
+  "creators": "SAMUEL KRISTANTO",
+  "contributors": "Felix Pasila (Advisor 1); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/587/ELK/2003; Samuel Kristanto (23497062)",
+  "subjects": "CATHODE RAY OSCILLOSCOPE"
+}

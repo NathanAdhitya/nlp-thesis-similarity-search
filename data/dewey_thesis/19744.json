@@ -1,0 +1,14 @@
+{
+  "id": "19744",
+  "title": "Perancangan dan pembuatan aplikasi data mining multidimensional dengan metode dbscan clustering pada bagian sirkulasi Perpustakaan Universitas Kristen Petra",
+  "abstract": "Pada Perpustakan UK Petra, proses sirkulasi yang terjadi setiap harinya dapat mencapai puluhan bahkan ratusan transaksi peminjaman, pengembalian maupun perpanjangan bahan pustaka. Pada dasarnya berdasarkan transaksi-transaksi tersebut ada banyak informasi yang bisa diperoleh oleh pihak perpustakaan seperti misalnya, informasi tentang keterkaitan profile anggota perpustakaan dan transaksi sirkulasi. Oleh sebab itu, perlu diimplementasikan suatu sistem atau aplikasi dimana dokumentasi transaksi sirkulasi tersebut diklasifikasikan kedalam kelompok-kelompok clusters yang berisikan dokumen-dokumen dengan klasifikasi yang sama sehingga diperoleh informasi yang bermanfaat dalam pengambilan keputusan. Pada Tugas Akhir ini, dibuat suatu aplikasi clustering untuk mengelompokkan dokumen hasil pencarian kedalam kelompok dokumen yang memiliki klasifikasi yang sama, dimana hasil pencarian diterima sebagai input-an untuk membentuk clusters. Pengelompokkan data dilakukan dengan menggunakan metode Density-based Spatial Clustering of Application with Noise (DBSCAN), yang merupakan algoritma untuk membentuk cluster dengan ukuran dan density yang minimal. Berdasarkan hasil pengujian sistem, cluster yang dihasilkan sudah cukup baik, dalam arti dapat mengelompokkan data-data yang berkolerasi atau memiliki klasifikasi yang sama. Diharapkan sistem dapat dikembangkan lagi terutama dengan ciri yang lebih cepat dalam proses kombinasi cluster.",
+  "creators": "TONNY LIUSYANTORO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Alexander Setiawan (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020941/INF/2010; Tonny Liusyantoro (26406156)",
+  "subjects": "DATA MINING; DATABASE SEARCHING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2782",
+  "title": "Perancangan dan pembuatan sistem informasi penggajian dan cuti karyawan CV. Global Solusi Media",
+  "abstract": "CV. Global Solusi Media adalah sebuah perusahaan yang bergerak dibidang penjualan alat - alat / komponen listrik serta melayani jasa pemasangan panel - panel listrik ke pabrik - pabrik. Sistem penggajian dan cuti karyawan pada CV. Global Solusi Media saat ini masih menggunakan sistem manual, di mana perhitungan gaji dan sisa cuti karyawan dilakukan secara manual dan absensi masih menggunakan kertas absensi. Untuk menangani masalah tersebut dibutuhkan suatu sistem baru yang lebih efisien. Proses perancangan dan pembuatan program diawali dengan mempelajari dan menganalisis sistem perusahaan saat ini kemudian menyusun dan membuat DFD, ERD, table - tabel yang dibutuhkan, setelah itu membuat program. Perancangan program meliputi beberapa modul, antara lain: program absensi karyawan dengan menggunakan entry komputer dan program perhitungan gaji karyawan secara otomatis. Proses yang lain seperti : cuti karyawan, perhitungan lembur dan piket karyawan. Setiap user mempunyai kode user dan password berbeda untuk dapat menentukan menu program yang dapat diakses. Sistem operasi yang digunakan adalah Windows XP, pembuatan database dengan Microsoft Access XP, dan untuk pengembangan program menggunakan Borland Delphi 7. Dengan adanya program yang menangani sistem penggajian dan cuti pada CV. Global Solusi Media, proses perhitungan penggajian dan cuti karyawan menjadi lebih akurat sebab dilakukan oleh komputer secara otomatis, dimana dalam sistem yang lama masih menggunakan perhitungan manual. Program dapat menampilkan laporan - laporan seperti : laporan data karyawan, laporan absensi karyawan, laporan cuti karyawan, laporan kerja lembur, laporan gaji karyawan dan membuat slip gaji.",
+  "creators": "WIJANARKO",
+  "contributors": "Kartika Gunadi (Advisor 1); Silvia Rostianingsih (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000357/INF/2005; Wijanarko (26498085)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

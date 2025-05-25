@@ -1,0 +1,14 @@
+{
+  "id": "16830",
+  "title": "Perencanaan dan pembuatan sistem telepon bergerak menggunakan microcontroller 8031 dengan bantuan handy transceiver (HT)",
+  "abstract": "Kebutuhan akan sambungan telepon dirasakan semakin meningkat terutama bagi yang mengadakan perjalanan bisnis atau yang sering berada di lapangan. Dengan demikian keberadaan telepon umum menjadi kebutuhan penting bagi yang berada dalam situasi demikian, sayangnya saat ini fasilitas telepon umum tidak banyak tersedia, ditambah lagi dengan kondisi bahwa akhir-akhir ini tidak sedikit telepon umum yang rusak oleh tangan-tangan jahil. Sementara pemakaian handphone menuntut pembayaran pulsa yang tidak murah. Pada tugas akhir ini dibuat suatu sistem telepon bergerak dengan menggunakan telepon rumah yang dihubungkan dengan sistem kontrol dan menggunakan pesawat Handy Transceiver (HT). Sehingga penggunanya dapat dengan bebas menggunakan telepon rumah dimanapun, asalkan masih dalam jangkuan pemancar dan penerima HT yang dipergunakan. Diharapkan dengan sistem ini, pemakainya dapat merasakan keuntungan layaknya menggunakan sebuah handphone, tetapi tanpa dibebani pembayaran pulsa handphone yang mahal. Dan hanya membayar pulsa telepon rumah yang jauh lebih murah. Secara garis besar, peralatan yang direncanakan terdiri dari rangkaian on/off hook elektronik, rangkaian ringing detector, rangkaian Dual Tone Multi Frequency (DTMF), rangkaian keyboard dan rangkaian pengontrol 8031. Saat ingin menggunakan sistem ini, pertama-tama kontroller melihat apakah nada DTMF yang dimasukkan user melalui keypad HT sesuai dengan yang telah ditetapkan, jika terjadi kesesuaian maka kontroller akan mengaktifkan rangkaian on/off hook secara elektronik, sehingga sambungan telepon terjadi. Sebaliknya jika terjadi ketidaksesuaian password, maka kontroller akan memberi kesempatan 3 kali kepada user untuk memasukkan password tersebut, jika password yang dimasukkan user masih tetap salah, sistem secara otomatis akan di non-aktifkan, dan dapat di aktifkan kembali dengan mereset dalam kondisi awalnya. Setelah digunakannya sistem ini, maka efektifitas kerja dapat lebih ditingkatkan lagi, disamping itu dapat mengadakan sambungan telepon dengan biaya yang murah. Sistem yang dibuat ternyata mengalami kegagalan, hal ini disebabkan karena DTMF tidak dapat bekerja dan program terus mengalami polling.",
+  "creators": "SOENGKONO IRAWAN",
+  "contributors": "HERLIANTO TENGGARA (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/017/316; Soengkono Irawan (23485119)",
+  "subjects": "MICROCONTROLLER 8031; TELEPHONE SYSTEMS"
+}

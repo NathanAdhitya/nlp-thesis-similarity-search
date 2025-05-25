@@ -1,0 +1,14 @@
+{
+  "id": "5440",
+  "title": "Perancangan dan pembuatan sistem informasi penjualan dan pembelian suku cadang mobil dan sepeda motor pada toko Utama Motor Gorontalo",
+  "abstract": "Toko Utama Motor adalah perusahaan yang bergerak di bidang penjualan suku cadang mobil dan sepeda motor (spare parts). Sistem pembelian dan penjualan Toko Utama Motor saat ini menggunakan sistem manual, di mana semua transaksi dan administrasi masih menggunakan media kertas dan kalkulator. Hal tersebut mengakibatkan banyak terjadi kekeliruan dalam pencatatan sehingga data-data yang dihasilkan tidak akurat. Untuk pengembangan usahanya, maka dibutuhkan suatu sistem baru untuk dapat memperbaiki sistem yang dipakai saat ini. Proses perancangan dan pembuatan program di mulai dengan mempelajari dan menganalisis sistem perusahaan saat ini kemudian menyusun dan membuat DFD, ERD dan tabel-tabel yang dibutuhkan. Kemudian membuat program dengan menu utama Master Data, Penjualan, Pembelian, Hutang Piutang, Analisa, Laporan dan Exit. Sistem operasi yang digunakan adalah Windows 98, pembuatan database dengan Microsoft Access 2000, dan untuk pengembangan program menggunakan Microsoft Visual Basic 6.0. Aplikasi sistem penjualan dan pembelian yang sudah diimplementasikan bisa membuat proses pembelian dan penjualan pada Toko Utama Motor menjadi lebih terperinci sebab terdapat pencatatan setiap transaksi dan adanya laporan-laporan. Jatuh tempo pembayaran supplier dan customer dapat dilihat pada laporan. Selain itu, keamanan data dengan sistem komputerisasi lebih terjamin, karena setiap user mempunyai hak akses yang berbeda sesuai dengan bidangnya.",
+  "creators": "DAVID REINHARD",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); M. ISA IRAWAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000174/INF/2004; David Reinhard Manoy (26400191)",
+  "subjects": "DATA BASE DESIGN; DATA BASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

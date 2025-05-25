@@ -1,0 +1,14 @@
+{
+  "id": "49067",
+  "title": "Pemanfaatan simplex noise untuk menghasilkan map yang natural dengan unity engine",
+  "abstract": "Dalam pengembangan sebuah game, terrain adalah hal pertama yang akan dilihat dalam permainan. Landscape, asset pada terrain, dan bentuk kurvator pada terrain akan memberikan suasana yang memberikan pengalaman bermain yang menyenangkan, menegangkan, ataupun menakutkan. Akan tetapi proses pembuatan terrain membutuhkan waktu yang lama karena setting terrain yang dilakukan oleh developer, apalagi jika developer butuh membuat beberapa terrain dengan parameter yang mirip. Tidak hanya itu, terrain yang dihasilkan oleh developer sendiri akan menjadi repetitif, karena banyaknya kemiripan antara satu terrain dengan yang lain. Agar menghindari hal ini, lebih baik bila menggunakan Procedural Content Generator atau PCG untuk membuat sebuah base terrain untuk proyek. Simplex noise adalah sebuah metode PCG untuk mengenerate height map pada terrain untuk dikembangkan oleh developer. Terrain yang telah berhasil di generate dapat dijelajahi oleh player, dan untuk menghindari rasa slump karena repetitif dari terrain setiap kali terrain di generate, surface dari terrain akan berubah. Penelitian kali ini akan berfokus pada pengimplementasian simplex noise dalam men generate sebuah base terrain untuk game 3D dengan menggunakan C# dari unity. Simplex noise akan men generate 3 macam biome yaitu forest, savanna, mountain. Perlin noise akan diimplementasikan sebagai metode pembanding, perlin noise akan men generate biome yang sama seperti simplex noise dengan variabel-variabel yang sama juga. Program ini ditujukan untuk melihat surface yang di generate oleh kedua metode. Penelitian ini menguji beberapa model terrain dengan melihat seberapa hasil dari simplex generated terrain dan perlin generated terrain dapat membuat variasi dari terrain. Terrain akan berubah setiap kali metode generate dijalankan. Pada akhir penelitian, ditemukan bahwa perlin memiliki keunggulan untuk membuat terrain yang memiliki tinggi yang rendah dan simplex memiliki kelebihan untuk membuat terrain yang tinggi.",
+  "creators": "CALVIN VIONALDY TJIANDRA",
+  "contributors": "Rudy Adipranata (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Liliana (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010022027/INF/2021; Calvin Vionaldy Tjiandra (26416063)",
+  "subjects": "COMPUTER GAMES--PROGRAMMING"
+}

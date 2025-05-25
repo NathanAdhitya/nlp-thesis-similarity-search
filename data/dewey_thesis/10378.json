@@ -1,0 +1,14 @@
+{
+  "id": "10378",
+  "title": "Perencanaan dan pembuatan kontrol kecepatan motor DC seri dengan daya maksimum 1/4 PK, 24 VDC yang dapat diatur forward, break dan reverse dengan aplikasi ban berjalan",
+  "abstract": "Motor DC merupakan motor yang paling banyak dipergunakan dalam kehidupan. Motor DC adalah motor yang penggeraknya berupa sumber tegangan searah. Secara struktural motor DC mempunyai copper commutator dan carbon atau metal brushes. Pemakaian dari motor DC dapat dijumpai di mainan-mainan, mobil, radio-controlled, alat transportasi barang, dan masih banyak lagi. Pada masa sekarang ini, masih banyak dijumpai kontrol dari ban-ban berjalan masih dilakukan secara manual. Jika barang yang ditransportasikan melalui ban berjalan tersebut banyak maka diperlukan kontrol automatic yang dapat mengatur arah putaran dan kecepatan ban berjalan tersebut. Melalui buku tugas akhir ini, penulis membuat rangkaian driver untuk motor DC. Alat ini berkemampuan mengontrol kecepatan motor DC yang dapat diatur forward, reverse, dan break dengan aplikasi ban berjalan. Dimana perlu diantisipasi dengan mengatur putaran pada motor yang fungsinya untuk menjalankan ban berjalan supaya sesuai dengan yang di kehendaki. Metode yang dipergunakan disini adalah mengatur tegangan dari DC konverter yang akan digunakan untuk menjalankan motor DC seri. Umpan balik kecepatan diberikan oleh optcoupler/opto interrupter yang dipasang pada motor. Mikrokontroler bertugas memantau kecepatan dan mengatur waktu penyalaan dari SCR sebagai komponen utama dari DC konverter. Penulis menyadari bahwa kontrol motor DC ini, masih jauh dari kesempurnaan. Semoga dapat berguna bagi para pembaca.",
+  "creators": "GUNAWAN SANTOSO",
+  "contributors": "BUNAWI GUNAWIDJAJA (Advisor 1); Andojo Ongkodjojo (Advisor 2); ONTOSENO PENANGSANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.96/E/TST/035/0189; Gunawan Santoso (23491157)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; ELECTRIC MOTOR, DIRECT CURRENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "45695",
+  "title": "Aplikasi pengenalan plat nomor kendaraan negara Indonesia menggunakan metode Support Vector Machine (SVM)",
+  "abstract": "Sistem pengenalan plat nomor merupakan salah satu teknik yang dapat membantu dalam proses pengolahan data plat nomor dengan menggunakan image processing. Dalam penelitian ini dibagi menjadi dua bagian yaitu metode pada proses pelatihan (training) dan proses pengenalan plat nomor menggunakan klasifikasi SVM. Pemrosesan awal gambar meliputi preprocessing lalu dilanjutkan dengan mencari lokasi plat nomor dan melakukan segmentasi setiap karakter yang ada dari plat nomor tersebut. Karakter yang sudah disegmentasi akan dicek menggunakan SVM. Hasil pengujian menunjukkan keberhasilan yang cukup memuaskan, tingkat akurasi keberhasilan pengenalan plat nomor mencapai 79,64%.",
+  "creators": "TIMOTHY TAMARA",
+  "contributors": "Rudy Adipranata (Advisor 1); Rolly Intan (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021861/INF/2019; Timothy Tamara (26414057)",
+  "subjects": "IMAGE PROCESSING--DIGITAL TECHNIQUES--SOFTWARE; IMAGE PROCESSING--DIGITAL TECHNIQUES"
+}

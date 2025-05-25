@@ -1,0 +1,14 @@
+{
+  "id": "33655",
+  "title": "Pembuatan aplikasi sistem administrasi pada toko Orbit Perdana",
+  "abstract": "Toko Orbit Perdana merupakan toko yang bergerak di bidang penjualan barang elektronik rumah tangga. Proses pada toko ini masih dilakukan secara semi-manual, untuk penerimaan order, pemesanan barang, dan pencatatan stok dilakukan secara manual. Namun untuk pembuatan list harga barang dilakukan secara komputerisasi. Hal ini dapat membawa dampak buruk bagi perusahaan. Misalnya, untuk pencatatan bisa terjadi kesalahan perhitungan yang bisa membawa kerugian bagi perusahaan, kemudian di penerimaan order, yang tidak bisa menyalahkan daya ingat manusia yang terbatas sehingga bisa membuat seseorang itu lupa, hal tersebut dapat mengecewakan customer sehingga perusahaan dinilai kurang oleh para customer. Sedangkan di bagian pemesanan barang, bisa terjadi miskomunikasi antara owner yang memesan barang dengan supplier, yang bisa juga membawa kerugian bagi perusahaan seperti penyetokan barang yang berlebihan. Berdasarkan permasalahan yang sedang dihadapi, maka dirancanglah aplikasi sistem administrasi ini dengan tujuan akan memberikan hasil dari kinerja perusahaan dari pencatatan pesanan, pemesanan order, dan laporan perusahaan. Program ini menggunakan Microsoft Visual Basic .Net 2010 untuk interface dan Microsoft SQL Server 2005 untuk database. Berdasarkan hasil pengujian, aplikasi ini dapat mencatat data perusahaan, dari supplier, customer, stok barang, hutang dan piutang, retur jual dan beli, dan laporan. Aplikasi juga dapat memberikan keleluasaan pada owner untuk dapat melakukan pengisian data master tanpa harus melalui aplikasi secara langsung.",
+  "creators": "WIDYANTO UTAMA",
+  "contributors": "Alexander Setiawan (Advisor 1); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021366/INF/2015; Widyanto Utama (26409047)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

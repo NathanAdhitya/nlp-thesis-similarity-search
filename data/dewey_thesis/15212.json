@@ -1,0 +1,14 @@
+{
+  "id": "15212",
+  "title": "Studi banding dan pembuatan aplikasi sederhana hidden surface removal",
+  "abstract": "Untuk menggambarkan objek tiga dimensi diperlukan suatu algoritma yang sering disebut Hidden surface removal. Hidden surface removal ini merupakan suatu algoritma yang digunakan untuk menghilangkan bagian yang tertutup oleh objek yang didepannya. Bilamana ada dua bidang yang berpotongan, bilamana ditampilkan biasa tanpa menggunakan algoritma Hidden surface removal maka bagian yang berpotongan itu akan tidak kelihatan oleh karena bagian yang satu di tutupi oleh bagian yang lain tanpa memotong. Oleh karena itulah untuk menampilkan perpotongan pada keadaan yang sebenarnya maka diperlukan Algoritma Hidden surface removal. Pada Studi ini dibandingkan dua algoritma yaitu algoritma Z buffer dan algoritma Scan line. Algoritma Z buffer melaksanakan proses Hidden Surface Removal dengan memasukkan warna dan kedalaman bidang permukaan yang tampak ke dalam buffer, dan kemudian setelah selesai hasilnya ditampilkan ke layar. Algoritma Scan Line melakukan scaning untuk setiap baris dari layar bidang gambar untuk setiap permukaan objek pada ruang tiga dimensi dan menampilkan hasilnya setelah melaksanakan proses setiap baris scamrcg-ny&Penerapan algoritma menampilkan beberapa objek dengan input dari file text. Kedua algoritma ini akan dibandingkan berdasarkan besar memori yang digunakan oleh masing-masing algoritma, berdasarkan waktu yang dipergunakan oleh masing-masing algoritma. Studi banding algoritma Hidden surface removal ini dengan mempergunakan bahasa pemrograman Borland Delphi 2. Untuk mengukur kecepatan masing algoritma dipergunakan counter waktu internal komputer yang bisa diambil dengan program Delphi 2. Dari hasil penelitian didapatkan bahwa algoritma Scan Line lebih unggul daripada algoritma Z Buffer bilamana objek yang ditampilkan pada bidang gambar mengumpul pada baris y atau mempunyai jumlah proses baris bidang gambar yang sedikit. Sedangkan Z Buffer akan berkembang menjadi lebih unggul dari pada Scan Line bila objek yang digambar menyebar dan mempergunakan keseluruhan baris pada bidang gambar dengan bidang permukaan yang digambar semakin banyak.",
+  "creators": "DODY IRWIN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Rolly Intan (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/Kom/017/021; Dody Irwin (23492205)",
+  "subjects": "COMPUTER GRAPHICS-EQUIPMENT AND SUPPLIES"
+}

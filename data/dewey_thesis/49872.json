@@ -1,0 +1,14 @@
+{
+  "id": "49872",
+  "title": "Pengenalan objek untuk mendeteksi cacat kemasan pada sistem otomatis berbasis PLC",
+  "abstract": "Pendeteksian cacat pada kemasan merupakan sebuah kebutuhan bagi industri manufaktur karena kemasan memiliki peranan yang sangat penting. Saat ini, pendeteksian cacat sudah beralih dari pengecekan secara manual menjadi otomatis untuk meningkatkan efisiensi. Oleh karena itu dibutuhkan sebuah sistem yang dapat mengakomodasi kebutuhan ini. Sistem yang akan dibuat pada skripsi ini akan menggunakan Nvidia Jetson Nano sebagai edge computing device yang akan mengimplementasikan algoritma pengenalan objek berbasis deep learning YOLOv3-tiny untuk melakukan defect detection, PLC Siemens S7-1200 sebagai alat kontrol, dan Node-RED sebagai monitoring. Berdasarkan hasil pengujian, sistem berhasil melakukan pendeteksian cacat dent dan scratch pada kardus susu 115 ml. Sistem memiliki performa 2-3 FPS dengan inference time 0.14 detik. Sistem dapat berjalan pada variasi kecepatan konveyor 0.13-0.24 m/s dengan tingkat keberhasilan mencapai 94% dan rata-rata confidence 70.1%. Kecepatan paling optimal berada pada 0.16 m/s",
+  "creators": "JOSHUA ALEXANDER HERIYANTO",
+  "contributors": "Handy Wicaksono (Advisor 1); Resmana Lim (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011013/ELK/2021; Joshua Alexander Heriyanto (C11170012)",
+  "subjects": "COMPUTING ENGINEERING; QUALITY CONTROL; AUTOMATION"
+}

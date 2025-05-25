@@ -1,0 +1,14 @@
+{
+  "id": "42073",
+  "title": "Perancangan dan pembuatan website e-commerce penjualan spare part UD Cahaya Agung Motor",
+  "abstract": "UD Cahaya Agung Motor yang terletak di Makassar, Sulawesi Selatan mengalami masalah dengan customer yang berada di luar kota, mereka harus datang ke UD untuk membeli barang yang mereka inginkan atau memesan barang melalui telepon atau SMS. Jika UD sedang ramai pembeli, owner atau karyawan akan susah untuk mengangkat telepon atau melayani SMS customer, akibatnya customer akan terabaikan dan beralih ke toko lain untuk membeli barang. Untuk mengatasi masalah yang ada maka pada skripsi ini dikembangkan website yang berbasis e-commerce yang memudahkan customer dalam membeli barang yang diinginkan tanpa harus datang ke UD untuk membeli. Perancangan website ini didesain menggunakan Data Flow Diagram (DFD), Entity Relationship Diagram (ERD) menggunakan Bahasa pemograman PHP dan HTML dan MySQL sebagai software database. Di dalam website ini terdapat berbagai Informasi yang dibutuhkan oleh customer, seperti dapat mengetahui merk, gambar dan harga spare part sehigga customer dapat mengetahui lebih jelas spare part yang akan dibeli. Untuk pembayaran customer juga dapat memilih jenis pembayaran yang disediakan seperti kartu kredit, transfer dan rekening bersama. Website ini juga terdapat informasi master data seperti daftar penjualan, master customer, master retur dan master barang pada halaman admin dan data laporan seperti laporan penjualan, stok barang dan laporan retur yang dapat dilihat oleh owner. Hasil dari perancangan aplikasi yang dibuat adalah website e-commerce yang dapat membantu customer dalam melakukan pembelian 24 jam dan dapat dijangkau seluruh Indonesia. Kesimpulan yang diperoleh dari pengujian website yang dilakukan oleh customer dan admin yaitu bahwa website ini sudah berjalan dengan baik sesuai dengan keinginan user dan website ini membantu dalam meningkatkan efisiensi kerja bagi pemilik UD dan memberikan informasi yang cepat dan user friendly.",
+  "creators": "CINDY CHANDIARIE",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021734/INF/2017; Cindy Chandiarie (26413148)",
+  "subjects": "ELECTRONIC COMMERCE--COMPUTER PROGRAMS; INTERNET (COMPUTER NETWORK); WEBSITES-DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "48440",
+  "title": "Sistem presensi mahasiswa berbasis animated qr code menggunakan raspberry pi",
+  "abstract": "Kini penggunaan teknologi di bidang teknologi sistem informasi telah merambah semakin luas di segala bidang, termasuk dalam institusi pendidikan. Sistem presensi saat ini yang sedang berjalan pada sistem belajar mengajar di beberapa institusi pendidikan masih menggunakan cara konvensional. Hal ini menyebabkan membutuhkan waktu lebih lama dalam proses presensi. Penelitian terdahulu telah mengimplementasikan QR Code ditambahkan pada aplikasi Mobile System. Fitur presensi dengan menggunakan QR Code dapat ditemukan pada menu Jadwal dan Absen. Presensi secara otomatis akan mengikuti jumlah pertemuan yang sudah dilakukan. Maka dengan diskripsi ini akan dilakukan perancangan dan membuat suatu alur kerja sistem presensi dengan pengoptimalan QR Code yang dilengkapi dengan Animated, sehingga dapat berjalan dengan menggunakan aplikasi Android serta menggunakan sistem Raspberry Pi 4 yang dilengkapi dengan camera untuk membaca Animated QR Code, dimana data siswa tersebut akan dikirim kedalam database dengan menggunakan koneksitivitas Internet. Berdasarkan hasil pengujian yang telah dilakukan, Siswa berhasil mendapatkan sebuah Animated QR Code sebagai data presensi dengan melakukan Login didalam aplikasi yang tersabung dalam jaringan Internet dan melakukan penyimpanan data presensi didalam Database. Camera Raspberry Pi mampu membaca Animated QR Code dari aplikasi Android dengan membutuhkan waktu beberapa detik menggunakan Raspberry Pi 4. Mempermudah siswa dalam melakukan presensi menggunakan aplikasi berbasis Android.",
+  "creators": "MICHAEL ANGGREAWAN ALEXANDER",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Indar Sugiarto (Advisor 2); Andreas Handojo (Examination Committee 1); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021988/INF/2020; Michael Anggreawan Alexander (26414118)",
+  "subjects": "QR CODES; RASPBERRY PI (COMPUTER)--PROGRAMMING"
+}

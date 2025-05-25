@@ -1,0 +1,14 @@
+{
+  "id": "5153",
+  "title": "Perancangan dan pembuatan embedded web cam dengan mikrokontroller MCS-51",
+  "abstract": "Dewasa ini teknologi internet berkembang sangat pesat sehingga mendukung kemunculan peralatan yang embedded. Dengan teknologi embedded ini akan memudahkan untuk menghubungkan berbagai macam peralatan ke jaringan internet. Salah satunya aplikasinya adalah peralatan monitoring untuk tempat kerja. Umumnya pada jaman ini pada gedung-gedung perusahaan, baik pabrik maupun kantor sudah terpasang jaringan ethernet untuk menghubungkan komputer-komputer yang ada di perusahaan itu. Dengan memanfaatkan jaringan itu bisa digunakan untuk memasang embedded web cam untuk memudahkan monitoring suatu tempat. Embedded Web Cam itu terdiri dari embedded web server SitePlayer, kamera CMUcam, dan mikrokontroler MCS-51. SitePlayer digunakan untuk menghubungkan mikrokontroler ke jaringan ethernet. Akses ke peralatan tersebut menggunakan komputer untuk memudahkan interface dan fleksibilitas. Pengguna mengakses web pages di embedded web server SitePlayer melalui web browser. Dari browser yang terdapat Java Applet untuk interface dengan sistem. Embedded Web Cam ini dapat menampilkan gambar dalam satu subnet (pada jaringan lokal) dengan menggunakan protokol UDP dengan waktu sekitar 56 detik. Bila digunakan untuk aplikasi keamanan yang membutuhkan pengamatan secara kontinyu, sistem ini kurang dapat diandalkan karena jeda waktu antar pengambilan gambar cukup lama.",
+  "creators": "SAPTO JAYADI SUTANDI",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); David Sundoro (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010682/ELK/2004; Sapto Jayadi Sutandi (23499075)",
+  "subjects": "COMPUTER INTERFACE; JAVA (COMPUTER PROGRAM)"
+}

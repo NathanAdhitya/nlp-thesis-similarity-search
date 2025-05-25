@@ -1,0 +1,14 @@
+{
+  "id": "17122",
+  "title": "Pengontrolan beban pada pembangkit listrik mini dengan menggunakan programmable logic controller",
+  "abstract": "Pembangkit mikrohidro merupakan pilihan yang tepat bagi pemenuhan kebutuhan energi di daerah-daerah terpencil /pedesaan yang jauh dari jaringan listrik atau distribusi PLN . Pembangkit mikrohidro memanfaatkan sumber potensi tenaga air yang banyak terdapat didaerah pedesaan seperti sungai, air terjun atau saluran pengairan/irigasi sebagai pemutar turbin. Masalah yang sering dihadapi adalah putaran turbin yang berubah jika terjadi perubahan beban, pengaturan putaran dengan mengatur aliran air dengan menggunakan governor sangat mahal. Untuk itu dibuat suatu pengatur beban secara elektronis yang mengatur beban generator agar senantiasa konstan dengan menggunakan Programmable Logic Controller (PLC) yang dapat mengurangi biaya kapital pembangkit mikrohidro mandiri yang beroperasi hanya dengan satu unit saja. Penggunaan PLC dipilih dengan pertimbangan instalasi pengoperasian dan perawatannya cukup sederhana dengan harga yang relatif murah bila dibandingkan dengan harga governor. PLC digunakan untuk mengontrol perubahan beban yang besar dengan tanggapan yang cepat dengan mengontrol beban komplemen yang ditambahkan pada keluaran generator sehingga beban selalu konstan. Untuk mendapatkan gambaran tentang sistem ini dibuat suatu simulasi beban yang terhubung pada generator. Dalam simulasi ini dengan adanya beban komplemen yang akan mengimbangi perubahan dari beban konsumen, tegangan akan selalu konstan pada tegangan nominalnya yaitu 220 V. Generator yang digunakan untuk menggambarkan pembangkit mikrohidro adalah generator sinkron tiga fasa dengan beban seimbang tiga fasa untuk menggambarkan beban konsumen maupun komplemennya. Dari pengujian didapatkan PLC memberikan antipasi yang cepat pada setiap perubahan beban yang terjadi sehingga beban selalu pada kondisi beban penuh dengan tegangan yang konstan. Beban komplemen yang sesungguhnya dapat berupa pemanas, pompa atau lainnya sesuai dengan kebutuhan sehingga penggunaan daya dapat optimal.",
+  "creators": "IRA DIAH ARMELIA",
+  "contributors": "BUNAWI GUNAWIDJAJA (Advisor 1); Resmana Lim (Advisor 2); IDHAM KHALID PURBA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/TST/028/182; Ira Diah Armelia (23490090)",
+  "subjects": "AUTOMOBILE INDUSTRY AND TRADE; MANUFACTURING PROCESSES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "27588",
+  "title": "Perancangan dan pembuatan aplikasi perhitungan harga pokok produksi dengan metode process costing pada Toko Han's Bakery",
+  "abstract": "Sebuah toko yang bergerak dalam bidang produksi roti, Toko Han’s Bakery saat ini tidak memiliki sistem perhitungan harga pokok produksi. Dengan tidak adanya perhitungan biaya tersebut, maka pihak toko tidak dapat mengetahui berapa hasil produksi tersebut. Serta tidak ada pencatatan bahan baku dan berapa bahan baku yang dikeluarkan pada saat produksi. Berdasarkan latar belakang permasalahan itu maka dirancang sistem perhitungan Harga Pokok Produksi yang dapat mengatasi permasalahan tersebut. Proses perancangan sistem dari aplikasi ini melalui beberapa tahap, pertama melakukan survey sistem produksi, analisa data dan merancang desain sistem menggunakan Data Flow Diagram dan Entity Relationship Diagram. Database dibuat dengan menggunakan Microsoft SQL Server 2005. Aplikasi dibuat dengan bahasa pemrograman Microsoft Visual Studio 2005 .NET. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, dapat menyimpan bahan baku, resep roti, data customer, transaksi pemesanan bahan baku, transaksi penjualan, transaksi pemesanan penjualan, laporan kartu stok, dan sebagainya. Dari hasil pengujian, program yang dibuat dapat memproses data administrasi pada Toko Han’s Bakery sehingga menghasilkan laporan yang telah dapat memenuhi kebutuhan toko yang berjalan lebih efektif dan efisien.",
+  "creators": "INNEKE RISMADEWI",
+  "contributors": "Andreas Handojo (Advisor 1); CHRISTIAN, SE, AK (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021188/INF/2012; Inneke Rismadewi (26408134)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

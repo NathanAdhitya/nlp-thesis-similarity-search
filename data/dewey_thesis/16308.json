@@ -1,0 +1,14 @@
+{
+  "id": "16308",
+  "title": "Optimalisasi penempatan pekerja lini produksi di PT. Rajapaksi Adyaperkasa pada kondisi lintasan produksi yang seimbang",
+  "abstract": "P. T. Rajapaksi Adyaperkasa adalah sebuah perusahaan yang memproduksi sandal dari berbagai macam tipe dan ukuran. Adapun pada periode penelitian sedang diproduksi sandal type Top Dutchy, Beach Warrior, Birkenstock dan Beach Reflex. Ketidakseimbangan lintasan produksi dapat dilihat dari sering terjadinya perpindahan operator dari departemen satu ke departemen lainnya secara tidak beraturan. Hal ini mengakibatkan beban kerja operator tidak merata, dimana terdapat beberapa operator yang mendapat beban berlebihan sedangkan beberapa operator lain menganggur. Untuk mengatasi masalah ini maka dibuatlah perancangan keseimbangan lintasan gabungan dengan cara menggabungkan precedence diagram dari keempat macam produk tersebut. Disini diambil proses yang memiliki waktu proses pengerjaan maksimum dari masing-masing produk, dimana waktu proses pengerjaan yang maksimum dapat meng-cover waktu proses pengerjaan untuk masing-masing produk. Kemudian diambil waktu siklus yang paling minimum dari masing-masing produk dimana waktu siklus yang minimum ini dapat memenuhi target produksi dari keempat macam produk. Perancangan Keseimbangan Lintasan produksi dilakukan dengan cara mengelompokkan operasi-operasi kerja dalam stasiun kerja dengan membandingkan output antara Metode Helgeson-Birnie dan Metode COMSOAL, dimana akan dipilih output yang memiliki efisiensi lintasan yang maksimum dan balance delay yang minimum. Setelah melalui perhitungan, maka didapatkan output perancangan keseimbangan lintasan gabungan untuk keempat macam produk adalah sebagai berikut : terdapat 15 stasiun kerja dengan 16 operator, efisiensi lintasan 83.22 %, dan Balance Delay 16.78 %.",
+  "creators": "FREDRICH GAMALIEL S",
+  "contributors": "Kristiana Asih Damayanti (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 417/TI-008/2001; Fredrich Gamaliel S. (25496095)",
+  "subjects": "PRODUCTION PLANNING"
+}

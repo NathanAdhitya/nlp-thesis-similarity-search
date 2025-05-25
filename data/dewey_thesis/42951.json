@@ -1,0 +1,14 @@
+{
+  "id": "42951",
+  "title": "Pembuatan sistem penghitungan overall equipment effectiveness (OEE), pendataan downtime dan penerapan quick changeover untuk meningkatkan produktifitas di PT Z",
+  "abstract": "PT Z merupakan suatu perusahaan yang memproduksi filter rokok. OEE merupakan indikator guna mengetahui performa dari proses produksi. Pada PT.Z penghitungan OEE dan pengolahan data downtime masih dilakukan secara manual sehingga akan dilakukan pembuatan sistem dengan excel yang akan secara otomatis melakukan penghitungan OEE dan mengolah data downtime di PT Z supaya dapat dilakukan pemantauan terhadap tren dari OEEnya. Suatu perusahaan memiliki produktivitas yang tinggi apabila mesin yang digunakan memiliki downtime yang rendah. Salah satu penyebab downtime adalah proses set-up yang sering dilakukan karena perubahan spesifikasi pada produk. Terdapat dua macam mesin yang digunakan di PT.Z yaitu mesin Maker dan mesin Kombiner. Pada mesin Maker set-up dilakukan ketika terjadi changelength dan change diameter/convertion. Untuk mesin Kombiner set-up dilakukan ketika ada permintaan untuk change diameter/convertion. Sebuah metode yang berguna untuk mengurangi waktu set-up yaitu quick changeover dengan menerapkan metode Single Minute Exchange of Die (SMED). Tahap awal SMED dilakukan pengambilan data di lapangan lalu data diolah dengan metode SMED. Pengolahan data dimulai dari indentifikasi faktor Internal dan Eksternal step pada proses set-up dilanjutkan melakukan pemisahan kedua step tersebut. Dari Internal step dianalisis proses yang dapat dilakukan secara parallel untuk parallel set-up. Setelah itu dilakukan standarisasi terhadap proses set-up yang telah dibuat.",
+  "creators": "RIO GRAFIKA",
+  "contributors": "Oegik Soegihardjo (Advisor 1); Didik Wahjudi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011249/MES/2018; Rio Grafika (24414032)",
+  "subjects": "ASSEMBLY-LINE METHODS; MANUFACTURING PROCESSES"
+}

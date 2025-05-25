@@ -1,0 +1,14 @@
+{
+  "id": "16294",
+  "title": "Pembuatan torsimeter pada motor induksi medan rotor sangkar 3 phasa, 3 pk (1-10 nm) dengan mikrocontroller",
+  "abstract": "In this final project, were made a device that can measure a torque from 3 phase induction engine with 3 Hp power. This device consists of hardware to read sensor and software to compute and send data. The torque from the engine can be known easily, because it is directly displayed on LCD, which is shown in decimal format. The test had been done on every part from this torque meter, started from sensor linearity test, AC to DC transforming test, binary signal output test and then ended with a complete test, with sensor unattached to the engine and sensor attached to the engine. From the test, it is got an expected result, that the change of the sensor is change the displayed number on LCD. This device can read the torque of the engine, range between 1 Nm to 10 Nm with sensitivity 0,1 Nm.",
+  "creators": "FERRY JAYADI KURNIAWAN",
+  "contributors": "Limboto Limantara (Advisor 1); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/TST/039/372; Ferry Jayadi Kurniawan (23495023)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; DETECTORS-COMPUTER PROGRAMS; ELECTRIC MACHINERY, INDUCTION"
+}

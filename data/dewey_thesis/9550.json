@@ -1,0 +1,14 @@
+{
+  "id": "9550",
+  "title": "Perancangan dan pembuatan sistem perhitungan harga pokok produksi pada CV. Mustika Indah Kencana dengan metode activity based costing",
+  "abstract": "Saat ini sistem informasi perhitungan Harga Pokok Produksi (HPP) yang digunakan oleh CV. Mustika Indah Kencana masih secara manual dan perhitungannya tidak akurat, sehingga perhitungannya tidak akurat dan dokumennya mudah hilang. Berdasarkan latar belakang permasalahan tersebut, sistem informasi dibuat secara komputerisasi untuk menghitung HPP menggunakan metode operating costing. Dalam hal ini, perhitungan biaya overhead menggunakan metode activity based costing. Pembuatan aplikasi menggunakan Borland Delphi 7 sebagai bahasa pemograman dan SQL Server 2000 sebagai databasenya. Pembuatan program aplikasi dapat menyimpan data proses produksi, perhitungan cost driver rate, dan mutasi barang serta menghasilkan laporan HPP yang detail dan lebih akurat. Dari hasil pengujian dengan kuesioner yang telah dilakukan, program ini sudah berjalan sesuai dengan yang diharapkan.",
+  "creators": "ANTONIO SUGIANTO",
+  "contributors": "Oviliani Yenty Yuliana (Advisor 1); Saarce Elsye Hatane (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010692/INF/2008; Antonio Sugianto (26403065)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT-COMPUTER PROGRAMS"
+}

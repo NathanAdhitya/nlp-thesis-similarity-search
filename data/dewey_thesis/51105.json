@@ -1,0 +1,14 @@
+{
+  "id": "51105",
+  "title": "Penjadwalan produksi dan penuangan bahan baku di PT CPI Krian",
+  "abstract": "PT CPI Krian adalah sebuah perusahaan makanan ternak dengan kapasitas produksi 2000 ton per hari. Namun, pada kenyataannya PT CPI Krian hanya mampu berproduksi rata-rata 1700 ton per hari karena mesin-mesinnya memiliki idle time yang cukup besar, yakni 30 %. Idle time tersebut sebagian besar dikarenakan mesin-mesin menunggu proses sebelum atau sesudahnya dan pembersihan mesin (terjadi setiap pergantian produk yang diproduksi). Hal ini terjadi karena belum adanya sistem penjadwalan produksi dan penuangan bahan baku padahal produk yang diproduksi sangat beragam dan setiap jenis produk tersebut belum tentu melewati rute proses produksi yang sama (proses produksi bersifat skip flowshop). Berdasarkan keadaan tersebut maka di dalam tugas akhir ini dibuat suatu sistem penjadwalan produksi dan penuangan bahan baku yang terintegrasi untuk meminimasi makespan sehingga PT CPI Krian dapat mengoptimalkan produksi dan mengurangi idle time. Penjadwalan produksi ini dilakukan menggunakan dua metode, yakni metode Evolutionary Algorithm yang diolah dengan Software Premium Solver Platform kemudian dilanjutkan dengan metode komputasi secara manual. Sedangkan, untuk penjadwalan penuangan bahan baku dilakukan menggunakan Software Visual Basic. Penjadwalan produksi dan penuangan bahan baku yang terintegrasi terbukti dapat mengurangi idle time mesin-mesin sebesar ± 10%.",
+  "creators": "LILI SURYANI",
+  "contributors": "I Nyoman Sutapa (Advisor 1); Herri Christian Palit (Advisor 2); Tessa Vanina Soetanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/ 0782/IN D /2004; Lili Suryani (25400041)",
+  "subjects": "PRODUCT MANAGEMENT; PRODUCTION SCHEDULING--MATHEMATICAL MODELS"
+}

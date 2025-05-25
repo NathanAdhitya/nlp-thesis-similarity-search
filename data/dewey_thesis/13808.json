@@ -1,0 +1,14 @@
+{
+  "id": "13808",
+  "title": "Perencanaan dan pembuatan alat pengubah 1 fasa ke 3 fasa, dengan variasi tegangan dan frekwensi menggunakan PC",
+  "abstract": "Supply listrik di daerah perumahan umumnya menggunakan listrik 1 fasa, kecuali untuk rumah yang menggunakan daya besar saja. Sehingga untuk menjalankan usaha di rumah yang memerlukan supply listrik tiga fasa mengalami kesulitan, karena sebagian mesin produksi menggunakan motor tiga fasa. Untuk mengatasi masalah ini dibuat alat yang dapat merubah listrik 1 fasa menjadi 3 fasa tanpa harus merubah instalasi. Alat ini pada dasarnya mirip dengan alat yang pernah dibuat sebagai tugas akhir oleh saudara Andy Sutrisno yang berjudul, \"PERENCANAAN DAN PEMBUATAN ALAT PENGUBAH 1 FASA KE 3 FASA, 220/380V DENGAN METODE PENGGESER FASA\". Tetapi dalam alat yang dibuat ini memiliki tegangan dan frekwensi yang bervariasi . Prinsip kerjanya sinyal yang akan dikuatkan dibentuk dengan PC menggunakan bahasa pemprograman turbo pascal dan bantuan PPI Card sebagai output PC. Output dari PPI Card berupa sinyal digital sehingga harus diubah menjadi sinyal analog dengan bantuan DAC (R-2R Leader). Kemudian dikuatkan tegangan dan arusnya dengan Power amplifier sebelum dinaikkan tegangannya kembali dengan Trafo. Output Trafo inilah yang dapat digunakan untuk mensupply beban 3 fasa. Pengujian alat ini dilakukan di laboratorium, pengujian yang dilakukan adalah pengujian tanpa beban, pengujian dengan beban lampu, dan pengujian dengan beban motor tanpa beban. Hasil pengujian didapat output tegangannya berupa sinusoidal, perbedaan antara fasanya adalah 120?, dan drop tegangannya kurang dari 9 %.",
+  "creators": "HERMAWAN SETIAWAN TJOE",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/TST/012/345; Hermawan Setiawan Tjoe (23493013)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "51927",
+  "title": "Prototipe simulasi pengatur suhu dan kelembaban",
+  "abstract": "Tugas akhir ini bertujuan untuk membuat prototipe simulasi pengatur suhu dan kelembaban yang dapat diaplikasikan pada beberapa kebutuhan seperti pengaturan suhu dan kelembaban bangunan sarang burung walet. Diharapkan juga dapat menjadi solusi untuk memudahkan orang mengetahui dan mengatur suhu dan kelembaban bangunan secara otomatis tanpa perlu melakukan pengecekan secara terus menerus dan memakan waktu. Sistem ini menggunakan mikrokontroller Arduino UNO sebagai alat yang mengatur antara input dan output pada sistem. Arduino UNO digunakan untuk membaca data dari sensor DHT 22 yang menunjukkan suhu dan kelembaban. Data dari sensor DHT 22 akan dianalisa untuk dapat mengatur suhu dan kelembaban. Dalam sistem pengaturan suhu, terdapat fan exhaust yang menyala untuk mengeluarkan udara dalam ruangan. Untuk sistem pengaturan kelembaban, terdapat pompa air yang akan menyala untuk menyemportkan air ke dinding dan lantai ruangan. Terdapat juga mesin kabut yang akan menyala untuk mengalirkan uap air ke dalam ruangan agar kelembaban ruangan menjadi bertambah. Untuk mengetahui suhu dan kelembaban ruangan, terdapat LCD 16x2 yang akan menampilkan data tersebut. Adapun cara lain untuk mengetahui suhu dan kelembaban ruangan yaitu dengan menggunakan SMS (Short Message Service). Modul GSM SIM 800L yang dihubungkan dengan Arduino UNO menjadi alat yang mengakomodir sistem yang dapat memberikan data suhu dan kelembaban dengan metode AT command. Berdasarkan pengujian yang telah dilakukan penulis, prototipe simulasi pengatur suhu dan kelembaban dapat berjalan baik. Untuk mendapatkan Informasi data suhu dan kelembaban ruangan menggunakan SMS juga berjalan dengan lancar.",
+  "creators": "YOSUA SAMPARAYA",
+  "contributors": "Handry Khoswanto (Advisor 1); Heri Saptono Warpindyasmoro (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011028/ELK/2022; Yosua Samparaya (C11170025)",
+  "subjects": "AUTOMATIC CONTROL--COMPUTER PROGRAMS; HUMIDITY-CONTROL; ARDUINO (PROGRAMMABLE CONTROLLER)"
+}

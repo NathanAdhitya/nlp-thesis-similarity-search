@@ -1,0 +1,14 @@
+{
+  "id": "36575",
+  "title": "Aplikasi pencarian produk jual mobile devices dari berbagai situs e-commerce",
+  "abstract": "Situs-situs e-commerce di Indonesia menawarkan banyak produk dengan harga yang berbeda-beda. Konsumen akan kesulitan untuk melakukan pembandingan produk dengan membuka setiap web dari e-commerce yang ada. Oleh karena itu, dibuat sebuah website portal untuk konsumen agar dapat mencari dan melakukan perbandingan produk yang dicari dari setiap e-commerce yang ada. Pengerjaan skripsi ini berfokus pada fitur untuk perbandingan produk antar e-commerce. Fitur perbandingan produk memerlukan adanya server yang dapat mengambil data produk dari setiap situs e-commerce dan Gsmarena. Kemudian proses pengambilan dilanjutkan dengan parsing dan pengolahan pada setiap data produk e-commerce yang sudah didapatkan untuk disesuaikan dengan produk Gsmarena. Berdasarkan pengujian yang sudah dilakukan, waktu pengambilan data produk e-commerce dan Gsmarena bergantung pada bandwidth yang dimiliki server dan response time yang diberikan oleh masing-masing situs. Produk pada setiap e-commerce memiliki nama produk yang berbeda dengan Gsmarena, sehingga diperlukan perhitungan untuk menyesuaikan nama produk antara e-commerce dan Gsmarena.",
+  "creators": "ROBBY CHRISTIANTO WIJAYA",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021490/INF/2016; Robby Christianto Wijaya (26412005)",
+  "subjects": "ELECTRONIC COMMERCE--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); WEB SITES-DESIGN; APPLICATION SOFTWARE-DEVELOPMENT"
+}

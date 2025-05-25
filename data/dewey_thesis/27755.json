@@ -1,0 +1,14 @@
+{
+  "id": "27755",
+  "title": "Perancangan dan pembuatan sistem administrasi pada Bengkel Apollo Motor",
+  "abstract": "Bengkel Apollo Motor ini adalah salah satu unit usaha yang menjual spare part dan oli sepeda motor serta jasa servis sepeda motor yang cukup besar di Solo Baru. Sistem yang digunakan saat ini masih dilakukan secara manual. Karena itu dibutuhkan sistem administrasi baru yang dapat memperbaiki sistem yang ada sekarang ini. Perancangan dan pembuatan sistem administrasi yang baru ini dimulai dengan menganalisis masalah yang ada, kemudian membuat aliran data dalam bentuk DFD dan ERD dengan menggunakan program Power Designer 15 agar tepat dalam membuat database. Untuk membuat database digunakan program mySQL, dan aplikasinya dibuat dengan menggunakan program Microsoft Visual Basic .NET. Hasil dari pembuatan aplikasi ini adalah komputerisasi pendataan data master, data transaksi, serta menghasilkan laporan. Sehingga dapat mempermudah dalam pencatatan dengan mengurangi resiko yang ada jika menggunakan sistem pencatatan manual.",
+  "creators": "JIMMY CHRISTIYANTO",
+  "contributors": "Kartika Gunadi (Advisor 1); Silvia Rostianingsih (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021113 / INF / 2012; Jimmy Christiyanto (26407085)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING ( ELECTRONIC COMPUTER )"
+}

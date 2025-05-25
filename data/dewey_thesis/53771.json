@@ -1,0 +1,14 @@
+{
+  "id": "53771",
+  "title": "Sistem deteksi reputasi akun seller pada steam community menggunakan metode klasifikasi support vector machine",
+  "abstract": "Bermain game adalah aktivitas yang sering dilakukan oleh banyak orang dari berbagai kalangan usia, ada yang hanya mengisi waktu kosong, ada pula yang menjadikan game tersebut sebagai pekerjaan atau tempat mencari uang. Industri online gaming saat ini merupakan industri dengan nilai yang besar, yaitu sebesar $21.100.000 pada tahun 2021. Adapun Steam Community adalah sebuah online game platform yang menyediakan hampir 30000 game. Didalam platform tersebut bukan hanya memainkan game tetapi bisa melakukan transaksi sesama pengguna Steam Community. Transaksi yang dilakukan antara lain, menjual game, in-game accessories, steam wallet dan artwork. Masalah yang dihadapi adalah, transaksi pembayaran dilakukan diluar platform Steam itu sendiri, disisi lain pengguna Steam belum mengenal satu sama lain, sehingga reputasi akun seller perlu diperiksa. Pemeriksaan yang dilakukan adalah melalui menganalisis sentimen pada komentar akun yang bersangkutan. Menganalisis komentar ini dilakukan dengan menggunakan metode Support Vector Machine untuk mengklasifikasikan tujuan dan sentimen komentar. Hasil dari penelitian ini akan disajikan berupa website yang nantinya pengguna aplikasi berbasis website ini akan memasukkan SteamID kedalam sistem, dan sistemnya akan melakukan analisis sentimen pada komentar, kemudian sistem menampilkan hasil analisis dalam bentuk sajian data, berupa jumlah komentar berdasarkan sentimen yang ada. Dan sistem juga akan menampilkan semua komentar pada profil beserta prediksi komentarnya. Berdasarkan penelitian yang telah dilakukan dengan menggunakan metode Support Vector Machine, diperoleh model dengan akurasi terbaik yaitu 91% untuk klasifikasi tujuan, dan 86% untuk klasifikasi sentimen. Berdasarkan survey terhadap aplikasi ini, 76% responden mengaku terbantu dengan aplikasi ini, dan 66% responden bersedia merekomendasikan aplikasi ini kepada rekannya.",
+  "creators": "NALOM AHOLIAB SINAGA",
+  "contributors": "Alexander Setiawan (Advisor 1); Agustinus Noertjahyana (Advisor 2); Hans Juwiantho S.Kom., M.Kom (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022176/INF/2022; Nalom Aholiab Sinaga (C14180248)",
+  "subjects": "INTERNET GAMES INDUSTRY; PROGRAMMING (ELECTRONIC COMPUTERS); SUPPORT VECTOR MACHINES"
+}

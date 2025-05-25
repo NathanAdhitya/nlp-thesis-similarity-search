@@ -1,0 +1,14 @@
+{
+  "id": "8810",
+  "title": "Sistem akses database akademik kemahasiswaan via SMS",
+  "abstract": "Telah banyak dikembangkan aplikasi-aplikasi dari SMS, sebagai contohnya yaitu untuk remote monitoring, m-banking, information service / information retrieval. Dalam proyek ini dibuat aplikasi SMS untuk pengaksesan database akademik kemahasiswaan via SMS. Program pengontrol utamanya dibuat pada PC (Personal Computer) menggunakan Borland Delphi 5.0. Database yang digunakan adalah database akademik kemahasiswaan Universitas Kristen Petra Surabaya. Untuk membuat tabel SMS untuk menyimpan SMS yang diterima dan tabel AccountSMS untuk menyimpan data account para pengguna fasilitas ini digunakan program Database Desktop 7.0. Pengguna yang tidak terdaftar dalam account tersebut tidak dapat menggunakan fasilitas ini. Pada tabel AccountSMS tersebut terdapat data nomor PIN pengguna dan biaya penggunaan fasilitas ini. Untuk tiap SMS yang dikirimkan ke pengguna akan dikenakan biaya sebesar Rp.350,00 . Untuk mengakses database digunakan perintah-perintah SQL (Structured Query Language). Jenis telepon selular yang digunakan sebagai penerima SMS adalah ERICSSON T65. Telepon dihubungkan ke serial port PC melalui kabel data. Untuk berkomunikasi dengan telepon selular dengan PC digunakan AT COMMAND. Format data untuk SMS adalah dalam bentuk PDU (Protocol Data Unit). Informasi yang dapat diberikan lewat SMS adalah informasi jadwal kuliah mahasiswa dan Kartu Hasil Studi (KHS) mahasiswa. Sistem telah diimplementasikan dan diuji dengan cara pengguna mengirimkan SMS Request ke telepon selular sistem. Saat telepon selular yang dihubungkan ke PC tadi menerima SMS dari pengguna, SMS tersebut dimasukkan ke dalam tabel SMS dan SMS di memori telepon selular langsung dihapus. Isi SMS dalam tabel tadi dicek format, kode nomor pin, dan kode informasi yang dimintanya dan bila sudah benar semua, maka informasi yang diminta akan dikirimkan lewat SMS ke peminta data.",
+  "creators": "FERRY WIRAWAN",
+  "contributors": "Resmana Lim (Advisor 1); Justinus Andjarwirawan (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/597/ELK/2003; Ferry Wirawan (23498046)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT"
+}

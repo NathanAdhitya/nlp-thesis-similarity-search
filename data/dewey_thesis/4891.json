@@ -1,0 +1,14 @@
+{
+  "id": "4891",
+  "title": "Perancangan dan pembuatan prototipe game multiplayer online",
+  "abstract": "Game merupakan salah satu industri besar di dunia saat ini, khususnya game yang memiliki fitur online. Online game dibuat dengan tujuan agar user dapat berinteraksi dengan user yang lain, sehingga akan mengurangi tingkat kebosanan dalam memainkan sebuah game. Tujuan tugas akhir ini adalah untuk mempelajari dan membuat prototipe dari game multiplayer online. Pemrograman dilakukan dengan menggunakan bahasa pemrograman C++, kompiler Microsoft Visual C++.NET, dan dibantu dengan library dari OpenGL Utility Toolkit (GLUT) ver. 3.7.6 untuk grafik serta SXML ver. 0.8 dalam membuat user interface-nya. Hasil pengujian sistem memperlihatkan bahwa lebih dari satu client dapat terhubung ke server yang sudah listen pada port tertentu. Client sudah dapat berinteraksi satu sama lain, seperti chat, whisper, dan bergerak dalam map sesuai dengan tujuan dari tugas akhir ini.",
+  "creators": "AIND HASIANTO",
+  "contributors": "Rudy Adipranata (Advisor 1); Gregorius Satiabudhi (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000389/INF/2005; Aind Hasianto (26400192)",
+  "subjects": "INTERNET (COMPUTER NETWORK); DATA BASE DESIGN"
+}

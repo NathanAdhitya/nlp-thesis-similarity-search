@@ -1,0 +1,14 @@
+{
+  "id": "15423",
+  "title": "Pengunaan metode heuristik untuk penjadwalan transportasi bahan baku di PT.X",
+  "abstract": "PT X adalah perusahaan yang bergerak di bidang industri sigaret, dan dalam pengoperasiannya perusahaan ini memiliki banyak cabang unit produksi(disebut juga Mitra Produksi Sigaret atau MPS). Bahan baku produksi PT X sebagian besar disimpan di Mainstore yang terletak di Pandaan, dan sebagian kecil lainnya disimpan di lokasi-lokasi MPS yang secara keseluruhan meliputi 28 lokasi yang berbeda-beda. Setiap minggunya PT X menerima order dari MPS-MPS tersebut dan kemudian berdasarkan order tersebut PT X mengirimkan material sesuai kebutuhan MPS-MPS tersebut. Pengiriman dilakukan dengan menggunakan kendaraan tronton dan engkel yang menjadi tanggung jawab divisi transportasi eksternal PT X.Selama ini divisi transportasi ekstemal melakukan penjadwalan penugasan kendaraan secara subyektif dan berdasarkan logika umum saja, hal ini dipandang menyulitkan karena kualitas jadwal yang disusun akan beragam sesuai dengan subyektivitas penyelia. Oleh karena itu melalui pembahasan topik rugas akhir ini penulis bertujuan meinbangun suatu algoritma penugasan usulan dalam rangka meiiiperbaiki hasil pejadwalan dan penugasan kendaraan yang dilakukan. Dengan algoritma usulan yang dibangun berdasarkan prinsip heuristik dan logika prioritas maka didapat suatu jadwal penugasan usulan yang melibatkan lebih sedikit kendaraan, mendistnbusi secara lebili efektif, serta menghasilkan biaya transportasi yang lebih rendah dibandingkan dengan algoritma lama.",
+  "creators": "JOHANNES EKA UMBOH",
+  "contributors": "Siana Halim (Examination Committee 1); I Nyoman Sutapa (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 490/TI-081/2001; Johannes Eka Umboh (25497036)",
+  "subjects": "DECISION MAKING-MATHEMATICAL MODELS; OPERATIONS RESEARCH; SCHEDULING (MANAGEMENT)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10776",
+  "title": "Automasi proses produksi minuman menggunakan plc",
+  "abstract": "Sistem automasi proses produksi minuman ini merupakan pengembangan dari tugas akhir yang pernah dibuat oleh. Ricky Subagio (Tugas akhir No.02010760/ELK/2005) dan Hendri wijaya (Tugas akhir No. 02010814/ELK/2006). Sistem automasi proses produksi minuman yang pernah dibuat ini mempunyai permasalahan pada proses pengisian air di gelas, yang menyebabkan gelas tidak terisi air sesuai dengan setting volume air. Hal ini dikarenakan putaran motor pada unit filler terlalu cepat dan juga tidak ada sensor yang mendeteksi volume air pada gelas. Perubahan yang dilakukan pada sistem proses produksi air minum ini yaitu penggunaan Altivar (16U54N4) untuk mengatur kecepatan motor induksi 3 phasa pada unit filler dan penambahan sensor photo transistor untuk mendeteksi volume air pada gelas. Untuk mengontrol miniatur plant ini digunakan PLC Schneider TSX Micro 37-21. PLC ini akan mengontrol 2 bagian plant, yaitu bagian pengolahan bahan baku dan bagian pengisian gelas. Berdasarkan hasil pengujian, kecepatan motor induksi 3 phasa dapat diatur kecepatannya dengan Altivar (16U54N4), sehingga proses pengisian air di gelas dapat dilakukan dengan baik. Selain itu, penambahan sensor photo transistor untuk pendeteksian volume air pada gelas, menghasilkan error pengisian air pada gelas sebesar 0,12%.",
+  "creators": "ANDREAS PERMADI",
+  "contributors": "Felix Pasila (Advisor 1); Handry Khoswanto (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010852/ELK/2008; Andreas Permadi (23402060)",
+  "subjects": "SCADA (SOFTWARE SUPERVISOR CONTROL AND DATA ACQUISITION); AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

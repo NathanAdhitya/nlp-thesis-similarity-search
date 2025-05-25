@@ -1,0 +1,14 @@
+{
+  "id": "9888",
+  "title": "Perancangan mekanisme penyapuan pada proses 3D laser scanning",
+  "abstract": "Pemodelan gambar suatu obyek yang tepat dan akurat merupakan hal yang penting dalam melakukan berbagai analisa teknik. 3D laser scanner dikembangkan untuk menyelesaikan permasalahan dalam pengambilan data ataupun gambar pemodelan tiga dimensi (3D). Perancangan difokuskan pada perencanaan mekanisme penyapuan dengan pergerakan yang stabil dan konstan, serta variasi kecepatan dan sudut. Penggerak utama yang digunakan ialah motor stepper yang mana dikontrol dengan menggunakan mikrokontroler AVR ATmega 16. Dan untuk mempermudah user dalam mengendalikan proses penyapuan, maka digunakan Visual Basic sebagai user interface. Pemodelan obyek dilakukan dengan menggunakan software DAVID laser scanner. Pada sistem ini, besar sudut dan kecepatan yang digunakan untuk melakukan penyapuan (scanning) mempunyai peranan penting terhadap hasil yang diperoleh, dimana sudut ideal dalam melakukan penyapuan sebesar 20? sampai dengan 30? dan kecepatan penyapuan yang ideal sebesar 11 mm/s dan 14 mm/s.",
+  "creators": "GUNOBIKSMO ADI PUTRO W",
+  "contributors": "Roche Alimin (Advisor 1); Stefanus Ongkodjojo, S.T., M.Sc. (Advisor 2); Ian Hardianto Siahaan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010863/MES/2008; Gunobiksmo Adi Putro W. (24403057)",
+  "subjects": "MACHINE DESIGN"
+}

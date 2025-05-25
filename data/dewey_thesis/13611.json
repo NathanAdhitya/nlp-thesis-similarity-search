@@ -1,0 +1,14 @@
+{
+  "id": "13611",
+  "title": "Penerapan jaringan saraf untuk mendapatkan perancangan tangguh",
+  "abstract": "Dalam usaha menerapkan metode dinamis Taguchi sering muncul beberapa kendala yang pada akhirnya dapat memberi hasil yang kurang memuaskan. Melihat kendala-kendala yang ada tersebut maka perlu dicari pendekatan lain. Pendekatan lain yang disarankan yaitu dengan menggunakan Jaringan saraf. Di dalam \"tugas akhir ini penulis mencoba untuk menyelesaikan suatu permasalahan berkarakteristik dinamis menggunakan metode Taguchi serta dengan menggunakan jaringan saraf. Penulis juga membandingkan hasil yang didapat dari kedua metode tersebut. Jaringan saraf yang dibangun terdiri dari dua model. Model pertama bertujuan untuk mencari kondisi optimal tiap faktor. Input dari model pertama ini terdiri dari 3 elemen sedangkan outputnya terdiri dari 8 elemen yang mewakili nilai tiap faktor. Output dari model pertama ini nantinya akan digunakan sebagai input untuk model kedua. Model jaringan kedua bertujuan untuk mencari taksiran nilai respon pada kondisi optimal. Input dari model kedua ini terdiri dari 11 elemen yaitu 8 faktor kendali, sinyal, p\\ dan noise sedangkan outputnya yaitu nilai respon. Hasil dari jaringan saraf kemudian dibandingkan dengan hasil dari metode Taguchi. Ternyata terdapat perbedaan hasil antara kedua metode tersebut.",
+  "creators": "THAM KAM HONG",
+  "contributors": "Jani Rahardjo (Advisor 1); Didik Wahjudi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 261/TI-87/1999; Tham Kam Hong (25495104)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

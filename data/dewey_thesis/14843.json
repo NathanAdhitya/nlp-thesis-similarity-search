@@ -1,0 +1,14 @@
+{
+  "id": "14843",
+  "title": "Perencanaan dan pembuatan alat pengukuran konsentrasi garam pada air dengan menggunakan mikrokontroler 80C31",
+  "abstract": "Dengan berkembangnya teknologi saat ini dalam dunia elektronika khususnya teknologi semikonduktor, manusia berusaha membuat alat bantu untuk menangani suatu masalah yang terjadi. Saat manusia melakukan suatu penelitian karena diperlukan alat bantu untuk mengukur besaran yang ada. Untuk mengukur suatu kadar garam dalam air dipergunakan alat konduktivitas, oleh karena itu pada tugas akhir ini dibuat suatu alat yang membantu untuk mengukur kadar garam suatu larutan dengan tujuan untuk mengetahui kepekatan garam suatu cairan. Sensor yang dipakai terbuat bahan stainless steel sehingga tidak mudah terionisasi pada permukaannya. Untuk membantu konversi dari data ADC maka diperlukan mikrokontroler sebagai pengontrol sekaligus mengkonversi data dan menampilkan pada LCD display. Mikrokontroler yang dipakai adalah 80C31 dan ADC yang digunakan ICL 7135 di mana ADC ini cukup akurat karena mempunyai konversi 4,5 digit. Dengan program yang terdapat pada EPROM maka mikrokontroler akan berfungsi untuk mengontrol dan mengkonversi data serta menampilkannya ke display LCD. Pengujian dilakukan dengan sensor pada alat dengan mencelupkan ke dalam larutan garam tertentu dengan kepekatan larutan tertentu pula, kemudian hasil tersebut dicatat dan diulangi dengan larutan garam yang berbeda dengan kepekatan yang berlainan sehingga akan menunujukkkan suatu data yang linier. Untuk mengkalibrasi rangkaian ini dipakai alat yang dibuat Hanna Instrumen , pengujian pada kalibrasi ini dapat menunjukkan kesalahan alat yang dibuat sehingga dapat didesain ulang agar alat ini menjadi linier dengan alat kalibrasi. Pada pengukuran dipergunakan arus AC dengan frekuensi sekitar 1 Khz, dengan maksud untuk menghindari ion-ion garam yang terlarut dalam air bereaksi menutupi probe. Dari hasil pengujian didapat bahwa alat yang dibuat telah dikalibrasikan dengan alat HANNA instrumen dapat dipergunakan meskipun terjadi kesalahan pada pengukuran yang mungkin disebabkan rangkaian kalibrasi atau rangkaian probe berbeda.",
+  "creators": "HARLEY SANTOSO",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); VINCENT PRASETYO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/020/319; Harley Santoso (23487004)",
+  "subjects": "AUTOMATIC CONTROL; MICROCONTROLLER 80C31"
+}

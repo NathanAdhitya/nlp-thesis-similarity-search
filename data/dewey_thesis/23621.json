@@ -1,0 +1,14 @@
+{
+  "id": "23621",
+  "title": "Perhitungan riwayat waktu dengan menggunakan mode superposition",
+  "abstract": "Dalam tulisan ini dibandingkan kecepatan proses untuk mendapatkan respons riwayat waktu dari bangunan bertingkat banyak akibat beban dinamis. Untuk keperluan perbandingan, digunakan kriteria waktu dengan suatu batasan ketelitian yang telah ditentukan sebelumnya. Perbandingan dilakukan pada struktur elastis, tidak ada peredam. Adapun tipe pembebanan yang ditinjau adalah beban impuls, beban harmonis dan beban percepatan pada pondasi. Sedangkan untuk perbandingan kecepatan proses, beban yang dipakai adalah beban percepatan pada pondasi. Program dibuat dalam bahasa Turbo Pascal 5.5 [6,7], Untuk membuat gambar-gambar respons dan grafikgrafik yang diperlukan, penulis menggunakan Plotter sebagai alat bantu. Dari hasil penelitian, penulis berkesimpulan bahwa penyelesaian dinamis dengan metode numerik, baik secara langsung maupun dengan analisa modal akan memberikan hasil yang sama. Akan tetapi penyelesaian dinamis dengan cara analisa modal kurang efektif karena waktu yang dibutuhkan lebih lama dari analisa numerik langsung.",
+  "creators": "SUSIANTO TANUDJAJA; SLAMET WIDJAJA",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Takim Andriono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 449 S; Susianto Tanudjaja (284131), Slamet Widjaja (285123)",
+  "subjects": "STRUCTURAL DYNAMICS-COMPUTER PROGRAMS"
+}

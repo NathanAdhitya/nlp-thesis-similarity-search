@@ -1,0 +1,14 @@
+{
+  "id": "15349",
+  "title": "Pembuatan perangkat akses informasi melalui interactive voice response dan fax",
+  "abstract": "Interactive Voice Response merupakan salah satu pengembangan aplikasi dari telepon di mana pemanggil secara interaktif berkomunikasi dengan aplikasi, memasukkan informasi, dan melakukan pilihan-pilihan melalui telepon touch-tone. Kebanyakan aplikasi interactive voice response berhubungan dengan database, di mana pemanggil dapat mengetahui informasi yang aktual dan akurat yang diperoleh melalui database. Di sini didesain sebuah interactive voice response dengan aplikasinya untuk mendapatkan informasi mengenai kartu hasil studi (KHS) mahasiswa dan jadwal kuliah. Mahasiswa dapat menghubungi sistem melalui telepon dari mana saja dan kapan saja untuk mengetahui KHS dan jadwal kuliahnya, informasi bisa dikirimkan melalui facsimile ataupun dibacakan. Disediakan dua jalur telepon yang bisa dihubungi pada saat yang bersamaan. Desain hardwarenya terdiri dari rangkaian on/off hook, ring detektor, hybrid, DTMF dekoder, tone detektor, dan rangkaian sintesa suara, yang dihubungkan dengan komputer IBM PC. Software dibuat under Windows '95 dengan bantuan Delphi 2.0 dari Borland International, Inc. Software bersifat multi-threading karena hams menangani dua jalur telepon pada saat yang bersamaan, pengiriman facsimile dilakukan dengan melakukan DDE (Dynamic Data Exchange) ke software aplikasi WinFax Pro 8.0 dari Symantec Corp. Secara keseluruhan hardware interface dengan line telepon berfiingsi dengan baik. Kualitas suara dari DAC juga cukup memadai untuk telephone quality, walaupun akan mengalami sedikit penurunan kualitas apabila kedua line sedang digunakan pada saat yang bersamaan. Pengiriman facsimile melalui WinFax Pro memberikan hasil yang cukup baik dan sesuai dengan standard facsimile group HI. Akhirnya, pemanfaatan interactive voice response masih sangat luas di berbagai bidang. Dengan desain hardware yang relatif tidak berubah banyak, aplikasi baru dapat dibuat hanya dengan menulis ulang softwarenya.",
+  "creators": "SINDUNATA SUDARMAJI",
+  "contributors": "Resmana Lim (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/037/382; Sindunata Sudarmaji (23493078)",
+  "subjects": "COMPUTERS"
+}

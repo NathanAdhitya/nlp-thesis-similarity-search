@@ -1,0 +1,14 @@
+{
+  "id": "43247",
+  "title": "Pengenalan aksara Jawa dengan menggunakan metode area based feature extraction dan support vector machine",
+  "abstract": "Huruf Jawa merupakan salah satu dari budaya Indonesia yang beragam di pulau Jawa. Namun seiring dengan perkembangan teknologi, budaya huruf Jawa ini mulai ditinggalkan. Banyak generasi muda sekarang yang lebih tertarik untuk belajar bahasa asing daripada Bahasa Jawa. Walaupun orang Jawa tinggal di pulau Jawa tetapi masih banyak yang tidak mengerti huruf Jawa. Sangat disayangkan apabila suatu budaya yaitu huruf Jawa harus hilang karena tidak ada generasi muda yang mengerti huruf Jawa. Huruf Jawa memiliki tingkat kesulitan tersendiri untuk dipelajari karena bentuknya yang mirip antara satu huruf dengan huruf lainnya. Kesulitan dalam mempelajari huruf Jawa ini juga berpengaruh pada minat generasi muda untuk mempelajari huruf Jawa Selain itu, saat ini aplikasi mengenai huruf Jawa juga masih cenderung tidak terlalu banyak. Berdasarkan permasalahan tersebut, maka aplikasi pengenalan huruf Jawa ini dibuat dengan harapan dapat melestarikan budaya Indonesia sekaligus mempermudah pembelajaran huruf Jawa. Adapun penelitian sebelumnya yang juga merupakan pengenalan huruf Jawa tetapi dengan metode lain seperti Shape Based Feature Extraction sebagai metode ekstraksi fitur dan Probabilistic Neural Network, Elman Type, Feedforward Backpropagation sebagai metode pengenalan namun akurasinya masih relatif rendah. Proses dari pengenalan huruf Jawa ada 3 tahap, yaitu segmentasi, ekstraksi fitur, dan pengenalan. Input berupa gambar dokumen huruf Jawa yang akan di segmentasi. Proses segmentasi telah dibuat oleh penelitian sebelumnya dan hasilnya adalah gambar satu huruf Jawa. Proses fitur ekstraksi dilakukan dengan menggunakan metode Area Based Feature Extraction sehingga menghasilkan data fitur ekstraksi dari gambar satu huruf Jawa untuk digunakan dalam proses pengenalan. Proses pengenalan dilakukan dengan menggunakan metode Support Vector Machine. Output nya adalah teks digital dari huruf Jawa yang diklasifikasi. Hasil pengujian menunjukkan bahwa akurasi pengenalan huruf Jawa menggunakan metode Support Vector Machine mencapai 90.84%",
+  "creators": "ALFRED LOUIS",
+  "contributors": "Rudy Adipranata (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021820/INF/2019; Alfred Louis (26415090)",
+  "subjects": "IMAGE PROCESSING--DIGITAL TECHNIQUES; PATTERN RECOGNITION SYSTEMS"
+}

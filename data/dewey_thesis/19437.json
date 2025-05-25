@@ -1,0 +1,14 @@
+{
+  "id": "19437",
+  "title": "Perancangan dan pembuatan aplikasi sistem informasi administrasi untuk Toko Besi Sumber Utama",
+  "abstract": "Toko Besi Sumber Utama adalah sebuah toko yang bergerak dalam bidang penjualan besi-besi dalam keadaan utuh. Sistem yang ada dari proses pencatatan penjualan, pemesanan, pembelian dan hal-hal lainnya dilakukan secara manual sehingga membutuhkan waktu yang cukup lama dalam mengerjakan proses pencatatannya. Pada Skripsi ini, diimplementasikan sebuah aplikasi yang dapat memproses transaksi penjualan, pemesanan, pembelian, retur, dan pencatatan stok menggunakan metode LIFO. Untuk mendesain sistem yang ada menggunakan Power Designer 6.1 dan untuk aplikasi pada toko ini menggunakan Microsoft Visual Basic 6.0 dan Microsoft SQL Server 2005 untuk penyimpanan database. Modul yang dibuat meliputi pencatatan barang-barang, supplier, dan customer; pencatatan dan penyimpanan data pembelian dan penjualan, beserta laporan-laporannya dan warning minimum stok; pencatatan data retur pembelian; pencatatan data pembayaran dari penjualan dan pembelian; stok opname; pencatatan kartu stok metode LIFO; laporan yang dibuat meliputi laporan kartu stok, laporan pembelian dan penjualan, laporan best seller product, laporan hutang piutang, serta laporan laba rugi. Dari hasil kuisioner, penilaian interface (tampilan) program hasil kuisioner mendapat nilai 60%, untuk user friendly mendapat nilai 50%, untuk error pada program memberi nilai 60%, untuk kecepatan pada program mendapat nilai 40%.",
+  "creators": "DELICIA ROSITA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Yulia (Advisor 2); Arlinah Imam Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020899/INF/2010; Delicia Rosita (26406030)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

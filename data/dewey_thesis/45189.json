@@ -1,0 +1,14 @@
+{
+  "id": "45189",
+  "title": "Sistem proteksi kebocoran gas LPG berbasis Arduino dan aplikasi Mobile",
+  "abstract": "Sampai sekarang masih banyak masyarakat yang belum tahu bagaimana ciri kebocoran, dan bagaimana cara penanganannya. Sehingga masih sering di jumpai kasus ledakan gas LPG di rumah-rumah. Maka dari itu diperlukan alat yang dapat memberi tahu melalui aplikasi jika terjadi kebocoran gas LPG secara tepat dan cepat. Arduino dan aplikasi yang dibuat mendeteksi kebocoran gas LPG berdasarkan kadar PPM yang ada disekitar tabung LPG, dan bisa juga mendeteksi dari suhu dan kelembaban disekitar tabung LPG yang berubah secara mendadak dalam kurun waktu tertentu. Jika terjadi kebocoran gas aplikasi akan segera memberi notifikasi terjadi kebocoran LPG. Berdasarkan hasil pengujian yang sudah dilakukan, Arduino bisa mendeteksi kebocoran gas melalui kadar PPM dan juga bisa mendeteksi kebocoran gas melalui suhu dan kelembaban. Arduino juga bisa langsung mematikan kebocoran gas LPG dengan memutar knop regulator keposisi off. Dari pengujian telah di dapatkan hasil yang paling optimal dalam menggunakan sensor Arduino. Untuk mendeteksi kebocoran gas dengan menggunakan suhu dan kelembaban telah didapat nilai batas untuk suhu 2.2°C (Suhu tertinggi - Suhu terendah) dan kelembaban 13.4 (kelembaban tertinggi - kelembaban terendah). Mendeteksi kebocoran dengan menggunakan sensor gas telah di dapat batas kadar PPM jika >10 PPM maka terjadi kebocoran, dan untuk jarak sensor telah didapatkan jarak yang paling optimal untuk deteksi gas adalah <3cm.",
+  "creators": "ROBERTUS YURICO PRASETIYO",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Resmana Lim (Advisor 2); Agustinus Noertjahyana (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021899/INF/2019; Robertus Yurico Prasetiyo (26414013)",
+  "subjects": "ARDUINO (PROGRAMMABLE CONTROLLER); ELECTRONIC DATA PROCESSING"
+}

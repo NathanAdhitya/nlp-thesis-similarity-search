@@ -1,0 +1,14 @@
+{
+  "id": "14806",
+  "title": "Pembuatan sofwarre B.E.R test untuk ethernet wireless lan",
+  "abstract": "Pembuatan Software B.E.R Test untuk Ethernet Wireless LAN ini dilatar belakangi untuk mengukur error rate dan kinerja dari perangkat Wireless LAN yang saat ini sudah mulai banyak digunakan dalam jaringan komputer Pengambilan data terhadap perangkat Wireless LAN menggunakan konfigurasi alat-alat sebagai berikut : Wireless LAN Access Point Teletronics; 0,5 Meter Pigtail Cable RG-58 Reverse SMA to N Male Connector; 15 Meter Low Loss Cable LMR400; dan 24 dBi Semi-parabolic Grid Antenna Peralatan-peralatan tersebut digunakan pada kedua lokasi (pont-to-point) yang terpisah pada jarak sekitar 5 KM. Pengujian terhadap Software B.E.R Test ini memberikan hasil yang sedikit berbeda untuk keadaan Line of Sight (LOS) pada cuaca cerah dan pada cuaca mendung. Hal ini disebabkan karena frekuensi 2,4 GHz ini dipengaruhi oleh cuaca Pada cuaca cerah didapatkan hasil error rate yang cukup baik, yaitu < 10%. Sedangkan pada cuaca yang mendung dan sedikit gerimis didapatkan hasil error rate yang sedikit lebih tinggi, yaitu antara 12% - 15%, dimana sebenarnya error rate seharusnya berada pada kisaran < 10%. Dengan penggunaan protokol UDP pada software B.E.R Test ini bisa didapatkan hasil error rate yang sesungguhnya, sebab protokol UDP ini hanya melakukan broadcast data saja tanpa melakukan koreksi kesalahan (error correction). Di samping itu, protokol UDP tidak memerlukan adanya data acknowledgement.",
+  "creators": "WIYADI",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/KOM/009/066; Wiyadi (23493052)",
+  "subjects": "SOFTWARE ENGINEERING; DIRECT SEQUENCE SPREAD SPECTRUM"
+}

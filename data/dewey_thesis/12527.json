@@ -1,0 +1,14 @@
+{
+  "id": "12527",
+  "title": "Analisa perbandingan profil aliran udara pada silinder airfoil naca 0015 dengan simulasi dan visualisasi",
+  "abstract": "Wind tunnel digunakan untuk mengetahui efek pergerakan udara di sekitar silinder dan airfoil NACA 0015. Saat ini, Laboratorium Sistem Fluida dan Thermal Jurusan Teknik Mesin Universitas Kristen Petra telah memiliki wind tunnel, akan tetapi wind tunnel ini belum mampu menunjukkan profil aliran udara secara visual sehingga tidak dapat dilakukan validasi terhadap hasil simulasi. Untuk kebutuhan tersebut, maka smoke generator berdaya ?600Watt dirancang dan dibuat dalam penelitian ini. Selain itu, tujuan dari penelitian ini adalah untuk mengukur gaya drag, gaya lift, koefisien drag, koefisien lift, dan distribusi tekanan. Hasil visualisasi aliran dibandingkan dengan metode lain yaitu pengukuran dan simulasi untuk kebutuhan validasi. Pengukuran yang dilakukan meliputi pengukuran distribusi tekanan, gaya drag, dan gaya lift. Simulasi dilakukan dengan menggunakan software ANSYS CFX. Hasil yang diperoleh dari simulasi adalah distribusi tekanan, gaya drag, gaya lift, dan profil aliran udara di sekitar benda uji. Distribusi tekanan, gaya drag, dan gaya lift yang diperoleh dari hasil pengukuran dan hasil simulasi memiliki trend yang sama, akan tetapi nilainya berbeda. Perbedaan nilai antara simulasi dan pengukuran untuk benda uji silinder sebesar 176%, untuk benda uji airfoil NACA 0015 sebesar 14,5% (pada V=5m/s), 57,75% (pada V=10m/s), dan 131.25% (pada V=15m/s). Sedangkan untuk gaya lift, perbedaan sebesar 51% (pada V=5m/s), 208,75% (pada V=10m/s), dan 473,25% (pada V=15m/s). Hal ini dikarenakan peralatan yang digunakan kurang presisi dan parameter yang dimasukkan dalam simulasi sedikit berbeda. Hasil simulasi mampu menunjukkan dengan jelas lokasi terjadinya separasi dan wake, sedangkan hasil visualisasi dengan menggunakan asap mampu menunjukkan lokasi kecepatan udara yang tinggi, akan tetapi kurang mampu menunjukkan lokasi separasi dan wake karena keterbatasan kamera yang digunakan",
+  "creators": "CHANDRA WINOTO",
+  "contributors": "Hariyo Priambudi Setyo Pratomo, S.T., M.Phil. (Advisor 1); Fandi Dwiputra Suprianto, S.T., M.Sc. (Advisor 2); Ekadewi Anggraini Handoyo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010872/MES/2009; Chandra Winoto (24404007)",
+  "subjects": "FLUID MECHANICS; HEAT-TRANSMISSION"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "26490",
+  "title": "Pembuatan kontroler logika yang dikendalikan oleh mikrokomputer IBM PC",
+  "abstract": "Kontroler Logika merupakan alat pengontrol yang banyak dipakai dalam dunia industri. Kontroler tersebut dapat dikatakan sebagai komputer industri sebab memiliki banyak kemiripan dengan komputer dan banyak dipakai dalam industri. Dengan demikian bila kita mengetahui isi dari kontroler logika tersebut atau kita memahami apa yang berlangsung di dalam Kontroler Logika maka kita akan lebih mudah untuk mengoperasikannya. Karena itu pembuatan Kontroler Logika ini dilaksanakan untuk lebih mengetahui bagaimana suatu Kontroler Logika bekerja. Pembuatan Kontroler Logika ini menggunakan IBM PC sebagai perangkat pemroses, dan juga sebagai perangkat pengontrol. Selain itu IBM PC juga dipakai sebagai alat bantu untuk memasukkan program (melalui keyboard) ataupun untuk menampilkan ladder diagram (melalui monitor) yang diprogramkan pada Kontroler Logika. Perangkat keras hanya terdiri dari 3 bagian, yaitu input point, input channel dan output. Output point dan output channel dijadikan satu dengan pemilihan fungsinya dilaksanakan oleh perangkat lunak. Perangkat keras input akan menginputkan data, berupa data point (besarnya satu bit) atau data channel (besar adalah satu word), sedangkan hasil proses dari ladder diagram yang diprogramkan akan dikeluarkan ke perangkat keras output, juga berupa data bit atau data word. Perangkat lunak merupakan pengatur dari keseluruhan proses, mulai dari menterjemahkan instruksi (berupa ladder diagram) yang diprogramkan sampai mengeluarkan hasil dari pemrosesan ladder diagram tersebut. Perangkat lunak ini ditulis dengan menggunakan bahasa pemrograman tingkat tinggi Turbo Pascal versi 4.00.",
+  "creators": "BINTONO WIJOYO",
+  "contributors": "HANDAYANI T. (Advisor 1); Caroline Chan (Advisor 2); MOCHAMAD HEROE (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. ...; Bintono Wijoyo (485121)",
+  "subjects": "CONTROLLER (COMPUTER PROGRAM); IBM MICROCOMPUTERS"
+}

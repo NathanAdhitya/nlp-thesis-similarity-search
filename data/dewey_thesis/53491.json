@@ -1,0 +1,14 @@
+{
+  "id": "53491",
+  "title": "Aplikasi Omni-Channel untuk pengaturan multi-channel order management di Toko Kyuuden",
+  "abstract": "Kyuuden store adalah toko online yang menawarkan beragam produk elektronik terutama dalam kategori game. Kyuuden store menjual pada platform marketplace diantaranya Shopee, Tokopedia, Bukalapak, OLX, dan Blibli. Saat ini, pendataan masih secara manual menggunakan Ms. Excel, sedangkan data produk yang dimiliki sangat banyak sehingga sulit untuk memanajemen data. Tidak hanya pendataan, toko Kyuuden yang membuka penjualan pada lebih dari satu platform menyebabkan kesulitan dan membuang waktu lebih lama untuk mengelola toko. Berdasarkan permasalahan tersebut, dibuatlah aplikasi untuk memberikan pengelolaan data yang terkomputasi, dan integrasi data dengan marketplace untuk memanajemen data dari beberapa saluran (multi-channel). Aplikasi ini dibuat dengan PHP framework Codeigniter 3, dan database phpmyadmin MySQL. Aplikasi ini memiliki 2 (dua) hak akses yaitu owner dan administrator. Hasil akhir dari penelitian dan pembuatan aplikasi ini adalah aplikasi dapat mengintegrasi data, mengelola data, dan sinkronasi data antar saluran baik online maupun offline. Dari hasil responden kuesioner, sebesar 75% pengguna menilai keseluruhan aplikasi dapat memudahkan proses bisnis toko.",
+  "creators": "KATHERINE PUTRI SUTJIADI",
+  "contributors": "Yulia (Advisor 1); Krisna Wahyudi, S.Kom., M.T. (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1); Alexander Setiawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022207/INF/2022; Katherine Putri Sutjiadi (C14180221)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); PHP (COMPUTER PROGRAM LANGUAGE)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "50566",
+  "title": "Sistem penunjang belanja pedagang keliling di lokasi sekitar menggunakan haversine berbasis Android",
+  "abstract": "Pedagang keliling merupakan usaha yang dilakukan oleh seseorang untuk menjual barang/jasa seperti sayur, buah, dan lain-lain dengan cara berkeliling ke tempat-tempat dengan rute tertentu. Banyaknya kebutuhan para pelanggan untuk mendapatkan barang yang diinginkan dan kemudahan untuk melakukan pembelanjaan. Salah satu bisnis yang tumbuh di masa pandemi Covid-19 adalah retail, terutama yang melayani kebutuhan sehari-hari seperti sayur-sayuran dan buah-buahan. Dikarenakan pada masa pandemi ini sebagian orang membeli produk melalui online. Lonjakan permintaan ini membuat banyak orang mencari penjual sayur-sayuran dan buah-buahan. Dengan adanya aplikasi ini diharapkan mampu membantu pedagang keliling untuk mendapatkan market dan juga sistem yang mudah untuk menjalankan aplikasi. Dengan adanya aplikasi ini diharapkan juga pelanggan dapat mengetahui lokasi dan keberadaan pedagang keliling di sekitar.Penggunan rumus haversine untuk mengetahui jarak antara pelanggan dan pedagang keliling memudahkan untuk pelanggan mengetahui jarak pedagang keliling. Penggunaan scarping yang dilakukan pada situs eresep.com diperuntukan untuk mendapatkan menu makanan, cara memasak dan cara pembuatanya. Dengan menggunakan BeautifulSoup data menu makanan dapat di ekstraksi. Untuk pembuatan aplikasi dibutuhkanya server untuk menyimpan data lokasi pedagang keliling, pelanggan,produk pedagang keliling, menu makanan dan orderan. Setelah itu dilakukan proses untuk mengolah data tersebut dan pembuat UI dari aplikasi tersebut. Berdasarkan hasil pengujian, program yang dibuat telah berhasil untuk mendapatkan menu makanan yang berasal dari eresep.com. Dari hasil dari survey yang diberikan kepada pelanggan dan pedagang keliling telah dihasilkan bahwa aplikasi yang dibuat mudah untuk digunakan dan hasil survey memberikan nilai yang cukup memuaskan. Bedasarkan dari pengujian jarak antara haversine dengan google maps. Dihasilkan rumus haversine cukup akurat saat dibandingkan dengan google maps. Hasil perbandingan jarak rata-rata yang dihasilkan berupa 0.315 Km.",
+  "creators": "RICHARD GOZALI",
+  "contributors": "Liliana (Advisor 1); Yulia (Advisor 2); Andreas Handojo (Examination Committee 1); Andre Gunawan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022098/INF/2021; Richard Gozali (C14170049)",
+  "subjects": "ANDROID (ELECTRONIC RESOURCE)--PROGRAMMING; PROGRAMMING (ELECTRONIC COMPUTERS); WEB SITES--DESIGN"
+}

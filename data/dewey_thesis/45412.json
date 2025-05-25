@@ -1,0 +1,14 @@
+{
+  "id": "45412",
+  "title": "Perancangan penyelesaian masalah peningkatan inventory level pada material menggunakan consignment model di PT Schneider Electric Manufacturing Batam",
+  "abstract": "PT SEMB merupakan perusahaan yang bergerak di bidang produksi dan perakitan produk elektronik. Material yang digunakan PT SEMB untuk proses produksi hampir 70% berasal dari luar PT SEMB (outsourcing). Tingginya persentase ini menjadi tantangan utama PT SEMB dalam menjaga dan memastikan material tersedia saat melakukan proses produksi. Perbaikan sistem sudah dilakukan salah satunya dengan menggunakan consignment model. Consignment model merupakan salah satu model penyimpanan, di mana material akan dikirim oleh supplier secara otomatis, tanpa menghubungi supplier. Consignment model memiliki batas bawah (min) dan batas atas (max). Saat material berada di bawah batas min, sistem secara otomatis akan memberikan informasi kepada supplier untuk mengirimkan barangnya kepada PT SEMB. Material yang sudah dikirim supplier, tetapi masih belum digunakan masih dimiliki supplier. Tempat penyimpanan material consignment model pada sistem dianggap bukan PT SEMB, sehingga seharusnya material yang menggunakan consignment model memiliki inventory level yang rendah, tetapi yang terjadi adalah meningkatnya inventory level pada bulan Januari hingga Maret. Salah satu penyebabnya adalah tidak sesuainya batas min-max dengan kebutuhan proses produksi. Perbaikan dilakukan dengan membuat tools yang bisa digunakan untuk mengetahui batas min-max yang bisa menyesuaikan dengan kebutuhan proses produksi dan menyesuaikan man power. Perbaikan lainnya dengan melakukan pergantian yang melakukan penarikan material, dari leader Lot 15 menjadi warehouse leader Sensors plant. Hasil dari perbaikan yang dilakukan dapat menurunkan rata-rata inventory level consignment material. Dari rata-rata bulan Januari-Maret $362,221, menurun pada bulan Mei menjadi $240,327. Penurunan kurang lebih sebesar 33%",
+  "creators": "JONATHAN EDWARD",
+  "contributors": "Benedictus Rahardjo S.T. M.B.A. (Advisor 1); Jani Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022223/IND/2019; Jonathan Edward (25415057)",
+  "subjects": "INVENTORY CONTROL"
+}

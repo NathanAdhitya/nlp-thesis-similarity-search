@@ -1,0 +1,14 @@
+{
+  "id": "48823",
+  "title": "Penerapan convolutional neural network untuk klasifikasi kanker kulit melanoma pada dataset gambar kulit",
+  "abstract": "Kanker kulit adalah salah satu kanker yang paling umum terjadi. Salah satu kanker kulit yang paling berbahaya adalah kanker kulit melanoma, disebabkan oleh karena keganasan dan kecepatan kanker untuk menyebar ke seluruh tubuh dan menjadi fatal. Penelitian telah menunjukkan bahwa deteksi dini kanker kulit melanoma dapat mengurangi tingkat mortalitas dari kanker kulit melanoma, sehingga diperlukan untuk ada metode dalam membantu melakukan diagnosa pada lesi kulit untuk membedakan kanker kulit melanoma dan lesi kulit biasa. Penelitian ini akan menggunakan convolutional neural network dengan model EfficientNet dan ResNet untuk melakukan klasifikasi lesi kulit melanoma. Penggunaan convolutional neural network telah terbukti untuk dapat melakukan klasifikasi pada dataset serupa dimana secara umum, model convolutional neural network dapat melakukan klasifikasi lesi kulit melanoma. Penelitian ini ingin menganalisa pengaruh penggunaan hair removal pada dataset lesi kulit dan ensembling pada kemampuan model untuk melakukan klasifikasi. Dengan pengujian yang dilakukan, dapat dilihat bahwa model dapat mempelajari fitur lesi kulit sehingga mampu untuk melakukan klasifikasi lesi kulit melanoma. Pengujian dengan melakukan hair removal menunjukkan terdapat peningkatakan akurasi sebanyak 0.667%. Ensembling hasil prediksi juga dapat meningkatkan kemampuan model untuk melakukan prediksi dengan lebih akurat dengan menggabungkan beberapa model menjadi satu meta-model sehingga mencapai tingkat akurasi yang lebih tinggi dengan akurasi terakhir mencapai 93.069%.",
+  "creators": "MICHAEL KURNIAWAN",
+  "contributors": "Liliana (Advisor 1); Agustinus Noertjahyana (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022022/INF/2021; Michael Kurniawan (26416017)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

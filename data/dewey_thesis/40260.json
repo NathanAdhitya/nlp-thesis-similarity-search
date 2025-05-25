@@ -1,0 +1,14 @@
+{
+  "id": "40260",
+  "title": "Pembuatan inverter satu fasa 100 watt menggunakan konverter buck",
+  "abstract": "Kebutuhan akan energi listrik sangat diperlukan untuk kehidupan sehari- hari, misalnya untuk lampu, TV, komputer, kipas angin ataupun peralatan pertukangan seperti bor, gerinda, dan lain-lain. Peralatan listrik biasanya disuplai dari jaringan listrik ac 220 volt. Selain itu, peralatan listrik bisa juga disuplai dari energi alternatif seperti sel surya, dan lain-lain. Penggunaan energi alternatif membutuhkan konverter dc-ac (inverter), karena energi alternatif menghasilkan gelombang tegangan output berbentuk dc. Tujuan dari tugas akhir ini adalah untuk merancang inverter satu fasa 100 watt dengan tegangan input dc 36 volt dan tegangan output ac 220 volt. Inverter satu fasa menghasilkan bentuk gelombang output ac sinusoidal. Inverter ini menggunakan konverter buck yang dikontrol oleh modulasi lebar pulsa (PWM) untuk menghasilkan dc setengah gelombang sinus. Penguat operasional (op-amp) memiliki kemampuan untuk menghasilkan gelombang PWM. Inverter dorong-tarik mengubah dc setengah gelombang sinus menjadi ac gelombang sinus. Transformer pada inverter dorong tarik juga menaikkan tegangan output menjadi ac 220 volt. Inverter yang telah dirancang mampu menghasilkan gelombang sinusoidal dengan tegangan ac 211 volt tanpa menggunakan beban. Terdapat penurunan tegangan sebesar 131 volt saat diberi beban resistif 5 watt, 90,9 volt saat berbeban resistif 60 watt, dan 58,4 volt saat berbeban resistif 100 watt. Kecacatan gelombang terlihat karena catu daya yang digunakan tidak mampu menyalurkan arus yang dibutuhkan. Harmonisa ke-3 (150Hz) pada inverter satu fasa mendominasi orde harmonisa yang lain.",
+  "creators": "YEREMIA ADENA",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Ellen Ruth Pantouw (Advisor 2); Serli Wijaya (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010646/ELK/2017; Yeremia Adena (23413007)",
+  "subjects": "ELECTRIC INVERTERS; ELECTRIC CONVERTER"
+}

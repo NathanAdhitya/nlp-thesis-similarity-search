@@ -1,0 +1,14 @@
+{
+  "id": "2981",
+  "title": "Portable controlled instruments menggunakan jaringan listrik satu phasa",
+  "abstract": "Telah dirancang portable controlled instruments menggunakan jala-jala listrik 220Vac sebagai media transmisi dalam berkomunikasi. Metode modulasi yang digunakan adalah modulasi FSK. Data yang dikirim berupa data digital, dimana frekuensi mark dan frekuensi space yang digunakan adalah 32KHz dan 40KHz, dengan frekuensi carrier 36KHz. Data yang telah termodulasi, ditumpangkan pada frekuensi 50Hz dari jala-jala listrik. Sinyal tersebut kemudian didemodulasi oleh receiver untuk mendapatkan data asli yang kemudian diproses oleh microcontroller. Dari hasil pengujian, Portable Controlled Instruments hanya dapat bekerja pada tegangan jala-jala 110-185 Vac, jarak transmisi maksimal 2.5 meter, dan menggunakan baudrate 1200bps untuk mengirim dan menerima data serta peralatan (lampu pijar) yang dapat dikendalikan berjumlah 2(dua) buah.",
+  "creators": "HENDRA GANI",
+  "contributors": "YOHANES T. D. S (Editor); Handry Khoswanto (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010727/ELK/2005; Hendra Gani (23400002)",
+  "subjects": "AUTOMATIC CONTROL"
+}

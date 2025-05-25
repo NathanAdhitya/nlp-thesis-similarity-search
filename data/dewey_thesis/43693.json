@@ -1,0 +1,14 @@
+{
+  "id": "43693",
+  "title": "Studi metode elemen hingga dengan interpolasi ganda",
+  "abstract": "Metode elemen hingga telah mengalami banyak perkembangan dan para peneliti berusaha untuk mengeliminasi kelemahan-kelemahan yang dimiliki. Salah satu pengembangan metode elemen hingga adalah dengan melakukan 2 kali interpolasi yaitu shape function dari metode elemen hingga standar (FEM standar) dengan average nodal gradient dan nodal displacement dari metode elemen hingga dengan interpolasi ganda (TFEM) sebagai interpolation conditions untuk menghasilkan shape function yang kontinu. Pada penelitian ini disajikan aplikasi TFEM dalam penyelesaian masalah plane-stress, plane-strain, dan axisymmetric pada beberapa benchmark problem. Kekonvergenan TFEM akan dibandingkan dengan FEM standar yang dinilai dari energy norm error serta dilakukan pula pengujian terhadap volumetric locking. Penerapan TFEM dilakukan dengan bantuan pemrograman MATLAB. Hasil yang didapatkan menunjukkan bahwa dengan diperhalusnya mesh, TFEM dapat memberikan hasil yang makin mendekati eksak, menunjukkan sifat konvergen lebih daripada FEM standar. Volumetric locking diamati masih terjadi pada semua masalah plane-stress, plane-strain, dan axisymmetric yang diujikan. TFEM dapat disimpulkan memberikan performa lebih baik dibanding FEM standar.",
+  "creators": "ANDREAS SETIAWAN; HANDY PRAYOGO",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Jimmy Chandra (Examination Committee 1); Joko Purnomo S.T., M.Sc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012289/SIP/2019; Andreas Setiawan (21415115), Handy Prayogo (21415097)",
+  "subjects": "INTERPOLATION; FINITE ELEMENT METHOD"
+}

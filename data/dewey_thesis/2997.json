@@ -1,0 +1,14 @@
+{
+  "id": "2997",
+  "title": "Perencanaan dan pembuatan sistem programmable private automatic branch exchange dengan menggunakan mikrokontroler at89c51",
+  "abstract": "Programmable PABX dengan mikrokontroler AT89C51 merupakan suatu sistem switching telepon yang dapat dipilih fiturnya oleh pengguna. Fitur-fiturnya antara lain pengubahan nomor extension, dapat melakukan emergency call, hunting, konferensi dan blokir extension. Programmable PABX ini saat pertama kali dinyalakan maka pengguna diminta untuk mengisi data terlebih dahulu seperti nomor extension telepon, nomor urutan hunting, rekaman suara pembuka dan musik. Setelah itu, PABX akan memeriksa secara bergilir dari saluran extension sampai saluran eksternal. Saat salah satu saluran aktif maka PABX secara otomatis akan aktif dan memeriksa tujuan penelpon dan kemudian membandingkan dengan data nomor yang dimasukkan pada awal PABX diaktifkan. Apabila benar maka akan dihubungkan dengan tujuan, tetapi apabila salah maka yang terdengar adalah suara sinyal sibuk. Fitur programmable pada PABX ini berjalan dengan baik tetapi masih terdapat sedikit crosstalk sedangkan fitur lainnya masih belum berjalan dengan sempurna dikarenakan masih adanya kekurangan pada perangkat lunaknya.",
+  "creators": "VICTOR ARNOLD HUKOM",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Indar Sugiarto (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010724/ELK/2005; Victor Arnold Hukom (23499117)",
+  "subjects": "TELEPHONE SWITCHING SYSTEMS, ELECTRONIC; TELEPHONE SYSTEMS; TELEPHONE-PRIVATE BRANCH EXCHANGES"
+}

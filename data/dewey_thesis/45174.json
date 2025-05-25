@@ -1,0 +1,14 @@
+{
+  "id": "45174",
+  "title": "Perancangan dan pembuatan data warehouse dan business intelligence pada market research motorcycle Honda MPM Motor",
+  "abstract": "Honda MPM (Mitra Pinasthika Mulia) Distributor memiliki sistem market research yang hanya mencangkup hal internal seperti hasil penjualan, dan Honda MPM Distributor juga menggunakan data pemerintah dalam mengambil keputusan. Namun, dalam pengumpulan dan penganalisaan data pemerintah perusahaan Honda MPM Distributor dilakukan dengan mengetik data permerintah pada program Microsoft Excel secara manual dan reporting berupa tabel yang tidak terhubung dengan data penjualan. Hal ini menyebabkan lambatnya proses market research dan membuang waktu yang cukup banyak ditambah dengan banyaknya daerah yang dibagi antara desa dan kota. Oleh karena itu data warehouse sebagai business intelligence dibutuhkan perusahaan Honda MPM Motor dalam mempercepat proses pengelolaan data perusahaan dan sebagai alat untuk membantu membuat laporan yang dapat membantu analisis mereka pada market research. Data yang ditampung dalam data warehouse sudah benar dan lengkap. Laporan yang dihasilkan membantu mempermudah dalam menyediakan informasi yang dibutuhkan division head untuk market research pada suatu kota/kabupaten menyangkut ekonomi PDRB (Produk Domestik Regional Bruto) hasil bumi, peternakan, jasa-jasa, perkembangan penduduk serta populasi motor, dan detail penjualan motor (gender pembeli, tipe motor yang terbeli, pekerjaan pembeli) melalui aplikasi Power BI. Namun, aplikasi dapat terus berkembang dengan bertambahnya data yang didapatkan dari pemerintah. Berdasarkan hasil kuesioner yang dilakukan 80% baik 20% sangat baik untuk kemudahan yang disediakan oleh aplikasi reporting ini sebagai upaya dalam membantu analisa pasar dan 60% baik 40% sangat baik untuk program reporting secara keseluruhan.",
+  "creators": "ERRIV SEPTIANFAN BUDI",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Andreas Handojo (Examination Committee 1); Yulia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021901/INF/2019; Erriv Septianfan Budi (26415033)",
+  "subjects": "DATA BASE DESIGN; DATA PROCESSING; DATA WAREHOUSING; PROGRAMMING (COMPUTERS)"
+}

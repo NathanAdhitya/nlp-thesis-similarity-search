@@ -1,0 +1,14 @@
+{
+  "id": "1296",
+  "title": "Pengenalan wajah dengan menggunakan metode Gabor Wavelet",
+  "abstract": "Pengenalan wajah manusia merupakan salah satu bidang penelitian yang penting, dan dewasa ini banyak aplikasi yang dapat menerapkannya, baik dibidang komersial maupun bidang penegakan hukum. Teknik pengenalan wajah pada saat ini telah mengalami kemajuan yang sangat berarti. Melalui pengembangan suatu teknik seperti Gabor Wavelet, komputer sekarang dapat menyerupai kemampuan otak manusia dalam berbagai tugas pengenalan wajah, terutama tugas-tugas yang membutuhkan pencarian pada database wajah yang besar. Tujuan tugas akhir ini adalah untuk membuat suatu perangkat lunak pengenalan wajah dengan menggunakan Gabor Wavelet untuk mereduksi dimensi gambar wajah sekaligus untuk mengetahui kemampuan dari teknik tersebut. Dalam tugas akhir ini, perangkat lunak yang dibuat menggunakan gambar diam sebagai inputnya. Bahasa pemrograman yang dipakai adalah Microsoft Visual C++ 6.0?, Intel Perfomance Library dan Open Source Computer Vision Library. Hasil pengujian sistem menunjukkan bahwa penggunaan Gabor Wavelet untuk pengenalan wajah dapat memberikan tingkat akurasi yang cukup tinggi. Untuk gambar wajah yang diikutsertakan dalam latihan, dapat diperoleh 85,71% identifikasi yang benar.",
+  "creators": "BUDDHI YUWANA",
+  "contributors": "Resmana Lim (Advisor 1); Murtiyanto Santoso (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/KOM/004/096; Buddhi Yuwana (23496101)",
+  "subjects": "COMPUTER GRAPHICS; HUMAN FACE RECOGNITION (COMPUTER SCIENCE); MICROSOFT VISUAL C++"
+}

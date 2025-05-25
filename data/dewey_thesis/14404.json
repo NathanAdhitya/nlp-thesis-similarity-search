@@ -1,0 +1,14 @@
+{
+  "id": "14404",
+  "title": "Robot mobil penjelajah maze dengan pola lintasan di download dari serial RS232",
+  "abstract": "Robot penjelajah merupakan robot mobil kecil yang mampu menjelajahi lintasan maze sesuai dengan instruksi yang didownloadk&n melalui PC. Instruksi ini berisikan tentang arahan jalan yang harus ditempuh. Desain maze yang digunakan sesuai dengan standar dari IEEE Contest Rules, micromouse tidak perlu memetakan bentuk maze melainkan pemetaannya dilakukan dengan menggambar pada PC. Dengan standar maze yang diberikan ini maka harus dibuat sebuah micromouse yang kecil dan kompak. Robot penjelajah terdiri dari tiga sistem utama yaitu control system yaitu microcontroller AT89C52, differential drive motor L298 dari SGS Thomson dan sederetan Twing sensor infra merah dan shaft counter yang berfungsi sebagai sensor dinding dan posisi kemiringan dari robot. Pengujian robot dilakukan di laboratorium komputer. Maze yang digunakan adalah 16 th FreshmanClass (1995), maze yang digunakan untuk kontes micromouse di jepang. Pengujian dilakukan 15 langkah maju ke depan dengan dua kali belokan yaitu 90? searah jarum jam dan 90? berlawanan arah jarum jam. Sesuai dengan lintasan yang disebutkan diatas peluang keberhasilan Micromouse robot adalah 60% dari 10 kali pengujian.",
+  "creators": "AGUSTINUS SETYAWAN",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/019/456; Agustinus Setyawan (23495073)",
+  "subjects": "ROBOTS"
+}

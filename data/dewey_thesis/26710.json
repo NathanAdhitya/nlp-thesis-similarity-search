@@ -1,0 +1,14 @@
+{
+  "id": "26710",
+  "title": "Perancangan dan pembuatan aplikasi contact back-up management pada telepon selular",
+  "abstract": "Kebutuhan untuk berinteraksi dengan banyak orang dapat menjadi masalah ketika daftar contact pada telepon selular hilang karena suatu hal tertentu. Dengan ingatan manusia yang terbatas, cukup susah dan membutuhkan waktu untuk mengembalikan contact tersebut seperti sedia kala. Oleh karena itu, back-up and synchronizing contact dibutuhkan untuk mengatasi masalah tersebut. Pada skripsi ini, proses back-up and synchronizing contact tersebut dilakukan dengan bantuan server melalui koneksi internet. Di mana pengguna telepon selular harus terkoneksi ke sebuah account pada website. Aplikasi juga harus telah ter-install pada telepon selular. Pertama kali aplikasi berbasis Java ME ini me-retrieve contact list dari database sehingga pengguna dapat menandai data mana saja yang ingin di-back-up. Kemudian, proses back-up dilakukan. Pada proses synchronizing, aplikasi men-download data contact dari server terlebih dulu. Setelah proses download selesai, synchronizing data contact dilakukan. Aplikasi ini dapat berjalan sempurna pada telepon selular Nokia dengan system operasi S40 6th Editon dan S60, serta Sony Ericsson dengan Java Platform 8 dan terbaru. Penggunaan aplikasi ini dapat berjalan dengan baik dengan ditunjang koneksi internet yang memadai dengan spesifikasi telepon selular yang sesuai.",
+  "creators": "ANGELA FELICIANA SOENJAYA",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Andreas Handojo (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021042/INF/2011; Angela Feliciana Soenjaya (26407021)",
+  "subjects": "CELLULAR TELEPHONE SYSTEMS; CELLULAR TELEPHONE SYSTEMS-COMPUTER PROGRAMS; DATABASE DESIGN; WEBSITES"
+}

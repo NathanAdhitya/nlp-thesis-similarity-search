@@ -1,0 +1,14 @@
+{
+  "id": "52993",
+  "title": "Perancangan dashboard telemetry: studi kasus di tim distribusi PT X",
+  "abstract": "Penelitian ini dilakukan untuk merancang dashboard telemetry di PT X. Telemetry merupakan alat pemantauan tangki dari seluruh pelanggan yang dilayani oleh PT X. Hasil pemantauan yang dilakukan akan berupa data yang beragam dan perlu dilakukan pengolahan untuk menyajikan data kepada Board of Directors untuk melakukan evaluasi performa. Sebelum menggunakan dashboard, perusahaan melakukan pengolahan dan visualisai data secara manual yang sangat memakan waktu dan rawan human error. Permasalahan ini dapat diatasi dengan perancangan dashboard yang bertujuan untuk mempercepat pengolahan data dan mengembangkan visualisasi data menjadi lebih beragam. Dashboard dirancang berdasarkan laporan bulanan yang didapatkan oleh tim business analyst telemetry. Pengolahan data menggunakan Python dan Google Sheets untuk mempercepat proses pengerjaan. Hasil pengolahan data akan divisualisasikan dalam dashboard menggunakan Google Data Studio. Secara keseluruhan, dashboard yang dirancang dapat memberikan gambaran mengenani perbandingan persebaran tangki dengan telemetry, penghematan biaya distribusi dan frekuensi pengisian, dan performa KPI dari pengiriman distribusi yang dilakukan dengan adanya telemetry.",
+  "creators": "JEREMIA",
+  "contributors": "Siana Halim (Advisor 1); Indriati Njoto Bisono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022463/IND/2022; Jeremia (C13180027)",
+  "subjects": "BUSINESS INTELLIGENCE; DASHBOARDS (MANAGEMENT INFORMATION SYSTEMS)"
+}

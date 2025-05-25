@@ -1,0 +1,14 @@
+{
+  "id": "9193",
+  "title": "Perancangan dan pembuatan data warehouse dan OLAP tools pada perusahaan \"X\"",
+  "abstract": "Pada saat ini perusahaan \"X\" menggunakan sistem manual dan menggunakan sistem basis data sederhana untuk melakukan pencatatan mengenai transaksi-transaksi yang dilakukan oleh perusahaan. Sistem transaksi pembelian dan penjualan masih menggunakan catatan manual dan dipadukan dengan aplikasi basis data sederhana untuk menyimpan data dan membuat laporan bagi manajer perusahaan. Sistem yang sudah digunakan perusahaan saat ini tidak mendukung analisis data dan pengambilan keputusan. Berdasarkan latar belakang permasalahan yang dihadapi oleh Perusahaan \"X\", maka dilakukan pembuatan perangkat lunak pendukung pengambilan keputusan dengan menggunakan data warehouse dan OLAP Tools. Aplikasi ini meliputi proses transformasi dari database asal ke database star schema, analisis data melalui tabel dan grafik, pembuatan kubus virtual dan fisikal, pembuatan report. Aplikasi ini menggunakan Borland Delphi 7 untuk bahasa pemrograman dan desain interface, Microsoft SQL Server 2000 sebagai tempat penyimpanan data. Informasi yang dihasilkan dari sistem tersebut adalah pengukuran data penjualan, data retur jual, data pembelian, data retur beli, data pembatalan pembelian oleh pelanggan, dan data pemesanan yang dilakukan oleh pelanggan. Data-data tersebut dapat ditampilkan dari beberapa sudut pandang yang berbeda. Dengan melihat data dari beberapa sudut yang berbeda ini dapat membantu manajer untuk menganalisis lebih banyak hal dari data yang ada. Berdasarkan pengujian oleh user, aplikasi ini mampu mengatasi masalah yang dihadapi perusahaan, akan tetapi aplikasi ini memiliki kelemahan dalam hal tingkat user friendly dan desain tampilan.",
+  "creators": "YOHANES SUBIYANTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Yulia (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000502/INF/2006; Yohanes Subiyanto (26401160)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

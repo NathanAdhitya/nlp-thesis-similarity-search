@@ -1,0 +1,14 @@
+{
+  "id": "14922",
+  "title": "Perencanaan dan pembuatan alat komunikasi emergency antara rumah dan pos keamanan dengan menggunakan mikrokontroller 8031",
+  "abstract": "Kejahatan di kota-kota besar dewasa ini semakin meningkat, terutatoa pada kompleks perurnahan elite. Umumnya pada kompleks perumahan tersefout masyarakatnya bersifat individual yang sangat tinggi. Sehingga apabila terjadi bal'iaya p>ada sal all satu rumah, toaka tetangga di sekitarnya tidak Hiau ikut membantu. Oleh karena itu dibutuhkan suatu system keaiaanan yang cepat dan handal. Pada t-ugas akhir ini direncanakan dan dibuat alat komunikasi emergency antara rumah dan pos kearaanan dengan meriggunakan mikrokontrol ler 8031. Pemilik ruroah mengeset kode riomor rtimah, Kode telepon pos kearaanan dan kode emergency. Kode-kode tersebut akan didisplaykan pada seven segraeri untuk melil'iat pengesetan sudah benar atau tidak. Setelah terjadi suatu emergency maka pemilik rumah menekan tombol secret key kemudian peripheral interface menghubungi 8031 yang berfungsi mengendalikan seluruh kerja dari system. Mikrokontroller 8031 melakukan hubungan ke jaringan telepon melalui IC MT 8880 yang diltubungkan melalui jalur telepon pos kearoanan. Sehingga pada pos keamanan akan dikirim sinyal tone. Kemudian IC MT 8880 memberi tahu Mikrokontroller 8031. Mikrokontroller 8031 akan mensimulasikan seolah-olah telepon off hook. Dengan sistem off hook maka dari rumah akan mengirimkan sinyal emergency. Setelah sinyal emergency diterima maka pada seven segmen akan didisplaykan kode noraor rumah, kode emergency serta metftbunyikan busser, sehirigga bagian keamanan mudah melakukan pelacakan. Hasil pengujian alat dapat bekerja sesuai dengan yang diharapkan dan dapat beroperasi dengan baik.",
+  "creators": "MARIA SILVIA IMAWATI",
+  "contributors": "NAWANTO WIBOWO (Advisor 1); Murtiyanto Santoso (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/022/0179; Maria Silvia Imawati (23486106)",
+  "subjects": "INTEL 8031 (MICROCONTROLLER); AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

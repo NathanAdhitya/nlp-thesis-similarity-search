@@ -1,0 +1,14 @@
+{
+  "id": "27532",
+  "title": "Pemanfaatan PC sebagai digital storage oscilloscope",
+  "abstract": "Dalam dunia elektronika tentunya memerlukan alat-alat ukur untuk menganalisa rangkaian. Alat-alat ukur tersebut sangat beragam, salah satu alat ukur yang multifungsi yaitu oscilloscope. Oscilloscope merupakan alat ukur yang jarang dimiliki oleh orang elektronika karena harganya yang mahal. Kebanyakan orang sekarang telah memiliki PC (Personal Computer), maka dari itu diharapkan orang elektronika mempunyai oscilloscope dengan media PC yang disertai penyimpanan data. Tujuan dari tugas akhir ini adalah merencanakan dan membuat sebuah alat ukur yaitu 2 channel digital oscilloscope yang menggunakan media PC. Sebagai interface alat ke PC menggunakan parallel port. Skala volt/div dari digital oscilloscope adalah 25mV/div, SOmV.div, lOOmV/div, 250mV/div, 500mV/div, IV/div, 2.5V/div. Digital oscilloscope ini memerlukan pengkalibrasian karena kecepatan processor pada komputer PC yang berbeda-beda. Pengujian dilakukan pada 2 komputer dengan processor yang berbeda, yaitu Pentium III-533Mhz, dan Pentium III-lGHz. Program yang dijalankan di Pentium III-lGHz, respon frekuensi input-nyZi dapat mencapai lOOKHz sedangkan di Pentium III-533MHz hanya 40KHz. Dengan demikian semakin cepat processor yang digunakan semakin besar frekuensi input yang dapat ditampilkan. Digital storage oscilloscope ini hanya bisa digunakan untuk mengamati sinyal yang periodik, dan tegangan peak to peak pada sinyal input dapat mencapai 20 Volt.",
+  "creators": "RONY KRISTIANTO WIBOWO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/E/EL/003/549; Rony Kristianto Wibowo (23497027)",
+  "subjects": "CATHODE RAY OSCILLOSCOPE-COMPUTER PROGRAMS; PC (PERSONAL COMPUTER)"
+}

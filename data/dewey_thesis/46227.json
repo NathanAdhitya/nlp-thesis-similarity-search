@@ -1,0 +1,14 @@
+{
+  "id": "46227",
+  "title": "Pembuatan sistem rumah pintar dengan voice assistant di Raspberry Pi",
+  "abstract": "Pada dewasa ini, IoT (Internet of Things) telah menjadi sebuah trend yang terus berkembang di kalangan masyarakat. Perkembangan IoT yang terjadi dengan cepat membuka banyak potensi dari teknologi yang sebelumnya belum terlihat, salah satunya rumah pintar. Rumah pintar merupakan kumpulan dari sensor-sensor yang saling terhubung dan dapat dikendalikan melalui internet untuk mengawasi keadaan di dalam atau di sekitar rumah. Tujuan dari rumah pintar adalah meningkatkan kualitas hidup dari pengguna dengan cara mengkoneksikan sensor- sensor dan objek pintar lainnya yang dapat dikendalikan atau diakses melalui perangkat mobile atau komputer. Sama halnya seperti dengan Voice Assistant yang sekarang juga sedang berkembang dengan pesat. Dalam kehidupan sehari-hari tidak jarang kita berinteraksi dengan salah satu dari banyaknya Voice Assistant yang sudah ada seperti Alexa dari Amazon, Siri dari Apple, Google’s Assistant dari Google dan banyak lagi. Sistem ini dapat mengendalikan rumah menggunakan 2 microkontroller, yaitu Raspberry Pi dan Wemos D1 Mini EPS8266. Kedua microkontroller ini dapat dikendalikan menggunakan perintah suara dan juga melalui website. Untuk mengendalikan lampu pengguna dapat mengucapkan kata-kata yang mengandung keywords untuk menjalankan perintah. Perintah suara dapat dilakukan dalam jangkauan 5 meter dari microphone. Pengguna juga dapat mengucapkan kalimat dengan grammar yang tidak benar atau pun kalimat yang salah selama kalimat tersebut memiliki kata kunci untuk menjalankan perintah, perintah akan tetap dijalankan. Selain itu juga sistem ini dapat mengendalikan peralatan yang memiliki IR Receiver dengan menggunakan IR LED dan perintah yang sudah disimpan terlebih dahulu. Selama peralatan dapat terhubung dengan relay atau memiliki IR Receiver maka alat tersebut dapat dikendalikan oleh sistem dan dikendalikan oleh pengguna dari manapun.",
+  "creators": "FELIX HARTONO",
+  "contributors": "Resmana Lim (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Justinus Andjarwirawan (Examination Committee 1); Handry Khoswanto (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021963/INF/2020; Felix Hartono (26415119)",
+  "subjects": "RASPBERRY PI (COMPUTER)--PROGRAMMING; RASPBERRY PI (COMPUTER)"
+}

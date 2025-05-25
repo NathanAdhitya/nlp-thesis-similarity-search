@@ -1,0 +1,14 @@
+{
+  "id": "12771",
+  "title": "Perencanaan dan pembuatan auto focus pada overhead projektor dengan menggunakan mikrokontroler 8031",
+  "abstract": "Auto focus pada overhead projektor adalah suatu pengembangan dari overhead projektor dengan ditambahkannya sistem penempatan fokus secara otomatis. Auto focus pada overhead projektor adalah kesatuan proses yang meliputi pengukuran jarak lensa terhadap layar, pengkonversian data hasil pengukuran jarak menjadi konstanta yang menentukan jumlah putaran motor stepper, penampilan display dalam satuan centimeter dari jarak hasil pengukuran, pengaturan putaran motor stepper untuk menempatkan lensa overhead projektor dalam kondisi fokus. Sebagai transmisi gerak dari putaran motor stepper dipergunakan sistem ulir sebagai penggerak tungkai lensa secara vertikal. Untuk pengukuran jarak lensa terhadap layar diperlukan sepasang sensor ultrasonik dengan format gelombang tertentu untuk mengurangi faktor kesalahan pengambilan data gelombang terpantul, dimana waktu dari pemantulan gelombang ultrasonik ini yang digunakan untuk mendapatkan data penempatan lensa oleh motor stepper. Kedudukan titik fokus terukur dari perubahan kedudukan (perpindahan) lensa terhadap ketajaman gambar dapat dihasilkan secara efektif antara 120 cm sampai dengan 200 cm kedudukan layar terhadap sensor Minimum sistem 8031 yang mengatur pengkonversian konstanta waktu menjadi besaran jarak yang digunakan untuk menggerakkan motor stepper sebagai pengatur posisi lensa, sekaligus menampilkannya posisi jarak pada peraga tujuh segment, dengan 8031 assembly pada perangkat lunaknya.",
+  "creators": "LIENIWATI",
+  "contributors": "HANDAYANI T. (Advisor 1); IRWAN SAHLI (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/018/0175; Lieniwati (23489016)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; MICROCONTROLLER 8031"
+}

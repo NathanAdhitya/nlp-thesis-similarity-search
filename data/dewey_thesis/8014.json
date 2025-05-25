@@ -1,0 +1,14 @@
+{
+  "id": "8014",
+  "title": "Pembuatan sistem informasi akuntansi dan analisis laporan keuangan di badan pengelola kondominium puncak marina",
+  "abstract": "Badan Pengelola Kondominium Puncak Marina adalah sebuah perusahaan yang bergerak dalam bidang usaha sewa menyewa apartemen. Sistem yang digunakan sekarang termasuk semi otomatisasi. Analisis laporan keuangan masih belum dilakukan. Untuk pencatatan transaksi masih dikerjakan manual sehingga harus ada pencatatan ulang ke dalam komputer. Oleh karena itu dibutuhkan sistem informasi akuntansi yang terintegrasi, untuk memproses pencatatan secara otomatis dan menghasilkan infomasi yang tepat. Perancangan desain sistem yang baru menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk membuat desain struktur tabel dan relasi antar tabel. Database dibuat dengan menggunakan SQL Server 2000. Aplikasi dibuat dan dikembangkan dengan menggunakan bahasa pemrograman Borland Delphi 7.0. Program yang dibuat meliputi: modul transaksi kas, akuntansi, dan analisa laporan keuangan. Dari hasil pengujian program menunjukkan bahwa program ini mampu memproses data akuntansi yang berhubungan dengan transaksi kas secara otomatis, tanpa perlu ada kerja ganda dan menghasilkan informasi berupa laporan keuangan (arus kas, laba rugi, perubahan modal dan neraca) dan analisa laporan keuangan.",
+  "creators": "LYLY WINARTA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Alexander Setiawan (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010676/INF/2007; Lyly Winarta (26402043)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

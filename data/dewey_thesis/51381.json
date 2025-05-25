@@ -1,0 +1,14 @@
+{
+  "id": "51381",
+  "title": "Analisis sentimen ulasan restoran menggunakan metode support vector machine",
+  "abstract": "Ulasan restoran yang ada di internet memiliki pengaruh yang sangat besar bagi suatu restoran. Ulasan yang diberikan membantu pelanggan lain untuk mengevaluasi usaha atau servis yang diberikan dari suatu restoran. Pelanggan dapat memberikan ulasan positif atau negatif. Banyaknya ulasan dari pelanggan membuat restoran kesulitan untuk mengetahui apakah restoran mereka memiliki lebih banyak ulasan positif atau negatif. Pada skripsi ini akan dibuat aplikasi untuk mengetahui restoran memiliki ulasan positif atau negatif. Aplikasi yang dilengkapi dengan fitur text mining akan membantu restoran dalam mengevaluasi restorannya. Langkah yang dilakukan adalah preprocessing yang terdiri dari case folding, tokenization, stopword removal, dan stemming. Lalu proses mengubah data teks menjadi vector menggunakan TF-IDF. Selanjutnya data akan dilatih menggunakan metode Support Vector Machine yang menghasilkan model yang akan digunakan untuk melakukan prediksi dari data input. Data yang dilatih adalah ulasan berbahasa Indonesia dari berbagai restoran. Hasil dari penelitian yang dilakukan menghasilakn akurasi sebesar 93% dan f1-score sebear 93%. Dari penelitian ini juga menunjukkan bahwa untuk meningkatkan nilai akurasi dan f1-score, model klasifikasi SVM membutuhkan parameter TF-IDF min_df sebesar 0.05, max_df sebesar 0.75, norm l2, n-gram (1, 2), kernel SVM linear dengan C sebesar 1. Selain parameter TF-IDF dan SVM, jumlah dataset juga dapat meningkatkan nilai akurasi dan f1-score.",
+  "creators": "YOEL JULIANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1); Hans Juwiantho S.Kom., M.Kom (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022106/INF/2021; Yoel Julianto (26416070)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); RESTAURANTS; SUPPORT VECTOR MACHINES"
+}

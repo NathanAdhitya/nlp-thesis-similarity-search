@@ -1,0 +1,14 @@
+{
+  "id": "29721",
+  "title": "Analisa dan penerapan manajemen risiko pada proyek RFID di Perpustakaan UK Petra",
+  "abstract": "Universitas Kristen Petra memiliki unit organisasi yakni Perpustakaan yang menyediakan layanan koleksi. Perpustakaan Universitas Kristen Petra sedang merencanakan pengimplementasian sistem RFID terhadap koleksi-koleksinya. Setiap koleksi di perpustakaan memiliki nomor induk, dan fungsi dari nomor induk tersebut sebagai nomor khusus yang setiap koleksinya pasti memiliki nomor yang berbeda. Nomor induk akan digunakan dalam proses pencarian, dan sirkulasi. Cara pembacaan nomor induk ini bisa dengan barcode, maupun dengan RFID, dengan tujuan mempermudah proses pemberian layanan informasi pencarian koleksi, peminjaman, dan sebagai fungsi keamanan dari koleksi tersebut. Permasalahan sistem barcode saat ini adalah tidak adanya sistem keamanan, proses pencarian buku yang susah, dan proses sirkulasi check in dan check out yang lama. Hal ini dapat meningkatkan angka kerugian bagi perpustakaan baik sisi aset, maupun di sisi kepuasan pengguna perpustakaan. Untuk itu dibutuhkan suatu analisis risiko, yang bertujuan menganalisis faktor-faktor risiko apa saja yang mengganggu proses bisnis perusahaan dan memberikan respon terhadap risiko tersebut. Pada skripsi ini, dilakukan proses risk assessment terhadap sistem RFID yang akan diimplementasikan di perpustakaan dan membuat analisis berdasarkan dokumen standar NIST SP800-98 Guidelines for Securing Radio Frequency Identification (RFID) Systems sebagai dasar poin-poin dalam mengidentifikasi risiko, dan dokumen standar NIST SP800-30 Guide for Conducting Risk Assessments untuk proses penilaian risiko yang ditemukan. Faktor risiko dikategorikan menjadi dua, yaitu business process risk dan intelligence process risk. Berdasarkan pengujiannya, faktor-faktor risiko disebabkan karena tidak adanya kontrol keamanan untuk server.",
+  "creators": "CHRIS WINOTO",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Ibnu Gunawan (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021293/INF/2014; Chris Winoto (26409042)",
+  "subjects": "LIBRARY-AUTOMATION; RISK MANAGEMENT"
+}

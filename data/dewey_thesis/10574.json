@@ -1,0 +1,14 @@
+{
+  "id": "10574",
+  "title": "Perencanaan dan pembuatan kontrol temperatur dengan kontrol PID dan Auto-tunning menggunakan metode Ziegler-Nichols berbasis PLC : sysmac programmable controller C-200H antara 25 C - 80 C",
+  "abstract": "Teknologi kontrol digital pada sektor industri akhir-akhir ini berkembang sangat pesat seiring dengan kemajuan teknologi komputer dalam waktu yang relatif singkat. Kontrol yang serba automatik mampu mengontrol suatu \"plant\" dengan performansi sistem yang baik. Hal ini dapat dilakukan karena kemampuannya dalam melakukan proses \"learning\" terhadap dinamika/ tingkah laku suatu \"plant\", sehingga didapatkan suatu hasil dan aksi pengontrolan yang sesuai dan baik. Untuk itu perlunya pengontolan suhu zat cair dengan performansi yang baik dan sesuai dengan plantnya. Implementasi PID Controller dilakukan pada pengontrolan suhu zat cair (air) dalam suatu plant pada temperatur antara suhu kamar sampai dengan 80?C. Kontroler tersebut menggunakan PLC (Sysmac Programmable Controller C-200H), dan dengan perantaraan ASCII unit, PLC dapat melakukan proses perhitungan matematis kontrol PID, penalaan/prediksi harga Kp, Ki, dan Kd, serta mampu berkomunikasi dengan komputer. Konstanta-konstanta PID yang diperoleh dimasukkan ke dalam perumusan/ persamaan PID, yang selanjutnya menghasilkan aksi pengontrolan yang sesuai untuk mengatur temperatur air dari suatu plant pada harga setting point yang diinginkan. Untuk interfacing digunakan Rangkaian Pengkondisi Sinyal (RPS) dan Analog to Digital Converter (ADC).",
+  "creators": "ANDOJO ONGKODJOJO",
+  "contributors": "SUPENO DJANALI (Advisor 1); VINCENT PRASETYO (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/043/0200; Andojo Ongkodjojo (23489075)",
+  "subjects": "ELECTRONIC APPARATUS AND APPLIANCES TEMPERATURE CONTROL; AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

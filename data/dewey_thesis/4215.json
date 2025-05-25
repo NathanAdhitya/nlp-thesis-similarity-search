@@ -1,0 +1,14 @@
+{
+  "id": "4215",
+  "title": "Perancangan dan pembuatan sistem informasi pemesanan, pembelian dan penjualan pada Supermarket Omega",
+  "abstract": "Supermarket Omega adalah sebuah perusahaan perseorangan yang bergerak di bidang pemasaran yang menjual barang-barang kebutuhan sehari-hari. Selama ini untuk mengecek stok, melakukan pemesanan dan pembayaran ke supplier masih dilakukan secara manual. Tidak ada database yang menyimpan data barang-barang yang disuplai oleh satu supplier sehingga supplier harus menghitung secara manual. Supplier harus men-input sendiri data order dengan melihat jumlah barang yang disuplai oleh supplier tersebut. Kesulitan lain yang timbul adalah mengetahui stok setiap item barang, mengetahui hutang dan piutang dalam setiap transaksi pembelian dan penjualan, serta mencatat barang yang rusak dan yang dikembalikan. Pada Tugas Akhir ini, dirangkai beberapa proses atau transaksi yang terkait dengan sistem pemesanan, pembelian dan penjualan. Perangkat lunak ini dibuat dengan menggunakan sistem operasi Windows 2000 Advanced Server. Database yang digunakan adalah SQL Server 2000 dan bahasa pemrograman yang digunakan adalah Borland Delphi 7.0. Proses desain mulai dari sistem flow, Data Flow Diagram (DFD) sampai dengan Entity Relationship Diagram (ERD). Proses implementasi program dalam bahasa pemrograman Delphi yang memanfaatkan basis koneksi ke ODBC Database Source Administrator. Perangkat lunak yang dihasilkan ini dapat mengetahui stok barang per supplier, stok semua barang, hasil pembelian, penjualan dan laporan rugi laba. Supermarket Omega dapat setiap saat mengetahui jumlah hutang dan piutang dengan adanya laporan hutang dan piutang. Laporan retur penjualan dan retur pembelian dapat memberikan informasi tentang barang yang rusak karena selama ini tidak pernah dicatat oleh Supermarket Omega.",
+  "creators": "HERLINA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000287/INF/2004; Herlina (26400012)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN; INFORMATION RESOURCES MANAGEMENT-COMPUTER PROGRAMS"
+}

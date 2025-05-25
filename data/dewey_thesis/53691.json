@@ -1,0 +1,14 @@
+{
+  "id": "53691",
+  "title": "Sistem registrasi dan identifikasi wajah untuk akses fasilitas Universitas Kristen Petra dengan kombinasi Facenet dan Hierarchical Navigable Small Worlds",
+  "abstract": "Kartu Tanda Mahasiswa digunakan untuk menggunakan fasilitas dan acara Universitas Kristen Petra. Masalah yang dapat timbul dengan kartu-kartu tersebut adalah penyalahgunaan oleh oknum-oknum yang tidak bertanggungjawab. Karena itu, Universitas memerlukan sistem identifikasi wajah sebagai alternatif pengganti. Tujuan penelitian ini adalah untuk Menyusun sistem identifikasi wajah yang cepat, akurat, dan mudah digunakan. Metode yang dipakai untuk menyelesaikan masalah diatas adalah kombinasi metode Facenet dan Hierarchical Navigable Small Worlds (HNSW). Facenet digunakan dalam pengolahan data wajah sebagai vektor 128 dimensi yang akan digunakan untuk searching. HNSW merupakan metode pencarian k Nearest Neighbors yang digunakan dalam melakukan pencarian dalam Jumlah yang besar. Dengan menggunakan metode ini, sistem melakukan identifikasi wajah dalam waktu rata-rata 1 detik.",
+  "creators": "AUGUST BERLIN TUNGKA",
+  "contributors": "Liliana (Advisor 1); Rolly Intan (Advisor 2); Gregorius Satiabudhi (Examination Committee 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022205/INF/2022; August Berlin Tungka (C14180003)",
+  "subjects": "HUMAN FACE RECOGNITION (COMPUTER SCIENCE); IMAGE PROCESSING--DIGITAL TECHNIQUES--SOFTWARE; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

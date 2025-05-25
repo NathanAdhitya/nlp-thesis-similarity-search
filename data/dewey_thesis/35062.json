@@ -1,0 +1,14 @@
+{
+  "id": "35062",
+  "title": "Analisa risiko pada bidang software acquisition, implementation, dan maintenance PT Z",
+  "abstract": "PT Z adalah sebuah perusahaan percetakan yang berpusat di sidoarjo dan menangani berbagai customer baik di dalam maupun di luar negeri. Teknologi informasi sudah dimanfaatkan untuk mendukung hampir di semua proses yang ada pada PT Z, akan tetapi belum pernah dilakukan analisa risiko sehingga perusahaan tidak dapat mengetahui tentang risiko IT apa saja yang dapat terjadi. Untuk itu dibutuhkan sebuah analisa risiko sehingga perusahaan dapat mengetahui risiko apa saja yang dapat terjadi dan bagaimana menyikapi risiko tersebut. Pada skripsi ini, dilakukan proses risk assessment terhadap proses software acquisition, implementation, dan maintenance. Langkah-langkah yang digunakan dalam melakukan risk assasment tersebut yaitu mengukur tingkat kedewasaan IT perusahaan menggunakan Capability Maturity Model Integration (CMMI), kemudian melakukan mapping CMMI kepada COBIT 4.1, dan menggunakan OWASP Risk Rating Methodology sebagai pedoman dalam melakukan perhitungan risiko. Beberapa faktor risiko yang ditemukan antara lain belum adanya proses monitoring menggunakan metriks nilai yang jelas, tidak ada identifikasi proses IT yang berpengaruh besar pada proses bisnis perusahaan, serta tidak adanya verifikasi nilai hasil pengumpulan data monitoring.",
+  "creators": "ALBERT KURNIAWAN",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Ibnu Gunawan (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021421/INF/2015; Albert Kurniawan (26411099)",
+  "subjects": "SOFTWARE MAINTENANCE; RISK ASSESSMENT; INFORMATION-TECHNOLOGY-MANAGEMENT; ANALYSIS, RISK"
+}

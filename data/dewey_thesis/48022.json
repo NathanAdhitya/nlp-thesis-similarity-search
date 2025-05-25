@@ -1,0 +1,14 @@
+{
+  "id": "48022",
+  "title": "Metering cerdas 1 fasa",
+  "abstract": "Power meter digunakan untuk memantau penggunaan energi listrik pada sebuah bangunan seperti rumah tinggal. Untuk melihat secara mendetail penggunaan listrik pada satu rumah, digunakan power meter yang dapat mengukur listrik 1 fasa. Karena letak power meter harus berdekatan dengan MCB box, maka memerlukan power meter dengan fitur komunikasi data agar data pembacaan energi listrik dapat dikirimkan dan dikumpulkan secara terpusat. Sistem dibuat dengan menggunakan perangkat yang dapat berkomunikasi dengan power meter. Perangkat yang digunakan dan dapat berkomunikasi dengan power meter adalah raspberry pi. Raspberry pi berfungsi untuk menerima dan mengolah data dari power meter. Selain itu raspberry pi juga berfungsi untuk menampilkan data penggunaan energi listrik menuju halaman web. Raspberry pi juga akan mengirim notifikasi menuju smartphone atau PC apabila terjadi penyimpangan terhadap energi listrik yang tidak sesuai dengan standar ketentuan. Sistem yang telah dibuat menghasilkan perangkat yang dapat mengirimkan data power meter menuju server, halaman web untuk tampilan data power meter beserta halaman untuk mengatur batas saat terjadi penyimpangan, sistem database untuk menyimpan data dari power meter, dan sistem notifikasi yang dikirimkan melalui e-mail.",
+  "creators": "HANDI YOHANES",
+  "contributors": "Julius Sentosa Setiadji (Advisor 1); Felix Pasila (Advisor 2); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1); Emmy Hosea (Examination Committee 2); Resmana Lim (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010661/ELK/2020; Handi Yohanes (23416022)",
+  "subjects": "RASPBERRY PI (COMPUTER); ELECTRIC POWER SYSTEMS-CONTROL; RASPBERRY PI (COMPUTER)--PROGRAMMING"
+}

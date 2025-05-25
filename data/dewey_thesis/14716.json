@@ -1,0 +1,14 @@
+{
+  "id": "14716",
+  "title": "Perencanaan dan pembuatan timer empat chanel dengan jangka waktu satu minggu yang dapat diisi delapan acara menggunakan mikrokontroller 68HC11",
+  "abstract": "Dengan menggunakan rangkaian timer yang berbasiskan mikrokontroller 68HC11, maka peralatan dapat diatur secara otomatis waktu ' on' maupun 'off nya. Peralatan dapat diatur hingga jangka waktu satu minggu dengan delapan acara dan dapat digunakan untuk mengatur empat device yang berbeda. Interfacing rangkaian timer dengan peralatan yang akan dikontrol dilakukan oleh relay. PPI 8255 digunakan sebagai I/O device yang mengatur display LCD sebagai tampilan dan keypad sebagai input dari pengesetan waktu. Time base dari rangkaian timer diambil dari main timer dalam 68HC11. Pengaturan waktu 'on' dan 'off didasarkan pada perbandingan antara pengesetan waktu 'on' dan 'off tiap channel dengan time default pada timer. Jika waktunya sesuai, maka channel yang bersangkutan akan 'on' dan 'off sesuai dengan pengesetannya. Pengujian dilakukan dengan membandingkan waktu default pada timer dengan Casio Q600-AV. Hasil yang didapatkan menunjukkan error sebesar 46 detik dalam tiga hari pengujian.",
+  "creators": "HENDRI SUTANTO",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Examination Committee 1); HERLIANTO TENGGARA (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/015/360; Hendri Sutanto (23492070)",
+  "subjects": "AUTOMATIC TIMERS; MICROCONTROLLER 68HC11"
+}

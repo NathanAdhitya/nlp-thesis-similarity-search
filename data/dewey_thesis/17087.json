@@ -1,0 +1,14 @@
+{
+  "id": "17087",
+  "title": "Perancangan dan pembuatan aplikasi sistem informasi psikotes pada pusat karir Universitas Kristen Petra",
+  "abstract": "Pusat Karir Universitas Kristen Petra adalah biro yang menyelenggarakan psikotes bagi calon mahasiswa, mahasiswa universitas maupun peserta dari luar universitas. Selama ini pembuatan, pengerjaan, dan hasil pengolahan dari psikotes berbentuk laporan tertulis. Seiring dengan berlalunya waktu, soal maupun hasil jawaban dari peserta psikotes menjadi semakin banyak sehingga muncullah kesulitan dalam penyimpanan data, serta sukar untuk menemukan soal-soal tertentu yang telah tersimpan dalam waktu yang lama. Untuk mengatasi masalah tersebut, dibuatlah program psikotes yang memungkinkan bagi Pusat Karir untuk menyimpan dan membuat soal, serta menyelenggarakan psikotes bagi peserta secara terkomputerisasi. Program ini dapat menginputkan soal yang bertipe satuan, soal pilihan ganda, dan soal cerita. Dalam pengerjaan skripsi ini, bentuk tes yang dijadikan pengujian bertipe MBTI (Myers-Brigg Type Indicator) yang kemudian datanya diolah menggunakan Euclidean Distance yang menghasilkan data kecocokan dengan pekerjaan tertentu. Aplikasi ini dibuat dengan Visual Basic 2005 dan Microsoft SQLServer 2005 Dalam pengujiannya, tampak bahwa aplikasi psikotes ini telah berjalan dengan baik dalam membantu pembuatan, penyimpanan dan pengorganisasian data soal dan peserta, serta penyelenggaraan psikotes. Selain itu, program ini telah berhasil menjalankan psikotes MBTI dengan lebih dari satu peserta tes dalam waktu tes yang bersamaan. Sistem psikotes ini telah diujikan dengan menyebarkan kuisioner pengujian dan memperoleh nilai rata-rata 2.53 dari skala 1 (terburuk) sampai 4 (terbaik)",
+  "creators": "MELLY PRANITA TJANDRA",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Andreas Handojo (Advisor 2); Arlinah Imam Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020912/INF/2010; Melly Pranita Tjandra (26406018)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

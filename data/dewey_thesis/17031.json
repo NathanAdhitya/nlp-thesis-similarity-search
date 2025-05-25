@@ -1,0 +1,14 @@
+{
+  "id": "17031",
+  "title": "Robot mobil dengan menggunakan sensor kamera untuk mengikuti rambu arah",
+  "abstract": "In this final assignment project, a mobile robot was made with a camera for following direction of the signs. Only four kinds of signs are used. They are turn left sign, turn right sign, turn back sign and stop sign. The picture captured by the camera is changed into Grayscale Image. And then is changed into Binary Image. Filtering process then takes place by using Sobel Operator. Sobel Operator is used for finding the edges of the objects. And then Feature Extraction process takes place in order to get objects by using Chain Code method. Template Matching method is used for recognizing the object. In this method, the object will be compared with the sign databases and results similarity value for each database. The highest similarity value which is greater than 70 % determine the type of the sign. The experiment was done using various signs with different size and the system able to recognize the signs good enough with the highest similarity value was 85 % and the lowest similarity value was 70 %. The experiment was also done in different position of the signs by rotating the sign in horizontal ways or vertical ways. The maximum degree of rotation in horizontal ways for 3 cm x 3 cm signs was 20 degree and for 5 cm x 5 cm signs is 40 degree. And the maximum degree of rotation for 5 cm x 5 cm signs was 20 degree.",
+  "creators": "HANDRY MULYADI HARYANTO",
+  "contributors": "Thiang (Advisor 1); Yohanes Trilaksono Dibyo S. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/031/545; Handry Mulyadi Haryanto (23497063)",
+  "subjects": "ROBOTS"
+}

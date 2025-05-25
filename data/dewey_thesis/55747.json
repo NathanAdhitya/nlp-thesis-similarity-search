@@ -1,0 +1,14 @@
+{
+  "id": "55747",
+  "title": "Rancang bangun sistem meter listrik prabayar dengan pembayaran menggunakan QRIS di rumah kost",
+  "abstract": "Berdasarkan referensi PLN yang telah menerapkan sistem kWh meter prabayar dengan memanfaatkan kemajuan teknologi digital terkini, dimungkinkan para pelaku usaha untuk menerapkan sistem prabayar sebagai reseller tenaga listrik yang menyalurkan energi listrik dari sumber PLN kepada banyak titik pelanggan untuk lingkup yang terbatas, seperti Mall, Home Stay, Pujasera, Food Court, Rumah Kost dan lain-lain. Pada tugas akhir ini, penulis mencoba melakukan rancang-bangun sebuah prototipe meter listrik digital prabayar dengan metode pengisian pulsa listrik melalui media pembayaran online menggunakan QRIS (Quick Response Code Indonesian Standard). Sistem materan prabayar yang dibuat akan terintergrasi dengan sebuah alpikasi payment gateway untuk melakukan transaksi non-tunai. Dalam penelitian ini penulis menggunakan modul mikrokontroler ESP32, output yang terdiri dari solid state relay, LED, buzzer, LCD 16x2, dan sensor PZEM untuk mengukur energi listrik. Sistem materan ini juga dapat dimonitoring secara internet melalui media web. Dari hasil tahapan pengujian yang dilakukan, pengujian ketelitian pengukuran PZEM yang dibandingkan referensi power meter SDM120 menunjukan hasil pembacaan dan analisa matematis pada masing-masing modul mendekati sama. Pengujian transaksi pembelian menggunakan media QRIS berhasil melakukan pengisian ulang pulsa listrik dengan tarif sebesar Rp 1500,- per kWh. Pengujian selanjutnya dilakukan pengujian dengan beberapa jenis beban yang variatif dengan pengisian 5 kWh atau nominal Rp 7,500,-. Pengujian fungsionalitas web dashboard menunjukan fungsi-fungsi monitoring dan pelaporan dari sistem.",
+  "creators": "GREGORIO DIOVANI WAHANIE",
+  "contributors": "Resmana Lim (Advisor 1); Indar Sugiarto (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010150/ELK/2023; Gregorio Diovani Wahanie (C11180040)",
+  "subjects": "ELECTRICAL ENGINEERING"
+}

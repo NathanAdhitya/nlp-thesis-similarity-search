@@ -1,0 +1,14 @@
+{
+  "id": "13671",
+  "title": "Penggunaan algoritma genetika untuk merancang arsitektur jaringan saraf tiruan pada proses peramalan",
+  "abstract": "Peramalan merupakan bagian yang tidak dapat dipisahkan dari proses pengambilan keputusan yang berkaitan dengan perencanaan dan pengendalian dalam dunia industri. Salah satu metode yang diharap dapat mendapatkan akurasi peramalan yang baik adalah Jaringan Saraf Tiruan yang dirancang dengan coba-coba. Tujuan dari tugas akhir ini secara khusus adalah menerapkan algoritma genetika dalam merancang arsitektur jaringan saraf tiruan untuk mendapatkan arsitektur jaringan saraf tiruan yang baik sehingga nilai peramalan yang diperoleh di masa mendatang mendekati nilai sebenamya. Pembahasan difokuskan pada data finansial karena pada data tersebut sering terjadi perubahan mendadak yang mengakibatkan non homogenitas maupun non stasioneritas. Hasil akhir memperlihatkan bahwa arsitektur jaringan saraf tiruan terbaik pada populasi terakhir masih belum optimal tetapi jika dibandingkan dengan metode GARCH(U) , ARCH(l) dan ARIMA (0,1,3) maka metode Neural Network ini lebih baik karena memiliki nilai MSE yang paling kecil.",
+  "creators": "BENIDICTUS JOBEANTO",
+  "contributors": "Siana Halim (Advisor 1); Hany Ferdinando (Advisor 2); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 461/TI-052/2001; Benidictus Jobeanto (25497032)",
+  "subjects": "BUSINESS-FORECASTING; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

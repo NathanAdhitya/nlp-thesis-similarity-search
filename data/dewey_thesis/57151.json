@@ -1,0 +1,14 @@
+{
+  "id": "57151",
+  "title": "Perancangan dan pembuatan modul multi-level dan multi-dimensional market basket analysis pada Odoo (studi kasus: supermarket XYZ)",
+  "abstract": "Odoo merupakan sistem Enterprise Resource Planning (ERP) yang dibangun secara open source dan cukup komprehensif karena menawarkan banyak rangkaian modul bisnis yang terintegrasi. Odoo memiliki lebih dari seribu modul yang digunakan untukmenunjang kebutuhan bisnis perusahaan. Namun dari banyaknya modul yang ada pada Odoo, masih belum terdapat modul data mining. Data mining dapat membantu perusahaan dalam menarik informasi spesifik dari volume data yang besar untuk mendapatkan informasi yang berguna. Fungsi asosiasi atau yang sering disebut Market Basket Analysis (MBA) merupakan salah satu fungsi data mining yang belum terdapat pada Odoo. MBA digunakan untuk melakukan analisis penjualan dengan menemukan keterkaitan antar barang atau barang yangseringkali dibeli secara bersamaan. Berdasarkan permasalahan di atas, maka dirancang modul data mining yaitu Multi-level dan Multi-dimensional Market Basket Analysis. Modul tersebut menggunakan algoritma FP-Growth dengan memanfaatkan data transaksi penjualan. Pengujian modul ini menggunakan data transkasi penjualan dari Supermarket XYZ. Hasil akhir modul ini berupa association rule",
+  "creators": "FELICIA MELODY SINJAYA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); ANDRE GUNAWAN, S.Kom. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Yulia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Recorded results of diligent and systematic inquiry or investigation into a subject made to discover or revise facts, theories, or applications.",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022312/INF/2023; Felicia Melody Sinjaya (C14190089)",
+  "subjects": "DATA MINING--COMPUTER PROGRAMS; ENTERPRISE RESOURCE PLANNING; SALES ACCOUNTING"
+}

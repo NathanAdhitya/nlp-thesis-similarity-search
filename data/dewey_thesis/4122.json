@@ -1,0 +1,14 @@
+{
+  "id": "4122",
+  "title": "Perancangan dan pembuatan program konversi not angka menjadi balok menggunakan borland delphi 5.0",
+  "abstract": "Banyak lagu yang beredar saat ini menggunakan not angka. Sedangkan pemain alat musik yang terbiasa menggunakan not balok, akan mengalami kesulitan dalam membaca not angka tersebut. Untuk ini maka dibuat suatu program yang akan melakukan konversi not angka menjadi not balok. Program aplikasi ini akan mendapatkan inputan berupa not angka. Inputan ini akan diproses menjadi not balok beserta tanda ? tandanya. Proses transposisi dilakukan dengan cara mengubah not angka menjadi not balok berdasarkan tangga nada yang dipilih. Proses transposisi ini dilakukan satu ? persatu untuk setiap not angka, sehingga pada akhirnya seluruh not angka berhasil dirubah menjadi not balok. Dalam proses transposisi ini tanda awal dan tanda accidental perlu mendapat perhatian, karena baik tanda awal maupun tanda accidental akan sangat mempengaruhi hasil transposisi. Setelah proses transposisi selesai, maka akan didapatkan not balok beserta tanda ? tandanya yang merupakan hasil konversi dari not angka yang diinputkan. Pada program aplikasi ini juga terdapat fasilitas untuk mendengarkan bunyi nada dari not balok yang dihasilkan. Program aplikasi ini dibuat dengan menggunakan bahasa pemrogaman Borland Delphi 5.0, dengan menggunakan Microsoft Access untuk penyimpanan database tangga nada. Dari pengujian yang dilakukan berhasil dalam melakukan proses transposisi dari not angka menjadi not balok. Dan dari pembuatan Tugas Akhir ini, diharapkan dapat membantu para pemain musik (khususnya yang terbiasa menggunakan not balok) dalam membaca not angka",
+  "creators": "ANDREW KRISTIAN",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0051/INF/2003; Andrew Kristian (26498032)",
+  "subjects": "SOFTWARE ENGINEERING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

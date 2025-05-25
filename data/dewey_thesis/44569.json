@@ -1,0 +1,14 @@
+{
+  "id": "44569",
+  "title": "Kontrol arah kamera mengikuti obyek menggunakan Raspberry Pi dan PIR sensor",
+  "abstract": "Banyak kamera CCTV yang bekerja secara statis dan melakukan rekaman selama sehari penuh. Tugas akhir ini bertujuan untuk mendesain sistem kamera yang dapat merekam dan memberi notifikasi saat adanya gerakan obyek dan dapat berubah arah mengikuti obyek. Sistem yang dibuat terdiri dari perangkat keras dan program. Didalam sistem terdapat empat sensor PIR yang digunakan untuk mendeteksi gerakan obyek, modul kamera Raspberry Pi dan motor servo yang dikontrol menggunakan Raspberry Pi 3. Setiap sensor PIR diberi penghalang untuk mencegah pembacaan secara bersamaan. Sistem diprogram menggunakan bahasa pemrograman Python. Berdasarkan hasil pengujian sistem yang telah dilakukan, sistem dapat mengirimkan notifikasi dan kamera dapat melakukan rekaman saat obyek terdeteksi. Arah dari kamera dapat diubah oleh motor servo saat obyek bergerak dan berpindah region pendeteksian sensor PIR. Pembacaan sensor PIR secara bersamaan dapat mengakibatkan arah kamera diubah oleh motor servo ke arah yang salah.",
+  "creators": "RAYNALDY RIVALDY LEUW",
+  "contributors": "Thiang (Advisor 1); Handy Wicaksono (Examination Committee 1); Indar Sugiarto (Examination Committee 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010987/ELK/2019; Raynaldy Rivaldy Leuw (23415024)",
+  "subjects": "CLOSED CIRCUIT TELEVISION (CCTV); COMPUTER PROGRAMMING; DIGITAL CAMERAS; ELECTRONIC DIGITAL COMPUTER PROGRAMMING"
+}

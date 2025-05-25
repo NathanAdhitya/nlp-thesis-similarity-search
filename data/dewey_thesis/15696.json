@@ -1,0 +1,14 @@
+{
+  "id": "15696",
+  "title": "Optimasi tata letak pengisian truk kontainer di PT. Wijaya Indonesia Makmur Bicycle Industries",
+  "abstract": "Untuk memenuhi kebutuhan ekspor, maka produk jadi berupa sepeda yang sudah dikemas dalam kardus akan dikirim dengan menggunakan kontainer. Dalam satu kontainer itu sendiri bisa terdiri dari satu atau dua jenis sepeda tergantung pennintaan / order. Masalah yang dihadapi perusahaan adalah kalau dalam satu kontainer berisi dua jenis sepeda yang berbeda, mereka harus menentukan berapa proporsi masing-masing tipe sepeda agar keuntungan dapat dimaksimalkan. Selama ini cara yang diterapkan di perusahaan adalah memasukkan kardus tipe pertama secara manual hingga kurang lebih separuh kontainer, setelah itu sisanya diisi dengan kardus tipe kedua Tujuan tugas akhir ini adalah membantu perusahaan untuk menentukan cara pengisian yang paling baik dan posisi kardus yang tepat sehingga kapasitas ruang sisa kontainer dapat diminimumkan. Penyusunan model untuk memecahkan masalah diatas menggunakan software AMPL (A Mathematic Programming Language). Hasil yang didapat dari program nantinya akan dibandingkan dengan data aktual perusahaan selama ini dengan pertimbangan ukuran kontainer dan tipe kedua kardus sama. Dengan metode bam yang mempertimbangkan cara pengisian dan posisi peletakan kardus, maka hasil yang didapat terbukti lebih optimal. Selama ini dengan ukuran kontainer 40 feet dengan tipe sepeda mini 16\" dan 18\" perusahaan hanya dapat memasukkan 812 buah sepeda. Tapi dengan menggunakan software didapat hasil 859 buah sepeda dengan perincian sepeda tipe 16\" sebanyak 391 buah dan sepeda tipe 18\" sebanyak 468 buah. Jadi total jumlah sepeda yang dapat dimasukkan ke dalam kontainer adaslah 859 buah sepeda. Selain itu keuntungan lain yang didapat dengan menggunakan program yang ada, perusahaan dapat mengetahui berapa jumlah sepeda yang akan dikirimkan sebelum dimasukkan ke dalam kontainer.",
+  "creators": "KIEMILIA HONGTORO",
+  "contributors": "Siana Halim (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 394/TI-121/2000; Kiemilia Hongtoro (25496013)",
+  "subjects": "OPERATIONS RESEARCH"
+}

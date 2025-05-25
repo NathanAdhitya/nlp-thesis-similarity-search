@@ -1,0 +1,14 @@
+{
+  "id": "45503",
+  "title": "Sistem komunikasi Buoy berbasis internet of things",
+  "abstract": "Sistem Internet of Things di dunia perairan khususnya perikanan di Indonesia belum terlalu banyak. Masalah terkait ikan mati secara mendadak masih menjadi permasalahan dan kerugian bagi pembudidaya ikan. Dengan adanya sebuah alat dan sistem Internet of Things di dunia perikanan maka dapat menimalkan kerugian dan memonitoring kondisi perairan. Dalam tugas akhir ini, penulis mengembangkan sebuah sistem untuk tambak udang yaitu sistem notifikasi dan monitoring buoy. Tugas akhir ini dilakukan dengan menggunakan Node-Red sebagai platform pemograman. Hasil dari pembacaan sensor akan tersimpan di database dan dapat dilihat hasilnya melalui web browser secara real time. Hasil dari pengukuran apabila melebihi batas normal parameter kualitas air tambak udang, maka akan memberikan notifikasi ke Email dan Line. Berdasarkan hasil pengujian yang telah dilakukan dapat disimpulkan bahwa notifikasi pada Line dan email berfungsi dengan baik. Dashboard berfungsi dengan baik untuk monitoring dan database berfungsi dengan baik untuk penyimpanan data.",
+  "creators": "HERVIANTO HUTOMO PUTRA",
+  "contributors": "Felix Pasila (Advisor 1); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010988/ELK/2019; Hervianto Hutomo Putra (23412031)",
+  "subjects": "SHRIMP CULTURE; INTERNET OF THINGS"
+}

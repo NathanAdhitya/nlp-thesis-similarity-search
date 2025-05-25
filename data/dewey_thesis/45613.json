@@ -1,0 +1,14 @@
+{
+  "id": "45613",
+  "title": "Analisis beban kerja untuk menghitung jumlah kebutuhan pekerja pada CU Line Condensor di PT XYZ",
+  "abstract": "PT XYZ adalah perusahaan manufaktur yang bergerak di bidang pembuatan produk heat exchanger. Proses produksi di PT. XYZ terbagi menjadi banyak line, salah satunya adalah CU Line Condenser yang membuat produk kondensor. Permintaan yang diperoleh pada PT. XYZ pada tahun 2018 cukup tinggi, sehingga perusahaan melakukan penambahan pekerja dan lembur untuk memenuhi permintaan dari pelanggan ini. Jumlah pekerja yang telah ditambah seharusnya tidak mengakibatkan lembur, begitu juga sebaliknya, akan tetapi kedua hal ini sama-sama terjadi. Hal ini mengakibatkan pengeluaran PT. XYZ untuk gaji kerja dan lembur dari pekerja tinggi. Tujuan dari penelitian ini adalah mengetahui besarnya beban kerja sehingga perusahaan dapat menentukan jumlah pekerja yang dibutuhkan untuk memenuhi permintaan dari pelanggan dengan tepat waktu. Pengerjaan dibagi kedalam lima tahap. Tahap pertama adalah pengambilan data waktu untuk seluruh proses pada CU Line Condenser. Tahap kedua adalah perhitungan waktu baku untuk seluruh proses yang telah diambil data waktunya. Tahap ketiga adalah menghitung dan membandingkan besarnya beban kerja yang dihitung menggunakan waktu proses dari waktu baku, waktu kondisi nyata, dan cycle time formula. Tahap keempat adalah menghitung jumlah kebutuhan pekerja dengan menggunakan analisis beban kerja dan membandingkannya dengan jumlah pekerja aktual. Perhitungan efisiensi pekerja juga dilakukan untuk mendukung hasil yang diperoleh. Tahap kelima adalah membuat usulan cara perhitungan pekerja bila telah diketahui pesanan dan waktu yang tersedia serta jam kerja yang dibutuhkan, analisis contoh perhitungan dengan analisis biaya. Usulan lain adalah tinjauan ulang untuk cycle time formula yang sebaiknya dilakukan oleh perusahaan. Jumlah beban kerja yang dihitung menunjukkan bahwa waktu yang dihasilkan dari cycle time formula kurang tepat karena tidak memperhitungkan jumlah pekerja dan ada permasalahan lain. Perhitungan kebutuhan pekerja menunjukkan jumlah pekerja secara aktual lebih banyak secara signifikan dengan hasil menggunakan waktu baku dan waktu cycle time formula. Efisiensi pekerja yang dihasilkan cukup rendah, efisiensi tertinggi adalah 66.17% pada proses coil assembly di bulan Desember. Usulan perbaikan bila diterapkan maka dapat mengetahui kebutuhan pekerja dengan tepat atau berapa besar permintaan yang bisa diterima.",
+  "creators": "EVAN EDBERT",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Indriati Njoto Bisono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022243/IND/2019; Evan Edbert (25415016)",
+  "subjects": "EMPLOYEES--WORKLOAD; LABOR TIME"
+}

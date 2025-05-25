@@ -1,0 +1,14 @@
+{
+  "id": "8738",
+  "title": "Audit sistem informasi pengendalian aplikasi sistem penerimaan kas mahasiswa universitas Y",
+  "abstract": "Universitas \"Y\" adalah suatu universitas yang menyelenggarakan jasa pendidikan bagi mahasiswa dimana telah menerapkan sistem penerimaan kas mahasiswa yang terkomputerisasi. Penulis telah melakukan survey ke Universitas \"Y\" dan menemukan beberapa kelemahan. Sistem penerimaan kas mahasiswa tersebut mentolerir penyimpanan data kosong karena semua field yang ada tidak diisi, mentolerir pemasukkan nilai negatif sehingga nilai transaksi menjadi negatif, nomor referensi yang tidak diisi dianggap unique oleh sistem, dan sering dijumpai beberapa kesalahan redaksional pada tampilan sistem. Tujuan dari penelitian ini adalah untuk mengetahui implementasi pengendalian aplikasi sistem penerimaan kas mahasiswa Universitas \"Y\" dan menyediakan rekomendasi kepada Universitas \"Y\" atas kinerja sistem informasi tersebut. Penulis melakukan penelitian kualitatif melalui beberapa metode seperti wawancara, dokumentasi, observasi, dan pengujian. Metode tersebut akan membandingkan tujuan audit dan pengendalian aplikasi sistem penerimaan kas mahasiswa Universitas \"Y\". Unit analisis adalah pengendalian input dan output. Penulis menyimpulkan bahwa pengendalian aplikasi sistem penerimaan kas mahasiswa Universitas \"Y\" tidak mencapai tujuannya. Penulis memberikan beberapa rekomendasi kepada Universitas \"Y\".",
+  "creators": "YAN ARTADINATA KUSASI",
+  "contributors": "Sri Maharsi (Advisor 1); Juniarti (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010816/AKT/2007; Yan Artadinata Kusasi (32403041)",
+  "subjects": "AUDITING-DATA PROCESSING; ACCOUNTING"
+}

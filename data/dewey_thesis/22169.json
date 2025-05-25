@@ -1,0 +1,14 @@
+{
+  "id": "22169",
+  "title": "Analisa aliran daya dengan metode Newton-Raphson yang menggunakan pendekatan kuadratis dan penerapannya pada sistim transmisi 150 KV di Jawa Timur",
+  "abstract": "Metode analisa aliran daya merupakan pengembangan dari metode Newton-Raphson yang sudah ada, dengan berdasarkan pada pendekatan Kuadratis. Prinsip utama dari metode ini adalah pengembangan persamaan aliran daya dalam deret Taylor yang dinyatakan sampai suku ketiga atau orde dua secara lengkap. Metode ini dapat mempercepat konvergensi penyelesaian aliran daya, sehingga dapat mengatasi permasalahan konvergensi yang terjadi pada metode Newton-Raphson yang biasa. Metode ini mampu mencapai konvergensi untuk kasus-kasus yang sulit dan menghasilkan suatu penyelesaian dengan kesalahan yang sangat kecil. Pembuktian dari metode ini telah ditunjukkan pada sistem dengan 13 bus yang mengalami permasalahan konvergensi apabila digunakan metode Newton-Raphson yang biasa. Metode ini akan diterapkan pada perhitungan aliran daya untuk sistem transmisi 150 KV di Jawa Timur.",
+  "creators": "TJAHYO PRAYOGO",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); BENYAMIN H. (Advisor 2); HADI SUTRISNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 88/E/TST/002; Tjahyo Prayogo (482041)",
+  "subjects": "ELECTRIC POWER TRANSMISSION"
+}

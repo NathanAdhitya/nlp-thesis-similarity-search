@@ -1,0 +1,14 @@
+{
+  "id": "44810",
+  "title": "Job management system",
+  "abstract": "Tugas ini diprakarsai dan diberikan oleh CytoSmart Technologies B.V., yang berspesialisasi dalam memberikan solusi untuk melacak perilaku sel. Salah satu perangkat, yang disebut Omni, memungkinkan untuk mengambil beberapa gambar sel dan kemudian memprosesnya, misalkan deteksi sel koloni, di cloud dengan menggunakan algoritma yang dipilih oleh pelanggan. Untuk setiap percobaan yang dilakukan oleh pelanggan, Omni mengambil banyak gambar dari sel dan mengunggahnya ke cloud. Di cloud, gambar akan digabungkan dan diproses sesuai dengan algoritma yang dipilih oleh pelanggan. Proses-proses ini berjalan di cloud dan diulangi berdasarkan interval yang ditentukan oleh pelanggan. Saat ini, tidak ada solusi yang diterapkan untuk melacak dan mengetahui apa yang terjadi di sana. Hingga saat ini, tim operasional harus memeriksa database secara langsung untuk mengetahui apakah ada masalah. Selain itu, untuk melakukan kembali percobaan, gagal atau tidak, tim operasional harus melakukan kembali percobaan dari awal. Sistem akan menyediakan cara untuk melacak dan mengelola proses yang terjadi di cloud dan juga menyediakan fitur untuk kembali melakukan percobaan. Penulis berhasil menerapkan pelacakan proses dan pada saat yang sama membuat kode dapat dipelihara dan dikembangkan. Fungsi pemrosesan ulang juga berhasil diterapkan. Solusinya dibangun menggunakan ASP .NET Core dan teknologi terbaru lainnya, seperti Vue.js, Microsoft Azure, dll.",
+  "creators": "HARRY ARIYANTO PUTRA",
+  "contributors": "Miguel van der Heijden (Advisor 2); Maja Pesic (Advisor 1); Erik van der Schriek (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021905/INF/2019; Harry Ariyanto Putra (26415133)",
+  "subjects": "DATABASE MANAGEMENT; WEB DESIGN"
+}

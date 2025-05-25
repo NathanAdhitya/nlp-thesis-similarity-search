@@ -1,0 +1,14 @@
+{
+  "id": "59444",
+  "title": "Optimasi rute kendaraan untuk distribusi material bahan bangunan besi beton dari distributor tunggal menggunakan metode metaheuristik",
+  "abstract": "Distribusi bahan bangunan menjadi faktor kunci dalam pengembangan infrastruktur, dengan besi beton sebagai salah satu material utama. Untuk memperoleh besi beton, distributor berperan penting dalam proses distribusi kepada pelanggan. Proses distribusi berdampak signifikan terhadap keuntungan perusahaan dan kepuasan pelanggan. Pengoptimalan rute distribusi yang sering disebut sebagai Vehicle Routing Problem (VRP), merupakan tantangan kompleks yang dipengaruhi oleh berbagai faktor. Subyek penelitian mencakup perusahaan distributor yang menentukan rute pengiriman besi beton secara manual pada kendaraan sehingga menciptakan kompleksitas tinggi karena melibatkan berbagai faktor seperti jenis kendaraan, jumlah lokasi, kapasitas kendaraan, waktu pengiriman, dan permintaan pelanggan. Terdapat 1 depot pengiriman dan 18 lokasi pelanggan dengan 7 kendaraan berkapasitas 4 ton dan 3 kendaraan berkapasitas 2,2 ton. Penelitian ini mengusulkan penggunaan algoritma optimasi metaheuristik Symbiotic Organisms Search (SOS) untuk meningkatkan efisiensi distribusi besi beton. Ditinjau 2 faktor dalam optimasi rute yaitu Capacitated Vehicle Routing Problem (CVRP) dan Capacitated Vehicle Routing Problem with Time Windows (CVRPTW). Hasil optimasi menunjukkan penghematan biaya sebesar 26,154% untuk CVRP dan 7,505% untuk CVRPTW jika dibandingkan dengan rute eksisting perusahaan. Hal tersebut terjadi karena program dapat menemukan kombinasi rute yang lebih efisien dengan memaksimalkan kapasitas kendaraan dan menemukan jendela waktu pengiriman yang optimal sehingga terdapat penghematan biaya.",
+  "creators": "EZRA KENZIE WIJAYA; DENISH VAPHILIO",
+  "contributors": "Willy Husada, ST.,MT., Msc. (Advisor 1); Ambrosius Matthew Junius Reynaldo, S.T., M.T. (Advisor 2); Doddy Prayogo S.T. (Examination Committee 1); Angela Jasmine Tanya Tjahyana, S.T., M.T. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012715/SIP/2024; Ezra Kenzie Wijaya (B11200108), Denish Vaphilio (B11200114)",
+  "subjects": "METAHEURISTICS; VEHICLE ROUTING PROBLEM"
+}

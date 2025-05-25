@@ -1,0 +1,14 @@
+{
+  "id": "60532",
+  "title": "Pengembangan algoritma durasi lampu lalu lintas berbasis simulasi di Surabaya menggunakan aggregate function",
+  "abstract": "Kemacetan di Surabaya telah berkembang menjadi salah satu masalah krusial yang perlu ditangani segera. Inefisiensi dari pengaturan lampu lalu lintas khususnya durasi lampu menjadi salah satu penyebab utama. Untuk mengatasi permasalahan tersebut perlu adanya sistem perhitungan durasi lampu lalu lintas yang lebih efektif. Pada penelitian ini akan dilakukan pengembangan algoritma durasi lampu lalu lintas dengan pemanfaatan fungsi agregat. Persamaan linear dengan parameter kondisi jalan aktual akan digunakan sebagai input. Simulasi akan dilakukan sebagai bentuk pengujian dengan menggunakan Simulation of Urban MObility atau SUMO. Kawasan Universitas Kristen Petra Surabaya dipilih menjadi objek simulasi. Hasil penelitian menunjukkan bahwa fungsi agregat yang dibuat menghasilkan perhitungan durasi lampu lalu lintas yang baik meskipun masih kurang efisien pada kondisi jalan ramai. Waktu tunggu yang terlalu lama juga dapat menjadi faktor signifikan terjadinya penumpukan kendaraan. SUMO masih kurang optimal dalam mensimulasikan skenario pengujian yang sesuai dengan kondisi aktual. Disarankan untuk mengeksplorasi parameter lainnya dan mempertimbangkan penggunaan logika Fuzzy sebagai salah satu metode pengembangan dinamis.",
+  "creators": "XUCHIN VALEZKA",
+  "contributors": "Rolly Intan (Advisor 1); Liliana (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Gregorius Satiabudhi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022504/INF/2024; Xuchin Valezka (C14200007)",
+  "subjects": "FUZZY LOGIC; TRAFFIC CONGESTION; TRAFFIC ENGINEERING--MANAGEMENT"
+}

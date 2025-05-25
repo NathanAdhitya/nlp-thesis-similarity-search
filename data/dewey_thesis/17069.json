@@ -1,0 +1,14 @@
+{
+  "id": "17069",
+  "title": "Penerapan fuzzy linear programming pada bauran produk di PT. Sinar Angkasa Rungkut Surabaya",
+  "abstract": "PT. Sinar Angkasa Rungkut yang memproduksi Incandescent Lamp dengan sistem job order, dimana terdapat kendala-kendala yang harus dipertimbangkan seperti kapasitas mesin, dan waktu produksi yang pada kenyataannya waktu produksi tidak dapat ditentukan secara pasti (perlu adanya range toleransi). Tujuan tugas akhir ini adalah mengoptimalkan jumlah produk yang berkualitas baik, sekaligus pengalokasian di line mana type-type produk yang dipesan akan diproduksi dengan tetap mempertimbangkan faktor-faktor yang berpengaruh pada lantai produksi. Faktor waktu dan kapasitas mesin yang pada kenyataannya mengandung range toleransi dari nilai ideal yang ingin dicapai, seperti waktu produksi yang tidak dapat berlangsung pasti selama 24 jam penuh. Masalah ini diselesaikan dengan metode Fuzzy Linear Programming dan perhitungannya menggunakan bantuan software AMPL. Diperoleh hasil bahwa semua permintaan order dapat terpenuhi. Selain itu diketahui bahwa dengan pertimbangan prosentase cacat yang minimum maka tidak semua line yang telah ditetapkan untuk memproduksi beberapa type lampu tertentu digunakan sesuai dengan ketentuan tersebut.",
+  "creators": "EVA MERLINA DAMA PURNAMA",
+  "contributors": "I Nyoman Sutapa (Advisor 1); Danny Prabowo Soetanto (Advisor 2); Siana Halim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 371/TI-98/2000; Eva Merlina Dama Purnama (25496047)",
+  "subjects": "DECISION-MAKING-MATHEMATICAL MODELS; OPERATIONS RESEARCH-MATHEMATICAL MODELS"
+}

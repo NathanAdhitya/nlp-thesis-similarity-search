@@ -1,0 +1,14 @@
+{
+  "id": "10742",
+  "title": "Sistem pakar pengenalan jenis-jenis anjing berdasarkan database dog food Purina",
+  "abstract": "Anjing merupakan salah satu jenis hewan ciptaan Tuhan yang sangat berguna bagi manusia yang sangat beraneka ragam dan diperlukan klasifikasi jenis anjing untuk mengenali jenis anjing yang ada, dan untuk membantu pengenalan jenis anjing ini dapat digunakan suatu sistem yang dapat mengadopsi kemampuan para pakar dalam mengklasifikasi jenis anjing. Dengan kemajuan jaman dan teknologi, maka muncul teknologi yang mampu mengadopsi proses dan cara berpikir manusia dalam menangani atau mengenali sesuatu, yaitu Artificial Intelligence atau kecerdasan buatan, salah satu aplikasinya untuk mengenali sesuatu sesuai pemikiran seorang pakar, yaitu Expert System atau sistem pakar. Dalam Sistem Pakar terdapat suatu pengetahuan dasar {knowledge base) yaitu pengetahuan dari proses pemasukkan data dalam suatu bidang tertentu sesuai dengan cara berpikir seorang pakar di bidang tersebut. Dalam penyusunan knowledge base diperlukan suatu aturan dasar {ride base) yang mengatur sistem pakar dalam aplikasi knowledge base yang ada. Saat ini banyak program sistem pakar yang memuat rule base dalam suatu pemecahan masalah, salah satunya adalah program VPExpert, karena itu dalam Tugas Akhir ini digunakan program Borland Delphi yang ditunjang dengan program VPExpert untuk mendukung pencarian data pada inference engine berdasarkan rule base yang ada untuk mendapatkan goal atau tujuan yang diinginkan oleh pemakai atau user. Untuk mendapatkan goal yang pasti maka digunakan dua macam rule base, yaitu rule base dengan ciri khusus yang menggunakan metode backward chaining dan rule base dengan ciri umum yang menggunakan metode forward chaining. Dalam pencarian data dengan program Delphi dapat ditampilkan lebih dari satu goal/tujuan data anjing yang dicari, karena jenis anjing yang hampir sama jenisnya dapat langsung ditampilkan sesuai dengan nama jenis anjing tersebut, sedangkan dalam VPExpert hanya dapat menampilkan satu nama jenis anjing sebagai goal/tujuan akhir yang kemudian ditampilkan melalui program Delphi. Dalam Tugas Akhir ini, diperoleh pengujian sistem pakar dengan cara backward chaining (dalam program Delphi-pencarian dengan gambar) dapat membuat sistem dapat mencari tujuan (goal) yang lebih cepat dan tepat dibanding metode forward chaining (dalam program VPExpert-pencarian dengan teks).",
+  "creators": "MICHAEL RAHARDJA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/KOM/014/071; Michael Rahardja (23494042)",
+  "subjects": "ARTIFICIAL INTELLIGENCE-COMPUTER PROGRAMS; EXPERT SYSTEMS (COMPUTER SCIENCE)"
+}

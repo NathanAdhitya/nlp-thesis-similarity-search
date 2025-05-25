@@ -1,0 +1,14 @@
+{
+  "id": "8786",
+  "title": "Perancangan dan pembuatan perangkat lunak pengubah video background secara real time",
+  "abstract": "Sebagai salah satu bagian yang cukup penting dalam dunia hiburan, broadcasting adalah salah satu bagian yang cukup rumit. Biasanya acara broadcasting memerlukan background yang sulit dipersiapkan dan beragam agar acara lebih menarik. Maka pada Tugas Akhir ini akan dilakukan pembuatan perangkat lunak pengubah video background dari webcam atau dari dua file AVI agar lebih menarik atau indah. Pembuatan Tugas Akhir ini dengan menggunakan perangkat lunak Borland delphi7. Pembuatan Tugas Akhir ini dimulai dengan mendesain sistem dari perangkat lunak, yang kemudian dilanjutkan dengan desain untuk interface. Setelah desain interface selesai dimulai dengan pembuatan program untuk menampilkan hasil capture dari webcam, dilanjutkan dengan proses ekstrak dari file AVI, dilanjutkan dengan penerapan metode-metode untuk mendeteksi dan mengubah warna background beserta boundary, proses terakhir yaitu proses save dimana hasil dari pengolahan tersebut dijadikan suatu file AVI. Hasil pembuatan Tugas Akhir ini berupa sebuah perangkat lunak yang dapat melakukan proses untuk mengubah background dari frame yang di-capture oleh webcam maupun dari suatu file AVI foreground. Hasil pengolahan tersebut disimpan dalam bentuk file yang memiliki format AVI.",
+  "creators": "HENRY TEDJOWARSITO",
+  "contributors": "Rudy Adipranata (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010633/INF/2007; Henry Tedjowarsito (26402092)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

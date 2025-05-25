@@ -1,0 +1,14 @@
+{
+  "id": "14429",
+  "title": "Perencanaan dan pembuatan pengontrol temperatur cairan dengan kontrol fuzzy logic berbasis PLC C200H dan prosesor fuzzy FZ001",
+  "abstract": "Perkembangan fuzzy logic dalam bidang kontrol berkembang sangat pesat. Selain karena sederhana, mudah dipakai, ekonomis serta perancangan yang cepat, penampilannya dianggap lebih unggul dibanding pengontrol konvensional. Sistem pengontrol temperatur cairan yang akan dibahas memakai prosesor fuzzy FZ001 untuk melakukan fuzzifikasi, inferensi, dan defuzzifikasi. PLC C200H digunakan terutama untuk konversi harga-harga dan mengatur lalu-lintas data antara FZ001 dengan ADC dan DAC. Knowledge base dirancang dan di-download dari sebuah personal komputer yang dihubungkan langsung dengan FZ001. Pengujian dilakukan pada suhu 25? - 75? C dalam keadaan tanpa dan dengan gangguan pada sistem. Gangguan berupa aliran air dingin dalam pipa tembaga. Volume air yang dikontrol delapan liter dan daya pemanas 600 Watt. Dengan sekali perbaikan pada disain awal, didapatkan hasil yang sangat bagus dengan overshoot 2.048% dalam keadaan tanpa gangguan. Perbaikan kedua memberikan perbaikan waktu pemulihan pada saat gangguan dikenakan pada sistem. Masalah osilasi yang muncul pada saat ada gangguan tidak dapat sepenuhnya ditanggulangi dengan mengubah disain. Hal ini berhubungan dengan keterlambatan respon pengontrol karena waktu sampling yang cukup besar.",
+  "creators": "AGUNG BRAUNADI NAGATAMA",
+  "contributors": "Lauw Lim Un Tung (Advisor 2); Resmana Lim (Advisor 1); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/El/006/351; Agung Braunadi Nagatama (23488002)",
+  "subjects": "AUTOMATIC-CONTROL; TEMPERATURE-MEASUREMENT-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "40950",
+  "title": "Pembagian peti kemas kosong dalam pembuatan order bongkar di PT SPIL",
+  "abstract": "PT SPIL merupakan sebuah perusahaan yang bergerak di bidang pelayaran dengan menyediakan jasa berupa penyewaan peti kemas dan mengirimkan peti kemas tersebut dengan kapal yang dimiliki perusahaan. Kegiatan bongkar peti kemas dari atas kapal membutuhkan dokumen yang disebut Order Bongkar, berisi status, jumlah, dan tujuan depo dari peti kemas yang dibongkar. Pembagian peti kemas kosong saat ini hanya dilakukan berdasarkan perkiraan sehingga terjadi reposisi dari depo satu ke depo lain karena tidak memiliki peti kemas yang dibutuhkan. Tujuan dari penelitian adalah mencari nilai persediaan minimum yang dapat dijadikan sebagai acuan pembagian peti kemas kosong ke depo-depo sehingga dapat mengurangi reposisi yang terjadi.Biaya reposisi yang dikeluarkan perusahaan pada tahun 2016 adalah Rp 284.000.000,00 hanya untuk pengeluaran bahan bakar. Pencarian nilai persediaan minimum menggunakan metode simulasi pada Excel. Simulasi yang dilakukan merupakan model perbaikan dari kondisi saat ini. Model perbaikan yang dilakukan adalah pembagian peti kemas kosong dilakukan berdasarkan selisih antara jumlah persediaan saat ini dengan nilai persediaan minimum yang merupakan variabel keputusan. Selain itu, reposisi juga dilakukan apabila depo memiliki jumlah persediaan dibawah nilai persediaan minimum ataupun berada diatas kapasitas depo.Model perbaikan yang dibuat dapat menghilangkan adanya reposisi akibat kekurangan peti kemas. Nilai persediaan minimum yang didapatkan dari simulasi untuk Depo 4 memiliki rata-rata 107 unit, Depo 8 adalah 50 unit, dan Depo Japfa adalah 266unit. Nilai rata-rata tersebut merupakan gabungan dari ketiga grade peti kemas kosong, yaitu A, B, dan C. Nilai persediaan minimum yang didapatkan dari simulasi kemudian dimasukkan ke dalam Order Bongkar untuk mempermudah pembagian peti kemas kosong.",
+  "creators": "BRIGITTE TRISTA INDAH YUDHIANA S.",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022095/IND/2017; Brigitte Trista I.Y.S. (25413026)",
+  "subjects": "CONTAINERS; INVENTORIES--MANAGEMENT"
+}

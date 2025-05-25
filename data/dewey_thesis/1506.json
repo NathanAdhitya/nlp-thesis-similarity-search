@@ -1,0 +1,14 @@
+{
+  "id": "1506",
+  "title": "Perencanaan dan pembuatan shell sistem pakar berbasis rule",
+  "abstract": "Sistem Pakar adalah salah satu bagian dari kecerdasan buatan, yang mengandung pengetahuan dan pengalaman yang dimasukkan oleh satu atau banyak pakar ke dalam satu domain pengetahuan tertentu, agar setiap orang bisa memanfaatkannya untuk memecahkan berbagai masalah. Saat ini banyak beredar shell sistem pakar yang menggunakan text editor untuk membangun suatu knowledge base. Dengan menggunakan text editor maka user diharuskan untuk mempelajari terlebih dahulu perintah-perintah penulisan knowledge base yang digunakan dalam shell sistem pakar tersebut. Hal ini tentu saja menyulitkan user yang buta sama sekali tentang pemrograman dalam membentuk suatu sistem pakar. Untuk ini maka dibuat suatu program shell sistem pakar secara visual untuk meminimalkan penggunaan perintah-perintah pemrograman dan mempermudah user dalam membentuk suatu sistem pakar. Sistem pakar terdiri dari basis pengetahuan, mesin inferensi dan antar muka pemakai. Persoalan yang dipecahkan dalam sistem pakar adalah bagaimana cara menyusun aturan yang terdiri atas beberapa premis dan konklusi dari fakta-fakta yang tersedia, sehingga dihasilkan suatu solusi, dengan menggunakan mesin inferensi sebagai alat bantu. Program shell sistem pakar ini menggunakan teknik inferensi forward chaining (yang memulai penalarannya dari sekumpulan fakta menuju ke suatu hipotesa) dan backward chaining (yang memulai penalarannya dari sekumpulan hipotesa menuju fakta-fakta yang mendukung hipotesa tersebut). Program shell sistem pakar yang dikembangkan memberikan keleluasaan pada perekayasa pengetahuan untuk memasukkan himpunan aturan pada basis pengetahuan, dan diperolehnya suatu solusi berdasarkan basis pengetahuan yang ada.",
+  "creators": "BUDIARTO",
+  "contributors": "Kartika Gunadi (Advisor 1); Agustinus Noertjahyana (Advisor 2); M. ISA IRAWAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0081/INF/2003; Budiarto (26498046)",
+  "subjects": "ARTIFICIAL INTELLIGENCE"
+}

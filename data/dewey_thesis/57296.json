@@ -1,0 +1,14 @@
+{
+  "id": "57296",
+  "title": "Aplikasi peramalan penjualan kertas menggunakan metode ARIMA dan simple exponential smoothing di CV X",
+  "abstract": "CV X merupakan perusahaan yang bergerak dalam bidang jual beli kertas dalam jumlah yang sangat banyak. Sistem pencatatan stok barang yang digunakan masih belum terintegrasi antar warehouse dan sebagian besar pencatatan masih dilakukan secara manual. Hal ini menyebabkan pencatatan stok barang yang kurang akurat. Pada akhirnya, perusahaan lebih sering melebih-lebihkan stok kertas dengan jumlah lebih banyak daripada yang sebenarnya dibutuhkan untuk menjaga tingkat keamanan stok barang, padahal kertas-kertas tersebut belum tentu laku terjual dan kebutuhan pasar akan kertas juga semakin menurun. Di kemudian hari permasalahan ini dapat merugikan perusahaan. Pada penelitian ini, akan dibuat sistem terintegrasi antar warehouse dengan modul peramalan penjualan dengan Metode ARIMA dan Simple Exponential Smoothing, agar perusahaan tidak perlu menyimpan stok terlalu banyak dan membeli sesuai dengan jumlah permintaan pelanggan demi mengurangi biaya. Setelah dilakukan pengujian, sistem memperoleh nilai 71 menggunakan Metode System Usability Scale (SUS) yang artinya pengguna cukup puas dengan sistem yang telah dibuat. Dari 5 sampel jenis kertas yang telah diuji, nilai error peramalan Metode ARIMA dengan menggunakan Metode MSE terendah adalah 348.182, sedangkan nilai error peramalan Metode Simple Exponential Smoothing dengan menggunakan Metode MSE terendah adalah 436.236. Berdasarkan pengujian tersebut, Metode ARIMA lebih baik untuk metode peramalan penjualan kertas daripada Metode Simple Exponential Smoothing karena nilai error Metode ARIMA lebih rendah.",
+  "creators": "RAYMOND CHRISTOPER UTOMO",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Krisna Wahyudi, S.Kom., M.T. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Yulia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022332/INF/2023; Raymond Christoper Utomo (C14190083)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); WAREHOUSES--AUTOMATION--DATA PROCESSING"
+}

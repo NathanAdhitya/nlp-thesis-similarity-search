@@ -1,0 +1,14 @@
+{
+  "id": "5474",
+  "title": "Perancangan dan pembuatan sistem pendukung keputusan penjualan dan pembelian pada toko besi dan bahan bangunan Santoso",
+  "abstract": "Toko Santoso merupakan sebuah toko besi dan bahan bangunan yang mempunyai banyak sekali jenis barang yang dijual. Hal ini menuntut pemilik toko untuk lebih bijaksana dalam mengambil keputusan pengadaan barang. Selama ini pihak toko tidak mempunyai sistem untuk memproses transaksi dengan baik dan terintegrasi. Sistem kerja yang diterapkan saat ini adalah sistem manual mulai dari pencatatan penjualan, pemesanan barang sampai penghitungan stok barang di gudang sehingga seringkali data dan informasi yang dihasilkan tidak akurat. Oleh karena itu sistem pendukung keputusan ini dibuat untuk mencatat transaksi dan mengolah data yang ada dengan menerapkan konsep data warehouse sehingga dapat dihasilkan informasi yang jelas dan akurat untuk membantu proses pengambilan keputusan. Sistem pendukung keputusan ini dibuat dengan melakukan analisis terhadap sistem dan kebutuhan user terlebih dahulu yang dirancang dalam Data Flow Diagram dan Entity Relationship Diagram kemudian membuat program aplikasi penjualan dan pembelian untuk menginputkan semua data transaksi yang ada. Implementasi kedua adalah penerapan konsep data warehouse yaitu dengan mengumpulkan history data untuk dianalisis sehingga dapat menghasilkan suatu informasi yang tepat guna. Sistem ini dikembangkan dengan menggunakan SQL Server 7.0, Borland Delphi 5.0 dan Visual Basic 6.0. Hasil dari sistem ini adalah penyimpanan data dalam sistem yang terintegrasi dengan baik serta laporan-laporan hasil dari pengolahan data tersebut yang dapat menghasilkan informasi yang dapat membantu pemilik toko untuk lebih bijaksana dalam mengontrol jumlah stok barang yang tersedia. Contoh informasi yang dihasilkan adalah jumlah penjualan suatu barang dalam periode tertentu sehingga pemilik dapat mengontrol penyediaan stok barang tersebut agar tidak terjadi kehabisan stok atau sebaliknya terjadi overstock di gudang.",
+  "creators": "EVI TRISNAWATI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); RULLY SOELAIMAN (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000186/INF/2004; Evi Trisnawati (26400008)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTER); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

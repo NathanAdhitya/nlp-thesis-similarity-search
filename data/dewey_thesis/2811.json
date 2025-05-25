@@ -1,0 +1,14 @@
+{
+  "id": "2811",
+  "title": "Aplikasi pelaporan berita emergensi secara visual dan tekstual lewat telepon selular",
+  "abstract": "Saat ini banyak situasi emergensi yang terjadi di sekitar kita. Pelaporan berita mengenai situasi emergensi tersebut terhadap sebuah media massa telah terbukti efektif. Saat ini kita dapat melaporkan situasi emergensi tersebut dengan menggunakan Short Message Service (SMS), E-mail, dan telepon. Akan tetapi Email dan telepon relatif sulit dijangkau pada saat situasi emergensi tersebut terjadi. Sedangkan SMS hanya dapat melaporkan situasi emergensi tersebut hanya berupa teks saja. Aplikasi dalam tugas akhir ini memberikan alternatif lain untuk mempermudah dan mempercepat proses pelaporan situasi emergensi dengan menggunakan telepon selular ke sebuah website secara visual dan tekstual. Dalam perancangan dan pembuatan aplikasi, terdiri atas : database untuk menyimpan berita yang dikirim; website untuk menampilkan berita yang dikirim; aplikasi servlet sebagai penghubung antara database dan client dengan menggunakan protokol Hyper Text Transfer Protocol (HTTP) pada platform Java 2 Enterprise Edition (J2EE); MIDlet pada telepon selular untuk mengirim berita emergensi melalui General Packet Radio Service (GPRS) dengan menggunakan platform Java 2 Micro Edition (J2ME). Berdasarkan implementasi dan pengujian, disimpulkan bahwa J2ME didesain memiliki portabilitas yang tinggi. Akan tetapi adanya perbedaan implementasi dari pihak vendor telepon selular, maka menyebabkan tingkat portabilitas J2ME sedikit berkurang. Dengan adanya perbedaan tersebut, MIDlet pada tugas akhir ini didesain dapat mengatasi perbedaan implementasi J2ME tersebut.",
+  "creators": "MARCEL RENALDY SOETANTO",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Leo Willyanto Santoso (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01000325//INF/2005; Marcel Renaldy Soetanto (26401003)",
+  "subjects": "INTERNET (COMPUTER NETWORK); DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

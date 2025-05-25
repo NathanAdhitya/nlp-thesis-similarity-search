@@ -1,0 +1,14 @@
+{
+  "id": "52198",
+  "title": "Perancangan programable speaker selector",
+  "abstract": "Perluasan lapangan industri mengakibatkan timbul kesulitan dalam penyampaian informasi bagi banyak orang yang berada di lokasi tersebut pada saat yang bersamaan. Demikian juga dalam bidang pendidikan dan tempat-tempat hiburan. Peramasalahan tersebut dapat diatasi dengan sebuah sistem yang dinamakan dengan speaker selector. Namun speaker selector yang ada pada umumnya, pembagian kelompoknya telah ditetapkan terlebih dahulu oleh. perancangnya. Agar lebih fleksibel dalam pembagian kelompok dari speaker-speaker digunakan mikrokontroller. Mikrokontroller digunakan untuk pengaturan pembagian kelompok dan pengaktifan speaker. Ada dua proses utama dalam sistem ini yaitu play dan inisialisasi. Play digunakan untuk mengaktifkan kelompok speaker yang diinginkan. Sedangkan proses inisialisasi digunakan untuk pembagian kelompok dari speaker-speaker. Dari hasil pengujian, dengan kombinasi speaker 4Ω, 6Ω dan 8Ω (16 buah speaker) didapatkan tingkat efisiensi daya sebesar 24.5% pada frekuensi 50 Hz, 57.3% pada frekuensi 100 Hz, 40.7% pada frekuensi 1000 Hz, 36.9% pada frekuensi 5000 Hz, dan 30.8% pada frekuensi 10000 Hz. Sedangkan untuk pembagian kelompoknya dapat diatur sesuai dengan keinginan pengguna.",
+  "creators": "DIDIK SUGIARTO",
+  "contributors": "Felix Pasila (Advisor 1); Indar Sugiarto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/670/ELK/2003; Didik Sugiarto (23499055)",
+  "subjects": "LOUDSPEAKER CABINET; MICROCONTROLLERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "7494",
+  "title": "Perancangan dan pembuatan sistem informasi akuntasi pada perusahaan Taipei Exquisite Bridal",
+  "abstract": "Perusahaan Taipei Exquisite Bridal adalah sebuah perusahaan dagang yang kegiatan sehari-harinya meliputi pembelian dan penjualan gaun-gaun. Selama ini, perusahaan menggunakan cara manual untuk menghasilkan laporan keuangan yang diperlukan. Semua transaksi dicatat pada akhir jam kerja setiap harinya sehingga tidak dapat memberikan informasi secara cepat dan akurat. Oleh karena itu, dalam tugas akhir ini dirancang dan dibuat sebuah sistem informasi akuntansi yang membantu perusahaan untuk mendapatkan informasi yang diperlukan secara cepat dan akurat. Pada pembuatan program aplikasi ini, sistem didesain dengan menggunakan Data Flow Diagram (DFD) dan Entity Relationship Diagram (ERD). Untuk implementasinya, digunakan software Borland Delphi 6.0 dan Microsoft Access XP. Dengan menggunakan program ini, maka transaksi pembelian dan penjualan akan otomatis tercatat dalam database dan setelah dilakukan penjurnalan, maka langsung dapat dihasilkan laporan keuangan sesuai dengan jurnal yang dimasukkan dan transaksi-transaksi yang telah terjadi dalam perusahaan. Setelah melalui berbagai tahap desain, implementasi, dan pengujian aplikasi, maka dapat disimpulkan sebagai berikut : user dapat mengetahui tingkat penjualan setiap waktunya melalui data penjualan, laporan kas perusahaan sekaligus dapat mengetahui keadaan laba rugi perusahaan, perubahan modal, dan neraca dalam periode tertentu sehingga dapat mengontrol keuangan perusahaan.",
+  "creators": "JOSEPH ANDU",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Alexander Setiawan (Advisor 2); Sri Maharsi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000437/INF/2005; Joseph Andu (26401018)",
+  "subjects": "ACCOUNTING-DATA PROCESSING; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

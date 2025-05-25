@@ -1,0 +1,14 @@
+{
+  "id": "53238",
+  "title": "Perancang alat sistem monitoring kadar oksigen dan denyut jantung berbasis IoT",
+  "abstract": "Tugas akhir ini bertujuan untuk membuat prototipe yang berfungsi untuk mengukur kadar saturasi oksigen (SpO2) dan denyut jantung pasien isolasi mandiri Covid-19 kemudian datanya dapat dipantau dari jarak jauh melalui internet of things (IoT) Blynk. Sehingga keluarga yang sedang merawat dapat memantau kadar oksigen anggota keluarganya (pasien) yang sedang isolasi mandiri tanpa perlu kontak langsung dengan pasien. Sistem ini menggunakan sensor MAX30102 yang merupakan versi upgrade dari MAX30100 sehingga memiliki akurasi pengukuran data lebih baik. Mikrokontroler yang digunakan adalah Wemos D1 Mini (berbasis IC ESP8266) karena telah dilengkapi dengan fitur WIFI sehingga dapat dikoneksikan ke internet untuk terhubung dengan IoT Blynk. Pada aplikasi IoT Blynk berfungsi menampilkan nilai kadar saturasi oksigen (SpO2) dan denyut jantung pasien. Aplikasi ini dipasang pada smartphone keluarga pasien. Jika kadar oksigen turun di bawah 95% maka akan muncul notifikasi pada layar smartphone. Selain itu, alat ini juga dapat bekerja dengan dua mode yaitu : mode pengukuran manual dan mode pengukuran auto. Dengan demikian diharapkan dengan adanya inovasi alat ini akan dapat memberikan informasi yang cepat mengenai kondisi pasien, sehingga jika sewaktu-waktu pasien mengalami penurunan kadar oksigen maka keluarga dapat cepat tanggap untuk mengambil keputusan terbaik untuk merujuk pasien ke rumah agar mendapatkan perawatan lebih intensif. Berdasarkan hasil pengujian yang telah dilakukan, rata-rata error pembacaan saturasi oksigen adalah sebesar 0,61% dan rata-rata error pembacaan detak jantung dengan adalah sebesar 5,27%. Kemudian notifikasi berhasil muncul jika nilai saturasi oksigen berada di bawah 95%.",
+  "creators": "WENDY CAHYADI SOFIAN",
+  "contributors": "Resmana Lim (Advisor 1); Handry Khoswanto (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 2); Thiang (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010147/ELK/2022; Wendy Cahyadi Sofian (23415021)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--MEDICAL APPLICATIONS; HEART--DISEASES; INTERNET OF THINGS"
+}

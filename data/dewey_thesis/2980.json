@@ -1,0 +1,14 @@
+{
+  "id": "2980",
+  "title": "Studi penggunaan bondgraph untuk mata kuliah rangkaian listrik",
+  "abstract": "Metode yang telah lama ada dalam penyelesaian permasalahan rangkaian listrik adalah Hukum Ohm, Hukum Kirchhoff (KCL/KVL), Teorema Superposisi, Teorema Thevenin, dan Teorema Norton. Hukum Ohm dan Hukum Kirchhoff merupakan dasar hukum pada Teorema Superposisi, Teorema Thevenin, dan Teorema Norton. Konsep dasar metode konvensional ini adalah arus dan tegangan. Alternatif lain dalam penyelesaian permasalahan rangkaian listrik adalah Bondgraph. Bondgraph adalah pemodelan yang juga telah lama ada. Pemodelan sistem dapat menekan biaya jadi rendah dibandingkan dengan pembuatan sistem sesungguhnya. Pemodelan dilakukan dengan cara mengimplementasikan elemen-elemen listrik ke dalam elemen-elemen bondgraph. Konsep dasar bondgraph adalah energi dan perpindahannya. Studi dilakukan dengan mengambil beberapa jenis rangkaian listrik dan diselesaikan dengan menggunakan metode rangkaian listrik (sebagai metode pembanding) serta metode bondgraph. Pembandingan dan analisa hasil yang didapat dilakukan secara analitis (bentuk matematika) dan simulasi. Penyelesaian metode rangkaian listrik diplot dengan software Matlab 6.5, sedangkan penyelesaian metode bondgraph disimulasikan dengan software 20-sim 3.3. Penyelesaian permasalahan rangkaian listrik dengan metode bondgraph menjadi lebih mudah dengan bantuan software 20-sim 3.3 dari University of Twente, Belanda. Secara analitis metode bondgraph menghasilkan state rangkaian, sedangkan analitis metode rangkaian listrik menghasilkan suatu nilai/fungsi. Grafik yang dihasilkan software Matlab 6.5 dan software 20-sim 3.3 adalah sama.",
+  "creators": "JOHAN",
+  "contributors": "Hany Ferdinando (Advisor 1); Emmy Hosea (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010729/ELK/2005; Johan (23400044)",
+  "subjects": "ELECTRIC CIRCUITS"
+}

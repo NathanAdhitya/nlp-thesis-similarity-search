@@ -1,0 +1,14 @@
+{
+  "id": "3269",
+  "title": "Studi perbandingan algoritma heuristik hamid dan mip untuk meminimumkan makespan pada penjadualan flowshop",
+  "abstract": "Penjadualan produksi merupakan bagian yang sangat penting dalam melakukan sebuah proses produksi. Problem pejadualan yang sering kali ditemui dalam lantai produksi ada dua macam, yaitu flowshop scheduling dan jobshop scheduling. Pada pembuatan tugas akhir ini akan dibahas masalah flowshop scheduling, dengan tujuan untuk meminimumkan makespan menggunakan metode heuristik Hamid yang akan dibandingkan dengan metode MIP (Mixed Integer Programming). Pada tugas akhir ini akan diteliti seberapa baik performance heuristic algorithm terhadap nilai optimal yang dihasilkan oleh metode MIP, sehingga akan diketahui apakah heuristik Hamid yang merupakan metode heuristik baru ini memang menghasilkan hasil yang lebih baik daripada beberapa metode heuristik lain. Agar memudahkan dalam melakukan perhitungan makespan, dibuat model MIP dan model heuristik Hamid untuk kombinasi kasus 5 ? 10 job dengan 5, 10, 15, 20, 25 mesin. Pada simulasi yang dilakukan dalam tugas akhir ini ternyata metode heuristik Hamid mempunyai performance makespan yang hampir mendekati metode MIP, hal ini ditunjukkan dengan nilai EI (Efficiency Index) yang mendekati angka 1 (yang berarti mendekati nilai optimal) dan nilai RE (Relative Error) kecil (< 10 %). Untuk permasalahan lama waktu penyelesaian masalah (Elapsed Runtime), metode heuristik Hamid hanya memerlukan waktu yang sangat singkat (hanya membutuhkan waktu # 1 detik), terutama bila dibandingkan dengan metode MIP untuk kasus kombinasi job ? mesin yang cukup besar (10 job ? 20 dan 25 mesin).",
+  "creators": "IKA MUNIKA",
+  "contributors": "Tessa Vanina Soetanto (Advisor 1); Herri Christian Palit (Advisor 2); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 01/0687/IND/2003; Ika Munika (25499023)",
+  "subjects": "PRODUCTION SCHEDULING"
+}

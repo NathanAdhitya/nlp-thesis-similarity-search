@@ -1,0 +1,14 @@
+{
+  "id": "14394",
+  "title": "Analisa tegangan pada sambungan tekan poros dan hub dengan menggunakan metode elemen hingga",
+  "abstract": "Metode Elemen Hingga adalah suatu metode numerik yang digunakan untuk menyelesaikan masalah-masalah di bidang permesinan, seperti analisa struktur, perpindahan panas, dan aliran fluida. Metode Elemen Hingga juga dapat digunakan untuk menyelesaikan beberapa masalah yang tidak mungkin atau tidak dapat diselesaikan dengan solusi analitis matematika, seperti geometri, beban, dan material yang bervariasi. Tugas akhir ini bertujuan memvalidasi Metode Elemen Hingga untuk mengetahui besarnya penyimpangan tegangan radial dan tangensial yang terjadi pada kasus sambungan tekan Poros dan Hub. Validasi Metode Elemen Hingga dilakukan dengan membandingkan hasil tersebut dengan hasil eksak yang menggunakan perumusan elastisitas. Besarnya penyimpangan ternyata dipengaruhi oleh banyaknya diskretasi. Hasil perhitungan dengan menggunakan Metode Elemen Hingga akan semakin valid (penyimpangannya kecil) jika diskretasinya semakin banyak. Sehingga disarankan agar pada daerah dimana terjadi perubahan tegangan yang besar agar dibuat diskretasi yang kecil.",
+  "creators": "GOGOT EKO PRASETYO",
+  "contributors": "Joni Dewanto (Advisor and Examination Committee)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi : No. 99.54.357; Gogot Eko Prasetyo (24493005)",
+  "subjects": "FINITE ELEMENT METHOD-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "20874",
+  "title": "Perancangan ulang tata letak fasilitas produksi di PT. 'X'",
+  "abstract": "PT. 'X' adalah perusahaan industri garmen dengan tipe produksi Job Order. Keadaan PT. 'X' saat ini dirasakan kurang optimal dalam hal jarak perpindahan material sehingga perlu suaru pengaturan ulang dari tata letak fasilitas produksi, karena pengaturan tata letak fasilitas yang tepat c'alam lantai produksi akan sangat membantu dalam penyelesaian masalah produksi bagi perusahaan. Dari hal ini maka timbullah ide untuk memberikan suaru model layout yang lebih meminimalkan jarak perpindahan material. Usulan model layout yang dilakukan dalam tugas akhir ini adalah dengan menggunakan metode Corelap dan Algoritma 2-OPT sebagai initial solution dan Algoritma Tabu Search sebagai optimal solution-nya. Pengolalian data Algoritma 2-OPT dan Algoritma Tabu Search diselesaikan dengan bantuan program komputer Delphi. Dari hasil pengolahan data didapatkan total momen untuk layout awal adalah 1613545 meter, layout Corelap adalah 1203636 meter, layout 2-opt adalah 948436 meter, layout Tabu Search (dari metode 2-OPT) adalah 924436, dan layout Tabu Search (dari metode Corelap) adalah 952589.5 meter. Dari kelima nilai total momen tersebut, yang terkecil adalah total momen layout Tabu Search (dari metode 2-OPT).",
+  "creators": "SHERLY WONGKAR",
+  "contributors": "Jani Rahardjo (Advisor 1); Pauline Astari Singgih (Advisor 2); Kriswanto Widiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 477/TI-068/2001; Sherly Wongkar (25496146)",
+  "subjects": "PLANT LAYOUT"
+}

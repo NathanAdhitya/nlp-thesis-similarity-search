@@ -1,0 +1,14 @@
+{
+  "id": "17241",
+  "title": "Sistem informasi manajemen dan tata letak barang di gudang PT Indra Jaya Swastika",
+  "abstract": "Dalam tugas akhir ini akan dibahas mengenai tata letak pengaturan barang di gudang umum PT. INDRA JAYA SWASTIKA dan sistem informasi manajemen untuk bongkar/muat barang Penataan barang yang ada saat ini cenderung berdasarkan nama customer, yang mana akan menyebabkan kesulitan dalam penanganannya (handling). Untuk itu perlu ditentukan sistem tata letak penyimpanan, yang dalam hal ini akan memakai Dedicated Storage Location Policy (khusus untuk Petrolog TU, PT) dan Shared Storage Location Policy (untuk barang dengan kemasan tertentu) dengan melakukan klasifikasi barang terlebih dahulu. Penentuan besarnya lahan/petak diawali dengan memprediksikan sisa barang yang pernah ada di gudang untuk tiap-tiap klasifikasi, kecuali barang dengan kemasan sak/karung. Hal ini disebabkan karena pihak perusahaan sudah memiliki policy tersendiri dalam menentukan besarnya lahan yang dibutuhkan. Metode peramalan yang dipakai adalah metode Box-Jenkins dan metode Single Exponential Smoothing. Selanjutnya akan dibuat diagram keterkaitan atau Activity Relationship Chart (ARC) untuk menentukan kedekatan dari masing-masing jenis barang. From To Chart (FTC) akan digunakan untuk menyatakan jarak dan frekuensi perpindahan antar kelompok kegiatan, serta dalam menghitung momen. Perancangan sistem informasi manajemen diawali dengan membuat manual flowchart dari sistem yang ada sekarang, diantaranya untuk bongkar/muat barang, pengupahan buruh dan penagihan ke customer. Selanjutnya dilakukan identifikasi entity, penyusunan entity relationship diagram, skema dan struktur data base, Data Flow Diagram, manual flowchart usulan, serta yang terakhir membuat rancangan tampilan dan laporan. Perancangan sistem ini meniadakan beberapa alur informasi dan mengurangi penggunaan form-form yang tidak perlu.",
+  "creators": "JULIANY",
+  "contributors": "UTAMI PRASETIAWATI (Advisor 1); Danny Prabowo Soetanto (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 199/TI-25/1999; Juliany (25494025)",
+  "subjects": "MANAGEMENT INFORMATION SYSTEM; WAREHOUSES-MANAGEMENT; WAREHOUSES-LOCATION; PRODUCTION PLANNING"
+}

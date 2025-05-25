@@ -1,0 +1,14 @@
+{
+  "id": "21440",
+  "title": "Pembuatan perangkat lunak pengecekan grammar dan sintaksis bahasa Inggris dengan menggunakan pengolahan bahasa alami (natural language processing)",
+  "abstract": "Saat sekarang ini penggunaan bahasa Inggris merupakan suatu keharusan dengan datangnya era globalisasi. Semakin dini orang dapat menggunakan bahasa Inggris semakin baik. Pembuatan perangkat lunak Pengecekan Grammar dan Sintaksis Bahasa Inggris ini bertujuan untuk membantu orang belajar bahasa Inggris pada tingkat pemula. Perangkat lunak ini dibuat dengan bahasa pemrograman Borland Delphi 5.0. yang berbasis Windows dan tampilannya dirancang sesederhana mungkin untuk memudahkan pemakaiannya. Perangkat lunak ini digunakan untuk berlatih membuat kalimat bahasa Inggris, apabila melakukan kesalahan dapat diketahui kesalahannya dan apabila sudah benar dapat didengarkan cara pengucapannya. Kalimat bahasa Inggris yang diinputkan diolah dengan Pengolahan Bahasa Alami dengan metoda Two Level Grammar. Karena dibuat untuk para pemula / baru belajar bahasa Inggris maka dirancang terbatas hanya untuk kalimat bahasa Inggris sederhana dan merupakan kalimat pemyataan. Perangkat lunak yang dibuat telah berhasil mendeteksi kalimat bahasa Inggris yang salah, memperbaikinya dan diperdengarkan cara pengucapannya. Perangkat lunak ini masih jauh dari sempurna disebabkan karena keterbatasan kata - kata yang dimasukkan ke dalam database masih sebatas untuk pengujian saja. Tingkat keberhasilan perangkat lunak ini akan bergantung kepada banyak sedikitnya rule yang dimasukkan dalam sistem dan data yang dimasukan di dalam database. Perangkat lunak ini dapat dikembangkan lebih lanjut untuk dapat mengolah kalimat negatif dan kalimat tanya.",
+  "creators": "YUHARDIAN FEBRILIANTO",
+  "contributors": "Kartika Gunadi (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/KOM/002/078; Yuhardian Febrilianto (23494111)",
+  "subjects": "BORLAND DELPHI 5.0 (COMPUTER PROGRAM LANGUAGE); SOFTWARE ENGINEERING"
+}

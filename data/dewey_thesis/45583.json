@@ -1,0 +1,14 @@
+{
+  "id": "45583",
+  "title": "Manajemen persediaan dan perencanaan produksi desain interior pada CV Elshaday Citra Sentosa",
+  "abstract": "CV Elshaday Citra Sentosa merupakan perusahaan yang bergerak di bidang mebel/desain interior. Sebelum memasuki proses produksi mebel, pengecekan terhadap persediaan bahan baku dan melakukan perencanaan produksi merupakan hal yang wajib dilakukan. Realita yang terjadi di perusahaan yaitu manajemen persediaan, perencanaan kebutuhan bahan baku, penjadwalan produksi dan pengawasan/pengendalian produksi masih menggunakan pencatatan sederhana. Berdasarkan permasalahan tersebut, penulis merancang program untuk menyelesaikan permasalahan perusahaan dalam pengendalian proses produksi. Dalam membuat program diperlukan analisa dan desain sistem. Analisa dan desain sistem dilakukan dengan menggunakan data flow diagram (DFD) dan entity relationship diagram (ERD). Selanjutnya, pembuatan program dilakukan dengan menggunakan bahasa pemrograman HTML, Bootstrap, PHP, AJAX, Javascript dan MySQL sebagai database. Hasil akhir dari pengembangan program ini adalah perusahaan dapat mengetahui perencanaan bahan baku dan durasi waktu produksi hanya dengan memasukkan spesifikasi produk yang dipesan oleh pelanggan. Selanjutnya, perusahaan dapat melakukan pencatatan tahapan pekerjaan suatu produk, bahan baku yang digunakan untuk memproduksi produk, beserta dengan tenaga kerja yang bertugas. Hasil pengujian kepada pengguna dan kuesioner menunjukkan bahwa fitur dan perhitungan pada program mendekati perhitungan secara manual sehingga dapat menjawab kebutuhan perusahaan dalam melakukan manajemen persediaan, perencanaan, pengawasan, dan pengendalian produksi.",
+  "creators": "MICHAEL ANINDITYA HERMAWAN",
+  "contributors": "Yulia (Advisor 1); Tanti Octavia (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); I Gede Agus Widyadana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021884/INF/2019; Michael Aninditya Hermawan (26415089)",
+  "subjects": "MATERIALS MANAGEMENT; COMPUTER PROGRAMMING; DATABASE DESIGN--COMPUTER PROGRAMS"
+}

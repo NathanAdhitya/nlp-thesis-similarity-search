@@ -1,0 +1,14 @@
+{
+  "id": "48032",
+  "title": "Penerapan sistem navigasi mobile robot pada Turtlebot dengan Depth Sensor Camera",
+  "abstract": "Tugas Akhir ini menggunakan platform Turtlebot sebagai mobile robot. Platform Turtlebot ini memiliki teknologi SLAM, Navigation, dan Manipulation yang dapat digunakan sebagai platform edukasi dan penelitian untuk pengembangan robot layanan rumah. Tujuan dari tugas akhir ini adalah menguji sistem navigasi pada Turtlebot untuk membuat robot dapat digerakkan menuju titik dalam sebuah peta yang telah dibuat dalam sistem SLAM dari Turtlebot. Platform Turtlebot memanfaatkan Robot Operating System (ROS) sebagai dasar dalam pemrogaman sistem mobile robot. Pada mobile robot yang digunakan akan dipasang depth sensor camera yang digunakan untuk mendeteksi benda di sekitar letak robot bergerak. Depth sensor camera memerlukan sebuah driver agar data yang dibaca oleh sensor dapat digunakan dalam pemrogaman ROS. Hasil pembacaan dari sensor akan digunakan untuk membuat peta dalam sistem SLAM dan digunakan sebagai penglihatan dari robot dalam sistem Navigasi. Pengujian sistem dilakukan dengan menguji cara kerja dari depth sensor camera dan mengambil data apa saja yang dapat digunakan dari sensor. Data dari sensor akan digunakan untuk membuat peta dan hasil dari peta yang telah terbuat akan dicocokan dengan kondisi pada lingkungan sebenarnya. Keberhasilan dari sistem navigasi bergantung pada kesesuaian peta yang dibuat pada sistem SLAM dengan depth sensor camera. Hasil akhir dari pengujian dapat diketahui bahwa robot dapat menuju titik yang diinginkan pada pengujian tanpa halangan dan menggunakan halangan.",
+  "creators": "JOANNES MAHESTRA ROBERT APRILINO",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Handy Wicaksono (Examination Committee 1); Indar Sugiarto (Examination Committee 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010998/ELK/2020; Joannes Mahestra Robert Aprilino (23416013)",
+  "subjects": "MOBILE ROBOTS; ROBOTS--CONTROL SYSTEMS"
+}

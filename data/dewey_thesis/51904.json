@@ -1,0 +1,14 @@
+{
+  "id": "51904",
+  "title": "Simulasi aplikasi untuk mendeteksi dan mencegah serangan DDOS pada jaringan berbasis SDN (Software Defined Network)",
+  "abstract": "Software Defined Network (SDN) adalah salah satu pengembangan teknologi pada computer network. Computer Network saat ini umumnya menggunakan banyak network device, dimana tiap network device memiliki 2 fungsi yaitu control plane dan forwarding plane. Pemisahan kedua fungsi tersebut pada teknologi SDN, memiliki kelebihan karena desain control plane terpusat sehingga mudah melakukan konfigurasi dan manajemen. Namun juga terdapat tantangan berupa single point of failure yang rentan pada serangan Distributed Denial of Service (DDoS). Oleh karena itu, SDN membutuhkan Intrusion Detection System (IDS) dan Intrusion Prevention System (IPS) agar mampu mendeteksi dan mencegah serangan DDoS. Penelitian ini bertujuan untuk mengetahui tingkat akurasi dan lama waktu mendeteksi (Mean Time To Detect), serta lama waktu mitigasi (Mean Time To Respond) dalam menangani variasi serangan DDoS pada topologi SDN. Penelitian ini melakukan pendeteksian dengan dua cara yaitu, Signature dan Anomaly. Cara Anomaly yang akan mengadopsi Deep Neural Network model untuk mengklasifikasi, mengenali jenis dan pola serangan DDoS dari sebuah dataset dengan beberapa feature. Hasil pengujian simulasi dengan 3 jenis serangan yaitu ICMP Flood, SYN Flood dan UDP Flood pada SDN, pendeteksian dengan signature-IDS mendapatkan hasil MTTD dan MTTR sebesar 7.2475 detik dan 11.74 detik pada serangan ICMP, 26.995 detik dan 11.00 detik pada serangan SYN, 20.49 detik dan 3.00 detik pada serangan UDP. Sedangkan pendeteksian dengan anomaly-IDS tidak digunakan perhitungan berdasarkan MTTD dan MTTR karena cara kerja dari sistem hanya dapat melakukan klasifikasi per satu packet. Sehingga dihitung berdasarkan tingkat kesalahan klasifikasi packet serangan (False Negative) yaitu 7 packet dari total 455 packet pada serangan ICMP, 557 packet dari total 940 packet pada serangan SYN, dan 2 packet dari total 3120 packet pada serangan UDP. Maka dari untuk Anomaly-IDS menggunakan Deep Neural Network model masih belum optimal dan masih perlu diteliti dan dikembangkan lebih lanjut.",
+  "creators": "SUGIYANTO GOUTAMA",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Agustinus Noertjahyana (Advisor 1); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022128/INF/2022; Sugiyanto Goutama (C14170075)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); DENIAL OF SERVICE ATTACKS; SOFTWARE-DEFINED NETWORKING (COMPUTER NETWORK TECHNOLOGY)"
+}

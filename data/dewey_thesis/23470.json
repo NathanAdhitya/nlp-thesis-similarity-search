@@ -1,0 +1,14 @@
+{
+  "id": "23470",
+  "title": "Penerapan Q learning pada navigasi otonom robot dengan moving obstacle",
+  "abstract": "Behavior based architecture adalah salah satu contoh arsitektur yang biasa digunakan untuk memprogram robot. Di dalam sebuah behavior based architecture diperlukan behavior coordination yang tepat seperti subsumption architecture, agar robot yang telah diprogram mampu menyelesaikan permasalahan seperti yang diharapkan oleh pemrogram. Namun, hal itu tidak cukup efektif untuk mengatasi kondisi lingkungan yang berubah-ubah, mengingat tidak ada kontroler robot dan pemrogram yang sempurna, jadi robot harus mampu belajar. Robot yang mampu belajar dapat memperbaiki performa robot dalam menghadapi ketidakpastian. Algoritma Q learning adalah metode reinforcement learning populer yang digunakan pada pembelajaran robot karena sifatnya yang sederhana dan off policy. Tujuan dari tugas akhir ini adalah untuk mengaplikasikan metode reinforcement learning dengan menggunakan algoritma Q learning pada navigasi otonom robot dengan moving obstacle sebagai representatif dari kondisi lingkungan yang berubah-ubah. Sebagai hasilnya, robot telah berhasil melakukan navigasi otonom dan menghadapi kondisi lingkungan yang berubah-ubah, meski dengan beberapa keterbatasan akibat penempatan dan karakteristik sensor dan aktuator.",
+  "creators": "CHRISTOPHER V WALELANG",
+  "contributors": "Handy Wicaksono (Advisor 1); Handry Khoswanto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010923/ELK/2011; Christopher Victory Walelang (23406021)",
+  "subjects": "ROBOTICS; ROBOT-CONTROL SYSTEMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "17176",
+  "title": "Perencanaan dan pembuatan gerakan lengan mekanis yang dikontrol oleh gerakan lengan manusia dengan menggunakan mikroprosesor 8088",
+  "abstract": "Dengan kemajuan teknologi di dunia sekarang ini, terdapat masalah yang harus dihadapi yaitu bagaimana robot dapat mempermudah pekerjaan manusia misalnya pada tempat-tempat yang berbahaya bagi manusia. Hal ini dapat dilakukan dengan menciptakan robot-robot yang mempunyai cara kerja yang sama dengan manusia dan dapat dikontrol oleh manusia dengan mudah. Dalam penulisan Tugas Akhir ini dibuat suatu alat yang memanfaatkan teknologi dalam membuat suatu pengontrol lengan mekanis yang telah umum dipergunakan yang dapat mengikuti gerakan lengan manusia. Pengontrol lengan mekanis ini dibuat dari peralatan yang sudah umum dipakai pada sistim kontrol yaitu sensor pengatur tegangan memakai regulator tegangan IC LM 723, Analog Digital Converter (ADC) 0808, serta rangkaian penguat motor stepper yang dihubungkan pada sebuah minimum sistem 8088. Dari hasil pembacaan ADC 0808 ini hasil konversinya akan diproses untuk menentukan posisi gerakan dari motor stepper lengan mekanis yang sesuai dengan posisi gerakan lengan manusia Dari hasil pengujian gerakan lengan mekanis ini terlihat bahwa gerakan lengan mekanis yang dihasilkan lebih lambat dari gerakan lengan manusia serta presisi dari gerakan ini kurang tinggi, hal ini karena putaran dari motor stepper yang lebih lambat dari yang diharapkan. Tetapi arah gerakan lengan mekanis ini sudah sesuai dengan arah gerakan yang diberikan oleh lengan manusia. Dengan adanya pengontrol gerakan lengan mekanis ini diharapkan dapat dikembangkan kembali menjadi lebih sempurna dengan penambahan beberapa sensor - sensor yang akan menambah kemampuan kerja dari pengontrol gerakan lengan mekanis dalam Tugas Akhir ini.",
+  "creators": "RICKY SILAMURTI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/KOM/007/029; Ricky Silamurti (23492121)",
+  "subjects": "AUTOMATION"
+}

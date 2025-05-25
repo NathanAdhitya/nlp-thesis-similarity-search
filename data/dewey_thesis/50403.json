@@ -1,0 +1,14 @@
+{
+  "id": "50403",
+  "title": "Klasifikasi dalam pembuatan portal berita online dengan menggunakan metode BERT",
+  "abstract": "Teknologi internet membantu manusia dengan memberikan kemudahan untuk mendapatkan beragam informasi yang diinginkan yang dapat diakses dari berbagai platform berita online. Namun, berita yang tersedia sekarang sangat banyak karena dapat diakses di berbagai platform berita online dan perlu dikategorikan. Berita yang diakses di salah satu sumber juga tidak memiliki kredibilitas yang tinggi terhadap suatu kejadian, karena penerbit menggunakan informasi yang salah dan menyesatkan untuk memajukan kepentingan mereka atau yang dikenal dengan fake news. Sehingga untuk mengecek kredibilitas dari suatu kejadian, dibutuhkan membaca dari sumber berita lain tidak hanya di satu tempat saja agar tidak terpengaruh dengan berita yang salah. Hal tersebut kurang efektif karena pembaca harus mencari sumber berita lain dengan alamat URL yang berbeda. Pada penelitian ini akan dilakukan scraping untuk mengambil berita yang ada pada sebuah portal berita. Setelah melakukan proses scraping¸ berita tersebut akan diklasifikasikan untuk menentukan kategori dari sebuah berita. Metode yang digunakan adalah Bidirectional Encoder Representations from Transformers. Berdasarkan hasil pengujian yang telah dilakukan, berita dapat diambil dan diklasifikasikan. Pengujian dengan pretrained model indobenchmark/indobert-base-p1 mendapatkan hasil yang baik dimana akurasi dapat mencapai 87.548%.",
+  "creators": "JEHEZKIEL HARDWIN TANDIJAYA",
+  "contributors": "Liliana (Advisor 1); Indar Sugiarto (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); INDRO SETIAWAN (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022088/INF/2021; Jehezkiel Hardwin Tandijaya (C14170054)",
+  "subjects": "SCRAPBOOKING; WEB PORTALS"
+}

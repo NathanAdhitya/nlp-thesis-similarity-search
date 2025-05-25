@@ -1,0 +1,14 @@
+{
+  "id": "10667",
+  "title": "Perencanaan dan pembuatan programmable tuning control and antenna direction untuk radio FM yang menggunakan sisitem VCO dengan bantuan Microcontroller 8031",
+  "abstract": "Pencarian gelombang siaran pada radio FM sistem VCO yang ada di pasaran umumnya dilakukan dengan memutar potensiometer pencari gelombang. Sistem pencarian gelombang tersebut kurang menguntungkan terutama bagi seseorang yang selalu ingin berpindah-pindah untuk mendengarkan siaran radio pada waktu tertentu. Pencarian gelombang radio itu masih harus diikuti dengan pengubahan posisi antenna radio FM yang relatif berubah-ubah untuk penerimaan tiap-tiap stasiun radio. Pada tugas akhir ini dibuat suatu alat pencari gelombang dan posisi antenna secara otomatis yang dapat diprogram. Hal ini bertujuan agar gelombang radio FM yang paling sering didengarkan dapat disimpan dalam memori untuk kemudian dapat dipanggil kembali pada saat dibutuhkan, dengan disertai posisi antenna untuk penerimaan terbaik. Secara garis besar, peralatan yang direncanakan terdiri dari rangkaian ADC dan DAC, rangkaian pengkondisi sinyal, rangkaian pengendali motor stepper, rangkaian pengontrol 8031, keyboard dan rangkaian display. Kontroller memerintahkan motor stepper untuk berputar ke posisi minimum. DAC memberikan tegangan analog ke pin tengah potensiometer tuning, selanjutnya antenna diputar ke kanan. ADC mencatat besar tegangan analog pada tuning control dan stereo control. Apabila besar tegangan analog itu lebih kecil atau sama dengan tetapan data pada ADC. maka ADC mencatat posisi antenna saat itu. Kemudian kontroller memutar antenna ke posisi yang dicatat oleh ADC. Jika tidak maka langkah diatas diulang terus sampai didapat suatu tegangan yang lebih kecil atau sama dengan tetapan data ADC. Setelah digunakannya alat ini, maka gelombang siaran yang kurang kuat dapat dimonitor secara maksimal. Hal ini disebabkan karena adanya ketepatan tuning yang baik serta didukung pengarahan antenna yang tepat dari sistem ini.",
+  "creators": "LIE TJE TJHAN",
+  "contributors": "HANDAYANI T. (Advisor 1); HERLIANTO TENGGARA (Advisor 2); SUPENO DJANALI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/020/0223; Lie Tje Tjhan (23489138)",
+  "subjects": "TUNING-ELECTRONIC EQUIPMENT; PROGRAMMABLE CONTROLLERS"
+}

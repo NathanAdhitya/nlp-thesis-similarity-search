@@ -1,0 +1,14 @@
+{
+  "id": "53752",
+  "title": "Deteksi rompi dan helm keselamatan menggunakan metode YOLO dan CNN",
+  "abstract": "Pekerja konstruksi dalam menjalankan tugasnya memiliki resiko yang tinggi dan rawan dengan kecelakaan. Beberapa faktor yang membuat resiko kecelakaan menjadi semakin besar yaitu kondisi lingkungan yang terbuka dan panas, ketinggian bangunan, berhadapan dengan benda-benda tajam, dan lainya. Penggunaan alat pelindung diri (APD) menjadi penting untuk mengantisipasi atau mengurangi resiko kecelakaan yang mungkin terjadi. Namun, tidak jarang para pekerja konstruksi lupa atau mungkin sengaja tidak menggunakan alat pelindung diri. Untuk mengatasi permasalahan tersebut dibutuhkan sebuah sistem yang dapat mendeteksi alat pelindung diri pada pekerja konstruksi. Penelitian ini menggunakan metode You Only Look Once (YOLO) untuk mendeteksi bagian tubuh kepala dan badan dari gambar yang di-inputkan. Bagian tubuh yang terdeteksi kemudian dipotong dan diproses dengan metode Convolutional Neural Network (CNN) dengan model ResNet50 untuk diklasifikasikan. Proses pelatihan dengan model ResNet50 akan dilakukan modifikasi pada hyperparameter seperti learning rate, epoch, dense layer, dropout layer, augmentasi data dan freeze layer untuk membandingkan performanya dengan model sebelum dilakukan modifikasi. Hasil penelitian menunjukkan model YOLO memiliki tingkat kecepatan mendeteksi yang sangat tinggi dengan akurasi yang baik. Sementara itu model CNN yang dimodifikasi menunjukan performa yang baik dengan nilai akurasi rata-rata 96%.",
+  "creators": "RESCKY MARTHEN",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022184/INF/2022; Rescky Marthen (26416138)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; ARTIFICIAL NEURAL NETWORKS; NEURAL NETWORKS (COMPUTER SCIENCE)--COMPUTER PROGRAMS; PERSONNEL MANAGEMENT--SAFETY MEASURES"
+}

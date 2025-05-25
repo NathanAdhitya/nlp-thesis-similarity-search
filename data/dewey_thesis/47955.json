@@ -1,0 +1,14 @@
+{
+  "id": "47955",
+  "title": "Pembuatan prototipe mesin pemotong kertas otomatis menggunakan motor servo AC",
+  "abstract": "Alat pemotong kertas secara umum masih banyak yang dikerjakan secara manual oleh manusia. Tugas akhir ini bertujuan untuk membuat sebuah alat otomasi yang yang mampu memudahkan pekerjaan manusia dan meningkatkkan produktifitas serta kualitas. Alat yang dibuat adalah sebuah prototipe mesin pemotong kertas otomatis menggunakan motor servo AC. Prototipe yang dibuat terbuat dari bahan besi dan memiliki dua buah pendorong kertas dan sebuah pisau. Prototipe dikendalikan oleh sebuah PLC untuk memberi perintah kepada komponen-komponen lainnya. Agar kertas dapat terpotong sesuai dengan ukuran yang ditentukan, digunakan sebuah motor servo AC pada salah satu pendorong kertas. Motor servo AC kemudian akan menggerakkan pendorong kertas berdasarkan jumlah pulsa sesuai dengan pilihan ukuran. Prototipe yang dibuat kemudian diuji kemampuan kerjanya dari beberapa pengujian. Pengujian yang dilakukan adalah keberhasilan pemrograman prototipe, pengujian akurasi dan repeatability potong prototipe, dan kemampuan memotong prototipe. Dari pengujian yang dilakukan didapatkan tahapan kerja prototipe sesuai pemrograman dengan akurasi rata-rata sebesar 99,1% terhadap ukuran kertas ideal dan repeatability dengan standar deviasi sebesar 0,8. Namun terdapat kendala-kendala mekanis pada prototipe yang menyebabkan ketidaksempurnaan pemotongan kertas, contohnya pada pemotongan kertas B6 didapatkan akurasi yang lebih rendah secara signifikan dari rata-rata total, yaitu sebesar 97,25%.",
+  "creators": "KEVIN WILLIAM HARIANTO",
+  "contributors": "Handy Wicaksono (Advisor 1); Handry Khoswanto (Advisor 2); Thiang (Examination Committee 1); Felix Pasila (Examination Committee 2); Resmana Lim (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011003/ELK/2020; Kevin William Harianto (23416019)",
+  "subjects": "PAPER-CUTTING MACHINES"
+}

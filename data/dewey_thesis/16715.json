@@ -1,0 +1,14 @@
+{
+  "id": "16715",
+  "title": "Prototipe web server dan web client dengan kemampuan kompresi data",
+  "abstract": "Mewujudkan kemudahan dan kecepatan melakukan browsing bagi para pengguna World Wide Web adalah tujuan dari pembuatan tugas akhir ini. Pada tugas akhir ini, penulis akan membangun prototipe web server serta web client yang memiliki teknologi transfer data dalam bentuk data terkompres. Selama ini, web client yang melakukan http request suatu homepage pada sebuah web server, akan menerima http response-nya berupa file html-nya langsung. Apabila ukuran file tersebut besar maka web client akan menghabiskan waktunya sia-sia hanya untuk menunggu datangnya potongan-potongan data yang tidak kunjung lengkap. Hal ini dikarenakan jalur internet yang padat dan lamban. Ide dasar dari tugas akhir ini adalah mengatasi pemborosan waktu tersebut, dengan melakukan auto-kompres atas file html yang di-request, baru kemudian mengirimkannya pada web client, dan secara pasti web client akan menerima file tersebut dan melakukan auto-dekompresi untuk mendapatkan file htmlnya dan siap menampilkan ke layar dengan cepat, dengan file yang terkompres maka ukuran file akan jauh mengecil sehingga waktu transfer dalam jalur internet akan dapat dipersingkat. Prototipe dari web server akan menggunakan teknologi HTTP server, yaitu IPDaemon, yang akan berfungsi sebagai komunikator dengan winsock, untuk prototipe web client akan menggunakan teknologi HTTP Client, produksi dari NetManage, sebagai komunikator dengan winsock, sedangkan untuk penterjemah html tag digunakan Micrososft Internet Active Control produksi dari Microsoft. Perangkat lunak ini dibuat dengan menggunakan Borland Delphi 3.0 Client/Server Suite. Uji coba prototipe ini telah menunjukkan hasil penghematan waktu yang mencapai 50% sampai 80% untuk file html saja, dan juga menunjukkan hasil penghematan waktu yang mencapai 40% sampai 70% untuk file html yang disertai file image yang berukuran besar dengan perbandingan ukuran file html 1,5 atau 3 kali lebih besar dari ukuran file image.",
+  "creators": "GUNAWAN",
+  "contributors": "Resmana Lim (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/K/EL/014/036; Gunawan Kaman (23493020)",
+  "subjects": "INTERNET (COMPUTER NETWORKS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "44794",
+  "title": "Test driven development pada full-stack web development di OWOW",
+  "abstract": "OWOW adalah sebuah agensi digital yang bergerak di bidang pengembangan perangkat lunak, desain, dan pemasaran digital. Salah satu jasa yang disediakan adalah full-stack web development. OWOW membagi full-stack web development yang dilakukan menjadi back-end dan front-end. OWOW sudah melakukan beberapa automated testing di back-end, tetapi belum di front-end. Kondisi ini tidak ideal karena aplikasi web yang dihasilkan tidak dapat dipastikan kualitasnya secara mudah dan menyeluruh. OWOW meyakini bahwa Test Driven Development (TDD) adalah solusi untuk situasi ini. TDD adalah sebuah metode pengembangan perangkat lunak di mana test code ditulis sebelum implementation code. Melalui proyek ini, OWOW ingin memulai mengaplikasikan TDD di dalam full-stack web development yang mereka lakukan. Penelitian telah dilaksanakan untuk menginvestigasi bagaimana untuk mengaplikasikan TDD pada proses kerja OWOW. Di dalam penelitian tersebut, pendekatan TDD dirumuskan. Lalu, pengaplikasiannya pada back-end dan front-end dipelajari lebih dalam. Selain itu, hubungannya terhadap Continuous Integration dieksplorasi lebih lanjut. Hasil penelitian kemudian diimplementasikan pada sebuah proyek aplikasi web bernama RentIt. Sebuah bagian dari RentIt telah dipilih sebagai kasus perdana untuk implementasi TDD. Implementasi ini telah dilaksanakan dan menjadi proof-of-concept pengaplikasian TDD pada full-stack web development di OWOW. Pada saat laporan ini ditulis, telah disimpulkan bahwa OWOW sudah diperkenalkan untuk mengaplikasikan TDD dalam full-stack web development yang mereka lakukan.",
+  "creators": "ALBERT EDWILLIAN PRATOMO",
+  "contributors": "Erik H.J.D. van der Schriek (Advisor 1); Maja M. Pesic (Advisor 2); Thomas E. van der Veen (Advisor 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021908/INF/2019; Albert Edwillian Pratomo (26415175)",
+  "subjects": "WEB SITES--DESIGN; WEB SITE DEVELOPMENT; WEB APPLICATIONS"
+}

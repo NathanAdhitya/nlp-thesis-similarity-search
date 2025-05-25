@@ -1,0 +1,14 @@
+{
+  "id": "44587",
+  "title": "Sistem pembacaan data power meter dengan komunikasi Modbus secara terpusat",
+  "abstract": "Power meter digunakan untuk memantau penggunaan energi listrik pada suatu ruangan atau gedung. Untuk melihat secara mendetail penggunaan listrik pada satu ruang pada suatu bangunan, digunakan power meter yang disebar pada beberapa titik. Karena letak power meter yang tersebar, maka diperlukan power meter yang memiliki fitur komunikasi data agar data pembacaan dapat dikirimkan dan dikumpulkan secara terpusat. Sistem dibuat dengan menggunakan dua perangkat. yang pertama adalah gateway yang membaca data dari power meter yang tersebar. Gateway berfungsi untuk merubah data Modbus RTU menjadi modbus TCP/IP. Perangkat kedua yaitu server menerima data Modbus TCP/IP dari gateway lalu menampilkannya menuju halaman web. Server juga akan mengirim notifikasi menuju smartphone apabila kondisi pembacaan power meter menunjukkan nilai tertentu yang melebihi nilai threshold dari user. Sistem yang telah dibuat menghasilkan perangkat gateway yang dapat mengirimkan data power meter menuju server, halaman web untuk tampilan data power meter beserta halaman untuk konfigurasi, sistem database untuk menyimpan data dari power meter, dan sistem notifikasi melalui aplikasi Line. Sistem yang telah dibuat mampu menampilkan data power meter menuju halaman web dengan jeda waktu 864.09 milidetik hingga 943.35 milidetik dari nilai riil pada power meter.",
+  "creators": "JONATHAN TENG",
+  "contributors": "Resmana Lim (Advisor 1); Julius Sentosa Setiadji (Advisor 2); Handy Wicaksono (Examination Committee 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 2); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010986/ELK/2019; Jonathan Teng (23415011)",
+  "subjects": "ELECTRIC METERS; RECORDING ELECTRIC METERS"
+}

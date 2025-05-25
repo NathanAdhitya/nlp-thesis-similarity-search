@@ -1,0 +1,14 @@
+{
+  "id": "14030",
+  "title": "Menentukan jumlah pembelian kopra dengan meminimumkan total harga pembelian kopra tanpa adanya penumpukan persediaan untuk memenuhi penjualan",
+  "abstract": "Dalam menghadapi tingkat permintaan yang berfluktuasi dibutuhkan tersedianya jadwal produksi dan tingkat persediaan termasuk keputusan dalam menentukan jumlah pembelian kopra sehingga nantinya tidak terjadi penumpukan inventori yang berlebihan di gudang mengingat ketahanan kopra memiliki jangka waktu tertentu dan juga adanya fluktuasi harga. Tujuan dari tugas akhir ini adalah menentukan jumlah pembelian kopra yang tepat dengan meminimumkan total harga untuk dapat memenuhi penjualan tanpa adanya penumpukan persediaan yang berlebihan di gudang. Berdasarkan pengamatan dan pengumpulan data pada pelaksanaan tugas akhir ini, dilakukan peramalan dengan menggunakan metode peramalan yang sesuai dengan analisa karakteristik data pada plot data masa lalu permintaan dan harga beli. Selanjutnya hasil peramalan tersebut beserta biaya-biaya yang berhubungan dalam penentuan jumlah pembelian akan digunakan dalam penyelesaian masing-masing stage pada pemograman dinamis secara backward. Pengerjaan model dengan pendekatan pemograman dinamis ini dilakukan untuk memperoleh keputusan optimal mengenai jumlah pembelian kopra pada setiap bulan.",
+  "creators": "ZINDERELLA FEBE K.",
+  "contributors": "Siana Halim (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 458/TI-049/2001; Zinderella Febe Kusumahadie (25497011)",
+  "subjects": "BUSINESS FORECASTING; PRODUCTION PLANNING"
+}

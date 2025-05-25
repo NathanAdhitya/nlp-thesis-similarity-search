@@ -1,0 +1,14 @@
+{
+  "id": "48268",
+  "title": "Prototype energy meter dilengkapi fitur pemantauan wireless menggunakan lora technology",
+  "abstract": "LoRa (Long Range) merupakan teknologi sistem komunikasi wireless yang dirancang untuk komunikasi jarak jauh dengan konsumsi daya yang rendah dan perpindahan data yang terjamin keamanannya, namun kecepatan transmisi yang sangat kecil. Teknologi ini nantinya akan membantu pengecekan dan pemantuan pada enegry meter dengan jangkauan jarak jauh menggunakan media jaringan wireless. Pada pengiriman data menggunakan pemancar radio modulasi FM yang mampu mengiriman data sangat jauh dan tahan terhadap gangguan sinyal atau jaringan lainnya. Hasil frekuensi pada LoRa bermacam-macam sesuai dengan tiap negara. Frekuensi yang di pakai untuk pengujian ini yaitu 915Mhz (RFM95). Untuk penerapannya pada aplikasi perangkat IoT (Internet Of Things). Untuk menerapkan sistem ini, dibutuhkan sebuah node untuk mengirim data dan gateway untuk menerima data dari LoRa node. LoRa node dan LoRa gateway dirancang dengan menggunakan 2 module yaitu Arduino sebagai controller dan LoRa Dragino sebagai radio. Nantinya data yang diterima oleh gateway akan diteruskan melalu jaringan internet. Untuk menyimpan data tersebut dibutuhkan database. Data tersebut nantinya akan ditampilkan melalui smartphone sebagai monitoring. Hasil dari pengujian membuktikan bahwa LoRa Module dapat mengirim dan menerima data sejauh maksimal 1.300m pada apartement dan 200m pada perumahan dengan pengiriman data berupa pengukuran beban dispenser, lampu dan bor listrik pada kondisi non-LOS.",
+  "creators": "JOSHUA CHRISTIAN SONBAI",
+  "contributors": "Resmana Lim (Advisor 1); Handry Khoswanto (Advisor 2); Indar Sugiarto (Examination Committee 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 2); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011005/ELK/2020; Joshua Christian Sonbai (23415015)",
+  "subjects": "ARDUINO (PROGRAMMABLE CONTROLLER); WIRELESS COMMUNICATION SYSTEMS"
+}

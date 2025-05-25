@@ -1,0 +1,14 @@
+{
+  "id": "5205",
+  "title": "Perancangan dan pembuatan aplikasi pengaturan sistem database berbasis web",
+  "abstract": "Salah satu sistem pengaturan database yang saat ini sedang populer adalah database front-end, dengan memakai database front-end maka administrator dapat lebih mudah mengawasi dan mengatur database. Saat ini sistem front-end sudah diaplikasikan ke dalam bentuk internet. Aplikasi yang mendukung fungsi tersebut bernama PHP My Admin. Pada aplikasi ini database yang mendukung hanyalah database MySQL. Sedangkan saat ini salah satu database yang cukup populer adalah SQL Server, akan tetapi aplikasi PHP My Admin tidak mendukung database SQL Server. Oleh karena itu dalam Tugas Akhir ini ditawarkan suatu aplikasi untuk mengatur database MySQL dan SQL Server sekaligus. Pada aplikasi ini, terdapat sejumlah fungsi untuk memanipulasi database, yaitu insert, update dan delete. Ada pula fungsi untuk mendefinisikan database yang baru misalnya create. Selain fungsi-fungsi tersebut ada pula fungsi untuk menghapus tabel, database, serta mengganti namanya. Hasil pengujian menunjukkan bahwa untuk menghasilkan data dalam waktu yang cukup cepat diperlukan layanan internet yang cukup tinggi dan stabil. Selain itu, jenis dari database juga mempengaruhi kecepatan dalam memproses query yang dijalankan. Berdasarkan hasil dari uji coba, dapat diambil suatu kesimpulan bahwa database server MySQL memiliki kecepatan yang lebih baik dari database server SQL Server dalam memproses suatu query. Namun hasil uji coba tersebut bukanlah suatu jaminan bahwa database server MySQL lebih baik daripada SQL Server.",
+  "creators": "RENDY PANGESTU",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); DWI BUDIMAN (Advisor 2); Oviliani Yenty Yuliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010632/INF/2007; Rendy Pangestu (26403080)",
+  "subjects": "WEB SITES-DESIGN; DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5752",
+  "title": "Studi pengaruh metode sampling terhadap respon pengendalian suhu dalam ruangan",
+  "abstract": "Studi ini mempelajari pengaruh metode sampling pada pengendalian suhu dalam ruangan. Untuk pengendalian suhu dalam ruangan digunakan PID controller. Ada 2 metode sampling yang digunakan dalam studi ini. Proses metode sampling yang pertama adalah dimana data suhu yang diterima langsung diproses menggunakan PID controller kemudian output PID dikirim untuk mengontrol actuator. Sedangkan proses sampling metode yang kedua dimana data suhu diterima kemudian mengirimkan perhitungan data sebelumnya baru data suhu yang diterima diproses menggunakan PID controller. Sistem dikontrol melalui PC dengan menggunakan bahasa pemrogaman Visual Basic 6.0. Data dihasilkan dari sensor LM35. Sedangkan untuk media eksekutornya digunakan mikrokontroller ATMega8, pengiriman data dari mikrokontroller ke PC melalui Interfacing Serial Port menggunakan MAX232. Pada masing-masing metode akan digunakan delay random sebagai gangguan dan tanpa delay random sebelum pengiriman data serta ditambahkan gangguan untuk mengetahui apakah PID controller yang digunakan dapat mempertahankan suhu dalam ruangan. Dari hasil pengujian, dua metode penyamplingan data, metode kedua cocok untuk respon pengendalian suhu dalam ruangan karena mempunyai respon yang lebih cepat dari metode pertama. Untuk mendapatkan hasil Set Point yang lebih besar dapat digunakan Heater atau pemanas. Untuk respon terhadap gangguan, metode kedua lebih cepat daripada metode pertama. Semua percobaan menggunakan nilai Kp = 45, Ki = 5, Kd = 10",
+  "creators": "DARMAWAN WANGSADIHARJA",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010773/ELK/2006; Darmawan Wangsadiharja (23401011)",
+  "subjects": "AUTOMATIC CONTROL; PROGRAMMABLE CONTROLLERS"
+}

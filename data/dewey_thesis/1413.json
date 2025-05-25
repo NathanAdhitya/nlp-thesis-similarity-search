@@ -1,0 +1,14 @@
+{
+  "id": "1413",
+  "title": "Pengukuran temperatur pada pengecoran cetakan pasir dengan menggunakan LabVIEW",
+  "abstract": "Pengukuran distribusi temperatur pada pengecoran logam cair dapat dilakukan dengan menggunakan termokopel. Pengukuran temperatur tersebut secara kontinu dapat menjadi indikator atau feedback dalam hal mengurangi cacat yang timbul pada pengecoran logam cair. Dalam hal ini, LabVIEW sebagai bahasa pemprograman yang berbasis grafik dan mempunyai banyak fungsi dalam memproses signal, dapat digunakan untuk membuat suatu program untuk mengukur distribusi temperatur secara kontinu. Untuk melakukan pengukuran ini, kawat termokopel pada ujung yang satu dihubungkan ke cetakan pasir, sedangkan pada ujung yang lain dihubungkan ke terminal (TBX-68T). Dari TBX-68T dihubungkan ke data acquisition card (Nl 4350 USB) dengan menggunakan kabel SH6868 yang sudah dilapisi pelindung. Nl 4350 USB dihubungkan ke desktop komputer menggunakan kabel USB. Hasil yang didapatkan dari pengukuran ini adalah pengukuran yang kurang akurat di setiap channel, hal ini disebabkan karena adanya gangguan signal pada saat pengukuran dilakukan. Pengukuran hanya dilakukan 2 kali dengan menggunakan software Virtual Bench Logger, sedangkan pengukuran dengan menggunakan program LabVIEW tidak dapat dilakukan karena instrumen NI 4350 USB mengalami kerusakan sehingga tidak dapat membandingkan hasil pengukuran dengan menggunakan program LabVIEW dan dengan menggunakan Virtual Bench Logger.",
+  "creators": "CHRISTIAN WIDJAYA",
+  "contributors": "Roche Alimin (Advisor 1); Ninuk Jonoadji (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0629/MES/2004; Christian Wijaya (24498053)",
+  "subjects": "SAND CASTING"
+}

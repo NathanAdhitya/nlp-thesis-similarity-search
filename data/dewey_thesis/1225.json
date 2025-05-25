@@ -1,0 +1,14 @@
+{
+  "id": "1225",
+  "title": "Pelacakan pergerakan wajah dengan wire frame 3 dimensi",
+  "abstract": "Pelacakan pergerakan wajah dengan wire frame 3 dimensi ini menggunakan model wajah 3 dimensi yang merupakan kumpulan titik koordinat. Model ini untuk mengestimasi pose dari hasil pelacakan pergerakan wajah yang didapat dari kamera ataupun file video. Model wajah ini pertama-tama diproyeksikan ke layar sebagai inisial fitur yang akan dilacak. Sebelum proses pelacakan, maka model yang sudah di proyeksikan ini harus ditempatkan terlebih dahulu ke wajah orang yang akan dilacak. Titik-titik dalam 2 dimensi ini selanjutnya yang akan dilacak. Pelacakan disini menggunakan metode Lucas- Kanade Optical Flow. Selanjutnya posisi baru yang didapat dari hasil pelacakan digunakan untuk mengestimasi pose. Untuk estimasi pose disini digunakan metode Fully Projective yang merupakan modifikasi dari metode Lowe. Melalui metode ini dengan menggunakan informasi posisi titik yang baru dan model wajah 3 dimensi maka akan didapatkan besar transformasi dari gerakan wajah yaitu translasi dan rotasi terhadap sumbu x,y, dan z. Aplikasi ini dibangun menggunakan Microsoft Visual C-+ 6.0*1, Microsoft? DirectShow?, Intel Image Processing Library dan Open Source Computer Vision Library. Aplikasi ini telah diimplementasikan dan dapat melacak pergerakan wajah secara real-time yaitu 30 frames/s dengan menggunakan webcam resolusi 320x240 pixel/frame pada PC Pentium III/533 MHz. Sistem cukup prospektif digunakan sebagai salah satu metode interaksi manusia komputer maupun pada sistem pengenalan ekspresi wajah.",
+  "creators": "DAVINA",
+  "contributors": "Resmana Lim (Advisor 1); Silvia Rostianingsih (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010011/INF/2002; Davina (26498001)",
+  "subjects": "COMPUTER DRAWING; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "53398",
+  "title": "Prototipe robot pramusaji untuk mengantar makanan",
+  "abstract": "Masa pandemi COVID-19 ini pemerintah menghimbau masyarakat untuk melakukan protokol kesehatan, menghindari kerumunan dan menjaga jarak. Hal ini menjadi tantangan tersendiri untuk sebuah restoran. Seperti bagaimana melayani pelanggan namun juga tetap menjaga jarak dan mengurangi kontak fisik yang terjadi. Di masa lalu, melayani pelanggan restoran secara konvensional salah satunya adalah dengan menggunakan pramusaji. Pramusaji bertugas untuk membantu restoran untuk melayani pelanggan dan mengantar pesanan. Tugas akhir ini bertujuan untuk membuat prototipe robot pramusaji yang dapat mengantarkan makanan dari satu meja ke meja lain menggunakan metode line following. Robot akan berjalan dari dapur ke meja pelanggan dengan memanfaatkan sensor line follower untuk mengikuti garis hitam yang dipasang disekitar meja makan. Robot ini juga dilengkapi dengan berbagai sensor dan fitur. Sensor dan fitur tersebut meliputi sensor jarak dan limit switch sebagai sensor collision untuk merespon halangan yang ada di depan robot, seven segment untuk menampilkan nomor meja yang dituju, speaker untuk memberi pesan suara, tombol dan lcd 16x2 untuk membantu melakukan konfigurasi robot. Prototipe robot pramusaji ini menggunakan Arduino Mega 2560 sebagai mikrokontroler. Mikrokontroler digunakan untuk memproses setiap respon output terhadap respon input. Hasil dari pengujian ini dapat disimpulkan bahwa robot ini mampu mengantarkan makanan dari dapur atau garasi ke destinasi meja pertama dan meja lain lalu kembali dalam waktu 1,5-2 menit, mampu mendeteksi halangan 8-30 cm, sehingga dapat mendeteksi halangan sejauh 10 cm dengan baik dengan tingkat keberhasilannya 100%. Namun memiliki kelemahan seperti kesalahan desain line follower yang dipasang ditengah robot sehingga pergerakan robot menjadi kurang baik. Ketika robot berjalan miring dari awal robot berjalan, maka perjalanan selanjutnya akan terus miring dan sulit untuk kembali berjalan lurus.",
+  "creators": "ALBRYAN EDWARDO",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Advisor 2); Indar Sugiarto (Examination Committee 1); Emmy Hosea (Examination Committee 2); Handy Wicaksono (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011032/ELK/2022; Albryan Edwardo (C11170039)",
+  "subjects": "ARDUINO (PROGRAMMABLE CONTROLLER); PROTOTYPES, ENGINEERING; ROBOTICS"
+}

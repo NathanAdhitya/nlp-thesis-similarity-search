@@ -1,0 +1,14 @@
+{
+  "id": "14852",
+  "title": "Pembangkit teks pada video dengan menggunakan mikrokontroler 8031",
+  "abstract": "Untuk dapat lebih mengerti dan memahami jalannya cerita dalam peristiwa tertentu seperti pesta pernikahan, dan peristiwa-peristiwa penting lainnya yang direkam dengan video, terutama untuk gambar-gambar peristiwa yang direkam secara terputus-putus, diperlukan keterangan yang menyertai gambar tersebut. Untuk itu diperlukan suatu alat yang dapat menampilkan tulisan pada video. Tulisan yang ditampilkan bersama-sama dengan gambar tersebut dapat direkam kembali. Pembangkit teks pada video merupakan suatu alat yang dapat menampilkan teks/tulisan pada layar televisi. Didalamnya terdapat pembangkit sinyal sinkronisasi, sehingga teks tetap dapat dituliskan walaupun tidak ada sinyal video yang masuk. Sebagai pembangkit karakter digunakan IC MB-88303, yang merupakan jantung dari keseluruhan sistem pembangkit teks pada video, dan untuk mengontrol seluruh minimum sistem dipakai prosesor 8031. Sebagai masukannya adalah sinyal dari video yang berupa sinyal video komposit dan keluaran rangkaian dihubungkan ke layar televisi. Sinyal video yang masuk dipisahkan untuk diambil horisontal sinkronisasi dan vertikal sinkronisasi, sinyal ini diperlukan oleh MB-88303. Bila ada tombol keyboard yang ditekan, data yang masuk diterima oleh 8031 dan diteruskan ke MB-88303 sehingga MB-88303 mengeluarkan sinyal karakter yang selanjutnya ditampilkan pada layar televisi. Hasil akhir berupa teks yang ditampilkan pada layar televisi bersama-sama dengan gambar video, dimana posisi teks dapat diatur letaknya dengan software. Teks yang ditampilkan dalam 1 kali tampilan sebanyak 20 kolom x 3 baris. Alat ini mempunyai kemampuan untuk menyimpan maksimum 30 kali tampilan.",
+  "creators": "RATNASARI PANGESTU",
+  "contributors": "HANDAYANI T. (Advisor 1); YOHANES T. D. S (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/EL/024/0083; Ratnasari Pangestu (485095)",
+  "subjects": "MICROCONTROLLER 8031"
+}

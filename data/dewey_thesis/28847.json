@@ -1,0 +1,14 @@
+{
+  "id": "28847",
+  "title": "Prototype penggunaan kinect untuk aplikasi pembelajaran nada",
+  "abstract": "Kinect adalah salah satu teknologi yang memiliki kemampuan untuk mendeteksi pemain serta gerakan-gerakan pemain. Kinect sebagai controller bisa diterapkan untuk berbagai macam keperluan, seperti untuk aplikasi simulator. Salah satu aplikasi simulator yang dapat digunakan sebagai pembelajaran adalah aplikasi pembelajaran nada menggunakan piano virtual. Oleh karena itu dalam tugas akhir ini akan dibuat aplikasi pembelajaran nada menggunakan piano virtual berbasis Kinect. Aplikasi ini juga diharapkan bisa terhubung dengan server. Server ini menyimpan data file MIDI, skor, dan pemain. Sebagai hasilnya, aplikasi telah dapat memainkan file MIDI, melakukan koneksi ke server, dan menggunakan Kinect sebagai controller. Aplikasi juga sudah berhasil mencatat skor hasil permainan dan menjalankan musik MIDI dan animasi dengan sinkron.",
+  "creators": "YOSAFAT YUWONO",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010114/ELK/2012; Yosafat Yuwono (23408027)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "17188",
+  "title": "Akuisisi reaksi otot dengan menggunakan fasilitas LPT-1 IBM PC",
+  "abstract": "Pada tugas akhir ini direncanakan suatu alat untuk mengukur reaksi otot dengan menggunakan fasilitas printer IBM PC. Penggunaan alat ini dimaksudkan untuk memudahkan para dokter di dalam mendeteksi reaksi otot pasiennya sehingga didapat hasil yang lebih akurat daripada menggu-nakan alat konvensional yaitu palu. Parameter-parameter yang diukur berupa tegangan puncak (mV) dari sinyal reflek dan durasi sinyal (ms) tersebut. Sinyal reflek ini didapat dengan menggunakan sensor elektroda permukaan. Karena sinyal dari elektroda ini kecil sekali (dalam beberapa mV ), maka perlu di-kuatkan oleh suatu Rangkaian Pengkodisi Sinyal, dalam hal ini menggunakan biopotensial amplifier. Selanjutnya sinyal dari biopotensial amplifier tersebut dikonversikan menjadi data digital oleh suatu rangkaian ADC ( Analog to Digital Converter ) agar dapat dibaca oleh komputer. Data ini selanjutnya diproses oleh perangkat lunak ( software ) untuk ditampilkan dalam bentuk grafik maupun disimpan dalam bentuk file, sehingga sewaktu-waktu dibutuhkan dapat ditampilkan kembali. Sedangkan untuk mengukur durasi sinyal reflek digu-nakan suatu rangkaian frekuensi counter dengan menggunakan IC PIT 8254. Hasil yang ingin dicapai dalam pembuatan Tugas Akhir ini adalah memudahkan tugas para dokter di dalam mende-teksi reflek otot pasiennya dan untuk mendapatkan hasil yang lebih teliti. Kesimpulan yang didapat dari pembuatan alat untuk mengukur reflek otot ini adalah hasil pengukuran yang mempunyai ketelitian yang cukup tinggi.",
+  "creators": "FERI",
+  "contributors": "SOETIKNO (Advisor 1); Murtiyanto Santoso (Examination Committee 1); HERLIANTO TENGGARA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/050/310; Feri (23491088)",
+  "subjects": "IBM PERSONEL COMPUTER"
+}

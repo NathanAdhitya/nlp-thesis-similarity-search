@@ -1,0 +1,14 @@
+{
+  "id": "4395",
+  "title": "Pembuatan prototype e-banking via internet dengan notifikasi sms",
+  "abstract": "E-Banking via internet disebut juga sebagai internet banking, PC banking, atau on-line banking. Internet banking memungkinkan pelanggan untuk melakukan transaksi perbankan melalui komputer yang terhubung dengan internet, misalnya seorang pelanggan dapat menggunakan komputernya untuk melihat saldonya, melakukan transfer rekening, dan membayar tagihan secara elektronik. Sistem ini dibuat berdasarkan internet banking yang sudah ada dengan kemampuan untuk menangani transaksi-transaksi dasar: transfer rekening, pembayaran tagihan, dan pembelian. Pelayanan yang ditawarkan adalah histori transaksi dan informasi rekening. Notifikasi SMS (Short Message Service) ditambahkan sebagai fungsi tambahan. Setiap kali suatu transaksi selesai, seorang pelanggan dapat mengirimkan detail transaksi tersebut dalam bentuk SMS ke ponselnya. Fungsi ini memerlukan nomor ponsel yang terdaftar. Untuk keamanan pelanggan, situs ini telah diamankan dengan SSL (Secure Socket Layer) 128-bit encryption. Database yang digunakan adalah Microsoft Access, server yang digunakan adalah IIS ( Internet Information Service) 5.1. Semua fungsi yang disediakan telah diujicoba, termasuk transfer rekening, pembayaran tagihan, pembelian, pengiriman report dalam bentuk SMS, pengiriman report pada penerima transfer rekening, dan perubahan database untuk administrator. Dari hasil pengujian dapat disimpulkan bahwa system berjalan dengan baik.",
+  "creators": "HENDRY YANUARD",
+  "contributors": "Resmana Lim (Advisor 1); Agustinus Noertjahyana (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000163/INF/2004; Hendry Yanuard (26499050)",
+  "subjects": "DATA TRANSMISSION SYSTEMS"
+}

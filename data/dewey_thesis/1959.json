@@ -1,0 +1,14 @@
+{
+  "id": "1959",
+  "title": "Mobile robot yang dikontrol dengan teknologi bluetooth",
+  "abstract": "Saat ini di Indonesia, teknologi komunikasi bluetooth kebanyakan hanya digunakan sebagai sarana transfer data dan masih sangat jarang digunakan sebagai pengendali suatu perangkat keras. Mengingat perkembangan teknologi bluetooth yang semakin pesat tetapi ruang lingkup aplikasinya yang masih sangat kecil, maka direncanakan sebuah aplikasi mobile robot (dikontrol oleh PC dengan menggunakan teknologi bluetooth dan mampu melakukan komunikasi bi-directional, proses sensoring, dan mengenali ID controller) yang terdiri dari rangkaian controller dan mobile robot. Rangkaian controller (yang terdiri dari komputer dan USB Bluetooth Dongle) berfungsi untuk mengatur seluruh gerakan mobile robot. Sedangkan rangkaian mobile robot berfungsi untuk menjalankan semua perintah yang diberikan dari controller (termasuk perintah sensoring). Rangkaian mobile robot terdiri dari modul AVR, modul ultrasonic, sensor kecepatan, modul EB500 (Embedded Bluetooth TM 500), dan driver motor. Pada pengujian yang dilakukan, mobile robot dapat dikontrol oleh PC dengan menggunakan teknologi bluetooth hingga jarak 10 m (Open field) dengan berbagai kecepatan antara 5 cm/detik hingga 20 cm/detik. Mobile robot ini memiliki sistem keamanan (mampu mengenali ID Controller) dan dapat melakukan proses sensoring.",
+  "creators": "STEFANUS NICO HARYANTO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); IWAN NJOTO SANDJAJA (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010740/ELK/2005; Stefanus Nico Harjanto (23401036)",
+  "subjects": "MOBILE ROBOTS; ROBOTS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8034",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi Badan Keswadayaan masyarakat Siwalankerto Makmur Surabaya",
+  "abstract": "Badan Keswadayaan Masyarakat (BKM) Siwalankerto Makmur adalah suatu badan yang dibentuk untuk menyalurkan dana pemerintah kepada kelompok masyarakat di kelurahan sasaran, dengan tujuan menanggulangi kemiskinan. BKM ini dikelola sendiri oleh warga masyarakat setempat, maka pertanggungjawaban keuangan masih dilakukan secara manual dan sederhana sesuai dengan kemampuan anggota BKM tersebut. Sumber daya manusia yang tersedia tidak memiliki latar belakang pendidikan dan waktu kerjanya part-time, sehingga mengalami kesulitan dalam pembuatan laporan yang benar. Agar mempermudah pemrosesan data yang digunakan untuk pembuatan laporan dan pengambilan keputusan maka dibutuhkan suatu sistem baru yang terkomputerisasi. Dalam perancangan aliran data menggunakan Data Flow Diagram. Sedangkan untuk membuat desain struktur tabel dan relasi antar tabel menggunakan Entity Relationship Diagram. Database dibuat dengan menggunakan Microsoft Access. Aplikasi dibuat dan dikembangkan dengan menggunakan bahasa pemrograman Microsoft Visual Basic. Dari hasil pengujian terhadap program, menunjukkan bahwa program ini dapat memproses data akuntansi yang berhubungan dengan transaksi simpan pinjam secara otomatis. Program ini juga menghasilkan informasi berupa laporan keuangan (laba rugi, perubahan modal, dan neraca) dan laporan-laporan lain.",
+  "creators": "JENNY CAHYONO",
+  "contributors": "Oviliani Yenty Yuliana (Advisor 1); Felicia Soedjianto (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010667/INF/2007; Jenny Cahyono (26403095)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

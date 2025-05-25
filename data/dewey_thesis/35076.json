@@ -1,0 +1,14 @@
+{
+  "id": "35076",
+  "title": "Pembuatan turn based strategy role playing game menggunakan neural network dan decision tree",
+  "abstract": "Strategy merupakan salah satu genre video game yang populer. Kepuasan dari bermain sebuah strategy game didapat dari menggunakan strategi yang telah dirancang pemain untuk mengalahkan lawan. Semakin menantang lawan yang ada, semakin menarik game tersebut. Oleh karena itu, untuk mendapatkan lawan yang baik, dibutuhkan sebuah Artificial Intelligence (AI) yang baik juga. Terdapat bermacam-macam jenis AI yang dapat digunakan dalam pembuatan strategy game. Dua diantaranya adalah Jaringan Syaraf Tiruan (JST) dan Decision Tree. Sebelum dapat digunakan, kedua AI harus dilatih terlebih dahulu agar dapat mengambil keputusan dengan benar. Pelatihan decision tree dilakukan dengan algoritma Iterative Dichotomiser 3 (ID3), sedangkan JST dilatih menggunakan metode backpropagation. Selain itu, akan dilakukan proses pruning terhadap JST yang telah dilatih agar proses pengambilan keputusan lebih efisien. Akan dibangun juga sebuah game di mana kedua AI akan diimplementasikan. Game akan dibangun menggunakan Unity Game Engine. AI yang dihasilkan diuji menggunakan suatu dataset yang telah disiapkan, di mana output dari AI menjadi parameter utama pengujian. Pengujian lalu dilakukan kembali terhadap JST menggunakan data yang didapat dari input user dalam game. Selain itu, dilakukan juga pengujian terhadap pengimplementasian AI dalam game dan pembandingan antara kedua AI. Dari hasil pengujian, dapat disimpulkan bahwa decision tree dan JST dapat diimplementasikan menjadi AI dalam sebuah strategy game. Selain itu, dapat disimpulkan juga bahwa JST dapat berkembang dengan proses training menggunakan input data dari pemain saat game dimainkan.",
+  "creators": "ANDRE LIONEL SANJAYA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021426/INF/2015; Andre Lionel Sanjaya (26411144)",
+  "subjects": "ARTIFICIAL INTELLIGENCE; NEURAL NETWORK (COMPUTER SCIENCE); VIDEO GAMES-DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5524",
+  "title": "Analisa instalasi listrik plant 1 di PT. Bumi Menara Internusa Surabaya",
+  "abstract": "Instalasi listrik yang baik akan memberikan suplai daya listrik yang baik ke beban, juga untuk mengamankan beban, peralatan instalasi dan manusia dari kemungkinan bahaya yang mungkin terjadi seperti arus hubung pendek dan arus beban lebih. Tujuan dari tugas akhir ini untuk menganalisa instalasi listrik pada P.T. Bumi Menara Internusa, Surabaya. Analisa ini meliputi analisa arus nominal, arus hubung singkat, dan juga aliran daya secara perhitungan manual dan menggunakan program Etap PowerStation 4.0. P.T. Bumi Menara Internusa plant 1, menggunakan sistem distribusi radial. Sebagai sumber listrik digunakan PLN dan Genset Gas Engine. Pada kondisi normal beban disuplay oleh Genset Gas Engine mulai dari pukul 07.00- 22.00, kemudian diganti dengan PLN. Daya PLN total yang terpasang sebesar 1730 kVA dan digunakan untuk menyuplai plant 1 dan plant 2, sedangkan daya genset total untuk plant 1 adalah 2660 kVA. Pada plant 1 terdapat 5 MDP, transformator 1 menyuplai MDP 1 dan 2, kemudian transformator 2 menyuplai MDP 3, 4, dan 5. Sedangkan Genset Gas Engine dihubungkan pararel dan digunakan untuk menyuplai kelima MDP. Dari hasil perbandingan antara hasil analisa secara manual dan Etap PowerStation 4.0 diperoleh perbedaan rata-rata sebesar 0.78 % (manual: 146.64 kA; Etap: 145.5 kA) untuk arus hubung singkat dan 1.96 % (manual: 4021.9 A; Etap: 3943 A) untuk arus nominal. Pada LVMDP 2 sebaiknya dipasang MCCB 1000 A dengan kapasitas pemutus 50 kA hal ini sesuai dengan hasil perhitungan secara manual yaitu arus nominal 846.8 A dan arus hubung singkat 31.4 kA.",
+  "creators": "MEILINDA",
+  "contributors": "Limboto Limantara (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010547/ELK/2007; Meilinda (23402110)",
+  "subjects": "ELECTRIC POWER DISTRIBUTION; ELECTRIC POWER SYSTEMS"
+}

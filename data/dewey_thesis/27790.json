@@ -1,0 +1,14 @@
+{
+  "id": "27790",
+  "title": "Perencanaan dan pembuatan simulasi alat pendeteksi jarak aman minimum pada laju kendaraan bermotor dengan menggunakan mikrokontroler MCS-51",
+  "abstract": "Pada saat ini beragam macam kendaraan dibuat untuk memenuhi kebutuhan hidup manusia dan semakin berkembang. Salah satunya adalah faktor kecepatan kendaraan yang semakin tinggi, yang dapat membahayakan keselamatan pengemudi bila tidak waspada dalam mengemudikan kendaraannya. Perencanaan dan pembuatan alat pendeteksi jarak aman minimum pada laju kendaraan bermotor ini diharapkan dapat mengatasi permasalahan tersebut bila sudah terjadi ketidakselarasan antara kecepatan kendaraan dengan interval jarak pada kendaraan di depannya dengan mengaktifkan buzzer alarm. Serta dapat pula memantau jarak antar kendaraan setiap saat dengan tampilan display seven segment. Pembuatan alat dalam tugas akhir ini berbentuk simulasi yang diharapkan dapat direalisasikan dalam waktu-waktu mendatang. Pembuatan tugas akhir ini menggunakan mikrokontroler 8031 sebagai pengolah data utama, EPROM 2764 untuk menyimpan program pengontrol, programmable display interface 8279 yang akan menangani scan display, rangkaian driver buzzer, rangkaian relay, rangkaian transducer transmiter dan receiver dengan sinyal ultrasonic yang mendeteksi jarak, serta beberapa komponen pendukung lainnya.",
+  "creators": "Fadjar Muliadinata",
+  "contributors": "Murtiyanto Santoso (Examination Committee 1); MOCHAMAD HEROE (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/027/0184; Fadjar Muliadinata (23488022)",
+  "subjects": "MICROCONTROLLERS; SIGNAL DETECTION"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "7877",
+  "title": "Penerapan metode enkripsi rijndael, enkripsi rsa, dan hash sha-512 untuk keamanan transfer file elektronik",
+  "abstract": "Proses transfer file penting memerlukan adanya sistem keamanan yang mampu mencegah serangan dari pihak-pihak yang tidak berhak. Dengan menggabungkan metode enkripsi Rijndael dan enkripsi RSA untuk mengenkripsi isi file, juga fungsi hash SHA-512 untuk mengetahui adanya perubahan terhadap isi file diharapkan tingkat keamanan file menjadi lebih baik. Hasil penerapan ini berupa sebuah perangkat lunak untuk melakukan enkripsi dan dekripsi terhadap semua bentuk file yang dapat memberikan laporan akurat mengenai ada atau tidaknya perubahan terhadap isi file dan sebuah web yang dapat digunakan untuk melakukan transfer file. Pengujian terhadap perangkat lunak dibagi menjadi tiga tahap, yaitu pengujian sistem dalam menjalankan proses enkripsi dan dekripsi, pengujian kecepatan sistem, dan pengujian web dalam melakukan transfer file. Dari hasil pengujian diketahui bahwa perangkat lunak mampu menjalankan proses enkripsi dan dekripsi dengan baik untuk satu atau lebih file, serta dapat mengetahui adanya perubahan terhadap isi file, sedangkan pada web dapat melakukan transfer file.",
+  "creators": "FEBRIANTO SETIAWAN",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Ibnu Gunawan (Advisor 2); BUDI BAMBANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010596/INF/2007; Febrianto Setiawan (26403156)",
+  "subjects": "INTERNET (COMPUTER NETWORK); WEB SITES"
+}

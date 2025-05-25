@@ -1,0 +1,14 @@
+{
+  "id": "45470",
+  "title": "Audit sistem udara bertekanan pada PT X",
+  "abstract": "Saat ini PT X memiliki 8 line produksi dengan menggunakan 2 kompresor screw dan 2 kompresor reciprocating. Penambahan line terakhir dilakukan pada Februari 2019. Sebelum melakukan penambahan line, PT X menggunakan 1 kompresor screw dan 2 kompresor reciprocating. Karena itu, PT X memerlukan pengecekan apakah laju aliran volume udara bertekanan yang dibutuhkan mengharuskan semua kompresor terpakai. Selain itu juga diperiksa apakah jalur perpipaan sudah baik dilihat dari penurunan tekanan dari kompresor menuju titik pemakaian. Hasil dari perhitungan ditemukan bahwa jumlah konsumsi laju aliran volume udara tanpa penggunaan open blowing dan kebocoran adalah 0,15 𝑚3/s sedangkan kapasitas 4 kompresor total 0,57 𝑚3/s. Namun agar hasil lebih akurat, diperlukan alat ukur berupa flowmeter di keluaran ART. Kemudian tekanan kerja kompresor juga terlalu tinggi. Hal ini berdasarkan dari penggunaan pressure valve yang menurunkan tekanan menjadi ~2 barg. Menurut buku spesifikasi mesin di PT. X, tekanan kerja yang diperlukan paling tinggi adalah 3 barg. Ditemukan juga bahwa pressure drop yang terjadi hingga 2,1 barg pada printing line 1. Menurut perhitungan, pressure drop titik tersebut 1,31 barg. Kedua angka ini masih terlalu tinggi karena menurut referensi pressure drop seharusnya 10% dari tekanan kerja kompresor yang diukur dari ART hingga ujung pemakaian yakni 0,56 barg. Sesuai dengan keadaan lapangan, maka diusulkan beberapa rekomendasi, di antaranya, memparalelkan susunan kompresor, memperbesar ukuran pipa, mengurangi tekanan kerja, menutup saluran udara bertekanan, memperbaiki kebocoran, dan instalasi beberapa komponen pendukung.",
+  "creators": "VICTOR REYNOLD",
+  "contributors": "Ekadewi Anggraini Handoyo (Advisor 1); Fandi Dwiputra Suprianto, S.T., M.Sc. (Examination Committee 1); Amelia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011315/MES/2019; Victor Reynold (24415054)",
+  "subjects": "COMPRESSED AIR"
+}

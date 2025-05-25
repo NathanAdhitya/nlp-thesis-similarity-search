@@ -1,0 +1,14 @@
+{
+  "id": "60548",
+  "title": "Penerapan rule-based dan intent classification dalam chatbot konsultasi proposal tugas akhir mahasiswa Universitas Kristen Petra",
+  "abstract": "Dalam proses penyusunan skripsi, mahasiswa sering menghadapi berbagai kendala seperti keterbatasan pemahaman dan kesulitan dalam konsultasi dengan dosen pembimbing. Penelitian ini mengusulkan penggunaan chatbot sebagai solusi untuk membantu proses konsultasi skripsi mahasiswa program studi Informatika di Universitas Kristen Petra. Chatbot yang dikembangkan menggunakan metode Intent Classification berbasis LSTM dengan model Pre-trained Word2Vec untuk meningkatkan akurasi dalam memahami input user. Percobaan dilakukan dengan membandingkan tiga jenis chatbot: Rule-Based, Hybrid, dan Scripted Chatbot. Hasil penelitian menunjukkan bahwa model Word2Vec terbaik memiliki dimensi 100 dengan epoch optimal 30. Model LSTM dengan dua LSTM layer dengan parameter 128 dan 64 hidden unit cell, masing-masing menggunakan dropout dan recurrent_dropout 0.2 sebagai hyperparameter menghasilkan akurasi tertinggi sebesar 95,60% pada dataset kecil. Meskipun Hybrid Model memiliki kepuasan pengguna paling rendah, model ini menunjukkan keunggulan dalam hal efisiensi dan pemahaman pertanyaan yang lebih kompleks. Dari uji kepuasan pengguna, diketahui bahwa Scripted Chatbot lebih disukai karena kemudahannya dalam penggunaan. Chatbot yang dikembangkan diharapkan dapat digunakan secara fungsional untuk membantu proses konsultasi proposal skripsi mahasiswa.",
+  "creators": "CLARISSA ANGELIA",
+  "contributors": "Liliana (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Gregorius Satiabudhi (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022490/INF/2024; Clarissa Angelia (C14200047)",
+  "subjects": "CHATBOTS--COMPUTER PROGRAMS"
+}

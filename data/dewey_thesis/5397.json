@@ -1,0 +1,14 @@
+{
+  "id": "5397",
+  "title": "Perancangan dan pembuatan sistem pembelian dan penjualan pada UD. Utama Motor",
+  "abstract": "UD. Utama Motor adalah perusahaan yang bergerak dibidang penjualan sepeda motor dan sparepart, khususnya merek Kawasaki. Sistem pembelian dan penjualan UD. Utama Motor saat ini menggunakan sistem manual, di mana semua transaksi dan administrasi masih menggunakan media kertas dan kalkulator. Hal tersebut mengakibatkan banyak terjadi kekeliruan dalam pencatatan sehingga data-data yang dihasilkan tidak akurat. Untuk pengembangan usahanya, maka dibutuhkan suatu sistem baru untuk dapat memperbaiki sistem yang dipakai saat ini. Proses perancangan dan pembuatan program diawali dengan mempelajari dan menganalisis sistem perusahaan saat ini kemudian menyusun dan membuat DFD, ERD, tabel-tabel yang dibutuhkan, setelah itu membuat program. Setiap user mempunyai kode user dan password untuk dapat menentukan menu program yang dapat diakses. Sistem operasi yang digunakan adalah Windows XP, pembuatan database dengan Microsoft Access, dan untuk pengembangan program menggunakan Visual Basic 6.0 . Sistem yang baru meliputi proses pembelian, penjualan dan servis. Dengan adanya program yang menangani sistem administrasi pada UD. Utama Motor, kegiatan administrasi seperti proses pembelian, penjualan dan servis menjadi lebih terperinci sebab terdapat pencatatan setiap transaksi dan adanya laporan-laporan. Jatuh tempo pembayaran supplier dan customer dapat dilihat pada laporan. Selain itu, keamanan data dengan sistem komputerisasi lebih terjamin, karena setiap user mempunyai hak akses yang berbeda sesuai dengan bidangnya.",
+  "creators": "JANE ADISURA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0142/INF/2004; Jane Adisura (26499178)",
+  "subjects": "ELECTRONIC COMMERCE--COMPUTER PROGRAMS; DATABASE DESIGN; DATABASE MANAGEMENT"
+}

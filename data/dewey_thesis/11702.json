@@ -1,0 +1,14 @@
+{
+  "id": "11702",
+  "title": "Perancangan dan pembuatan broadcast learning system",
+  "abstract": "Praktikum sebagai salah satu bentuk proses belajar mengajar yang menggunakan komputer. Sebuah komputer dapat membantu proses belajar mengajar menjadi lebih baik tetapi juga dapat mengganggu proses belajar mengajar. Oleh karena itu, pada Skripsi ini, dibuat aplikasi server dan client untuk membantu mengendalikan proses belajar mengajar dalam kelas praktikum. Server dapat melakukan multicast supaya setiap client dapat mengikuti pelajaran saat praktikum. Selain multicast, server dapat mengendalikan keyboard, mouse, membatasi aplikasi dan memonitor proses client. Aplikasi dibuat menggunakan Microsoft Visual C#. Hasil pengujian menunjukkan bahwa jumlah client tidak mempengaruhi konsumsi bandwidth dan CPU usage pada saat multicast. Kelancaran multicast bergantung pada beberapa faktor seperti tipe kompresi gambar dan ukuran resolusi. Pemilihan ukuran resolusi dan tipe kompresi gambar yang tepat sangat disarankan agar multicast semakin real time.",
+  "creators": "DUMICHEN STEFANO FREDERIK",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Andreas Handojo (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01020782/INF/2009; Dumichen Stefano Frederik (26405111)",
+  "subjects": "COMPUTER NETWORKS; DATA TRANSMISSION SYSTEMS; TELECOMUNICATION SYSTEMS; BROADCAST DATA SYSTEMS"
+}

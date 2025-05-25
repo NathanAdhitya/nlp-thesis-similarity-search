@@ -1,0 +1,14 @@
+{
+  "id": "5645",
+  "title": "GPS data logger",
+  "abstract": "Pada pembuatan peta kertas, umumnya dilakukan dengan pemotretan dari angkasa dan harus melewati proses-proses yang rumit. Dengan semakin majunya teknologi, pembuatan peta dapat dilakukan hanya dengan menempuh jalur yang akan dibuat peta dengan menggunakan alat sebagai pencari data-data yang dibutuhkan untuk pembuatan peta tersebut. Oleh karena itu dengan melihat kemampuan GPS, maka timbul ide untuk dapat memanfaatkannya sebagai pencari informasi/data posisi dari suatu obyek dan posisi jalur-jalur yang ditempuhnya. Sehingga GPS dapat diaplikasikan sebagai GPS Data Logger, Untuk mendukung pembuatan peta di PC dengan aplikasi GPS. Dengan menggunakan GPS Data Logger maka pembuatan peta menjadi sangat mudah dan efisien. Pembuatan sistem dilakukan dengan menggunakan mikrokontroler AT89S52 yang di-interface-kan dengan GPS TFAG-10. Mikrokontroler berfungsi untuk mengatur keseluruhan sistem yang dibuat. GPS mengirimkan data koordinat, yang berupa posisi obyek pada saat itu, kemudian data dibaca oleh mikrokontroler dan disimpan. Selain itu mikrokontroler berfungsi untuk mengatur tampilan, mengatur pengiriman data ke PC, dan pengaturan selang waktu penyimpanan data. Kapasitas memori yang dipakai mencapai 2 Mbit, dan dapat dipakai untuk menyimpan 12483 data (titik koordinat). Lama pemakaian alat ini disesuaikan dengan kapasitas memori dan power supply yang menggunakan accu, dapat mencapai kurang lebih 6 jam. Sistem dilengkapi LCD untuk menampilkan hasil pembacaan GPS. Sistem telah diuji coba untuk pembacaan data GPS, perekaman dan penghapusan data, mengatur selang waktu perekaman, pengiriman data ke PC, menyajikan hasil pengolahan data menjadi peta (hasilnya sama dengan peta asli), penulisan F0 sebagai sistem keamanan, sistem loading pada tampilan awal dan keseluruhan sistem berjalan sesuai dengan baik.",
+  "creators": "BUYUNG KURNIADI SUGIARTO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010810/ELK/2006; Buyung Kurniadi Sugiarto (23402133)",
+  "subjects": "GLOBAL POSITIONING SYSTEM; AUTOMATIC CONTROL; DIGITAL CONTROL SYSTEMS"
+}

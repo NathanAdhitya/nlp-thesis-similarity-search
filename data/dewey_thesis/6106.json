@@ -1,0 +1,14 @@
+{
+  "id": "6106",
+  "title": "Perancangan dan pembuatan sistem informasi produksi dan pemesanan bahan pada perusahaan roti Denish, Surakarta",
+  "abstract": "Perusahaan Roti Denish adalah sebuah perusahaan produksi dengan aktifitas produksi sehari-harinya meliputi pembelian bahan, produksi serta penjualan Roti. Penjualan dilakukan dengan cara menitipkan hasil produksi kepada customer. Selama ini, pencatatan transaksi, perhitungan kebutuhan bahan serta pembuatan laporan selalu dilakukan dengan cara manual, sehingga tidak dapat memberikan informasi yang diperlukan secara cepat dan akurat. Oleh karena itu, dalam tugas akhir ini sebuah sistem informasi didesain dan dibuat sehingga Perusahaan dapat memperoleh informasi secara cepat dan akurat sekaligus membantu perusahaan untuk melakukan internal kontrol produksi. Pembuatan sistem informasi dimulai dengan membuat desain dari sistem yang berjalan dalam perusahaan. Setelah permodelan terbentuk lalu dikonfirmasikan dengan user, untuk mendapatkan kesatuan pandangan. Kemudian dilakukan perancangan DFD, ERD, basis data yang akan digunakan sebagai penyimpan data yang terorganisir. Program sistem informasi ini dibuat dengan menggunakan Delphi 7.0 dengan Microsoft Access 2000 sebagai basis data. Implementasi dari sistem informasi ini akan mengolah data dari dokumen yang dihasilkan secara manual. Aplikasi yang telah berhasil dibuat adalah transaksi penjualan, transaksi pembelian, retur penjualan, produksi, perhitungan kebutuhan bahan serta peramalan. Aplikasi ini telah dapat digunakan untuk membantu user dalam melakukan proses produksi, retur, penjualan, pembelian, serta kebutuhan bahan produksi dengan baik, dan peramalan sudah dapat digunakan sebagai pertimbangan dalam menentukan jumlah produksi dari suatu roti. Untuk lebih dapat meningkatkan kemampuan sistem informasi, aplikasi akan terus dikembangkan.",
+  "creators": "RENDY AGUSTINUS PRIYANTO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Felicia Soedjianto (Advisor 2); M. ISA IRAWAN (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000464/INF/2006; Rendy Agustinus Priyanto (26400183)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

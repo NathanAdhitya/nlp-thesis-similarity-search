@@ -1,0 +1,14 @@
+{
+  "id": "61018",
+  "title": "Estimasi energi listrik dari solar pv di area terbuka dengan pendekatan machine vision dan Geographic Information Systems (GIS)",
+  "abstract": "Saat ini, sebagian besar pasokan energi listrik di Indonesia masih bergantung pada bahan bakar fosil yang memberikan dampak negatif pada kesehatan masyarakat, pemanasan global, dan perubahan iklim. Di sisi lain, Indonesia memiliki potensi energi matahari yang dapat dimanfaatkan sebagai salah satu alternatif sumber energi terbarukan yang bersih dan efisien. Namun demikian belum banyak dijumpai alat bantu yang dapat digunakan untuk mengestimasi energi listrik berbasis solar PV yang dapat dihasilkan pada area terbuka. Sistem aplikasi berbasis web yang mengintegrasikan teknologi Machine Vision (MV) dan Geographic Information Systems (GIS) untuk mengestimasi energi listrik yang dapat dihasilkan di area terbuka (bukan atap bangunan) pada luasan area tertentu dari radiasi matahari di wilayah Jawa, Bali, dan Nusa Tenggara dalam kurun waktu tertentu. Situs web dibuat menggunakan HTML, CSS, JavaScript dan Python. Situs web peta Interaktif yang ditampilkan dapat diakses dengan batasan zoom pada level 14 atau lebih tinggi. Sistem aplikasi yang dikembangkan dapat menghitung luas total area dan luas area terbuka yang tersedia, menampilkan nilai GHI pada area tersebut, serta menghitung estimasi energi listrik yang dapat dihasilkan selama satu bulan berdasarkan bulan dan tahun yang dipilih pengguna.",
+  "creators": "ANTHONY HENDRATA",
+  "contributors": "Indar Sugiarto (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 2); Felix Pasila (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011059/ELK/2024; Anthony Hendrata (C11200007)",
+  "subjects": "ELECTRIC POWER SYSTEMS; GEOGRAPHIC INFORMATION SYSTEMS; MACHINE VISION; PHOTOVOLTAIC POWER SYSTEMS; SOLAR ENERGY"
+}

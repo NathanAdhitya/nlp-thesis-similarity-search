@@ -1,0 +1,14 @@
+{
+  "id": "2552",
+  "title": "Perancangan dan pembuatan sistem informasi pengiriman barang pada UP. Sumber Baru",
+  "abstract": "UP. Sumber Baru merupakan perusahaan yang bergerak di bidang jasa transportasi dan ekspedisi. Sistem yang ada masih manual khususnya untuk penentuan alokasi barang dalam truk, administrasi, penggajian dan pembuatan laporan laba rugi. Untuk meningkatkan efisiensi dan efektifitas dibutuhkan sistem baru yang terkomputerisasi agar dapat mempercepat proses administrasi, pembuatan surat jalan yang memenuhi ketentuan muatan barang dan menghasilkan informasi yang akurat dan sesuai dengan kebutuhan pemilik perusahaan. Alur proses sistem yang baru dijelaskan dengan Data Flow Diagram, perancangan struktur tabel dan relasi antar tabel menggunakan Entiy Relationship Diagram. Pembuatan database menggunakan MySQL, sedangkan aplikasinya dibuat dengan menggunakan bahasa pemrograman Borland Delphi 7.0.. Program yang dibuat memberikan fasilitas pembuatan nota order, pengalokasian barang ke dalam truk secara otomatis, pembuatan surat jalan, dan perhitungan pendapatan, biaya serta laba rugi perusahaan.",
+  "creators": "ALBERT SUBEKTI",
+  "contributors": "Kartika Gunadi (Advisor 1); Leo Willyanto Santoso (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000377/INF/2005; Albert Subekti (26401149)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT"
+}

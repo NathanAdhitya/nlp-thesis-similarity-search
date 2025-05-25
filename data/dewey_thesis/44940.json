@@ -1,0 +1,14 @@
+{
+  "id": "44940",
+  "title": "Penerapan finite-state machines untuk peningkatan performa frame per second dalam game multiplayer real time strategy",
+  "abstract": "Game banyak diminati mulai dari anak-anak sampai dewasa dan game juga dapat dimainkan dari beberapa platform yang tersedia seperti PC, mobile, dan console. Game memiliki berbagai macam genre seperti Action, Adventure, RPG, Strategy, dan masih banyak macam genre lainnya untuk game. Tujuan dalam skripsi ini adalah menerapkan Finite-State Machines untuk meningkatkan performa FPS pada game sehingga game menjadi ringan dan nyaman untuk dimainkan. Pada penelitian-penelitian sebelumnya FSM digunakan untuk pengujian algoritma AI dan untuk membantu dalam pembentukan cerita mengenalkan sejarah dalam permainan. Finite-State Machines adalah sebuah metode atau rancangan yang akan dibuat dan diimplementasikan supaya AI dapat melakukan keputusan sendiri berdasarkan kondisi yang telah ditentukan. Menggunakan metode Finite-State Machines karena hanya satu tugas yang aktif dibaca sehingga tugas lain tidak dibaca oleh AI dalam program dan komputasi yang ringan. Genre game yang akan diimplementasikan pada game adalah Real Time Strategy berjudul “Attack on Toys”. Pada Game tersebut terjadi penurunan performa FPS karena banyaknya prajurit dalam permainan. Karena hal tersebut diimplementasikan FSM untuk meningkatkan performa Game tersebut dan Game harus tetap menyenangkan saat dimainkan oleh player. Pengujian performa FPS dengan membandingkan antar game tanpa menggunakan FSM, menggunakan FSM desain pertama, dan menggunakan desain kedua. Pengujian kuesioner juga dilakukan untuk mengetahui apakah game menyenangkan dan apakah AI dapat bekerja dengan baik saat game dimainkan. Hasil pengujian setelah implementasi Finite-State Machines bahwa dari hasil perbandingan pengujian dapat meningkatkan performa FPS hingga 90%. Berdasakan hasil kuesioner Game tetap menyenangkan untuk dimainkan dan AI tetap bekerja sesuai dengan harapan saat dimainkan oleh player setelah implementasi Finite-State Machines tanpa mengurangi kualitas dari game itu sendiri.",
+  "creators": "NICHOLAS SUTIKNO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021872/INF/2019; Nicholas Sutikno (26415040)",
+  "subjects": "COMPUTER GAMES-PROGRAMMING; SEQUENTIAL MACHINE THEORY"
+}

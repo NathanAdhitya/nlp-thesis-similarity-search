@@ -1,0 +1,14 @@
+{
+  "id": "58906",
+  "title": "Implementasi adaptif AI menggunakan behaviour tree dalam mengembangkan NPC berdasarkan tingkat difficulty yang ada pada game survival dengan menggunakan unreal engine",
+  "abstract": "Video games sudah lama menjadi salah satu bentuk hiburan bagi sebagian masyarakat di era modern seperti sekarang ini. Tetapi tentunya salah satu faktor yang bisa didapatkan dari memainkan video games bukan hanya kesenangan juga tetapi melainkan tantangan yang bisa dijumpai oleh pemain saat memainkan video games. Tantangan yang bisa di temukan dalam video games sangatlah beragam-ragam, dan salah satu aspek penting yang dimiliki oleh tantangan adalah tingkat kesulitan. Tanpa adanya tingkat kesulitan dalam suatu video games, pemain yang membutuhkan tantangan yang lebih akan merasa bosan jika video games yang dimainkan kurang mempunyai tantangan, begitu juga dengan sebaliknya di mana pemain yang tidak terlalu membutuhkan tantangan, akan merasa frustasi jika video games yang dimainkan terlalu sulit. Aplikasi game ini akan dibuat dengan tujuan untuk memberikan pemain pengalaman menarik serta lebih nyaman pada saat memainkan aplikasi game tersebut, di mana pengembangan aplikasi ini akan banyak difokuskan pada tingkat difficulty yang dimiliki oleh aplikasi game tersebut. Tingkat difficulty yang dimaksud adalah berupa pembentukan AI dengan menggunakan metode AI Behaviour Tree yang nantinya akan diterapkan pada NPC musuh yang ada dalam aplikasi game yang dibuat dengan tema genre survival. Nama game yang akan di buat adalah “Island Escapist” yang nantinya akan dibangun menggunakan Unreal Engine sebagai game engine. Dalam Penggunaan metode AI Behaviour Tree pada saat membuat aplikasi game, telah berhasil dibuktikan bahwa dapat menerapkan metode Behaviour Tree pada tingkat difficulty yang berbeda dalam game. Setiap difficulty memberi kesusahan yang berbeda-beda dari AI NPC, mulai dari radius penyerangan, jeda patrol, kecepatan NPC berlari, dan damage yang diberikan oleh NPC. Selain itu, dari hasil survey yang telah didapatkan, 86.7% sangat setuju dan setuju, bahwa implementasi metode AI Behaviour Tree pada difficulty akan membuat game lebih menantang dan 53.3% sangat setuju, bahwa secara keseluruhan gameplay bagus untuk dimainkan.",
+  "creators": "RICHARD",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022395/INF/2023; Richard (C14180205)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--COMPUTER PROGRAMS; COMPUTER GAMES--PROGRAMMING"
+}

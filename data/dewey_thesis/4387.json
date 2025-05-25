@@ -1,0 +1,14 @@
+{
+  "id": "4387",
+  "title": "Perancangan dan pembuatan aplikasi penjualan online berbasis web pada Toko Cluster Computer",
+  "abstract": "Dewasa ini mulai banyak aplikasi-aplikasi berbasis web yang dibuat termasuk aplikasi penjualan. Sangat besar kemungkinan aplikasi penjualan online didalam meningkatkan jumlah penjualan dan mempermudah pembeli untuk membeli barang. Tingkat keamanan dari sistem penjualan online masih diragukan oleh banyak orang khususnya di Indonesia. Melihat banyaknya kasus penyadapan informasi-informasi melalui internet termasuk penyadapan nomor kartu kredit pembeli. Faktor keamanan dari sistem penjualan online perlu didesain dengan baik. Pada prototype aplikasi penjualan online ini desain keamanannya menggunakan teknologi Secure Socket Layer 128 bit encryption. Sampai saat ini teknologi SSL 128 bit encryption masih belum dapat ditembus. Teknologi SSL ini diterapkan pada penggunaan kartu kredit sebagai alat pembayaran. Prototype ini dibuat dengan menggunakan Active Server Pages, MySql, Macromedia Dreamweaver MX. Aplikasi ini terbagi menjadi dua aplikasi yaitu aplikasi untuk pembeli dan aplikasi untuk administrator. Sistem yang telah dibuat mamapu melakukan penjualan online, memberikan informasi yang cukup detail kepada pembeli, menggunakan kartu kredit dengan aman sebagai alat pembayaran, melakukan penambahan data, update data, pencatatan transksi.",
+  "creators": "WELLY SUTANTO",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Ibnu Gunawan (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000253/INF/2004; Welly Sutanto (26400158)",
+  "subjects": "WEB SITES; DATABASE MANAGEMENT; DATABASE DESIGN"
+}

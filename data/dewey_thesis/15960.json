@@ -1,0 +1,14 @@
+{
+  "id": "15960",
+  "title": "Komunikasi data serial antar komputer dengan metode frequency-shift keying",
+  "abstract": "Saluran transmisi merupakan salah satu mata rantai yang vital dalam suatu jaringan komputer. Saluran transmisi dengan kemampuan transfer data yang baik, rugi-rugi yang rendah dan tingkat keandalan tinggi sangat diperlukan untuk aplikasi-aplikasi tertentu. Banyak faktor yang harus diperhatikan dalam perancangan suatu saluran transmisi antara lain bagaimana mendapatkan suatu saluran transmisi tanpa menggunakan LAN Card, karena didalam pemasangan kartu tersebut dibutuhkan pemasangan dan penyettingan yang tidak mudah untuk dilakukan bagi setiap orang. Dari permasalahan diatas, dalam tugas akhir ini dibuat suatu peralatan dengan menggunakan komunikasi dua arah untuk komunikasi data serial antar koraputer. Peralatan ini digunakan untuk mentransmisikan data antar dua komputer dengan melalui serial port (RS232) dengan menggunakan metode Frequency-Shift Keying (FSK). Dengan menggunakan metode Frequency-Shift Keying sebagai komunikasi data serial antar dua komputer (IBM PC), maka akan didapat saluran transmisi data dengan kemampuan transfer data yang baik menggunakan frekuensi pada bandwidth tertentu, tanpa pemasangan dan penyettingan alat serta penggunaannya lebih mudah dibandingkan dengan LAN Card. Pengujian yang dilakukan menggunakan frekuensi sebesar 6000 Hz untuk data logika l V dan frekuensi sebesar 4800 Hz untuk data logika 'O'.Perhitungan bit rate yang dihasilkan dari pengujian alat didapatkan harga sebesar 2411,53 bps dengan menggunakan baud rate sebesar 2400 bps. Jadi error yang terjadi antara baud rate yang digunakan dan hasil perhitungan sebesar + 0,48 %.",
+  "creators": "JOHANNES NASSA BARENDS",
+  "contributors": "IRWAN SAHLI (Examination Committee 1); HERLIANTO TENGGARA (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/031/376; Johannes Nassa Barends (23492109)",
+  "subjects": "COMPUTER NETWORK; DATA TRANSMISSION SYSTEMS"
+}

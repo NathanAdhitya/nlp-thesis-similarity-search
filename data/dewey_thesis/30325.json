@@ -1,0 +1,14 @@
+{
+  "id": "30325",
+  "title": "Pembuatan sistem informasi pembelian penjualan dan service pada Mitra Com",
+  "abstract": "Mitra Com adalah sebuah toko yang bergerak dalam bidang komputer, yang melayani penjualan dan service. Selama ini sistem yang dipakai masih manual, untuk melakukan pembelian, penjualan dan dalam pengecekan jumlah barang. Sistem tersebut memiliki banyak kekurangan, karena untuk mengetahui harga suatu barang, mereka masih harus mencari dari nota. Nota tersebut kadang ada yang terselip, atau hilang. Untuk pembayaran kadang ada yang terlewatkan sampai beberapa hari. Informasi untuk stok barang juga tidak tepat, karena sering terlewat dalam meng-update stok barang. Karena permasalahan tersebut, maka pemilik Mitracom menginginkan adanya suatu software yang dapat mengatasi masalah-masalah tersebut. Tahap awal dalam pembuatan software ini adalah survei dan menganalisa sistem manualnya. Setelah dilakukan pengamatan, akan dibuat Context Diagram, DFD, ERD, pembuatan tabel-tabel dan software. Untuk menjalankan software ini, masing-masing user memiliki username, password dan hak akses untuk keamanan data, Pembuatan software menggunakan Borland Delphi 6.0 untuk bahasa pemrogramannya dan Microsoft SQL Server 2000 untuk database server-nya, Microsoft Windows XP untuk sisitem operasinya. Software yang dibuat ini dapat menangani input data, seperti: data barang, customer dan supplier; mencatat transaksi penjualan, pembelian dan service; mengupdate jumlah barang dari penjualan dan pembelian; mencetak laporan penjualan, pembelian dan service; pengingat untuk penagihan kepada customer dan pembayaran supplier agar bisa tepat waktu.",
+  "creators": "SAKURA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Theresia Lestiowati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0096/INF/2003; Sakura (26499083)",
+  "subjects": "INFORMATION RESOURCES MANAGEMENT (COMPUTER PROGRAMS); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

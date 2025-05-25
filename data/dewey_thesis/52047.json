@@ -1,0 +1,14 @@
+{
+  "id": "52047",
+  "title": "Penentuan distribusi arus lalu lintas pada persimpangan berbasis teknologi kecerdasan buatan dengan mesin pendeteksi pola",
+  "abstract": "Setiap tahunnya, pertumbuhan jumlah kendaraan di Indonesia selalu mengalami peningkatan yang pesat. Akibat dari pesatnya pertumbuhan kendaraan tersebut, tentu juga dapat menimbulkan masalah seperti kepadatan dan kemacetan pada lalu lintas. Penelitian ini mencoba untuk mengembangkan suatu sistem yang dapat membaca dan menganalisa arus kendaraan serta menghasilkan data lalu lintas yang ada pada persimpangan tersebut. Penelitian dilakukan dengan cara mencari beberapa sampel video pada persimpangan jalan dan kemudian dianalisa dengan menggunakan Computer Vision dan Deep Learning. Setelah program dapat mendeteksi arus kendaaan pada persimpangan secara akurat maka program akan menghasilkan data yang lebih detail. Detail dari data tersebut nantinya diolah untuk menghasilkan variabel lalu lintas yang terjadi pada persimpangan tersebut. Dalam penelitian ini adapun cara lain untuk mendapatkan variabel lalu lintas pada persimpangan tersebut yakni dengan cara menggunakan kalibrasi IFN. Dalam hal ini, platform-platform yang dipakai bernama Python 3.8, OpenCV, dan Yolo V3 serta ada program IFN yang dasar bahasa programnya juga berasal dari Python. Dari penelitian ini dapat diketahui apakah program atau sistem yang dibuat bisa menghasilkan variabel lalu lintas. Jika bisa, maka program atau sistem ini dapat digunakan kedepannya untuk menganalisa dan mengatasi berbagai macam masalah serta hambatan yang ada di lalu lintas, khususnya pada persimpangan jalan.",
+  "creators": "DANIEL GERALDI PURWANTO; STANLEY CHRISTIAN TIRTOWAHJONO",
+  "contributors": "Ir. Kardi Teknomo (Advisor 1); Rudy Setiawan (Examination Committee 1); Wong Foek Tjong, S.T., M.T., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012551/SIP/2022; Daniel Geraldi Purwanto (B11170045), Stanley Christian Tirtowahjono (21416132)",
+  "subjects": "ARTIFICIAL INTELLIGENCE-DATA PROCESSING; TRAFFIC ENGINEERING-COMPUTER PROGRAMS; TRAFFIC FLOW--MANAGEMENT"
+}

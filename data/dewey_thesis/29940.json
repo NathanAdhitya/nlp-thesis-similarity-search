@@ -1,0 +1,14 @@
+{
+  "id": "29940",
+  "title": "Perencanaan dan pembuatan alat pendeteksi kadar oksigen dalam cairan dari 0,0-12,0 mg/lt dengan menggunakan mikrokontroler MC6805",
+  "abstract": "Oksigen merupakan salah satu unsur kimia yang tidak dapat dipisahkan dari kehidupan makhluk hidup, baik manusia maupun mikroorganisme. Sebagai contoh pada pembuatan alkohol, di mana memerlukan bantuan mikroorganisme yang membutuhkan oksigen, maka kadar oksigen dalam cairan perlu diperhatikan supaya mikroorganisme tidak mati. Untuk itu perlu suatu alat untuk mengukur kadar oksigen dalam cairan yang dinamakan Dissolved Oxygen (DO) meter. Pada tugas akhir ini dibuat suatu DO meter yang tidak hanya sekedar dapat melakukan pengukuran kadar oksigen saja, tetapi juga dapat melakukan penyimpanan data hasil pengukuran kadar oksigen. Kemudian data yang telah disimpan tersebut dapat dikirim ke sebuah IBM PC melalui saluran serial. Data yang telah diterima dapat disimpan ke suatu media penyimpanan dan jika diperlukan, data dapat ditampilkan ke dalam bentuk grafik. Prinsip kerja dari DO meter ini adalah mengubah besarnya kadar oksigen dalam cairan dengan suatu elektrode menjadi tegangan listrik, kemudian mengkonversikan tegangan listrik itu menjadi bentuk digital dengan suatu ADC. Data digital yang dihasilkan kemudian diolah lebih lanjut dan hasil olahan ditampilkan ke suatu tampilan. Data ini dapat juga disimpan ke memori dan jika diinginkan, data ini dapat dikirim ke IBM PC menggunakan saluran serial. Data yang diterima oleh IBM PC dapat disimpan ke suatu media penyimpanan dan dapat ditampilkan ke bentuk grafik. Pada akhirnya dapat dibuat alat pengukur kadar oksigen dalam cairan dengan persentase kesalahan rata-rata 2,57%",
+  "creators": "Alexander Joe Anggrianto",
+  "contributors": "ISKANDAR ZULKARNAIN (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/042/0199; Alexander Joe Anggrianto (23489074)",
+  "subjects": "ELECTRIC APPARATUS AND APPLIANCES"
+}

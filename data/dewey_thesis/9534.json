@@ -1,0 +1,14 @@
+{
+  "id": "9534",
+  "title": "Perancangan dan pembuatan penghitung ikan secara otomatis berbasis mikrokontroler mcs-51",
+  "abstract": "Semakin berkembangnya teknologi dalam beberapa tahun terakhir membuat banyak sekali diciptakan alat-alat yang yang bertujuan untuk mempermudah tugas manusia dalam pekerjaan sehari-harinya. Dalam bidang perikanan perlu diciptakan suatu alat yang dapat menggantikan tugas manusia untuk menghitung jumlah ikan-ikan saat peternak ikan akan menjual dalam jumlah banyak. Sehingga tugas manusia dapat digantikan oleh alat ini, juga dapat mempercepat proses perhitungan ikan. Alat penghitung ikan otomatis ini dapat menghitung jumlah ikan dalam jumlah banyak dalam waktu yang relatif cepat, alat ini menggunakan mikrokontroler AT89S52, 8 pasang sensor infra red yang terdiri dari 8 buah receiver (photo diode) dan 8 buah transmitter infra red, serta alat mekanik yang berupa akuarium. Alat penghitung ikan otomatis ini hanya dapat digunakan pada ikan yang memiliki ukuran sama dan bentuknya sejenis (dalam hal ini adalah ikan lele kecil lebar kepalanya kurang lebih 0,8-1,2 cm). Perbedaan bentuk dan ukuran ikan dapat diatasi dengan menggunakan alat mekanik yang berbeda. Pengujian alat penghitung ikan otomatis dilakukan dengan cara menguji keakuratan fungsi alat ini dalam menghitung jumlah ikan. Berdasarkan hasil pengujian yang sudah dilakukan alat penghitung ikan otomatis ini mempunyai tingkat keakuratan yang cukup tinggi yaitu 95,29 %.",
+  "creators": "VICTOR STEVEN OETAMA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010770/ELK/2006: Victor Steven Oetama (23499095)",
+  "subjects": "AUTOMATIC CONTROL; MICROCONTROLLERS"
+}

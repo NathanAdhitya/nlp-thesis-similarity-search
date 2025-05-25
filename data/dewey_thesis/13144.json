@@ -1,0 +1,14 @@
+{
+  "id": "13144",
+  "title": "Perbandingan performance anatara algoritma NEH, BaBH dan DPH dengan kriteria minimal Makespan",
+  "abstract": "Tujuan dari Tugas Akhir ini adalah menentukan algoritma terbaik khusus untuk kasus tugas dengan 4 mesin dimana pada setiap tugas hanya digunakan 3 mesin. Selain itu Tugas Akhir ini juga rnembahas tentang pengaruh mean dan standar deviasi pada distribusi waktu proses terhadap setiap algoritma tersebut. Untuk mencapai tujuan tersebut maka penulis melakukan simulasi dengan variasi jumlah tugas dan pasangan mean dan standar deviasi distribusi waktu proses Jumlah tugas yang digunakan adalah antara 10-70 dengan selisih 15. Sedangkan mean yang digunakan adalah 20 dan 45 Standar deviasi yang digunakan adalah 5 dan 15. Mean dan standar deviasi tersebut dipasangkan secara bergantian menurut perlakuan yang diterima. Jenis perlakuan yang ada adalah Perbedaan mean dan perbedaan standar deviasi. Pada setiap kasus dilakukan simulasi 100 kali. Tolak ukur yang digunakan adalah prosentase antara selisih makespan dan lower bound dengan lower bound simulasi tersebut dengan asumsi bahwa semakin kecil prosentase berarti semakin baik. Dari 100 simulasi tersebut diambil rata-ratanya kemudian dianalisa dengan menggunakan experiment design metode two way factorial design. Dari simulasi tersebut dapat disimpulkan bahwa algoritma yang paling baik adalah algoritma NEH karena pada hampir semua kasus mempunyai prosentase yang kecil yang berarti nilai makespan semakin mendekati lower bound. Perbedaan perlakuan dan jumlah tugas berpengaruh pada algoritma DPH dan BaBH.",
+  "creators": "FELAN IMELDA SUSILOWATI",
+  "contributors": "Siana Halim (Examination Committee 1); Tessa Vanina Soetanto (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 326/TI-53/2000; Felan Imelda Susilowati (25496092)",
+  "subjects": "PRODUCTION PLANNING; SCHEDULING (MANAGEMENT)"
+}

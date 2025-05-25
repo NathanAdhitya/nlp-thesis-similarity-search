@@ -1,0 +1,14 @@
+{
+  "id": "50391",
+  "title": "Evaluasi dengan adanya pengembangan sistem kelistrikan terhadap kapasitas peralatan di PT Semen Gresik, Tuban",
+  "abstract": "Dengan selalu berubahnya suatu sistem kelistrikan baik di dalam sistem maupun di luar sistem, dapat memberikan pengaruh terhadap peralatan yang ada di dalam sistem. Pengaruh yang diberikan adalah pada arus hubung singkat dan arus nominal dari peralatan kelistrikan. Oleh karena itu dilakukan evaluasi terhadap kapasitas peralatan kelistrikan, apakah peralatan tersebut mempunyai kapasitas arus hubung singkat dan arus nominal yang memadai. Program ETAP Power Station versi 4.0 merupakan program untuk membantu perhitungan arus hubung singkat dan arus nominal dengan mudah. Gambar single line diagram dimasukkan pada program dan disimulasikan, maka sudah didapatkan hasil perhitungan arus hubung singkat dan arus nominalnya. Analisa yang dilakukan adalah analisa sebelum pengembangan sistem dan analisa setelah pengembangan sistem, kemudian saling dibandingkan dengan kapasitas peralatan kelistrikan, apakah melebihi kapasitas atau tidak. Apabila melebihi kapasitas peralatan, maka peralatan tersebut harus diganti. Hasil analisa dengan menggunakan program ETAP didapatkan bahwa pengembangan sistem masih memenuhi syarat kapasitas peralatan listrik. Kecuali pada circuit breaker yang terletak dari TX 10 ke incoming MVS 10, dari outgoing MVS 10 ke EDR 20A, dari MVS 10 ke incoming EDR 20A, dari outgoing MVS 10 ke EDR 20B, dari MVS 10 ke incoming EDR 20B dan pada kabel yang terletak dari MVS 20B ke TM 20B, dari MVS 20B ke TM 21.",
+  "creators": "WIRA GUNAWAN",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Emmy Hosea (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi N0. 01010517/ELK/2004; Wira Gunawan Rinaldi (23400091)",
+  "subjects": "ELECTRIC POWER; ELECTRICITY"
+}

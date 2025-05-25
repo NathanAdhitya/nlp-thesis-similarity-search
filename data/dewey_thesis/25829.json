@@ -1,0 +1,14 @@
+{
+  "id": "25829",
+  "title": "Analisa \"closed-form solution\" dari beams on elastic foundation dengan metode transformasi laplace",
+  "abstract": "Pada umumnya dalam suatu simplified design pondasi lajur ataupun balok-balok sloof selalu diidealisasikan sebagai suatu balok yang menerima beban dari reaksi tanah di bawahnya dan beban dari kolom dianggap sebagai reaksi. Kenyataan sebenarnya adalah bahwa beban yang harus dipikul tetap berasal dari kolom; dan tanah ataupun material di bawahnya berfungsi sebagai medium penahan yang bekerja sepanjang balok dan memberikan reaksi yang proporsional dengan besarnya penurunan pada setiap potongan. Masalah ini dikenal sebagai masalah \"Beams on Elastic Foundation\". Untuk dapat melakukan suatu analisa yang tepat maka dibuatlah suatu model matematis untuk memperoleh besaran-besaran yang ingin diketahui dalam hal ini berupa deformasi ataupun gaya-gaya dalam. Salah satu analisa hand calculation yang dapat dilakukan adalah dengan mencari penyelesaian dari model tersebut dalam bentuk \"closed-form\" nya. Untuk itu dikemukakan metode Transformasi Laplace sebagai suatu metode alternatif untuk memperoleh penyelesaian dalam bentuk \"closed-form” tersebut, yang mana hasilnya sebagai pelengkap dari penyelesaian-penyelesaian \"closed-form\" yang sudah ada. Selanjutnya untuk mengetahui besarnya perbedaan antara hasil analisa penyelesaian \"closed-form\" memakai metode Transformasi Laplace dengan metode lain yang ada, maka disajikan suatu perbandingan hasil perhitungan untuk suatu kasus.",
+  "creators": "HANIJANTO SOEWANDI; CHRISTOPHER GUNAWAN",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Benjamin Lumantarna (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 360 S; Hanijanto Soewandi (14284063), Christopher Gunawan (34286157)",
+  "subjects": "GIRDERS; LAPLACE TRANSFORMATION"
+}

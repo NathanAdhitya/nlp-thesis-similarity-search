@@ -1,0 +1,14 @@
+{
+  "id": "51688",
+  "title": "Penerapan metode modified partial capacity design (M-PCD) pada bangunan 6 lantai dan 15 lantai dengan variasi penempatan 30% kolom elastis",
+  "abstract": "Modified Partial Capacity Design (M-PCD) merupakan sebuah metode alternatif untuk melakukan desain struktur. Dengan menggunakan metode ini, desain kolom dan balok dapat dilakukan secara bersamaan sehingga waktu desain dapat dipersingkat. Mekanisme keruntuhan terburuk yang diperbolehkan adalah partial side sway mechanism. Metode ini membagi kolom menjadi dua tipe yaitu kolom elastis yang didesain mampu bertahan ketika gempa besar datang dan kolom plastis yang didesain mampu bertahan ketika gempa kecil datang. M-PCD menggunakan 2 model untuk mendesain. Balok dan kolom plastis didesain menggunakan model 1, sedangkan kolom elastis didesain menggunakan model 1 dan 2. Model 1 merupakan model saat gempa kecil datang (Faktor modifikasi respons, R = 8), sedangkan model 2 merupakan model ketika kolom plastis telah rusak (R = selisih antara 1.6 (elastis) dan 8). Pada studi ini dilakukan pengembangan M-PCD yaitu pemodelan kerusakan bangunan dilakukan dengan melakukan reduksi sebesar 0,2 untuk balok dan 0,35 untuk kolom plastis. Bangunan yang ditinjau adalah bangunan 6 dan 15 lantai. Setelah dilakukan analisis non-linear static procedure (NSP)/ pushover dan non-linear dynamic procedure (NDP) / time history ditemukan bahwa metode ini menghasilkan performa yang cukup baik pada bangunan 6 lantai, sedangkan pada 15 lantai performa yang dihasilkan kurang memuaskan.",
+  "creators": "YOHANES KARYANTO; ANASTASIA JESICA",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Benjamin Lumantarna (Advisor 2); Jimmy Chandra (Examination Committee 1); Willy Husada, ST.,MT., Msc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012541/SIP/2022; Yohanes Karyanto (B11180001), Anastasia Jesica (B11180036)",
+  "subjects": "COLUMNS; STRUCTURAL FRAMES"
+}

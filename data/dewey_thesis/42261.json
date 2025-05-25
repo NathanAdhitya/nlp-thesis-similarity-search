@@ -1,0 +1,14 @@
+{
+  "id": "42261",
+  "title": "Optimisasi cloth simulation menggunakan parallel computing berbasis GPU pada platform nvidia cuda",
+  "abstract": "Kemajuan di bidang sains dan teknologi membawa berbagai masalah dan tantangan baru. Salah satunya adalah kebutuhan untuk mensimulasikan properti dari suatu objek atau situasi, dimana objek atau situasi ini sulit dan bahkan tidak mungkin untuk diperoleh di dunia nyata. Interactive cloth simulation adalah salah satu bidang ilmu yang membutuhkan simulasi dilakukan secara real-time. Simulasi yang realistis membutuhkan beban komputasi yang tinggi, demikian mengakibatkan simulasi tidak dapat berjalan secara real-time. Metode optimisasi yang secara murni menggunakan algortima dan matematika saja cenderung mencari keseimbangan antara akurasi dan kecepatan. Penelitian ini menggunakan metode optimisasi parallel computing pada GPU untuk mempercepat simulasi tanpa mengurangi akurasi. Simulasi yang dilakukan berbasis continuum mechanics karena kemampuannya untuk menunjukkan properti fisik yang nyata dari kain. Dinamika model didiskritisasi menggunakan FEM, kemudian elastitisas kain akan dihitung dengan corotational formulation. Penelitian ini menggunakan CUDA platform yang dikembangkan oleh Nvidia untuk melakukan parallelisasi. Hasil pengujian menunjukkan adanya perubahan akurasi pada taraf yang dapat diterima. Peningkatan kecepatan terjadi ketika struktur dari suatu fungsi ideal untuk parallelisasi pada GPU. Parallelisasi secara keseluruhan dapat mengakibatkan overhead yang besar pada fungsi yang tidak cocok untuk diparallelisasi secara lansung. Memilih fungsi yang sesuai atau memodifikasi algoritma dari fungsi tersebut untuk memenuhi kondisi parallel yang ideal akan meningkatkan kecepatan program secara signifikan.",
+  "creators": "DARIAN GUNAMARDI",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021756/INF/2018; Darian Gunamardi (26414035)",
+  "subjects": "GRAPHICS PROCESSING UNITS; PARALLEL COMPUTERS"
+}

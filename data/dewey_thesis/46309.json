@@ -1,0 +1,14 @@
+{
+  "id": "46309",
+  "title": "Sistem akses kontrol laboratorium menggunakan kartu tanda mahasiswa",
+  "abstract": "Proses presensi merupakan sebuah pencatatan kehadiran dari mahasiswa dan dosen dalam mengikuti sebuah mata kuliah. Dengan adanya pencatatan kehadiran tersebut maka mahasiswa dapat mengetahui jumlah kehadiran dalam setiap mata kuliah. Dengan menggabungkan teknologi dan presensi yang ada selama ini di dalam laboratorium, tujuannya adalah meningkatkan keefektivitasan dalam presensi di dalam laboratorium dan akses terhadap laboratorium serta mempermudah mahasiswa dalam melakukan presensi serta dapat meminimalisir kesalahan yang mungkin terjadi. Pencatatan presensi secara manual tentu akan mulai ditinggalkan bila tidak segera diperbaharui. Oleh karena itu dibutuhkan teknologi yang dapat mempermudah pengontrolan dan pencatatan penggunaan laboratorium serta dapat digunakan sebagai sistem presensi untuk mahasiswa yang melakukan proses perkuliahaan di dalam laboratorium dengan menggunakan alat yang bernama Radio Frequency Identification and Detection tag. Sistem akses kontrol laboratorium ini menggunakan Raspberry Pi dan Website. Sistem akses kontrol laboratorium terhubung langsung dengan Raspberry Pi, magnetic door lock, serta rfid tag sehingga langsung bisa memberikan hak akses kontrol terhadap laboratorium dengan menggunakan Kartu Tanda Mahasiswa.",
+  "creators": "ALEXANDER PRASETYA WIDODO",
+  "contributors": "Resmana Lim (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Andreas Handojo (Examination Committee 1); Handry Khoswanto (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021960/INF/2020; Alexander Prasetya Widodo (26415150)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; RADIO FREQUENCY IDENTIFICATION SYSTEMS; WEBSITE DESIGN"
+}

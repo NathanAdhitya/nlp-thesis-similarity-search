@@ -1,0 +1,14 @@
+{
+  "id": "61007",
+  "title": "Penggunaan machine learning untuk memprediksi parameter yang mempengaruhi penyimpangan impedansi dalam proses pembuatan transformator di PT X",
+  "abstract": "PT X menghadapi tantangan dalam menjaga mutu dalam kualitas produk transformator ditribusi, khususnya terkait dengan nilai impedansi. Impedansi transformator direpresentasikan sebagai nilai tahanan resistif dan nilai tahanan reaktansi induktif. Tahanan resistif ini dihasilkan dari rugi-rugi tahanan pada belitan dimensi koil ketika terjadi beban penuh. Tugas Akhir ini bertujuan untuk memprediksi parameter dimensi koil yang memengaruhi penyimpangan impedansi dalam proses pembuatan transformator. Dataset dari PT X yang mencakup ratusan data dimensi koil dan nilai penyimpangan impedansi transformator digunakan untuk pelatihan serta analisis data. ECLAT Algorithm digunakan untuk mencari hubungan (aturan asosiasi) antara parameter dimensi koil dengan penyimpangan impedansi. Sementara, explainable AI SHAP (Shapley Additive exPlanations) digunakan untuk membuka black box dan mencari pengaruh parameter dimensi koil terhadap penyimpangan impedansi pada model XGBoost machine learning. Setelah pencarian hubungan dan pengaruh pada parameter yang menyebabkan impedansi, dilakukan pengujian pada aplikasi web dengan melakukan modifikasi nilai parameter untuk mendapatkan nilai penyimpangan impedansi sekecil mungkin. Hasil dari pengujian didapatkan 29.513 hubungan antara parameter dimensi koil dengan nilai penyimpangan impedansi. Outer diameter HV merupakan parameter yang paling berpengaruh terhadap penyimpangan impedansi diikuti dengan outer diameter length HV, outer diameter length LV, inner diameter height LV. Sementara aplikasi website menghasilkan saran perbaikan untuk memodifikasi parameter dimensi koil yang berpengaruh terhadap penyimpangan impedansi dengan batasan pengaruh elektrikal yang direpresentasikan oleh dimensi koil berupa panjang kawat, koil area, koil radius, koil height, dan layer insulation thickness.",
+  "creators": "YEGIA JOEHAN ELTAN",
+  "contributors": "Julius Sentosa Setiadji (Advisor 1); Indar Sugiarto (Advisor 2); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Examination Committee 2); Handry Khoswanto (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010684/ELK/2024; Yegia Joehan Eltan (C11200037)",
+  "subjects": "ELECTRIC POWER SYSTEMS; ELECTRIC TRANSFORMERS; MACHINE LEARNING"
+}

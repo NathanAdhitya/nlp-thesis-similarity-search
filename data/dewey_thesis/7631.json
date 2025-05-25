@@ -1,0 +1,14 @@
+{
+  "id": "7631",
+  "title": "Kios pengisian ringtone, picture pada handphone yang berbasis PC",
+  "abstract": "Kios pengisian Ring Tone, Picture pada handphone yang berbasis PC sangat berguna dan membantu setiap pengguna untuk mendapatkan nada dering dan gambar secara mudah. Tampilan aplikasi nada dering dan gambar yang terdapat pada personal computer menggunakan bahasa pemograman Delphi. File nada dering dan gambar dapat dikirim ke handphone user secara wireless interface melalui infrared (irDA) dengan menggunakan command shellapi pada pemograman Delphi dalam mengeksekusi IRFTP (Infrared File Transfer protocol). Infrared yang digunakan sebagai device pengirim file nada dering dan gambar adalah MA-620. Coin selector dihubungkan dengan Mikrokontroler AT89S51 digunakan sebagai alat pembayaran. Pengujian pada sistem ini dilakukan pada bagian software dan hardware. Hasil dari pengujian terhadap software sistem adalah tampilan aplikasi nada dering dan gambar dapat berfungsi dengan baik, aplikasi media player harus dapat memainkan nada dering, image viewer dapat menampilkan gambar dan infrared dapat mengirimkan aplikasi nada dering dan gambar yang telah dipilih melalui media player dan image viewer ke handphone user. Hasil dari pengujian pada bagian hardware adalah coin selector yang digunakan sebagai alat pembayaran dapat mendeteksi koin yang dimasukkan apakah sesuai dengan coin sample pada coin selector. Dengan menggunakan sistem ini, user dapat dengan mudah mengisi nada dering dan gambar pada handphone.",
+  "creators": "TAN CI WI",
+  "contributors": "Bambang Suparijanto (Advisor 1); Lauw Lim Un Tung (Advisor 2); Indar Sugiarto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No.02010753/ELK/2005; Tan Ci Wi (23400042)",
+  "subjects": "MICRO CONTROLLERS; INTERNET (COMPUTER NETWORK)"
+}

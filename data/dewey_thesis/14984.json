@@ -1,0 +1,14 @@
+{
+  "id": "14984",
+  "title": "Perencanaan dan pembuatan perangkat soft start dengan fasilitas speed control untuk motor DC 12 V menggunakan mikrokontroler MCS-51",
+  "abstract": "Motor DC sudah umum digunakan untuk berbagai keper-luan penerapan dalam industri. Hal ini disebabkan karena motor DC mudah diatur kecepatannya dan juga torsinya. Motor DC jika disuplai langsung dari sumber tegangan DC, akan menghasilkan arus start yang besarnya bisa menca-pai 4 -5 kali arus nominal. Meskipun hal ini hanya ber-langsung beberapa saat, tetapi arus yang besar akan mengu-rarigi umur dari motor DC. Untuk itu diperlukan adanya \"Soft Start\" untuk menjalankan motor DC dari posisi diam menuju keadaan steady state. \"Soft Start\" memerlukan pengaturan tegangan input sesuai dengan torsi beban. Pengaturan tegangan dilakukan dengan roengatur waktu penyalaan dari SCR sebagai komponen utama dari DC Converter. Untuk mengontrol waktu penyalaan digunakan mikro kontroler. Selanjutnya mikro kontroler akan digunakan untuk mengatur putaran motor. Melalui buku TA ini, kami membuat rangkaian driver untuk motor DC. Alat ini berkemampuan mengurangi arus start dengan fasilitas mengontrol kecepatan Inotor. Metode yang kami gunakan di sini adalah mengatur tegangan dari DC konverter yang akan digunakan untuk menjalankan motor DC seri. Umpan balik kecepatan diberikan oleh optointerupter yang dipasang pada motor. Mikrokontroler bertugas memantau kecepatan dan mengatur waktu penyalaan dari SCR sebagai komponen utama dari DC konverter. Kami menyadari bahwa apa yang kami buat ini, masih jauh dari kesempurnaan. Semoga dapat berguna bagi para pembaca.",
+  "creators": "BOYKE ALEXANDER",
+  "contributors": "NONO MOELYONO W. (Examination Committee 1); IRWAN SAHLI (Advisor 2); BUNAWI GUNAWIDJAJA (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/TST/019/0146; Boyke Alexander (23489069)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; MICROCONTROLLER MCS-51"
+}

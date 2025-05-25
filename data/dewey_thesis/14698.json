@@ -1,0 +1,14 @@
+{
+  "id": "14698",
+  "title": "Perencanaan penjadualan dengan memperhitungkan kapasitas produksi pada perusahaan koper",
+  "abstract": "P.T. XYZ merupakan sebuah industri manufaktur yang memproduksi tas travel, tas kantor dan beauty case. Produk yang dihasilkan tersebut terdiri dari berbagai macain ukuran. Diantaranya yang akan dibahas dalani tugas akhir ini adaiah tas travel ukuran 26\" dan 29\", beauty case, dan tas kantor. Dalam perkembangannya P.T. XYZ memerlukan upaya-upaya untuk meningkatkan produktivitasnya Salah satu cara untuk meningkatkan produktivitas tersebut adalah dengan mengatur penjadualan produksi dengan baik. Pada saat ini penjadualan produksi di P.T. XYZ masih belum tersusun dengan baik. Sistem penjadualan produksi yang dipakai di perusahaan saat ini adalah mengerjakan terlebih dahulu job yang waktu pengirimannya lebih cepat Sistem penjadualan seperti ini tidak memperhitungkan idle mesin dan besaraya makespan. Perencanaan penjadualan produksi yang dilakukan dalam tugas akhir ini dimaksudkan untuk memberikan alternatif sistem penjadualan kepada pihak perusahaan. Sistem penjadualan yang digunakan adalah metode Mixed Integer Programing, disesuaikan dengan karakteristik proses produksi yang terdapat diperusahaan seperti tipe proses produksi flexible flowshop, tidak terdapat preemption, jam kerja yang berbeda antara tiap departemen. Sehingga diharapkan dengan adanya perencanaan penjadualan produksi yang baik akan dapat meminimumkan waktu menganggur mesin (idle time ), yang secara tidak langsung dapat memperkecil makespan. Adapun langkah-langkah pengerjaannya adalah menyusun model dari permasalahan yang terdapat di perusahaan, lalu menyelesaikannya dengan bantuan softy/are QS 3. Hasil total waktu produksi yang didapatkan dari penjadualan perusahaan terhadap 23 job yang ada adalah 544.599,55 detik. Sedangkan bila menggunakan metode Mixed Integer Programing total waktu produksi yang didapatkan adalah sebesar 543.409,55 detik. Jadi terdapat perbaikan total waktu produksi sebesar 1190 detik.",
+  "creators": "TAN SIN MING",
+  "contributors": "Maja Indahwati (Examination Committee 1); Didik Wahjudi (Advisor 1); I Gede Agus Widyadana (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 111/TMI-41/1998; Tan Sin Ming (25493020)",
+  "subjects": "SCHEDULING; PRODUCTION MANAGEMENT"
+}

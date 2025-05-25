@@ -1,0 +1,14 @@
+{
+  "id": "4700",
+  "title": "Perancangan pre amplifier vacuum tube untuk hybrid amplifier",
+  "abstract": "Tugas akhir ini mempelajari cara kerja vacuum tube dan karakteristiknya dengan tujuan agar dapat mendesain rangkaian pre amplifier dengan menggunakan vacuum tube yang memiliki respon frekuensi 20 Hz - 20 kHz. Rangkaian pre amplifier mono ini menggunakan trioda ECC82 sebagai driver yang di desain menggunakan common cathode dan menggunakan amplifier transistor stereo yang terdapat di pasaran. Dari hasil pengujian, didapatkan hasil bahwa pre amplifier yang di desain memiliki respon frekuensi 20 Hz - 20 kHz dengan penguatan yang merata sebesar 18,06 dB. Frekuensi cut off dari rangkaian pre amplifier ini adalah 125 kHz, di mana pada frekuensi tersebut gain dari rangkaian pre amplifier menjadi 15,04 dB (turun sebesar -3 dB). Pada pengujian respon frekuensi amplifier didapatkan penguatan yang merata pada frekuensi 60 Hz - 60 kHz sebesar 28,38 dB dan frekuensi cut off-nya adalah 175 kHz. Sehingga secara keseluruhan didapatkan hybrid amplifier yang memiliki respon frekuensi yang merata pada 60 Hz - 40 kHz sebesar 41,34 dB dan frekuensi cut off-nya adalah 185 kHz.",
+  "creators": "DEFFRY BINTONO TJANDRA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Limboto Limantara (Advisor 2); Iwan Njoto Sandjaja, S.T., MSCS. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010798/ELK/2006; Deffry Bintono Tjandra (23402002)",
+  "subjects": "ELECTRONIC CIRCUITS-LINEAR; AMPLIFIERS (ELECTRONICS)"
+}

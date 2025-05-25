@@ -1,0 +1,14 @@
+{
+  "id": "4317",
+  "title": "Perancangan dan pembuatan software pengukuran ketepatan nada lagu dengan metode komparasi pitch dan timing suara",
+  "abstract": "Tidak semua orang memiliki kemampuan untuk mengenali dan melantunkan nada lagu dengan indah. Sebagian orang tidak dapat melakukannya sehingga menimbulkan nada sumbang. Oleh sebab itu penulis membuat software Pitch Compare yang dapat digunakan untuk membandingkan nada pada dua file bertipe WAV sehingga ketepatan nada dapat diketahui dengan mudah. Metode yang digunakan adalah dengan membandingkan dua file lagu bertipe WAV berdasarkan ketepatan pitch dan timing, dengan menggunakan bantuan metode LPC dalam ekstraksi data frekuensi. Hasil pengujian menunjukkan ketepatan komparasi file untuk frekuensi free-noise. Software ini nantinya dapat dikembangkan menjadi tools yang diimplementasikan sebagai alat pelatihan vokal dalam kehidupan sehari-hari, baik bagi orang amatir maupun yang profesional.",
+  "creators": "ANITA UNTARIO",
+  "contributors": "Resmana Lim (Advisor 1); Kartika Gunadi (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000261/INF/2004; Anita Untario (26401212)",
+  "subjects": "SOFTWARE ENGINEERING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

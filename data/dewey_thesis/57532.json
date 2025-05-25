@@ -1,0 +1,14 @@
+{
+  "id": "57532",
+  "title": "Pembuatan aplikasi middleware untuk monitoring proses kontrol antara plc dan odoo erp",
+  "abstract": "Pada saat ini perkembangan teknologi di bidang produksi pabrik sangat pesat. Permasalahan yang menyebabkan suatu perusahaan mengalami kerugian adalah produksi barang yang berlebihan maupun tidak sesuai dengan permintaan pesanan. Hal ini menjadi masalah yang cukup serius karena pihak lapangan atau pabrik tidak mengerti berapa jumlah permintaan product yang harus diproduksi karena tidak adanya media maupun aplikasi untuk menjembatani antara ERP dengan PLC. Berdasarkan permasalahan itu, aplikasi ini pun dibuat. Aplikasi ini berbasis website yang dibuat dengan menggunakan platform Node-RED yang berbasis javascript. Untuk database yang digunakan adalah MySQL. Berdasarkan hasil pengujian, dapat disimpulkan bahwa aplikasi dapat menjadi jembatan antara ERP dengan PLC karena semua data dapat terolah dengan baik.",
+  "creators": "FRENDY HARIYONO",
+  "contributors": "Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 1); Resmana Lim (Advisor 2); Justinus Andjarwirawan (Examination Committee 1); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022305/INF/2023; Frendy Hariyono (C14170108)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

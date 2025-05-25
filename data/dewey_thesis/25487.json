@@ -1,0 +1,14 @@
+{
+  "id": "25487",
+  "title": "Perencanaan dan pembuatan alat penghitung pemakaian pulsa key telephone dengan bantuan IBM PC/XT",
+  "abstract": "Key telepon adalah suatu system telepon yang terdiri dari satu jalur eksternal atau output dan beberapa jalur internal atau ekstension. Untuk mengetahui pemakaian dari masing-masing ekstension maka diperlukan suatu alat untuk menghitung pemakaian pulsa dan mencatat tujuan dari masing-masing sambungan telepon keluar. (Dalam tugas akhir ini jenis key telepon yang dipakai adalah Panafon WIT 1000 (104) yaitu satu jalur input dan empat jalur output). Untuk mengetahui berapa pemakaian pulsa, kita harus mengetahui parameter yang dipakai sebagai dasar perhitungan pulsa. Prinsip dasar perhitungan pulsa adalah berdasarkan signal yang dikirim oleh perumtel yaitu sebesar 16 KHz yang menyatakan pemakaian satu pulsa. Dasar prinsip inilah yang kebanyakan dipakai pada Wartel (warung telepon) untuk membuat perhitungan dari biaya yang akan dibayar oleh pemakai jasa telepon. Dalam tugas akhir ini akan direncanakan dan dibuat alat untuk mengetahui berapa besar pemakaian pulsa pada key telephone. Pada key telepon yang dipakai dalam tugas akhir ini tidak memiliki output port yang biasanya terdapat pada key telepon jenis lainnya yang lebih kompleks, di mana data yang dikeluarkan dapat diketahui ektension mana yang melakukan hubungan ke luar. Karena itu pada alat yang dibuat ini dilengkapi dengan sebuah detector line sehingga dapat diketahui ekstension mana yang melakukan hubungan ke luar. Agar perhitungan pulsa yang dihasilkan betul-betul tepat maka line telepon yang dipakai haruslah mempunyai chasing signal 16 KHz. Dari hasil yang diperoleh maka keandalan alat yang dibuat ini tergantung pada kondisi line yang terhubung, apakah mempunyai chasing signal atau tidak.",
+  "creators": "YOHANES SIA TIENG HUK",
+  "contributors": "AGUS MULYANTO (Advisor 1); HANDAYANI T. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/026/0116; Yohanes Sia Tieng Huk (14486087)",
+  "subjects": "KEYTELEPHONE; TELEPHONE, PUSH BUTTON"
+}

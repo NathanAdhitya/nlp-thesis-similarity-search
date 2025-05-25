@@ -1,0 +1,14 @@
+{
+  "id": "30298",
+  "title": "Studi metode starting dan control chiller di Wisma BII Surabaya",
+  "abstract": "Untuk pengkondisi udara dalam skala besar tidak efisien jika menggunakan sistem unit tetapi harus menggunakan sistem pendingin sentral. Yaitu dengan menggunakan Chiller Water, di mana mesin refrigeran ini mendinginkan media perantara berupa air dan akan didistribusikan ke seluruh pengolah udara ( AHU) untuk mendinginkan udara ruangan. Chiller ini memiliki sistem kontrol yang dapat mengatur dan memonitor kapasitas pendinginan, kerja dari kipas kondensor, fungsi-fungsi sensor pengaman dan suhu air yang keluar dari cooler. Semua kerja dari chiller dikontrol oleh sebuah mikroprosesor. Untuk menjalankan motor listrik menggunakan beberapa metode starting yaitu Direct On Line (DOL) dan Star-Delta. Penggunaannya bergantung pada besarnya daya beban. Untuk pompa chiller menggunakan metode star-delta sedangkan untuk motor listrik pada AHU ada yang menggunakan metode DOL dan ada yang menggunakan Star-Delta. Untuk kontrol chiller sendiri menggunakan DOL, selanjutnya untuk menjalankan kompresor dan fan motor sudah diatur dalam sistem kontrolnya. Dari hasil pengamatan di Wisma Bll, dapat dikatakan pemilihan metoda starting dari kontrol chiller, AHU dan chiller water pump sudah baik dan kerja dari chiller terkontrol dengan baik oleh mikroprosesor.",
+  "creators": "RAYMUNDUS SUNUR",
+  "contributors": "Limboto Limantara (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/TST/037/370; Raymundus Sunur (23494050)",
+  "subjects": "AIR CONDITIONING; AIR CONDITIONING--CONTROL; MICROPROCESSORS"
+}

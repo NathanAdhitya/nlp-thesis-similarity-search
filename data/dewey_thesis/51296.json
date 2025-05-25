@@ -1,0 +1,14 @@
+{
+  "id": "51296",
+  "title": "Analisis perbandingan keakuratan deteksi serangan dan pemakaian pada CPU dan memory dengan tools pendeteksi serangan Snort dan Suricata pada web server",
+  "abstract": "Analisis perbandingan keakuratan deteksi serangan dan efisiensi pemakaian CPU Resources dari tools pendeteksi serangan Snort dan Suricata yang di pasang di Web Server. Snort dan Suricata merupakan IDS tools yang digunakan untuk mendeteksi serangan jaringan. Snort Snort adalah Open Source Intrusion Prevention System (IPS) menggunakan serangkaian aturan yang membantu menentukan aktivitas jaringan berbahaya dan menggunakan aturan tersebut untuk menemukan paket yang cocok dengannya dan menghasilkan peringatan bagi pengguna. Suricata adalah mesin pendeteksi ancaman sumber terbuka independen terkemuka. Dengan menggabungkan deteksi intrusi (IDS), pencegahan intrusi (IPS), pemantauan keamanan jaringan (NSM) dan pemrosesan PCAP, Suricata dapat dengan cepat mengidentifikasi, menghentikan, dan menilai serangan paling canggih. Dari hasil penelitian ini bahwa pada saat flood DOS Attack Snort memiliki rata-rata 93,5 % sedangkan Suricata memiliki 94,2 % di bagian CPU pada port 80. Ini menjelaskan bahwa Suricata unggul efisiensi di banding dengan Snort pada saat flood DOS Attack. Sedangkan untuk bagian port 443 Snort memiliki rata-rata 94,5 % dan Suricata memiliki 95,67 % di bagian CPU pada port 443 membuktikkan bahwa Suricata unggul dalam aktifitas CPU. Untuk bagian memori Snort memiliki rata-rata 19.9 % untuk pemakaian memori atau efisien memori dibanding dengan Suricata yang emmiliki pemakaian memori rata-rata 69,3 % pada port 80. Pada port 443 Snort memiliki pemakaian memori rata-rata 30,3 % dibanding dengan Suricata yang memiliki rata-rata memori dengan pemakaian 30,5 % dalam berarti Suricata memiliki pemakaian lebih sedikit dibanding dengan Snort",
+  "creators": "DHANAR RESTU ARRASY",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022101/INF/2021; Dhanar Restu Arrasy (26416131)",
+  "subjects": "COMPUTER SECURITY; OPERATING SYSTEMS (COMPUTERS)"
+}

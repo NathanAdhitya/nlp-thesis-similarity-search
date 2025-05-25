@@ -1,0 +1,14 @@
+{
+  "id": "55041",
+  "title": "Klasifikasi gambar spesies burung menggunakan metode faster R-CNN",
+  "abstract": "Burung merupakan salah satu jenis hewan yang spesiesnya cukup banyak. Dikarenakan keberagaman spesies burung tersebut, seringkali kita kesusahan dalam mengidentifikasi suatu jenis burung. Untuk melakukan identifikasi secara otomatis, banyak cara yang telah dilakukan untuk mencapai tujuan identifikasi jenis spesies burung secara tepat dan cepat. Salah satu metode deteksi objek deep learning yang cukup terkenal adalah Fast R-CNN. Metode Fast RCNN terkenal dalam melakukan proses identifikasi secara cepat. Metode lain yang merupakan hasil modifikasi dari metode Fast R-CNN adalah Faster R-CNN di mana sesuai namanya metode ini akan lebih cepat dalam melakukan identifikasi. Kedua metode tersebut akan digunakan dalam pembangunan arsitektur sistem yang mampu melakukan identifikasi pada objek hewan burung. Tujuan pembuatan sistem tersebut adalah untuk membandingkan hasil klasifikasi dari kedua metode tersebut serta untuk menguji bagaimana pengaruh tuning seperti learning rate, dan epoch terhadap performa metode utama yaitu Faster R-CNN dalam melakukan proses klasifikasi dalam jumlah class yang banyak. Dalam penelitian ini, sistem dibuat dengan basis website di mana fitur utama dari website tersebut adalah mampu memberikan hasil prediksi spesies suatu burung dengan metode Faster R-CNN. Dalam proses training dari model akan dilakukan berbagai macam pengujian seperti melakukan proses image augmentation, pretrained model dan hyperparameter tuning. Hasil akurasi terbaik yang berhasil dicapai dalam penelitian ini adalah sebesar 99% dengan konfigurasi model Faster R-CNN MobilenetV3.",
+  "creators": "ALVIN CHRISTOPHER",
+  "contributors": "Hans Juwiantho S.Kom., M.Kom (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022228/INF/2022; Alvin Christopher (C14180010)",
+  "subjects": "COMPUTER VISION; PATTERN RECOGNITION SYSTEMS--COMPUTER PROGRAMS; IMAGE PROCESSING"
+}

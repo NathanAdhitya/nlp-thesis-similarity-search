@@ -1,0 +1,14 @@
+{
+  "id": "60727",
+  "title": "Aplikasi taksi laut online berbasis android",
+  "abstract": "Indonesia adalah negara maritim dengan perairan yang luas. Dengan pertumbuhan pelabuhan yang signifikan, mobilitas dalam melakukan transportasi/perpindahan semakin meningkat. Kapal yang berlabuh akan bersandar di pelabuhan. Akan tetapi ada permasalahan seperti harga bersandar yang mahal dan penuhnya pelabuhan sehingga kapal tidak dapat bersandar dan menunggu atau menaik turunkan penumpang. Di pinggir pelabuhan, ada orang-orang yang menawarkan jasa kapal kecil sebagai transportasi untuk perpindahan penumpang. Akan tetapi sulitnya melakukan komunikasi antar 2 sisi membuat munculnya masalah baru. Adanya aplikasi taksi laut dapat menjadi solusi untuk memudahkan penyeberangan kapal ke daratan dan sebaliknya. Dengan adanya aplikasi ini, pengguna dan pengemudi dapat dipertemukan. Dalam pengembangan aplikasi ini, digunakan metode haversine untuk menghitung jarak antara pengguna dan pengemudi berdasarkan garis lintang dan garis bujur. Titik koordinat pengguna dan pengemudi dihasilkan dari GPS yang berada di masing-masing perangkat. Dengan GPS yang menyala, akan didapatkan garis lintang dan garis bujur dari masing-masing pengguna dan pengemudi. Pengujian pada skripsi ini diambil melalui beberapa hal. Pertama, dilakukannya pengujian dalam menjalankan aplikasi dari sisi user, driver, dan admin. Hasil yang didapatkan adalah aplikasi tiap role telah berjalan dengan baik. Kedua, untuk perhitungan jarak menggunakan metode haversine juga berjalan dengan baik. Sistem dapat mengeluarkan jarak yang sesuai. Lalu untuk harga juga sudah dilakukan perhitungan agar harga yang ditentukan mendapatkan hasil yang sesuai.",
+  "creators": "TERRIUS JEREMIAH SUSANTO",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Hans Juwiantho S.Kom., M.Kom (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022564/INF/2024; Terrius Jeremiah Susanto (C14190105)",
+  "subjects": "ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); WEB APPLICATIONS; WEB APPLICATIONS--COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5157",
+  "title": "Embedded price check machine",
+  "abstract": "Pada masa sekarang ini, supermarket memiliki berbagai jenis barang agar konsumen dapat terpenuhi kebutuhannya pada satu tempat saja. Dengan banyak item yang tersedia, konsumen membutuhkan informasi harga barang tertentu secara cepat dan akurat. Maka pihak supermarket menyediakan alat untuk mengecek harga pada tempat-tempat strategis yang terdiri dari barcode scanner, LCD dan komputer untuk koneksi menuju server dimana tersimpan informasi harga seluruh barang yang tersedia di supermarket tersebut. Namun, komputer tersebut membutuhkan tempat yang luas dan harga yang lumayan mahal. Masalah ini dapat dihindari dengan cara memakai alat yang dapat menggantikan komputer untuk hubungan menuju server. Alat tersebut adalah embedded price check machine yang terdiri dari modul RCM3200 yang berfungsi untuk koneksi menuju server, barcode scanner sebagai alat untuk melakukan scanning barcode dan LCD untuk menampilkan informasi nama dan harga barang. Dari hasil pengujian sistem dan perbandingan data, didapatkan hasil bahwa sistem berjalan dengan baik dan harga dapat di-update dengan cepat. Selain itu embedded price check machine memerlukan tempat yang lebih sempit (12,91%) dan harga yang lebih murah (55,5%). Sehigga embedded price check machine ini dapat menjadi salah satu solusi pengganti price check machine konvensional.",
+  "creators": "STEVY SUWARNO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); David Sundoro (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010682/ELK/2004; Stevy Suwarno (23499071)",
+  "subjects": "BARCODING; MACHINE"
+}

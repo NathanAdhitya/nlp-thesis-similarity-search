@@ -1,0 +1,14 @@
+{
+  "id": "48216",
+  "title": "Optimasi struktur retaining wall tipe kantilever dengan metode metaheuristik",
+  "abstract": "Dalam melakukan desain struktur retaining wall, hal penting yang dilakukan adalah untuk menghasilkan suatu desain yang aman dan ekonomis. Optimasi adalah salah satu metode yang dapat dimanfaatkan untuk memperoleh suatu desain yang efisien dengan tetap mengutamakan safety. Penyelesaian proses optimasi dibantu dengan algoritma metaheuristik. Algoritma metaheuristik akan bekerja dalam random variables meliputi dimensi struktur retaining wall dan tulangan yang diperlukandengan tetap memperhitungkanconstraints dalam melakukan analisis stabilitas struktur. Adanya penalty function method digunakan untuk mengontrol batasan-batasan yang ada agar hasil desain yang diperoleh adalah desain yang optimal, ekonomis, dan memenuhi syarat aman. Fungsi objektif dalam penelitian ini adalah untuk meminimalkan keseluruhan biaya dari struktur retaining wall. Algoritma yang digunakan pada penelitian ini adalah Particle Swarm Optimization (PSO) dan Symbiotic Organisms Search (SOS). Kedua algoritma diuji pada kasus retaining wall tipe kantilever dengan batasan sesuai SNI 8460:2017 dan SNI 2847:2013. Performa dari masing-masing algoritma diukur dari lima kriteria biaya, yaitu biaya terbaik, terburuk, median, rata-rata, dan standar deviasi dari struktur retaining wall. Hasil penelitian berhasil menemukan desain strukturyang paling optimal dengan tetap memenuhi syarat aman. Selain itu, hasil penelitian juga menunjukkan bahwa algoritma SOS memiliki performa lebih baik dalam memperoleh hasil desain yang optimal.",
+  "creators": "SANJAYA HALIM; PATRICIA SALLY TANAYA",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Benjamin Lumantarna (Examination Committee 1); Gogot Setyo Budi (Examination Committee 2); Y.T. Teddy Susanto, S.T., M.S. (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012410/SIP/2020; Sanjaya Halim (21416067), Patricia Sally Tanaya (21416065)",
+  "subjects": "RETAINING WALLS--DESIGN AND CONSTRUCTION; WALLS; RETAINING WALLS"
+}

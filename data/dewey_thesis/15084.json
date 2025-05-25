@@ -1,0 +1,14 @@
+{
+  "id": "15084",
+  "title": "Pre dan post processor untuk program ruaumoko",
+  "abstract": "Proses pengisian data pada program Ruaumoko masih menyulitkan para pemakai program tersebut Hal ini disebabkan tata cara pengisian data yang harus mengikuti banyak ketentuan dari program Ruaumoko tersebut. Selain daripada itu masih banyak pemakai yang belum memiliki program pengolah grafik dari program Ruaumoko yang berfungsi untuk melihat hasil akhir berupa grafik dan letak sendi plastis. Tujuan pembuatan program Pre dan Post Processor ini adalah untuk memudahkan pemakai dalam pengisian data yang dihasilkan dalam suatu berkas yang akan diolah program Ruaumoko dan pemakai dapat melihat hasil akhir analisa dalam bentuk grafik. Program yang dibuat ini hanya merupakan program penunjang program Ruaumoko, dan tetap memerlukan program Ruaumoko sebagai program utama yang melakukan analisa struktur. Karena itu pemakai harus memiliki program Ruaumoko agar kedua program tersebut dapat digunakan. Program Pre dan Post processor ini dibuat dalam bahasa C, dan kedua program dapat dijalankan dalam mode DOS maupun melalui Windows.",
+  "creators": "EDDY KANDOLI",
+  "contributors": "WAHYU PRIYOLAKSONO (Actor); Sukanto Tedjokusuma (Actor); Benjamin Lumantarna (Actor)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 967 S; Eddy Kandoli (21494124)",
+  "subjects": "COMPUTER GRAPHICS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "57678",
+  "title": "Perencanaan dan unjuk kerja sistem panel surya terintegrasi on-grid dan off-grid",
+  "abstract": "Ada dua tipe sistem panel surya yang digunakan untuk memenuhi kebutuhan energi listrik skala kecil yaitu sistem on-grid dan sistem off-grid. Perencanaan sistem panel surya terintegrasi on-grid dan off-grid merupakan penggabungan dua sistem antara sistem on-grid dan off-grid. Sistem ini terdiri dari beberapa komponen penting antara lain panel surya, dua jenis inverter, dan automatic transfer switch yang digunakan untuk perpindahan sumber listrik. Pada sistem ini automatic transfer switch juga dirancang untuk memilih PLN sebagai sumber listrik utama dan PLTS/Baterai sebagai sumber listrik cadangan. Sistem panel surya terintegrasi terdiri dari panel surya untuk mengubah Cahaya matahari menjadi litrik DC, Inverter untuk mengubah arus DC menjadi arus AC (grid tie Inverter yang digunakan sebagai Inverter sistem on-grid, solar Solar Hybrid Inverter yang digunakan sebagai Inverter sistem off-grid), automatic transfer switch digunakan untuk perpindahan sumber listrik, dan baterai sebagai tempat penyimpanan listrik DC. Berdasarkan hasil pengujian sistem panel surya terintegrasi, sistem mampu bekerja dengan baik. Berdasarkan hasil pengujian sistem ATS, sistem dapat melakukan perpindahan otomatis tanpa mengalami pemadaman jika sumber listrik cadangan selalu standby.",
+  "creators": "HINGGRYD SHARON ZIPHA ZOFAI",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Emmy Hosea (Examination Committee 1); Julius Sentosa Setiadji (Examination Committee 2); Heri Saptono Warpindyasmoro (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010677/ELK/2023; Hinggryd Sharon Zipha Zofai (C11180025)",
+  "subjects": "ELECTRIC INVERTERS-AUTOMATIC CONTROL; SOLAR PANELS"
+}

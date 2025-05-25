@@ -1,0 +1,14 @@
+{
+  "id": "22020",
+  "title": "Pembuatan model perangkat lunak decision support system bagi pengembang untuk menyusun paket \" financing\" pada penjualan real estat",
+  "abstract": "Pada saat terjadinya krisis moneter ada persaingan ketat antar pengembang untuk menarik minat pembeli terutama pada penjualan rumah menengah dan mewah.Salah satu cara yang digunakan adalah dengan membuat skema penawaran yang kelihatannya dapat menguntungkan pembeli.Tujuan tesis adalah untuk membuat perangkat lunak yang dapat memberi bantuan kepada pengembang dalam pengambilan keputusan untuk penentuan susunan paket 'financing ?yang akan digunakan dalam penjualan real estat dan membandingkan perangkat lunak yang dihasilkan dengan perangkat lunak yang sudah ada. Dalam pembuatan tesis,penulis melakukan studi literatur yang disertai dengan pengumpulan data.Pengumpulan data dilakukan dengan pengumpulan brosur dari pengembang-pengembang di Surabaya yang menjual KSB,rumah menengah,dan rumah mewah serta melakukan wawancara dengan beberapa pengembang.Hasil pengumpulan data dianalisis untuk menentukan skema-skema penawaran yang pemah digunakan oleh pengembang dan aspek-aspek finansial di dalamnya.Hasil analisis data digunakan untuk membuat perangkat lunak decision support system. Analisis deskriptif digunakan untuk menggambarkan keempat jenis skema penawaran yang pemah digunakan oleh pengembang mulai dari masa sebelum krisis sampai pada waktu krisis (1995 -Februari 2000).Jenis-jenis skema penawaran tersebut adalah tunai,angsuran,kredit,dan promosi khusus. Variabel-variabel dan logika pemrograman dibuat berdasarkan analisis deskriptif.Perangkat lunak baru mempunyai kemampuan untuk menangani data produk real estat,skema penawaran dan pembeli,serta mampu memberikan informasi yang dibutuhkan untuk menyusun dan memilih paket penawaran yang akan digunakan dalam pembuatan brosur atau diberikan kepada pembeli. Perangkat lunak baru dibuat khusus untuk masalah penyusunan dan pemilihan paket `financing'.Penyimpanan data dan perhitungan finansial yang harus dilakukan sudah tersedia di dalam perangkat lunak sehingga pengguna sistem tidak perlu bersusah payah memasukkan rumus dan menghitung jumlah angsuran satu per satu seperti yang terjadi dalam penggunaan Spreadsheet. Kelemahan perangkat lunak baru adalah kurang fleksibel dalam menghasilkan keluaran dan menangani perubahan-perubahan yang mungkin terjadi di masa yang akan datang.",
+  "creators": "TATIEK BUDIMAN",
+  "contributors": "Kartika Gunadi (Advisor 2); SUTOTO YAKOBUS (Examination Committee 1); Connie Susilawati (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Thesis No. 030/MTS; Tatiek Budiman (01597014)",
+  "subjects": "REAL ESTATE MANAGEMENT"
+}

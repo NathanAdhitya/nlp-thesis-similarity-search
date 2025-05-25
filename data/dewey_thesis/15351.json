@@ -1,0 +1,14 @@
+{
+  "id": "15351",
+  "title": "Pembuatan interface ethernet controller untuk starter kit TMS keluarga 320C50",
+  "abstract": "Internet network has growing rapidly following bigger needs for communication these days. Usually the basic requirement to access the internet is a PC. Then what if we just need to connect a minimum system to internet ( for such a simple task like distant control unit ) without using PC ? In this final project the minimum system ( that can be connected to internet network ) made here will using embedded ethernet controller technology. This unit will access the LAN network ( 10 Base-T ) by using TCP/IP protocol. The systems will works as follow : the minimum system will control the ethernet device with software control, the Ethernet controller will \"translate\" commands from minimum system to internet network. The unit will have following parts: a minimum system ( device controlling all the activation of the ethernet controller ) and a ethernet controller unit ( used to send and receive data signals from internet network to minimum system). From test result learned that the minimum system was able to connect to the internet network using embedded Ethernet controller, but there are problems. The problem was caused by leaking in internal diode inside the CS8900A chip. This means that TMS320C50's still cannot communicate with embedded Ethernet controller.",
+  "creators": "IRWAN WAHYUDI",
+  "contributors": "HERLIANTO TENGGARA (Examination Committee 1); Hany Ferdinando (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/014/451; Irwan Wahyudi (23493088)",
+  "subjects": "ELECTRIC CONTROL-COMPUTER PROGRAMS; ETHERNET (LOCAL AREA NETWORKS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "9780",
+  "title": "Konversi metadata koleksi artikel elektronik pusat penelitian Universitas Kristen Petra dengan standard open archive",
+  "abstract": "Saat ini banyak lembaga-lembaga penelitian yang telah berupaya untuk saling membagikan koleksi artikel jurnal penelitian dalam bentuk elektronik, tetapi masih dalam bentuk web static yang tidak terstruktur. Pusat Penelitian Universitas Kristen Petra ingin membangun sebuah jaringan repository yang terstruktur sesuai dengan standar Open Archive. Oleh karena itu perlu dilakukan konversi metadata artikel jurnal-elektronik yang telah ada sesuai dengan standar Open Archive. Proses pembuatan aplikasi konversi metadata, langkah awal adalah menganalisa unsur-unsur metadata apa saja yang sesuai dengan standar Open Archive agar dapat dibagikan melalui internet. Konversi metadata dilakukan dengan cara menambahkan field-field yang belum terdapat di dalam database yang lama dan dimasukkan ke dalam database yang baru. Bila pada database yang lama telah memiliki field-field yang diperlukan di aturan Dublin Core akan dipakai kembali tanpa harus merubah atau meng-entry-kan secara manual. Pada pembuatan aplikasi ini, software yang dipakai adalah Macromedia Dreamweaver MX untuk pembuatan desain interface, XAMPP for Windows version 1.6.4 sebagai manajemen database, serta PHP 5. Hasil yang didapatkan dari pembuatan aplikasi ini adalah sistem konversi metadata berbasis web sebagai aplikasi utama untuk menggabungkan field-field yang sesuai dengan standar Open Archive kedalam tabel yang baru dan ditambahkan field-field lain yang sesuai dengan aturan Dublin Core, hasil aplikasi ini dilengkapi dengan fitur edit yang berfungsi untuk mengubah metadata bila ada kesalahan ketika melakukan konversi, dan fitur delete untuk menghapus metadata yang sudah tidak ingin disimpan. Dan metadata dari hasil aplikasi konversi metadata telah berhasil di harvest oleh aplikasi harvester.",
+  "creators": "HENDRI KURNIA WIJAYA",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010068/ELK/2008; Hendri Kurnia Wijaya (23402074)",
+  "subjects": "WEB SITES-DESIGN; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

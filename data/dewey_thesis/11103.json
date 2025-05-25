@@ -1,0 +1,14 @@
+{
+  "id": "11103",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada Pom Pom pet shop and grooming salon",
+  "abstract": "Pom Pom Pet Shop and Grooming Salon adalah sebuah usaha yang bergerak dalam bidang usaha pembelian dan penjualan anjing beserta aksesorisnya. Selain itu, usaha ini melayani grooming untuk anjing trah kecil. Perancangan desain sistem yang baru menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk membuat desain struktur tabel dan relasi antar tabel. Database dibuat dengan menggunakan Postgre SQL 8.0. Aplikasi dibuat dan dikembangkan dengan menggunakan bahasa pemrograman Borland Delphi 7.0. Program yang dibuat meliputi: modul pembelian barang, pembelian anjing, penjualan barang, penjualan anjing, retur pembelian barang, retur penjualan barang, dan laporan. Dari hasil pengujian program menunjukkan bahwa program ini mampu memproses data yang berhubungan dengan pembelian dan penjualan secara otomatis dan menghasilkan informasi berupa laporan yang meliputi laporan pembelian, penjualan, retur, dan laporan laba rugi yang sesuai dengan proses manualnya.",
+  "creators": "LENNY TRISNAWATI",
+  "contributors": "Rudy Adipranata (Advisor 1); Yulia (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010744/INF/2008; Lenny Trisnawati (26403014)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

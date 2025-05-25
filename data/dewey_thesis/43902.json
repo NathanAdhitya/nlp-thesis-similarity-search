@@ -1,0 +1,14 @@
+{
+  "id": "43902",
+  "title": "Analisa optimasi rute pengiriman pre order (PO) di Jakarta zone pada PT X",
+  "abstract": "PT X merupakan perusahaan yang bergerak dalam bidang Fast Moving Consumer Goods (FMCG). Perusahaan ini memiliki lebih dari 100 area penjualan yang terletak diseluruh Indonesia. Sistem penjualan atau distribusi ke konsumen di perusahaan ini terdapat beberapa macam, salah satunya Pre Order (PO). Pengiriman PO ini menggunakan beberapa tipe kendaraan, yaitu blind van, Colt Diesel Engkel (CDE), dan Cold Diesel Double (CDD). Tujuan dari penelitian ini adalah optimasi rute sehingga dapat mengetahui dan mengurangi jumlah kendaraan yang digunakan untuk pengiriman agar biaya operasional untuk pengiriman juga dapat berkurang. Simulasi optimasi rute yang dilakukan ini berdasarkan dari rute pengiriman yang sudah ada, namun dioptimalkan lagi dengan mengatur pengiriman berdasarkan konsep Nearest Neighbor Insertion (NNI), dimana rute pengiriman yang dibentuk berdasarkan jarak yang terpendek. Pengiriman PO ini sendiri merupakan gabungan dari Vehicle Routing Problem with Time Windows (VRPTW), Vehicle Routing Problem with Heterogenouse Fleet of Vehicle (VRPHFV), dan Vehicle Routing Problme with Multiple Trips (VRPMT) Hasil dari simulasi ini adalah kendaraan yang dapat dikurangi secara total selama pemakaian satu minggu adalah 34 unit, dengan rincian area Bogor, Ciracas, dan Pulo Gadung dapat berkurang sebanyak 1 unit kendaraan selama hari Senin-Kamis (1*4*3=12), area Sunter dapat berkurang sebanyak 3 unit kendaraan selama hari Senin hingga Kamis (3*4=12), dan area Tangerang sebanyak 2 unit kendaraan selama Senin hingga Jumat (2*5=10). Jarak yang ditempuh untuk pengiriman dapat berkurang dari 9,604 km menjadi 8,028 km dengan total durasi yang dibutuhkan dari 1484,3 jam menjadi 1372,01 jam. Berkurangnya jarak dan durasi ini memberikan additional benefit bagi perusahaan karena konsumsi BBM yang dapat dihemat sehingga dapat mengurangi pencemaran akibat CO2. Untuk pengehematan biaya dari hasil simulasi ini adalah dari Rp 948,017,052.66 menjadi Rp 797,589,503.62.",
+  "creators": "FELIX VALENTINO",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Jani Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022128/IND/2018; Felix Valentino (25414022)",
+  "subjects": "BUSINESS LOGISTICS--MANAGEMENT; INDUSTRIAL MANAGEMENT"
+}

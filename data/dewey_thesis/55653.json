@@ -1,0 +1,14 @@
+{
+  "id": "55653",
+  "title": "Program perhitungan waktu siklus pengoperasian berdasarkan koordinat penempatan tower crane",
+  "abstract": "Tower crane adalah alat berat yang berfungsi sebagai alat pengangkut material, sebagai alat berat yang tidak dapat berpindah tempat dan harus dapat mengjangkau seluruh proyek, sehingga penempatan tower crane perlu direncanakan dengan baik dan untuk mendapatkan waktu siklus yang minimal. Karena tugas tower crane adalah pekerjaan yang repetitif, maka perhitungan waktu siklus pengoperasian berdasarkan koordinat penempatan tower crane dapat dilprogramkan. Pembuatan program dengan menggunakan Microsoft Excel, pada program ini didukung menggunakan data lapangan yang akan menjadi database. Program akan dibuat dengan 3 skema penempatan tower crane,dan akan diuji coba pada bangunan berukuran 25x27,5 meter dengan luas tanah 45x45 meter. Hasil dari program adalah opsi TC 1 dengan waktu siklus total 737 jam, opsi TC 2 selama 846 jam, dan opsi TC 3 selama 833 jam. Perbedaan antara opsi TC 1 dan opsi TC 2 adalah 109 jam, perbedaan biaya sebesar Rp 53.125.000. Hal ini dikarenakan opsi TC 1 memiliki daerah operasi dengan sudut rotasi yang jauh lebih kecil dibandingkan dengan opsi TC 2. Penempatan TC sebaiknya diusahakan agar titik sumber bahan, dan titik tujuan berada pada satu sisi TC agar tidak perlu melakukan rotasi yang terlalu banyak.",
+  "creators": "NICHOLAS BERNARD PINTORO KWAN; LUCKY WIJAYA",
+  "contributors": "RATNA S. ALIFEN (Advisor 1); DANIEL TJANDRA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 20012651/SIP/2023; Nicholas Bernard Pintoro Kwan (B11180187), Lucky Wijaya (B11170142)",
+  "subjects": "CONSTRUCTION INDUSTRY--MANAGEMENT; MATERIALS MANAGEMENT; TOWER CRANES"
+}

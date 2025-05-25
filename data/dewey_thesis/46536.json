@@ -1,0 +1,14 @@
+{
+  "id": "46536",
+  "title": "Perancangan sistem manajemen pergudangan di Laris Elektronik Solo",
+  "abstract": "Laris Elektronik merupakan distributor kecil barang elektronik yang menjual barang kepada toko eceran. Sistem pergudangan yang diterapkan oleh laris masih sepenuhnya dilakukan secara manual dan terpusat pada pemilik saja. Sebuah sistem yang baik seharusnya tidak bergantung kepada individu tertentu dan harus berjalan dengan teratur. Tujuan dari penelitian ini adalah untuk membuat sebuah sistem pergudangan yang lebih otomatis dan mengurangi ketergantungan sistem terhadap keputusan pemilik. Terdapat 3 perbaikan yang diterapkan yaitu penerapan pengendalian persediaan, pembuatan database barang, dan perbaikan layout barang. Penerapan pengendalian persediaan dilakukan dengan mengubah metode stok dan pemesanan barang menjadi periodic review dengan durasi 3 hari. Perubahan durasi review stok dilakukan karena jangka waktu awal adalah setiap hari sehingga banyak waktu terbuang untuk inspeksi stok saja. Pembuatan database barang dilakukan untuk mempercepat dalam memasukan data keluar masuk barang yang ada di gudang, serta memberi karyawan akses terhadap data jumlah stok serta harga barang, yang sebelumnya hanya diketahui oleh pemilik. Perbaikan layout barang merupakan kelanjutan tahap pengendalian persediaan. Layout awal yang semula bersifat acak ditata sesuai dengan kecepatan penjualan barang dan jumlah stok optimum yang dihitung dalam pengendalian persediaan.",
+  "creators": "PATRICK EVING",
+  "contributors": "Herri Christian Palit (Advisor 1); I Gede Agus Widyadana (Examination Committee 1); I Nyoman Sutapa (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022266/IND/2020; Patrick Eving (25415099)",
+  "subjects": "WAREHOUSES--MANAGEMENT"
+}

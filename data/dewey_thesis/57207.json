@@ -1,0 +1,14 @@
+{
+  "id": "57207",
+  "title": "Sistem deteksi cacat pada kemasan tisu berbasis deep learning dengan menggunakan depth camera",
+  "abstract": "QC (Quality Control) pada produksi tisu kemasan sangat penting. Pelanggan ingin memperoleh produk tisu dengan kemasan tanpa cacat. Meskipun proses produksi di PT. Sun Paper Source sudah banyak terotomatisasi, namun proses QC masih menggunakan tenaga manusia, dimana tenaga manusia terbatas dalam faktor ketelitian operator yang menginspeksi kemasan tisu. Alternatif yang dapat dilalukan adalah merancang sistem pendeteksi kemasan tisu yang cacat. Untuk membuat sistem pendeteksian akan menggunakan perangkat kamera untuk melakukan penangkapan gambar kemasan tisu. Metode yang digunakan pada proyek ini adalah menggunakan depth camera, dan menerapkan algoritma deep learning YOLOv4-Tiny pada pendeteksian kecacatan kemasan tisu. Pemanfaatan depth digunakan untuk mendeteksi kemasan tisu yang tertumpuk dan perbedaan ukuran kemasan tisu. Melalui tugas akhir, dapat disimpulkan sistem mampu melakukan pendeteksian pada kemasan tisu dengan akurasi 76% pada nilai confidence threshold 0,6. Lalu untuk pengaturan efektif dari kecepatan motor untuk pendeteksian adalah 800 rpm dengan jarak antar kemasan tisu pada jarak minimal 30 cm agar pendeteksian berjalan optimal. Pada pengiriman informasi dengan MQTT, disimpulkan bahwa delay pengiriman dari sistem pendeteksian ke broker kurang dari 1 detik. Kemudian, pemanfaatan depth dapat dikatakan berhasil diimplementasikan dimana sistem dapat mendeteksi dan menyortir kemasan tisu yang tertumpuk dan menyortir kemasan tisu yang memiliki ukuran berbeda.",
+  "creators": "WILLIAM",
+  "contributors": "Handy Wicaksono (Advisor 1); Indar Sugiarto (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011054/ELK/2023; William (C11190011)",
+  "subjects": "ELECTRICAL ENGINEERING; CAMERAS; DETECTION (ELECTRONICS); TISSUE PAPER"
+}

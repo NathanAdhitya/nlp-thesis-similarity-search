@@ -1,0 +1,14 @@
+{
+  "id": "11373",
+  "title": "Pembuatan joomla extension untuk sistem informasi laboratorium telematika di Universitas Kristen Petra",
+  "abstract": "Dalam pengelolaan sistem informasi Laboratorium Telematika Jurusan Teknik Elektro, dibutuhkan sarana yang dapat membantu para asisten atau laboran untuk mengelolah informasi. Dan juga sarana yang dapat memudahkan mahasiswa untuk mengakses informasi yang berkaitan dengan kegiatan praktikum. Oleh karena itu komponen e-lab dapat diaplikasikan sebagai media untuk mengelolah sekaligus mempublikasikan informasi kepada mahasiswa. Informasi tersebut dapat berupa pengumuman, jadwal praktikum, tugas, informasi nilai dan pendaftaran kelas praktikum yang diakses melakui internet. Komponen e-lab dibuat pada Content Management System (CMS) Joomla 1.5 dengan menggunakan bahasa PHP&MySQL dan beberapa class-class yang ada pada Joomla. Untuk melakukan pemrosesan data, komponen dibuat pada bagian backend administrator yang dikhususkan bagi admin dan frontend untuk tampilan pada web yang diakses oleh mahasiswa. Berdasarkan hasil pengujian dengan pada server lokal dan secara online, komponen-komponen e-lab ini dapat berfungsi baik.",
+  "creators": "RINTIANI PAARRANG",
+  "contributors": "Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 1); Indar Sugiarto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010087/ELK/2009; Rintiani Paarang (23405048)",
+  "subjects": "DATA TRANSMISSION SYSTEMS-EQUIPMENT AND SUPPLIES; DATA TRANSMISSION SYSTEMS; DIGITAL COMMUNICATION"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "26151",
+  "title": "Perancangan dan pembuatan aplikasi klasifikasi citra observasi bintik matahari menggunakan metode ID3 / C4.5",
+  "abstract": "Matahari merupakan sumber energi yang tak ternilai bagi manusia. Namun, ternyata matahari juga menyimpan sisi buruk bagi manusia. Sisi buruk tersebut antara lain adalah dari adanya solar storm yang bisa mengakibatkan gangguan pada alat elektronik. Adapun solar storm tersebut disebabkan karena aktivitas kelompok sun spot. Salah satu tugas dari LAPAN adalah melakukan perkiraan dan memberikan informasi secara periodik tentang gangguan cuaca yang disebabkan oleh aktivitas kelompok sun spot tersebut. Dalam rangka mendukung sistem peringatan dini akan gangguan cuaca tersebut, LAPAN membutuhkan sebuah aplikasi untuk melakukan klasifikasi sun spot secara otomatis. Dalam Skripsi ini, dikembangkan aplikasi yang mampu untuk melakukan klasifikasi kelompok sun spot berdasarkan Modified-Zurich Sunspot Classification. Proses pada aplikasi dimulai dengan proses segmentasi, yang bertujuan untuk memperkecil range data sehingga variasi nilai dalam data menjadi lebih sedikit dan lebih sesuai dengan karakter data yang dapat digunakan dalam proses pembuatan decision tree di mana dalam skripsi ini menggunakan ID3 / C4.5. Metode segmentasi yang digunakan adalah Intuitive Partitioning dan Gini Index. Aplikasi ini dikembangkan dengan menggunakan bahasa pemrograman C# dengan kompiler Microsoft Visual Studio 2005. Berdasarkan hasil pengujian yang dilakukan, rata-rata akurasi terbaik adalah yang menggunakan Gini Index sebagai proses segmentasi. Untuk tipe gambar digital, akurasi terhadap data training dapat mencapai 100 % dalam beberapa variasi parameter dengan menggunakan Gini Index maupun Intuitive Partitioning sebagai proses segmentasinya. Sedangkan akurasi klasifikasi terhadap data testing dapat mencapai 84,37 % dengan menggunakan proses segmentasi Intuitive Partitioning. Untuk tipe gambar scan, akurasi terhadap data training dapat mencapai 100 % dalam beberapa variasi parameter dengan menggunakan Gini Index sebagai proses segmentasinya. Sedangkan akurasi klasifikasi terhadap data testing dapat mencapai 50,74 % dengan menggunakan proses segmentasi Gini Index.",
+  "creators": "CEMARA AVRILIWAN PUTRA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Rudy Adipranata (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021111/INF/2012; Cemara Avriliwan Putra (26408001)",
+  "subjects": "DATABASE DESIGN; DATABASE-MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

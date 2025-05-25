@@ -1,0 +1,14 @@
+{
+  "id": "16729",
+  "title": "Program komputer untuk desain dan analisis penampang balok dan kolom beton",
+  "abstract": "Tugas akhir ini mengenalkan program komputer yang dibuat untuk keperluan desain dan analisis suatu penampang balok dan kolom beton. Desain yang dimaksud dalam hal ini adalah perhitungan kebutuhan baja tulangan dan/atau baja prategang untuk sebuah penampang berdasarkan usulan dari Robert F. Mast, yang dikenal dengan nama \"Unified Design Provisions\". Hal yang menjadi perubahan mendasar dalam \"Unified Design Provisions\" adalah penyatuan batasan regangan (e) dalam menentukan faktor reduksi kekuatan (<))) untuk perhitungan balok dan kolom baik beton bertulang konvensional maupun beton pratekan penuh dan sebagian. Sedangkan analisis yang dimaksud dalam hal ini adalah analisis momen kurvatur (analisis M-<|)) untuk sebuah penampang beton dengan menggunakan model dari Mander untuk bahan beton dan baja tulangan serta model dari Prestressed Concrete Institute (PCI) untuk baja prategang. Analisis ini mengacu pada program yang telah dibuat sebelumnya dengan melakukan modifikasi, yaitu penambahan unsur baja prategang. Program komputer ini dibuat dengan bahasa pemrograman visual Borland C++ Builder v4.00 dengan basis Ms. Windows?. Program ini telah diuji coba serta dibandingkan hasil perhitungannya dengan cara manual dari beberapa referensi dan memberikan hasil yang baik dalam batas toleransi untuk penggunaan dalam bidang teknik sipil.",
+  "creators": "LEONARD WIGAN; FONNA DELFIA LIMAN",
+  "contributors": "Takim Andriono (Advisor 1); Sukanto Tedjokusuma (Advisor 2); Ir. Soehendro Ratnawidjaja, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 1059/SIP/2001; Leonard Wigan (21496002), Fonna Delfia Liman (21496015)",
+  "subjects": "COLUMNS, CONCRETE; CONCRETE BEAMS"
+}

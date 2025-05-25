@@ -1,0 +1,14 @@
+{
+  "id": "10420",
+  "title": "Pemodelan dan validasi sistem pengatur ketinggian air pada tangki tunggal",
+  "abstract": "Mata kuliah Sistem Pengaturan dan Pengukuran merupakan salah satu mata kuliah yang diberikan di Jurusan Teknik Mesin Universitas Kristen Petra. Kesulitan pemahaman materi kuliah merupakan latar belakang dibuatnya alat peraga yang mampu menggambarkan sistem pengaturan itu sendiri. Alat peraga tersebut harus memenuhi beberapa syarat antara lain, kemudahan pengoperasian, kemudahan pengamatan, kemudahan pengaturan, kemudahan pengukuran dan keakuratan. Pemodelan sistem pengatur ketinggian air ini merupakan alat peraga yang mempunyai tiga macam elemen masukan (step, ramp, dan sinusoidal) dan enam macam elemen pengatur (on-off, proporsional, integral, proporsional dan integral, proporsional dan derivatif, proporsional dan integral dan derivatif) yang diimplementasikan dalam perangkat lunak. Perangkat lunak tersebut merupakan pusat pengoperasian dan pengamatan proses alat peraga dalam bentuk grafik dengan bantuan komputer sebagai media penghubung. Alat peraga ini mampu menerima masukan ketinggian air hingga 30 cm (tergantung elemen masukan dan pengatur) dengan tiga macam debit gangguan (23, 82 dan 141 cmVdetik) dan mempunyai fasilitas pengukuran ketinggian air baik aktual maupun teoritis serta waktu proses. Waktu proses untuk elemen masukan ramp dibatasi hingga 30 detik (tergantung ketinggian air) dan periode elemen masukan sinusoidal dibatasi hingga 100 detik sedangkan amplitudonya dibatasi 15 cm (tergantung ketinggian air). Nilai maksimum interval atas dan interval bawah adalah 3 cm. Sedangkan nilai maksimum kontanta proporsional, integral dan derivatif masing-masing adalah 20, 5, dan 5 dengan ketelitian satu satuan untuk konstanta proporsional dan dua angka dibelakang koma untuk konstanta integral dan derivatif.",
+  "creators": "HEGA RISMAWAN CANDRA",
+  "contributors": "Joni Dewanto (Advisor and Examination Committee)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.99.54.372; Hega Rismawan Candra (24494007)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

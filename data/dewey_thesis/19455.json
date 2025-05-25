@@ -1,0 +1,14 @@
+{
+  "id": "19455",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi untuk penjualan, pembelian dan inventori pada divisi farmasi di perusahaan PT. X",
+  "abstract": "Divisi farmasi perusahaan PT. X adalah perusahaan yang bergerak di bidang distribusi obat. Pada saat ini perusahaan memiliki sistem komputerisasi di bawah operasi sistem MS DOS dan tidak terintegrasi antara penjualan, pembelian, dan inventori. Hal ini menyulitkan dalam menganalisa data transaksi karena data yang dihasilkan file text yang kurang terstruktur dan sulit untuk di export ke dalam excel atau database. Berdasarkan latar belakang permasalahan yang dihadapi, maka dilakukan pembuatan aplikasi yang dapat membantu perusahaan. Sistem yang dirancang meliputi penjualan, pembelian dan inventori yang saling terintegrasi, menampilkan laporan-laporan yang dibutuhkan perusahaan dan perhitungan harga pokok menggunakan metode moving average. Metode moving average memiliki syarat ada barang yang terjual dan barang yang tersisa digudang. Pembuatan aplikasi ini menggunakan Delphi 7 sebagai bahasa pemograman dan SQL Server 2000 sebagai database. Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, sistem informasi administrasi yang dapat membuat dan menampilkan laporan pembelian, laporan penjualan, laporan laba rugi, laporan hutang, laporan kartu stok, laporan piutang, kartu piutang customer, dan laporan nilai persediaan.",
+  "creators": "JOHAN STEFANUS",
+  "contributors": "Rudy Adipranata (Advisor 1); Ibnu Gunawan (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020870/INF/2010; Johan Steffanus (26406087)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

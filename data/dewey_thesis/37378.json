@@ -1,0 +1,14 @@
+{
+  "id": "37378",
+  "title": "Penjadwalan kapal dengan menggunakan metode simulated annealing pada PT X",
+  "abstract": "PT X merupakan perusahaan yang bergerak dalam bidang usaha pelayaran di Surabaya, Jawa Timur. Perusahaan ini mengalami kesulitan untuk melakukan penjadwalan yang tetap untuk Indonesia bagian Timur, hal ini dikarenakan jarak tempuh yang lebih jauh dibandingkan bagian Barat. Kebijakan yang dijalankan perusahaan mempengaruhi permodelan Vehicle Routing Problem with Time Windows (VRPTW) ada tiga. Pertama yaitu jumlah call time, di mana ini adalah jumlah berapa kali dalam satu bulan suatu pelabuhan harus dikunjungi. Hal ini memecah 15 pelabuhan yang merupakan cabang Indonesia bagian Timur menjadi 62 lokasi dalam VRPTW. Kedua yaitu adanya frekuensi minimal tiga hari tiap pengunjungan pelabuhan yang sama. Ketiga yaitu adanya batasan jumlah pelabuhan yang dapat dikunjungi oleh satu kapal, yaitu maksimal lima pelabuhan. Pencarian solusi awal menerapkan teori Insertion Heuristic dengan beberapa perbedaan. Hasil lima simulasi dengan menggunakan Simulated Annealing pada software Microsoft Excel menunjukkan adanya perbaikan dibandingkan dari solusi awal. Hasil terbaik dari kelima simulasi tersebut mengurangi total waktu tempuh sebesar 7,95%. Kelima simulasi tersebut apabila dirata-ratakan mengalami penurunan sebesar 6,21% dari solusi awal.",
+  "creators": "RICHARD WIBISONO",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022021/IND/2016; Richard Wibisono (25412004)",
+  "subjects": "PRODUCTION SCHEDULING-SIMULATION METHODS; SHIPPING--MANAGEMENT"
+}

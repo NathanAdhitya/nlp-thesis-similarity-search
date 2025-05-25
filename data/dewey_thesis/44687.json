@@ -1,0 +1,14 @@
+{
+  "id": "44687",
+  "title": "Implementasi container kubernetes untuk mendukung scalability",
+  "abstract": "Perkembangan teknologi yang semakin maju menyebabkan banyaknya tuntutan pada client- server untuk menjalaskan tugasnya. Kemampuan server yang ada akan semakin menurun dengan banyaknya akses yang datang dari client. Kemampuan server yang melebihi batas akan mengalami overload sehingga banyak dampak buruk yang akan ditimbulkan antara lain penurunan kecepatan waktu mengakses bahkan menimbulkan server down. Penelitian ini mencoba mengusulkan solusi dengan memberikan tambahan jalur akses pada server yaitu menggunakan teknologi containerization pada Kubernetes. Dimana container merupakan jalur akses bagi client ke server. Teknologi containerazitation ini diimplementasikan dengan memanfaatkan scalability. Scalability pada container akan menyesuaikan dengan kebutuhan client maupun server. Dengan teknologi container, akses terhadap server dapat dilakukan dengan penambahan container untuk jalur akses jika dirasa penuh dan akan mengurangi container jika jumlah client yang mengakses berkurang. Hal ini akan meminimalisir server yang overload sehingga client dapat melakukan akses terhadap server tanpa kesulitan akibat sedikitnya jalur akses yang ada.",
+  "creators": "KEZIA YEDUTUN",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021865/INF/2019; Kezia Yedutun (26415065)",
+  "subjects": "CLIENT/SERVER COMPUTING; DATABASE MANAGEMENT"
+}

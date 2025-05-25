@@ -1,0 +1,14 @@
+{
+  "id": "13033",
+  "title": "Perancangan dan pembuatan sistem informasi pemesanan untuk restoran x",
+  "abstract": "Restoran X selama ini menggunakan cara manual di dalam pemesanan makanan, proses koordinasi pesanan dimulai dari pelanggan melakukan pesanan kepada pelayan kemudian pelayan meneruskan informasi ini ke bagian dapur dan kasir. Tentunya sistem koordinasi manual ini dirasa tidak efisien dan dapat menimbulkan kesalahan human error. Penulis terlebih dahulu merancang data flow diagram dan entity relatuionship diagram. Kemudian dilanjutkan dengan pembuatan aplikasi. Aplikasi dibagi menjadi dua bagian yaitu program administrasi, dapur dan kasir yang tergabung pada komputer server dan client, dan aplikasi pesanan yang terdapat pada PDA. Penulis menggunakan koneksi Wi-Fi untuk komunikasi antara server dengan client dan PDA. Sistem informasi ini dibuat supaya menjadi aplikasi yang user friendly, dalam artian tidak membutuhkan keahlian khusus dalam menggunakannya. Sistem ini dikembangkan dengan Borland Delphi 7, PHP, dan MySQL 5. Hasil dari sistem informasi ini memungkinkan pelayan dapat langsung mengirim daftar pesanan pelanggan ke dapur dan ke kasir melalui PDA dengan koneksi Wi-Fi. Pelayan dapat melihat status pesanan dan membatalkan pesanan langsung tanpa perlu konfirmasi ke dapur. Sehingga secara keseluruhan sistem informasi ini dapar meningkatkan efisiensi kerja pada restoran X.",
+  "creators": "RICKY YOEWONO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020785/INF/2009; Ricky Yoewono (26401102)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT"
+}

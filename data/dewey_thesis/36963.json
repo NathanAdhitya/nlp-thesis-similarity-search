@@ -1,0 +1,14 @@
+{
+  "id": "36963",
+  "title": "Pembuatan enterprise architecture pada perusahaan X",
+  "abstract": "Perusahaan X adalah perusahaan yang bergerak di bidang otomotif dealer. Proses bisnis di perusahaan X menggunakan program yang dibuat oleh freelance programmer. Program tersebut dibuat untuk membantu proses penjualan unit. Sedangkan perusahaan X saat ini melakukan pengembangan kedalam tiga target bisnis yaitu Sales Service dan Spareparts. Pada target bisnis Service dan Spare parts masih belum memiliki program yang mendukung proses tersebut. Dalam pengembangan ini perusahaan menginginkan untuk melakukan pergantian program yang awalnya berbasis offline dikembangkan ke dalam web-base atau berbasis online. Maka dari itu dilakukan analisa dan pembuatan desain enterprise architecture menggunakan metode Enterprise Architecture Planning (EAP) untuk perusahaan X. Proses pertama yang dilakukan adalah menganalisa model bisnis dan strategi bisnis perusahan. Setelah itu melihat teknologi informasi yang sudah dimiliki perusahaan, permasalahannya serta kebutuhan perusahaan di masa sekarang dan masa depan. Setelah mendapat informasi maka dilakukan pembuatan desain arsitektur data, arsitektur aplikasi, dan arsitektur teknologi. Arsitektur data menghasilkan Sub Sistem Penjualan unit, Sub Sistem penjualan jasa Service dan Spare parts, Sub Sistem pembelian Spare parts, Sub Sistem Keuangan, dan Sub Sistem Personalia. Untuk arsitektur aplikasi, semua aplikasi yang berbasis web. Aplikasi yang termasuk key operational adalah Sistem Informasi Testdrive, Sistem Informasi Penjualan unit, Sistem Informasi penjualan jasa service dan spareparts, Sistem Informasi pembelian spareparts, Sistem Informasi Stok Sistem Informasi Financial dan accounting, Sistem Informasi Personalia, dan Single Sign On Service. Aplikasi yang termasuk support adalah Back up Database Server dan Website. Sedangkan aplikasi yang termasuk support adalah Sistem Informasi Komplain atau CRM. Arsitektur teknologi menggunakan client/server architecture pattern dan service oriented architecture.",
+  "creators": "CORNELIUS JUVIAN LIMANTO",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021546/INF/2016; Cornelius Juvian Limanto (26412045)",
+  "subjects": "DATABASE MANAGEMENT; INFORMATION SYSTEM; INFORMATION TECHNOLOGY"
+}

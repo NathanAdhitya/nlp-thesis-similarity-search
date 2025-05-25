@@ -1,0 +1,14 @@
+{
+  "id": "15858",
+  "title": "Studi banding algoritma konvensional dengan algoritma jaringan saraf tiruan pada travelling salesperson problem",
+  "abstract": "Studi banding ini selain bertujuan mencari solusi yang lebih baik bagi Traveling Salesperson Problem dengan algoritma Jaringan Saraf Tiruan, juga membandingkan algoritma Jaringan Saraf Tiruan, khususnya algoritma Hopfield dengan algoritma konvensional untuk Traveling Salesperson Problem, yaitu algoritma Exhaustive, Eastman dan Heuristic. .Algoritma Exhaustive mencari semua kemungkinan kombinasional kota-kota dalam perjalanan, sehingga komputasi yang dilakukan adalah sebesar n faktorial (n!). dimana n adalah jumlah kota. Algoritma Eastman adalah sebuah teknik Branch and Bound, yang secara sistematis membagi semua kemungkinan menjadi bagian-bagian yang lebih kecil, dimana setiap bagian ini memiliki batas nilai tertentu. Algoritma Heuristic mencari solusi rule perjalanan optimal didasarkan pada prinsip Nearest Neighbour Heuristic, dimana secara sistematis dicari kota terdekat yang belum dikunjungi dari sebuah kota. Algoiitma Hopfield mendapatkan solusi rute perjalanan optimal dengan melakukan literasi perhitungan aktifasi. perabahan aktifasi dan output neuron sebanyak 400 kali. Hasil Sfudi Banding menunjukkan bahwa algoritma konvensional memiliki kinerja yang lebih baik daripada algoritma Jaringan Saraf Tiruan. Karena kemampuannya mencari perjalanan terpendek dan terpanjang, solusi algoritma Exhaustive dijadikan pedoman dalam menentukan keoptimalan suatu algoritma. Pada perjalanan dengan 10 kota. keoptimalan algoritma Heuristic sebesar 98.53% dari solusi terbaik dengan waktu eksekusi program 0 milidetik, keoptimalan algoirtma Eastman sebesar 84,34% dari solusi terbaik dengan waktu eksekusi sebesar 50 milidetik, sedangkan keoptimalan algoritma Hopfieid sebesar 82,79% dengan waktu eksekusi 2030 mili detik.",
+  "creators": "PETER IKSAN",
+  "contributors": "Kartika Gunadi (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.99/E/Kom/010/049; Peter Iksan (23492028)",
+  "subjects": "ARTIFICIAL INTELLIGENCE-COMPUTER PROGRAMS"
+}

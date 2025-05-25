@@ -1,0 +1,14 @@
+{
+  "id": "19716",
+  "title": "Penyelesaian capacitated vehicle routing problem pada PT Go Trans Logistics International Surabaya dengan algoritma hybrid particle swarm optimization",
+  "abstract": "Capacitated vehicle routing problem (CVRP) merupakan permasalahan dalam mencari rute optimal dengan mempertimbangkan kapasitas kendaraan yang digunakan. CVRP merupakan persoalan optimasi yang dalam berbagai kasus tidak mudah diselesaikan dengan metode sederhana. Tugas akhir ini bertujuan untuk menyelesaikan CVRP yang terjadi pada PT Go Trans Logistics International Surabaya dengan algoritma hybrid particle swarm optimization untuk membantu meminimalkan biaya transportasi yang dikeluarkan. Hybrid particle swarm optimization yang digunakan dalam tugas akhir ini terdiri dari dua metode, yaitu kombinasi antara genetic algorithm dengan particle swarm optimization (GA-PSO) dan kombinasi antara simulated annealing dengan particle swarm optimization (SA-PSO). Penggunaan konsep GA (crossover dan mutasi) serta SA dalam hybrid particle swarm optimization bertujuan untuk menghindarkan partikel dari jebakan lokal optimal. Perbandingan antara GA-PSO dengan SA-PSO menunjukkan bahwa SA-PSO memberikan hasil lebih baik dari segi biaya. Hasil simulasi selama 50 periode dengan menggunakan SA-PSO memberikan biaya yang lebih rendah dibanding GA-PSO.",
+  "creators": "LIDYA NOVALINA",
+  "contributors": "Herri Christian Palit (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi : No. 01021507/IND/2011; Lidya Novalina (25407077)",
+  "subjects": "BUSINESS LOGISTICS; PHYSICAL DISTRIBUTION OF GOODS"
+}

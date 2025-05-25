@@ -1,0 +1,14 @@
+{
+  "id": "4307",
+  "title": "Perancangan dan pembuatan sistem informasi pembelian, produksi dan inventori di \"UD Jaya Abadi\"",
+  "abstract": "Sistem Pembelian, Inventori dan Produksi di UD. Jaya Abadi saat ini masih menggunakan sistem manual. Seiring maraknya penggunaan teknologi informasi, teknologi tersebut dipakai untuk memperbaharui sistem dalam perusahaan menjadi sistem yang terkomputerisasi. Dengan sistem manual sering sekali terjadi kesulitan untuk mencari data - data dengan menggunakan kertas - kertas catatan yang mudah hilang dan sulit dicari jika terjadi banyak catatan transaksi maupun data - data master. Dengan sistem seperti itu akan membuat kinerja perusahaan menjadi tidak efisien. Untuk mengatasi masalah tersebut dibutuhkan sistem yang terkomputerisasi. Perancangan dan pembuatan sistem ini dibuat dengan menggunakan program Borland Delphi 7 untuk front end dan menggunakan program SQL Server 7 sebagai back end. Untuk membuat sistem tersebut diperlukan perancangan Data Flow Diagram (DFD) dan Entity Relationship Diagram (ERD) yang dapat menyesuaikan dengan sistem perusahaan dengan aplikasi. Hasil pengujian menyatakan bahwa aplikasi ini dapat menghasilkan kemudahan dalam mengakses data yang diperlukan dalam proses pembelian, produksi dan inventori. Data ? data tersebut dapat dicari dan disimpan dengan mudah sehingga menjadikan kinerja perusahaan lebih efisien sesuai dengan tujuan pembuatan program ini. Aplikasi ini juga dapat menghasilkan laporan ? laporan tentang proses yang dilakukan dalam sistem yang dibuat.",
+  "creators": "GUNAWAN TANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Leo Willyanto Santoso (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000268/INF/2004; Gunawan Tanto (26400072)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT-COMPUTER PROGRAMS; MANAGEMENT INFORMATION SYSTEMS; INFORMATION RESOURCES MANAGEMENT"
+}

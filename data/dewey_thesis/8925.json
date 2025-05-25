@@ -1,0 +1,14 @@
+{
+  "id": "8925",
+  "title": "Pembuatan perangkat lunak penjadwalan dan seleksi asisten tutorial mata kuliah etika Universitas Kristen Petra dengan metode algoritma genetik",
+  "abstract": "Perancangan Perangkat Lunak Penjadwalan dan Seleksi Asisten Tutorial Mata Kuliah Etika ini diharapkan dapat mempermudah proses penjadwalan dan pembagian kelompok ditinjau oleh user. Hal ini diperlukan mengingat pemrosesan secara manual sering menimbulkan hasil yang tidak optimal. Pemrosesan dimulai saat user memasukkan jadwal wawancara, jadwal pembekalan dan pembagian kelompok tutorial beserta data penunjang lainnya. Perangkat lunak akan menganalisa data-data tersebut dalam beberapa tahap, yakni: Tahap Pembuatan Populasi, Regenerasi, Seleksi dan Pengulangan Regenerasi. Tahap Pembuatan Populasi akan merancang kromosom awal. Berikutnya, Tahap Regenerasi akan melakukan pengacakan terhadap populasi yang terbentuk. Tahap Seleksi akan mencek prioritas dan pelanggaran yang terjadi pada Tahap Regenerasi, serta menyimpan kromosom dengan nilai fitness cost terbaik. Sedangkan, Tahap Pengulangan Regenerasi akan mengulang Tahap Regenerasi dan Tahap Seleksi sebanyak jumlah generasi yang diinputkan. Selanjutnya, perangkat lunak akan mencari nilai yang paling optimal, berdasarkan nilai fitness cost yang dihasilkan dan mengembalikan hasil pengolahan jadwal dan kelompok tersebut pada user.",
+  "creators": "DESSY NATALINA",
+  "contributors": "Rolly Intan (Advisor 1); Liliana (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010602/INF/2007; Dessy Natalina (26402051)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

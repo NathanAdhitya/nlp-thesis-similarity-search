@@ -1,0 +1,14 @@
+{
+  "id": "11144",
+  "title": "Perancangan dan pembuatan sistem penjadwalan trucking dan heavy equipment rental PT. Grogol Sarana Transjaya berbasis web",
+  "abstract": "Sistem yang mendukung kegiatan penjadwalan di PT. Grogol Sarana Transjaya masih dilakukan secara manual dan sederhana. PT. GST juga masih belum memiliki media bagi para pelanggannya untuk mengetahui status dari proses pengiriman barang yang mereka percayakan pada PT. GST. Hal ini menyebabkan PT. GST membutuhkan suatu sistem penjadwalan bisa mempermudah pekerjaan para staf penjadwalan. Sistem penjadwalan ini dikembangkan dengan menggunakan PHP dan MySQL. Selain website untuk staf penjadwalan di PT. GST, dibuat juga customer website untuk para pelanggan yang memungkinkan para pelanggan PT. GST melihat status dari proses pengiriman barang tertentu. Dalam sistem penjadwalan yang dibuat untuk PT. GST, terdapat satu fitur tambahan yang berguna untuk menyamaratakan beban kendaraan, sehingga kondisi setiap kendaraan dapat terkontrol. Fitur ini menggunakan Analitycal Hierarchy Process (AHP) untuk menghitung besar bobot kriteria pemilihan. Sedangkan digunakan scoring untuk mengetahui kendaraan mana yang akan digunakan untuk proses pengiriman tertentu. Dari hasil implementasi serta kuisioner dapat disimpulkan bahwa fitur-fitur yang ada pada website sistem penjadwalan PT. GST sudah membantu para staf dalam melakukan penjadwalan trucking dan alat berat. Kemudahan penggunaan, kelengkapan fitur-fitur dan tampilan website masih perlu dikembangkan lebih lanjut.",
+  "creators": "LIVIA KIRANA UTOMO",
+  "contributors": "Alexander Setiawan (Advisor 1); Herri Christian Palit (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010755/INF/2008; Livia Kirana Utomo (26404078)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); WEB SITES-DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5396",
+  "title": "Perancangan dan pembuatan sistem informasi untuk absensi dan penggajian di P.T. Sindu Amritha",
+  "abstract": "P.T. Sindu Amritha merupakan perusahaan yang bergerak dalam bidang produksi permen dan ting-ting jahe. Sistem Absensi yang digunakan adalah masih dengan check clock biasa serta dicatat dalam pembukuan biasa dan Sistem Penggajian yang digunakan adalah perhitungan dan pencatatannya dengan bantuan Microsoft Excel. Selama ini perusahaan masih menggunakan sistem manual dalam hal mencatat absensi dan penggajian. Akibatnya sering terjadi kesalahan dalam hal absensi dan penggajian sehingga mempengaruhi efisiensi dan efektivitas kerja, sehingga pelayanan terhadap karyawan menjadi sangat kurang. Pada Tugas akhir ini, dirangkai beberapa proses yang terkait dengan sistem absensi dan penggajian. Perangkat lunak ini dibuat dengan menggunakan sistem operasi Windows 98 Second Edition . Database yang digunakan adalah Interbase 6.0 dan bahasa pemrograman yang digunakan adalah Borland Delphi 6.0. Proses desain mulai dari Data Flow Diagram sampai dengan Entity Relationship Diagram. Proses implementasi program dalam bahasa pemrograman Delphi yang memanfaatkan basis koneksi ke database Interbase. Perangkat lunak yang dihasilkan ini dapat mengetahui hasil absensi dan penggajian karyawan yang ada di perusahaan. Dengan adanya modul-modul yang tersedia dalam program aplikasi ini, diharapkan P.T. Sindu Amritha mendapatkan solusi terbaik untuk membantu staf personalia yang khusus menangani absensi dan gaji di P.T. Sindu Amritha dalam memonitor masalah absensi karyawan, penggajian karyawan, pembuatan laporan , cuti karyawan dan database karyawan.",
+  "creators": "RUDY HARIANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Theresia Lestiowati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0141/INF/2004; Rudy Hariantor (26499115)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT"
+}

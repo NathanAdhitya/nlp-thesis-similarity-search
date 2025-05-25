@@ -1,0 +1,14 @@
+{
+  "id": "5691",
+  "title": "Remotely operated underwater vehicle",
+  "abstract": "Proyek miniatur kapal selam merupakan proyek yang sangat menarik. Miniatur kapal selam yang prinsip kerjanya mirip dengan kapal selam yang sesungguhnya ini dapat menjadi suatu tahap awal untuk pengembangan kapal selam tanpa awak yang dapat digunakan untuk penelitian dan pekerjaan bawah laut. Remotely Operated Underwater Vehicle (ROUV) adalah sebuah underwater vehicle yang dapat dikontrol dari jarak jauh. ROUV ini dapat menyelam menggunakan prinsip kerja kapal selam yaitu dengan menggunakan ballast. Sebagai penggerak ROUV digunakan pompa air. ROUV ini dikontrol secara wireless menggunakan modul RF TXE-433-KH dan RXD-433-KH dari Linx Technologies. Sebagai pengontrolnya digunakan mikrokontroler AT89S51. ROUV ini dilengkapi dengan sebuah kamera CCTV wireless dan LED sebagai sumber penerangan di dalam air. ROUV ini memiliki fitur Missing Pulse Failsafe dan Battery Failsafe yang dapat membuat ROUV mengapung secara otomatis bila kehilangan sinyal atau baterei melemah. ROUV dapat menyelam dan bergerak di dalam air dengan baik. Jangkauan sinyal modul RF Linx pada saat dioperasikan di air adalah hingga kedalaman 1,9 m dan jarak terjauhnya adalah 14,5 m. Sedangkan jangkauan sinyal CCTV wireless adalah 4,3 m. Dari pengujian sinyal RF di medium air ternyata perambatan gelombangnya lebih pendek daripada di medium udara. Modul RF Linx ternyata tidak cocok untuk transmisi data kecepatan tinggi.",
+  "creators": "RONNY SUWARTO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010802/ELK/2006; Ronny Suwarto (23402036)",
+  "subjects": "REMOTE CONTROL; AUTOMATIC CONTROL"
+}

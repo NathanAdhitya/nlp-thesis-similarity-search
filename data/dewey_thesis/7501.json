@@ -1,0 +1,14 @@
+{
+  "id": "7501",
+  "title": "Studi tentang penguat cascade dua tingkat menggunakan JFET dan perencanaannya",
+  "abstract": "Sistem cascade dalam suatu penguat berarti mempunyai lebih dari satu tingkat dalam konfigurasi rangkaiannya. Penguat sistem cascade menggunakan JFET bertujuan untuk mendapatkan penguatan tegangan yang lebih besar dengan impedansi masukan yang besar pula. Kecuali penguat cascade CS-CS, penguat cascade menggunakan JFET tidak pernah dibahas dalam literatur yang ada. Pada penguat sistem cascade menggunakan JFET dua tingkat ini terdapat sembilan konfigurasi rangkaian, yaitu CS-CS, CS-CD, CS-CG, CD-CS, CD-CD, CD-CG, CG-CS, CG-CD, dan CG-CG. Dari kesembilan konfigurasi itu akan dilihat karakteristik penguatannya dan dibandingkan satu sama lain. Digunakan JFET tipe 2N5457 dengan spesifikasi teknis IDSS = 5 mA dan VGS(off) = -6 V serta ditetapkan salah satu parameter DC bias pada daerah aktif yaitu IDQ = 2 mA. Pengujian yang dilakukan adalah dengan mengukur penguatan tegangan yaitu memberikan variasi tegangan masukan dari 50 mV (Vp-p) sampai 1000 mV (Vp-p) dan dilihat besar penguatan tegangannya pada tegangan keluaran. Pengujian dilakukan pada frekuensi 1 KHz. Dihasilkan beberapa rekomendasi, satu diantaranya yaitu bahwa penguat cascade CS-CS adalah penguat yang mempunyai penguatan tegangan terbesar.",
+  "creators": "TJAHJO KARTIKO DIRGANTORO",
+  "contributors": "Hany Ferdinando (Advisor 1); Handry Khoswanto (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010757/ELK/2005; Tjahjo Kartiko Dirgantoro (23400155)",
+  "subjects": "AMPLIFIERS (ELECTRONICS); OPERATIONAL AMPLIFIERS"
+}

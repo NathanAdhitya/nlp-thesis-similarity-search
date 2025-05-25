@@ -1,0 +1,14 @@
+{
+  "id": "4882",
+  "title": "Pembuatan aplikasi pengenalan tulisan tangan berdasarkan arah gerakan tangan menggunakan metode dominant point",
+  "abstract": "Saat ini peranan komputer dalam peradaban manusia bukan hanya lagi sekedar sebagai alat bantu pekerjaan, namun sudah sampai ke arah pemenuhan kebutuhan. Untuk menunjang posisi komputer yang sudah melekat kuat dalam kehidupan manusia, maka komputer perlu dibuat semakin user-friendly. Salah satunya adalah dalam cara memasukkan data. Cara yang saat ini paling konvensional adalah dengan cara mengetik menggunakan keyboard. Cara ini dapat diganti dengan metode lain, yaitu dengan cara menulis. Pada saat user menulis dengan menggunakan device yang sudah ditentukan, dalam hal ini menggunakan mouse, maka program akan menyimpan data berupa kumpulan titik yang disimpan dalam array. Setelah semua goresan selesai, dilakukan proses normalisasi terhadap data yang disimpan. Untuk mengenali arah goresan yang di-input-kan, digunakan metode dominant point. Metode ini merupakan salah satu metode yang bisa digunakan untuk mengenali garis dan kurva. Dari semua titik yang diterima program sebagai input akan dipilih titik-titik yang merupakan local extrema kurva. Titik-titik yang terpilih itulah yang disebut sebagai dominant point. Berdasarkan dominant point yang didapat, ditentukan arah gerakan goresan menggunakan direction primitives. Dari proses direction primitives, akan didapatkan kode untuk karakter yang di-input- kan. Kode ini akan dicocokkan setiap dengan reference set yang terpilih sebagai candidate. Candidate yang memperoleh score tertinggi akan menjadi hasil pengenalan. Akurasi dari program setelah diuji menunjukkan angka 98.2% untuk kategori uppercase, 93.2% untuk lowercase, dan 96.6% untuk kategori numbers. Rata-rata keseluruhan menunjukkan akurasi pada angka 96%.",
+  "creators": "ROY GUNAWAN",
+  "contributors": "Rudy Adipranata (Advisor 1); Felicia Soedjianto (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000384/INF/2005; Roy Gunawan (26401042)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

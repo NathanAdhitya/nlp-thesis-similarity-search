@@ -1,0 +1,14 @@
+{
+  "id": "4619",
+  "title": "31 Band graphic equalizer stereo",
+  "abstract": "Pada Tugas Akhir ini dirancang sebuah alat yaitu 31 band graphic equalizer stereo. Pembuatan graphic equalizer ini bertujuan untuk mengatasi kekurangan yang muncul pada suatu perangkat audio seperti kurangnya bass, treble, maupun vokal yang dihasilkan. Graphic equalizer ini juga dapat berfungsi untuk mengatur signal audio agar sesuai dengan selera pendengar. Signal input diambil dari line out CD player, tape, sound card, atau media lainnya. Signal audio akan diolah oleh serangkaian filter sehingga dapat diatur boost maupun cut pada frekuensi tertentu. 31 band graphic equalizer ini memiliki 31 frekuensi center dengan pembagian 1/3 oktaf yaitu : 20Hz - 25Hz - 31,5Hz - 40Hz - 50Hz - 63Hz - 80Hz - 100Hz - 125Hz - 160Hz - 200Hz - 250Hz - 315Hz - 400Hz - 500Hz - 630Hz - 800Hz - 1KHz - 1,2KHz - 1,6KHz - 2KHz - 2,5KHz - 3,15KHz - 4KHz - 5KHz - 6,3KHz - 8KHz - 10KHz - 10KHz - 12,5KHz - 16KHz - 20KHz. Pengaturan frekuensi center dengan band pass filter yang dirancang dengan menggunakan metode gyrator sebagai induktor simulasi sehingga rangkaian menjadi lebih sederhana. Dengan potensiometer geser yang dihubungkan dengan band pass filter dan rangkaian gain yang berasal dari rangkaian buffer dan non inverting amplifier, maka graphic equalizer ini dibuat. Dari pengujian, alat ini bekerja dengan baik, dengan memiliki frekuensi center yang tepat dan gain untuk boost maupun cut yang telah bekerja dengan baik.",
+  "creators": "ROI SAPUTRO WIDIASA",
+  "contributors": "Limboto Limantara (Advisor 1); Handry Khoswanto (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010823/ELK/2006; Roi Saputro Widiasa (23402034)",
+  "subjects": "EQUALIZERS (ELECTRONICS)"
+}

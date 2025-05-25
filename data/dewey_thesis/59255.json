@@ -1,0 +1,14 @@
+{
+  "id": "59255",
+  "title": "Penjadwalan sidang proposal untuk kegiatan skripsi Universitas Kristen Petra dengan genetic algorithm",
+  "abstract": "Dalam kegiatan akademik, skripsi adalah salah satu langkah yang diperlukan untuk mencapai kelulusan akademik. Salah satu proses dalam skripsi adalah sidang. Masalah yang diangkat dalam skripsi ini adalah waktu yang diperlukan untuk menjadwalkan seluruh mahasiswa yang melakukan sidang skripsi. Skripsi ini dibuat dengan tujuan untuk mencoba menyelesaikan masalah penjadwalan tersebut. Dalam skripsi ini, penjadwalan dilakukan dengan menggunakan metode Genetic Algorithm di mana jadwal mengajar dosen dan daftar mahasiswa diolah menjadi jadwal yang dapat berjalan tanpa konflik. Hasil dari skripsi ini menunjukkan metode yang digunakan belum dapat menjadwalkan mahasiswa. Dalam penjadwalan yang dilakukan algoritma tidak dapat menemukan hasil jadwal yang tidak mempunyai konflik. Hasil ini disebabkan karena algoritma yang digunakan tidak melakukan penyaringan kromosom terlebih dahulu yang menyebabkan algoritma berjalan secara tidak optimal. Setelah melakukan proses validasi pada kromosom, algoritma dapat mencari jadwal yang dapat berjalan secara optimal dan tanpa adanya konflik.",
+  "creators": "MARCELLINO",
+  "contributors": "Hans Juwiantho S.Kom., M.Kom (Advisor 1); Alexander Setiawan (Advisor 2); Liliana (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022425/INF/2024; Marcellino (C14190049)",
+  "subjects": "GENETIC ALGORITHMS; SCHEDULING--COMPUTER PROGRAMS; THESIS AND DISSERTATION; UNIVERSITAS KRISTEN PETRA"
+}

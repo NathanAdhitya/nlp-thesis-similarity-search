@@ -1,0 +1,14 @@
+{
+  "id": "11105",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada Toko Enam Dua",
+  "abstract": "Toko Enam Dua adalah sebuah perusahaan yang bergerak di bidang retail. Sistem yang ada masih manual sehingga semua proses transaksi penjualan, pembelian dan juga proses administrasinya kadang tidak tercatat secara lengkap. Hal ini menyebabkan perusahaan menemukan kesulitan dalam menghitung laba rugi yang diperoleh, memantau arus stok dan rawan untuk kehilangan barang. Pada Tugas Akhir ini, diimplementasikan sebuah aplikasi yang dapat memproses transaksi pemesanan, penerimaan barang dan retur pembelian, mutasi, penjualan dan retur penjualan, koreksi stok, buku kas, pembayaran hutang dan piutang, sampai pemberian hadiah pada Toko Enam Dua. Aplikasi dibuat dengan menggunakan Netbeans dengan Java sebagai bahasa pemrograman berorientasi object dan PostgreSQL sebagai penyimpan database. Untuk mendesain sistem yang baru, digunakan aplikasi Sybase PowerDesigner. Aplikasi dapat melakukan penyimpanan data master dan transaksi, serta memberikan informasi berupa laporan yang diperlukan, termasuk perhitungan laba rugi dengan menggunakan sistem FIFO.",
+  "creators": "CHUIE LINDA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Rudy Adipranata (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010746/INF/2008; Chuie Linda (26404070)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

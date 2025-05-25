@@ -1,0 +1,14 @@
+{
+  "id": "2970",
+  "title": "Sistem amplifier dengan feedback akustik",
+  "abstract": "Sistem penguat audio secara umum memiliki respon frekuensi yang rata untuk semua nada, baik nada rendah sampai pada nada tinggi. Sedangkan speaker yang ada belum tentu dapat merespon dengan baik semua frekuensi masukan yang diterima dari penguat audio, khususnya pada nada rendah. Oleh karena itu dibuatlah suatu alat yang menggunakan umpan balik secara akustik, agar nada rendah yang dikeluarkan penguat audio dapat di respon oleh speaker. Sistem ini menggunakan sembilan IC op-amp LM741 sebagai pengolah sinyal, yang terdiri atas adder, low pass filter, differential amplifier, inverting amplifier, non inverting amplfier, dan pre-amp. Pada sistem ini microphone kondenser digunakan sebagai sensor umpan balik akustiknya. Sistem feedback akustik dikonfigurasi dengan cara mengumpan balikkan sinyal hasil sensing dari microphone terhadap speaker dibandingkan dengan sinyal masukannya. Sistem yang telah dihasilkan adalah sistem feedback akustik yang memiliki penguatan sebesar ? 8 - 9 dB pada frekuensi 10 Hz sampai 50 Hz, dan memiliki penguatan sebesar ? 6 - 8 dB pada frekuensi 50 Hz sampai 4 kHz.",
+  "creators": "SURYADI",
+  "contributors": "YOHANES T. D. S (Advisor 1); Indar Sugiarto (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010717/ELK/2005; Suryadi (23498074)",
+  "subjects": "AMPLIFIERS (ELECTRONICS); FEEDBACK AMPLIFIERS"
+}

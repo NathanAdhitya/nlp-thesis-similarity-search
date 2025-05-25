@@ -1,0 +1,14 @@
+{
+  "id": "47918",
+  "title": "Analisis peserta online test dengan pembentukan cluster dengan algoritma k-means dan analisis tabulasi",
+  "abstract": "PT XYZ merupakan salah satu industri tembakau terkemuka di Indonesia. PT XYZ mengelola lebih dari 25.000 karyawan tetap baik di pusat maupun pada anak perusahaan. Manajemen perusahaan memiliki program magang bertaraf internasional untuk mencari sumber daya manusia berkualitas sejak dini dan sebagai wadah employer branding. Program magang dipromosikan ke seluruh universitas di Indonesia dengan tahap seleksi awal menggunakan online tes. Perusahaan ingin mengetahui pengelompokan yang terbentuk berdasarkan data tes tahap pertama yaitu Situational Judgment Tes (SJT) dan Numerical. Pengelompokan dilakukan dengan menggunakan k-means clustering. Hasil cluster digunakan untuk mengelompokkan asal universitas mahasiswa. Hubungan antara universitas dan cluster yang terbentuk akan diuji menggunakan analisis tabulasi dan chi-kuadrat. Hasil pengelompokan terdapat 4 cluster, terdapat cluster dengan kedua nilai memiliki rata-rata tinggi. Cluster lain dengan kedua nilai rata-rata rendah dan yang lain dengan kombinasi antara keduanya. Pengelompokan menunjukkan terdapat 4 universitas yang memiliki persentase lebih besar dibanding lainnya pada cluster 2 yang memiliki nilai rata-rata tinggi. Terdapat 4 universitas yang termasuk pada cluster 1 atau kelompok dengan kedua nilai tes rendah.",
+  "creators": "KEVIN CHANDRA GUNAWAN",
+  "contributors": "Indriati Njoto Bisono (Advisor 1); Prayonne Adi S.T., M.MT. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022323/IND/2020; Kevin Chandra Gunawan (25416070)",
+  "subjects": "EMPLOYEE SELECTION; EMPLOYMENT TESTS"
+}

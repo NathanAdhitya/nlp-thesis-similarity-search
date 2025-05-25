@@ -1,0 +1,14 @@
+{
+  "id": "5529",
+  "title": "Evaluasi kinerja metode heuristik untuk meminimumkan makespan dalam penjadwalan fleksible flowshop",
+  "abstract": "Tugas Akhir ini bertujuan ingin membandingkan performance antara metode MIP dengan metode Heuristik hasil penelitian dari David HE dan Astghik Babayan (2002). Hasil makespan dari model MIP dibandingkan dengan hasil makespan dari model heuristik. Metode heuristik diimplementasikan dalam bahasa pemrograman Borland Delphi dengan pengaplikasian pada 2 kasus yang berbeda, sedangkan untuk metode MIP diiplementasikan dalam software Lingo. Data-data yang digunakan berasal dari data yang dibangkitkan dengan menggunakan software excel. Penjadwalan produksi dengan penerapan metode Heuristik akan mencapai hasil yang mendekati optimal. Selain itu rentang variasi rata-rata persentase selisih makespan untuk kasus pertama adalah sebesar 0,312 - 2,076. Sedangkan untuk kasus kedua sebesar 0 - 2,293. Untuk kasus pertama metode MIP memiliki waktu running lebih cepat jika dibandingkan metode heuristik (100 persen), dan untuk kasus kedua metode MIP memiliki waktu running yang lebih cepat hanya sebesar 13,33 persen jika dibandingkan dengan metode heuristik.",
+  "creators": "ALEXANDRA JACKLYN",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Herri Christian Palit (Advisor 2); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011150/IND/2007; Alexandra Jacklyn (25402062)",
+  "subjects": "PRODUCTION PLANNING; SCHEDULING"
+}

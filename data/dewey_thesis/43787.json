@@ -1,0 +1,14 @@
+{
+  "id": "43787",
+  "title": "Optimasi desain struktur portal baja dengan metode metaheuristik",
+  "abstract": "Studi ini menulusuri performa algoritma metaheuristik dalam mengoptimasi struktur portal baja. Algoritma yang digunakan dalam penelitian ini termasuk particle swarm optimization (PSO), differential evolution (DE), teaching–learning-based optimization (TLBO) dan symbiotic organisms search (SOS). Tiga struktur yang akan dianalisa berupa portal 1 bentang 8 lantai, 2 bentang 3 lantai dan 3 bentang 15 lantai. Hasil optimasi dibandingkan dengan studi yang telah dilakukan sebelumnya untuk memastikan validitas program yang telah dibuat. Lalu ketiga struktur diberi batasan sesuai dengan peraturan AISC 2001 (LRFD Specification for Structural Steel Buildings). Hasil eksperimen yang didapat menunjukkan bahwa SOS adalah algoritma yang paling bisa diandalkan dalam mengoptimasi struktur portal baja. SOS memiliki standard deviasi terendah dan konvergensi tercepat untuk semua struktur yang ditinjau. Namun DE adalah algoritma yang paling efisien dalam meraih berat struktur minimum",
+  "creators": "GIANNINA ALLAN TJIPTARAHARDJA",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Doddy Prayogo S.T. (Advisor 2); Ir. Soehendro Ratnawidjaja, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012251/SIP/2018; Giannina Allan T. (21414203)",
+  "subjects": "BUILDING, IRON AND STEEL; STEEL, STRUCTURAL"
+}

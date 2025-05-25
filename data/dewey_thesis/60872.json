@@ -1,0 +1,14 @@
+{
+  "id": "60872",
+  "title": "Sistem pengendalian posisi robot lengan 4 Axis dengan antarmuka manusia dan mesin",
+  "abstract": "Revolusi Industri 4.0 adalah program pemerintah Indonesia yang bertujuan untuk mendorong perkembangan industri dalam negeri agar dapat bersaing secara global. Salah satu aspek penting dalam era ini adalah peningkatan kemampuan sumber daya manusia (SDM). Oleh karena itu, penelitian ini dilaksanakan dengan tujuan untuk merancang modul pembelajaran sistem pengendalian posisi robot lengan 4 axis dengan antarmuka manusia dan mesin sehingga dapat meningkatkan kemampuan SDM serta efisiensi dan akurasi dalam berbagai aplikasi industri. Penelitian ini melibatkan pengembangan perangkat keras dan lunak. Perangkat keras mencakup desain casing HMI menggunakan printer 3 dimensi, sementara perangkat lunak melibatkan pengembangan tampilan HMI, pemrograman Arduino Mega 2560 untuk mengelola komunikasi antara HMI dan robot lengan. Komunikasi antara HMI ke Arduino dan Arduino ke robot lengan menggunakan komunikasi serial UART. Selain itu, proyek ini membahas integrasi sistem HMI ke dalam kontrol robot dan pengujian untuk memastikan sistem berfungsi dengan baik. Pengujian sistem dilakukan melalui beberapa tahap, seperti pengujian integrasi HMI, pengujian manipulator, dan pengujian proses perpindahan dan penempatan objek. Data pengujian menunjukkan bahwa sistem mampu mengendalikan posisi robot dengan akurasi yang baik. Pada pengujian objek berwarna merah, nilai modus pergeseran objek adalah 10 mm, dengan rata-rata pergeseran sekitar 10.62 mm. Hasil pengujian ini menunjukkan bahwa sistem yang dirancang memiliki kinerja yang baik dalam mengendalikan posisi robot lengan 4 axis dengan HMI.",
+  "creators": "GEORGE GLENN KAMOLIE",
+  "contributors": "Handry Khoswanto (Advisor 1); Thiang (Advisor 2); Handy Wicaksono (Examination Committee 1); Resmana Lim (Examination Committee 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011064/ELK/2024; George Glenn Kamolie (C11200022)",
+  "subjects": "ARDUINO (PROGRAMMABLE CONTROLLER); ROBOTICS; ROBOTS--PROGRAMMING"
+}

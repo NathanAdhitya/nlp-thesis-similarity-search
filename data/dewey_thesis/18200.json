@@ -1,0 +1,14 @@
+{
+  "id": "18200",
+  "title": "Metode modified sequential untuk analisis struktur akibat beban gravitasi pada bangunan tinggi",
+  "abstract": "Pembebanan struktur akibat beban gravitasi dengan cara memberikan beban pada model struktur yang sudah selesai mengakibatkan akumulasi perpendekan kolom yang sebenarnya tidak terjadi. Akumulasi perpendekan kolom pada bangunan tinggi dapat mengakibatkan perbedaan perpendekan dua kolom yang berdampingan sehingga akan menimbulkan tambahan gaya pada balok yang menghubungkan kedua kolom tersebut. Dengan demikian analisa struktur dengan cara ini tidak memberikan gambaran yang sebenarnya. Untuk menghindari hal tersebut digunakan pembebanan secara Sequential, dimana analisa dilakukan terhadap model struktur dan pembebanan sesuai dengan tahapan pembangunan. Tidak semua program analisa struktur mempunyai fasilitas untuk melakukan analisa secara Sequential. Jika perhitungan dilakukan dengan program standard, akan dihadapi kesulitan-kesulitan seperti jumlah lantai yang berbeda untuk setiap tahap pembebanan sehingga akan mengalami kesulitan pada waktu melakukan superposisi setiap tahap pembebanan. Dalam penelitian ini diusulkan dua buah modifikasi terhadap metode Sequential, dimana analisa dilakukan terhadap model struktur yang sudah selesai dengan pembebanan bertahap. Pada cara yang pertama, Modified Sequential A, superposisi hasil perhitungan hanya dilakukan pada struktur dari lantai yang dibebani kebawah ;(atau gaya dalam yang didapat pada struktur diatas level lantai yang dibebani, diabaikan dan tidak diikutkan dalam superposisi). Pada Modified Sequential B, kekakuan diatas level lantai yang dibebani dibuat nol. Penelitian ini membandingkan kedua metode Modified Sequential dengan metode Sequential. Untuk membandingkan ketiga metode tersebut, ditinjau empat buah bangunan tipikal yaitu sebuah bangunan berlantai sepuluh yang mewakili struktur portal terbuka, dan dua bangunan berlantai 30 dan sebuah bangunan berlantai 40 yang mewakili bangunan yang memiliki struktur dinding geser. Hasil penelitian menunjukkan bahwa metode Modified Sequential B memberikan hasil yang sama persis dengan metode Sequential. Sedangkan metode Modified Sequential A menghasilkan gaya dalam yang tidak jauh berbeda dengan metode Sequential. Pada metode Modified Sequential A, untuk bangunan yang lebih tinggi akan mempersingkat waktu pemasukan data karena dapat dibuat satu bangunan dengan banyak kondisi pembebanan.",
+  "creators": "GUNAWAN THIOPELUS; YOPPIE GOWINDA",
+  "contributors": "Takim Andriono (Examination Committee 1); Benjamin Lumantarna (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 872 S; Gunawan Thiopelus (21494138), Yoppie Gowinda (21494177)",
+  "subjects": "STRUCTURAL ANALYSIS (ENGINEERING)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "41016",
+  "title": "Otomatisasi pengolahan data dan perancangan dashboard di PT X",
+  "abstract": "Permasalahan yang dihadapi oleh Departemen XYZ di PT X adalah berkaitan dengan pengolahan data XYZ Program. Waktu untuk pengolahan data enam proses, yaitu lookup status toko, lookup stock flag, lookup visit, lookup form, adjustment, dan lookup compile revisi adalah 160,41 menit atau sekitar 2,5 jam. Tingkat validasi data untuk mekanisme yang seharusnya menggunakan historical default masih tergolong rendah dimana untuk data minggu ke-19 yang dipakai sebagai sampel, terdapat lebih dari 5000 data atau sekitar 5% data anomali. Akar penyebab utama dari kedua permasalahan tersebut adalah belum adanya program untuk otomatisasi pengolahan data dan belum adanya historical default untuk mekanisme tertentu. Departemen XYZ juga membutuhkan sebuah dashboard yang dapat menampilkan keseluruhan data, mulai dari tingkat nasional hingga toko. Program otomatisasi dan dashboard dibuat untuk mengatasi permasalahan dan kebutuhan perusahaan tersebut. Waktu untuk melakukan enam proses tersebut dengan program otomatisasi menjadi 9,2 menit. Effort dari operator yang mengolah data juga berkurang karena hanya copy data pada template yang telah disediakan, memasukkan minggu yang akan diproses, dan klik tombol yang dibutuhkan. Data-data anomali pada mekanisme yang seharusnya menggunakan historical default juga telah difasilitasi dengan tombol Adjustment di mana tidak ada data anomali setelah proses ini dijalankan. Dashboard juga dapat mempermudah dalam melakukan analisa data mengenai pencapaian atau performance dari mekanisme-mekanisme yang ada dan melihat apakah terjadi peningkatan persentase pertumbuhan bisnis sesuai dengan tujuan perusahaan.",
+  "creators": "RIO KHARISMA TANUDIHARJO",
+  "contributors": "Siana Halim (Advisor 1); Indriati Njoto Bisono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022070/IND/2017; Rio Kharisma Tanudiharjo (25413069)",
+  "subjects": "MANAGEMENT INFORMATION SYSTEM; DATABASE DESIGN; AUTOMATION"
+}

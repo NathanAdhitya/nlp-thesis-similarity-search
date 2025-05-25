@@ -1,0 +1,14 @@
+{
+  "id": "60878",
+  "title": "Dashboard internet of things untuk pantau dan kontrol pada akuaponik",
+  "abstract": "Projek akuaponik dengan teknologi IOT (Internet of Things) akan membantu masyarakat dapat memantau dan mengontrol akuaponik dari jarak jauh. Proses pemantauan dan pengontrolan dari jarak jauh ini dapat dilakukan dengan adanya dashboard yang membantu pengguna untuk melihat kondisi akuaponik tersebut dan mengontrolnya. Pada projek Tugas Akhir ini, penulis akan berfokus mengerjakan bagian dashboard Internet of Things. Dashboard Internet of Things untuk pantau dan kontrol pada akuaponik yang dibuat dalam tugas akhir ini bertujuan untuk menampilkan kondisi oksigen dalam kolam, kekeruhan air dalam kolam, memantau kapan katub solenoid dan pompa aerator menyala serta dapat mengontrol mati/menyala secara manual pada katub solenoid dan pompa aerator. Komunikasi pada sistem ini menggunakan protkol komunikasi MQTT sebagai penghubung antara perangkat keras dengan perangkat lunak. Berdasarkan hasil pengujian, sistem ini dapat menampilkan data oksigen, kekeruhan, kondisi solenoid, konidisi aerator, dan dapat mengirim perintah berupa data ke MQTT terkait mati atau menyala pada katub solenoid dan aerator secara manual dari aplikasi. Pengolahan data dari MQTT dan aplikasi akan melibatkan server Rest API dimana server ini berfungsi untuk mengolah data dari MQTT dengan metode subscribe dan publish topik-topik, permintaan dari aplikasi, dan pengolahan database. Pada permintaan dari aplikasi akan ditujukan berdasarkan endpoint yang sudah diarahkan sehingga logika dalam server akan jalan dan melakukan sesuai dengan endpoint dan permintaan aplikasi.",
+  "creators": "KEVIN HALIM",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010160/ELK/2024; Kevin Halim (C11200009)",
+  "subjects": "DASHBOARDS (MANAGEMENT INFORMATION SYSTEMS); INTERNET OF THINGS"
+}

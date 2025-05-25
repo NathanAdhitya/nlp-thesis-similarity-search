@@ -1,0 +1,14 @@
+{
+  "id": "7583",
+  "title": "Pemodelan obyek transparan dengan menggunakan photon mapping",
+  "abstract": "Lately, the world of technology has been developing rapidly, especially in three-dimensional computer graphics development. This makes computer able to render three-dimensional objects in good image result. One of the algorithms that can produce synthetic image is called Ray Tracing. The ray tracing algorithm that supported by photon mapping algorithm is used. The ray tracing algorithm or also called ray casting is a way to trace ray that shot from a particular point, a ray is traced from camera and it checked with all object in scene to find a collision point, if it has a collision point than lightning effect is calculated at that point. although the ray tracing algorithm it self have a weakness, it is only calculate the first ray that come from a light source, this cause ray tracing algorithm can?t render a caustic effect that caused by ray that refracted by a transparent object. That weakness can be covered by photon mapping, the idea of photon mapping algorithm is to shot and trace photon from a light source and store it in a photon map, so it can be used by ray tracing algorithm to get the intensity of light. Photon mapping process increase rendering time, so kd-tree is used to store photon in photon map. A modification of kd-tree is implemented that will reduce depth of the tree. The result from this software testing can be know that ray tracing that uses photon mapping can render caustic effect from transparent or reflexive object. The modification of kd-tree cause the rendering time reduced by 0.1%-0.3% that depend on scene that rendered.",
+  "creators": "ROCKY FENTARA",
+  "contributors": "Rudy Adipranata (Advisor 1); Liliana (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000418/INF/2005; Rocky Fentara (26401121)",
+  "subjects": "COMPUTER GRAPHICS"
+}

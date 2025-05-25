@@ -1,0 +1,14 @@
+{
+  "id": "16997",
+  "title": "Perencanaan dan pembuatan pengaturan kecepatan motor DC servo menggunakan mikrokontroller 8031 dengan metode fuzzy logic",
+  "abstract": "Dari sistem kontrol konvensional yang selama ini dikenal terdapat kesulitan untuk menurunkan persamaan matematisnya. Dengan diperkenalkannya teori fuzzy logic maka kesulitan tersebut bisa dihindari karena dalam sistem fuzzy persamaan matematis diperoleh dengan menirukan aturan-aturan yang biasanya dilakukan oleh operator. Fuzzy logic kontroller yang dibuat menggunakan mikrokontroller 8031, dengan Fuzzy set output berbentuk singleton karena program assembly 8031 mempunyai keterbatasan dalam defuzzifikasi output ( Center of Area ). Agar memperoleh respon sistem yang lebih baik .diusahakan agar waktu yang diperlukan untuk pengeksekusian tiap instruksi dipersingkat. Hal ini dilakukan untuk mencegah terganggunya instruksi lainnya. Dan untuk bisa meningkatkan respon output pembacaan data dari frekuensi counter harus diperhatikan yaitu timing dari pembacaan data encoder motor.",
+  "creators": "JOPIE JULIANTO",
+  "contributors": "Resmana Lim (Examination Committee 1); HERLIANTO TENGGARA (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/032/377; Jopie Julianto (23492111)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; FUZZY LOGIC; INTEL 8031 (MICROCONTROLLER)"
+}

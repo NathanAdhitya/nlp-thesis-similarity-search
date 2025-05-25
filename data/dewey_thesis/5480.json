@@ -1,0 +1,14 @@
+{
+  "id": "5480",
+  "title": "Perancangan dan pembuatan perangkat lunak pendukung pengambilan keputusan untuk sistem informasi penjualan dan pembelian dengan menggunakan OLAP pada perusahaan \"X\"",
+  "abstract": "Sistem informasi yang diterapkan pada Perusahaan \"X\" merupakan gabungan antara sistem manual dan aplikasi basis data sederhana. Hal ini terlihat dari sistem transaksi pembelian dan penjualan masih menggunakan catatan manual dan dipadukan dengan aplikasi basis data sederhana untuk menyimpan data dan membuat laporan bagi pimpinan perusahaan. Hal ini dinilai memperlambat proses pengambilan keputusan, tidak efisien, dan memperbesar resiko kesalahan manusia. Berdasarkan latar belakang permasalahan yang dihadapi oleh Perusahaan \"X\", maka dilakukan perancangan dan pembuatan perangkat lunak pendukung pengambilan keputusan dengan menggunakan OLAP berbasis data warehouse dengan menggunakan Borland Delphi 7 sebagai bahasa pemrograman dan desain interfacenya, Microsoft SQL Server 2000 sebagai fasilitas / tempat penyimpanan data, Microsoft Visual Basic 6.0 dan Microsoft Excell 2000 untuk menampilkan informasinya. Informasi yang dihasilkan dari sistem tersebut adalah pengukuran data penjualan dari dimensi produk, dimensi customer, dimensi waktu dan dimensi salesman, pengukuran data piutang dari dimensi customer dan dimensi waktu, pengukuran data pembelian dari dimensi produk, dimensi supplier dan dimensi waktu, dan pengukuran data utang dari dimensi supplier dan dimensi waktu.",
+  "creators": "RICHARD",
+  "contributors": "RULLY SOELAIMAN (Advisor 1); Silvia Rostianingsih (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000189/INF/2004; Richard (26400138)",
+  "subjects": "DATA BASE DESIGN; DATA BASE MANAGEMENT"
+}

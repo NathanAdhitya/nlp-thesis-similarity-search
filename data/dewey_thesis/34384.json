@@ -1,0 +1,14 @@
+{
+  "id": "34384",
+  "title": "Pembuatan model quadcopter yang dapat mempertahankan ketinggian tertentu",
+  "abstract": "Quadcopter merupakan salah satu topik pembelajaran yang akan dilakukan oleh Laboratorium Elektronika Universitas Kristen Petra. Pembelajaran yang dilakukan melingkupi karakterisitik kestabilan terbang pada Quadcopter serta pertahanan terbang yang dilakukannya. Quadcopter menggunakan PID controller untuk melakukan keseimbangan terbang melalui pembacaan sudut oleh sensor MPU6050. Terdapat sensor SRF02 sebagai pendeteksi ketinggian yang juga menggunakan PID controller dalam mempertahankan ketinggian. Selain itu Quadcopter juga menggunakan remote control untuk keamanan operasional. Melalui pengujian MPU6050 diperoleh error sudut oleh sumbu putar x (roll) yaitu 2° dan y (pitch) yaitu -3° yang dirata-rata dengan jumlah data dari take off, menjaga ketinggian, hingga landing. Pertahanan terbang mengalami osilasi namun tetap berada pada batas bawah toleransi. Pertambahan nilai RPM propeller dari kisaran 2000 RPM hingga 10.000 RPM.",
+  "creators": "WILI KUMARA JUANG",
+  "contributors": "Handry Khoswanto (Advisor 1); Lauw Lim Un Tung (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010948/ELK/2015; Wili Kumara Juang (23411026)",
+  "subjects": "PID CONTROLLERS; ARDUINO (PROGRAMMABLE CONTROLLER)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "57264",
+  "title": "Sistem smart compartment penerimaan barang berbasis IoT dengan menggunakan Raspberry pi",
+  "abstract": "Pembelian online sudah menjadi hal yang sangat umum dalam kehidupan sehari-hari. Terutama pada masa covid, terdapat kenaikan pembelanjaan online sebesar 26 persen. Hal terpenting dalam sistem jual beli online adalah sistem penerimaan barang, sistem penerimaan saat ini masih mengharuskan pembeli dan pengantar untuk bertemu. Selain dari itu seringkali jika tidak ada yang dapat menerima barang tersebut akan diletakkan di daerah rumah ataupun dilemparkan kedalam area rumah. Sistem seperti ini memiliki kelemahan yaitu barang yang diantarkan akan dapat diambil oleh orang lain dan jika dilemparkan kedalam akan ada kemungkinan rusaknya barang saat diantarkan. Hal ini pastinya akan dapat merugikan dari segi pembeli dan pengantar. Oleh karena itu dibutuhkan teknologi yang dapat membantu pembeli dalam penerimaan barang saat sedang tidak ada di rumah dan untuk mencegah adanya pencurian maupun kerusakan pada barang saat penerimaan. Berdasarkan masalah tersebut dibutuhkan suatu sistem yang dapat menerima barang saat pengguna sedang tidak ada di rumah, memastikan keamanan barang, dan dapat memonitor aktivitas pada compartment. Sistem ini dibuat menggunakan Raspberry pi dan aplikasi berbasis android. Sistem ini dapat mendeteksi jika ada yang membuka atau menutup pintu compartment, mendeteksi barang datang, mengamankan barang serta memberikan data kepada pengguna berupa waktu dan foto daerah sekitar loker. Pengguna akan mendapatkan notifikasi jika terjadi aktivitas pada compartment. Selain dari itu compartment juga dilengkapi dengan fingerprint sensor dan solenoid doorlock untuk mencegah pengambilan barang dari orang yang tidak diinginkan. Didapatkan persentase keberhasilan sebesar 100 persen untuk pendeteksian barang dengan ukuran 30 cm, 80 persen untuk pendeteksian barang sebesar 20 cm, dan didapatkan response time untuk pengiriman notifikasi pada kisaran waktu 4.23 detik hingga 6.95 detik.",
+  "creators": "JANITRA RHESA",
+  "contributors": "Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 1); Resmana Lim (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022310/INF/2023; Janitra Rhesa (C14180103)",
+  "subjects": "ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); INTERNET OF THINGS; RASPBERRY PI (COMPUTER)--PROGRAMMING"
+}

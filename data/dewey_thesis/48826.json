@@ -1,0 +1,14 @@
+{
+  "id": "48826",
+  "title": "Sistem monitoring solar charge controller menggunakan Raspberry Pi 3 secara mobile",
+  "abstract": "Pemantauan pengisian sumber daya menggunakan panel surya sangat penting dilakukan untuk mengetahui proses pengisian sumber daya. Pada penelitian yang sebelumnya sudah dilakukan penelitian mengenai proses monitoring, namun proses monitoring-nya masih bergantung pada software lain, dan tentu masih terbatas tidak bisa dilakukan pemantauan secara mobile. Pada skripsi ini akan dilakukan pemantauan perangkat solar charge controller (scc) dimana user tidak lagi bergantung pada aplikasi/ software tambahan dan juga dapat dilakukan secara mobile baik lewat PC/smartphone. Dalam perangkat solar charge controller sendiri terdapat software bawaan dari pabrik guna untuk proses monitoring data, namun penggunaan aplikasi ini sangat terbatas pada sistem perkabelan dan tentunya proses monitoring tidak dapat dilaksanakan secara mobile. Skripsi ini bertujuan untuk dapat melakukan proses monitoring secara mobile menggunakan Raspberry Pi, dimana pengguna tidak lagi terbatasi dengan kabel dan monitoring dapat dilakukan dalam satu aplikasi berbasis mobile web application, sehingga pengguna juga dapat melakukan proses monitoring dari website secara desktop dan juga melalui perangkat smartphone. Melalui hasil pengujian yang sudah dilakukan, dapat disimpulkan bahwa proses monitoring dapat dilakukan secara online menggunakan bantuan perangkat Raspberry Pi dan modbus rs485 dalam aplikasi mobile web application. Parameter daya yang diambil aplikasi adalah: solar voltage, solar current, battery voltage, charge current, dan load power. Aplikasi juga mampu menjalankan/melakukan pemantauan beberapa perangkat yang ada, atau lebih dari satu perangkat dalam satu aplikasi. Dalam pengujian skripsi ini menggunakan 1 perangkat scc dan untuk perangkat lainnya menggunakan virtual device. Hasil persentase error dari pengukuran monitoring perangkat adalah pembacaan data parameter voltasi solar voltage memiliki tingkat akurasi 99,26% dengan rata-rata selisihnya 0,1 V, solar current memiliki tingkat akurasi 95,6% dengan rata-rata selisihnya 0,03, dan battery voltage memiliki akurasi 96,31 dengan rata-rata selisihnya 0,18V.",
+  "creators": "ALDO KRIS BARLIANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Resmana Lim (Advisor 2); Andreas Handojo (Examination Committee 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022017/INF/2021; Aldo Kris Barlianto (26416064)",
+  "subjects": "RASPBERRY PI (COMPUTER)--PROGRAMMING; MOBILE APPS"
+}

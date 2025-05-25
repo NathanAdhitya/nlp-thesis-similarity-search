@@ -1,0 +1,14 @@
+{
+  "id": "15670",
+  "title": "Perencanaan produksi dengan algoritma wagner whit in dan batasan kapasitas gudang di PT \"X\"",
+  "abstract": "Perencanaan produksi merupakan hal yang mutlak diperlukan bagi perusahaan bila ingin memenuhi permintaan yang tepat waktu terhadap konsumen dan meningkatkan daya saing terhadap perusahaan lain. Melalui penelitian ini, penulis melakukan perencanaan produksi di PT. 'X' dengan langkah meramalkan permintaan satu tahun melaui analisa permintaan selama 8 tahun dengan metode peramalan Box-Jenkia Kemudian hasil peraraalannya direncanakan melalui algoritma Wagner Whitin untuk menghasilkan biaya minimum terhadap biaya setup dan holding dengan memperhatikan adanya kendala kapasitas mesia Hasil dari algoritma Wagner whitin berupa kuantitas produksi dan kuantitas simpan kemudian disesuaikan dengan kapasitas gudang yang tersedia di perusahaan. Dengan menggunakan metode Lagrange didapatkan kuantitas penyimpanan yang sesuai dengan kapasitas gudang. Hasil akhirnya adalah menjalankan kembali algoritma Wagner whitin dengan memasukkan kapasitas gudang sebagai batasannya Melalui hasil dan analisa yang diperoleh maka disimpulkan bahwa semua tipe produk dari perusahaan dapat diramalkan dengan metode peramalan Box-Jenkin, dan melalui algoritma Wagner whitin diketahui juga bahwa tidak ekonomis bila memproduksi tiap bulannya dengan kapasitas maksimal. Dan dari hasil metode Lagrange dengan menjalankan kembali algoritma Wagner whitin didapatkan kuantitas penyimpanan dan kuantitas produksi yang optimal dari segi biaya setup, holding dan kapasitas gudang.",
+  "creators": "KALPIN TARIGAN",
+  "contributors": "Maja Indahwati (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 248/TI-74/1999; Kalpin Tarigan (25495013)",
+  "subjects": "ALGORITHMS; PRODUCTION PLANNING-MATHEMATICAL MODELS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "29880",
+  "title": "Rancang bangun sistem informasi pembelian, penjualan, penghitungan harga pokok produksi untuk mendukung proses bisnis pada UD Sakti Mega Scale",
+  "abstract": "Sistem Informasi Pembelian, Penjualan, Penghitungan Harga Pokok Produksi pada UD Sakti Mega Scale saat ini masih menggunakan sistem manual. Banyaknya tipe dan model timbangan elektronik beserta aksesorisnya dan pengimporan barang yang dilakukan dari waktu ke waktu menyebabkan kendala tersendiri jika system berbasis manual masih digunakan. Hal itu mengakibatkan kesalahan utama dalam aktivitas kerja seperti pencatatan data dan perubahan penghitungan harga pokok yang tergantung pada mata uang pada saat pembelian barang tersebut. Sistem manual menyebabkan proses kerja menjadi tidak praktis dan tidak efisien. Untuk mengatasi permasalahan tersebut, maka dibutuhkan suatu sistem baru yang dapat menggantikan sistem yang dipakai saat ini yaitu mengubah sistem manual menjadi sistem komputerisasi. Sistem administrasi pembelian, penjualan, penghitungan harga pokok produksi diwajibkan dapat diakses kapan dan di mana pun pemilik berada, sehingga sistem yang menunjang yaitu berbasis online. Selain itu, untuk membantu dan memahami klasifikasi jenis dan kategori barang, maka diperlukan adanya taksonomi untuk data barang yang ada. Program ini menggunakan Yii framework. Hasil dari pembuatan program ini adalah mengoptimalkan pendataan dalam proses pembelian, penjualan, penghitungan harga, dan untuk menyimpan waktu apabila pendataan dilakukan secara komputerisasi. Program juga dapat menghasilkan laporan yang di antaranya laporan penjualan, laporan pembelian, laporan hutang dan piutang, laporan stok, laporan laba rugi, dan laporan produksi. Pekerja yang diberi akses untuk menjelajahi sistem komputerisasi ini memiliki user ID sendiri untuk melancarkan pekerjaan di kantor. Tujuan dari aplikasi ini adalah untuk meningkatkan efektivitas dan efisiensi perusahaan.",
+  "creators": "MEGAWATI KWANDITANTO",
+  "contributors": "Yulia (Advisor 1); Andy Febrico Bintoro (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021342/INF/2014; Megawati Kwanditanto (26410049)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); MANAGEMENT INFORMATION SYSTEMS"
+}

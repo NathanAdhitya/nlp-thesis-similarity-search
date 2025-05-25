@@ -1,0 +1,14 @@
+{
+  "id": "9173",
+  "title": "Perancangan dan pembuatan perangkat lunak untuk implementasi proyeksi parallel dan perspective",
+  "abstract": "Dewasa ini banyak perangkat lunak yang dikembangkan untuk mengolah obyek tiga dimensi. Agar obyek-obyek tiga dimensi tersebut dapat ditampilkan dengan riil pada layar monitor yang mempunyai dua dimensi, digunakanlah proyeksi. Proyeksi dua macam yaitu parallel dan perspective. Pada perangkat lunak ini dilakukan pembuatan sebuah alat bantu yang digunakan untuk melihat obyek tiga dimensi pada bidang dua dimensi secara riil. Proyeksi yang ditampilkan adalah 1-point perspective, 2 nd kind of vanishing point, 3 rd kind of vanishing point, Multiple planes - first angle, Multiple planes - third angle. Perangkat lunak ini juga dilengkapi dengan fasilitas printing, serta hasil proyeksi dapat dieksport dalam bentuk pdf. Perangkat lunak yang dikembangkan berjalan pada sistem operasi MacOSX Tiger dengan mengintegrasikan openGL API dengan framework Cocoa. Hasil proyeksi yang ditampilkan dapat dipenuhi dengan mengubah parameter proyeksi.",
+  "creators": "JULIUS JUARSA",
+  "contributors": "Rudy Adipranata (Advisor 1); Liliana (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000491/INF/2006; Julius Juarsa (26401208)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

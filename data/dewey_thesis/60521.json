@@ -1,0 +1,14 @@
+{
+  "id": "60521",
+  "title": "Generasi data multi-label menggunakan metode sampling single-to-multi-label untuk klasifikasi gangguan mental teks media sosial dengan varian dari BERT",
+  "abstract": "Peningkatan penggunaan media sosial telah menyebabkan lonjakan dalam jumlah teks terkait gangguan mental yang diunggah secara online, namun deteksi otomatis gangguan mental melalui teks ini masih menghadapi berbagai tantangan, khususnya ketika seseorang memiliki kemungkinan mengalami lebih dari satu gangguan mental. Penelitian ini bertujuan untuk mengembangkan metode generasi data multi-label yang akan digunakan sebagai dataset pelatihan model varian BERT untuk klasifikasi multi-label pada teks terkait gangguan mental di media sosial. Data teks yang diperoleh dari platform Reddit dikumpulkan, di-preprocess, dan dibagi menjadi set pelatihan, validasi, dan pengujian. Model klasifikasi biner dikembangkan menggunakan berbagai arsitektur, termasuk LSTM, BiLSTM, kombinasi CNN LSTM, dan kombinasi CNN BiLSTM, dengan memanfaatkan library Keras dan TensorFlow. Selanjutnya, model generatif data dibangun menggunakan model pretrained Causal Language Model dan Conditional Generation Model dengan bantuan library Transformer. Metode sampling yang diusulkan mengkombinasikan model klasifikasi biner, model generatif data, dan algoritma Metropolis-Hasting untuk memilih data multi-label yang sesuai dengan target. Data multi-label yang dihasilkan kemudian digunakan untuk melatih model varian BERT. Hasil penelitian menunjukkan bahwa kombinasi arsitektur CNN dan BiLSTM sangat efektif dalam klasifikasi biner teks dengan variasi yang tinggi. Model generatif Conditional Generation Model berhasil menghasilkan teks yang memiliki kualitas bahasa yang baik dan dapat dipahami oleh manusia. Data multi-label terbukti meningkatkan performa model varian BERT dalam tugas klasifikasi multi-label, dengan skor akurasi, presisi, recall, dan F1-score masing-masing sebesar 0.86, 0.91, 0.67, dan 0.77. Metode sampling yang dikembangkan ini terbukti dapat diterapkan untuk meningkatkan performa deteksi gangguan mental dalam berbagai teks.",
+  "creators": "JUSTIN ANDHIKA CHANDRA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1); Leo Willyanto Santoso (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022533/INF/2024; Justin Andhika Chandra (C14200106)",
+  "subjects": "DATA SETS; MENTAL DISORDERS; SOCIAL MEDIA"
+}

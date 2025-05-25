@@ -1,0 +1,14 @@
+{
+  "id": "59418",
+  "title": "Penerapan modified partial capacity design (M-PCD) dengan analisis struktur nonlinear pada bangunan sederhana di wilayah gempa Banda Aceh",
+  "abstract": "Modified Partial Capacity Design (M-PCD) adalah pengembangan dari Partial Capacity Design (PCD) yang merupakan metode perencanaan struktur alternatif dari Capacity Design (CD). Pada metode M-PCD, mekanisme keruntuhan maksimal yang diharapkan terjadi adalah partial side sway mechanism. Di setiap lantai direncanakan elemen kolom yang dijamin keelastisannya. Pada proses desainnya, digunakan 2 model. Model 1 dikenakan gempa R=8 untuk mendesain balok dan kolom plastis, model 2 dikenakan gempa R=1 untuk mendesain kolom elastis. Penelitian ini mengusulkan pemodelan kerusakan sendi plastis pada model 2 dengan menggunakan metode lumped plasticity approach. Dengan metode ini, proses desain menggunakan analisis nonlinear dan kerusakan sendi plastis dapat secara otomatis tergenerate dan distribusi gaya ke kolom elastis terjadi. Dengan begitu, diharapkan diperoleh hasil yang lebih akurat saat pengujian struktur. Metode ini juga akan dibandingkan dengan metode modifikasi inersia saat model 2. Pengujian struktur menggunakan analisis Nonlinear Dynamic Procedure (NDP) atau time history dengan level gempa desain (DBE) dan gempa maksimum (MCER = 1,5 DBE). Hasil pengujian menunjukkan mekanisme keruntuhan maksimal partial side sway tercapai pada level gempa DBE tetapi terlampaui pada level gempa MCER. Drift yang terjadi baik pada level gempa DBE dan MCER masuk dalam kriteria FEMA 273. Perbandingan dengan metode modifikasi inersia menunjukkan bahwa M-PCD dengan lumped plasticity approach lebih efisien dan akurat.",
+  "creators": "BENYAMIN TANAYA; JUSTIN MICHAEL",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Ruben Adicahya, S.T., M.T. (Advisor 2); Jimmy Chandra (Examination Committee 1); FRANSISCA WIJAYA, ST.,M.Sc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 10012731/SIP/2024; Benyamin Tanaya (B11200081), Justin Michael (B11200133)",
+  "subjects": "BEAM DYNAMICS; BUILDINGS--EARTHQUAKE EFFECTS; EARTHQUAKE RESISTANT DESIGN; STRUCTURAL ENGINEERING"
+}

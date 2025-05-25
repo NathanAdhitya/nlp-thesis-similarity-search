@@ -1,0 +1,14 @@
+{
+  "id": "45233",
+  "title": "Optimasi topologi pada permodelan strut and tie dengan metode metaheuristik",
+  "abstract": "Studi ini dilakukan untuk membandingkan kemampuan optimasi dari tiga algoritma metaheuristik yaitu Particle Swarm Optimization (PSO), Symbiotic Organisms Search (SOS), dan Ant Colony Optimization (ACO) terhadap permodelan strut and tie (STM) dengan menggunakan indeks performa. Digunakan tujuh struktur beton bertulang dengan properti material yang disesuaikan dengan studi kasus. Tujuan penelitian ini adalah mengevaluasi algoritma metaheuristik yang memiliki performa paling baik dalam mendesain permodelan STM dan penerapan perhitungan perkuatan STM pada studi kasus berdasarkan ACI 318-14. Karena algoritma metaheuristik selalu membuat permodelan STM secara acak, maka pengujian untuk setiap algoritma dilakukan sebanyak sepuluh kali untuk mendapatkan data sampel yang kemudian akan diolah menggunakan analisa statistik berupa rata-rata dan standar deviasi. Data yang telah diolah akan dibandingkan untuk melihat performa dari masing-masing metode yang digunakan. Performa algoritma terbaik akan dilihat dari indeks performa dan permodelan yang dihasilkan. Hasil penelitian menunjukkan bahwa algoritma ACO memiliki performa terbaik pada tujuh struktur dan mendekati penelitian yang dilakukan sebelumnya.",
+  "creators": "MICHAEL SANJAYA IRAWAN; YOHANES KEVIN",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Doddy Prayogo S.T. (Advisor 2); Jimmy Chandra (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012321/SIP/2019; Michael Sanjaya Irawan (21415015), Yohanes Kevin (21415014)",
+  "subjects": "CONCRETE CONSTRUCTION; CONCRETE CONSTRUCTION--TESTING"
+}

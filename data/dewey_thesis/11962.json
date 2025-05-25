@@ -1,0 +1,14 @@
+{
+  "id": "11962",
+  "title": "Sistem informasi akuntasi terhadap modul kas masuk dan kas keluar pada PT. \"X\"",
+  "abstract": "Penelitian ini merupakan studi kasus tentang audit sistem informasi akuntansi pada pengendalian aplikasi yang meliputi pengendalian input dan pengendalian output atas modul kas masuk dan kas keluar pada PT ?X?. Tujuan dari penelitian ini adalah untuk menilai apakah sistem informasi atas modul kas masuk dan kas keluar kas pada PT. \"X\" sudah memadai atau belum. Jenis data yang dikumpulkan merupakan data kualitatif yang diperoleh dari sumber internal perusahaan. Pengumpulan data untuk penelitian ini menggunakan 2 cara yaitu : dokumentasi terhadap software perusahaan, dan wawancara yang dilakukan dengan pihak internal perusahaan yaitu Accounting Manager serta karyawan pada bagian Accounting. Hasil penelitian menunjukkan bahwa pengendalian input kurang memadai, salah satunya di dalam bagian Form voucher Receipt/Payment pada field Many jikalau user salah mengentrykan data untuk receipt ke kolom payment sistem tidak memberikan warning hal ini sangat berbahaya dan bisa menimbulkan masalah yang signifikan bagi perusahaan. Sedangkan pengendalian output atas arus kas sudah baik hanya ada sedikit kelemahan yaitu tidak ada pengaturan saat terjadi print dokumen secara bersamaan dan tidak ada metode khusus untuk mendistribusikan laporan tetapi hal tersebut tidak membawa dampak yang besar bagi perusahaan.",
+  "creators": "LUCAS ANDRIANUS AFANDI",
+  "contributors": "Sri Maharsi (Advisor 1); Juniarti (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 32010040/AKT/2009; Lucas Andrianus Afandi (32405087)",
+  "subjects": "AUDITING; CASH FLOW"
+}

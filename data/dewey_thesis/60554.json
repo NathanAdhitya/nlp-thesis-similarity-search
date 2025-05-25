@@ -1,0 +1,14 @@
+{
+  "id": "60554",
+  "title": "Perbandingan random forest dan SMOTE random forest dalam meramalkan data penjualan PT MURADA untuk membantu perhitungan safety stock",
+  "abstract": "PT MURADA didirikan pada tahun 2011 dan merupakan sebuah perusahaan yang bergerak dalam bidang supplier dan distributor barang-barang industri. MURADA tidak hanya menjual barangnya secara retail, tetapi juga ke industri-industri besar. Sejauh ini PT MURADA menggunakan cara sendiri dalam menentukan berapa jumlah safety stock tiap barang yang diperlukan agar tidak merugikan perusahaan. Cara perhitungan MURADA sendiri dianggap kurang tepat karena seringkali terjadi stok berlebih atau stok kurang. Stok berlebih ini menyebabkan biaya yang dikeluarkan oleh PT MURADA berlebih, sedangkan jika stok kurang, maka akan berpotensi menjadi lose sales. Pada skripsi ini, akan dirancang solusi untuk membantu permasalahan perusahaan PT MURADA dengan membuat sistem aplikasi prediksi penjualan barang berdasarkan data historikal PT MURADA dengan menggunakan metode Random Forest dan SMOTE Random Forest untuk membantu menentukan safety stock, dan akan dilakukan perbandingan antara dua metode machine learning. Berdasarkan pengujian dapat disimpulkan bahwa metode Random Forest bisa digunakan untuk forescasting meskipun secara umum biasanya untuk kasus klasifikasi. Secara keseluruhan dari hasil pengujian, SMOTE Random Forest lebih bagus dari Random Forest biasa ketika digunakan dalam kasus ini.",
+  "creators": "PAUL HOGAN TANBUNAN",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Silvia Rostianingsih (Examination Committee 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022563/INF/2024; Paul Hogan Tanbunan (C14180116)",
+  "subjects": "INFORMATION STORAGE AND RETRIEVAL SYSTEMS; BUFFER INVENTORIES"
+}

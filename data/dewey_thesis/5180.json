@@ -1,0 +1,14 @@
+{
+  "id": "5180",
+  "title": "Perancangan dan pembuatan perangkat lunak MIDI composition tools dengan menggunakan JFugue Java API",
+  "abstract": "Dalam mengkomposisi sebuah lagu, seorang composer memerlukan beraneka ragam alat musik untuk menghasilkan karyanya. Maka diperlukan alat bantu yang dapat merepresentasikan berbagai macam alat musik untuk mengkomposisi sebuah lagu. Perangkat lunak ini dibuat dengan tujuan untuk menjadi alat bantu tersebut. Perangkat lunak ini dibuat dengan menggunakan JFugue Java API yang merepresentasikan musik kedalam bahasa pemrograman. Pemrograman perangkat lunak ini menggunakan prisip pemrograman berorientasi objek (OOP) dengan menggunakan bahasa pemrograman java, kompiler NetBeans IDE 5.5. Perangkat lunak ini menyediakan 16 track, 127 macam alat musik, pengaturan not (termasuk didalamnya adalah oktaf, durasi, dan chord), dan pengaturan tempo. Perangkat lunak juga mampu membaca, meng-edit, dan menyimpan file dalam format MIDI.",
+  "creators": "HENDRA KURNIA WIJAYA",
+  "contributors": "Kartika Gunadi (Advisor 1); Liliana (Advisor 2); Cherry Galatia Ballangan, S.Si., M.AIT. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010600/INF/2007; Hendra Kurnia Wijaya (26402027)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

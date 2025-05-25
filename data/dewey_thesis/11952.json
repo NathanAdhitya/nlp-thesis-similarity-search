@@ -1,0 +1,14 @@
+{
+  "id": "11952",
+  "title": "Analisis dan perancangan sistem informasi akuntansi terkomputerisasi atas siklus produksi pada CV. Podo Joyo di Surabaya",
+  "abstract": "Penelitian ini dilakukan atas sistem informasi akuntansi manual siklus produksi di CV. Podo Joyo yang bergerak di bidang industri plastik perlengkapan rumah tangga, dimana sistem yang ada tidak memadai untuk menyajikan informasi harga pokok produksi (COGM) beserta penyimpangannya yang akurat, tepat waktu, dan sesuai kebutuhan. Serta dokumen yang tidak memadai untuk menyediakan informasi biaya produksi secara tepat dan akurat. Tujuan penelitian ini adalah menganalisa dan merancang sistem informasi akuntansi terkomputerisasi atas siklus produksi pada CV. Podo Joyo. Manfaat penelitian ini yaitu terkumpulnya informasi, sebagai bahan pertimbangan bagi manajemen perusahaan untuk evaluasi, dan perancangan sistem informasi akuntansi terkomputerisasi atas siklus produksi pada CV. Podo Joyo. Batasan penelitian ini hanya sampai pada perhitungan harga pokok produksi atas siklus produksi pada CV. Podo Joyo. Penelitian ini merupakan penelitian deskriptif dengan rancangan penelitian berupa studi kasus dengan menggunakan jenis data kualitatif dan sumber data yang berasal dari internal perusahaan berupa data primer. Teknik analisa data yang digunakan yaitu System Development Life Cycle (SDLC) yaitu analisa sistem, desain konseptual, dan desain fisik. Dalam sistem akuntansi terkomputerisasi baru yang dirancang penulis, desain output yang dihasilkan adalah Laporan Harga Pokok Produksi, Status Produksi, Variance Bahan Baku, Variance Tenaga Kerja Langsung, dan Variance Overhead. Desain inputnya yaitu Master Barang, Master Mesin, Master Standard Jam Kerja Mesin dan Tenaga Kerja, Master Department, Master Pembebanan Overhead, Master Overhead, Master Alokasi Overhead, Bill of Material, Biaya Overhead, Master Job Schedule, Production Order, Permintaan Bahan, Hasil Produksi Mixing, Hasil Produksi Molding, Hasil Produksi Packaging, Move Tickets, dan Job Cost Sheet.",
+  "creators": "SILVIA CAROLINE CHANDRA",
+  "contributors": "Sri Maharsi (Advisor 1); Saarce Elsye Hatane (Advisor 2); Juniarti (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 32010031/AKT/2009 ; Silvia Caroline Chandra (32405065)",
+  "subjects": "ACCOUNTING-COMPUTER PROGRAMS; AUDITING"
+}

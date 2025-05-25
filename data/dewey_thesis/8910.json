@@ -1,0 +1,14 @@
+{
+  "id": "8910",
+  "title": "Peningkatan keamanan sistem parkir dengan menggunakan enkripsi data",
+  "abstract": "Enkripsi adalah salah satu teknik yang paling baik untuk menjaga kerahasiaan suatu data dalam berkomunikasi. Dengan enkripsi, suatu informasi akan menjadi sulit untuk diketahui oleh orang yang tidak berhak. Tujuan dari tugas akhir ini adalah merencanakan dan membuat model program sistem parkir yang lebih aman, difokuskan pada area parkir tertata dengan menggunakan enkripsi data dan mencetaknya ke bentuk barcode, sebagai pengganti karcis konvensional. Semua diintegrasikan ke dalam satu jaringan komputer yang memiliki basis data sebagai pendukung. Enkripsi data pada tugas akhir ini menggunakan cara symmetrical encryption. Tanda nomor kendaraan yang akan masuk ke area parkir menjadi input untuk kemudian dienkripsi dan dikonversi ke bentuk barcode. Tipe barcode yang digunakan adalah Kode 39. Barcode ini kemudian dicetak dan diserahkan kepada pengemudi kendaraan sebagai karcis parkir. Data tersebut akan dikirim ke komputer server, agar pada saat kendaraan keluar dapat diketahui berapa lama kendaraan menggunakan area parkir dan dihitung berapa biaya yang harus dibayar oleh pengguna area parkir. Server juga dapat mencatat berapa banyak kendaraan yang pernah parkir, berapa yang sedang parkir dan berapa pendapatan yang diperoleh dari parkir. Dari hasil pengujian, program dapat melakukan enkripsi dan encode terhadap tanda nomor kendaraan, dapat menyimpan dan mencari data, menghitung jumlah kendaraan yang pernah parkir dan yang sedang parkir serta menghitung pendapatan dari parkir.",
+  "creators": "DAVID SUNDORO",
+  "contributors": "Kartika Gunadi (Advisor 1); Lauw Lim Un Tung (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 01/E/KOM/010/086; David Sundoro (23495085)",
+  "subjects": "AUTOMATIC CONTROL"
+}

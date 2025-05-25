@@ -1,0 +1,14 @@
+{
+  "id": "4666",
+  "title": "Aplikasi steepest ascent hill climbing pada robot mobil",
+  "abstract": "Tugas akhir ini dibuat dengan tujuan untuk mengaplikasikan kecerdasan buatan dengan menggunakan metode steeepest ascent hill climbing pada robot mobil. Metode ini digunakan untuk penerapan dalam mencari rute yang terpendek. Dalam aplikasinya posisi tujuan dan posisi awal dari robot harus diketahui terlebih dahulu. Robot yang dipakai dilengkapi dengan penjepit dengan tujuan menjepit dan mengangkat benda yang ada pada posisi tujuan. Benda tersebut kemudian akan dibawa pada posisi awal robot. Dalam pembuatan robot ini menggunakan sebuah mikrokontroler tipe AT89S52 yang berfungsi sebagai pengatur dan pengolah data. Setiap titik persimpangan dalam area dihitung nilai jarak lurus titik tersebut terhadap titik tujuan. Metode steepest ascent hill climbing digunakan untuk mengevaluasi nilai jarak lurus tersebut. Nilai yang didapat merupakan acuan robot untuk mengambil keputusan di setiap titik persimpangan. Pada pengujian yang dilakukan, robot dapat menentukan rute berdasarkan metode steepest ascent hill climbing. Rute yang didapat bukan merupakan rute yang terpendek dikarenakan jarak antar titik persimpangan yang identik.",
+  "creators": "FERDI NINABER",
+  "contributors": "Felix Pasila (Advisor 1); Thiang (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02010839/ELK/2007; Ferdi Ninaber (23403010)",
+  "subjects": "AUTOMATIC CONTROL; MICROCONTROLLER AT 89S52"
+}

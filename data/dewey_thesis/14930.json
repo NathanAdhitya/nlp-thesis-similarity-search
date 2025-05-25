@@ -1,0 +1,14 @@
+{
+  "id": "14930",
+  "title": "Pembuatan prototipe sistem intranet untuk database alumni Universitas Kristen Petra menggunakan SQL server",
+  "abstract": "Prototipe dari sistem informasi yang dibuat disini menggunakan teknologi intranet dalam mengakses database alumni dan database mahasiswa. Database mahasiswa berisi data-data mahasiswa Universitas Kristen Petra sedangkan database alumni berisi data-data alumni Universitas Kristen Petra. Sistem Informasi 'Alumni Universitas Kristen Petra' dibuat dengan menggunakan teknologi 'Active Server Pages' yang berjalan pada 'Microsoft Internet Information Server v3.0' sebagai software pengembangan aplikasi dan menggunakan fasilitas-fasilitas yang terdapat pada software 'Microsoft SQL Server v6.5' sebagai software database server. Perangkat lunak yang dibuat akan diletakkan pada satu komputer yang berperan sebagai web server. Seorang client dapat mengakses data yang berada di database server melalui softaware web browser, yang akan mengjrimkan request ke web server. Oleh web server, request tersebut akan diterjemahkan ke perintah SQL dan kemudian dikirim ke database server. Pada database server, perintah tersebut akan dieksekusi dan hasilnya akan dikirim kembali ke web server, yang selanjutnya oleh web server akan diolah ke dalam bentuk dokumen HTML sebelum di kirim kembali ke web browser yang bersangkutan. Hasil yang diperoleh anggota alumni dari implementasi teknologi Intranet pada sistem informasi alumni antara lain kemudahan untuk mengakses berita alumni, informasi pekerjaan maupun mengakses data alumni. Selain itu seorang alumni bisa berdiskusi dan bertukar pendapat antar sesama anggota alumni melalui mailing list alumni. Dimana kesemuanya itu akan mempererat tali persaudaraan antar alumni Universitas Kristen Petra. Dari penelitian dan pengujian yang sudah dilakukan, dapat ditarik kesimpulan bahwa penyusunan sistem informasi alumni Universitas Kristen Petra dengan menggunakan teknologi Intranet merupakan solusi yang perlu dipertimbangkan untuk saat ini. Dimana proses penyebaran informasi dari pihak Universitas ke alumnus dapat dilakukan lebih cepat. Selain itu proses pengaksesan informasi alumni oleh dari pihak intern Universitas maupun dari pihak alumnus dapat dilakukan dari mana saja sepanjang memiliki koneksi ke internet.",
+  "creators": "SAMMY BOEDIJANTO SOENDORO",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/K/EL/016/038; Sammy Boedijanto Soendoro (23492008)",
+  "subjects": "INTERNET (COMPUTER NETWORK)-DATABASES"
+}

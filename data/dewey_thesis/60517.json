@@ -1,0 +1,14 @@
+{
+  "id": "60517",
+  "title": "Pembuatan 3D point cloud dengan photogrammetry dan DCGAN",
+  "abstract": "Rekonstruksi objek 3D dari gambar merupakan suatu proses yang memiliki banyak tantangan seperti variablitias objek, kompleksitasnya, dan informasi yang dapat didapatkan dari gambar. Sudah ada beberapa penelitian sebelumnya yang melakukan rekonstruksi objek 3D dari gambar tetapi metode tersebut seringkali melakukan generalisasi terhadap rekonstruksi yang dihasilkan. Penelitian ini bertujuan untuk menghasilkan 3D point cloud yang akurat hanya dengan menggunakan input multi-image dengan metode photogrammetry dan Deep Convolutional Generative Adversarial Network (DCGAN). Ground truth yang digunakan dalam penelitian ini adalah depth map hasil rendering objek dan akan dilakukan post processing untuk mengubah depth map menjadi point cloud. Metode ini menghasilkan depth map garis besar dari objek yang akan direkonstruksi dari dataset ShapeNet yang memiliki 55 kategori objek. Metode ini belum bisa mengalahkan metode yang menggunakan point cloud sebagai ground truth dan melakukan rekonstruksi dari random vector dalam evaluasi MMD-CD dan MMD-EMD. Rekonstruksi 3D objek menggunakan multi-image dapat dilakukan dengan GAN tetapi kurang baik ketika GAN digabung dengan metode photogrammetry.",
+  "creators": "CHERYL DEVINA HALIM",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022509/INF/2024; Cheryl Devina Halim (C14200182)",
+  "subjects": "PHOTOGRAMMETRY; THREE-DIMENSIONAL IMAGING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "53689",
+  "title": "Penerapan artificial neural network dan rule based classifier untuk mengklasifikasikan pendonor darah potensial pada sistem broadcast pendonor",
+  "abstract": "Darah merupakan cairan tubuh yang sangat penting untuk tubuh manusia. Terdapat banyak faktor yang menyebabkan seseorang kehilangan darah, seperti kecelakaan, anemia, dan lain-lain. Untuk mendapatkan darah, perlu adanya pendonor yang bersedia mendonorkan darahnya di UTD PMI Surabaya. Ketika kebutuhan darah meningkat dan ketersediaan darah di UTD PMI Surabaya menipis, UTD PMI Surabaya memerlukan sistem yang dapat mengajak pendonor yang memiliki kemungkinan dapat mendonorkan darahnya, sehingga darah yang dibutuhkan tercukupi dan tidak terbuang sia-sia. Oleh karena itu, dibutuhkan sebuah sistem yang dapat mendapatkan pendonor prioritas dan mengirimkan broadcast. Sistem broadcast pendonor dapat melakukan klasifikasi jenis pendonor untuk mencari pendonor potensial yang akan mendonorkan darah dan melakukan broadcast ajakan pendonor ke pendonor yang diinginkan. Klasifikasi dilakukan berdasarkan kebiasaan donor pendonor. Metode yang digunakan untuk klasifikasi adalah Rule Based Classifier dan Artificial Neural Network. Hasil klasifikasi jenis pendonor ini nantinya akan digunakan sebagai salah satu parameter pembentukan rating untuk mendapatkan rekomendasi pendonor. Parameter lain untuk pembentukan rating adalah lokasi, umur, prediksi donor dan jenis kelamin. Model pengklasifikasian dan pembuatan sistem rekomendasi akan menghasilkan list yang berisi pendonor yang sudah diurutkan berdasarkan prioritas. Pengujian dilakukan dengan membagi data sesuai dengan kondisi lingkungan pengambilan data (sebelum pandemi, saat pandemi dan gabungan dari sebelum dan saat pandemi COVID-19). Nilai MRR tertinggi didapatkan dari model ANN yang dibuat dari data gabungan 90% hasil klasifikasi menggunakan RBC dan fake data. Nilai akurasi yang didapatkan dari model sebesar 91.13% untuk training dan 91.83% untuk testing. Nilai MRR yang dihasilkan sebesar 8.07 x 10-4.",
+  "creators": "WIDYA ARDITANTI",
+  "contributors": "Andreas Handojo (Advisor 1); Tanti Octavia (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022203/INF/2022; Widya Arditanti (C14180019)",
+  "subjects": "ARTIFICIAL NEURAL NETWORKS; DATABASE DESIGN--COMPUTER PROGRAMS; NEURAL NETWORKS (COMPUTER SCIENCE)--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); RECOMMENDER SYSTEMS (INFORMATION FILTERING)"
+}

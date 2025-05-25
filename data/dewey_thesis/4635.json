@@ -1,0 +1,14 @@
+{
+  "id": "4635",
+  "title": "Perancangan dan pembuatan sistem penjualan, pembelian, dan stok pada UD \"X\"",
+  "abstract": "UD \"X\" adalah usaha dagang yang bergerak di bidang jual beli onderdil mobil. Onderdil mobil yang dijual hanya yang bermerk Isuzu dan Suzuki. Selama ini dalam menjalankan kegiatan operasionalnya, UD \"X\" sudah menggunakan komputer dengan sebuah software yang didesain khusus sesuai dengan kebutuhannya. Software tersebut telah dipakai sejak tahun 1990an, dan tidak pernah diperbaharui. Selain itu, software juga tidak memberikan fasilitas-fasilitas yang sebenarnya sangat dibutuhkan oleh pemilik, seperti laporan-laporan mengenai transaksi-transaksi yang dilakukan selama jangka waktu tertentu (mingguan atau bulanan). Hal ini membuat pemilik merasa kesulitan untuk mengetahui hal-hal yang sangat penting seperti omset penjualan dan pembelian rata-rata tiap bulan. Dalam rangka penyusunan Tugas Akhir, maka dibuat program sistem informasi yang dapat mengatasi kekurangan-kekurangan tersebut, sehingga dapat meningkatkan kinerja toko. Proses pembuatan program dimulai dari awal, yaitu analisis kegiatan pada UD \"X\", kemudian penyusunan DFD, ERD, dan pembuatan tabel sampai pada pemrograman. Sistem komputerisasinya meliputi pembelian, penjualan, stok barang dan pembayarannya. Pembuatan database menggunakan Microsoft SQL Server 7. Bahasa pemrograman yang digunakan adalah Borland Delphi 5.0. Sistem informasi pembelian, penjualan dan stok yang dibuat ini, bisa melakukan proses pembelian, penjualan dan pembayaran termasuk retur. Selain itu juga dapat menghasilkan laporan-laporan stok barang, jatuh tempo pembayaran supplier dan customer.",
+  "creators": "FIFI ARISANDI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Andreas Handojo (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000260/INF/2004; Fifi Arisandi (26499091)",
+  "subjects": "DATABASE MANAGEMENT-COMPUTER PROGRAMS; INFORMATION RESOURCES MANAGEMENT; MANAGEMENT INFORMATION SYSTEMS; DATABASE DESIGN"
+}

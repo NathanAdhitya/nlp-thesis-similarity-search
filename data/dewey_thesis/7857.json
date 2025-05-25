@@ -1,0 +1,14 @@
+{
+  "id": "7857",
+  "title": "Perancangan dan implementasi automated text summarization menggunakan hibridisasi algoritma exhaustive dan TF-IDF",
+  "abstract": "Automated Text Summarization (ATS) atau sering disebut Text Summarization, adalah sebuah proses untuk menghasilkan ringkasan/ summary dari suatu artikel tapi tetap memiliki gambaran yang akurat dari isi suatu artikel dengan menggunakan komputer. Tujuannya adalah mengambil sumber informasi dengan mengutip sebagian besar isi yang penting dan menampilkan kepada pembaca dalam bentuk yang ringkas dan sesuai dengan kebutuhan pembaca. Dengan demikian teknologi ini diharapkan dapat membantu pembaca untuk menyerap informasi yang ada dalam artikel lewat ringkasan/ summary. Suatu artikel yang memiliki ukuran yang panjang, akan mengakibatkan pembaca akan sangat kesulitan bila harus membaca dan menyerap semua informasi dari artikel tersebut. Text Summarization akan menghasilkan suatu produk teks yang tetap memiliki/ mengandung bagian-bagian yang penting dari artikel asli. Aplikasi dibuat menggunakan Microsoft Visual Basic 6.0. Konsep utama dalam pengembangan Text Summarization ini adalah menggunakan konsep Virtual Graph. Untuk mendukung konsep tersebut, digunakan metode TF-IDF (Terms Frequency ? Inverse Document Frequency) dan Exhaustive algorithm. Metode TF-IDF berfungsi untuk menghitung bobot nilai dari setiap kalimat dan relasi antar kalimat. Sedangkan Exhaustive algorithm berfungsi untuk menghasilkan path dari setiap penelusuran titik-titik pada graph. Dan kemudian hasil path tersebut akan menjadi suatu summary. Hasil pengujian menunjukkan bahwa proses summary sangat bergantung pada jenis dan struktur dari artikel. Sistem akan menghasilkan summary yang baik bila jenis artikel yang diproses adalah jenis ilmiah argumentasi. Sedangkan untuk struktur artikel, bila suatu artikel memiliki banyak paragraf dan disetiap paragraf memiliki lebih dari dua kalimat maka mendapatkan hasil summary yang baik.",
+  "creators": "STEVANUS RONALD RIANTONO",
+  "contributors": "Rolly Intan (Advisor 1); Gregorius Satiabudhi (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010568/INF/2006; Stevanus Ronald Riantono (26404155)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

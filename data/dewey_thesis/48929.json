@@ -1,0 +1,14 @@
+{
+  "id": "48929",
+  "title": "Sistem kontrol water dispenser dengan menggunakan perintah suara",
+  "abstract": "Dunia semakin memanfaatkan otomatisasi dalam banyak aspek, salah satunya dapat diterapkan pada Dispenser yang banyak digunakan oleh masyarakat. Sejauh ini sudah banyak yang mengembangkan metode-metode dalam Dispenser menggunakan perintah suara. Metode-metode tersebut bisa beragam, baik menggunakan Google Voice, Handphone, ataupun dengan metode lainnya. Dalam Tugas Akhir ini, dispenser dengan menggunakan perintah suara yang dikembangkan penulis menggunakan metode Voice Recognition Module V3 tanpa menggunakan jaringan wi-fi. Modul Voice Recognition menerima perintah dari Arduino UNO, yang kemudian diteruskan dan dikirim ke relay, motor pump, flow sensor, dan rangkaian lainnya yang dibutuhkan pada Dispenser. Jadi seluruh rangkaian pertama diprogram oleh Arduino UNO sendiri untuk menjalankan dan memberikan perintah pada Voice Recognition Dispenser. Berdasarkan hasil pengujian, Voice Recognition Dispenser dapat menerima perintah dari pengguna dengan baik. Namun, Voice Recognition Module V3 masih kurang efektif dalam merekam perintah, hanya dapat menerima 1,5 detik.",
+  "creators": "MICHAEL AGATHON",
+  "contributors": "Thiang (Advisor 1); Handy Wicaksono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Unknown",
+  "source": "Skripsi No. 02011007/ELK/2020; Michael Agathon (23416015)",
+  "subjects": "ARDUINO (PROGRAMMABLE CONTROLLER); PROGRAMMABLE CONTROLLERS"
+}

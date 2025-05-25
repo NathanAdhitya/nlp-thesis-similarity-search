@@ -1,0 +1,14 @@
+{
+  "id": "53127",
+  "title": "Sistem monitoring jarak jauh berbasis raspberry pi pada simulator lift yang dikendalikan PLC",
+  "abstract": "Tugas akhir ini bertujuan untuk mengembangkan sistem monitoring simulator lift jarak jauh melalui internet. Lift terdiri dari dua sangkar dan dikendalikan oleh dua PLC M221. PLC berkomunikasi dengan Raspberry Pi dengan menggunakan protokol Modbus TCP yang kemudian akan diubah menjadi protokol MQTT dengan memanfaatkan NodeRed. Supaya PLC dapat terhubung dengan internet, RaspberryPi akan terhubung dengan MQTT broker yang kami letakkan di cloud. Berdasarkan hasil pengujian, sistem berhasil berkomunikasi antara PLC dengan Raspberry Pi menggunakan Modbus TCP dan dashboard dapat ditampilkan melalui web browser menggunakan MQTT untuk aplikasi lift. Waktu yang diperlukan untuk komunikasi Modbus dan MQTT relatif cepat dengan waktu 0,84 detik.",
+  "creators": "LIDO SANMARTYA",
+  "contributors": "Handy Wicaksono (Advisor 1); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011036/ELK/2022; Lido Sanmartya (C11180008)",
+  "subjects": "ELECTRONIC CONTROL; ELEVATORS; RASPBERRY PI (COMPUTER)--PROGRAMMING"
+}

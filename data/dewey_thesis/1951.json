@@ -1,0 +1,14 @@
+{
+  "id": "1951",
+  "title": "Alat pengukur kelembaban berbasis AVR menggunakan sensor RHK1AN",
+  "abstract": "Pengontrolan kelembaban udara sangat penting dalam penyimpanan bahan baku industri tertentu, karena kadar air yang berlebihan akan mempengaruhi kualitas bahan tersebut. Alat ukur kelembaban (higrometer analog) yang ada mempunyai banyak kelemahan, selain tidak dapat digabungkan dengan alat kontrol lain, juga mempunyai respon yang lambat. Tujuan dari tugas akhir ini adalah membuat alat pengukur kelembaban elektronik yang cukup presisi, namun ditinjau dari segi ekonomisnya lebih terjangkau. Disamping itu dapat digabungkan dengan alat kontrol lainnya untuk membantu kelancaran proses produksi. Sensor RHK1AN yang digunakan mempunyai output berupa resistansi, dimana sensor ini membutuhkan tegangan AC 1 Volt dan frekuensi 1 kHz. Oleh karena itu diperlukan rangkaian pengkondisi sinyal untuk menganalisa sensor. Konsep perancangan alat ini mengacu pada Mikrokontroler ATmega8535 yang di dalamnya terdapat ADC. Selain itu rancangan ini meliputi sensor suhu LM35 dan LCD sebagai tampilannya. Alat ukur kelembaban elektronik mampu mengukur kelembaban dari 20% RH sampai 80% RH untuk suhu 28 derajat C dengan ketelitian 1 %RH. Alat ini juga dapat mengukur suhu antara 0 derajat C sampai 100 derajat C dengan ketelitian 1 derajat C. Alat ukur yang dibuat mampu mendeteksi perubahan kelembaban lebih cepat dibanding dengan higrometer analog.",
+  "creators": "DJOKO LIMANTORO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010715/ELK/2005; Djoko Limantoro (23498045)",
+  "subjects": "TEMPERATURE MEASURING INSTRUMENTS; AUTOMATIC CONTROL"
+}

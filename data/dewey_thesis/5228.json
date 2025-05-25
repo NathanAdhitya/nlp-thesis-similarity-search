@@ -1,0 +1,14 @@
+{
+  "id": "5228",
+  "title": "Kontrol robot dengan menggunakan teknik wireless",
+  "abstract": "Dewasa ini seiring dengan kemajuan dan perkembangan teknologi. Banyak perangkat elektronik mengenai detektor keamanan telah dibuat. Salah satunya dengan menggunakan teknologi robot yang dapat menggantikan tugas manusia sebagai penjaga keamanan. Pada kesempatan ini, perangkat yang akan dibuat adalah sebuah robot yang dikendalikan secara wireless. Robot ini bisa di pasang berbagai sensor yang diinginkan dan menampilkan hasil pembacaan sensor pada LCD . Dalam perencanaan ini robot akan menggunakan sensor suhu DS1821 sebagai contoh aplikasinya. Untuk perangkat pendukung, robot juga dilengkapi dengan kamera yang dapat mengirimkan gambar mengenai kondisi daerah yang diinginkan. Dari hasil pengujian diketahui bahwa robot dapat dikendalikan ( dengan RF ) dari jarak 15 meter. Dan robot dapat mengirimkan informasi suhu ( yang dibaca dari sensor DS1821 ) ke unit pengendali. Dengan di pasangnya kamera wireless CCD pada robot, maka pengendali dapat melihat posisi ( lingkungan ) robot melalui televisi.",
+  "creators": "ANTONIUS WIJAYA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Handry Khoswanto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/635/ELK/2003; Antonius Wijaya (23498070)",
+  "subjects": "ROBOTS-CONTROL SYSTEMS; MOBILE ROBOTS; ROBOTS"
+}

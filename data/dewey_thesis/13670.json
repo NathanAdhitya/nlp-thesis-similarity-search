@@ -1,0 +1,14 @@
+{
+  "id": "13670",
+  "title": "Pembuatan kontrol pengaturan parkir mobil pada tempat parkir bertingkat",
+  "abstract": "Ketergantungan manusia pada sarana transportasi khususnya kendaraan pribadi makin bertambah besar untuk menunjang kegiatannya sehari-hari. Dengan semakin banyaknya jumlah kendaraan tentunya makin membutuhkan tempat parkir yang bertambah luas terutama pada pertokoan dan pusat-pusat keramaian lainnya. Sehingga kini telah banyak dibangun gedung-gedung pertokoan dan lain-lainnya yang mempunyai fasilitas parkir secara bertingkat. Pada gedung-gedung pertokoan biasanya terlihat antrian mobil yang akan masuk untuk memarkirkan mobil-nya, sehingga seringkali jalan menjadi macet, karena pengemudi masih mencari-cari tempat parkir yang ada dengan dibantu oleh petugas parkir. Maka disini dibuatlah sistem kontrol tempat parkir yang dapat membantu pangemudi dalam mempercepat memar? kirkan mobilnya sesuai dengan kapasitas tempat parkir yang ada. Secara garis besar sistem ini terdiri dari sensor Infra-red yang akan memberi inputan pulsa tegangan, Mikrokontroler 8031, Eprom 2764, Ic latch 74LS373, IC MC 1488 dan 1489 untuk mengonversi level tegangan. Sensor?sensor Infra-red disini digunakan untuk mendeteksi mobil yang lewat kemudian pulsa ini akan di hitung dan ditampilkan pada display berupa tiga buah lampu led untuk mengetahui keadaan tempat parkir. Setting point dari kapasitas tempat parkir dapat diinputkan melalui key board oleh operator, dan sistem ini akan menampilkan datanya pada monitor PC setiap kali.",
+  "creators": "MARTANATA HANDONO",
+  "contributors": "SOETIKNO (Advisor 1); Caroline Chan (Advisor 2); SUPENO DJANALI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/001/0122; Martanata Handono (485022)",
+  "subjects": "MICROCONTROLLERS; AUTOMATIC CONTROL"
+}

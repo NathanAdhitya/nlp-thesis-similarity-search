@@ -1,0 +1,14 @@
+{
+  "id": "1304",
+  "title": "Studi perhitungan aliran daya dalam sistem tenaga listrik dengan menggunakan metode algoritma genetika dan metode Newton-Raphson",
+  "abstract": "Perhitungan aliran daya dalam sistem tenaga listrik digunakan untuk menentukan parameter-parameter sistem tenaga listrik. Proses perhitungannya sendiri terkait dengan masalah optimasi sistem. Metode yang telah lama digunakan dalam perhitungan aliran daya adalah metode iterasi Newton-Raphson. Penggunaan metode Algoritma Genetika sebagai salah satu metode optimasi mampu memberikan penyelesaian bagi sistem, melalui prosedur penggunaan operator Genetika. Kedua metode ini digunakan dalam simulasi perhitungan sistem sederhana 12 Bus dari Sistem Transmisi Jawa Timur 150 KV. Metode Newton-Raphson memerlukan penggunaan matrik Jacobian untuk koreksi tegangan sedangkan pada metode Algoritma Genetika penggunaan matrik Jacobian tidak diperlukan. Waktu komputasi pada perhitungan dengan Metode Newton-Raphson jauh lebih cepat dibanding pada penggunaan metode Algoritma Genetika. Hasil yang didapat dari penggunaan tnetode Newton-Raphson diperoleh setelah melakukan 5 iterasi dengan nilai e = 0.0000054233, waktu komputasi ? 2 detik. Hasil terbaik dari penggunaan metode Algoritma Genetika pada beberapa percobaan yang telah dilakukan dihasilkan pada Pc = 1, Pm = 0.1, MaxKromosom = 100, MaxGenerasi = 600, nilai e (dinyatakan dengan nilai fitness) = 0.002575, waktu komputasi 3 jam 15 menit.",
+  "creators": "YUSAK TANOTO",
+  "contributors": "Emmy Hosea (Advisor 1); Thiang (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 01/469/ELK/2003; Yusak Tanoto (23499012)",
+  "subjects": "ELECTRIC TRANSFORMERS; ELECTRIC POWER SYSTEMS"
+}

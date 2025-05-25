@@ -1,0 +1,14 @@
+{
+  "id": "2749",
+  "title": "Desain dan pembuatan model testing center untuk latihan ujian CCNA berbasis web",
+  "abstract": "Cisco Systems, Inc. merupakan salah satu perusahaan yang bergerak dibidang penyediaan alat-alat konfigurasi jaringan dan tenaga kerja networking. Dalam rangka mempersiapkan tenaga kerja networking yang handal, Cisco menyediakan berbagai program sertifikasi, misalnya Cisco Certified Network Associate (CCNA), yang merupakan sertifikasi mengenai teknologi jaringan tingkat dasar mengenai penggunaan Cisco router dan switch pada jaringan LAN/WAN. Untuk mendapatkan sertifikasi CCNA tersebut seseorang harus mengikuti ujian sertifikasi. Dalam tugas akhir ini penulis akan mengembangkan sebuah model testing center berbasis web yang akan menyediakan fasilitas latihan untuk menghadapi ujian tersebut. Melalui sistem yang dibuat dengan memanfaatkan teknologi internet ini administrator dapat memilih kategori soal yang akan dibuat, dengan tujuan memudahkan proses monitoring bagi kemajuan peserta kelas pelatihan CCNA (student). Selain fasilitas bagi student melalui freetest, terdapat juga fasilitas bagi non student melalui paidtest, namun untuk fasilitas paidtest ini administrator tidak melakukan monitoring terhadap non student (bukan peserta kelas pelatihan CCNA). Fasilitas lain yang ada misalnya pengaturan aktivasi tes dan konfigurasi tes untuk IP address tertentu dan fasilitas history nilai bagi student dan non student. Sistem ini dikembangkan dengan teknologi PHP dan Java Script serta penggunaan MySQL sebagai database untuk menyimpan semua data yang digunakan dalam sistem. Pengujian terhadap sistem ini menunjukkan bahwa sistem dapat membantu user yang merupakan student atau non student untuk mendapatkan pelatihan mengenai jaringan komputer. Selain itu user juga mendapat gambaran mengenai bentuk ujian sertifikasi CCNA yang sebenarnya.",
+  "creators": "ASTRID WAILANDUW",
+  "contributors": "Resmana Lim (Advisor 1); Arie Wirawan Margono (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000345/INF/2005; Astrid Wailanduw (26401174)",
+  "subjects": "WEBSITES; INTERNET (COMPUTER NETWORK)"
+}

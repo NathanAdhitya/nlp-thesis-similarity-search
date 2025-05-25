@@ -1,0 +1,14 @@
+{
+  "id": "48723",
+  "title": "Sistem informasi simpan pinjam Koperasi Citra Abadi",
+  "abstract": "Kondisi saat ini, koperasi simpan pinjam Citra Abadi masih menjalankan seluruh proses bisnisnya secara manual. Pencatatan koperasi masih dilakukan secara manual dengan buku dan kertas. Akibat dari sistem yang masih manual pegawai koperasi sering kali kesulitan untuk mencari data yang dibutuhkan dengan cepat, misalnya ketika akan mencari data anggota, data simpanan dan data pinjaman.Pegawai koperasi harus mencari data tersebut dari tumpukan arsip koperasi. Hal ini juga kurang efektif dan seringkali terdapat data yang hilang. Masalah juga ditemukan saat akan menghitung laporan-laporan yang ada di koperasi, seperti laporan SHU, laporan simpanan, dan laporan pinjaman, proses perhitungan akan memakan waktu yang sangat lama karena harus mengumpulkan data secara manual yang akan dihitung satu per satu secara manual menggunakan kalkulator. Sistem informasi berbasis website HTML5 dan PHP ini dibuat dengan menggunakan Bootstrap framework dan database MySQL. Fitur yang diberikan antara lain: pendataan anggota, simpanan, pinjaman, laporan SHU, promosi, laporan Neraca, pendataan survey. Hasil yang diperoleh dari pembuatan sistem informasi ini adalah pengguna dapat mengetahui data anggota beserta simpanan dan pinjamannya, data survey, dan menerima laporan-laporan yang dibutuhkan oleh pengelola koperasi. Dari hasil kuesioner terdapat 100% pada penilaian fitur simpan dan pinjam baik, 100% pada penilaian kecepatan aplikasi baik, dan 66,7% pada penilaian keseluruhan aplikasi baik.",
+  "creators": "YUAN PRATAMA",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Alexander Setiawan (Advisor 2); Andreas Handojo (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022012/INF/2020; Yuan Pratama (26415163)",
+  "subjects": "MYSQL (COMPUTER PROGRAM LANGUAGE); DATABASE MANAGEMENT-COMPUTER PROGRAMS"
+}

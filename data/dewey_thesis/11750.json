@@ -1,0 +1,14 @@
+{
+  "id": "11750",
+  "title": "Particle swarm optimization untuk electrical load time series data forecasting",
+  "abstract": "Dalam long term forecasting (LTF) data beban listrik Jatim-Bali (2005-2007) milik Henry Kuswanto (02010848/ELK/2007) diperoleh nilai MSE sebesar 2 x10-3, sedangkan milik William (02010870/ELK/2008) diperoleh nilai MSE sebesar 1.9x10-3, dimana hasil tersebut dinilai belum maksimal. Oleh karena itu, Particle Swarm Optimization akan digunakan untuk optimasi parameter sehingga diharapkan output dari Particle Swarm Optimization merupakan global minimum. Particle Swarm Optimization digunakan untuk mengoptimasi parameter struktur jaringan neuro-fuzzy dengan algoritma training Levenberg-Marquardt algorithm (LMA). Parameter yang dioptimasi yaitu mean dan variance dari Gaussian Membership Function serta Wi dan Wo dari fuzzy model tipe Takagi-Sugeno. Jumlah particle dan range parameter yang digunakan akan disesuaikan untuk mendapatkan nilai MSE LTF yang minimum. Hasil mean, variance, Wi, dan Wo dengan MSE LTF terkecil diperoleh dari proses Particle Swarm Optimization inilah yang akan digunakan untuk long term forecasting. Parameter Particle Swarm Optimization untuk memperoleh MSE LTF terbaik sebesar 1.843x10-3 dengan jumlah particle sebanyak 18 buah, jumlah iterasi sebanyak 500 kali, range parameter sebesar 10%, dan nilai koefisien akselerasi c1 dan c2 bernilai 2.",
+  "creators": "JOENATHAN",
+  "contributors": "Felix Pasila (Advisor 1); Hany Ferdinando (Advisor 2); Thiang (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010892/ELK/2009; Joenathan (23405007)",
+  "subjects": "NEURAL NETWORK (COMPUTER SCIENCE); ARTIFICIAL INTELLIGENCE; ELECTRIC MEASUREMENTS"
+}

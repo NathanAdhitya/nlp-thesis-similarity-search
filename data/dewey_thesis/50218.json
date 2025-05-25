@@ -1,0 +1,14 @@
+{
+  "id": "50218",
+  "title": "Optimasi resource-constrained project scheduling problem (RCPSP) dengan algoritma symbiotic organisms search (SOS)",
+  "abstract": "Proyek konstruksi membutuhkan resource untuk membangunnya. Ketika resource yang dibutuhkan tidak cukup, proyek dapat terlambat dari jadwal yang sudah direncanakan. Permasalahan ini disebut juga Resource Constrained Project Scheduling Problem (RCPSP) dan penelitian ini menggunakan algoritma metaheuristik untuk menyelesaikannya. Symbiotic Organism Search (SOS) merupakan algoritma metaheuristik yang dibuat oleh Cheng dan Prayogo dapat menyelesaikan permasalahan optimasi yang rumit dalam berbagai bidang. Algoritma ini bersifat kontinu dan terdiri dari tiga fase utama, yaitu mutualisme, komensalisme, dan parasitisme. Percobaan SOS dilakukan menggunakan jadwal proyek yang sedang berjalan di Surabaya dengan membatasi resource sebanyak 75%, 50%, dan kebutuhan paling minimal dari total resource awal. Hasil percobaan algoritma SOS terbukti dapat menyelesaikan RCPSP dengan membandingkan dengan solver dari program lainnya, namun hasil pembatasan minimal lebih terlambat. Algoritma SOS lebih unggul secara waktu dan langsung mendapat hasil optimal, sedangkan solver program pembanding membutuhkan proses yang rumit dan pengulangan berulang kali sampai mendapat hasil yang optimal. Kata kunci: resource constrained project scheduling problem, optimasi, metaheuristik, symbiotic organism search",
+  "creators": "Yulius Candi",
+  "contributors": "Andi (Advisor 1); Doddy Prayogo S.T. (Advisor 2); Januar Budiman (Examination Committee 1); Ratna S. Alifen (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000299/MTS/2021; Yulius Candi (B21170015)",
+  "subjects": "CONSTRUCTION INDUSTRY--MANAGEMENT; PROJECT MANAGEMENT-ANALYSIS; PROJECT MANAGEMENT-RESEARCH"
+}

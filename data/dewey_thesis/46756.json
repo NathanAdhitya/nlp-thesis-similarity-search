@@ -1,0 +1,14 @@
+{
+  "id": "46756",
+  "title": "Optimasi inventory routing problem untuk produk yang mudah rusak dengan permintaan dan tingkat kerusakan yang dinamis",
+  "abstract": "Vendor-Managed Inventory (VMI) merupakan proses pengaturan pengadaan yang dilakukan terpusat pada pemasok untuk toko. Inventory routing problem (IRP) merupakan bagian dari VMI untuk optimasi biaya pengiriman dan persediaan. Optimasi terhadap rute pengiriman dan persediaan merupakan hal penting untuk memenuhi permintaan pasar dengan biaya yang optimal. Produk yang mudah rusak memberi tantangan terhadap persediaan. Penelitian ini membuat sebuah model inventory routing problem untuk produk yang mudah rusak dengan data permintaan dan tingkat kerusakan yang dinamis. Terdapat 3 biaya utama sebagai fungsi objektif dalam simulasi ini yaitu biaya penyimpanan produk, biaya pengiriman produk, dan biaya kerusakan produk dengan pemasok tunggal dan banyak toko. Variabel keputusan dari model ini ada 2, yaitu interval level persediaan toko dan rute pengiriman produk. Simulasi pada penelitian ini menggunakan metode Genetic Algorithm (GA) dan Particle Swarm Optimization (PSO) untuk mendapatkan solusi optimal. Terdapat 3 golongan data permintaan dengan kombinasi jumlah iterasi dan populasi pada masing-masing metode yang diuji. Faktor yang dianalisa pada hasil optimasi adalah biaya optimal dan waktu eksekusi. Hasil akhir dari simulasi ini menunjukkan bahwa data permintaan dinamis memiliki konsekuensi biaya penyimpanan yang lebih besar daripada permintaan yang bersifat statis dan semakin besar variasi permintaan menyebabkan biaya kerusakan semakin besar. Peningkatan laju kerusakan menyebabkan biaya kerusakan produk mengalami peningkatan biaya yang signifikan dibandingkan dengan biaya yang lain diikuti dengan peningkatan biaya penyimpanan, tetapi perubahan permintaan dan laju kerusakan tidak memiliki pengaruh terhadap biaya rute pengiriman.",
+  "creators": "Krisna Wahyudi",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); I Nyoman Sutapa (Advisor 2); Dr. Dra. Gan Shu San, M.Sc. (Examination Committee 1); Didik Wahjudi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01010006/MTI/2020; Krisna Wahyudi (C23180004)",
+  "subjects": "INVENTORY CONTROL; DELIVERY OF GOODS-MANAGEMENT; DELIVERY OF GOODS--COSTS"
+}

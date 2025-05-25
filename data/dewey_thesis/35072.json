@@ -1,0 +1,14 @@
+{
+  "id": "35072",
+  "title": "Pendeteksian gerak menggunakan sensor kinect for windows",
+  "abstract": "Seiring dengan perkembangan teknologi yang sangat pesat, penggunaan alat input komputer juga ikut berkembang. Bermula dari menggunakan keyboard yang memiliki pesan tertentu dari tiap tombolnya, berkembang ke layar sentuh yang membuat manusia dapat berinteraksi langsung dengan layarnya. Sekarang sedang dikembangkan teknologi di mana manusia dapat memberikan input ke komputer dengan menggunakan gesture. Pendeteksian gesture dapat menggunakan beberapa alat, salah satunya adalah Kinect. Kinect dilengkapi dengan depth sensor yang digunakan untuk mengenali dan melacak sendi-sendi tubuh manusia. Sistem yang dibuat meliputi proses skeletal tracking pada user, pendeteksian posisi tangan, dan pendeteksian gerak. Proses skeletal tracking sudah disediakan oleh Kinect SDK. Skeletal tracking tersebut berguna untuk mendeteksi posisi tangan user. Pendeteksian tangan user digunakan untuk mendeteksi gesture yang telah dilakukan oleh user. Pembuatan aplikasi ini menggunakan Microsoft Visual Studio C# WPF 2010 serta Kinect Software Development Kit. Oleh karena itu, pada skripsi ini dilakukan pembuatan aplikasi untuk melakukan pendeteksian gerak serta pendeteksian posisi tangan dalam area-area tertentu. Aplikasi ini menggunakan sensor Kinect sebagai media untuk memberi inputan. Proses dimulai dari pengecekan pergeseran posisi yang nantinya akan diidentifikasi sebagai swipe gesture. Selain itu, pendeteksian posisi tangan dalam area-area tertentu juga digunakan untuk mengetahui seberapa banyak area-area tersebut bisa disentuh, ketika pengguna berada ditengah sensor Kinect.",
+  "creators": "HARTONO",
+  "contributors": "Liliana (Advisor 1); Gregorius Satiabudhi (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021436/INF/2015; Hartono (26411121)",
+  "subjects": "KINECT; COMPUTER SOFTWARE-DEVELOPMENT; VIRTUAL REALITY-COMPUTER PROGRAM"
+}

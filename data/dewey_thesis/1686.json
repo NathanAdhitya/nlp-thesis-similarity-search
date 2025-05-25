@@ -1,0 +1,14 @@
+{
+  "id": "1686",
+  "title": "Multi kamera untuk keamanan yang dikedalikan dan dipantau melalui jaringan intranet",
+  "abstract": "Pada umumnya sistem pantauan keamanan yang ada pada saat ini menggunakan kamera CCTV yang harganya cukup mahal. Kamera CCTV yang umum dijual tidak dilengkapi dengan penggerak, sehingga untuk memantau wilayah yang cukup luas memerlukan kamera yang cukup banyak. Selain itu untuk koneksi antar kameranya diperlukan kabel yang cukup panjang. Maka dibuatlah solusi sistem pantauan keamanan yang dapat memantau beberapa wilayah secara serentak. Pemantauan ini dengan memanfaatkan webcam yang dilengkapi dengan penggerak yang mampu bergerak ke arah yang dikehendaki hingga 180? dan didapat gambaran visual tentang apa yang terjadi saat itu pada kantor yang sedang diamati. Sebagai koneksi antar webcam menggunakan jaringan intranet yang telah ada. Aplikasi ini dibuat dengan menggunakan Program Delphi, PHP, dan menggunakan web server Apache. Prototype system ini telah diuji untuk berbagai macam webcam dan komputer. Sistem ini secara efisien telah dapat menggunakan peralatan yang ada pada suatu perkantoran untuk pemantauan keamanan melalui 5 buah webcam yang dipasang ditempat terpisah dan dapat digerakkan ( 180? vertikal / horizontal ). Kualitas gambar yang dihasilkan bergantung pada pencahayaan ruangan.",
+  "creators": "DANIEL WIJAYA",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Resmana Lim (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/626/ELK/2003; Daniel Wijaya (23497015)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES; COMPUTER VISION"
+}

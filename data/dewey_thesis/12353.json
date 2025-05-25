@@ -1,0 +1,14 @@
+{
+  "id": "12353",
+  "title": "Estimasi parameter space-time modeling dengan menggunakan genetic algorithm",
+  "abstract": "Penelitian ini difokuskan pada studi literatur mengenai estimasi parameter model STARMA dengan menggunakan genetic algorithm (GA). GA adalah salah satu metode meta-heuristik yang sering digunakan dalam berbagai aplikasi. Pada aplikasi ini, yakni estimasi parameter, GA ditampikan melalui simulasi dari kombinasi-kombinasi metode seleksi dan crossover yang berbeda-beda dengan bantuan MATLAB R2008a. Kemampuan GA dalam estimasi parameter diukur berdasarkan nilai residual sum of squares dan Akaike Information Criterion (AIC) yang minimum. Kasus tindak kekerasan di 14 distrik Northeast Boston (1969-1974) digunakan untuk membandingkan performa GA terhadap algoritma estimasi yang dibangun oleh Marquardt (1963) yang digunakan oleh Pfeifer dan Deutsch (1980) dalam jurnal yang berjudul \"A Three-Stage Iterative Procedure for Space-Time Modeling\". Hasil evaluasi menunjukkan bahwa performa metode genetic algorithm cukup kompetitif sehingga genetic algorithm patut dipertimbangkan sebagai salah satu metode alternatif untuk mengestimasi parameter dalam space-time modeling.",
+  "creators": "IVONE GENDO; DENNY SUNYOTO",
+  "contributors": "Siana Halim (Advisor 1); Indriati Njoto Bisono (Advisor 2); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01011327/IND/2009; Ivone Gendo (25405009); Denny Sunyoto (25405010)",
+  "subjects": "GENETIC ALGORITHMS; PROGRAMMING (ELECTRONIC COMPUTERS); GENETIC PROGRAMMING (COMPUTER SCIENCE)"
+}

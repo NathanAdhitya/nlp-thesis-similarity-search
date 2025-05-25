@@ -1,0 +1,14 @@
+{
+  "id": "16719",
+  "title": "Perencanaan dan pembuatan digital audio decoder S/PDIF dan AES/EBU dilengkapi DE-emphasis digital, dengan 4X interpolasi filter digital dan 128X interpolasi delta sigma modulator, dengan menggunakan C",
+  "abstract": "Dipasaran saat ini banyak Compact Disc Player yang mempunyai output digital. Adapun format yang paling populer untuk output serial digital tersebut adalah AES/EBU atau S/PDIF. Dengan menggunakan Digital Audio Decoder eksternal maka sistem dapat menjadi lebih fleksibel serta dapat ditingkatkan kualitasnya. CS8412 dan CS4329 adalah salah satu chip yang dapat dimanfaatkan untuk keperluan Digital Audio Decoder. CS8412 adalah Decoder Receiver yang sesuai untuk sinyal digital dengan standar AES/EBU atau S/PDIF. Untuk mengontrol beberapa fungsi serta fasilitas yang ada pada CS8412 digunakan sebuah minimum sistem yang berbasis MC68HC11. CS4329 merupakan konverter digital ke analog yang khusus digunakan untuk digital audio. Pada CS4329 telah terdapat filter interpolasi 4 kali serta konverter D/A dengan teknik modulasi Delta-sigma. Teknik Delta-sigma merupakan teknik konversi 1 bit yang mempunyai banyak kelebihan dibanding dengan teknik konvensional. Selain itu pada CS4329 juga telah dilengkapi dengan filter de-emphasis. Dengan menggunakan filter interpolasi yang telah terdapat pada CS4329 maka tidak dibutuhkan filter lowpass analog yang berorde tinggi. Digital Audio Decoder AES/EBU dan S/PDIF dengan oversampling 4X ini mempunyai respon frekuensi yang cukup datar (flat), 1.79/+0.92 dB, pada seluruh spektrum audio (20 Hz - 20 kHz) . Op-amp yang digunakan mempunyai slew-rate yang cukup tinggi, sehingga amplitudo dari sinyal analog akan tetap linier pada seluruh spektrum audio.",
+  "creators": "HOKKY SOEWANDI",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/044/343; Hokky Soewandi (23492112)",
+  "subjects": "DIGITAL AUDIO; AUDIO CONVERTER (COMPUTER PROGRAM)"
+}

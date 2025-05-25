@@ -1,0 +1,14 @@
+{
+  "id": "15763",
+  "title": "Prototipe sistem akses email berbasiskan web internet",
+  "abstract": "Sejalan dengan berkembangnya teknologi, pertukaran informasi yang pada waktu lalu sangatlah sulit, kini mulai teratasi dengan adanya jaringan komputer internasional atau yang dikenal dengan Internet. Salah satu hasil dari teknologi yang menggunakan jaringan komputer adalah surat elektronik (electronic mail) yang lebih dikenal dengan e-mail. Sistem akses e-mail ini dibuat dengan menggunakan fasilitas internet dan World Wide Web. Keuntungan menggunakan World Wide Web antara lain adalah adanya user interface yang disertai tampilan grafis yang manis. Sistem ini sendiri dijalankan diatas platform Microsoft Windows NT Server, karena Microsoft Internet Information Server 4.0 atau IIS 4.0 yang digunakan sebagai web server dapat bekerja dengan baik bila dijalankan diatas Windows NT Server. Pemilihan IIS 4.0 sebagai web server ini, juga didasarkan oleh adanya salah satu fasilitas IIS 4.0 yang diperlukan dalam pengerjaan sistem ini yaitu protokol pengiriman pesan atau Simple Mail Transfer Protocol (SMTP) Service. Teknologi yang digunakan dalam system ini adalah Active Server Pages atau yang lebih dikenal dengan ASP. ASP merupakan salah satu teknologi dari Microsoft yang ditempelkan dalam web server. Halaman web ini berada dalam suatu web server, dimana web server ini juga dihubungkan dengan suatu database server yaitu SQL Database Server. Database server ini digunakan untuk menyimpan struktur data seperti data-data para user, baik itu data pribadi user ataupun surat-surat yang dimiliki oleh setiap user. Hasil uji coba di laboratorium menunjukkan bahwa sistem yang dibuat ini dapat berjalan dengan baik. Namun, hal yang sama belum tentu terjadi bila sistem ini dijalankan pada skala yang sesungguhnya. Hal ini disebabkan karena sistem ini tidak hanya bergantung pada perancangan sistem dan pemrograman, melainkan juga tergantung pada hardware yang digunakan.",
+  "creators": "INGRID REGINA",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/KOM/004/061; Ingrid Regina (23493101)",
+  "subjects": "INTERNET (COMPUTER NETWORKS)"
+}

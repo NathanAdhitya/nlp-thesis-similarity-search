@@ -1,0 +1,14 @@
+{
+  "id": "44323",
+  "title": "Metode pemesanan multi-item inventory dengan pertimbangan masa kadaluwarsa, unit diskon, dan kapasitas gudang di Pin'kan Bakery",
+  "abstract": "Persediaan merupakan hal yang perlu untuk dipertimbangkan dalam melakukan pemesanan. Persediaan memiliki sifat yang bermacam-macam, salah satunya adalah pesediaan dengan tingkat kemerosotan. Banyak peneliti yang telah melakukan penelitian terhadap multi-item inventory namun tidak dengan persediaan bersifat deteriorasi dan mengasumsikan permintaan konstan. Kondisi nyata yang terjadi saat ini adalah perusahaan menjual multi-item inventory dengan adanya sifat deteriorasi dan permintaan yang stokastik. Keadaan tersebut didekati dengan membangun model simlasi persediaan menggunakan data nyata di Pin'kan Bakery. Model simulasi dilakukan dengan bantuan simulasi monte carlod dan evolutionary algorithm. Penelitian ini akan membandingkan dua buah mentode pemesanan, yaitu continuous review dan periodic review. Hasil penelitian menunjukkan bahwa metode continuous review merupakan metode pemesanan yang tepat untuk pemesanan multi-item inventory dengan tingkat kemerosotan dan permintaan yang stokastik.",
+  "creators": "DANIEL REYNALD B",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022167/IND/2018; Daniel Reynald Budiman (25414063)",
+  "subjects": "INVENTORY CONTROL; SUPPLY CHAIN MANAGEMENT"
+}

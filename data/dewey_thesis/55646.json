@@ -1,0 +1,14 @@
+{
+  "id": "55646",
+  "title": "Analisis sentimen cyberbullying pada Twitter menggunakan BERT dalam upaya mengurangi terjadinya insiden Cyberbullying",
+  "abstract": "Cyberbullying merupakan tindakan perundungan yang sering terjadi di sosial media dan sudah menjadi hal yang dinormalisasikan oleh masyarakat. Penyebab dari tindakan cyberbullying ini adalah kelakuan dari pengguna-pengguna sosial media yang masih belum mengerti akan etika-etika dalam bersosialisasi saat menjelajahi dunia maya dan konsekuensi yang dihasilkan dari tindakan mereka sendiri. Alhasil, pengguna media sosial dapat dengan bebas memberikan tanggapan dan kritik mengenai suatu hal atau seseorang tanpa adanya filtering. Untuk itu, perlu adanya filter yang dimaksud seperti analisa sentimen yang digunakan untuk mendeteksi dan membatasi kalimat-kalimat yang bersentimen negatif. Pada penelitian (Saputra, n.d., 1) yang berjudul “Implementasi dan Pemodelan BERT untuk Analisis Sentimen Aplikasi Gojek pada Platform Playstore” membahas tentang penerapan BERT dalam menganalisa sentimen dari respon pengguna gojek yang ada di platform playstore. Tingkat akurasi yang diperoleh dalam penelitian tersebut sebesar 96%. Oleh karena itu, skripsi ini menggunakan metode Bidirectional Encoder Representation from Transformers (BERT) yang memiliki tingkat akurasi tertinggi dibandingkan dengan metode-metode yang digunakan dalam penelitian lainnya seperti (Khaira et al., 2020, 1) yang memberikan tingkat akurasi 60.5% menggunakan metode SentiStrength, (Maulana & Ernawati, n.d., 1) yang memberikan tingkat akurasi 76% menggunakan metode SVM. Berdasarkan hasil pengujian yang dilakukan dengan menggunakan beberapa parameter yang berbeda, model BERT dengan 8 epoch dan batch size sebanyak 64 tanpa adanya stopword removal dan stemming memberikan hasil model yang paling memuaskan dengan tingkat akurasi tertinggi pada nilai 80%, precision 78%, recall 71% dan f1 score 74%.",
+  "creators": "FELIC CAHYADI",
+  "contributors": "Hans Juwiantho S.Kom., M.Kom (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Liliana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022264/INF/2023; Felic Cahyadi (C14180194)",
+  "subjects": "DEEP LEARNING (MACHINE LEARNING); PROGRAMMING LANGUAGES (ELECTRONIC COMPUTERS)"
+}

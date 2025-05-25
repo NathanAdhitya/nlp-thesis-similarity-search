@@ -1,0 +1,14 @@
+{
+  "id": "4674",
+  "title": "Perancangan dan pembuatan sistem promosi dan penjualan barang pada PT Papasamsu",
+  "abstract": "Sistem promosi dan penjualan barang pada PT Papasamsu saat ini masih menggunakan sistem manual, yaitu dengan menggunakan sistem pengarsipan. Sistem manual ini sangat tidak efisien karena dalam setiap pemrosesan transaksi penjualan, karyawan harus melakukan banyak pengecekan terutama sehubungan dengan pemberian promosi (pengecekan promosi yang sedang berlaku, pengecekan destination, pengecekan budget). Untuk mengatasi masalah tersebut dibutuhkan suatu sistem baru untuk dapat memperbaiki sistem yang dipakai saat ini, terutama untuk mempermudah perusahaan dalam pemberian promosi kepada pelanggan. Perancangan program aplikasi ini meliputi beberapa modul, antara lain: aplikasi destination, aplikasi budget promosi, aplikasi indirect promo, aplikasi purchase order promo, aplikasi special promo dan aplikasi penjualan barang. Pembuatan program aplikasi menggunakan Borland Delphi 5 dan Microsoft Access XP untuk databasenya. Hasil dari pembuatan program ini adalah sistem promosi dan penjualan barang yang terkomputerisasi sehingga pemrosesan transaksi penjualan menjadi lebih sederhana karena semua pengecekan yang berhubungan dengan pemberian promo sudah ditangani oleh sistem. Hal ini juga dapat memperkecil human error yang biasanya banyak terjadi pada waktu proses pemberian promosi kepada pelanggan. Program juga menyediakan fasilitas analisis berdasarkan penjualan barang selama periode tertentu dan secara otomatis membuatkan kombinasi dari barang-barang tersebut untuk kemudian dapat dijadikan pertimbangan dalam pembuatan promosi di kemudian hari.",
+  "creators": "INDAH SARTIKA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Silvia Rostianingsih (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000227/INF/2004; Indah Sartika (26400016)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

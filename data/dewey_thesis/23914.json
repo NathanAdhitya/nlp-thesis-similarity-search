@@ -1,0 +1,14 @@
+{
+  "id": "23914",
+  "title": "Perencanaan dan pembuatan alat pengatur kelembaban udara rumah kaca dengan menggunakan mikroprosesor 8088",
+  "abstract": "Pada umumnya pengaturan kelembaban udara dari sebuah rumah kaca dilakukan secara manual, hal ini masih ini masih memungkinkan jika rumah kaca terus menerus diawasi secara rutin. Tetapi akan menyulitkan bila pemilik rumah kaca tersebut bepergian untuk beberaopa waktu. Dalam tugas akhir ini telah direncanakan dan dibuat alat yang dapat mengatur kelembaban udara rumah kaca secara otomastis sesuai yang diinginkan pemakai. Pengukuran kelembaban oleh alat sensor menggunakan metode psikrometer yang terdiri dari dua buah sensor suhu, satu diantaranya dihubungkan dengan kain basah(wet bulb). Kedua sensor tersebut diletakkan satu ruangan sampel udara dengan sirkulasi udara yang baik sehingga dengan demikian didapat pengukuran kelembaban udara ruangan. Sensor suhu yang digunakan adalah IC sensor suhu LH335 sebanyak dua buah. Pada pengujian peralatan didapatkan hasil output kedua sensor suhu yang linier dan presisi. Peralatan i n i dapat digunakan untuk mengatur kelembaban udara dari 60%-90%, pembatasan ini dilakukan sesuai kelembaban yang dibutuhkan tanaman.",
+  "creators": "ANDRY WIBOWO",
+  "contributors": "HANDAYANI T. (Advisor 1); Caroline Chan (Advisor 2); SUPENO DJANALI (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/016/0137; Andry Wibowo (23487099)",
+  "subjects": "ELECTRIC CONTROLLERS-DATA PROCESSING; HUMIDITY-CONTROL-DATA PROCESSING; INTEL 8088 (MICROPROCESSORS)"
+}

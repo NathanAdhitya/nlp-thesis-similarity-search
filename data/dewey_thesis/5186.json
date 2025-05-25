@@ -1,0 +1,14 @@
+{
+  "id": "5186",
+  "title": "Identifikasi gain dan bandwidth audio amplifier menggunakan MCS-51",
+  "abstract": "Di pasaran saat ini, terdapat banyak jenis audio amplifier dengan karakteristik parameter audio yang berbeda-beda. Untuk merancang suatu sistem audio amplifier yang berkualitas baik, maka perlu diketahui seberapa besar nilai dari sebuah parameter audio amplifier tersebut. Diantara parameter-parameter audio yang ada, terdapat yang namanya adalah Gain dan Bandwidth. Adapun untuk mengetahui nilai Gain dan Bandwith dari sebuah audio amplifier itu adalah dengan memakai suatu alat bantu ukur. Alat untuk mengukur Gain dan Bandwidth ini dapat dibuat dengan cara yang cukup sederhana, yaitu dengan menggunakan teknologi mikrokontroller MCS-51 dan memakai software assembly untuk membangkitkan frekuensinya. Alat ini memakai Digital to Analog Converter (DAC) type 0808, Analog to Digital Converter (ADC) type 0804, Peak Detector dan LCD sebagai displaynya. Alat ini dapat mengidentifikasi gain maksimal 40 X dan bandwidth dengan batasan 10 Hz sampai 200 KHz. Alat ini hanya bisa menampilkan gain dengan kelipatan 4 saja. Dengan menguji power amplifier 1 didapatkan error sebesar 0 %, pada power amplifier 2 sebesar 0 % dan pada bandpass filter sebesar 10 %.",
+  "creators": "VICTOR CHRISTIAN",
+  "contributors": "Felix Pasila (Advisor 1); Indar Sugiarto (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/640/ELK/2003; Victor Christian (23498106)",
+  "subjects": "AMPLIFIERS (ELECTRONICS)"
+}

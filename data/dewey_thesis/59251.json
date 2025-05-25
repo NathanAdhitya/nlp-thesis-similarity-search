@@ -1,0 +1,14 @@
+{
+  "id": "59251",
+  "title": "Penerapan metode artificial intelligence untuk prediksi biaya awal proyek konstruksi bangunan",
+  "abstract": "Melakukan perhitungan anggaran biaya merupakan salah satu hal yang penting untuk dilakukan dalam perencanaan pembangunan. Perhitungan rencana anggaran biaya tidak mudah dan membutuhkan banyak waktu dalam pengerjaannya. Pasca covid-19 pembangunan di Indonesia terus meningkat, sehingga banyak proyek yang membutuhkan perencanaan perhitungan biaya untuk mengetahui perkiraan nilai kontrak awal proyek konstruksi tersebut. Nilai awal proyek konstruksi dapat diprediksi dengan menggunakan metode artificial intelligence. Menghasilkan model prediksi yang akurat merupakan salah satu tujuan yang ingin dicapai. Metode prediksi yang digunakan dalam penelitian ini adalah artificial neural network (ANN), support vector machine (SVM), classification and regression tree (CART), dan linear regression (LR). Keempat metode tersebut akan dievaluasi sehingga didapatkan metode mana yang terbaik untuk memprediksi biaya proyek konstruksi. Dari pengumpulan data diambil 85 data yang akan digunakan. 85 data tersebut dibagi menjadi dua dataset, dataset 1 merupakan proyek dengan nilai proyek dibawah Rp 3.174.000.000 berjumlah 43 data, dan dataset 2 merupakan proyek dengan nilai awal diatas Rp 3.174.000.000 dengan 42 data. Hasilnya, pada dataset 1 metode ANN merupakan metode dengan nilai MAPE sebesar 26,12% dan R 0,9160. Pada dataset 2 hasil prediksi yang akurat yaitu ANN dengan MAPE sebesar 33,79% dengan R 0,8410. Pada hasil data normalisasi pada kedua dataset, ANN merupakan metode terbaik. Adanya normalisasi tidak memberi perubahan yang signifikan pada semua metode kecuali metode SVM. ANN merupakan metode prediksi biaya awal proyek yang terbaik.",
+  "creators": "ANASTASIA VALENTINA TANDIONO",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Jani Rahardjo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000370/MTS/2023; Anastasia Valentina Tandiono (B21220027)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--ENGINEERING APPLICATIONS; CONSTRUCTION INDUSTRY--MANAGEMENT; CONSTRUCTION PROJECTS"
+}

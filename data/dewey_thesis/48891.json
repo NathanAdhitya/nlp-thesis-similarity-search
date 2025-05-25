@@ -1,0 +1,14 @@
+{
+  "id": "48891",
+  "title": "Klasifikasi pakaian berdasarkan gambar menggunakan metode yolov3 dan cnn",
+  "abstract": "Pakaian merupakan salah satu dari kebutuhan primer manusia yang sangat dibutuhkan karena memiliki banyak fungsi. Tidak hanya untuk menutup dan melindungi tubuh, tetapi juga untuk tampil gaya dan stylish. Media masa, internet, dan media sosial merupakan tempat utama masyarakat dalam mencari inspirasi untuk tampil fashionable. Namun terkadang sulit untuk menentukan jenis suatu pakaian sehingga mudah dicari. Oleh karena itu sebuah program yang mampu membedakan dan mengklasifikasikan pakaian akan sangat membantu. Metode yang digunakan adalah You Only Look Once untuk mendeteksi objek dari pakaian pada gambar yang setelah itu akan dipotong, dan hasilnya akan di olah oleh Convolutional Neural Network dengan model arsitektur ResNet50 untuk klasifikasi. Dalam proses pelatihan dari ResNet50 akan dilakukan tuning pada berbagai macam hal yang diantaranya adalah learning rate, dropout, epoch, dense layer, freeze layer, dan data augmentation. Setelah itu dilakukan pencarian gambar dengan menggunakan k-nearest neighbor. Penelitian ini akan melakukan klasifikasi pada pakaian dalam suatu gambar yang dikenakan oleh model pada gambar. Akurasi rata-rata yang diperoleh dengan menggunakan ResNet50 yang telah di setel adalah 86,44%.",
+  "creators": "MICHAEL CHRISTIANTO WUJAYA",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022043/INF/2021; Michael Christianto Wujaya (26416126)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

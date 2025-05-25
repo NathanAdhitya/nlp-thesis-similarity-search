@@ -1,0 +1,14 @@
+{
+  "id": "27798",
+  "title": "Perencanaan dan pembuatan sistem pemanggilan terprogram menggunakan mikrokontroler keluarga MCS 51",
+  "abstract": "Perkembangan teknologi yang semakin pesat menyebabkan bidang komunikasi memegang peranan yang sangat penting. Untuk melakukan komunikasi dengan pihak luar di gedung-gedung perkantoran maupun perumahan, dapat dilakukan cukup dengan telepon. Sistem pemanggilan yang terprogram sangat membantu untuk menghemat waktu dan biaya terutama bagi pengusaha-pengusaha yang sangat sibuk, karena mereka hanya cukup mememori beberapa nomor yang akan dihubungi pada waktu-waktu tertentu sekali saja, sehingga mereka dapat melakukan pekerjaan lainnya sampai hubungan telepon terhubung secara otomatis. Sistem pemanggilan yang terprogram ini adalah suatu sistem yang menggunakan sistem autoredial untuk menghubungi beberapa nomor tujuan. Prinsip dasarnya nomor-nomor tujuan diprogramkan dalam memori-memori yang telah disediakan (dalam Tugas Akhir ini dibatasi sampai 4 memori saja). Di samping itu hubungan autoredial ini dapat dilakukan sesuai dengan jadwal yang telah ditentukan oleh pemakai. Untuk pengendalian sistemnya digunakan mikrokontroler keluarga MCS 51, dalam hal ini mikrokontroler 8031. Untuk penyimpanan memori-memori nomor telepon, serta penjalanan proses-proses lain yang dibutuhkan, maka ditambahkan beberapa keyboard tambahan yang dikendalikan dengan PPI 8255. Secara keseluruhan sistem ini merupakan suatu sistem yang cukup baik dalam pemanfaatannya, di mana fungsifungsinya dapat diganti ataupun dikembangkan dengan cara menggantikan program kontrolnya. Sistem ini telah diuji keandalannya untuk berbagai fungsi-fungsi yang telah direncanakan dan telah terbukti dapat beroperasi dengan baik.",
+  "creators": "Rosdah",
+  "contributors": "HANDAYANI T. (Advisor 2); AGUS MULYANTO (Advisor 1); Daniel Indarto Prajogo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/019/0176; Rosdah (23489017)",
+  "subjects": "TELEPHONE, AUTOMATIC; TELECOMMUNICATION-COMPUTER PROGRAMS; MICROCONTROLLER MCS 51"
+}

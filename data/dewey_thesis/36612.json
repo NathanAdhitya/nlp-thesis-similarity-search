@@ -1,0 +1,14 @@
+{
+  "id": "36612",
+  "title": "Perancangan tata letak fasilitas produksi dengan pendekatan simulasi di CV XYZ",
+  "abstract": "CV XYZ adalah perusahaan manufaktur kantong plastik HDPE (High Density Polyethylene). CV XYZ menggunakan process layout dalam penataan fasilitas produksi dan aktivitas perpindahan material dalam batch. Pada tugas akhir ini, tata letak fasilitas diubah dari process layout menjadi kombinasi product layout dan process layout. Product layout untuk bagian las potong dan inspeksi. Process layout untuk bagian mixer, ekstruder, packing 1, dan packing 2. Product layout mengubah perpindahan material secara batch menjadi one piece flow dengan material handling konveyor. Pendekatan Simulasi digunakan dalam analisis perbandingan layout awal dan layout usulan. Model Simulasi dibangun dengan software ProModel 10 dan dijalankan dalam waktu 1 tahun dengan 10 replikasi. Hasil simulasi untuk kapasitas 8.407,45kg per hari menunjukkan rata-rata work in process gudang inspeksi layout usulan berkurang 97.92% dan rata-rata waktu tunggu work in process di gudang inspeksi berkurang 96,82% dibanding layout awal. Layout usulan menghilangkan waktu tunggu dalam area penyimpanan sementara las potong 47,42 menit. Kombinasi product layout dan process layout juga telah dirancang dengan memperhatikan proyeksi perusahaan kedepan hingga kapasitas 20.177,8768kg per hari.",
+  "creators": "NAOMI MELINA TANUTOMO",
+  "contributors": "Tanti Octavia (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021866/IND/2016; Naomi Melina Tanutomo (25412063)",
+  "subjects": "PLANT LAYOUT; PRODUCTION MANAGEMENT"
+}

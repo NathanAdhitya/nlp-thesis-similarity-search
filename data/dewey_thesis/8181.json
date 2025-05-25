@@ -1,0 +1,14 @@
+{
+  "id": "8181",
+  "title": "Estimasi kepadatan dan kecepatan mobil berdasarkan sinyal video",
+  "abstract": "Mobilitas masyarakat pada jaman sekarang ini sangatlah tinggi dan diimbangi pula dengan kebutuhan transportasi cukup tinggi, yakni dapat dilihat setiap jalan raya dipenuhi dengan kendaraan roda empat (mobil). Sehingga menyebabkan arus lalu lintas menjadi padat. Kepadatan arus lalu lintas dapat pula disebabkan setiap pengendara mobil mengemudikan mobil dengan kecepatan yang berbeda-beda. Oleh karena itu dibuatlah program penghitung kepadatan dan kecepatan mobil dengan metode Normalized Sum-Squared Differences (NSSD) yang mengambil selisih jumlah pixel frame dan background kemudian dikuadratkan, dinormalisasi dengan luasan detection window. Nilai NSSD yang didapat difilter untuk mengurangi noise dan proses thresholding dilakukan untuk mendeteksi keberadaan kendaraan pada detection window dan pergeseran frame. Tugas Akhir ini dibuat dengan menggunakan Matlab 7. Hasil dari pengujian performa dengan menggunakan file video yang berbeda berdasar pada waktu pengambilan yaitu pada siang hari dan pada sore hari, menunjukkan bahwa program estimasi kepadatan menunjukkan keberhasilan, namun program estimasi kecepatan masih belum berhasil. Keberhasilan dari program estimasi kepadatan sangat dipengaruhi oleh penentuan nilai threshold yang tepat, namun program estimasi kecepatan belum berhasil dalam pembuatan programnya.",
+  "creators": "ERLINDA DEWI KUMALASARI",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010055/ELK/2007; Erlinda Dewi Kumalasari (23401003)",
+  "subjects": "COMPUTER VISION; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

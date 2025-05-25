@@ -1,0 +1,14 @@
+{
+  "id": "10683",
+  "title": "Aplikasi penjualan produk catering berbasis web",
+  "abstract": "Salah satu pemanfaatan internet dalam dunia bisnis adalah pengembangan online store dimana terjadi interaksi antara pembeli dan penjual . Konsep ini dapat pula dipakai untuk sebuah perusahaan katering dimana klien katering dapat melakukan pemesanan dan melihat informasi tagihan melalui web demikian pula dengan pemilik katering dapat melihat informasi tentang kliennya. Untuk membangun sebuah aplikasi katering berbasis web diperlukan teknologi perangkat lunak yang mendukung pembuatan situs web dinamis sehingga ada interaksi antara pembeli dan penjual. Salah satu teknologi yang menunjang adalah Active Server Pages (ASP) . Disamping itu juga diperlukan suatu sistem database untuk meyimpan data .Komponen penunjang lainnya adalah interface antara aplikasi dengan database dimana untuk ASP ini dapat digunakan ActiveX Data Objects (ADO). Pemakaian ASP terutama bahasa scriptnya hampir sama dengan bahasa Visual basic selain itu bila database menggunakan produk microsoft seperti Access maka konfigurasinya cukup mudah . Aplikasi yang dibuat mampu menghasilkan fasilitas untuk melakukan pemesanan dan melihat informasi pesanan serta tagihan yang dapat diakses melalui internet. Dalam pengembangan aplikasi lebih lanjut maka fasilitas menu dapat ditambah dengan pembatalan namun desain database menjadi lebih rumit. Perlu juga dipikirkan struktur tabel database yang mampu menghasilkan query yang cepat tetapi fungsional.",
+  "creators": "YOS RIFANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/Kom/003/060; Yos Rifanto (23492082)",
+  "subjects": "INTERNET (COMPUTER NETWORK)"
+}

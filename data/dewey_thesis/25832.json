@@ -1,0 +1,14 @@
+{
+  "id": "25832",
+  "title": "Perencanaan dan pembuatan alat pengontrol komunikasi antara empat komputer memakai standar RS-232C dengan menggunakan mikroprosesor 8088 [disk]",
+  "abstract": "Komputer, terutama komputer pribadi (Personal Computer) dewasa ini sudah banyak dipakai untuk pengolah data. Usaha untuk menggabungkan komputer-komputer tersebut dalam suatu jaringan kerja sudah banyak dilakukan. Fungsi penggabungan antar komputer tersebut dalam suatu jaringan adalah untuk mempercepat dan mempermudah transfer data/informasi dari suatu komputer ke komputer lain. Agar transfer data tersebut dapat dilakukan, diperlukan suatu peralatan 'interface' komunikasi. Pada tugas akhir ini direncanakan suatu alat sebagai 'interface' komunikasi. Alat ini diberi nama Pengatur Komunikasi Antar Komputer (PKAK). PKAK dapat mengatur komunikasi data atara 4 buah komputer yang dihubungkan dengan port-port komunikasinya. PKAK juga dilengkapi dengan penyimpan data sementara (Mail Box). Transfer data dari komputer ke PKAK atau sebaliknya dilaksanakan dengan sistim komunikasi serial asinkron memakai standard komunikasi RS-232C. Fasilitas port komunikasi RS-232C ini biasanya sudah dimiliki oleh komputer, sehingga kita tinggal menambah perangkat lunak komunikasi pada komputer yang sesuai dengan protokol yang dipakai oleh PKAK. Dalam tugas akhir ini dibuat perangkat keras dan perangkat lunak dari PKAK. Dengan komponen utama Mikroprosesor 8088 yang mengatur operasi dari PKAK, serta IC Universal Asyncronous Receiver Transmitter (UART) 8250 sebagai 'interface' komunikasi serial pada port komunikasi dengan CPU. Suatu hal yang sudah pasti bahwa dengan dipakainya PKAK sebagai pengatur transfer data antar komputer dapat mempermudah proses pertukaran data dari komputer satu dengan komputer-komputer lainnya.",
+  "creators": "SASONGKO",
+  "contributors": "SUPENO DJANALI (Advisor 1); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/TST/013/0103; Sasongko (14487043)",
+  "subjects": "COMPUTER ENGINEERING"
+}

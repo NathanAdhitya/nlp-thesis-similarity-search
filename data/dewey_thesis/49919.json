@@ -1,0 +1,14 @@
+{
+  "id": "49919",
+  "title": "Implementasi wonderware system platform pada simulasi otomasi industri minuman",
+  "abstract": "Wonderware System Platform merupakan aplikasi SCADA yang berfungsi untuk monitor, mengontrol, dan mengumpulkan data dalam suatu industri. Otomasi pada industri minuman disimulasikan dengan PLC Siemens S7-1200 menggunakan simulator berupa tombol sebagai digital input, potensio sebagai analog input, dan lampu sebagai analog output. Media penghubung PLC dengan System Platform menggunakan DA Server. DA Server yang digunakan pada tugas akhir ini adalah KEPServerEX 6. System Platform terbagi lagi menjadi 3 bagian diantaranya, InTouch, Historian, dan Historian Client. InTouch merupakan HMI yang berfungsi menampilkan proses dalam sebuah industri dalam bentuk grafik sehingga mudah digunakan oleh operator. Di dalam InTouch terdapat dua jenis alarm yaitu current alarm dan historical alarm. Current alarm berfungsi untuk menampilkan alarm yang sedang aktif sekarang. Sedangkan historical alarm dapat menampilkan alarm yang sudah aktif sebelumnya. Historian memiliki fungsi sebagai media untuk merekam data proses yang terjadi dalam sebuah industri. Sedangkan historian client memiliki fungsi untuk menyajikan data yang direkam oleh historian menjadi grafik menggunakan Historian Client Trend dan tabel menggunakan Historian Client Workbook. Dengan menggunakan System Platform proses pembuatan aplikasi SCADA menjadi lebih mudah dan praktis karena menggunakan satu aplikasi. Selain itu, aplikasi InTouch yang sudah dibuat dapat disebarkan ke beberapa komputer lain sebagai InTouch Client.",
+  "creators": "MIGUEL GLENNADO",
+  "contributors": "Handy Wicaksono (Advisor 1); Felix Pasila (Examination Committee 1); TONNY LEONARD (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011021/ELK/2021; Miguel Glennado (C11170029)",
+  "subjects": "AUTOMATIC CONTROL--COMPUTER PROGRAMS; BEVERAGE INDUSTRY"
+}

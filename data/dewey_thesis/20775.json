@@ -1,0 +1,14 @@
+{
+  "id": "20775",
+  "title": "Perencanaan dan Pembuatan \"Programmable Alarm\" Menggunakan Mikrosprosesor 6502",
+  "abstract": "Rangkaian timer telah umum dikenal dan memberikan banyak manfaat.Sebagai tugas akhir, direncanakan dan di- buat suatu peralatan sejenis timer yang diaplikasikan khusus untuk mengatur jadwal Kegiatan perkuliahan di ge- dung Teknik Elektro, Fakultas Teknik U.K.Petra Surabaya. Peralatan ini menggunakan komputer Apple II sebagai prosesor, dan terdiri dari rangkaian kontrol dan driver untuk alarm. Rangkaian kontrol terdiri dari perangkat keras berupa hardware interface dan perangkat lunak berupa program dalam bahasa assembly. Kedua perangkat digabungkan sedemikian hingga peralatan dapat bekerja sinkron dan berfungsi sesuai dengan perencanaan. Di samping dapat memberikan timing pada kegiatan yang berjalan overlap, peralatan dapat diprogram untuk menen- tukan kombinasi tempat proses akan dilangsungkan, sesuai dengan keperluan perkuliahan.Tempat, waktu dan kegiatan yang sedang berlangsung dapat diamati dengan praktis melalui sebuah monitor di satu tempat. Peralatan yang telah dibuat, dapat dikembangkan untuk keperluan lain dengan melakukan sedikit modifikasi pada perangkat lunak ataupun peralatan peripheral yang dikontrol, disesuaikan dengan kebutuhan.",
+  "creators": "SIMPATIE HENDRIK",
+  "contributors": "SOETIKNO (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); HANDAYANI T. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi; Simpatie Hendrik (482096)",
+  "subjects": "MICROPROCESSSORS; ELECTRIC ALARMS"
+}

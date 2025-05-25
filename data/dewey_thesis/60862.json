@@ -1,0 +1,14 @@
+{
+  "id": "60862",
+  "title": "Perancangan dan pembuatan model uji unjuk kerja sistem adaptive cruise control",
+  "abstract": "Sistem Adaptive Cruise Control telah menjadi inovasi penting dalam dunia industri otomotif, menyediakan Solusi yang lebih aman dan nyaman untuk pengemudi. Perancangan sistem Adaptive Cruise Control memerlukan pendekatan yang khusus dalam mengintegrasikan teknologi sensor, pemrosesan sinyal dan mengontrol kendaraan. Dalam menghadapi kompleksitas yang semakin meningkat dalam pengembangan teknologi otomotif, pengujian Adaptive Cruise Control pada model skala kecil memberikan kesempatan untuk menilai kinerja dan mengidentifikasi area perbaikan sebelum menghadapi tantangan yang lebih besar dan risiko yang terkait dengan implementasi pada kendaraan bermotor nyata. Oleh karena itu belum ada media simulator yang dibuat. Keterbatasan ini menimbulkan tantangan bagi peneliti dan pengembang dalam menjalankan simulasi. Oleh karena itu, diperlukan usaha untuk merancang dan membuat model uji kinerja Sistem Adaptive Cruise Control yang dapat berfungsi sebagai alat simulasi yang efisien. Dalam perancangan mekanisme ini menggunakan mikrokontroler Arduino Uno dan Nano yang telah deprogram untuk bisa terkonfigurasi dengan sensor-sensor komponen yang digunakan. Sensor dan komponen yang digunakan meliputi Encoder Speed Sensor, Motor DC, Ultrasonic Sensor, Driver Motor. Jika Sensor Ultrasonic membaca objek yang semakin mendekat atau menjauh maka kecepatan kendaraan akan berubah baik bertambah maupun berkurang.",
+  "creators": "CHRISTIAN ARDI WINATA",
+  "contributors": "Roche Alimin (Advisor 1); Joni Dewanto (Advisor 2); Ian Hardianto Siahaan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011538/MES/2024; Christian Ardi Winata (C12190033)",
+  "subjects": "ARDUINO (PROGRAMMABLE CONTROLLER); AUTOMOBILES--MOTORS--CONTROL SYSTEMS; AUTOMOBILES--SENSORS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "17573",
+  "title": "Penggunaan program plaxis pada proyek Merr II-C",
+  "abstract": "Proyek MERR 1I-C meaipakan salah satu jembatan penghubung untuk Middle East Ring Road dimana dalam proses pelaksanaannya terjadi kelongsoran pada struktur tanah dibawah abutment. Peristiwa kelongsoran ini disertai deformasi yang cukup besar dari abutment, dimana struktur berdeformasi lateral sebesar 5 m dan vertikal sebesar 1,5 m. Dengan menggunakan metode analisa elemen hingga dalam hal ini program PLAXIS dilakukan analisa unftik mencari bidang keruntuhan {yield surface) dari struktur tanah. Analisa dilakukan dengan cara back analysis dimana dari analisa ini diperoleh parameter-parameter tanali yang sesuai dengan proses trial error. Dari sekian banyak percobaan diambil 3 model yang paling mendekati keadaan di lapangan, dimana dari 3 model tersebut diambil 1 model yang paling sesuai yaitu Model 3. Pada Model 3 dapat diketahui bahwa tiang (pile/beam) mengalami kegagalan sehingga diambil alternatif pembuatan model geometri tanpa pile. Hasil yang diperoleh ternyata mendekati keadaan di lapangan dimana deformasi lateral sebesar 5,002 m dan deformasi vertikal sebesar 1,657 m. Dari deformasi tersebut dilakukan analisa lebih lanjut untuk mengetahui bidang kelongsoran dari struktur tanah dimana bidang longsor dimulai pada jarak 14,5 m di belakang abutment.",
+  "creators": "ERICO KAMARUDDIN; JOHNNY KWEEJAYA",
+  "contributors": "Ir. GIDEON HADI KUSUMA, M.Eng. (Advisor 1); Soebianto Tjandrawibowo (Advisor 2); Johanes Indrojono Suwono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 994/SIP/2000; Johnny Kweejaya (21495028), Erico Kamaruddin (21497228)",
+  "subjects": "SOILS-TESTING; SOIL MECHANICS"
+}

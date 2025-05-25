@@ -1,0 +1,14 @@
+{
+  "id": "8931",
+  "title": "Pembuatan sistem informasi penjualan dan pembelian dengan menggunakan intranet pada perusahaan kayu UD. Rachmat",
+  "abstract": "UD.Rachmat adalah salah satu perusahaan yang bergerak di bidang supplier kayu. Saat ini, perusahaan masih menggunakan sistem manual dalam pencatatan order, pencatatan data kiriman, pencarian data sehingga banyak terjadi kesalahan. Untuk mengatasinya maka dibuat sebuah aplikasi sistem informasi dengan menggunakan intranet. Dengan adanya aplikasi yang menggunakan intranet, maka masalah komunikasi tidak lagi menjadi masalah. Admin dapat lebih mudah untuk berkomunikasi dengan supplier dan perusahaan. Demikian pula sebaliknya. Melalui aplikasi ini, perusahaan dapat memasukkan data permintaan kayu yang langsung ditawarkan ke supplier. Kemudian, supplier meng-input-kan data penawaran kayu yang dilanjutkan dengan pembelian kayu yang dilakukan oleh admin. Jika supplier ingin mengirim kayu, supplier harus memasukkan data pengiriman. Setelah kayu sampai di perusahaan, perusahaan meng-input-kan jumlah kayu yang diterima. Perancangan sistem menggunakan Data Flow Diagram untuk menggambarkan aliran data dan Entity Relationship Diagram untuk pembuatan tabel dan relasinya. Pembuatan program aplikasinya menggunakan bahasa pemrograman PHP dan MySQL untuk pembuatan database. Proses yang terdapat dalam program adalah pencatatan biodata perusahaan, biodata supplier, data purchase order, data penawaran dari supplier, data kiriman, data penerimaan. Program aplikasi ini dapat menyimpan data yang berhubungan dengan penjualan dan pembelian kayu serta menghasilkan laporan berupa laporan kayu yang telah sampai di perusahaan, laporan kayu yang belum dikirim oleh supplier, laporan kayu yang sudah dikirim oleh supplier, laporan invoice yang belum dan sudah dibayar, laporan laba rugi, laporan hutang piutang. . Dari hasil pengujian dengan kuisioner yang dilakukan, program ini sudah berjalan sesuai dengan yang diharapkan. Sebanyak 57% dari responden menjawab bahwa aplikasi mudah digunakan, sebanyak 65% dari responden menjawab bahwa aplikasi mudah dipahami, dan sebanyak 90% dari responden menjawab laporan yang dihasilkan tepat.",
+  "creators": "DINA ANDRIANA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Gregorius Satiabudhi (Advisor 2); BUDI BAMBANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010641/INF/2007; Dina Andriana (26403155)",
+  "subjects": "INFORMATION RESOURCES MANAGEMENT-COMPUTER PROGRAMS; DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

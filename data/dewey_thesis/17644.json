@@ -1,0 +1,14 @@
+{
+  "id": "17644",
+  "title": "Pembuatan software autentikasi pengguna untuk video berbasis MPEG-4",
+  "abstract": "File video pada saat ini dapat digunakan sebagai sarana untuk pendokumentasian pelanggaran-pelanggaran yang terjadi di tempat-tempat tertentu. Dalam menjaga kerahasiaan atau privasi dari pelaku, file video yang akan ditayangkan perlu dilakukan proses autentikasi. Untuk menyediakan proses autentikasi tersebut, maka dirancang aplikasi video editor dan aplikasi video player yang berfungsi untuk menambahkan informasi autentikasi pada file video. Aplikasi video player dan video editor dirancang dengan pemrograman C# dan dibantu dengan IBMToolkitForMpeg4 yang berbasis Java. Aplikasi video editor digunakan untuk menambahkan informasi autentikasi dan peletakan gambar sensor. Autentikasi yang dilakukan terdiri dari satu level autentikasi, yaitu ?authenticated user? dan ?reguler user?. Proses peletakan gambar sensor adalah proses menyembunyikan bagian dari video yang tidak ingin ditayangkan pada ?reguler user?. Aplikasi video player digunakan untuk menjalankan file video yang telah ditambahkan informasi autentikasi dan utnuk melakukan proses autentikasi pengguna. Pengujian dilakukan pada aplikasi video editor dan video player. Pada aplikasi video editor dilakukan pengujian terhadap format file video yang digunakan, proses peletakan sejumlah gambar sensor, dan proses autentikasi. Pada aplikasi video player dilakukan pengujian terhadap proses autentikasi pengguna dan proses menjalankan video. Hasil pengujian yang dilakukan memperlihatkan bahwa file video yang dapat digunakan adalah format mpeg-4 saja, proses penambahan gambar sensor dan proses penambahan informasi telah berjalan dengan baik. Hasil pengujian pada aplikasi video player memperlihatkan bahwa proses autentikasi dan proses menjalankan file video berjalan dengan baik.",
+  "creators": "FREDY MATULESSY",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010096/ELK/2010; Fredy Matulessy (23406047)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); SOFTWARE ENGINEERING"
+}

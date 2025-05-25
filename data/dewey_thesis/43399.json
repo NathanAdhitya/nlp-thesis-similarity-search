@@ -1,0 +1,14 @@
+{
+  "id": "43399",
+  "title": "Studi karakteristik suara crossover butterworth dan linkwitz-rilley terhadap variasi slope",
+  "abstract": "Pada saat ini kondisi jalan di Indonesia semakin padat, sehingga banyak orang menghabiskan waktu di jalan raya dengan mendengarkan musik dari audio mobil. Sebagian orang, terutama orang yang suka dengan musik merasa kurang puas dengan perangkat audio standar dari kendaraan yang dimilikinya, sehingga muncul keinginan untuk melakukan modifikasi pada komponen audio. Modifikasi audio secara umum yaitu menggunakan jenis 2-way system atau 3-way system, dikarenakan adanya berbagai macam speaker, maka diperlukan active crossover, yang di dalamnya terdapat chip-set ic op amp, berfungsi sebagai pendistribusi suara berdasarkan range frekuensi pada speaker tersebut. Studi mengenai karakteristik suara yang dihasilkan dari metode butterworth dan linkwitz-rilley terhadap variasi slope dapat dilakukan saat melakukan setting processor. Active crossover ini gunakan untuk speaker berjenis 3-way system. Untuk mengetahui karakteristik suara dari kedua metode tersebut, maka dilakukan pengujian menggunakan software FUZZ MEASURE, pada software FUZZ MEASURE akan didapatkan hasil respon suara yang dihasilkan oleh speaker, dari hasil respon suara tersebut dapat diketahui perbedaan karakteristik suara dan cutting frekuensi terhadap variasi slope dari kedua metode tersebut. Dari hasil pengujian dapat disimpulkan bahwa suara yang dihasilkan oleh butterworth lebih berdinamika daripada linkwitz-rilley yang cenderung lebih flat, dan terdapat perbedaan hasil cutting frekuensi terhadap variasi slope antara realita dengan rumus. Perbedaan cutting frekuensi pada high pass terjadi pada frekuensi 4KHz yang merupakan titik cutting frekuensi, pada metode butterworth terdapat cutting frekuensi pada magnitude -38dB, sedangkan metode linkwitz-rilley terdapat pada magnitude -43dB. Penggunaan metode butterworth lebih diunggulkan karena grafik yang dihasilkan lebih tinggi daripada linkwitz-rilley, sehingga menghasilkan suara yang berdinamika, dalam arti linkwitz-rilley menghasilkan suara yang cenderung flat, dikarenakan grafik frekuensi linkwitz-rilley berada pada -43dB yang berarti dibawah grafik butterworth yang berada pada -38dB.",
+  "creators": "CHRISTIAN FEBRI SUKAMTO",
+  "contributors": "Sutrisno S.T.,M.T. (Advisor 1); Fandi Dwiputra Suprianto, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 04011269/MES/2019; Christian Febri Sukamto (24414012)",
+  "subjects": "AMPLIFIERS, RADIO FREQUENCY; AUDIO AMPLIFIERS; AUTOMOBILES-EQUIPMENT AND SUPPLIES"
+}

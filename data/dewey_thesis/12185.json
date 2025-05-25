@@ -1,0 +1,14 @@
+{
+  "id": "12185",
+  "title": "Pembuatan aplikasi pengamanan data dengan metode Pretty Good Privacy (PGP)",
+  "abstract": "Pertukaran informasi digital melalui jaringan saat ini semakin berkembang, hal ini juga mempengaruhi perkembangan teknologi kriptografi (pengamanan data). Kriptografi digunakan untuk mengamankan data ? data penting dan data pribadi seperti kata sandi, nomor rekening, data keuangan, atau file yang tidak boleh orang lain tahu. Salah satu metode untuk mengamankan data adalah metode Pretty Good Privacy (PGP). PGP memiliki keunggulan karena mengabungkan hashing, kriptografi kunci simetri, dan kriptografi kunci asimetri. Pada Tugas Akhir ini, metode hashing yang digunakan adalah Message Digest 5 (MD5), metode kriptografi kunci simetri yang digunakan adalah International Data Encryption Algorithm (IDEA), dan metode kriptografi kunci asimetri yang digunakan adalah algoritma Rivest-Shamir-Adleman (RSA). Pembuatan aplikasi menggunakan Borland Delphi 7 yang memudahkan dalam mengatur tampilan interface serta mengakses dan mengubah data. Aplikasi ini diuji dengan berbagai macam tipe data dan ukuran, serta mencoba untuk mengembalikan isi data yang telah dienkripsi. Hasil pengujian menunjukkan bahwa file dapat diacak dan dikembalikan seperti semula.",
+  "creators": "JERRY SAMUEL",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Kartika Gunadi (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01020827/INF/2009; Jerry Samuel (26404104)",
+  "subjects": "CRYPTOGRAPHY-COMPUTER PROGRAM"
+}

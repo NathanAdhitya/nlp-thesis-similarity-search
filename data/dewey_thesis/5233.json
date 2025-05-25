@@ -1,0 +1,14 @@
+{
+  "id": "5233",
+  "title": "Identifikasi personal berdasarkan citra struktur tangan",
+  "abstract": "Pengenalan struktur tangan manusia merupakan salah satu bidang penelitian yang penting. Dewasa ini banyak aplikasi yang dapat menerapkannya, baik dibidang komersial maupun bidang penegakan hukum. Teknik pengenalan struktur tangan pada saat ini telah mengalami kemajuan yang sangat berarti. Komputer sekarang dapat menyerupai kemampuan otak manusia dalam berbagai tugas pengenalan struktur tangan, terutama tugas-tugas yang membutuhkan pencarian pada database yang cukup banyak. Tujuan tugas akhir ini adalah untuk membuat suatu perangkat lunak pengenalan struktur tangan dengan menggunakan feature vector untuk mereduksi dimensi gambar tangan. Dalam tugas akhir ini, perangkat lunak yang dibuat menggunakan gambar diam sebagai inputnya. Bahasa pemrograman yang dipakai adalah Microsoft Visual C++ 6.0 ? , Intel Performance Library dan Open Source Computer Vision Library. Hasil pengujian sistem menunjukkan bahwa pengenalan struktur tangan dapat memberikan tingkat akurasi yang cukup tinggi. Untuk gambar tangan yang diikutsertakan dalam latihan dengan klarifikasi 1-nn, dapat diperoleh 90.82 % identifikasi yang benar untuk 3 image database dan 7 image testing, 94.29 % identifikasi yang benar untuk 5 image database dan 5 image testing, dan100 % identifikasi yang benar untuk 7 image database dan 3 image testing.",
+  "creators": "BUDIONO SENTOSO",
+  "contributors": "Resmana Lim (Advisor 1); Thiang (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/616/ELK/2003; Budiono Sentoso (23496021)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE); ARTIFICIAL INTELLIGENCE"
+}

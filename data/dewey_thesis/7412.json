@@ -1,0 +1,14 @@
+{
+  "id": "7412",
+  "title": "Perencanaan dan pembuatan program untuk memproduksi paket soal test masuk mahasiswa baru dengan menggunakan metode genethic algorithm dan fuzzy set",
+  "abstract": "Pada saat ini proses penyusunan paket soal test masuk Universitas Kristen Petra masih menggunakan cara manual. Dalam membuat paket soal ini, harus mempertimbangkan prioritas-prioritas yang banyak. Sehingga proses penyusunan paket soal ini membutuhkan waktu yang lama. Dengan dibuatnya software ini, diharapkan dapat membantu proses pembuatan paket soal di Universitas Kristen Petra. Software ini dibuat dengan menggunakan metode Algoritma Genetik dan fuzzy set untuk menghasilkan populasi awal.Algoritma Genetik melakukan proses optimasi untuk mencari hasil yang terbaik, yaitu dengan cara kombinasi perkawinan yang didasari proses random. Penerapan Algoritma Genetik dalam proses penyusunan paket soal ini, dengan cara mengkodekan soal ? soal yang ada ke dalam kode-kode, dan merangkainya dalam bentuk string. Kemudian dilakukan proses kombinasi perkawinan, dan diseleksi untuk memperoleh kromosom terbaik. Untuk memperoleh kromosom terbaik ditentukan dengan mengevaluasi setiap kromosom. Proses evaluasi ini meliputi proses penghitungan nilai fitnest cost. Bila soal yang terpilih memiliki tingkat kesulitan atau diskriminan yang berbeda dari keinginan user maka akan mengurangi nilai fitnest cost. Pada akhirnya kromosom dengan nilai Fitnest Cost tertinggi akan menjadi kromosom terbaik dan dipilih untuk paket soal test masuk tahun tertentu. Pengujian software ini dilakukan dengan melakukan pengujian terhadap paket soal dengan soal bacaan maupun tanpa soal bacaan. Berdasarkan nilai Fitness Cost yang diperoleh dari setiap pengujian yang mendekati nilai maksimal, maka membuktikan bahwa software ini layak pakai untuk proses pembuatan paket soal.",
+  "creators": "TOMMY LIMANTONO",
+  "contributors": "Rolly Intan (Advisor 1); Fredi Suryadi (Advisor 2); Sukanto Tedjokusuma (Owner of Resource(s))",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000334/INF/2005; Tommy Limantono (26401197)",
+  "subjects": "SOFTWARE ENGINEERING; MACHINE LEARNING"
+}

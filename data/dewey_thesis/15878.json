@@ -1,0 +1,14 @@
+{
+  "id": "15878",
+  "title": "Optimasi jumlah operator radio panggil di PT W.W.",
+  "abstract": "Dalam tugas akhir ini membahas optimasi jumlah operator radio panggil di PT WW dengan menggunakan software Promodel 3.0 dan peramalan untuk mengetahui jumlah pesan yang masuk di masa yang akan datang. Jumlah pesan yang masuk tersebut digunakan untuk menetapkan jumlah operator yang optimal pada masa yang akan datang. Langkah utama dalam pembuatan tugas akhir ini adalah menetapkan metode peramalan yang digunakan yaitu metode Multiplicative Decomposition yang dipilih karena dalam plot data yang dilakukan memenuhi syarat untuk menggunakan metode tersebut Selain dilakukan peramalan juga dilakukan pembuatan model dengan software Promodel 3.0 yang diawali dengan penetapan distribusi yang digunakan dengan menggunakan software Statgraf. Bila distribusi telah ditetapkan, maka dibuat program pemodelan operator tersebut sampai ditemukan suatu model yang optimal yang dilakukan dengan mengubah parameter jumlah operator yang ada (baik ditambah ataupun dikurangi) sampai mencapai suatu keadaan yang paling optimal.",
+  "creators": "FERRY",
+  "contributors": "Didik Wahjudi (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 254/TI-80/1999; Ferry (25494020)",
+  "subjects": "MANAGEMENT-SIMULATION METHODS; PROBLEM SOLVING-DATA PROCESSING; DECISION-MAKING-MATHEMATICAL MODELS"
+}

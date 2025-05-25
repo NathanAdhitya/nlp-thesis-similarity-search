@@ -1,0 +1,14 @@
+{
+  "id": "1531",
+  "title": "Pembuatan aplikasi face recognition dengan menggunakan principal component analysis",
+  "abstract": "Pengenalan wajah merupakan salah satu dari banyak penelitian penting dan saat ini banyak aplikasi sudah menerapkannya kedalam berbagai aplikasi baik aplikasi komersial atau aplikasi yang dipergunakan oleh Penegak keamanan. Dalam tahun tahun akhir ini, teknik pengenalan wajah sudah mengalami kemajuan yang sangat besar melalui penelitian dengan berbagai cara salah satu contohnya seperti Principal Component Analysis (PCA). Komputer saat ini dapat menangani pengenalan manusia dengan berbagai cara pengenalan wajah, terutama pengenalan yang dengan pencarian dari database yang sangat besar. Tujuan utama dari paper ini adalah untuk mengimplementasikan sebuah aplikasi pengenalan wajah yang menggunakan teknik Principal Component Analysis (PCA) untuk mereduksi dimensi dari gambar muka seseorang dan menemukan kemampuannya. Dalam paper ini, aplikasi diwujudkan dengan menggunakan video sebagai input dan Open Computer Vision, Intel Image Processing dan CamCap sebagai Classifier. Bahasa pemograman yang digunakan untuk mengaplikasikan adalah Microsoft Visual C++ 6.0, yang merupakan bahasa pemograman Object Oriented. Hasil test menunjukkan bahwa Principal Component Analysis (PCA) memberikan ketepatan pengenalan wajah yang cukup tinggi. Untuk gambar wajah yang ditrain, ketepatan pengenalan wajah dapat mencapai 100% benar.",
+  "creators": "CHARLES WINARTO",
+  "contributors": "Resmana Lim (Advisor 1); Ibnu Gunawan (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010090/INF/2003; Charles Winarto (26499046)",
+  "subjects": "IMAGE PROCESSING-DIGITAL TECHNIQUES; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

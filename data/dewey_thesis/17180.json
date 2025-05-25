@@ -1,0 +1,14 @@
+{
+  "id": "17180",
+  "title": "Perencanaan dan pembuatan AGV (Automatic Guide Vehicle)",
+  "abstract": "Dalam dunia industri sudah terdapat banyak alat-alat transport secara otomatis tetapi dalam hal biaya sangat tinggi. Oleh sebab itu pada tugas akhir ini dibuat suatu mobil dengan kendala arah otomatis dengan garis atau marka jalan sebagai penuntunnya. Proyek ini disebut AGV (Automatic Guide Vehicle) yang disini mempunyai fungsi sebagai sarana transport, dan dari segi biaya proyek ini sangat murah. Cara kerja daripada AGV (Automatic Guide Vehicle) adalah sebagai berikut pertama-tama dua buah sensor infra merah sebagai sensor input akan menganalisa state sekarang dan state berikutnya, kemudian sebagai otak daripada proyek ini digunakan mikrokontroller ATMEL 89C2051 8 bit yang kompatibel dengan MCS 51, sebagai pengatur kecepatan digunakan system PWM (Pulse Width Modulation) dengan cara mempergunakan fasilitas timer interrupt yang tersedia pada mikrokontroller 89C2051, pengatur roda belakang digunakan motor dc 9 Volt dan sebagai pengatur setir juga digunakan motor dc 3 Volt lalu sebagai pengatur putaran dari motor dc tersebut digunakan system H-BRIDGE. Kemudian setelah dilakukan pengetesan di laboratorium maka terdapat beberapa error yang terjadi, salah satunya adalah karena rute yang dibuat terbuat dari kerja karton maka tidak dapat lurus dan bila terdapat gundukan sekecil mungkin maka jarak pantul dari sensor infra merah berubah dan mengakibatkan sensor yang semula 'ON' akan 'OFF' dan mobil akan kacau dan melakukan belokan yang tidak semestinya, untuk solusinya maka untuk rute jalan harus sejajar dan tidak boleh ada gundukan sekecil apapun.",
+  "creators": "DIPO LAKSMONO ELKOS",
+  "contributors": "IRWAN SAHLI (Advisor 1); MARTIN SETIAWAN (Advisor 2); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/022/416; Dipo Laksmono Elkos (23494061)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

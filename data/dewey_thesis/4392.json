@@ -1,0 +1,14 @@
+{
+  "id": "4392",
+  "title": "Pembuatan aplikasi online dictionary pada java-enabled mobile phones dengan menggunakan Java 2 Platform Micro Edition (J2ME)",
+  "abstract": "Pada saat ini perkembangan telepon selular yang mendukung koneksi GPRS (General Packet Radio Service) dan teknologi Java semakin berkembang pesat. Aplikasi Java telah banyak digunakan pada telepon selular sebagai penunjang aktifitas sehari-hari. Salah satu contoh aplikasi yang bisa dikembangkan lebih lanjut ialah online dictionary yang dapat digunakan sebagai penterjemah kata sehari-hari. Pada tugas akhir ini dikembangkan aplikasi online dictionary yang memungkinkan pengguna telepon selular untuk mencari informasi kata dalam bahasa inggris maupun bahasa indonesia dengan memanfaatkan telepon selular yang dimilikinya sebagai mobile online dictionary. Aplikasi online dictionary melakukan koneksi GPRS dari telepon selular ke komputer server untuk mendapatkan hasil terjemahan kata yang dicari. Aplikasi online dictionary dibuat dengan menggunakan bahasa pemrograman Java. Platform Java yang digunakan adalah Java 2 Platform Micro Edition (J2ME). Berdasarkan hasil pengujian sistem dapat disimpulkan bahwa aplikasi online dictionary dapat membantu pengguna Java-enabled mobile phone dalam menggunakan kamus indonesia-inggris dan kamus inggris-indonesia. Aplikasi online dictionary juga dapat melakukan proses administrasi pada database server. Aplikasi online dictionary hanya membutuhkan memori yang kecil karena database tempat menyimpan terjemahan kata tidak disimpan pada telepon selular, melainkan disimpan pada database server.",
+  "creators": "ADRIAN SOETANTO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Andreas Handojo (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0153/INF/2004; Adrian Soetanto (26499085)",
+  "subjects": "WEB SITES-DESIGN; INTERNET(COMPUTER NETWORK); DATABASE DESIGN"
+}

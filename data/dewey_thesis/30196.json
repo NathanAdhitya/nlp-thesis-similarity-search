@@ -1,0 +1,14 @@
+{
+  "id": "30196",
+  "title": "Perencanaan dan pembuatan pengatur panas oven dalam pemasakan kue kering, cake, dan roti berbasis fuzzy logic controller dengan prosesor 68HC11",
+  "abstract": "Perkembangan teknologi elektronika berlangsung sangat cepat, terlebih mengenai bidang kecerdasan buatan yang diterapkan pada mikrokontroler. Fuzzy logic merupakan salah satu teknologi yang memungkinkan dirancangnya suatu sistem kontrol tanpa melibatkan perhitungan matematis yang sulit. Aksi yang dilakukan mendekati pola manusia dalam mengambil keputusan, yaitu melibatkan aturan-aturan bahasa manusia. Dalam tugas akhir ini teknologi Fuzzy logic akan diterapkan pada sistem kontrol pemanggang kue otomatis yang menggunakan kompor listrik yang diaplikasikan dengan menggunakan mikrokontroler 68HC11. Fuzzy logic akan menggantikan peran manusia dalam menentukan lama waktu pemanggangan kue. Seberapa lama panas yang dibutuhkan untuk tiap-tiap jenis kue dan berat adonan . Input Fuzzy pada sistem kontrol ini adalah jenis kue (cake, kering, dan roti), berat adonan, dan timer. Proses dalam Fuzzy logic akan menghasilkan output yang berupa lama waktu pemanasan, oven 1 dan oven 2. Perancangan sistem kontrol Fuzzy pada tugas akhir ini dibantu oleh program simulasi FUDGE (Fuzzy Development and Generation Environment) dan routine Kernel Fuzzy yang telah disediakan oleh MOTOROLA. Hasil ujicoba menunjukkan, pengaturan waktu pemanggangan kue yang diproses dengan logika fuzzy mempunyai performa yang lebih baik dibandingkan jika pemanggangan kue dilakukan secara manual oleh manusia. Proses dapat dilaksanakan secara otomatis, dengan pengaturan mirip yang dilakukan oleh manusia secara manual, tanpa keteledoran, efisiensi daya listrik yang digunakan pada kompor listrik meningkat, pemrosesan pemanggangan lebih sempurna, sehingga kue yang dihasilkan lebih baik.",
+  "creators": "IRMA WIDIYANTI",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Advisor 1); Anies Hannawati (Advisor 2); HERLIANTO TENGGARA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/021/415; Irma Widiyanti (23493122)",
+  "subjects": "MOTOROLA 68HC11 (MICROPROCESSOR); ELECTRIC HEATING"
+}

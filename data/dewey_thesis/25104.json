@@ -1,0 +1,14 @@
+{
+  "id": "25104",
+  "title": "Pengatur beberapa peralatan rumah tangga untuk penghematan energi dengan komputer IBM-PC",
+  "abstract": "Komputer digital banyak dipergunakan baik dalam kehidupan sehari-hari maupun dalam dunia industri karena mempunyai beberapa keunggulan antara lain kecepatan memproses data. Kemampuan mengingat dan mudah untuk dikendalikan. Pada tugas akhir ini dibuat interface pada slot IBM PC yang menghubungkan komputer dengan peralatan rumah tangga yang dikendalikan. Adapun transduser yang dipergunakan dan peralatan ruman tangga yang dikendalikan adalah: 1. Transduser temperatur untuk mengatur penyalaan pendingin ruangan. 2. Transduser cahaya untuK mengatur penyalaan lampu. 3. Transduser level air untuK mengatur penyalaan pompa air. 4. Transduser ultrasonic pengatur stepper motor. 5. Pewaktu terprogram penyalaan pompa air atau lampu berdasarkan waktu. Sinyal yang dihasilkan olen transducer biasanya sangat kecil sehingga diperlukan suatu penguat sebelum diolah lebih lanjut. Keluaran dari transducer ini berupa sinyal analog. Komputer mengolah data selalu dalam bentuk digital, oleh karena itu sinyal analog ini harus dirubah ke digital dengan konverter analog ke digital sebelum dapat diolah lebih lanjut. Sebagai program pengendali dipergunakan bahasa Pascal.",
+  "creators": "Candrika Adhitisna Indrajaya",
+  "contributors": "SOETIKNO (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 88/E/EL/001; Candrika Adhitisna Indrajaya (482071)",
+  "subjects": "DIGITAL CONTROL SYSTEM-COMPUTER PROGRAM; IBM PC (COMPUTER)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "9840",
+  "title": "Aplikasi web untuk video broadcast dengan jaringan lokal",
+  "abstract": "Proses penyiaran video yang sudah sering digunakan banyak mengalami hambatan pada distribusi ke user, ukuran video yang besar dan kapasitas bandwidth yang terbatas menjadi masalah utama pendistribusian video melalui jaringan. Pada Aplikasi Web Video Broadcast ini menggunakan teknologi video streaming, dimana teknologi ini dapat digunakan untuk mentransmisikan video dari server ke client melalui jaringan, teknologi video streaming ini memungkinkan suatu media untuk dapat segera dijalankan tanpa harus menunggu proses video selesai didownload secara keseluruhan, hal ini menjadi solusi pemecahan dari masalah utama diatas. ?Aplikasi Web untuk Video Broadcast dengan Jaringan Lokal? merupakan suatu aplikasi yang dapat digunakan untuk melakukan proses penyiaran video melalui jaringan. Web merupakan media elektronik yang banyak digunakan pada saat sekarang ini, dimana penggunaan web dapat digunakan sebagai sarana komunikasi, informasi maupun entertainment. Video Broadcast dapat dilakukan secara Live Casting maupun Video On Demand. Sedangkan Jaringan Local Area Network (LAN) merupakan salah satu media yang dapat digunakan sebagai sarana distribusi untuk lingkup area yang terbatas. Komunikasi aplikasi web video broadcast ini dimulai dengan pengiriman data dari client kepada server, informasi yang ada diolah oleh web server yang terhubung ke database. Untuk proses registrasi, dilakukan melalui web. Database akan menyimpan seluruh data user yang telah terdaftar. Pengujian aplikasi web video broadcast ini telah dilakukan atas 10 komputer client dan sebuah video server, untuk ukuran file video 15.6 MB, diperoleh hasil delay sebagai berikut 13.07 detik, 13.97 detik, 11.99 detik, 12.87 detik, 13.04 detik. Dari hasil pengujian tersebut dapat diketahui bahwa pada aplikasi web video broadcast ini proses transmisi video dipengaruhi oleh trafik yang ada pada jaringan. Pengujian yang ada dilakukan dengan beberapa parameter video streaming seperti bitrate, transmisi video, dan gangguan yang terjadi. Dengan adanya aplikasi web video broadcast ini dapat nantinya digunakan sebagai sarana untuk Video share, e-Learning, Broadcasting.",
+  "creators": "HENDRA KURNIAWAN E",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010080/ELK/2008; Hendra Kurniawan E. (23403028)",
+  "subjects": "LOCAL AREA NETWORKS (COMPUTER NETWORKS); WEBSITES"
+}

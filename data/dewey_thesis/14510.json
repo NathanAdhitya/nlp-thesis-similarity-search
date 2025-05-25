@@ -1,0 +1,14 @@
+{
+  "id": "14510",
+  "title": "Optimasi jumlah dan komposisi tenaga kerja dengan menggunakan metode integer programming di PT. Graha Cendana Abadi Mitra",
+  "abstract": "PT. Graha Cendana Abadi Mitra memproduksi tas koper dengan mempekeijakan tenaga kerja yang dapat diklasifikasikan berdasarkan tingkat upah yang diberikan pada tiap-tiap departemen. Pada tugas akhir ini dibuat model dari permasalahan penempatan jenis tenaga kerja dan penentuan jumlah tenaga kerja yang optimal di tiap-tiap departemen dengan menggunakan metode integer programming. Tujuan yang hendak dicapai adalah meminimumkan biaya tenaga kerja dengan memperhatikan beberapa batasan, antara lain: jumlah order, jumlah unit produk yang dapat dihasilkan, dan due date order selama 5 hari. Adapun order yang dimaksud terdiri atas 7 buah produk, yaitu: beauty case 15\" sebanyak 1206 unit, trolley case 20\" sebanyak 3000 unit, travel case 21\" sebanyak 600 unit, travel case 24\" sebanyak 600 unit, travel case 26\" sebanyak 600 unit, travel case 29\" sebanyak 389 unit, dan travel case 32\" sebanyak 389 unit. Berdasarkan model yang dibuat, maka diperoleh variabel jumlah dan jenis tenaga kerja yang memenuhi kendala yang ada sehingga didapatkan total biaya tenaga kerja yang minimal dengan due date 5 hari, yaitu sebesar Rp. 994826,-.",
+  "creators": "SHIRLEY VERONICA",
+  "contributors": "Siana Halim (Examination Committee 1); I Nyoman Sutapa (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 440/TI-031/2001; Shirley Veronica (25496069)",
+  "subjects": "PRODUCTION MANAGEMENT-MATHEMATICAL MODELS"
+}

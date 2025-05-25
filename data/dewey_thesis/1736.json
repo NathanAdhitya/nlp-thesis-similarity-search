@@ -1,0 +1,14 @@
+{
+  "id": "1736",
+  "title": "Pengenalan nilai nominal uang kertas dengan jaringan saraf tiruan",
+  "abstract": "Jaringan saraf tiruan adalah sebuah algoritma yang meniru cara kerja otak manusia. Pengenalan nilai nominal uang kertas dengan jaringan saraf tiruan ini merupakan aplikasi algoritma jaringan saraf tiruan untuk pengenalan obyek yang cepat dan akurat. Pengenalan obyek yang dilakukan adalah pengenalan nilai nominal dari mata uang kertas rupiah. Jaringan saraf tiruan dengan fungsi aktivasi Sigmoid yang digunakan dalam proyek ini adalah tipe fully connected multi layer feed forward dengan tiga lapisan yang terbentuk dari 4752 sel lapisan input, 10 sel lapisan output dan sel lapisan hidden yang bisa disesuaikan. Variabel lain yang dapat disesuaikan adalah learning rate dan batas pengenalan. Pelatihan jaringan dilakukan dengan algoritma back propagation. Pengujian dilakukan dengan menggunakan 4 set gambar referensi spesimen uang kertas. Pengenalan diujicoba pada 20 lembar uang kertas untuk setiap spesimen. Hasil ujicoba menunjukkan 100 sel lapisan hidden, learning rate 0,3 dan batas pengenalan 0,8 menghasilkan tingkat keberhasilan pengenalan 76,875% setelah dilakukan 400 iterasi pelatihan. Tingkat keberhasilan pengenalan yang lebih tinggi dapat dicapai dengan memperbanyak jumlah iterasi pelatihan.",
+  "creators": "TONY JOHANES",
+  "contributors": "Thiang (Advisor 1); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/674/ELK/2003;Tony Johanes (23499087)",
+  "subjects": "NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

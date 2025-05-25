@@ -1,0 +1,14 @@
+{
+  "id": "15314",
+  "title": "Perencanaan dan pembuatan kontroller P, PI, PD dan PID dengan tampilan pada IBM PC untuk pengontrolan kecepatan motor DC",
+  "abstract": "Perkembangan dunia industri dewasa ini sangat pesat, sejalan dengan hal tersebut, sistem kontrol Otomatis sangat dibutuhkan untuk menunjang perkembangan industri tersebut. Akibat persaingan dalam memenuhi tuntutan penguasaan teknologi semakin ketat. Untuk iru kepada mahasiswa perlu diperkenalkan sistem kontrol menggunakan kontroler PID . Dalam mata kuliah sistim pengaturan dan pengukuran, sistem kontrol merupakan hal utama yang dibicarakan. Respon dari sistem kontrol biasanya kita peroleh dengan melihat grafik yang ada di buku atau grafik yang dibuat oleh dosen tersebut. Kita sebagai mahasiswa tidak mengerti keadaan yang sesungguhnya yang terjadi apabila kita mengontrol sistem tertentu misalnya kecepatan motor. Untuk mengatasi permasalahan tersebut, serta untuk memperoleh pemahaman dalam teknik kendali dan pengukuran, maka akan dibahas dan dibuat alat kendali dalam sistem PID dengan output yang dapat dilihat dalam layar monitor. Sistem kendali P.I.D. ini mengatur kecepatan motor DC yang setting pointnya dapat diinputkan melalui komputer. Komputer memantau output sistem yang berupa kecepatan motor tersebut dan menampilkannya pada layar monitor. Konstanta Kp,Ki dan Kd dapat diatur dengan memutar potensiometer pada kontroler P.I.D tersebut. Pengendali proporsional selalu diaktifkan, pengendali integral dan diferensial dapat diaktifkan dengan saklar on-off.",
+  "creators": "AGOES SATRIAWAN",
+  "contributors": "Murtiyanto Santoso (Advisor 1); VINCENT PRASETYO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/034/294; Agoes Satriawan (23491053)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "17182",
+  "title": "Studi perancangan prosesor fuzzy logic berbasis kompiler VHDL Warp2 ver. 3.5",
+  "abstract": "Tren dunia elektronika di masa mendatang adalah solderless, semua yang berhubungan dengan solder diminimasikan jadi semua serba instan. Salah satunya adalah dedicated chip, teknologi ini menawarkan keuntungan waktu desain yang relatif singkat, kecepatan eksekusi yang tinggi dan bahasa pemrograman tingkat tinggi yang relatif mudah dimengerti dan hasil desain dapat ditampilkan secara grafis oleh perangkat lunak pendukungnya. Dalam tugas akhir ini dimodelkan deskripsi lengkap dari fuzzy logic. Secara singkat langkah kerja dapat diterangkan berikut ini pertama pada tahap desain dibuat deskripsi lengkap dari proses fuzzifikasi, rule evaluation hingga defuzzifikasi. Pada tahap ini semua variabel seperti menentukan label I/O, jangkauan tiap label I/O, dan aturan langsung ditetapkan sebagai nilai awal. Untuk tahap kompilasi dan sintesa dikerjakan oleh kompiler VHDL warp2. Langkah yang terakhir adalah diadakan pengaturan terhadap arsitektur komponen karena keterbatasan divais. Ada 2 type prosesor yang telah dimodelkan yaitu prosesor 1 in / 2 out dan prosesor 2 in / 1 out, keduanya memiliki arsitektur yang berbeda. Dalam tahap simulasi mempunyai arsitektur tersendiri. Banyaknya arsitektur adalah akibat dari keterbatasan divais. Pengujian prosesor dilakukan dengan pengubahan berbagai macam variabel seperti pengubahan jarak jangkauan tiap label I/O dan pengubahan rule - rule. Dari hasil simulasi didapatkan adanya waktu tunda, waktu tunda ini menyebabkan prosesor tampak terlambat untuk memberikan aksi kontrol yang diharapkan namun keterlambatan ini bukan masalah yang significant karena frekuensi kerja dari prosesor bisa mencapai 100 Mhz dan kecepatan clock minimal 6 ns/clock.",
+  "creators": "FREDDY AGUS WIBOWO",
+  "contributors": "YOHANES T. D. S (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/017/454; Freddy Agus Wibowo (23495054)",
+  "subjects": "FUZZY SYSTEMS; FUZZY LOGIC; MICROPROCESSORS"
+}

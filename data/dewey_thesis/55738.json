@@ -1,0 +1,14 @@
+{
+  "id": "55738",
+  "title": "Implementasi monitoring tanaman cabai rawit berbasis internet of things",
+  "abstract": "Di negara Indonesia menduduki peringkat 3 dengan konsumsi cabai Rawit terbanyak didunia. Sehingga cabai rawit merupakan makanan pelengkap paling penting dalam berbagai jenis masakan. Tapi tanaman membutuhkan perawatan tersendiri agar tanaman cabai Rawit dapat menghasilkan buah yang banyak. Dalam banyak kasus tanaman cabai Rawit tergolong susah untuk dirawat karena harus rutin untuk menyiram dan berada ditempat yang bersuhu normal. Banyak penelitian yang sudah melakukan penerapan dengan menggunakan Arduino tetapi tidak dapat dikontrol melalui perangkat mobile. Dengan penggunaan smartphone yang semakin meningkat dimasyarakat, akan sangat memudahkan user untuk memonitoring tanaman Cabai Rawit menggunakan smartphone. System kontrol tanaman menggunakan Arduino yang terhubung dengan internet dan server Blynk. Dengan menggunakan server Blynk, smartphone bisa terhubung dengan Arduino sehingga user dapat mengontrol dan memonitoring tanaman seperti penyiraman, penutupan atap dan mengetahui kondisi tanaman cabai Rawit dari jarak jauh yang berguna membantu kesuburan tanaman cabai Rawit. Untuk hasil pengujian bahwa alat mampu menjaga dan memonitoring tanaman cabai rawit sesuai dengan dengan ketentuan atap akan tertutup pada suhu udara 28°C-32°C dan menjaga sesuai parameter kelembapan tanah 50%-60%.",
+  "creators": "VINCENT KURNIAWAN",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Handry Khoswanto (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022263/INF/2023; Vincent Kurniawan (C14180191)",
+  "subjects": "INTERNET OF THINGS--INDUSTRIAL APPLICATIONS; ARDUINO (PROGRAMMABLE CONTROLLER)--PROGRAMMING"
+}

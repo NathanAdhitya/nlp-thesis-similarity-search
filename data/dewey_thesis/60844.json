@@ -1,0 +1,14 @@
+{
+  "id": "60844",
+  "title": "Sistem pengantar benda menggunakan robot mobile manipulator untuk membantu lansia",
+  "abstract": "Sistem pengantar benda dibutuhkan untuk membantu lansia mengatasi keterbatasan fisik akibat penuaan, seperti pelemahan otot dan penurunan kelenturan yang membuat aktivitas sehari-hari lebih sulit dan berisiko. Dengan bantuan robot, lansia dapat mengakses benda penting tanpa usaha fisik berlebihan, mengurangi risiko cedera, dan meningkatkan kemandirian serta kontrol atas lingkungan mereka. Teknologi ini penting untuk memastikan perawatan yang memadai, keselamatan, dan kenyamanan lansia, sehingga secara keseluruhan meningkatkan kualitas hidup mereka. Robot mobile manipulator yang dibuat pada tugas akhir ini, menggabungkan dua buah robot yaitu Turtlebot 4 sebagai robot mobile dan juga myCobot 320 Pi sebagai robot manipulator. Robot ini diperintah melalui remote PC. Komunikasi yang digunakan pada robot adalah melalui ROS 2 topic dan service. Dari hasil percobaan, kedua robot dapat digabungkan menjadi robot mobile manipulator dan berjalan stabil dengan kecepatan maksimum yaitu 0.31 m/s dengan area kerja joint 1 dari myCobot pada sudut -5 hingga -45 derajat. Rata-rata pergeseran navigasi robot adalah 6.6 cm pada sumbu X, 4.75 cm pada sumbu Y, dan 11.8 derajat untuk perubahan sudut. Robot juga dapat mengambil botol dengan pendeteksian objek pada jarak 30 cm hingga 60 cm dan mampu mengangkat beban hingga 420 g. Selain itu, robot dapat menerima dan pergi ke lokasi tag UWB dari Sistem Pelacakan Posisi dengan rata-rata pergeseran 30.6 cm, serta dapat mengambil dan mengantar botol minum berukuran 200 ml ke suatu lokasi dengan tingkat keberhasilan 76.7%.",
+  "creators": "ALBERTUS WILLIAM HUDIONO",
+  "contributors": "Handy Wicaksono (Advisor 1); Indar Sugiarto (Advisor 2); Felix Pasila (Examination Committee 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011062/ELK/2024; Albertus William Hudiono (C11200015)",
+  "subjects": "MOBILE ROBOTS; ROBOTICS; ROBOTS"
+}

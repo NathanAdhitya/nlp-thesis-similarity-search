@@ -1,0 +1,14 @@
+{
+  "id": "50045",
+  "title": "Penggunaan sidik jari dan GPS untuk pengaman motor",
+  "abstract": "Karena pencurian motor yang masih cukup tinggi di Indonesia, maka masih dibutuhkan suatu sistem yang dapat mengamankan sepeda motor. Sistem pengaman yang umumnya digunakan saat ini adalah menggunakan kunci kontak. Pada tugas akhir ini dibuat sistem pengaman sepeda motor menggunakan sidik jari untuk menggantikan kunci kontak dan GPS untuk melacak keberadaan sepeda motor tersebut. Sistem tersebut menggunakan Arduino Nano sebagai kontroler dari sistem. Arduino Nano menerima input dari sensor sidik jari, sensor inframerah (untuk mendeteksi jika ada objek di depan sensor), dan tombol darurat (untuk mematikan sepeda motor jika dalam keadaan darurat). Sistem tersebut mengatur kontak motor, starter motor, dan alarm sepeda motor tersebut. Arduino Nano juga dapat menerima dan mengirim SMS ke smartphone pengguna motor, serta melacak keberadaan sepeda motor menggunakan modul GSM GPS. Dari hasil pengujian, sistem tersebut mampu mengatur kontak motor dan starter motor menggunakan sidik jari dengan keakuratan 87,5%, menyalakan alarm jika menerima SMS dari pengguna motor, dan melacak keberadaan sepeda motor dan mengirimkannya melalui SMS ke smartphone pengguna sepeda motor.",
+  "creators": "NYOMAN ABRAHAM JASON SANTOSO",
+  "contributors": "Thiang (Advisor 1); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011025/ELK/2021; Nyoman Abraham Jason Santoso (C11170024)",
+  "subjects": "ELECTRONIC ALARM SYSTEMS; GLOBAL POSITIONING SYSTEM"
+}

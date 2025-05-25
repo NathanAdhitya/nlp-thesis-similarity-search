@@ -1,0 +1,14 @@
+{
+  "id": "5203",
+  "title": "Perancangan dan pembuatan aplikasi untuk mengubah movie sederhana menjadi anaglyph movie dengan menggunakan metode chromatic anaglyphic",
+  "abstract": "Pada saat ini, pembuatan citra dari obyek 3D yang digambarkan ke dalam citra 2D sudah sangat banyak. Akan tetapi, untuk proses sebaliknya, yaitu menampilkan citra 3D dari citra 2D jarang dijumpai. Meskipun demikian, bukan berarti hal tersebut tidak dapat dilakukan. Salah satu metode yang dapat digunakan adalah chromatic anaglyphic yang dapat menghasilkan anaglyph image. Dengan menggunakan anaglyph glasses untuk melihat anaglyph image, maka obyek yang ada dalam citra tersebut tampak seolah-olah muncul dari layar. Tugas Akhir ini membahas tentang pembuatan 3D pada citra dan movie pada anaglyph chromatic. Tujuan dari pembuatan Tugas Akhir ini adalah menghasilkan anaglyph movie dari movie 2D, sehingga dapat terlihat seperti bentuk 3D jika menggunakan anaglyph glasses. Dalam pembuatan anaglyph, dilakukan penggeseran nilai red dari RGB sebuah citra dengan jarak tertentu. Pergeseran ini mengakibatkan efek 3D pada anaglyph. Aplikasi ini dibuat dengan menggunakan software Borland Delphi 7.0. Hasil dari pengujian aplikasi ini, menunjukan bahwa anaglyph image dapat menimbulkan efek 3D jika diproses dari citra-citra yang memiliki warna-warna yang kontras. Sedangkan, anaglyph image yang diproses dari citra-citra yang tidak kontras, efek 3D tidak tampak jelas. Selain itu, kedalaman yang dihasilkan pada anaglyph image ini tidak sesuai dengan keadaan asli pada citra tersebut, tetapi hanya terlihat perbedaan antara obyek dan background.",
+  "creators": "YUNICE KURNIASARI",
+  "contributors": "Rudy Adipranata (Advisor 1); Cherry Galatia Ballangan, S.Si., M.AIT. (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010619/INF/2007; Yunice Kurniasari (26403083)",
+  "subjects": "COMPUTER GRAPHICS--COMPUTER PROGRAMS; COMPUTER ANIMATION"
+}

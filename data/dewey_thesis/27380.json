@@ -1,0 +1,14 @@
+{
+  "id": "27380",
+  "title": "Pengendalian sistem penerangan terpusat pada gedung bertingkat menggunakan microcontroler 8031 dan IBM PC",
+  "abstract": "Sistem penerangan adalah suatu sistem yang bertujuan mengatur atau mengendalikan lampu penerangan dalam suatu lingkungan. Sistem penerangan yang umum dan sederhana adalah sistem penerangan yang cara pengaturannya dilakukan oleh instalator saat lingkungan (gedung) itu dibangun. Pada sistem penerangan yang umum tidak mudah untuk mengadakan perubahan fungsi dari switch dan lampu. Sistem penerangan yang dirancang untuk tugas akhir ini menganut sistem sentralisasi untuk pengaturan fungsi switch dan lampu. Yang tersentralisasi dalam sistem ini hanya pengaturan mula-mula dari fungsi switch dan lampu. Setelah data dari fungsi switch dan lampu dikirim ke masing-masing module microcontroller 8031 maka pengendalian dari switch dan lampu langsung diatur oleh module microcontroller 8031 sesuai dengan data yang telah ditentukan. Pada sistem penerangan ini fungsi dari komputer induk hanya sebagai pengubah dari fungsi switch dan lampu yang nantinya akan dikirim ke masing-masing module microcontroller 8031. Selain itu untuk memantau status switch dan lampu dalam keadaan on atau off. Jadi setelah data dari fungsi switch dan lampu telah dikirim ke masing-masing module microcontroller 8031, komputer induk dapat digunakan untuk proses lainnya, bila tidak digunakan untuk memantau status switch dan lampu. Masing-masing module microcontroller 8031 ini dihubungkan dengan komputer induk dengan sistem komunikasi serial RS-485. Penggunaan komunikasi serial RS-485 ini lebih menguntungkan dibandingkan dengan RS-232 baik jarak komunikasinya yang lebih jauh maupun kecepatan pengirimannya. Dengan menggunakan pengendali sistem penerangan terpusat pada gedung bertingkat lebih menguntungkan karena semua pengendalian dapat diprogram dan diubah dengan mudah sesuai keinginanan.",
+  "creators": "Soelarto Tantiono",
+  "contributors": "SUPENO DJANALI (Examination Committee 1); SOETIKNO (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/005/0095; Soelarto Tantiono (14486022)",
+  "subjects": "ELECTRIC LIGHTING-MICROCONTROLLER; IC (MICROCONTROLLER)"
+}

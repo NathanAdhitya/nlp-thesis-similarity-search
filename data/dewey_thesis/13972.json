@@ -1,0 +1,14 @@
+{
+  "id": "13972",
+  "title": "Diskriminasi struktur proses produksi dalam domain frekuensi dengan menggunakan transformasi fast fourier serta prngujian kolmogorof smirnov",
+  "abstract": "Dalam tugas akhir ini akan digunakan transformasi Fast Fourier untuk mendeteksi perubahan struktur pada proses produksi khususnya jenis data variabel. Peta kendali Shewhart yang didasarkan pada uji hipotesis konvensional sering gagal mendeteksi adanya perubahan struktur covarians data. Struktur dalam proses produksi dapat dimodelkan oleh fungsi covarians, sedangkan fungsi covarians identik dengan distribusi spektralnya. Sehingga agar dapat mendeteksi perubahan struktur, data perlu ditransformasikan ke dalam distribusi spektralnya dengan menggunakan transformasi Fast Fourier (domain frekuensi) sehingga data menjadi tidak terkorelasi serta data dapat dianalisa secara statistika. Data yang dipakai berupa data time series, dibangkitkan dengan model AR sederhana (Auto Regressive). Data ditransformasikan dengan Fast Fourier, kemudian digunakan pengujian statistika Kolmogorov-Smirnov untuk mengetahui apakah metode ini dapat mendeteksi dan menaksir perubahan strukturaya. Selain itu akan dibandingkan dengan metode lain, dan nantinya dapat diaphkasikan dalam dunia industri.",
+  "creators": "SULAMMITH FENNY",
+  "contributors": "Dr. Dra. Gan Shu San, M.Sc. (Advisor 1); Sujono Poetrodjojo (Advisor 2); Stevanus Adrianto Tjandra (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 082/TMI-12/1998; Sulammith Fenny (25493094)",
+  "subjects": "TIME MEASUREMENT; TIME STUDY; MANUFACTURING PROCESSES"
+}

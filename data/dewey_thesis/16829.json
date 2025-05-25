@@ -1,0 +1,14 @@
+{
+  "id": "16829",
+  "title": "Kunci elektronik dengan menggunakan infra red pada telepon seluler",
+  "abstract": "Pada saat ini, sudah terdapat banyak telepon seluler yang meyediakan fasilitas media infra red sebagai jalur pertukaran informasi baik antar telepon seluler maupun dengan media lainnya seperti komputer dan PDA, dengan menggunakan standar dari IrDA {Infrared Data Association). Infra red tersebut dapat diaplikasikan secara lebih luas seperti sebagai kunci elektronik sehingga telepon seluler tersebut mempunyai multifungsi selain sebagai alat komunikasi. Kunci elektronik ini terdiri dari bagian empat utama yaitu: control system yaitu mikrokontroler AT89C51, drive system yaitu solenoid driver dan solenoid sebagai kunci secara mekanis, infra red receiver dan tampilan LCD. Pengujian kunci elektronik ini dilakukan mengirimkan data dari transmitter infra red pada telepon seluler ke infra red receiver pada sistem kunci elektronik. Kunci elektromk dapat menerima data dengan baik pada jarak 6 cm dengan sudut kemiringan sampai dengan 15?. Dengan adanya kombinasi password sebanyak 4,186 x 10 38 kombinasi maka sistem kunci elektronik mempunyai tingkat keamanan yang tinggi.",
+  "creators": "HENDRA SETIADI NYOTO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Anies Hannawati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/016/530; Hendra Setiadi Nyoto (23495031)",
+  "subjects": "INTEL AT89C51 (MICROCONTROLLER); CELLULAR TELEPHONES-COMPUTER PROGRAMS"
+}

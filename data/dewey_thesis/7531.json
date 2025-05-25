@@ -1,0 +1,14 @@
+{
+  "id": "7531",
+  "title": "Perancangan dan pembuatan sistem pakar untuk pendeteksian dan pengobatan penyakit dengan ramuan tradisional",
+  "abstract": "Teknologi komputer dewasa ini terus menunjang kehidupan manusia, khususnya dalam dunia kedokteran. Tanaman obat tradisional merupakan salah satu solusi pengobatan penyakit. Namun masih banyak orang awam kurang begitu memahami cara meramu tanaman obat tradisional. Untuk membantu mengatasi hal tersebut, salah satu caranya adalah dengan pembuatan aplikasi sistem pakar. Pembuatan sistem pakar ini menggunakan metode inferensi forward chaining, yaitu proses inferensi yang memulai pencarian dari premis menuju pada konklusi, dan backward chaining, yaitu proses inferensi yang memulai pencarian dari konklusi untuk mendapatkan premis. Aplikasi sistem pakar ini menggunakan pemrograman Borland Delphi 7 dan untuk database-nya menggunakan Microsoft Access 2000. Berdasarkan hasil kuisioner yang telah dilakukan, didapatkan kenyataan bahwa prosentase kelayakan program adalah sebesar 72%, prosentase keakuratan program adalah sebesar 70%, prosentase bahasa yang digunakan adalah 74%, prosentase kemudahan penggunaan program adalah sebesar 80%, dan prosentase desain tampilan dari sistem pakar adalah sebesar 78%. Sehingga dapat disimpulkan bahwa program ini cukup layak untuk digunakan dan masih membutuhkan pengembangan dari sisi keakuratannya.",
+  "creators": "MIA WIJAYANTI",
+  "contributors": "Rolly Intan (Advisor 1); Andreas Handojo (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000426/INF/2005; Mia Wijayanti (26401100)",
+  "subjects": "DIAGNOSIS--DATA PROCESSING; EXPERT SYSTEMS (COMPUTER SCIENCE)"
+}

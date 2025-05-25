@@ -1,0 +1,14 @@
+{
+  "id": "15813",
+  "title": "Pembuatan peralatan penunjang untuk pompa BBM mekanikal merek avery hardoll menjadi pompa elektronik non preset dengan mikrokontroler 8031",
+  "abstract": "Pada saat ini SPBU - SPBU di UPPDN V ( Jatim ,Bali NTB, NTT, Madura ), masih banyak menggunakan pompa BBM mekanikal. Pompa mekanik tersebut kurang akurat dalam menunjukkan angka pengeluaran dalam liter dan harga. Tugas akhir ini dibuat suatu alat penunjang untuk penunjukkan angka pengeluaran , yaitu penunjukkan angka digital 'liter' dan 'harga'. Pada pembuatan alat penunjang ini photocoupler dipasangkan pada piringan berlubang sebanyak 25 lubang ,karena komputer VR-10 berputar 2 putaran untuk penunjukan 1 It. kemudian data tersebut diolah didalam 8031 dengan resolusi 0.02 It, dan harga satuan dirubah melalui keypad supaya total harga dapat diketahui. Tampilan ' Total Harga ' digunakan 8 buah seven segment ,' Liter' digunakan 6 buah seven segment,' Harga Satuan ' digunakan 4 buah seven segment. Pada peralatan ini juga dilengkapi dengan battery / Accu yang berfungsi agar display peralatan ini tidak mati bila terjadi listrik padam. Pada pengujian alat penunjang ini digunakan Bejana ukur (10 It), untuk menguji keluaran liter dari pompa BBM yang biasa digunakan oleh Badan Metrologi dan Timbangan. Dengan sensor Photocoupler juga diperoleh Error rata-rata = 0,116 % saat terpasang pada pompa. Alat ini digunakan untuk semua jenis BBM ( Premium, Premix ,Solar).",
+  "creators": "F.X. HENDRO SUTJIPTO",
+  "contributors": "IRWAN SAHLI (Examination Committee 1); Resmana Lim (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 97/E/EL/021/320; F.X. Hendro Sutjipto (23487048)",
+  "subjects": "MICROCONTROLLERS 8031; PUMPING MACHINERY, ELECTRIC"
+}

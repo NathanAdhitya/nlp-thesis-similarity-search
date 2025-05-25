@@ -1,0 +1,14 @@
+{
+  "id": "25788",
+  "title": "Analisa plastis pada portal dengan penyokong eksentris",
+  "abstract": "Pada penulisan ini kami ingin membandingkan analisa plastis yang digunakan pada Eccentrically Braced Frame, berdasarkan asumsi asumsi yang dipakai dan cara mendapatkan gaya-gaya dalamnya. Ada 3 metode yang kami bandingkan yaitu metode Kasai, metode Teal dan metode Manheim. Ketiga metode ini mempunyai kesamaan anggapan, yaitu pelelehan geser terjadi pada daerah link. Pelelehan geser ini menurut hasil penelitian dapat memencarkan enersi gempa lebih baik dibandingkan pelelehan momen. Supaya link leleh dalam geser, maka panjang link harus dibatasi. Selain itu harus dicegah terjadinya kerusakan pada link sebelum pelelehan yang diharapkan terjadi, untuk itu diberikan pengaku pada daerah link. Disain Kapasitas (Capacity Design) harus diterapkan pada kolom, bracing dan balok di luar link untuk menjamin pelelehan yang sudah direncanakan terjadi pada link. Adanya proses iterasi yang harus dilakukan akan memakan banyak waktu dan memungkinkan terjadinya kesalahan kesalahan pada perhitungan yang dilakukan. Sehingga disusun suatu program dalam bahasa Turbo Pascal untuk mempercepat dan mempermudah perhitungan-perhitungan yang harus dilakukan. Perhitungan gaya-gaya gempa dan disain pengaku link tidak dibahas pada program ini. Beban gravitasi juga diabaikan pada program ini.",
+  "creators": "HENDRA TANUJAYA; GUNAWAN YUSUF",
+  "contributors": "Daniel Zefania Pribadi (Advisor 1); Ir. GIDEON HADI KUSUMA, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 363 S; Hendra Tanudjaja (283069), Gunawan Yusuf (283130)",
+  "subjects": "FRAMING (BUILDING); PLASTIC ANALYSIS-COMPUTER PROGRAMS"
+}

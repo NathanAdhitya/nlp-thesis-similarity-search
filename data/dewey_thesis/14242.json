@@ -1,0 +1,14 @@
+{
+  "id": "14242",
+  "title": "Perencanaan dan pembuatan alat pembaca huruf braille dengan menggunakan mikrokontroler 8031",
+  "abstract": "Komunikasi merupakan kebutuhan yang penting bagi semua umat manusia, tidak terkecuali bagi mereka yang menyandang cacat tubuh. Bagi kaum tuna netra salah satu alat komunikasi adalah huruf Braille, yang berbentuk relief dari kombinasi enam titik. Untuk berkomunikasi dengan orang yang tidak menyandang cacat tuna netra diperlukan proses penerjemahan naskah Braille ke naskah latin. Pada tugas akhir ini dirancang dan dibuat alat yang dapat mengubah tulisan dalam naskah huruf Braille manjadi huruf latin yang dikirim ke komputer sehingga dapat ditampilkan pada screen komputer. Pembaca relief huruf Braille adalah berupa sensor LDR. Sebagai proses utama digunakan mikrokontroler 8031 yang digunakan untuk menjalankan sistem mekanik dan pengiriman data ke komputer dilakukan dengan menggunakan komunikasi serial RS-232. Alat ini diharapkan dapat membantu komunikasi antara kaum tuna netra dengan yang tidak tuna netra.",
+  "creators": "SATRIO",
+  "contributors": "IRWAN SAHLI (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/038/432; Satrio (23491153)",
+  "subjects": "COMPUTERS; INTEL 8031 (MICROCONTROLLER); READING MACHINES (DATA PROCESSING EQUIPMENT)"
+}

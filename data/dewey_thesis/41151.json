@@ -1,0 +1,14 @@
+{
+  "id": "41151",
+  "title": "Pembuatan sistem administrasi Toko Asia Stationery dengan fitur data mining",
+  "abstract": "Toko Asia Stationery yang bertempat di Banjarmasin, merupakan toko yang menjual barang seperti alat tulis, peralatan kantor, dan lain lain. Proses bisnis yang dilakukan oleh toko ini adalah pemesanan dan pembelian barang dari supplier dan penjualan barang kepada customer. Toko memiliki penjualan secara paket (gabungan barang), variasi gabungan barang yang dipilih untuk dijual oleh pemilik toko sedikit dan tidak banyak pilihannya untuk customer saat melakukan pembelian ke toko. Pemilik toko juga kesulitan ketika ingin menambahkan barang paket karena tidak mengerti gabungan barang yang cocok pada situasi toko bulan-bulan tertentu. Seluruh proses bisnis yang dilakukan oleh toko masih bergantung pada kontrol manual sehingga kemungkinan terjadi human error sangatlah besar. Berdasarkan situasi yang ada diperlukan penyelesaian yaitu metode Data Mining dengan menggunakan aturan asosiasi dan sistem informasi administrasi berbasis website bagi toko agar dapat terkomputerisasi dan meningkatkan kontrol proses bisnis pada toko. Aplikasi ini dibuat dengan menggunakan bahasa pemograman CSS, AJAX, MySQL, JSON, Javascript, HTML, PHP, BOOTSTRAP dan MySQL sebagai media penyimpanan (database). Hasil akhir dari pembuatan aplikasi ini yaitu dapat melakukan proses pembelian, pencatatan kartu stok, penjualan, dan proses data mining metode market basket analysis yang terintegrasi dengan database. Fitur-fitur tambahan untuk mendukung data yang ada seperti reminder stok barang, laba rugi, harga pokok penjualan metode average, rekomendasi penempatan barang, rekomendasi stok barang juga diikutkan. Berdasarkan hasil keseluruhan program ini telah sesuai dengan kebutuhan toko. Hasil kuesioner yang didapat diketahui yaitu, 75% pengguna menilai tampilan baik, 25% pengguna menilai tampilan sangat baik, 100% pengguna menilai ketepatan data yang dihasilkan sangat baik, 25% pengguna menilai kemudahan aplikasi cukup, 75% pengguna menilai kemudahan aplikasi baik, 50% pengguna menilai laporan yang dihasilkan baik, 25% pengguna menilai kesesuaian terhadap kebutuhan baik, 75% pengguna menilai kesesuaian terhadap kebutuhan sangat baik.",
+  "creators": "RICKY DJUNAIDY",
+  "contributors": "Alexander Setiawan (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021664/INF/2017H; Ricky Djunaidy (26413109)",
+  "subjects": "DATABASE DESIGN; DATA MINING; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

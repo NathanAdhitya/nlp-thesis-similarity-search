@@ -1,0 +1,14 @@
+{
+  "id": "42372",
+  "title": "Analisa performa hybrid ant colony optimization dalam memecahkan vehicle routing problem with time windows",
+  "abstract": "Di zaman modern ini, manusia sudah banyak dibantu oleh perkembangan teknologi. Salah satu bidang tersebut adalah bidang pengiriman barang, yang dinamakan Vehicle Routing Problem (VRP). Vehicle Routing Problem adalah masalah di mana terdapat sebuah armada pengiriman barang yang harus mengirimkan sejumlah barang kepada berbagai pelanggan. Solusi yang dicari adalah rute paling pendek yang bisa dilakukan armada tersebut. Hybrid Ant Colony Optimization (HACO) adalah algoritma yang meniru cara semut mencari makanan, yang merupakan perkembangan dari Ant Colony Optimization. Algoritma tersebut dipublikasikan oleh Ding, Hu, Sun dan Wang pada tahun 2012 untuk menyelesaikan Vehicle Routing Problem with Time Windows (VRPTW). Namun dari penelitian yang dipublikasikan tersebut, terdapat beberapa ketidakjelasan seperti waktu proses dan memori yang dipakai. Oleh karena itu dalam skripsi ini perlu ada pengkajian ulang untuk menjelaskan performa dari algoritma HACO dalam memecahkan VRPTW, yang akan dilakukan dengan unity. Di dalam skripsi ini juga dibahas beberapa pengembangan dalam HACO yang diharapkan dapat memperbaiki dan meningkatkan hasil dari HACO.",
+  "creators": "TIMOTHY HANDI WIBAWA",
+  "contributors": "Rolly Intan (Advisor 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021793/INF/2018; Timothy Handi Wibawa (26414006)",
+  "subjects": "ANT ALGORITHMS; ALGORITHMS"
+}

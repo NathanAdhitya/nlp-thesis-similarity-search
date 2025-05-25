@@ -1,0 +1,14 @@
+{
+  "id": "20800",
+  "title": "Analisa sistem penjadwalan produksi di CV. Sinar Baja Elektric",
+  "abstract": "Penjadwalan produksi sangatlah diperlukan dalam perusahaan manufakturing lerutama perusahaan yang memproduksi berbagai macam tipe produk dengan melalui aliran produksi yang sama (sistem produksi flowshop). Penjadwalan produksi ini diperlukan untuk mengatur dan menetapkan urutan pengcrjaanyo/j pada mesin-mesin proses, karena biasanya dalam sistem flowshop ini mesin yang digunakan untuk proses jumlahnya terbatas sedangkan jumlah tipe job yang hams dikerjakan relatif banyak. Oleh karena itu dengan adanya penjadwalan yang tepat diharapkan akan mampu menghasilkan nilai makespan yang minimum. Nilai makespan merupakan waktu penyelesaian job terakhir yang meninggaikan sistem. Tanpa adanya penjadwalan produksi yang tepat maka akan mengakibatkan waktu yang dibutuhkan untuk memproduksi job-job tersebut menjadi lebih lama sehingga akan berdampak pada peningkatan biaya produksi serta adanya waktu idle mesin yang besar. Dengan bertolak pada masalah di atas, maka penulis berkeinginan untuk melakukan penelitian dan perbandingan diantara keempat metode penjadwalan yang ada yaitu metode heuristic NEH, CDS, HC dan SPIRIT dengan tujuan untuk mengetahui metode mana yang paling mampu meminimasi makespan. Adapun data yang digunakan oleh penulis sebagai bahan perbandingan adalah data waktu proses yang diperoleh penulis dengan melakukan pengamatan di CV. Sinar Baja Electric. Hasil akhir yang diperoleh dari perbandingan tersebut, ternyata metode heuristic SPIRITlah yang mampu menghasilkan makespan yang paling minimum. Oleh karenanya, diharapkan nantinya metode penjadwalan SPIRIT dapat diterapkan pada penjadwalan produksi di perusahaan ini.",
+  "creators": "LILIANA LYDIAWATI",
+  "contributors": "Kristiana Asih Damayanti (Examination Committee 1); Tessa Vanina Soetanto (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 331/TI-58/2000; Liliana Lydiawati (25495114)",
+  "subjects": "PRODUCTION PLANNING; SCHEDULING"
+}

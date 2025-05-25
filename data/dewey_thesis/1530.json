@@ -1,0 +1,14 @@
+{
+  "id": "1530",
+  "title": "Perbandingan implementasi basis data terdistribusi pada SQL server 2000 dan Oracle 9i untuk aplikasi penjualan",
+  "abstract": "Ada beberapa masalah yang seringkali menghambat pemenuhan kebutuhan informasi perusahaan diantaranya adalah jarak kantor pusat dengan cabang, kemungkinan server yang gagal, dan karakteristik sales dengan mobilitas tinggi. Sistem basis data terdistribusi hadir untuk mengatasi permasalahan tersebut. Sedangkan vendor yang paling terkenal di pasar Indonesia saat ini adalah Microsoft SQL Server dan Oracle Server. Karena itu perbandingan perencanaan, penerapan, kemampuan dan teknologi sistem basis data terdistribusi pada database engine kedua vendor tersebut (SQL Server 2000 dan Oracle 9i) akan sangat membantu perusahaan untuk memilih sistem yang mampu meningkatkan performance basis data, meminimumkan traffic network dan menjamin ketersediaan data dengan respond time cepat. Perbandingan dilakukan dengan membuat sistem basis data terdistribusi menggunakan teknologi replikasi dan fragmentasi yang disediakan oleh SQL Server 2000 dan Oracle 9i berbasiskan Windows 2000 Server, pada aplikasi penjualan (sales force automation) dengan sistem lebih dari satu server yang selalu online dan saling bersinkronisasi. Akan dibandingkan pula metode replikasi, penanganan konflik dan sinkronisasi pada SQL Server 2000 dan Oracle 9i. Pada akhirnya dapat diambil kesimpulan bahwa kedua database engine SQL Server 2000 dan Oracle 9i sama-sama dapat membangun sistem basis data terdistribusi melalui teknologi replikasi dan fragmentasi dengan keunggulannya masing-masing. SQL Server 2000 diantaranya unggul dalam instalasi dan penggunaan yang lebih mudah, sedangkan Oracle 9i diantaranya unggul dalam support berbagai macam platform. Keduanya juga sama-sama dapat mengatasi konflik. Dalam hal waktu sinkronisasi SQL Server 2000 lebih efisien namun dalam hal sinkronisasi yang diperluas dengan menjalankan trigger Oracle 9i lebih efisien.",
+  "creators": "EPHRAIM GUNAWAN",
+  "contributors": "Kartika Gunadi (Advisor 1); Irwan Kristanto Julistiono (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/0095/INF/2003; Ephraim Gunawan (26499011)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN"
+}

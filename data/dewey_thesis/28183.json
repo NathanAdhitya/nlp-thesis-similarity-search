@@ -1,0 +1,14 @@
+{
+  "id": "28183",
+  "title": "Perencanaan dan pembuatan alat penjawab pesawat telepon otomatis tanpa pita kaset dengan bantuan mikrokontroler 8031",
+  "abstract": "Sistem telekomunikasi dewasa ini semakin berkembang pesat sejalan dengan berkembangnya ilmu pengetahuan dan teknologi. Sistem telekomunikasi yang paling umum digunakan adalah pesawat telepon. Pada umumnya seseorang memakai pesawat telepon untuk menyampaikan pesan-pesan tertentu kepada lawan bicaranya, tetapi banyak dijumpai bahwa orang yang dihubungi sedang tidak berada diterapat. Untuk itu dibuatlah suatu alat yang dapat menyimpan pesan-pesan yang disampaikan oleh penelpon sehingga pemilik telepon dapat mengetahui berapa banyak pesan yang masuk selagi dia tidak berada di tempat tersebut. Pada tugas akhir ini dibuat sebuah alat yang dapat menyimpan dan memainkan ulang rekaman percakapan dari penelpon yang disimpan pada memori yang dalam hal ini berupa memori digital, menggantikan rangkaian memori konvensional yang berupa pita kaset analog. Prinsip dasar dari alat ini adalah mengkonversikan sinyal suara manusia kedalam bentuk data digital, dengan menggunakan suatu rangkaian konversi analog ke digital yang dikenal dengan sebutan Delta Modulator. Selama melakukan proses konversi, data digital hasil konversi tersebut disimpan pada RAM yang dikontrol oleh mikroprosesor 8031. Untuk mengeluarkan data digital yang disimpan, digunakan konversi digital ke analog dengan rangkaian yang sama dengan diatas yaitu Delta Modulator sehingga data digital kembali menjadi sinyal suara manusia dan dapat didengarkan melalui rangkaian penguat yang disambungkan pada sebuah pengeras suara.",
+  "creators": "IGNATIUS KRISNA",
+  "contributors": "HANDAYANI T. (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 2); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Satya Wacana",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/009/0166; Ignatius Krisna (23488043)",
+  "subjects": "TELEPHONE ANSWERING AND RECORDING APPARATUS"
+}

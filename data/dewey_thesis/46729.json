@@ -1,0 +1,14 @@
+{
+  "id": "46729",
+  "title": "Analisis dengan data mining untuk membantu jurusan membimbing mahasiswa terhadap pengambilan mata kuliah per semester",
+  "abstract": "Kurikulum adalah istilah yang sering merujuk pada urutan tindakan yang disarankan atau wajib termasuk kursus untuk mahasiswa. Itu dirancang oleh universitas untuk mencapai beberapa tujuan pendidikan. Dalam mengambil kursus sesuai dengan kurikulum setiap semester ada mahasiswa yang lulus dan ada pula yang gagal. Untuk alasan ini, upaya dilakukan untuk memberikan informasi kepada jurusan untuk membantu mahasiswa mengambil mata kuliah per semester. Dengan menerapkan data mining ke data kurikulum, akan menghasilkan data yang berkelompok, kelompok mahasiswa yang lulus dan gagal, dan dapat menyesuaikan prasyarat dalam kurikulum. Metode data mining yang digunakan adalah clustering. Ada 2 model untuk menganalisis data dari mahasiswa yang telah mengambil kursus. Model lengkap berisi mahasiswa yang telah mengambil mata kuliah selama 8 semester dan model sebagian yang berisi mahasiswa yang telah mengambil mata kuliah selama 3 semester. Di mana nantinya model sebagian ini digunakan untuk memberikan informasi kepada jurusan untuk membantu siswa baru mengambil mata kuliah.",
+  "creators": "INDRO SETIAWAN",
+  "contributors": "Henry Navianus Palit (Advisor 1); Rolly Intan (Advisor 2); I Gede Agus Widyadana (Examination Committee 1); Siana Halim (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01010003/MTI/2020; Indro Setiawan (05516002)",
+  "subjects": "DATA MINING; DATA MINING--STATISTICAL METHODS"
+}

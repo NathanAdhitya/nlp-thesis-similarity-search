@@ -1,0 +1,14 @@
+{
+  "id": "2554",
+  "title": "Perancangan dan pembuatan sistem informasi pemberian kredit usaha mikro dan kecil pada PT. Bank Pembangunan Kalimantan Tengah",
+  "abstract": "Salah satu strategi PT. Bank Pembangunan Kalimantan Tengah (PT. BPK) sebagai bank daerah untuk membantu pembangunan di Kalimantan Tengah adalah dengan memberikan Kredit Usaha Mikro dan Kecil (KUMK). Proses pemberian dan analisa KUMK pada PT. BPK masih dilakukan secara manual sehingga waktu yang diperlukan untuk mengelola data debitur dan permohonan, serta melakukan analisa terhadap permohonan KUMK lebih lama sehingga menimbulkan panjangnya antrian calon debitur. Oleh karena itu dibutuhkan suatu aplikasi sistem informasi pemberian KUMK dengan konsep perancangan yang mengacu pada proses pengelolaan data permohonan calon debitur, perhitungan nilai parameter analisa yang membantu pengambilan keputusan, sampai dengan proses pengembalian KUMK. Proses-proses tersebut meliputi: pencatatan data permohonan, perhitungan parameter yang dijabarkan dari analisa manual yang selama ini dilakukan oleh unit kerja analisa bagian perkreditan PT. BPK, perhitungan bunga dan denda, serta laporan keuangan. Aplikasi ini menggunakan Borland Delphi 6.0. dan SQL Server 7. Hasil dari pembuatan aplikasi ini memungkinkan pengelolaan data debitur dengan lebih efisien dan dapat mengurangi kesalahan yang terjadi pada sistem manual. Unit kerja analisa juga dapat terbantu dengan hasil analisa yang membantu pengambilan keputusan untuk menentukan kelayakan calon debitur untuk menerima kredit. Selain itu, pembuatan laporan berupa laporan realisasi KUMK dan laporan keuangan menjadi lebih mudah.",
+  "creators": "DEVI KAROLITA",
+  "contributors": "Kartika Gunadi (Advisor 1); Andreas Handojo (Advisor 2); Sukanto Tedjokusuma (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000379/INF/2005; Devi Karolita (26400132)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "26157",
+  "title": "Pengaplikasian metode interlace dan deinterlace pada video",
+  "abstract": "Di zaman yang serba teknologi ini, kecepatan serta ketepatan dalam mengakses suatu informasi melalui suatu media sangatlah penting. Informasi yang dipublikasikan secara real time melalui media video sangatlah berat, dikarenakan ukuran data yang cukup besar. Oleh karena itu, pada skripsi ini, dibuat aplikasi pengiriman informasi dalam media video memanfaatkan metode interlace dan deinterlace dalam mengurangi ukurannya, namun relatif tetap memperhatikan kualitas dari video tersebut. Aplikasi dibuat menggunakan Microsoft Visual C#. Hasil pengujian menunjukkan bahwa jumlah client tidak mempengaruhi konsumsi bandwidth pada saat multicast. Kelancaran multicast bergantung pada beberapa faktor seperti tipe kompresi gambar. Salah satunya menggunakan interlace sebagai metode kompresi gambar.",
+  "creators": "GILBERTO ERWANTO",
+  "contributors": "Liliana (Advisor 1); Justinus Andjarwirawan (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021090/INF/2011; Gilberto Erwanto (26408096)",
+  "subjects": "COMPUTER GRAPHICS; DIGITAL VIDEO-DATA PROCESSING; DIGITAL VIDEO-EDITING; IMAGE PROCESING-DIGITAL TECHNIQUES"
+}

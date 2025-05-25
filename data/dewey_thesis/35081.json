@@ -1,0 +1,14 @@
+{
+  "id": "35081",
+  "title": "Vulnerability mapping pada jaringan komputer di Universitas X",
+  "abstract": "Universitas X saat ini bertumbuh semakin besar dan memiliki berbagai macam sistem informasi dalam menjalankan kegiatan operasionalnya. Salah satu server yang paling penting di Universitas X adalah www.xyz.ac.id. URL tersebut adalah salah satu URL yang sering dikunjungi oleh masyarakat luar untuk mengenal Universitas X lebih dekat secara umum. Keamanan web server biasanya merupakan masalah dari seorang administrator. Seringkali masalah keamanan sistem aplikasi maupun web server terabaikan dan pentingnya pengamanan baru disadari setelah terjadi bencana. Tanpa pengamanan sistem aplikasi yang baik, penerapan teknologi sehebat apapun akan sangat membahayakan institusi atau organisasi itu sendiri. Oleh karena itu, dibutuhkan evaluasi keamanan server dan melakukan mapping vulnerability untuk lebih mewaspadai keamanan server. Berdasarkan latar belakang permasalahan itu, maka dibutuhkan evaluasi dengan menggunakan metode penetration testing. Selain itu, penelitian ini juga menggunakan pedoman dari modul CEH (Certified Ethical Hacker) dan web resmi acunetix. Pengujian skripsi ini adalah bertujuan untuk menemukan kelemahan server pada Universitas X yang ada. Beberapa masalah yang ditemukan setelah pengujian, antara lain: kelemahan yang ditemukan cukup banyak dimana setiap kelemahan yang ada mempunyai penanganan yang berbeda, port yang seharusnya tidak terbuka malah terbuka, dan IP public yang kurang penting sebaiknya tidak terbuka. Solusi yang diberikan untuk mengatasi permasalahan tersebut antara lain: penggunaan standar acunetix ini dapat dipertahankan dan dilanjutkan, pengujian akan lebih baik dilakukan lebih dari 1 kali, melakukan upgrade web server ke versi yang lebih baru secara berkala, melakukan filter port yang ada, meningkatkan tingkat keamanan web server, maintenance secara berkala, dan melakukan pengujian keamanan secara rutin dan berkala, baik dengan berkonsultasi kepada bidang terkait maupun menggunakan suatu panduan (seperti acunetix, CEH, OWASP).",
+  "creators": "DEVI CHRISTIANI ANGIR",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Justinus Andjarwirawan (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021412/INF/2015; Devi Christiani Angir (26411163)",
+  "subjects": "COMPUTER SECURITY; COMPUTER NETWORKS; COMPUTER HACKERS"
+}

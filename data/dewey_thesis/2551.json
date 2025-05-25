@@ -1,0 +1,14 @@
+{
+  "id": "2551",
+  "title": "Perancangan dan pembuatan sistem informasi penjualan, pembelian dan produksi meubel di CV. Karya Jadi, Surabaya",
+  "abstract": "Sistem Informasi Penjualan, Pembelian dan Produksi pada CV. Karya Jadi saat ini masih menggunakan sistem manual. Hal tersebut menjadi permasalahan pokok sehingga sering terjadi kesalahan terutama dalam aktivitas kerja seperti pencatatan data, penghitungan, pengecekan data dan laporan-laporan. Sistem manual juga menyebabkan alur sistem perusahaan menjadi panjang dan rumit sehingga dapat mengakibatkan terjadinya redundancy (data yang berlebihan). Hal tersebut menyebabkan proses kerja menjadi tidak praktis dan tidak efisien. Untuk mengatasi permasalahan tersebut, dibutuhkan sistem baru untuk dapat mengganti sistem saat ini yaitu mengubah sistem manual menjadi sistem komputerisasi. Tujuan dari aplikasi ini adalah untuk meningkatkan efektivitas dan efisiensi perusahaan. Selain itu program memudahkan para adminitrasi yang terlibat dalam sistem penjualan, pembelian dan inventori perusahaan untuk melakukan pencatatan, penghitungan, pengecekan dan penyimpanan data-data. Perancangan dan pembuatan sistem informasi penjualan, pembelian dan inventori yang baru dengan membuat suatu program aplikasi menggunakan Borland Delphi 7 dan SQL Server 2000 untuk databasenya. Hal lain yang juga perlu dilakukan dalam merancang sistem yang baru adalah merancang Conceptual Entity Relationship Diagram maupun Physical Entity Relationship Diagram. Hasil pengujian menyatakan bahwa aplikasi ini dapat mengakses data yang diperlukan dalam proses pembelian, produksi dan penjualan. Program juga dapat menghasilkan laporan yang diantaranya laporan penjualan, laporan pembelian, laporan produksi, laporan hutang, laporan piutang, laporan stok, HPP dan laporan laba rugi.",
+  "creators": "GUNAWAN HADIWIJAYA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Theresia Lestiowati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000376/INF/2005; Gunawan Hadiwijaya (26400036)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

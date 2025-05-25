@@ -1,0 +1,14 @@
+{
+  "id": "44324",
+  "title": "Analisis jumlah welder dan operator welding preparation yang optimal untuk mengurangi bottleneck pada proses welding",
+  "abstract": "PT XYZ adalah perusahaan manufaktur yang bergerak pada bidang pembuatan heat exchanger. PT XYZ memiliki strategi pemenuhan permintaan make to order dengan variasi produk yang besar. Proses produksi yang ada pada perusahaan terdiri dari beberapa line, salah satunya adalah lintasan SS-CS. Lintasan SS-CS mengalami bottleneck pada salah satu prosesnya, yaitu proses welding. Proses welding sendiri dikerjakan oleh welder dan operator welding preparation. Jumlah welder dan operator welding preparation dianggap tidak seimbang sehingga menimbulkan bottleneck pada proses welding. Tujuan dari penelitian ini adalah untuk mencari jumlah welder dan operator welding preparation yang optimal sehingga proses welding tidak mengalami bottleneck. Pengerjaan dibagi kedalam empat tahap. Tahap pertama adalah mengambil data waktu untuk setiap elemen proses yang ada pada proses welding. Tahap kedua adalah pencarian waktu baku untuk setiap elemen proses welding. Pengujian perbedaan waktu welding terhadap diameter dan ranking welder juga dilakukan menggunakan uji two-sample t-test yang berguna sebagai data pendukung pencarian waktu baku. Tahap ketiga adalah pembuatan simulasi untuk mengetahui jumlah pekerja optimal dengan mempertimbangkan output yang dihasilkan serta utilitas welder dan operator welding preparation. Tahap terakhir adalah analisis terhadap biaya yang dikeluarkan untuk menambah pekerja. Jumlah welder yang optimal melalui hasil perhitungan dan simulasi yang dilakukan adalah 16 orang sedangkan operator welding preparation 7 orang. Output yang dihasilkan dengan jumlah pekerja optimal dapat mencapai lebih dari 2 kali lipat kondisi semula. Rata-rata utilitas kedua jenis pekerja lebih dari 90% dan hampir seimbang dengan perbedaan 5.98%. Dengan menerapkan usulan ini, perusahaan dapat menghemat Rp. 504.523,90 per bulan dilihat dari segi tidak diperlukannya lagi biaya overtime yang selama ini dikeluarkan dan gaji penambahan pekerja yang akan dikeluarkan.",
+  "creators": "AGNES YOSEPHINE K",
+  "contributors": "I Nyoman Sutapa (Advisor 1); Benedictus Rahardjo S.T. M.B.A. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022168/IND/2018; Agnes Yosephine Kosasih (25414011)",
+  "subjects": "PERSONNEL MANAGEMENT--RESEARCH; TIME STUDY; WORK MEASUREMENT"
+}

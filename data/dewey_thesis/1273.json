@@ -1,0 +1,14 @@
+{
+  "id": "1273",
+  "title": "Perencanaan dan pembuatan pengontrol personal computer pada laboratorium melalui web",
+  "abstract": "Jurusan Teknik Informatika Universitas Kristen Petra memiliki lima laboratorium yang digunakan untuk mengorganisasi semua mata kuliah yang di kurikulum. Didalam pengoperasian laboratorium, tidak lepas dari masalah yang ada. Masalah yang sering dihadapi sekitar penggunaan komputer pada laboratorium yang tidak semestinya antara lain para praktikan yang membuka dan menggunakan program lain pada waktu praktikum berjalan, membuka site-site terlarang di laboratorium. Kegiatan ini dapat menyebabkan terganggunya konsentrasi didalam kegiatan praktikum. Untuk menanggulangi masalah tersebut dibuatlah program aplikasi yang memiliki fasilitas-fasilitas yang dapat membantu dalam pengorganisasian laboratorium. Program ini dibuat dengan menggunakan Borland Delphi 5.0 untuk segi client dan server. Client merupakan komputer yang ada di laboratorium, server bertugas untuk mengorganisasi client. Selain client dan server ada user yang berbentuk web yang digunakan untuk mengendalikan server dari lain tempat. User ini di buat dengan menggunakan fasilitas web dari Borland Delphi 5.0 dengan menggunakan ISAPI. Keberhasilan program aplikasi ini yaitu dapat melakukan pengiriman pesan ke client, melakukan penguncian dan pembebasan kembali terhadap inputan dari keyboard dan mouse untuk komputer client, melakukan shut down dan reboot untuk komputer client, melihat tampilan layar monitor client, menampilkan program apa saja yang sedang aktif dijalankan di komputer client, dan dapat mematikan program yang sedang aktif djalankan di komputer client.",
+  "creators": "ANDYLO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Rudy Adipranata (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 010001/INF/2002; Andylo (26498071)",
+  "subjects": "INTERNET PROGRAMMING; INTERNET(COMPUTER NETWORKS)-AUTOMATION"
+}

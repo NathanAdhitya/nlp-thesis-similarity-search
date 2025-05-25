@@ -1,0 +1,14 @@
+{
+  "id": "46591",
+  "title": "Kendali nutrisi dan pencahayaan untuk menumbuhkan tanaman hidroponik berbasis IoT",
+  "abstract": "Menanam dengan metode hidroponik masih dilakukan dengan cara manual. Tugas akhir ini bertujuan untuk mendesain sistem otomatis pada hidroponik untuk memudahkan dalam pemberiaan nutrisi dan cahaya pada tanaman yang dapat dikendalikan menggunakan smartphone. Sistem yang dibuat terdiri dari perangkat keras dan program. Didalam sistem terdapat lima sensor yaitu sensor ultrasonik, TDS, pH, LDR dan DHT22 yang masing-masing memiliki peranan tersendiri. Seluruh sensor dan aktuator dikontrol menggunakan Arduino Uno. Berdasarkan hasil pengujian sistem yang telah dilakukan, sistem dapat mengontrol nutrisi dan pencahayaan dengan baik dan waktu yang dibutuhkan sensor untuk dapat membaca data yang mendekati nilai setpoint adalah 2-3 hari. Fan difungsikan untuk sirkulasi udara dalam ruangan. Hasil pembacaan sensor dapat dimonitor dengan mudah dengan menggunakan aplikasi pada smartphone.",
+  "creators": "WILSON SINAI",
+  "contributors": "Indar Sugiarto (Advisor 1); Resmana Lim (Advisor 2); Handry Khoswanto (Examination Committee 1); Handy Wicaksono (Examination Committee 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010140/ELK/2020; Wilson Sinai (23415030)",
+  "subjects": "AUTOMATIC MACHINERY; AUTOMATIC CONTROL; ARDUINO (PROGRAMMABLE CONTROLLER)"
+}

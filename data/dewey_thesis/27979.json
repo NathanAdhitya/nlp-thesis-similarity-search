@@ -1,0 +1,14 @@
+{
+  "id": "27979",
+  "title": "Sistem pengaturan untuk pengukuran dan pemotongan bahan material plastik dengan menggunakan mikrokontroler 8031",
+  "abstract": "Pada saat ini banyak tumbuh perusahaan-perusahaan plastik, salah satunya adalah perusahaan yang memproduksi karung goni plastik. Pada perusahaan ini proses pemotongan masih banyak secara keseluruhan dilakukan oleh tenaga manusia, baik dari pengukuran sampai pemotongan. Pembuatan peralatan ini bertujuan meningkatkan jumlah hasil produksi dan efesiensi kerja. Secara garis besar peralatan ini terdiri dari rangkaian minimum sistem dengan microkontroller 8031 yang dilengkapi dengan keyboard serta display untuk ukuran panjang karung dan jumlah potongan karung. Bila diinginkan ukuran panjang karung serta jumlah potongannya, maka tinggal menekan keyboard dan angka akan tampak pada display, kemudian minimum sistem akan memberikan pulsa pada motor stepper untuk bergerak (proses pengukuran), dalam hal ini harus diketahui berapa jauh motor stepper bergerak dalam satu pulsa. Setelah proses pengukuran selesai, proses pemotongan akan bekerja, proses pemotongan akan digerakkan dengan motor DC, gerak alat pemotongan tersebut adalah naik-turun, alat pemotong yang digunakan adalah kawat niklin yang dialiri arus sehingga timbul panas. Kesemua proses ini dilakukan secara otomatis. Alat pengaturan ini mempunyai ketelitian ± 1 cm dan pengukuran yang dihasilkan cukup stabil.",
+  "creators": "MULYADI",
+  "contributors": "HERLIANTO TENGGARA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/007/0164; Mulyadi (23487062)",
+  "subjects": "AUTOMATIC CONTROL; MICROCONTROLLER 8031"
+}

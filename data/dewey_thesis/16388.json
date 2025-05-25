@@ -1,0 +1,14 @@
+{
+  "id": "16388",
+  "title": "Sebuah pendekatan heuristic untuk penjadualan produksi job shop dengan algoritma penjadualan fuzzy dinamic",
+  "abstract": "Penjadualan merupakan hal yang cukup penting dalam kelancaran suatu produksi, oleh karena itu masalah ini haruslah diberi perhatian yang cukup. Pada Tugas Akhir ini penuiis mencoba menerapkan suatu pendekatan heuristik dalam penjadualan produksi job shop dengan menggunakan Algoritma Penjadualan Fuzzy dynamic pada sebuah perusahaan yang bergerak dalam pembuatan mesin-mesin pertanian. Algoritma Penjadualan Fuzzy Dynamic (FDSAs) adalah sebuah metode yang mencoba menggabungkan beberapa prioritas yang ada dalam penjadualan untuk dihasilkan suatu jadual yang nantinya diharapkan lebih baik atau lebih optimal dan metode yang ada sebelumnya. Pada tugas akhir ini prioritas yang digunakan adalah lamanya waktu proses dan banyaknya proses yang ada pada masing-masing job. Pada perhitungan maximum flow time dan mean flaw time pada prioritas yang pertama, yaitu lamanya waktu proses terdapat dua kemungkinan urutan jadual yang ada, sedangkan untuk prioritas kedua, yaitu banyaknya proses terjadi banyak kemungkinan susunan jadual yang ada, yaitu 4.368.889.219600.000.000 sehingga perhitungannya membutuhkan waktu yang sangat lama. Oleh karena keterbatasan waktu yang ada, maka dalam tugas akhir ini susunan jadual yang ada tersebut diambil secara random sebanyak 228.927.616 kemungkinan, yang membutuhkan waktu perhitungan dengan menggunakan komputer (Pentium 200 MMX, dengan memori 16 MB) selama delapan hari. Hasil dari perhitungan ini kemudian digunakan dalam perhitungan bobot vektor tiap prioritas yang ada.. Hasil dari perhitungan dengan menggunakan metode FDSAs ini, belum dapat dikatakan lebih baik atau lebih buruk dari metode heuristik yang ada, seperti SPT {Shortest Process Time), LPT {Longest Process Time), LWKR {least Work Remaining), dan Iain-lain, karena hasil yang didapatkan pada perhitungan maximum flow time dan mean flow time belum bisa dipastikan sebagai nilai optimal.",
+  "creators": "STEFANNUS AGUNG KURNIAWAN",
+  "contributors": "Tessa Vanina Soetanto (Advisor 1); I Nyoman Sutapa (Advisor 2); Didik Wahjudi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 299/TI-26/2000; Stefannus Agung Kurniawan (25495045)",
+  "subjects": "JOB DESCRIPTION; MANUFACTURING PROCESSES"
+}

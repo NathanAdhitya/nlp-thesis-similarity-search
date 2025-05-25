@@ -1,0 +1,14 @@
+{
+  "id": "43808",
+  "title": "Analisa efisiensi penggunaan MPPT pada solar cell",
+  "abstract": "Laporan tugas akhir ini bertujuan untuk mengetahui seberapa besar pengaruh MPPT terhadap tingkat efisiensi dari sistem PLTS. Tugas akhir ini dilakukan di Universitas Kristen Petra Gedung P lantai 7. Sistem PLTS menggunakan 2 buah modul solar cell tipe RSM 45 yang memiliki masing-masing daya puncak sebesar 45 Watt. Salah 1 modul solar cell tersambung dengan charge controller dengan MPPT sedangkan 1 modul solar cell lainnya tersambung dengan charge controller tanpa MPPT. Data tugas akhir ini diambil selama 2 hari pada tanggal 3 Mei 2018 dan 4 Juni 2018. Data yang diambil adalah arus dan tegangan yang dihasilkan oleh masing-masing modul solar cell. Data-data tersebut kemudian diolah supaya diketahui berapa besar daya dan energi yang dihasilkan masing-masing modul. Kemudian dari data daya dan energi yang diperoleh dari masing-masing modul dibandingkan, dan dapat disimpulkan bahwa charge controller dengan MPPT menghasilkan daya 8,61 % lebih besar dibandingkan dengan charge controller tanpa MPPT, dan menghasilkan energi 13% lebih besar dibandingkan dengan charge controller tanpa MPPT.",
+  "creators": "DENNIS KAWARE",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 1); Murtiyanto Santoso (Advisor 2); Daniel Rohi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010648/ELK/2018; Dennis Kaware (23414006)",
+  "subjects": "SOLAR CELLS--RESEARCH; MICROCONTROLLERS"
+}

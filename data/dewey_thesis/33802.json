@@ -1,0 +1,14 @@
+{
+  "id": "33802",
+  "title": "Implementasi efek caustic pada objek transparan dengan menggunakan ray tracing",
+  "abstract": "Rendering adalah proses akhir dari keseluruhan proses pemodelan ataupun animasi komputer untuk mengubah benda berupa tiga dimensi menjadi dua dimensi. Salah satu metode rendering yang popular sekarang ini adalah ray tracing. Ray tracing adalah teknik untuk menghasilkan gambar dengan menelusuri jalan cahaya melalui pixel dalam image. Teknik ini mampu menghasilkan tingkat realisme visual yang sangat tinggi, tetapi dengan biaya komputasi yang lebih besar. Metode ray tracing mampu menghasilkan gambar yang realistik karena memperhitungkan efek-efek pencahayaan seperti ambient, diffuse dan specular. Pemantulan dan pembiasan cahaya juga dihitung dalam ray tracing. Selain itu metode ray tracing dibagi menjadi dua macam, yaitu penelusuran sinar dari mata (backward ray tracing) dan penelusuran sinar dari sumber cahaya (forward ray tracing). Efek caustic dihasilkan dengan memancarkan cahaya lampu pada benda transparan. Cahaya yang dibiaskan akan berkumpul di suatu daerah sehingga daerah tersebut akan tampak terang dari sekitarnya. Pada penelitian sebelumnya, efek caustic diterapkan pada objek yang primitif, di mana pengecekan cahaya dilakukan satu kali tiap objek. Pada penelitian ini, objek yang digunakan adalah mesh. Pengecekan cahaya akan dilakukan pada setiap segitiga yang ada dalam mesh. Hasil menujukkan semakin besar indeks bias, maka efek caustic lebih berkumpul pada area tertentu pada benda beralas bulat, namun menyebar pada benda beralas datar dan lancip. Peningkatan pada kompleksitas mesh akan menambah waktu secara linear. Perbandingan dengan software lain menunjukkan perbedaan dalam bentuk efek caustic dan waktu rendering.",
+  "creators": "EDWARD PRIMANATA YOEWONO",
+  "contributors": "Liliana (Advisor 1); Rolly Intan (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021391/INF/2015; Edward Primanata Yoewono (26411045)",
+  "subjects": "COMPUTER GRAPHICS; IMAGE PROCESING"
+}

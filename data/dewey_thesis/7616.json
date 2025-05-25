@@ -1,0 +1,14 @@
+{
+  "id": "7616",
+  "title": "Perancangan dan pembuatan sistem jalur pengiriman terpendek pada PT Morodadi dengan metode tabu search",
+  "abstract": "Dewasa ini bahan bakar minyak telah mengalami kenaikan harga yang banyak, oleh karena itu banyak perusahaan yang melakukan penghematan bahan bakar yang digunakan. Penghematan bahan bakar ini dapat dilakukan dengan beberapa cara salah satunya adalah memilih jalur yang terpendek yang akan ditempuh dalam pengiriman ke berbagai customer. Oleh karena itu program ini diharapkan dapat membantu PT Morodadi dalam menentukan rute pengiriman yang paling pendek. Metode yang digunakan dalam program ini adalah Tabu Search. Algoritma Tabu Search ini dipilih karena algoritma ini akan menghitung semua alternatif jalur yang memungkinkan untuk dilalui, jadi Tabu Search ini tidak akan terjebak dalam kondisi local optimum. Program ini dibuat dengan menggunakan compiler Borland Delphi 5 dan Microsoft SQL Server 2000 sebagai software database. Dengan menggunakan program ini, user dapat meng-input-kan posisi customer pada peta dan juga rute yang menghubungkan antara dua customer. Sedangkan hasil jalur terpendek dapat diketahui secara visual dengan adanya penggambaran hasil rute pada peta yang digunakan. Selain itu pada program ini juga terdapat fitur tambahan untuk meningkatkan kinerja dengan cara mengatur penjualan dan pembelian yang dilakukan oleh PT Morodadi, serta terdapat pula laporan stok barang, laporan penjualan, laporan pembelian, dan laporan laba rugi yang dapat dilihat pada akhir periode. Dalam program ini dilakukan pengecekkan pada iterasi Tabu Search, dimana telah disimpulkan penulis bahwa iterasi sebaiknya diatas Im (Iterasi Minimum) untuk mendapatkan solusi akhir yang paling baik. Dengan adanya program ini maka PT Morodadi sangat terbantu dalam menentukan rute pengiriman yang terpendek.",
+  "creators": "SONNI WIBOWO ADISUWITO",
+  "contributors": "Resmana Lim (Advisor 1); Kartika Gunadi (Advisor 2); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000396/INF/2005; Sonni Wibowo Adisuwito (26401036)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "60669",
+  "title": "Prediksi pergerakan harga saham di Indonesia menggunakan metode ARIMA",
+  "abstract": "Penelitian ini bertujuan untuk mempelajari penggunaan model Autoregressive Integrated Moving Average (ARIMA) untuk memprediksi harga saham dengan membandingkan 20 perusahaan sektor energi yang terdapat di Bursa Efek Indonesia. Data harga saham historis diambil dari Yahoo Finance untuk periode Januari hingga April 2024. Model ARIMA dipilih berdasarkan nilai Akaike Information Criterion (AIC) terendah. Evaluasi dilakukan menggunakan tiga metrik nilai error: Mean Squared Error (MSE), Mean Absolute Error (MAE), dan Root Mean Squared Error (RMSE). Hasil menunjukkan bahwa saham ELSA (1,0,0) karena memiliki nilai error MSE sebesar 27.7526, MAE sebesar 4.8832, dan RMSE sebesar 5.2681 untuk prediksi periode 7 hari dan untuk kinerja prediksi terbaik dalam 30 hari dengan nilai MSE sebesar 168.7569, MAE sebesar 11.1394, dan RMSE sebesar 12.9906. Penelitian ini menyarankan optimasi parameter dan penggunaan data historis yang lebih panjang untuk meningkatkan akurasi model prediksi. Penelitian ini diharapkan dapat memberikan panduan bagi investor dalam memilih model prediksi yang akurat untuk pengambilan keputusan investasi yang lebih baik.",
+  "creators": "RENALDI",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Kartika Gunadi (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022557/INF/2024; Renaldi (C14200092)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; BOX-JENKINS FORECASTING; STOCK PRICE FORECASTING"
+}

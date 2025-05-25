@@ -1,0 +1,14 @@
+{
+  "id": "51909",
+  "title": "Ringkasan ekstraktif otomatis pada berita berbahasa Indonesia menggunakan metode BERT",
+  "abstract": "Pada era yang semakin modern, informasi menjadi bagian yang penting dalam kehidupan sehari-hari. Dalam mendapatkan informasi terdapat beberapa hal yang dapat dilakukan di mana salah satunya adalah dengan membaca. Dengan semakin banyaknya informasi yang tersedia di internet dapat membuat manusia kerepotan untuk terus mengikuti perkembangannya. Berita online juga merupakan salah satu sumber informasi yang ada di internet dengan jumlah yang sangat banyak serta topik yang beragam. Membaca kesuluruhan informasi tersebut terkadang juga memerlukan waktu yang lama. Oleh karena itulah, diperlukan suatu pembuatan ringkasan dari informasi berita yang tersedia secara online untuk mengurangi waktu baca dan mendapatkan informasi yang relevan. Pada penelitian ini akan dilakukan pembuatan ringkasan berita dengan memilih kalimat penting dari teks berita. Metode yang digunakan adalah Bidirectional Encoder Representations from Transformers dengan tambahan transformer encoder layer. Berdasarkan hasil pengujian yang telah dilakukan, pre-trained model indolem/indobert-base-uncased dapat menghasilkan nilai F1-Score terbaik untuk ROUGE-1 sebesar 57.17, ROUGE-2 sebesar 51.27, dan ROUGE-L sebesar 55.20 pada referensi abstraktif serta ROUGE-1 sebesar 84.46, ROUGE-2 sebesar 83.21, dan ROUGE-L sebesar 83.40 pada referensi ekstraktif.",
+  "creators": "FRANKY HALIM",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Hans Juwiantho S.Kom., M.Kom (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022127/INF/2022; Franky Halim (C14170033)",
+  "subjects": "TEXT PROCESSING (COMPUTER SCIENCE)"
+}

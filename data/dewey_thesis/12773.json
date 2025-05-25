@@ -1,0 +1,14 @@
+{
+  "id": "12773",
+  "title": "Perencanaan dan pembuatan program aplikasi untuk pengaksesan database terdistribusi dalam model client-server dengan metode pemrograman berorientasi objek",
+  "abstract": "Dalam era informasi seperti sekarang ini, terasa sekali kebutuhan untuk mendapatkan akses terhadap data secara cepat dan tidak tergantung oleh batasan ruang dan waktu. Dalam tugas akhir ini dibuat scbuah program aplikasi yang bisa dipakai untuk melakukan pengaksesan terhadap database yang tersebar di berbagai tempat. Aplikasi ini akan dibuat dalam model client-server. Dengan model ini bisa diharapkan kemampuan untuk melakukan komunikasi dalam pengaksesan data bisa lebih baik. Sedangkan pemrograman aplikasi tersebut akan dibuat berorientasikan objek. Proses pengembangan aplikasi dengan berorientasikan objek ini bisa diharapkan lebih cepat dibandingkan dengan pemrograman terstruktur biasa. Program client dalam tugas akhir ini berfungsi sebagai interface terhadap pemakai dan juga menangani proses penyimpanan data-data yang berhasil didapatkan. Sedangkan program server bertugas untuk melayani permintaan pengaksesan data oleh program client. Kedua program yang diperlukan untuk membuat model client server didukung oleh protokol TCP/IP untuk melakukan komunikasi. Program untuk client dikembangkan menggunakan Borland C++ versi 3.1 dalam lingkungan sistem operasi DOS. Dan program server dibuat dengan Gnu C dalam lingkungan sistem operasi UNDC. Untuk keperluan penyimpanan database yang diakses, dipakai Oracle RDBMS. Dari pembuatan tugas akhir tersebut akhirnya disimpulkan bahwa dengan menggunakan model client-server, pengaksesan database yang tersebar bisa dilakukan dengan mudah. Dan pengembangan program tersebut dengan konsep pemrograman berorientasikan objek bisa dilakukan dengan cepat.",
+  "creators": "PETRUS SANTOSO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Resmana Lim (Advisor 2); ESTHER HANAYA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.96/E/KOM/001/001; Petrus Santoso (23490021)",
+  "subjects": "COMPUTERS"
+}

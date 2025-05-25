@@ -1,0 +1,14 @@
+{
+  "id": "23251",
+  "title": "Perencanaan dan pembuatan alat bantu osiloskop untuk memilih dan mengamati line tertentu dari sinyal video komposit",
+  "abstract": "Dalam perkembangan bidang elektronika komunikasi dibutuhkan berbagai macam alat ukur , salah satu alat ukur yang paling sering digunakan adalah osiloskop . Tetapi osiloskop yang banyak digunakan memiliki keterbatasan dalam menampilkan sinyal video tiap garis horisontalnya . Padahal untuk sistem PAL yang memiliki 625 garis dan 525 garis untuk sistem NTSC tidak semuanya Gerisi sinyal gamlar , ada beberapa garis tertentu yang digunakan untuk sinyal uji, data. teletext , dan beberapa sinyal l a i n yang semuanya menarik untuk diamati . Karena itu timbul gagasan untuk menambah kemampuan osiloskop biasa untuk dapat menampilkan sinyal video tiap garis horisontalnya sesuai dengan yang diinginkan . Alat yang direncanakan berguna sebagai alat bantu osiloskop untuk menampilkan sinyal video tiap garis horisontal. Input dari alat ini berasal dari peralatan elektronik yang m e m i l i k i f a s i l i t a s Video Out, m i s a l n y a : VCR, decoder parabola , LD player , dan l a i n - l a i n . S i s t e m s t a n d a r TV yang digunakan untuk a l a t i n i ada.lah PAL dan WTSC. Bagian utama d a r i a l a t i n i a d a l a h v i d e o s y n c h r o n o u s s e p a r a t o r LM1881 y a n g a k a n mengolah s i n y a l v i d e o komposit menjadi pulsa-pulsa y a n g m e w a k i l i komponen pembentuk s i n y a l tersebut . pulsa-pulsa tersebut d i p e r l u k a n o l e h minimum sistem 8031 untuk menghasilkan pulsa trigger yang akan muncul setip kali dijumpai garis horisontal yang d i i n g i n k a n . Jadi pulsa trigger ini akan mensinkronkan penyapuan horisontal osiloskop dengan garis horisontal yang diinginkan . Oleh karena itu pulsa ini dimasukkan ke external trigger dari osiloskop dan sinyal video komposit dirnasukkan ke input X/Y . Dari hasil pengujian terlihat bahwa alat yang direncanakan mampu menampilkan garis - garis horisontal pada osiloskop sesuai dengan yang diinginkan.",
+  "creators": "ANDREAS DANNY SUSANTO PRAJOGO",
+  "contributors": "SOETIKNO (Examination Committee 1); HERLIANTO TENGGARA (Advisor 2); Murtiyanto Santoso (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/EL/010/0270; Andreas Danny Susanto Prajogo (23490018)",
+  "subjects": "CATHODE RAY OSILOSCOPE"
+}

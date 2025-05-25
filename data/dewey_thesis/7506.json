@@ -1,0 +1,14 @@
+{
+  "id": "7506",
+  "title": "Pembuatan display digital untuk modul kompas CMPS-03",
+  "abstract": "Untuk kegiatan navigasi, baik itu di darat, laut, ataupun di udara, kompas mutlak dibutuhkan. Akan tetapi sering terjadi penggunaan kompas konvensional yang salah akibat kekurang-telitian pembacaan kompas tersebut. Hal ini disebabkan oleh kurang pekanya mata manusia terhadap kompas konvensional (analog), dan disamping itu juga kekurang telitian dari kompas itu sendiri. Pentingnya ketelitian pembacaan kompas ini dikarenakan perbedaan sudut yang kecil dalam jarak yang relatif cukup jauh (dalam orde kilometer) akan mengakibatkan perbedaan arah sasaran yang cukup besar. Terdapat suatu modul kompas CMPS-03 yang dapat mengatasi masalah kekurang telitian, baik itu mata manusia ataupun kekurang telitian dari kompas konvensional tersebut. Akan tetapi modul ini masih harus diolah lagi karena output dari modul ini berupa sinyal PWM. Display kompas digital ini digunakan untuk menampilkan sudut yang berasal dari modul CMPS-03 tersebut. Sistem ini menggunakan mikrokontroler sebagai penyimpan serta pengolah data yang pada akhirnya diperoleh suatu sudut yang akan ditampilkan pada display LCD. Mikrokontroler yang digunakan adalah AT89S51. Setelah dilakukan pengujian, alat display kompas digital ini ternyata memiliki ketelitian kurang lebih 0,41?. Hal ini dikarenakan keterbatasan dari modul kompas CMPS-03 itu sendiri yang tidak stabil untuk orde dua angka dibelakang koma. Disamping itu, penggunaan kompas digital ini, sebaiknya dalam posisi rata air (sesuai dengan indikator waterpass yang ada), sehingga alat display kompas digital ini dapat bekerja dengan lebih teliti.",
+  "creators": "PANCA WAHYUDI",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Indar Sugiarto (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No.02010754/ELK/2005; Panca Wahyudi (23400086)",
+  "subjects": "DIGITAL ELECTRONICS; MICROCONTROLLER"
+}

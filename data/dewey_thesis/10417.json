@@ -1,0 +1,14 @@
+{
+  "id": "10417",
+  "title": "Perancangan dan pembuatan aplikasi proses denormalisasi data menggunakan fungsi relasi data pada database rekam medis di RSU Dr. Soetomo",
+  "abstract": "Saat ini RSU Dr. Soetomo telah memiliki sistem yang terkomputerisasi untuk mencatat track record penyakit pasien. Namun dalam pencatatan transaksi tersebut, beberapa tabel yang seharusnya berhubungan masih tidak memiliki relasi yang tercatat pada database yang digunakan, dalam hal ini adalah Oracle 9i. Hal ini tentunya akan menjadi salah satu kendala apabila ingin melakukan denormalisasi data, sebab dalam melakukan denormalisasi harus memperhatikan relasi yang dimiliki antar tabel yang telah dipilih Dengan menggunakan suatu fungsi relasi, maka tabel yang sebelumnya tidak memiliki relasi secara Entity Relationship Diagram(ERD) dapat dibuatkan relasinya sesuai dengan definisi dan keinginan user. Fungsi relasi itu nantinya diharapkan dapat membantu proses denormalisasi yang dilakukan pada table yang sudah memiliki relasi ERD maupun yang tidak memiliki tapi sudah dibentuk fungsi relasinya. Sehubungan dengan hal itu, dirancanglah suatu aplikasi yang menunjang proses denormalisasi dengan bantuan fungsi relasi beserta fasilitas untuk membuat fungsi relasi tersebut. Aplikasi yang dirancang dapat digunakan untuk membuat fungsi relasi, pencatatan relasi pada tabel metadata, dan pembuatan tabel hasil denormalisasi beserta perintah Structured Query Language(SQL) yang digunakan untuk membentuk tabel hasil denormalisasi. Pembuatan fungsi relasi dilakukan dengan memilih dua buah tabel yang ingin di hubungkan, kemudian relasi yang telah dibuat di catat pada tabel metadata.",
+  "creators": "JOHANES EDWIN PRAYOGA",
+  "contributors": "Rolly Intan (Advisor 1); Oviliani Yenty Yuliana (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010730/INF/2008; Edwin Prayoga (26403108)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

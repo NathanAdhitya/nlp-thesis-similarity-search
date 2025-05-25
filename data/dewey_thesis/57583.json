@@ -1,0 +1,14 @@
+{
+  "id": "57583",
+  "title": "Pengembangan web portal untuk sistem reservasi laboratorium komputer virtual",
+  "abstract": "Kehadiran laboratorium komputer virtual, dimana komputer berupa virtual machine yang berada di cloud sehingga dapat digunakan oleh mahasiswa setiap saat dan di mana pun selama mahasiswa terhubung dengan internet. Tetapi virtual machine yang berada di cloud menggunakan model bisnis pay as you go. Yang dapat diartikan tagihan akan bertambah seiring virtual machine tersebut dinyalakan. Sehingga jika virtual machine tidak dimatikan maka tagihan untuk sumber daya virtual machine tersebut akan terus bertambah. Hal ini sangat tidak efisien jika virtual machine tidak digunakan tetapi tagihan terus bertambah. Melalui Web Portal, mahasiswa harus menentukan waktu mulai dan waktu berakhir untuk peminjaman virtual machine. Dengan adanya batasan tersebut mahasiswa harus menggunakan virtual machine dengan efektif. Kemudian sistem dapat mematikan virtual machine secara otomatis apabila waktu peminjaman sudah berakhir. Dengan cara seperti ini mengurangi tagihan untuk sumber daya untuk virtual machine.",
+  "creators": "KEVIN LUIS LINUHUNG",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1); Indar Sugiarto (Examination Committee 2); Yusak Tanoto, S.T., M.Eng., Ph.D. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010156/ELK/2023; Kevin Luis Linuhung (C11190018)",
+  "subjects": "INTERNET (COMPUTER NETWORKS); VIRTUAL COMPUTER SYSTEMS"
+}

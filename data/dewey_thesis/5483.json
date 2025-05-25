@@ -1,0 +1,14 @@
+{
+  "id": "5483",
+  "title": "Perancangan dan pembuatan web site pada tour and travel service \"X\"",
+  "abstract": "Tour and Travel Service \"X\" merupakan suatu bidang usaha jasa yang melayani pemesanan paket cruises, paket tour, hotel dan pembelian tiket pesawat. Pemesanan masih dilakukan secara offline dengan datang langsung ke kantor, atau melalui surat, fax, e-mail atau telepon. Dalam rangka penyusunan tugas akhir, maka dibuat web site ini untuk menampilkan informasi cruises, penerbangan (flight), hotel dan paket-paket tour yang disediakan oleh Tour and Travel Service \"X\", customer dapat menjadi anggota dan melakukan pemesanan online meskipun belum adanya fasilitas pembayaran online, dan terdapat fasilitas pencarian data. Sedangkan untuk administrator terdapat fasilitas administrator area untuk melakukan peng-update-an data. Proses pembuatan web site ini dimulai dari menganalisis sistem yang lama, pembuatan DFD, ERD dan tabel-tabel yang diperlukan. Web site ini dibuat dengan menggunakan software database MySQL untuk pembuatan database, PHP 4.3.3 sebagai bahasa scripting, dan dikerjakan pada Windows 2003 Server. Pada web site ini terdapat fasilitas untuk menampilkan informasi, pencarian data, registrasi anggota, reservasi online, dan administrator area. Dari hasil pengujian dan pembagian kuisioner kepada pihak travel agent sebesar 40% mengatakan bahwa menu-menu yang ada dapat menunjang kebutuhan Tour and Travel Service \"X\" dan sebesar 46,67% menunjukkan bahwa web site ini mudah digunakan, informasi yang disampaikan mudah dibaca dan dimengerti, serta menarik. Sedangkan dari kuisioner yang dibagikan kepada customer, sebesar 68,3% mengatakan bahwa web site ini mudah digunakan, informasi yang disampaikan mudah dibaca dan dimengerti, namun sistem pemesanan masih dirasakan kurang memenuhi kebutuhan.",
+  "creators": "ANITA AGUSTINE",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Andreas Handojo (Advisor 2); Theresia Lestiowati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000194/INF/2004; Anita Agustine (26400009)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT-COMPUTER PROGRAMS; MANAGEMENT INFORMATION SYSTEMS"
+}

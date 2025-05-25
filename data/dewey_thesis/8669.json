@@ -1,0 +1,14 @@
+{
+  "id": "8669",
+  "title": "Akses database ASIT dari mobile device melalui bluetooth",
+  "abstract": "Sistem pengaksesan informasi kemahasiswaan Universitas Kristen Petra yang ada saat ini dapat diakses melalui web site, telepon dan secara manual yaitu dengan menggunakan KTM. Kendala yang terjadi adalah jika pengaksesan dilakukan dengan menggesekkan KTM sering terjadi antrian yang cukup lama, sedangkan jika menggunakan web site para mahasiswa harus mencari \"warnet\" dan diperlukan biaya. Oleh karena itu dirancang sistem pengaksesan informasi mahasiswa dengan menggunakan mobile device melalui bluetooth sehingga meminimalisasi waktu dan biaya. Platform yang digunakan dalam tugas akhir ini menggunakan J2ME pada mobile device, database Microsoft Visual FoxPro dan J2SE yang diletakkan pada server dengan menggunakan metode client-server sehingga dapat diakses secara multipoint. sehingga mahasiswa hanya perlu datang ke Hot Spot ASIT server dan langsung mengaksesnya dengan menggunakan mobile device pribadinya. Hasil pengujian yang dilakukan oleh mahasiswa Universitas Kristen Petra memberikan hasil yang baik. Dimana dengan menggunakan sistem ini mahasiswa dapat mengakses data kemahasiswaannya ( Biodata, Kartu Hasil Studi, Jadwal Mahasiswa, Jadwal Jurusan dan Transkrip Lokal).",
+  "creators": "SAMUEL F SIMATUPANG",
+  "contributors": "Resmana Lim (Advisor 1); IWAN NATAWIJAYA (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010032/ELK/2005; Samuel Ferdinan Simatupang (23401076)",
+  "subjects": "MOBILE COMMUNICATION SYSTEMS; BLUETOOTH; WIRELESS COMMUNICATION SYSTEMS"
+}

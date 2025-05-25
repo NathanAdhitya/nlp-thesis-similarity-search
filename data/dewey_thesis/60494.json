@@ -1,0 +1,14 @@
+{
+  "id": "60494",
+  "title": "Leads categorization dengan support vector machine dan gaussian naive bayes untuk student admission pada Universitas X",
+  "abstract": "Universitas X di Tangerang menerima rata-rata 500 mahasiswa baru setiap tahun, dengan calon mahasiswa menghubungi melalui berbagai kanal seperti Whatsapp, Email, dan Instagram. Mekari Qontak, aplikasi CRM yang digunakan, membuat room percakapan otomatis untuk setiap pesan masuk dan menutupnya ketika percakapan dinyatakan resolved. Namun, Mekari Qontak hanya menyediakan data pesan terakhir dari setiap room, menyulitkan chatbot dalam memahami konteks percakapan. Universitas X menghadapi tantangan dalam melakukan update leads dari customer, misalnya menaikkan base leads menjadi hot leads berdasarkan kriteria tertentu. Untuk mengatasi ini, dibuat aplikasi yang mengkategorisasi leads berdasarkan percakapan dan tindakan user dengan lead scoring, membantu tim marketing mengkonversi leads potensial menjadi sales. Kategori leads meliputi hot leads, base leads, dan cold leads. Penentuan kategori pertanyaan dalam percakapan menggunakan Support Vector Machine yang dilatih dengan data dari percakapan customer selama 2023. Data training dan testing menggunakan 1322 history percakapan. Support Vector Machine terbukti memiliki akurasi yang lebih tinggi dibandingkan Gaussian Naive Bayes. Aplikasi ini diharapkan dapat membantu Universitas X mengelola interaksi dengan calon mahasiswa lebih efisien dan efektif, terutama saat penerimaan mahasiswa baru.",
+  "creators": "MICHAEL CHRISTIAN WIJAYA",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Agustinus Noertjahyana (Examination Committee 1); Leo Willyanto Santoso (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022474/INF/2024; Michael christian wijaya (C14200087)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; SUPPORT VECTOR MACHINES; UNIVERSITIES AND COLLEGES--ADMISSION"
+}

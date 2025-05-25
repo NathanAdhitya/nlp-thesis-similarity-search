@@ -1,0 +1,14 @@
+{
+  "id": "11703",
+  "title": "Perancangan dan pembuatan aplikasi pencarian halaman web berdasarkan web content",
+  "abstract": "Dewasa ini, perkembangan internet sudah sangan maju. Data pada dunia internet dapat melebihi data fisik yang ada. Untuk pencarian dari begitu banyak data yang tersedia, banyak berkembang alat bantu pencari data dengan memasukkan informasi tertentu. Dalam skripsi ini, dikembangkan aplikasi yang mampu untuk melakukan proses pencarian halaman web yang memiliki kemiripan content dengan input berupa url dari sebuah halaman web lainnya. Sebelum proses pencarian dilakukan aplikasi akan terlebih dahulu melakukan proses crawling untuk mendapatkan halaman-halaman web. Proses pencarian diawali dengan memasukkan sebuah url, kemudian halaman web yang didapat dari url tersebut di-extract untuk mendapatkan kata-kata kunci yang dapat mewakili halaman web tersebut. Kata kunci tersebut akan dijadikan kata dasarnya dengan menggunakan algoritma Porter Stemmer. Untuk memperoleh tingkat kepentingan suatu kata kunci yang mewakili halaman tersebut digunakan metode TF-IDF. Selanjutnya untuk mencari kemiripan antara setiap halaman web digunakan salah satu similarity measure yang disebut Jaccard Coefficient. Aplikasi dikembangkan dengan menggunakan bahasa pemrograman PHP. Berdasarkan hasil pengujian yang dilakukan, kemiripan antara halaman web dipengaruhi secara keseluruhan dari halaman web, baik bentuk dan isinya.",
+  "creators": "RUBIA SARI SETIADI",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Justinus Andjarwirawan (Advisor 2); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01020779/INF/2009; Rubia Sari Setiadi (26405014)",
+  "subjects": "WEB SITES-DESIGN; WEB SITES-AUTHORING PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "9206",
+  "title": "Perancangan dan pembuatan sistem informasi Badan Pekerja Daerah Gereja Bethel Indonesia kota Surabaya berbasis web",
+  "abstract": "Pembuatan laporan absensi, keuangan dan iuran pejabat sulit dilakukan karena dilakukan secara manual. Website ini dibuat sebagai sistem informasi dengan tujuan memudahkan pembuatan laporan absensi, keuangan, iuran pejabat dan inventaris. Selain itu website ini dapat memberikan informasi letak gereja lokal Gereja Bethel Indonesia beserta jadwal kebaktian dari gereja tersebut. Dengan adanya website ini para pejabat Gereja Bethel Indonesia, dapat melihat iuran pejabat yang sudah dibayar. Website ini didesain dengan menggunakan flowchart dan ERD (Entity Relationship Diagram). Flowchart memberikan alur kerja dari sistem, sedangkan ERD menggambarkan relasi atau hubungan antar entity dalam database. Implementasi website menggunakan Macromedia MX dan dikembangkan dengan PHP TRIAD, yang terdiri dari Apache sebagai web server, MySQL sebagai database dan PHP sebagai web programming. Website ini telah diuji dan dapat memberikan informasi mengenai lokasi dari gereja lokal Gereja Bethel Indonesia beserta jadwal kebaktiannya. Website ini juga dapat memberikan informasi mengenai iuran pejabat, laporan absensi, laporan keuangan, laporan inventaris, dan juga template surat keputusan.",
+  "creators": "RONALD",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Dr. Roy Setiawan, S.Kom., M.M., M.SM., M.Th. (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010638/INF/2007; Ronald (26403053)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

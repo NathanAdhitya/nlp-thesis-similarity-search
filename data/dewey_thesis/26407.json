@@ -1,0 +1,14 @@
+{
+  "id": "26407",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi CV. Sumber Ayem",
+  "abstract": "CV. Sumber Ayem adalah salah satu perusahaan yang bergerak di bidang ekspedisi muatan semen, di mana selama ini masih menggunakan sistem manual dalam transaksi sehari-hari. Akibatnya, sering terjadi kekeliruan dalam proses pencatatan data sehingga informasi yang dihasilkan tidak akurat dan memerlukan waktu yang cukup lama untuk mengolah data yang ada. Proses perancangan dan pembuatan sistem dimulai dengan mempelajari dan menganalisis sistem yang digunakan saat ini, membuat DFD, ERD, dan database yang diperlukan. Kemudian membuat program sesuai dengan desain yang telah dibuat. Program ini dikembangkan di atas sistem operasi Microsoft Windows 7, dengan SQL Server 2005 sebagai database, dan Visual Basic 6.0 sebagai bahasa pemrograman. Dari hasil pengujian terhadap aplikasi menunjukkan bahwa aplikasi ini dapat memproses data yang berhubungan langsung dengan proses order muatan secara otomatis. Laporan-laporan yang dihasilkan akurat karena sesuai dengan perhitungan manual. Berdasarkan kuesioner, 80% pengguna mengatakan fitur-fitur dalam aplikasi dinilai baik dan sesuai kebutuhan toko.",
+  "creators": "DEDY PRASETYO WIJIONO",
+  "contributors": "Agustinus Noertjahyana (Actress); Silvia Rostianingsih (Advisor 1); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021165/INF/2012; Dedy Prasetyo Wijiono (26408095)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE-MANAGEMENT"
+}

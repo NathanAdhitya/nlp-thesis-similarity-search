@@ -1,0 +1,14 @@
+{
+  "id": "50166",
+  "title": "Pembuatan dashboard berbasis IoT dalam penghitungan OEE",
+  "abstract": "Efisiensi adalah hal yang diperlukan oleh industri karena dari situ dapat diperoleh data yang dapat dianalisa kerugian apa yang terjadi di lapangan. Oleh karena itu diciptakan penilaian OEE dengan cara memperoleh data pada lini produksi. OEE biasanya diinput secara manual oleh manusia secara offline, sehingga ada kemungkinan human error, data tidak real time dan lainnya. Di penelitian ini akan dibuat sistem yang dapat menyelesaikan masalah tersebut. Data\u0002data pada lini produksi akan disimulasikan menggunakan tombol yang menirukan sensor yang akan dipasang pada mesin yang sedang berjalan, sehingga data dapat diambil secara otomatis dan dihitung secara real time. Juga akan dibuat sistem IoT agar nilai OEE dapat diakses dalam bentuk dashboard secara IoT. Data akan didapatkan melalui simulasi yang dikendalikan melalui Node-RED maupun dari SCADA. Data tersebut kemudian akan diolah dan disimpan pada database dan akan ditampilkan ke dashboard dan dapat diakses melalui perangkat elektronik seperti handphone, tablet dan lainnya. Berdasarkan hasil pengujian, sistem dapat berjalan dengan baik dan secara real time dan seluruh fitur dashboard yang didesain dapat berjalan dengan baik dan dapat diakses secara IoT. Dengan menggunakan dashboard ini maka petugas dapat menganalisa data produksi secara historikal maupun real time secara IoT sehingga proses monitoring menjadi lebih efisien.",
+  "creators": "JERICH ELIA SANTOSO",
+  "contributors": "Handy Wicaksono (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011010/ELK/2021; Jerich Elia Santoso (C11170009)",
+  "subjects": "DASHBOARDS (MANAGEMENT INFORMATION SYSTEMS); INTERNET OF THINGS"
+}

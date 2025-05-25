@@ -1,0 +1,14 @@
+{
+  "id": "15865",
+  "title": "Perencanaan dan pembuatan alat tracking lampu sorot panggung berbasis fuzzy logic",
+  "abstract": "Dari sistem kontrol yang selama ini dikenal terdapat kesulitan untuk menurunkan persamaan matematisnya. Dengan diperkenalkan teori fuzzy logic maka kesulitan tersebut bisa dihindari karena dalam sistem fuzzy logic diperlukan untuk mengenal perilaku yang akan kita buat Perilaku-perilaku ini didapat berdasarkan pengalaman operator yang dinyatakan dalam bentuk aturan-aturan(rule). Tujuan dari pengontrolan ini untuk mengarahkan lampu sesuai dengan arah orang yang bergerak. Dengan mengganggap posisi orang adalah setting point maka diharapkan arah lampu dapat mengikuti perubahan setting point yang berubah-ubah. Karena sistem ini merupakan non-linier maka dipilih sistem fuzzy logic yang melibatkan 2 parameter input yaitu eror (Vact-Vsp) dan deror (eror(t)-eror(t-At>. Fuzzy Logic Controler menggunakan NLX 220 dengan fuzzy set output berbentuk singleton, sedangkan defuzifikasi output menggunakan metode max-min. NLX mempunyai software development yang dapat mempermudah mendesign fuzzy logic controler, dimana kita hanya mendefinisikan variabel input>output, fuzzy variabel, fuzzy rule dan mode output yang kemudian dapat dikonversi menjadi hex untuk diisi ke eprom. Untuk mendeteksi posisi orang mengunakan sensor PIR yang digerakan secara scaning oleh motor steper. Alat ini dapat mengerakan lampu mengikuti posisi orang dengan eror rata-rata 22.35?. Untuk meningkatkan respon output perencanaan harus memperhatikan mekanik yang baik, penentuan fuzzy variabel dan penentuan fuzzy rule.",
+  "creators": "JACKSON",
+  "contributors": "Resmana Lim (Examination Committee 1); SOETIKNO (Advisor 1); Yohanes Trilaksono Dibyo S. (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/007/401; Jackson (23492043)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; FUZZY LOGIC; ROBOTICS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5244",
+  "title": "Optimasi pengisian container dengan Genetic Algorithms",
+  "abstract": "Dalam bidang ekspedisi, salah satu cara untuk mendapatkan keuntungan sebesar-besarnya adalah dengan cara mengoptimasikan pengisian kontainer. Salah satu metode yang bisa digunakan adalah algoritma genetika. Algoritma ini digunakan untuk mencari pola penyusunan barang yang paling opt imal dengan mengunakan operator nya yaitu reproduksi, seleksi, kawin silang dan inversi. Metode seleksi yang digunakan adalah roullete wheel. Metode kawin silang yang digunakan adalah order crossover. Dengan memasukkan data berupa ukuran kontainer dan ukuran barang, beserta nilai dari parameter algoritma genetika, maka akan terjadi proses algoritma genetika sehingga akhirnya didapatkan pola susunan barang yang paling optimal berdasarkan besarnya fitness. Fitness berupa banyaknya ruang yang terisi dikontainer. Pengujian dilakukan dengan mengambil data sesungguhnya diekspedisi. Baik itu berupa data ukuran kontainer maupun ukuran barang. Pengujian dilakukan pada kontainer 20 feet dengan ukuran panjang 590 cm, lebar 240 cm dan tinggi 220 cm. Dengan jumlah barang sebanyak 308 buah dengan berbagai ukuran. Dimana pada data lapangan penyusunan barang dikontainer secara manual diketahui optimasi kontainer terisi oleh barang sebesar 83,119 %. Sedangkan jika dilakukan pengujian dengan menggunakan algoritma genetika akan didapatkan optimasi kontainer terisi oleh barang sebesar 91,562 %. Terdapat perbedaan selisih ruang terisi dikontainer sebesar 8,443 %. Jadi dapat disimpulkan bahwa pengisian barang dikontainer dengan menerapkan algoritma genetika dapat memberikan hasil yang lebih optimal daripada pengisian barang dikontainer tanpa menggunakan algoritma genetika.",
+  "creators": "HAN HAU SERYADI",
+  "contributors": "Thiang (Advisor 1); FENDY SANTOSO (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/621/ELK/2003; Han Hau Seryadi (23498072)",
+  "subjects": "GENETIC ALGORITHMS; GENETING PROGRAMMING (COMPUTER SCIENCE)"
+}

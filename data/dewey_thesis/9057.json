@@ -1,0 +1,14 @@
+{
+  "id": "9057",
+  "title": "Perancangan sistem perencanaan produksi dan pengendalian persediaan bahan baku di PT. Sarana Graha Ideal",
+  "abstract": "PT Sarana Graha Ideal merupakan perusahaan yang bergerak di bidang produksi keramik interior, yaitu memberikan motif pada keramik. Secara keseluruhan, produk yang dimiliki sangat banyak dan variatif. Permasalahan yang ada di perusahaan adalah sering mengalamai komplain dari customer karena keterlambatan pengiriman order. Adapun perbaikan yang dilakukan terhadap sistem produksi terutama pada pengendalian persediaan bahan baku bodi pada departemen potong. Langkah awal yang dilakukan penulis adalah dengan melakukan permalan ARIMA Box- Jenkins untuk tiga jenis produk yaitu Listello dengan ARIMA (0,1,1), Inserto dengan ARIMA (1,1,1) dan Panel dengan ARIMA (0,1,1). Pendekatan yang digunakan pada departemen potong ini adalah dengan sistem produksi Make To Stock, dimana bahan baku ada sebelum order datang. Pendekatan yang digunakan pada departemen printing adalah dengan sistem produksi Make To Order. Sedangkan untuk penjadwalan produksi menggunakan metode Weighted Shortest Processing Time (WSPT). Perbaikan sistem informasi yang dirancang pada Tugas Akhir ini meliputi penjadwalan dan pengendalian persediaan bahan baku.",
+  "creators": "FLORENSYE S V K; IMELDA POERWANTO",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Herri Christian Palit (Advisor 2); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010899/IND/2005; Florensye S.V.K (25400022), Imelda Poerwanto (25400032)",
+  "subjects": "PRODUCTION PLANNING; INVENTORY CONTROL"
+}

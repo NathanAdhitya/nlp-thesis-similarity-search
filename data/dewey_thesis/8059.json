@@ -1,0 +1,14 @@
+{
+  "id": "8059",
+  "title": "Analisa hybrid genetic algorithm pada permasalahan penjadwalan flowshop",
+  "abstract": "Hybrid Genetic Algorithm adalah salah satu metode heuristic yang dapat digunakan untuk memecahkan permasalahan penjadwalan Flowshop. Tujuan dari Tugas Akhir ini adalah membandingkan performa antara Hybrid Genetic Algorithm dengan Algoritma kombinasi Genetic & Tabu Search, dengan acuan Tugas Akhir karya Fena Yuanita. Metode Hybrid Genetic Algorithm yang dipergunakan menggunakan jurnal dari Ahmed El-Bouri sebagai acuan. Sedangkan data-data yang digunakan berasal dari Tugas Akhir karya Ong Lina Pranata. Untuk mempermudah perhitungan maka metode Hybrid Genetic Algorithm diterapkan dengan bantuan software Microsoft Visual Basic 6.0. Performance dari metode Hybrid Genetic Algorithm ini diukur dengan cara dibandingkan dengan metode-metode yang telah digunakan pada penelitianpenelitian sebelumnya. Antara lain dengan algoritma kombinasi Genetic & Tabu Search, algoritma Ant Colony, dan metode perusahaan. Penerapan metode Hybrid Genetic Algorithm ini ternyata membutuhkan running time program yang sangat lama, dan memberikan hasil yang sama saja dengan algoritma kombinasi Genetic & Tabu Search dan algoritma Ant Colony. Namun metode Hybrid Genetic Algorithm ini dapat meminimumkan makespan sebesar 8.669% jika dibandingkan dengan metode perusahaan.",
+  "creators": "JOHAN SOEWANDA",
+  "contributors": "Tanti Octavia (Advisor 1); Iwan Halim Sahputra, S.T., M.Sc., Ph.D. (Advisor 2); Siana Halim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011246/IND/2007; Johan Soewanda (25402068)",
+  "subjects": "SCHEDULING (MANAGEMENT); PRODUCTION PLANNING"
+}

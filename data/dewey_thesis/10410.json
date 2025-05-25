@@ -1,0 +1,14 @@
+{
+  "id": "10410",
+  "title": "Perancangan dan pembuatan aplikasi penjadwalan ruang kuliah Universitas Kristen Petra dengan metode compact genetic algorithm",
+  "abstract": "Penjadwalan penggunaan ruang kuliah yang ada dalam suatu universitas harus dilakukan dengan baik. Penjadwalan penggunaan ruang kuliah yang sedemikian banyak bila dilakukan secara manual akan membutuhkan waktu yang sangat lama. Oleh karena itu, aplikasi ini dirancang untuk menyusun jadwal penggunaan ruang kuliah secara komputerisasi dengan metode compact Genetic Algorithm (cGA). Diharapkan dengan penyusunan secara komputerisasi ini, maka dalam waktu yang relatif lebih cepat bisa memperoleh jadwal penggunaan ruang kuliah dalam suatu universitas. Aplikasi ini dibuat dengan menggunakan Microsoft Visual Basic 6.0 dan Microsft SQL Server 2000 sebagai database.Aplikasi ini dibuat berdasar pada banyaknya jadwal mata kuliah yang ada dalam semester itu. Aplikasi ini juga menggunakan beberapa kriteria untuk melakukan proses penghitungan, di mana kriteria tersebut sesuai dengan keadaan sesungguhnya. Hasil yang diperoleh, dipengaruhi oleh proses random sehingga tidak selalu menghasilkan yang terbaik tetapi dapat diperoleh solusi yang baik. Selain itu waktu yang diperlukan untuk memproses, dipengaruhi oleh panjang kromosom dan jumlah iterasi yang dilakukan.",
+  "creators": "BILLY SOLOMENT",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Andreas Handojo (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010726/INF/2008; Billy Soloment (26404012)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

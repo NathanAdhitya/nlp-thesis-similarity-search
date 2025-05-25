@@ -1,0 +1,14 @@
+{
+  "id": "28611",
+  "title": "Studi class D mono amplifier dengan menggunakan IGBT driver semikron SKHI 22B dan IGBT module SKM75GB128DN",
+  "abstract": "Dalam perkembangan power amplifier, MOSFET banyak digunakan dalam komposisi pembuatannya. Seperti diketahui, MOSFET memiliki kerugian waktu on-off yang lebih lama dibandingkan dengan IGBT. Kerugian waktu on-off tersebut berdampak pada panas yang ditimbulkan MOSFET. Selain IGBT memiliki waktu on-off yang lebih cepat, IGBT juga tidak membebani sumber inputnya. Tujuan dari tugas akhir ini adalah merancang power amplifier class D dengan menggunakan IGBT driver semikron SKHI 22B dan IGBT module SKM75GB128DN. Power amplifier ini berbasis amplifier digital yang menggunakan sistem Pulse Width Modulation (PWM) untuk memproses sinyal audio. Sinyal audio yang masuk akan diproses menjadi sinyal digital yang kemudian akan diperkuat oleh transistor IGBT dan output-nya kembali di-filter menggunakan low pass filter sehingga dapat diterjemahkan ke subwoofer. Power amplifier yang telah dirancang mampu menghasilkan daya maksimal 7.41 watt. Respon frekuensi yang dihasilkan oleh power amplifier 0- 180Hz. Dari segi kualitas suara yang dihasilkan oleh subwoofer cenderung kasar karena proses pengubahan sinyal digital menjadi sinyal asli tidak sempurna.",
+  "creators": "IVAN CHRISTANTO",
+  "contributors": "Limboto Limantara (Advisor 1); Lauw Lim Un Tung (Advisor 2); Hany Ferdinando (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010929/ELK/2012; Ivan Christanto (23408001)",
+  "subjects": "AMPLIFIERS (ELECTRONICS)"
+}

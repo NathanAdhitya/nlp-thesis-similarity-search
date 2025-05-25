@@ -1,0 +1,14 @@
+{
+  "id": "57314",
+  "title": "Perancangan aplikasi analisis tekno-ekonomis rooftop PV untuk sektor rumah tangga berbasis android",
+  "abstract": "Kebijakan terbaru pemerintah Indonesia, yaitu PerMen ESDM No.26/2021, mendorong perkembangan penggunaan panel surya atap (PLTS atap) di sektor rumah tangga dengan memberikan insentif 100% bagi ekspor energi listrik ke jaringan PLN. Faktor-faktor yang mempengaruhi keputusan pemasangan PLTS atap antara lain kesadaran penggunaan energi bersih, penghematan tagihan listrik, biaya awal, inkonsistensi kebijakan, kurangnya pengetahuan tentang teknologi PV, dan risiko terkait. Dalam keputusan pemasangan, aspek teknis dan aspek ekonomis menjadi penting. Oleh karena itu, dengan aplikasi android dapat membantu menganalisis aspek teknis dan ekonomis penggunaan panel surya atap on-grid, termasuk menentukan pola kurva beban harian, lokasi instalasi, dan memasukkan parameter teknis dan ekonomis. Aplikasi menggunakan data iradiasi melalui API PVGIS. Aplikasi ini juga menggunakan persamaan output PV dari HOMER Energy untuk memperoleh hasil yang akurat. Simulasi dalam penelitian ini menunjukkan bahwa PLTS atap dengan batas daya 2200 VA memiliki discounted payback period sebesar 10,85 tahun. Perubahan beban listrik dengan faktor pengurang tagihan 65% mempengaruhi discounted payback period. Simulasi juga menunjukkan bahwa inflasi memiliki dampak menguntungkan bagi pengguna rooftop PV dengan mempercepat payback period dan meningkatkan ROI, NPV, dan net cash flow. Namun, investasi rooftop PV yang mengurangi tagihan di bawah batasan rekening minimum tidak menguntungkan secara finansial.",
+  "creators": "CHRISTOPHER MARVEL",
+  "contributors": "Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 1); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Advisor 2); Julius Sentosa Setiadji (Examination Committee 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 2); Emmy Hosea (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010679/ELK/2023; Christopher Marvel (C11180034)",
+  "subjects": "ROOFTOP CONSTRUCTION; SOLAR PANELS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "19676",
+  "title": "Pembuatan pemancar dan penerima untuk pengiriman sinyal audio melalui fiber optics",
+  "abstract": "Pengiriman sinyal audio melalui kabel serat optik tidak dapat langsung dikirimkan, untuk itu perlu dibuat peralatan untuk mengirimkannya. Maka dibuat peralatan pemancar untuk memproses sinyal audio menjadi sinyal cahaya. Serta peralatan penerima untuk mengolah sinyal cahaya yang dikirimkan melalui serat optik sehingga didapat sinyal audio yang dikirimkan. Dalam tugas akhir ruang lingkup pembahasan meliputi pembuatan rangkaian pemancar, penerima dan uraian praktis tentang kabel serat optik beserta perlengkapannya. Untuk membuat peralatan tersebut metodologi yang digunakan adalah studi literatur, perencanaan alat berdasarkan data dan referensi yang didapat dari literatur serta pengujian untuk melihat hasil perencanaan tersebut. Peralatan pemancar dan penerima tersebut dibuat dari komponen elektronik dan komponen optik yang terpadu dengan konektor dari kabel serat optik. Peralatan pemancar dan penerima yang dibuat hanya mengirimkan informasi searah. Sinyal audio dikirimkan melalui pemancar dengan cara modulasi yang kemudian dipancarkan pada panjang gelombang 665 nm oleh sebuah LED kedalam kabel serat optik tipe multimode step index, panjang kabel serat optik yang dipakai 60 cm. Penerima menggunakan photodetektor yang mempunyai kepekaan pada panjang gelombang.665 nm untuk menerima cahaya yang dipancarkan serta mendemodulasi untuk menemukan kembali sinyal audio yang dikirimkan. Untuk pengiriman melalui kabel serat optik ini faktor redaman kabel serat optik kemudian kecocokan antara panjang gelombang yang dipancarkan oleh pemancar dan panjang gelombang yang dapat dideteksi oleh penerima sangat menentukan keberhasilan komunikasi melalui kabel serat optik. Pemancar dan penerima yang dibuat dapat mengirimkan sinyal audio melalui kabel serat optik dengan cukup baik sehingga sinyal audio yang dikirim dapat didengar dengan jelas.",
+  "creators": "SINARTO SADIKIN",
+  "contributors": "AGUS MULYANTO (Advisor 1); Sutikno (Examination Committee 1); HERLIANTO TENGGARA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/020/0110; Sinarto Sadikin (14485070)",
+  "subjects": "FIBER OPTICS; OPTICAL COMMUNICATIONS"
+}

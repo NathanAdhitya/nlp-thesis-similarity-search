@@ -1,0 +1,14 @@
+{
+  "id": "16473",
+  "title": "Mesin pemotong styrofoam dua axis yang dikontrol secara otomatis",
+  "abstract": "Pemotong styrofoam manual masih memiliki kemampuan yang terbatas dalam memotong styrofoam. Hasil pemotongannya sangat ditentukan oleh skill atau kemampuan si pemotong. Oleh karena itu, dirancang dan dibuat sebuah mesin pemotong styrofoam yang menjadi salah satu alternatif untuk mengatasi keterbatasan tersebut. Mesin pemotong styrofoam ini dirancang dan dibuat berdasarkan prinsip paling dasar dari mesin Wire-Cut. Memiliki dua axis yang mampu bergerak secara simultan dengan metode pergerakan interpolasi linear. Mesin ini menggunakan mikrokontroler sebagai pengendali utama dari sistem kontrol otomatik dan motor stepper sebagai aktuator. Data yang diinputkan pada mesin ini adalah titik-titik koordinat, tetapi lintasan potongnya dapat dirancang dan dibuat pada program Auto CAD. Meskipun dirancang dengan peralatan dan sistem yang cukup sederhana, mesin yang dibuat menunjukkan hasil yang memuaskan. Mesin mampu memotong styrofoam dengan bentuk lintasan berupa garis-garis linear.",
+  "creators": "HARRY IRAWANTHO ARIUS",
+  "contributors": "Roche Alimin (Advisor 1); Ninuk Jonoadji (Advisor 2); Ian Hardianto Siahaan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi NO.03010925/MES/2010; Harry Irawantho Arius (24406035)",
+  "subjects": "AUTOMATIC CONTROL; CUTTING MACHINES"
+}

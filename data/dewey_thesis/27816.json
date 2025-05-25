@@ -1,0 +1,14 @@
+{
+  "id": "27816",
+  "title": "Aplikasi sistem informasi akademik SMA Katolik Taruna Jaya Sampit",
+  "abstract": "SMA Katolik Taruna Jaya Sampit, didirikan pada pada tahun 1985, merupakan salah satu SMA swasta yang dikenal kualitasnya dan termasuk favorit di Kota Sampit. Hal ini didasari tingkat kedisplinan yang tinggi, cara pengajaran yang baik, dan fasilitas yang memadai. Pada sistem yang ada di SMA Katolik Taruna Jaya Sampit sebelumnya, semua data (data siswa, data nilai, data orang tua, data staf pengajar, dan data pendaftaran siswa baru) disimpan dalam bentuk hard copy. Penyimpanan ini beresiko akan kehilangan data, karena ruangan penyimpanan data menjadi satu bercampur dengan berbagai arsip data-data yang lain. SMA Katolik Taruna Jaya Sampit membutuhkan sebuah sistem informasi untuk memenuhi kebutuhan peningkatan layanan pendidikan dalam hal kinerja dan kualitas pelayanan. Perancangan desain sistem menggunakan Data Flow Diagram dan Entity Relationship Diagram. Aplikasi ini dibuat menggunakan bahasa pemograman php dan menggunakan Database MySQL. Proses yang disediakan pada aplikasi ini diantara lain melakukan pengolahan data akademik seperti data pendaftaran siswa baru, biodata siswa, data orang tua siswa, data nilai siswa, data mata pelajaran, data jadwal pelajaran, data jadwal ujian, data pelanggaran siswa, dan data staf pengajar. Sistem informasi juga memiliki tools yang dapat membantu dalam penyusunan jadwal akademik di sekolah tersebut. Program yang telah dibuat dapat memproses data akademik sehari-hari serta menghasilkan laporan yang membantu memantau perkembangan kegiatan akademik sekolah. Laporan yang disediakan berupa laporan nilai, laporan pelanggaran siswa, laporan jadwal, dan laporan penerimaan siswa. Dari evaluasi yang telah dilakukan, penilaian untuk aplikasi ini membantu proses akademik dalam kesehariannya, dengan tingkat penilaian aplikasi secara keseluruhan sebesar 66, 6% dari user berpendapat baik dan 33, 3% dari user berpendapat sangat baik.",
+  "creators": "BRYAN ANDHIKA WIJAYA",
+  "contributors": "Alexander Setiawan (Advisor 1); Liliana (Advisor 2); Andreas Handojo (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021183/INF/2012; Bryan Andhika Wijaya (26408107)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

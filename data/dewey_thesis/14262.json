@@ -1,0 +1,14 @@
+{
+  "id": "14262",
+  "title": "Perencanaan dan pembuatan mesin sablon otomatis berbasis PLC siemens simatic S7-200",
+  "abstract": "Sablon merupakan teknik cetak yang digunakan untuk pencetakan dalam jumlah kecil dengan biaya produksi yang paling rendah. Disamping itu sablon juga memiliki keunggulan dalam hal obyek yang dapat disablon misalnya : baju kaos, gelas, benda-benda dari plastik, dll. Namun sablon juga memiliki kekurangan dalam hal kecepatan produksi, dan juga jika dibandingkan dengan teknik cetak offset maka kualitas sablon masih kalah khususnya untuk cetakan separasi. Penggunaan mesin dalam sablon akan sangat membantu dalam meningkatkan efisiensi kerja. Umumnya untuk melakukan sablon diperlukan 3 orang tenaga kerja. Satu orang khusus untuk menggerakkan rakel dan mengangkat screen, dan yang satunya lagi untuk memasukkan kertas, serta seorang lagi untuk menyusun kertas yang sudah disablon pada meja pengering. Setelah sablon selesai maka kertas hasil sablon tersebut masih hams dikumpulkan. Selain itu kekurangan dari sistem sablon konvensional diatas adalah bahwa pergerakan dari rakel dilakukan oleh manusia, yang pada suatu saat akan merasa lelah sehingga tekanan pada rakel akan berkurang yang pada gilirannya akan mempengaruhi kualitas sablon. Untuk itulah maka upaya perbaikan terhadap kekurangan teknik sablon konvensinal maka diwujudkan dengan mesin sablon otomatis. Pada mesin sablon otomatis ini, urutan pekerjaan sablon dikendalikan oleh PLC. Sedangkan untuk tenaga penggeraknya dipergunakan udara bertekanan (sistem pneumatik). Mesin ini khusus dirancang untuk menyablon kertas, namun tidak tertutup kemungkinan untuk menyablon benda lain seperti plastik, kaca, baju kaos, dll. Dengan mem-pertimbangkan jenis dan ukuran dari benda yang akan disablon maka diperlukan dua mode operasi, yaitu mode manual dan otomatis. Mesin sablon otomatis ini dibuat khusus untuk menyablon benda yang memiliki permukaan datar, dengan hanya menggunakan seorang operator. Kecepatan Sablon dari mesin ini adalah berkisar 4,5 lembar/menit atau sama dengan 270 lembar/jam. Kecepatan ini masih dapat ditingkatkan dengan pengaturan tekanan udara. Selain itu kekerasan tekanan rakel terhadap screen dan sudut kemiringan screen terhadap rakel dapat diatur untuk meningkatkan kualitas cetakan.",
+  "creators": "THIO TOMBING",
+  "contributors": "Yohanes Trilaksono Dibyo S. (Examination Committee 1); Andojo Ongkodjojo (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 98/E/EL/035/380; Thio Tombing (23493056)",
+  "subjects": "AUTOMATIC MACHINERY; PROGRAMABLE CONTROLLERS"
+}

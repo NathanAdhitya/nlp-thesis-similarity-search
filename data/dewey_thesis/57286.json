@@ -1,0 +1,14 @@
+{
+  "id": "57286",
+  "title": "Deteksi kesalahan gesture public speaker dengan metode long short term memory",
+  "abstract": "Gesture merupakan komponen yang penting bagi Public Speaker demi membuat audiens lebih mudah dalam memahami persepsi yang disampaikan. Latihan serta mendapatkan masukkan merupakan fundamental dalam Public Speaking termasuk dalam penggunaan gesture. Akan tetapi, tidak memungkinkan untuk berlatih selalu didampingi oleh pelatih dikarenakan kurangnya sumber daya manusia. Oleh sebab itu, dibutuhkan sebuah sistem yang mampu membantu public speaker dalam berlatih secara mandiri dengan memberikan masukan gesture yang salah pada saat latihan. Penelitian ini mengajukan penggunaan metode long short term memory (LSTM) untuk melakukan pengenalan gesture pada anggota tubuh badan, kepala, tangan, dan kaki. Model memanfaatkan data koordinat skeleton yang berbasiskan mediapipe (BlazePose). Dilakukan perbandingan dengan penggunaan metode CNN+LSTM serta CNN dengan memanfaatkan data video. Hasil dari nilai f1 LSTM mampu mencapai melebihi model lainnya. Untuk badan 0.698, kepala 0.655, tangan 0.729, dan kaki 0.779.",
+  "creators": "FRANCISCO ALLENXEON",
+  "contributors": "Liliana (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Gregorius Satiabudhi (Examination Committee 1); Rolly Intan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022343/INF/2023; Francisco Allenxeon (C14190118)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--COMPUTER PROGRAMS; INTERNET IN EDUCATION; DEEP LEARNING (MACHINE LEARNING)"
+}

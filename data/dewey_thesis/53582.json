@@ -1,0 +1,14 @@
+{
+  "id": "53582",
+  "title": "Penerapan metode KNN regresi dan multiplicative decomposition untuk prediksi data penjualan pada supermarket X",
+  "abstract": "Supermarket X merupakan salah satu supermarket di Nusa Tenggara Barat yang memerlukan suatu cara untuk memprediksi penjualan di masa yang akan datang. Prediksi ini dibutuhkan oleh Supermarket X untuk memperkirakan rencana pembelian karena selama ini sering terjadi barang stockout ataupun oversupply yang menyebabkan kerugian bagi perusahaan. Berdasarkan permasalahan yang terjadi, maka dalam penelitian ini dilakukan penerapan metode KNN Regression dan Multiplicative Decomposition dalam melakukan prediksi penjualan Supermarket X sehingga manajerial supermarket dapat merancang suatu strategi untuk melakukan penjualan di masa yang akan mendatang. Hasil penelitian menunjukkan bahwa prediksi berdasarkan divisi, departemen, kategori, sub kategori, dan produk memiliki rata-rata tingkat error yang lebih kecil jika menggunakan metode Multiplicative Decomposition dengan RMSE= 492,89 dan MAPE= 0,29, sedangkan untuk metode KNN Regresi memiliki RMSE= 757,77 dan MAPE= 0,36.",
+  "creators": "CALVIN CHRISTOPHER KURNIAWAN",
+  "contributors": "Silvia Rostianingsih (Advisor 1); Leo Willyanto Santoso (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022154/INF/2022; Calvin Christopher Kurniawan (C14180133)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; PROGRAMMING (ELECTRONIC COMPUTERS); REGRESSION ANALYSIS--COMPUTER PROGRAMS"
+}

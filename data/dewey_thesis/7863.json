@@ -1,0 +1,14 @@
+{
+  "id": "7863",
+  "title": "Perancangan dan pembuatan sistem administrasi pada agen properti Era King",
+  "abstract": "Era King adalah suatu usaha di bidang jasa pemasaran properti di Indonesia. Selama ini sistem administrasi yang ada pada Era King masih secara manual, dimana semua data yang ada masih dicatat dengan menggunakan kertas. Hal ini tentu saja sangat memungkinkan adanya data yang hilang dan akan kesulitan dalam melakukan penelusuran data. Oleh karena itu, untuk mempermudah bagian administrasi dalam menjalankan tugasnya maka dibuat sebuah sistem administrasi secara terkomputerisasi. Selain itu dibuat pula simulasi perhitungan harga rumah bekas di Surabaya dengan berdasarkan ketentuan dari Era Indonesia untuk mempermudah tugas marketing associate. Pembuatan perangkat lunak untuk sistem yang baru menggunakan Borland Delphi 7.0 untuk bahasa pemrogramannya, database server MySQL 4.0.23 untuk menyimpan database-nya, dan Microsoft Windows XP sebagai sistem operasinya. Untuk mendesain sistem dimulai dengan merancang Data Flow Diagram (DFD) serta Entity Relationship Diagram (ERD). DFD dan ERD dibuat dengan menggunakan Power Designer 6.1. Perangkat lunak yang dihasilkan dapat menangani input data seperti data marketing associate, listing dan selling, mencatat iklan suatu properti, serta menghitung harga rumah bekas di Surabaya tetapi hasil yang didapat tidak dapat dijadikan patokan apabila ada perbedaan spesifikasi bangunan. Dari hasil implementasi sistem dan uji coba, perangkat lunak ini dapat menangani masalah administrasi seperti mengetahui daftar listing yang akan habis masa kontraknya, mencari properti baik yang sudah laku maupun yang sedang dipasarkan dengan kategori tertentu, dan membuat laporan yang diperlukan baik oleh Era King mupun oleh marketing associate.",
+  "creators": "YONGKY WIJAYA",
+  "contributors": "Sukanto Tedjokusuma (Advisor 1); Silvia Rostianingsih (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010566/INF/2006; Yongky Wijaya (26401219)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

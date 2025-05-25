@@ -1,0 +1,14 @@
+{
+  "id": "21030",
+  "title": "Pelacak wajah manusia berdasarkan informasi warna kulit",
+  "abstract": "Munculnya mikroprosesor gigahertz, harga kamera yang semakin menurun dan bandwith dari video capture melalui USB2 yang bertambah 10 kali lipat menyediakan kemungkinan baru untuk mengaplikasikan computer vision dan image processing dimanapun kita menemukan PC. Kontrol gestur secara real time melalui PC rumahan sekarang sudah dimungkinkan. Pelacak Wajah Manusia Berdasarkan Informasi Warna Kulit ini dibuat untuk mengikuti wajah manusia dengan menambahkan motor pada kamera dan kontrol melalui PC. Sistem pelacak wajah manusia ini diimplementasi dengan dua buah mekanik yaitu mekanik Motor DC dan mekanik motor servo. Metode pengenalan daerah wajah berdasarkan informasi warna kulit adalah metode statistical signal processing tepatnya algoritma CamShift dari Open Source Computer Vision Library. Sistem pelacak wajah ini dibuat dengan menggunakan Microsoft Visual C++ 6.0?, Microsoft? DirectShow?, Intel Performance Library dan Open Source Computer Vision Library. Pelacak wajah berdasarkan informasi warna kulit ini berhasil mengikuti wajah manusia walaupun ada noise yang berwarna ataupun putih sebesar 50% secara real time (15 frame/second). Sistem ini dapat dikembangkan untuk mengenali wajah orang (face recognition) yang dapat digunakan di bandara-bandara sebagai sistem keamanan dari teroris atau pembajak.",
+  "creators": "IWAN NJOTO SANDJAJA",
+  "contributors": "Thiang (Advisor 2); Resmana Lim (Advisor 1); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/EL/032/546; Iwan Njoto Sandjaja (23497077)",
+  "subjects": "COMPUTER GRAPHICS; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

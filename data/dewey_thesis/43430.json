@@ -1,0 +1,14 @@
+{
+  "id": "43430",
+  "title": "Analisis perbandingan metode peramalan dalam penjualan pakan ternak pada PT XYZ",
+  "abstract": "Prediksi merupakan salah satu kunci dari keberhasilan penjualan karena dengan nilai prediksi penjualan bisa dijadikan panduan sebagai acuan untuk menentukan suatu penjualan produk.Dengan pendekatan penelitian kuantitatif dan variabel yang digunakan berupa penjualan pakan, analisis dilakukan untuk lima jenis kode pakan dengan penjualan terbesar selama kurun waktu 2013-2018 diantaranya 511B, 124P, 124, 144 dan 511. Data yang telah didapatkan diolah dengan bantuan program Minitab 18 dan Microsoft Excel dengan melakukan plot untuk setiap data dan melakukan pengujian data. Analisis perhitungan peramalan akan dilakukan dengan menggunakan beberapa metode yaitu Single Moving Average, Regresi Linear, Single Exponential Smoothing, dan ARIMA. Penggunaan metode berikut akan menghasilkan sebuah peramalan yang akan dibandingkan dengan peramalan oleh metode perusahaan dengan pengujian MAD, MSE dan MAPE. Hasil penelitian menunjukkan metode terbaik untuk setiap kode pakan secara berturut-turut adalah Single Exponential Smoothing untuk 511B, Marketing untuk 124P, ARIMA (0, 0, 1) untuk 124, Single Exponential Smoothing untuk 144 dan Single Exponential Smoothing untuk 511.",
+  "creators": "CHRISTIAWAN J. SATRIO",
+  "contributors": "Benedictus Rahardjo S.T. M.B.A. (Advisor 1); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022181/IND/2019; Christiawan J. Satrio (25414069)",
+  "subjects": "SALES FORECASTING; INDUSTRIAL MANAGEMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "20666",
+  "title": "Perancangan dan pembuatan aplikasi \"Website Application Security Scanner\" untuk mendeteksi adanya vulnerable link pada website",
+  "abstract": "Dewasa ini, masih banyak ditemukan celah keamanan pada layer aplikasi website. Hal ini dikarenakan masalah keamanan yang seringkali diabaikan oleh seorang web developer pada saat membuat suatu website. Padahal, dengan adanya celah keamanan pada suatu website, seorang hacker dapat melakukan berbagai kegiatan yang dapat berdampak fatal bagi website tersebut. Kegiatan merugikan yang dapat dilakukan seorang hacker meliputi mengubah halaman website (defacing), mendapatkan informasi sensitif, bahkan mengambil alih kontrol sistem website tersebut. Untuk membantu mengatasi permasalahan tersebut, dilakukan pembuatan aplikasi untuk mendeteksi celah keamanan yang ada pada suatu website. Proses yang dilakukan dimulai dengan melakukan proses crawling untuk mendapatkan seluruh link dari website target. Dilanjutkan dengan proses attacking yang berguna untuk mencoba melakukan penyerangan pada link yang berpotensi memiliki celah keamanan. Baru kemudian aplikasi akan berlanjut pada proses reporting dimana aplikasi akan membuat suatu laporan celah keamanan pada website tersebut. Aplikasi ini dibuat menggunakan Microsoft Visual C# 2010. Berdasarkan hasil pengujian yang dilakukan pada aplikasi ini, dapat disimpulkan bahwa aplikasi dapat mendeteksi celah keamanan pada website dan memberikan laporan berupa link mana saja yang memiliki celah keamanan pada website tersebut.",
+  "creators": "DEDDIE TJAHJONO",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Ibnu Gunawan (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020938/INF/2010; Deddie Tjahjono (26407051)",
+  "subjects": "WEBSITES-DESIGN; WEBSITES"
+}

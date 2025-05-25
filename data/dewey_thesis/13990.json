@@ -1,0 +1,14 @@
+{
+  "id": "13990",
+  "title": "Algoritma heuristic hungarian-TSP untuk penjadualan flowshop tanpa ruang tunggu (no waiting space)",
+  "abstract": "Penelitian mengenai problem penjadualan job pada suatu lantai produksi sudah selama beberapa tahun dilakukan yang sudah menghasilkan beberapa algoritma dengan masing-masing fiingsi tujuannya, baik itu meminimalkan makespan, meminimalkan/7owv//we maupun yang lainnya. Namun penelitian yang pernah ada tersebut tidak memperhatikan ada atau tidaknya tempat untuk job menunggu selama job Iain sedang diproses atau dengan kata lain mengasumsikan bahwa terdapat tempat untuk job yang menunggu untuk diproses dan job boleh idle.. Namun, terdapat banyak kasus di beberapa perusahaan dimana tidak terdapat tempat untuk job menunggu untuk diproses dan atau barang yang sudah mulai diproses hams diproses terus sampai selesai dan tidak mengijinkan barang tersebut idle. Pada Tugas Akhir ini diperkenalkan suatu pendekatan heuristic untuk penjadualan flowshop tanpa ruang tunggu yang diadopsi dari metode Hungarian dan Traveling Salesman Problem dengan terlebih dahulu menentukan nilai matriks biaya. Entry dari matriks biaya merupakan waktu idle mesin terakhir diantara proses job i dan job j. Kemudian menentukan pasangan job dimana job satu mendahului pasangannya dan pasangan-pasangan job ini akhirnya akan membentuk tur yang akan disusun menjadi satu rantai urutan job. Algoritma yang dibangun, Hungarian-TSP, dibandingkan dengan Algoritma NEH dan full-enumeration. Makespan yang dihasilkan tidak terlalu jauh berbeda secara signifikan terhadap global-optima. Untuk jumlah job kecil (<8 job ), algoritma NEH memberikan makespan yang lebih kecil, dan untuk jumlah job besar (> 8 dan < 11), Algoritma Hungarian-TSP memberilan makespan yang lebih kecil. Makespan yang dihasilkan Algoritma NEH cenderung meningkat sebanding dengan besar permasalahan, sedangkan Algoritma Hungarian-TSP menghasilkan makespan yang relatif konstan.",
+  "creators": "SANDY CITRO",
+  "contributors": "Didik Wahjudi (Lecturer); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 278/TI-05/2000; Sandy Citro (25496012)",
+  "subjects": "WORK MEASUREMENT; SCHEDULING; ALGORITHMS"
+}

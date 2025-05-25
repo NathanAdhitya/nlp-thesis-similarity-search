@@ -1,0 +1,14 @@
+{
+  "id": "39279",
+  "title": "Aplikasi deteksi orang jatuh dengan memanfaatkan Kinect",
+  "abstract": "Jatuh merupakan masalah yang serius dan hal ini seringkali mengakibatkan cedera yang dapat membahayakan keselamatan orang tersebut. Hal ini juga perlu lebih diwaspadai pada orang tua, yang membutuhkan perhatian khusus. Oleh karena itu, pendeteksian orang jatuh sangatlah diperlukan. Dengan dapat mendeteksi orang yang terjatuh, pertolongan pertama dapat secepat mungkin diberikan pada orang yang terjatuh. Kinect adalah kamera RGB-D yang dapat menerima gambar seperti kamera biasa dan juga dapat mendapatkan jauh dekatnya objek sehingga dapat menyimpulkan posisi, seperti nilai dari sumbu X, sumbu Y dan sumbu Z. Kinect, yang dapat juga digunakan untuk mendeteksi orang, dimanfaatkan untuk mendeteksi jatuh. Pendeteksiannya menggunakan bantuan Microsoft Kinect SDK. Kinect ini dapat mendeteksi orang yang berada di depannya dan memprosesnya dengan membuat skeleton dari orang tersebut. Dari situ, Kinect akan mengenali dan melacak sendi dari orang yang terdeteksi. Metode yang digunakan adalah mendapatkan sekumpulan data posisi dari orang tersebut. Data posisi tersebut dapat berupa ketinggian, lebar, kedalaman, posisi kepala, tangan, dan kaki. Setelah itu, memperhitungkan kecepatan perubahan posisinya dengan rumus yang telah dimiliki, dimana jatuh hanya memakan waktu yang sangat singkat untuk membuat tubuh dari berdiri menjadi terbaring di lantai. Data yang didapatkan dipilah untuk membedakan aktivitas yang dilakukan. Ketika terdeteksi jatuh, aplikasi dapat memberikan peringatan berupa bunyi dan email. Email ini mengandung laporan berupa foto yang dilakukan Kinect ketika jatuh terdeteksi, sehingga dapat mengetahui jatuh yang sedang terjadi. Percobaan dilakukan berkali-kali untuk mengetahui pola dari jatuh tersebut. Data hasil jatuh tersebut berbeda dengan aktivitas sehari-hari, seperti berjalan, tiduran, melompat, atau duduk. Data jatuh juga dibandingkan terhadap aktivitas yang dapat memiliki kecepatan perubahan posisi yang cepat, seperti senam.",
+  "creators": "JONATHAN TJITROKUSMO",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021634/INF/2017; Jonathan Tjitrokusmo (26413041)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); WEBSITE DESIGN; DATABASE DESIGN"
+}

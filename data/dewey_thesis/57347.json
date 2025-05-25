@@ -1,0 +1,14 @@
+{
+  "id": "57347",
+  "title": "Vehicle routing problem simultaneous deliveries and pickups with split loads and time windows dengan algoritma genetika (studi kasus di perusahaan pelayaran)",
+  "abstract": "Penelitian ini difokuskan pada VRPSDPSLTW (Vehicle Routing Problem Simultaneous Deliveries and Pickups With Split Loads and Time Windows), yakni permasalahan penugasan rute kendaraan dengan pengantaran dan pengambilan serentak yang mengizinkan kunjungan berulang ke pelanggan dan mengatasi batasan kapasitas kendaraan serta waktu pengiriman, dengan tujuan meningkatkan penggunaan optimal kapasitas kapal di sektor transportasi dan logistik. Dalam penelitian ini, VRPSDPSLTW diadaptasi untuk PT. X, sebuah perusahaan pelayaran di Surabaya, menggunakan Algoritma Genetika sebagai metode metaheuristik untuk mengoptimalkan penggunaan kapasitas kapal. Outputnya meliputi rencana rute dengan nilai kecocokan, TEUs muatan dan bongkar, waktu perjalanan, dan utilitas perjalanan dari POL ke POD. Operator One Point Crossover dan Swap Mutation digunakan dalam algoritma genetika, dengan analisis parameter mutasi terbaik. Hasil analisis menunjukkan bahwa jumlah generasi sebesar 1000 dan probabilitas mutasi 0,2 dapat menghasilkan solusi yang lebih baik. Solusi GA meningkatkan rata-rata %utilitas penggunaan kapasitas kapal menjadi 80.8%, mencerminkan peningkatan sebesar 21.1% dari rata\u0002rata %utilitas sebelumnya sebesar 59.7% dalam penggunaan kapal serupa secara global, dan mampu merancang kontribusi penggunaan setiap kapal yang lebih baik melalui pengenalan peluang rute baru untuk mencapai rata-rata persentase utilitas penggunaan kapasitas kapal yang optimal dalam pemenuhan demand.",
+  "creators": "SHEA AMANDA FERDIANTI",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Nova Sepadyati, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022602/IND/2023; Shea Amanda Ferdianti (C13190042)",
+  "subjects": "TRAVELING SALESMAN PROBLEM; VEHICLE ROUTING PROBLEM"
+}

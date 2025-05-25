@@ -1,0 +1,14 @@
+{
+  "id": "19918",
+  "title": "Pengaturan kecepatan motor asinkron rotor tergulung (3 fasa, 1/2 HP, 127/220 volt, 1500 RPM, 50 Hz) melalui tahanan variabel pada rotor dengan bantuan microkontroller 8031",
+  "abstract": "Kebanyakan aplikasi industri, menginginkan motor induksi dengan karakteristik kecepatan konstan. Walaupun demikian, ada beberapa aplikasi (seperti conveyor, kerekan dan elevator) dimana kemampuan pengaturan kecepatan adalah sebuah faktor yang penting. Biasanya pengaturan kecepatan ini dapat dilakukan dengan beberapa cara yaitu dengan mengubah jumlah kutub motor, mengubah frekuensi jala-jala, mengatur tegangan jala-jala dan mengatur tahanan eksternal pada rotor. Dalam pembuatan tugas akhir ini akan merencanakan serta membuat sebuah alat pengatur kecepatan motor induksi rotor tergulung dengan berbasis microcontroller 8031 yang diaplikasikan untuk mengatur posisi tahanan eksternal, dimana jenis pengontrolannya termasuk jenis kontrol on-off. Pengaturan kecepatan motor induksi dengan menggunakan tahanan eksternal ini mempunyai kerugian yaitu adanya daya yang terbuang sebagai panas pada tahanan eksternal, sehingga pengaturan jenis ini akan efektif untuk pengaturan kecepatan antara 50 % sampai dengan 100 % kecepatan sinkrun.",
+  "creators": "HOEDIYONO LIYANTO",
+  "contributors": "BUNAWI GUNAWIDJAJA (Advisor 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 2); ONTOSENO PENANGSANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/TST/024/0151; Hoediyono Liyanto (23490104)",
+  "subjects": "MICROCONTROLLER 8031; ELECTRIC MACHINERY-ROTORS; AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "47343",
+  "title": "Perancangan manipulator robot yang dikendalikan secara otomatis pada platform omnidirectional robot dengan mekanisme counterbalance",
+  "abstract": "Dalam industri, kini mulai banyak menggunakan robot untuk melakukan pekerjaan seperti memindahkan barang, melakukan tugas khusus seperti mengelas, memilah barang, dan lain sebagainya. Dalam pabrik, robot yang dapat mobile diperlukan dimensi robot yang kecil dikarenakan ukuran lorong yang terbatas. Dengan robot omnidirectional wheel, maka robot dapat bergerak ke segala arah dengan mudah. Dikarenakan dimensi robot yang kecil dan dapat bergerak ke segala arah, maka bobot total dari robot akan lebih kecil. Dengan begitu, ketika manipulator mengambil benda terdapat potensi terjungkal. Dengan balancer pada bagian belakang platform, robot diharapkan dapat tetap stabil dan tidak terjungkal karena mengambil beban. Dengan balancer yang dapat dikontrol, maka berat total dari platform pun dapat dikurangi sehingga hemat daya. Tulisan ini berisi rancangan manipulator dan balancer untuk dipasang pada omnidirectional robot. Kemudian membandingkan fuzzy controller dan PID controller untuk mencegah robot terjungkal. Dari hasil percobaan, controller PID dapat menstabilkan platform lebih cepat daripada controller fuzzy, dengan waktu koreksi yang berbeda tergantung beban yang diangkat.",
+  "creators": "YONATAN KRISTIAN ADECHANDRA SARUMAHA",
+  "contributors": "Roche Alimin (Advisor 1); Indar Sugiarto (Advisor 2); Ninuk Jonoadji (Examination Committee 1); Ian Hardianto Siahaan (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03011347/MES/2020; Yonatan Kristian Adechandra Sarumaha (24416087)",
+  "subjects": "ROBOTICS-DESIGN AND CONSTRUCTION; ROBOTICS"
+}

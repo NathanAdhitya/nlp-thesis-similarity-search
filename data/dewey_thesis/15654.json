@@ -1,0 +1,14 @@
+{
+  "id": "15654",
+  "title": "Studi banding pembuatan suatu kurva dengan menggunakan metode bezier B-spine, dan nurbs",
+  "abstract": "Computer graphic can not be separated with a curve. For making a curve is needed a method which is called Bezier method. In the Bezier is needed polygon control to make a curve. In making a curve, beside Bezier method there is other B-Spline method or NURBS method. In this study is compared three method there are Bezier method, B-Spline and NURBS, which is used as a guide of parabola curve. All three method will be compared based of speeding process to make a curve and how big memory is going to used in each of method. The purpose of this compare study is understanding how to make effective curve in each of method. In this compare study is using program language is called Delphi 2.0. For measure speeding process making curve in each of method is used Delphi component, is called HiResTimer. The result of compare study is proved that Bezier method is the most effectively to making a curve than other method with using the same coordinate polygon. For making a difficult curve is needed more accurately. That way is have to used B-Spline or NURBS method, which have error coordinate smaller than using Bezier method.",
+  "creators": "HARTONO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/Kom/005/044; Hartono (23492057)",
+  "subjects": "COMPUTER GRAPHICS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

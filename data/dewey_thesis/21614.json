@@ -1,0 +1,14 @@
+{
+  "id": "21614",
+  "title": "Pengaturan kecepatan konveyor menggunakan metode kontroler pid berbasis plc",
+  "abstract": "Perkembangan perindustrian semakin lama semakin berkembang seiring dengan perkembangan jaman. Dimana didalam perindustrian tersebut ada suatu kegiatan produksi yang efisien dan efektif. Jawaban dari semuanya ini adalah suatu teknologi yang dinamakan automasi, dimana automasi akan memberikan suatu metode yaitu, ketepatan dan otomatis. Untuk itu dalam dunia automasi dikenal sebuah alat yang bernama PLC. Dalam automasi diperlukan suatu device untuk membantu lalu lintas distribusi suatu barang produksi, yaitu konveyor. Disini diperlukan suatu metode yang dapat mengontrol motor supaya dapat berjalan konstan, salah satu metode yang dapat digunakan adalah PID. Ada dua metode untuk mendapatkan parameter PID, auto tuning dan trial & error. Metode trial & error membutuhkan pemahaman terhadap pengaruh masing-masing gain. Pada judul ini mengadopsi metode trial & error, karena pada sistem ini, nilai dari parameter gain proportional, gain integral, dan gain derivative dapat dirubah oleh pengguna. Hardware (plant) terdiri dari, Conveyor dimana motor sebagai penggerak, rotary encoder sebagai sensor, rangkaian I to V, F to V.. Hardware ini dikendalikan oleh software khusus. Software ini dilengkapi dengan hasil response, seperti pembacaan SP, PV, Pband, TI, TD. Berdasarkan percobaan respons tidak dapt menunjukkan hasil yang baik, analisa terhadap SP, PV, Pband, TI, TD tidak dapat dicapai, semakin sulit untuk mendapatkan respons yang baik, sehingga tujuan tidak terpenuhi dengan baik, disebabkan oleh PID modul.",
+  "creators": "YERRY",
+  "contributors": "Thiang (Advisor 1); Hany Ferdinando (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010875/ELK/2008; Yerry (23402071)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

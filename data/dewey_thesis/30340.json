@@ -1,0 +1,14 @@
+{
+  "id": "30340",
+  "title": "Perancangan sistem penjadwalan flexible flow line dengan ultimate buffers and setup di PT Kerta Rajasa",
+  "abstract": "Perusahaan Kerta Rajasa merupakan suatu industri manufaktur yang memproduksi karung plastik yaitu Jumbo bag dan Woven bag. Jenis perusahaan ini adalah perusahaan job order dimana memproduksi berdasarkan pesanan. Dalam memproduksi karung plastik tersebut harus meliputi beberapa tahapan proses yaitu peleburan bijih plastik menjadi benang plastik pada departemen Extruder kemudian benang plastik dirajut menjadi lembaran karung plastik pada departemen Circular dan akhirnya lembaran tersebut dipotong dan diprinting pada departemen Printing. Perusahaan Kerta Rajasa merupakan perusahaan yang cukup besar, hal itu dapat dilihat dari jumlah pesanan yang cukup banyak sehingga pemenuhan pesanan sesuai dengan waktu yang diberikan merupakan suatu yang perlu mendapat perhatian yang besar. Dalam hal ini penulis berusaha memberikan suatu perancangan penjadwalan yaitu dengan metode Flexible Flow Line with Unlimitted Buffers and Setups. Tujuan dari metode ini adalah untuk mendapatkan suatu jadual pengerjaan job yang mempunyai waktu keterlambatan dengan bobot pengerjaan yang minimum. Penjadwalan dilakukan pada job dengan jenis produk Woven hag sebanyak 20 job. Hasil dari penjadwalan yang dilakukan diperoleh jadwal pengerjaan sebagai berikut : 2-1-6-18-3-5-4-8-9-7-19-11-10-14-15-20-17-12-13-16 dan job yang terlambat yaitu job 5, 10, 11, 12, 13, 16 dan 20 dengan jumlah wighted tardiness sebesar 222,4951. Analisa biaya dilakukan pada job-job yang terlambat dengan menentukan job yang disubkontrakkan atau dilakukan back order. Hasil analisa biaya menunjukkan bahwa job 5 dan 20 dilakukan back order sedangkan job 10, 11, 12, 13 dan 16 dilakukan subkontrak pada perusahaan lain.",
+  "creators": "BUDDY",
+  "contributors": "Tessa Vanina Soetanto (Advisor 1); Maja Indahwati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 338/TI-65/2000; Buddy (25496147)",
+  "subjects": "SCHEDULING; PRODUCTION PLANNING"
+}

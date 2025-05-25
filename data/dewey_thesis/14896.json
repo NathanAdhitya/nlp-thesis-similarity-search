@@ -1,0 +1,14 @@
+{
+  "id": "14896",
+  "title": "Perencanaan dan pembuatan mesin penjawab telepon dengan password untuk pengubahan data jarak jauh dan menggunakan microcontroller 8031",
+  "abstract": "Dalam era pembangunan ini peranan komunikasi menjadi sangat penting, terutama dalam hal pemakaian jasa telepon. Tetapi kemajuan teknologi telah menjadikan orang begitu sibuk sehingga jadwal kegiatan yang telah dibuat seringkali dilanggar. Karena itu timbul ide untuk membuat mesin penjawab telepon yang fleksibel dan datanya dapat diubah-ubah sesuai dengan data terbaru. Alat yang dibuat ini berguna sebagai penyimpan dan penyampaian data / pesan yang diinputkan, baik melalui telepon maupun microphone dan speaker. Untuk pemasukan data melalui telepon maka pemakai harus memasukkan nomor password melalui keypad telepon agar dapat masuk ke sistem perekaman pada alat yang dibuat, sehingga dapat dilakukan pengubahan data dari jarak jauh (luar). Prinsip kerja dari rangkaian yang direncanakan adalah: pertama kali mendeteksi adanya deringan sebanyak lima kali. Bila dalam waktu tertentu terdapat penekanan nomor password yang sesuai, maka rangkaian akan masuk ke dalam keadaan record. Tetapi bila dalam waktu tertentu itu tidak terdapat penekanan nomor password yang sesuai, maka sistem akan masuk ke dalam keadaan playback dan mengerluarkan pesan yang telah direkamkan. Penyimpanan pesan serta proses sampling suara dilakukan dengan menggunakan frekuensi sampling sebesar 32 KHz, dimana data disimpan di dalam empat DRAM berkapasitas total 256 KByte untuk waktu maksimum 42 detik. Frekuensi sampling yang digunakan kira-kira lOx frekuensi tertinggi pada inputnya sehingga suara playback yang dihasilkan sudah sangat mendekati sempurna.",
+  "creators": "CYNTHIA DEWI DAMAJANTI",
+  "contributors": "IRWAN SAHLI (Advisor 2); SOETIKNO (Examination Committee 1); Murtiyanto Santoso (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/021/0224; Cynthia Dewi Damajanti (23490069)",
+  "subjects": "TELEPHONE ANSWERING AND RECORDING APPARATUS"
+}

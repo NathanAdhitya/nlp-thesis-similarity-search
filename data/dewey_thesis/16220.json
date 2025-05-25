@@ -1,0 +1,14 @@
+{
+  "id": "16220",
+  "title": "Diskriminasi struktur proses produksi dalam domain sekuensi dengan menggunakan trnasformasi walsh-fourier dan pengujian statistik F",
+  "abstract": "Dalam tugas akhir ini akan dijelaskan suatu metode untuk mendeteksi adanya suatu perubahan struktur pada proses produksi khususnya data atribut. Perubahan struktur disini, difokuskan pada perubahan struktur yang mempengaruhi struktur kovarians data. Peta kendali Shewhart yang mendasarkan pada uji hipotesis konvensional masih banyak terdapat kelemahan karena data proses produksi pada umumnya terkorelasi dan tidak berdistribusi normal. Struktur suatu proses dapat dimodelkan oleh fungsi kovarians, sedangkan fungsi kovarians identik dengan distribusi spektralnya. Sehingga agar dapat mendeteksi perubahan struktur, data perlu ditransformasikan ke dalam distribusi spektralnya dengan menggunakan transformasi Walsh-Fourier sehingga data menjadi tidak terkorelasi dan data dapat dianalisa secara statistik. Dengan asumsi bahwa distribusi data proses produksi tidak diketahui maka akan digunakan uji statistik untuk mendeteksi perubahan struktur. Data yang telah ditransformasikan, akan diuji dengan menggunakan pengujian statistik F untuk mengetahui apakah metode ini dapat mendeteksi adanya perubahan. Data yang dipakai dalam makalah ini berupa data time series simulasi atribut gabungan yang dibangkitkan dengan model INAR (Integer Valued Auto-regressive). Pada makalah ini disertakan juga perangkat lunak interaktif dari model yang dibangun.",
+  "creators": "SOENARTI",
+  "contributors": "Dr. Dra. Gan Shu San, M.Sc. (Advisor 1); Sujono Poetrodjojo (Advisor 2); BENJAMIN HADISURYA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 076/TMI-06/1998; Soenarti (25493108)",
+  "subjects": "PRODUCTION MANAGEMENT-SIMULATION METHODS; MANUFACTURING PROCRESSES-SIMULATION METHODS"
+}

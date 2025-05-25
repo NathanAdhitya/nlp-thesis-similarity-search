@@ -1,0 +1,14 @@
+{
+  "id": "38396",
+  "title": "Perancangan tray conveyor untuk pick and place spoon system di PT X",
+  "abstract": "PT X merupakan perusahaan yang bergerak di bidang pembuatan peralatan makan dari plastik. Salah satu produk yang diproduksi adalah sendok makan plastik. PT X membutuhkan sebuah tray conveyor untuk produk sendok mereka yang bekerja secara otomatis menyesuaikan dengan pick and place system yang sudah tersedia juga mempunyai lebar yang lebih kecil. Tray conveyor didesain bertingkat dengan mekanisme scissor lift elevator. Rangka terbuat dari besi kotak, dan bed terbuat dari nylon. Penggerak dari tray conveyor menggunakan silinder piston pneumatik yang dihubungkan dengan sistem udara bertekanan yang sudah dimiliki PT X. Tray conveyor dikontrol secara otomatis menggunakan PLC Autonic LP-S044 dengan menggunakan input dari magnetic silinder position sensor dan proximity sensor, dan output yang dikontrol adalah solenoid 5/2 way valve dan solenoid 5/3 way valve. Flow control valve juga digunakan untuk mengatur kecepatan silinder.",
+  "creators": "STEVEN BUDIJANTO",
+  "contributors": "Roche Alimin (Advisor 1); Joni Dewanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03011142/MES/2016: Steven Budijanto (24412034)",
+  "subjects": "CONVEYING MACHINERY; PNEUMATIC MACHINERY"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "20671",
+  "title": "Pembuatan sistem informasi penjualan dan pembelian pada perusahaan distribusi PT. Multi Cahaya Abadi",
+  "abstract": "PT. Multi Cahaya adalah perusahaan yang bergerak dibidang distribusi barang dari supplier hingga ke customer. Sistem yang ada saat ini menggunakan sistem manual yang banyak ditemui kekurangannya. Contoh kekurangannya adalah dalam hal perhitungan dan pencatatan sehingga jumlah barang yang ada sering terdapat sesuai dengan catatan jumlah barang. Untuk pengembangan usahanya dibutuhkan sistem baru yang dapat memperbaiki sistem lama yang dipakai saat ini. Pada skripsi ini, proses pembuatan aplikasi diawali dengan desain hingga implementasi. Untuk mendapatkan desain baru dibutuhkan survei lapangan. Desain yang dibuat meliputi pembuatan Data Flow Diagram dan Entity Relationship Diagram. Aplikasi perangkat lunak yang dihasilkan dapat menangani input data seperti mencatat pembelian, mencatat penjualan, mencatat retur, menghitung Harga Pokok Penjualan, hingga laporan kartu stok dan laba rugi. Skripsi ini dibuat dengan menggunakan .Net Framework 4.0 sebagai bahasa script dan SQL Server 2008 sebagai penyimpan database. Aplikasi sistem ini telah selesai dibuat dengan fitur-fitur yang telah direncanakan dan disesuaikan dengan kebutuhan sebelumnya meliputi pembuatan HPP dan kartu stok yang terperinci. Sistem penjualan dan pembelian yang telah diimplementasikan dapat membuat proses pembelian dan penjualan pada PT. Multi Cahaya Abadi menjadi lebih terperinci dan tersusun rapi.",
+  "creators": "CHRISTIAN YUWONO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Zeplin Jiwa Husada Tarigan (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021004/INF/2011; Christian Yuwono (26407020)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

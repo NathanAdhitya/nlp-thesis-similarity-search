@@ -1,0 +1,14 @@
+{
+  "id": "4764",
+  "title": "Location based services untuk pencarian fasilitas umum pada mobile phone dengan J2ME",
+  "abstract": "GPS (Global Positioning System) sebagai alat untuk memperoleh koordinat posisi dapat digunakan dalam berbagai aplikasi, salah satunya adalah aplikasi teknologi location services. Dengan menggunakan koordinat yang diperoleh dari GPS receiver, client mendapatkan informasi tempat disekitarnya. Tujuan dari tugas akhir ini adalah membuat sistem informasi mengenai letak-letak tempat yang dicari oleh user pada posisi tempat ia berada dimana koordinat user diperoleh secara offline dari GPS receiver. Sistem yang dibuat terdiri atas client-server. Informasi yang diperoleh berupa text atau gambar tergantung pada kebutuhan. Hasil yang diperoleh dari tugas akhir ini adalah suatu sistem informasi location services melalui web dengan pemograman servlet dan aplikasi pada handphone dengan menggunakan Java programming dimana informasi dikirimkan dengan dua metode yaitu dengan socket connection dan HTTP connection. Dengan perbandingan ketiga cara yang digunakan, pemograman dengan HTTP memiliki kelebihan dari pada web dan TCP. Pertukaran data dengan HTTP connection lebih cepat dan dengan ukuran data yang kecil karena tidak mengandung data gambar.",
+  "creators": "CAHYA",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Njoto Sandjaja, S.T., MSCS. (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010016/ELK/2004; Cahya (23400114)",
+  "subjects": "DIGITAL COMMUNICATION; GLOBAL POSITIONING SYSTEM-COMPUTER PROGRAMS"
+}

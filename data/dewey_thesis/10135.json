@@ -1,0 +1,14 @@
+{
+  "id": "10135",
+  "title": "Kombinasi algoritma genetik & data envelopment analysis pada permasalahan penjadwalan flowshop dengan multi criteria",
+  "abstract": "Skripsi ini memuat kombinasi algoritma genetik dengan Data Envelopment Analysis untuk pemecahan masalah penjadwalan flowshop dengan multi criteria. DEA digunakan untuk menghitung nilai keseluruhan kriteria dari setiap individu/sequences dengan menggunakan nilai efisiensi relatif sebagai fitted value dalam algoritma genetik. Hal ini ditujukan agar nilai keseluruhan dari kriteria-kriteria yang ada tidak terikat pada satu jenis bobot saja. Pengombinasian dua metode ini menghasilkan suatu algoritma yang mampu menghasilkan kumpulan solusi optimal di mana nilai efisiensi relatif dari solusi-solusi ini tidak kalah jika dibandingkan dengan hasil dari model Mixed Integer Programming.",
+  "creators": "HARIS LIENARDO",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Herri Christian Palit (Advisor 2); I Nyoman Sutapa (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01011161/IND/2007; Haris Lienardo (25402038)",
+  "subjects": "PRODUCTION SCHEDULING"
+}

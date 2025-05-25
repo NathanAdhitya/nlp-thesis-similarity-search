@@ -1,0 +1,14 @@
+{
+  "id": "42107",
+  "title": "Aplikasi manajemen jaringan berbasis software defined networking",
+  "abstract": "Dalam sebuah korporasi besar yang memiliki banyak perangkat jaringan, seorang network operator seringkali harus melakukan konfigurasi masing-masing perangkat tersebut secara manual. Di sisi lain, adanya kebutuhan untuk mengorganisir ulang perangkat-perangkat tersebut menjadi lebih fleksibel sehingga dapat menjawab tantangan-tantangan seperti pembatasan akses host maupun port (services) tertentu. SDN atau Software Defined Network diyakini sebagai salah satu solusi untuk menjawab tantangan diatas. Pada penelitian ini, sebagian masalah di atas akan dijawab menggunakan konsep dari SDN. Jika terdapat sebuah point of management, maka akan sangat dimungkinkan untuk dapat mengubah network behaviour (perilaku jaringan) dan atau konfigurasi lainnya, serta melakukan perubahan lain secara dinamis atau otomatis (diprogram), terutama dalam perubahan policy. Pada eksplorasi ini, OpenWRT ditanamkan pada perangkat jaringan sehingga dimungkinkan untuk dikontrol. Untuk memudahkan pemrograman jaringan, maka dibangun web services yang dilengkapi dengan otorisasi keamanannya. Hasil dari eksplorasi ini menunjukkan bahwa konsep Software Defined Networking dapat menjawab masalah diatas, dengan biaya yang relatif murah.",
+  "creators": "EPAPHRAS ERICSON THOMAS",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Agustinus Noertjahyana (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021752/INF/2018; Epaphras Ericson Thomas (26413021)",
+  "subjects": "SOFTWARE-DEFINED NETWORKING (COMPUTER NETWORK TECHNOLOGY); APPLICATION SOFTWARE--DEVELOPMENT"
+}

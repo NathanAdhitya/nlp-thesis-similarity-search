@@ -1,0 +1,14 @@
+{
+  "id": "8029",
+  "title": "Perancangan dan pembuatan sistem administrasi berbasis web pada unit humas dan informasi studi Universitas Kristen Petra",
+  "abstract": "Unit Humas dan Informasi Studi Universitas Kristen Petra adalah suatu unit di Universitas Kristen Petra yang bertujuan untuk menciptakan komunikasi dua arah antara Universitas Kristen Petra dan publik. Selama ini sistem administrasi yang ada pada Unit Humas dan Informasi Studi masih secara manual dan terkomputerisasi (berupa file excel). Hal ini tentu saja dapat menghambat dalam pencarian data dan pembuatan laporan yang dibutuhkan. Oleh sebab itu, untuk dapat mempermudah penyajian data yang dibutuhkan maka dibuat suatu sistem administrasi berbasis web yang dapat mencatat kegiatan media, kegiatan informasi studi, hasil publikasi, serta informasi penerimaan mahasiswa baru. Pembuatan sistem administrasi yang baru menggunakan Macromedia Dreamweaver MX, PHP, database MySQL, dan web server Apache. Untuk mendesain sistem dimulai dengan merancang Data Flow Diagram (DFD) serta Entity Relationship Diagram (ERD) yang dibuat dengan menggunakan Power Designer 6.1. Dari hasil implementasi sistem dan uji coba, sistem administrasi ini dinilai telah memenuhi kebutuhan user dengan dapat menyajikan informasi penerimaan mahasiswa baru, jadwal kegiatan media, jadwal kegiatan Informasi Studi, hasil publikasi kegiatan di media, maupun Tugas Akhir mahasiswa.",
+  "creators": "SUZAN IVONNE FRANSISCA",
+  "contributors": "Theresia Lestiowati (Advisor 1); Andreas Handojo (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010674/INF/2007; Suzan Ivonne Fransisca (26403051)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

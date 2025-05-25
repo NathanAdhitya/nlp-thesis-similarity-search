@@ -1,0 +1,14 @@
+{
+  "id": "57318",
+  "title": "Capacitated multi-vehicle routing problem with simultaneous pick-up and delivery menggunakan genetic algorithm untuk optimasi rute kapal",
+  "abstract": "Dalam industri logistik dan transportasi khususnya via laut, efisiensi pengiriman barang merupakan salah satu hal yang sangat penting untuk dilakukan. Saat ini, pada PT X masih ditemukan adanya rute-rute dari data historis atau dari penjadwalan masa lalu yang memiliki utilitas rendah. PT X membuat penjadwalan rute secara manual dengan mempertimbangkan beberapa faktor yang ada. Melihat permasalahan ini, maka PT X memerlukan usulan penjadwalan rute yang dapat meningkatkan utilitas dengan mengoptimalkan kapasitas kapal. Metode yang digunakan dalam penelitian ini adalah Modified Genetic Algorithm atau Modifikasi Algoritma Genetik. Modifikasi dilakukan pada bagian pembentukan kromosom atau populasi awal, di mana untuk penentuan nextport-nya tidak 100% acak. Hasil dari penelitian ini menunjukkan adanya penurunan jumlah rute dari 23 menjadi 10, peningkatan utilitas sebesar 6.588% menjadi 45.84%, dan peningkatan jarak tempuh sebesar 5538.163 Nmile. Namun dikarenakan penjadwalan rute dilakukan secara construct, maka sebenarnya tidak ada data historis yang dapat benar-benar dibandingkan dengan hasil algoritma. Ada beberapa faktor yang dapat menyebabkan hasil algoritma ini lebih buruk, misalnya: adanya sisa demand pada data historis yang tidak dikirimkan, penggunaan dua homebase pada data historis, dan jumlah kromosom awal dan generasi yang kurang banyak. Dari sudut pandang operasional algoritma ini dapat digunakan dan hasilnya memungkinkan lebih baik dari yang sudah ada.",
+  "creators": "ANGELINA VANNI PAZYA",
+  "contributors": "Tanti Octavia (Advisor 1); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022597/IND/2023; Angelina Vanni Pazya (C13190014)",
+  "subjects": "PRODUCTION SCHEDULING--MATHEMATICAL MODELS; SHIPPING COMPANIES (MARINE TRANSPORTATION)-MANAGEMENT; VEHICLE ROUTING PROBLEM"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "20992",
+  "title": "Dampak ketidakseimbangan tegangan supply pada kinerja motor induksi tiga phasa",
+  "abstract": "Beban yang tidak seimbang pada tiap phasa menyebabkan terjadinya variasi tegangan supply pada terminal tiga phasa jaringan sistem tenaga listrik yang dapat menimbulkan voltage unbalance. Variasi tegangan supply tersebut dapat berdampak buruk bagi konsumen khususnya industri. Pada skripsi ini dilakukan pengujian variasi tegangan supply untuk motor induksi tiga phasa 1 HP dengan konstanta R1= 10.41 ohm, R2 = 6.07 ohm, X1=X2=9.07 ohm, XM = 142.32 ohm dan RC = 1097.63 ohm, yang diperoleh dari pengujian beban nol dan short circuit. Pengujian variasi tegangan supply yang dilakukan terdiri dari pengujian dengan variasi tegangan supply pada salah satu phasanya, pengujian dengan variasi tegangan supply pada kedua phasanya dan pengujian dengan variasi tegangan supply pada ketiga phasanya, dengan menggunakan standar NEMA dan IEC. Dari pengujian didapatkan persentase voltage unbalance untuk variasi tegangan supply pada ketiga phasanya (6%) lebih besar dibandingkan bila variasi tegangan supply hanya pada salah satu phasa (3%) atau kedua phasanya (3.7%), baik menurut standar NEMA ataupun IEC. Solusi untuk mengatasi voltage unbalance adalah dengan menggunakan alat penstabil tegangan. Salah satunya adalah AVR. Dengan memasang AVR, vektor tegangan dan arus dapat dikembalikan ke dalam bentuk simetris kembali.",
+  "creators": "TEDDY KUSTIONO",
+  "contributors": "Limboto Limantara (Advisor 1); Yusak Tanoto, S.T., M.Eng., Ph.D. (Advisor 2); Julius Sentosa Setiadji (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010620/ELK/2011; Teddy Kustiono (23407007)",
+  "subjects": "ELECTRIC MOTOR, INDUCTION"
+}

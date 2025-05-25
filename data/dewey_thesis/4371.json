@@ -1,0 +1,14 @@
+{
+  "id": "4371",
+  "title": "Pembuatan sistem informasi pembelian dan penjualan pada toko Istana Boneka",
+  "abstract": "Toko Istana Boneka adalah salah satu cabang dari Istana Boneka pusat yang menjual berbagai macam boneka. Saat ini toko Istana Boneka ini masih menggunakan cara manual, yaitu semua kegiatan pembelian dan penjualannya dilakukan dengan media kertas dan kalkulator, sehingga sering terjadi kesalahan pencatatan. Proses manual tidak berjalan dengan baik. Pemilik sering merasa kesulitan untuk menghitung sisa stok, pencatatan pembelian dan penjualan barang, sehingga informasi yang dihasilkan tidak akurat. Sering terjadi transaksi pembelian dan penjualan yang kelewatan pada saat pembayarannya, stok barang juga sulit untuk diketahui. Semuanya ini membuat pemilik merasa kesulitan untuk mengetahui informasi yang ingin dibutuhkan. Dalam rangka penyusunan tugas akhir, maka dibuat program sistem informasi pembelian dan penjualan yang terkomputerisasi untuk toko Istana Boneka ini, sehingga informasi dapat lebih akurat. Proses pembuatan program dimulai dari awal, yaitu analisis kegiatan pada toko Istana Boneka yang masih secara manual, kemudian penyusunan DFD, ERD, dan pembuatan tabel sampai pada pemrograman. Sistem komputerisasinya meliputi pembelian, penjualan, dan pembayarannya. Untuk pengamanan data, setiap pemakai diberi user, password, dan menu yang bisa diakses. Pembuatan database menggunakan Microsoft SQL Server 2000. Bahasa pemrograman yang digunakan adalah Borland Delphi 7.0. Sistem informasi pembelian dan penjualan yang dibuat ini, bisa melakukan proses pembelian, penjualan dan pembayaran termasuk order dan retur. Selain itu juga dapat menghasilkan laporan-laporan stok barang, jatuh tempo pembayaran supplier dan customer.",
+  "creators": "FIVI LIANA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Andreas Handojo (Advisor 2); Theresia Lestiowati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0121/INF/2003; Fivi Liana (26499127)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT"
+}

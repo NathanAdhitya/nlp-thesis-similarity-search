@@ -1,0 +1,14 @@
+{
+  "id": "42134",
+  "title": "Pembuatan aplikasi sistem administrasi toko Aditya Motor Surabaya",
+  "abstract": "Toko Aditya Motor adalah toko yang menjual sparepart motor sekaligus menyediakan jasa servis motor dengan harga yang terjangkau. Toko ini terletak di tempat yang cukup strategis dan customernya cukup banyak. Akan tetapi dalam mencatat banyaknya jumlah stock barang, catatan penjualan, daftar customer toko ini masih menggunakan cara manual di mana cara tersebut masih memiliki banyak kekurangan. Beberapa masalah terkadang timbul seperti contohnya stock barang yang hilang, atau penghitungan laba rugi toko secara manual yang kadang menimbulkan hasil yang salah (human error). Dari adanya latar belakang masalah tersebut, pemilik toko (owner) ingin beralih menggunakan sistem administrasi toko secara IT yang terstruktur rapi sehingga dapat mendukung kinerja toko dalam melakukan penjualan, pembelian, retur penjualan, pembukuan, hutang, piutang dan lain sebagainya. Sistem administrasi berbasis IT ini dibuat menggunakan bahasa pemograman PHP (Hypertext Preprocessor), HTML (Hyper Text Markup Language), MYSQL sebagai database dan Framework Laravel 5 sebagai pembantu. Hasil yang diperoleh dari aplikasi ini antara lain adanya pencatatan master, pencatatan transaksi pembelian dan penjualan yang terstruktur dan terkomputerisasi dilengkapi kartu stok dengan metode average, kuesioner, serta laporan keuangan berupa laba rugi pada Toko Aditya Motor.",
+  "creators": "ANDREW AGATHA",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Lily Puspa Dewi, S.T., M.Kom. (Advisor 2); Ridhotama Shanti Darsih Ottemoesoe, S.E., M.Sc.FE., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021762/INF/2018; Andrew Agatha (26413045)",
+  "subjects": "DATABASE DESIGN; MANAGEMENT INFORMATION SYSTEMS; WEBSITES-DESIGN"
+}

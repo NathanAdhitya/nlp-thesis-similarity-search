@@ -1,0 +1,14 @@
+{
+  "id": "13960",
+  "title": "Pendekatan Tabu Search untuk penjadwalan flowshop dengan mesin pararel pada PT. \"X\"",
+  "abstract": "PT. \"X\", merupakan perusahaan cylinder liner yang menggunakan strategi pemosisian produk make to order, mempunyai lintasan produksi Flow Shop dengan mesin paralel mulai dari center bubut luar sampai dengan center Grinding. Periode penjadwalan PT \"X\" adalah 3 hari. Selama ini PT \"X\" menggunakan metode penjadwalan Longest Processing Time (LPT). Penulis ingin mengusulkan altematif lain untuk menjadwalkan mesin, yaitu dengan pendekatan Tabu Search yang bertujuan untuk meminimumkan makespan. Kelebihan dan kekurangan algoritma ini akan dianalisa disesuaikan dengan kondisi PT. \"X\". Penjadwalan jlowshop dengan mesin paralel ini memiliki 5 variabel yang perlu dipertimbangkan, antara lain jumlah job, jumlah center, jumlah mesin pada tiap center, waktu setup, dan waktu proses masing-masing job di tiap-tiap center. Setelah waktu baku tiap merk pada tiap center didapatkan maka dijadwalkan dengan algoritma LPT, dibandingkan dengan hasil dari algoritma Tabu Seach dengan solusi awal dari algoritma Shortest Processing Time (SPT). Untuk algoritma Tabu Search itu sendiri, dilakukan perbandingan batasan maksimum total iterasi antara 1000 dan 10000. Hasil perhitungan menunjukkan bahwa algoritma Tabu Search menghasilkan makespan yang lebih baik dibandingkan dengan algoritma LPT. Untuk jumlah job yang kecil ataupun besar, algoritma Tabu Search dapat digunakan karena lebih praktis daripada menjadwalkan secara manual. Dengan batasan maksimum total iterasi sebesar 10.000, dibutuhkan waktu yang lebih lama dan dalam beberapa kasus dapat menghasilkan makespan yang lebih baik daripada dengan batasan maksimum total iterasi sebesar 1.000. Penentuan batasan maksimum total iterasi yang digunakan disesuaikan dengan jenis komputer yang digunakan di PT. \"X\". Tidak diperlukan biaya tambahan untuk menjadwalkan mesin dengan algoritma Tabu Search.",
+  "creators": "AMELIA YUNIAR",
+  "contributors": "I Gede Agus Widyadana (Advisor 1); Kristiana Asih Damayanti (Examination Committee 1); Tidak diketahui (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 451/TI-042/2001; Amelia Yuniar (25497006)",
+  "subjects": "SCHEDULING (MANAGEMENT); PRODUCTION PLANNING"
+}

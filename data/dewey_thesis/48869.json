@@ -1,0 +1,14 @@
+{
+  "id": "48869",
+  "title": "Aplikasi warehouse inventory picking order pada PT XYZ menggunakan symbiotic organism search algorithm",
+  "abstract": "PT XYZ merupakan salah satu perusahaan yang bergerak dalam pendistribusian barang berupa bahan makanan dan non-makanan di Manado, Sulawesi Utara. Terdapat proses picking order pada gudang perusahaan ini untuk mengambil atau meletakkan barang-barang yang menjadi permintaan. Picking Order dilakukan secara manual dan menyebabkan proses warehouse inventory picking order menjadi tidak efisien karena lama dan berulang-ulang. Picking Order pada gudang merupakan sebuah proses yang penting bagi perusahaan, karena melibatkan biaya operasional dan dapat mempengaruhi tingkat kepuasan pelanggan. Dibutuhkan efisiensi yang menekankan kecepatan dan akurasi pengambilan atau peletakan barang di gudang. Semakin efisien proses picking order, maka akan semakin efisien biaya operasional dan waktu yang dibutuhkan hingga proses ini selesai. Pada skripsi ini, dirancang aplikasi berbasis web yang dapat menentukan rute pengambilan dan peletakan barang untuk meminimalkan jarak tempuh dengan menggunakan metode Symbiotic Organism Search Algorithm (SOS Algorithm) untuk data diskrit. Hasil akhir yang didapatkan adalah masalah routing dapat diselesaikan menggunakan SOS Algorithm untuk data diskrit dengan tingkat penurunan jarak rata-rata sebesar 38.49% untuk 25 data.",
+  "creators": "ADELYN THUNGRIALLU",
+  "contributors": "Andreas Handojo (Advisor 1); Tanti Octavia (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); I Gede Agus Widyadana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022039/INF/2021; Adelyn Thungriallu (C14170155)",
+  "subjects": "APPLICATION SOFTWARE; DATA WAREHOUSING"
+}

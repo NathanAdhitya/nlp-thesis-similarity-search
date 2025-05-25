@@ -1,0 +1,14 @@
+{
+  "id": "30629",
+  "title": "Sistem akses database prediksi nilai saham",
+  "abstract": "Di dalam skripsi ini dibuat sebuah sistem yang melakukan akses terhadap informasi prediksi nilai saham melalui sebuah website. Data asli saham didapatkan dari Yahoo Finance, sedangkan data prediksi didapatkan dari file CSV hasil olahan sistem yang lain. Informasi yang disajikan bersifat komersil, sehingga untuk melakukan akses data prediksi digunakan sebuah proses authentikasi account berbayar melalui PayPal atau BCA. Pengujian dilakukan pada seluruh fitur-fitur yang disediakan di dalam website mulai dari fitur registrasi, pemberian hak akses, proses update data, dan tampilan dari informasi nilai saham di dalam website. Hasil dari pengujian menunjukkan bahwa sistem telah mampu menerapkan seluruh fitur tersebut dengan baik. Kelemahan dari sistem adalah nilai error prediksi menjadi tidak valid, apabila Yahoo Finance terlambat dalam melakukan update data Historical Prices, atau apabila koneksi dengan Yahoo Finance terputus ketika sistem melakukan proses update.",
+  "creators": "YUSTUS EKO OKTIAN",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Felix Pasila (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010123/ELK/2013; Yustus Eko Oktian (23409017)",
+  "subjects": "DATABASE DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "46421",
+  "title": "Developing a motor and drive sizing tool",
+  "abstract": "Bosch Rexroth B.V. has initiated the assignment described in this report in Eindhoven. Bosch Rexroth B.V. is a company which specializes in electric drives and controls that are needed by its customers to automate their systems. To choose an appropriate motor and drive for the customers, a motor and drive sizing tool that can measure the systems' need is needed. The company has made a tool to assist the users, mostly engineers, in motor and drive selections. However, the device is not sufficient if it is used for real motion applications because the amount of motion applications is limited, and it isn't easy to be expanded. The tool cannot also be spread out to their customers because it is made in an excel sheet program in which the user can freely make some changes to formulas. Therefore, an executable tool that can overcome and improve the weaknesses of the old device was needed. Manage the assignment; a project plan was the initial point before dealing with the work. The program was intended to cut it into several phases. Those were initiative, definition, research, design, realization, and transfer phase. Because the assignment was like making a new application, the design phase should have been emphasized to be expanded in the future. At the end of the project, a working motor and drive sizing tool has been developed. The device can assist the users with multiple motion applications that are used in real motion applications. It can also produce reports which can quickly be sent to the company's customers regarding their motion applications. As for recommendations, features that have not been implemented yet such as power supply optimization, displaying motor force/torque versus velocity, and outputs for each motion should be implemented to complete the tool's features. The security of its database has not been applied yet. Therefore, in the next version, the device will be complete if the database file is protected. Some intelligent features such as a motor search engine and calculators for engineers need to be added to speed up using the tool.",
+  "creators": "ANTON INDRAWAN",
+  "contributors": "CASPER SCHELLEKENS (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020921/INF/2010 ; Anton Indrawan (26406032)",
+  "subjects": "MOTION CONTROL DEVICES; MOTOR CONTROLLER"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "16731",
+  "title": "Perbandingan antara analisa statistik nonlinear pushover dengan analisa dinamik nonlinear riwayat waktu nonlinear secara 3 dimensi",
+  "abstract": "Analisa Static Non Linier Pushover merupakan sebuah sarana baru untuk memberikan solusi-solusi optimal yang berdasarkan Performance Based Seismic Design. Analisa Pushover adalah analisa statik nonlinier dimana beban dari struktur dengan pola tertentu ditambahkan terus menerus sampai terjadi kegagalan pada struktur. Dan analisa Pushover ini secara mudah diketahui letak-letak terbentuknya sendi-sendi plastis, sambungan-sambungan yang lemah serta mode kegagalan dari suatu struktur. Penelitian yang dilakukan ini mempunyai tujuan yaitu meneliti model struktur simetris tiga dimensi dengan analisa Pushover dengan bantuan program SAP2000 kemudian membandingkannya dengan model struktur yang sama yang dianalisa dengan analisa Dinamik Nonlinier Riwayat Waktu secara tiga dimensi dengan bantuan program SAP2000. Dan untuk meyakinkan kalau pemakaian program SAP2000 untuk analisa Pushover sudah benar maka dilakukan juga perbandingan antara analisa Pushover yang ditinjau secara tiga dimensi dengan Analisa Pushover yang ditinjau secara dua dimensi dengan program RUAUMOKO. Dari kedua analisa yaitu analisa Pushover dan analisa Dinamik Nonlinier Riwayat Waktu, hasil yang diambil adalah roof displacement dan base shear dari struktur. Kemudian nilai-nilai tersebut dipetakan menjadi satu grafik roof displacement - base shear yang selanjutnya disebut sebagai kurva kapasitas. Dilakukan perbandingan dari kurva kapasitas untuk masing-masing struktur simetris lima, sepuluh dan 15 lantai. Hasil penelitian ini menunjukkan bahwa untuk struktur yang simetris, analisa secara dua dimensi sudah dapat mewakili perilaku struktur tiga dimensi. Sedangkan dari perbandingan kurva kapasitas dari analisa Pushover dan analisa Dinamik Nonlinier Riwayat Waktu didapatkan hasil bahwa analisa Pushover baik digunakan untuk struktur yang mode pertamanya dominan. Dalam hal ini struktur lima dan 10 lantai mode pertama dominan, sedangkan struktur 15 lantai mode pertamanya sudah tidak dominan lagi. Kata kunci: Performance Based Seismic Design, Analisa Pushover, Analisa Dinamik Nonlinier Riwayat Waktu, kurva kapasitas",
+  "creators": "BENNY GUNAWAN SUNJOTO; IIE HADINATA",
+  "contributors": "Benjamin Lumantarna (Advisor 1); Takim Andriono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 1071/SIP/2001; Benny Gunawan Sunjoto (21496004), Iie Hadinata (21496057)",
+  "subjects": "BUILDINGS-EARTHQUAKE EFFECTS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "29080",
+  "title": "Pembuatan sistem informasi administrasi untuk mengelola stok UD \"Narwastu\" dengan metode eoq dan rop",
+  "abstract": "UD “Narwastu” merupakan perusahaan yang bergerak dalam bidang perdagangan. UD “Narwastu” sendiri terdiri dari 2 bagian yaitu pabrik pembuatan barang dari bahan mentah menjadi barang jadi (salah satu produknya, yaitu lulur) dan kantor pendistribusian barang. Bagian produksi yang merupakan pabrik menjalankan sistemnya secara manual (belum terkomputerisasi). Perhitungan stok barang yang masih manual tersebut menimbulkan banyak kendala dan mempengaruhi proses penjualan pembelian. Berdasarkan latar belakang permasalahan tersebut, maka dirancang Sistem Informasi Administrasi. Proses perancangan sistem dari aplikasi ini melalui beberapa tahap, dimulai dari pengecekan stok barang pada pabrik, proses penjualan dan pembelian barang dari aplikasi yang akan dibuat. Proses pembuatannya menggunakan Microsoft Visual Studio 2010 Visual Basic .NET. sebagai bahasa pemrogramannya dan Microsoft SQL Server 2005 sebagai database. Proses Sistem Informasi Administrasi metode Economic Order Quantity (EOQ) dan Reorder Point (ROP). Hasil yang diperoleh dari aplikasi yang telah dibuat antara lain, nilai yang diperoleh dari perkiraan pembelian dengan metode EOQ dan ROP dan laporan tentang siklus kerja UD “Narwastu” secara umum.",
+  "creators": "NIKOLAS WIJAYA KARUNDENG",
+  "contributors": "Yulia (Examination Committee 1); Leo Willyanto Santoso (Advisor 2); Silvia Rostianingsih (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021260/INF/2013; Nikolas Wijaya Karundeng (26409045)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT; DATABASE DESIGN"
+}

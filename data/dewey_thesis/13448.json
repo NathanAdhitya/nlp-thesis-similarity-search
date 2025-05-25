@@ -1,0 +1,14 @@
+{
+  "id": "13448",
+  "title": "Pembuatan alat DC test untuk tegangan output 70 kilovolt memakai sistem bridge gelombang penuh",
+  "abstract": "Alat DC test adalah suatu alat yang menghasilkan tegangan tinggi searah yang dipakai untuk pengujian peralatan listrik tegangan tinggi seperti bahan isolasi pada kabel dan kapasitor. Pengujian ini sifatnya tidak merusak bahan yang diuji ( non destructive ). Untuk pengukuran tegangan searah yang dihasilkan, memakai sela bola, dimana harga tegangan tembus tergantung pada jarak bola, tekanan, suhu dan kelembaban udara. Pemakaian voltage divider menggunakan tahanan dalam rangkaian DC test dimaksudkan supaya gelombang yang dihasilkan dapat dilihat di oscilloscope serta dapat diukur langsung Dari hasil pembuatan alat DC test, diperoleh hasil ripple yang relatif tinggi yaitu 104.6 %. Hasil ripple sangat jauh dari standard yang dipakai dalam tegangan tinggi searah yaitu tidak lebih dari 5 % ( standard IEC 1973 ). Hal ini disebabkan dalam pembuatan alat DC test tidak menggunakan kapasitor filter dan faktor lain dari rangkaian sistem bridge. Data pengukuran yang diperoleh memiliki 15.47143 % error untuk penggunaan voltmeter dan standard deviasinya 1.094341. Sedangkan untuk penggunaan oscilloscope memiliki 9.721429 % error dan standard deviasinya 1.607759.",
+  "creators": "YOHANES",
+  "contributors": "Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Advisor 1); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/TST/053/332; Yohanes (23495059)",
+  "subjects": "ELECTRIC TESTING"
+}

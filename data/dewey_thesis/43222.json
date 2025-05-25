@@ -1,0 +1,14 @@
+{
+  "id": "43222",
+  "title": "Aplikasi optimisasi penentuan lokasi warehouse dengan runner-root algorithm pada pt x",
+  "abstract": "Proses penentuan lokasi warehouse merupakan faktor yang penting bagi setiap perusahaan, termasuk perusahaan yang bergerak di bidang agrobisnis. Perusahaan memiliki banyak data customer dan data lokasi sewa warehouse yang telah disimpan. Namun, data tersebut belum dimanfaatkan secara optimal untuk menjadi informasi yang berharga oleh perusahaan. Data yang dimiliki oleh perusahaan seharusnya dapat digunakan sebagai masukan dalam pemilihan lokasi sewa warehouse. Aplikasi berbasis website yang akan dibuat adalah aplikasi optimisasi penentuan lokasi sewa warehouse yang dapat membantu perusahaan untuk mengetahui dimana lokasi warehouse yang paling optimal dengan berbagai parameter yang telah ditentukan. Proses perhitungan untuk menghasilkan rekomendasi menggunakan metode runner-root algorithm. Metode runner-root algorithm adalah algoritma optimisasi numerik yang terinspirasi oleh tanaman strawberry untuk memecahkan masalah multi-variable. Tahapan analisa dan desain terhadap data dan kebutuhan perusahaan diperlukan untuk menghasilkan informasi yang baik. Informasi yang dihasilkan oleh aplikasi diharapkan dapat mendukung proses pengambilan keputusan oleh perusahaan. Hasil akhir dari pengembangan aplikasi ini adalah sebuah aplikasi optimisasi penentuan lokasi warehouse. Aplikasi yang dikembangkan mempunyai kesimpulan bahwa aplikasi lebih dibutuhkan pada kota-kota yang memiliki jumlah customer dan pilihan warehouse yang banyak. Jumlah dari iterasi juga menentukan keoptimalan hasil fitness value dari perhitungan.",
+  "creators": "SANITYA PURNOMO",
+  "contributors": "Yulia (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Kartika Gunadi (Examination Committee 1); I Gede Agus Widyadana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021835/INF/2019; Sanitya Purnomo (26415005)",
+  "subjects": "ALGORITHMS; WAREHOUSES-LOCATION"
+}

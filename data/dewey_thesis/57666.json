@@ -1,0 +1,14 @@
+{
+  "id": "57666",
+  "title": "Menambahkan instrumen piano, gitar, biola, dan saxophone, untuk memperbanyak instrumen yang dipisahkan dari file MP3 dengan menggunakan Inception-ResNet-V2",
+  "abstract": "Musik merupakan hal yang di nikmati banyak orang dengan banyak cara, diantaranya adalah dengan didengarkan, dinyanyikan, atau pun dipelajari. Saat dinyanyikan seperti waktu karaoke, sering kali bagian vokal dari musik ingin di hilangkan agar penyanyi dapat mendengarkan suaranya di iringi instrumen dari lagu yang di nyanyikan. Ada juga saat dipelajari, pelajar ingin mendengarkan salah satu instrumen dari musik yang ingin di pelajari. Seiring perkembangan teknologi, sekarang sudah terdapat beberapa pengembangan program berbasis deep learning untuk memisahkan bagian musik menjadi 4 bagian yaitu vokal, bass, drum dan sisanya. Meski pun program ini sudah cukup untuk menghilangkan vokal untuk karaoke, tetapi program ini belum dapat membantu para pelajar yang ingin mempelajari instrumen yang tidak dapat di pisahkan program ini. Dalam tugas akhir ini akan menggunakan metode deep learning dengan model InceptionResNetV2 untuk pemisahan musik. Musik akan dipisahkan menjadi 7 bagian yaitu vokal, bass, drum, piano, gitar, biola, dan saxophone. Dataset yang digunakan akan di kumpulkan secara mandiri. Hasilnya metode InceptionResNetV2 dengan input spectrogram dan menggunakan dataset 7 instrumen kurang dapat memisahkan instrumen.",
+  "creators": "ANDREW KURNIAWAN",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Justinus Andjarwirawan (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022345/INF/2023; Andrew Kurniawan (C14180004)",
+  "subjects": "ACOUSTICAL ENGINEERING--COMPUTER PROGRAMS; DEEP LEARNING (MACHINE LEARNING); SOURCE SEPARATION (SIGNAL PROCESSING)"
+}

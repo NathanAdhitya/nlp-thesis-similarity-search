@@ -1,0 +1,14 @@
+{
+  "id": "57232",
+  "title": "Aplikasi pengendali smart home dengan home assistant untuk mendukung save energy melalui demand side management menggunakan particle swarm optimization",
+  "abstract": "Penggunaan alat elektronik yang tidak sesuai kebutuhan menyebabkan pemborosan listrik. Contohnya, membiarkan TV menyala meski tidak digunakan yang disebabkan tidak ada penjadwalan device. Apabila daya listrik terbatas menyebabkan jegleg, sebaliknya akan menyebabkan pemborosan karena tidak dapat mengatur penggunaan energi dengan baik. Terdapat smart device yang dapat digunakan, namun masing-masing brand mengeluarkan aplikasinya sendiri. Sehingga, diperlukan sistem yang mendukung save energy serta memudahkan pengguna dalam melakukan controlling smart device. Metode Particle Swarm Optimization digunakan dalam mendukung save energi melalui demand side management untuk penjadwalan sumber daya dan mencari solusi yang optimal. Jika penambahan schedule melebihi batas watt maka dilakukan kombinasi PSO dengan mempertimbangkan urgency & priority smart device sesuai keinginan pengguna. Penggunaan home assistant memungkinkan penjadwalan perangkat, menyatukan smart device berbeda brand, memberikan notifikasi jika melewati batas wajar penggunaan. Serta, mengatur penggunaan energi listrik dan terdapat fitur urgency dan priority. Dalam pengujian, aplikasi dapat mematikan smart device sesuai hasil PSO dengan mengikutsertakan keputusan pengguna. Algoritma PSO menghasilkan presentase penurunan penggunaan energi listrik (kWh) sebesar 14%. Sehingga, penggunaan PSO lebih hemat daripada non PSO.",
+  "creators": "MICHAEL ALEXANDER",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Resmana Lim (Advisor 2); Agustinus Noertjahyana (Examination Committee 1); Leo Willyanto Santoso (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022299/INF/2023; Michael Alexander (C14190058)",
+  "subjects": "HOME COMPUTER NETWORKS; SOFTWARE FRAMEWORKS; APPLICATION SOFTWARE--DEVELOPMENT"
+}

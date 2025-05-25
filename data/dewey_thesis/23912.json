@@ -1,0 +1,14 @@
+{
+  "id": "23912",
+  "title": "Perencanaan dan pembuatan speedometer untuk olah raga bersepeda dengan menggunakan mikrokontroller 8031",
+  "abstract": "Speedometer digital untuk olah raga bersepeda mempunyai banyak keuntungan dari pada speedometer manual yang memakai jarum penunjuk yang hanya dapat membaca kecepatan sesaat dan total jarak yang ditempuh saja. Tetapi dengan adanya speedometer digital kemampuan bersepeda seseorang dapat diketahui, karena selain dapat menghitung kecepatan sesaat dan total jarak yang ditempuh speedometer digital mempunyai kemampuan yang lain seperti rata-rata bersepeda seseorang atau kecepatan maksimum dalam bersepeda. Pada Tugas Akhir ini dibuat minimum sistem dengan mikrokontroller 8031 yang dihubungkan dengan sensor efek hall untuk mendeteksi putaran roda, dimana jari-jari roda yang akan dideteksi diset terlebih dahulu agar diperoleh hitungan yang tepat dengan bantuan software. Tegangan yang dihasilkan oleh sensor kemudian dikirimkan ke mikrokontroller. Didalam mikrokontroller tiap putaran roda dihitung waktunya dengan diberi sinyal counter tiap periode. Dengan bantuan software hasil perhitungan waktu tersebut diolah menjadi beberapa macam output sesuai dengan yang diinginkan, dan hasilnya ditampilkan pada monitor berupa LCD.",
+  "creators": "SRI HARYANTO",
+  "contributors": "SUPENO DJANALI (Advisor 1); Rolly Intan (Advisor 2); SOETIKNO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 93/E/EL/024/0145; Sri Haryanto (23485111)",
+  "subjects": "AUTOMATIC CONTROL; SPEEDMETERS (CYCLE)"
+}

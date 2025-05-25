@@ -1,0 +1,14 @@
+{
+  "id": "4102",
+  "title": "Perancangan dan pembuatan program sistem akutansi pada perusahaan jasa bubut CV Lauw",
+  "abstract": "Perusahaan Bubut CV.LAUW adalah sebuah bengkel bubut yang melakukan produksi, penjualan, dan reparasi mesin-mesin bubut. Pada awalnya perusahaan bengkel ini memiliki sistem pencatatan data bahan baku, pencatatan barang jadi, pembelian, penjualan dan akutansi yang dilakukan secara manual sehingga menghasilkan informasi yang kurang cepat dan akurat. Sistem yang dibuat didesain dengan menggunakan Data Flow Diagram dan Entity Relationship Diagram. Dan untuk pembuatan database di gunakan Microsoft SQL Server 7.0, sedangkan untuk pembuatan aplikasi program digunakan Borland Delphi 7. Dengan menggunakan program ini, semua transaksi pembelian dan penjualan termasuk pembayaran serta input jurnal pada transaksi penjualan dan pembelian disimpan ke dalam database secara otomatis. Semua informasi yang telah disimpan dapat dipanggil sewaktu-waktu, sehingga aktifitas di dalam bengkel ini dapat dilakukan dengan efisien. Program ini akan menghasilkan laporan-laporan transaksi yang diperlukan. Laporan-laporan ini meliputi laporan pembelian, laporan penjualan, dan laporan laba rugi serta jurnal umum yang dihasilkan dari proses posting transaksi pembelian dan transaksi penjualan. Pembuatan buku besar dan neraca saldo dengan cara posting jurnal juga dapat dilakukan lebih cepat dan akurat.",
+  "creators": "PAUL ANDREW WIDJAJA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Sri Maharsi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02000358/INF/2005; Paul Andrew Widjaja (26400131)",
+  "subjects": "DATABASE MANAGEMENT; DATABASE DESIGN"
+}

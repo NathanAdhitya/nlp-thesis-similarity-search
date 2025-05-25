@@ -1,0 +1,14 @@
+{
+  "id": "20099",
+  "title": "Penjadwalan flexible flow shop di PT. Gudang Garam Tbk.",
+  "abstract": "Menentukan suatu penjadwalan yang tepat untuk suatu perusahaan merupakan hal yang sangat penting, namun tidak mudah terutama untuk perusahaan yang memproduksi berbagai macam produk. Metode penjadwalan yang kurang tepat dapat mengakibatkan waktu yang dibutuhkan untuk memproduksi suatu permintaan relatif lama sehingga dapat menimbulkan penumpukan barang setengah jadi pada lantai produksi. PT. Gudang Garam Tbk. Devisi Percetakan adalah perusahaan yang memproduksi berbagai macam bentuk cetakan berdasarkan pesanan (Job order). Produk-produk dihasilkan dengan jumlah mesin lebih dari 1 untuk setiap stagenya dengan aliran produksi yang sama, yang disebut Flexible Flow Shop. Tugas akhir ini bertujuan untuk mendapatkan sistem pejadwalan dengan kriteria meminimumkan makespan, sehingga dapat meningkatkan jumlah output yang dihasilkan dan mempersingkat waktu proses suatu permintaan. Metode yang digunakan untuk mencapai kriteria tersebut adalah Algorithma Pararel Mesin-LPT dan Algorithma Branch and Bound. Hasil Penjadwalan Algorithma Pararel Mesin-LPT dan Algorithma Branch and Bound, menunjukkan bahwa Algorithma Branch and Bound memberikan hasil penjadwalan yang lebih baik dari pada Algorithma Pararel mesin-LPT. Hal ini berdasarkan dari perhitungan makespan dari Algorithma Branch and Bound yang menghasilkan nilai paling kecil dibandingkan dengan Algorithma Pararel Mesin-LPT dan penjadwalan yang dilakukan perusahaan.",
+  "creators": "JOHANES GUWANTO",
+  "contributors": "Julianingsih (Examination Committee 1); I Gede Agus Widyadana (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 520/TI-001/2002; Johanes Guwanto (25497015)",
+  "subjects": "ALGORITHMS; PRODUCTION MANAGEMENT; PRODUCTION SCHEDULING"
+}

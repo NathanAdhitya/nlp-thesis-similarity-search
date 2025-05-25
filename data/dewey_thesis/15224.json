@@ -1,0 +1,14 @@
+{
+  "id": "15224",
+  "title": "Penerapan model fuzzy mamdani pada penentuan waktu pengiriman produk sedotan di PT. Sumber Djaja Perkasa",
+  "abstract": "PT.Sumber Djaja Perkasa merupakan pemsahaan yang bergerak dalam pembuatan produk plastik seperti sedotan, selang, tali dan produk plastik lainnya. Konsumen pada umumnya memesan produk dengan jenis ukuran tertentu pada jenis item tertentu pula atau berupa job order, sehingga pemsahaan ini memiliki pesanan yang cukup beragam. Jumlah pesanan yang cukup banyak dan kontinu tersebut menyebabkan banyak pula pengambilan keputusan yang hams dilakukan dalam penentuan waktu kirim dari pesanan tersebut. Berdasarkan permasalahan yang diuraikan diatas, maka perlu dilakukan pembentukan model yang dapat membantu pihak pemsahaan dalam mengambil keputusan yang optimal untuk waktu kirim tersebut. Pada pelaksanaan tugas akhir ini digunakan metode fuzzy Mamdani untuk membentuk model penentuan waktu pengiriman, dengan cara memasukkan variabel pendukung kedalam metode fuzzy yang kemudian akan digabungkan dengan aturan-aturan fuzzy. Sistem penalaran fuzzy waktu pengiriman ini akan mendekatkan hasilnya dengan kenyataan di lapangan, karena pada metode fuzzy ini sangat ditekankan pada subjektifitas dari setiap faktor yang berada didalamnya. Selain itu digunakan pula metode neural network untuk mengadaptasikan sistem penalaran fuzzy dengan faktor luar lainnya seperti masalah transportasi dan kendaraan pengangkut, yang juga berpengaruh pada sistem. Gabungan dari kedua metode tersebut adalah metode adaptive neuro-fuzzy inference system yang berupa pelatihan data pemsahaan, sehingga akan diperoleh waktu pengiriman yang lebih baik dan sesuai dengan kondisi di lapangan.",
+  "creators": "YIYIN SWIELIANAWATI",
+  "contributors": "Danny Prabowo Soetanto (Advisor 2); I Nyoman Sutapa (Advisor 1); Siana Halim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi : No. 360/TI-87/2000; Yiyin Swielianawaty (25496015)",
+  "subjects": "TIME STUDY-MATHEMATICAL MODELS; TIME MEASUREMENTS"
+}

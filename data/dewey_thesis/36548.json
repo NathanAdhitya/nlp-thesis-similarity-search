@@ -1,0 +1,14 @@
+{
+  "id": "36548",
+  "title": "Visualisasi bandwidth usage untuk Universitas Kristen Petra menggunakan TOOLS TSTAT",
+  "abstract": "Internet merupakan salah satu sarana teknologi informasi yang sangat berkembang saat ini. Berbagai informasi dengan mudah didapatkan melalui internet. Sistem jaringan komputer sangat diperlukan untuk seseorang agar dapat menggunakan atau mengakses internet. Semakin meningkatnya pengguna internet maka, Universitas Kristen Petra melakukan berbagai cara agar dapat menggunakan layanan internet dengan baik, salah satunya yaitu meningkatkan bandwidth dan juga mengganti jalur internet atau kabelnya dengan kabel fiber. Namun hingga sekarang masih terdapat beberapa kendala seperti internet menjadi lambat dan lainnya. Oleh karena itu pada skripsi ini dilakukan pembuatan visualisasi bandwidth usage yang dapat membantu Universitas Kristen Petra khususnya bagian jaringan untuk mendapatkan informasi tentang penggunaan bandwidth internet. Aplikasi yang digunakan untuk pembuatan visualisasi bandwidth usage yaitu TSTAT. TCP Statistic Analysis Tools (TSTAT) merupakan salah satu tool untuk analisa trafik melalui lapisan jaringan, dan TSTAT hanya dapat digunakan pada sistem operasi berbasis UNIX seperti LINUX, OS X dan varian-varian lainnya. Setelah mendapatkan data trafik internet, kemudian data akan disimpan ke dalam database mysql, dengan tujuan dapat mengakses dengan mudah dan cepat data pada hari-hari sebelumnya yang sudah disimpan. Kemudian data dari database akan divisualisasikan dengan menggunakan RRDtools, hasil tampilannya berupa grafik yang akan ditampilkan dalam website dengan menggunakan bahasa php. Data trafik Berdasarkan pengujian selama 15 menit diperoleh 95,8 % adalah protokol TCP dan 4,2 % adalah protokol UDP, dapat ditunjukkan protokol TCP merupakan protokol yang paling banyak diakses daripada protokol lainnya.",
+  "creators": "YOHAN ALVIN LIMANTO",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021480/INF/2015; Yohan Alvin Limanto (26411104)",
+  "subjects": "DATABASE DESIGN; INTERNET (COMPUTER NETWORK); MYSQL (COMPUTER PROGRAM LANGUAGE); WEBSITES-DESIGN"
+}

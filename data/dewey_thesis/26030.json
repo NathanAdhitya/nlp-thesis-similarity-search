@@ -1,0 +1,14 @@
+{
+  "id": "26030",
+  "title": "Perancangan dan pembuatan sistem informasi administrasi pada Toko Sahabat Jaya",
+  "abstract": "Toko Sahabat Jaya adalah sebuah toko yang menjual berbagai jenis spare part electronic di mana pada saat ini dalam menjalankan usahanya masih menggunakan sistem manual. Hal ini mengakibatkan sering terjadi kesalahan dalam perhitungan stok barang, kesulitan dalam menghitung laporan laba rugi, dan kesulitan dalam melakukan transaksi-transaksi yang ada. Oleh karena itu dibutuhkan pembenahan sistem berbasis IT yang dapat mengelola data sehingga dapat menghasilkan informasi berupa laporan dalam waktu yang cepat dan terorganisir dengan baik. Pada skripsi ini, proses perancangan dan pembuatan program dimulai dengan mempelajari dan menganalisis sistem perusahaan saat ini, kemudian menyusun dan membuat Data Flow Diagram, Entity Relationship Diagram, dan tabel-tabel yang dibutuhkan. Setelah itu, membuat program yang terdiri dari sistem pembelian, penjualan, purchase order, sales order, hutang, piutang, master supplier, master customer, master barang, master filter supplier barang, stok opname, pembayaran hutang, pembayaran piutang, dan laporan-laporan. Sistem operasi yang digunakan adalah Windows XP Professional Edition, pembuatan database dengan Microsoft SQL Server 2005 dan untuk bahasa pemograman menggunakan Microsoft Visual Basic 6.0. Setelah pengujian sistem dilakukan, maka diperoleh kesimpulan bahwa aplikasi dapat menghasilkan laporan-laporan yaitu laporan laba rugi, stok barang, penjualan, pembelian, purchase order, sales order, hutang, dan piutang. Dengan menggunakan metode average, perhitungan Harga Pokok Penjualan menjadi lebih mudah dan simple sehingga memudahkan dalam perhitungan laba – rugi. Dan juga metode average sangat cocok digabungkan dengan inventory secara perpetual, di mana arus keluar masuk barang langsung dicatat setiap ada transaksi sehingga memudahkan dalam mengetahui laba/rugi pada saat itu juga. Aplikasi yang dibuat telah cukup dalam memenuhi kebutuhan user dilihat dari rata-rata nilai yang diperoleh sebesar 70%.",
+  "creators": "HEGEL HALIM",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021131/INF/2012; Hegel Halim (26405144)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

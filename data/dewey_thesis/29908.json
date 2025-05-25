@@ -1,0 +1,14 @@
+{
+  "id": "29908",
+  "title": "Aplikasi untuk mendeformasikan objek gambar tanpa background",
+  "abstract": "Animasi merupakan salah satu pengolahan citra digital yang membuat sebuah objek tampak bergerak. Animasi terdiri dari kumpulan gambar dengan urutan tertentu pada sebuah timeline yang mengalami perubahan sedikit demi sedikit. Pada teknik animasi klasik atau konvensional untuk membuat sebuah objek tampak bergerak dilakukan penggambaran ulang satu per satu dari gambar semula hingga menjadi gambar akhir yang diinginkan animator sehingga memerlukan waktu yang lama. Skripsi ini bertujuan untuk membantu mempercepat proses pembuatan animasi dengan memanfaatkan teknik deformasi yang dapat menghasilkan file animasi. Metode deformasi objek gambar yang digunakan adalah Moving Least Square dengan rigid transformation. Selain objek gambar sebagai salah satu input diperlukan juga control point dan line segment untuk menentukan arah deformasi. Perhitungan tidak dilakukan pada semua pixel objek gambar namun berdasarkan grid. Proses dimulai dengan membentuk grid dan dilakukan proses deformasi berdasarkan control point dan line segment. Setelah mendapatkan grid yang baru, dilakukan inverse projective mapping untuk memetakan pixel gambar asli ke tujuan dan juga bi-linear interpolation agar hasilnya menjadi smooth. Pembuatan aplikasi menggunakan bahasa pemrograman C# dengan Visual Studio 2012 sebagai IDE. Hasil pengujian menunjukkan bahwa hasil deformasi dipengaruhi oleh ukuran dari grid, nilai alpha, dan peletakkan control point dan line segment. Kecepatan proses dan kualitas berbanding terbalik terhadap banyaknya titik yang dihitung. Proses deformasi dengan control point memiliki kompleksitas waktu O(n3) sedangkan dengan line segment O(n4). Tidak ada setelan parameter yang pasti untuk dapat menghasilkan hasil yang sesuai. Pengembangan selanjutnya dapat dilakukan deformasi untuk objek 3D.",
+  "creators": "DANNY SETIAWAN PUTRA R.",
+  "contributors": "Liliana (Advisor 1); Kartika Gunadi (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021288/INF/2014; Danny Setiawan Putra Robianto (26410061)",
+  "subjects": "IMAGE PROCESING; COMPUTER GRAPHICS"
+}

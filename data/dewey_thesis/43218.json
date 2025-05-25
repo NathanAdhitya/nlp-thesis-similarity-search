@@ -1,0 +1,14 @@
+{
+  "id": "43218",
+  "title": "Penerapan fuzzy control untuk pengereman kereta dalam simulation game",
+  "abstract": "Penelitian mengenai pengereman kereta telah banyak dilakukan. Sebagai contoh, Wahyudi melakukan penelitian perhitungan pengereman kereta berupa kecepatan dengan fuzzy. Yulianti melakukan penelitian pengereman kereta berupa kecepatan dan jarak dengan fuzzy, dan di simulasikan. Namun, penelitian yang dilakukan masih belum menyesuaikan dengan keadaan kereta sesungguhnya saat dilakukan pengereman. Karena itu, dalam skripsi ini akan dibuat sebuah game dengan genre simulation game dengan AI untuk mensimulasikan pengereman kereta. Pengereman kereta yang dilakukan menggunakan fuzzy control dimana akan melakukan pengereman berdasarkan setiap fuzzy rules dengan menggunakan metode mamdani dengan kecepatan, massa, dan jarak sebagai fuzzy input. Hasil pengujian menunjukkan bahwa kereta dapat berhenti di tujuan dengan melakukan pengereman yang dilakukan oleh fuzzy control dengan perlahan hingga berhenti di tujuan dengan menggunakan fuzzy inference engine yang melakukan proses untuk menghasilkan setiap tindakan keputusan kekuatan pengereman kereta.",
+  "creators": "REINALDO JULAIDI",
+  "contributors": "Rolly Intan (Advisor 1); Rudy Adipranata (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); Kartika Gunadi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021825/INF/2019; Reinaldo Julaidi (26414050)",
+  "subjects": "FUZZY LOGIC; AUTOMATIC CONTROL"
+}

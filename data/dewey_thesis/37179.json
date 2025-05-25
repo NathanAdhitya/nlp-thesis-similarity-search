@@ -1,0 +1,14 @@
+{
+  "id": "37179",
+  "title": "Aplikasi perhitungan alinyemen horisontal dan alinyemen vertikal",
+  "abstract": "Beberapa kendala dalam perhitungan geometri jalan muncul saat melakukan perhitungan secara manual untuk mendapatkan kondisi geometri jalan yang diinginkan dari berbagai parameter. Salah satunya adalah kurang efisiennya waktu yang dibutuhkan dalam perhitungan. Parameter untuk alinyemen horisontal adalah radius (R) tikungan, kecepatan rencana (Vr), dan jenis tikungan, sedangkan untuk alinyemen vertikal terdapat parameter clearance atau ketinggian bebas di atas lengkung vertikal agar kendaaran bisa melewati lengkung tersebut.Dari semua parameter-parameter ini waktu yang dibutuhkan kurang efisien untuk bisa mendapatkan kondisi geometri jalan yang baik, aman dan sesuai dengan permintaan. Tujuan dari pembuatan aplikasi ini adalah mengurangi waktu yang dibutuhkan dalam perhitungan dengan menggunakan aplikasi Graphic User Interface pada program Matrix Laboratory (MATLAB) untuk mempermudah mendapatkan R, Vr dan jenis tikungan untuk alinyemen horisontal serta clearance untuk alinyemen vertikal berdasarkan RSNI T – 14 - 2004. Setelah dilakukan perbandingan antara perhitungan dari RSNI T – 14 2004 dengan aplikasi dari MATLAB tidak terdapat perbedaan yang signifikan.",
+  "creators": "MICHAEL ANTHONE PRAYOGO",
+  "contributors": "Rudy Setiawan (Advisor 1); Harry Patmadjaja (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 15012105/SIP/2016; Michael Antonie Prayogo (21412027)",
+  "subjects": "ROADS-DESIGN; ROAD CONSTRUCTION; MATLAB (COMPUTER PROGRAM)"
+}

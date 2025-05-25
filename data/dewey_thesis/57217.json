@@ -1,0 +1,14 @@
+{
+  "id": "57217",
+  "title": "Sistem industrial IoT untuk penyortiran kemasan tisu yang terintegrasi dengan ERP",
+  "abstract": "Proses penyortiran produk yang cacat maupun pencatatan jumlah produk yang baik dan cacat apabila dilakukan oleh manusia dapat timbul kesalahan yang terjadi dikarenakan kelelahan maupun kelalaian. Oleh karena itu, banyak perusahaan yang ingin mengubah cara menjalankan bisnis dengan melakukan otomatisasi proses penyortiran dan pencatatan produk guna meningkatkan efisiensi. Sistem yang dibuat dalam tugas akhir ini memanfaatkan PLC Siemens S7-1200 sebagai alat kontrol, HMI Simatic KTP700 Basic untuk membantu proses kontrol dan pemantauan sistem, Simatic IOT2050 sebagai penghubung antara PLC dengan Odoo ERP serta membantu proses pemantauan sistem melalui dashboard Node-RED. Berdasarkan hasil pengujian, sistem berhasil melakukan penyortiran kemasan tisu dengan kecepatan konveyor 0.370 m/s dan jarak antar tisu 7 cm. Jumlah tisu yang dapat dilakukan penyortiran dengan kecepatan tersebut adalah 82 tisu per menit. Selain itu, integrasi sistem dengan ERP berhasil, khususnya melakukan pembaharuan stok pada inventory setiap kali proses penyortiran dilakukan.",
+  "creators": "ERIC HARJANTO",
+  "contributors": "Handy Wicaksono (Advisor 1); TONNY LEONARD (Advisor 2); Felix Pasila (Examination Committee 1); Thiang (Examination Committee 2); Resmana Lim (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011049/ELK/2023; Eric Harjanto (C11190005)",
+  "subjects": "PROGRAMMABLE CONTROLLERS--PROGRAMMING; ENTERPRISE RESOURCE PLANNING; SORTING (ELECTRONIC COMPUTERS)"
+}

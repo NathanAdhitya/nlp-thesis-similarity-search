@@ -1,0 +1,14 @@
+{
+  "id": "5195",
+  "title": "Sistem pengenalan kata dengan menggunakan mikroprosesor TMS320c5x",
+  "abstract": "Sistem pengenalan kata ini dibuat dengan menggunakan TMS320C5x yang merupakan keluarga prosesor sinyal digital buatan Texas Instruments Incorporated. Prosesor keluarga C5x tersebut merupakan keluarga prosesor fixed-point yang dibuat untuk keperluan pengolahan sinyal digital. Oleh karena kemampuan inilah maka dipilih prosesor ini untuk merealisasikan sistem pengenalan kata. Alat ini bekerja dengan melihat spektrum frekuensi dari suara yang baru kemudian membandingkannya dengan pola yang ada di dalam basis data. Metode yang digunakan untuk melihat spektrum frekuensi adalah dengan menggunakan metode fast fourier transform atau metode linear predictive coding sedangkan untuk proses pengenalannya menggunakan metode nearest neighbors. Setelah dilakukan pengujian terlihat bahwa alat yang dibuat mampu mencapai tingkat akurasi di atas 90%.",
+  "creators": "HADI SAPUTRA PRASETYA",
+  "contributors": "Thiang (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/658/ELK/2003; Hadi Saputra Prasetya (23402177)",
+  "subjects": "SIGNAL PROCESSING-DIGITAL TECHNIQUES"
+}

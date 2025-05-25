@@ -1,0 +1,14 @@
+{
+  "id": "9836",
+  "title": "Pembuatan softphone untuk aplikasi voip dengan menggunakan asterisk sebagai server",
+  "abstract": "Softphone merupakan aplikasi client VoIP yang mampu mendigitalisasi data suara ke dalam paket-paket data untuk ditransmisikan melalui sebuah Local Area Network. Pesan yang ditransmisikan tidak hanya berupa voice, tetapi dapat juga menggunakan video. Yang menjadi permasalahan di sini adalah bagaimana membangun sebuah aplikasi VoIP dalam jaringan Local Area Network, dengan menggunakan software Asterisk sebagai server, serta bagaimana membuat aplikasi softphone yang mendukung fitur voice dan video call. Aplikasi softphone ini dibuat menggunakan bahasa pemrograman Microsoft Visual C#. Softphone akan melakukan koneksi dengan server Asterisk. Asterisk akan menangani proses registrasi, membangun, memodifikasi, dan menghentikan sesi komunikasi dengan softphone lainnya. Pengiriman pesan audio dan video terjadi dengan koneksi peer to peer. Untuk pengiriman pesan audio, proses koneksi diatur oleh Asterisk dan untuk pengiriman pesan video membutuhkan IP address dari remote user yang ingin diajak berkomunikasi. Pengujian dilakukan dengan menggunakan tiga buah komputer dengan segmen jaringan yang berbeda, dan diperoleh bahwa proses registrasi dapat berjalan dengan baik, komunikasi dengan menggunakan audio dapat didengar dengan jelas, dengan rata-rata waktu yang dibutuhkan sampai terjadi koneksi antara 2 softphone adalah 7.106 detik. Sedangkan rata-rata waktu yang dibutuhkan untuk mengirimkan dan menampilkan video pada remote client adalah 1.52 detik.",
+  "creators": "AKHUNG BERITHEL INA",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010078/ELK/2008; Akhung Berithel Ina (23404045)",
+  "subjects": "SOFTPHONE; COMPUTER NETWORK PROTOCOLS; LOCAL AREA NETWORKS (COMPUTER NETWORKS)"
+}

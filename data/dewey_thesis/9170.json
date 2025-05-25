@@ -1,0 +1,14 @@
+{
+  "id": "9170",
+  "title": "Perancangan dan pembuatan aplikasi sistem pakar untuk deteksi gejala, pencegahan dan pengobatan penyakit pada ayam broiler",
+  "abstract": "Bagi seorang peternak ayam kesalahan diagnosis dan pengobatan suatu penyakit akan membawa dampak yang fatal bagi ternaknya, dalam hal ini ayam broiler. Untuk membantu mengatasi hal tersebut, salah satu caranya adalah dengan pembuatan aplikasi sistem pakar. Aplikasi sistem pakar ini meniru cara berpikir seorang ahli peternakan dalam melakukan diagnosis suatu kasus penyakit. Aplikasi ini membantu dalam mencari kesimpulan akan penyakit yang diderita beserta pencegahan dan pengobatan yang sesuai. Program aplikasi ini menganalisa data ayam, anamnesis awal, serta gejala-gejala dari suatu penyakit. Pengembangan sistem pakar ini menggunakan metode inferensi forward chaining, yaitu proses inferensi yang memulai pencarian dari premis menuju pada konklusi, dan backward chaining, yaitu proses inferensi yang memulai pencarian dari konklusi untuk mendapatkan premis. Aplikasi sistem pakar ini menggunakan pemrograman Borland Delphi 7, dan untuk database-nya menggunakan Microsoft Access 2000. Berdasarkan hasil kuisioner yang telah dilakukan, didapatkan kenyataan bahwa prosentase kelayakan program untuk digunakan oleh insinyur peternakan adalah sebesar 80%, prosentase keakuratan program adalah sebesar 60%, Prosentase kemudahan penggunaan program adalah sebesar 88%, dan prosentase desain tampilan dari sistem pakar adalah sebesar 76%.",
+  "creators": "PETER CHOKRO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Andreas Handojo (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000486/INF/2006; Peter Chokro (26401005)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

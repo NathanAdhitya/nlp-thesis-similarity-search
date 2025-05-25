@@ -1,0 +1,14 @@
+{
+  "id": "29815",
+  "title": "Perancangan dan pembuatan aplikasi interior design menggunakan WebGL",
+  "abstract": "Latar belakang perancangan dan pembuatan aplikasi untuk mendesain interior berbasis web ini adalah untuk pengembangan ide untuk desain interior sebuah ruangan. Aplikasi ini tidak perlu menginstall program-program tertentu terlebih dahulu, sehingga mudah untuk digunakan. Dengan begitu, pengguna dapat menyampaikan apa yang diinginkan kepada penyedia jasa desain interior. Untuk menjalankan aplikasi ini hanya diperlukan sebuah browser dan lalu aplikasi dibuka melalui browser. Aplikasi ini dibuat dengan menggunakan WebGL sehingga dapat menampilkan tiga dimensi, dengan bantuan library Three.js. Aplikasi ini juga menggunakan bantuan software Blender, untuk mengubah tipe 3D file(.obj, .3ds, dll) sebuah furniture menjadi format json file (.js) karena hanya json file yang dapat dimasukkan ke dalam aplikasi. File 3D furniture didapat melalui internet. Hasil dari skripsi ini dapat diberikan dan ditunjukkan kepada orang lain dengan cara memberikan file yang didapat ketika melakukan proses save.",
+  "creators": "WAHYU RICKY HANDOKO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Justinus Andjarwirawan (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021294/INF/2014; Wahyu Ricky Handoko (26410037)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELCTRONIC COMPUTERS); WEBSITE DEVELOPMENT; INTERIOR DESIGN"
+}

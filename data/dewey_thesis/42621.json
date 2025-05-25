@@ -1,0 +1,14 @@
+{
+  "id": "42621",
+  "title": "Penggunaan metode enhanced symbiotic organisms search untuk optimasi penampang rangka batang",
+  "abstract": "Studi ini dilakukan untuk mengembangkan kemampuan optimasi dari algoritma metaheuristic Symbiotic Organisms Search (SOS) menjadi algoritma metaheuristik baru yang bernama Enhanced Symbiotic Organisms Search (ESOS) dalam mengoptimasi ukuran profil lima struktur rangka batang yang profilnya berasal dari variabel diskrit dan akan dioptimasi agar memenuhi persyaratan SNI 1729:2015. Tujuan penelitian ini adalah mengetahui performa algoritma metaheuristic ESOS dibandingkan metode-metode lainnya khususnya terhadap SOS dalam mendesain struktur rangka batang yang optimum. Karena algoritma metaheuristic selalu memilih profil secara acak, maka pengujian untuk setiap algoritma dilakukan sebanyak tiga puluh kali (mengikuti jumlah pengujian dari literatur-literatur). Pengujian ini dilakukan untuk mendapatkan data sampel yang kemudian akan diolah menggunakan analisa statistik. Data yang telah diolah akan dibandingkan untuk melihat performa dari masing-masing metode yang digunakan. Perbandingan ditunjukkan dalam bentuk nilai minimum, rata-rata, standar deviasi, dan grafik konvergen. Hasil penelitian menunjukkan bahwa algoritma ESOS adalah yang paling superior pada hampir seluruh struktur rangka batang. Algoritma ini lebih cepat mencapai kondisi konvergen daripada algoritma lainnya dan umumnya memiliki standar deviasi terkecil. Adapun fase kleptoparasitisme memiliki keunggulan dibandingkan parasitisme. Keunggulan tersebut berupa kecepatan konvergensi yang tinggi dalam tiap iterasi dan pola konvergensinya yang tertentu dengan menuju titik global optima pada fungsi yang diujikan.",
+  "creators": "Steven Sugianto",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Doddy Prayogo S.T. (Advisor 2); Januar Budiman (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000251/MTS/2018; Steven Sugianto (01516011)",
+  "subjects": "CONCRETE-STRUCTURAL; TRUSSES; COSNTRUCTION INDUSTRY-MANAGEMENT"
+}

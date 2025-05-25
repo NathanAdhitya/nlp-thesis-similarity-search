@@ -1,0 +1,14 @@
+{
+  "id": "26035",
+  "title": "Perancangan dan pembuatan aplikasi peramalan penjualan kosmestik di PT. Asia Paramitha Indah Tbk. cabang Kediri dengan metode Arima",
+  "abstract": "Perusahaan PT. Asia Paramitha Indah, Tbk. cabang Kediri bergerak di bidang penjualan kosmetik, parfum dan minyak rambut. Masalah yang dihadapi oleh perusahaan ini adalah seringnya terjadi kekurangan barang karena estimasi manual order jumlah barang setiap bulan. Ini dapat mengecewakan konsumen karena barang yang akan dipesan tidak ada. Dan juga sering terjadi barang overstock di gudang karena barang tidak laku. Dari banyaknya permasalahan ini tentunya akan mengurangi keuntungan perusahaan. Perusahaan memerlukan suatu aplikasi yang dapat meramalkan penjualan untuk periode yang akan datang agar perusahaan dapat menentukan jumlah order barang tiap bulannya. Aplikasi dibuat dengan menggunakan metode ARIMA di mana metode ini dibagi menjadi 3 yaitu AR (autoregressive), MA (moving average), dan ARMA (autoregressive and moving average) yang didahului dengan pengecekan data stasioner. Peramalan dilakukan dengan menggunakan data selama 3 (tiga) tahun dari perusahaan. Aplikasi dibuat untuk menampilkan ramalan untuk periode penjualan berikutnya. Aplikasi juga dapat membandingkan data peramalan dengan data perusahaan. Hasil peramalan ini untuk menentukan jumlah order barang tiap bulannya yang dibutuhkan dalam perusahaan ini. Dari hasil pengujian ditemukan bahwa metode AR lebih sering menghasilkan MSE yang paling rendah jika dibandingkan dengan MA atau ARMA. Hasil peramalan menggunakan ARIMA juga memiliki MSE yang paling kecil jika dibandingkan dengan Single Exponential Smoothing dan Double Exponential Smoothing.",
+  "creators": "SUTRISNO WIJAYA",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Alexander Setiawan (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021150/INF/2012; Sutrisno Wijaya (26408063)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

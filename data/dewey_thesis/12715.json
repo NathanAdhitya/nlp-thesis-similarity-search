@@ -1,0 +1,14 @@
+{
+  "id": "12715",
+  "title": "Perencanaan persediaaan dan penjadualan produksi dengan tujuan meminimalkan biaya produksi menggunakan pendekatan pemrograman dinamis dan ...",
+  "abstract": "Dalam usaha untuk mengoptimalkan biaya produksi, PT 'X' menginginkan agar diselesaikan dengan perencanaan persediaan dan penjadualan produksi. Suatu kegiatan akan dapat berjalan lebih lancar dan terarah apabila sebelumnya dibuat sebuah perencanaan. Dengan mengetahui setup cost dan holding cost dapat dibuat rumusan biaya yang kemudian diminimalkan. Dari hasil perhitungannya dapat dibuat jadual produksi. Tujuan penelitian adalah membuat perencanaan persediaan agar total biaya persediaan minimal dan membuat jadual produksi yang tepat dan efisien agar dapat memenuhi kebutuhan konsumen. Penelitian menggunakan pendekatan pemrograman dinamis metode backward scheduling dan pendekatan prosedur Heuristic dengan penjadualan non delay menggunakan aturan prioritas Most Work Remaining (MWKR) yang dibandingkan dengan algoritma Campbell, Dudek and Smith (CDS). Hasil penelitian menunjukkan bahwa dengan perhitungan backward scheduling diketahui PT 'X' untuk bulan April memproduksi jati'. 5000 unit, daikin: 6000 unit, tectim: 12000 unit. Untuk bulan Mei memproduksi jati: 5000 unit, daikin: 6000 unit, tectim: 14000 unit dan untuk bulan Juni memproduksi jati: 5000 unit, daikin: 8000 unit, tectim: 12000 unit dapat meminimalkan biaya produksi, selisih biaya antara hasil perhitungan dengan perencanaan perusahaan cukup besar. Sedangkan penjadualan produksi untuk memperoleh makespan yang terkecil sehingga nantinya dapat memenuhi kebutuhan konsumen tepat waktu dan efisien dipilih algoritma CDS. Karena setelah dibandingkan antara MWKR dan CDS, algoritma CDS memiliki makespan yang terkecil. Setelah algoritma CDS dianalisa dengan menggunakan batch size diperoleh makespan yang lebih minimum lagi. Dengan adanya selisih biaya antara perhitungan dengan menggunakan metode backward scheduling dan perhitungan perusahaan maka diketahui bahwa dengan menggunakan perhitungan backward scheduling lebih minimal. Sedangkan untuk penjadualan produksi, algoritma CDS yang dianalisa dengan menggunakan batch size mempunyai makespan yang minimum.",
+  "creators": "ELISABETH LIZA BUDIARSO",
+  "contributors": "Didik Wahjudi (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 229 / TI-55 /1999; Elisabeth Liza Budiarso (25495023)",
+  "subjects": "SCHEDULING (MANAGEMENT); PRODUCTION MANAGEMENT; PRODUCTION PLANNING"
+}

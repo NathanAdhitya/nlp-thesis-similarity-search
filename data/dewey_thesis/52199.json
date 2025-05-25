@@ -1,0 +1,14 @@
+{
+  "id": "52199",
+  "title": "Evaluasi pengaruh faktor daya terhadap konsumsi daya listrik di PT Semen Gresik Tuban III",
+  "abstract": "Faktor daya mempunyai pengaruh yang besar terhadap konsumsi daya listrik. Sehingga faktor daya harus selalu dijaga agar selalu baik (>0.85) dengan tujuan menghindari denda dari PLN. Adapun yang membuat faktor daya rendah adalah beban-beban yang induktif, seperti motor induksi, transformator, dan lainnya. Peningkatan faktor daya dapat dilakukan dengan memasang capacitor bank pada sistem. Analisa yang dilakukan di P.T. Semen Gresik Tuban III adalah untuk mengetahui bagaimana pengaruh faktor daya terhadap konsumsi daya listrik. Dan dari analisa ini akan dievaluasi upaya-upaya untuk memperbaiki faktor daya agar konsumsi daya listrik menjadi optimal. Dari hasil analisa dengan menggunakan ETAP PowerStation Versi 4.0.0C dapat diketahui bahwa faktor daya pada Tuban III adalah 0.6550, sehingga dengan dipasangnya Filter sebagai kompensasi daya reaktif sebesar 24.94 MVAr akan membuat faktor daya menjadi 0.9773. Dengan faktor daya yang baik ini, maka daya reaktif yang dikonsumsi menjadi berkurang dari 35.785 MVAr menjadi 6.940 MVAr, sehingga daya total akan berkurang dari 47.916 MVA menjadi 32.722 MVA. Sedangkan daya dari PLN besamya 40 MVA, sehingga ada kelebihan daya sebesar 7.278 MVA yang dapat digunakan untuk menambah beban lagi ke dalam sistem.",
+  "creators": "VICTOR AGUSTONO PUTRA",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Emmy Hosea (Advisor 2); BUNAWI GUNAWIDJAJA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010510/ELK/2004; Victor Agustono Putra (23499100)",
+  "subjects": "ELECTRICAL ENGINEERING; CAPACITOR INDUSTRY; ELECTRIC POWER CONSUMPTION"
+}

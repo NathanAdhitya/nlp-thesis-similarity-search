@@ -1,0 +1,14 @@
+{
+  "id": "28673",
+  "title": "Perancangan dan pembuatan market expert advisor pada currency market menggunakan Fibonacci, Stochastic dan MACD indicator",
+  "abstract": "Seiring dengan berkembangnya teknologi, cara melakukan Forex trading sudah berubah dari off-line menjadi on-line dan saat ini dapat dilakukan secara otomatis. Salah satu Forex trading platform yang paling populer adalah Metatrader. Di dalam Metatrader terdapat teknologi bernama Expert Advisor yang dapat digunakan untuk melakukan Forex trading secara otomatis. Skripsi ini bertujuan untuk membuat Expert Advisor yang berbasis pada Fibonacci, Stochastic dan MACD. Level-level Fibonacci digunakan untuk menentukan titik beli atau jual dan target keuntungan. Stochastic dan MACD digunakan untuk membantu penentuan titik beli atau jual agar mendapat keputusan yang lebih tepat. Selanjutnya, keputusan-keputusan trading yang dibuat oleh expert advisor dikirimkan pada akun Twitter pengguna sebagai notifikasi. Expert Advisor ini dapat menghasilkan keuntungan rata-rata 74,1% per tahun. Hasil ini dicapai pada pasangan mata uang EURUSD dengan Time Frame D1 pada 2010, di mana pengujian dilakukan dari 2007 sampai 2011. Keputusan-keputusan trading dikirimkan ke akun Twitter pengguna, terlebih dahulu dikirimkan ke e-mail server. Setelah itu, server akan memproses untuk mem-posting ke akun Twitter pengguna.",
+  "creators": "ANTHONY HADI",
+  "contributors": "Resmana Lim (Advisor 1); Murtiyanto Santoso (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010113/ELK/2012; Anthony Hadi (23408017)",
+  "subjects": "ELECTRONIC TRADING OF SECURITIES; PROGRAM TRADING (SECURITIES)"
+}

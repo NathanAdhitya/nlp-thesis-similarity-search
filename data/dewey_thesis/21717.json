@@ -1,0 +1,14 @@
+{
+  "id": "21717",
+  "title": "Penjadwalan sepatu boot berkaitan dengan ukuran dan warna di PT. Toboyo",
+  "abstract": "PT. Toyobo adalah salah satu produsen sepatu boot di Jawa Timur. Sepatu boot yang dibuat mempunyai dua macam model yaitu 8805 dan 8808, terdapat lima macam ukuran yaitu 38, 39,40,41 dan 42 serta mempunyai sembilan macam warna yaitu hitam, biru, ungu, merah, coklat, putih, kuning, hijau muda dan hijau tua. Proses pembuatan sepatu boot harus melalui tahap demi tahap. Untuk pembuatan setiap produk mempunyai urutan proses yang sama, sehingga dapat disimpulkan bahwa tahapan proses pembuatan sepatu boot mempunyai polay7ow shop. Selama ini pihak perusahaan tidak mempunyai sistem penjadwalan yang terintegrasi dengan baik, maka dalam Tugas Akhir ini penulis memberikan usulan mengenai penjadwalan produk baik penjadwalan mengenai warna dan ukuran. Untuk penjadwalan warna, dilakukan perhitungan dengan menggunakan Algoritma Heuristik NEH dan untuk penjadwalan ukuran, dilakukan perhitungan dengan Algoritma Heuristik Rajendran dan Algoritma Heuristik Ho and Chang. Dari kedua Algoritma tersebut akan dipilih urutan jadwal akhir yang memiliki performance lebih baik sesuai dengan tujuan yang ingin dicapai. Dari hasil perhitungan dengan menggunakan kedua Algoritma dengan multiple objectives tersebut, didapatkan suatu jadwal produksi untuk memenuhi demand yang ada. Dari penjadwalan produksi yang dilakukan, order 1 dan order 2 mengalami keterlambatan selama 2 hari, order 3 dan order 4 selama 4 hari dan order 6 selama 1 hari.",
+  "creators": "VELIANNI",
+  "contributors": "Maja Indahwati (Examination Committee 1); SANDY CITRO (Advisor 2); Tessa Vanina Soetanto (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 390/TI-117/2000; Velianni (25496081)",
+  "subjects": "PRODUCTION PLANNING; SCHEDULING"
+}

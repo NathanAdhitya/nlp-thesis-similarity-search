@@ -1,0 +1,14 @@
+{
+  "id": "26250",
+  "title": "Rancang bangun aplikasi administrasi dan peramalan dengan metode single exponential smoothing berbasis YII framework",
+  "abstract": "Original Shop adalah sebuah toko yang bergerak di bidang aksesoris handphone yang memiliki beberapa toko cabang di beberapa daerah, di mana selama ini masih menggunakan sistem manual dalam melakukan transaksi sehari-hari. Akibatnya sering terjadi kesalahan dalam proses pencatatan data, sehingga informasi yang dihasilkan tidak akurat dan memerlukan waktu untuk mengolah data. Proses perancangan dan pembuatan sistem dimulai dengan mempelajari sistem yang ada saat ini, membuat DFD digunakan power designer 6, ERD menggunakan power designer 15.3, dan database yang diperlukan menggunakan MySQL. Kemudian program dibuat berdasarkan desain yang telah dibuat dengan menggunakan Yii Framework. Hasil pengujian terhadap aplikasi ini menunjukkan bahwa aplikasi ini dapat memproses data yang berhubungan langsung dengan penjualan, pembelian dan lain-lain secara otomatis. Peramalan dan laporan yang dihasilkan sudah akurat karena sesuai dengan perhitungan manual. Berdasarkan hasil kuisioner 70% menilai program sudah sesuai dengan kebutuhan.",
+  "creators": "YULIADI",
+  "contributors": "Justinus Andjarwirawan; Lily Puspa Dewi, S.T., M.Kom.; Ir. Djoni Haryadi Setiabudi, M.Eng.",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021104/INF/2012; Yuliadi (26407139)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

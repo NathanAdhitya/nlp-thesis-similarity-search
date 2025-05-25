@@ -1,0 +1,14 @@
+{
+  "id": "29145",
+  "title": "Perancangan dan pembuatan sistem penggajian karyawan CV Inti Daya Engineering",
+  "abstract": "CV Inti Daya Engineering adalah perusahaan yang bergerak di Bidang persewaan Generator Set, pengolahan plat dan pembuatan silent Canopy untuk Generator Set. Pada saat ini, system penggajian karyawan di CV Inti Daya Engineering masih dilakukan secara manual. Rekap data absensi karyawan pun masih dihitung secara manual. Pencatatan secara manual akan menyulitkan HRD karena tiap bulan harus mengumpulkan tiap form yang ada lalu disesuaikan dengan karyawan yang bersangkutan untuk dihitung besar gajinya. Jika ada dokumen yang lupa dicatat, ataupun hilang maka akan membutuhkan waktu yang lama karena harus disesuaikan dengan catatan kerja karyawan dan lain sebagainya. Berdasarkan latar belakang permasalahan tersebut, maka dirancang sebuah Sistem Penggajian Karyawan. Proses Perancangan system aplikasi ini melalui beberapa tahap, dimulai dari wawancara sistem yang digunakan, analisa data yang diperlukan, merancang Data Flow Diagram dan Entity Relationship Diagram dari sistem yang akan dibuat. Proses Pembuatan system ini menggunakan Microsoft Visual Studio.Net 2010 sebagai bahasa pemograman dan Microsoft SQL Server sebagai database. Dari hasil implementasi dan pengujian website yang bertindak sebagai wadah informasi bagi pecinta kuliner ini, dapat disimpulkan bahwa System pencarian informasi kuliner ini telah mampu menjalankan fungsinya dengan baik yaitu berupa system pendataan dan system pencarian yang di mana fungsi- fungsi tersebut didukung dengan berbagai fitur tambahan. Dari hasil implementasi dan pengujian sistem, dapat disimpulkan bahwa system penggajian karyawan ini telah mampu menjalankan fungsinya dengan baik yaitu mampu menghitung gaji karyawan dengan tepat dan mampu memberikan informasi yang diperlukan oleh perusahaan.",
+  "creators": "ERICK HANSEL WINER",
+  "contributors": "Yulia (Advisor 1); Liliana (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021272/INF/2013; Erick Hansel Winer (26409078)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE DESIGN; DATABASE MANAGEMENT"
+}

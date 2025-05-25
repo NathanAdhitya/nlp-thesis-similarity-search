@@ -1,0 +1,14 @@
+{
+  "id": "9222",
+  "title": "Perancangan dan pembuatan aplikasi navigasi perjalanan berbasis GPS dengan menggunakan algoritma A* untuk menentukan rute terpendek",
+  "abstract": "Pada saat ini, hampir setiap individu dituntut untuk memiliki mobilitas yang tinggi. Saat ini wilayah kota Surabaya semakin bertambah luas, sehingga ada banyak kemungkinan rute bila ingin mencapai suatu tempat tujuan tertentu. Karena itu dibutuhkan rute yang optimal untuk mendukung mobilitas setiap individu, tetapi juga tetap menghemat waktu. Pada Tugas Akhir ini dibuat sebuah aplikasi yang mampu menampilkan posisi user secara akurat berdasarkan informasi yang didapat dari GPS, dan juga setelah itu mencari rute optimal ke tempat tujuan yang diinginkan oleh user. Rute optimal yang dimaksud bisa berupa rute yang tercepat untuk dicapai, ataupun rute terpendek secara jarak. Aplikasi akan memberi bantuan navigasi kepada user dengan menggunakan panduan suara. Untuk pencarian rute yang optimal digunakan algoritma A*. Peta digital yang digunakan sebagai inputan adalah peta digital yang menggunakan format ESRI shapefile. Aplikasi ini dibuat dengan menggunakan program Delphi 7 dan komponen MapObjects dari ESRI. Berdasarkan hasil pengujian aplikasi, dapat disimpulkan bahwa aplikasi ini mampu membantu user dalam mencapai tempat tujuan tertentu. Rute yang dihasilkan bisa merupakan rute yang tercepat untuk dicapai, ataupun rute terpendek secara jarak. Tingkat optimasi rute bergantung pada keakuratan dan kelengkapan peta yang digunakan.",
+  "creators": "BUDIANTO GUNAWAN",
+  "contributors": "Resmana Lim (Advisor 1); Andreas Handojo (Advisor 2); BUDI BAMBANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010537/INF/2006; Budianto Gunawan (26402097)",
+  "subjects": "DATA BASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

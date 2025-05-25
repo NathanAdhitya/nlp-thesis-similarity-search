@@ -1,0 +1,14 @@
+{
+  "id": "26017",
+  "title": "Perancangan dan pembuatan aplikasi data mining multi-level dan multi-dimensional association rules untuk proses market basket analysis Depo Jaya Bangunan dengan CLOSET algorithm",
+  "abstract": "Depo Jaya Bangunan adalah sebuah supermarket bahan bangunan yang sedang berkembang di Nusa Tenggara Barat. Dengan jumlah transaksi yang besar, perusahaan membutuhkan suatu alat bantu analisis untuk memberikan informasi yang bermanfaat bagi perusahaan dalam penentuan tata letak barang, bundling produk, dan lain-lain. Berdasarkan permasalahan yang dihadapi perusahaan, maka dibutuhkan alat bantu analisis berbasis data mining. Data mining merupakan teknik untuk mendapatkan pola yang menarik dari data dalam jumlah besar. Pola menarik yang dibutuhkan oleh perusahaan adalah kebiasaan berbelanja dari pelanggan. Melalui analisis dari data transaksi perusahaan, dirancanglah sebuah aplikasi yang dapat menghasilkan multi-level dan multi-dimensional association rules secara efisien sehingga dapat memberikan informasi dalam berbagai tingkatan dan dimensi. Untuk menghasilkan aplikasi yang efisien, maka digunakan algoritma CLOSET yang lebih cepat dibandingkan Apriori. Algoritma CLOSET dapat menghasilkan association rules yang lebih efektif dengan mengeliminasi rules-rules yang telah direpresentasikan oleh rules lainnya. Informasi yang dihasilkan oleh aplikasi adalah keterkaitan antar item. Item tersebut dapat berupa kategori barang, nama barang, dan lain-lain. Berdasarkan pengujian, aplikasi dapat memberikan association rules secara multi-level dan multi-dimensional secara baik sehingga dapat memenuhi kebutuhan perusahaan. Hal tersebut ditunjukkan dari 60% responden memberikan nilai sangat baik dan 40% responden memberikan nilai baik untuk manfaat dari informasi yang dihasilkan aplikasi.",
+  "creators": "ANDRE ANGGADA",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Alexander Setiawan (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021132/INF/2012; Andre Anggada (26408094)",
+  "subjects": "DATA MINING; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

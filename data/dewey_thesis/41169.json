@@ -1,0 +1,14 @@
+{
+  "id": "41169",
+  "title": "Studi perbandingan routing protocol open shortest path first (ospf) dan enhanced interior gateway routing protocol (EIGRP) pada IPV6 dengan menggunakan simulator Graphical Network Simulator 3 (GNS3)",
+  "abstract": "Seiring dengan perkembangan jaringan komputer, manusia tidak lagi harus mengimplementasikan jaringan komputer dalam kondisi nyata melainkan dapat melalui simulator jaringan. Salah satunya yaitu GNS3 (Graphical Network Simulator 3). Oleh karena perkembangan itu, stok IPv4 telah mencapai batasnya dan akan digantikan dengan IPv6. Telah muncul berbagai routing protocol untuk mendukung IPv6, diantaranya adalah OSPF (Open Shortest Path First) dan EIGRP (Enhanced Interior Gateway Routing Protocol). OSPF dan EIGRP memiliki perbedaan besar dalam algoritma yang digunakan, sehingga pada penelitian ini akan dianalisa perbandingan dari kedua routing protocol tersebut pada implementasi IPv6. Pada penelitian ini akan dirancang suatu jaringan komputer dan dilakukan pengujian. Pengujian dilakukan dengan menggunakan ping dan traceroute. Selain itu ada juga pengujian untuk waktu konvergensi. Dari hasil penelitian menunjukkan bahwa nilai delay dan throughput dari OSPF lebih baik 2-15% dibandingkan dengan EIGRP pada kondisi koneksi tidak mengalami down. Sebaliknya pada saat koneksi mengalami down EIGRP lebih baik 45-52% untuk delay dan 38-48% untuk throughput. Keduanya memiliki nilai yang sama untuk packet loss pada saat koneksi normal dan EIGRP lebih baik 11-16% pada saat koneksi down. Selain itu EIGRP memiliki waktu konvergensi awal dengan waktu 8 detik, sedangkan OSPF dengan waktu 19 detik. Adapun EIGRP memiliki waktu konvergensi pada saat penambahan link dengan waktu 2-6 detik sedangkan OSPF dengan waktu 8-10 detik.",
+  "creators": "KELVIN THESMAN",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Resmana Lim (Advisor 2); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021673/INF/2017; Kelvin Thesman (26413128)",
+  "subjects": "INTERNET PROTOCOL VERSION 6 (IPV6); SIMULATOR (COMPUTER PROGRAM)"
+}

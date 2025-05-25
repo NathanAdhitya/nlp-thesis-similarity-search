@@ -1,0 +1,14 @@
+{
+  "id": "57164",
+  "title": "Sistem monitoring dan sinkronisasi stok inventaris menggunakan open API untuk pengelolaan e-commerce",
+  "abstract": "Pada saat pandemi banyak toko offline yang harus tutup dan pada saat itu banyak toko terpaksa harus menutup toko tersebut secara sementara atau secara permanen. Banyak toko pada jaman sekarang pun masih tidak menggunakan sistem komputasi untuk melakukan stok invetaris mereka dan dengan majunya toko online karena pandemi stok yang disimpan oleh penjual terkadang tidak sama dengan yang mereka punya di tangan. Berdasarkan permasalahan tersebut, dibuatlah aplikasi untuk memberikan penginputan data yang terkomputasi, dan integrasi data dengan marketplace untuk mengatur data dari beberapa aplikasi jual beli online. Aplikasi ini dibuat dengan PHP, dan database phpMyAdmin MySQL. Aplikasi ini mempunyai dua hak akses yaitu sebagai administrator dan staff. Hasil akhir dari penelitian dan pembuatan aplikasi tersebut adalah aplikasi dapat mencatat data, mengelola data, dan mengsinkronisasikan data diantara toko online dan juga offline. Dari hasil responden kuesioner,sebesar 80% pengguna menilai keseluruhan aplikasi tersebut memudahkan proses mengelola toko online dan juga offline.",
+  "creators": "GERALDINO DHARMAWAN",
+  "contributors": "Justinus Andjarwirawan (Advisor 1); Agustinus Noertjahyana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022384/INF/2023; Geraldino Dharmawan (C14180018)",
+  "subjects": "DATABASE MANAGEMENT; ELECTRONIC COMMERCE--COMPUTER PROGRAMS; ELECTRONIC COMMERCE; MYSQL (ELECTRONIC RESOURCE)"
+}

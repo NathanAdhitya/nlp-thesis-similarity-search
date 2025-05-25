@@ -1,0 +1,14 @@
+{
+  "id": "19759",
+  "title": "Perancangan dan pembuatan aplikasi pembelajaran VLSM dan CIDR berbasis web",
+  "abstract": "Subnetting merupakan cara tradisional mengalokasikan suatu IP Address kedalam subnetwork yang terhubung didalam suatu network. Tetapi subnetting dengan cara tradisional memiliki kelemahan, yaitu meninggalkan banyak ruang IP Address yang kosong pada suatu subnetwork tersebut. Dengan terus berkembangnya jaman, muncul Variable length Subnet Mask (VLSM) sebagai metode subnetting yang modern. Dengan subnetting VLSM tersebut, pengalokasian suatu IP Address dapat diberikan secara effisien kedalam subnetwork yang terhubung didalam suatu network. Dengan meminimalkan adanya ruang IP Address yang kosong pada suatu subnetwork, ruang IP Address yang kosong dapat digunakan sebagai IP Address cadangan jika suatu saat terdapat penambahan subnetwork pada suatu network tersebut. Dengan adanya subnetting VLSM ini dapat dibuat suatu sistem pembelajaran online dengan menggunakan social network sebagai sarana pembelajaraan yang tepat. Selain itu, pembuatan aplikasi pembelajaran online ini dimaksudkan agar setiap orang yang menggunakan aplikasi pembelajaran ini dapat terbantu dalam belajar mengenai VLSM dan CIDR dengan cepat dan tidak memakan banyak waktu.",
+  "creators": "ADRIEL LUCAS DARWALI",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Justinus Andjarwirawan (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020935/INF/2010; Adriel Lucas Darwali (26406071)",
+  "subjects": "WEB SITES-DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

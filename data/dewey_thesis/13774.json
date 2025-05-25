@@ -1,0 +1,14 @@
+{
+  "id": "13774",
+  "title": "Pemakaian mikrocontroller 80C31 dengan metode fuzzy logic pada aplikasi pintu geser otomatis untuk ruangan bebas debu dengan driver motor PWM",
+  "abstract": "Fuzzy logic kontroller merupakan suatu alternatif sistem kendali modern yang mudah, di karenakan tidak perlu mencari model matematis dari suatu sistem, tetapi tetap efektif karena memiliki respon sistem yang stabil. Dalam rugas akhir ini dibuat suatu pintu geser otomatis yang diputar oleh motor DC servomotor yang dikontrol oleh mikrokontroller 80C31 dan metode pengaturan yang digunakan adalah fuzzy logic. Fuzzy logic yang dibuat mempunyai dua input (Error Tacho dan ADutyCycle) dan satu output (DutyCycle). Setiap membership function memiliki 5 label. Digunakan 25 rule fuzzy if-then yanng terdiri dari 9 rule utama dan 16 rule tambahan. Proses fuzzy logic ini terdiri dari fuzzifikasi, evaluasi rule dan defuzzifikasi. Penggerak motor {driver motor) menggunakan sistem PWM (pulse width modulation), dimana menggunakan rangkaian H-Bridge untuk mendapatkan putaran arah motor searah jarum jam (CW) dan berlawanan arah jarum jam (CCW). Input PWM didapat secara software sesuai dengan kemauan kita seberapa besar DutyCycle yang kita butuhkan. Pengujian respon sistem dilakukan terhadap input yang diberikan yakni setting point dengan output yang dihasilkan adalah DutyCycle. Tetapi hasil dari pengujian didapatkan bahwa output dutycycle tidak dapat berubah-ubah sesuai dengan mengecilnya error tacho, melainkan output yang dihasilkan dengan PWM 99%. Sampai saat ini sistem hanya berjalan dengan menggunakan sistem On-Off atau dengan penambahan sensor limit switch sebagai sensor posisi, maka sistem dapat berjalan sesuai dengan yang kita inginkan.",
+  "creators": "JUSUF NASSA BARENDS",
+  "contributors": "IRWAN SAHLI (Advisor 1); YOHANES T. D. S (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/007/444; Jusuf Nassa Barends (23494071)",
+  "subjects": "FUZZY LOGIC; AUTOMATIC CONTROL-COMPUTER PROGRAMS; DOORS-AUTOMATIC CONTROL; INTEL 80C31 (MICROCONTROLLER)"
+}

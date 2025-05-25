@@ -1,0 +1,14 @@
+{
+  "id": "16379",
+  "title": "Perencanaan dan pembuatan alat sintesa teks menjadi suara dengan menggunakan speech synthesizer dan IBM PC",
+  "abstract": "Alat sintesa teks menjadi suara ini mengubah teks ASCII dalam Bahasa Indonesia menjadi ucapan manusia yang berintonasi . Alat ini menggunakan VS600 Speech Synthesizer dan komputer IBM PC yang dihubungkan dengan sistem komunikasi paralel. Output suara dikeluarkan melalui speaker 3 ohm. Teks ASCII dapat diinputkan melalui keyboard at.au melalui file teks. Input ini kemudian dipecah-pecah menjadi kalimat kemudian menjadi kata, dan masing-masing kata ini diubah menjadi fonem yang siap dikirimkan ke V8600. Satu huruf akan digantikan dengan satu fonem kecuali untuk huruf e dan o. Dibuat ketentuan umum untuk semua e akan diganti dengan fonem e (benda, bekas, peoah) dan huruf o diganti dengan fonem 6 (coba, dorong, orang\"). Bila suatu kata menggunakan fonem e (Indonesia, elektro, beo) , e (tembak, ember, lewat) dan o (toko, soto) maka kata tersebut harus dimasukkan dalam kamus pengecualian (exception dictionary) yang disimpan dalam suatu file. Informasi yang disimpan adalah kata dasar dan sekaligus fonem pembentuknya. Slanjutnya exception dictionary ini akan dicocokkan dengan tiap kata yang mengandung e atau o . Fonem yang dikirimkan ke V8600 diberi tambahan intonasi dengan membedakan antara kalimat seru, kalimat tanya, kalimat berita, potongan kalimat yang diakhiri koma. Tanda baca yang ada digunakan untuk membedakan jenis kalimat. Intonasi yang diberikan adalah dalam hal tinggi rendah suara, kecepatan bicara, dan volume suara. Fonem yang didapatkan dari teks tidak secara langsung dikirimkan ke V8600, melainkan dituliskan dalam file sementara. Setelah semua teks selesai dikonversikan barulah file ini dibaca dan datanya dikirimkan ke V8600.",
+  "creators": "NJOO BOEN KIONG",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Vivi Anggraini (Examination Committee 2); ESTHER HANAYA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 96/E/KOM/003/003; Njoo Boen Kiong (23491029)",
+  "subjects": "SPEECH SYNTHESIZER; SPEECH SYNTHESIZER V 8600"
+}

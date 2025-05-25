@@ -1,0 +1,14 @@
+{
+  "id": "4650",
+  "title": "Perancangan dan pembuatan sistem informasi pembelian, penjualan, dan hutang pada Apotek Sumber Sehat",
+  "abstract": "Sistem informasi pada Apotek Sumber Sehat masih menggunakan sistem manual dimana setiap harinya dilakukan pembukuan yang dibuat untuk menyimpan data transaksi-transaksi baik pembelian, penjualan, retur pembelian dan pembayaran hutang maupun untuk data stok obat. Oleh karena itu pengolahan data yang dilakukan memakan waktu yang cukup lama. Lambatnya arus informasi karena sistem manual akan menyebabkan informasi menjadi tidak efektif dan efisien. Untuk itu dibutuhkan suatu perancangan dan pembuatan sistem informasi yang dapat mengelola data sehingga dapat menghasilkan informasi secara efektif dan efisien. Pembuatan sistem informasi dimulai dengan membuat desain dari sistem yang ada dalam apotek dengan cara melakukan wawancara dan juga pengamatan pada apotek Sumber Sehat. Setelah desain sistem terbentuk, dilakukan perancangan basis data yang akan digunakan sebagai penyimpan data yang terorganisir. Program sistem informasi yang dibuat meliputi modul data master, modul transaksi dan laporan-laporan. Program sistem informasi ini dibuat dengan menggunakan Delphi 6.0 dengan Microsoft Access 2000 sebagai basis data. Program sistem informasi ini dapat meningkatkan efektivitas dan efisiensi pembuatan laporan dalam apotek. Modul yang telah berhasil dibuat meliputi pembelian, penjualan dan juga laporan-laporan. Modul pembelian dan penjualan dilengkapi juga dengan retur pembelian, pencarian data pembelian serta penjualan dan juga stok opname untuk akhir bulan.",
+  "creators": "WELLY WIBOWO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Leo Willyanto Santoso (Advisor 2); Theresia Lestiowati (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000236/INF/2004; Welly Wibowo (26400172)",
+  "subjects": "DATA BASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "29943",
+  "title": "Perancangan dan pembuatan sistem informasi perhitungan harga pokok produksi biji plastik pada...",
+  "abstract": "PD X merupakan perusahaan yang memproduksi biji plastik, yaitu mengolah sampah plastik bekas menjadi biji plastik. Semua pencatatan terkait pembelian bahan baku, penjualan, dan persediaan dicatat secara manual. Dalam menentukan harga pokok produksi, terkadang owner melakukan perhitungan berdasarkan estimasi harga pokok produksi atau terkadang melakukan perhitungan dengan menggunakan Microsoft Excel. Apabila melakukan perkiraan, owner kadang tidak terlalu memperhatikan biaya overhead. Perhitungan harga pokok produksi secara akurat merupakan hal yang penting karena hal ini membantu perusahaan untuk memastikan harga jual yang telah ditetapkan dengan menutup semua biaya yang digunakan. Pencatatan secara manual tentunya dapat meningkatkan kemungkinan perhitungan harga pokok produksi yang tidak akurat. Berdasarkan latar belakang permasalahan tersebut, maka dirancang sebuah aplikasi untuk melakukan perhitungan Harga Pokok Produksi. Proses perancangan sistem dari aplikasi ini melalui beberapa tahap, dimulai dengan melakukan survei sistem produksi perusahaan, analisa data, merancang Data Flow Diagram dan Entity Relationship Diagram dari aplikasi yang akan dibuat. Proses pembuatannya menggunakan Microsoft Visual Studio Net 2010 sebagai bahasa pemrogramannya dan Microsoft SQL Server 2008 R2 sebagai database. Perhitungan harga pokok produksi dilakukan dengan menggunakan metode Job Costing. Hasil yang diperoleh dari aplikasi yang telah dibuat, yaitu 66,67% user menilai baik dari segi desain interface aplikasi, 66,67% user menilai baik dari segi kemudahan dalam pemakaian aplikasi, 66,67% user menilai baik dari segi kelengkapan informasi yang dibutuhkan perusahaan, 100% user menilai baik dari segi keakuratan informasi dan data, dan 100% user menilai baik dari segi kesesuaian program dengan kebutuhan perusahaan.",
+  "creators": "FANDI TANGRADI",
+  "contributors": "Yulia (Advisor 1); Alexander Setiawan (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021218/INF/2013; Fandi Tangradi (26409118)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

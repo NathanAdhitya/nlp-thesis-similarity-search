@@ -1,0 +1,14 @@
+{
+  "id": "48863",
+  "title": "Aplikasi pengoptimalan rute pengiriman barang pada PT XYZ",
+  "abstract": "Perusahaan yang dituju merupakan perusahaan yang bergerak di bidang distributor barang yang berlokasi di kota Manado. Masalah yang sering dihadapi PT XYZ yaitu karena banyaknya tujuan pengiriman yang berakibat kepada sulitnya mengatur urutan perjalanan yang efektif untuk mendistribusikan barang kepada customer sesuai dengan kapasitas kendaraan dan waktu yang diinginkan oleh customer. Oleh karena itu dibutuhkan sistem informasi yang mampu memberikan rekomendasi urutan pengiriman yang lebih efektif berdasarkan tiap kendaraan yang ada di perusahaan. Aplikasi pengoptimalan pengiriman barang yang dibuat, berbasis website dengan menggunakan framework Django dan database MySQL. Proses yang dilakukan sistem yaitu dengan mempertimbangkan constraint yang dimiliki perusahaan yaitu berupa maksimum volume kendaraan dan jam kerja kantor, sistem akan memberikan rekomendasi urutan pengiriman yang didapat melalui Google OR-Tools. Metode Genetic Algorithm juga dipakai sebagai alternatif untuk kemudian dapat dibandingkan. Hasil akhir dari program ini yaitu sistem yang mampu menjawab kebutuhan perusahaan dengan memberikan rekomendasi urutan pengiriman dan informasi mengenai detail pengiriman untuk tiap kendaraan. Hasil pengujian yang didapat yaitu Google OR-Tools mendapat hasil total jarak 17.04% lebih baik serta hasil total waktu perjalanan 19.14% lebih baik dibandingkan dengan metode Genetic Algorithm. Google OR-Tools juga mendapat hasil total jarak 41.53% lebih baik serta hasil total waktu perjalanan 41.46% lebih baik dari sistem perusahaan yang sekarang. Sedangkan metode Genetic Algorithm mendapat hasil total jarak 14.56% lebih buruk serta hasil total waktu perjalanan 16.06% lebih buruk dibandingkan dengan Google OR-Tools. Dan jika dibandingkan dengan sistem perusahaan yang sekarang, Genetic Algorithm mendapat hasil total jarak 20.93% lebih baik serta hasil total waktu perjalanan 18.73% lebih baik dari sistem perusahaan yang sekarang.",
+  "creators": "FANDY ONG",
+  "contributors": "Alexander Setiawan (Advisor 1); Nova Sepadyati, S.T., M.Sc. (Advisor 2); Silvia Rostianingsih (Examination Committee 1); Tanti Octavia (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022041/INF/2021; Fandy Ong (C14170116)",
+  "subjects": "DATABASE MANAGEMENT--COMPUTER PROGRAMS; APPLICATION SOFTWARE"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5418",
+  "title": "Pembuatan aplikasi software management \"sub-material\" pada PT. Surabaya Wire",
+  "abstract": "PT. Surabaya Wire adalah perusahaan atau pabrik yang memproduksi paku, dimana bahan dasar pembuatan paku ini adalah Wie Rod. Proses-proses yang menunjang dalam menghasilkan paku, misal: pembelian dus untuk packaging paku, job order, pengambilan barang-barang packaging, termasuk dalam Sistem Sub-Material. Sistem Sub-Material pada PT. Surabaya Wire saat ini masih menggunakan sistem manual. Untuk pengembangan usahanya, maka dibutuhkan suatu sistem baru untuk dapat memperbaiki sistem yang dipakai saat ini. Perancangan dan pembuatan sistem Sub-Material yang baru dengan membuat suatu program aplikasi menggunakan Microsoft Office XP dan Visual Basic Applications untuk interfacenya dan Microsoft Office XP sebagai databasenya. Hasil dari pembuatan program ini adalah mengotomatisasi penghitungan dalam proses-proses yang terjadi pada sistem Sub-Material ini, yang dalam sistem yang lama masih menggunakan penghitungan manual. Proses yang sangat terbantu dengan adanya sistem sub-material ini adalah proses pengontrolan barang job order, dimana dengan sistem baru yang terkomputerisasi ini staf tidak dapat mengambil barang kebutuhan job order melebihi dari jumlah yang telah ditentukan. Proses lain yang juga banyak terbantu adalah proses pembelian barang, dengan adanya sistem yang baru ini staf departemen pembelian dapat mengetahui dengan mudah jumlah barang-barang yang masih belum diterima, sehingga staf departemen pembelian tidak salah atau dapat lebih tepat dalam menentukan jumlah barang yang akan dibeli; jika suatu departemen membutuhkan suatu barang tetapi stok departemen tersebut sudah habis, maka departemen tersebut dapat melihat departemen lain yang masih mempunyai stok barang tersebut untuk dilakukan pengalihan status barang, sehingga PT. Surabaya Wire tidak perlu melakukan pembelian barang pada saat itu juga. Program ini dapat menghasilkan laporan-laporan yang dibutuhkan oleh manajemen PT. Surabaya Wire dengan praktis, seperti laporan pembelian dalam suatu periode, laporan biaya setiap departemen dalam suatu periode, laporan mutasi stok barang pada suatu tanggal. Laporan-laporan yang sebagai dasar dalam pengambilan keputusan suatu hal dapat juga dihasilkan dengan praktis, contoh: laporan jumlah barang-barang yang masih belum diterima yang berhubungan dengan penentuan jumlah barang yang akan dibeli.",
+  "creators": "YANUAR SIDHARTA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Ibnu Gunawan (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02/0156/INF/2004; Yanuar Sidharta (26499065)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT"
+}

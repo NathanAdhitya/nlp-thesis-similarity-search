@@ -1,0 +1,14 @@
+{
+  "id": "5546",
+  "title": "Perancangan dan pembuatan sistem informasi pembelian dan penjualan serta akuntansi UD Varia",
+  "abstract": "UD Varia adalah sebuah usaha dagang yang bergerak dalam mendistribusikan mainan, dimana dalam menjalankan usahanya ini perusahaan melakukan banyak transaksi baik transaksi pembelian maupun transaksi penjualan. Selama ini perusahaan memakai cara manual dalam melakukan pencatatan transaksi yaitu dengan menggunakan nota pembelian dan penjualan. Oleh karena itu untuk melihat informasi dari pengolahan data tersebut membutuhkan proses yang memakan waktu yang cukup lama. Lambatnya arus informasi karena menggunakan sistem manual akan menyebabkan informasi menjadi tidak efektif. Karena itu dibutuhkan suatu perancangan dan pembuatan sistem informasi yang dapat mengelola data sehingga dapat menghasilkan informasi berupa laporan dalam waktu yang cepat dan terorganisir dengan baik. Pada Tugas Akhir ini, dikumpulkan proses-proses yang terkait dengan sistem pembelian, penjualan dan akuntansi. Program untuk system baru ini dibuat dengan menggunakan sistem operasi Windows XP Professional Edition. Database yang digunakan adalah MySql 4.0.14-nt dan bahasa pemrograman yang digunakan adalah Borland Delphi 6.0. Proses desain mulai dari Data Flow Diagram, Entity Relationship Diagram, desain tabel hingga desain interface. Proses implementasi program dalam bahasa pemrograman Delphi memanfaatkan koneksi ODBC. Hasil dari pembuatan program ini adalah mengotomatisasi penghitungan dalam proses penjualan dan pembelian, yang dalam sistem yang lama masih menggunakan penghitungan manual. Program juga dapat menghasilkan laporan akuntansi dengan terstruktur. Program memudahkan user yang terlibat dalam sistem penjualan dan pembelian perusahaan untuk melakukan penyimpanan data-data yang diperlukan dari suatu proses penjualan dan pembelian.",
+  "creators": "ANDRI KHOSUMA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Leo Willyanto Santoso (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000201/INF/2004; Andri Khusuma (26400176)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

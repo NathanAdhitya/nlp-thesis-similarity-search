@@ -1,0 +1,14 @@
+{
+  "id": "46307",
+  "title": "Penggunaan metode ARIMA untuk memperkirakan permintaan obat-obat yang dikelompokkan (clustered) berdasarkan turnover persediaan",
+  "abstract": "Apotek X adalah suatu toko obat yang menjual berbagai macam obat yang memiliki beberapa cabang apotek dan satu apotek pusat. Akan tetapi, setiap cabang dan pusat dari apotek memiliki pencatatan dan server masing-masing sehingga menyebabkan pihak pusat kesulitan dalam hal pengontrolan. Selain itu adanya kenaikan dan penurunan terhadap permintaan obat menyebabkan Apotek X kesulitan dalam menentukan waktu pembelian obat yang tepat. Dengan masalah yang demikian, diperlukan suatu sistem yang dapat memprediksikan penjualan untuk setiap obat kedepannya dan sistem suatu sistem terpusat agar dari pihak apotek pusat dapat melakukan pengontrolan dari apotek cabang. Untuk melakukan proses prediksi penjualan menggunakan salah satu metode prediksi yaitu Autoregressive Integrated Moving Average (ARIMA). ARIMA merupakan suatu metode memprediksi dengan menggunakan data time series dari periode sebelumnya untuk memprediksikan periode kedepannya. Untuk pembuatan sistem informasi terpusat dengan menggunakan Framework Slim dengan PHP versi 7 dan menggunakan database MySQL. Tampilan dari sistem menggunakan bahasa pemrograman HTML, CSS, dan Bootstrap. Hasil pengujian dari metode ARIMA yang dilakukan untuk setiap obat dengan menggunakan R-Squared diperoleh hasil 1,87% akurasi baik, 35,06% akurasi menengah, dan 63,07% akurasi buruk. Akurasi baik bernilai 1-0,5, akurasi menengan 0,5-0, dan akurasi buruk <0. Untuk sistem informasi hasilnya sudah sesuai dengan kebutuhan masalah pengontrolan apotek pusat ke apotek cabang. Adanya fitur sinkroniasi memudahkan apotek pusat untuk memantau penjualan dan stok barang pada apotek cabang.",
+  "creators": "FELICIA LISTYANI WIJONO",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Andreas Handojo (Advisor 2); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 1); I Gede Agus Widyadana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021970/INF/2020; Felicia Listyani Wijono (26416045)",
+  "subjects": "BOX-JENKINS FORECASTING; INVENTORY CONTROL--DATA PROCESSING; COMPUTER PROGRAMMING"
+}

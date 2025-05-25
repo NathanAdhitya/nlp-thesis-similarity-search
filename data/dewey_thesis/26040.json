@@ -1,0 +1,14 @@
+{
+  "id": "26040",
+  "title": "Sistem informasi akuntansi pada toko Grace stationary",
+  "abstract": "Grace Stationary merupakan sebuah toko yang menyediakan alat tulis dan perlengkapan kantor yang dijual pada pembeli. Barang yang dijual oleh Grace Stationary diperoleh dari berbagai supplier. Pada saat ini Grace Stationary masih menggunakan sistem manual di mana semua transaksi dicatat secara manual. Hal ini menyebabkan kurang keakuratan dalam proses pembukuan dan akuntansinya di mana hal tersebut berasal dari human error berupa kesalahan dalam penghitungan. Grace Stationary membutuhkan sebuah sistem informasi akuntansi yang terkomputerisasi di mana sistem tersebut mencatat semua transaksi seperti pembelian, penjualan, dan laporan akuntansi agar dapat memberikan informasi yang tepat dan akurat untuk perkembangan dikemudian hari. Perancangan desain sistem menggunakan Data Flow Diagram dan Entity Relationship Diagram. Aplikasi ini dibuat menggunakan bahasa pemograman Microsoft Visual Basic.Net 2005 dan menggunakan Database Microsoft SQL Server 2000. Proses yang disediakan pada aplikasi ini antara lain pembelian, penjualan, retur pembelian, retur penjualan, pembayaran hutang dan piutang, serta proses akuntansi yang berkaitan dengan pembuatan jurnal dan laporan keuangan. Terdapat proses konversi barang apabila sistem membutuhkan di mana proses konversi akan secara otomatis. Dari hasil pengujian, program yang telah dibuat dapat memproses data akuntansi yang berhubungan dengan transaksi pada Grace Stationary serta laporan yang dihasilkan sesuai dengan kebutuhan perusahaan. Transaksi yang disediakan berupa transaksi pembelian, penjualan, retur pembelian, retur penjualan, pelunasan hutang, dan pelunasan piutang.",
+  "creators": "WILLIAM KUSMANA",
+  "contributors": "Alexander Setiawan (Advisor 1); Kartika Gunadi (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021103/INF/2012; William Kusmana (26408052)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONICS COMPUTERS); DATABASE MANAGEMANT"
+}

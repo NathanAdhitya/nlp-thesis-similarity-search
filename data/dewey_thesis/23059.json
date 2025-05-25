@@ -1,0 +1,14 @@
+{
+  "id": "23059",
+  "title": "Perencanaan dan pembuatan pembaca informasi pada data serial dengan mikrokontroller 8031",
+  "abstract": "Sejalan dengan perkembangan bidang elektronika saats ini, penggunaan komunikasi serial antar prosesor atau komunikasi serial antara prosesor dengan peralatan lain, semakin banyak d i k e m b a n g k a n . Oleh karena itu faktor kesulitan dan tantangan makin banyak dan beragam yang disebabkan adanya gangguan pada komunikasi itu sendiri, misalnya pada media transmisinya, processor atau peralatan yang lain. Pada Tugas Akhir ini direncanakan dan dibuat suatu alat bantu dengan bantuan mikrokontroller sebagai prosesornya, yang mana alat bantu ini dapat menerima data serial. Sehingga dengan adanya alat bantu ini diharapkan kendala yang ada di komunikasi serial dapat diperkecil atau d i t a n g g u l a n g i . Alat bantu ini direncanakan untuk dapat menerima data serial jenis asinkron dan jenis sinkron. Untuk data serial jenis asinkron alat ini dapat menyesuaikan baud ratenya sendiri. Alat bantu yang direncanakan dan dibuat tersebut tersusun atas mikrokontroller, program memori, data memori dan beberapa unit input output, seperti keypad, LCD serta serial unit. Sehingga alat bantu tersebut dapat menyediakan beberapa fasilitas yang dengan mudah dapat dipelajari dan dipergunakan oleh pemakainya. Beberapa fasilitas itu antara lain: kemampuan menerima data serial dengan jenis asikron dan sinkron, untuk asinkron dapat menerima data dengan beragam baud rate, fasilitas memori yang tersegmentasi, serta fasilitas pembanding data. Alat bantu ini telah direncanakan dan dibuat dilakukan pengujian dengan dua cara, yaitu dengan mempergunakan komputer untuk menguji data serial jenis asinkron dan dengan mempergunakan video player untuk menguji data serial jenis sinkron. Meskipun alat bantu ini direncanakan dan dibuat sedemikian rupa, ternyata dalam pengujian, hasil yang didapatkan tidaklah seperti yang diharapkan, karena adanya kekurangan dan kesalahan yang ditimbulkan. Kekurangan dan kesalahan ini terjadi karena keterbatasan mikrokontroller sebagai prosesornya, yaitu tidak mampu membaca data serial pada beberapa baud rate serta terjadinya kondisi \"running\" data yang diterima pada baud rate tertentu.",
+  "creators": "PETER JINATA",
+  "contributors": "Murtiyanto Santoso (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1); HERLIANTO TENGGARA (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 95/E/EL/024/227; Peter Jinata (23490119)",
+  "subjects": "ELECTRONIC COMPUTERS; INTEL 8031 (MICRO CONTROLLER)"
+}

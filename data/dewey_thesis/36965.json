@@ -1,0 +1,14 @@
+{
+  "id": "36965",
+  "title": "Pembuatan aplikasi sistem informasi akuntansi pada CV Sablon Makmur",
+  "abstract": "CV Sablon Makmur merupakan sebuah perusahaan yang bergerak di bidang jasa sablon. Sistem perusahaan pada saat ini masih menggunakan sistem manual. Semua pencatatan laporan pembelian, penjualan, pembukuan masih menggunakan tulis tangan, sehingga mudah terjadi kesalahan dalam proses pencatatannya. Perhitungan keuntungan yang masih mengira-ngira, juga membuat terkadang perusahaan kesulitan dalam menghitung keuntungannya. Berdasarkan analisis permasalahan yang dihadapi oleh CV Sablon Makmur, maka dilakukan pembuatan aplikasi yang berguna untuk kegiatan operasionalnya. Aplikasi diimplementasikan dapat memproses transaksi purchase order, sales order, laporan pembelian, penjualan, hutang dan piutang, sehingga perusahaan dapat me-manage laporannya. Data Flow Diagram dan ERD menggunakan aplikasi power desaigner 15. Aplikasi dibuat dengan menggunakan Framework CodeIgniter dan menggunakan MySQL sebagai database. Berdasarkan hasil pengujian terhadap aplikasi menunjukkan bahwa aplikasi ini dapat melakukan pencatatan transaksi pembelian dan penjualan secara terstruktur dan terkomputerisasi, serta dilengkapi dengan perhitungan stok dengan menggunakan metode Average. Aplikasi ini membantu proses pencatatan dengan penjurnalan dan posting yang terkomputerisasi dan otomatis.",
+  "creators": "ANDRY HARTANTO",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Rudy Adipranata (Advisor 2); Alexander Setiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021551/INF/2016; Andry Hartanto (26412061)",
+  "subjects": "ACCOUNTING (COMPUTER PROGRAM); DATABASE DESIGN; INFORMATION SYSTEM; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

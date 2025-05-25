@@ -1,0 +1,14 @@
+{
+  "id": "30276",
+  "title": "Perencanaan dan pembuatan kompor listrik dengan memanfaatkan kerugian arus Eddy",
+  "abstract": "Salah satu kerugian di dalam mesin-mesin listrik adalah adanya arus Eddy. Kerugian arus Eddy ini berupa energi panas. Oleh sebab itu terbangkitnya arus Eddy pada mesin-mesin listrik sedapat mungkin diperkecil. Tetapi dalam hal ini, arus Eddy tersebut justru diperbesar dan energi yang timbul dimanfaatkan untuk memanaskan suatu benda. Kerugian arus Eddy yang timbul itu sebanding dengan induksi magnetik dan kuadrat frekuensi dari arus bolak-balik. Dengan menggunakan prinsip tersebut di atas, akan direncanakan dan dibuat model kompor yang memanfaatkan efek dari kerugian arus Eddy. Di mana kompor ini akan bekerja dengan frekuensi 22 KHz dan daya masukan maksimum 60 VA. Untuk menimbulkan induksi magnetik yang berubah terhadap waktu maka diperlukan induktor yang dicatu oleh pulsa tegangan. Pulsa tegangan tersebut dihasilkan oleh rangkaian transistor yang bekerja sebagai switching, yang mana sebagai penggeraknya adalah astable multivibrator. Dengan mengatur frekuensi switching dari transistor maka arus Eddy yang dihasilkan juga berubah sebanding dengan kuadrat frekuensinya.",
+  "creators": "BUDI PRAKOSO SUTIONO",
+  "contributors": "SUSILO MATAIR (Advisor 1); ONTOSENO PENANGSANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 88/E/TST/001; Budi Prakoso Sutiono (482007)",
+  "subjects": "ELECTRIC MACHINERY; STOVES"
+}

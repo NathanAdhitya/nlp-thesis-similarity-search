@@ -1,0 +1,14 @@
+{
+  "id": "48850",
+  "title": "Sistem monitoring penggunaan air di apartemen/mal multitenant dengan NodeMCU dan Raspberry Pi",
+  "abstract": "Sehubung dengan hasil survei yang dilakukan ditemukan bahwa sulitnya melakukan monitoring penggunaan air dan melakukan manajemen penggunaan air. Penggunaan air menjadi tidak teratur dan hasil survei yang dilakukan ditemukan bahwa responden setuju dengan adanya sistem monitoring dan manajemen penggunaan air berbasis web. Pada penelitian ini akan dilakukan uji coba untuk membantu menyelesaikan masalah tersebut dengan cara memodernisasi meter air atau mengimplementasikan teknologi Internet of Things pada setiap meter air. Kemudian untuk sistem pembayaran menggunakan sistem token. lmplementasi IoT pada meter air adalah pada segi pengukuran penggunaan air dan pembatasan penggunaan air. Hasil pembuatan sistem yang dilakukan didapat sistem yang dibuat mampu melakukan monitoring penggunaan air, membatasi penggunaan air, dan melakukan penambahan limit penggunaan air menggunakan token. Dari hasil pengujian yang dilakukan didapat rata-rata 110.37 Milisecond untuk response time dari sistem generate token, rata-rata 113.21 Milisecond untuk menuju ke halaman token confirmation, dan rata-rata 106.65 Milisecond untuk token input.",
+  "creators": "ALBERT ONG",
+  "contributors": "Andreas Handojo (Advisor 1); Resmana Lim (Advisor 2); Agustinus Noertjahyana (Examination Committee 1); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03022035/INF/2021; Albert Ong (26416113)",
+  "subjects": "DATABASE MANAGEMENT--COMPUTER PROGRAMS; RASPBERRY PI (COMPUTER)--PROGRAMMING"
+}

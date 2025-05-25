@@ -1,0 +1,14 @@
+{
+  "id": "53696",
+  "title": "Prediksi harga saham yang bersifat siklikal di Indonesia menggunakan metode LSTM, BI-LSTM, GRU, SVR dan ARIMA",
+  "abstract": "Melakukan prediksi pada harga saham tidaklah mudah, walaupun menggunakan teknik technical analysis. technical analysis adalah teknik yang dapat melakukan prediksi harga saham, tetapi dalam penggunaan teknik ini tidaklah mudah, sehingga terdapat kemungkinan untuk terjadinya salah analisa saham dan merugikan investor maupun trader. Di sinilah machine learning dan deep learning dapat melakukan prediksi harga saham khususnya untuk saham yang bersifat siklikal. Saham siklikal memiliki bentuk tertentu dan akan bentuk tersebut akan terjadi lagi, model yang dibuat oleh machine learning dan deep learning dapat menangkap bentuk siklus dari saham siklikal tersebut dan diprediksikan untuk memberikan rekomendasi kapan sekiranya bisa membeli atau menjual saham tersebut atau memberikan rekomendasi untuk harga yang akan diraih dalam waktu satu tahun ke depan. Skripsi ini akan menggunakan lima metode dan dua jenis data. Metode yang digunakan adalah SARIMAX, SVR, GRU, LSTM dan Bi-LSTM. Data yang digunakan adalah multivaraite dan univariate, di mana multivariate akan mengandung data pendukung seperti IHSG dan juga data yang bisa menudukung model untuk memprediksi saham lebih baik. Sedangkan univaraite hanya mengandung data penutupan harga saham. Hasil prediksi akan diuji dengan data yang sudah ada, dan akan dibandingkan secara langsung menggunakan RMSE pada tiap model. Dalam pengerjaan parameter tiap model akan dicari menggunakan GridsearchCV untuk mencari parameter terbaik. Dari penelitian ini ditemukan 1 metode terbaik untuk memprediksi secara multivariate, dan satu metode baik untuk memprediksi secara univariate. untuk multivaraite metode yang baik untuk digunakan prediksi adalah LSTM dimana memiliki RMSE untuk training sebesar 63.67 dan 74.82 untuk testing. Sedangan univariate adalah metode SVR dimana memiliki RMSE sebesar 58.04 untuk training dan 75.29 untuk testing.",
+  "creators": "GABRIEL ADISURYA",
+  "contributors": "Alexander Setiawan (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022188/INF/2022; Gabriel Adisurya (C14180065)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; DEEP LEARNING (MACHINE LEARNING); PROGRAMMING (ELECTRONIC COMPUTERS); STOCK EXCHANGES--ANALYSIS"
+}

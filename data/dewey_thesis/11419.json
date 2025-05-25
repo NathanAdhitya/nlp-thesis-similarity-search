@@ -1,0 +1,14 @@
+{
+  "id": "11419",
+  "title": "Studi pengukuran putaran mesin melalui kabel busi",
+  "abstract": "Dewasa ini pabrik-pabrik otomotif memproduksi kendaraan bermotor yang sudah dilengkapi dengan RPM meter. RPM meter adalah suatu alat pengukur untuk mengetahui putaran mesin. Banyak kemudahan yang diperoleh apabila kita dapat mengetahui putaran mesin. Salah satu manfaatnya, yaitu untuk perawatan maupun pada saat perbaikan. Tetapi tidak semua kendaraan bermotor dilengkapi dengan alat pengukur putaran mesin tersebut, terutama untuk kendaraan bermotor sebelum tahun 2000. Oleh karena itu untuk mempermudah perawatan maupun perbaikan kendaraan bermotor diperlukan adanya RPM meter. Proses kerja dari alat ini adalah dengan menggunakan kumparan clamp yang dijepit pada kabel busi. Arus yang melewati kabel busi akan menyebabkan fluks magnetik pada kumparan, sehingga timbul beda tegangan pada kedua ujung kawat. Tegangan AC yang dihasilkan kecil, jadi harus diperbesar kemudian diubah menjadi tegangan DC. Output ini kemudian dihubungkan dengan ICL 7107 sebagai konverter dari data analog menjadi digital sekaligus berfungsi sebagai display. Dari hasil pengujian sistem didapatkan sistem bersifat linier. Error yang ditampilkan pada alat ini bila dibandingkan dengan RPM meter buatan pabrik adalah 3,422%.",
+  "creators": "SATYA HARI WIBOWO",
+  "contributors": "Hany Ferdinando (Advisor 1); Handry Khoswanto (Advisor 2); Handy Wicaksono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010796/ELK/2006; Satya Hari Wibowo (23401116)",
+  "subjects": "AUTOMOBILES-MOTORS-AUTOMATIC CONTROL"
+}

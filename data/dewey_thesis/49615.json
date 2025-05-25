@@ -1,0 +1,14 @@
+{
+  "id": "49615",
+  "title": "Perancangan robot manipulator serial 6 derajat kebebasan untuk melakukan machine tending",
+  "abstract": "Industri yang terotomatisasi sudah menjadi hal umum di era sekarang ini. Salah satu alat yang digunakan dalam undustri yang terotomatisasi adalah robot manipulator serial. Meskipun demikian dalam prakteknya medesain robot serial 6 derajat kebebasan bukanlah hal yang mudah. Demikian juga dengan mengontrol pergerakannya. Untuk itu dalam studi ini mencoba untuk mendesain sekaligus mengontrol pergerakan dari sebuah robot manipulator serial 6 derajat kebebasan. Desain dilakukan dalam sebuah software desain yang kemudian dilanjutkan dengan pemilihan motor dan gearbox. Selanjutnya adalah melakukan manufaktur dan memilih komponen elektronika yang akan digunakan. Setelah semua ter-assembly selanjutnya adalah melakukan pemrograman untuk mengontrol pergerakan dari robot manipulator serial 6 derajat kebebasan. Setelah berhasil melakukan kontrol gerak maka selanjutnya adalah melakukan pengujian dan didapatkan hasil pengujian persentase error terbesar adalah 37% untuk join position dan 32% untuk end effector position.",
+  "creators": "IVAN CHRISTIAN HERNANDO",
+  "contributors": "Roche Alimin (Advisor 1); Willyanto (Examination Committee 1); Ninuk Jonoadji (Examination Committee 2); Peter Jonathan (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03011389/MES/2021; Ivan Christian Hernando (C12170002)",
+  "subjects": "ROBOTICS-DESIGN AND CONSTRUCTION; ROBOTICS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "48041",
+  "title": "Pembuatan prototipe kebun pintar dengan sensor nirkabel dan sistem pengaturan nutrisi otomatis",
+  "abstract": "Perkembangan teknologi agrikultur menghasilkan metode bercocok tanam yang lebih efisien seperti metode hidroponik. Disertai dengan munculnya konsep Internet of Things, sektor agrikultur mengalami perkebangan yang diketahui sebagai smart farming. Pengembangan teknologi smart farming ini bertujuan untuk mempermudah proses bercocok tanam melalui penerapan konsep smart farming yang mudah digunakan. Sistem di desain dengan memisahkan rangkaian modul sensor dengan modul actuator menjadi 3 modul sensor dan 2 modul aktuator. Sensor yang dipergunakan meliputi sensor cahaya TCS34725, sensor temperatur DS18B20, kelembapan dan temperatur SHT-31 D, sensor tekanan MPX10DP untuk membaca kedalaman air, sensor aliran air YF-S201, sensor pH, dan konduktivitas (EC) larutan. sedangkan sistem kontrol mengatur kadar nutrisi, keasaman serta penjadwalan pencahayaan tanaman. Sistem dibuat menggunakan WeMos D1 mini yang terhubung dengan Blynk IoT dan Metabase sebagai dashboard pada browser. Perangkat sensor dikalibrasi dan diuji dengan perangkat ukur komersial. Prototipe kebun pintar kemudian dijalankan dan hasil pembacaan sensor diamati selama 30 hari. Hasil pembacaan sensor dapat dipantau melalui aplikasi pada smarphone atau melalui browser. Aplikasi menyediakan kemampuan untuk merubah nilai setpoint yang mengatur kosentrasi nutrisi, pH, dan penjadwalan cahaya. Hasil pembacaan sensor selama 30 hari menunjukan error rata – rata pengukuran sensor EC sebesar 77.3% dan sensor ketinggian air MPX10DP sebesar 51.1% sebelum menggunakan persamaan kompensasi kesalahan.",
+  "creators": "LUKITO JAYA SAPUTRA",
+  "contributors": "Resmana Lim (Advisor 1); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1); Indar Sugiarto (Examination Committee 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010994/ELK/2020; Lukito Jaya Saputra (23416003)",
+  "subjects": "INTERNET OF THINGS; WIRELESS SENSOR NETWORKS"
+}

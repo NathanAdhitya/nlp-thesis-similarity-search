@@ -1,0 +1,14 @@
+{
+  "id": "7732",
+  "title": "Audit sistem informasi pengendalian aplikasi sistem pembelian PT. Rejeki Mitra Farma",
+  "abstract": "Perusahaan telah menggunakan sistem informasi berbasis komputer sejak tahun 1995. Dari hasil pengamatan awal Penulis, general control telah memadai. Hal ini dibuktikan dengan terdapatnya keamanan database, terdapat segregation duties dalam IT function dan pusat komputer tidak mudah dimaksukki oleh orang yang tidak berwenang. Penulis menemukan beberapa kelemahan pada pengendalian aplikasi. Oleh karena tersebut, penelitian ini bertujuan untuk mengaudit sistem informasi atas pengendalian aplikasi sistem pembelian PT. Rejeki Mitra Farma. Dalam rangka mengetahui apakah tujuan pengendalian aplikasi atas sistem tersebut tercapai. Hasil dari penelitian diharapkan dapat digunakan sebagai bahan masukkan bagi perusahaan. Jenis penelitian adalah penelitian deskriptif dengan melakukan studi kasus dan menggunakan data kuantitatif. Teknik analisis data dengan mengumpulkan data tentang Bagian Pembelian dengan cara survei, melakukan uji terhadap program komputer yang dijalankan oleh perusahaan dan evaluasi dengan cara membandingkan dengan teori terhadap pengendalian yang diterapkan oleh sistem berdasarkan hasil penelitian, membuat kesimpulan atas penelitian yang telah dilakukan tersebut dan rekomendasi untuk perbaikan. Hasil penelitian menunjukkan bahwa pengendalian aplikasi sistem pembelian pada PT. Rejeki Mitra Farma tidak tercapai. Hal tersebut dibuktikan dengan tidak tecapainya source document control, validation control, data coding control dan input error correction, sedangkan data input method tercapai pada pengedalian input. Pada pengendalian output, report distribution tidak tercapai tercapai, sedangkan waste tercapai. Beberapa rekomendasi diberikan untuk meperbaiki sistem perusahaan.",
+  "creators": "ELIAS ISKANDAR",
+  "contributors": "Sri Maharsi (Advisor 1); Juniarti (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010774/AKT/2007; Elias Iskandar (32404126)",
+  "subjects": "AUDITING-DATA PROCESSING; AUDITING-COMPUTER PROGRAMS"
+}

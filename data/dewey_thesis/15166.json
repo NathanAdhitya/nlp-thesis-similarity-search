@@ -1,0 +1,14 @@
+{
+  "id": "15166",
+  "title": "Program penjadwalan kuliah, test dan responsi",
+  "abstract": "Dengan adanya teknologi yang semakin maju maka komputer mempunyai peranan yang penting terutaraa untuk mengerjakan berbagai hal yang sulit dilakukan oleh manusia. Seperti yang telah diketahui bahwa pada suatu lembaga pendidikan terutama perkuliahan terdapat suatu jadwal kuliah. Jadwal kuliah ini berisi informasi tentang nama matakuliah, hari dan jam kuliahnya. Jadwal kuliah ini dalam penyusunannya memerlukan waktu yang cukup lama. Hal ini dikarenakan adanya berbagai macam syarat dan kriteia-kriteria yang harus dipenuhi dalam penyusunannya. Antara lain jumlah niangan yang terbatas, kesanggupan doscn dalam memberi kuliah pada hari dan jam tertentu, dan larangan bentrok antara matakuliah yang satu dengan lainnya. Jadi data yang akan diinputkan adalah kode matakuliah, jadwal dosen dan ruangan yang tersedia, serta syarat bentrok matakuliah itu sendiri. Dan hasil yang diharapkan adalah suatu jadwal kuliah yang sesuai syarat yang telah ditentukan dan suatu jadwal test yang dibuat dari jadwal kuliah tersebut. Proses penjadwalan ini dimulai dari matakuliah yang menggunakan dosen luarbiasa, kemudian dosen tetap dan yang terakhir asisten. Setelah matakuliah diurutkan, kemudian dicocokkan dengan jadwal dosen dan kuota ruang. Selain itu juga harus melihat syarat lain yaitu bentrok matakuliah. Bila semuanya telah terpenuhi maka matakuliah tersebut dapat dijadwalkan. Untuk proses penjadwalan tersebut maka dibuatlah suatu program penjadwalan. Dengan dibuatnya program tersebut maka dapat dilakukan penjadwalan secara semi-otomatis, meskipun hasil yang dicapai tidak harus 100% tetapi paling tidak sudah cukup membantu dalam melakukan penyusunan yaitu sekitar 85 %. Untuk ujicoba jadwal secara nyata yaitu dengan mengambil data dari teknik informatika sebanyak 47 matakuliah dan mengalami kegagalan 1 matakuliah.",
+  "creators": "HARIYANTO",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/KOM/005/062; Hariyanto (23495018)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

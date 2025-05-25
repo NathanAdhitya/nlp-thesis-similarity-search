@@ -1,0 +1,14 @@
+{
+  "id": "16355",
+  "title": "Penerapan Card PCL 812 sebagai alarm dan data logger",
+  "abstract": "In this final project, Card PCL 812 had been used to monitor the temperature desired. If the temperature is higher than desired the alarm will ring. The Data Logger is a system which can save several measurements. The basic principle of this monitor unit is to set up the desired room temperature by entering via keyboard which compared to the actual room temperature from temperature sensor LM 335. The system got the output signal from LM 335 by the computer, an amplifier LM 308 and ADC HT 574 Z . The HT 574 Z Analog to Digital Converter is a part from PCL 812 Card. After determining the room temperature and the input temperature, the computer will monitor the temperature if higher than the input temperature the buzzer/alarm will ring and LED will light up to show wicb room exceed the maximum input temperature. By the testing here is a fault at the software and ADC HT 574 Z so that the unit can't function.",
+  "creators": "RUDY EKA WIDJAJA R.P.",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); Yohanes Trilaksono Dibyo S. (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/001/395; Rudy Eka Widjaja Rachman Putra (23485092)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; PROGRAMMABLE CONTROLLERS; TEMPERATURE MEASURING INSTRUMENTS; DETECTORS-COMPUTER PROGRAMS"
+}

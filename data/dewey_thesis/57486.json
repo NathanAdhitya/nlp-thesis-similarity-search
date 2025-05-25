@@ -1,0 +1,14 @@
+{
+  "id": "57486",
+  "title": "Rancangan sistem pemetaan posisi lansia yang berada di dalam ruangan",
+  "abstract": "Kalangan lansia yang berumur 65 tahun ke atas cenderung rentan akan cedera yang timbul dari aktivitas yang dilakukan pada lokasi yang tidak aman. Aktivitas yang dilakukan biasanya berupa tidur atau duduk pada lokasi yang kurang tepat ataupun olahraga yang terlalu berat. Tentu kendala tersebut dapat dihindari dengan melakukan aktivitas pada lokasi yang aman. Untuk merealisasikan hal tersebut dibuatlah sebuah sistem pelacakan posisi dalam rumah yang dapat dipantau dengan aplikasi pada gawai. Sistem pemetaan posisi yang dibuat dalam tugas akhir ini memanfaatkan perangkat gawai sebagai alat untuk monitoring posisi dari lansia. Sistem ini memanfaatkan protokol komunikasi MQTT untuk menerima data untuk dilakukannya pemetaan. Berdasarkan hasil pengujian, alat mampu untuk membuat, menampilkan peta dan juga posisi, serta membuat area yang nantinya akan memunculkan notifikasi untuk memberitahu pengguna gawai.",
+  "creators": "PHE NANDO",
+  "contributors": "Petrus Santoso, S.T., M.Sc. (Advisor 1); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010155/ELK/2023; Phe Nando (C11190016)",
+  "subjects": "MOBILE DEVICE FORENSICS; MONITORING"
+}

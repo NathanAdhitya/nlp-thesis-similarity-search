@@ -1,0 +1,14 @@
+{
+  "id": "34411",
+  "title": "Evaluasi spesifikasi produk relay untuk menurunkan reject operating voltage di PT Schneider Electronic Manufacturing Batam",
+  "abstract": "Salah satu produk dari PT Schneider Electric Manufacturing Batam adalah relay Mirror Step 2. Reject terbesar dari produk relay ini adalah reject operating voltage. Operating voltage produk relay ini berhubungan dengan jarak pergerakan armature ke ferrite core dan pergerakan moving terminal ke fixed terminal. Jarak pergerakan tersebut selama ini diukur secara tidak langsung dengan mengukur empat karakteristik pada relay. Karakteristik tersebut adalah flatness, height, length, dan allignment. Permasalahannya adalah reject operating voltage masih terjadi meskipun nilai keempat karakteristik tersebut ada di dalam nilai spesifikasi. Keempat karakteristik tersebut kemudian dianalisa menggunakan metode regresi linier untuk mengetahui ada tidaknya hubungan antara empat karakteristik tersebut dengan operating voltage. Hasil penelitian menunjukan bahwa tidak semua karakteristik memiliki hubungan dengan operating voltage. Reject operating voltage kemudian diturunkan dengan mencari nilai spesifikasi dari karakteristik yang menghasilkan operating voltage yang baik. Metode yang digunakan adalah membagi spesifikasi menjadi tiga kelompok level. Kelompok level tersebut kemudian diuji menggunakan pengujian Wilcoxon untuk mengetahui rentang nilai dengan operating voltage yang baik. Hasilnya adalah memang ada penurunan operating voltage, namun ada jenis reject lain yang meningkat.",
+  "creators": "ANDREAS DWI SUSILO",
+  "contributors": "Debora Anne Yang Aysia (Advisor 1); Herri Christian Palit (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021801/IND/2015; Andreas Dwi Susilo (25411084)",
+  "subjects": "QUALITY OF PRODUCTS-STATISTICAL METHODS; PRODUCTION MANAGEMENT"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "60597",
+  "title": "Sistem informasi pencatatan inventory obat pada tas dan kotak P3K Klinik Pratama Universitas Kristen Petra",
+  "abstract": "Klinik Pratama Universitas Kristen Petra bertanggung jawab dalam menyediakan dan mengelola obat-obatan yang terdapat pada tas dan kotak P3K. Manajemen inventory obat yang efektif sangat penting untuk memastikan ketersediaan obat yang memadai, menghindari kehabisan stok, serta mengurangi pemborosan akibat obat kadaluarsa. Namun, pengelolaan inventory secara manual seringkali menyebabkan ketidakakuratan data dan kesulitan dalam pelacakan stok. Pada skripsi ini dirancang sebuah sistem informasi pencatatan inventory obat yang terkomputerisasi, guna meningkatkan efisiensi dan akurasi dalam pengelolaan obat pada tas dan kotak P3K di Klinik Pratama Universitas Kristen Petra. Sistem ini dirancang untuk menyediakan fitur-fitur seperti pencatatan stok obat, pengelolaan peminjaman tas P3K, serta pemberitahuan otomatis untuk obat yang mendekati kadaluarsa. Metode penelitian yang digunakan meliputi analisis kebutuhan, perancangan sistem, implementasi, dan pengujian. Data dikumpulkan melalui wawancara dengan staff Klinik Pratama serta studi literatur. Sistem informasi ini dibangun menggunakan teknologi web dengan framework Laravel, database PostgreSQL, dan antarmuka pengguna yang responsif. Hasil penelitian menunjukkan bahwa sistem informasi yang dikembangkan dapat membantu pengelolaan inventory obat. Sistem ini mempermudah staff klinik dalam memantau stok obat, mengelola peminjaman tas P3K, serta mengurangi risiko kehabisan obat dan pemborosan akibat kadaluarsa. Pengujian sistem dengan pengguna menunjukkan tingkat kepuasan yang tinggi dalam hal kegunaan sistem. Dengan demikian, sistem informasi pencatatan inventory obat yang dikembangkan dapat menjadi solusi efektif bagi Klinik Pratama Universitas Kristen Petra dalam mengelola inventory obat pada tas dan kotak P3K. Implementasi sistem ini diharapkan dapat meningkatkan kualitas pelayanan kesehatan di klinik tersebut.",
+  "creators": "CHINTYA LAURENTIA IRAWAN",
+  "contributors": "Lily Puspa Dewi, S.T., M.Kom. (Advisor 1); Ivan Widiyanto S.Kom (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1); Liliana (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022582/INF/2024; Chintya Laurentia Irawan (C14200052)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; INVENTORY CONTROL--COMPUTER PROGRAMS; MANAGEMENT INFORMATION SYSTEMS; WEB SITES--DESIGN"
+}

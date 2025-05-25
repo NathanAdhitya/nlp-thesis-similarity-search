@@ -1,0 +1,14 @@
+{
+  "id": "14315",
+  "title": "Integrasi model perencanaan produksi agregat dan perencanaan kebutuhan mesin di PT. Avi",
+  "abstract": "Masalah perencanaan produksi yang khas meliputi fluktuasi demand pada periode yang berbeda. Sepanjang menyangkut perencanaan kapasitas, dua hal penting yang harus dibuat adalah ukuran dari pekerja dan jumlah mesin. Biasanya kedua perencanaan ini dilakukan secara terpisah, sehingga pada perencanaan produksi agregat biasanya diasumsikan bahwa kapasitas mesin cukup besar untuk memenuhi level perencanaan produksi untuk pekerja. Bagaimanapun juga, pada model nyata, jumlah mesin pada setiap periode seharusnya diperlakukan sebagai variabel keputusan dan bukan sebagai batas constraint. Model perencanaan mesin, seperti model perencanaan produksi agregat tidak memperdulikan ketergantungan antara tingkat tenaga kerja dan jumlah mesin, Contohnya, sejumlah kecil mesin disertai dengan sejumlah besar tenaga kerja akan menyebabkan atau berpengaruh pada idle-time. . Dalam tugas akhir ini salah satu model yang akan diaplikasikan untuk masalah perencanaan produksi adalah model integrasi, yang mempehitungkan semua biaya baik yang terkait dengan mesin maupun tenaga kerja. Model ini menghasilkan total biaya tenaga kerja dan mesin untuk sebuah perencanaan produksi yang didasarkan pada rasio tenaga manual dan mesin dalam memproduksi sebuah produk. Model integrasi ini menghasilkan total cost yang terkecil jika dibandingkan dengan model APP dan model kebutuhan mesin yang diterapkan secara terpisah. Total cost dari model APP sebesar Rp. 8, 95402091. 10 ^10 , model kebutuhan mesin menghasilkan total cost sebesarRp. 8,983081905.10 1^10 dan total cost dari model integrasi adalah sebesarRp. 8,936075607.10 ^10 .",
+  "creators": "MIRAH SETIAWATI MASBUDI",
+  "contributors": "Dr. Dra. Gan Shu San, M.Sc. (Advisor 1); Kristiana Asih Damayanti (Advisor 2); Indriati Njoto Bisono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 481/TI-072/2001; Mirah Setiawati Masbudi (25497127)",
+  "subjects": "TIME MEASUREMENT; PRODUCTION PLANNING"
+}

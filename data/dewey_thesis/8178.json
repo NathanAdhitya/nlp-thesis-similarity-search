@@ -1,0 +1,14 @@
+{
+  "id": "8178",
+  "title": "Pembuatan sistem informasi pada toko elektronik yang dapat dipantau melalui SMS",
+  "abstract": "Pemilik toko Top Electronics memerlukan laporan transaksi dan stok barang untuk melakukan pemantauan terhadap kebenaran kejadian transaksi, mengontrol jumlah barang, dan mengevaluasi permintaan pasar. Selama ini proses pembuatan laporan masih dilakukan secara manual sehingga memerlukan waktu yang cukup lama untuk membuatnya. Mobilitas pemilik toko yang tinggi menuntut pemantauan terhadap laporan dilakukan terus menerus. Untuk mengatasi semua tuntutan tersebut dibuatlah sebuah program sistem informasi yang dapat dipantau melalui SMS. Program tersebut dibangun dengan bahasa pemrograman Delphi 7.0 dan memanfaatkan Paradox 7.0 sebagai database-nya. Proses pembuatan program dimulai dengan menganalisa permintaan pemilik toko, membuat desain database, dan desain user interface dari sistem informasi. Setelah semuanya selesai, sistem dihubungkan dengan handphone. Handphone tersebut berfungsi sebagai sarana untuk menyampaikan beberapa informasi penting yang ada di dalam sistem (omzet penjualan, harga netto barang, dan price list barang) kepada pemilik toko melalui SMS. Program yang sudah diimplementasikan ini telah dapat mengotomatisasi pembuatan laporan penjualan, penerimaan barang, transfer barang antar cabang, pengeluaran uang, retur, dan rugi laba penjualan. Menurut hasil kuesioner, laporan yang ditampilkan dalam program dapat dikatakan cukup jelas dan lengkap sehingga kebenaran transaksi dan jumlah barang dapat diperiksa dengan akurat. Keberadaan SMS dalam sistem informasi ini memudahkan pemilik toko memantau data yang terdapat pada sistem dari jarak jauh. Data-data yang dapat dipantau melalui SMS antara lain omzet penjualan, harga netto barang, dan price list barang. Selain itu sistem juga dapat mengirimkan dua macam SMS secara otomatis kepada pemilik toko, yaitu SMS yang berisi informasi tentang omzet penjualan hari ini dan SMS yang berisi peringatan akan adanya barang yang stoknya tinggal sedikit.",
+  "creators": "FREDY KURNIAWAN",
+  "contributors": "Resmana Lim (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Iwan Handoyo Putro, S.T., M.Dig.Comm. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010061/ELK/2007; Fredy Kurniawan (23402115)",
+  "subjects": "PROGRAMMING (ELECTRONIC COMPUTERS); DATABASE MANAGEMENT"
+}

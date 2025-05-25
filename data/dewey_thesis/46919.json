@@ -1,0 +1,14 @@
+{
+  "id": "46919",
+  "title": "Optimasi struktur rangka batang 3 dimensi berbasis reliabilitas dengan menggunakan metode metaheuristik dan latin hypercube sampling",
+  "abstract": "Peningkatan kinerja struktur bangunan adalah tujuan utamanya sehingga dibutuhkan perbaikan dengan mempertimbangkan biaya yang murah dan aman. Perbaikan ini dapat dioptimalkan dengan metode optimasi. Untuk mencari solusi yang optimal, permodelan struktur dapat disimulasikan secara sempurna. Tetapi pada kenyataannya, struktur selalu memiliki penyimpangan karena adanya ketidakpastian dan keacakan yang terjadi di lapangan. Faktor keacakan ini diperhitungkan dengan menggunakan metode Reliabilty-Based Design Optimization (RBDO) sehingga faktor reliabilitas suatu struktur diperhitungkan. Metode ini mensimulasikan sejumlah sampel acak dengan menggunakan metode Latin Hypercube Sampling. Fungsi objektif dari algoritma metaheuristik adalah untuk meminimalkan massa total struktur rangka batang baja terhadap constraints statis dan dinamis serta random variables yang dipakai seperti load (P), tegangan leleh material (σy) dari penampang rangka batang dengan memperhitungkan Probability of Success 99.8653%. Algoritma yang digunakan pada studi ini adalah: Particle Swarm Optimization dan Symbiotic Organisms Search. Algoritma-algoritma tersebut diuji pada studi kasus 25-bar truss serta pada batasan sesuai SNI 1729:2015. Performa dari algoritma tersebut diukur dari lima kriteria massa dan satu kriteria run time. Lima kriteria massa yang digunakan adalah massa terbaik, terburuk, rata-rata, standar deviasi, dan median dari struktur rangka batang tersebut. Hasil penelitian menunjukkan SOS memiliki performa lebih baik pada studi kasus 25-bar truss dan pada batasan sesuai SNI.",
+  "creators": "DION NATHANAEL WIDJAJANTO; RIVALDI GIANTARA",
+  "contributors": "Doddy Prayogo S.T. (Advisor 1); Ir. Soehendro Ratnawidjaja, M.Eng. (Examination Committee 1); Joko Purnomo S.T., M.Sc. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012376/SIP/2020; Dion Nathanael Widjajanto (21416066), Rivaldi Giantara (21416138)",
+  "subjects": "BUILDING, IRON AND STEEL; STEEL, STRUCTURAL"
+}

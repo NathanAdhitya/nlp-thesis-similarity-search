@@ -1,0 +1,14 @@
+{
+  "id": "3436",
+  "title": "Perancangan aplikasi penjawab pertanyaan dalam Bahasa Inggris berdasarkan artikel menggunakan metode pengolahan bahasa alami",
+  "abstract": "Aplikasi Penjawab Pertanyaan ini diharapkan dapat mempermudah proses pencarian informasi ditinjau dari sisi user. Seorang user tidak perlu membaca keseluruhan isi artikel hanya untuk memperoleh informasi mengenai sebagian dari isi artikel. Secara garis besar, aplikasi ini bertujuan untuk menghasilkan jawaban secara singkat dan akurat atas pertanyaan user. Pemrosesan dimulai saat seorang user meng-input-kan artikel berbahasa Inggris ke dalam aplikasi. Aplikasi akan menganalisa isi artikel dalam beberapa tahap, yakni: tahap Analisa Leksikal, Analisa Sintaksis dan Analisa Semantik. Tahap Analisa Leksikal akan melakukan pengecekan terhadap tiap kata dalam artikel. Berikutnya, tahap Analisa Sintaksis akan melakukan pengecekan terhadap struktur bahasa tiap kalimat dan melakukan partisi kalimat berdasarkan kedudukan kata/frase dalam kalimat tersebut. Kemudian, tahap Analisa Semantik akan menyusun daftar pertanyaan-jawaban. Daftar tersebut mencakup setiap alternatif pertanyaan-jawaban pada artikel yang bersangkutan. Pada saat user meng-input-kan pertanyaan, aplikasi akan mencari pertanyaan user di dalam daftar dan mengembalikan jawaban atas pertanyaan tersebut pada user. Aplikasi ini dibuat menggunakan bahasa pemrograman Borland Delphi 7 dan Microsoft Office Access 2003.",
+  "creators": "SYLVIA NUGRAHA",
+  "contributors": "Rolly Intan (Advisor 1); Resmana Lim (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01000530/INF/2006; Sylvia Nugraha (26402094)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

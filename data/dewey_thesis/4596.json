@@ -1,0 +1,14 @@
+{
+  "id": "4596",
+  "title": "Simulasi sistem pengaturan dan monitoring pintu air melalui internet",
+  "abstract": "Sistem pengaturan dan monitoring yang terdapat pada sistem kendali konvensional masih belum efisien, dimana bergantung pada pengamatan manusia yang berada di sekitar pintu air. Pada sistem kendali modern, proses pengaturan dan monitoring dapat dilakukan dari jarak jauh melalui internet. Tugas akhir ini adalah salah satu contoh sistem kendali modern. Tugas akhir ini dibuat dengan tujuan untuk membuat simulasi sistem pengaturan dan monitoring pintu air melalui internet yang dapat melakukan proses monitoring, data acquisition, dan controlling. Proses dikendalikan menggunakan Microcontroller AVR ATMega 16 yang terhubung dengan komputer server melalui kabel serial. Hasil pengujian menunjukkan bahwa simulasi sistem ini sudah dapat berjalan dengan baik beserta dengan fitur-fiturnya yaitu monitoring, data acquisition, dan controlling pintu air. Dengan waktu respon 20 mS dari web client ke server. Sedangkan kecepatan pergerakan pintu air sangat bergantung pada konstruksi gear box dan motor yang dipakai.",
+  "creators": "NINO",
+  "contributors": "Lauw Lim Un Tung (Advisor 1); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 03010049/ELK/2006; Nino (23402089)",
+  "subjects": "INTERNET (COMPUTER NETWORK); ELECTRONIC CONTROL; MICROCONTROLLERS"
+}

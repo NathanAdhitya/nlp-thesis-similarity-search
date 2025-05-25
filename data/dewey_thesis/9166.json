@@ -1,0 +1,14 @@
+{
+  "id": "9166",
+  "title": "Perancangan dan pembuatan aplikasi penilaian kinerja perusahaan dengan metode balanced scorecard di PT Masayu",
+  "abstract": "Balanced Scorecard adalah alat manajemen strategis untuk pengukuran pencapaian kinerja suatu organisasi. PT MASAYU, salah satu perusahaan persewaan alat-alat berat, menggunakan Balanced Scorecard sebagai alat ukur kinerja. Penggunaan balanced scorecard membuat PT MASAYU mampu mengimplementasikan strategi yang lebih baik. Untuk mempermudah dan mempercepat implementasi balanced scorecard, PT MASAYU membutuhkan aplikasi penyusunan balanced scorecard yang cukup fleksibel. Aplikasi balanced scorecard pada PT MASAYU dirancang untuk bisa dipergunakan secara fleksibel. Fitur fleksibilitas yang dimaksud adalah: aplikasi dapat menyesuaikan diri dengan strategi yang dirancang pada balanced scorecard. Selain itu, aplikasi juga dirancang untuk bisa diakses bersama-sama dan bisa diperluas jangkauan penggunanya. Karena itu, aplikasi dibuat dengan SQL Server sebagai Server basis datanya. Untuk pengkodeannya, aplikasi akan dibangun dengan Borland Delphi 7. Aplikasi balanced scorecard mampu menerima input data harian dan memprosesnya menjadi laporan kinerja balanced scorecard. Selain itu, aplikasi menyediakan utilisasi untuk memasukkan data spesifik dari PT MASAYU, misalnya data performance appraisal. Aplikasi akan mengubah data spesifik tersebut menjadi data generik. Laporan yang disediakan terdiri atas laporan detail, laporan perbandingan, dan grafik.",
+  "creators": "IVONNE OLIVIA",
+  "contributors": "SYLVIA ROSIANA PRASETYO (Advisor 1); Andreas Handojo (Advisor 2); JOKO LIANTO B.,DR.,Ir.,M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000482/INF/2006; Ivonne Olivia (26402003)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

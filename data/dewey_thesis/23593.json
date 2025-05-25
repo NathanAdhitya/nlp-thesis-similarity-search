@@ -1,0 +1,14 @@
+{
+  "id": "23593",
+  "title": "Penggunaan mikrokontroller MCS-51 sebagai pembatas tegangan jala-jala pada PABX",
+  "abstract": "Dalam bidang industri atau bisnis saat ini banyak sekali digunakan peralatan-peralatan elektronik yang sangat sensitif terhadap perubahan tegangan jala - jala PLN, terutama peralatan yang terdiri dari rangkaian terpadu atau IC misalnya prosessor. Di negara ki ta sering sekali terjadi gangguan pada tegangan jala - jala PLN misalnya perubahan naik turunnya tegangan, dan hal ini dapat mengganggu untuk kerja peralatan elektronik, sebagai contoh pada peralatan PAM. Pada tugas akhir ini dibuat suatu alat pembatas tegangan jala - jala sampai dengan tegangan 220 volt , dengan batasan turun atau naiknya tegangan tidak lebih besar dari 10% dan menggunakan mikrokontroler MCS5I karena mempunyai fasilitas RAM, I/O port , sehingga kita tidak perlu lagi menambahkan RAM dan terutama I/O port yang dalam hal ini sangat banyak diperlukan. Pada alat pembatas tegangan ini , tegangan jala - jala diturunkan dengan menggunakan trafo kemudian disearahkan dan di inputkan ke ADC (Analog to Digital Conver ter ) untuk dibandingkan dengan tegangan offset yang selanjutnya dikontrol oleh mikrokontroler, bila tidak memenuhi batas toleransi maka relay akan memutuskan catudaya tersebut . Untuk mengetahui besarnya tegangan offset misalnya 110 atau 220 volt digunakan display 7-segmen sebanyak 3 digit .",
+  "creators": "LOENIKA HARIJANTO",
+  "contributors": "AGUS MULYANTO (Advisor 1); HANDAYANI T. (Examination Committee 1); DWI SUTANTO (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/015/0105; Loenika Harijanto (484043)",
+  "subjects": "MICROCONTROLLER MSC-51; MICROCONTROLLERS"
+}

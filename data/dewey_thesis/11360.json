@@ -1,0 +1,14 @@
+{
+  "id": "11360",
+  "title": "Aplikasi kompresi sms dengan menggunakan metode arithmetic coding pada mobile phone berbasis java",
+  "abstract": "Aplikasi ArithmeticSMS merupakan aplikasi yang bertujuan untuk mengkompresi teks pada SMS agar dapat meningkatkan jumlah karakter untuk setiap kali pengiriman pesan yang dikirimkan melalui jaringan GSM, sehingga diharapkan mampu menghemat biaya yang dikeluarkan. Perancangan aplikasi ini dilatarbelakangi oleh permasalahan keterbatasan SMS, yaitu informasi teks yang dapat dikirimkan setiap 1 kali SMS maksimal hanya 160 karakter. Jika pengirim kelebihan beberapa karakter atau bahkan kelebihan hanya satu karakter saja, maka biaya yang harus dibayarkan menjadi 2 kali lipat. Aplikasi ArithmeticSMS ini merupakan aplikasi SMS yang berdiri sendiri dan tidak terintegrasi dengan aplikasi SMS bawaan pada Mobile Phone. Aplikasi ini dapat diimplementasikan pada Mobile Phone berbasis java yang mendukung MIDP 2.0 dan CLDC 1.1. Pengujian aplikasi ArithmeticSMS ini membuktikan pengguna dapat mengirimkan pesan hingga 10% lebih banyak dari batas maksimal untuk pengiriman 1 kali sms biasa. Penggunaan jenis huruf sangat berpengaruh pada tingkat keberhasilan dekompresi pesan. Penggunaan huruf-huruf yang memiliki nilai probabilitas besar seperti huruf-huruf non kapital memiliki tingkat kesempurnaan hasil dekompresi yang lebih baik dibandingkan dengan huruf-huruf dengan nilai probabilitas yang kecil. Aplikasi ini dapat menambah masing-masing 16 karakter pada batas 1 kali SMS biasa, 22 karakter pada batas 2 kali SMS biasa dan 38 karakter pada batas 3 kali SMS biasa.",
+  "creators": "MAYA BASOEKI",
+  "contributors": "Iwan Handoyo Putro, S.T., M.Dig.Comm. (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Iwan Njoto Sandjaja, S.T., MSCS. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.03010082/ELK/2008; Maya Basoeki (23404047)",
+  "subjects": "WIRELESS INTERNET; CELLULAR TELEPHONES; WIRELESS COMMUNICATION SYSTEMS; MOBILE COMMUNICATION SYSTEMS"
+}

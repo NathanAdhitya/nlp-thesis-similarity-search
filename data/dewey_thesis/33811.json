@@ -1,0 +1,14 @@
+{
+  "id": "33811",
+  "title": "Pembuatan mekanisme strategi perang pada Game Majapahit Conquest",
+  "abstract": "Pelajaran sejarah merupakan salah satu pelajaran yang dapat membantu siswa sekolah mempelajari nasionalisme dan patriotisme. Namun pada kenyataannya, pelajaran ini dihindari siswa karena materi yang rumit dan banyak yang harus dihafalkan serta visualisasi dan media pendukung yang kurang. Untuk mengatasi hal tersebut, skripsi ini akan membuat media pendukung yang dapat menarik minat untuk mempelajari sejarah Indonesia dalam bentuk game. Game yang dibuat mengambil tema pengembangan Majapahit dalam menguasai nusantara. Dalam pembuatan game, terdapat tiga event yang dibuat untuk menunjukkan visualisasi strategi perang pada zaman tersebut, yaitu Pemberontakan Ra Kuti, Ekspedisi Bali, dan Perang Bubat. AI yang akan dibuat dalam game ini menggunakan dua metode yaitu Fuzzy State Machine dan Minimax. Minimax digunakan untuk mengambil pola pergerakan terbaik dari pasukan musuh dan Fuzzy State Machine digunakan untuk memilih perintah terbaik yang akan dijalankan oleh tiap pasukan. Game ini akan dibuat menggunakan Unity Engine dan scripting menggunakan bahasa C# dengan MonoDevelop sebagai IDE. Dari hasil pengujian, kinerja AI secara keseluruhan dipengaruhi oleh inputan yang diperlukan oleh Fuzzy dan roots yang dibuat oleh Minimax. Semakin banyak roots yang dibuat oleh Minimax akan memperbanyak waktu yang diperlukan oleh AI untuk memilih command sehingga diperlukan depth yang adaptif terhadap roots sehingga waktu yang diperlukan menjadi ideal untuk dimainkan.",
+  "creators": "JIMMY MULIAWAN",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Liliana (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021375/INF/2015; Jimmy Muliawan (26411044)",
+  "subjects": "COMPUTER GAMES-PROGRAMMING; WAR GAMES; COMPUTER GAMES"
+}

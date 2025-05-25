@@ -1,0 +1,14 @@
+{
+  "id": "21240",
+  "title": "Penjadwalan produksi komponen produk paddy husker tipe head HC 6 BV di PT. Agrindo",
+  "abstract": "PT. AGRINDO adalah salah satu industri yang memproduksi mesin-mesin pertanian. Dan salah satu produk perusahaan ini yang menjadi fokus pengamatan adalah produk paddy husker tipe Head HC 6 BV. Karena produk ini merupakan produk baru, maka selama ini belum pernah diterapkan suatu metode penjadwalan untuk mengoptimalkan proses produksi dari produk tersebut. Penjadwalan produksi yang dilakukan didalam tugas akhir ini, dimaksudkan untuk memberikan usulan metode-metode penjadwalan pada perusahaan, supaya dapat mengoptimalkan penggunaan mesin-mesin di lantai produksi. Adapun metode-metode usulan yang diperbandimgkan antara lain: metode Shifting Bottleneck Heuristic, Algoritma Omega, metode Most Work Remaining ( MWKR ), metode Most Operations Remaining ( MOPNR ), dan metode Disjunctive Programming dengan aplikasi program AMPL. Kemudian dilakukan analisa dari kelima metode yang diperbandingkan tersebut dengan tujuan meminimumkan makespan, agar diperoleh metode penjadwalan yang tepat bagi perusahaan dalam memproduksi komponen produk paddy husker tipe Head HC 6 BV ini. Dari analisa data yang telah dilakukan, diperoleh hasil bahwa kelima metode yang telah diperbandingkan tersebut mempunyai makespan yang sama. Selain itu juga didapatkan jadwal yang optimal dalam memproduksi komponen paddy husker tipe Head HC 6 BV ini. Oleh karenanya dapat disimpulkan bahwa kelima metode tersebut dapat digunakan oleh perusahaan dalam menjadwalkan proses produksi dari produk ini, tetapi metode yang diusulkan untuk digunakan oleh perusahaan adalah metode Disjunctive Programming dengan aplikasi program AMPL, karena metode ini melakukan pendekatan dengan model matematis yang umum ( general) untuk semua permasalahan job shop, tentunya dengan penambahan kendala-kendala yang ada pada setiap permasalahan. Selain itu hasil yang diperoleh dari metode ini adalah hasil yang optimum secara kesuruhan ( optimal global) dan bukan optimum parsial ( optimal local).",
+  "creators": "MARTIN MARIUS JULIANTO",
+  "contributors": "Maja Indahwati (Examination Committee 1); Tessa Vanina Soetanto (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 335/TI-62/2000; Martin Marius Julianto (25496080)",
+  "subjects": "PRODUCTION SCHEDULING; PRODUCTION PLANNING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "49106",
+  "title": "Metode modified partial capacity design (M-PCD)",
+  "abstract": "Partial Capacity Design (PCD) dikembangkan untuk dapat mencapai partial side sway mechanism dengan menggunakan faktor magnifikasi. Metode PCD yang sedang dikembangkan masih kurang efektif untuk mencapai partial side sway mechanism. Sebuah metode modifikasi PCD diusulkan dengan menggunakan dua model struktur dalam proses desain. Model pertama balok dan kolom plastis didesain dengan beban gempa nominal. Model kedua model dimodifikasi untuk memodelkan sendi plastis dan diberikan beban gempa target dan digunakan untuk mendesain kolom elastis. Metode ini diterapkan pada bangunan beraturan 6 dan 10 lantai menggunakan beban gempa sesuai SNI 1726:2012 dengan klasifikasi situs tanah SE kota Surabaya. Analisa mengunakan non-linear static procedure (NSP) atau pushover dan non-linear dynamic procedure (NDP) atau analisa riwayat waktu. Performa bangunan diuji pada level gempa desain, EDRS dan gempa maksimum, MCER. Hasil simpangan antar lantai memenuhi persyaratan FEMA 273. Namun, pada mekanisme keruntuhan partial side sway mechanism masih belum tercapai pada analisa NDP gempa maksimum, MCER.",
+  "creators": "Levin Sergio Tanaya",
+  "contributors": "Pamuda Pudjisuryadi (Advisor 1); Jimmy Chandra (Examination Committee 1); Benjamin Lumantarna (Examination Committee 2); Effendy Tanojo (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Graduate Thesis",
+  "sub_category": "Tesis/Theses",
+  "source": "Tesis No. 01000291/MTS/2020; Levin Sergio Tanaya (B21170013)",
+  "subjects": "REINFORCED CONCRETE CONSTRUCTION; REINFORCED CONCRETE CONSTRUCTION--EARTHQUAKE EFFECTS"
+}

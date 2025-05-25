@@ -1,0 +1,14 @@
+{
+  "id": "53679",
+  "title": "Perancangan sistem monitor dan kontrol proses vacuum pressure swing adsorption pada oxygen concentrator tiga bed",
+  "abstract": "Dalam dunia kedokteran, oksigen murni banyak dibutuhkan untuk mengobati berbagai penyakit pernafasan. Penyakit pernafasan tersebut meliputi asma akut, penyakit paru obstruktif kronik (PPOK), kanker paru, virus covid-19, dan lain sebagainya. Oxygen concentrator merupakan salah satu alat dalam dunia medis yang digunakan untuk memenuhi kebutuhan oksigen bagi para pasien. Vacuum pressure swing adsorbtion (VPSA) merupakan salah satu siklus penyaringan oksigen yang mampu menghasilkan kemurnian oksigen yang tinggi dan digunakan untuk alat konsentrator oksgien. Alat konsentrator oksigen ini memerlukan sistem monitor dan kontrol untuk mengoperasikan siklus VPSA. Sistem kontrol untuk konsentrator oksigen diperlukan untuk menjalankan alat dan untuk mendapatkan kemurnian oksigen tertentu. Untuk itu, dirancang sistem kontrol untuk konsentrator oksigen menggunakan PLC. Parameter-parameter yang dikontrol merupakan tekanan adsorpsi, waktu berlangsungnya setiap proses dalam satu siklus, dan tekanan vakum untuk regenerasi bed zeolite. Untuk sistem kontrol siklus, digunakan solenoid valve sebagai aktuator dan timer sebagai penggerak aktuator. Kemudian untuk tekanan adsorpsi, diatur menggunakan pressure switch dimana tekanan bed zeolite dibatasi agar tekanan adsorpsi tidak lebih dari tekanan setting pada bed zeolite. Kemudian seluruh proses sistem kontrol siklus VPSA dapat dimonitor pada layar komputer dengan bantuan software ISPsoft. Hasil percobaan menunjukkan bahwa semakin tinggi tekanan pada bed zeolite, semakin tinggi konsentrasi oksigen yang dihasilkan. Tekanan 2 bar menghasilkan kemurnian hingga 57% sedangkan tekanan 4.5 bar menghasilkan 89%. Waktu blowdown 20 detik menghasilkan kemurnian hingga 99% dan menurun hingga 84% pada blowdown 60 detik. Disisi lain, tekanan vakum tidak berpengaruh secara signifikan pada kemurnian oksigen.",
+  "creators": "WILLIAM ODHIWIRA",
+  "contributors": "Roche Alimin (Advisor 1); Amelia (Advisor 2); Sutrisno S.T.,M.T. (Examination Committee 1); Ninuk Jonoadji (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03011444/MES/2022; William Odhiwira (C12180062)",
+  "subjects": "MEDICAL INSTRUMENTS AND APPARATUS; OXYGEN; PROGRAMMABLE LOGIC CONTROLLER"
+}

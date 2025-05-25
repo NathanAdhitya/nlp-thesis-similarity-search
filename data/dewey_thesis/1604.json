@@ -1,0 +1,14 @@
+{
+  "id": "1604",
+  "title": "Perbandingan acceptance sampling methods dengan studi kasus di PT United Waru Biscuit Manufactory",
+  "abstract": "Acceptance Sampling Methods (ASM) memainkan peranan penting dalam desain spesifikasi Quality Assurance (QA). Tujuan dari penelitian ini adalah memperoleh metode Acceptance Sampling yang paling tepat dan sesuai dengan studi kasus di PT. United Waru Biscuit Manufactory. Penelitian ini difokuskan terhadap penerimaan sampling salah satu produk yang dihasilkan oleh P.T. United Waru Biscuit Manufactory yaitu biscuit Square Puff. Penerimaan sampling biscuit ditinjau dari segi kadar air dengan spesifikasi upper limit sebesar 5% artinya, kadar air biscuit tidak boleh lebih dari 5%. ASM yang dikembangkan oleh Chang dan Shie ini, menghadirkan 4 metode penerimaan sampling, yaitu Variable-Single-Sampling (VSS) Method, Quality-Index-Sampling (QIS) Method, Attribute-Double-Sampling (ADS) Method, Atribule-Proportion-Sampling (APS) Method. Setiap metode ASM berakhir pada suatu keputusan ditolak atau diterimanya suatu lot. VSS-method merupakan metode penerimaan sampling yang sesuai untuk diterapkan di perusahaan dengan jumlah ukuran sampling terkecil dan tingkat accuracy tertinggi pada level kualitas yang sama dengan ASM lainnya. Pengujian kadar air dengan VSS-method membutuhkan waktu terpendek dibandingkan dengan QIS, ADS, dan APS-methods. Biaya untuk menerapkan VSS-method paling rendah dibandingkan dengan tiga ASM lainnya. Simulasi VSS-method dengan program S-Plus dilakukan untuk memperoleh ukuran sampel dan rata-rata biaya penerimaan sampling terendah dengan 36 kombinasi resiko AQL-a dan RQT-? Kombinasi a=10%, ?=10%, AQL=15% dan RQL=40% menghasilkan ukuran sampel sebesar 13 dengan biaya penerimaan sampling terendah, Rp. 21.100 per lot.",
+  "creators": "SOFIA LINAWATY",
+  "contributors": "Jani Rahardjo (Advisor 1); BENIDICTUS JOBEANTO (Advisor 2); Julianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 585 / Tl - 066 / 2002; Sofia Linawaty (25498135)",
+  "subjects": "QUALITY CONTROL-STATISTICAL METHODS"
+}

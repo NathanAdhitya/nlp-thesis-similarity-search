@@ -1,0 +1,14 @@
+{
+  "id": "10358",
+  "title": "Pembuatan aplikasi steganography pada file audio wave dengan metode parity coding dan enkripsi rijndael",
+  "abstract": "Perkembangan dunia teknologi saat ini sangat penting dalam pertukaran informasi yang cepat dan akurat, maka banyak orang yang memakai fasilitas internet untuk melakukan proses pertukaran informasi sehingga keamanan data sangat penting. Steganography dan cryptography merupakan teknik pengamanan data yang mengolah data agar tidak dapat diketahui oleh yang tidak berwenang untuk membuka data. Cryptography merupakan teknik pengacakan data, sedangkan steganography merupakan teknik penyembunyian data. WAVE merupakan salah satu jenis media audio yang dapat dipakai dalam menyembunyikan data. Pada Tugas Akhir ini, dibuat aplikasi steganography yang menggunakan metode Parity Coding dan menggunakan cryptography untuk mengacak data dengan menggunakan metode rijndael encryption. Pembuatan aplikasi menggunakan Borland Delphi 7, yang memudahkan dalam mengatur tampilan interface serta mengakses dan mengubah file. Aplikasi ini diuji dengan menyembunyikan berbagai macam tipe data, dan mengeluarkan data yang disembunyikan. Hasil pengujian menunjukkan perubahan spectrum terjadi cukup besar pada jenis audio WAVE 8 bit sehingga menimbulkan noise suara pada audio, namun data berhasil disembunyikan dan dikeluarkan sedangkan perubahan yang terjadi pada WAVE 16 bit tidak menimbulkan noise sehingga cocok untuk menyembunyikan data.",
+  "creators": "DENNY TIRTO ADI SURYO",
+  "contributors": "Gregorius Satiabudhi (Advisor 1); Resmana Lim (Advisor 2); BUDI BAMBANG (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010720/INF/2008; Denny Tirtoadi Surya (26403018)",
+  "subjects": "DATA ENCRYPTION (COMPUTER SCIENCE); CRYPTOGRAPHY-COMPUTER PROGRAM"
+}

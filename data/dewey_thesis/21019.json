@@ -1,0 +1,14 @@
+{
+  "id": "21019",
+  "title": "Studi banding algoritma polygon clipping Sutherland Hodgeman, Weiler Artherton dan Gunther Greiner-Kai Hormann",
+  "abstract": "Tugas akhir ini akan membahas tiga jenis algoritma kliping poligon, yaitu algoritma Sutherland Hodgeman, Weiler Atherton dan G .Greiner & K. Hormann. Masing-masing algoritma akan diuji keandalannya dalam hal kecepatan dan keberhasilan dalam menampilkan hasil yang benar. Sebagai algoritma pembanding akan digunakan algoritma Sutherland Hodgeman karena Weiler Atherton merupakan pengembangan dari algoritma Sutherland Hodgeman, sedangkan algoritma G. Greiner & K. Hormann merupakan algoritma terbaru yang menggunakan pendekatan yang berbeda dalam menghasilkan output. Hasil pengujian menunjukkan bahwa algoritma tercepat adalah algoritma Sutherland Hodgeman, diikuti oleh algoritma Weiler Atherton, baru kemudian algoritma G. Greiner & K. Hormann. Pada kasus di mana algoritma Sutherland Hodgeman tidak dapat digunakan, algoritma Weiler Atherton lebih baik dari algoritma G. Greiner & K. Hormann jika digunakan pada subyek poligon dengan jumlah titik yang banyak, karena semakin banyak titik yang diuji oleh algoritma G. Greiner & K. Hormann semakin besar pula peluang terjadinya kesalahan penghitungan.",
+  "creators": "EBENHAEZAR TAMA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01/E/KOM/005/081; Ebenhaezar Tama (23496124)",
+  "subjects": "ALGORITHMS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

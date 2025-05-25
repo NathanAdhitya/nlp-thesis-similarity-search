@@ -1,0 +1,14 @@
+{
+  "id": "43235",
+  "title": "Multi-objective optimization untuk container scheduling menggunakan algoritma Ɛ-NSGA-II",
+  "abstract": "Teknologi containerization sebagai implementasi virtualisasi di level OS meraih popularitas di beberapa tahun terakhir untuk menggantikan beberapa peranan virtual machine. Dalam implementasinya, seringkali dibutuhkan sejumlah container untuk menjalankan sebuah peran, sehingga diperlukan sistem orkestrasi untuk proses scheduling dan management container. Namun container scheduler yang tersedia pada sistem orkestrasi seperti Kubernetes umumnya hanya berfokus pada ketersediaan system resource dan general threshold. Padahal optimasi dalam hal efisiensi cluster sambil mempertahankan performa cluster tentulah penting untuk diimplementasikan sehingga dapat meminimalkan biaya operasional. Optimasi pada container scheduler dilakukan secara multi-objektif dengan fokus pada efisiensi cluster dan throughput aplikasi yang di-schedule. Optimasi dilakukan dengan memanipulasi jumlah replika container yang menyala dan alokasinya di dalam cluster berdasarkan jumlah request yang diterima aplikasi. Proses optimasi dilakukan dengan menggunakan algoritma Epsilon-Dominance Non-Dominated Sorting Genetic Algorithm II (Ɛ-NSGA-II). Hasil pengujian dalam cluster berisi 5 node menunjukkan bahwa proses optimasi scheduling dapat menghasilkan keputusan alokasi container yang optimal dan sesuai target yang ditentukan user. Proses algoritma Ɛ-NSGA-II untuk menghasilkan alokasi tersebut juga dapat selesai dalam rentang waktu yang pendek.",
+  "creators": "EKA WIJAYA SUSILO",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Rolly Intan (Advisor 2); Kartika Gunadi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021848/INF/2019; Eka Wijaya Susilo (26415059)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; GENETIC ALGORITHMS"
+}

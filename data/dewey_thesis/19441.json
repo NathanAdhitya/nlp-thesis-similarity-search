@@ -1,0 +1,14 @@
+{
+  "id": "19441",
+  "title": "Perancangan dan pembuatan aplikasi agenda pada facebook yang terintegrasi dengan blackberry",
+  "abstract": "Para pengguna handset BlackBerry terkadang ingin memberitahukan sekaligus mempromosikan Event yang telah dibuatnya dari BlackBerry kepada teman-teman Facebook-nya. Pengguna juga menginginkan suatu aplikasi Facebook yang memanfaatkan kelebihan dari fitur Event yang dimiliki oleh Facebook dan mengintegrasikannya dengan Event dalam BlackBerry. Aplikasi mobile untuk BlackBerry dibuat dengan BlackBerry Java Development Environment (JDE), sedangkan aplikasi Agenda dibuat dalam Facebook Platform dengan menggunakan PHP dan Client Library dari Facebook. Penyimpanan data Event memakai MySQL Database. Pengujian aplikasi dilakukan dengan cara menguji semua fitur yang ada apakah telah sesuai dengan tujuan yang ingin dicapai. Berdasarkan hasil pengujian, dapat disimpulkan bahwa aplikasi dapat mengintegrasikan Event dalam BlackBerry dengan fitur-fitur Event yang dimiliki oleh Facebook, seperti Create Event, Edit Event, Invite, Cancel Event, Share / Publish dan melakukan sinkronisasi Event. Aplikasi agenda juga menangani dua tipe PIM (Personal Information Manager) yang lain dalam BlackBerry, yaitu To Do List dan Contact.",
+  "creators": "DENY HENDRATA",
+  "contributors": "Ibnu Gunawan (Advisor 1); Yulia (Advisor 2); Iwan Njoto Sandjaja, S.T., MSCS. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020888/INF/2010; Deny Hendrata (26406140)",
+  "subjects": "FACEBOOK; MYSQL (COMPUTER PROGRAM); WEBSITES-DESIGN"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "16802",
+  "title": "Prediksi jumlah kendaraan bermotor berdasarkan tingkat kebisingan lalu lintas dengan menggunakan metode logika fuzzy pada mikroprosesor intel 8088",
+  "abstract": "Dalam berbagai perhitungan prediksi jumlah kendaraan berdasarkan noise yang selama ini dilakukan, banyak digunakan rumus-rumus perhitungan yang rumit dan variabel-variabel yang sulit diukur, dalam pengukurannya juga harus menggunakan peraiatan-peralatan yang memenuhi standart pengukuran yang relatif mahal, dan dalam pengukurannya harus dipenuhi standar-standar jalan yang dapat diukur. Hal ini tentu akan mempersulit dalam melakukan pengukuran. Sehingga pada tugas akhir ini, diterapkan pemprediksi jumlah kendaraan berdasarkan noise dengan menggunakan metode logika fuzzy yang ditentukan oleh tiga crisp input yang telah ditentukan, yaitu lebar jalan, faktor peredaman dan intensitas kebisingan untuk menghasilkan crisp output berupa prediksi jumlah kendaraan per satuan waktu yaitu per menit. Adapun metode fuzzy yang digunakan adalah metode fuzzy Inference, yang relatif mudah untuk digunakan dibanding dengan metode-metode lainnya, karena metode tersebut dapat mengolah inputan berupa crisp input menjadi crisp output, dengan melalui rules yang dibuat menurut pengalaman atau pengetahuan seseorang. Disini peralatan yang dibuat merupakan peralatan yang bersifat artificial intelligence, setelah variabel-variabel inputnya dimasukkan dan dilakukan pengesetan. Pengujian yang dilakukan adalah dengan membandingkan hasii perhitungan jumlah kendaraan sebenamya, perhitungan manusia berdasarkan telinga, dan hasil prediksi peralatan yang dibuat. Dari perbandingan diatas ternyata diperoleh error yang relatif kecil antara hasil prediksi peralatan dan perhitungan manusia. Dengan rata-rata yaitu 4,169% untuk error antara jumlah kendaraan sebenamya dan perhitungan manusia berdasarkan telinga, dan 6,880% untuk error antara jumlah kendaraan sebenamya dan hasil prediksi dengan peraJatan.",
+  "creators": "R.JUSAK AGUS KUNTJORO S",
+  "contributors": "Resmana Lim (Advisor 1); Thiang (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/EL/015/409; R. Jusak Agus Kuntjoro (23494024)",
+  "subjects": "FUZZY LOGIC; INTEL 8088(MICROPROCESSOR)"
+}

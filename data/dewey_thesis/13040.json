@@ -1,0 +1,14 @@
+{
+  "id": "13040",
+  "title": "Perancangan dan pembuatan sistem informasi job career dengan kemampuan kolaborasi pertukaran data antar situs berbasis web di pusat karir Universitas Kristen Petra",
+  "abstract": "Pada saat ini, Pusat Karir Universitas Kristen Petra (UKP) telah memakai sistem untuk pengiriman semua info lowongan yang didapat per hari ke seluruh email anggota yang aktif. Untuk informasi jobseeker maupun employer hanya terbatas bagi yang mendaftar di pusat karir UKP. Untuk meningkatkan layanan di pusat karir, maka dilakukan kerjasama dengan pusat karir lainnya dengan sistem harvesting. Dengan sistem ini, antar pusat karir bisa saling berkolaborasi dalam pertukaran data jobseeker dan employer. Untuk saling bertukar data antar situs, digunakan Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH) yang didukung dengan skema XML jobseeker dan employer. Dalam pembuatan aplikasi ini, dibuat pengiriman email informasi pekerjaan bagi jobseeker dan pencari kerja bagi employer secara otomatis ke masing-masing member. Data yang dikirimkan adalah data yang sudah direkomendasikan oleh sistem. Periode pengiriman email dilakukan sesuai permintaan dari jobseeker maupun employer. Selain itu juga ada pengajuan permintaan resume kepada jobseeker oleh employer. Dengan adanya fasilitas-fasilitas ini diharapkan dapat mempermudah jobseeker maupun employer untuk mencari pekerjaan maupun pekerja yang sesuai. Dari hasil implementasi, ujicoba serta kuisioner dapat disimpulkan bahwa aplikasi sudah mempertemukan jobseeker dan employer sesuai dengan pekerjaan yang dicari atau yang ditawarkan. Kemudahan penggunaan aplikasi dan tampilan website masih perlu dikembangkan lebih lanjut.",
+  "creators": "YUDIANTO WINOLO",
+  "contributors": "Oviliani Yenty Yuliana (Advisor 1); Adi Wibowo, S.T., M.T., Ph.D. (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020780/INF/2009; Yudianto Winolo (26404143)",
+  "subjects": "WEBSITES-DESIGN; INTERNET (COMPUTER NETWORK); DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

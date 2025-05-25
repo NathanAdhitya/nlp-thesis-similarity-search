@@ -1,0 +1,14 @@
+{
+  "id": "27796",
+  "title": "Perencanaan dan pembuatan pengatur posisi antena parabola yang optimum secara otomatis untuk menerima sinyal televisi dari satelit-satelit geostationer dengan menggunakan mikrokontroller 8031",
+  "abstract": "Dalam tehnologi komunikasi yang semakin pesat terutama mengenai komunikasi dengan menggunakan antena parabola yang dapat menangkap gelombang mikro yang dipancarkan oleh satelit, maka harus ditunjang dengan sarana untuk dapat menggerakkan antena parabola tersebut agar didapat suatu hasil penerimaan yang optimal. Untuk mendapatkan hasil yang optimal perlu dilakukan pergerakan antena parabola dalam dua arah yaitu dalam arah Elevasi dan arah Azimut. Untuk dapat menggerakkan antena parabola tersebut digunakan motor DC sebagai elemen penggeraknya dan microcontroller 8031 sebagai pengendalinya. Teknik pengendalian di sini memanfaatkan umpan balik yang berupa sensor reed switch (switch magnetik) yang dimasukkan kedalam kaki TO dan T1 pada 8031 sebagai input data. Sedangkan sistem kontrol menggunakan sistem on/off controller. Untuk mendapatkan letak orbit satelit yang optimum dilakukan dengan sistem sampling. Sampling dilakukan dengan cara menghubungkan posisioner yang diwujudkan dengan output AGC dari receiver, di mana output ini berbentuk sinyal analog yaitu sinyal DC. Sinyal DC inilah yang akan disampling untuk harga tertingginya. Tujuan yang hendak dicapai adalah untuk mengembangkan sistem posisioner yang telah ada dan untuk mempermudah pengoperasiannya, serta meningkatkan hasil yang akan dicapai di dalam penentuan ketepatan posisi antena parabola terhadap kedudukan satelit yang diinginkan. Dari hasil yang didapat diperoleh kesimpulan sebagai berikut: bahwa sistem kontrol yang paling tepat digunakan di dalam pengendalian posisioner ini adalah sistem on/off controller dengan bantuan autotracking. Sedangkan sistem sampling yang paling efisien adalah sampling sinyal DC dalam arah pergerakan dua derajat ke barat, dua derajat ke Timur, dua derajat ke Utara dan dua derajat dalam arah Selatan dari posisi semula.",
+  "creators": "Hartony Ismail",
+  "contributors": "HERLIANTO TENGGARA (Examination Committee 1); HANDAYANI T. (Advisor 2); Murtiyanto Santoso (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/015/0172; Hartony Ismail (23488077)",
+  "subjects": "ANTENNAS (ELECTRONICS)-COMPUTER PROGRAMS; MICROCONTROLLERS 8031; TELEVISION-ANTENNAS-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "22783",
+  "title": "Perancangan dan pembuatan aplikasi deformasi gambar menggunakan metode simplicial complexes",
+  "abstract": "Pada saat ini banyak software animasi 2 dimensi maupun 3 dimensi yang dapat dipakai oleh para pengguna animator, contoh software animasi 2 dimensi menggunakan Flash dan software animasi 3 dimensi menggunakan 3DMax. Animasi merupakan salah satu bidang komputer grafik yang cukup banyak peminatnya sehingga mendorong para animator untuk menciptakan idenya semenarik dan seindah mungkin kepada orang lain. Salah satu tool dalam membuat animasi adalah pemanfaatan teknik deformasi dimana deformasi dapat digunakan untuk melakukan warping pada gambar. Deformasi merupakan proses perubahan bentuk dan posisi gambar awal ke gambar yang diinginkan berdasarkan titik-titik sebagai acuan dari gambar awal. Pada Skripsi ini, dibuat aplikasi deformasi gambar yang menggunakan metode Simplicial Complexes. Pada metode ini menggunakan sudut ? sudut dari segitiga sebagai control point dalam deformasi gambarnya. Pembuatan aplikasi menggunakan Microsoft Visual C++ 2005, yang memudahkan dalam mengatur tampilan interface serta mengakses file. Aplikasi ini diuji dengan berbagai macam bentuk dan jumlah dari simplex pair dan dibandingkan dengan program lain yang menggunakan metode Moving Least Square (MLS) dan program lain yang mempunyai fitur deformasi gambar. Hasil pengujian menunjukkan bahwa hasil dari metode simplicial complexes dan MLS mempunyai kemiripan dalam melakukan deformasi gambar untuk satu simplex saja, sedangkan untuk dua simplex atau lebih terlihat berbeda. Gambar dengan resolusi kecil akan memberikan hasil yang kurang tajam daripada gambar yang beresolusi tinggi.",
+  "creators": "DENNY YULIANTO",
+  "contributors": "Liliana (Advisor 1); Rudy Adipranata (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01020964/INF/2010; Denny Yulianto (26406142)",
+  "subjects": "COMPUTER GRAPHICS; IMAGE PROCESSING-DIGITAL TECHNIQUES"
+}

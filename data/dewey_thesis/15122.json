@@ -1,0 +1,14 @@
+{
+  "id": "15122",
+  "title": "Simulasi governor dan AVR pada analisis stabilitas sistem tenaga listrik 150 KV di Jawa Timur dengan metode modified euler",
+  "abstract": "Studi stabilitas peralihan memberikan informasi mengenai kemampuan suatu sistem tenaga listrik untuk tetap berada dalam keadaan sinkron atau tidak pada saat terjadi gangguan yang besar. Studi ini memberikan informasi mengenai perubahan tegangan, arus, daya dan kecepatan mesin pada sistem tenaga listrik. Analisis stabilitas dinamis adalah analisis dimana Governor dan AVR sudah bekerja dalam sistem tenaga listrik didalam merespon gangguan-gangguan yang terjadi pada sistem. Pada analisis ini terlebih dahulu harus dilakukan analisis aliran daya yang kemudian karakteristik mesin sinkron dijabarkan sebagai suatu perhitungan differensial dan dihitung dengan menggunakan metode Modified Eulen Dan hasil perhitungan melalui komputer maka akan didapat grafik sudut rotor terhadap waktu dan grafik kecepatan mesin terhadap waktu. Dengan menggunakan lengkung ayunan pada grafik tersebut maka dapat ditentukan waktu pemutusan gangguan yang secara tepat untuk menjaga agar sistem tetap dalam keadaan stabil.",
+  "creators": "EMANUEL VIANNEY",
+  "contributors": "Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1); ONTOSENO PENANGSANG (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 99/E/TST/001/280; Emanuel Vianney (23493007)",
+  "subjects": "ELECTRIC POWER SYSTEMS; ELECTRIC POWER SYSTEM STABILITY-ANALYSIS"
+}

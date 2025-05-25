@@ -1,0 +1,14 @@
+{
+  "id": "10433",
+  "title": "Studi tentang peta kendali p yang distandarisasi untuk proses pendek",
+  "abstract": "Dalam manufakturing seringkali dilakukan pengendalian kualitas pada karakteristik cacat yang berupa atribut. Salah satu peta kendali atribut yang sering dipakai adalah peta kendali p. Untuk proses produksi yang dilakukan dalam waktu yang relatif singkat {short run) mengakibatkan subgrup yang diperoleh terbatas jumlahnya, sehingga peta kendali yang terbentuk tak memungkinkan untuk dianalisa. Untuk mengatasi masalah kurangnya data (jumlah subgrup), maka data dikumpulkan dari beberapa production run yang berbeda untuk membuat sebuah peta kendali. Standarisasi pada peta kendali itu perlu dilakukan, karena tiap-tiap production run memiliki p dan batas kendali yang berbeda-beda. Pada standarisasi diasumsikan distribusi adalah distribusi Normal, dan memiliki batas kendali yang simetris. Karena data atribut memiliki distribusi binomial yang tak simetris, maka proses standarisasi tak menghasilkan persentase data yang keluar dari BKA maupun BKB mendekati a/2-nya. Untuk itu perlu ditambahkan faktor koreksi pada rumus standarisasi konvensional, sehingga distribusi dapat bergeser dan persentase yang keluar dari batas kendali baik BKA maupun BKB mendekati a/2-nya. Dalam Tugas Akhir ini dilakukan simulasi yang membuktikan bahwa rumus yang memuat faktor koreksi memberikan hasil yang lebih baik dibandingkan dengan rumus konvensional pada kondisi atau batasan tertentu. Selain itu juga dilakukan simulasi untuk mendapatkan faktor koreksi yang terbaik. Untuk mengetahui apakah metode ini dapat diterapkan pada'keadaan nyata, maka dilakukan aplikasi pada proses produksi di PT. Samudra Multi Konverta.",
+  "creators": "LIA MAGDALENA PRABUDY",
+  "contributors": "Daniel Indarto Prajogo (Advisor 1); Tanti Octavia (Advisor 2); Didik Wahjudi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 240/TI-66/1999; Lia Magdalena Prabudy (25495029)",
+  "subjects": "TOTAL QUALITY MANAGEMENT-STATITICAL METHODS"
+}

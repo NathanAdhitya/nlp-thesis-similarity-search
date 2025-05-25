@@ -1,0 +1,14 @@
+{
+  "id": "41210",
+  "title": "Pembuatan aplikasi pemberi informasi pemberhentian kereta api secara otomatis berbasis android",
+  "abstract": "Dengandukungan info transportasi dan fasilitas umum Indonesia merupakan negara yang terkenal dengan banyak tempat dan menggunakan trasportasi pribadi tiap-tiap daerah, yang digunakan oleh masyarakat kelas ekonomi maupun eksekutif. Kereta api sekarang ini sangat mudah digunakan karena masyarakat dapat membeli tiket online ataupun langsung ke stasiun terdekat. Kereta api sekarang sangat mudah didapat karena banyaknya kereta api yang beroperasi. Aplikasi ini dibuat menggunakan bahasa pemrograman java dan json, dan menggunakan teknologi GPS, notifikasi dan google maps. Database menggunakan MySQL dan data di ambil dari E-BOOK kereta api tahun 2015. Kesimpulan dari aplikasi ini yaitu pada koneksi internet yang buruk mempengaruhi kinerja aplikasi, seperti mengirim data ke server atau mengambil data dari server sehingga memperlambat load data dan gambar. Pengujian jarak dan notifikasi yang tepat ke tempat tujuan berhasil. Aplikasi dapat menyajikan daftar Alarm, Notifikasi dan stasiun terdekat. Hasil kuesioner yang telah dilakukan yaitu presentase penilaian pengguna terhadap keseluruhan 80% mengatakan aplikasi sangat baik, 20% mengatakan aplikasi baik.",
+  "creators": "ADE PRATAMA PUTRA SANTOSO",
+  "contributors": "Kristo Radion Purba S.ST. (Advisor 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021693/INF/2017; Ade Pratama Putra Santoso (26413137)",
+  "subjects": "APPLICATION SOFTWARE-DEVELOPMENT; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ANDROID (COMPUTER PROGRAM)"
+}

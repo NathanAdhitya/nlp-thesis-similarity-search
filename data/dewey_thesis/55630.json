@@ -1,0 +1,14 @@
+{
+  "id": "55630",
+  "title": "Aplikasi pembuatan sertifikat dengan validasi sertifikat menggunakan metode SHA-256 dan RSA untuk mengecek keaslian dari sertifikat berbasis web",
+  "abstract": "Sertifikat merupakan hal atau barang untuk pembuktian sah bahwa penerimanya telah mendapatkan/menyelesaikan kualifikasi tertentu. Pemberian sertifikat membutuhkan banyak proses mulai dari pembuatan sertifikat, pencetakan, serta pengedaran. Salah satu permasalahan yang muncul dari adanya sertifikat elektronik sendiri dikarenakan tidak tahunya cara untuk memvalidasi apakah sertifikat tersebut sah benar adanya atau dibuat dan dimodifikasi orang yang tidak berwenang. Pembuatan aplikasi ini bertujuan untuk pembuatan sertifikat serta validasi sertifikat untuk memastikan pihak yang berwenang yang mengedarkan dan tidak dimodifikasi oleh orang lain dengan pemberian digital signature berbasiskan SHA256 dan RSA untuk validasi. Berdasarkan hasil pengujian, sertifikat yang dibuat akan diproses dengan fungsi hash SHA256 yang disimpan pada database untuk dapat divalidasi validitas sertifikat tersebut nantinya. Pada penelitian ini, RSA digunakan untuk melakukan sign untuk menghasilkan hasil digital signature dari konten file tersebut. Verify berperan untuk dekripsi konten file agar dapat dibaca ulang untuk pengecekan keaslian 2 tahap. Pengujian validasi sertifikat dilakukan dengan sebanyak 5 user testing yang menguji dalam pendapatan sertifikat lalu menvalidasi sertifikat tersebut dalam halaman web. Hasil pengujian dari 5 user testing adalah sertifikat yang terbuat dari web yang asli akan mengembalikan nilai balik yaitu sertifikat valid. Sedangkan sertifikat yang telah diubah data ataupun properti dari sertifikat tersebut akan memberikan nilai tidak valid.",
+  "creators": "SILVI MARCELIA ADINATA",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Justinus Andjarwirawan (Advisor 2); Stephanus A. Ananda, S.T., M.Sc. Ph.D. (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022267/INF/2023; Silvi Marcelia Adinata (C14180237)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; PROGRAMMING LANGUAGES (ELECTRONIC COMPUTERS); WEB DATABASES"
+}

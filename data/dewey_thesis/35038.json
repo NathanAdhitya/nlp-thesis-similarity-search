@@ -1,0 +1,14 @@
+{
+  "id": "35038",
+  "title": "Building APMv3 map visualization using nagios host data",
+  "abstract": "Nowadays, having a network monitoring is becoming an important thing for a growing or big company which should also have a network infrastructure inside it. Network monitoring is the use of a system that constantly monitors a computer network for slow or failing components and that notifies the network administrator in case of outages. Acknowledge Proactive Monitoring (APM), one of the sub-departments in Acknowledge, focuses on developing a network monitoring system using Nagios tool. However, one of its main feature called Map Visualization is not really efficient in terms of its map management. The current stable version of the system is called APMv2 and the team is developing a new version called APMv3 which needs a better Map Visualization. The application made in this project was a proof of concept that will later be used on APMv3. It is a web-based application which has a separate front-end written in HTML and JavaScript, a separate RESTful backend written in PHP, and uses some frameworks such as jQuery UI, jCanvas, Twitter Typeahead, and Bootstrap 3. All necessary data within this application are exchanged asynchronously using AJAX method.",
+  "creators": "HANS SEBASTIAN TIONO",
+  "contributors": "TOM PEPERKAMP (Advisor 1); MARIELLE FRANSEN (Advisor 2); JELLE OOSTERKAMP (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "English",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Undergraduate Degree No. 03021416/INF/2015; Hans Sebastian Tiono (26411031)",
+  "subjects": "COMPUTER GRAPHICS; IMAGE PROCESSING-DIGITAL TECHIQUES; COMPUTER PROGRAMMING (ELECTRONIC COMPUTER)"
+}

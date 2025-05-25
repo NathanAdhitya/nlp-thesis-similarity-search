@@ -1,0 +1,14 @@
+{
+  "id": "55874",
+  "title": "Aplikasi forecasting penjualan menggunakan metode artificial neural network untuk perencanaan produksi pada CV X",
+  "abstract": "Persaingan manufaktur yang kompetitif saat ini mendorong banyak perusahaan untuk merespon permintaan dengan cepat. Salah satu pendekatan yang baik adalah dengan memprediksi kondisi pasar yang akan datang. CV X merupakan perusahaan yang bergerak dalam produksi kotak makan yang menggunakan sistem penjualan make to order. Perusahaan memerlukan suatu metode untuk memprediksi penjualan kotak makan agar dapat memperkirakan jumlah produk yang harus diproduksi. Hal ini bertujuan untuk mencegah terjadinya kelebihan atau kekurangan produksi yang terlalu besar. Metode prediksi yang digunakan pada penelitian ini adalah LSTM dan ARIMA. Metode LSTM cenderung baik karena cocok digunakan untuk data non-linier seperti pada kondisi pasar, sedangakan metode ARIMA digunakan sebagai perbandingan. Metode ROP dan EOQ juga digunakan sebagai pelengkap dalam menangani kebutuhan persediaan yang diperlukan. Berdasarkan hasil prediksi dari dua produk perusahaan, metode LSTM memiliki nilai yang lebih baik dibandingkan ARIMA pada semua jenis penilaian, yaitu MAD, MAPE, dan MSE. Responden juga memiliki tingkat kepuasan yang tinggi terhadap sistem yang telah diimplementasikan dengan skor rata-rata antara 4 hingga 5 dari skor 5.",
+  "creators": "KENNY MANUEL EVAN",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Rudy Adipranata (Advisor 2); Adi Wibowo, S.T., M.T., Ph.D. (Examination Committee 1); Gregorius Satiabudhi (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022238/INF/2023; Kenny Manuel Evan (C14170058)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; NEURAL NETWORKS (COMPUTER SCIENCE)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "29809",
+  "title": "Perancangan dan pembuatan sistem informasi akuntansi pada Toko Desain Interior Elaine",
+  "abstract": "Toko Elaine merupakan toko yang memfokuskan kerjanya di bidang desain interior khususnya aksesoris untuk perlengkapan rumah. Sistem kerja yang digunakan adalah sistem manual sehingga menyulitkan bagi pegawai untuk menjalankannya. Berdasarkan latar belakang permasalahan itu, penulis merancang sistem informasi akuntansi yang dapat membantu proses operasional toko sehari-hari. Sistem yang dirancang penulis yaitu sistem untuk mengolah data jual, beli, dan produksi secara akuntansi. Laporan yang dihasilkan oleh aplikasi juga disesuaikan dengan sistem yang digunakan toko saat ini. Pembuatan aplikasi ini menggunakan PHP sebagai bahasa pemrograman, dan Yii sebagai framework. Sedangkan untuk database, aplikasi menggunakan PostgreSQL. Hasil yang diperoleh dari aplikasi yang dibuat antara lain, sistem informasi yang dapat membantu proses operasional dan menampilkan laporan yang dibutuhkan oleh toko. Laporan yang dihasilkan juga dapat digunakan sebagai sarana bagi pemilik toko untuk mengambil keputusan. Hasil dari pengujian oleh pengguna dan kuisioner dapat disimpulkan bahwa fitur yang ada dalam aplikasi sudah sesuai dengan kebutuhan toko.",
+  "creators": "MARSHEL SANOTO",
+  "contributors": "Silvia Rostianingsih (Advisor 1); CHRISTIAN, SE, AK (Advisor 2); Yulia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021332/INF/2014; Marshel Sanoto (26410027)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); INFORMATION STORAGE AND RETRIVAL SYSTEMS-ACCOUNTING; DATABASE MANAGEMENT"
+}

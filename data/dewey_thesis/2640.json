@@ -1,0 +1,14 @@
+{
+  "id": "2640",
+  "title": "Penjadwalan pengiriman barang di PT Simplot Agritama menggunakan algoritma genetika",
+  "abstract": "Skripsi ini membahas mengenai permasalahan penjadwalan pengiriman barang di PT Simplot Agritama. PT Simplot Agritama merupakan Distributor Center McDonald untuk kawasan Indonesia Timur yang bertugas untuk mengirimkan semua produk yang diperlukan oleh tiap store McDonald. Dalam proses pengiriman produk ke tiap store seringkali terjadi keterlambatan dari batas waktu yang ditetapkan oleh tiap store. Hal ini disebabkan karena belum adanya sistem penjadwalan pengiriman yang tepat. Oleh karena itu diusulkan suatu metode yang dapat memberikan solusi untuk memecahkan permasalahan penentuan rute dan jadwal pengiriman produk yang dapat mengurangi keterlambatan. Metode yang digunakan adalah Algoritma Genetika (GA), salah satu pendekatan heuristik yang dapat menghasilkan solusi yang mendekati optimal. Kemudian Algoritma Genetika diimplementasikan dalam bahasa pemrograman C# dengan menggunakan parameter genetik yang jumlah generasinya 1000, ukuran populasi 40, probabilitas crossover 0.85, dan probabilitas mutasi 0.2. Dari analisa keterlambatan yang dilakukan antara sistem baru menggunakan GA dan sistem lama yang diterapkan perusahaan, diperoleh bahwa sistem baru jauh lebih baik karena tidak terdapat keterlambatan dalam pengiriman produk. Selain itu pada sistem baru jumlah kendaraan yang digunakan lebih sedikit sehingga bisa menghemat biaya. Tetapi sistem baru menghasilkan waktu idle lebih besar dari sistem lama, hal ini tidak terlalu menjadi masalah karena ketidakterlambatan kendaraan lebih diprioritaskan.",
+  "creators": "FELINA",
+  "contributors": "I Nyoman Sutapa (Advisor 1); YULIUS UNTUNG (Advisor 2); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010925/IND/2005; Felina (25401014)",
+  "subjects": "SCHEDULING; INVENTORY CONTROL"
+}

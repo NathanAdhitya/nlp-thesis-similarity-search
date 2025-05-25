@@ -1,0 +1,14 @@
+{
+  "id": "16511",
+  "title": "Relokasi pabrik filter dengan mempertimbangkan perencanaan produksi filter di PT Nojorono Tobacco International",
+  "abstract": "PT Nojorono Tobacco International (PT NTI) merupakan perusahaan yang bergerak dibidang industri rokok. Perusahaan ini memproduksi rokok mulai dari filter rokok sampai dengan rokok jadi yang sudah di pack. Lokasi pabrik filter berbeda dengan pabrik untuk membuat rokok, untuk menekan biaya transportasi, perusahaan akan merelokasi pabrik filter menjadi satu dengan pabrik rokok. Masalah yang tibul akibat relokasi ini adalah terhambatnya produksi rokok, selama relokasi produksi filter harus berhenti. Selain merancang penempatan mesin yang sesuai dengan lokasi baru, perencanaan produksi filter dan pemakaian material juga harus disipakan agar tidak terjadi kemacetan produksi rokok. Untuk mendapatkan rancangan penempatan mesin yang sesuai maka pengaturan tata letaknya menggunakan bantuan software QS dengan alogaritma CRAFT. Untuk merencanakan produksi filter, maka harus mengetahui perencanaan produksi rokok, untuk itu dilakukan peramalan terhadap permintaan rokok. Peramalan permintaan rokok dilakukan dengan menggunakan metode Exponensial Smoothing (ES). Hasil yang didapatkan adalah layout baru memiliki momen sebesar 1261,2; lebih kecil daripada layout lama, yaitu sebesar 1553,4. Hal ini berarti layout baru memiliki jarak perpindahan lebih kecil. Agar tidak terjadi kemacetan produksi, maka dilakukan produksi persiapan dengan cara memperpanjang jam kerja menjadi sebelas jam tiap shiftnya. Dengan adanya perpanjangan proses produksi maka akan mempengaruhi penggunaan materialnya. Saat produksi dengan shift panjang penggunaan material bertambah sebesar 52%.",
+  "creators": "ELLEN APRILIANA TJANDRA",
+  "contributors": "Togar Wiliater Soaloon Panjaitan, S.T., MBA. (Advisor 1); I Nyoman Sutapa (Examination Committee 1); YOHANES ANDRIAN (Advisor and Examination Committee)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021484/IND/2010; Ellen Apriliana Tjandra (25406023)",
+  "subjects": "PLANT LAYOUT; PRODUCTION PLANNING"
+}

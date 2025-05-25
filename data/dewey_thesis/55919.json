@@ -1,0 +1,14 @@
+{
+  "id": "55919",
+  "title": "Penentuan spesifikasi sofa dengan decision tree pada perusahaan X",
+  "abstract": "Perusahaan X adalah perusahaan yang bergerak di bidang furniture. Perusahaan tersebut telah berdiri sejak 2003. Perusahaan X memiliki masalah yaitu masih belum bisa melakukan perancangan spesifikasi produk baru dan menentukan produk saat ini mana yang perlu diproduksi lagi dengan menggunakan data permintaan masa lalu. Hal tersebut menyebabkan kerugian biaya RnD (Research and Development) yang tinggi. Biaya tersebut mencakup biaya drafting, biaya pembuatan cetakan rangka, kain, busa, dan biaya prototype. Dengan adanya penerapan BI pada perusahaan X maka dapat mengetahui spesifikasi pada sofa sesuai dengan minat dan kebutuhan konsumen. Data yang digunakan dalam penelitian ini adalah penjualan dari 1 Januari 2021 hingga 30 Juni 2022. Metode yang digunakan untuk melakukan penelitian ini adalah decision tree versi ID3 dan C4.5. Setelah diuji menggunakan cross validation sebanyak 10 kali maka hasil dari dari akurasi menunjukkan bahwa decision tree versi C4.5 lebih akurat dibandingkan versi ID3. Hasil dari penelitian ini adalah menentukan spesifikasi sofa yang diminati customer berdasarkan segmentasi harga. Kategori berdasarkan harga dibedakan menjadi 3 yaitu PR3,PR2 dan PR1. PR3 adalah kategori sofa dengan harga dibawah Rp. 3.000.000,- (tiga juta rupiah). PR2 adalah kategori sofa dengan harga diantara Rp. 3.000.001 (tiga juta satu rupiah) hingga Rp. 5.000.000 (lima juta rupiah). PR1 adalah kategori sofa dengan harga di atas Rp. 5.000.000,- (lima juta rupiah). Terdapat 25 spesifikasi sofa yang terbentuk dari 8 spesifikasi sofa yang mempunyai label PR1, 10 spesifikasi sofa yang mempunyai label PR2 dan 7 spesifikasi sofa yang mempunyai PR3. Terdapat 2 spesifikasi sofa pada PR1 yang signifikan yaitu spesifikasi sofa yang memiliki bentuk sandaran tangan slope arms dan bahan pelapis sandaran punggung yaitu leather. Sofa yang memiliki bentuk sandaran tangan pillow arms dengan warna sandaran tangan single tone, dan jenis jahitan pada sandaran punggung back not tufted.. Terdapat 6 spesifikasi sofa yang signifikan pada PR2. Terdapat 3 spesifikasi sofa yang signifikan pada PR3",
+  "creators": "JONATHAN DITA HARJADI",
+  "contributors": "Iwan Halim Sahputra, S.T., M.Sc., Ph.D. (Advisor 1); Felecia, S.T., M.Sc. (Advisor 2); Indriati Njoto Bisono (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022569/IND/2023; Jonathan Dita Harjadi (C13180106)",
+  "subjects": "PRODUCTION MANAGEMENT--QUALITY CONTROL; PRODUCTION PLANNING"
+}

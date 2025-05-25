@@ -1,0 +1,14 @@
+{
+  "id": "1370",
+  "title": "Perencanaan dan pembuatan software automasi koneksi PC dan PLC melalui PSTN",
+  "abstract": "Pada umumnya, komunikasi PC dan PLC harus berdekatan dan menggunakan kabel serial sebagai sarana komunikasinya. Alternatif lainnya untuk komunikasi serial tersebut, salah satunya adalah komunikasi PC dan PLC melalui PSTN dengan menggunakan MODEM. Dengan demikian, seorang pemrogram PLC dapat membuat program untuk PLC dari jarak jauh, sehingga efisiensi waktu dan kerja dapat ditingkatkan. Tugas akhir ini membuat tools konektor PC dan PLC melalui PSTN. Dengan mengimplementasikan bahasa C, tools tersebut disajikan dalam tampilan - tampilan sederhana. Operasi-operasi dasar pengolahan string disajikan dalam contoh script sederhana dan berguna untuk mengatasi ketidakseragaman AT Command Set dari MODEM, yang beredar di pasaran. Selain itu, aplikasi ini juga mempunya i fasilitas otomatis, dimana pemakai tidak perlu membuat script untuk MODEM yang memiliki keseragaman AT Command Set dengan MODEM Hayes (yang dikenal sebagai cikal bakal AT Command Set). Namun fasilitas tersebut memiliki kekurangan yang harus ditutupi dengan fasilitas script parser, yang menyediakan fleksibilitas yang sangat tinggi. Semua data hasil percobaan dites dengan beberapa MODEM yang berasal dari vendor berbeda dan juga digunakan berbagai macam tipe PLC keluarga FEC dari FESTO. Hasil pengujian menunjukkan performa yang baik dengan menggunakan MODEM eksternal.",
+  "creators": "WIJAYA PRAJITNA",
+  "contributors": "Thiang (Advisor 1); HENDRIK THIEHUNAN (Advisor 2); Lauw Lim Un Tung (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/673/ELK/2003; Wijaya Prajitna (23499076)",
+  "subjects": "SOFTWARE ENGINEERING; PROGRAMMABLE CONTROLLERS"
+}

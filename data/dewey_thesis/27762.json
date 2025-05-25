@@ -1,0 +1,14 @@
+{
+  "id": "27762",
+  "title": "Biaxial bending pada kolom beton bertulang: suatu studi banding",
+  "abstract": "Dalam analisa Biaxial Bending ada beberapa macam metode pendekatan, antara lain : Bresler Reciprocal Method, Bresler Load Contour, PCA Load Contour Method, dan yang terbaru adalah metode pendekatan dari Thomas Hsu, yang dinamakan \" The Equation Failure Surface of Thomas Hsu Tujuan skripsi Kami adalah mengusulkan suatu cara pendekatan. dari berbagai macam cara pendekatan yang ada di atas, yang dapat digunakan untuk menganalisa suatu kolom pendek berpenampang persegi panjang atau bujursangkar (tanpa memperhatikan efek kelangsingan) yang menerima beban normal (tekan) dan momen dua arah. Dengan adanya cara pendekatan yang manual (tanpa bantuan komputer) di mana dapat digunakan dengan mudah dan cepat serta cukup tepat hasilnya, kami yakin para perencana dapat menganalisa kekuatan. kolom tanpa menggunakan grafik-grafik ataupun tabel-tabel yang hasilnya sangat dipengaruhi oleh ketelitian baca dari perencana yang bersangkutan. Dan setelah mencoba bermacammacam soal dengan memperhatikan section properties dan bebanbeban yang umumnya terjadi dilapangan, kami mengusulkan untuk sementara ini bahwa metode pendekatan dari Thomas Hsu merupakan metode pendekatan yang paling sederhana, efisien dan mudah pemakaiannya dimana hasilnya mempunyai toleransi kurang lebih 10% dari hasil dengan cara yang lebih teliti memakai komputer dengan program yang telah kami modifikasi dari referensi (8). Sebaiknya cara pendekatan yang kami usulkan di sini digunakan untuk penampang dengan perbandingan B/H = 1 sampai dengan B/H = 1.8 sedangkan untuk penampang dengan perbandingan B/H > 1,8 kami mengusulkan untuk menggunakan cara yang lebih teliti dengan memakai komputer. Periu diketahui Juga bahwa B dan H disini adalah lebar dan tinggi penampang kolom, selanjutnya momen yang terbesar kami beri nama Muy dimana vektor momennya sejajar dengan H, sedang momen yang lebih kecil diberi nama Mux dimana vektor momennya sejajar dengan B. Metode pendekatan dari Thomas Hsu ini selain dapat digunakan untuk analisa juga dapat digunakan untuk disain penampang kolom, tanpa memperhatikan efek kelangsungan. Untuk mempercepat pemakaian metode pendekatan dari Thomas Hsu ini, telah kami susun suatu program komputer yang secerhana dalam bahasa BASIC.",
+  "creators": "HAMKA TANUWIHARDJA; STEVANUS EKO SUMEH",
+  "contributors": "Daniel Zefania Pribadi (Advisor 1); Ir. GIDEON HADI KUSUMA, M.Eng. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.397 S; Hamka Tanuwihardja (284116), Stevanus Eko Sumeh (284146)",
+  "subjects": "REINFORCED CONCRETE"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "12848",
+  "title": "Aplikasi algoritma penjadualan yang meminimumkan biaya persediaan di PT. Murni Mapan Makmur",
+  "abstract": "Di dalam Tugas Akhir ini penulis mencoba untuk menerapkan metode penjadualan yang dapat meminimalkan biaya persediaan. Penjadualan ini mengambil konsep seperti Just in Time (JIT). Metode penjadualan ini menggunakan teknik Branch and Bound untuk mencari urutan jadual job yang optimal dan untuk penerapannya dibutuhkan data-data yaitu: waktu proses job, waktu setup, biaya persediaan bahan baku per unit waktu, biaya persediaan work in process per unit waktu, serta biaya persediaan barang jadi per unit waktu. Penulis mencoba menerapkan metode penjadualan ini di PT. Murni Mapan Makmur yang merupakan perusahaan karung dengan sistem job order. Hasil dari Tugas Akhir ini yaitu metode penjadualan tersebut dapat diterapkan di PT. Murni Mapan Makmur dengan urutan job yang optimal adalah 6 -5 -8 -4 -3 -2 -1 -7. Urutan job ini membutuhkan biaya persediaan Rp. 32.538.443,93 dan waktu pengerjaan total sebesar 2.420,0288 jam.",
+  "creators": "HANDOKO",
+  "contributors": "Vyrna Santoso (Advisor 1); SANDY CITRO (Advisor 2); Kristiana Asih Damayanti (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 359/TI-86/2000; Handoko (25496029)",
+  "subjects": "SCHEDULING (MANAGEMENT); PRODUCTION PLANNING"
+}

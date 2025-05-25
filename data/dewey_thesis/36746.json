@@ -1,0 +1,14 @@
+{
+  "id": "36746",
+  "title": "Aplikasi editor pemeriksa ejaan dan rekomendasi kata dalam Bahasa Indonesia berbasis android",
+  "abstract": "Bahasa Indonesia saat ini sudah semakin populer di mata dunia Internasional, contohnya Vietnam menjadikan Bahasa Indonesia sebagai bahasa kedua. Salah satu cara membantu orang lain untuk mempelajari Bahasa Indonesia adalah dengan membuat alat yang memudahkan mereka untuk mengetahui apakah bahasa yang mereka pelajari itu benar atau tidak. Skripsi ini membahas aplikasi editor Bahasa Indonesia dengan fitur pemeriksa ejaan dan rekomendasi kata dalam Bahasa Indonesia berbasis Android. Android dipilih karena merupakan salah satu sistem operasi yang jumlah penggunanya terbanyak di dunia. Adapun proses yang dilakukan adalah sebagai berikut: pengguna membuka suatu file atau melakukan pengetikan pada editor, input kata yang dimasukkan oleh user dilakukan pengecekan oleh Apache Lucene, dan Apache Lucene akan melakukan crawling terhadap data yang sudah pernah digunakan sebelumnya, dan apabila pengguna membuka suatu file, aplikasi ini akan melakukan pengecekan ejaan dengan menggunakan algoritma Nazief dan Adriani. Hasil dari proses ini adalah hasil input yang digarisbawahi apabila tidak sesuai dengan Bahasa Indonesia, atau hasil rekomendasi sesuai dengan hasil history yang tersimpan dan hasil crawling Apache Lucene. Input berupa kata atau file .doc. Output dari aplikasi ini berupa file .doc dan hasil rekomendasi atau hasil pengecekan ejaan. Aplikasi ini dibuat dengan bahasa pemrograman Java dengan Android Studio sebagai IDE-nya. Hasil pengujian menunjukkan bahwa akurasi proses pengecekan Bahasa Indonesia dengan menggunakan algoritma Nazief dan Adriani masih memiliki beberapa kekurangan, panjang kata dan kerumitan kata juga sangat berpengaruh terhadap waktu dalam proses pengecekan tersebut, contohnya untuk melakukan pengecekan dokumen dengan 100 kata, waktu yang dibutuhkan bevariasi, mulai dari 1.48 menit hingga 3.3 menit. Selain itu, kata-kata yang terdiri dari dua suku kata, seperti pertanggungjawaban tidak bisa dicek oleh algoritma ini.",
+  "creators": "FEBRIA ROOSITA DWI",
+  "contributors": "Rolly Intan (Advisor 1); Leo Willyanto Santoso (Advisor 2); Liliana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021508/INF/2016; Febria Roosita Dwi (26411089)",
+  "subjects": "ALGORITHMS; ANDROID (ELECTRONIC RESOURCE)-PROGRAMMING; ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE)"
+}

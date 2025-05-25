@@ -1,0 +1,14 @@
+{
+  "id": "5248",
+  "title": "Pengatur temperatur ac otomatis dengan Input sensor penghitung orang menggunakan Mikrokontroler MCS-51",
+  "abstract": "Penggunaan hardware pengatur AC otomatis dengan sensor penghitung orang ini, bertujuan agar dapat mengontrol temperatur atau suhu, berdasarkan banyaknya individu yang dideteksi sensor penghitung orang dan yang dikontrol dengan menggunakan mikrokontroler ATMEL keluarga MCS51. Dengan adanya pengatur temperatur AC otomatis ini maka diharapkan dapat mengurangi biaya pemakaian daya listrik yang tidak efisien. Perubahan temperatur pengatur AC otomatis dengan sensor penghitung orang ini, bekerja berdasarkan jumlah individu yang keluar dan masuk dalam ruangan yang dipasang pengatur temperatur AC tersebut, dan apabila jumlah individu yang dideteksi kosong dalam ruangan maka AC otomatis akan mati. Dari hasil pengujian, sistem ini dapat bekerja dengan baik apabila diberi input sensor dengan range 0 sampai 255, dan pada temperatur 16 derajat sampai 30 derajat. Error terjadi apabila ada input data yang tidak sesuai dengan prosedure data AC yang di- cloning..",
+  "creators": "WAHYU EKA CAHYADI",
+  "contributors": "Felix Pasila (Advisor 1); Handry Khoswanto (Advisor 2); Resmana Lim (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Tugas Akhir",
+  "source": "Tugas Akhir No. 02/630/ELK/2003; Wahyu Eka Cahyadi (23497116)",
+  "subjects": "TEMPERATURE CONTROL; AUTOMATIC CONTROL-COMPUTER PROGRAMS"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "51853",
+  "title": "Implementasi internet of things pada sistem cathodic protection sebagai proteksi korosi besi beton",
+  "abstract": "Besi beton atau tulangan baja adalah baja yang digunakan untuk penulangan konstruksi beton atau dikenal dengan beton bertulang. Besi beton dapat mengalami proses korosi yang diakibatkan oleh reaksi kimia atau elektro kimia antara tulangan baja dan lingkungannya. Salah satu cara untuk melindungi besi beton dari terjadinya korosi adalah dengan proteksi katodik. Ada dua jenis proteksi katodik yaitu sacrificial anodes dan impressed current cathodic protection (ICCP). ICCP lebih umum digunakan untuk perlindungan pada struktur beton bertulang. Dalam ICCP, arus negatif dialirkan ke besi beton dan arus postif dialirkan ke anoda. Hal ini bertujuan agar besi beton terlindungi dari korosi. Selain sistem proteksi terhadap korosi, terdapat juga half-cell potential test untuk mengukur peluang terjadinya korosi pada besi beton. Pengukuran dilakukan dengan membaca beda potensial antara elektroda acuan dan besi beton. Peluang terjadinya korosi dapat diketahui tingkat korosinya dengan membaca tabel peluang terjadinya korosi dengan standar ASTM C879-09. Pada penelitian ini akan akan dilakukan implemetasi internet of things pada sistem proteksi katodik sebagai proteksi korosi besi beton, sehingga pengguna dapat memonitor dan mengontrol pemberian proteksi katodik pada besi beton. Berdasarkan hasil pengujian yang dilakukan, sistem IoT dapat mengatur power supply dengan men-set tegangan dan arus serta dapat melakukan penjadwalan kepada power supply untuk memberikan arus listrik pada besi beton dan dapat memberikan notifikasi apabila arus listrik yang mengalir pada besi beton lebih dari atau kurang dari standart ICCP. Rata - rata selisih pembacaan antara voltage sensor dan multimeter adalah 21.07 mV. Nilai pembacaan beda potensial antara besi beton dan reference electrode pada metode half-cell potential test sebelum dilakukan adalah -216,15 mV dan setelah dilakukan ICCP, nilainya menjadi -167,974 mV. Terjadi kenaikan sebesar 58,596 mV setelah dilakukan ICCP.",
+  "creators": "BILLY CHRISTIAN JOHAN",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Resmana Lim (Advisor 2); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1); Ir. Djoni Haryadi Setiabudi, M.Eng. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022122/INF/2022; Billy Christian Johan (C14170106)",
+  "subjects": "CATHODIC PROTECTION; INTERNET OF THINGS; CORROSION AND ANTI-CORROSIVES"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "29715",
+  "title": "Pengembangan elemen balok timoshenko berbasis kriging bebas locking untuk analisis stabilitas dan getaran bebas",
+  "abstract": "Metode Elemen Hingga berbasis Kriging (MEH-K) adalah Metode Elemen Hingga (MEH) jenis baru yang menggunakan Interpolasi Kriging untuk membentuk shape function-nya. Penggunaan interpolasi Kriging secara umum menunjukkan hasil yang lebih akurat pada suatu analisa struktur dibandingkan dengan penggunaan shape function MEH standar dengan diskritisasi yang sama. Adanya penelitian ini adalah untuk mengembangkan suatu elemen balok Timoshenko berbasis Kriging yang diharapkan dapat bebas dari fenomena shear locking. Batasannya adalah pada analisis statik, getaran bebas, dan stabilitas saja. Dari penelitian ini, didapatkan bahwa fenomena shear locking pada elemen balok Timoshenko berbasis Kriging dan dapat diatasi secara efektif dengan menggunakan metode Discrete Shear Gap (DSG), sedangkan metode Modified Field Matching (MFM) gagal dalam upaya mengeliminasi shear locking. Hasil analisa yang ditunjukkan juga membuktikan bahwa MEH-K dengan DSG menghasilkan hasil yang sangat akurat, baik untuk analisis statik, getaran bebas, maupun analisa stabilitas.",
+  "creators": "ADAM SULISTIO",
+  "contributors": "Wong Foek Tjong, S.T., M.T., Ph.D. (Advisor 1); Benjamin Lumantarna (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11011926/SIP/2014; Adam Sulistio (21410124)",
+  "subjects": "ELASTICITY; GIRDERS; STRAINS AND STRESSES"
+}

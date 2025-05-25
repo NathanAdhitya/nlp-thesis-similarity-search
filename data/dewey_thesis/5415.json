@@ -1,0 +1,14 @@
+{
+  "id": "5415",
+  "title": "Perancangan sistem perencanaan produksi dan pengendalian persediaan pada Frollino Pastry di Surabaya",
+  "abstract": "Frollino pastry memproduksi berbagai macam roti. Dari berbagai macam roti ini, yang menjadi masalah adalah jenis bakery dan pastry. Bakery hanya bertahan 1 hari, sedangkan pastry bisa bertahan 2 hari, apalagi karakteristik permintaan kedua produk yang tidak pasti untuk tiap harinya. Oleh karena itu, perusahaan membutuhkan suatu sistem perencanaan produksi dan pengendalian persediaan yang baik. Pendekatan yang digunakan untuk menyelesaikan permasalahan ini yaitu dengan Newsboy Problem, yang khusus digunakan untuk perencanaan produksi produk-produk yang tidak dapat disimpan (perishable product). Sedangkan untuk pengendalian persediaan digunakan MRP dengan metode lot sizing Wagner Within yang sudah dimodifikasi. Dari hasil perhitungan didapatkan sistem usulan mengalami penurunan rata-rata biaya kerugian per hari dibandingkan dengan sistem perusahaan sebesar Rp.8.857,00 (4,53%) untuk bakery, dan sebesar Rp. 11.857,00 (22,6%) untuk pastry. Dan untuk biaya pengendalian persediaan per bulan dapat diturunkan sebesar Rp.33.625,00 (0,36%).",
+  "creators": "GRACIA CHANDRA",
+  "contributors": "Tanti Octavia (Advisor 1); Herri Christian Palit (Advisor 2); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01011028/IND/2006; Gracia Chandra (25402071)",
+  "subjects": "PRODUCTION PLANNING; INVENTORY CONTROL"
+}

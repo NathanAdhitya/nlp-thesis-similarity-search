@@ -1,0 +1,14 @@
+{
+  "id": "50193",
+  "title": "Perancangan sistem mekanik dan pemantauan pada robot desinfeksi ruangan",
+  "abstract": "Tugas akhir ini akan menghasilkan sebuah robot desinfeksi ruangan. Robot ini akan dikerjakan secara berkelompok bersama Jeremy Winston. Tugas akhir ini bertujuan untuk melakukan perancangan sistem mekanik dan pemantauan pada robot desinfeksi ruangan. Robot desinfeksi ruangan ini memiliki kegunaan untuk mendesinfeksi ruangan secara autonomous, dan dapat dipantau dari jarak jauh. Robot ini juga dapat dikontrol secara manual apabila mengalami stuck di suatu tempat. Sistem robot desinfeksi ruangan ini menggunakan Raspberry Pi 4 sebagai perangkat embedded utama, dan Raspberry Pi Zero sebagai perangkat pemantauan serta Raspberry Pi 400 untuk operator. Sensor yang digunakan ada 4, yaitu sensor magnet untuk line following, time flight sensor sebagai pendeteksi jarak body robot dengan benda sekitar robot, PIR sensor sebagai pendeteksi keberadaan orang di sekitar robot dan kamera sebagai masukan gambar untuk pemantauan. Sedangkan untuk aktuator terdapat 2, yaitu motor gearbox sebagai penggerak robot dan lampu UV-C sebagai desinfektan ruangan. Keseluruhan program pada sistem ini dibuat dengan bahasa Python yang ada pada operating system Raspbian.",
+  "creators": "RIO ALFANDY JUSTISIO",
+  "contributors": "Handry Khoswanto (Advisor 2); Indar Sugiarto (Advisor 1); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011017/ELK/2021; Rio Alfandy Justisio (C11170017)",
+  "subjects": "ROBOTS--CONTROL SYSTEMS--DESIGN AND CONSTRUCTION; SENSOR NETWORKS"
+}

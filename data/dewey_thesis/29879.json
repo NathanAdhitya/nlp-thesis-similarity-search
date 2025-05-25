@@ -1,0 +1,14 @@
+{
+  "id": "29879",
+  "title": "Aplikasi untuk mendapatkan data rating untuk digital signage di Universitas Kristen Petra menggunakan kinect",
+  "abstract": "Seiring dengan berkembangannya teknologi, penggunakan digital signage sebagai media komunikasi sudah menjadi hal yang umum di dunia digital ini. Dan sekarang Universitas Kristen Petra mulai menggunakan teknologi digital signage yang bernama DIVo. Tetapi untuk mengukur keefektifitas dari digital signage tersebut dibutuhkan suatu orang untuk menghitung berapa orang yang melewati DIVo, belum lagi masih perlu menghitung berapa orang yang membaca, dan tidak lupa untuk menghitung berapa lama orang tersebut membaca DIVo. Tetapi untuk menghitung efektifitas tersebut apabila menggunakan metode tersebut akan mendapatkan error yang sangat tinggi. Diawali dari tingkat human error yang bisa melakukan kesalahan dalam menghitung orang yang melintasi DIVo, belum lagi diperlukan tenaga kerja yang sangat banyak mengingat jumlah DIVo yang lebih dari 1 (satu). Oleh karena itu dibutuhkan suatu alat yang bisa mendeteksi adanya orang lewat di depan DIVo ini tersendiri, dan bisa mendeteksi wajah dari pembaca, dan alat yang bisa menjalankankan beberapa fitur seperti diatas adalah Kinect. Kinect merupakan alat yang diciptakan oleh Microsoft dengan maksud sebagai alat input untuk gaming console bernama Xbox. Dengan fungsi Skeletal Tracking dan Face Tracking yang tersedia dalam SDK Kinect, aplikasi ini akan mendeteksi orang yang melewati dan mendeteksi berapa orang yang membaca DIVo secara bersamaan. Dan dengan menggunakan alat ini akan mengatasi human error yang terjadi apabila metode penghitungan traffic dengan pembaca secara manual.",
+  "creators": "IVAN WIJAYA",
+  "contributors": "Liliana (Advisor 1); Rolly Intan (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021317/INF/2014; Ivan Wijaya (26410045)",
+  "subjects": "DATABASE DESIGN; DIGITAL COMMUNICATION; DIGITAL SIGNAGE"
+}

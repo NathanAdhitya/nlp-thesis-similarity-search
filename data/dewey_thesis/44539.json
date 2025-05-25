@@ -1,0 +1,14 @@
+{
+  "id": "44539",
+  "title": "Modul pembelajaran kinematika robot lengan 3 derajat kebebasan berbasis Raspberry Pi 3 b+",
+  "abstract": "Proyek tugas akhir ini dibuat berfokus pada pembuatan sebuah modul pembelajaran kinematika robot. Modul ini berupa robot lengan 3 derajat kebebasan. Fitur yang disediakan modul pembelajaran ini adalah pembuktian perhitungan kinematics (forward dan inverse kinematics) dengan cara melakukan penggerakan robot lengan secara nyata, penyimpanan gambar posisi robot sesuai posisi yang diinginkan pengguna, layanan live streaming kondisi robot, dan penunjukan cara perhitungan kinematics yang benar. Modul pembelajaran ini hanya dapat diakses oleh pengguna yang telah terdaftar melalui jaringan lokal yang tersedia di laboratorium Elektronika Universitas Kristen Petra. Berdasarkan pengujian yang dilakukan, modul pembelajaran ini memiliki tingkat ketelitian penggerakan robot pada mode forward kinematics untuk koordinat x end-effector sebesar ± 4,21 cm, koordinat y end-effector sebesar ± 2,80 cm, dan koordinat z end-effector sebesar ± 1,92 cm. Sedangkan pada mode inverse kinematics tingkat ketelitian untuk koordinat x end-effector sebesar ± 4,38 cm, koordinat y end-effector sebesar ± 4,54 cm, dan koordinat z end-effector sebesar ± 2,69 cm. Penyebab utama ketidaktelitian ini adalah masalah mekanis robot lengan. Selain itu, modul pembelajaran ini mampu mengolah data yang diinputkan banyak pengguna dalam waktu yang bersamaan. Namun, sistem modul pembelajaran ini hanya mampu diakses oleh kurang dari 10 pengguna dalam waktu yang bersamaan. Modul pembelajaran ini cukup mudah untuk digunakan namun memiliki tampilan yang kurang nyaman sehingga tampilan modul pembelajaran ini masih perlu disempurnakan.",
+  "creators": "JONATAN",
+  "contributors": "Handry Khoswanto (Advisor 1); Petrus Santoso, S.T., M.Sc. (Advisor 2); Thiang (Examination Committee 1); Indar Sugiarto (Examination Committee 2); Resmana Lim (Examination Committee 3)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010984/ELK/2019; Jonatan (23415004)",
+  "subjects": "RASPBERRY PI (COMPUTER); MACHINERY, KINEMATICS OF; ROBOTS-PROGRAMMING"
+}

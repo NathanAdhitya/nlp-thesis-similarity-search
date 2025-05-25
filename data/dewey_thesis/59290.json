@@ -1,0 +1,14 @@
+{
+  "id": "59290",
+  "title": "Sales forecasting untuk manajemen inventori Odoo ERP menggunakan metode ARIMA dan Prophet: studi kasus toko Best Charcoals",
+  "abstract": "Toko Best Charcoals merupakan usaha yang bergerak menjual bermacam produk yaitu arang, panggangan, dan kayu bakar. Toko Best Charcoals didirikan pada tahun 2018 terletak di Jakarta Barat, Kecamatan Grogol, Petamburan. Sebagian besar pembeli berasal dari provinsi DKI Jakarta. Toko Best Charcoals melakukan penjualan secara online maupun offline. Best Charcoals melakukan bisnis mereka secara online melalui aplikasi Tokopedia and Shopee. Dikarenakan adanya permintaan barang yang tidak teratur setiap bulannya dikarenakan fluktuasi penjualan pada momen tertentu seperti menjelang hari raya Idul Adha, Idul Fitri, Natal, Tahun Baru mengakibatkan kekosongan stok barang. Peramalan penjualan dibutuhkan untuk mengatasi masalah manajemen inventori Toko Best Charcoal. Pada penelitian ini, Odoo ERP akan dikustomisasi untuk membantu menyelesaikan masalah Toko Best Charcoals dengan peramalan penjualan menggunakan metode ARIMA dan Prophet sehingga dapat menentukan jumlah yang harus diorder untuk bulan selanjutnya dengan manajemen inventori yang terintegrasi dan otomatis yang menyediakan nilai safety stock dan maximum quantity sehingga memberikan efisiensi yang lebih baik dari sisi operasional. Dengan pengujian yang telah dilakukan terlihat setiap metode memiliki penilaiannya tersendiri pada produk tertentu, sejauh ini metode Prophet lebih banyak tampil baik dibandingkan metode lainnya, karena memiliki nilai error paling rendah. Ketika dilakukan uji error, menggunakan metode MAPE. Metode yang lebih baik bisa dilihat jika hasil error peramalan semakin rendah.",
+  "creators": "IVAN CHRISTOPHER YAPRIANTO",
+  "contributors": "Adi Wibowo, S.T., M.T., Ph.D. (Advisor 1); Yulia (Advisor 2); Leo Willyanto Santoso (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022445/INF/2024; Ivan Christopher Yaprianto (C14190193)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; INVENTORY CONTROL"
+}

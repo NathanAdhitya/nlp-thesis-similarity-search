@@ -1,0 +1,14 @@
+{
+  "id": "36964",
+  "title": "Evaluasi penggunaan linux router untuk pembatasan bandwidth aplikasi internet tertentu",
+  "abstract": "Menurut laporan Cisco pada tahun 2015, penggunaan internet telah meningkat lebih dari lima kali dalam 5 tahun terakhir, dan hal tersebut diproyeksikan akan meningkat tiga kali selama 5 tahun ke depan (Cisco, 2015). Peningkatan penggunaan internet tersebut banyak disebabkan oleh aplikasi-aplikasi internet tertentu seperti Flash, MPEG, video streaming, dan P2P file sharing. Oleh karena itu, pengaturan bandwidth dengan cara traffic shaping pada Linux dilakukan agar dapat memberikan kebutuhan internet yang sesuai dengan kelas pengguna. nDPI digunakan untuk mengeklasifikasikan traffic data dalam jaringan internet. Pengerjaan skripsi berfokus pada evaluasi penggunan nDPI pada aplikasi P2P bittorrent. Evaluasi dilakukan menggunakan iptables untuk melakukan marking traffic data dan traffic control (tc) untuk melakukan shaping. Bandwidth monitoring menggunakan aplikasi iptraf pada Linux dan aplikasi networx pada klien. Berdasarkan pengujian yang dilakukan, traffic shaping dengan nDPI ditambah dengan cache berhasil dilakukan pada aplikasi P2P bittorrent. Percobaan nDPI dengan cache dilakukan pada beberapa ukuran cache dan shaping pada beberapa bandwidth. nDPI dengan ukuran cache 1024 entries merupakan besar cache yang direkomendasikan. nDPI tidak dapat sepenuhnya mengklasifikasikan traffic data bittorrent dengan benar.",
+  "creators": "WILLY SANTOSO",
+  "contributors": "Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Advisor 1); Justinus Andjarwirawan (Advisor 2); Silvia Rostianingsih (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021537/INF/2016; Willy Santoso (26412058)",
+  "subjects": "INTERNET (COMPUTER NETWORK); LINUX (OPERATING SYSTEM)"
+}

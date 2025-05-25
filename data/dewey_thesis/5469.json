@@ -1,0 +1,14 @@
+{
+  "id": "5469",
+  "title": "Pembuatan sistem informasi pembelian, penjualan dan analisis penjualan pada toko Remaja Surabaya",
+  "abstract": "Toko Remaja Surabaya adalah perusahaan yang bergerak di bidang penjualan. Sistem pembelian dan penjualan Toko Remaja Surabaya saat ini menggunakan sistem manual, dimana semua transaksi dan administrasi masih menggunakan media kertas dan kalkulator. Hal tersebut mengakibatkan banyak terjadi kekeliruan dalam pencatatan sehingga data yang dihasilkan tidak akurat. Untuk pengembangan usahanya, maka dibutuhkan suatu sistem baru untuk dapat memperbaiki sistem yang dipakai saat ini. Proses perancangan dan pembuatan program dimulai dengan mempelajari dan menganalisis sistem perusahaan saat ini, kemudian menyusub dan membuat Data Flow Diagram (DFD), Entity Relationship Diagram (ERD) dan tabel-tabel yang dibutuhkan. Selanjutnya dilanjutkan dengan membuat desain interface. Sistem operasi yang digunakan adalah Windows 2000 Server, pembuatan database dengan SQL Server 2000. Aplikasi sistem penjualan dan pembelian yang sudah diimplementasikan membuat proses pembelian dan penjualan pada Toko Remaja Surabaya menjadi lebih terperinci sebab terdapat pencatatan setiap transaksi dan adanya laporan-laporan. Adanya reminder mengenai jatuh tempo pembayaran supplier dan customer, stok minimum dapat dilihat pada program saat program dijalankan pertama kali. Selain itu, keamanan data dengan sistem komputerisasi lebih terjamin, karena setiap user mempunyai hak akses yang berbeda sesuai dengan bidangnya.",
+  "creators": "HENNY SULISTYOWATI",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Andreas Handojo (Advisor 2); Rolly Intan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02000248/INF/2004; Henny Sulistyowati (26400043)",
+  "subjects": "DATA BASE DESIGN; DATA BASE MANAGEMENT"
+}

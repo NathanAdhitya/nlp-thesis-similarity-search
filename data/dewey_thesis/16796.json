@@ -1,0 +1,14 @@
+{
+  "id": "16796",
+  "title": "Perancangan dan pembuatan aplikasi sistem rekomendasi buku pada perpustakaan universitas kristen Petra dengan menggunakan algoritma prefixspan dan generalized sequential patterns",
+  "abstract": "Setiap tahunnya jumlah koleksi buku pada Universitas Kristen Petra bertambah. Dengan banyaknya jumlah koleksi yang dimiliki, user terkadang mengalami kesulitan untuk mencari buku yang mereka butuhkan. Setiap tahunnya jumlah koleksi buku pada Universitas Kristen Petra bertambah. Dengan banyaknya jumlah koleksi yang dimiliki, user terkadang mengalami kesulitan untuk mencari buku yang mereka butuhkan. Oleh sebab itu perlu diimplementasikan suatu sistem rekomendasi yang dapat memberikan rekomendasi terhadap buku-buku yang berkaitan sehingga memudahkan user dalam meminjam buku yang dicari. Untuk mendukung sistem rekomendasi ini maka dibutuhkan aplikasi data mining untuk pengolahan data menggunakan algoritma PrefixSpan dan Generalized Sequential Patterns. Dalam pembuatan aplikasi ini digunakan software Microsoft Visual Basic .NET dan Oracle. Dengan adanya data mining terhadap data Perpustakaan Universitas Kristen Petra, maka aplikasi dapat memberikan informasi berupa rule yang digunakan dalam sistem rekomendasi. Berdasarkan hasil kuisioner secara keseluruhan terhadap kelayakan program dapat disimpulkan bahwa program dapat digunakan untuk perpustakaan Universitas Kristen Petra. Berdasarkan hasil pengujian sistem, metode PrefixSpan membutuhkan waktu yang lebih sedikit daripada metode Generalized Sequential Patterns, namun membutuhkan memory yang lebih besar dalam pengolahan datanya.",
+  "creators": "STEFANO GERRY SUTRISNO",
+  "contributors": "Andreas Handojo (Advisor 1); Gregorius Satiabudhi (Advisor 2); Ibnu Gunawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02020889/INF/2010; Stefano Gerry Sutrisno (26406050)",
+  "subjects": "DATA MINING; DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

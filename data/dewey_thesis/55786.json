@@ -1,0 +1,14 @@
+{
+  "id": "55786",
+  "title": "Aplikasi prediksi permintaan barang pada PT X menggunakan metode Arima dan exponential smoothing",
+  "abstract": "PT X merupakan perusahaan yang bergerak di bidang furniture plastik, springbed dan kasur busa, perusahaan ini selalu mengutamakan relasi dengan pelanggan dapat terjaga dengan baik, PT X didirikan tahun 1994 tepatnya di kota Makassar, PT X melakukan distribusi terhadap produknya, dengan jenis pelanggan berupa retail dan grosir. Proses distribusi ini juga mencakup penjualan ke perusahaan-perusahaan. Permasalahan yang dihadapi oleh PT X saat ini adalah sulitnya untuk memperkirakan stok barang apa saja yang harus disimpan pada gudang akibatnya mengalami kekurangan dan kelebihan stok pada gudang sehingga merugikan perusahaan. Pada tugas akhir ini, dirancang solusi permasalahan dari skripsi ini adalah dengan pembuatan website forecasting prediksi perkiraan permintaan konsumen dengan metode ARIMA dan Exponential smoothing Holt-Winters menggunakan framework Streamlit, sehingga metode yang dipakai dapat memperkirakan penjualan pada bulan berikutnya. Dengan pengujian yang dilakukan menggunakan beberapa parameter yang berbeda, dapat disimpulkan bahwa model ARIMA yang memberikan tingkat akurasi prediksi lebih tinggi, dikarenakan pada arima memiliki nilai error MSE, RMSE, MAPE rata rata lebih rendah dari pada nilai error yang dihasilkan oleh holt winters, selain itu arima dapat dikatakan lebih baik karena prediksi jumlah barang yang dihasilkan cukup mendekati nilai data aktual yang ada.",
+  "creators": "ALFRED CHANDRA",
+  "contributors": "Yulia (Advisor 1); Hans Juwiantho S.Kom., M.Kom (Advisor 2); Alexander Setiawan (Examination Committee 1); Andreas Handojo (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022265/INF/2023; Alfred Chandra (C14180206)",
+  "subjects": "APPLICATION SOFTWARE--DEVELOPMENT; DATABASE MANAGEMENT--COMPUTER PROGRAMS; WEB DATABASES"
+}

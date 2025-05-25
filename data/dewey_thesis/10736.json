@@ -1,0 +1,14 @@
+{
+  "id": "10736",
+  "title": "Studi transmisi data melalui jaringan kabel listrik PLN",
+  "abstract": "Seringkali Komunikasi data antar Personal Computer (PC) menggunakan kabel serial, sehingga diperlukan pengaturan tata letak kabel. Seiring dengan semakin pesatnya perkembangan teknologi maka tuntutan manusia akan keindahan bukan menjadi tujuan kedua. Dalam beberapa tugas akhir yang telah dikerjakan pemah dicoba untuk dikembangkan transmisi data tanpa kebel yaitu dengan media infra merah dan melalui gelombang radio FM. Untuk mengatasi masalah ini maka diteiiti, direncanakan dan dibuat suatu peralatan untuk mentransmisikan data antar PC dengan menggunakan media alternatif lain yaitu jaringan kabel listrik PLN yang sudah ada dengan metode Frequency Shift Keying (FSK). Data dirubah menjadi sinyal FSK dengan frekuensi tertentu yang kemudian dimodulasikan ke tegangan jala - jala PLN. Sinyal PLN termodulasi FSK ini kemudian difllter dan dirubah lagi menjadi data semula dengan demodulator. Walaupun demikian alat ini masih belum sesuai dengan yang diinginkan, yaitu kecepatan transmisi maksimum 1200 bps masih terdapat error yang sangat besar. Error ini dikarenakan keterbatasan IC modulator dan IC demodulator serta noise yang terdapat pada jala - jala PLN maupun delay pada frekuensi tinggi yang dimodulasikan ke jala-jala PLN.",
+  "creators": "SIMON ANGGONO",
+  "contributors": "HERLIANTO TENGGARA (Advisor 1); Thiang (Advisor 2); Murtiyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 00/E/EL/025/462; Simon Anggono (23493096)",
+  "subjects": "COMPUTERS; COMPUTER NETWORKS"
+}

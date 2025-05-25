@@ -1,0 +1,14 @@
+{
+  "id": "48374",
+  "title": "Deteksi alat pelindung diri menggunakan metode yolo dan faster r- cnn",
+  "abstract": "Upaya memastikan langkah-langkah keamanan dan keselamatan di zona industri atau area lain yang perlu menggunakan alat pelindung diri merupakan suatu masalah penting. Banyak pekerja yang kerap mengabaikan dan melanggar aturan untuk menggunakan alat pelindung diri di zona mereka bekerja. Oleh karena itu, sebuah program dibuat dengan tujuan membantu mengawasi para pekerja untuk menggunakan alat pelindung diri. Dalam penelitian ini akan dilakukan percobaan untuk membantu mengenali karakteristik alat pelindung diri, terutama di area kepala. Dalam penelitian terbaru yang telah dilakukan Rifki Dita Wahyu Pradana, et. Al. menggunakan CNN untuk menghasilkan akurasi keseluruhan sebesar 80%. Penelitian ini akan menggunakan dua metode, yaitu You Only Look Once dan Faster Region-Convolutional Neural Network (Faster R-CNN). Metode YOLO digunakan untuk menemukan wilayah kepala pekerja sementara metode F-RCNN yang lebih cepat digunakan untuk mengklasifikasikan peralatan pelindung pribadi yang digunakan oleh pekerja. Hasil klasifikasi Faster R-CNN yang lebih cepat akan dihitung menggunakan confusion matrix untuk mendapatkan akurasi prediksi yang benar. Hasil dari penelitian ini akan mengidentifikasi pekerja yang menggunakan peralatan pelindung pribadi dalam video. Akurasi rata-rata yang telah diperoleh adalah 93,61%.",
+  "creators": "JONATHAN ADIWIBOWO",
+  "contributors": "Kartika Gunadi (Advisor 1); Liliana (Examination Committee 1); Dr. Endang Setyati (Advisor 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021990/INF/2020; Jonathan Adiwibowo (26416117)",
+  "subjects": "COMPUTATIONAL INTELLIGENCE; PERSONNEL MANAGEMENT--SAFETY MEASURES"
+}

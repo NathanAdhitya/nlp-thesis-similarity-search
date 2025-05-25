@@ -1,0 +1,14 @@
+{
+  "id": "30735",
+  "title": "Perencanaan robot lengan bergerak dengan lima derajat kebebasan",
+  "abstract": "Banyak perencanaan robot yang dibuat oleh mahasiswa Teknik Mesin Universitas Kristen Petra adalah robot dengan sistem kartesian robot yang tidak bisa memberikan performansi yang baik dalam melakukan sebuah perintah. Perencanaan robot lengan bergerak dengan lima derajat kebebasan ini untuk memberikan pemodelan robot yang banyak digunakan dalam dunia industri. Perencanaan dimulai dengan menghitung kinematika dari lengan robot untuk mendapatkan persamaan posisi end effector terhadap base. Kemudian dilakukan perhitungan statika dan keseimbangan dari lengan robot. Perhitungan elemen mesin dilakukan untuk menentukan dimensi dari roda gigi lurus dan roda gigi cacing. Pengujian kontrol ON-OFF dilakukan untuk melihat dan menganalisa sejauh mana robot lengan dapat mengontrol kemampuan repeatability dan akurasi mengulang perintah yang diberikan. Pengujian dilakukan dengan cara uji tiap posisi link dan yang kedua adalah uji untuk gerak secara simultan. Dan dari hasil uji secara keseluruhan, kemampuan repeatability dan akurasi cukup baik dengan menggunakan kontrol On-OFF.",
+  "creators": "ONGGO SUSILO",
+  "contributors": "Didik Wahjudi (Advisor and Examination Committee); Thiang (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01.54.448; Onggo Susilo (24495036)",
+  "subjects": "ROBOT-DYNAMICS; ROBOTS-MOVEMENT; ROBOTICS"
+}

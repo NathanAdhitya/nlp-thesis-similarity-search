@@ -1,0 +1,14 @@
+{
+  "id": "42490",
+  "title": "Permodelan lentur dinding geser untuk analisa non-linier",
+  "abstract": "Shear wall merupakan salah satu komponen penting dalam bangunan tinggi karena memiliki kekuatan dan kekakuan yang tinggi. Oleh karena itu shear wall diharapkan dapat menahan beban lateral (angin atau gempa) dan mengurangi deformasi lateral (drift) yang terjadi. Atas dasar fungsinya tersebut, maka diperlukan permodelan shear wall secara tepat dan efisien. Pada penelitian ini dilakukan validasi permodelan shear wall secara makroskopis menggunakan model Shear-Flexure Interaction Multiple Vertical Line Element Model yang digagas dalam penelitian oleh Kolozvari (2013). Validasi model SFI-MVLEM dilakukan terhadap beberapa spesimen shear wall yang telah dipakai dalam beberapa eksperimen. Spesimen yang digunakan memiliki berbagai konfigurasi, dan yang mengalami kegagalan lentur. Validasi ini dilakukan dengan melakukan kalibrasi parameter-parameter material baja, beton, dan parameter penahan geser yang dipakai dalam eksperimen, yang kemudian dianalisa menggunakan open source program yaitu OpenSees. Hasil validasi model SFI-MVLEM ini menunjukkan bahwa SFI-MVLEM dapat digunakan untuk memprediksi perilaku rectangular shear wall dengan cukup tepat dibandingkan shear wall dengan penampang barbell dan flange. Model SFI-MVLEM dianggap belum mampu mensimulasi local failure yang terjadi pada eksperimen. Selain itu, diperlukan penelitian lebih lanjut untuk mengetahui korelasi antara parameter penahan geser dengan hasil permodelan SFI-MVLEM.",
+  "creators": "SUNARDI WIDJAJA; KEVIN CORNELIUS GONDOMARTONO",
+  "contributors": "Jimmy Chandra (Advisor 1); Joko Purnomo S.T., M.Sc. (Advisor 2); Wong Foek Tjong, S.T., M.T., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 11012199/SIP/2018; Sunardi Widjaja (21414017), Kevin Cornelius G. (21414040)",
+  "subjects": "SHEAR WALLS; WALL PANELS"
+}

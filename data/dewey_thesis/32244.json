@@ -1,0 +1,14 @@
+{
+  "id": "32244",
+  "title": "Perancangan ulang tata letak fasilitas PT Steel Pipe Industry of Indonesia unit 1 gudang 3",
+  "abstract": "PT Steel Pipe Industry of Indonesia adalah perusahaan yang bergerak di bidang manufaktur pipa baja. Alur proses produksi yang kurang baik di Unit 1 Gudang 3 mengakibatkan perusahaan mengeluarkan cost yang berlebih untuk kegiatan transportasi aliran barangnya. Hal ini tentunya juga akan mengakibatkan semakin kecilnya output yang dihasilkan oleh perusahaan khususnya di gudang 3. Tugas akhir ini, melakukan perancangan tata letak fasilitas dengan menggunakan algoritma improvement untuk mencari alternatif tata letak fasilitas yang menghasilkan momen terkecil. Simulasi juga diperlukan untuk menghitung output yang dihasilkan dari tiap model simulasi agar didapatkan model yang terbaik dan menghasilkan output yang lebih besar. Hasil yang didapat dari penggunaan algoritma improvement yang terbaik yaitu layout dengan menggunakan algoritma BLOCPLAN dengan total momen sebesar 1153871.08. Model simulasi yang menghasilkan output terbesar yaitu model penambahan crane. Total output dengan menggunakan model ini yaitu sebesar 32966 untuk proses hydrotest 1 dan 136819 untuk proses hydrotest 5 dengan menggunakan Promodel 10 selama 48 hari.",
+  "creators": "HENRY HUTOMO ALIM",
+  "contributors": "Herri Christian Palit (Advisor 1); Tanti Octavia (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021741/IND/2014; Henry Hutomo Alim (25410053)",
+  "subjects": "PLANT LAYOUT"
+}

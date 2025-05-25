@@ -1,0 +1,14 @@
+{
+  "id": "12543",
+  "title": "Penggunaan program energyplus untuk menganalisa unit ac pada ruang baca bebas dan ruang teater UK Petra",
+  "abstract": "Sistem pengkondisian udara dalam sebuah gedung umumnya telah disesuaikan dengan kebutuhan pemakai dan kondisi gedung tersebut. EnergyPlus merupakan sebuah program freeware yang berfungsi sebagai program simulasi beban pendinginan pada sebuah gedung. Di Universitas Kristern Petra terdapat Ruang Baca Bebas dan Ruang Teater, tetapi belum diketehui apakah kapasitas AC yang terpasang sudah sesuai dengan beban pendinginan ruangan tersebut. Oleh karena itu, EnergyPlus akan digunakan untuk menampilkan simulasi beban pendinginan pada Ruang Baca Bebas dan Ruang Teater UK Petra untuk mengetahui apakah kapasitas AC terpasang telah sesuai dengan beban pendinginan ruangan serta memberikan solusi untuk mengurangi beban pendinginan pada kedua ruangan tersebut. Proses penggunaan EnergyPlus dimulai dari proses input data berdasarkan layout gedung, pengecekan hasil input, simulasi dan menampilkan output. Setelah itu dilakukan analisa apakah kapasitas AC yang terpasang telah sesuai dengan beban pendinginan ruangan tersebut. Lalu dilakukan perubahan pada ruangan seperti penggantian jendela kaca dan menghilangkan alat penerangan untuk mengurangi beban pendinginan ruangan tersebut. Setelah proses simulasi maka diperoleh solusi pengurangan beban pendinginan pada Ruang Baca Bebas yaitu dengan mengganti jendela kaca dengan partisi sehingga dapat mengurangi beban pendinginan sebesar 16% (10.257,67 BTU/h) dari total beban pendinginan di Ruang Baca Bebas.",
+  "creators": "JESSY MARINUS",
+  "contributors": "Ekadewi Anggraini Handoyo (Advisor 1); Hariyo Priambudi Setyo Pratomo, S.T., M.Phil. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010912/MES/2009; Jessy Marinus (24402076)",
+  "subjects": "AIR CONDITIONING; REFRIGERATION AND REFRIGERATING MACHINERY"
+}

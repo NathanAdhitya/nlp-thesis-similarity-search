@@ -1,0 +1,14 @@
+{
+  "id": "60087",
+  "title": "Identifikasi spesies ikan menggunakan metode Convolutional Neural Network",
+  "abstract": "Ikan merupakan hewan yang mempunyai banyak spesies. Karena keanekaragaman spesiesnya, seringkali sulit untuk mengidentifikasi jenis ikannya. Identifikasi spesies ikan merupakan tantangan yang kompleks karena keanekaragaman spesies dan kesamaan di antara mereka. Jaringan saraf konvolusional atau CNN telah terbukti efektif dalam menangani kompleksitas gambar dan memberikan hasil identifikasi yang akurat. Masalah yang ingin diselesaikan adalah meningkatkan akurasi identifikasi ikan melalui pemrosesan gambar sebelum penggunaan model CNN. Proses preprocessing bertujuan untuk meningkatkan kualitas gambar dan meningkatkan informasi yang dibutuhkan oleh model. Kontribusinya adalah membandingkan kinerja model CNN dalam mengidentifikasi ikan menggunakan 2 jenis dataset yaitu yang telah melalui proses preprocessing dan yang belum melalui proses preprocessing. Dengan membandingkan kedua dataset tersebut dapat mengidentifikasi perbedaan akurasi identifikasi ikan menggunakan model CNN. Hasil akurasi terbaik yang dapat dicapai dalam penelitian ini adalah 96% dengan model CNN.",
+  "creators": "EKA SURYA SUHARJO",
+  "contributors": "Leo Willyanto Santoso (Advisor 1); Kartika Gunadi (Examination Committee 1); Henry Novianus Palit, S.Kom., M.Kom., Ph.D. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01022457/INF/2024; Eka Surya Suharjo (C14180151)",
+  "subjects": "DIGITAL IMAGE PROCESSING; IMAGE PROCESSING--DIGITAL TECHNIQUES; NEURAL COMPUTERS--DESIGN AND CONSTRUCTION"
+}

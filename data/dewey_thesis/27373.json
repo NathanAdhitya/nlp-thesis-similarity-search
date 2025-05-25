@@ -1,0 +1,14 @@
+{
+  "id": "27373",
+  "title": "Sistem informasi jual-beli audio mobil di Surabaya",
+  "abstract": "Perusahaan UD. Mantap Jaya Abadi adalah sebuah perusahaan yang bergerak di bidang jual-beli audio mobil di Surabaya. Pada saat ini sistem pemesanan bahan dan pencatatannya menggunakan sistem manual, sehingga sering terjadi kesalahan akibat salah pencatatan dan mengakibatkan hubungan yang tidak baik dengan supplier. Untuk mengurangi kesalahan yang terjadi sehingga dapat menjaga hubungan dengan supplier diperlukan sebuah aplikasi untuk dapat mencatat secara otomatis dan akurat. Desain data flow diagram dan data relationship diagram dibuat menggunakan program PowerDesigner. Aplikasi ini dikembangkan dan dibuat dengan menggunakan bahasa pemrograman VB 6.o dan SQL-Server 2005 sebagai tempat penyimpanan data. Aplikasi yang dibuat meliputi proses pemesanan.retur jual-beli,penjualan,pembelian dan pencatatan data-data perusahaan. Dari hasil pengujian terhadap aplikasi, menunjukkan bahwa aplikasi ini dapat memproses data pemesanan yang berhubungan langsung dengan supplier dan data pengiriman barang yang berhubungan langsung dengan customer. Aplikasi ini dapat menghasilkan laporan laporan penjualan-pembelian,laporan laba rugi,laporan hpp,laporan status karyawan,laporan kartu stok,laporan bonus karyawan,laporan hutang-piutang perusahaan.",
+  "creators": "ONGKY WIRA SETIAWAN",
+  "contributors": "Agustinus Noertjahyana (Advisor 1); Rudy Adipranata (Advisor 2); Justinus Andjarwirawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02021002/INF/2011; Ongky Wira Setiawan (26407103)",
+  "subjects": "DATABASE DESIGN; DATABASE MANAGEMENT; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

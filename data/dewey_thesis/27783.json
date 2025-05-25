@@ -1,0 +1,14 @@
+{
+  "id": "27783",
+  "title": "Perencanaan dan pembuatan trainer mikrokontroler 8031",
+  "abstract": "Salah satu bentuk dari kemajuan teknologi adalah penggunaan mikrokontroller. Tetapi sering kita kurang dapat memahami kerja dari mikrokontroller maka dibuatlah minimum sistem. Tetapi dengan minimum sistem inipun kurang cukup baik untuk memahaminya, maka dibuatlah trainer mikrokontroller 8031. Pada tugas akhir ini dibuat traine mikrokontroller 8031 yang dapat dihubungkan ke IBM - PC untuk menampilkan data/proses yang berlangsung dalam mikrokontroller 8031. Data yang dimasukkan berupa kode mesin yang dimasukkan melalui rangkaian keyboard 8279. Output/tampilan pada monitor yang diperoleh berupa kondisi-kondisi dari register 8031. Langkah-langkah yang dilakukan untuk pembuatan alat ini adalah study literatur, pengumpulan data, perencanaan dan pembuatan alat, dan pengujian alat. Adapun bagian yang akan dibahas meliputi pendahuluan, teori penunjang, perencanaan dan pembuatan alat, pengujian, dan yang terakhir berupa kesimpulan. Dari hasil study ini dapat disimpulkan bahwa trainer mikrokontroler 8031 selain dapat menampilkan kondisi-kondisi register 8031 juga dapat berfungsi sebagai minimum sistem dengan rangkaian targetnya sehingga sangat cocok untuk proses belajar dan mengajar.",
+  "creators": "Gunadi Hardjana",
+  "contributors": "MOCHAMAD HEROE (Examination Committee 1); Murtiyanto Santoso (Advisor 2); AGUS MULYANTO (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/003/0160; Gunadi Hardjana (23485090)",
+  "subjects": "AUTOMATIC CONTROL; MICROCONTROLLERS; MICROCONTROLLER 8031"
+}

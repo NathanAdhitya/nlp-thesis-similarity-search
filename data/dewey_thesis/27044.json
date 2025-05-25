@@ -1,0 +1,14 @@
+{
+  "id": "27044",
+  "title": "Analisa gangguan simultan dengan metode Two-Port dan penerapannya pada sistem 150 kv di Jawa Timur",
+  "abstract": "Kontinuitas serta kestabilan sistem tenaga listrik merupakan syarat utama dari kwalitas suatu sistem. Dengan menjaga hal tersebut maka dapat dihindarkan terjadinya kerusakan peralatan listrik juga terhambatnya suatu proses produksi. Karenanya diperlukan penanganan berbagai gangguan dengan memisahkan daerah terganggu secepat mungkin. Berbagai macam gangguan yang disebabkan dari kebocoran isolator, sambaran petir, putusnya saluran akibat bencana alam dapat dikelompokkan menjadi dua kelompok gangguan yaitu gangguan shunt meliputi gangguan hubung singkat satu phasa ke tanah dua phasa ke tanah, tiga phasa ke tanah. Dan gangguan seri yang meliputi gangguan satu saluran terbuka dan dua saluran terbuka. Kedua kelompok gangguan ini dapat terjadi bersamaan dalam sistem tenaga listrik dan dikenal dengan nama gangguan simultan. Untuk menganalisa gangguan ini digunakan metode Two-Port Network, yaitu dengan mencari parameter-parameter Z, Y, H kemudian dengan operasi matrik dapat ditentukan besaran arus, tegangan selama gangguan. Karena sistem yang dianalisa cukup besar yaitu sistem 150 kV di Jawa Timur maka dipergunakan program komputer untuk mempermudah perhitungan. Dengan adanya analisa gangguan simultan ini terlihat adanya kenaikan arus dan tegangan pada titik gangguan.",
+  "creators": "DANNY GANDAHANINDIJA",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); SOEBAGIO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 91/E/TST/007/0057; Danny Gandahanindija (483022)",
+  "subjects": "ELECTRICITY; ELECTRICITY-TRANSMISSION"
+}

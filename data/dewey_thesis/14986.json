@@ -1,0 +1,14 @@
+{
+  "id": "14986",
+  "title": "Perencanaan dan pembuatan digital governor dengan karakteristik speeddroop dan isokronus dengan menggunakan mikrokontroller 8031 yang diaplikasikan ...",
+  "abstract": "Frekuensi listrik merupakan hal yang mutlak harus diperhatikan, karena apabila terjadi perubahan frekuensi yang besar maka banyak peralatan listrik yang akan rusak. Maka diperlukan alat pengatur kecepatan putar generator yang menyebabkan frekuensi listrik akan konstan yang disebut Governor. Governor memiliki dua karakteristik yaitu Karakteristik Speed Droop dan Karakteristik Isokronus. Berubah-ubahnya frekuensi dari tegangan generator disebabkan oleh banyak hal, salah satu penyebabnya adalah perubahan nilai beban yang dicatu oleh generator, dimana putaran dari generator akan berkurang jika beban yang dicatunya berubah menjadi semakin besar dan bertambah jika beban yang dicatu berubah semakin kecil. Dengan semakin banyaknya penggunaan mikrokontroller dalam bidang tenaga listrik, maka memungkinkan governor dibuat secara elektronik dengan bantuan mikrokontroller. Salah satu mikrokontroller yang umum digunakan adalah 8031 dimana mikrokontroller tersebut memiliki beberapa fasilitas antara lain menghitung frekuensi. Maka dalam tugas akhir ini dibuatlah governor elektronik dengan bantuan mikrokontroller 8031. Governor elektronik yang dibuat dapat berjalan dengan baik dan teliti dengan resolusi 0.3 Hertz. Yaitu perbaikan frekuensi dalam tiap step dari motor stepper dapat memperbaiki frekuensi 0,3 Hertz.",
+  "creators": "ANNAWATI TEDJOKUSUMO",
+  "contributors": "Limboto Limantara (Advisor 1); Anies Hannawati (Advisor 2); BUNAWI GUNAWIDJAJA (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi 98/E/TST/019/216; Anawati Tedjokusumo (23491014)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; INTEL 8031 (MICROCONTROLLER)"
+}

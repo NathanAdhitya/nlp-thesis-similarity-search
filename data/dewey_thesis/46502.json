@@ -1,0 +1,14 @@
+{
+  "id": "46502",
+  "title": "Penurunan selisih stok aktual dengan stok dalam sistem informasi di PT Schneider Electric Manufacturing Batam",
+  "abstract": "PT Schneider Electric Manufacturing Batam mempunyai masalah utama yaitu pada bagian produksi PCBA karena adanya perbedaan antara stok aktual dengan stok berdasarkan sistem. Tujuan penelitian adalah merancang sebuah sistem yang mengatur perpindahan komponen untuk mengurangi perbedaan tersebut. Metode analisa yang digunakan pada penelitian ini adalah Failure Mode and Effect Analysis (FMEA). Terdapat enam faktor yang berpengaruh terhadap terjadinya perbedaan stok aktual dengan sistem perusahaan. Faktor tersebut adalah drop komponen, komponen digunakan oleh debug, kehilangan komponen akibat scrap, salah komponen, drawing yang digunakan tidak update dan terjatuhnya komponen saat pemasangan pada feeder. Hasil penelitian menunjukkan tiga faktor penyebab utama yang menyebabkan perbedaan stok yaitu drop komponen, komponen digunakan oleh debug, kehilangan komponen akibat scrap. Pengurangan perbedaan stok berhasil diselesaikan dengan pendataan dan kontrol komponen menggunakan database sehingga komponen yang dimiliki produksi dapat terdeteksi jumlah dan lokasi komponen diletakkan. Persentase perbedaan stok material sebelum implementasi adalah sebesar 33,58%, setelah implementasi rata-rata persentase menjadi 23,16%.",
+  "creators": "BUDI SETIAWAN",
+  "contributors": "I Nyoman Sutapa (Advisor 1); Kriswanto Widiawan (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01021426/IND/2010; Budi Setiawan (25404064)",
+  "subjects": "BUSINESS LOGISTICS-COMPUTER PROGRAMS; INDUSTRIAL MANAGEMENT; LOGISTICS; MATERIALS MANAGEMENT; MANAGEMENT INFORMATION SYSTEMS"
+}

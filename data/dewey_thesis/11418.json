@@ -1,0 +1,14 @@
+{
+  "id": "11418",
+  "title": "Kontroler PID diskrit dengan menggunakan mikrokontroler atmega 16",
+  "abstract": "Ada 2 macam kontrol PID, yaitu PID Diskrit dan PID Analog. PID analog biasa digunakan dalam dunia industri, namun sekarang mulai beralih menuju PID Diskrit. Sistem PID Diskrit dengan pendekatan backward difference ini menggunakan sebuah motor AC 3 phasa sebagai plant, yang dikontrol oleh mikrokontroler dan dibantu inverter Altivar16 untuk mengendalikan kecepatan. Tuning awal, dilakukan dengan menggunakan metode Ziegler Nichols yang kemudian dijadikan sebagai nilai acuan untuk mencari nilai parameter PID yang terbaik. Dari hasil percobaan (untuk 2 set point, yaitu set point 150 RPM dan 200 RPM) didapatkan nilai Kp terbaik sebesar 2, nilai Ki terbaik sebesar 0.01, dan nilai Kd yang terbaik sebesar 0.65. Dari nilai Kp, Ki dan Kd tersebut diperoleh time rise (tr) = 738.59 ms; time peak (tp) = 701.75 ms; time delay (td) = 350.88 ms; time settling (ts) = 1929.82 ms untuk set point 150 RPM, sedangkan untuk set point 200 RPM diperoleh time rise (tr) = 598.29 ms; time peak (tp) = 7769.23 ms; time delay (td) = 341.88 ms; dan time settling (ts) = 1623.93 ms. Untuk setiap perubahan nilai set point, nilai parameter PID juga berubah.",
+  "creators": "BUDIMAN",
+  "contributors": "Hany Ferdinando (Advisor 1); Handy Wicaksono (Advisor 2); Handry Khoswanto (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02010794/ELK/2006; Budiman (23401104)",
+  "subjects": "AUTOMATIC CONTROL-COMPUTER PROGRAMS; MICROCONTROLLERS"
+}

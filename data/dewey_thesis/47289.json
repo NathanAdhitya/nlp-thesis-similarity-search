@@ -1,0 +1,14 @@
+{
+  "id": "47289",
+  "title": "Sistem monitoring tinggi air di tandon menggunakan arduino dan mobile app",
+  "abstract": "Prosedur pemeriksaan ketinggian air tandon yang masih diterapkan hingga saat ini memiliki beberapa kelemahan. Salah satunya adalah tandon yang seringkali terletak di atap rumah menyebabkan air tandon sukar dipantau. Pada penelitian yang dilakukan oleh Masrur Fuadi, solusi yang diberikan untuk masalah itu dengan menggunakan kawat resistansi. Tetapi bila menggunakan kawat resistansi senyawa yang terdapat dalam air dapat mempengaruhi nilai nya. Hal inilah yang memicu adanya pembuatan aplikasi mobile berbasis android yang dilengkapi oleh arduino beserta komponennya untuk dapat memantau ketinggian air tandon. Perangkat arduino dipasang bagian atas tandon dan sensor ultrasonic HCSR04 menghadap ke bagian dalam tandon. Sensor ultrasonic HC-SR04 akan bekerja untuk menghitung tinggi air di dalam tandon, dan hasil kalkulasi dari sensor akan diteruskan ke aplikasi mobile melalui jaringan internet. Dari penggunaan aplikasi, hasilnya dapat ditampilkan tinggi air secara realtime dengan bentuk persen dan gambar 2D pada aplikasi mobile dengan hasil yang baik, persentase kesesuaian hasil antara hasil ukur manual dengan aplikasi adalah 100% dari lima percobaan yang dilakukan. Selain itu aplikasi dapat memberikan notifikasi berupa Push Notification yang muncul pada saat ketinggian air sudah mencapai batas atas atau batas bawah. Hasil yang didapatkan dari skripsi ini telah memenuhi rumusan masalah yang ada.",
+  "creators": "ANDY NUGRAHA",
+  "contributors": "Ir. Djoni Haryadi Setiabudi, M.Eng. (Advisor 1); Handry Khoswanto (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03021976/INF/2020; Andy Nugraha (26414065)",
+  "subjects": "ANDROID MOBILE OPERATING SYSTEM (ELECTRONIC RESOURCE); ARDUINO (PROGRAMMABLE CONTROLLER)--PROGRAMMING; MOBILE APPS; WATER LEVELS"
+}

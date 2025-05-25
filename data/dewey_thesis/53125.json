@@ -1,0 +1,14 @@
+{
+  "id": "53125",
+  "title": "Sistem untuk menganalisa engagement siswa pada proses pembelajaran daring",
+  "abstract": "Saat ini sistem belajar secara online masih belum lebih baik dari sistem belajar yang dilakukan secara offline. Pengalaman belajar anak dapat dilihat dari tingat ketertarikannya dalam belajar (engagement). Sebuah pra-startup Ding Dong ingin membuat sistem untuk mengukur behavioral engagement dan emotional engagement dengan sebuah kamera. Berdasarkan kebutuhan tersebut, tugas akhir ini bertujuan merancang program yang dapat mendeteksi kehadiran siswa (behavioral engagement) serta mengklasifikasikan emosi siswa (emotional engagement) dalam belajar online. Indentifikasi ini dilakukan melalui kamera dan mengirimkannya ke database. Serta terdapat halaman web bagi guru untuk melihat dan mengevaluasi data siswanya. Sistem ini dibuat terpisah platform pembelajaran daring. Laptop siswa akan digunakan untuk memproses gambar dari webcam. Gambar yang diambil akan diproses untuk mengambil data engagement siswa saat belajar. Program menerapkan konsep deep learning dengan menggunakan bahasa pemrograman Python. Sebelum memasuki tahap klasifikasi emosi, program akan melakukan pengecekan kehadiran siswa dengan face detection untuk menggambarkan behavioural engagement. Berdasarkan hasil pengujian, sistem dapat melakukan face detection dan emotion classification dari ekspresi wajah. Saat diuji pada anak-anak, akurasi dari pembacaan ekspresi wajah adalah sebesar 74,8%. Sistem juga dapat menampilkan data hasil pembacaan pada website untuk bahan evaluasi guru.",
+  "creators": "LEONARD CHRISTOPHER LIMANJAYA",
+  "contributors": "Handry Khoswanto (Advisor 1); Indar Sugiarto (Advisor 2); Felix Pasila (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02011035/ELK/2022; Leonard Christopher Limanjaya (C11180007)",
+  "subjects": "ARTIFICIAL INTELLIGENCE--EDUCATIONAL APPLICATIONS; LEARNING STRATEGIES; PYTHON (COMPUTER PROGRAM LANGUAGE)"
+}

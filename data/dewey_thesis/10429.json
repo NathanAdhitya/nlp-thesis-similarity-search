@@ -1,0 +1,14 @@
+{
+  "id": "10429",
+  "title": "Perancangan dan pembuatan fuzzy association rule mining untuk menganalisa track record penyakit pasien di RSU DR. Soetomo",
+  "abstract": "RSU Dr. Soetomo menggunakan sistem yang terkomputerisasi untuk pencatatan transaksi rumah sakit yang berhubungan dengan track record penyakit pasien. Pihak Rumah Sakit ingin menganalisa track record penyakit pasien yang ada, tetapi hal ini masih tidak dapat dilakukan karena tidak ada aplikasi yang mendukung. Oleh karena itu, dibutuhkan suatu aplikasi yang dapat menganalisa track record penyakit pasien. Aplikasi fuzzy association rule mining dibuat untuk menganalisa track record penyakit pasien untuk menghasilkan suatu knowledge yang berguna bagi rumah sakit dalam pengambilan keputusan. Database dibuat dengan menggunakan Oracle 9i. Aplikasi dibuat dan dikembangkan dengan menggunakan bahasa pemrograman Java. Program yang dibuat meliputi sistem pembuatan fuzzy value dan sistem pembuatan rule. Hasil pengujian terhadap aplikasi, menunjukkan bahwa aplikasi ini mampu menganalisa track record penyakit pasien, sehingga menghasilkan suatu knowledge, dimana knowledge tersebut dapat digunakan dalam pengambilan keputusan.",
+  "creators": "PRAMU RAHARJA HARSALIM",
+  "contributors": "Rolly Intan (Advisor 1); Andreas Handojo (Advisor 2); Leo Willyanto Santoso (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.02010732B/INF/2008; Pramu Raharja Harsalim (26404053)",
+  "subjects": "DATA MINING; DATABASE SEARCHING"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "13621",
+  "title": "Perencanaan dan pembuatan alat penjawab informasi saldo bank melalui jaringan telephone dengan menggunakan mikrokontroller MC68HC11",
+  "abstract": "Perkembangan teknologi yang semakin pesat secara langsung maupun tidak langsung banyak mempengaruhi kehidupan manusia. Sejalan dengan kemajuan teknologi tersebut, bidang komunikasi merupakan salah satu bidang yang memiliki kemajuan yang cukup baik sehingga tercipta alat-alat yang mampu mempermudah dan menunjang kelancaran berkomunikasi. Saat ini telepon merupakan salah satu sarana komunikasi yang sangat penting dimana dengan sarana tersebut kita dapat berhubungan dengan seseorang dan memperoleh informasi yang kita harapkan. Demikian juga dalam dunia perbankan, yang mana telepon berfungsi sebagai sarana penghubung antara pihak bank dan para nasabah. Dewasa ini pemberitahuan informasi saldo dari bank ke para nasabah atau sebaliknya melalui jalur telepon masih menggunakan bantuan operator di bank dimana operator tersebut yang akan menjawab informasi saldo yang dikehendaki. Hal tersebut memerlukan waktu yang cukup lama, oleh karena itu di perlukan sebuah alat penunjang yang dapat menggantikan po sisi operator tersebut yaitu dengan bantuan sebuah kompu ter dan alat penjawab informasi saldo bank melalui jalur telepon dengan bantuan sebuah mikrokontroller MC68HC11. Pihak nasabah cukup memberikan kode-kode tertentu melalui dialer telepon yang berupa tone-tone telepon, dimana akan diterima oleh rangkaian penerima di bank. Tone-tone tersebut akan diolah oleh minimum sistem MC68HC11, yang kemudian akan mengambil data-data yang sesuai dengan kode yang diterima dari bank komputer. Setelah proses tersebut data-data yang telah diambil akan dikirim ke nasabah melalui jalur telepon, yang nantinya data-data tersebut akan diprosess kembali oleh mikrokontroller MC68HC11 yang ada pada user dan ditampilkan pada layar LCD.",
+  "creators": "ANDY WIJONO",
+  "contributors": "HANDAYANI T. (Advisor 1); Rolly Intan (Advisor 2); NAWANTO WIBOWO (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 94/E/EL/026/0183; Andy Wijono (23488001)",
+  "subjects": "TELEPHONE-ANSWERING AND RECORDING APPARATUS; MC68HC11 (MICROCONTROLLER)"
+}

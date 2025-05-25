@@ -1,0 +1,14 @@
+{
+  "id": "10490",
+  "title": "Perencanaan dan pembuatan programmable logic controller dengan menggunakan maksimum mode 8088",
+  "abstract": "Dewasa ini pengontrolan proses industri yang efisien sangat dibutuhkan. Efisiensi ini antara lain adalah bila proses industri mengalami perubahan maka tidak diperlukan biaya yang besar untuk merubah sistemnya. Untuk menghadapi masalah tersebut, salah satu alat pengontrol yang banyak dipergunakan pada industri adalah Programmable Logic Controller (PLC) yaitu suatu alat pengontrol yang dapat diprogram. Dalam tugas akhir ini dibuat sebuah Programmable Logic Controller (PLC) yang memiliki 'channel input /output' masing-masing sebanyak 12 titik. Dengan spesifikasi input/output masing-masing 2 macam. PLC beroperasi dengan menguji sinyal input dari peralatan luar. Sinyal input ini diproses sesuai dengan program yang ada dalam memori untuk menghasilkan sinyal output pada peralatan luar yang lain. 'Interface standard' dalam PLC memungkinkan untuk secara langsung dihubungkan ke penggerak proses (misalnya motor) dan 'switch' pembatas (Limit Switch). Komputer IBM PC sebagai alat pemrograman sangat membantu, karena dapat langsung menampilkan simbol-simbol diagram ladder yang dibutuhkan pada waktu pembuatan program. Dengan menggunakan PLC maka sistem pengkawatannya menjadi lebih sederhana dan efisien.",
+  "creators": "ADRIDJAJA EDNAR KARTAATMAJA",
+  "contributors": "DWI SUTANTO (Advisor and Examination Committee)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/004/0094; Adridjaja Ednar Kartaatmadja (14486010)",
+  "subjects": "AUTOMATIC CONTROL; PROGRAMMABLE CONTROLLERS; ELECTRIC CONTROLLERS-DATA PROCESSING"
+}

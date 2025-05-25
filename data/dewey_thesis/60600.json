@@ -1,0 +1,14 @@
+{
+  "id": "60600",
+  "title": "Sistem informasi pendukung tender dengan implementasi metode MCDM untuk pemilihan supplier di PT XYZ",
+  "abstract": "PT XYZ merupakan perusahaan vendor penyedia suku cadang bagi Pupuk Indonesia. Untuk menyediakan barang yang diminta, PT XYZ umumnya mencari perusahaan supplier yang dapat memproduksi atau menawarkan barang tersebut. Barang tersebut kemudian ditawarkan kepada klien melalui proses tender. Selama ini, seluruh pencatatan terkait persiapan untuk tender tersebut masih dilakukan secara manual, sehingga data yang ada tidak tersentralisasi. Dampaknya, keputusan pemilihan supplier juga harus mengandalkan ingatan karyawan senior. Sebab, beberapa kriteria pemilihan yang ada berdasarkan dari riwayat, sementara riwayat transaksi dengan supplier tersimpan dalam bentuk yang sulit diolah. Oleh karena itu, sistem informasi pendukung tender dikembangkan untuk mewujudkan sentralisasi data pada PT XYZ. Fitur sistem pendukung keputusan dengan implementasi metode Multi Criterion Decision Making juga ditambahkan pada sistem, agar memudahkan delegasi tugas untuk pemilihan supplier. Metode yang diujikan untuk pemilihan supplier adalah AHP-PROMETHEE dan AHP-VIKOR. Metode AHP dirasa dapat menghasilkan bobot yang konsisten bagi kriteria pemilihan PT XYZ yang memiliki tingkat preferensi beragam. Metode PROMETHEE diharapkan dapat mengakomodasi kombinasi kriteria kuantitatif dan kualitatif dalam pemilihan, sedangkan VIKOR diharapkan dapat mengakomodasi skenario pemilihan dengan kriteria yang bertentangan. Hadirnya sistem informasi pendukung tender terbukti mampu menyederhanakan proses bisnis di PT XYZ, dengan pengurangan langkah pengerjaan sebesar 24% dan waktu pengerjaan sebesar 79%. Fitur sistem pendukung keputusan juga mampu mereplikasi logika pemilihan PT XYZ dengan baik. Kedua metode mampu menghasilkan ranking dengan nilai Normalized Discounted Cumulative Gain mendekati 1.0, namun metode AHP-PROMETHEE ternyata lebih unggul dengan rata-rata nDCG sebesar 0.8789.",
+  "creators": "GRACE NATASHA",
+  "contributors": "Alexander Setiawan (Advisor 1); Alvin Nathaniel Tjondrowiguno, S.Kom., M.T. (Advisor 2); Agustinus Noertjahyana (Examination Committee 1); Lily Puspa Dewi, S.T., M.Kom. (Examination Committee 2)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 02022498/INF/2024; Grace Natasha (C14200021)",
+  "subjects": "DATABASE DESIGN--COMPUTER PROGRAMS; MANAGEMENT INFORMATION SYSTEMS; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

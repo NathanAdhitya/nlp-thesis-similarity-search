@@ -1,0 +1,14 @@
+{
+  "id": "3883",
+  "title": "Perancangan dan pembuatan aplikasi editor fasilitas kota pada peta online berbasis web",
+  "abstract": "Dengan semakin banyaknya tempat-tempat baru maka dibutuhkan sarana yang dapat menyimpan informasi dari tempat-tempat tersebut. Sarana yang ada sekarang adalah peta kartografi atau peta manual. Terdapat beberapa keterbatasan dalam menggunakan peta jenis ini, diantaranya adalah ukuran peta yang relatif sangat besar sehingga menyulitkan dalam pencarian lokasi tertentu. Keterbatasan yang lain adalah data yang disimpan tidak dapat beraneka ragam dan tidak up to date. Hal ini disebabkan peta tersebut sudah dicetak di atas kertas sehingga informasi tersebut bersifat statis. Pada Tugas Akhir ini dikembangkan sebuah aplikasi dengan dua bagian besar, yang pertama ditujukan kepada user biasa yang disebut dengan Map Online. Bagian kedua ditujukan kepada administrator disebut dengan Map Editor Online. Kedua bagian ini diharapkan dapat mengatasi beberapa keterbatasan dari peta manual. Peta yang digunakan sebagai inputan adalah file gambar beresolusi besar. Map Online dan Map Editor Online dibuat dengan bahasa pemograman PHP, GD Library dan JavaScript. Dalam penggunaannya, user dapat melihat fasilitas yang ada dalam database pada peta dan mencari fasilitas dari tiap kategori fasilitas. Administrator dapat menambahkan kategori dan fasilitas-fasilitas baru pada peta yang sudah ada.",
+  "creators": "RENDY",
+  "contributors": "Resmana Lim (Advisor 1); Silvia Rostianingsih (Advisor 2); Gregorius Satiabudhi (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 01010549/INF/2006; Rendy (26402119)",
+  "subjects": "DATABASE DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS)"
+}

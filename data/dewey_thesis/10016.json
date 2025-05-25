@@ -1,0 +1,14 @@
+{
+  "id": "10016",
+  "title": "Analisa keandalan teknis kelistrikan berdasarkan evaluasi setting OCR (over current relay) dan recloser. Studi kasus: jaringan distribusi Jawa Timur",
+  "abstract": "Saat ini, tingkat keandalan teknis kelistrikan dari suatu sistem distribusi adalah penting guna menjamin kontinuitas supply tenaga listrik kepada konsumen. Karena itu, disadari pentingnya otomatisasi sistem distribusi, yang salah satunya dapat dicapai dengan menggunakan recloser. Tugas akhir ini dibuat dengan tujuan mempelajari cara setting dari OCR (Over Current Relay) di Gardu Induk Waru dan recloser di jaringan distribusi 20kV penyulang A. Yani. Sejumlah studi kasus dilakukan untuk melihat pengaruh dari keberadaan recloser di jaringan. Berdasarkan hasil analisa, OCR disetting pada 1,25 I bmaks = Is = 0,8 I hs min selain itu, setting dari OCR haruslah lebih tinggi dari setting recloser dengan harapan recloser dapat mengisolir gangguan yang terjadi di zonenya terlebih dahulu dan area pemadaman dapat diminimalkan. Dari hasil simulasi dengan menggunakan program Power Plot V 2.5, agar dapat mengkoordinasikan antara OCR dan recloser di jaringan, maka time dial dari OCR yang semula tanpa keberadaan recloser disetting pada nilai yang rendah (0.075 Standar Inverse), maka untuk memberikan ruang koordinasi bagi recloser, time dial dari OCR haruslah dinaikkan sedemikian rupa sehingga kurvanya tidak saling berpotongan satu dengan yang lainnya (1 Standar Inverse).",
+  "creators": "ANTON HARTOYO",
+  "contributors": "ONTOSENO PENANGSANG (Advisor 1); Emmy Hosea (Advisor 2); Prof. Ir. Hanny Hosiana Tumbelaka, M.Sc., Ph.D. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No.01010570/ELK/2008; Anton Hartoyo (23403047)",
+  "subjects": "ELECTRIC POWER DISTRIBUTION; ELECTRIC POWER SYSTEM"
+}

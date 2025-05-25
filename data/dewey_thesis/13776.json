@@ -1,0 +1,14 @@
+{
+  "id": "13776",
+  "title": "Perancangan sistem informasi pengendalian persediaan di Supermarket Sinar Jemur Andayani Surabaya",
+  "abstract": "Sistem informasi yang baik akan sangat mempermudah Supermarket Sinar dalam melakukan kegiatan sehari-hari, terutama yang sifatnya berulang-ulang, seperti melakukan pemeriksaan persediaan barang, mencatat barang yang masuk maupun yang keluar, serta memesan barang yang tidak mencukupi persediaannya. Sistem pengendalian persediaan yang sekarang diterapkan di Supermarket Sinar masih bersifat manual dan berdasarkan perkiraan saja, baik dalam hal penentuan jumlah pesanan maupun saat pemesanan barang. Keadaan ini, menyebabkan terjadinya penyimpanan barang secara berlebihan atau kehabisan persediaan, selain itu memungkinkan pula terhambatnya informasi antar bagian yang terlibat, sehingga menimbulkan kesalahan, pengulangan pekerjaan bahkan tidak dilaksanakannya suatu pekerjaan. Perancangan sistem informasi disesuaikan dengan kondisi di Supermarket Sinar serta dilakukan berdasarkan analisa terhadap prosedur pemeriksaan persediaan, pemesanan, pengembalian, dan penjualan barang. Sistem informasi tersebut dipadukan dengan sistem pengendalian persediaan, yang diawali dengan peramalan permintaan barang dimasa mendatang dengan metode Multiplicative Decomposition dan selanjutnya dilakukan perhitungan dengan metode Economic Order Quantity probabilistik dengan mempertimbangkan adanya lost sales, sehingga diketahui jumlah pemesanan, titik pemesanan kembali beserta persediaan pengaman yang memungkinkan total biaya minimum. Baik sistem informasi maupun sistem pengendalian persediaan tersebut, seluruhnya berbasis komputer. Untuk menunjang realisasi dari hasil rancangan, maka telah dibuat program basis data menggunakan software Foxpro versi 2.6 yang mencakup keseluruhan rancangan.",
+  "creators": "JANE",
+  "contributors": "Oviliani Yenty Yuliana (Advisor 1); Stevanus Adrianto Tjandra (Advisor 2); I Gede Agus Widyadana (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 009/TMI-009/1996; Jane (25492008)",
+  "subjects": "MANAGEMENT INFORMATION SYSTEMS; MATERIALS MANAGEMENT"
+}

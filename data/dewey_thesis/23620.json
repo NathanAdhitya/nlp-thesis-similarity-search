@@ -1,0 +1,14 @@
+{
+  "id": "23620",
+  "title": "Perencanaan dan pembuatan lengan robot artikulasi yang dikendalikan oleh IBM PC",
+  "abstract": "Sistem pengendali lengan robot artikulasi yang dikendalikan oleh IBM PC merupakan suatu sistem yang bertujuan untuk mengendalikan motor pada sistem mekanis dari lengan robot itu sendiri. Sistem pengendali lengan robot dengan komputer yang umum kita jumpai saat ini masih menghandalkan sepenuhnya pada komputer induk . Komputer induk masih mengawasi sepenuhnya kerja dari sistem mekanis lengan robot. Sistem pengendali lengan robot yang dirancang untuk tugas akhir ini bertujuan pada sistem multitasking, yang dimaksud dengan multitasking di sini adalah prosesor dapat melakukan beberapa pekerjaan secara bersamaan, jadi setiap modul yang ada dapat mengolah data yang telah diterima dari komputer induk. Jadi dari komputer induk hanya sebagai pemberi parameter untuk gerakan lengan robot, selanjutnya komputer induk dapat digunakan untuk tugas yang lainnya, jika pemberian parameter pada modul telah selesai dilakukannya. Pada sistem pengendali ini masing-masing modul mikrokontroler dihubungkan dengan komputer induk dengan sistem komunikasi serial RS-485. Penggunaan komunikasi serial RS-485 ini lebih menguntungkan bila dibandingkan dengan RS-232, baik jarak komunikasinya yang lebih jauh maupun kecepatan pengirimannya. Dengan penggunaan sistem pengendali ini akan lebih nenguntungkan karena komputer induk dapat digunakan untuk proses lain selama modul tidak memerlukan parameter yang baru, dan semua pengendalian modul dapat diprogram dan diubah dengan mudah sesuai keinginan.",
+  "creators": "TJANDRA HARTONO",
+  "contributors": "MOCHAMAD HEROE (Examination Committee 1); DWI SUTANTO (Advisor 2); HANDAYANI T. (Advisor 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 92/E/EL/014/0104; Tjandra Hartono (484004)",
+  "subjects": "ROBOTS-CONTROL SYSTEMS"
+}

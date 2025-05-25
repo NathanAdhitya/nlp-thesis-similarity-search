@@ -1,0 +1,14 @@
+{
+  "id": "23471",
+  "title": "Pembuatan situs web Persekutuan Alumni Universitas Kristen Petra (PAKTA) dengan broadcast SMS",
+  "abstract": "Lulusan mahasiswa Universitas Kristen Petra hampir setiap tahun bertambah banyak. Untuk itu harus ada penyampaian informasi dan komunikasi yang baik agar hubungan antar alumni tetap ada. Informasi ini dapat disampaikan juga melalui media website dengan broadcast SMS (Short Message Service). Fitur-fitur website dengan broadcast SMS yang dibuat ada beberapa bagian yaitu, SMS otomatis (menggunakan task scheduler), inbox, outbox, SMS Single, dan SMS Group. Website ini dibangun menggunakan sistem manajemen konten (Content Management System) Joomla versi 1.5.15. Sistem dari SMS Gateway (broadcast SMS) sendiri yang dibangun dengan arsitektur client-server terdiri dari tiga bagian, yaitu server yang berfungsi mengakomodasi kebutuhan aplikasi SMS yang akan dibangun, mobile network SMS center berfungsi sebagai perantara dari komunikasi server dan client, dan client merupakan mobile phone yang berhubungan dengan server.",
+  "creators": "ELKYONIS MUABUAY",
+  "contributors": "Resmana Lim (Advisor 1); Heri Saptono Warpindyasmoro (Advisor 2); Petrus Santoso, S.T., M.Sc. (Examination Committee 1)",
+  "publisher": "Universitas Kristen Petra",
+  "language": "Indonesian",
+  "theme": "Digital Theses",
+  "category": "Undergraduate Thesis",
+  "sub_category": "Skripsi/Undergraduate Thesis",
+  "source": "Skripsi No. 03010098/ELK/2011; Elkyonis Muabuay (23406053)",
+  "subjects": "WEBSITES-DESIGN; PROGRAMMING (ELECTRONIC COMPUTERS); INTERNET (COMPUTER NETWORK)"
+}
