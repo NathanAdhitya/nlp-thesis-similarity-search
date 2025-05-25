@@ -17,7 +17,7 @@ def load_canonical_data(file_path: str) -> Dict:
         return json.load(f)
 
 def combine_author_datasets(dewey_file: str, scholar_file: str, output_file: str, cross_match_threshold: float = 2.0):
-    """Combine Dewey and Scholar author datasets into a unified canonical mapping."""
+    """Combine Dewey and Scholar author datasets with cross-matching."""
     print("=== Combining Author Datasets ===\n")
     
     # Load both datasets
@@ -28,82 +28,127 @@ def combine_author_datasets(dewey_file: str, scholar_file: str, output_file: str
         print("Failed to load one or both datasets!")
         return
     
-    print(f"Loaded Dewey names: {len(dewey_data.get('canonical_mapping', {}))}")
-    print(f"Loaded Scholar names: {len(scholar_data.get('canonical_mapping', {}))}")
+    print(f"Loaded Dewey data: {dewey_data['total_clusters']} clusters")
+    print(f"Loaded Scholar data: {scholar_data['total_clusters']} clusters")
     
-    # Combine all names from both datasets
-    all_names = set()
+    # Get all canonical names from both datasets
+    dewey_canonicals = set(dewey_data['canonical_mapping'].values())
+    scholar_canonicals = set(scholar_data['canonical_mapping'].values())
     
-    # Add all names from Dewey dataset
-    for name in dewey_data.get('canonical_mapping', {}).keys():
-        all_names.add(name)
+    print(f"Dewey canonical names: {len(dewey_canonicals)}")
+    print(f"Scholar canonical names: {len(scholar_canonicals)}")
     
-    # Add all names from Scholar dataset  
-    for name in scholar_data.get('canonical_mapping', {}).keys():
-        all_names.add(name)
+    # Find cross-matches between datasets
+    print("\nFinding cross-matches between datasets...")
+    cross_matches = []
     
-    print(f"Total unique names before clustering: {len(all_names)}")
-    
-    # Re-cluster all names together
-    print(f"Clustering all names with max weighted distance: {cross_match_threshold}")
-    unified_clusters = cluster_names_by_similarity(all_names, cross_match_threshold)
-    
-    print(f"After unified clustering: {len(unified_clusters)} unique canonical names")
-    
-    # Create unified canonical mapping
-    unified_canonical_mapping = {}
-    unified_merged_clusters = []
-    
-    for canonical_name, similar_names in unified_clusters.items():
-        # Create mapping for each variant to canonical
-        for name in similar_names:
-            unified_canonical_mapping[name] = canonical_name
+    for i, dewey_name in enumerate(dewey_canonicals):
+        if (i + 1) % 100 == 0:
+            print(f"Cross-matching {i + 1}/{len(dewey_canonicals)} names...")
         
-        # Only add to merged_clusters if it's actually merged (more than 1 name)
-        if len(similar_names) > 1:
-            unified_merged_clusters.append({
-                "canonical": canonical_name,
-                "variants": similar_names,
-                "count": len(similar_names)
-            })
+        for scholar_name in scholar_canonicals:
+            distance = weighted_name_distance(dewey_name, scholar_name)
+            if distance <= cross_match_threshold:
+                cross_matches.append({
+                    'dewey_name': dewey_name,
+                    'scholar_name': scholar_name,
+                    'distance': distance
+                })
     
-    # Create simplified output data
+    print(f"Found {len(cross_matches)} cross-matches")
+    
+    # Create combined canonical mapping
+    combined_mapping = {}
+    
+    # Start with Dewey data
+    for name, canonical in dewey_data['canonical_mapping'].items():
+        combined_mapping[name] = canonical
+    
+    # Add Scholar data with prefix to avoid conflicts
+    for name, canonical in scholar_data['canonical_mapping'].items():
+        # Check if this scholar name matches any dewey name
+        matched_dewey = None
+        for match in cross_matches:
+            if match['scholar_name'] == canonical:
+                matched_dewey = match['dewey_name']
+                break
+        
+        if matched_dewey:
+            combined_mapping[name] = matched_dewey
+        else:
+            combined_mapping[name] = canonical
+    
+    # Create cross-reference clusters
+    cross_reference_clusters = []
+    matched_dewey = set()
+    matched_scholar = set()
+    
+    for match in cross_matches:
+        dewey_canonical = match['dewey_name']
+        scholar_canonical = match['scholar_name']
+        
+        if dewey_canonical not in matched_dewey and scholar_canonical not in matched_scholar:
+            # Create a combined cluster
+            dewey_variants = [name for name, canonical in dewey_data['canonical_mapping'].items() 
+                            if canonical == dewey_canonical]
+            scholar_variants = [name for name, canonical in scholar_data['canonical_mapping'].items() 
+                              if canonical == scholar_canonical]
+            
+            cross_cluster = {
+                'combined_canonical': dewey_canonical,  # Use Dewey name as primary
+                'dewey_canonical': dewey_canonical,
+                'scholar_canonical': scholar_canonical,
+                'dewey_variants': dewey_variants,
+                'scholar_variants': scholar_variants,
+                'cross_match_distance': match['distance'],
+                'total_variants': len(dewey_variants) + len(scholar_variants)
+            }
+            
+            cross_reference_clusters.append(cross_cluster)
+            matched_dewey.add(dewey_canonical)
+            matched_scholar.add(scholar_canonical)
+    
+    # Create output data
     output_data = {
-        "source": "combined_dewey_scholar",
-        "canonical_mapping": unified_canonical_mapping,
-        "merged_clusters": unified_merged_clusters,
-        "statistics": {
-            "total_names": len(all_names),
-            "canonical_names": len(unified_clusters),
-            "merged_clusters": len(unified_merged_clusters),
-            "names_merged": sum(len(cluster["variants"]) - 1 for cluster in unified_merged_clusters),
-            "reduction_percentage": round((sum(len(cluster["variants"]) - 1 for cluster in unified_merged_clusters) / len(all_names)) * 100, 2)
-        }
+        'metadata': {
+            'dewey_source': dewey_file,
+            'scholar_source': scholar_file,
+            'cross_match_threshold': cross_match_threshold,
+            'dewey_clusters': dewey_data['total_clusters'],
+            'scholar_clusters': scholar_data['total_clusters'],
+            'cross_matches_found': len(cross_matches),
+            'combined_clusters': len(cross_reference_clusters)
+        },
+        'dewey_data': dewey_data,
+        'scholar_data': scholar_data,
+        'cross_matches': cross_matches,
+        'cross_reference_clusters': cross_reference_clusters,
+        'combined_mapping': combined_mapping
     }
     
-    # Save unified data
+    # Save combined data
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
     
-    print(f"\nUnified data saved to: {output_file}")
+    print(f"\nCombined data saved to: {output_file}")
     
     # Show statistics
-    print(f"\n=== Unified Dataset Statistics ===")
-    print(f"Total input names: {len(all_names)}")
-    print(f"Canonical names after clustering: {len(unified_clusters)}")
-    print(f"Merged clusters: {len(unified_merged_clusters)}")
-    print(f"Names merged: {output_data['statistics']['names_merged']}")
-    print(f"Reduction: {output_data['statistics']['reduction_percentage']}%")
+    print(f"\n=== Combined Dataset Statistics ===")
+    print(f"Total Dewey clusters: {dewey_data['total_clusters']}")
+    print(f"Total Scholar clusters: {scholar_data['total_clusters']}")
+    print(f"Cross-reference clusters: {len(cross_reference_clusters)}")
+    print(f"Dewey names with Scholar matches: {len(matched_dewey)}")
+    print(f"Scholar names with Dewey matches: {len(matched_scholar)}")
     
-    # Show sample merged clusters
-    print(f"\n=== Sample Merged Clusters ===")
-    for i, cluster in enumerate(unified_merged_clusters[:10]):
-        print(f"\nCluster {i+1}: '{cluster['canonical']}' ({cluster['count']} variants)")
-        for variant in cluster['variants']:
-            if variant != cluster['canonical']:
-                dist = weighted_name_distance(cluster['canonical'], variant)
-                print(f"  - '{variant}' (distance: {dist:.2f})")
+    # Show sample cross-reference clusters
+    print(f"\n=== Sample Cross-Reference Clusters ===")
+    for i, cluster in enumerate(cross_reference_clusters[:5]):
+        print(f"\nCluster {i+1}:")
+        print(f"  Dewey canonical: '{cluster['dewey_canonical']}'")
+        print(f"  Scholar canonical: '{cluster['scholar_canonical']}'")
+        print(f"  Distance: {cluster['cross_match_distance']:.2f}")
+        print(f"  Total variants: {cluster['total_variants']}")
     
     return output_data
 

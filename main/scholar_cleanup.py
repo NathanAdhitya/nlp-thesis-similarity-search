@@ -26,13 +26,10 @@ def load_scholar_authors(csv_file: str) -> Set[str]:
         with open(csv_file, 'r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
             for i, row in enumerate(reader, 1):
-                # Assuming the author name is in a column called 'author' or 'name'
-                # Adjust the column name based on your CSV structure
-                author_name = row.get('author') or row.get('name') or row.get('Author') or row.get('Name')
+                author_name = row.get('name', '').strip()
                 
-                if author_name and author_name.strip():
-                    # Clean and standardize the name
-                    clean_name = clean_scholar_name(author_name.strip())
+                if author_name:
+                    clean_name = clean_scholar_name(author_name)
                     if clean_name and len(clean_name) > 1:
                         author_names.add(clean_name)
                 
@@ -95,24 +92,28 @@ def analyze_scholar_authors(csv_file: str, max_distance: float = 2.0, save_canon
         
         # Create the canonical mapping
         canonical_mapping = {}
-        merged_clusters = []
+        cluster_info = []
         
         for canonical_name, similar_names in clusters.items():
-            # Create mapping for each variant to canonical
-            for name in similar_names:
-                canonical_mapping[name] = canonical_name
-            
-            # Only add to merged_clusters if it's actually merged (more than 1 name)
             if len(similar_names) > 1:
-                merged_clusters.append({
-                    "canonical": canonical_name,
-                    "variants": similar_names
-                })
+                cluster_entry = {
+                    "canonical_name": canonical_name,
+                    "variants": similar_names,
+                    "count": len(similar_names)
+                }
+                cluster_info.append(cluster_entry)
+                
+                for name in similar_names:
+                    canonical_mapping[name] = canonical_name
+            else:
+                canonical_mapping[canonical_name] = canonical_name
         
         output_data = {
             "source": "google_scholar",
+            "total_clusters": len(clusters),
+            "merged_clusters": len([c for c in clusters.values() if len(c) > 1]),
             "canonical_mapping": canonical_mapping,
-            "merged_clusters": merged_clusters
+            "cluster_details": cluster_info
         }
         
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
@@ -122,14 +123,12 @@ def analyze_scholar_authors(csv_file: str, max_distance: float = 2.0, save_canon
         print(f"Scholar canonical clusters saved to: {output_file}")
     
     # Analyze clustering results
-    merged_count = sum(1 for cluster in clusters.values() if len(cluster) > 1)
     merged_names = []
     for canonical, similar_names in clusters.items():
         if len(similar_names) > 1:
             merged_names.extend(similar_names[1:])
     
-    print(f"\nMerged clusters: {merged_count}")
-    print(f"Names that were merged: {len(merged_names)}")
+    print(f"\nNames that were merged: {len(merged_names)}")
     print(f"Reduction: {len(merged_names)} names ({len(merged_names)/len(standardized_names)*100:.1f}%)")
     
     # Show some merged clusters
