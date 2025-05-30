@@ -188,4 +188,6 @@ cython_debug/
 .cursorindexingignore
 
 # SQL database files
-C:/Documents/Kuliah/Semester 6/Natural Language Processing/nlp-thesis-similarity-search/main/sql_FAISS/database_with_vector.sql
+main/sql_FAISS/database_with_vector.sql
+/main/sql_FAISS/database_with_vector.sql
+*.sql
