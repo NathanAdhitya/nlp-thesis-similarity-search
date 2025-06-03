@@ -1,8 +1,7 @@
 import mysql.connector
 from sentence_transformers import SentenceTransformer
 from main.sql_FAISS.thesis_search_engine import SearchEngine
-
-# from main.sql_FAISS.search_utils import get_embedding, print_formatted_results
+import numpy as np
 
 database = mysql.connector.connect(
     host="localhost",
@@ -24,5 +23,17 @@ except Exception as e:
     print(f"Error initializing search engine: {e}")
 
 def search(query):
-    results = search_manager.quick_search(query, top_k=100)
-    print(results)
+    results = search_manager.quick_search(query, top_k=10)
+    return results
+
+def convert_to_json_serializable(obj):
+    if isinstance(obj, dict):
+        return {k: convert_to_json_serializable(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [convert_to_json_serializable(i) for i in obj]
+    elif isinstance(obj, (np.float32, np.float64)):
+        return float(obj)
+    elif isinstance(obj, (np.int32, np.int64)):
+        return int(obj)
+    else:
+        return obj

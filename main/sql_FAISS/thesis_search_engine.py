@@ -4,8 +4,7 @@ import json
 import mysql.connector
 from typing import List, Dict, Any, Optional, Tuple, Union
 from sentence_transformers import SentenceTransformer
-from search_utils import get_embedding
-from search_utils import print_formatted_results
+from main.sql_FAISS.search_utils import get_embedding, print_formatted_results
 
 class ThesisSimilaritySearch:
     def __init__(self, model, use_title=False, use_abstract=True):
@@ -218,7 +217,7 @@ class ThesisSimilaritySearch:
                 
                 # Calculate similarity score (convert distance to similarity)
                 similarity = 1 / (1 + distances[0][i])
-                
+
                 results.append({
                     'id': paper_id,
                     'title': metadata['title'],
@@ -309,7 +308,7 @@ class SearchEngine:
             force_reload=True
         )
     
-    def quick_search(self, query, top_k=5, show_abstract=True, show_authors=True, 
+    def quick_search(self, query, top_k=5, show_abstract=True, show_authors=True,
                     show_contributors=True, show_metrics=True):
         """
         Perform a quick search using the cached search engine

@@ -67,9 +67,16 @@
 	];
 
 	let loading = false;
-	async function fetchResults(text) {
+	async function fetchResults(query) {
 		loading = true
-		await new Promise(resolve => setTimeout(resolve, 1500));
+		const res = await fetch(`http://127.0.0.1:5000/search/${encodeURIComponent(query)}`);
+
+		if (!res.ok) {
+			throw new Error("Failed to fetch data");
+		}
+		const json = await res.json();
+		results = json.data.topPapers;
+
 		loading = false
 	}
 
@@ -100,42 +107,42 @@
 				<Loading bind:active={loading}/>
 
 				{#if query.trim() !== '' && !loading}
-					<h4 style="padding-top: 2.5rem;">Showing top 100 results / Showing results with > 0.5 similarity for "{query}"</h4>
-					<Row style="padding-top: 0.5rem; padding-bottom: 1rem;">
-						<Column>
-							<Tile>
-								<h4 style="margin: 0;">Author</h4>
-								<h6 style="margin: 0;">Test</h6>
-							</Tile>
-						</Column>
-						<Column>
-							<Tile>
-								<h4 style="margin: 0;">Author</h4>
-								<h6 style="margin: 0;">Test</h6>
-							</Tile>
-						</Column>
-						<Column>
-							<Tile>
-								<h4 style="margin: 0;">Author</h4>
-								<h6 style="margin: 0;">Test</h6>
-							</Tile>
-						</Column>
-						<Column>
-							<Tile>
-								<h4 style="margin: 0;">Author</h4>
-								<h6 style="margin: 0;">Test</h6>
-							</Tile>
-						</Column>
-						<Column>
-							<Tile>
-								<h4 style="margin: 0;">Author</h4>
-								<h6 style="margin: 0;">Test</h6>
-							</Tile>
-						</Column>
-					</Row>
-					<Row>
-						<PaginationNav style="margin: auto; margin-bottom: 1rem;" total={100} shown={5} />
-					</Row>
+					<h4 style="padding-top: 2.5rem; padding-bottom: 0.5rem;">Showing top 100 results / Showing results with > 0.5 similarity for "{query}"</h4>
+<!--					<Row style="padding-top: 0.5rem; padding-bottom: 1rem;">-->
+<!--						<Column>-->
+<!--							<Tile>-->
+<!--								<h4 style="margin: 0;">Author</h4>-->
+<!--								<h6 style="margin: 0;">Test</h6>-->
+<!--							</Tile>-->
+<!--						</Column>-->
+<!--						<Column>-->
+<!--							<Tile>-->
+<!--								<h4 style="margin: 0;">Author</h4>-->
+<!--								<h6 style="margin: 0;">Test</h6>-->
+<!--							</Tile>-->
+<!--						</Column>-->
+<!--						<Column>-->
+<!--							<Tile>-->
+<!--								<h4 style="margin: 0;">Author</h4>-->
+<!--								<h6 style="margin: 0;">Test</h6>-->
+<!--							</Tile>-->
+<!--						</Column>-->
+<!--						<Column>-->
+<!--							<Tile>-->
+<!--								<h4 style="margin: 0;">Author</h4>-->
+<!--								<h6 style="margin: 0;">Test</h6>-->
+<!--							</Tile>-->
+<!--						</Column>-->
+<!--						<Column>-->
+<!--							<Tile>-->
+<!--								<h4 style="margin: 0;">Author</h4>-->
+<!--								<h6 style="margin: 0;">Test</h6>-->
+<!--							</Tile>-->
+<!--						</Column>-->
+<!--					</Row>-->
+<!--					<Row>-->
+<!--						<PaginationNav style="margin: auto; margin-bottom: 1rem;" total={100} shown={5} />-->
+<!--					</Row>-->
 
 					{#each paginatedResults as result, i (i)}
 						<ExpandableTile>
