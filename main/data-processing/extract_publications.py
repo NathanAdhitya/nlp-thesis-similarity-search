@@ -105,8 +105,9 @@ def extract_dewey_thesis_data(data_dir: str, name_to_dewey_id: Dict, output_file
                                         dewey_ids.append(dewey_id)
                 
                 thesis_data.append({
-                    'thesis_id': thesis_id,
-                    'dewey_ids': '; '.join(dewey_ids),
+                    # 'thesis_id': thesis_id,
+                    'dewey_thesis_id': filename.replace('.json', ''),
+                    'dewey_ids': ';'.join(dewey_ids),
                     'year': year or '',
                     'title': title,
                     'abstract': abstract
@@ -123,7 +124,7 @@ def extract_dewey_thesis_data(data_dir: str, name_to_dewey_id: Dict, output_file
     # Write to CSV
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     with open(output_file, 'w', newline='', encoding='utf-8') as f:
-        fieldnames = ['thesis_id', 'dewey_ids', 'year', 'title', 'abstract']
+        fieldnames = ['dewey_thesis_id', 'dewey_ids', 'year', 'title', 'abstract']
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(thesis_data)
@@ -208,11 +209,12 @@ def extract_publication_data(data_dir: str, name_to_scholar_id: Dict, output_fil
                         abstract = re.sub(r'\s+', ' ', abstract)
                         
                         publication_data.append({
-                            'pub_id': pub_id,
+                            # 'pub_id': pub_id,
                             'scholar_ids': '; '.join(scholar_ids),
                             'year': str(year) if year else '',
                             'title': title,
-                            'abstract': abstract
+                            'abstract': abstract,
+                            'url': pub.get('pub_url', '').strip(),
                         })
                         
                         pub_id += 1
@@ -230,7 +232,7 @@ def extract_publication_data(data_dir: str, name_to_scholar_id: Dict, output_fil
     # Write to CSV
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     with open(output_file, 'w', newline='', encoding='utf-8') as f:
-        fieldnames = ['pub_id', 'scholar_ids', 'year', 'title', 'abstract']
+        fieldnames = ['scholar_ids', 'year', 'title', 'abstract', 'url']
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(publication_data)
