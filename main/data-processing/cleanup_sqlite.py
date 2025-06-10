@@ -5,7 +5,7 @@ import pandas as pd
 
 def create_database():
     # Database path
-    db_path = "../data/cleaned.db"
+    db_path = "../data/nlp-thesis-similarity-cleaned.db"
     
     # Remove existing database if it exists
     if os.path.exists(db_path):

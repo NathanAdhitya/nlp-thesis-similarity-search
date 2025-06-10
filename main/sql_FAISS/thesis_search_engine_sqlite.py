@@ -1,11 +1,10 @@
 import numpy as np
 import faiss
 import json
-import mysql.connector
 from typing import List, Dict, Any, Optional, Tuple, Union
 from sentence_transformers import SentenceTransformer
-# from main.sql_FAISS.search_utils import get_embedding, print_formatted_results
-# from search_utils import get_embedding, print_formatted_results
+from search_utils import get_embedding, print_formatted_results
+# from nlp_thesis_similarity_search.main.sql_FAISS.search_utils import get_embedding, print_formatted_results
 
 class ThesisSimilaritySearch:
     def __init__(self, model, use_title=False, use_abstract=True):
@@ -34,7 +33,7 @@ class ThesisSimilaritySearch:
         Load embeddings from database and build FAISS index
         
         Args:
-            cursor: MySQL database cursor
+            cursor: SQLite database cursor
             limit: Optional limit on number of papers to load
         """
         # Determine which embedding column to use
@@ -123,7 +122,7 @@ class ThesisSimilaritySearch:
         Fetch authors for all papers in paper_metadata
         
         Args:
-            cursor: MySQL database cursor
+            cursor: SQLite database cursor
         """
         if not self.paper_ids:
             return
@@ -157,7 +156,7 @@ class ThesisSimilaritySearch:
         Fetch contributors for all papers in paper_metadata
         
         Args:
-            cursor: MySQL database cursor
+            cursor: SQLite database cursor
         """
         if not self.paper_ids:
             return
@@ -246,7 +245,7 @@ class SearchEngine:
         
         Args:
             model: The SentenceTransformer model to use
-            cursor: MySQL database cursor
+            cursor: SQLite database cursor
         """
         self.model = model
         self.cursor = cursor

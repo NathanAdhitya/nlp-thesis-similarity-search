@@ -194,3 +194,4 @@ cython_debug/
 main/sql_FAISS/database_with_vector.sql
 /main/sql_FAISS/database_with_vector.sql
 *.sql
+data/nlp-thesis-similarity-cleaned.db
