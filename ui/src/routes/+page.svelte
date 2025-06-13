@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import 'carbon-components-svelte/css/g100.css';
 	import {
 		Search,
@@ -9,79 +9,42 @@
 		ExpandableTile,
 		Pagination,
 		Loading,
-		Tile,
-		PaginationNav
+		ContentSwitcher,
+		Switch
 	} from 'carbon-components-svelte';
 
 	let query = '';
-	let results = [
-		{
-			title: "Paper Title A",
-			similarity_score: "0.58",
-			author: "Author A",
-			abstract: "This is abstract. This is abstract. This is abstract. This is abstract. This is abstract. " +
-				"This is abstract. This is abstract. This is abstract. This is abstract. This is abstract. " +
-				"This is abstract. This is abstract. This is abstract. This is abstract. This is abstract."
-		},
-		{
-			title: "Paper Title B",
-			similarity_score: "0.53",
-			author: "Author B ",
-			abstract: "This is abstract. This is abstract. This is abstract. This is abstract. This is abstract. " +
-				"This is abstract. This is abstract. This is abstract. This is abstract. This is abstract. " +
-				"This is abstract. This is abstract. This is abstract. This is abstract. This is abstract."
-		},
-		{
-			title: "Paper Title A",
-			similarity_score: "0.58",
-			author: "Author A",
-			abstract: "This is abstract. This is abstract. This is abstract. This is abstract. This is abstract. " +
-				"This is abstract. This is abstract. This is abstract. This is abstract. This is abstract. " +
-				"This is abstract. This is abstract. This is abstract. This is abstract. This is abstract."
-		},
-		{
-			title: "Paper Title A",
-			similarity_score: "0.58",
-			author: "Author A",
-			abstract: "This is abstract. This is abstract. This is abstract. This is abstract. This is abstract. " +
-				"This is abstract. This is abstract. This is abstract. This is abstract. This is abstract. " +
-				"This is abstract. This is abstract. This is abstract. This is abstract. This is abstract."
-		},
-		{
-			title: "Paper Title A",
-			similarity_score: "0.58",
-			author: "Author A",
-			abstract: "This is abstract. This is abstract. This is abstract. This is abstract. This is abstract. " +
-				"This is abstract. This is abstract. This is abstract. This is abstract. This is abstract. " +
-				"This is abstract. This is abstract. This is abstract. This is abstract. This is abstract."
-		},
-		{
-			title: "Paper Title A",
-			similarity_score: "0.58",
-			author: "Author A",
-			abstract: "This is abstract. This is abstract. This is abstract. This is abstract. This is abstract. " +
-				"This is abstract. This is abstract. This is abstract. This is abstract. This is abstract. " +
-				"This is abstract. This is abstract. This is abstract. This is abstract. This is abstract."
-		},
+	let paper = true;
+	let selectedIndex = 0;
+	$: paper = selectedIndex === 1;
 
-	];
+	let results = [];
 
 	let loading = false;
 	async function fetchResults(query) {
+		if (!query || query.trim() === "") {
+			loading = false;
+			return;
+		}
 		loading = true
-		const res = await fetch(`http://127.0.0.1:5000/search/${encodeURIComponent(query)}`);
+		const searchType = paper ? "paper" : "author";
+		const res = await fetch(`http://127.0.0.1:5000/search/${searchType}/${encodeURIComponent(query)}`);
 
 		if (!res.ok) {
 			throw new Error("Failed to fetch data");
 		}
 		const json = await res.json();
-		results = json.data.topPapers;
+		if (searchType === "paper") {
+			results = json.data.topPapers || [];
+		} else {
+			results = json.data.topAuthors || [];
+		}
 
 		loading = false
 	}
 
 	let currentPage = 1;
-	let pageSize = 3;
+	let pageSize = 5;
 
 	$: paginatedResults = results.slice((currentPage - 1) * pageSize, currentPage * pageSize);
 
@@ -98,6 +61,10 @@
 			<Column>
 				<h1 class="">Semantica</h1>
 				<h6 style="padding-bottom: 1rem;">Semantic Search for Academic Papers</h6>
+				<ContentSwitcher bind:selectedIndex style="margin-bottom: 1rem;">
+					<Switch text="Author" />
+					<Switch text="Paper" />
+				</ContentSwitcher>
 				<Search
 					placeholder="Search..."
 					size="xl"
@@ -107,54 +74,30 @@
 				<Loading bind:active={loading}/>
 
 				{#if query.trim() !== '' && !loading}
-					<h4 style="padding-top: 2.5rem; padding-bottom: 0.5rem;">Showing top 100 results / Showing results with > 0.5 similarity for "{query}"</h4>
-<!--					<Row style="padding-top: 0.5rem; padding-bottom: 1rem;">-->
-<!--						<Column>-->
-<!--							<Tile>-->
-<!--								<h4 style="margin: 0;">Author</h4>-->
-<!--								<h6 style="margin: 0;">Test</h6>-->
-<!--							</Tile>-->
-<!--						</Column>-->
-<!--						<Column>-->
-<!--							<Tile>-->
-<!--								<h4 style="margin: 0;">Author</h4>-->
-<!--								<h6 style="margin: 0;">Test</h6>-->
-<!--							</Tile>-->
-<!--						</Column>-->
-<!--						<Column>-->
-<!--							<Tile>-->
-<!--								<h4 style="margin: 0;">Author</h4>-->
-<!--								<h6 style="margin: 0;">Test</h6>-->
-<!--							</Tile>-->
-<!--						</Column>-->
-<!--						<Column>-->
-<!--							<Tile>-->
-<!--								<h4 style="margin: 0;">Author</h4>-->
-<!--								<h6 style="margin: 0;">Test</h6>-->
-<!--							</Tile>-->
-<!--						</Column>-->
-<!--						<Column>-->
-<!--							<Tile>-->
-<!--								<h4 style="margin: 0;">Author</h4>-->
-<!--								<h6 style="margin: 0;">Test</h6>-->
-<!--							</Tile>-->
-<!--						</Column>-->
-<!--					</Row>-->
-<!--					<Row>-->
-<!--						<PaginationNav style="margin: auto; margin-bottom: 1rem;" total={100} shown={5} />-->
-<!--					</Row>-->
+					<h4 style="padding-top: 2.5rem; padding-bottom: 0.5rem;">Showing results for "{query}"</h4>
 
 					{#each paginatedResults as result, i (i)}
 						<ExpandableTile>
 							<div slot="above" style="margin-bottom: 1rem">
 								<div style="display: flex; justify-content: space-between; align-items: center;">
-									<h4 style="margin: 0;">{result.title}</h4>
-									<h6 style="margin: 0;">{result.author}</h6>
+									<h4 style="margin: 0;">{result.name}</h4>
+									<h6 style="margin: 0;">{result.publication_count} related papers</h6>
 								</div>
-								<h6>Similarity: {result.similarity_score}</h6>
+								<h6>Score: {result.combined_score}</h6>
 							</div>
 							<div slot="below">
-								{result.abstract}
+
+								{#if result.publications && result.publications.length > 0}
+									<ul>
+										{#each result.publications as paper, i (i)}
+											<li>
+												{paper.title || paper.name || "Untitled paper"}
+											</li>
+										{/each}
+									</ul>
+								{:else}
+									<p>No publications available.</p>
+								{/if}
 							</div>
 						</ExpandableTile>
 					{/each}
@@ -162,7 +105,7 @@
 						totalItems={results.length}
 						bind:page={currentPage}
 						bind:pageSize={pageSize}
-						pageSizes={[3, 5, 10, 20, 50]}
+						pageSizes={[5, 10, 20, 50]}
 						on:change={handlePaginationChange}
 					/>
 				{/if}

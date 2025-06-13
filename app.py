@@ -3,18 +3,21 @@ from flask_cors import CORS
 import script
 app = Flask(__name__)
 CORS(app)
-@app.route('/search/<string:query>', methods=['GET'])
-def search(query):
+@app.route('/search/<string:search_type>/<string:query>', methods=['GET'])
+def search_route(search_type, query):
     try:
-        result = script.search(query)
-        result = script.convert_to_json_serializable(result)
-        print(result)
-        print(type(result))
+        # Determine if searching thesis (paper) or author based on path parameter
+        thesis = search_type.lower() == 'paper'
+        # Perform search
+        result = script.search(query, thesis=thesis)
+
+        # Build dynamic response key
+        key = "topPapers" if thesis else "topAuthors"
 
         return jsonify({
             "message": "Data retrieved successfully",
             "data": {
-                "topPapers": result
+                key: result
             }
         }), 200
 

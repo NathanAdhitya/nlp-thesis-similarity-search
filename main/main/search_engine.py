@@ -1,30 +1,31 @@
 import sqlite3
 import sqlite_vec
-import asyncio
 import concurrent.futures
-from typing import List, Dict, Any, Optional, Tuple, Union
+import os
+from typing import List, Dict, Any
 from FlagEmbedding import BGEM3FlagModel
 from sentence_transformers import SentenceTransformer
 from deep_translator import GoogleTranslator
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.abspath(os.path.join(BASE_DIR, "..", ".."))
+DB_PATH = os.path.join(PROJECT_ROOT, 'data', 'cleaned_with_bge_m3.db')
 
 class SearchEngine:
     def __init__(self) -> None:
         """
         Initializes the SearchEngine instance.
         """
-        
-        self.db = self._connect_db()
-        
+
         # Load models in parallel using ThreadPoolExecutor
+        self.bgem3 = BGEM3FlagModel('BAAI/bge-m3', use_fp16=True)
         with concurrent.futures.ThreadPoolExecutor() as executor:
             # Create futures for each model initialization
-            bgem3_future = executor.submit(BGEM3FlagModel, 'BAAI/bge-m3', use_fp16=True)
             allminilm_future = executor.submit(SentenceTransformer, "all-MiniLM-L6-v2")
             indobert_future = executor.submit(SentenceTransformer, 'rahmanfadhil/indobert-finetuned-indonli')
             translator_future = executor.submit(GoogleTranslator, source='auto', target='indonesian')
             
             # Get results from futures
-            self.bgem3 = bgem3_future.result()
             self.allminilm = allminilm_future.result()
             self.indobert = indobert_future.result()
             self.translator = translator_future.result()
@@ -367,7 +368,7 @@ class SearchEngine:
         Returns:
             sqlite3.Connection: A connection to the SQLite database.
         """
-        db = sqlite3.connect("../../data/cleaned_with_bge_m3.db")
+        db = sqlite3.connect(DB_PATH, check_same_thread=False)
         db.enable_load_extension(True)
         sqlite_vec.load(db)
         db.enable_load_extension(False)
@@ -413,6 +414,7 @@ class SearchEngine:
         Returns:
             List[Dict[str, Any]]: A list of dictionaries containing the search results.
         """
+        conn = self._connect_db()
         # Map model types to their corresponding table names
         model_table_map = {
             "bgem3": "publications_vec_bge_m3",
@@ -433,9 +435,9 @@ class SearchEngine:
         ORDER BY distance 
         LIMIT ?
         '''
-        
-        cursor = self.db.execute(query, [query_embedding, top_k])
-        
+
+        cursor = conn.execute(query, [query_embedding, top_k])
+
         matches = cursor.fetchall()
         
         if not matches:
@@ -454,10 +456,10 @@ class SearchEngine:
         GROUP BY p.id, p.title, p.abstract
         ORDER BY CASE p.id {' '.join([f'WHEN {pid} THEN {i}' for i, pid in enumerate(publication_ids)])} END
         '''
-        
-        cursor = self.db.execute(query, publication_ids)
+
+        cursor = conn.execute(query, publication_ids)
         result_rows = cursor.fetchall()
-        
+
         # Format the results as a list of dictionaries
         results = []
         for row in result_rows:

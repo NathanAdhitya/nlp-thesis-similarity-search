@@ -1,30 +1,18 @@
-import mysql.connector
-from sentence_transformers import SentenceTransformer
-from main.sql_FAISS.thesis_search_engine import SearchEngine
+from main.main.search_engine import SearchEngine
 import numpy as np
 
-database = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="",
-)
-cursor = database.cursor()
-cursor.execute("USE nlp_thesis_similarity")
+search_engine = SearchEngine()
 
-model = SentenceTransformer("all-MiniLM-L6-v2")
+def search(query, thesis=True):
 
-search_manager = SearchEngine(model=model, cursor=cursor)
+    if thesis:
+        results = search_engine.search_thesis(query=query, top_k=10, option="bgem3")
 
-# Load the search engine (first time will load from database)
-try:
-    search_engine = search_manager.load(use_title=True, use_abstract=True)
-    print("\nSearch engine ready for queries!")
-except Exception as e:
-    print(f"Error initializing search engine: {e}")
+    else:
+        results = search_engine.search_advisor_3(query=query, top_k=10, option="bgem3")
 
-def search(query):
-    results = search_manager.quick_search(query, top_k=10)
-    return results
+    print(results)
+    return convert_to_json_serializable(results)
 
 def convert_to_json_serializable(obj):
     if isinstance(obj, dict):
