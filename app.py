@@ -30,5 +30,23 @@ def search_route(search_type, query):
             "error": str(e)
         }), 500
 
+@app.route('/programs', methods=['GET'])
+def get_programs_route():
+    try:
+        programs = script.get_all_programs()
+
+        return jsonify({
+            "message": "Programs retrieved successfully",
+            "data": {
+                "programs": programs
+            }
+        }), 200
+
+    except Exception as e:
+        return jsonify({
+            "message": "An error occurred",
+            "error": str(e)
+        }), 500
+
 if __name__ == '__main__':
     app.run(debug=True)

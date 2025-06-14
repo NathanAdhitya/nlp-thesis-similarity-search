@@ -14,6 +14,9 @@ def search(query, thesis=True, top_k=10, option="bgem3"):
 
     return convert_to_json_serializable(results)
 
+def get_all_programs():
+    return search_engine.get_all_programs()
+
 def convert_to_json_serializable(obj):
     if isinstance(obj, dict):
         return {k: convert_to_json_serializable(v) for k, v in obj.items()}

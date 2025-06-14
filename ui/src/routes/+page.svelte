@@ -1,6 +1,7 @@
 <script>
 	import 'carbon-components-svelte/css/g100.css';
 	import Settings from "carbon-icons-svelte/lib/Settings.svelte";
+	import JumpLink from "carbon-icons-svelte/lib/JumpLink.svelte";
 	import {
 		Search,
 		Content,
@@ -16,7 +17,9 @@
 		Button,
 		ImageLoader,
 		NumberInput, Tag,
-		RadioButtonGroup, RadioButton
+		RadioButtonGroup, RadioButton,
+		OutboundLink,
+		truncate
 	} from 'carbon-components-svelte';
 
 	let query = '';
@@ -71,13 +74,11 @@
 
 
 			const json = await res.json();
-			console.log(json)
 			if (searchType === "Paper") {
 				results = json.data.topPapers || [];
 			} else {
 				results = json.data.topAuthors || [];
 			}
-			console.log(results)
 		} catch (e) {
 			console.error(e);
 			results = [];
@@ -126,7 +127,9 @@
                     <div style="display: flex; align-items: center; gap: 1rem;">
                       <div style="width: 60px;">
                         <ImageLoader
-                          src="{result.url_picture}"
+                          src="{(!result.url_picture || result.url_picture === "None")
+										        ? "https://scholar.google.com/citations/images/avatar_scholar_256.png"
+										        : result.url_picture}"
                           alt="{result.name}"
                           ratio="1x1"
                           style="border-radius: 50%;"
@@ -142,13 +145,20 @@
 		                  <h6 style="margin: 0;">{result.publication_count} related papers</h6>
 	                  </div>
                   {:else}
-                    <div>
-                      <h4 style="margin: 0;">{result.title}</h4>
-                      <h6 style="margin: 0;">Distance: {result.distance}</h6>
-                    </div>
-	                  <div style="text-align: right;">
-		                  <h6 style="margin: 0;">{result.authors}</h6>
+
+	                  <div style="display: flex; align-items: flex-start; width: 100%;">
+		                  <div style="flex: 0 0 80%; min-width: 0;">
+			                  <div style="display: flex; align-items: center; gap: 0.5rem;">
+				                  <h4 style="margin: 0; flex-grow: 1; min-width: 0;" use:truncate>{result.title}</h4>
+				                  <Button size="small" kind="tertiary" icon={JumpLink} iconDescription="Link" style="flex-shrink: 0;" on:click={() => window.open(result.url, '_blank')}/>
+			                  </div>
+			                  <h6 style="margin: 0;">Distance: {result.distance}</h6>
+		                  </div>
+		                  <div style="flex: 0 0 20%; text-align: right; padding-left: 1rem;" use:truncate>
+			                  <h6 style="margin: 0;">{result.authors}</h6>
+		                  </div>
 	                  </div>
+
                   {/if}
                 </div>
               </div>
@@ -158,7 +168,11 @@
 			              <ul>
 				              {#each result.publications as paper, i (i)}
 					              <li>
-						              {paper.title || paper.name || "Untitled paper"}
+						              <span on:click|stopPropagation>
+													  <OutboundLink href="{paper.url}">
+													    {paper.title || paper.name || "Untitled paper"}
+													  </OutboundLink>
+													</span>
 					              </li>
 				              {/each}
 			              </ul>
@@ -166,7 +180,11 @@
 			              <p>No publications available.</p>
 		              {/if}
 	              {:else}
-		              {result.abstract}
+		              {#if result.abstract && result.abstract.trim() !== ""}
+			              {result.abstract}
+		              {:else}
+			              This paper has no abstract.
+		              {/if}
 	              {/if}
 
               </div>
