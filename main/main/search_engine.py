@@ -242,7 +242,7 @@ class SearchEngine:
           # Return top k advisors
         return advisors[:top_k]
     
-    def search_advisor_3(self, query: str, top_k: int = 10, option: str = "bgem3", count_weight: float = 0.4, program_id: Optional[int] = None) -> List[Dict[str, Any]]:
+    def search_advisor_3(self, query: str, top_k: int = 10, option: str = "bgem3", count_weight: float = 0.4, program_ids: Optional[int] = None) -> List[Dict[str, Any]]:
         """
         Searches for advisors/users with expertise related to the provided query,
         with balanced ranking based on both publication count and semantic similarity.
@@ -279,15 +279,16 @@ class SearchEngine:
 
         # Optional: Fetch allowed authors from program_user table
         allowed_authors = None
-        if program_id is not None:
+        if program_ids is not None:
             conn = self._connect_db()
-            query = '''
-                    SELECT u.name
-                    FROM users u
-                    JOIN program_user pu ON pu.user_id = u.id
-                    WHERE pu.program_id = ?
-                '''
-            cursor = conn.execute(query, (program_id,))
+            placeholders = ','.join(['?'] * len(program_ids))
+            query = f'''
+                SELECT u.name
+                FROM users u
+                JOIN program_user pu ON pu.user_id = u.id
+                WHERE pu.program_id IN ({placeholders})
+            '''
+            cursor = conn.execute(query, program_ids)
             allowed_authors = set(row[0] for row in cursor.fetchall())
         
         # Compile advisor data with both count and similarity scores

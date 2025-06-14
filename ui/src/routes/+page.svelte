@@ -1,4 +1,5 @@
 <script>
+	import { onMount } from 'svelte';
 	import 'carbon-components-svelte/css/g100.css';
 	import Settings from "carbon-icons-svelte/lib/Settings.svelte";
 	import JumpLink from "carbon-icons-svelte/lib/JumpLink.svelte";
@@ -19,7 +20,8 @@
 		NumberInput, Tag,
 		RadioButtonGroup, RadioButton,
 		OutboundLink,
-		truncate
+		truncate,
+		MultiSelect
 	} from 'carbon-components-svelte';
 
 	let query = '';
@@ -64,14 +66,19 @@
 		loading = true;
 		try {
 			const searchTypeLower = searchType.toLowerCase();
-			const normalizedModel = modelMap[model]
+			const normalizedModel = modelMap[model];
 			const url = new URL(`http://127.0.0.1:5000/search/${searchTypeLower}/${encodeURIComponent(query)}`);
 			url.searchParams.append('topK', String(topK));
 			url.searchParams.append('model', normalizedModel);
 
+			if (searchType !== "Paper" && selectedProgramIds && selectedProgramIds.length > 0) {
+				for (const id of selectedProgramIds) {
+					url.searchParams.append('program_ids', id);
+				}
+			}
+
 			const res = await fetch(url.toString());
 			if (!res.ok) throw new Error('Failed to fetch data');
-
 
 			const json = await res.json();
 			if (searchType === "Paper") {
@@ -86,6 +93,33 @@
 		loading = false;
 		showResults = true;
 	}
+
+	let programs = [];
+	let selectedProgramIds = [];
+	async function fetchPrograms() {
+		try {
+			const url = new URL('http://127.0.0.1:5000/programs');
+
+			const res = await fetch(url.toString());
+			if (!res.ok) throw new Error('Failed to fetch programs');
+
+			const json = await res.json();
+			programs = (json.data.programs || []).map(p => ({
+				id: p.id.toString(),
+				text: p.name
+			}));
+			console.log(programs)
+		} catch (e) {
+			console.error(e);
+			programs = [];
+		}
+	}
+
+	onMount(() => {
+		loading = true;
+		fetchPrograms();
+		loading = false;
+	});
 
 	$: paginatedResults = results.slice((currentPage - 1) * pageSize, currentPage * pageSize);
 
@@ -115,6 +149,11 @@
 				<Tag type="outline">Search Type: {searchType}</Tag>
 				<Tag type="outline">Model: {model}</Tag>
 				<Tag type="outline">TopK: {topK}</Tag>
+				{#if selectedProgramIds && selectedProgramIds.length > 0}
+					<Tag type="outline">
+						Filtered by {selectedProgramIds.length === 1 ? '1 programs' : `${selectedProgramIds.length} programs`}
+					</Tag>
+				{/if}
         <Loading bind:active={loading}/>
 
         {#if showResults && !loading}
@@ -221,6 +260,16 @@
 	</RadioButtonGroup>
 
 	<Row style="margin-bottom: 1rem;"/>
-
 	<NumberInput label="Top K" bind:value={topK} helperText="Number of most relevant results to return"/>
+	<Row style="margin-bottom: 1rem;"/>
+	{#if selectedIndex === 0}
+		<MultiSelect
+			bind:selectedIds={selectedProgramIds}
+			spellcheck="false"
+			filterable
+			titleText="Filter by Programs"
+			placeholder="Type something..."
+			items={programs}
+		/>
+	{/if}
 </Modal>
