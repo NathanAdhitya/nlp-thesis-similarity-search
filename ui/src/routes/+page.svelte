@@ -34,10 +34,14 @@
 			throw new Error("Failed to fetch data");
 		}
 		const json = await res.json();
+		console.log("API Response:", json.data);
 		if (searchType === "paper") {
 			results = json.data.topPapers || [];
 		} else {
-			results = json.data.topAuthors || [];
+			const authorResults = json.data.topAuthors || [];
+			console.log("Author results before processing:", authorResults);
+			console.log("Sample author image URL:", authorResults[0]?.url_picture);
+			results = authorResults;
 		}
 
 		loading = false
@@ -74,13 +78,23 @@
 				<Loading bind:active={loading}/>
 
 				{#if query.trim() !== '' && !loading}
-					<h4 style="padding-top: 2.5rem; padding-bottom: 0.5rem;">Showing results for "{query}"</h4>
-
+					<h4 style="padding-top: 2.5rem; padding-bottom: 0.5rem;">Showing results for "{query}"</h4>					
 					{#each paginatedResults as result, i (i)}
 						<ExpandableTile>
 							<div slot="above" style="margin-bottom: 1rem">
 								<div style="display: flex; justify-content: space-between; align-items: center;">
-									<h4 style="margin: 0;">{result.name}</h4>
+									{#if !paper}
+										<div style="display: flex; align-items: center; gap: 1rem;">
+											<img 
+												src="{result.url_picture}"
+												alt="{result.name}"
+												style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover;"
+											/>
+											<h4 style="margin: 0;">{result.name}</h4>
+										</div>
+									{:else}
+										<h4 style="margin: 0;">{result.name}</h4>
+									{/if}
 									<h6 style="margin: 0;">{result.publication_count} related papers</h6>
 								</div>
 								<h6>Score: {result.combined_score}</h6>

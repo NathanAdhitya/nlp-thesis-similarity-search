@@ -11,7 +11,7 @@ def search(query, thesis=True):
     else:
         results = search_engine.search_advisor_3(query=query, top_k=10, option="bgem3")
 
-    print(results)
+    # print(results)
     return convert_to_json_serializable(results)
 
 def convert_to_json_serializable(obj):

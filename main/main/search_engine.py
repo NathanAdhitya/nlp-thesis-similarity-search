@@ -344,6 +344,7 @@ class SearchEngine:
                 (normalized_similarity * similarity_weight)
             )
             
+            
             advisors.append({
                 'name': name,
                 'combined_score': round(combined_score, 1),  # Overall combined score (0-100%)
@@ -352,7 +353,8 @@ class SearchEngine:
                 'relevance_score': round(normalized_similarity, 1),  # Semantic relevance score
                 'best_match': data['best_match'],
                 'best_match_score': round((data['best_similarity'] / (1.0 + data['best_similarity'])) * 100, 1),
-                'publications': sorted(data['publications'], key=lambda x: x['similarity'], reverse=True)[:5]  # Top 5 most relevant
+                'publications': sorted(data['publications'], key=lambda x: x['similarity'], reverse=True)[:5],  # Top 5 most relevant
+                'url_picture': self._get_author_data(name).get('url_picture', '')
             })
         
         # Sort by the combined score (descending)
@@ -360,6 +362,46 @@ class SearchEngine:
         
         # Return top k advisors
         return advisors[:top_k]
+    def _get_author_data(self, name: str) -> Dict[str, Any]:
+        """
+        Retrieves detailed information about an author by their ID.
+        
+        Args:
+            author_id (int): The ID of the author to retrieve.
+            program_id (int, optional): The program ID to filter by. Defaults to None.
+            
+        Returns:
+            Dict[str, Any]: A dictionary containing the author's details.
+        """
+        conn = self._connect_db()
+            
+        print(name)
+        query = '''
+            SELECT *
+            FROM users 
+            WHERE name LIKE ?
+        '''
+        
+        cursor = conn.execute(query, (name,))
+        row = cursor.fetchall()
+        
+        if row and len(row) == 1:
+            row = row[0]  # Get the first (and only) row
+            # Get the picture URL, prioritizing url_picture_dewey if available
+            url_picture = row[6] if row[6] is not None and row[6] != "" else row[5]
+            
+            return {
+                'id': row[0],
+                'scholar_id': row[1],
+                'name': row[2],
+                'original_names': row[3],
+                'interests': row[4],
+                'url_picture': url_picture
+            }
+            
+        print(row)
+        
+        return {}
     
     def _connect_db(self) -> sqlite3.Connection:
         """
