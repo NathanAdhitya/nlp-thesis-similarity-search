@@ -1,5 +1,6 @@
 <script>
 	import 'carbon-components-svelte/css/g100.css';
+	import Settings from "carbon-icons-svelte/lib/Settings.svelte";
 	import {
 		Search,
 		Content,
@@ -9,44 +10,80 @@
 		ExpandableTile,
 		Pagination,
 		Loading,
-		Tile,
-		PaginationNav,
 		ContentSwitcher,
 		Switch,
-		ComboBox,
 		Modal,
 		Button,
-		TextInput
+		ImageLoader,
+		NumberInput, Tag,
+		RadioButtonGroup, RadioButton
 	} from 'carbon-components-svelte';
 
 	let query = '';
 	let loading = false;
 	let currentPage = 1;
-	let pageSize = 3;
+	let pageSize = 4;
 	let results = [];
+
+	let open = false;
+
+	const searchTypes = ['Author', 'Paper'];
 	let selectedIndex = 0;
-	let showSettings = false;
+	$: searchType = searchTypes[selectedIndex];
+
+
+	const models = ["BGE-M3", "all-MiniLM-L6-v2", "IndoBERT (Fine-tuned)"];
+	const modelMap = {
+		"BGE-M3": "bgem3",
+		"all-MiniLM-L6-v2": "allminilm",
+		"IndoBERT (Fine-tuned)": "indobert"
+	};
+	let model = models[0];
+
 	let topK = 100;
-	
+
+	let prevModel;
+	let prevTopK;
+	let prevSelectedIndex;
+	let showResults = false;
+
+	$: if (model !== prevModel || topK !== prevTopK || selectedIndex !== prevSelectedIndex) {
+		showResults = false
+		query = "";
+		prevModel = model;
+		prevTopK = topK;
+		prevSelectedIndex = selectedIndex;
+	}
 
 	async function fetchResults(query) {
 		if (!query.trim()) return;
 
 		loading = true;
 		try {
-			const res = await fetch(
-				`http://127.0.0.1:5000/search/${mode}/${encodeURIComponent(query)}`
-			);
+			const searchTypeLower = searchType.toLowerCase();
+			const normalizedModel = modelMap[model]
+			const url = new URL(`http://127.0.0.1:5000/search/${searchTypeLower}/${encodeURIComponent(query)}`);
+			url.searchParams.append('topK', String(topK));
+			url.searchParams.append('model', normalizedModel);
+
+			const res = await fetch(url.toString());
 			if (!res.ok) throw new Error('Failed to fetch data');
 
+
 			const json = await res.json();
-			results = json.data.topPapers;
-			currentPage = 1;
+			console.log(json)
+			if (searchType === "Paper") {
+				results = json.data.topPapers || [];
+			} else {
+				results = json.data.topAuthors || [];
+			}
+			console.log(results)
 		} catch (e) {
 			console.error(e);
 			results = [];
 		}
 		loading = false;
+		showResults = true;
 	}
 
 	$: paginatedResults = results.slice((currentPage - 1) * pageSize, currentPage * pageSize);
@@ -62,87 +99,110 @@
 	<Grid>
 		<Row>
 			<Column>
-				<h1>Semantica</h1>
-				<h6 style="padding-bottom: 1rem;">Semantic Search for Academic Papers</h6>
-
+        <h1>Semantica</h1>
+        <h6 style="padding-bottom: 1rem;">Semantic Search for Academic Papers</h6>
 				<div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
 					<Search
 						placeholder="Search..."
 						size="xl"
 						bind:value={query}
-						on:input={() => fetchResults(query)}
+						on:keydown={(e) => { if (e.key === 'Enter') fetchResults(query) }}
 					/>
 
-					<Button kind="tertiary" size="xl" on:click={() => (showSettings = true)}>
-						Settings
-					</Button>
+					<Button kind="tertiary" icon={Settings} iconDescription="Settings" on:click={() => (open = true)}/>
 				</div>
+				<Tag type="outline">Search Type: {searchType}</Tag>
+				<Tag type="outline">Model: {model}</Tag>
+				<Tag type="outline">TopK: {topK}</Tag>
+        <Loading bind:active={loading}/>
 
-				<Modal
-					open={showSettings}
-					on:close={() => (showSettings = false)}
-					modalLabel="Search Settings"
-					modalHeading="Configure Search Options"
-					primaryButtonText="Close"
-				>
-					<p style="margin-bottom: 1rem;">Search Mode:</p>
-					<ContentSwitcher bind:selectedIndex style="margin-bottom: 1rem;">
-						<Switch text="Author" />
-						<Switch text="Paper" />
-					</ContentSwitcher>
+        {#if showResults && !loading}
+          <h4 style="padding-top: 2.5rem; padding-bottom: 0.5rem;">Showing results for "{query}"</h4>
+          {#each paginatedResults as result, i (i)}
+            <ExpandableTile>
+              <div slot="above" style="margin-bottom: 1rem">
+                <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+                  {#if searchType === 'Author'}
+                    <div style="display: flex; align-items: center; gap: 1rem;">
+                      <div style="width: 60px;">
+                        <ImageLoader
+                          src="{result.url_picture}"
+                          alt="{result.name}"
+                          ratio="1x1"
+                          style="border-radius: 50%;"
+                        />
+                      </div>
 
-					<p style="margin-bottom: 0.5rem;">Model:</p>
-					<ComboBox
-						titleText="Embedding Model"
-						placeholder="Select model"
-						items={[
-							{ id: '0', text: 'bgem3' },
-							{ id: '1', text: 'allminilm' },
-							{ id: '2', text: 'indobert' }
-						]}
-					/>
+                      <div>
+                        <h4 style="margin: 0;">{result.name}</h4>
+                        <h6 style="margin: 0;">Score: {result.combined_score}</h6>
+                      </div>
+                    </div>
+	                  <div style="text-align: right;">
+		                  <h6 style="margin: 0;">{result.publication_count} related papers</h6>
+	                  </div>
+                  {:else}
+                    <div>
+                      <h4 style="margin: 0;">{result.title}</h4>
+                      <h6 style="margin: 0;">Distance: {result.distance}</h6>
+                    </div>
+	                  <div style="text-align: right;">
+		                  <h6 style="margin: 0;">{result.authors}</h6>
+	                  </div>
+                  {/if}
+                </div>
+              </div>
+              <div slot="below">
+	              {#if searchType === 'Author'}
+		              {#if result.publications && result.publications.length > 0}
+			              <ul>
+				              {#each result.publications as paper, i (i)}
+					              <li>
+						              {paper.title || paper.name || "Untitled paper"}
+					              </li>
+				              {/each}
+			              </ul>
+		              {:else}
+			              <p>No publications available.</p>
+		              {/if}
+	              {:else}
+		              {result.abstract}
+	              {/if}
 
-					<p style="margin-top: 1rem;">Top K Results:</p>
-					<TextInput
-						type="number"
-						bind:value={topK}
-						labelText="Top K Results"
-						min="1"
-						max="1000"
-					/>
-				</Modal>
-
-				<Loading bind:active={loading} />
-
-				{#if query.trim() !== '' && !loading}
-					<h4 style="padding-top: 2.5rem; padding-bottom: 0.5rem;">
-						Showing top {topK} results / Showing results with > 0.5 Similarity  0.5 for "{query}" ({mode})
-					</h4>
-
-					{#each paginatedResults as result, i (result.id || i)}
-						<ExpandableTile>
-							<div slot="above" style="margin-bottom: 1rem;">
-								<div style="display: flex; justify-content: space-between; align-items: center;">
-									<h4 style="margin: 0;">{result.title}</h4>
-									<h6 style="margin: 0;">{result.author}</h6>
-								</div>
-								<h6>Similarity: {result.similarity_score}</h6>
-							</div>
-							<div slot="below">
-								{result.abstract}
-							</div>
-						</ExpandableTile>
-					{/each}
-
-					<Pagination
-						totalItems={results.length}
-						bind:page={currentPage}
-						bind:pageSize
-						pageSizes={[3, 5, 10, 20, 50]}
-						on:change={handlePaginationChange}
-					/>
-				{/if}
-			</Column>
+              </div>
+            </ExpandableTile>
+          {/each}
+          <Pagination
+            totalItems={results.length}
+            bind:page={currentPage}
+            bind:pageSize={pageSize}
+            pageSizes={[4, 10, 20, 50]}
+            on:change={handlePaginationChange}
+          />
+        {/if}
+			</Column>   
 		</Row>
 	</Grid>
 </Content>
+<Modal
+	bind:open size="sm" modalHeading="Settings" hasScrollingContent passiveModal preventCloseOnClickOutside
+>
+	<Row style="margin-bottom: 2rem;"/>
+  <ContentSwitcher bind:selectedIndex style="margin-bottom: 1rem;">
+    <Switch text="Author" />
+    <Switch text="Paper" />
+  </ContentSwitcher>
+
+	<RadioButtonGroup
+		legendText="Embedding Model"
+		bind:selected={model}
+	>
+		{#each models as value (value)}
+			<RadioButton labelText={value} {value} />
+		{/each}
+	</RadioButtonGroup>
+
+	<Row style="margin-bottom: 1rem;"/>
+
+	<NumberInput label="Top K" bind:value={topK} helperText="Number of most relevant results to return"/>
+</Modal>

@@ -7,9 +7,12 @@ CORS(app)
 def search_route(search_type, query):
     try:
         # Determine if searching thesis (paper) or author based on path parameter
-        thesis = search_type.lower() == 'paper'
+        thesis = search_type == 'paper'
+        topK = request.args.get('topK', type=int)
+        model = request.args.get('model', type=str)
+
         # Perform search
-        result = script.search(query, thesis=thesis)
+        result = script.search(query, thesis, topK, model)
 
         # Build dynamic response key
         key = "topPapers" if thesis else "topAuthors"
