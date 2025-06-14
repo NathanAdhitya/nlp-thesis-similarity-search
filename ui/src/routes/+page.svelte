@@ -1,4 +1,4 @@
-<script lang="ts">
+<script>
 	import 'carbon-components-svelte/css/g100.css';
 	import {
 		Search,
@@ -9,46 +9,45 @@
 		ExpandableTile,
 		Pagination,
 		Loading,
+		Tile,
+		PaginationNav,
 		ContentSwitcher,
-		Switch
+		Switch,
+		ComboBox,
+		Modal,
+		Button,
+		TextInput
 	} from 'carbon-components-svelte';
 
 	let query = '';
-	let paper = true;
-	let selectedIndex = 0;
-	$: paper = selectedIndex === 1;
-
-	let results = [];
-
 	let loading = false;
-	async function fetchResults(query) {
-		if (!query || query.trim() === "") {
-			loading = false;
-			return;
-		}
-		loading = true
-		const searchType = paper ? "paper" : "author";
-		const res = await fetch(`http://127.0.0.1:5000/search/${searchType}/${encodeURIComponent(query)}`);
-
-		if (!res.ok) {
-			throw new Error("Failed to fetch data");
-		}
-		const json = await res.json();
-		console.log("API Response:", json.data);
-		if (searchType === "paper") {
-			results = json.data.topPapers || [];
-		} else {
-			const authorResults = json.data.topAuthors || [];
-			console.log("Author results before processing:", authorResults);
-			console.log("Sample author image URL:", authorResults[0]?.url_picture);
-			results = authorResults;
-		}
-
-		loading = false
-	}
-
 	let currentPage = 1;
-	let pageSize = 5;
+	let pageSize = 3;
+	let results = [];
+	let selectedIndex = 0;
+	let showSettings = false;
+	let topK = 100;
+	
+
+	async function fetchResults(query) {
+		if (!query.trim()) return;
+
+		loading = true;
+		try {
+			const res = await fetch(
+				`http://127.0.0.1:5000/search/${mode}/${encodeURIComponent(query)}`
+			);
+			if (!res.ok) throw new Error('Failed to fetch data');
+
+			const json = await res.json();
+			results = json.data.topPapers;
+			currentPage = 1;
+		} catch (e) {
+			console.error(e);
+			results = [];
+		}
+		loading = false;
+	}
 
 	$: paginatedResults = results.slice((currentPage - 1) * pageSize, currentPage * pageSize);
 
@@ -63,63 +62,83 @@
 	<Grid>
 		<Row>
 			<Column>
-				<h1 class="">Semantica</h1>
+				<h1>Semantica</h1>
 				<h6 style="padding-bottom: 1rem;">Semantic Search for Academic Papers</h6>
-				<ContentSwitcher bind:selectedIndex style="margin-bottom: 1rem;">
-					<Switch text="Author" />
-					<Switch text="Paper" />
-				</ContentSwitcher>
-				<Search
-					placeholder="Search..."
-					size="xl"
-					bind:value={query}
-					on:input={() => fetchResults(query)}
-				/>
-				<Loading bind:active={loading}/>
+
+				<div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
+					<Search
+						placeholder="Search..."
+						size="xl"
+						bind:value={query}
+						on:input={() => fetchResults(query)}
+					/>
+
+					<Button kind="tertiary" size="xl" on:click={() => (showSettings = true)}>
+						Settings
+					</Button>
+				</div>
+
+				<Modal
+					open={showSettings}
+					on:close={() => (showSettings = false)}
+					modalLabel="Search Settings"
+					modalHeading="Configure Search Options"
+					primaryButtonText="Close"
+				>
+					<p style="margin-bottom: 1rem;">Search Mode:</p>
+					<ContentSwitcher bind:selectedIndex style="margin-bottom: 1rem;">
+						<Switch text="Author" />
+						<Switch text="Paper" />
+					</ContentSwitcher>
+
+					<p style="margin-bottom: 0.5rem;">Model:</p>
+					<ComboBox
+						titleText="Embedding Model"
+						placeholder="Select model"
+						items={[
+							{ id: '0', text: 'bgem3' },
+							{ id: '1', text: 'allminilm' },
+							{ id: '2', text: 'indobert' }
+						]}
+					/>
+
+					<p style="margin-top: 1rem;">Top K Results:</p>
+					<TextInput
+						type="number"
+						bind:value={topK}
+						labelText="Top K Results"
+						min="1"
+						max="1000"
+					/>
+				</Modal>
+
+				<Loading bind:active={loading} />
 
 				{#if query.trim() !== '' && !loading}
-					<h4 style="padding-top: 2.5rem; padding-bottom: 0.5rem;">Showing results for "{query}"</h4>					
-					{#each paginatedResults as result, i (i)}
+					<h4 style="padding-top: 2.5rem; padding-bottom: 0.5rem;">
+						Showing top {topK} results / Showing results with > 0.5 Similarity  0.5 for "{query}" ({mode})
+					</h4>
+
+					{#each paginatedResults as result, i (result.id || i)}
 						<ExpandableTile>
-							<div slot="above" style="margin-bottom: 1rem">
+							<div slot="above" style="margin-bottom: 1rem;">
 								<div style="display: flex; justify-content: space-between; align-items: center;">
-									{#if !paper}
-										<div style="display: flex; align-items: center; gap: 1rem;">
-											<img 
-												src="{result.url_picture}"
-												alt="{result.name}"
-												style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover;"
-											/>
-											<h4 style="margin: 0;">{result.name}</h4>
-										</div>
-									{:else}
-										<h4 style="margin: 0;">{result.name}</h4>
-									{/if}
-									<h6 style="margin: 0;">{result.publication_count} related papers</h6>
+									<h4 style="margin: 0;">{result.title}</h4>
+									<h6 style="margin: 0;">{result.author}</h6>
 								</div>
-								<h6>Score: {result.combined_score}</h6>
+								<h6>Similarity: {result.similarity_score}</h6>
 							</div>
 							<div slot="below">
-
-								{#if result.publications && result.publications.length > 0}
-									<ul>
-										{#each result.publications as paper, i (i)}
-											<li>
-												{paper.title || paper.name || "Untitled paper"}
-											</li>
-										{/each}
-									</ul>
-								{:else}
-									<p>No publications available.</p>
-								{/if}
+								{result.abstract}
 							</div>
 						</ExpandableTile>
 					{/each}
+
 					<Pagination
 						totalItems={results.length}
 						bind:page={currentPage}
-						bind:pageSize={pageSize}
-						pageSizes={[5, 10, 20, 50]}
+						bind:pageSize
+						pageSizes={[3, 5, 10, 20, 50]}
 						on:change={handlePaginationChange}
 					/>
 				{/if}
