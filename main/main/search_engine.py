@@ -277,7 +277,7 @@ class SearchEngine:
         query_embedding = self._encode_query(query, model)
         
         # Get relevant publications - retrieve more for better statistics
-        publications = self._search(query_embedding, 200, option)
+        publications = self._search(query_embedding, 1000, option)
         
         if not publications:
             return []

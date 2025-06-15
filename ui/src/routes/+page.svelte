@@ -134,7 +134,7 @@
 	<Grid>
 		<Row>
 			<Column>
-        <h1>Semantica</h1>
+				<img src="/logo.png" alt="Semantica Logo" style="max-height: 60px; margin-bottom: 0.5rem;" />
         <h6 style="padding-bottom: 1rem;">Semantic Search for Academic Papers</h6>
 				<div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
 					<Search

@@ -1,9 +1,12 @@
 # Semantica: Sistem Paper Semantic Search untuk Dosen Pembimbing Skripsi
+
+![Semantica Logo](ui/static/logo.png)
+
 ## C14220235 Veleroy Juan Andika, _________ Richard Kamitono, _________ Nathan Aditya, _________ Regent Wibisono
 
 ## 1. Deskripsi Umum
 
-Semantica adalah aplikasi pencarian semantik yang membantu mahasiswa menemukan dosen pembimbing tesis yang paling sesuai dengan topik penelitian mereka. Sistem ini memanfaatkan teknologi embedding vektor dan database dengan kemampuan pencarian vektor untuk memberikan rekomendasi dosen berdasarkan kesamaan semantik topik penelitian dengan publikasi akademis dosen.
+Semantica adalah aplikasi pencarian semantik yang membantu mahasiswa menemukan dosen pembimbing tesis yang paling sesuai dengan topik penelitian mereka. Sistem ini memanfaatkan teknologi embedding vektor dan database dengan kemampuan pencarian vektor untuk memberikan rekomendasi dosen berdasarkan kesamaan semantik topik penelitian dengan publikasi akademis dosen.****
 
 ## 2. Teknologi dan Metode
 
@@ -17,6 +20,7 @@ Semantica adalah aplikasi pencarian semantik yang membantu mahasiswa menemukan d
 
 ### 2.2 Database dan Pencarian Vektor
 
+* **Data Scraping** dari dewey.petra.ac.id. Seluruh data yang digunakan di sistem ini didapatkan melalui process scraping.
 * **SQLite** dengan ekstensi **sqlite_vec**
 * Menggunakan teknik KNN (K-Nearest Neighbors) untuk mencari vektor terdekat
 * Kueri vektor diimplementasikan menggunakan sintaks SQL dengan klausa `MATCH`
