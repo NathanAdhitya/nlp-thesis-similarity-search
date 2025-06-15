@@ -21,11 +21,12 @@
 		RadioButtonGroup, RadioButton,
 		OutboundLink,
 		truncate,
-		MultiSelect
+		MultiSelect,
+		InlineLoading
 	} from 'carbon-components-svelte';
 
 	let query = '';
-	let loading = false;
+	let loading = true;
 	let currentPage = 1;
 	let pageSize = 50;
 	let results = [];
@@ -115,9 +116,8 @@
 		}
 	}
 
-	onMount(() => {
-		loading = true;
-		fetchPrograms();
+	onMount(async () => {
+		await fetchPrograms();
 		loading = false;
 	});
 
@@ -262,14 +262,16 @@
 	<Row style="margin-bottom: 1rem;"/>
 	<NumberInput label="Top K" bind:value={topK} helperText="Number of most relevant results to return"/>
 	<Row style="margin-bottom: 1rem;"/>
-	{#if selectedIndex === 0}
+	{#if selectedIndex === 0 && programs.length > 0}
 		<MultiSelect
 			bind:selectedIds={selectedProgramIds}
 			spellcheck="false"
 			filterable
 			titleText="Filter by Programs"
 			placeholder="Type something..."
-			items={programs}
+			bind:items={programs}
 		/>
+	{:else if selectedIndex === 0}
+		<InlineLoading description="Loading programs..." />
 	{/if}
 </Modal>
