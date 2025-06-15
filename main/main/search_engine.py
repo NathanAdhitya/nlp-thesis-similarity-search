@@ -6,6 +6,7 @@ from typing import List, Dict, Any
 from FlagEmbedding import BGEM3FlagModel
 from sentence_transformers import SentenceTransformer
 from deep_translator import GoogleTranslator
+from typing import Optional
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.abspath(os.path.join(BASE_DIR, "..", ".."))
@@ -241,7 +242,7 @@ class SearchEngine:
           # Return top k advisors
         return advisors[:top_k]
     
-    def search_advisor_3(self, query: str, top_k: int = 10, option: str = "bgem3", count_weight: float = 0.4) -> List[Dict[str, Any]]:
+    def search_advisor_3(self, query: str, top_k: int = 10, option: str = "bgem3", count_weight: float = 0.4, program_ids: Optional[int] = None) -> List[Dict[str, Any]]:
         """
         Searches for advisors/users with expertise related to the provided query,
         with balanced ranking based on both publication count and semantic similarity.
@@ -275,6 +276,20 @@ class SearchEngine:
         
         if not publications:
             return []
+
+        # Optional: Fetch allowed authors from program_user table
+        allowed_authors = None
+        if program_ids is not None:
+            conn = self._connect_db()
+            placeholders = ','.join(['?'] * len(program_ids))
+            query = f'''
+                SELECT u.name
+                FROM users u
+                JOIN program_user pu ON pu.user_id = u.id
+                WHERE pu.program_id IN ({placeholders})
+            '''
+            cursor = conn.execute(query, program_ids)
+            allowed_authors = set(row[0] for row in cursor.fetchall())
         
         # Compile advisor data with both count and similarity scores
         advisor_data = {}
@@ -291,6 +306,9 @@ class SearchEngine:
             for author in pub['authors']:
                 author = author.strip()
                 if not author:
+                    continue
+
+                if allowed_authors is not None and author not in allowed_authors:
                     continue
                     
                 if author not in advisor_data:
@@ -315,7 +333,8 @@ class SearchEngine:
                     'id': pub['id'],
                     'title': pub['title'],
                     'similarity': similarity_value,
-                    'similarity_percentage': round((similarity_value / (1.0 + similarity_value)) * 100, 1)  # Normalize to 0-100%
+                    'similarity_percentage': round((similarity_value / (1.0 + similarity_value)) * 100, 1), # Normalize to 0-100%
+                    'url': pub['url'],
                 }
                 advisor_data[author]['publications'].append(publication_entry)
                 
@@ -362,6 +381,8 @@ class SearchEngine:
         
         # Return top k advisors
         return advisors[:top_k]
+
+    # def _get_advisor_prodi(self, name: str) -> Dict[str, Any]:
     def _get_author_data(self, name: str) -> Dict[str, Any]:
         """
         Retrieves detailed information about an author by their ID.
@@ -374,8 +395,7 @@ class SearchEngine:
             Dict[str, Any]: A dictionary containing the author's details.
         """
         conn = self._connect_db()
-            
-        print(name)
+
         query = '''
             SELECT *
             FROM users 
@@ -389,7 +409,7 @@ class SearchEngine:
             row = row[0]  # Get the first (and only) row
             # Get the picture URL, prioritizing url_picture_dewey if available
             url_picture = row[6] if row[6] is not None and row[6] != "" else row[5]
-            
+            print(row[4])
             return {
                 'id': row[0],
                 'scholar_id': row[1],
@@ -402,6 +422,31 @@ class SearchEngine:
         print(row)
         
         return {}
+
+    def get_all_programs(self) -> List[Dict[str, Any]]:
+        """
+        Retrieves all programs from the 'programs' table.
+
+        Returns:
+            List[Dict[str, Any]]: A list of dictionaries where each dictionary contains
+                                  information about a single program.
+        """
+        conn = self._connect_db()
+        query = '''
+            SELECT * FROM programs
+        '''
+        cursor = conn.execute(query)
+        rows = cursor.fetchall()
+
+        programs = []
+        for row in rows:
+            programs.append({
+                'id': row[0],
+                'name': row[1],
+                'url': row[2]
+            })
+
+        return programs
     
     def _connect_db(self) -> sqlite3.Connection:
         """
@@ -490,12 +535,12 @@ class SearchEngine:
         placeholders = ','.join(['?'] * len(publication_ids))
         
         query = f'''
-        SELECT p.id, p.title, p.abstract, GROUP_CONCAT(u.name, '; ') as authors
+        SELECT p.id, p.title, p.abstract, GROUP_CONCAT(u.name, '; ') as authors, p.url
         FROM publications p
         LEFT JOIN publication_user_mapping pum ON p.id = pum.publication_id
         LEFT JOIN users u ON pum.user_id = u.id
         WHERE p.id IN ({placeholders})
-        GROUP BY p.id, p.title, p.abstract
+        GROUP BY p.id, p.title, p.abstract, p.url
         ORDER BY CASE p.id {' '.join([f'WHEN {pid} THEN {i}' for i, pid in enumerate(publication_ids)])} END
         '''
 
@@ -505,7 +550,7 @@ class SearchEngine:
         # Format the results as a list of dictionaries
         results = []
         for row in result_rows:
-            pub_id, title, abstract, authors = row
+            pub_id, title, abstract, authors, url = row
             distance = next(match[1] for match in matches if match[0] == pub_id)
             
             # Split authors string into a list
@@ -516,7 +561,8 @@ class SearchEngine:
                 'title': title,
                 'abstract': abstract,
                 'authors': author_list,
-                'distance': distance
+                'distance': distance,
+                'url': url
             })
             
         return results
