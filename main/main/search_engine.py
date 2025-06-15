@@ -7,29 +7,34 @@ from FlagEmbedding import BGEM3FlagModel
 from sentence_transformers import SentenceTransformer
 from deep_translator import GoogleTranslator
 from typing import Optional
-
+import torch
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.abspath(os.path.join(BASE_DIR, "..", ".."))
 DB_PATH = os.path.join(PROJECT_ROOT, 'data', 'cleaned_with_bge_m3.db')
 
 class SearchEngine:
-    def __init__(self) -> None:
-        """
-        Initializes the SearchEngine instance.
-        """
-
-        # Load models in parallel using ThreadPoolExecutor
-        self.bgem3 = BGEM3FlagModel('BAAI/bge-m3', use_fp16=True)
+    def __init__(self, device=None) -> None:
+        # Determine device
+        if device is None:
+            device = "cuda" if torch.cuda.is_available() else "cpu"
+        
+        self.device = device
+        
+        # Load BGEM3 with explicit device
+        self.bgem3 = BGEM3FlagModel('BAAI/bge-m3', use_fp16=True, device=device)
+        
         with concurrent.futures.ThreadPoolExecutor() as executor:
-            # Create futures for each model initialization
-            allminilm_future = executor.submit(SentenceTransformer, "all-MiniLM-L6-v2")
-            indobert_future = executor.submit(SentenceTransformer, 'rahmanfadhil/indobert-finetuned-indonli')
+            allminilm_future = executor.submit(self._load_sentence_transformer, "all-MiniLM-L6-v2")
+            indobert_future = executor.submit(self._load_sentence_transformer, 'rahmanfadhil/indobert-finetuned-indonli')
             translator_future = executor.submit(GoogleTranslator, source='auto', target='indonesian')
             
-            # Get results from futures
             self.allminilm = allminilm_future.result()
             self.indobert = indobert_future.result()
             self.translator = translator_future.result()
+    
+    def _load_sentence_transformer(self, model_name):
+        model = SentenceTransformer(model_name, device=self.device)
+        return model
             
     def search_thesis(self, query: str, top_k: int = 5, option: str = "bgem3") -> List[Dict[str, Any]]:
         """
@@ -372,7 +377,7 @@ class SearchEngine:
                 'relevance_score': round(normalized_similarity, 1),  # Semantic relevance score
                 'best_match': data['best_match'],
                 'best_match_score': round((data['best_similarity'] / (1.0 + data['best_similarity'])) * 100, 1),
-                'publications': sorted(data['publications'], key=lambda x: x['similarity'], reverse=True)[:5],  # Top 5 most relevant
+                'publications': sorted(data['publications'], key=lambda x: x['similarity'], reverse=True),  # Top 5 most relevant
                 'url_picture': self._get_author_data(name).get('url_picture', '')
             })
         
@@ -409,11 +414,22 @@ class SearchEngine:
             row = row[0]  # Get the first (and only) row
             # Get the picture URL, prioritizing url_picture_dewey if available
             url_picture = row[6] if row[6] is not None and row[6] != "" else row[5]
+            # Store the author name before potentially modifying url_picture
+            author_name = row[2]
+            
+            # Set custom profile pictures for specific authors
+            if author_name == "Liliana":
+                url_picture = "https://informatics.petra.ac.id/wp-content/uploads/2023/07/cropped-Liliana-S.T.M.Eng_.-Ph.D-scaled-1.jpg"
+            elif author_name == "Gregorius Satiabudhi":
+                url_picture = "https://informatics.petra.ac.id/wp-content/uploads/2023/07/cropped-Dr.-Gregorius-Satiabudhi-S.T.-M.T-scaled-1.jpg"
+            elif author_name == "Hans Juwiantho S.Kom":
+                url_picture = "https://informatics.petra.ac.id/wp-content/uploads/2023/07/cropped-Hans-Juwiantho-S.Kom_.-M.Kom_-scaled-1.jpg"
+            
             print(row[4])
             return {
                 'id': row[0],
                 'scholar_id': row[1],
-                'name': row[2],
+                'name': author_name,
                 'original_names': row[3],
                 'interests': row[4],
                 'url_picture': url_picture

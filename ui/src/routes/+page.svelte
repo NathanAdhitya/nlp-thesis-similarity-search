@@ -27,7 +27,7 @@
 	let query = '';
 	let loading = false;
 	let currentPage = 1;
-	let pageSize = 4;
+	let pageSize = 50;
 	let results = [];
 
 	let open = false;
@@ -162,9 +162,9 @@
             <ExpandableTile>
               <div slot="above" style="margin-bottom: 1rem">
                 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-                  {#if searchType === 'Author'}
-                    <div style="display: flex; align-items: center; gap: 1rem;">
-                      <div style="width: 60px;">
+                  {#if searchType === 'Author'}                    
+				  <div style="display: flex; align-items: center; gap: 1rem;">
+                      <div style="width: 75px;">
                         <ImageLoader
                           src="{(!result.url_picture || result.url_picture === "None")
 										        ? "https://scholar.google.com/citations/images/avatar_scholar_256.png"
