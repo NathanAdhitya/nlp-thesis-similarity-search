@@ -1,4 +1,8 @@
-# Semantica: Sistem Pencarian Semantik untuk Dosen Pembimbing Tesis
+# Semantica: Sistem Paper Semantic Search untuk Dosen Pembimbing Skripsi
+## C14220235 Veleroy Juan Andika
+## _________ Richard Kamitono
+## _________ Nathan Aditya
+## _________ Regent Wibisono
 
 ## 1. Deskripsi Umum
 
