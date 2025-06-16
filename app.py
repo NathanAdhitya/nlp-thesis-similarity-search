@@ -1,7 +1,7 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 import script
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='', static_folder='ui/build')
 CORS(app)
 @app.route('/search/<string:search_type>/<string:query>', methods=['GET'])
 def search_route(search_type, query):
@@ -53,6 +53,10 @@ def get_programs_route():
             "message": "An error occurred",
             "error": str(e)
         }), 500
+
+@app.route('/')
+def root():
+    return app.send_static_file('200.html')
 
 if __name__ == '__main__':
     app.run(debug=True)

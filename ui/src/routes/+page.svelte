@@ -55,7 +55,7 @@
 
 	$: if (model !== prevModel || topK !== prevTopK || selectedIndex !== prevSelectedIndex) {
 		showResults = false
-		query = "";
+		//query = "";
 		prevModel = model;
 		prevTopK = topK;
 		prevSelectedIndex = selectedIndex;
@@ -68,17 +68,17 @@
 		try {
 			const searchTypeLower = searchType.toLowerCase();
 			const normalizedModel = modelMap[model];
-			const url = new URL(`http://127.0.0.1:5000/search/${searchTypeLower}/${encodeURIComponent(query)}`);
-			url.searchParams.append('topK', String(topK));
-			url.searchParams.append('model', normalizedModel);
+			const searchParams = new URLSearchParams();
+			searchParams.append('topK', String(topK));
+			searchParams.append('model', normalizedModel);
 
 			if (searchType !== "Paper" && selectedProgramIds && selectedProgramIds.length > 0) {
 				for (const id of selectedProgramIds) {
-					url.searchParams.append('program_ids', id);
+					searchParams.append('program_ids', id);
 				}
 			}
 
-			const res = await fetch(url.toString());
+			const res = await fetch(`/search/${searchTypeLower}/${encodeURIComponent(query)}?${searchParams.toString()}`);
 			if (!res.ok) throw new Error('Failed to fetch data');
 
 			const json = await res.json();
@@ -99,9 +99,9 @@
 	let selectedProgramIds = [];
 	async function fetchPrograms() {
 		try {
-			const url = new URL('http://127.0.0.1:5000/programs');
+			//const url = new URL('/programs');
 
-			const res = await fetch(url.toString());
+			const res = await fetch('/programs');
 			if (!res.ok) throw new Error('Failed to fetch programs');
 
 			const json = await res.json();
