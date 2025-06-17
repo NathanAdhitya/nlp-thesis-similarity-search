@@ -424,8 +424,7 @@ class SearchEngine:
                 url_picture = "https://informatics.petra.ac.id/wp-content/uploads/2023/07/cropped-Dr.-Gregorius-Satiabudhi-S.T.-M.T-scaled-1.jpg"
             elif author_name == "Hans Juwiantho S.Kom":
                 url_picture = "https://informatics.petra.ac.id/wp-content/uploads/2023/07/cropped-Hans-Juwiantho-S.Kom_.-M.Kom_-scaled-1.jpg"
-            
-            print(row[4])
+
             return {
                 'id': row[0],
                 'scholar_id': row[1],
@@ -434,9 +433,7 @@ class SearchEngine:
                 'interests': row[4],
                 'url_picture': url_picture
             }
-            
-        print(row)
-        
+
         return {}
 
     def get_all_programs(self) -> List[Dict[str, Any]]:
@@ -494,9 +491,7 @@ class SearchEngine:
             elif model == self.allminilm:
                 return self.allminilm.encode(query)
             elif model == self.indobert:
-                print("before translation:", query)
                 query = self.translator.translate(query) if self.translator else query
-                print("after translation:", query)
                 return self.indobert.encode(query)
             else:
                 raise ValueError(f"Unsupported model: {model}")
