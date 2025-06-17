@@ -24,8 +24,10 @@
 		MultiSelect,
 		InlineLoading
 	} from 'carbon-components-svelte';
+	import { apiFetch } from '$lib/api';
 
 	let query = '';
+	let submittedQuery = '';
 	let loading = true;
 	let currentPage = 1;
 	let pageSize = 50;
@@ -48,23 +50,49 @@
 
 	let topK = 100;
 
+	let programs = [];
+	let selectedProgramIds = [];
+	async function fetchPrograms() {
+		try {
+			const res = await apiFetch('/programs');
+			if (!res.ok) throw new Error('Failed to fetch programs');
+			const json = await res.json();
+			console.log(json);
+			programs = (json.data.programs || []).map(p => ({
+				id: String(p.id),
+				text: p.name
+			}));
+		} catch (e) {
+			console.error('Error fetching programs:', e);
+			programs = [];
+		}
+	}
+
+	onMount(async () => {
+		await fetchPrograms();
+		loading = false;
+	});
+
 	let prevModel;
 	let prevTopK;
 	let prevSelectedIndex;
+	let prevSelectedProgramIds;
 	let showResults = false;
 
-	$: if (model !== prevModel || topK !== prevTopK || selectedIndex !== prevSelectedIndex) {
+	$: if (model !== prevModel || topK !== prevTopK || selectedIndex !== prevSelectedIndex || selectedProgramIds !== prevSelectedProgramIds) {
 		showResults = false
 		//query = "";
 		prevModel = model;
 		prevTopK = topK;
 		prevSelectedIndex = selectedIndex;
+		prevSelectedProgramIds = selectedProgramIds;
 	}
 
 	async function fetchResults(query) {
 		if (!query.trim()) return;
 
 		loading = true;
+		submittedQuery = query;
 		try {
 			const searchTypeLower = searchType.toLowerCase();
 			const normalizedModel = modelMap[model];
@@ -78,7 +106,7 @@
 				}
 			}
 
-			const res = await fetch(`/search/${searchTypeLower}/${encodeURIComponent(query)}?${searchParams.toString()}`);
+			const res = await apiFetch(`/search/${searchTypeLower}/${encodeURIComponent(query)}?${searchParams.toString()}`);
 			if (!res.ok) throw new Error('Failed to fetch data');
 
 			const json = await res.json();
@@ -95,31 +123,7 @@
 		showResults = true;
 	}
 
-	let programs = [];
-	let selectedProgramIds = [];
-	async function fetchPrograms() {
-		try {
-			//const url = new URL('/programs');
 
-			const res = await fetch('/programs');
-			if (!res.ok) throw new Error('Failed to fetch programs');
-
-			const json = await res.json();
-			programs = (json.data.programs || []).map(p => ({
-				id: p.id.toString(),
-				text: p.name
-			}));
-			console.log(programs)
-		} catch (e) {
-			console.error(e);
-			programs = [];
-		}
-	}
-
-	onMount(async () => {
-		await fetchPrograms();
-		loading = false;
-	});
 
 	$: paginatedResults = results.slice((currentPage - 1) * pageSize, currentPage * pageSize);
 
@@ -128,7 +132,20 @@
 		currentPage = page;
 		pageSize = newSize;
 	}
+
+	let isDev = import.meta.env.DEV;
+
+	function resetApiUrl() {
+		localStorage.removeItem('FLASK_API_BASE');
+		location.reload();
+	}
 </script>
+
+{#if isDev}
+	<Button on:click={resetApiUrl}>
+		Reset API URL
+	</Button>
+{/if}
 
 <Content>
 	<Grid>
@@ -157,85 +174,89 @@
         <Loading bind:active={loading}/>
 
         {#if showResults && !loading}
-          <h4 style="padding-top: 2.5rem; padding-bottom: 0.5rem;">Showing results for "{query}"</h4>
-          {#each paginatedResults as result, i (i)}
-            <ExpandableTile>
-              <div slot="above" style="margin-bottom: 1rem">
-                <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-                  {#if searchType === 'Author'}                    
-				  <div style="display: flex; align-items: center; gap: 1rem;">
-                      <div style="width: 75px;">
-                        <ImageLoader
-                          src="{(!result.url_picture || result.url_picture === "None")
-										        ? "https://scholar.google.com/citations/images/avatar_scholar_256.png"
-										        : result.url_picture}"
-                          alt="{result.name}"
-                          ratio="1x1"
-                          style="border-radius: 50%;"
-                        />
-                      </div>
+	        {#if results.length === 0}
+		        <p style="padding: 2rem 0; color: #999;">No results found for "{submittedQuery}". Try a different keyword or setting.</p>
+	        {:else}
+	          <h4 style="padding-top: 2.5rem; padding-bottom: 0.5rem;">Showing results for "{submittedQuery}"</h4>
+	          {#each paginatedResults as result, i (i)}
+	            <ExpandableTile>
+	              <div slot="above" style="margin-bottom: 1rem">
+	                <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+	                  {#if searchType === 'Author'}
+					            <div style="display: flex; align-items: center; gap: 1rem;">
+	                      <div style="width: 75px;">
+	                        <ImageLoader
+	                          src="{(!result.url_picture || result.url_picture === "None")
+											        ? "https://scholar.google.com/citations/images/avatar_scholar_256.png"
+											        : result.url_picture}"
+	                          alt="{result.name}"
+	                          ratio="1x1"
+	                          style="border-radius: 50%;"
+	                        />
+	                      </div>
 
-                      <div>
-                        <h4 style="margin: 0;">{result.name}</h4>
-                        <h6 style="margin: 0;">Score: {result.combined_score}</h6>
-                      </div>
-                    </div>
-	                  <div style="text-align: right;">
-		                  <h6 style="margin: 0;">{result.publication_count} related papers</h6>
-	                  </div>
-                  {:else}
+	                      <div>
+	                        <h4 style="margin: 0;">{result.name}</h4>
+	                        <h6 style="margin: 0;">Score: {result.combined_score}</h6>
+	                      </div>
+	                    </div>
+		                  <div style="text-align: right;">
+			                  <h6 style="margin: 0;">{result.publication_count} related papers</h6>
+		                  </div>
+	                  {:else}
 
-	                  <div style="display: flex; align-items: flex-start; width: 100%;">
-		                  <div style="flex: 0 0 80%; min-width: 0;">
-			                  <div style="display: flex; align-items: center; gap: 0.5rem;">
-				                  <h4 style="margin: 0; flex-grow: 1; min-width: 0;" use:truncate>{result.title}</h4>
-				                  <Button size="small" kind="tertiary" icon={JumpLink} iconDescription="Link" style="flex-shrink: 0;" on:click={() => window.open(result.url, '_blank')}/>
+		                  <div style="display: flex; align-items: flex-start; width: 100%;">
+			                  <div style="flex: 0 0 80%; min-width: 0;">
+				                  <div style="display: flex; align-items: center; gap: 0.5rem;">
+					                  <h4 style="margin: 0; flex-grow: 1; min-width: 0;" use:truncate>{result.title}</h4>
+					                  <Button size="small" kind="tertiary" icon={JumpLink} iconDescription="Link" style="flex-shrink: 0;" on:click={() => window.open(result.url, '_blank')}/>
+				                  </div>
+				                  <h6 style="margin: 0;">Distance: {result.distance}</h6>
 			                  </div>
-			                  <h6 style="margin: 0;">Distance: {result.distance}</h6>
+			                  <div style="flex: 0 0 20%; text-align: right; padding-left: 1rem;" use:truncate>
+				                  <h6 style="margin: 0;">{result.authors}</h6>
+			                  </div>
 		                  </div>
-		                  <div style="flex: 0 0 20%; text-align: right; padding-left: 1rem;" use:truncate>
-			                  <h6 style="margin: 0;">{result.authors}</h6>
-		                  </div>
-	                  </div>
 
-                  {/if}
-                </div>
-              </div>
-              <div slot="below">
-	              {#if searchType === 'Author'}
-		              {#if result.publications && result.publications.length > 0}
-			              <ul>
-				              {#each result.publications as paper, i (i)}
-					              <li>
-						              <span on:click|stopPropagation>
-													  <OutboundLink href="{paper.url}">
-													    {paper.title || paper.name || "Untitled paper"}
-													  </OutboundLink>
-													</span>
-					              </li>
-				              {/each}
-			              </ul>
+	                  {/if}
+	                </div>
+	              </div>
+	              <div slot="below">
+		              {#if searchType === 'Author'}
+			              {#if result.publications && result.publications.length > 0}
+				              <ul>
+					              {#each result.publications as paper, i (i)}
+						              <li>
+							              <span on:click|stopPropagation>
+														  <OutboundLink href="{paper.url}">
+														    {paper.title || paper.name || "Untitled paper"}
+														  </OutboundLink>
+														</span>
+						              </li>
+					              {/each}
+				              </ul>
+			              {:else}
+				              <p>No publications available.</p>
+			              {/if}
 		              {:else}
-			              <p>No publications available.</p>
+			              {#if result.abstract && result.abstract.trim() !== ""}
+				              {result.abstract}
+			              {:else}
+				              This paper has no abstract.
+			              {/if}
 		              {/if}
-	              {:else}
-		              {#if result.abstract && result.abstract.trim() !== ""}
-			              {result.abstract}
-		              {:else}
-			              This paper has no abstract.
-		              {/if}
-	              {/if}
 
-              </div>
-            </ExpandableTile>
-          {/each}
-          <Pagination
-            totalItems={results.length}
-            bind:page={currentPage}
-            bind:pageSize={pageSize}
-            pageSizes={[4, 10, 20, 50]}
-            on:change={handlePaginationChange}
-          />
+	              </div>
+	            </ExpandableTile>
+	          {/each}
+	          <Pagination
+	            totalItems={results.length}
+	            bind:page={currentPage}
+	            bind:pageSize={pageSize}
+	            pageSizes={[4, 10, 20, 50]}
+	            on:change={handlePaginationChange}
+	          />
+	        {/if}
         {/if}
 			</Column>   
 		</Row>

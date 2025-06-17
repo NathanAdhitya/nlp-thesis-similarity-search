@@ -197,3 +197,4 @@ main/sql_FAISS/database_with_vector.sql
 *.db
 data/cleaned_with_bge_m3.zip
 data/cleaned_with_bge_m3_2.zip
+!ui/src/lib/
