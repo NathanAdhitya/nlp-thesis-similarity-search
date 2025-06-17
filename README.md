@@ -1,7 +1,7 @@
 ![Semantica Logo](ui/static/logo.png)
 # Semantica: Sistem Paper Semantic Search untuk Dosen Pembimbing Skripsi
 
-## C14220235 Veleroy Juan Andika, _________ Richard Kamitono, _________ Nathan Aditya, _________ Regent Wibisono
+## C14220235 Veleroy Juan Andika, C14220267 Richard Kamitono, C14220205 Nathan Aditya, C14220294 Regent Wibisono
 
 ## 1. Deskripsi Umum
 
