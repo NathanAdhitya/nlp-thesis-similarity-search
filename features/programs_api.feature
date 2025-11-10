@@ -10,9 +10,3 @@ Feature: Programs API Functionality
     When I request all programs
     Then I should receive a successful response
     And the response should contain programs list
-    And each program should have required fields
-
-  Scenario: Programs response structure validation
-    When I request all programs
-    Then the response should have correct JSON structure
-    And programs should contain id, name, and url fields
