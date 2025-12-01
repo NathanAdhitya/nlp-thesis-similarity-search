@@ -3,9 +3,11 @@ import numpy as np
 
 search_engine = SearchEngine()
 
+
 def search(query, thesis=True, top_k=10, option="bgem3", program_ids=None):
     if thesis:
-        results = search_engine.search_thesis(query=query, top_k=top_k, option=option)
+        results = search_engine.search_thesis(
+            query=query, top_k=top_k, option=option)
     else:
         results = search_engine.search_advisor_3(
             query=query,
@@ -16,8 +18,10 @@ def search(query, thesis=True, top_k=10, option="bgem3", program_ids=None):
 
     return convert_to_json_serializable(results)
 
+
 def get_all_programs():
     return search_engine.get_all_programs()
+
 
 def convert_to_json_serializable(obj):
     if isinstance(obj, dict):
