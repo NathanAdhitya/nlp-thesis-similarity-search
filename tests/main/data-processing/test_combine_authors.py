@@ -37,7 +37,6 @@ def dummy_scholar_data(tmp_path):
     return file
 
 
-# NEW FIXTURE for the no-matches test
 @pytest.fixture
 def dummy_dewey_data_different(tmp_path):
     """Dewey data with names that won't match Scholar data"""
@@ -82,12 +81,8 @@ def test_load_canonical_data_missing(tmp_path):
     assert data == {}
 
 
-# Patch in combine_authors module
 @patch("main.data_processing.combine_authors.weighted_name_distance")
 def test_combine_author_datasets_basic(mock_distance, dummy_dewey_data, dummy_scholar_data, tmp_path):
-    """
-    Test full combination flow with mocked distance function.
-    """
     # Mock similarity distances so that only identical canonical names match
     def fake_distance(name1, name2):
         return 0.0 if name1 == name2 else 5.0
@@ -128,13 +123,9 @@ def test_combine_author_datasets_basic(mock_distance, dummy_dewey_data, dummy_sc
     assert combined_map["John S."] == "John Smith"
 
 
-# Patch in combine_authors module
 @patch("main.data_processing.combine_authors.weighted_name_distance")
 def test_combine_author_datasets_no_matches(mock_distance, dummy_dewey_data_different,
                                             dummy_scholar_data_different, tmp_path):
-    """
-    Test behavior when no names match (distance always high).
-    """
     # Force all names to be non-matching
     mock_distance.return_value = 20.0
 

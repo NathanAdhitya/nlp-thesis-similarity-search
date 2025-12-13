@@ -15,10 +15,6 @@ from main.data_processing.dewey_cleanup import (
 )
 
 
-# -----------------------------
-# extract_contributor_info
-# -----------------------------
-
 def test_extract_contributor_info_basic():
     text = "Prof. Dr. John Smith, M.T. (Advisor 1); Jane Doe, S.T., M.Sc. (Examiner)"
     result = extract_contributor_info(text)
@@ -40,10 +36,6 @@ def test_extract_contributor_info_unknown_role():
     assert result[0]['clean_name'] == "Alice Wonderland"
 
 
-# -----------------------------
-# is_advisor_role
-# -----------------------------
-
 @pytest.mark.parametrize("role,expected", [
     ("Advisor 1", True),
     ("Main Supervisor", True),
@@ -52,10 +44,6 @@ def test_extract_contributor_info_unknown_role():
 def test_is_advisor_role(role, expected):
     assert is_advisor_role(role) == expected
 
-
-# -----------------------------
-# load_thesis_data
-# -----------------------------
 
 def test_load_thesis_data(tmp_path):
     # Create dummy JSON files
@@ -77,10 +65,6 @@ def test_load_thesis_data_nonexistent(tmp_path):
     assert load_thesis_data(str(non_dir)) == []
 
 
-# -----------------------------
-# extract_advisor_names
-# -----------------------------
-
 def test_extract_advisor_names():
     thesis_data = [
         {"contributors": "John Doe (Advisor 1); Alice (Examiner)"},
@@ -92,10 +76,6 @@ def test_extract_advisor_names():
     assert all(isinstance(x, str) for x in result)
 
 
-# -----------------------------
-# levenshtein_distance
-# -----------------------------
-
 @pytest.mark.parametrize("s1,s2,expected", [
     ("kitten", "sitting", 3),
     ("flaw", "lawn", 2),
@@ -105,28 +85,16 @@ def test_levenshtein_distance(s1, s2, expected):
     assert levenshtein_distance(s1, s2) == expected
 
 
-# -----------------------------
-# keyboard_distance
-# -----------------------------
-
 def test_keyboard_distance():
     assert keyboard_distance("a", "s") < 1.1  # adjacent keys
     assert keyboard_distance("a", "p") > 5    # far apart
     assert keyboard_distance("a", "1") == 2.0  # non-keyboard char fallback
 
 
-# -----------------------------
-# standardize_name
-# -----------------------------
-
 def test_standardize_name():
     assert standardize_name("  john   doe  ") == "John Doe"
     assert standardize_name("") == ""
 
-
-# -----------------------------
-# weighted_name_distance
-# -----------------------------
 
 def test_weighted_name_distance_identical():
     assert weighted_name_distance("John Doe", "John Doe") == 0.0
@@ -141,25 +109,16 @@ def test_weighted_name_distance_empty_input():
     assert weighted_name_distance("", "John") == float("inf")
 
 
-# -----------------------------
-# cluster_names_by_similarity
-# -----------------------------
-
 def test_cluster_names_by_similarity_simple():
     names = {"John Smith", "Jon Smith", "Alice"}
     clusters = cluster_names_by_similarity(names, max_distance=2.5)
 
     assert isinstance(clusters, dict)
-    canonical_names = list(clusters.keys())
     # Expect John and Jon to be clustered
     cluster_values = sum(clusters.values(), [])
     assert "John Smith" in cluster_values
     assert "Jon Smith" in cluster_values
 
-
-# -----------------------------
-# save_canonical_clusters
-# -----------------------------
 
 def test_save_canonical_clusters(tmp_path):
     clusters = {

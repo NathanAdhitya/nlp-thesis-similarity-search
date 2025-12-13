@@ -1,10 +1,7 @@
-import io
-import os
 import json
 import csv
 import pytest
-from pathlib import Path
-from unittest.mock import patch, MagicMock
+from unittest.mock import patch
 from main.data_processing.extract_publications import (
     extract_year_from_source,
     load_merged_authors,
@@ -131,7 +128,7 @@ def test_extract_publication_data_missing_dir(tmp_path, capsys):
     assert "does not exist" in capsys.readouterr().out
 
 
-def test_extract_publication_data_bad_jsonl(tmp_path, capsys):
+def test_extract_publication_data_bad_json(tmp_path, capsys):
     pub_dir = tmp_path / "pubs"
     pub_dir.mkdir()
     f = pub_dir / "S1.jsonl"

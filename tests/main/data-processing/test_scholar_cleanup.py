@@ -1,8 +1,7 @@
-import os
 import csv
 import json
 import pytest
-from unittest.mock import patch, MagicMock
+from unittest.mock import patch
 from main.data_processing.scholar_cleanup import (
     load_scholar_authors,
     clean_scholar_name,
@@ -56,34 +55,23 @@ def test_clean_scholar_name(input_name, expected):
 @patch("main.data_processing.dewey_cleanup.weighted_name_distance", side_effect=lambda a, b: 1.0)
 def test_analyze_scholar_authors_creates_output(mock_dist, mock_cluster, mock_std, tmp_path, capsys):
     csv_file = tmp_path / "authors.csv"
-
-    # Write CSV first before any mocking
     with open(csv_file, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=["name"])
         writer.writeheader()
         writer.writerow({"name": "Alice"})
         writer.writerow({"name": "Alise"})
-
-    # Create the expected output directory
     output_dir = tmp_path / "data"
     output_dir.mkdir(exist_ok=True)
 
-    # Store the real open function
     real_open = open
 
     def selective_open(filename, mode='r', *args, **kwargs):
-        """Redirect canonical_scholar.json writes to tmp_path, let everything else through"""
         filename_str = str(filename)
-
-        # Redirect the output file to our test directory
         if 'canonical_scholar.json' in filename_str and 'w' in mode:
             redirected_path = output_dir / "canonical_scholar.json"
             return real_open(redirected_path, mode, *args, **kwargs)
         else:
-            # Let all other opens go through normally
             return real_open(filename, mode, *args, **kwargs)
-
-    # Patch open during the function call
     with patch("builtins.open", side_effect=selective_open):
         result = analyze_scholar_authors(
             str(csv_file), max_distance=2.0, save_canonical=True
@@ -95,9 +83,8 @@ def test_analyze_scholar_authors_creates_output(mock_dist, mock_cluster, mock_st
     assert "Cluster 1" in out
     assert isinstance(result, dict)
 
-    # Check the actual file was written
     canonical_file = output_dir / "canonical_scholar.json"
-    assert canonical_file.exists(), f"Expected file at: {canonical_file}"
+    assert canonical_file.exists()
 
     data = json.loads(canonical_file.read_text())
     assert data["source"] == "google_scholar"

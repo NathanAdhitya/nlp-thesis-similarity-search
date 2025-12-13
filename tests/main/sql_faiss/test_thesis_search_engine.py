@@ -10,6 +10,8 @@ def mock_model():
     mock = MagicMock()
     mock._modules = {'0': MagicMock()}
     mock._modules['0'].auto_model.config.name_or_path = "sentence-transformers/test-model"
+    mock.encode.return_value = np.array([0.1, 0.2, 0.3])
+
     return mock
 
 
@@ -27,28 +29,18 @@ def mock_cursor():
     return cursor
 
 
-def test_load_index_and_search(monkeypatch, mock_model, mock_cursor):
-    # Patch get_embedding WHERE IT'S USED, not where it's defined
-    monkeypatch.setattr(
-        "main.sql_faiss.thesis_search_engine.get_embedding",  # Changed this line
-        lambda text, model: [0.1, 0.2, 0.3]
-    )
-
-    # Initialize and load FAISS index
+def test_load_index_and_search(mock_model, mock_cursor):
     search_engine = ThesisSimilaritySearch(model=mock_model)
-    index = search_engine.load_index(mock_cursor)
+    search_engine.load_index(mock_cursor)
 
-    # Check index integrity
-    assert index is not None
+    assert search_engine.index is not None
     assert search_engine.index.ntotal == 1
     assert search_engine.paper_ids == ["p1"]
-
     metadata = search_engine.paper_metadata["p1"]
     assert metadata["title"] == "Title A"
     assert metadata["authors"] == ["Author A"]
     assert metadata["contributors"][0]["name"] == "Contributor A"
 
-    # Search results
     results = search_engine.search("test query", top_k=1)
     assert isinstance(results, list)
     assert len(results) == 1
@@ -60,13 +52,7 @@ def test_load_index_and_search(monkeypatch, mock_model, mock_cursor):
     assert isinstance(result["distance"], float)
 
 
-def test_load_and_reload(monkeypatch, mock_model, mock_cursor):
-    monkeypatch.setattr(
-        "main.sql_faiss.thesis_search_engine.get_embedding",  # Changed this line
-        lambda text, model: [0.1, 0.2, 0.3]
-    )
-
-    # Reset side_effect for multiple loads
+def test_load_and_reload(mock_model, mock_cursor):
     embedding = np.array([0.1, 0.2, 0.3]).tolist()
     mock_cursor.fetchall.side_effect = [
         # First load
@@ -84,21 +70,14 @@ def test_load_and_reload(monkeypatch, mock_model, mock_cursor):
     assert isinstance(loaded, ThesisSimilaritySearch)
     assert engine.search_engine is loaded
 
-    # Cached load (should not rebuild)
     cached = engine.load()
     assert cached is loaded
 
-    # Force reload
     reloaded = engine.reload()
     assert isinstance(reloaded, ThesisSimilaritySearch)
 
 
-def test_search_by_people_and_topic(monkeypatch, mock_model, mock_cursor):
-    monkeypatch.setattr(
-        "main.sql_faiss.thesis_search_engine.get_embedding",  # Changed this line
-        lambda text, model: [0.1, 0.2, 0.3]
-    )
-
+def test_search_by_people_and_topic(mock_model, mock_cursor):
     embedding = np.array([0.1, 0.2, 0.3]).tolist()
     mock_cursor.fetchall.side_effect = [
         [("p1", "Title A", "Abstract A", json.dumps(embedding))],
@@ -110,6 +89,7 @@ def test_search_by_people_and_topic(monkeypatch, mock_model, mock_cursor):
     engine.load()
 
     # Mock internal search to return multiple fake results
+    assert engine.search_engine is not None
     engine.search_engine.search = MagicMock(return_value=[
         {
             "id": "p1",

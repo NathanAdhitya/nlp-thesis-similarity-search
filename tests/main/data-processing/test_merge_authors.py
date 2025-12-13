@@ -1,7 +1,5 @@
-import os
 import csv
 import json
-import pytest
 from unittest.mock import patch
 from main.data_processing.merge_authors import (
     load_scholar_authors,

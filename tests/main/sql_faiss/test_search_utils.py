@@ -1,16 +1,11 @@
-import json
 import pytest
+import numpy as np
 from unittest.mock import MagicMock
 from main.sql_faiss.search_utils import (
     get_embedding,
     print_formatted_results,
     update_embeddings_in_batches,
 )
-
-
-class FakeVector(list):
-    def tolist(self):
-        return list(self)
 
 
 def test_get_embedding_returns_none_for_empty_or_none():
@@ -22,15 +17,11 @@ def test_get_embedding_returns_none_for_empty_or_none():
 
 def test_get_embedding_returns_encoded_list():
     mock_model = MagicMock()
-    mock_model.encode.return_value = FakeVector([0.1, 0.2, 0.3])
+    mock_model.encode.return_value = np.array([0.1, 0.2, 0.3])
     result = get_embedding("hello", mock_model)
     assert result == [0.1, 0.2, 0.3]
     mock_model.encode.assert_called_once_with("hello")
 
-
-# ---------------------------------------------------------------------------
-# print_formatted_results
-# ---------------------------------------------------------------------------
 
 @pytest.fixture
 def sample_results():
@@ -120,10 +111,6 @@ def test_print_formatted_results_truncates_long_abstract(capsys):
     assert len(output) < 500
 
 
-# ---------------------------------------------------------------------------
-# update_embeddings_in_batches
-# ---------------------------------------------------------------------------
-
 def test_update_embeddings_in_batches_with_no_papers(capsys):
     mock_model = MagicMock()
     mock_cursor = MagicMock()
@@ -138,7 +125,7 @@ def test_update_embeddings_in_batches_with_no_papers(capsys):
 
 def test_update_embeddings_in_batches_processes_batches(capsys):
     mock_model = MagicMock()
-    mock_model.encode.return_value = FakeVector([0.1, 0.2, 0.3])
+    mock_model.encode.return_value = np.array([0.1, 0.2, 0.3])
 
     mock_cursor = MagicMock()
     mock_cursor.fetchall.return_value = [
