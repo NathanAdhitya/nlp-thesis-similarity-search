@@ -9,6 +9,7 @@ flask-cors
 deep-translator
 gdown
 faiss-cpu
+tf-keras
 
 # TDD dependencies
 pytest==8.4.1

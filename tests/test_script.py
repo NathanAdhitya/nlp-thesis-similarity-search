@@ -1,13 +1,17 @@
 import pytest
 import numpy as np
-from unittest.mock import patch
+from unittest.mock import patch, MagicMock
 
 
 @pytest.fixture
 def mock_engine():
-    """Patch SearchEngine inside script.py so all tests use a mock."""
-    with patch("script.search_engine") as mock:
-        yield mock
+    with patch("main.main.search_engine.SearchEngine") as MockSearchEngineClass:
+        mock_instance = MagicMock()
+        MockSearchEngineClass.return_value = mock_instance
+
+        # Import script ahead of time to prevent huggingface downloading anything
+        import script
+        yield mock_instance
 
 
 def test_search_thesis(mock_engine):
@@ -25,6 +29,7 @@ def test_search_thesis(mock_engine):
         option="bgem3"
     )
 
+    assert isinstance(result, dict)
     assert result["score"] == pytest.approx(0.95, abs=1e-2)
     assert result["items"][0]["id"] == 10
 
@@ -67,6 +72,7 @@ def test_convert_to_json_serializable_nested():
 
     result = script.convert_to_json_serializable(data)
 
+    assert isinstance(result, dict)
     assert result["a"] == pytest.approx(1.2, abs=1e-5)
     assert result["b"][1]["c"] == pytest.approx(3.14, abs=1e-5)
 
