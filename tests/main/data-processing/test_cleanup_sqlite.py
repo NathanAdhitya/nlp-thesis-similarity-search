@@ -1,21 +1,8 @@
-import os
-import sqlite3
 import pandas as pd
-import pytest
 from main.data_processing import cleanup_sqlite
 
 
-@pytest.fixture
-def temp_db(tmp_path):
-    db_path = tmp_path / "test.db"
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
-    yield conn, cursor
-    conn.close()
-
-
 def test_create_database(tmp_path, monkeypatch):
-    db_path = tmp_path / "nlp-thesis-similarity-cleaned.db"
     monkeypatch.setattr(cleanup_sqlite, "os", cleanup_sqlite.os)
     monkeypatch.setattr(cleanup_sqlite.os.path, "exists", lambda p: False)
     monkeypatch.setattr(cleanup_sqlite, "sqlite3", cleanup_sqlite.sqlite3)
@@ -29,17 +16,14 @@ def test_create_database(tmp_path, monkeypatch):
 
 
 def test_load_users(tmp_path, monkeypatch):
-    merged_authors = tmp_path / "merged_authors.csv"
     df = pd.DataFrame([
         {"dewey_id": 1, "scholar_id": "s1", "name": "Alice",
             "original_names": "A. Smith", "interests": "AI", "url_picture": "pic1.jpg"},
         {"dewey_id": 2, "scholar_id": "s2", "name": "Bob",
             "original_names": "B. Doe", "interests": "ML", "url_picture": "pic2.jpg"}
     ])
-    df.to_csv(merged_authors, index=False)
-
-    conn, cursor = cleanup_sqlite.create_database()
     monkeypatch.setattr(cleanup_sqlite.pd, "read_csv", lambda _: df)
+    conn, cursor = cleanup_sqlite.create_database()
 
     cleanup_sqlite.load_users(cursor, conn)
 
@@ -50,17 +34,14 @@ def test_load_users(tmp_path, monkeypatch):
 
 
 def test_load_dewey_publications(tmp_path, monkeypatch):
-    cleaned_dewey = tmp_path / "cleaned_dewey.csv"
     df = pd.DataFrame([
         {"dewey_thesis_id": "123", "year": 2020, "title": "Paper1",
          "abstract": "Abstract1", "dewey_ids": "1;2"},
         {"dewey_thesis_id": "124", "year": 2021, "title": "Paper2",
          "abstract": "Abstract2", "dewey_ids": ""}
     ])
-    df.to_csv(cleaned_dewey, index=False)
-
-    conn, cursor = cleanup_sqlite.create_database()
     monkeypatch.setattr(cleanup_sqlite.pd, "read_csv", lambda _: df)
+    conn, cursor = cleanup_sqlite.create_database()
 
     cleanup_sqlite.load_dewey_publications(cursor, conn)
 
@@ -77,9 +58,6 @@ def test_load_dewey_publications(tmp_path, monkeypatch):
 
 
 def test_load_scholar_publications(tmp_path, monkeypatch):
-    merged_authors = tmp_path / "merged_authors.csv"
-    cleaned_publications = tmp_path / "cleaned_publications.csv"
-
     authors_df = pd.DataFrame([
         {"dewey_id": 1, "scholar_id": "s1"},
         {"dewey_id": 2, "scholar_id": "s2"}
@@ -89,11 +67,6 @@ def test_load_scholar_publications(tmp_path, monkeypatch):
          "url": "url1", "scholar_ids": "s1;s3"}
     ])
 
-    authors_df.to_csv(merged_authors, index=False)
-    publications_df.to_csv(cleaned_publications, index=False)
-
-    conn, cursor = cleanup_sqlite.create_database()
-
     def fake_read_csv(path):
         path = str(path)
         if "merged_authors" in path:
@@ -101,8 +74,8 @@ def test_load_scholar_publications(tmp_path, monkeypatch):
         if "cleaned_publications" in path:
             return publications_df
         raise ValueError("Unexpected path: " + path)
-
     monkeypatch.setattr(cleanup_sqlite.pd, "read_csv", fake_read_csv)
+    conn, cursor = cleanup_sqlite.create_database()
 
     cleanup_sqlite.load_scholar_publications(cursor, conn)
 
