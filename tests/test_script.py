@@ -6,21 +6,21 @@ import sys
 
 @pytest.fixture(autouse=True)
 def mock_search_engine():
-    if 'script' in sys.modules:
-        del sys.modules['script']
+    if 'src.api_wrapper' in sys.modules:
+        del sys.modules['src.api_wrapper']
 
-    with patch("main.main.search_engine.SearchEngine") as MockClass:
+    with patch("src.search_engine.SearchEngine") as MockClass:
         mock_instance = MagicMock()
         MockClass.return_value = mock_instance
 
-        import script
+        from src import api_wrapper as script
         script.search_engine = mock_instance
 
         yield mock_instance
 
 
 def test_search_thesis(mock_search_engine):
-    import script
+    from src import api_wrapper as script
 
     mock_search_engine.search_thesis.return_value = {
         "score": np.float32(0.95),
@@ -41,7 +41,7 @@ def test_search_thesis(mock_search_engine):
 
 
 def test_search_advisor(mock_search_engine):
-    import script
+    from src import api_wrapper as script
 
     mock_search_engine.search_advisor_3.return_value = [
         {"advisor_id": np.int32(5), "score": np.float64(0.88)}
@@ -61,7 +61,7 @@ def test_search_advisor(mock_search_engine):
 
 
 def test_get_all_programs(mock_search_engine):
-    import script
+    from src import api_wrapper as script
 
     mock_search_engine.get_all_programs.return_value = ["A", "B", "C"]
 
@@ -72,7 +72,7 @@ def test_get_all_programs(mock_search_engine):
 
 
 def test_convert_to_json_serializable_nested():
-    import script
+    from src import api_wrapper as script
 
     data = {
         "a": np.float32(1.2),

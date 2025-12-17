@@ -1,9 +1,6 @@
 import time
 from locust import HttpUser, User, task, between, tag, TaskSet
 
-
-
-
 def create_task(model: str):
     search_query: str = "Computer Networking"
     top_k: int = 100
