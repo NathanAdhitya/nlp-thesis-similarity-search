@@ -1,4 +1,4 @@
-transformers==4.51.3
+transformers==4.57.3
 sentence-transformers
 pandas
 hf_xet
@@ -8,6 +8,8 @@ sqlite-vec
 flask-cors
 deep-translator
 gdown
+faiss-cpu
+tf-keras
 
 # TDD dependencies
 pytest==8.4.1

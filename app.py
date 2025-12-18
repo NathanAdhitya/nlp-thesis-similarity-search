@@ -1,8 +1,10 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
-import script
+from src import api_wrapper as script
+from config.settings import API_HOST, API_PORT, CORS_ORIGINS
+
 app = Flask(__name__, static_url_path='', static_folder='ui/build')
-CORS(app)
+CORS(app, origins=CORS_ORIGINS)
 @app.route('/search/<string:search_type>/<string:query>', methods=['GET'])
 def search_route(search_type, query):
     try:
@@ -59,4 +61,4 @@ def root():
     return app.send_static_file('200.html')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host=API_HOST, port=API_PORT, debug=True)
